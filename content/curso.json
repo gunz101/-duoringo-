@@ -1,0 +1,188 @@
+{
+  "version": "1.0.0",
+  "title": "Curso de Japonês Mirage",
+  "titleJp": "日本語コース",
+  "tagline": "Do kana ao N3, por marcos de domínio: sem datas, sem prazo.",
+  "units": [
+    { "id": "U0", "name": "Unidade 0 · Antes de começar", "level": "Kana", "book": "Genki I · sistema de escrita, あいさつ, すうじ",
+      "aulas": [
+        { "id": "00-1", "title": "Os sons do japonês e o hiragana", "points": ["mora e ritmo", "5 vogais", "as 46 letras básicas", "dakuten e handakuten", "combinações (きゃ…)", "っ e vogais longas", "noção de pitch"] },
+        { "id": "00-2", "title": "Katakana e palavras estrangeiras", "points": ["katakana básico", "ー (vogal longa)", "ッ", "combinações novas (ティ, ファ…)", "como o português vira katakana"] },
+        { "id": "00-3", "title": "Cumprimentos e números 0–100", "points": ["あいさつ do dia", "すみません / どうも / ありがとう", "はじめまして・よろしく", "números 0–100"] }
+      ] },
+    { "id": "G1-L01", "name": "Genki I · Lição 1 · あたらしいともだち", "level": "N5", "book": "Genki I · Lição 1", "lesson": 1,
+      "aulas": [
+        { "id": "01-1", "title": "Eu sou…", "points": ["X は Y です", "〜か", "N₁ の N₂"], "gc": ["1-1", "1-2", "1-3"] },
+        { "id": "01-2", "title": "Horas, telefone e idade", "points": ["〜じ / 〜じはん", "números de telefone", "〜さい", "〜ねんせい", "いま なんじですか"] }
+      ] },
+    { "id": "G1-L02", "name": "Genki I · Lição 2 · かいもの", "level": "N5", "book": "Genki I · Lição 2", "lesson": 2,
+      "aulas": [
+        { "id": "02-1", "title": "Isto, esse, aquele", "points": ["これ・それ・あれ・どれ", "この・その・あの・どの + N", "ここ・そこ・あそこ・どこ", "だれの"], "gc": ["2-1", "2-2", "2-3", "2-4"] },
+        { "id": "02-2", "title": "Fazendo compras", "points": ["〜えん", "いくら", "números até 100.000", "〜を ください", "〜を おねがいします"] },
+        { "id": "02-3", "title": "Também, não é, né?", "points": ["N も", "N じゃないです", "〜ね / 〜よ"], "gc": ["2-5", "2-6", "2-7"] }
+      ] },
+    { "id": "G1-L03", "name": "Genki I · Lição 3 · デートの約束", "level": "N5", "book": "Genki I · Lição 3", "lesson": 3,
+      "aulas": [
+        { "id": "03-1", "title": "Verbos: presente educado", "points": ["verbos る, う e irregulares", "〜ます / 〜ません"], "gc": ["3-1", "3-2"] },
+        { "id": "03-2", "title": "Partículas de ação", "points": ["を", "で (lugar da ação)", "に / へ (destino)", "は como tópico e contraste", "ordem da frase"], "gc": ["3-3", "3-4", "3-8"] },
+        { "id": "03-3", "title": "Quando e com que frequência", "points": ["に com horários e dias", "palavras de tempo sem に", "advérbios de frequência", "〜ませんか (convite)"], "gc": ["3-5", "3-6", "3-7"] }
+      ] },
+    { "id": "G1-L04", "name": "Genki I · Lição 4 · はじめてのデート", "level": "N5", "book": "Genki I · Lição 4", "lesson": 4,
+      "aulas": [
+        { "id": "04-1", "title": "Existir e onde fica", "points": ["あります / います", "palavras de lugar (うえ, した, なか…)", "N は 〜に あります"], "gc": ["4-1", "4-2"] },
+        { "id": "04-2", "title": "O passado educado", "points": ["でした / じゃなかったです", "〜ました / 〜ませんでした"], "gc": ["4-3", "4-4"] },
+        { "id": "04-3", "title": "E, com, também, muito", "points": ["N と N", "N と (com alguém)", "も depois de outras partículas", "〜じかん", "たくさん"], "gc": ["4-5", "4-6", "4-7", "4-8"] },
+        { "id": "M-1", "title": "Marco 1 · metade do Genki I", "points": ["revisão L1–4", "autoteste com gabarito", "apresentação de 1 minuto"], "milestone": true }
+      ] },
+    { "id": "G1-L05", "name": "Genki I · Lição 5 · おきなわりょこう", "level": "N5", "book": "Genki I · Lição 5", "lesson": 5,
+      "aulas": [
+        { "id": "05-1", "title": "Adjetivos い e な", "points": ["adjetivos い", "adjetivos な", "presente afirmativo e negativo", "adjetivo + substantivo"], "gc": ["5-1", "5-2"] },
+        { "id": "05-2", "title": "Adjetivos no passado · gostar", "points": ["passado dos adjetivos", "すき(な) / きらい(な)"], "gc": ["5-3", "5-4"] },
+        { "id": "05-3", "title": "Vamos! · contando coisas", "points": ["〜ましょう / 〜ましょうか", "ひとつ, ふたつ… e contadores", "graus: とても, ちょっと, ぜんぜん"], "gc": ["5-5", "5-6", "5-7"] }
+      ] },
+    { "id": "G1-L06", "name": "Genki I · Lição 6 · ロバートさんの一日", "level": "N5", "book": "Genki I · Lição 6", "lesson": 6,
+      "aulas": [
+        { "id": "06-1", "title": "A forma て", "points": ["formação: verbos る", "formação: verbos う (って, んで, いて, して…)", "irregulares して / きて / いって"], "gc": ["6-1"] },
+        { "id": "06-2", "title": "Pedir e encadear ações", "points": ["〜てください", "ação て ação (e depois)"], "gc": ["6-2", "6-5"] },
+        { "id": "06-3", "title": "Pode / não pode", "points": ["〜てもいいです", "〜てはいけません"], "gc": ["6-3", "6-4"] },
+        { "id": "06-4", "title": "Porque · posso ajudar?", "points": ["〜から (porque)", "〜ましょうか (oferecer ajuda)"], "gc": ["6-6", "6-7"] }
+      ] },
+    { "id": "G1-L07", "name": "Genki I · Lição 7 · かぞくのしゃしん", "level": "N5", "book": "Genki I · Lição 7", "lesson": 7,
+      "aulas": [
+        { "id": "07-1", "title": "〜ている", "points": ["ação em progresso", "estado resultante (けっこんしている, すんでいる…)"], "gc": ["7-1", "7-2"] },
+        { "id": "07-2", "title": "Descrevendo pessoas", "points": ["N は X が Adj (かみが ながい)", "unir descrições com くて / で"], "gc": ["7-3", "7-4"] },
+        { "id": "07-3", "title": "Ir fazer · contar pessoas", "points": ["radical + に いく / くる / かえる", "ひとり, ふたり, 〜にん"], "gc": ["7-5", "7-6"] }
+      ] },
+    { "id": "G1-L08", "name": "Genki I · Lição 8 · バーベキュー", "level": "N5", "book": "Genki I · Lição 8", "lesson": 8,
+      "aulas": [
+        { "id": "08-1", "title": "Formas curtas (presente)", "points": ["forma de dicionário e ない", "adjetivos e substantivos na forma curta", "fala casual"], "gc": ["8-1", "8-2"] },
+        { "id": "08-2", "title": "Citar e opinar", "points": ["〜と おもいます", "〜と いっていました"], "gc": ["8-3", "8-4"] },
+        { "id": "08-3", "title": "Não faça · gosto de fazer · algo/nada", "points": ["〜ないでください", "verbo + のが すき / じょうず", "が (mas)", "なにか / なにも"], "gc": ["8-5", "8-6", "8-7", "8-8"] },
+        { "id": "M-2", "title": "Marco 2 · dois terços do Genki I", "points": ["revisão L5–8", "autoteste com gabarito", "relato de um dia"], "milestone": true }
+      ] },
+    { "id": "G1-L09", "name": "Genki I · Lição 9 · かぶき", "level": "N5", "book": "Genki I · Lição 9", "lesson": 9,
+      "aulas": [
+        { "id": "09-1", "title": "Formas curtas (passado)", "points": ["た / なかった", "fala casual no passado", "と おもう / と いっていた com passado"], "gc": ["9-1", "9-2", "9-3"] },
+        { "id": "09-2", "title": "Frases que descrevem substantivos", "points": ["oração + substantivo (めがねを かけている ひと)"], "gc": ["9-4"] },
+        { "id": "09-3", "title": "Já / ainda não · porque", "points": ["もう 〜ました", "まだ 〜ていません", "〜から com forma curta"], "gc": ["9-5", "9-6"] }
+      ] },
+    { "id": "G1-L10", "name": "Genki I · Lição 10 · ふゆやすみのよてい", "level": "N5", "book": "Genki I · Lição 10", "lesson": 10,
+      "aulas": [
+        { "id": "10-1", "title": "Comparar", "points": ["A のほうが B より", "どちらが", "〜の なかで 〜が いちばん"], "gc": ["10-1", "10-2"] },
+        { "id": "10-2", "title": "O que + intenção", "points": ["adjetivo/substantivo + の (\"o vermelho\")", "〜つもりだ"], "gc": ["10-3", "10-4"] },
+        { "id": "10-3", "title": "Mudar · algum lugar · meio", "points": ["〜くなる / 〜になる", "どこかに / どこにも", "で (meio de transporte)", "〜かかります"], "gc": ["10-5", "10-6", "10-7"] }
+      ] },
+    { "id": "G1-L11", "name": "Genki I · Lição 11 · やすみのあと", "level": "N5", "book": "Genki I · Lição 11", "lesson": 11,
+      "aulas": [
+        { "id": "11-1", "title": "Querer fazer · listar ações", "points": ["〜たい", "〜たり 〜たりする"], "gc": ["11-1", "11-2"] },
+        { "id": "11-2", "title": "Experiência e listas", "points": ["〜ことが ある", "A や B"], "gc": ["11-3", "11-4"] }
+      ] },
+    { "id": "G1-L12", "name": "Genki I · Lição 12 · びょうき", "level": "N5", "book": "Genki I · Lição 12", "lesson": 12,
+      "aulas": [
+        { "id": "12-1", "title": "Explicar · demais", "points": ["〜んです", "〜すぎる"], "gc": ["12-1", "12-2"] },
+        { "id": "12-2", "title": "Conselho · porque", "points": ["〜ほうが いいです", "〜ので"], "gc": ["12-3", "12-4"] },
+        { "id": "12-3", "title": "Obrigação · provavelmente", "points": ["〜なければいけません / 〜なきゃ", "〜でしょう"], "gc": ["12-5", "12-6"] },
+        { "id": "M-3", "title": "Marco 3 · N5 (fim do Genki I)", "points": ["revisão L1–12", "simulado curto com gabarito", "conversa de 3 minutos"], "milestone": true }
+      ] },
+    { "id": "G2-L13", "name": "Genki II · Lição 13 · アルバイト探し", "level": "N4", "book": "Genki II · Lição 13", "lesson": 13,
+      "aulas": [
+        { "id": "13-1", "title": "Poder fazer", "points": ["verbos potenciais (られる / える)"] },
+        { "id": "13-2", "title": "E além disso · parece", "points": ["〜し 〜し", "〜そうです (aparência)"] },
+        { "id": "13-3", "title": "Experimentar · se for · frequência", "points": ["〜てみる", "なら", "一週間に三回"] }
+      ] },
+    { "id": "G2-L14", "name": "Genki II · Lição 14 · バレンタインデー", "level": "N4", "book": "Genki II · Lição 14", "lesson": 14,
+      "aulas": [
+        { "id": "14-1", "title": "Querer coisas · talvez", "points": ["ほしい", "〜かもしれません"] },
+        { "id": "14-2", "title": "Dar e receber", "points": ["あげる", "くれる", "もらう"] },
+        { "id": "14-3", "title": "Sugerir · quantidade", "points": ["〜たらどうですか", "número + も", "número + しか〜ない"] }
+      ] },
+    { "id": "G2-L15", "name": "Genki II · Lição 15 · 長野旅行", "level": "N4", "book": "Genki II · Lição 15", "lesson": 15,
+      "aulas": [
+        { "id": "15-1", "title": "Vamos! (casual) e planos", "points": ["forma volitiva", "volitiva + と思っています"] },
+        { "id": "15-2", "title": "Deixar pronto · descrever mais", "points": ["〜ておく", "orações que qualificam substantivos (II)"] }
+      ] },
+    { "id": "G2-L16", "name": "Genki II · Lição 16 · 忘れ物", "level": "N4", "book": "Genki II · Lição 16", "lesson": 16,
+      "aulas": [
+        { "id": "16-1", "title": "Favores", "points": ["〜てあげる", "〜てくれる", "〜てもらう"] },
+        { "id": "16-2", "title": "Pedir com educação · desejar", "points": ["〜ていただけませんか", "〜といいですね / 〜といいんですが"] },
+        { "id": "16-3", "title": "Quando · desculpas", "points": ["〜とき", "〜てすみませんでした"] },
+        { "id": "M-4", "title": "Marco 4 · primeira metade do Genki II", "points": ["revisão L13–16", "autoteste com gabarito", "pedir um favor em 1 minuto"], "milestone": true }
+      ] },
+    { "id": "G2-L17", "name": "Genki II · Lição 17 · ぐちとうわさ話", "level": "N4", "book": "Genki II · Lição 17", "lesson": 17,
+      "aulas": [
+        { "id": "17-1", "title": "Ouvi dizer", "points": ["〜そうです (boato)", "〜って"] },
+        { "id": "17-2", "title": "Se/quando · não precisa", "points": ["〜たら", "〜なくてもいいです"] },
+        { "id": "17-3", "title": "Parece que · antes/depois", "points": ["〜みたいです", "〜前に", "〜てから"] }
+      ] },
+    { "id": "G2-L18", "name": "Genki II · Lição 18 · ジョンさんのアルバイト", "level": "N4", "book": "Genki II · Lição 18", "lesson": 18,
+      "aulas": [
+        { "id": "18-1", "title": "Transitivo × intransitivo", "points": ["pares 開ける/開く, 入れる/入る…", "〜ている com intransitivos"] },
+        { "id": "18-2", "title": "Acabar fazendo", "points": ["〜てしまう (completar / arrepender-se)", "〜ちゃう"] },
+        { "id": "18-3", "title": "Sempre que · enquanto · devia ter", "points": ["〜と", "〜ながら", "〜ばよかったです"] }
+      ] },
+    { "id": "G2-L19", "name": "Genki II · Lição 19 · 出迎え", "level": "N4", "book": "Genki II · Lição 19", "lesson": 19,
+      "aulas": [
+        { "id": "19-1", "title": "Linguagem honorífica", "points": ["verbos honoríficos especiais", "お〜になる", "お〜ください"] },
+        { "id": "19-2", "title": "Gratidão e expectativa", "points": ["〜てくれてありがとう", "〜てよかったです", "〜はずです"] }
+      ] },
+    { "id": "G2-L20", "name": "Genki II · Lição 20 · メアリーさんの買い物", "level": "N4", "book": "Genki II · Lição 20", "lesson": 20,
+      "aulas": [
+        { "id": "20-1", "title": "Linguagem humilde", "points": ["verbos humildes especiais", "お〜する", "expressões extra-modestas"] },
+        { "id": "20-2", "title": "Sem fazer · perguntas dentro da frase", "points": ["〜ないで", "〜か (pergunta embutida)", "〜かどうか"] },
+        { "id": "20-3", "title": "Chamado de · fácil/difícil de", "points": ["〜という N", "〜やすい / 〜にくい"] }
+      ] },
+    { "id": "G2-L21", "name": "Genki II · Lição 21 · どろぼう", "level": "N4", "book": "Genki II · Lição 21", "lesson": 21,
+      "aulas": [
+        { "id": "21-1", "title": "A voz passiva", "points": ["formação da passiva", "passiva de incômodo"] },
+        { "id": "21-2", "title": "Está feito · durante · quero que você", "points": ["〜てある", "〜間に", "adjetivo + する", "〜てほしい"] }
+      ] },
+    { "id": "G2-L22", "name": "Genki II · Lição 22 · 日本の教育", "level": "N4", "book": "Genki II · Lição 22", "lesson": 22,
+      "aulas": [
+        { "id": "22-1", "title": "Causativo", "points": ["formação: させる / せる", "fazer/deixar alguém fazer", "〜させてあげる / 〜させてくれる"] },
+        { "id": "22-2", "title": "Ordens · se · apesar de · como", "points": ["radical + なさい", "〜ば", "〜のに", "〜のような / 〜のように"] }
+      ] },
+    { "id": "G2-L23", "name": "Genki II · Lição 23 · 別れ", "level": "N4", "book": "Genki II · Lição 23", "lesson": 23,
+      "aulas": [
+        { "id": "23-1", "title": "Ser obrigado a · mesmo que", "points": ["causativo-passivo", "〜ても"] },
+        { "id": "23-2", "title": "Decidir · até · jeito de", "points": ["〜ことにする", "〜ことにしている", "〜まで", "〜方"] },
+        { "id": "M-5", "title": "Marco 5 · N4 (fim do Genki II)", "points": ["revisão L13–23", "simulado curto com gabarito", "contar uma história de 3 minutos"], "milestone": true }
+      ] },
+    { "id": "P-N3", "name": "Ponte N3 · depois do Genki", "level": "N3", "book": "Pós-Genki (sem livro-base; referências em cada aula)",
+      "aulas": [
+        { "id": "P-01", "title": "Passar a conseguir · procurar fazer", "points": ["〜ようになる", "〜ようにする"] },
+        { "id": "P-02", "title": "Ficou decidido", "points": ["〜ことになる", "〜ことにする (contraste)"] },
+        { "id": "P-03", "title": "Para (propósito)", "points": ["〜ために", "〜ように"] },
+        { "id": "P-04", "title": "Os quatro \"parece\"", "points": ["〜そうだ", "〜ようだ", "〜みたいだ", "〜らしい"] },
+        { "id": "P-05", "title": "O momento da ação", "points": ["〜るところ / 〜ているところ / 〜たところ", "〜たばかり"] },
+        { "id": "P-06", "title": "Enquanto ainda · durante", "points": ["〜うちに", "〜間 / 〜間に", "〜最中に"] },
+        { "id": "P-07", "title": "Não é que… · não tem como", "points": ["〜わけだ", "〜わけではない", "〜わけがない", "〜はずがない"] },
+        { "id": "P-08", "title": "Quanto mais…", "points": ["〜ば〜ほど", "〜ほど / 〜くらい (grau)"] },
+        { "id": "P-09", "title": "Partículas compostas", "points": ["〜について", "〜に対して", "〜によって", "〜として"] },
+        { "id": "P-10", "title": "Graças a · por culpa de", "points": ["〜おかげで", "〜せいで"] },
+        { "id": "P-11", "title": "Pedir permissão com o causativo", "points": ["〜させてください", "〜させていただきます"] },
+        { "id": "P-12", "title": "Keigo no dia a dia", "points": ["na loja", "ao telefone", "e-mail curto"] },
+        { "id": "P-13", "title": "Conectores de texto", "points": ["しかし", "それで / だから", "つまり", "ところで", "それに"] },
+        { "id": "P-14", "title": "Até mesmo · justamente", "points": ["〜さえ", "〜こそ", "〜でも (até)"] },
+        { "id": "P-15", "title": "Tendência", "points": ["〜っぽい", "〜がち", "〜気味"] },
+        { "id": "P-16", "title": "A fala real (contrações)", "points": ["〜ちゃう / 〜じゃう", "〜とく", "〜てる", "〜なきゃ / 〜なくちゃ", "〜じゃん"] },
+        { "id": "P-17", "title": "Onomatopeias", "points": ["擬音語 (sons)", "擬態語 (estados)", "as mais usadas no dia a dia"] },
+        { "id": "P-18", "title": "Estilo escrito e leitura", "points": ["〜である", "estratégias de leitura (NHK Easy)"] },
+        { "id": "P-19", "title": "Não posso deixar de · não é que não", "points": ["〜わけにはいかない", "〜ないことはない"] },
+        { "id": "P-20", "title": "Assim que · mal", "points": ["〜たとたん", "〜次第"] },
+        { "id": "P-21", "title": "Kanji para a vida toda", "points": ["radicais", "on'yomi e kun'yomi", "método de estudo contínuo"] },
+        { "id": "P-22", "title": "Pronúncia natural", "points": ["pitch accent", "entonação de frase", "shadowing avançado"] },
+        { "id": "M-6", "title": "Marco 6 · Ponte N3", "points": ["autoavaliação", "como seguir (livros intermediários, JLPT opcional)"], "milestone": true }
+      ] },
+    { "id": "V", "name": "Trilha Viagem · japonês para o Japão", "level": "N5+", "book": "Situações reais (paralela ao curso, a partir da Aula 06-4)",
+      "aulas": [
+        { "id": "V-01", "title": "Aeroporto e imigração", "points": ["perguntas do guichê", "motivo e tempo de estadia", "achar a saída/o trem"] },
+        { "id": "V-02", "title": "Trem, metrô e IC card", "points": ["comprar/recarregar", "perguntar a plataforma", "avisos da estação"] },
+        { "id": "V-03", "title": "Hotel e ryokan", "points": ["check-in", "pedidos no quarto", "regras do ryokan"] },
+        { "id": "V-04", "title": "Restaurante e izakaya", "points": ["quantas pessoas", "pedir", "restrições", "pagar"] },
+        { "id": "V-05", "title": "Konbini e compras", "points": ["frases do caixa", "sacola, esquentar, recibo", "tax-free"] },
+        { "id": "V-06", "title": "Pedir direções", "points": ["onde fica", "direita/esquerda/reto", "entender a resposta"] },
+        { "id": "V-07", "title": "Farmácia, saúde e emergência", "points": ["sintomas", "farmácia", "polícia/ambulância"] },
+        { "id": "V-08", "title": "Templos, santuários e onsen", "points": ["etiqueta no santuário", "no templo", "regras do onsen"] }
+      ] }
+  ]
+}

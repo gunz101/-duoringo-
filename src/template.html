@@ -1,0 +1,469 @@
+<!doctype html>
+<html lang="pt-BR">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Curso de Japonês Mirage · 日本語コース</title>
+<style>
+  :root{
+    --bg:#0f1115; --bg2:#171a21; --bg3:#1f242e; --line:#2b323d;
+    --fg:#e8ecf2; --muted:#9aa3b2; --faint:#7e8896;
+    --accent:#7c8cff; --green:#36c98d; --amber:#ffb454; --blue:#56b6ff; --pink:#ff7eb6; --red:#ff5e6c;
+    --radius:16px; --font:-apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,"Noto Sans","Noto Sans JP",sans-serif;
+    --jp:"Hiragino Kaku Gothic ProN","Yu Gothic","Meiryo","Noto Sans JP",sans-serif;
+  }
+  *{box-sizing:border-box;margin:0;padding:0}
+  html{color-scheme:dark}
+  body{background:var(--bg);color:var(--fg);font-family:var(--font);line-height:1.55;-webkit-font-smoothing:antialiased;font-size:15px}
+  :focus-visible{outline:2px solid var(--accent);outline-offset:2px}
+  a{color:var(--blue)}
+  button{font:inherit;color:inherit;cursor:pointer}
+  .jp{font-family:var(--jp)}
+  .wrap{max-width:860px;margin:0 auto;padding:18px 16px 80px}
+  header.top{display:flex;align-items:center;gap:12px;flex-wrap:wrap;padding:6px 0 12px}
+  header.top h1{font-size:20px;font-weight:700;letter-spacing:.2px}
+  header.top h1 .jp{color:var(--accent);margin-left:6px}
+  header.top .lede{color:var(--muted);font-size:13px;width:100%}
+  nav.tabs{display:flex;gap:6px;flex-wrap:wrap;margin-left:auto}
+  nav.tabs a{padding:6px 11px;border-radius:999px;border:1px solid var(--line);color:var(--muted);text-decoration:none;font-size:13px;background:var(--bg2)}
+  nav.tabs a.on{background:var(--accent);border-color:var(--accent);color:#0b0d12;font-weight:600}
+  .bar{position:sticky;top:0;z-index:5;background:color-mix(in srgb,var(--bg) 90%,transparent);backdrop-filter:blur(10px);border-bottom:1px solid var(--line);margin:0 -16px 14px;padding:10px 16px}
+  .barrow{display:flex;align-items:center;gap:12px}
+  .prog{flex:1;height:8px;background:var(--bg3);border-radius:999px;overflow:hidden}
+  .prog>i{display:block;height:100%;width:0;background:linear-gradient(90deg,var(--accent),var(--blue));transition:width .3s}
+  .pct{font-size:13px;color:var(--muted);white-space:nowrap}
+  .card{background:var(--bg2);border:1px solid var(--line);border-radius:var(--radius);padding:16px;margin:12px 0}
+  .muted{color:var(--muted)} .faint{color:var(--faint)} .small{font-size:13px}
+  .btn{display:inline-flex;align-items:center;gap:6px;padding:7px 12px;border-radius:10px;border:1px solid var(--line);background:var(--bg3);color:var(--fg);font-size:13px;text-decoration:none}
+  .btn:hover{border-color:var(--accent)}
+  .btn.primary{background:var(--accent);border-color:var(--accent);color:#0b0d12;font-weight:600}
+  .btn.ghost{background:transparent}
+  .row{display:flex;gap:8px;flex-wrap:wrap;align-items:center}
+  .pill{display:inline-block;padding:2px 9px;border-radius:999px;font-size:12px;border:1px solid var(--line);color:var(--muted);background:var(--bg3)}
+  .pill.n5{color:var(--green);border-color:color-mix(in srgb,var(--green) 40%,transparent)}
+  .pill.n4{color:var(--blue);border-color:color-mix(in srgb,var(--blue) 40%,transparent)}
+  .pill.n3{color:var(--pink);border-color:color-mix(in srgb,var(--pink) 40%,transparent)}
+  .pill.kana{color:var(--amber);border-color:color-mix(in srgb,var(--amber) 40%,transparent)}
+  input[type=search],textarea{width:100%;background:var(--bg3);border:1px solid var(--line);border-radius:10px;color:var(--fg);padding:9px 11px;font:inherit}
+  textarea{min-height:90px;resize:vertical;font-size:14px}
+  /* units / trail */
+  details.unit{background:var(--bg2);border:1px solid var(--line);border-radius:var(--radius);margin:10px 0;overflow:hidden}
+  details.unit>summary{list-style:none;cursor:pointer;padding:14px 16px;display:flex;align-items:center;gap:12px}
+  details.unit>summary::-webkit-details-marker{display:none}
+  .unum{min-width:40px;height:40px;border-radius:12px;background:var(--bg3);display:grid;place-items:center;font-weight:700;color:var(--accent);font-size:13px}
+  .utitle{flex:1;min-width:0}.utitle b{display:block;font-size:15px}.utitle span{font-size:12px;color:var(--muted)}
+  .mini{width:70px;height:6px;background:var(--bg3);border-radius:999px;overflow:hidden}.mini>i{display:block;height:100%;background:var(--green)}
+  .chev{color:var(--faint);transition:transform .2s}details[open]>summary .chev{transform:rotate(90deg)}
+  .alist{border-top:1px solid var(--line)}
+  .aitem{display:flex;gap:12px;align-items:center;padding:11px 16px;border-top:1px solid var(--line);text-decoration:none;color:inherit}
+  .aitem:first-child{border-top:none}.aitem:hover{background:var(--bg3)}
+  .aid{font-family:ui-monospace,Consolas,monospace;font-size:12px;color:var(--faint);min-width:44px}
+  .atxt{flex:1;min-width:0}.atxt b{font-size:14px}.atxt .pts{font-size:12px;color:var(--muted);white-space:nowrap;overflow:hidden;text-overflow:ellipsis}
+  .astate{font-size:12px;white-space:nowrap}.astate.done{color:var(--green)}.astate.go{color:var(--amber)}
+  .aitem.locked{opacity:.45;pointer-events:none}
+  .aitem.milestone .atxt b::before{content:"🏁 "}
+  .hero{display:flex;gap:14px;align-items:center;flex-wrap:wrap}
+  .hero .big{font-size:34px;font-weight:800;color:var(--accent)}
+  /* aula */
+  .ahead h2{font-size:24px;line-height:1.25}.ahead .jp{font-size:18px;color:var(--accent)}
+  .toc{display:flex;flex-wrap:wrap;gap:6px;margin-top:10px}
+  .toc button{background:var(--bg3);border:1px solid var(--line);border-radius:999px;padding:3px 10px;font-size:12px;color:var(--muted)}
+  .toc button:hover{color:var(--fg);border-color:var(--accent)}
+  section.blk{background:var(--bg2);border:1px solid var(--line);border-radius:var(--radius);padding:16px;margin:14px 0;scroll-margin-top:70px}
+  section.blk>h3{font-size:16px;display:flex;align-items:center;gap:10px;margin-bottom:10px}
+  section.blk>h3 .n{width:26px;height:26px;border-radius:8px;background:var(--accent);color:#0b0d12;display:grid;place-items:center;font-size:13px;font-weight:800}
+  ul.clean{list-style:none}ul.clean li{padding:4px 0 4px 22px;position:relative}ul.clean li::before{content:"✓";position:absolute;left:2px;color:var(--green)}
+  ol.steps{padding-left:22px}ol.steps li{margin:4px 0}
+  .dur{display:grid;grid-template-columns:1fr auto;gap:6px 12px}.dur .m{color:var(--amber);font-variant-numeric:tabular-nums;text-align:right}
+  .durbar{display:flex;height:10px;border-radius:999px;overflow:hidden;margin:8px 0 12px;background:var(--bg3)}
+  .durbar i{display:block;height:100%}
+  .vocab{display:grid;grid-template-columns:repeat(auto-fill,minmax(190px,1fr));gap:8px;margin-top:10px}
+  .voc{background:var(--bg3);border-radius:10px;padding:8px 10px;cursor:pointer;border:1px solid transparent}.voc:hover{border-color:var(--line)}
+  .voc .j{font-family:var(--jp);font-size:17px}.voc .r{font-size:12px;color:var(--muted)}.voc .p{font-size:13px}
+  .point{border-top:1px solid var(--line);padding-top:14px;margin-top:14px}.point:first-of-type{border-top:none;padding-top:0;margin-top:0}
+  .phead{display:flex;gap:10px;align-items:flex-start;flex-wrap:wrap}
+  .phead h4{font-size:18px;font-family:var(--jp);flex:1;min-width:180px}.phead h4 small{font-family:var(--font);font-size:13px;color:var(--muted);font-weight:400;margin-left:6px}
+  .cb{border:1px solid var(--line);background:var(--bg3);border-radius:999px;padding:3px 10px;font-size:12px;color:var(--muted)}
+  .cb.s.on{background:color-mix(in srgb,var(--green) 22%,transparent);border-color:var(--green);color:var(--fg)}
+  .cb.w.on{background:color-mix(in srgb,var(--blue) 22%,transparent);border-color:var(--blue);color:var(--fg)}
+  .cb.nt.on{border-color:var(--pink);color:var(--pink)}
+  .expl{margin:8px 0}.expl p{margin:6px 0}.expl ul,.md ul{padding-left:22px;margin:6px 0}.expl li{margin:3px 0}
+  .struct{display:inline-block;font-family:var(--jp);background:var(--bg3);border:1px dashed var(--line);border-radius:8px;padding:4px 10px;margin:4px 0 8px;color:var(--amber)}
+  .ex{display:grid;gap:8px;margin:8px 0}
+  .exrow{background:var(--bg3);border-radius:12px;padding:10px 12px}
+  .exrow .j{font-family:var(--jp);font-size:18px;line-height:1.5}
+  .exrow .k{font-family:var(--jp);font-size:13px;color:var(--faint)}
+  .exrow .r{font-size:13px;color:var(--muted);font-style:italic}
+  .exrow .p{font-size:14px}.exrow .p::before{content:"→ ";color:var(--faint)}
+  .exrow .tools{float:right;display:flex;gap:4px}
+  .ibtn{background:transparent;border:1px solid var(--line);border-radius:8px;padding:2px 7px;font-size:13px;color:var(--muted)}.ibtn:hover{color:var(--fg);border-color:var(--accent)}
+  .anat{display:flex;flex-wrap:wrap;gap:6px;margin-top:8px}
+  .chip{border:1px solid var(--c,var(--line));border-radius:10px;padding:4px 8px 3px;background:color-mix(in srgb,var(--c,#888) 12%,transparent);text-align:center;min-width:52px}
+  .chip .t{font-family:var(--jp);font-size:15px}.chip .t em{font-style:normal;color:var(--c);font-weight:700}
+  .chip .l{font-size:10px;letter-spacing:.4px;color:var(--c);font-weight:700;text-transform:uppercase}
+  .chip.pred{border-width:2px}
+  .anatnote{font-size:12px;color:var(--faint);margin-top:4px}
+  .pit{background:color-mix(in srgb,var(--red) 8%,transparent);border-left:3px solid var(--red);border-radius:8px;padding:8px 12px;margin:8px 0}
+  .pit b{color:var(--red);font-size:13px}.pit ul{padding-left:18px;margin-top:4px}.pit li{margin:3px 0;font-size:14px}
+  .flag{background:color-mix(in srgb,var(--amber) 12%,transparent);border-left:3px solid var(--amber);border-radius:8px;padding:8px 12px;margin:8px 0;font-size:14px}
+  .note{margin-top:8px}.note textarea{min-height:70px}
+  .study{border-left:3px solid var(--accent);padding:4px 0 4px 12px;margin:10px 0}
+  .study b{font-family:var(--jp)}
+  .media{display:grid;gap:8px}.med{display:flex;gap:10px;align-items:flex-start;background:var(--bg3);border-radius:12px;padding:10px 12px}
+  .med .o{min-width:24px;height:24px;border-radius:50%;background:var(--bg);display:grid;place-items:center;font-size:12px;color:var(--accent);font-weight:700}
+  .med .k{font-size:11px;text-transform:uppercase;letter-spacing:.5px;color:var(--faint)}
+  .task{margin:12px 0}.task h5{font-size:14px;margin-bottom:6px}
+  .hwi{display:grid;grid-template-columns:auto 1fr;gap:4px 10px;padding:8px 0;border-top:1px dashed var(--line)}
+  .hwi .q{font-family:var(--jp)}.hwi .num{color:var(--faint);font-size:13px}
+  .ans{grid-column:2;display:none;background:color-mix(in srgb,var(--green) 10%,transparent);border-radius:8px;padding:6px 10px}
+  .ans.show{display:block}.ans .j{font-family:var(--jp);font-size:16px}.ans .r{font-size:13px;color:var(--muted);font-style:italic}
+  .reveal{grid-column:2;justify-self:start;font-size:12px}
+  .wb{display:flex;gap:10px;align-items:baseline;padding:4px 0}.wb .pg{font-family:ui-monospace,Consolas,monospace;color:var(--amber);min-width:52px}
+  .prac{display:grid;gap:8px}.pr{display:flex;gap:10px;background:var(--bg3);border-radius:12px;padding:10px 12px}
+  .pr .tool{min-width:92px;font-weight:700;font-size:13px}.pr .min{margin-left:auto;color:var(--amber);font-size:13px;white-space:nowrap}
+  .cult h4{font-size:17px}.cult .try{margin-top:10px;background:var(--bg3);border-radius:10px;padding:8px 12px}
+  .chk label{display:flex;gap:10px;align-items:flex-start;padding:7px 0;border-top:1px dashed var(--line);cursor:pointer}
+  .chk label:first-child{border-top:none}.chk input{margin-top:4px;width:18px;height:18px;accent-color:var(--green)}
+  .done-banner{background:color-mix(in srgb,var(--green) 16%,transparent);border:1px solid var(--green);border-radius:12px;padding:10px 14px;margin-top:10px;display:none}
+  .done-banner.show{display:block}
+  .anav{display:flex;justify-content:space-between;gap:8px;margin-top:16px}
+  /* rotina */
+  .grid7{display:grid;grid-template-columns:minmax(110px,1.4fr) repeat(7,1fr);gap:4px;align-items:center;font-size:13px}
+  .grid7 .h{color:var(--faint);text-align:center;font-size:12px}
+  .grid7 button{height:32px;border-radius:8px;border:1px solid var(--line);background:var(--bg3)}
+  .grid7 button.on{background:var(--green);border-color:var(--green)}
+  .tag{display:inline-block;font-size:11px;padding:1px 7px;border-radius:999px;margin-left:6px}
+  .tag.core{background:color-mix(in srgb,var(--green) 20%,transparent);color:var(--green)}
+  .tag.flex{background:color-mix(in srgb,var(--amber) 20%,transparent);color:var(--amber)}
+  .md p{margin:6px 0}.md ul{padding-left:20px}.md li{margin:3px 0}
+  h2.sec{font-size:18px;margin:18px 0 6px}
+  .res{display:grid;gap:8px}.resi{background:var(--bg3);border-radius:12px;padding:10px 12px}
+  .resi .t{font-weight:600}.resi .d{font-size:13px;color:var(--muted)}
+  .toast{position:fixed;left:50%;bottom:20px;transform:translateX(-50%);background:var(--bg3);border:1px solid var(--line);border-radius:12px;padding:8px 14px;font-size:13px;opacity:0;transition:opacity .2s;pointer-events:none;z-index:20}
+  .toast.show{opacity:1}
+  .empty{padding:30px;text-align:center;color:var(--muted)}
+  @media (max-width:560px){ .exrow .j{font-size:16px} .pr{flex-wrap:wrap} .pr .tool{min-width:0} .grid7{grid-template-columns:90px repeat(7,1fr)} nav.tabs{margin-left:0} }
+  @media print{ .bar,nav.tabs,.tools,.cb,.reveal,.anav,.toc{display:none!important} .ans{display:block!important} body{background:#fff;color:#000} section.blk,.card{border-color:#ccc;background:#fff} }
+</style>
+</head>
+<body>
+<div class="wrap">
+  <header class="top">
+    <h1>Curso de Japonês <span class="jp">日本語コース</span></h1>
+    <nav class="tabs" id="tabs">
+      <a href="#/" data-v="home">Trilha</a>
+      <a href="#/rotina" data-v="rotina">Rotina</a>
+      <a href="#/guia" data-v="guia">Guia</a>
+      <a href="#/recursos" data-v="recursos">Recursos</a>
+      <a href="#/progresso" data-v="progresso">Progresso</a>
+    </nav>
+    <div class="lede" id="lede"></div>
+  </header>
+  <div class="bar"><div class="barrow"><div class="prog"><i id="progbar"></i></div><div class="pct" id="pct"></div></div></div>
+  <main id="view"></main>
+</div>
+<div class="toast" id="toast"></div>
+<script>window.CURSO = /*__CURSO_DATA__*/null;</script>
+<script>
+'use strict';
+(function () {
+  var C = window.CURSO;
+  var KEY = 'curso_jp_v1';
+  var ROLE_PT = {
+    predicate: 'PREDICADO', topic: 'TÓPICO', also: 'TAMBÉM', subject: 'SUJEITO', object: 'OBJETO', place: 'LUGAR DA AÇÃO',
+    means: 'MEIO', time: 'TEMPO', destination: 'DESTINO', location: 'ONDE ESTÁ', target: 'ALVO', purpose: 'FINALIDADE',
+    with: 'COM QUEM', and: 'E (LISTA)', tari: 'AÇÕES (EX.)', compare: 'COMPARAÇÃO', from: 'DE / DESDE', until: 'ATÉ',
+    reason: 'MOTIVO', modifier: 'DESCREVE O PRÓXIMO', how: 'COMO', quantity: 'QUANTIDADE', link: 'LIGA (E…)',
+    contrast: 'MAS', condition: 'CONDIÇÃO', quote: 'CITAÇÃO', connector: 'CONECTOR', interjection: 'INTERJEIÇÃO',
+    only: 'SÓ', indef: 'ALGO / ALGUÉM', indefneg: 'NADA / NINGUÉM', while: 'ENQUANTO', after: 'DEPOIS DE', bare: 'SEM PARTÍCULA'
+  };
+  var ROLE_Q = { predicate: 'O que acontece / o que é?', topic: 'Sobre o quê?', subject: 'Quem / o quê?', object: 'O quê (sofre a ação)?', place: 'Onde (acontece)?', means: 'Com quê / como?', time: 'Quando?', destination: 'Para onde?', location: 'Onde está?', target: 'Para quem / em quê?', purpose: 'Para fazer o quê?', with: 'Com quem?', modifier: 'Qual / de quem?', how: 'Como?', reason: 'Por quê?', from: 'De onde / desde quando?', until: 'Até onde / quando?', compare: 'Comparado com?', also: 'Também?', quantity: 'Quanto(s)?' };
+  var KIND_PT = { action: 'ação', existence: 'existência', identity: 'identidade (é)', description: 'descrição', request: 'pedido', wish: 'desejo', invitation: 'convite / sugestão', progress: 'em andamento / estado', explanation: 'explicação (〜んです)', experience: 'experiência', intention: 'intenção', obligation: 'obrigação', setphrase: 'expressão pronta', permission: 'permissão', prohibition: 'proibição' };
+  var DAYS = ['Seg', 'Ter', 'Qua', 'Qui', 'Sex', 'Sáb', 'Dom'];
+
+  // ---------- state ----------
+  var S = load();
+  function load() { try { var s = JSON.parse(localStorage.getItem(KEY) || '{}'); return norm(s); } catch (e) { return norm({}); } }
+  function norm(s) { s.pts = s.pts || {}; s.chk = s.chk || {}; s.hw = s.hw || {}; s.notes = s.notes || {}; s.rot = s.rot || {}; return s; }
+  var saveT = null;
+  function save() { clearTimeout(saveT); saveT = setTimeout(function () { try { localStorage.setItem(KEY, JSON.stringify(S)); } catch (e) { toast('Não consegui salvar (armazenamento bloqueado?)'); } }, 150); }
+  function toast(m) { var t = document.getElementById('toast'); t.textContent = m; t.classList.add('show'); clearTimeout(t._h); t._h = setTimeout(function () { t.classList.remove('show'); }, 1800); }
+
+  // ---------- data helpers ----------
+  var MAP = [], BYID = {}, UNIT_OF = {};
+  C.curso.units.forEach(function (u, ui) { u.aulas.forEach(function (a) { var m = Object.assign({ unit: u.id, unitIdx: ui }, a); MAP.push(m); BYID[a.id] = m; UNIT_OF[a.id] = u; }); });
+  function aula(id) { return C.aulas[id] || null; }
+  function isDone(id) { var a = aula(id); if (!a) return false; var c = S.chk[id] || []; return a.checklist.length > 0 && a.checklist.every(function (_, i) { return !!c[i]; }); }
+  function chkCount(id) { var a = aula(id); if (!a) return [0, 0]; var c = S.chk[id] || []; return [a.checklist.filter(function (_, i) { return !!c[i]; }).length, a.checklist.length]; }
+  function nextAula() { for (var i = 0; i < MAP.length; i++) if (aula(MAP[i].id) && !isDone(MAP[i].id)) return MAP[i].id; return null; }
+  function started(id) { var n = chkCount(id)[0]; if (n) return true; var a = aula(id); return !!(a && a.grammar.some(function (g) { var p = S.pts[g.id]; return p && (p.s || p.w || p.note); })) || !!S.notes[id]; }
+  function esc(s) { return String(s == null ? '' : s).replace(/[&<>"']/g, function (c) { return { '&': '&amp;', '<': '&lt;', '>': '&gt;', '"': '&quot;', "'": '&#39;' }[c]; }); }
+  function md(s) {
+    var lines = esc(s).split('\n'), out = [], inList = false;
+    lines.forEach(function (l) {
+      l = l.replace(/\*\*(.+?)\*\*/g, '<b>$1</b>');
+      if (/^\s*•\s*/.test(l)) { if (!inList) { out.push('<ul>'); inList = true; } out.push('<li>' + l.replace(/^\s*•\s*/, '') + '</li>'); }
+      else { if (inList) { out.push('</ul>'); inList = false; } if (l.trim()) out.push('<p>' + l + '</p>'); }
+    });
+    if (inList) out.push('</ul>');
+    return out.join('');
+  }
+  function levelPill(u) { var l = (u.level || '').toLowerCase(); var cls = /n5/.test(l) ? 'n5' : /n4/.test(l) ? 'n4' : /n3/.test(l) ? 'n3' : 'kana'; return '<span class="pill ' + cls + '">' + esc(u.level || '') + '</span>'; }
+
+  // ---------- speech ----------
+  var jaVoice = null;
+  function pickVoice() { try { var v = speechSynthesis.getVoices(); jaVoice = v.filter(function (x) { return /ja|JP/i.test(x.lang); })[0] || null; } catch (e) {} }
+  if ('speechSynthesis' in window) { pickVoice(); speechSynthesis.onvoiceschanged = pickVoice; }
+  function speak(text) {
+    if (!('speechSynthesis' in window)) return toast('Sem síntese de voz neste navegador');
+    try { speechSynthesis.cancel(); var u = new SpeechSynthesisUtterance(String(text).replace(/[—]/g, '。')); u.lang = 'ja-JP'; if (jaVoice) u.voice = jaVoice; u.rate = 0.9; speechSynthesis.speak(u); if (!jaVoice) toast('Dica: instale a voz japonesa do Windows para ouvir melhor'); } catch (e) {}
+  }
+
+  // ---------- progress bar ----------
+  function updateBar() {
+    var total = MAP.length, done = MAP.filter(function (m) { return isDone(m.id); }).length;
+    document.getElementById('progbar').style.width = (total ? done / total * 100 : 0) + '%';
+    document.getElementById('pct').textContent = done + '/' + total + ' aulas dominadas';
+  }
+
+  // ---------- views ----------
+  var view = document.getElementById('view');
+  function setTab(v) { [].forEach.call(document.querySelectorAll('#tabs a'), function (a) { a.classList.toggle('on', a.getAttribute('data-v') === v); }); }
+  function route() {
+    var h = location.hash.replace(/^#\/?/, ''), parts = h.split('/');
+    window.scrollTo(0, 0);
+    if (parts[0] === 'aula' && parts[1]) { setTab('home'); renderAula(decodeURIComponent(parts[1])); }
+    else if (parts[0] === 'rotina') { setTab('rotina'); renderRotina(); }
+    else if (parts[0] === 'guia') { setTab('guia'); renderGuia(); }
+    else if (parts[0] === 'recursos') { setTab('recursos'); renderRecursos(); }
+    else if (parts[0] === 'progresso') { setTab('progresso'); renderProgresso(); }
+    else { setTab('home'); renderHome(); }
+    updateBar();
+  }
+  window.addEventListener('hashchange', route);
+
+  // ----- home / trail -----
+  var homeQuery = '';
+  function renderHome() {
+    view.onclick = view.onchange = view.oninput = null;
+    document.getElementById('lede').textContent = C.curso.tagline || '';
+    var nx = nextAula(), nxm = nx && BYID[nx];
+    var html = '<div class="card hero"><div><div class="muted small">' + (nx ? (started(nx) ? 'Continue de onde parou' : 'Próxima aula') : 'Tudo dominado 🎉') + '</div>' +
+      (nxm ? '<div style="font-size:19px;font-weight:700;margin:2px 0">' + esc(nx) + ' · ' + esc(nxm.title) + '</div><div class="muted small">' + esc(UNIT_OF[nx].name) + '</div>' : '') +
+      '</div><div style="margin-left:auto" class="row">' + (nx ? '<a class="btn primary" href="#/aula/' + nx + '">Continuar →</a>' : '') + '<a class="btn ghost" href="#/rotina">Rotina de hoje</a></div></div>';
+    html += '<input type="search" id="q" placeholder="Buscar aula ou ponto (ex.: てもいい, passado, comparar)" value="' + esc(homeQuery) + '">';
+    html += '<div id="units"></div>';
+    view.innerHTML = html;
+    var q = document.getElementById('q');
+    q.addEventListener('input', function () { homeQuery = q.value; drawUnits(); });
+    drawUnits();
+  }
+  function drawUnits() {
+    var qq = homeQuery.trim().toLowerCase(), nx = nextAula(), out = '';
+    C.curso.units.forEach(function (u, ui) {
+      var items = u.aulas.filter(function (a) { if (!qq) return true; var A = aula(a.id); var hay = (a.id + ' ' + a.title + ' ' + (a.points || []).join(' ') + (A ? ' ' + A.grammar.map(function (g) { return g.title + ' ' + g.gloss; }).join(' ') : '')).toLowerCase(); return hay.indexOf(qq) >= 0; });
+      if (!items.length) return;
+      var done = u.aulas.filter(function (a) { return isDone(a.id); }).length, open = !!qq || u.aulas.some(function (a) { return a.id === nx; });
+      out += '<details class="unit"' + (open ? ' open' : '') + '><summary><div class="unum">' + (ui === 0 ? '0' : esc(u.id.replace(/^G\d-L0?/, '').replace(/^P-N3$/, 'N3').replace(/^V$/, '✈'))) + '</div><div class="utitle"><b>' + esc(u.name) + '</b><span>' + levelPill(u) + ' ' + esc(u.book || '') + '</span></div>' +
+        '<div class="mini"><i style="width:' + (done / u.aulas.length * 100) + '%"></i></div><span class="small muted">' + done + '/' + u.aulas.length + '</span><span class="chev">▶</span></summary><div class="alist">';
+      items.forEach(function (a) {
+        var A = aula(a.id), cc = chkCount(a.id), st = !A ? '<span class="astate faint">em preparação</span>' : isDone(a.id) ? '<span class="astate done">✓ dominada</span>' : a.id === nx ? '<span class="astate go">▶ próxima</span>' : cc[0] ? '<span class="astate muted">' + cc[0] + '/' + cc[1] + '</span>' : '';
+        out += '<a class="aitem' + (A ? '' : ' locked') + (a.milestone ? ' milestone' : '') + '" href="#/aula/' + a.id + '"><span class="aid">' + esc(a.id) + '</span><span class="atxt"><b>' + esc(a.title) + '</b><div class="pts jp">' + esc((a.points || []).join(' · ')) + '</div></span>' + st + '</a>';
+      });
+      out += '</div></details>';
+    });
+    document.getElementById('units').innerHTML = out || '<div class="empty">Nada encontrado.</div>';
+  }
+
+  // ----- aula -----
+  var BLOCKS = ['Título e objetivos', 'Duração e plano da aula', 'Pré-requisitos e vocabulário', 'Gramática', 'Como estudar cada ponto', 'Vídeos e leitura (em ordem)', 'Lição de casa no caderno', 'Prática em casa', 'Cultura', 'Checklist de domínio'];
+  function exHTML(ex, key) {
+    var h = '<div class="exrow" data-ex="' + esc(key) + '"><div class="tools"><button class="ibtn" data-say="' + esc(ex.kana || ex.jp) + '" title="Ouvir">🔊</button>' + (ex.anat ? '<button class="ibtn" data-anat="' + esc(key) + '" title="Anatomia da frase">🔬</button>' : '') + '</div>' +
+      '<div class="j">' + esc(ex.jp) + '</div>' + (ex.kana && ex.kana !== ex.jp ? '<div class="k">' + esc(ex.kana) + '</div>' : '') +
+      '<div class="r">' + esc(ex.romaji) + '</div><div class="p">' + esc(ex.pt) + '</div><div class="anatbox" hidden></div></div>';
+    return h;
+  }
+  function anatHTML(anat) {
+    return anat.map(function (sent) {
+      return '<div class="anat">' + sent.map(function (c) {
+        var col = (C.roleColors && C.roleColors[c.r]) || '#888', lab = ROLE_PT[c.r] || c.r, q = ROLE_Q[c.r] || '';
+        var txt = esc(c.t), p = c.p ? esc(c.p) : '';
+        if (p && c.t.slice(-c.p.length) === c.p) txt = esc(c.t.slice(0, c.t.length - c.p.length)) + '<em>' + p + '</em>';
+        return '<div class="chip' + (c.r === 'predicate' ? ' pred' : '') + '" style="--c:' + col + '" title="' + esc(q) + '"><div class="t">' + txt + '</div><div class="l">' + (c.r === 'predicate' ? '★ ' : '') + esc(lab) + '</div>' + (c.k ? '<div class="faint" style="font-size:10px">' + esc(KIND_PT[c.k] || c.k) + '</div>' : '') + '</div>';
+      }).join('') + '</div>';
+    }).join('') + '<div class="anatnote">Leia pelo ★ predicado (o fim) e depois os blocos da esquerda. A partícula colorida diz a função de cada bloco. Análise automática do motor do Mirage; em caso de dúvida, vale a explicação da aula.</div>';
+  }
+  function renderAula(id) {
+    var a = aula(id), m = BYID[id];
+    if (!m) { view.innerHTML = '<div class="empty">Aula não encontrada. <a href="#/">Voltar à trilha</a></div>'; return; }
+    if (!a) { view.innerHTML = '<div class="card"><h2>' + esc(m.id + ' · ' + m.title) + '</h2><p class="muted">Esta aula ainda está em preparação.</p><p class="jp">' + esc((m.points || []).join(' · ')) + '</p><p><a href="#/">← Trilha</a></p></div>'; return; }
+    S.last = id; save();
+    var u = UNIT_OF[id], exIdx = {}, h = '';
+    document.getElementById('lede').textContent = u.name;
+    h += '<div class="ahead card"><div class="row small muted"><a href="#/">Trilha</a> › ' + esc(u.name) + ' ' + levelPill(u) + '</div>';
+    h += '<h2>' + esc(a.id) + ' · ' + esc(a.title) + '</h2><div class="jp">' + esc(a.titleJp) + '</div>';
+    if (a.genki) h += '<div class="small muted" style="margin-top:4px">📘 ' + esc(a.genki.book + ' · Lição ' + a.genki.lesson) + (a.genki.points && a.genki.points.length ? ' · gramática: ' + esc(a.genki.points.join(' · ')) : '') + '</div>';
+    h += '<div class="toc">' + BLOCKS.map(function (b, i) { return '<button data-go="b' + (i + 1) + '">' + (i + 1) + ' · ' + esc(b) + '</button>'; }).join('') + '</div></div>';
+    // 1
+    h += blk(1, '<ul class="clean">' + a.canDo.map(function (c) { return '<li>' + esc(c) + '</li>'; }).join('') + '</ul>');
+    // 2
+    var cols = ['var(--accent)', 'var(--blue)', 'var(--green)', 'var(--amber)', 'var(--pink)', 'var(--red)', '#9d7cff', '#4fd1c5'], tot = a.duration.blocks.reduce(function (s, b) { return s + (+b.min || 0); }, 0);
+    h += blk(2, '<div class="row"><span class="pill">⏱ ' + esc(a.duration.total) + '</span><span class="small muted">soma dos blocos: ' + tot + ' min · pode dividir em 2 sessões</span></div><div class="durbar">' + a.duration.blocks.map(function (b, i) { return '<i style="width:' + (b.min / tot * 100) + '%;background:' + cols[i % cols.length] + '" title="' + esc(b.t) + '"></i>'; }).join('') + '</div><div class="dur">' + a.duration.blocks.map(function (b, i) { return '<div><span style="color:' + cols[i % cols.length] + '">■</span> ' + esc(b.t) + '</div><div class="m">' + b.min + ' min</div>'; }).join('') + '</div>');
+    // 3
+    var pre = a.prereqs || {};
+    h += blk(3, (pre.aulas && pre.aulas.length ? '<p class="small">Aulas antes desta: ' + pre.aulas.map(function (p) { return '<a href="#/aula/' + p + '">' + p + (BYID[p] ? ' · ' + esc(BYID[p].title) : '') + '</a>' + (isDone(p) ? ' ✓' : ''); }).join(', ') + '</p>' : '') +
+      '<ul class="clean">' + (pre.skills || []).map(function (s) { return '<li>' + esc(s) + '</li>'; }).join('') + '</ul>' +
+      ((pre.vocab || []).length ? '<h4 style="margin-top:12px;font-size:14px">Vocabulário da aula <span class="small muted">(toque para ouvir)</span></h4><div class="vocab">' + pre.vocab.map(function (v) { return '<div class="voc" data-say="' + esc(v.kana || v.jp) + '"><div class="j">' + esc(v.jp) + (v.kana && v.kana !== v.jp ? ' <span class="small faint">' + esc(v.kana) + '</span>' : '') + '</div><div class="r">' + esc(v.romaji) + '</div><div class="p">' + esc(v.pt) + '</div></div>'; }).join('') + '</div>' : ''));
+    // 4
+    var g4 = a.grammar.map(function (g, gi) {
+      var p = S.pts[g.id] || {}, letter = String.fromCharCode(97 + gi);
+      var exs = (g.examples || []).map(function (ex, ei) { var k = g.id + '.' + ei; exIdx[k] = ex; return exHTML(ex, k); }).join('');
+      return '<div class="point" id="pt-' + esc(g.id) + '"><div class="phead"><h4>4' + letter + ' · ' + esc(g.title) + '<small>' + esc(g.gloss || '') + '</small></h4>' +
+        '<button class="cb s' + (p.s ? ' on' : '') + '" data-pt="' + esc(g.id) + '" data-k="s">✍️ Estudei</button><button class="cb w' + (p.w ? ' on' : '') + '" data-pt="' + esc(g.id) + '" data-k="w">📱 Pratiquei</button><button class="cb nt' + (p.note ? ' on' : '') + '" data-ntoggle="' + esc(g.id) + '">📝 Nota</button></div>' +
+        '<div class="expl">' + md(g.explanation) + '</div><div class="struct">' + esc(g.structure) + '</div>' +
+        '<div class="ex">' + exs + '</div>' +
+        (g.pitfalls && g.pitfalls.length ? '<div class="pit"><b>⚠ Armadilhas</b><ul>' + g.pitfalls.map(function (x) { return '<li>' + esc(x) + '</li>'; }).join('') + '</ul></div>' : '') +
+        (g.flag ? '<div class="flag">⚠️ <b>Sinalizado:</b> ' + esc(g.flag) + '</div>' : '') +
+        '<div class="note" data-note="' + esc(g.id) + '"' + (p.note ? '' : ' hidden') + '><textarea placeholder="Sua nota sobre este ponto (dúvidas, macetes, frases suas)…" data-ptnote="' + esc(g.id) + '">' + esc(p.note || '') + '</textarea></div></div>';
+    }).join('');
+    h += blk(4, g4);
+    // 5
+    h += blk(5, a.grammar.map(function (g, gi) { return '<div class="study"><b>4' + String.fromCharCode(97 + gi) + ' · ' + esc(g.title) + '</b><ol class="steps">' + (g.howToStudy || []).map(function (s) { return '<li>' + esc(s) + '</li>'; }).join('') + '</ol></div>'; }).join(''));
+    // 6
+    h += blk(6, '<div class="media">' + a.media.map(function (m) {
+      var link = m.url ? '<a href="' + esc(m.url) + '" target="_blank" rel="noopener">' + esc(m.title) + '</a>' : esc(m.title);
+      return '<div class="med"><div class="o">' + m.order + '</div><div><div class="k">' + esc(m.kind) + ' · ' + esc(m.where) + '</div><div>' + link + '</div>' + (m.search ? '<div class="small muted">Buscar por: <span class="jp">' + esc(m.search) + '</span></div>' : '') + (m.when ? '<div class="small muted">Quando: ' + esc(m.when) + '</div>' : '') + '</div></div>';
+    }).join('') + '</div>');
+    // 7
+    var hw = a.homework, hwDone = !!(S.hw[id] && S.hw[id].done);
+    h += blk(7, '<p class="small muted">' + esc(hw.intro || '') + '</p><div class="row" style="margin:8px 0"><button class="btn" data-revealall="1">Mostrar todo o gabarito</button><button class="btn' + (hwDone ? ' primary' : '') + '" data-hwdone="1">' + (hwDone ? '✓ Lição feita' : 'Marcar lição como feita') + '</button></div>' +
+      hw.tasks.map(function (t, ti) {
+        return '<div class="task"><h5>' + (ti + 1) + '. ' + esc(t.prompt) + '</h5>' + t.items.map(function (it, ii) {
+          var an = it.a || {}, ansH = typeof an === 'string' ? esc(an) : ((an.jp ? '<div class="j">' + esc(an.jp) + '</div>' : '') + (an.kana && an.kana !== an.jp ? '<div class="small faint jp">' + esc(an.kana) + '</div>' : '') + (an.romaji ? '<div class="r">' + esc(an.romaji) + '</div>' : '') + (an.pt ? '<div>' + esc(an.pt) + '</div>' : ''));
+          return '<div class="hwi"><span class="num">' + String.fromCharCode(97 + ii) + ')</span><div class="q">' + esc(it.q) + '</div><button class="ibtn reveal" data-rev="1">ver resposta</button><div class="ans">' + ansH + (it.note ? '<div class="small muted">💡 ' + esc(it.note) + '</div>' : '') + '</div></div>';
+        }).join('') + '</div>';
+      }).join('') +
+      ((hw.workbook || []).length ? '<h4 style="margin-top:14px;font-size:14px">📓 Genki I Workbook (faça no livro; confira no Answer Key oficial)</h4>' + hw.workbook.map(function (w) { return '<div class="wb"><span class="pg">p. ' + esc(w.p) + '</span><span>' + esc(w.t) + (w.tip ? ' <span class="small muted">— ' + esc(w.tip) + '</span>' : '') + '</span></div>'; }).join('') : ''));
+    // 8
+    h += blk(8, '<div class="prac">' + a.practice.map(function (p) { return '<div class="pr"><div class="tool">' + esc(p.tool) + '</div><div>' + esc(p.what) + '</div>' + (p.min ? '<div class="min">' + p.min + ' min</div>' : '') + '</div>'; }).join('') + '</div>');
+    // 9
+    h += blk(9, '<div class="cult"><h4>' + esc(a.culture.title) + (a.culture.titleJp && a.culture.title.indexOf(a.culture.titleJp) < 0 ? ' <span class="jp muted">' + esc(a.culture.titleJp) + '</span>' : '') + '</h4><div class="md">' + md(a.culture.body) + '</div><div class="try">🧪 <b>Experimente:</b> ' + esc(a.culture.try) + '</div></div>');
+    // 10
+    var c = S.chk[id] || [];
+    h += blk(10, '<p class="small muted">Marque só o que você consegue fazer de verdade. A aula conta como dominada quando tudo estiver marcado, no seu tempo.</p><div class="chk">' + a.checklist.map(function (x, i) { return '<label><input type="checkbox" data-chk="' + i + '"' + (c[i] ? ' checked' : '') + '><span>' + esc(x) + '</span></label>'; }).join('') + '</div>' +
+      '<div class="done-banner' + (isDone(id) ? ' show' : '') + '" id="donebanner">🎉 Aula dominada! Siga para a próxima quando quiser. Revisar as anteriores também conta.</div>' +
+      '<h4 style="margin-top:14px;font-size:14px">📒 Caderno desta aula</h4><textarea id="aulanote" placeholder="Dúvidas, frases que você criou, o que revisar…">' + esc(S.notes[id] || '') + '</textarea>');
+    var idx = MAP.findIndex(function (x) { return x.id === id; }), prev = MAP[idx - 1], next = MAP[idx + 1];
+    h += '<div class="anav">' + (prev ? '<a class="btn" href="#/aula/' + prev.id + '">← ' + esc(prev.id + ' · ' + prev.title) + '</a>' : '<span></span>') + (next ? '<a class="btn" href="#/aula/' + next.id + '">' + esc(next.id + ' · ' + next.title) + ' →</a>' : '') + '</div>';
+    view.innerHTML = h;
+    wireAula(id, a, exIdx);
+  }
+  function blk(n, inner) { return '<section class="blk" id="b' + n + '"><h3><span class="n">' + n + '</span>' + esc(BLOCKS[n - 1]) + '</h3>' + inner + '</section>'; }
+  function wireAula(id, a, exIdx) {
+    view.onclick = function (e) {
+      var t = e.target.closest('button,[data-say],label'); if (!t) return;
+      if (t.hasAttribute('data-go')) { var el = document.getElementById(t.getAttribute('data-go')); if (el) el.scrollIntoView({ behavior: 'smooth' }); return; }
+      if (t.hasAttribute('data-say')) { speak(t.getAttribute('data-say')); return; }
+      if (t.hasAttribute('data-anat')) { var row = t.closest('.exrow'), box = row.querySelector('.anatbox'), ex = exIdx[t.getAttribute('data-anat')]; if (box.hidden) { box.innerHTML = anatHTML(ex.anat); box.hidden = false; } else box.hidden = true; return; }
+      if (t.hasAttribute('data-pt')) { var pid = t.getAttribute('data-pt'), k = t.getAttribute('data-k'); var p = S.pts[pid] = S.pts[pid] || {}; p[k] = !p[k]; if (!p.s && !p.w && !p.note) delete S.pts[pid]; t.classList.toggle('on', !!(S.pts[pid] && S.pts[pid][k])); save(); return; }
+      if (t.hasAttribute('data-ntoggle')) { var n = view.querySelector('[data-note="' + t.getAttribute('data-ntoggle') + '"]'); n.hidden = !n.hidden; if (!n.hidden) n.querySelector('textarea').focus(); return; }
+      if (t.hasAttribute('data-rev')) { var ans = t.nextElementSibling; ans.classList.toggle('show'); t.textContent = ans.classList.contains('show') ? 'esconder' : 'ver resposta'; return; }
+      if (t.hasAttribute('data-revealall')) { var all = view.querySelectorAll('#b7 .ans'), anyHidden = [].some.call(all, function (x) { return !x.classList.contains('show'); }); [].forEach.call(all, function (x) { x.classList.toggle('show', anyHidden); }); [].forEach.call(view.querySelectorAll('#b7 [data-rev]'), function (b) { b.textContent = anyHidden ? 'esconder' : 'ver resposta'; }); t.textContent = anyHidden ? 'Esconder o gabarito' : 'Mostrar todo o gabarito'; return; }
+      if (t.hasAttribute('data-hwdone')) { var d = !(S.hw[id] && S.hw[id].done); if (d) S.hw[id] = { done: true }; else delete S.hw[id]; t.classList.toggle('primary', d); t.textContent = d ? '✓ Lição feita' : 'Marcar lição como feita'; save(); return; }
+    };
+    view.onchange = function (e) {
+      var t = e.target;
+      if (t.hasAttribute('data-chk')) { var arr = S.chk[id] = S.chk[id] || []; arr[+t.getAttribute('data-chk')] = t.checked; save(); var d = isDone(id); document.getElementById('donebanner').classList.toggle('show', d); if (d) toast('🎉 Aula ' + id + ' dominada'); updateBar(); }
+    };
+    view.oninput = function (e) {
+      var t = e.target;
+      if (t.id === 'aulanote') { if (t.value.trim()) S.notes[id] = t.value; else delete S.notes[id]; save(); }
+      if (t.hasAttribute('data-ptnote')) { var pid = t.getAttribute('data-ptnote'), p = S.pts[pid] = S.pts[pid] || {}; if (t.value.trim()) p.note = t.value; else delete p.note; if (!p.s && !p.w && !p.note) delete S.pts[pid]; var tb = view.querySelector('[data-ntoggle="' + pid + '"]'); if (tb) tb.classList.toggle('on', !!(S.pts[pid] && S.pts[pid].note)); save(); }
+    };
+  }
+
+  // ----- rotina -----
+  function renderRotina() {
+    var R = C.curso.rotina;
+    document.getElementById('lede').textContent = 'Sua rotina diária: sem datas, só constância.';
+    if (!R) { view.innerHTML = '<div class="empty">Rotina em preparação.</div>'; return; }
+    var nx = nextAula(), h = '';
+    h += '<div class="card"><h2 style="font-size:18px">' + esc(R.title) + '</h2><div class="md">' + md(R.intro || '') + '</div>' + (nx ? '<p class="small">📌 Aula atual: <a href="#/aula/' + nx + '">' + esc(nx + ' · ' + BYID[nx].title) + '</a></p>' : '') + '</div>';
+    h += '<div class="card"><h2 class="sec" style="margin-top:0">Blocos do dia</h2>' + R.blocks.map(function (b) { return '<div class="pr" style="margin:6px 0"><div class="tool">' + esc(b.name) + '<span class="tag ' + (b.core ? 'core' : 'flex') + '">' + (b.core ? 'núcleo' : 'flexível') + '</span></div><div><div>' + esc(b.what) + '</div>' + (b.tools ? '<div class="small muted">' + esc(b.tools) + '</div>' : '') + '</div><div class="min">' + esc(b.min) + '</div></div>'; }).join('') +
+      (R.minimum ? '<div class="flag" style="margin-top:10px">🪫 <b>Dia mínimo:</b> ' + esc(R.minimum) + '</div>' : '') + '</div>';
+    h += '<div class="card"><h2 class="sec" style="margin-top:0">Esta semana</h2><p class="small muted">Marque o que fez. Não há datas: quando quiser, comece uma semana nova.</p><div class="grid7"><div></div>' + DAYS.map(function (d) { return '<div class="h">' + d + '</div>'; }).join('') +
+      R.blocks.map(function (b) { return '<div>' + esc(b.short || b.name) + '</div>' + DAYS.map(function (_, di) { var k = b.key + '_' + di; return '<button data-rot="' + k + '" class="' + (S.rot[k] ? 'on' : '') + '" aria-label="' + esc(b.name + ' ' + DAYS[di]) + '"></button>'; }).join(''); }).join('') +
+      '</div><div class="row" style="margin-top:10px"><span class="small muted" id="rotcount"></span><button class="btn ghost" id="rotreset" style="margin-left:auto">Nova semana (limpar)</button></div></div>';
+    if (R.cycle) h += '<div class="card"><h2 class="sec" style="margin-top:0">' + esc(R.cycle.title) + '</h2><div class="md">' + md(R.cycle.body) + '</div></div>';
+    if (R.week) h += '<div class="card"><h2 class="sec" style="margin-top:0">' + esc(R.week.title) + '</h2><div class="md">' + md(R.week.body) + '</div></div>';
+    view.innerHTML = h;
+    var cnt = function () { var core = R.blocks.filter(function (b) { return b.core; })[0]; var n = core ? DAYS.filter(function (_, di) { return S.rot[core.key + '_' + di]; }).length : 0; document.getElementById('rotcount').textContent = core ? 'Dias com ' + core.short.toLowerCase() + ': ' + n + '/7' : ''; };
+    cnt();
+    view.onclick = function (e) {
+      var t = e.target.closest('button'); if (!t) return;
+      if (t.hasAttribute('data-rot')) { var k = t.getAttribute('data-rot'); if (S.rot[k]) delete S.rot[k]; else S.rot[k] = true; t.classList.toggle('on', !!S.rot[k]); save(); cnt(); }
+      if (t.id === 'rotreset') { if (confirm('Limpar as marcações da semana?')) { S.rot = {}; save(); renderRotina(); } }
+    };
+    view.onchange = view.oninput = null;
+  }
+
+  // ----- guia / recursos / progresso -----
+  function renderGuia() {
+    var G = C.curso.guia; document.getElementById('lede').textContent = 'Como seguir o curso até o fim.';
+    if (!G) { view.innerHTML = '<div class="empty">Guia em preparação.</div>'; return; }
+    view.innerHTML = G.sections.map(function (s) { return '<div class="card"><h2 style="font-size:18px">' + esc(s.title) + '</h2><div class="md">' + md(s.body) + '</div></div>'; }).join('');
+    view.onclick = view.onchange = view.oninput = null;
+  }
+  function renderRecursos() {
+    var R = C.recursos; document.getElementById('lede').textContent = 'O que estudar e praticar por fora, por nível.';
+    if (!R) { view.innerHTML = '<div class="empty">Recursos em preparação.</div>'; return; }
+    var h = (R.intro ? '<div class="card md">' + md(R.intro) + '</div>' : '');
+    R.groups.forEach(function (g) {
+      h += '<h2 class="sec">' + esc(g.title) + '</h2>' + (g.note ? '<p class="small muted">' + esc(g.note) + '</p>' : '') + '<div class="res">' + g.items.map(function (it) {
+        return '<div class="resi"><div class="t">' + (it.url ? '<a href="' + esc(it.url) + '" target="_blank" rel="noopener">' + esc(it.name) + '</a>' : esc(it.name)) + ' <span class="pill">' + esc(it.type || '') + '</span>' + (it.level ? ' <span class="pill">' + esc(it.level) + '</span>' : '') + (it.cost ? ' <span class="pill">' + esc(it.cost) + '</span>' : '') + '</div><div class="d">' + esc(it.desc || '') + '</div>' + (it.how ? '<div class="small">👉 ' + esc(it.how) + '</div>' : '') + '</div>';
+      }).join('') + '</div>';
+    });
+    view.innerHTML = h;
+    view.onclick = view.onchange = view.oninput = null;
+  }
+  function renderProgresso() {
+    document.getElementById('lede').textContent = 'Seu progresso: por domínio, não por calendário.';
+    var total = MAP.length, done = MAP.filter(function (m) { return isDone(m.id); }).length, pts = 0, ptsS = 0, ptsW = 0, hw = 0, written = 0;
+    MAP.forEach(function (m) { var a = aula(m.id); if (!a) return; written++; a.grammar.forEach(function (g) { pts++; var p = S.pts[g.id]; if (p && p.s) ptsS++; if (p && p.w) ptsW++; }); if (S.hw[m.id] && S.hw[m.id].done) hw++; });
+    var ms = MAP.filter(function (m) { return m.milestone; });
+    var h = '<div class="card hero"><div class="big">' + (total ? Math.round(done / total * 100) : 0) + '%</div><div><div><b>' + done + '</b> de ' + total + ' aulas dominadas</div><div class="small muted">✍️ ' + ptsS + '/' + pts + ' pontos estudados · 📱 ' + ptsW + ' praticados · 📓 ' + hw + ' lições de casa feitas</div></div></div>';
+    h += '<div class="card"><h2 class="sec" style="margin-top:0">Marcos</h2>' + ms.map(function (m) { return '<div class="wb"><span class="pg">' + (isDone(m.id) ? '🏁' : '◻') + '</span><a href="#/aula/' + m.id + '">' + esc(m.title) + '</a></div>'; }).join('') + '</div>';
+    h += '<div class="card"><h2 class="sec" style="margin-top:0">Por unidade</h2>' + C.curso.units.map(function (u) { var d = u.aulas.filter(function (a) { return isDone(a.id); }).length; return '<div class="row" style="margin:6px 0"><span style="flex:1">' + esc(u.name) + '</span><div class="mini" style="width:120px"><i style="width:' + (d / u.aulas.length * 100) + '%"></i></div><span class="small muted" style="width:44px;text-align:right">' + d + '/' + u.aulas.length + '</span></div>'; }).join('') + '</div>';
+    h += '<div class="card"><h2 class="sec" style="margin-top:0">Backup e integração</h2><div class="row"><button class="btn" id="exp">⬇ Exportar progresso</button><label class="btn">⬆ Importar backup<input type="file" id="imp" accept="application/json" hidden></label><button class="btn" id="gcimp">Importar do genki-companion</button><button class="btn ghost" id="wipe" style="margin-left:auto">Zerar tudo</button></div><p class="small muted" style="margin-top:8px">O progresso fica só neste navegador (localStorage). O backup é um arquivo .json que você guarda onde quiser. A importação do genki-companion traz as marcas ✍️/📱 e as notas dos 77 pontos, se os dois apps abrirem no mesmo navegador.</p></div>';
+    view.innerHTML = h;
+    view.onchange = view.oninput = null;
+    view.onclick = function (e) {
+      var t = e.target.closest('button'); if (!t) return;
+      if (t.id === 'exp') { var blob = new Blob([JSON.stringify({ app: 'curso-japones', version: C.curso.version, state: S }, null, 1)], { type: 'application/json' }); var a = document.createElement('a'); a.href = URL.createObjectURL(blob); a.download = 'curso-japones-progresso.json'; document.body.appendChild(a); a.click(); setTimeout(function () { URL.revokeObjectURL(a.href); a.remove(); }, 500); }
+      if (t.id === 'gcimp') importGC();
+      if (t.id === 'wipe') { if (confirm('Apagar TODO o progresso do curso neste navegador? (Exporte antes se quiser guardar.)')) { S = norm({}); save(); renderProgresso(); updateBar(); } }
+    };
+    document.getElementById('imp').onchange = function (e) {
+      var f = e.target.files[0]; if (!f) return; var r = new FileReader();
+      r.onload = function () { try { var d = JSON.parse(r.result); if (!d || d.app !== 'curso-japones' || !d.state) throw new Error('arquivo não é um backup do curso'); S = norm(d.state); save(); toast('Backup importado'); renderProgresso(); updateBar(); } catch (err) { toast('Não importei: ' + err.message); } };
+      r.readAsText(f);
+    };
+  }
+  function importGC() {
+    var raw = null; try { raw = localStorage.getItem('genki_companion_v1'); } catch (e) {}
+    if (!raw) { toast('Não encontrei dados do genki-companion neste navegador'); return; }
+    var g; try { g = JSON.parse(raw); } catch (e) { toast('Dados do genki-companion ilegíveis'); return; }
+    var n = 0;
+    MAP.forEach(function (m) { var a = aula(m.id); if (!a) return; a.grammar.forEach(function (pt) {
+      if (!pt.gc) return; var s = !!g[pt.gc + '_s'], w = !!g[pt.gc + '_w'], note = g[pt.gc + '_note'];
+      if (!s && !w && !note) return; var p = S.pts[pt.id] = S.pts[pt.id] || {};
+      if (s) p.s = true; if (w) p.w = true; if (note && !p.note) p.note = note; n++;
+    }); });
+    S.imported = true; save(); toast(n + ' pontos importados do genki-companion'); renderProgresso();
+  }
+
+  route();
+})();
+</script>
+</body>
+</html>

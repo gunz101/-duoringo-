@@ -1,0 +1,13 @@
+{
+  "name": "curso-japones",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Curso de Japonês Mirage — app offline de um único HTML (Genki I → Genki II → Ponte N3 → Viagem).",
+  "scripts": {
+    "check": "node tools/check.js --readings",
+    "build": "node tools/build.js"
+  },
+  "devDependencies": {
+    "kuromoji": "^0.1.2"
+  }
+}

@@ -1,0 +1,469 @@
+<!doctype html>
+<html lang="pt-BR">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Curso de Japonês Mirage · 日本語コース</title>
+<style>
+  :root{
+    --bg:#0f1115; --bg2:#171a21; --bg3:#1f242e; --line:#2b323d;
+    --fg:#e8ecf2; --muted:#9aa3b2; --faint:#7e8896;
+    --accent:#7c8cff; --green:#36c98d; --amber:#ffb454; --blue:#56b6ff; --pink:#ff7eb6; --red:#ff5e6c;
+    --radius:16px; --font:-apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,"Noto Sans","Noto Sans JP",sans-serif;
+    --jp:"Hiragino Kaku Gothic ProN","Yu Gothic","Meiryo","Noto Sans JP",sans-serif;
+  }
+  *{box-sizing:border-box;margin:0;padding:0}
+  html{color-scheme:dark}
+  body{background:var(--bg);color:var(--fg);font-family:var(--font);line-height:1.55;-webkit-font-smoothing:antialiased;font-size:15px}
+  :focus-visible{outline:2px solid var(--accent);outline-offset:2px}
+  a{color:var(--blue)}
+  button{font:inherit;color:inherit;cursor:pointer}
+  .jp{font-family:var(--jp)}
+  .wrap{max-width:860px;margin:0 auto;padding:18px 16px 80px}
+  header.top{display:flex;align-items:center;gap:12px;flex-wrap:wrap;padding:6px 0 12px}
+  header.top h1{font-size:20px;font-weight:700;letter-spacing:.2px}
+  header.top h1 .jp{color:var(--accent);margin-left:6px}
+  header.top .lede{color:var(--muted);font-size:13px;width:100%}
+  nav.tabs{display:flex;gap:6px;flex-wrap:wrap;margin-left:auto}
+  nav.tabs a{padding:6px 11px;border-radius:999px;border:1px solid var(--line);color:var(--muted);text-decoration:none;font-size:13px;background:var(--bg2)}
+  nav.tabs a.on{background:var(--accent);border-color:var(--accent);color:#0b0d12;font-weight:600}
+  .bar{position:sticky;top:0;z-index:5;background:color-mix(in srgb,var(--bg) 90%,transparent);backdrop-filter:blur(10px);border-bottom:1px solid var(--line);margin:0 -16px 14px;padding:10px 16px}
+  .barrow{display:flex;align-items:center;gap:12px}
+  .prog{flex:1;height:8px;background:var(--bg3);border-radius:999px;overflow:hidden}
+  .prog>i{display:block;height:100%;width:0;background:linear-gradient(90deg,var(--accent),var(--blue));transition:width .3s}
+  .pct{font-size:13px;color:var(--muted);white-space:nowrap}
+  .card{background:var(--bg2);border:1px solid var(--line);border-radius:var(--radius);padding:16px;margin:12px 0}
+  .muted{color:var(--muted)} .faint{color:var(--faint)} .small{font-size:13px}
+  .btn{display:inline-flex;align-items:center;gap:6px;padding:7px 12px;border-radius:10px;border:1px solid var(--line);background:var(--bg3);color:var(--fg);font-size:13px;text-decoration:none}
+  .btn:hover{border-color:var(--accent)}
+  .btn.primary{background:var(--accent);border-color:var(--accent);color:#0b0d12;font-weight:600}
+  .btn.ghost{background:transparent}
+  .row{display:flex;gap:8px;flex-wrap:wrap;align-items:center}
+  .pill{display:inline-block;padding:2px 9px;border-radius:999px;font-size:12px;border:1px solid var(--line);color:var(--muted);background:var(--bg3)}
+  .pill.n5{color:var(--green);border-color:color-mix(in srgb,var(--green) 40%,transparent)}
+  .pill.n4{color:var(--blue);border-color:color-mix(in srgb,var(--blue) 40%,transparent)}
+  .pill.n3{color:var(--pink);border-color:color-mix(in srgb,var(--pink) 40%,transparent)}
+  .pill.kana{color:var(--amber);border-color:color-mix(in srgb,var(--amber) 40%,transparent)}
+  input[type=search],textarea{width:100%;background:var(--bg3);border:1px solid var(--line);border-radius:10px;color:var(--fg);padding:9px 11px;font:inherit}
+  textarea{min-height:90px;resize:vertical;font-size:14px}
+  /* units / trail */
+  details.unit{background:var(--bg2);border:1px solid var(--line);border-radius:var(--radius);margin:10px 0;overflow:hidden}
+  details.unit>summary{list-style:none;cursor:pointer;padding:14px 16px;display:flex;align-items:center;gap:12px}
+  details.unit>summary::-webkit-details-marker{display:none}
+  .unum{min-width:40px;height:40px;border-radius:12px;background:var(--bg3);display:grid;place-items:center;font-weight:700;color:var(--accent);font-size:13px}
+  .utitle{flex:1;min-width:0}.utitle b{display:block;font-size:15px}.utitle span{font-size:12px;color:var(--muted)}
+  .mini{width:70px;height:6px;background:var(--bg3);border-radius:999px;overflow:hidden}.mini>i{display:block;height:100%;background:var(--green)}
+  .chev{color:var(--faint);transition:transform .2s}details[open]>summary .chev{transform:rotate(90deg)}
+  .alist{border-top:1px solid var(--line)}
+  .aitem{display:flex;gap:12px;align-items:center;padding:11px 16px;border-top:1px solid var(--line);text-decoration:none;color:inherit}
+  .aitem:first-child{border-top:none}.aitem:hover{background:var(--bg3)}
+  .aid{font-family:ui-monospace,Consolas,monospace;font-size:12px;color:var(--faint);min-width:44px}
+  .atxt{flex:1;min-width:0}.atxt b{font-size:14px}.atxt .pts{font-size:12px;color:var(--muted);white-space:nowrap;overflow:hidden;text-overflow:ellipsis}
+  .astate{font-size:12px;white-space:nowrap}.astate.done{color:var(--green)}.astate.go{color:var(--amber)}
+  .aitem.locked{opacity:.45;pointer-events:none}
+  .aitem.milestone .atxt b::before{content:"🏁 "}
+  .hero{display:flex;gap:14px;align-items:center;flex-wrap:wrap}
+  .hero .big{font-size:34px;font-weight:800;color:var(--accent)}
+  /* aula */
+  .ahead h2{font-size:24px;line-height:1.25}.ahead .jp{font-size:18px;color:var(--accent)}
+  .toc{display:flex;flex-wrap:wrap;gap:6px;margin-top:10px}
+  .toc button{background:var(--bg3);border:1px solid var(--line);border-radius:999px;padding:3px 10px;font-size:12px;color:var(--muted)}
+  .toc button:hover{color:var(--fg);border-color:var(--accent)}
+  section.blk{background:var(--bg2);border:1px solid var(--line);border-radius:var(--radius);padding:16px;margin:14px 0;scroll-margin-top:70px}
+  section.blk>h3{font-size:16px;display:flex;align-items:center;gap:10px;margin-bottom:10px}
+  section.blk>h3 .n{width:26px;height:26px;border-radius:8px;background:var(--accent);color:#0b0d12;display:grid;place-items:center;font-size:13px;font-weight:800}
+  ul.clean{list-style:none}ul.clean li{padding:4px 0 4px 22px;position:relative}ul.clean li::before{content:"✓";position:absolute;left:2px;color:var(--green)}
+  ol.steps{padding-left:22px}ol.steps li{margin:4px 0}
+  .dur{display:grid;grid-template-columns:1fr auto;gap:6px 12px}.dur .m{color:var(--amber);font-variant-numeric:tabular-nums;text-align:right}
+  .durbar{display:flex;height:10px;border-radius:999px;overflow:hidden;margin:8px 0 12px;background:var(--bg3)}
+  .durbar i{display:block;height:100%}
+  .vocab{display:grid;grid-template-columns:repeat(auto-fill,minmax(190px,1fr));gap:8px;margin-top:10px}
+  .voc{background:var(--bg3);border-radius:10px;padding:8px 10px;cursor:pointer;border:1px solid transparent}.voc:hover{border-color:var(--line)}
+  .voc .j{font-family:var(--jp);font-size:17px}.voc .r{font-size:12px;color:var(--muted)}.voc .p{font-size:13px}
+  .point{border-top:1px solid var(--line);padding-top:14px;margin-top:14px}.point:first-of-type{border-top:none;padding-top:0;margin-top:0}
+  .phead{display:flex;gap:10px;align-items:flex-start;flex-wrap:wrap}
+  .phead h4{font-size:18px;font-family:var(--jp);flex:1;min-width:180px}.phead h4 small{font-family:var(--font);font-size:13px;color:var(--muted);font-weight:400;margin-left:6px}
+  .cb{border:1px solid var(--line);background:var(--bg3);border-radius:999px;padding:3px 10px;font-size:12px;color:var(--muted)}
+  .cb.s.on{background:color-mix(in srgb,var(--green) 22%,transparent);border-color:var(--green);color:var(--fg)}
+  .cb.w.on{background:color-mix(in srgb,var(--blue) 22%,transparent);border-color:var(--blue);color:var(--fg)}
+  .cb.nt.on{border-color:var(--pink);color:var(--pink)}
+  .expl{margin:8px 0}.expl p{margin:6px 0}.expl ul,.md ul{padding-left:22px;margin:6px 0}.expl li{margin:3px 0}
+  .struct{display:inline-block;font-family:var(--jp);background:var(--bg3);border:1px dashed var(--line);border-radius:8px;padding:4px 10px;margin:4px 0 8px;color:var(--amber)}
+  .ex{display:grid;gap:8px;margin:8px 0}
+  .exrow{background:var(--bg3);border-radius:12px;padding:10px 12px}
+  .exrow .j{font-family:var(--jp);font-size:18px;line-height:1.5}
+  .exrow .k{font-family:var(--jp);font-size:13px;color:var(--faint)}
+  .exrow .r{font-size:13px;color:var(--muted);font-style:italic}
+  .exrow .p{font-size:14px}.exrow .p::before{content:"→ ";color:var(--faint)}
+  .exrow .tools{float:right;display:flex;gap:4px}
+  .ibtn{background:transparent;border:1px solid var(--line);border-radius:8px;padding:2px 7px;font-size:13px;color:var(--muted)}.ibtn:hover{color:var(--fg);border-color:var(--accent)}
+  .anat{display:flex;flex-wrap:wrap;gap:6px;margin-top:8px}
+  .chip{border:1px solid var(--c,var(--line));border-radius:10px;padding:4px 8px 3px;background:color-mix(in srgb,var(--c,#888) 12%,transparent);text-align:center;min-width:52px}
+  .chip .t{font-family:var(--jp);font-size:15px}.chip .t em{font-style:normal;color:var(--c);font-weight:700}
+  .chip .l{font-size:10px;letter-spacing:.4px;color:var(--c);font-weight:700;text-transform:uppercase}
+  .chip.pred{border-width:2px}
+  .anatnote{font-size:12px;color:var(--faint);margin-top:4px}
+  .pit{background:color-mix(in srgb,var(--red) 8%,transparent);border-left:3px solid var(--red);border-radius:8px;padding:8px 12px;margin:8px 0}
+  .pit b{color:var(--red);font-size:13px}.pit ul{padding-left:18px;margin-top:4px}.pit li{margin:3px 0;font-size:14px}
+  .flag{background:color-mix(in srgb,var(--amber) 12%,transparent);border-left:3px solid var(--amber);border-radius:8px;padding:8px 12px;margin:8px 0;font-size:14px}
+  .note{margin-top:8px}.note textarea{min-height:70px}
+  .study{border-left:3px solid var(--accent);padding:4px 0 4px 12px;margin:10px 0}
+  .study b{font-family:var(--jp)}
+  .media{display:grid;gap:8px}.med{display:flex;gap:10px;align-items:flex-start;background:var(--bg3);border-radius:12px;padding:10px 12px}
+  .med .o{min-width:24px;height:24px;border-radius:50%;background:var(--bg);display:grid;place-items:center;font-size:12px;color:var(--accent);font-weight:700}
+  .med .k{font-size:11px;text-transform:uppercase;letter-spacing:.5px;color:var(--faint)}
+  .task{margin:12px 0}.task h5{font-size:14px;margin-bottom:6px}
+  .hwi{display:grid;grid-template-columns:auto 1fr;gap:4px 10px;padding:8px 0;border-top:1px dashed var(--line)}
+  .hwi .q{font-family:var(--jp)}.hwi .num{color:var(--faint);font-size:13px}
+  .ans{grid-column:2;display:none;background:color-mix(in srgb,var(--green) 10%,transparent);border-radius:8px;padding:6px 10px}
+  .ans.show{display:block}.ans .j{font-family:var(--jp);font-size:16px}.ans .r{font-size:13px;color:var(--muted);font-style:italic}
+  .reveal{grid-column:2;justify-self:start;font-size:12px}
+  .wb{display:flex;gap:10px;align-items:baseline;padding:4px 0}.wb .pg{font-family:ui-monospace,Consolas,monospace;color:var(--amber);min-width:52px}
+  .prac{display:grid;gap:8px}.pr{display:flex;gap:10px;background:var(--bg3);border-radius:12px;padding:10px 12px}
+  .pr .tool{min-width:92px;font-weight:700;font-size:13px}.pr .min{margin-left:auto;color:var(--amber);font-size:13px;white-space:nowrap}
+  .cult h4{font-size:17px}.cult .try{margin-top:10px;background:var(--bg3);border-radius:10px;padding:8px 12px}
+  .chk label{display:flex;gap:10px;align-items:flex-start;padding:7px 0;border-top:1px dashed var(--line);cursor:pointer}
+  .chk label:first-child{border-top:none}.chk input{margin-top:4px;width:18px;height:18px;accent-color:var(--green)}
+  .done-banner{background:color-mix(in srgb,var(--green) 16%,transparent);border:1px solid var(--green);border-radius:12px;padding:10px 14px;margin-top:10px;display:none}
+  .done-banner.show{display:block}
+  .anav{display:flex;justify-content:space-between;gap:8px;margin-top:16px}
+  /* rotina */
+  .grid7{display:grid;grid-template-columns:minmax(110px,1.4fr) repeat(7,1fr);gap:4px;align-items:center;font-size:13px}
+  .grid7 .h{color:var(--faint);text-align:center;font-size:12px}
+  .grid7 button{height:32px;border-radius:8px;border:1px solid var(--line);background:var(--bg3)}
+  .grid7 button.on{background:var(--green);border-color:var(--green)}
+  .tag{display:inline-block;font-size:11px;padding:1px 7px;border-radius:999px;margin-left:6px}
+  .tag.core{background:color-mix(in srgb,var(--green) 20%,transparent);color:var(--green)}
+  .tag.flex{background:color-mix(in srgb,var(--amber) 20%,transparent);color:var(--amber)}
+  .md p{margin:6px 0}.md ul{padding-left:20px}.md li{margin:3px 0}
+  h2.sec{font-size:18px;margin:18px 0 6px}
+  .res{display:grid;gap:8px}.resi{background:var(--bg3);border-radius:12px;padding:10px 12px}
+  .resi .t{font-weight:600}.resi .d{font-size:13px;color:var(--muted)}
+  .toast{position:fixed;left:50%;bottom:20px;transform:translateX(-50%);background:var(--bg3);border:1px solid var(--line);border-radius:12px;padding:8px 14px;font-size:13px;opacity:0;transition:opacity .2s;pointer-events:none;z-index:20}
+  .toast.show{opacity:1}
+  .empty{padding:30px;text-align:center;color:var(--muted)}
+  @media (max-width:560px){ .exrow .j{font-size:16px} .pr{flex-wrap:wrap} .pr .tool{min-width:0} .grid7{grid-template-columns:90px repeat(7,1fr)} nav.tabs{margin-left:0} }
+  @media print{ .bar,nav.tabs,.tools,.cb,.reveal,.anav,.toc{display:none!important} .ans{display:block!important} body{background:#fff;color:#000} section.blk,.card{border-color:#ccc;background:#fff} }
+</style>
+</head>
+<body>
+<div class="wrap">
+  <header class="top">
+    <h1>Curso de Japonês <span class="jp">日本語コース</span></h1>
+    <nav class="tabs" id="tabs">
+      <a href="#/" data-v="home">Trilha</a>
+      <a href="#/rotina" data-v="rotina">Rotina</a>
+      <a href="#/guia" data-v="guia">Guia</a>
+      <a href="#/recursos" data-v="recursos">Recursos</a>
+      <a href="#/progresso" data-v="progresso">Progresso</a>
+    </nav>
+    <div class="lede" id="lede"></div>
+  </header>
+  <div class="bar"><div class="barrow"><div class="prog"><i id="progbar"></i></div><div class="pct" id="pct"></div></div></div>
+  <main id="view"></main>
+</div>
+<div class="toast" id="toast"></div>
+<script>window.CURSO = {"curso":{"version":"1.0.0","title":"Curso de Japonês Mirage","titleJp":"日本語コース","tagline":"Do kana ao N3, por marcos de domínio: sem datas, sem prazo.","units":[{"id":"U0","name":"Unidade 0 · Antes de começar","level":"Kana","book":"Genki I · sistema de escrita, あいさつ, すうじ","aulas":[{"id":"00-1","title":"Os sons do japonês e o hiragana","points":["mora e ritmo","5 vogais","as 46 letras básicas","dakuten e handakuten","combinações (きゃ…)","っ e vogais longas","noção de pitch"]},{"id":"00-2","title":"Katakana e palavras estrangeiras","points":["katakana básico","ー (vogal longa)","ッ","combinações novas (ティ, ファ…)","como o português vira katakana"]},{"id":"00-3","title":"Cumprimentos e números 0–100","points":["あいさつ do dia","すみません / どうも / ありがとう","はじめまして・よろしく","números 0–100"]}]},{"id":"G1-L01","name":"Genki I · Lição 1 · あたらしいともだち","level":"N5","book":"Genki I · Lição 1","lesson":1,"aulas":[{"id":"01-1","title":"Eu sou…","points":["X は Y です","〜か","N₁ の N₂"],"gc":["1-1","1-2","1-3"]},{"id":"01-2","title":"Horas, telefone e idade","points":["〜じ / 〜じはん","números de telefone","〜さい","〜ねんせい","いま なんじですか"]}]},{"id":"G1-L02","name":"Genki I · Lição 2 · かいもの","level":"N5","book":"Genki I · Lição 2","lesson":2,"aulas":[{"id":"02-1","title":"Isto, esse, aquele","points":["これ・それ・あれ・どれ","この・その・あの・どの + N","ここ・そこ・あそこ・どこ","だれの"],"gc":["2-1","2-2","2-3","2-4"]},{"id":"02-2","title":"Fazendo compras","points":["〜えん","いくら","números até 100.000","〜を ください","〜を おねがいします"]},{"id":"02-3","title":"Também, não é, né?","points":["N も","N じゃないです","〜ね / 〜よ"],"gc":["2-5","2-6","2-7"]}]},{"id":"G1-L03","name":"Genki I · Lição 3 · デートの約束","level":"N5","book":"Genki I · Lição 3","lesson":3,"aulas":[{"id":"03-1","title":"Verbos: presente educado","points":["verbos る, う e irregulares","〜ます / 〜ません"],"gc":["3-1","3-2"]},{"id":"03-2","title":"Partículas de ação","points":["を","で (lugar da ação)","に / へ (destino)","は como tópico e contraste","ordem da frase"],"gc":["3-3","3-4","3-8"]},{"id":"03-3","title":"Quando e com que frequência","points":["に com horários e dias","palavras de tempo sem に","advérbios de frequência","〜ませんか (convite)"],"gc":["3-5","3-6","3-7"]}]},{"id":"G1-L04","name":"Genki I · Lição 4 · はじめてのデート","level":"N5","book":"Genki I · Lição 4","lesson":4,"aulas":[{"id":"04-1","title":"Existir e onde fica","points":["あります / います","palavras de lugar (うえ, した, なか…)","N は 〜に あります"],"gc":["4-1","4-2"]},{"id":"04-2","title":"O passado educado","points":["でした / じゃなかったです","〜ました / 〜ませんでした"],"gc":["4-3","4-4"]},{"id":"04-3","title":"E, com, também, muito","points":["N と N","N と (com alguém)","も depois de outras partículas","〜じかん","たくさん"],"gc":["4-5","4-6","4-7","4-8"]},{"id":"M-1","title":"Marco 1 · metade do Genki I","points":["revisão L1–4","autoteste com gabarito","apresentação de 1 minuto"],"milestone":true}]},{"id":"G1-L05","name":"Genki I · Lição 5 · おきなわりょこう","level":"N5","book":"Genki I · Lição 5","lesson":5,"aulas":[{"id":"05-1","title":"Adjetivos い e な","points":["adjetivos い","adjetivos な","presente afirmativo e negativo","adjetivo + substantivo"],"gc":["5-1","5-2"]},{"id":"05-2","title":"Adjetivos no passado · gostar","points":["passado dos adjetivos","すき(な) / きらい(な)"],"gc":["5-3","5-4"]},{"id":"05-3","title":"Vamos! · contando coisas","points":["〜ましょう / 〜ましょうか","ひとつ, ふたつ… e contadores","graus: とても, ちょっと, ぜんぜん"],"gc":["5-5","5-6","5-7"]}]},{"id":"G1-L06","name":"Genki I · Lição 6 · ロバートさんの一日","level":"N5","book":"Genki I · Lição 6","lesson":6,"aulas":[{"id":"06-1","title":"A forma て","points":["formação: verbos る","formação: verbos う (って, んで, いて, して…)","irregulares して / きて / いって"],"gc":["6-1"]},{"id":"06-2","title":"Pedir e encadear ações","points":["〜てください","ação て ação (e depois)"],"gc":["6-2","6-5"]},{"id":"06-3","title":"Pode / não pode","points":["〜てもいいです","〜てはいけません"],"gc":["6-3","6-4"]},{"id":"06-4","title":"Porque · posso ajudar?","points":["〜から (porque)","〜ましょうか (oferecer ajuda)"],"gc":["6-6","6-7"]}]},{"id":"G1-L07","name":"Genki I · Lição 7 · かぞくのしゃしん","level":"N5","book":"Genki I · Lição 7","lesson":7,"aulas":[{"id":"07-1","title":"〜ている","points":["ação em progresso","estado resultante (けっこんしている, すんでいる…)"],"gc":["7-1","7-2"]},{"id":"07-2","title":"Descrevendo pessoas","points":["N は X が Adj (かみが ながい)","unir descrições com くて / で"],"gc":["7-3","7-4"]},{"id":"07-3","title":"Ir fazer · contar pessoas","points":["radical + に いく / くる / かえる","ひとり, ふたり, 〜にん"],"gc":["7-5","7-6"]}]},{"id":"G1-L08","name":"Genki I · Lição 8 · バーベキュー","level":"N5","book":"Genki I · Lição 8","lesson":8,"aulas":[{"id":"08-1","title":"Formas curtas (presente)","points":["forma de dicionário e ない","adjetivos e substantivos na forma curta","fala casual"],"gc":["8-1","8-2"]},{"id":"08-2","title":"Citar e opinar","points":["〜と おもいます","〜と いっていました"],"gc":["8-3","8-4"]},{"id":"08-3","title":"Não faça · gosto de fazer · algo/nada","points":["〜ないでください","verbo + のが すき / じょうず","が (mas)","なにか / なにも"],"gc":["8-5","8-6","8-7","8-8"]},{"id":"M-2","title":"Marco 2 · dois terços do Genki I","points":["revisão L5–8","autoteste com gabarito","relato de um dia"],"milestone":true}]},{"id":"G1-L09","name":"Genki I · Lição 9 · かぶき","level":"N5","book":"Genki I · Lição 9","lesson":9,"aulas":[{"id":"09-1","title":"Formas curtas (passado)","points":["た / なかった","fala casual no passado","と おもう / と いっていた com passado"],"gc":["9-1","9-2","9-3"]},{"id":"09-2","title":"Frases que descrevem substantivos","points":["oração + substantivo (めがねを かけている ひと)"],"gc":["9-4"]},{"id":"09-3","title":"Já / ainda não · porque","points":["もう 〜ました","まだ 〜ていません","〜から com forma curta"],"gc":["9-5","9-6"]}]},{"id":"G1-L10","name":"Genki I · Lição 10 · ふゆやすみのよてい","level":"N5","book":"Genki I · Lição 10","lesson":10,"aulas":[{"id":"10-1","title":"Comparar","points":["A のほうが B より","どちらが","〜の なかで 〜が いちばん"],"gc":["10-1","10-2"]},{"id":"10-2","title":"O que + intenção","points":["adjetivo/substantivo + の (\"o vermelho\")","〜つもりだ"],"gc":["10-3","10-4"]},{"id":"10-3","title":"Mudar · algum lugar · meio","points":["〜くなる / 〜になる","どこかに / どこにも","で (meio de transporte)","〜かかります"],"gc":["10-5","10-6","10-7"]}]},{"id":"G1-L11","name":"Genki I · Lição 11 · やすみのあと","level":"N5","book":"Genki I · Lição 11","lesson":11,"aulas":[{"id":"11-1","title":"Querer fazer · listar ações","points":["〜たい","〜たり 〜たりする"],"gc":["11-1","11-2"]},{"id":"11-2","title":"Experiência e listas","points":["〜ことが ある","A や B"],"gc":["11-3","11-4"]}]},{"id":"G1-L12","name":"Genki I · Lição 12 · びょうき","level":"N5","book":"Genki I · Lição 12","lesson":12,"aulas":[{"id":"12-1","title":"Explicar · demais","points":["〜んです","〜すぎる"],"gc":["12-1","12-2"]},{"id":"12-2","title":"Conselho · porque","points":["〜ほうが いいです","〜ので"],"gc":["12-3","12-4"]},{"id":"12-3","title":"Obrigação · provavelmente","points":["〜なければいけません / 〜なきゃ","〜でしょう"],"gc":["12-5","12-6"]},{"id":"M-3","title":"Marco 3 · N5 (fim do Genki I)","points":["revisão L1–12","simulado curto com gabarito","conversa de 3 minutos"],"milestone":true}]},{"id":"G2-L13","name":"Genki II · Lição 13 · アルバイト探し","level":"N4","book":"Genki II · Lição 13","lesson":13,"aulas":[{"id":"13-1","title":"Poder fazer","points":["verbos potenciais (られる / える)"]},{"id":"13-2","title":"E além disso · parece","points":["〜し 〜し","〜そうです (aparência)"]},{"id":"13-3","title":"Experimentar · se for · frequência","points":["〜てみる","なら","一週間に三回"]}]},{"id":"G2-L14","name":"Genki II · Lição 14 · バレンタインデー","level":"N4","book":"Genki II · Lição 14","lesson":14,"aulas":[{"id":"14-1","title":"Querer coisas · talvez","points":["ほしい","〜かもしれません"]},{"id":"14-2","title":"Dar e receber","points":["あげる","くれる","もらう"]},{"id":"14-3","title":"Sugerir · quantidade","points":["〜たらどうですか","número + も","número + しか〜ない"]}]},{"id":"G2-L15","name":"Genki II · Lição 15 · 長野旅行","level":"N4","book":"Genki II · Lição 15","lesson":15,"aulas":[{"id":"15-1","title":"Vamos! (casual) e planos","points":["forma volitiva","volitiva + と思っています"]},{"id":"15-2","title":"Deixar pronto · descrever mais","points":["〜ておく","orações que qualificam substantivos (II)"]}]},{"id":"G2-L16","name":"Genki II · Lição 16 · 忘れ物","level":"N4","book":"Genki II · Lição 16","lesson":16,"aulas":[{"id":"16-1","title":"Favores","points":["〜てあげる","〜てくれる","〜てもらう"]},{"id":"16-2","title":"Pedir com educação · desejar","points":["〜ていただけませんか","〜といいですね / 〜といいんですが"]},{"id":"16-3","title":"Quando · desculpas","points":["〜とき","〜てすみませんでした"]},{"id":"M-4","title":"Marco 4 · primeira metade do Genki II","points":["revisão L13–16","autoteste com gabarito","pedir um favor em 1 minuto"],"milestone":true}]},{"id":"G2-L17","name":"Genki II · Lição 17 · ぐちとうわさ話","level":"N4","book":"Genki II · Lição 17","lesson":17,"aulas":[{"id":"17-1","title":"Ouvi dizer","points":["〜そうです (boato)","〜って"]},{"id":"17-2","title":"Se/quando · não precisa","points":["〜たら","〜なくてもいいです"]},{"id":"17-3","title":"Parece que · antes/depois","points":["〜みたいです","〜前に","〜てから"]}]},{"id":"G2-L18","name":"Genki II · Lição 18 · ジョンさんのアルバイト","level":"N4","book":"Genki II · Lição 18","lesson":18,"aulas":[{"id":"18-1","title":"Transitivo × intransitivo","points":["pares 開ける/開く, 入れる/入る…","〜ている com intransitivos"]},{"id":"18-2","title":"Acabar fazendo","points":["〜てしまう (completar / arrepender-se)","〜ちゃう"]},{"id":"18-3","title":"Sempre que · enquanto · devia ter","points":["〜と","〜ながら","〜ばよかったです"]}]},{"id":"G2-L19","name":"Genki II · Lição 19 · 出迎え","level":"N4","book":"Genki II · Lição 19","lesson":19,"aulas":[{"id":"19-1","title":"Linguagem honorífica","points":["verbos honoríficos especiais","お〜になる","お〜ください"]},{"id":"19-2","title":"Gratidão e expectativa","points":["〜てくれてありがとう","〜てよかったです","〜はずです"]}]},{"id":"G2-L20","name":"Genki II · Lição 20 · メアリーさんの買い物","level":"N4","book":"Genki II · Lição 20","lesson":20,"aulas":[{"id":"20-1","title":"Linguagem humilde","points":["verbos humildes especiais","お〜する","expressões extra-modestas"]},{"id":"20-2","title":"Sem fazer · perguntas dentro da frase","points":["〜ないで","〜か (pergunta embutida)","〜かどうか"]},{"id":"20-3","title":"Chamado de · fácil/difícil de","points":["〜という N","〜やすい / 〜にくい"]}]},{"id":"G2-L21","name":"Genki II · Lição 21 · どろぼう","level":"N4","book":"Genki II · Lição 21","lesson":21,"aulas":[{"id":"21-1","title":"A voz passiva","points":["formação da passiva","passiva de incômodo"]},{"id":"21-2","title":"Está feito · durante · quero que você","points":["〜てある","〜間に","adjetivo + する","〜てほしい"]}]},{"id":"G2-L22","name":"Genki II · Lição 22 · 日本の教育","level":"N4","book":"Genki II · Lição 22","lesson":22,"aulas":[{"id":"22-1","title":"Causativo","points":["formação: させる / せる","fazer/deixar alguém fazer","〜させてあげる / 〜させてくれる"]},{"id":"22-2","title":"Ordens · se · apesar de · como","points":["radical + なさい","〜ば","〜のに","〜のような / 〜のように"]}]},{"id":"G2-L23","name":"Genki II · Lição 23 · 別れ","level":"N4","book":"Genki II · Lição 23","lesson":23,"aulas":[{"id":"23-1","title":"Ser obrigado a · mesmo que","points":["causativo-passivo","〜ても"]},{"id":"23-2","title":"Decidir · até · jeito de","points":["〜ことにする","〜ことにしている","〜まで","〜方"]},{"id":"M-5","title":"Marco 5 · N4 (fim do Genki II)","points":["revisão L13–23","simulado curto com gabarito","contar uma história de 3 minutos"],"milestone":true}]},{"id":"P-N3","name":"Ponte N3 · depois do Genki","level":"N3","book":"Pós-Genki (sem livro-base; referências em cada aula)","aulas":[{"id":"P-01","title":"Passar a conseguir · procurar fazer","points":["〜ようになる","〜ようにする"]},{"id":"P-02","title":"Ficou decidido","points":["〜ことになる","〜ことにする (contraste)"]},{"id":"P-03","title":"Para (propósito)","points":["〜ために","〜ように"]},{"id":"P-04","title":"Os quatro \"parece\"","points":["〜そうだ","〜ようだ","〜みたいだ","〜らしい"]},{"id":"P-05","title":"O momento da ação","points":["〜るところ / 〜ているところ / 〜たところ","〜たばかり"]},{"id":"P-06","title":"Enquanto ainda · durante","points":["〜うちに","〜間 / 〜間に","〜最中に"]},{"id":"P-07","title":"Não é que… · não tem como","points":["〜わけだ","〜わけではない","〜わけがない","〜はずがない"]},{"id":"P-08","title":"Quanto mais…","points":["〜ば〜ほど","〜ほど / 〜くらい (grau)"]},{"id":"P-09","title":"Partículas compostas","points":["〜について","〜に対して","〜によって","〜として"]},{"id":"P-10","title":"Graças a · por culpa de","points":["〜おかげで","〜せいで"]},{"id":"P-11","title":"Pedir permissão com o causativo","points":["〜させてください","〜させていただきます"]},{"id":"P-12","title":"Keigo no dia a dia","points":["na loja","ao telefone","e-mail curto"]},{"id":"P-13","title":"Conectores de texto","points":["しかし","それで / だから","つまり","ところで","それに"]},{"id":"P-14","title":"Até mesmo · justamente","points":["〜さえ","〜こそ","〜でも (até)"]},{"id":"P-15","title":"Tendência","points":["〜っぽい","〜がち","〜気味"]},{"id":"P-16","title":"A fala real (contrações)","points":["〜ちゃう / 〜じゃう","〜とく","〜てる","〜なきゃ / 〜なくちゃ","〜じゃん"]},{"id":"P-17","title":"Onomatopeias","points":["擬音語 (sons)","擬態語 (estados)","as mais usadas no dia a dia"]},{"id":"P-18","title":"Estilo escrito e leitura","points":["〜である","estratégias de leitura (NHK Easy)"]},{"id":"P-19","title":"Não posso deixar de · não é que não","points":["〜わけにはいかない","〜ないことはない"]},{"id":"P-20","title":"Assim que · mal","points":["〜たとたん","〜次第"]},{"id":"P-21","title":"Kanji para a vida toda","points":["radicais","on'yomi e kun'yomi","método de estudo contínuo"]},{"id":"P-22","title":"Pronúncia natural","points":["pitch accent","entonação de frase","shadowing avançado"]},{"id":"M-6","title":"Marco 6 · Ponte N3","points":["autoavaliação","como seguir (livros intermediários, JLPT opcional)"],"milestone":true}]},{"id":"V","name":"Trilha Viagem · japonês para o Japão","level":"N5+","book":"Situações reais (paralela ao curso, a partir da Aula 06-4)","aulas":[{"id":"V-01","title":"Aeroporto e imigração","points":["perguntas do guichê","motivo e tempo de estadia","achar a saída/o trem"]},{"id":"V-02","title":"Trem, metrô e IC card","points":["comprar/recarregar","perguntar a plataforma","avisos da estação"]},{"id":"V-03","title":"Hotel e ryokan","points":["check-in","pedidos no quarto","regras do ryokan"]},{"id":"V-04","title":"Restaurante e izakaya","points":["quantas pessoas","pedir","restrições","pagar"]},{"id":"V-05","title":"Konbini e compras","points":["frases do caixa","sacola, esquentar, recibo","tax-free"]},{"id":"V-06","title":"Pedir direções","points":["onde fica","direita/esquerda/reto","entender a resposta"]},{"id":"V-07","title":"Farmácia, saúde e emergência","points":["sintomas","farmácia","polícia/ambulância"]},{"id":"V-08","title":"Templos, santuários e onsen","points":["etiqueta no santuário","no templo","regras do onsen"]}]}]},"aulas":{"01-1":{"id":"01-1","unit":"G1-L01","genki":{"book":"Genki I","lesson":1,"points":["X は Y です","Question sentences (〜か)","Noun₁ の Noun₂"]},"title":"Eu sou…","titleJp":"わたしは ブラジルじんです","canDo":["Dizer quem eu sou: nome, nacionalidade e o que faço (estudante, professor…).","Transformar uma afirmação em pergunta de sim/não e responder.","Perguntar \"qual é…?\" (a sua área, o seu nome) e entender a resposta.","Ligar dois substantivos: \"estudante da universidade X\", \"professor de japonês\", \"meu nome\"."],"duration":{"total":"60–75 min","blocks":[{"t":"Aquecimento: ler em voz alta o vocabulário da aula (bloco 3), só lendo o kana","min":5},{"t":"Vocabulário: ouvir 🔊 cada palavra e repetir 2 vezes","min":10},{"t":"Gramática: os 3 pontos, cada um com os exemplos lidos em voz alta e um 🔬","min":20},{"t":"Vídeo da Lição 1 (bloco 6), pausando nos exemplos","min":10},{"t":"Lição de casa no caderno + conferir no gabarito","min":15},{"t":"Checklist (bloco 10) + anotar dúvidas no caderno da aula","min":5}]},"prereqs":{"aulas":["00-1","00-3"],"skills":["Ler hiragana, mesmo que devagar (as frases desta aula são todas em kana).","Reconhecer katakana básico ajuda para nomes e países (ブラジル, マリア), mas não é obrigatório: o kana vem sempre escrito."],"vocab":[{"jp":"わたし","kana":"わたし","romaji":"watashi","pt":"eu"},{"jp":"なまえ","kana":"なまえ","romaji":"namae","pt":"nome"},{"jp":"がくせい","kana":"がくせい","romaji":"gakusei","pt":"estudante"},{"jp":"だいがくせい","kana":"だいがくせい","romaji":"daigakusei","pt":"universitário(a)"},{"jp":"せんせい","kana":"せんせい","romaji":"sensei","pt":"professor(a)"},{"jp":"だいがく","kana":"だいがく","romaji":"daigaku","pt":"universidade, faculdade"},{"jp":"にほん","kana":"にほん","romaji":"Nihon","pt":"Japão"},{"jp":"にほんじん","kana":"にほんじん","romaji":"nihonjin","pt":"japonês/japonesa (pessoa)"},{"jp":"にほんご","kana":"にほんご","romaji":"nihongo","pt":"língua japonesa"},{"jp":"ブラジル","kana":"ブラジル","romaji":"Burajiru","pt":"Brasil"},{"jp":"ブラジルじん","kana":"ブラジルじん","romaji":"burajirujin","pt":"brasileiro(a)"},{"jp":"アメリカじん","kana":"アメリカじん","romaji":"amerikajin","pt":"americano(a)"},{"jp":"せんこう","kana":"せんこう","romaji":"senkō","pt":"área de estudo (curso, \"major\")"},{"jp":"れきし","kana":"れきし","romaji":"rekishi","pt":"história"},{"jp":"けいざい","kana":"けいざい","romaji":"keizai","pt":"economia"},{"jp":"〜さん","kana":"〜さん","romaji":"-san","pt":"Sr./Sra. (depois do nome dos outros, nunca do seu)"},{"jp":"なん","kana":"なん","romaji":"nan","pt":"o quê (forma usada antes de です)"},{"jp":"はい","kana":"はい","romaji":"hai","pt":"sim"},{"jp":"いいえ","kana":"いいえ","romaji":"iie","pt":"não"},{"jp":"そうです","kana":"そうです","romaji":"sō desu","pt":"isso mesmo, é sim"}]},"grammar":[{"id":"01-1-a","gc":"1-1","title":"X は Y です","gloss":"X é Y","explanation":"É a frase mais básica do japonês: diz o que X é. **は marca o tópico**, ou seja, o assunto da frase (\"quanto a X…\"). Como partícula, は se lê **wa**, não \"ha\". **です vai sempre no fim** e equivale a \"é / sou / são\", no registro educado.\n• です não muda com a pessoa nem com o número: serve para eu sou, você é, eles são.\n• Não existem artigos nem plural: がくせい pode ser \"estudante\", \"o estudante\" ou \"estudantes\".\n• Quando o tópico é óbvio, ele some: numa apresentação, basta dizer ブラジルじんです。 Repetir わたしは em toda frase soa robótico.","structure":"[X] は [Y] です。","examples":[{"jp":"わたしは ブラジルじんです。","kana":"わたしは ブラジルじんです。","romaji":"Watashi wa burajirujin desu.","pt":"Eu sou brasileiro(a).","anat":[[{"t":"わたしは","r":"topic","p":"は"},{"t":"ブラジルじんです","r":"predicate","k":"identity"}]]},{"jp":"たなかさんは せんせいです。","kana":"たなかさんは せんせいです。","romaji":"Tanaka-san wa sensei desu.","pt":"O(A) Sr(a). Tanaka é professor(a).","anat":[[{"t":"たなかさんは","r":"topic","p":"は"},{"t":"せんせいです","r":"predicate","k":"identity"}]]},{"jp":"ペドロさんは だいがくせいです。","kana":"ペドロさんは だいがくせいです。","romaji":"Pedoro-san wa daigakusei desu.","pt":"O Pedro é universitário.","anat":[[{"t":"ペドロさんは","r":"topic","p":"は"},{"t":"だいがくせいです","r":"predicate","k":"identity"}]]}],"pitfalls":["は como partícula se lê \"wa\". Dentro de uma palavra continua \"ha\": はい (hai), はな (hana).","Nunca use さん depois do seu próprio nome. わたしは ペドロさんです soa como se você se chamasse de \"senhor\".","です não é \"está\" de lugar nem de estado temporário. Para dizer onde algo está, o japonês usa outro verbo (Aula 04-1)."],"howToStudy":["Diga em voz alta 5 frases verdadeiras sobre você, trocando só o Y: ブラジルじんです → がくせいです → …","Aperte 🔬 nos exemplos. O bloco com は é o TÓPICO e o bloco com です é o PREDICADO: leia sempre começando pelo predicado.","No caderno, escreva 3 frases sobre pessoas que você conhece (〜さんは 〜です)."],"flag":null},{"id":"01-1-b","gc":"1-2","title":"〜か (perguntas)","gloss":"partícula de pergunta","explanation":"Para perguntar, basta colocar **か no fim** da frase. A ordem das palavras não muda: o japonês não inverte como o inglês (\"Are you…?\"). Na fala, a entonação sobe no か. Na escrita formal, a frase termina com 。, porque o か já faz o papel do ponto de interrogação.\n• Resposta afirmativa: はい、そうです。 (\"Sim, é isso.\")\n• Resposta negativa, por enquanto: いいえ + a informação certa (いいえ、アメリカじんです。). A forma negativa completa fica para a Aula 02-3.\n• Com palavra interrogativa, ela entra **no lugar onde a resposta vai ficar**. Assim, せんこうは なんですか。 é respondida com せんこうは れきしです。 Antes de です, \"o quê\" é なん.","structure":"[X] は [Y] ですか。 · [X] は なんですか。","examples":[{"jp":"せんせいですか。— はい、そうです。","kana":"せんせいですか。— はい、そうです。","romaji":"Sensei desu ka. — Hai, sō desu.","pt":"Você é professor(a)? — Sim, sou.","anat":[[{"t":"せんせいですか","r":"predicate","k":"identity"}],[{"t":"はい","r":"interjection"},{"t":"そうです","r":"predicate","k":"identity"}]]},{"jp":"マリアさんは にほんじんですか。— いいえ、ブラジルじんです。","kana":"マリアさんは にほんじんですか。— いいえ、ブラジルじんです。","romaji":"Maria-san wa nihonjin desu ka. — Iie, burajirujin desu.","pt":"A Maria é japonesa? — Não, é brasileira.","anat":[[{"t":"マリアさんは","r":"topic","p":"は"},{"t":"にほんじんですか","r":"predicate","k":"identity"}],[{"t":"いいえ","r":"interjection"},{"t":"ブラジルじんです","r":"predicate","k":"identity"}]]},{"jp":"せんこうは なんですか。— けいざいです。","kana":"せんこうは なんですか。— けいざいです。","romaji":"Senkō wa nan desu ka. — Keizai desu.","pt":"Qual é a sua área? — Economia.","anat":[[{"t":"せんこうは","r":"topic","p":"は"},{"t":"なんですか","r":"predicate","k":"identity"}],[{"t":"けいざいです","r":"predicate","k":"identity"}]]}],"pitfalls":["Não mude a ordem para perguntar. Pegue a afirmação e acrescente か.","\"O quê\" antes de です é なん (なんですか), não なに.","Em japonês é comum não dizer \"você\" (あなた). Chamar alguém de あなた pode soar frio. Prefira o nome + さん, ou simplesmente nenhum sujeito."],"howToStudy":["Pegue as 5 frases que você falou no ponto anterior e transforme cada uma em pergunta. Responda はい、そうです a cada uma.","Faça 3 perguntas com なんですか sobre coisas que você sabe responder (せんこうは なんですか…).","Ao ouvir os diálogos do vídeo, repare como a voz sobe no か."],"flag":null},{"id":"01-1-c","gc":"1-3","title":"N₁ の N₂","gloss":"ligar dois substantivos (\"de\")","explanation":"の liga dois substantivos. O **primeiro descreve o segundo**, e o segundo é o núcleo, a coisa de que se fala. A ordem é o **inverso do português**: \"professor de japonês\" vira にほんごの せんせい.\n• Posse: わたしの なまえ (\"meu nome\"). \"Meu\", \"seu\" e \"dele\" são só pessoa + の.\n• Vínculo: サンパウロだいがくの がくせい (\"estudante da USP\").\n• Assunto/área: にほんごの せんせい (\"professor de japonês\").\n• Dá para encadear: わたしの だいがくの せんせい (\"o professor da minha faculdade\").","structure":"[N₁] の [N₂] — o N₂ é a coisa principal","examples":[{"jp":"わたしの なまえは マリアです。","kana":"わたしの なまえは マリアです。","romaji":"Watashi no namae wa Maria desu.","pt":"Meu nome é Maria.","anat":[[{"t":"わたしの","r":"modifier","p":"の"},{"t":"なまえは","r":"topic","p":"は"},{"t":"マリアです","r":"predicate","k":"identity"}]]},{"jp":"ペドロさんは サンパウロだいがくの がくせいです。","kana":"ペドロさんは サンパウロだいがくの がくせいです。","romaji":"Pedoro-san wa Sanpauro daigaku no gakusei desu.","pt":"O Pedro é estudante da Universidade de São Paulo.","anat":[[{"t":"ペドロさんは","r":"topic","p":"は"},{"t":"サンパウロだいがくの","r":"modifier","p":"の"},{"t":"がくせいです","r":"predicate","k":"identity"}]]},{"jp":"にほんごの せんせいは たなかさんです。","kana":"にほんごの せんせいは たなかさんです。","romaji":"Nihongo no sensei wa Tanaka-san desu.","pt":"O(A) professor(a) de japonês é o(a) Sr(a). Tanaka.","anat":[[{"t":"にほんごの","r":"modifier","p":"の"},{"t":"せんせいは","r":"topic","p":"は"},{"t":"たなかさんです","r":"predicate","k":"identity"}]]}],"pitfalls":["Inverter a ordem muda o sentido. せんせいの にほんご é \"o japonês do professor\", não \"o professor de japonês\".","O の desta aula liga substantivo a substantivo. Adjetivos se ligam de outro jeito, sem の (Aula 05-1).","Não traduza todo \"de\" do português por の. \"Ir de ônibus\" e \"sair de casa\" usam outras partículas, que você vai ver nas Aulas 03-2 e 10-3. の é só para ligar um substantivo a outro."],"howToStudy":["Traduza em voz alta, invertendo a ordem: \"nome do professor\" → せんせいの なまえ; \"estudante de história\" → れきしの がくせい.","Aperte 🔬 no exemplo do Pedro. O bloco サンパウロだいがくの aparece como DESCREVE O PRÓXIMO, preso ao がくせい.","Escreva no caderno 3 coisas suas com わたしの… (なまえ, せんこう, だいがく)."],"flag":null}],"media":[{"order":1,"kind":"leitura","title":"Genki I · Lição 1: diálogo, vocabulário e as explicações de gramática (X は Y です, perguntas, の)","where":"Seu livro Genki I (3ª ed.)","url":"","when":"Antes desta aula ou logo depois do bloco de gramática"},{"order":2,"kind":"video","title":"ToKini Andy: aula da Lição 1 do Genki I (gramática)","where":"YouTube · canal ToKini Andy","url":"","when":"Depois de estudar os 3 pontos: o vídeo confirma e dá mais exemplos"},{"order":3,"kind":"app","title":"genki-companion: Lição 1, pontos 1 a 3 (marque ✍️ quando terminar)","where":"../genki-companion/index.html","url":"../genki-companion/index.html","when":"No fim, para revisar e marcar o progresso"}],"homework":{"intro":"Faça no caderno, à mão, escrevendo o japonês em kana. Só depois abra o gabarito, item por item. Circule o que errou e refaça no dia seguinte.","tasks":[{"id":"h1","type":"traduzir","prompt":"Traduza para o japonês.","items":[{"q":"Eu sou estudante.","a":{"jp":"わたしは がくせいです。","romaji":"Watashi wa gakusei desu."}},{"q":"O Sr. Tanaka é japonês.","a":{"jp":"たなかさんは にほんじんです。","romaji":"Tanaka-san wa nihonjin desu."}},{"q":"A Maria é brasileira?","a":{"jp":"マリアさんは ブラジルじんですか。","romaji":"Maria-san wa burajirujin desu ka."}},{"q":"Meu nome é Pedro.","a":{"jp":"わたしの なまえは ペドロです。","romaji":"Watashi no namae wa Pedoro desu."}},{"q":"A Sra. Suzuki é professora de japonês.","a":{"jp":"すずきさんは にほんごの せんせいです。","romaji":"Suzuki-san wa nihongo no sensei desu."}},{"q":"Qual é a sua área? — É história.","a":{"jp":"せんこうは なんですか。— れきしです。","romaji":"Senkō wa nan desu ka. — Rekishi desu."}}]},{"id":"h2","type":"completar","prompt":"Complete com は, か ou の.","items":[{"q":"わたし＿ なまえは ケンです。","a":{"jp":"の","romaji":"no"},"note":"\"meu nome\": わたし descreve なまえ."},{"q":"ケンさん＿ にほんじんです。","a":{"jp":"は","romaji":"wa"},"note":"ケンさん é o tópico."},{"q":"せんせいです＿。","a":{"jp":"か","romaji":"ka"},"note":"Pergunta: か vai no fim."},{"q":"とうきょうだいがく＿ がくせいです。","a":{"jp":"の","romaji":"no"},"note":"\"estudante da Univ. de Tóquio\"."},{"q":"せんこう＿ なんですか。","a":{"jp":"は","romaji":"wa"},"note":"\"Quanto à área, é o quê?\""}]},{"id":"h3","type":"pergunta","prompt":"Escreva a pergunta que produziria cada resposta.","items":[{"q":"はい、そうです。がくせいです。","a":{"jp":"がくせいですか。","romaji":"Gakusei desu ka."}},{"q":"いいえ、アメリカじんです。","a":{"jp":"にほんじんですか。","romaji":"Nihonjin desu ka."},"note":"Qualquer nacionalidade diferente de americano serve (ブラジルじんですか…)."},{"q":"にほんごです。","a":{"jp":"せんこうは なんですか。","romaji":"Senkō wa nan desu ka."}}]},{"id":"h4","type":"produzir","prompt":"Escreva sua autoapresentação em 4 frases: nome, nacionalidade, o que você faz e onde, mais uma frase com の. Depois leia em voz alta e grave no celular.","items":[{"q":"Modelo, que o seu texto deve seguir na estrutura e não nas palavras:","a":{"jp":"わたしの なまえは ペドロです。ブラジルじんです。だいがくせいです。せんこうは けいざいです。","romaji":"Watashi no namae wa Pedoro desu. Burajirujin desu. Daigakusei desu. Senkō wa keizai desu.","pt":"Meu nome é Pedro. Sou brasileiro. Sou universitário. Minha área é economia."},"note":"Confira: tópico com は, です no fim, の só entre dois substantivos, e わたしは não repetido em toda frase."}]}],"workbook":[{"p":16,"t":"1 · X は Y です","tip":"Faça depois do ponto 4a."},{"p":17,"t":"2 · Question Sentences","tip":"Faça depois do ponto 4b."},{"p":18,"t":"3 · Noun₁ の Noun₂","tip":"Faça depois do ponto 4c. Confira no Genki Answer Key oficial."}]},"practice":[{"tool":"Wagotabi","what":"Jogue normalmente. Sempre que um diálogo terminar em です ou ですか, pause e diga em voz alta qual é o tópico (は) e qual é o predicado. Copie 2 dessas frases no caderno.","min":15},{"tool":"Mirage","what":"Vocabulário da Lição 1 no SRS. Depois, Treinos → 🔬 Anatomia → 🏷 Etiquetar: 5 frases.","min":10},{"tool":"Shadowing","what":"Toque 🔊 em cada exemplo desta aula e repita junto 3 vezes, imitando o ritmo. As sílabas têm todas a mesma duração.","min":5},{"tool":"Kana","what":"Se ainda está na fase de kana: 10 min na Trilha de Kana (Mirage) ou no kana-flow.","min":10},{"tool":"Fala","what":"Grave sua autoapresentação (lição de casa h4) em até 30 s. Ouça e compare com a gravação da semana que vem.","min":5}],"culture":{"title":"A reverência (おじぎ)","titleJp":"おじぎ","body":"No Japão, a apresentação vem com uma **reverência**, não com aperto de mão ou beijo. Para se apresentar a colegas basta uma leve inclinação do tronco, de uns 15°, chamada 会釈 (eshaku), com as costas retas e o olhar descendo naturalmente. Inclinações mais profundas (por volta de 30° e 45°) mostram mais respeito ou um pedido de desculpas sério. Com estrangeiros, muitos japoneses oferecem a mão; retribua com um aperto leve e um pequeno aceno de cabeça. A reverência costuma acompanhar はじめまして。…よろしく おねがいします。, que você viu na Aula 00-3.","try":"Na frente do espelho: diga はじめまして。わたしは (seu nome) です。よろしく おねがいします。 e faça um 会釈 no よろしく."},"checklist":["Consigo me apresentar (nome, nacionalidade, o que faço) em 3–4 frases, sem olhar.","Transformo qualquer frase X は Y です em pergunta com か e respondo はい、そうです。","Pergunto \"qual é…?\" com 〜は なんですか。","Monto N₁ の N₂ na ordem certa: professor de japonês = にほんごの せんせい.","Leio は como \"wa\" quando é partícula.","Fiz a lição de casa e conferi o gabarito, e refiz o que errei.","Fiz as páginas 16–18 do Workbook."]}},"recursos":null,"roleColors":{"predicate":"#e8ecf2","topic":"#56b6ff","also":"#56b6ff","subject":"#ff5e6c","object":"#36c98d","place":"#ffb454","means":"#ffb454","time":"#b58cff","destination":"#4fd1c5","location":"#4fd1c5","target":"#4fd1c5","purpose":"#4fd1c5","with":"#ff7eb6","and":"#ff7eb6","tari":"#ff7eb6","compare":"#c9a27e","from":"#c9a27e","until":"#c9a27e","reason":"#ff8a3d","modifier":"#9aa3b2","how":"#8c9bff","quantity":"#8c9bff","link":"#b8a392","contrast":"#b8a392","condition":"#b8a392","quote":"#5ec8ff","connector":"#9aa3b2","interjection":"#9aa3b2","only":"#8c9bff","indef":"#36c98d","indefneg":"#36c98d","while":"#8c9bff","after":"#b58cff","bare":"#9aa3b2"},"built":"build"};</script>
+<script>
+'use strict';
+(function () {
+  var C = window.CURSO;
+  var KEY = 'curso_jp_v1';
+  var ROLE_PT = {
+    predicate: 'PREDICADO', topic: 'TÓPICO', also: 'TAMBÉM', subject: 'SUJEITO', object: 'OBJETO', place: 'LUGAR DA AÇÃO',
+    means: 'MEIO', time: 'TEMPO', destination: 'DESTINO', location: 'ONDE ESTÁ', target: 'ALVO', purpose: 'FINALIDADE',
+    with: 'COM QUEM', and: 'E (LISTA)', tari: 'AÇÕES (EX.)', compare: 'COMPARAÇÃO', from: 'DE / DESDE', until: 'ATÉ',
+    reason: 'MOTIVO', modifier: 'DESCREVE O PRÓXIMO', how: 'COMO', quantity: 'QUANTIDADE', link: 'LIGA (E…)',
+    contrast: 'MAS', condition: 'CONDIÇÃO', quote: 'CITAÇÃO', connector: 'CONECTOR', interjection: 'INTERJEIÇÃO',
+    only: 'SÓ', indef: 'ALGO / ALGUÉM', indefneg: 'NADA / NINGUÉM', while: 'ENQUANTO', after: 'DEPOIS DE', bare: 'SEM PARTÍCULA'
+  };
+  var ROLE_Q = { predicate: 'O que acontece / o que é?', topic: 'Sobre o quê?', subject: 'Quem / o quê?', object: 'O quê (sofre a ação)?', place: 'Onde (acontece)?', means: 'Com quê / como?', time: 'Quando?', destination: 'Para onde?', location: 'Onde está?', target: 'Para quem / em quê?', purpose: 'Para fazer o quê?', with: 'Com quem?', modifier: 'Qual / de quem?', how: 'Como?', reason: 'Por quê?', from: 'De onde / desde quando?', until: 'Até onde / quando?', compare: 'Comparado com?', also: 'Também?', quantity: 'Quanto(s)?' };
+  var KIND_PT = { action: 'ação', existence: 'existência', identity: 'identidade (é)', description: 'descrição', request: 'pedido', wish: 'desejo', invitation: 'convite / sugestão', progress: 'em andamento / estado', explanation: 'explicação (〜んです)', experience: 'experiência', intention: 'intenção', obligation: 'obrigação', setphrase: 'expressão pronta', permission: 'permissão', prohibition: 'proibição' };
+  var DAYS = ['Seg', 'Ter', 'Qua', 'Qui', 'Sex', 'Sáb', 'Dom'];
+
+  // ---------- state ----------
+  var S = load();
+  function load() { try { var s = JSON.parse(localStorage.getItem(KEY) || '{}'); return norm(s); } catch (e) { return norm({}); } }
+  function norm(s) { s.pts = s.pts || {}; s.chk = s.chk || {}; s.hw = s.hw || {}; s.notes = s.notes || {}; s.rot = s.rot || {}; return s; }
+  var saveT = null;
+  function save() { clearTimeout(saveT); saveT = setTimeout(function () { try { localStorage.setItem(KEY, JSON.stringify(S)); } catch (e) { toast('Não consegui salvar (armazenamento bloqueado?)'); } }, 150); }
+  function toast(m) { var t = document.getElementById('toast'); t.textContent = m; t.classList.add('show'); clearTimeout(t._h); t._h = setTimeout(function () { t.classList.remove('show'); }, 1800); }
+
+  // ---------- data helpers ----------
+  var MAP = [], BYID = {}, UNIT_OF = {};
+  C.curso.units.forEach(function (u, ui) { u.aulas.forEach(function (a) { var m = Object.assign({ unit: u.id, unitIdx: ui }, a); MAP.push(m); BYID[a.id] = m; UNIT_OF[a.id] = u; }); });
+  function aula(id) { return C.aulas[id] || null; }
+  function isDone(id) { var a = aula(id); if (!a) return false; var c = S.chk[id] || []; return a.checklist.length > 0 && a.checklist.every(function (_, i) { return !!c[i]; }); }
+  function chkCount(id) { var a = aula(id); if (!a) return [0, 0]; var c = S.chk[id] || []; return [a.checklist.filter(function (_, i) { return !!c[i]; }).length, a.checklist.length]; }
+  function nextAula() { for (var i = 0; i < MAP.length; i++) if (aula(MAP[i].id) && !isDone(MAP[i].id)) return MAP[i].id; return null; }
+  function started(id) { var n = chkCount(id)[0]; if (n) return true; var a = aula(id); return !!(a && a.grammar.some(function (g) { var p = S.pts[g.id]; return p && (p.s || p.w || p.note); })) || !!S.notes[id]; }
+  function esc(s) { return String(s == null ? '' : s).replace(/[&<>"']/g, function (c) { return { '&': '&amp;', '<': '&lt;', '>': '&gt;', '"': '&quot;', "'": '&#39;' }[c]; }); }
+  function md(s) {
+    var lines = esc(s).split('\n'), out = [], inList = false;
+    lines.forEach(function (l) {
+      l = l.replace(/\*\*(.+?)\*\*/g, '<b>$1</b>');
+      if (/^\s*•\s*/.test(l)) { if (!inList) { out.push('<ul>'); inList = true; } out.push('<li>' + l.replace(/^\s*•\s*/, '') + '</li>'); }
+      else { if (inList) { out.push('</ul>'); inList = false; } if (l.trim()) out.push('<p>' + l + '</p>'); }
+    });
+    if (inList) out.push('</ul>');
+    return out.join('');
+  }
+  function levelPill(u) { var l = (u.level || '').toLowerCase(); var cls = /n5/.test(l) ? 'n5' : /n4/.test(l) ? 'n4' : /n3/.test(l) ? 'n3' : 'kana'; return '<span class="pill ' + cls + '">' + esc(u.level || '') + '</span>'; }
+
+  // ---------- speech ----------
+  var jaVoice = null;
+  function pickVoice() { try { var v = speechSynthesis.getVoices(); jaVoice = v.filter(function (x) { return /ja|JP/i.test(x.lang); })[0] || null; } catch (e) {} }
+  if ('speechSynthesis' in window) { pickVoice(); speechSynthesis.onvoiceschanged = pickVoice; }
+  function speak(text) {
+    if (!('speechSynthesis' in window)) return toast('Sem síntese de voz neste navegador');
+    try { speechSynthesis.cancel(); var u = new SpeechSynthesisUtterance(String(text).replace(/[—]/g, '。')); u.lang = 'ja-JP'; if (jaVoice) u.voice = jaVoice; u.rate = 0.9; speechSynthesis.speak(u); if (!jaVoice) toast('Dica: instale a voz japonesa do Windows para ouvir melhor'); } catch (e) {}
+  }
+
+  // ---------- progress bar ----------
+  function updateBar() {
+    var total = MAP.length, done = MAP.filter(function (m) { return isDone(m.id); }).length;
+    document.getElementById('progbar').style.width = (total ? done / total * 100 : 0) + '%';
+    document.getElementById('pct').textContent = done + '/' + total + ' aulas dominadas';
+  }
+
+  // ---------- views ----------
+  var view = document.getElementById('view');
+  function setTab(v) { [].forEach.call(document.querySelectorAll('#tabs a'), function (a) { a.classList.toggle('on', a.getAttribute('data-v') === v); }); }
+  function route() {
+    var h = location.hash.replace(/^#\/?/, ''), parts = h.split('/');
+    window.scrollTo(0, 0);
+    if (parts[0] === 'aula' && parts[1]) { setTab('home'); renderAula(decodeURIComponent(parts[1])); }
+    else if (parts[0] === 'rotina') { setTab('rotina'); renderRotina(); }
+    else if (parts[0] === 'guia') { setTab('guia'); renderGuia(); }
+    else if (parts[0] === 'recursos') { setTab('recursos'); renderRecursos(); }
+    else if (parts[0] === 'progresso') { setTab('progresso'); renderProgresso(); }
+    else { setTab('home'); renderHome(); }
+    updateBar();
+  }
+  window.addEventListener('hashchange', route);
+
+  // ----- home / trail -----
+  var homeQuery = '';
+  function renderHome() {
+    view.onclick = view.onchange = view.oninput = null;
+    document.getElementById('lede').textContent = C.curso.tagline || '';
+    var nx = nextAula(), nxm = nx && BYID[nx];
+    var html = '<div class="card hero"><div><div class="muted small">' + (nx ? (started(nx) ? 'Continue de onde parou' : 'Próxima aula') : 'Tudo dominado 🎉') + '</div>' +
+      (nxm ? '<div style="font-size:19px;font-weight:700;margin:2px 0">' + esc(nx) + ' · ' + esc(nxm.title) + '</div><div class="muted small">' + esc(UNIT_OF[nx].name) + '</div>' : '') +
+      '</div><div style="margin-left:auto" class="row">' + (nx ? '<a class="btn primary" href="#/aula/' + nx + '">Continuar →</a>' : '') + '<a class="btn ghost" href="#/rotina">Rotina de hoje</a></div></div>';
+    html += '<input type="search" id="q" placeholder="Buscar aula ou ponto (ex.: てもいい, passado, comparar)" value="' + esc(homeQuery) + '">';
+    html += '<div id="units"></div>';
+    view.innerHTML = html;
+    var q = document.getElementById('q');
+    q.addEventListener('input', function () { homeQuery = q.value; drawUnits(); });
+    drawUnits();
+  }
+  function drawUnits() {
+    var qq = homeQuery.trim().toLowerCase(), nx = nextAula(), out = '';
+    C.curso.units.forEach(function (u, ui) {
+      var items = u.aulas.filter(function (a) { if (!qq) return true; var A = aula(a.id); var hay = (a.id + ' ' + a.title + ' ' + (a.points || []).join(' ') + (A ? ' ' + A.grammar.map(function (g) { return g.title + ' ' + g.gloss; }).join(' ') : '')).toLowerCase(); return hay.indexOf(qq) >= 0; });
+      if (!items.length) return;
+      var done = u.aulas.filter(function (a) { return isDone(a.id); }).length, open = !!qq || u.aulas.some(function (a) { return a.id === nx; });
+      out += '<details class="unit"' + (open ? ' open' : '') + '><summary><div class="unum">' + (ui === 0 ? '0' : esc(u.id.replace(/^G\d-L0?/, '').replace(/^P-N3$/, 'N3').replace(/^V$/, '✈'))) + '</div><div class="utitle"><b>' + esc(u.name) + '</b><span>' + levelPill(u) + ' ' + esc(u.book || '') + '</span></div>' +
+        '<div class="mini"><i style="width:' + (done / u.aulas.length * 100) + '%"></i></div><span class="small muted">' + done + '/' + u.aulas.length + '</span><span class="chev">▶</span></summary><div class="alist">';
+      items.forEach(function (a) {
+        var A = aula(a.id), cc = chkCount(a.id), st = !A ? '<span class="astate faint">em preparação</span>' : isDone(a.id) ? '<span class="astate done">✓ dominada</span>' : a.id === nx ? '<span class="astate go">▶ próxima</span>' : cc[0] ? '<span class="astate muted">' + cc[0] + '/' + cc[1] + '</span>' : '';
+        out += '<a class="aitem' + (A ? '' : ' locked') + (a.milestone ? ' milestone' : '') + '" href="#/aula/' + a.id + '"><span class="aid">' + esc(a.id) + '</span><span class="atxt"><b>' + esc(a.title) + '</b><div class="pts jp">' + esc((a.points || []).join(' · ')) + '</div></span>' + st + '</a>';
+      });
+      out += '</div></details>';
+    });
+    document.getElementById('units').innerHTML = out || '<div class="empty">Nada encontrado.</div>';
+  }
+
+  // ----- aula -----
+  var BLOCKS = ['Título e objetivos', 'Duração e plano da aula', 'Pré-requisitos e vocabulário', 'Gramática', 'Como estudar cada ponto', 'Vídeos e leitura (em ordem)', 'Lição de casa no caderno', 'Prática em casa', 'Cultura', 'Checklist de domínio'];
+  function exHTML(ex, key) {
+    var h = '<div class="exrow" data-ex="' + esc(key) + '"><div class="tools"><button class="ibtn" data-say="' + esc(ex.kana || ex.jp) + '" title="Ouvir">🔊</button>' + (ex.anat ? '<button class="ibtn" data-anat="' + esc(key) + '" title="Anatomia da frase">🔬</button>' : '') + '</div>' +
+      '<div class="j">' + esc(ex.jp) + '</div>' + (ex.kana && ex.kana !== ex.jp ? '<div class="k">' + esc(ex.kana) + '</div>' : '') +
+      '<div class="r">' + esc(ex.romaji) + '</div><div class="p">' + esc(ex.pt) + '</div><div class="anatbox" hidden></div></div>';
+    return h;
+  }
+  function anatHTML(anat) {
+    return anat.map(function (sent) {
+      return '<div class="anat">' + sent.map(function (c) {
+        var col = (C.roleColors && C.roleColors[c.r]) || '#888', lab = ROLE_PT[c.r] || c.r, q = ROLE_Q[c.r] || '';
+        var txt = esc(c.t), p = c.p ? esc(c.p) : '';
+        if (p && c.t.slice(-c.p.length) === c.p) txt = esc(c.t.slice(0, c.t.length - c.p.length)) + '<em>' + p + '</em>';
+        return '<div class="chip' + (c.r === 'predicate' ? ' pred' : '') + '" style="--c:' + col + '" title="' + esc(q) + '"><div class="t">' + txt + '</div><div class="l">' + (c.r === 'predicate' ? '★ ' : '') + esc(lab) + '</div>' + (c.k ? '<div class="faint" style="font-size:10px">' + esc(KIND_PT[c.k] || c.k) + '</div>' : '') + '</div>';
+      }).join('') + '</div>';
+    }).join('') + '<div class="anatnote">Leia pelo ★ predicado (o fim) e depois os blocos da esquerda. A partícula colorida diz a função de cada bloco. Análise automática do motor do Mirage; em caso de dúvida, vale a explicação da aula.</div>';
+  }
+  function renderAula(id) {
+    var a = aula(id), m = BYID[id];
+    if (!m) { view.innerHTML = '<div class="empty">Aula não encontrada. <a href="#/">Voltar à trilha</a></div>'; return; }
+    if (!a) { view.innerHTML = '<div class="card"><h2>' + esc(m.id + ' · ' + m.title) + '</h2><p class="muted">Esta aula ainda está em preparação.</p><p class="jp">' + esc((m.points || []).join(' · ')) + '</p><p><a href="#/">← Trilha</a></p></div>'; return; }
+    S.last = id; save();
+    var u = UNIT_OF[id], exIdx = {}, h = '';
+    document.getElementById('lede').textContent = u.name;
+    h += '<div class="ahead card"><div class="row small muted"><a href="#/">Trilha</a> › ' + esc(u.name) + ' ' + levelPill(u) + '</div>';
+    h += '<h2>' + esc(a.id) + ' · ' + esc(a.title) + '</h2><div class="jp">' + esc(a.titleJp) + '</div>';
+    if (a.genki) h += '<div class="small muted" style="margin-top:4px">📘 ' + esc(a.genki.book + ' · Lição ' + a.genki.lesson) + (a.genki.points && a.genki.points.length ? ' · gramática: ' + esc(a.genki.points.join(' · ')) : '') + '</div>';
+    h += '<div class="toc">' + BLOCKS.map(function (b, i) { return '<button data-go="b' + (i + 1) + '">' + (i + 1) + ' · ' + esc(b) + '</button>'; }).join('') + '</div></div>';
+    // 1
+    h += blk(1, '<ul class="clean">' + a.canDo.map(function (c) { return '<li>' + esc(c) + '</li>'; }).join('') + '</ul>');
+    // 2
+    var cols = ['var(--accent)', 'var(--blue)', 'var(--green)', 'var(--amber)', 'var(--pink)', 'var(--red)', '#9d7cff', '#4fd1c5'], tot = a.duration.blocks.reduce(function (s, b) { return s + (+b.min || 0); }, 0);
+    h += blk(2, '<div class="row"><span class="pill">⏱ ' + esc(a.duration.total) + '</span><span class="small muted">soma dos blocos: ' + tot + ' min · pode dividir em 2 sessões</span></div><div class="durbar">' + a.duration.blocks.map(function (b, i) { return '<i style="width:' + (b.min / tot * 100) + '%;background:' + cols[i % cols.length] + '" title="' + esc(b.t) + '"></i>'; }).join('') + '</div><div class="dur">' + a.duration.blocks.map(function (b, i) { return '<div><span style="color:' + cols[i % cols.length] + '">■</span> ' + esc(b.t) + '</div><div class="m">' + b.min + ' min</div>'; }).join('') + '</div>');
+    // 3
+    var pre = a.prereqs || {};
+    h += blk(3, (pre.aulas && pre.aulas.length ? '<p class="small">Aulas antes desta: ' + pre.aulas.map(function (p) { return '<a href="#/aula/' + p + '">' + p + (BYID[p] ? ' · ' + esc(BYID[p].title) : '') + '</a>' + (isDone(p) ? ' ✓' : ''); }).join(', ') + '</p>' : '') +
+      '<ul class="clean">' + (pre.skills || []).map(function (s) { return '<li>' + esc(s) + '</li>'; }).join('') + '</ul>' +
+      ((pre.vocab || []).length ? '<h4 style="margin-top:12px;font-size:14px">Vocabulário da aula <span class="small muted">(toque para ouvir)</span></h4><div class="vocab">' + pre.vocab.map(function (v) { return '<div class="voc" data-say="' + esc(v.kana || v.jp) + '"><div class="j">' + esc(v.jp) + (v.kana && v.kana !== v.jp ? ' <span class="small faint">' + esc(v.kana) + '</span>' : '') + '</div><div class="r">' + esc(v.romaji) + '</div><div class="p">' + esc(v.pt) + '</div></div>'; }).join('') + '</div>' : ''));
+    // 4
+    var g4 = a.grammar.map(function (g, gi) {
+      var p = S.pts[g.id] || {}, letter = String.fromCharCode(97 + gi);
+      var exs = (g.examples || []).map(function (ex, ei) { var k = g.id + '.' + ei; exIdx[k] = ex; return exHTML(ex, k); }).join('');
+      return '<div class="point" id="pt-' + esc(g.id) + '"><div class="phead"><h4>4' + letter + ' · ' + esc(g.title) + '<small>' + esc(g.gloss || '') + '</small></h4>' +
+        '<button class="cb s' + (p.s ? ' on' : '') + '" data-pt="' + esc(g.id) + '" data-k="s">✍️ Estudei</button><button class="cb w' + (p.w ? ' on' : '') + '" data-pt="' + esc(g.id) + '" data-k="w">📱 Pratiquei</button><button class="cb nt' + (p.note ? ' on' : '') + '" data-ntoggle="' + esc(g.id) + '">📝 Nota</button></div>' +
+        '<div class="expl">' + md(g.explanation) + '</div><div class="struct">' + esc(g.structure) + '</div>' +
+        '<div class="ex">' + exs + '</div>' +
+        (g.pitfalls && g.pitfalls.length ? '<div class="pit"><b>⚠ Armadilhas</b><ul>' + g.pitfalls.map(function (x) { return '<li>' + esc(x) + '</li>'; }).join('') + '</ul></div>' : '') +
+        (g.flag ? '<div class="flag">⚠️ <b>Sinalizado:</b> ' + esc(g.flag) + '</div>' : '') +
+        '<div class="note" data-note="' + esc(g.id) + '"' + (p.note ? '' : ' hidden') + '><textarea placeholder="Sua nota sobre este ponto (dúvidas, macetes, frases suas)…" data-ptnote="' + esc(g.id) + '">' + esc(p.note || '') + '</textarea></div></div>';
+    }).join('');
+    h += blk(4, g4);
+    // 5
+    h += blk(5, a.grammar.map(function (g, gi) { return '<div class="study"><b>4' + String.fromCharCode(97 + gi) + ' · ' + esc(g.title) + '</b><ol class="steps">' + (g.howToStudy || []).map(function (s) { return '<li>' + esc(s) + '</li>'; }).join('') + '</ol></div>'; }).join(''));
+    // 6
+    h += blk(6, '<div class="media">' + a.media.map(function (m) {
+      var link = m.url ? '<a href="' + esc(m.url) + '" target="_blank" rel="noopener">' + esc(m.title) + '</a>' : esc(m.title);
+      return '<div class="med"><div class="o">' + m.order + '</div><div><div class="k">' + esc(m.kind) + ' · ' + esc(m.where) + '</div><div>' + link + '</div>' + (m.search ? '<div class="small muted">Buscar por: <span class="jp">' + esc(m.search) + '</span></div>' : '') + (m.when ? '<div class="small muted">Quando: ' + esc(m.when) + '</div>' : '') + '</div></div>';
+    }).join('') + '</div>');
+    // 7
+    var hw = a.homework, hwDone = !!(S.hw[id] && S.hw[id].done);
+    h += blk(7, '<p class="small muted">' + esc(hw.intro || '') + '</p><div class="row" style="margin:8px 0"><button class="btn" data-revealall="1">Mostrar todo o gabarito</button><button class="btn' + (hwDone ? ' primary' : '') + '" data-hwdone="1">' + (hwDone ? '✓ Lição feita' : 'Marcar lição como feita') + '</button></div>' +
+      hw.tasks.map(function (t, ti) {
+        return '<div class="task"><h5>' + (ti + 1) + '. ' + esc(t.prompt) + '</h5>' + t.items.map(function (it, ii) {
+          var an = it.a || {}, ansH = typeof an === 'string' ? esc(an) : ((an.jp ? '<div class="j">' + esc(an.jp) + '</div>' : '') + (an.kana && an.kana !== an.jp ? '<div class="small faint jp">' + esc(an.kana) + '</div>' : '') + (an.romaji ? '<div class="r">' + esc(an.romaji) + '</div>' : '') + (an.pt ? '<div>' + esc(an.pt) + '</div>' : ''));
+          return '<div class="hwi"><span class="num">' + String.fromCharCode(97 + ii) + ')</span><div class="q">' + esc(it.q) + '</div><button class="ibtn reveal" data-rev="1">ver resposta</button><div class="ans">' + ansH + (it.note ? '<div class="small muted">💡 ' + esc(it.note) + '</div>' : '') + '</div></div>';
+        }).join('') + '</div>';
+      }).join('') +
+      ((hw.workbook || []).length ? '<h4 style="margin-top:14px;font-size:14px">📓 Genki I Workbook (faça no livro; confira no Answer Key oficial)</h4>' + hw.workbook.map(function (w) { return '<div class="wb"><span class="pg">p. ' + esc(w.p) + '</span><span>' + esc(w.t) + (w.tip ? ' <span class="small muted">— ' + esc(w.tip) + '</span>' : '') + '</span></div>'; }).join('') : ''));
+    // 8
+    h += blk(8, '<div class="prac">' + a.practice.map(function (p) { return '<div class="pr"><div class="tool">' + esc(p.tool) + '</div><div>' + esc(p.what) + '</div>' + (p.min ? '<div class="min">' + p.min + ' min</div>' : '') + '</div>'; }).join('') + '</div>');
+    // 9
+    h += blk(9, '<div class="cult"><h4>' + esc(a.culture.title) + (a.culture.titleJp && a.culture.title.indexOf(a.culture.titleJp) < 0 ? ' <span class="jp muted">' + esc(a.culture.titleJp) + '</span>' : '') + '</h4><div class="md">' + md(a.culture.body) + '</div><div class="try">🧪 <b>Experimente:</b> ' + esc(a.culture.try) + '</div></div>');
+    // 10
+    var c = S.chk[id] || [];
+    h += blk(10, '<p class="small muted">Marque só o que você consegue fazer de verdade. A aula conta como dominada quando tudo estiver marcado, no seu tempo.</p><div class="chk">' + a.checklist.map(function (x, i) { return '<label><input type="checkbox" data-chk="' + i + '"' + (c[i] ? ' checked' : '') + '><span>' + esc(x) + '</span></label>'; }).join('') + '</div>' +
+      '<div class="done-banner' + (isDone(id) ? ' show' : '') + '" id="donebanner">🎉 Aula dominada! Siga para a próxima quando quiser. Revisar as anteriores também conta.</div>' +
+      '<h4 style="margin-top:14px;font-size:14px">📒 Caderno desta aula</h4><textarea id="aulanote" placeholder="Dúvidas, frases que você criou, o que revisar…">' + esc(S.notes[id] || '') + '</textarea>');
+    var idx = MAP.findIndex(function (x) { return x.id === id; }), prev = MAP[idx - 1], next = MAP[idx + 1];
+    h += '<div class="anav">' + (prev ? '<a class="btn" href="#/aula/' + prev.id + '">← ' + esc(prev.id + ' · ' + prev.title) + '</a>' : '<span></span>') + (next ? '<a class="btn" href="#/aula/' + next.id + '">' + esc(next.id + ' · ' + next.title) + ' →</a>' : '') + '</div>';
+    view.innerHTML = h;
+    wireAula(id, a, exIdx);
+  }
+  function blk(n, inner) { return '<section class="blk" id="b' + n + '"><h3><span class="n">' + n + '</span>' + esc(BLOCKS[n - 1]) + '</h3>' + inner + '</section>'; }
+  function wireAula(id, a, exIdx) {
+    view.onclick = function (e) {
+      var t = e.target.closest('button,[data-say],label'); if (!t) return;
+      if (t.hasAttribute('data-go')) { var el = document.getElementById(t.getAttribute('data-go')); if (el) el.scrollIntoView({ behavior: 'smooth' }); return; }
+      if (t.hasAttribute('data-say')) { speak(t.getAttribute('data-say')); return; }
+      if (t.hasAttribute('data-anat')) { var row = t.closest('.exrow'), box = row.querySelector('.anatbox'), ex = exIdx[t.getAttribute('data-anat')]; if (box.hidden) { box.innerHTML = anatHTML(ex.anat); box.hidden = false; } else box.hidden = true; return; }
+      if (t.hasAttribute('data-pt')) { var pid = t.getAttribute('data-pt'), k = t.getAttribute('data-k'); var p = S.pts[pid] = S.pts[pid] || {}; p[k] = !p[k]; if (!p.s && !p.w && !p.note) delete S.pts[pid]; t.classList.toggle('on', !!(S.pts[pid] && S.pts[pid][k])); save(); return; }
+      if (t.hasAttribute('data-ntoggle')) { var n = view.querySelector('[data-note="' + t.getAttribute('data-ntoggle') + '"]'); n.hidden = !n.hidden; if (!n.hidden) n.querySelector('textarea').focus(); return; }
+      if (t.hasAttribute('data-rev')) { var ans = t.nextElementSibling; ans.classList.toggle('show'); t.textContent = ans.classList.contains('show') ? 'esconder' : 'ver resposta'; return; }
+      if (t.hasAttribute('data-revealall')) { var all = view.querySelectorAll('#b7 .ans'), anyHidden = [].some.call(all, function (x) { return !x.classList.contains('show'); }); [].forEach.call(all, function (x) { x.classList.toggle('show', anyHidden); }); [].forEach.call(view.querySelectorAll('#b7 [data-rev]'), function (b) { b.textContent = anyHidden ? 'esconder' : 'ver resposta'; }); t.textContent = anyHidden ? 'Esconder o gabarito' : 'Mostrar todo o gabarito'; return; }
+      if (t.hasAttribute('data-hwdone')) { var d = !(S.hw[id] && S.hw[id].done); if (d) S.hw[id] = { done: true }; else delete S.hw[id]; t.classList.toggle('primary', d); t.textContent = d ? '✓ Lição feita' : 'Marcar lição como feita'; save(); return; }
+    };
+    view.onchange = function (e) {
+      var t = e.target;
+      if (t.hasAttribute('data-chk')) { var arr = S.chk[id] = S.chk[id] || []; arr[+t.getAttribute('data-chk')] = t.checked; save(); var d = isDone(id); document.getElementById('donebanner').classList.toggle('show', d); if (d) toast('🎉 Aula ' + id + ' dominada'); updateBar(); }
+    };
+    view.oninput = function (e) {
+      var t = e.target;
+      if (t.id === 'aulanote') { if (t.value.trim()) S.notes[id] = t.value; else delete S.notes[id]; save(); }
+      if (t.hasAttribute('data-ptnote')) { var pid = t.getAttribute('data-ptnote'), p = S.pts[pid] = S.pts[pid] || {}; if (t.value.trim()) p.note = t.value; else delete p.note; if (!p.s && !p.w && !p.note) delete S.pts[pid]; var tb = view.querySelector('[data-ntoggle="' + pid + '"]'); if (tb) tb.classList.toggle('on', !!(S.pts[pid] && S.pts[pid].note)); save(); }
+    };
+  }
+
+  // ----- rotina -----
+  function renderRotina() {
+    var R = C.curso.rotina;
+    document.getElementById('lede').textContent = 'Sua rotina diária: sem datas, só constância.';
+    if (!R) { view.innerHTML = '<div class="empty">Rotina em preparação.</div>'; return; }
+    var nx = nextAula(), h = '';
+    h += '<div class="card"><h2 style="font-size:18px">' + esc(R.title) + '</h2><div class="md">' + md(R.intro || '') + '</div>' + (nx ? '<p class="small">📌 Aula atual: <a href="#/aula/' + nx + '">' + esc(nx + ' · ' + BYID[nx].title) + '</a></p>' : '') + '</div>';
+    h += '<div class="card"><h2 class="sec" style="margin-top:0">Blocos do dia</h2>' + R.blocks.map(function (b) { return '<div class="pr" style="margin:6px 0"><div class="tool">' + esc(b.name) + '<span class="tag ' + (b.core ? 'core' : 'flex') + '">' + (b.core ? 'núcleo' : 'flexível') + '</span></div><div><div>' + esc(b.what) + '</div>' + (b.tools ? '<div class="small muted">' + esc(b.tools) + '</div>' : '') + '</div><div class="min">' + esc(b.min) + '</div></div>'; }).join('') +
+      (R.minimum ? '<div class="flag" style="margin-top:10px">🪫 <b>Dia mínimo:</b> ' + esc(R.minimum) + '</div>' : '') + '</div>';
+    h += '<div class="card"><h2 class="sec" style="margin-top:0">Esta semana</h2><p class="small muted">Marque o que fez. Não há datas: quando quiser, comece uma semana nova.</p><div class="grid7"><div></div>' + DAYS.map(function (d) { return '<div class="h">' + d + '</div>'; }).join('') +
+      R.blocks.map(function (b) { return '<div>' + esc(b.short || b.name) + '</div>' + DAYS.map(function (_, di) { var k = b.key + '_' + di; return '<button data-rot="' + k + '" class="' + (S.rot[k] ? 'on' : '') + '" aria-label="' + esc(b.name + ' ' + DAYS[di]) + '"></button>'; }).join(''); }).join('') +
+      '</div><div class="row" style="margin-top:10px"><span class="small muted" id="rotcount"></span><button class="btn ghost" id="rotreset" style="margin-left:auto">Nova semana (limpar)</button></div></div>';
+    if (R.cycle) h += '<div class="card"><h2 class="sec" style="margin-top:0">' + esc(R.cycle.title) + '</h2><div class="md">' + md(R.cycle.body) + '</div></div>';
+    if (R.week) h += '<div class="card"><h2 class="sec" style="margin-top:0">' + esc(R.week.title) + '</h2><div class="md">' + md(R.week.body) + '</div></div>';
+    view.innerHTML = h;
+    var cnt = function () { var core = R.blocks.filter(function (b) { return b.core; })[0]; var n = core ? DAYS.filter(function (_, di) { return S.rot[core.key + '_' + di]; }).length : 0; document.getElementById('rotcount').textContent = core ? 'Dias com ' + core.short.toLowerCase() + ': ' + n + '/7' : ''; };
+    cnt();
+    view.onclick = function (e) {
+      var t = e.target.closest('button'); if (!t) return;
+      if (t.hasAttribute('data-rot')) { var k = t.getAttribute('data-rot'); if (S.rot[k]) delete S.rot[k]; else S.rot[k] = true; t.classList.toggle('on', !!S.rot[k]); save(); cnt(); }
+      if (t.id === 'rotreset') { if (confirm('Limpar as marcações da semana?')) { S.rot = {}; save(); renderRotina(); } }
+    };
+    view.onchange = view.oninput = null;
+  }
+
+  // ----- guia / recursos / progresso -----
+  function renderGuia() {
+    var G = C.curso.guia; document.getElementById('lede').textContent = 'Como seguir o curso até o fim.';
+    if (!G) { view.innerHTML = '<div class="empty">Guia em preparação.</div>'; return; }
+    view.innerHTML = G.sections.map(function (s) { return '<div class="card"><h2 style="font-size:18px">' + esc(s.title) + '</h2><div class="md">' + md(s.body) + '</div></div>'; }).join('');
+    view.onclick = view.onchange = view.oninput = null;
+  }
+  function renderRecursos() {
+    var R = C.recursos; document.getElementById('lede').textContent = 'O que estudar e praticar por fora, por nível.';
+    if (!R) { view.innerHTML = '<div class="empty">Recursos em preparação.</div>'; return; }
+    var h = (R.intro ? '<div class="card md">' + md(R.intro) + '</div>' : '');
+    R.groups.forEach(function (g) {
+      h += '<h2 class="sec">' + esc(g.title) + '</h2>' + (g.note ? '<p class="small muted">' + esc(g.note) + '</p>' : '') + '<div class="res">' + g.items.map(function (it) {
+        return '<div class="resi"><div class="t">' + (it.url ? '<a href="' + esc(it.url) + '" target="_blank" rel="noopener">' + esc(it.name) + '</a>' : esc(it.name)) + ' <span class="pill">' + esc(it.type || '') + '</span>' + (it.level ? ' <span class="pill">' + esc(it.level) + '</span>' : '') + (it.cost ? ' <span class="pill">' + esc(it.cost) + '</span>' : '') + '</div><div class="d">' + esc(it.desc || '') + '</div>' + (it.how ? '<div class="small">👉 ' + esc(it.how) + '</div>' : '') + '</div>';
+      }).join('') + '</div>';
+    });
+    view.innerHTML = h;
+    view.onclick = view.onchange = view.oninput = null;
+  }
+  function renderProgresso() {
+    document.getElementById('lede').textContent = 'Seu progresso: por domínio, não por calendário.';
+    var total = MAP.length, done = MAP.filter(function (m) { return isDone(m.id); }).length, pts = 0, ptsS = 0, ptsW = 0, hw = 0, written = 0;
+    MAP.forEach(function (m) { var a = aula(m.id); if (!a) return; written++; a.grammar.forEach(function (g) { pts++; var p = S.pts[g.id]; if (p && p.s) ptsS++; if (p && p.w) ptsW++; }); if (S.hw[m.id] && S.hw[m.id].done) hw++; });
+    var ms = MAP.filter(function (m) { return m.milestone; });
+    var h = '<div class="card hero"><div class="big">' + (total ? Math.round(done / total * 100) : 0) + '%</div><div><div><b>' + done + '</b> de ' + total + ' aulas dominadas</div><div class="small muted">✍️ ' + ptsS + '/' + pts + ' pontos estudados · 📱 ' + ptsW + ' praticados · 📓 ' + hw + ' lições de casa feitas</div></div></div>';
+    h += '<div class="card"><h2 class="sec" style="margin-top:0">Marcos</h2>' + ms.map(function (m) { return '<div class="wb"><span class="pg">' + (isDone(m.id) ? '🏁' : '◻') + '</span><a href="#/aula/' + m.id + '">' + esc(m.title) + '</a></div>'; }).join('') + '</div>';
+    h += '<div class="card"><h2 class="sec" style="margin-top:0">Por unidade</h2>' + C.curso.units.map(function (u) { var d = u.aulas.filter(function (a) { return isDone(a.id); }).length; return '<div class="row" style="margin:6px 0"><span style="flex:1">' + esc(u.name) + '</span><div class="mini" style="width:120px"><i style="width:' + (d / u.aulas.length * 100) + '%"></i></div><span class="small muted" style="width:44px;text-align:right">' + d + '/' + u.aulas.length + '</span></div>'; }).join('') + '</div>';
+    h += '<div class="card"><h2 class="sec" style="margin-top:0">Backup e integração</h2><div class="row"><button class="btn" id="exp">⬇ Exportar progresso</button><label class="btn">⬆ Importar backup<input type="file" id="imp" accept="application/json" hidden></label><button class="btn" id="gcimp">Importar do genki-companion</button><button class="btn ghost" id="wipe" style="margin-left:auto">Zerar tudo</button></div><p class="small muted" style="margin-top:8px">O progresso fica só neste navegador (localStorage). O backup é um arquivo .json que você guarda onde quiser. A importação do genki-companion traz as marcas ✍️/📱 e as notas dos 77 pontos, se os dois apps abrirem no mesmo navegador.</p></div>';
+    view.innerHTML = h;
+    view.onchange = view.oninput = null;
+    view.onclick = function (e) {
+      var t = e.target.closest('button'); if (!t) return;
+      if (t.id === 'exp') { var blob = new Blob([JSON.stringify({ app: 'curso-japones', version: C.curso.version, state: S }, null, 1)], { type: 'application/json' }); var a = document.createElement('a'); a.href = URL.createObjectURL(blob); a.download = 'curso-japones-progresso.json'; document.body.appendChild(a); a.click(); setTimeout(function () { URL.revokeObjectURL(a.href); a.remove(); }, 500); }
+      if (t.id === 'gcimp') importGC();
+      if (t.id === 'wipe') { if (confirm('Apagar TODO o progresso do curso neste navegador? (Exporte antes se quiser guardar.)')) { S = norm({}); save(); renderProgresso(); updateBar(); } }
+    };
+    document.getElementById('imp').onchange = function (e) {
+      var f = e.target.files[0]; if (!f) return; var r = new FileReader();
+      r.onload = function () { try { var d = JSON.parse(r.result); if (!d || d.app !== 'curso-japones' || !d.state) throw new Error('arquivo não é um backup do curso'); S = norm(d.state); save(); toast('Backup importado'); renderProgresso(); updateBar(); } catch (err) { toast('Não importei: ' + err.message); } };
+      r.readAsText(f);
+    };
+  }
+  function importGC() {
+    var raw = null; try { raw = localStorage.getItem('genki_companion_v1'); } catch (e) {}
+    if (!raw) { toast('Não encontrei dados do genki-companion neste navegador'); return; }
+    var g; try { g = JSON.parse(raw); } catch (e) { toast('Dados do genki-companion ilegíveis'); return; }
+    var n = 0;
+    MAP.forEach(function (m) { var a = aula(m.id); if (!a) return; a.grammar.forEach(function (pt) {
+      if (!pt.gc) return; var s = !!g[pt.gc + '_s'], w = !!g[pt.gc + '_w'], note = g[pt.gc + '_note'];
+      if (!s && !w && !note) return; var p = S.pts[pt.id] = S.pts[pt.id] || {};
+      if (s) p.s = true; if (w) p.w = true; if (note && !p.note) p.note = note; n++;
+    }); });
+    S.imported = true; save(); toast(n + ' pontos importados do genki-companion'); renderProgresso();
+  }
+
+  route();
+})();
+</script>
+</body>
+</html>
