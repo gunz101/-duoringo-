@@ -154,8 +154,8 @@ Uma aula ≈ **60–75 min** (uma sessão principal). Cada lição do Genki = 2�
 | 04-2 | O passado educado | L4 | でした/じゃなかったです · 〜ました/〜ませんでした |
 | 04-3 | E, com, também, muito | L4 | と · も (depois de partículas) · 〜じかん · たくさん |
 | M-1 | **Marco 1** — metade do Genki I | L1–4 | revisão, autoteste, apresentação de 1 minuto |
-| 05-1 | Adjetivos い e な | L5 G1, G3 | presente +/−, antes do substantivo |
-| 05-2 | Adjetivos no passado · gostar | L5 G2, G4 | passado +/− · すき/きらい |
+| 05-1 | Adjetivos い e な | L5 | presente +/−, antes do substantivo |
+| 05-2 | Adjetivos no passado · gostar | L5 | passado +/− · すき/きらい |
 | 05-3 | Vamos! · contando coisas | L5 | 〜ましょう/〜ましょうか · ひとつ… e contadores · graus |
 | 06-1 | A forma て | L6 | formação (る/う/irregulares) |
 | 06-2 | Pedir e encadear ações | L6 | 〜てください · ação て ação |
