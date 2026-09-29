@@ -9,6 +9,15 @@ const { romajiMatches, kataToHira } = require('./romaji');
 
 const ROOT = path.join(__dirname, '..');
 const KANJI = /[一-鿿㐀-䶿々〆]/;
+// Kanji introduced in the Genki I kanji lessons (3rd ed.), cumulative by lesson. Warning only:
+// the course writes Genki-style (kanji once introduced, kana otherwise) and ALWAYS gives the kana.
+const GENKI_KANJI = {
+  3: '一二三四五六七八九十百千万円時', 4: '日本人月火水木金土曜上下中半', 5: '山川元気天私今田女男見行食飲',
+  6: '東西南北口出右左分先生大学外国', 7: '京子小会社父母高校毎語文帰入', 8: '員新聞作仕事電車休言読思次何',
+  9: '午後前名白雨書友間家話少古知来', 10: '住正年売買町長道雪立自夜朝持', 11: '手紙好近明病院映画歌市所勉強有旅',
+  12: '昔々神早起牛使働連別度赤青色'
+};
+function kanjiUpTo(lesson) { let s = ''; Object.keys(GENKI_KANJI).forEach(k => { if (+k <= lesson) s += GENKI_KANJI[k]; }); return s; }
 const JP = /[぀-ヿ一-鿿]/;
 
 function loadCourse() {
@@ -26,7 +35,10 @@ function loadCourse() {
 }
 
 function check(opts = {}) {
-  const { curso, aulas } = loadCourse();
+  const { curso, aulas: all } = loadCourse();
+  const only = opts.only ? new Set(opts.only) : null;
+  const aulas = only ? Object.fromEntries(Object.entries(all).filter(([k]) => only.has(k))) : all;
+  let curLesson = null;
   const errors = [], warnings = [], stats = { aulas: 0, examples: 0, vocab: 0, hwItems: 0, points: 0 };
   const err = (id, m) => errors.push(`[${id}] ${m}`), warn = (id, m) => warnings.push(`[${id}] ${m}`);
   const mapIds = [], mapById = {};
@@ -52,6 +64,7 @@ function check(opts = {}) {
     if (ex.kana && ex.romaji && !romajiMatches(ex.kana, ex.romaji)) err(id, `${where}: romaji não bate com o kana → ${ex.kana} | ${ex.romaji}`);
     if (ex.jp && ex.kana && !KANJI.test(ex.jp) && strip(ex.jp) !== strip(ex.kana)) err(id, `${where}: jp (sem kanji) difere do kana → ${ex.jp} | ${ex.kana}`);
     if (ex.romaji && JP.test(ex.romaji)) err(id, `${where}: romaji contém japonês: ${ex.romaji}`);
+    if (curLesson && curLesson <= 12 && ex.jp) { const ok = kanjiUpTo(curLesson); const bad = [...new Set([...String(ex.jp)].filter(ch => KANJI.test(ch) && !ok.includes(ch)))]; if (bad.length) warn(id, `${where}: kanji ainda não apresentado no Genki até a L${curLesson}: ${bad.join('')} (${ex.jp})`); }
   }
   function strip(s) { return kataToHira(String(s)).replace(/[\s、。！？!?「」『』（）()・…—\-〜~]/g, ''); }
 
@@ -63,6 +76,9 @@ function check(opts = {}) {
     if (!mapById[id]) err(id, 'aula não está no mapa curso.json');
     else if (a.unit !== mapById[id].unit) err(id, `unit "${a.unit}" difere do mapa ("${mapById[id].unit}")`);
     const milestone = !!(mapById[id] && mapById[id].milestone);
+    const um = mapById[id] ? curso.units.find(u => u.id === mapById[id].unit) : null;
+    curLesson = /^00-/.test(id) ? 0 : (a.genki && a.genki.lesson) || (um && um.lesson) || null;
+    if (/^M-[123]$/.test(id)) curLesson = { 'M-1': 4, 'M-2': 8, 'M-3': 12 }[id];
     // 1 · título + can-do
     if (!a.title) err(id, 'bloco 1: falta título');
     if (!a.titleJp || !JP.test(a.titleJp)) err(id, 'bloco 1: falta titleJp em japonês');
@@ -138,6 +154,7 @@ function check(opts = {}) {
     textFields(a).forEach(s => DATE_RE.forEach(re => { if (re.test(s)) err(id, `data/prazo no texto: "${s.slice(0, 80)}"`); }));
   }
   // coverage
+  if (only) return { errors, warnings, stats, missing: [], gcMiss: [] };
   const missing = mapIds.filter(x => !aulas[x]);
   (opts.final ? err : warn)('curso', `${missing.length} aulas do mapa ainda sem arquivo${missing.length ? ': ' + missing.slice(0, 12).join(', ') + (missing.length > 12 ? '…' : '') : ''}`);
   const GC = [3, 7, 8, 8, 7, 7, 6, 8, 6, 7, 4, 6];
@@ -173,7 +190,8 @@ module.exports = { check, loadCourse, readingCheck };
 if (require.main === module) {
   (async () => {
     const final = process.argv.includes('--final');
-    const r = check({ final });
+    const oi = process.argv.indexOf('--only');
+    const r = check({ final, only: oi > 0 ? process.argv[oi + 1].split(',') : null });
     console.log(`aulas ${r.stats.aulas} · pontos ${r.stats.points} · exemplos ${r.stats.examples} · vocab ${r.stats.vocab} · itens de casa ${r.stats.hwItems}`);
     r.warnings.forEach(w => console.log('  ⚠ ' + w));
     r.errors.forEach(e => console.log('  ✗ ' + e));
