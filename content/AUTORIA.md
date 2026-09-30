@@ -83,7 +83,7 @@ Mix Japanese and international names (たなか, すずき, やまだ, マリア
    2. a video;
    3. for Lessons 1–12, the genki-companion for that lesson (`url` `"../genki-companion/index.html"`).
 
-   For videos, use `kind:"video"`, `where:"YouTube · X channel"`, `url:""` and a `search` field with the exact search term. **Never invent URLs.** Verified ToKini Andy and Game Gengo videos are injected automatically by the build, so suggest another good channel, such as Japanese Ammo with Misa.
+   For videos, use `kind:"video"`, `where:"YouTube · X channel"`, `url:""` and a `search` field with the exact search term. **Never invent URLs.** Verified ToKini Andy and Game Gengo videos are injected automatically by the build, so suggest another good channel, such as Japanese Ammo with Misa. The matching **Sakubi** grammar-guide section is also injected automatically (content/readings.json): do not add Sakubi links yourself.
 
 7. **`homework`** — done **by hand in a notebook**:
    - `intro` plus 3–4 `tasks` of varied types, 3–6 items each: translate EN→JP, fill in a particle or form, transform (affirmative→negative, present→past…), order the blocks, produce (write about yourself).

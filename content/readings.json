@@ -1,0 +1,1027 @@
+{
+ "note": "Sakubi (https://sakubi.neocities.org/) sections matched to each lesson — every link verified by reading the section text (verifier + independent skeptic, 2026-09-30). Injected by the build into block 6.",
+ "source": "https://sakubi.neocities.org/",
+ "aulas": {
+  "00-1": [
+   {
+    "label": "Intermission · long vowels and gemination",
+    "url": "https://sakubi.neocities.org/#i_longvowels",
+    "covers": "っ and long vowels; each adds one beat (mora timing)"
+   },
+   {
+    "label": "Intermission · consonant irregularity (ふ, つ, し, ち, ん)",
+    "url": "https://sakubi.neocities.org/#i_consonants",
+    "covers": "irregular basic-kana sounds, voiced ず/づ・じ/ぢ, combinations (きゃ vs ちゃ)"
+   },
+   {
+    "label": "Intermission · spelling irregularities and pitch accent",
+    "url": "https://sakubi.neocities.org/#i_spelling",
+    "covers": "a first look at pitch accent; は/を/へ read as wa/o/e"
+   }
+  ],
+  "00-2": [
+   {
+    "label": "Intermission · long vowels and gemination",
+    "url": "https://sakubi.neocities.org/#i_longvowels",
+    "covers": "the sounds ー and ッ write (long vowel, doubled consonant); the Ka-ta / Ka-a-ta / Ka-t-ta drill matches カタ/カータ/カッタ"
+   }
+  ],
+  "01-1": [
+   {
+    "label": "Lesson 1 · state of being with だ and です",
+    "url": "https://sakubi.neocities.org/#being",
+    "covers": "です as the copula in X は Y です"
+   },
+   {
+    "label": "Lesson 13 · questions with か and の",
+    "url": "https://sakubi.neocities.org/#questions",
+    "covers": "〜か / ですか questions (e.g. 彼は学生ですか)"
+   },
+   {
+    "label": "Lesson 4 · の for possession and attributes",
+    "url": "https://sakubi.neocities.org/#no",
+    "covers": "N₁ の N₂"
+   }
+  ],
+  "01-2": [
+   {
+    "label": "Lesson 37 · counting with counter words (second half; first half is より)",
+    "url": "https://sakubi.neocities.org/#comparing",
+    "covers": "why numbers attach to counters like 〜じ, 〜さい, 〜ねんせい; two number systems (its 二つ reading ふたり is a typo for ふたつ)"
+   },
+   {
+    "label": "Lesson 28 · question words (なに, だれ, どれ, いつ)",
+    "url": "https://sakubi.neocities.org/#interrogating",
+    "covers": "何 'what' as an in-place question word, as in いま なんじですか (the なん reading is not covered)"
+   }
+  ],
+  "02-1": [
+   {
+    "label": "Lesson 18 · demonstratives (これ, それ, あれ, どれ…)",
+    "url": "https://sakubi.neocities.org/#demonstrating",
+    "covers": "これ/この/ここ series, including どれ/どの"
+   },
+   {
+    "label": "Lesson 4 · の for possession and attributes",
+    "url": "https://sakubi.neocities.org/#no",
+    "covers": "the possessive の in だれの (cf. 君の 'yours')"
+   },
+   {
+    "label": "Lesson 28 · question words (なに, だれ, どれ, いつ)",
+    "url": "https://sakubi.neocities.org/#interrogating",
+    "covers": "だれ 'who' (in だれの) and どれ"
+   }
+  ],
+  "02-2": [
+   {
+    "label": "Lesson 27 · asking kindly with ください and なさい",
+    "url": "https://sakubi.neocities.org/#kindly",
+    "covers": "N ください requests (アイスください)"
+   },
+   {
+    "label": "Lesson 3 · particles and case (は, が, を)",
+    "url": "https://sakubi.neocities.org/#case",
+    "covers": "を as the object marker in 〜を ください"
+   }
+  ],
+  "02-3": [
+   {
+    "label": "Lesson 15 · also with も (and と)",
+    "url": "https://sakubi.neocities.org/#more",
+    "covers": "N も 'too/also'"
+   },
+   {
+    "label": "Lesson 10 · で, では and じゃ",
+    "url": "https://sakubi.neocities.org/#dewa",
+    "covers": "N じゃない as the negative of だ (私は学生じゃない)"
+   },
+   {
+    "label": "Lesson 26 · sentence-ending particles (ね, よ…)",
+    "url": "https://sakubi.neocities.org/#enders",
+    "covers": "〜ね / 〜よ"
+   }
+  ],
+  "M-1": [
+   {
+    "label": "Lesson 1 · state of being with だ and です",
+    "url": "https://sakubi.neocities.org/#being",
+    "covers": "review: です / でした (Genki L1, L4)"
+   },
+   {
+    "label": "Lesson 3 · particles and case (は, が, を)",
+    "url": "https://sakubi.neocities.org/#case",
+    "covers": "review: は, が, を (Genki L1–L4)"
+   }
+  ],
+  "03-1": [
+   {
+    "label": "Lesson 12 · irregular verbs and polite ます",
+    "url": "https://sakubi.neocities.org/#irregularity",
+    "covers": "する/くる irregulars; 〜ます / 〜ません forms"
+   },
+   {
+    "label": "Lesson 6 · verb groups (one-form vs five-form)",
+    "url": "https://sakubi.neocities.org/#conjugations",
+    "covers": "る-verbs (one-form) vs う-verbs (five-form)"
+   }
+  ],
+  "03-2": [
+   {
+    "label": "Lesson 3 · particles and case (は, が, を)",
+    "url": "https://sakubi.neocities.org/#case",
+    "covers": "を as object, は as topic, SOV word order"
+   },
+   {
+    "label": "Lesson 5 · direction with に, へ, から",
+    "url": "https://sakubi.neocities.org/#moving",
+    "covers": "に / へ (destination)"
+   },
+   {
+    "label": "Lesson 10 · で for place and means",
+    "url": "https://sakubi.neocities.org/#dewa",
+    "covers": "で (place of action)"
+   }
+  ],
+  "03-3": [
+   {
+    "label": "Lesson 34 · polite invitations with ませんか",
+    "url": "https://sakubi.neocities.org/#donotwant",
+    "covers": "〜ませんか invitations (short final part of section only)"
+   }
+  ],
+  "04-1": [
+   {
+    "label": "Lesson 16 · existence with いる and ある",
+    "url": "https://sakubi.neocities.org/#existing",
+    "covers": "あります / います (living vs non-living)"
+   },
+   {
+    "label": "Lesson 5 · に marking a location",
+    "url": "https://sakubi.neocities.org/#moving",
+    "covers": "に as location marker (N は 〜に あります)"
+   }
+  ],
+  "04-2": [
+   {
+    "label": "Lesson 12 · polite ます forms (ました, ませんでした)",
+    "url": "https://sakubi.neocities.org/#irregularity",
+    "covers": "〜ました / 〜ませんでした"
+   },
+   {
+    "label": "Lesson 1 · だ and です, past でした",
+    "url": "https://sakubi.neocities.org/#being",
+    "covers": "でした as past of です"
+   }
+  ],
+  "04-3": [
+   {
+    "label": "Lesson 15 · も and と (also, and, with)",
+    "url": "https://sakubi.neocities.org/#more",
+    "covers": "N と N, と as 'together with', も as 'also'"
+   },
+   {
+    "label": "Lesson 36 · lists with と, や, とか",
+    "url": "https://sakubi.neocities.org/#lists",
+    "covers": "N と N lists"
+   }
+  ],
+  "05-1": [
+   {
+    "label": "Lesson 7 · い-adjectives and their negative (赤い, 赤くない)",
+    "url": "https://sakubi.neocities.org/#negation",
+    "covers": "い-adjectives: present affirmative/negative, adjective + noun (赤い火)"
+   },
+   {
+    "label": "Lesson 11 · な-adjectives (バカな子供, 好きだ)",
+    "url": "https://sakubi.neocities.org/#relativity",
+    "covers": "な-adjectives and な-adjective + noun"
+   },
+   {
+    "label": "Lesson 10 · では and じゃ (じゃない)",
+    "url": "https://sakubi.neocities.org/#dewa",
+    "covers": "present negative じゃない / ではない, used by nouns and な-adjectives"
+   }
+  ],
+  "05-2": [
+   {
+    "label": "Lesson 7 · conjugating い-adjectives (赤かった, なかった)",
+    "url": "https://sakubi.neocities.org/#negation",
+    "covers": "past tense of い-adjectives (かった)"
+   },
+   {
+    "label": "Lesson 11 · な-adjectives (好きな, 好きだった)",
+    "url": "https://sakubi.neocities.org/#relativity",
+    "covers": "すき(な) and its past 好きだった"
+   },
+   {
+    "label": "Lesson 1 · だ/です and their past (だった, でした)",
+    "url": "https://sakubi.neocities.org/#being",
+    "covers": "past of だ/です, used by な-adjectives"
+   }
+  ],
+  "05-3": [
+   {
+    "label": "Lesson 37 · counting with つ (ひとつ, ふたつ…)",
+    "url": "https://sakubi.neocities.org/#comparing",
+    "covers": "ひとつ, ふたつ… and counter words"
+   },
+   {
+    "label": "Lesson 21 · volitional おう/よう (行こう, 行こうか)",
+    "url": "https://sakubi.neocities.org/#wanting",
+    "covers": "let's / shall we? (plain form of 〜ましょう / 〜ましょうか; Sakubi never shows ましょう itself)"
+   }
+  ],
+  "06-1": [
+   {
+    "label": "Lesson 9 · the て form (past た → て)",
+    "url": "https://sakubi.neocities.org/#te",
+    "covers": "making the て-form of る- and う-verbs (食べて, 切って, 死んで…)"
+   },
+   {
+    "label": "Lesson 8 · past-tense sound changes (った, んだ, いた, いだ, した)",
+    "url": "https://sakubi.neocities.org/#theverbstrikesback",
+    "covers": "the う-verb sound changes the て-form reuses"
+   },
+   {
+    "label": "Lesson 12 · irregular verbs する and くる (した, きた)",
+    "url": "https://sakubi.neocities.org/#irregularity",
+    "covers": "irregulars した/きた → して/きて (the irregular 行って is not covered anywhere in Sakubi)"
+   }
+  ],
+  "06-2": [
+   {
+    "label": "Lesson 9 · the て form and the て particle",
+    "url": "https://sakubi.neocities.org/#te",
+    "covers": "chaining actions with て (見て、告げる) and て + ください"
+   },
+   {
+    "label": "Lesson 27 · asking kindly with ください",
+    "url": "https://sakubi.neocities.org/#kindly",
+    "covers": "〜てください requests (死んでください, 〜ないでください)"
+   }
+  ],
+  "06-3": [
+   {
+    "label": "Lesson 34 · permission with いい (食べていい？)",
+    "url": "https://sakubi.neocities.org/#donotwant",
+    "covers": "permission with 〜ていい (same pattern as 〜てもいい, without も)"
+   },
+   {
+    "label": "Lesson 53 · だめ, いけない, ならない",
+    "url": "https://sakubi.neocities.org/#wrongness",
+    "covers": "いけない as prohibition (〜てはいけません)"
+   },
+   {
+    "label": "Lesson 9 · て + は as a topic (食べてはいい, なくてはいけない)",
+    "url": "https://sakubi.neocities.org/#te",
+    "covers": "the て + は structure behind 〜てはいけない"
+   }
+  ],
+  "06-4": [
+   {
+    "label": "Lesson 44 · から as \"because\" (犬だから怖い)",
+    "url": "https://sakubi.neocities.org/#entailment",
+    "covers": "〜から (because)"
+   },
+   {
+    "label": "Lesson 21 · volitional + か (行こうか)",
+    "url": "https://sakubi.neocities.org/#wanting",
+    "covers": "shall I/we? with volitional + か (plain form of 〜ましょうか)"
+   }
+  ],
+  "07-1": [
+   {
+    "label": "Lesson 17 · ている and てある",
+    "url": "https://sakubi.neocities.org/#enduring",
+    "covers": "ている for an action in progress (食べている) and for a resulting state (死んでいる)"
+   }
+  ],
+  "07-2": [
+   {
+    "label": "Lesson 3 · particles and case (は, が, を)",
+    "url": "https://sakubi.neocities.org/#case",
+    "covers": "は as topic and が as subject in one sentence, the frame behind かみが ながい"
+   },
+   {
+    "label": "Lesson 9 · the て form and くて",
+    "url": "https://sakubi.neocities.org/#te",
+    "covers": "い-adjectives change い to くて to join statements"
+   },
+   {
+    "label": "Lesson 10 · で, では, and じゃ",
+    "url": "https://sakubi.neocities.org/#dewa",
+    "covers": "で as the joining form of だ after nouns (な-adjectives not mentioned)"
+   }
+  ],
+  "07-3": [
+   {
+    "label": "Lesson 37 · counting with つ (second half)",
+    "url": "https://sakubi.neocities.org/#comparing",
+    "covers": "how counter words work and the mix of native and Chinese numbers (人 is not shown; its list misprints 二つ as ふたり, it should be ふたつ)"
+   }
+  ],
+  "08-1": [
+   {
+    "label": "Lesson 7 · negative verbs and い-adjectives",
+    "url": "https://sakubi.neocities.org/#negation",
+    "covers": "dictionary form to ない (both verb types); い-adjective short forms くない / かった"
+   },
+   {
+    "label": "Lesson 12 · irregular verbs and basic formality",
+    "url": "https://sakubi.neocities.org/#irregularity",
+    "covers": "irregular short forms しない / こない; plain form vs. polite ます"
+   },
+   {
+    "label": "Lesson 10 · で, では, and じゃ",
+    "url": "https://sakubi.neocities.org/#dewa",
+    "covers": "じゃない as the casual short negative of だ after nouns"
+   }
+  ],
+  "08-2": [
+   {
+    "label": "Lesson 24 · quoting with と and って",
+    "url": "https://sakubi.neocities.org/#quoting",
+    "covers": "と marking the quoted clause in 〜と おもう / 〜と いった"
+   },
+   {
+    "label": "Optional Lesson 2 · と思う (skip the てみる and とする parts)",
+    "url": "https://sakubi.neocities.org/#bonux",
+    "covers": "と思う for what the speaker thinks; と思っている for someone else's intention"
+   }
+  ],
+  "08-3": [
+   {
+    "label": "Lesson 27 · ください and prohibition with な",
+    "url": "https://sakubi.neocities.org/#kindly",
+    "covers": "〜ないでください, and why it uses ないで, not なくて"
+   },
+   {
+    "label": "Lesson 31 · nominalizing with こと, もの, and の",
+    "url": "https://sakubi.neocities.org/#nominalizing",
+    "covers": "の turning a verb phrase into a noun (使用するのがいい), the basis of のが すき / じょうず"
+   },
+   {
+    "label": "Lesson 29 · か and も with question words",
+    "url": "https://sakubi.neocities.org/#kamokamo",
+    "covers": "なにか (something) and なにも + negative (nothing)"
+   }
+  ],
+  "09-1": [
+   {
+    "label": "Lesson 8 · the past tense (た)",
+    "url": "https://sakubi.neocities.org/#theverbstrikesback",
+    "covers": "plain past た / だ"
+   },
+   {
+    "label": "Lesson 24 · quoting with と and って",
+    "url": "https://sakubi.neocities.org/#quoting",
+    "covers": "と思う / と言った (quoting a clause)"
+   },
+   {
+    "label": "Lesson 7 · negative verbs and い-adjectives",
+    "url": "https://sakubi.neocities.org/#negation",
+    "covers": "なかった, the past of ない"
+   }
+  ],
+  "09-2": [
+   {
+    "label": "Lesson 11 · relative clauses and な-adjectives",
+    "url": "https://sakubi.neocities.org/#relativity",
+    "covers": "clause + noun"
+   }
+  ],
+  "09-3": [
+   {
+    "label": "Lesson 33 · already, still, yet (もう, まだ, また)",
+    "url": "https://sakubi.neocities.org/#still",
+    "covers": "もう 'already', まだ + negative 'not yet'"
+   },
+   {
+    "label": "Lesson 44 · because with から and ので",
+    "url": "https://sakubi.neocities.org/#entailment",
+    "covers": "から meaning 'because'"
+   }
+  ],
+  "10-1": [
+   {
+    "label": "Lesson 37 · comparing with より (and counting)",
+    "url": "https://sakubi.neocities.org/#comparing",
+    "covers": "B より, 'than'"
+   }
+  ],
+  "10-2": [
+   {
+    "label": "Lesson 31 · nominalizing with こと, もの, の",
+    "url": "https://sakubi.neocities.org/#nominalizing",
+    "covers": "の as 'the red one' (赤いの)"
+   }
+  ],
+  "10-3": [
+   {
+    "label": "Lesson 38 · becoming with なる",
+    "url": "https://sakubi.neocities.org/#phrasalverbs",
+    "covers": "〜くなる / 〜になる"
+   },
+   {
+    "label": "Lesson 10 · で, では, and じゃ",
+    "url": "https://sakubi.neocities.org/#dewa",
+    "covers": "で for means (バスで来た)"
+   },
+   {
+    "label": "Lesson 29 · question words + か / も",
+    "url": "https://sakubi.neocities.org/#kamokamo",
+    "covers": "the pattern behind どこか / どこにも"
+   }
+  ],
+  "11-1": [
+   {
+    "label": "Lesson 21 · wanting with たい, ほしい, おう/よう",
+    "url": "https://sakubi.neocities.org/#wanting",
+    "covers": "〜たい"
+   },
+   {
+    "label": "Lesson 49 · ころ, くらい, たり, まで, ほど",
+    "url": "https://sakubi.neocities.org/#approximately",
+    "covers": "〜たり for listing actions"
+   }
+  ],
+  "11-2": [
+   {
+    "label": "Lesson 36 · lists with や, とか, と, か",
+    "url": "https://sakubi.neocities.org/#lists",
+    "covers": "A や B"
+   }
+  ],
+  "12-1": [
+   {
+    "label": "Lesson 13 · questions with の and のだ / んだ",
+    "url": "https://sakubi.neocities.org/#questions",
+    "covers": "〜んです as explanation (のだ / んだ)"
+   },
+   {
+    "label": "Lesson 49 · limits with まで, ほど, すぎる",
+    "url": "https://sakubi.neocities.org/#approximately",
+    "covers": "〜すぎる (too much)"
+   }
+  ],
+  "12-2": [
+   {
+    "label": "Lesson 44 · because: から and ので",
+    "url": "https://sakubi.neocities.org/#entailment",
+    "covers": "〜ので (because)"
+   }
+  ],
+  "12-3": [
+   {
+    "label": "Lesson 53 · must: なければいけない / ならない",
+    "url": "https://sakubi.neocities.org/#wrongness",
+    "covers": "〜なければいけません (must)"
+   },
+   {
+    "label": "Lesson 21 · volitional おう/よう (でしょう, だろう)",
+    "url": "https://sakubi.neocities.org/#wanting",
+    "covers": "でしょう as conjecture (volitional of です)"
+   }
+  ],
+  "M-3": [
+   {
+    "label": "Lesson 23 · verbs review (the verb bases)",
+    "url": "https://sakubi.neocities.org/#endofordeals",
+    "covers": "review of verb forms (ます, て, ない, past)"
+   }
+  ],
+  "13-1": [
+   {
+    "label": "Lesson 20 · potential verbs (られる / える, できる)",
+    "url": "https://sakubi.neocities.org/#potential",
+    "covers": "potential verbs (られる / える)"
+   },
+   {
+    "label": "Intermission · notes on the potential",
+    "url": "https://sakubi.neocities.org/#i_potentialnotes",
+    "covers": "potential vs passive; origin of える"
+   }
+  ],
+  "13-2": [
+   {
+    "label": "Lesson 45 · linking conjunctions (し)",
+    "url": "https://sakubi.neocities.org/#linking",
+    "covers": "〜し 〜し (and besides)"
+   },
+   {
+    "label": "Lesson 51 · looks like: そう, らしい",
+    "url": "https://sakubi.neocities.org/#likeness",
+    "covers": "〜そうです (appearance, stem + そう)"
+   }
+  ],
+  "13-3": [
+   {
+    "label": "Optional Lesson 2 · auxiliaries (てみる)",
+    "url": "https://sakubi.neocities.org/#bonux",
+    "covers": "〜てみる (try doing)"
+   },
+   {
+    "label": "Lesson 41 · conditionals: と, たら, なら",
+    "url": "https://sakubi.neocities.org/#ifandwhen",
+    "covers": "なら (if it is)"
+   }
+  ],
+  "14-1": [
+   {
+    "label": "Lesson 21 · wanting: たい, ほしい",
+    "url": "https://sakubi.neocities.org/#wanting",
+    "covers": "ほしい (want something)"
+   },
+   {
+    "label": "Lesson 48 · expectation: かもしれない",
+    "url": "https://sakubi.neocities.org/#oughta",
+    "covers": "〜かもしれません (maybe)"
+   }
+  ],
+  "14-2": [
+   {
+    "label": "Lesson 52 · giving and receiving (あげる, くれる, もらう)",
+    "url": "https://sakubi.neocities.org/#giving",
+    "covers": "あげる, くれる, もらう (who gives to whom)"
+   }
+  ],
+  "14-3": [
+   {
+    "label": "Lesson 41 · conditionals (たらどうですか)",
+    "url": "https://sakubi.neocities.org/#ifandwhen",
+    "covers": "〜たらどうですか (suggesting)"
+   },
+   {
+    "label": "Lesson 32 · only: だけ, しか",
+    "url": "https://sakubi.neocities.org/#just",
+    "covers": "しか〜ない (nothing but / only)"
+   }
+  ],
+  "15-1": [
+   {
+    "label": "Lesson 21 · volitional おう/よう (let's), たい, ほしい",
+    "url": "https://sakubi.neocities.org/#wanting",
+    "covers": "volitional form, casual \"let's\" (行こう, 食べようと思う)"
+   },
+   {
+    "label": "Optional Lesson 2 · auxiliaries: と思う and friends",
+    "url": "https://sakubi.neocities.org/#bonux",
+    "covers": "volitional + と思う / と思っている"
+   }
+  ],
+  "15-2": [
+   {
+    "label": "Lesson 46 · aspect (てしまう, ていく, てくる, ておく)",
+    "url": "https://sakubi.neocities.org/#aspect",
+    "covers": "〜ておく as doing something in preparation (short note)"
+   },
+   {
+    "label": "Lesson 11 · relative clauses and な-adjectives",
+    "url": "https://sakubi.neocities.org/#relativity",
+    "covers": "verb clauses that describe nouns"
+   }
+  ],
+  "16-1": [
+   {
+    "label": "Lesson 52 · done for someone (あげる, もらう, くれる)",
+    "url": "https://sakubi.neocities.org/#giving",
+    "covers": "〜てあげる / 〜てくれる / 〜てもらう"
+   },
+   {
+    "label": "Lesson 9 · the て form (XてY: てあげる, てもらう)",
+    "url": "https://sakubi.neocities.org/#te",
+    "covers": "how てもらう makes the receiver the subject"
+   }
+  ],
+  "16-2": [
+   {
+    "label": "Lesson 52 · done for someone (あげる, もらう, くれる)",
+    "url": "https://sakubi.neocities.org/#giving",
+    "covers": "〜てもらう, the plain form behind 〜ていただく"
+   },
+   {
+    "label": "Lesson 34 · permission with いい; polite ますか/ませんか",
+    "url": "https://sakubi.neocities.org/#donotwant",
+    "covers": "polite requests with 〜ませんか (incl. できませんか)"
+   },
+   {
+    "label": "Lesson 41 · if and when (と, たら, なら)",
+    "url": "https://sakubi.neocities.org/#ifandwhen",
+    "covers": "only the と conditional inside 〜といい"
+   }
+  ],
+  "16-3": [
+   {
+    "label": "Lesson 50 · time words (後, 前/先, 時)",
+    "url": "https://sakubi.neocities.org/#thetime",
+    "covers": "時 as \"when\" after a clause"
+   },
+   {
+    "label": "Lesson 9 · the て particle and the て form",
+    "url": "https://sakubi.neocities.org/#te",
+    "covers": "て linking a reason to what follows (〜てすみません)"
+   }
+  ],
+  "M-4": [
+   {
+    "label": "Lesson 52 · done for someone (あげる, もらう, くれる)",
+    "url": "https://sakubi.neocities.org/#giving",
+    "covers": "review: giving/receiving and favors (L14, L16)"
+   },
+   {
+    "label": "Lesson 20 · potential れる/える and できる",
+    "url": "https://sakubi.neocities.org/#potential",
+    "covers": "review: potential verbs (L13)"
+   },
+   {
+    "label": "Lesson 21 · volitional おう/よう, たい, ほしい",
+    "url": "https://sakubi.neocities.org/#wanting",
+    "covers": "review: ほしい (L14), volitional (L15)"
+   }
+  ],
+  "17-1": [
+   {
+    "label": "Lesson 51 · likeness (らしい, っぽい, そう)",
+    "url": "https://sakubi.neocities.org/#likeness",
+    "covers": "〜そうです as hearsay (vs. そう \"looks like\")"
+   },
+   {
+    "label": "Lesson 24 · quoting with って and と",
+    "url": "https://sakubi.neocities.org/#quoting",
+    "covers": "〜って as casual quote/hearsay"
+   }
+  ],
+  "17-2": [
+   {
+    "label": "Lesson 41 · if and when (と, たら, なら)",
+    "url": "https://sakubi.neocities.org/#ifandwhen",
+    "covers": "〜たら"
+   },
+   {
+    "label": "Lesson 34 · permission with いい; ますか/ませんか",
+    "url": "https://sakubi.neocities.org/#donotwant",
+    "covers": "〜なくていい (don't have to)"
+   }
+  ],
+  "17-3": [
+   {
+    "label": "Lesson 50 · time words (後, 前/先, 時)",
+    "url": "https://sakubi.neocities.org/#thetime",
+    "covers": "〜前に (before); no Sakubi section covers 〜てから"
+   },
+   {
+    "label": "Intermission · notes on wanting (みたい = seems)",
+    "url": "https://sakubi.neocities.org/#i_wantingnotes",
+    "covers": "〜みたい as \"seems/looks like\""
+   }
+  ],
+  "18-1": [
+   {
+    "label": "Lesson 19 · transitive pairs (上げる/上がる)",
+    "url": "https://sakubi.neocities.org/#passive",
+    "covers": "what transitive/intransitive pairs are"
+   },
+   {
+    "label": "Lesson 17 · ている and てある",
+    "url": "https://sakubi.neocities.org/#enduring",
+    "covers": "ている on intransitive verbs = resulting state (死んでいる)"
+   }
+  ],
+  "18-2": [
+   {
+    "label": "Lesson 46 · aspect (てしまう, ちゃう)",
+    "url": "https://sakubi.neocities.org/#aspect",
+    "covers": "てしまう (done completely / ended up) and its contraction ちゃう"
+   }
+  ],
+  "18-3": [
+   {
+    "label": "Lesson 41 · if and when (と, たら, なら)",
+    "url": "https://sakubi.neocities.org/#ifandwhen",
+    "covers": "〜と: natural consequence, whenever"
+   },
+   {
+    "label": "Lesson 42 · concurrence (ながら, 間, うちに)",
+    "url": "https://sakubi.neocities.org/#concurrence",
+    "covers": "〜ながら: doing two things at once"
+   },
+   {
+    "label": "Lesson 22 · conditional ば",
+    "url": "https://sakubi.neocities.org/#if",
+    "covers": "ば form and ばいい, the base of ばよかった (the past form itself is not shown)"
+   }
+  ],
+  "19-1": [
+   {
+    "label": "Intermission · keigo basics",
+    "url": "https://sakubi.neocities.org/#i_keigo",
+    "covers": "special respectful verbs as a concept (e.g. なさる); お〜になる and お〜ください not covered"
+   }
+  ],
+  "19-2": [
+   {
+    "label": "Lesson 52 · done for someone (あげる, もらう, くれる)",
+    "url": "https://sakubi.neocities.org/#giving",
+    "covers": "〜てくれる: an action done for the speaker"
+   },
+   {
+    "label": "Lesson 48 · expectation (はず, べき)",
+    "url": "https://sakubi.neocities.org/#oughta",
+    "covers": "〜はずです: expected to be true"
+   }
+  ],
+  "20-1": [
+   {
+    "label": "Intermission · keigo basics",
+    "url": "https://sakubi.neocities.org/#i_keigo",
+    "covers": "humble verbs vs respectful/polite (e.g. いたす); お〜する not covered"
+   }
+  ],
+  "20-2": [
+   {
+    "label": "Lesson 40 · ないで, なくて, ずに",
+    "url": "https://sakubi.neocities.org/#without",
+    "covers": "〜ないで: without doing"
+   }
+  ],
+  "20-3": [
+   {
+    "label": "Lesson 24 · quoting and という",
+    "url": "https://sakubi.neocities.org/#quoting",
+    "covers": "〜という N: a relative clause built with という (研究者という人間); やすい/にくい not covered anywhere in Sakubi"
+   }
+  ],
+  "21-1": [
+   {
+    "label": "Lesson 19 · the passive (られる)",
+    "url": "https://sakubi.neocities.org/#passive",
+    "covers": "how to form the passive and mark the agent with に; the suffering passive is not covered anywhere in Sakubi"
+   }
+  ],
+  "21-2": [
+   {
+    "label": "Lesson 17 · ている and てある",
+    "url": "https://sakubi.neocities.org/#enduring",
+    "covers": "〜てある: a state left by an action"
+   },
+   {
+    "label": "Lesson 21 · wanting (たい, ほしい)",
+    "url": "https://sakubi.neocities.org/#wanting",
+    "covers": "〜てほしい: I want you to... (agent marked with に)"
+   },
+   {
+    "label": "Lesson 42 · concurrence (間, 間に, ながら)",
+    "url": "https://sakubi.neocities.org/#concurrence",
+    "covers": "〜間に: something happens within a span of time"
+   }
+  ],
+  "22-1": [
+   {
+    "label": "Lesson 38 · causative せる (with なる, できる)",
+    "url": "https://sakubi.neocities.org/#phrasalverbs",
+    "covers": "forming せる/させる; make or let someone do"
+   },
+   {
+    "label": "Lesson 52 · favors with あげる, もらう, くれる",
+    "url": "https://sakubi.neocities.org/#giving",
+    "covers": "the てあげる/くれる half of させてあげる/させてくれる"
+   }
+  ],
+  "22-2": [
+   {
+    "label": "Lesson 27 · commands with なさい (and ください)",
+    "url": "https://sakubi.neocities.org/#kindly",
+    "covers": "verb stem + なさい"
+   },
+   {
+    "label": "Lesson 22 · \"if\" with ば",
+    "url": "https://sakubi.neocities.org/#if",
+    "covers": "〜ば conditional"
+   },
+   {
+    "label": "Lesson 45 · のに and ように",
+    "url": "https://sakubi.neocities.org/#linking",
+    "covers": "〜のに \"even though\"; のように \"in such a way as\""
+   }
+  ],
+  "23-1": [
+   {
+    "label": "Lesson 38 · causative and causative-passive",
+    "url": "https://sakubi.neocities.org/#phrasalverbs",
+    "covers": "causative-passive (書かせられる / 書かされる)"
+   },
+   {
+    "label": "Lesson 43 · adversatives (が, けど, ても, でも)",
+    "url": "https://sakubi.neocities.org/#but",
+    "covers": "〜ても \"even if\""
+   }
+  ],
+  "23-2": [
+   {
+    "label": "Lesson 49 · limits with まで (plus ころ, くらい, ほど)",
+    "url": "https://sakubi.neocities.org/#approximately",
+    "covers": "〜まで \"until\", also after verbs"
+   },
+   {
+    "label": "Lesson 54 · しかたがない (し + 方 \"way to\")",
+    "url": "https://sakubi.neocities.org/#itcantbehelped",
+    "covers": "stem + 方 \"way of doing\" (brief)"
+   }
+  ],
+  "M-5": [
+   {
+    "label": "Lesson 23 · verbs review (verb bases)",
+    "url": "https://sakubi.neocities.org/#endofordeals",
+    "covers": "verb bases behind potential, volitional, passive, ば"
+   }
+  ],
+  "P-01": [
+   {
+    "label": "Lesson 45 · ように \"so as to\"",
+    "url": "https://sakubi.neocities.org/#linking",
+    "covers": "ように, the core of 〜ようにする (not ようになる)"
+   }
+  ],
+  "P-03": [
+   {
+    "label": "Lesson 45 · purpose with ために and ように",
+    "url": "https://sakubi.neocities.org/#linking",
+    "covers": "〜ために and 〜ように (purpose)"
+   }
+  ],
+  "P-04": [
+   {
+    "label": "Lesson 51 · likeness with らしい, っぽい, そう",
+    "url": "https://sakubi.neocities.org/#likeness",
+    "covers": "〜らしい; 〜そうだ (seeming and hearsay)"
+   },
+   {
+    "label": "Intermission · notes on wanting (みたい = seems)",
+    "url": "https://sakubi.neocities.org/#i_wantingnotes",
+    "covers": "〜みたいだ \"seems\" (brief)"
+   }
+  ],
+  "P-05": [
+   {
+    "label": "Lesson 31 · ところ as a point in time",
+    "url": "https://sakubi.neocities.org/#nominalizing",
+    "covers": "ところ as a point in time or progress (general idea)"
+   },
+   {
+    "label": "Lesson 32 · \"just\" with ばかり, だけ, しか",
+    "url": "https://sakubi.neocities.org/#just",
+    "covers": "〜たばかり \"just did\""
+   }
+  ],
+  "P-06": [
+   {
+    "label": "Lesson 42 · concurrence (ながら, 間, うちに, つつ)",
+    "url": "https://sakubi.neocities.org/#concurrence",
+    "covers": "〜うちに and 〜間 / 〜間に"
+   }
+  ],
+  "P-07": [
+   {
+    "label": "Lesson 48 · expectation (わけ, はず, べき)",
+    "url": "https://sakubi.neocities.org/#oughta",
+    "covers": "〜わけだ, 〜わけではない, basics of はず"
+   }
+  ],
+  "P-08": [
+   {
+    "label": "Lesson 49 · approximation and limits (くらい, ほど)",
+    "url": "https://sakubi.neocities.org/#approximately",
+    "covers": "ほど / くらい for degree and comparison"
+   }
+  ],
+  "P-09": [
+   {
+    "label": "Optional Lesson 2 · とする and として",
+    "url": "https://sakubi.neocities.org/#bonux",
+    "covers": "〜として ('as X', e.g. 研究者として)"
+   }
+  ],
+  "P-10": [
+   {
+    "label": "Lesson 45 · linking conjunctions (のに, ために, せいで)",
+    "url": "https://sakubi.neocities.org/#linking",
+    "covers": "〜せいで (blame/cause)"
+   }
+  ],
+  "P-11": [
+   {
+    "label": "Lesson 38 · なる, できる and the causative せる",
+    "url": "https://sakubi.neocities.org/#phrasalverbs",
+    "covers": "causative させる, 'make/let someone do' (basis of させて)"
+   }
+  ],
+  "P-12": [
+   {
+    "label": "Intermission · keigo (respectful, humble, polite)",
+    "url": "https://sakubi.neocities.org/#i_keigo",
+    "covers": "general keigo background, not the shop/phone/e-mail phrases"
+   }
+  ],
+  "P-13": [
+   {
+    "label": "Lesson 43 · adversatives (が, けど, しかし, でも)",
+    "url": "https://sakubi.neocities.org/#but",
+    "covers": "しかし as a formal 'however'"
+   },
+   {
+    "label": "Lesson 44 · entailment (から, そして, ので, で)",
+    "url": "https://sakubi.neocities.org/#entailment",
+    "covers": "だから and それで"
+   }
+  ],
+  "P-14": [
+   {
+    "label": "Optional Lesson 4 · emphatic particles (こそ, さえ, すら)",
+    "url": "https://sakubi.neocities.org/#undertherug",
+    "covers": "〜さえ and 〜こそ"
+   },
+   {
+    "label": "Lesson 47 · でも and だって",
+    "url": "https://sakubi.neocities.org/#butimeanlike",
+    "covers": "でも meaning 'even' (e.g. 犬でもいい)"
+   }
+  ],
+  "P-15": [
+   {
+    "label": "Lesson 51 · likeness (らしい, っぽい, そう, など)",
+    "url": "https://sakubi.neocities.org/#likeness",
+    "covers": "〜っぽい ('X-ish', seems so from appearance)"
+   },
+   {
+    "label": "Optional Lesson 4 · under the rug: extra auxiliaries (がち)",
+    "url": "https://sakubi.neocities.org/#undertherug",
+    "covers": "〜がち (a tendency, usually undesirable)"
+   }
+  ],
+  "P-16": [
+   {
+    "label": "Lesson 46 · aspect (てしまう→ちゃう/じゃう, ておく→とく)",
+    "url": "https://sakubi.neocities.org/#aspect",
+    "covers": "〜ちゃう/じゃう, 〜とく; なくちゃ = なくては"
+   },
+   {
+    "label": "Lesson 17 · ている and てある (casual てる)",
+    "url": "https://sakubi.neocities.org/#enduring",
+    "covers": "〜てる (the い of ている dropped)"
+   },
+   {
+    "label": "Lesson 35 · confirmation questions (じゃない, じゃん)",
+    "url": "https://sakubi.neocities.org/#confirmation",
+    "covers": "〜じゃん as a contraction of じゃない"
+   },
+   {
+    "label": "Lesson 53 · 'must' (なければ/なくては) and speech contractions",
+    "url": "https://sakubi.neocities.org/#wrongness",
+    "covers": "full 'must' forms behind なきゃ/なくちゃ; common spoken contractions"
+   }
+  ],
+  "P-17": [
+   {
+    "label": "Optional Lesson 2 · とする with mimetic words",
+    "url": "https://sakubi.neocities.org/#bonux",
+    "covers": "mimetic words (擬態語) + とする, e.g. つるっとする"
+   }
+  ],
+  "P-18": [
+   {
+    "label": "Lesson 16 · existence with いる/ある, である",
+    "url": "https://sakubi.neocities.org/#existing",
+    "covers": "〜である as formal 'to be' and its forms (であった, ではない)"
+   },
+   {
+    "label": "Intermission · notes on である",
+    "url": "https://sakubi.neocities.org/#i_existingnotes",
+    "covers": "when である is used (ceremonial, archaic, formal register)"
+   },
+   {
+    "label": "Lesson 23 · closing note 'Section Two: Absolute Territory' (at the end)",
+    "url": "https://sakubi.neocities.org/#endofordeals",
+    "covers": "reading strategy: understand the message first, then break it down"
+   }
+  ],
+  "P-22": [
+   {
+    "label": "Intermission · spelling irregularities (pitch accent, prosody)",
+    "url": "https://sakubi.neocities.org/#i_spelling",
+    "covers": "what pitch accent is; Japanese has prosody, it is not 'flat'"
+   }
+  ],
+  "M-6": [
+   {
+    "label": "Optional Lesson 4 · end matter: 'Other resources' (at the end)",
+    "url": "https://sakubi.neocities.org/#undertherug",
+    "covers": "what next: intermediate reference books; warning against JLPT grammar guides"
+   },
+   {
+    "label": "Lesson 23 · closing note 'Section Two: Absolute Territory' (at the end)",
+    "url": "https://sakubi.neocities.org/#endofordeals",
+    "covers": "what next: learn through reading and input"
+   }
+  ]
+ }
+}

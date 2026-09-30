@@ -1334,7 +1334,7 @@
     "minimum": "On busy days, do only the Review (🌊 All) and write 1 sentence in the Journal — about 15 minutes. That still counts, and it is what stops forgetting.",
     "cycle": {
       "title": "The cycle of one lesson (usually 3 sessions)",
-      "body": "**Session 1 · understand:** blocks 1–4 (goals, vocabulary, grammar with examples out loud and 🔬) plus the video in block 6.\n**Session 2 · lock it in:** the homework in your notebook (block 7), checking the answer key item by item, plus the Workbook pages.\n**Session 3 · use it:** home practice (block 8: Wagotabi, the app, shadowing, recording yourself) and the checklist (block 10).\n• If a checklist item does not click, add one more session just to review that point — that is the normal pace of real learning, not falling behind.\n• When you finish a whole Genki lesson, do the app's Practice L# for that lesson before moving on."
+      "body": "**Session 1 · understand:** blocks 1–4 (goals, vocabulary, grammar with examples out loud and 🔬) plus the video in block 6 and the matching **Sakubi** lesson (also in block 6) as a second explanation.\n**Session 2 · lock it in:** the homework in your notebook (block 7), checking the answer key item by item, plus the Workbook pages.\n**Session 3 · use it:** home practice (block 8: Wagotabi, the app, shadowing, recording yourself) and the checklist (block 10).\n• If a checklist item does not click, add one more session just to review that point — that is the normal pace of real learning, not falling behind.\n• When you finish a whole Genki lesson, do the app's Practice L# for that lesson before moving on."
     },
     "week": {
       "title": "A sample week (adapt freely)",
@@ -1358,6 +1358,10 @@
       {
         "title": "What each tool is for",
         "body": "• **This course:** tells you what to study now and how — the map.\n• **Genki I/II (the book):** explanations, dialogues and textbook exercises — the main reading for each lesson.\n• **Genki Workbook:** exercises; every lesson says which pages to do (check them with the official Answer Key).\n• **The ヅオリンゴー app:** spaced repetition (🌊 All), Practice L#, Drills (conjugation, numbers, particles, 🔬 Anatomy), Kana, Kanji, Journal and Immersion — and this course inside the 🏫 Course tab.\n• **Wagotabi:** immersion as a game, ordered by JLPT; every lesson suggests what to hunt for in its dialogues.\n• **genki-companion:** the checklist of the 77 Genki I points (you can import its marks under Progress).\n• **kana-flow / kana-speed-trainer:** kana fluency and speed while reading is still slow."
+      },
+      {
+        "title": "Your two best free companions: Sakubi and the DJT guide",
+        "body": "• **Sakubi** (sakubi.neocities.org) is a free grammar guide in plain English. Block 6 of every lesson links the matching Sakubi lesson: read it after the grammar block as a second explanation — a different angle often makes a point click.\n• The **DJT guide** (djtguide.neocities.org/guide) explains the method many self-learners follow: learn kana, read one grammar guide from start to finish, build vocabulary with spaced repetition, then read real Japanese while collecting new words. This course is your grammar guide; the ヅオリンゴー app is your spaced repetition; Wagotabi and the Resources tab are your reading and listening.\n• Its **Resource Guide** lists tools by skill (kana, kanji, vocabulary, grammar, practice, Anki, dictionaries, typing). Use the links in the Resources tab and skip anything that asks you to download copyrighted books.\n• When you finish Genki I, re-read the DJT section \"Now what do I do to actually learn Japanese?\": it is the plan for moving from textbook to native material."
       },
       {
         "title": "Golden rules",

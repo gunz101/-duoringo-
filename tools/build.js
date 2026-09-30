@@ -71,6 +71,23 @@ async function anatomyEngine() {
   });
   if (nVid) console.log(`  vídeos verificados aplicados em ${nVid} aulas`);
 
+  // Sakubi (free grammar guide): verified section links per lesson (content/readings.json) → block 6, right after the Genki reading
+  const rp2 = path.join(ROOT, 'content', 'readings.json');
+  const readings = fs.existsSync(rp2) ? JSON.parse(fs.readFileSync(rp2, 'utf8')).aulas : {};
+  let nRead = 0;
+  Object.keys(ordered).forEach(id => {
+    const links = readings[id]; if (!links || !links.length) return;
+    const a = ordered[id], media = (a.media || []).filter(m => !/sakubi\.neocities/i.test(m.url || ''));
+    const item = { kind: 'reading', title: 'Sakubi (free grammar guide): ' + links[0].label, where: 'sakubi.neocities.org', url: links[0].url,
+      links: links.length > 1 ? links.map(l => ({ t: l.label, url: l.url })) : undefined,
+      when: 'After block 4, as a second explanation in plain English — then do the homework.' };
+    const at = media.findIndex(m => m.kind === 'reading' || m.kind === 'leitura');
+    media.splice(at >= 0 ? at + 1 : 0, 0, item);
+    a.media = media.map((m, i) => Object.assign({}, m, { order: i + 1 }));
+    nRead++;
+  });
+  if (nRead) console.log('  Sakubi linked in ' + nRead + ' lessons');
+
   const eng = await anatomyEngine();
   let nAnat = 0, nEx = 0;
   if (eng) {
@@ -82,6 +99,13 @@ async function anatomyEngine() {
     })));
   }
   const appsBase = 'file:///' + path.dirname(ROOT).split(path.sep).join('/') + '/';   // sibling apps (genki-companion, kana-flow) when the course runs inside ヅオリンゴー
+  // the best free companions (Sakubi, DJT guide) open the Resources tab
+  const cp = path.join(ROOT, 'content', 'companions.json');
+  if (recursos && fs.existsSync(cp)) {
+    const comp = JSON.parse(fs.readFileSync(cp, 'utf8')).group;
+    const urls = new Set(comp.items.map(i => i.url));
+    recursos.groups = [comp].concat(recursos.groups.map(g => Object.assign({}, g, { items: g.items.filter(i => !urls.has(i.url)) }))).filter(g => g.items.length);
+  }
   const data = { curso, aulas: ordered, recursos: recursos || null, roleColors: eng ? eng.colors : {}, appsBase, built: 'build' };
   const json = JSON.stringify(data).replace(/<\/(script)/gi, '<\\/$1').replace(/\u2028/g, '\\u2028').replace(/\u2029/g, '\\u2029');
   const tpl = fs.readFileSync(path.join(ROOT, 'src', 'template.html'), 'utf8');
