@@ -1,0 +1,309 @@
+{
+  "id": "M-5",
+  "unit": "G2-L23",
+  "genki": null,
+  "title": "Milestone 5 · N4 (end of Genki II)",
+  "titleJp": "三分の話を日本語でしよう",
+  "canDo": [
+    "I can tell a 3-minute story about something that happened to me, in です／ます, with what happened, what I was made to do, what someone did for me, how it looked and what I heard, and how it ended.",
+    "I can put any verb into its potential, volitional, passive, causative and causative-passive forms, and say who does what to whom in each one.",
+    "I can choose between たら, ば, と and なら for \"if / when\", between stem + そう, short form + そうです and みたいです for \"looks / I hear / seems\", and between ても, のに and ながら for joining two actions.",
+    "I can speak to a teacher or a customer with basic honorific and humble language (いらっしゃる, なさる, お〜になる, お〜ください; 参る, 申す, お〜する) without using honorific language for myself.",
+    "I can read a short N4 text without kana help and answer questions about it, and I get at least 80% of the mock test right without looking."
+  ],
+  "duration": {
+    "total": "80–100 min",
+    "blocks": [
+      { "t": "Session 1 · Warm-up: listen to your recordings from Milestone 3 (the 3-minute conversation) and Milestone 4 (the one-minute favor), one after the other", "min": 5 },
+      { "t": "Session 1 · Review: the 6 points (block 4), reading each example aloud and tapping 🔬", "min": 30 },
+      { "t": "Session 2 · Mock test (homework, tasks 1 to 5) in your notebook, timed, without looking anything up; only then the answer key", "min": 30 },
+      { "t": "Session 2 · Review the lessons named in the 💡 notes of the items you got wrong (plus their Sakubi lessons from the review path in block 6), then redo those items", "min": 15 },
+      { "t": "Session 3 · The 3-minute story (task 6): write it, rehearse it, record it and compare it with your Milestone 3 and 4 recordings", "min": 10 },
+      { "t": "Session 3 · Checklist (block 10) + your next steps (the Reading item in block 8): write down in your notebook what you want to strengthen in the N3 Bridge", "min": 5 }
+    ]
+  },
+  "prereqs": {
+    "aulas": ["23-2"],
+    "skills": [
+      "You have completed the checklists of lessons 13-1 to 23-2 and of Milestone 4. If one is still open, finish it first: this milestone tests all of Genki II, the N4 level.",
+      "You can put any verb into the potential, the volitional, the passive, the causative and the causative-passive, even if slowly.",
+      "You read the kanji of Genki II. The reading in task 5 has no kana on purpose: that is part of the test.",
+      "You have your recordings from Milestones 3 and 4 at hand.",
+      "A notebook, a pen and a timer: the mock test is done by hand, in about 30 minutes, without looking anything up."
+    ],
+    "vocab": [
+      { "jp": "野菜", "kana": "やさい", "romaji": "yasai", "en": "vegetables" },
+      { "jp": "作文", "kana": "さくぶん", "romaji": "sakubun", "en": "essay, composition" },
+      { "jp": "ほめる", "kana": "ほめる", "romaji": "homeru", "en": "to praise" },
+      { "jp": "注意する", "kana": "ちゅういする", "romaji": "chūi suru", "en": "to warn, to tell (someone) off" },
+      { "jp": "さわぐ", "kana": "さわぐ", "romaji": "sawagu", "en": "to make noise" },
+      { "jp": "運転する", "kana": "うんてんする", "romaji": "unten suru", "en": "to drive" },
+      { "jp": "説明する", "kana": "せつめいする", "romaji": "setsumei suru", "en": "to explain" },
+      { "jp": "よやくする", "kana": "よやくする", "romaji": "yoyaku suru", "en": "to reserve, to book" },
+      { "jp": "人気がある", "kana": "にんきがある", "romaji": "ninki ga aru", "en": "to be popular" },
+      { "jp": "店長", "kana": "てんちょう", "romaji": "tenchō", "en": "store manager" },
+      { "jp": "注文", "kana": "ちゅうもん", "romaji": "chūmon", "en": "an order (in a shop or restaurant)" },
+      { "jp": "かしこまりました", "kana": "かしこまりました", "romaji": "kashikomarimashita", "en": "certainly (staff to a customer; humble)" },
+      { "jp": "参る", "kana": "まいる", "romaji": "mairu", "en": "(humble) to go, to come" },
+      { "jp": "申す", "kana": "もうす", "romaji": "mōsu", "en": "(humble) to say, to be called" },
+      { "jp": "さいふ", "kana": "さいふ", "romaji": "saifu", "en": "wallet" },
+      { "jp": "こうばん", "kana": "こうばん", "romaji": "kōban", "en": "police box" },
+      { "jp": "とどける", "kana": "とどける", "romaji": "todokeru", "en": "to deliver; to hand in (to the police)" },
+      { "jp": "ことわざ", "kana": "ことわざ", "romaji": "kotowaza", "en": "proverb" }
+    ]
+  },
+  "grammar": [
+    {
+      "id": "M-5-a",
+      "title": "Five verb forms that change who does what",
+      "gloss": "potential · volitional · passive · causative · causative-passive",
+      "explanation": "By the end of Genki II a verb has five extra forms, and each one changes **who does what** in the sentence:\n• **Potential** (lesson 13-1): 飲める, 食べられる, できる, 来られる — \"can\". The thing you can do usually takes が.\n• **Volitional** (lesson 15-1): 飲もう, 食べよう, しよう, 来よう — \"let's\", and with と思っている, a plan.\n• **Passive** (lesson 21-1): 飲まれる, 食べられる, される, 来られる. The one affected becomes the subject, and the doer takes **に**: 私は先生にほめられました. The \"suffering\" passive (lesson 21-1 c) says that someone's action bothered you, even with a verb that has no object: 子どもに泣かれた.\n• **Causative** (lesson 22-1): 飲ませる, 食べさせる, させる, 来させる — make or let someone do it. The causer is the subject; the person who acts takes **に**: 母は弟に野菜を食べさせました.\n• **Causative-passive** (lesson 23-1): 飲ませられる／飲まされる, 食べさせられる, させられる, 来させられる — **being made to** do something you didn't want to. The one who suffers is the subject; the one who made them takes に: 私は母に野菜を食べさせられました.\n**The pattern behind them (Sakubi's \"verb bases\")**: an う-verb's last kana slides along one row of the kana chart, and each form hangs on one vowel: 飲ま (a: ない, れる, せる) · 飲み (i: ます, たい, ながら) · 飲む (u: the dictionary form) · 飲め (e: the potential る, ば) · 飲も (o: う). A る-verb never changes its base: 食べ + ない／られる／させる／よう／れば.\n• Going further (Sakubi): for る-verbs, 食べられる can be the passive or the potential: the particles decide. The short causative-passive (書かされる) comes from a short spoken causative (書かす), and it is not used with verbs ending in す: 話させられる, not 話さされる.",
+      "structure": "[the one affected] は [doer] に + passive · [causer] は [person] に + causative · [person] は [causer] に + causative-passive",
+      "examples": [
+        { "jp": "子どものとき、母によく野菜を食べさせられました。でも、今はピーマンも食べられます。", "kana": "こどものとき、ははによくやさいをたべさせられました。でも、いまはピーマンもたべられます。", "romaji": "Kodomo no toki, haha ni yoku yasai o tabesaseraremashita. Demo, ima wa pīman mo taberaremasu.", "en": "When I was a child, my mother often made me eat vegetables. But now I can even eat green peppers. (the causative-passive and the potential of the same verb)" },
+        { "jp": "先生は私たちに作文を書かせました。私の作文はクラスで読まれて、みんなにほめられました。", "kana": "せんせいはわたしたちにさくぶんをかかせました。わたしのさくぶんはクラスでよまれて、みんなにほめられました。", "romaji": "Sensei wa watashitachi ni sakubun o kakasemashita. Watashi no sakubun wa kurasu de yomarete, minna ni homeraremashita.", "en": "The teacher made us write an essay. Mine was read out in class and praised by everyone. (a causative, then two passives)" },
+        { "jp": "ゆうべは、となりのへやの人にさわがれて、ぜんぜん寝られなかった。今朝は早く起きようと思っていたのに…。", "kana": "ゆうべは、となりのへやのひとにさわがれて、ぜんぜんねられなかった。けさははやくおきようとおもっていたのに…。", "romaji": "Yūbe wa, tonari no heya no hito ni sawagarete, zenzen nerarenakatta. Kesa wa hayaku okiyō to omotte ita noni….", "en": "Last night the people in the next room were noisy, and I couldn't sleep at all. And I had planned to get up early this morning… [lit. I was made-noise-at by the person next door] (the suffering passive, the potential, the volitional + と思っていた, のに)" }
+      ],
+      "pitfalls": [
+        "The subject decides the meaning: (you were made to eat) 母に食べられました ✗ (= my mother ate it, and it bothered me) → 母に食べさせられました ✓.",
+        "The short causative-passive does not work with す-verbs: 話さされました ✗ → 話させられました ✓.",
+        "Two を in one causative: 弟を野菜を食べさせた ✗ → 弟に野菜を食べさせた ✓.",
+        "Potential or passive? With a る-verb, look at the particles: [thing] が食べられる ✓ = can eat; [someone] に食べられる ✓ = got eaten by someone. Reading every られる as \"can\" ✗."
+      ],
+      "howToStudy": [
+        "Take 5 verbs (飲む, 書く, 待つ, 食べる, する) and say all six forms aloud in a row: dictionary → potential → volitional → passive → causative → causative-passive.",
+        "Tap 🔬 on example 1 (🏷 Tag): who is the subject of 食べさせられました, and who is the に-person? Then do the same for 食べられます.",
+        "Say aloud one true sentence about your childhood for each form: something you could do, a plan you had, something you were praised for, something you were made to do."
+      ],
+      "flag": null
+    },
+    {
+      "id": "M-5-b",
+      "title": "Giving, receiving and favors, from 14 to 22",
+      "gloss": "あげる · くれる · もらう · 〜てくれてありがとう · 〜てほしい · 〜させてくれる",
+      "explanation": "Everything in this theme is about **direction**: who acts, and who benefits.\n• **Things** (lesson 14-2): あげる (away from me) · くれる (toward me or my side) · もらう (I receive; the giver takes に／から).\n• **Favors** (lesson 16-1): the same verbs after a て-form: 〜てあげる · 〜てくれる · 〜てもらう.\n• **Asking** (lesson 16-2): 〜てくれない？ → 〜てくれませんか／〜てもらえませんか → 〜ていただけませんか.\n• **Thanking** (lesson 19-2 a): 〜てくれてありがとう (friends) · 〜てくださって、ありがとうございました (people above you: くださる is the honorific くれる).\n• **Wanting a favor** (lesson 21-2 d): [person] に + て-form + ほしい = I want (someone) to do it: 友だちにもっと早く言ってほしかった.\n• **Letting someone do it** (lesson 22-1 c): causative + くれる／あげる = let someone do something, as a kindness: 父はいつも私に好きな本をえらばせてくれました.\n**Reading tip**: at the end of the sentence, the favor verb shows the direction of the benefit; then look for に to find the other person.\n• Going further (Sakubi): Sakubi treats くれる and あげる as a kind of agreement with the speaker: in a plain statement, あげる can't have you as the receiver and くれる must. So 教えてくれた needs no \"me\": the verb already says it.",
+      "structure": "[giver] が [me] に [て-form] くれる／くださる · [me] は [giver] に [て-form] もらう／いただく · [person] に [て-form] ほしい · [causer] が [person] に [causative て-form] くれる／あげる",
+      "examples": [
+        { "jp": "手伝ってくれてありがとう。一人だったら、終わらなかったと思う。", "kana": "てつだってくれてありがとう。ひとりだったら、おわらなかったとおもう。", "romaji": "Tetsudatte kurete arigatō. Hitori dattara, owaranakatta to omou.", "en": "Thanks for helping me. If I'd been alone, I don't think I would have finished. (〜てくれてありがとう, たら for something that didn't happen)" },
+        { "jp": "ホストファミリーのお父さんは、私に車を運転させてくれました。", "kana": "ホストファミリーのおとうさんは、わたしにくるまをうんてんさせてくれました。", "romaji": "Hosuto famirī no otōsan wa, watashi ni kuruma o unten sasete kuremashita.", "en": "My host father let me drive his car. (causative + てくれる = he let me, as a kindness)" },
+        { "jp": "山田さんに、もう少しゆっくり話してほしいと言われたので、ゆっくり話すことにしました。", "kana": "やまださんに、もうすこしゆっくりはなしてほしいといわれたので、ゆっくりはなすことにしました。", "romaji": "Yamada-san ni, mō sukoshi yukkuri hanashite hoshii to iwareta node, yukkuri hanasu koto ni shimashita.", "en": "Ms. Yamada told me she wanted me to speak a little more slowly, so I decided to speak slowly. [lit. I was told by Ms. Yamada \"I want you to speak…\"] (〜てほしい inside a quote, the passive of 言う, 〜ことにする)" }
+      ],
+      "pitfalls": [
+        "Thanking a teacher: 貸してくれて、ありがとう ✗ (too casual) → 貸してくださって、ありがとうございました ✓.",
+        "〜てほしい marks the other person with に: 友だちが来てほしい ✗ → 友だちに来てほしい ✓.",
+        "\"My boss let me rest\" needs the causative: 部長が休んでくれました ✗ (= my boss rested for me) → 部長が休ませてくれました ✓.",
+        "The subject of もらう is the receiver: 先生は私に教えてもらいました ✗ (= the teacher got me to teach) → 私は先生に教えてもらいました ✓."
+      ],
+      "howToStudy": [
+        "For the 3 examples, draw an arrow in your notebook from the one who acts to the one who benefits.",
+        "Tap 🔬 on example 3 and build it from the end (🧱): しました → ことに → 話す → ゆっくり → ので → 言われた → と → ほしい → 話して → ゆっくり → もう少し → 山田さんに.",
+        "Say aloud 3 thank-yous for real favors: two to friends (〜てくれてありがとう) and one to a teacher or a boss (〜てくださって、ありがとうございました)."
+      ],
+      "flag": null
+    },
+    {
+      "id": "M-5-c",
+      "title": "Keigo: honorific raises them, humble lowers me",
+      "gloss": "尊敬語 · 謙譲語 · お〜になる · お〜ください · お〜する · でございます",
+      "explanation": "Keigo has two directions (lessons 19-1 and 20-1):\n• **Honorific (尊敬語)** raises **the other person's** actions: いらっしゃる (go, come, be), めしあがる (eat, drink), おっしゃる (say), ごらんになる (see), なさる (do), くださる (give me). For most other verbs: **お + stem + になる** (お読みになる, お帰りになる). Polite requests: **お + stem + ください** (お待ちください, おかけください).\n• **Humble (謙譲語)** lowers **your own** actions toward the other person: 参る (go, come), 申す (say, be called), いただく (eat, receive), いたす (do), おる (be), はいけんする (see). For most other verbs: **お + stem + する／いたす** (お持ちします, お送りします). And ございます／でございます are the extra-modest ある／です (lesson 20-1 c).\n**The one question to ask**: whose action is it? The customer's or the teacher's → honorific. Mine, done for them → humble. Never use honorific language for yourself.\n• Going further (Sakubi): Sakubi describes keigo as a **register**, a set of longer, less direct words that replace the everyday ones — する → なさる (respectful) · いたす (humble) · します (polite) — and notes that not every native speaker masters it. You pick it up best where it is really used: shops, stations, work e-mails. You will practice exactly that in the Bridge (lesson P-12).",
+      "structure": "[other person] が + honorific (いらっしゃる · お〜になる) · お〜ください · [I] が + humble (参る · お〜する)",
+      "examples": [
+        { "jp": "コーヒーとこうちゃ、どちらになさいますか。— コーヒーをおねがいします。— かしこまりました。すぐにお持ちします。", "kana": "コーヒーとこうちゃ、どちらになさいますか。— コーヒーをおねがいします。— かしこまりました。すぐにおもちします。", "romaji": "Kōhī to kōcha, dochira ni nasaimasu ka. — Kōhī o onegai shimasu. — Kashikomarimashita. Sugu ni omochi shimasu.", "en": "Which would you like, coffee or tea? — Coffee, please. — Certainly. I'll bring it right away. (なさる for the customer's choice, お〜する for the staff's own action)" },
+        { "jp": "先生、この本をもうお読みになりましたか。— ええ、読みました。とてもおもしろかったですよ。", "kana": "せんせい、このほんをもうおよみになりましたか。— ええ、よみました。とてもおもしろかったですよ。", "romaji": "Sensei, kono hon o mō oyomi ni narimashita ka. — Ee, yomimashita. Totemo omoshirokatta desu yo.", "en": "Professor, have you already read this book? — Yes, I have. It was very interesting. (お〜になる for the teacher's action; the teacher answers in plain です／ます)" },
+        { "jp": "はじめまして。ブラジルから参りました、ペドロと申します。どうぞよろしくおねがいいたします。", "kana": "はじめまして。ブラジルからまいりました、ペドロともうします。どうぞよろしくおねがいいたします。", "romaji": "Hajimemashite. Burajiru kara mairimashita, Pedoro to mōshimasu. Dōzo yoroshiku onegai itashimasu.", "en": "How do you do? I'm Pedro, and I've come from Brazil. I'm very glad to meet you. (参る, 申す and いたす: humble verbs for your own actions)" }
+      ],
+      "pitfalls": [
+        "Honorific for yourself: 私はあした学校にいらっしゃいます ✗ → 私はあした学校に参ります ✓ (or simply 行きます).",
+        "Humble for the other person: 先生が参りました ✗ → 先生がいらっしゃいました ✓.",
+        "お〜になる and お〜する take the ます-stem: お読むになる ✗ → お読みになる ✓; お待つします ✗ → お待ちします ✓.",
+        "Verbs with a special honorific don't use お〜になる: お行きになる ✗ → いらっしゃる ✓; お見になる ✗ → ごらんになる ✓."
+      ],
+      "howToStudy": [
+        "Make a table in your notebook with three columns (plain → honorific → humble) for 行く, 来る, いる, 言う, 食べる, する, 見る, and say each row aloud.",
+        "Tap 🔬 on example 1 and ask \"whose action?\" for every verb: なさいます (the customer), おねがいします (the customer, asking), お持ちします (the staff).",
+        "Role-play the café dialogue aloud as the staff member, three times, changing the drinks and adding 何名さまですか (how many people?)."
+      ],
+      "flag": null
+    },
+    {
+      "id": "M-5-d",
+      "title": "If and when: たら, ば, と, なら",
+      "gloss": "four conditionals · 〜ばよかった",
+      "explanation": "Genki II gives you four ways to say \"if\" (lessons 13-3, 17-2, 18-3 and 22-2). They overlap, so learn each one's **core**:\n• **たら** (lesson 17-2 a): [た-form] + ら. The widest one: \"if\" or \"when (after)\". First the たら event happens, **then** the second: 日本に着いたら、電話します. It works with requests, plans, suggestions and surprises (家に帰ったら、ねこがいた). **When in doubt, use たら.**\n• **ば** (lesson 22-2 b): う-verbs u → **e + ば** (行けば), る-verbs → **れば** (食べれば), い-adjectives い → **ければ** (安ければ), ない → **なければ**. The first part is **a condition that is enough** for the result: \"if (only)…\". It is common in advice (〜ばいい) and in regret: **〜ばよかった** (lesson 18-3 c) = I should have….\n• **と** (lesson 18-3 a): [present short form] + と. A **natural or automatic** result, every time: このボタンをおすと、お湯が出ます. The second part can't be a request, an invitation or a wish.\n• **なら** (lesson 13-3 b): [noun / short form] + なら = if (it's true that)…: you take what someone said, or the situation, as given and comment on it. The second part can even happen **before** the first: 日本に行くなら、ガイドブックを買ったほうがいい (buy it before you go).\n• Going further (Sakubi): Sakubi's core ideas match: と = a natural consequence, in strong sequence; たら = one event after another, without claiming that the first causes the second, which makes it good for hypothetical questions; なら = the speaker supposes the first statement is true, with no rule about order; ば = a logical \"if\": the condition is enough for the result.",
+      "structure": "[た-form] ら · [e-form] ば · [present] と · [noun / short form] なら + [result]",
+      "examples": [
+        { "jp": "駅に着いたら、電話してください。車でむかえに行きます。", "kana": "えきについたら、でんわしてください。くるまでむかえにいきます。", "romaji": "Eki ni tsuitara, denwa shite kudasai. Kuruma de mukae ni ikimasu.", "en": "When you get to the station, please call me. I'll come and pick you up by car. (a request after the condition → たら)" },
+        { "jp": "春になると、この公園はさくらでいっぱいになります。", "kana": "はるになると、このこうえんはさくらでいっぱいになります。", "romaji": "Haru ni naru to, kono kōen wa sakura de ippai ni narimasu.", "en": "When spring comes, this park fills up with cherry blossoms. (a natural result that happens every time → と)" },
+        { "jp": "京都に行くなら、ホテルを早くよやくしたほうがいいですよ。— そうですね。去年はよやくがおそくて、高いホテルしかなかったんです。もっと早くよやくすればよかったです。", "kana": "きょうとにいくなら、ホテルをはやくよやくしたほうがいいですよ。— そうですね。きょねんはよやくがおそくて、たかいホテルしかなかったんです。もっとはやくよやくすればよかったです。", "romaji": "Kyōto ni iku nara, hoteru o hayaku yoyaku shita hō ga ii desu yo. — Sō desu ne. Kyonen wa yoyaku ga osokute, takai hoteru shika nakatta n desu. Motto hayaku yoyaku sureba yokatta desu.", "en": "If you're going to Kyoto, you'd better book a hotel early. — That's true. Last year I booked late, and only expensive hotels were left. I should have booked earlier. (なら for advice before the action, 〜ばよかった for regret)" }
+      ],
+      "pitfalls": [
+        "と can't end in a request: 駅に着くと、電話してください ✗ → 駅に着いたら、電話してください ✓.",
+        "Advice for before the action takes なら: (buy it before you go) 日本に行ったら、ガイドブックを買ったほうがいい ✗ → 日本に行くなら、… ✓.",
+        "The ば-form of い-adjectives and ない: 安いれば ✗ → 安ければ ✓; 行かないば ✗ → 行かなければ ✓.",
+        "〜ばよかった is regret about the past; for advice now: (to a tired friend) もっと寝ればよかったですよ ✗ → もっと寝たほうがいいですよ ✓."
+      ],
+      "howToStudy": [
+        "Make one sentence aloud with each conditional about rain: 雨がふったら…, 雨がふれば…, 雨がふると…, 雨なら…, and say in English what each one feels like.",
+        "Tap 🔬 on example 3: find the two blocks that end in a condition (行くなら, よやくすれば) and the PREDICATE that each one points to.",
+        "Say aloud 3 regrets with 〜ばよかった and 1 piece of advice with 〜なら."
+      ],
+      "flag": null
+    },
+    {
+      "id": "M-5-e",
+      "title": "Looks, I hear, seems: そう, そうです, みたい",
+      "gloss": "stem + そう (appearance) × short form + そうです (hearsay) × short form + みたい (seems)",
+      "explanation": "Three look-alike patterns (lessons 13-2, 17-1 and 17-3): **how they attach** tells them apart.\n• **Stem + そう** (lesson 13-2 b) = **looks** (from what you see): おいしそう, 雨がふりそう, 元気そう. いい → よさそう, ない → なさそう.\n• **Short form + そうです** (lesson 17-1 a) = **I hear, they say** (information from someone else): おいしいそうです, 雨がふるそうです, 元気だそうです (nouns and な-adjectives keep だ). Name the source with によると: 天気予報によると、…. In casual speech: 〜って (lesson 17-1 b).\n• **Short form + みたいです** (lesson 17-3 a) = **it seems** (your own guess, from what you see or hear): 雨がふったみたいです, 元気みたいです (no だ after nouns and な-adjectives). After a noun it can also mean \"like\": 子どもみたい.\n**Where the information comes from**: your eyes, right now → そう; someone told you → そうです; you worked it out → みたい.\n• Going further (Sakubi): みたい looks like 見たい (want to see), but written in kana after a verb or a noun it means \"seems\". Sakubi uses it as a reminder to read an expression by what it means in context, not only by its parts. And stem + そう can also mean \"about to\": 落ちそう = it looks like it's about to fall.",
+      "structure": "[stem] そう (looks) · [short form] そうです (I hear) · [short form] みたいです (seems)",
+      "examples": [
+        { "jp": "このケーキ、おいしそう！— 田中さんによると、この店のケーキはすごく人気があるそうですよ。", "kana": "このケーキ、おいしそう！— たなかさんによると、このみせのケーキはすごくにんきがあるそうですよ。", "romaji": "Kono kēki, oishisō! — Tanaka-san ni yoru to, kono mise no kēki wa sugoku ninki ga aru sō desu yo.", "en": "This cake looks delicious! — According to Mr. Tanaka, this shop's cakes are really popular. (stem + そう from what you see; short form + そうです from what you heard)" },
+        { "jp": "エミリーさん、今日は来ないみたいですね。かぜをひいたそうです。", "kana": "エミリーさん、きょうはこないみたいですね。かぜをひいたそうです。", "romaji": "Emirī-san, kyō wa konai mitai desu ne. Kaze o hiita sō desu.", "en": "It seems Emily isn't coming today. I hear she caught a cold. (みたい for your own guess, そうです for news)" },
+        { "jp": "ペドロさんは毎日楽しそうに働いています。新しい仕事がすごく好きみたいです。", "kana": "ペドロさんはまいにちたのしそうにはたらいています。あたらしいしごとがすごくすきみたいです。", "romaji": "Pedoro-san wa mainichi tanoshisō ni hataraite imasu. Atarashii shigoto ga sugoku suki mitai desu.", "en": "Pedro works happily every day. He seems to really like his new job. [lit. he works in a looking-happy way] (そう + に before a verb, 好き + みたい with no な)" }
+      ],
+      "pitfalls": [
+        "Looking at the food: おいしいそうです ✗ (= I hear it's delicious) → おいしそうです ✓.",
+        "Hearsay keeps だ, みたい drops it: 元気だみたいです ✗ → 元気みたいです ✓ (and 元気だそうです ✓ = I hear he's well).",
+        "Only appearance そう goes before a noun: 雨がふるそうな日 ✗ → 雨がふりそうな日 ✓ (a day that looks like rain).",
+        "Reading みたい as 見たい: 雨がふったみたい = \"I want to see that it rained\" ✗ → \"it seems it rained\" ✓."
+      ],
+      "howToStudy": [
+        "Say three versions of one sentence aloud and translate each: 高そうです (it looks expensive) / 高いそうです (I hear it's expensive) / 高いみたいです (it seems expensive).",
+        "Tap 🔬 on example 2: find the PREDICATE of each sentence (来ないみたいです, ひいたそうです) and say where each piece of information comes from.",
+        "Tell your recorder two pieces of news you heard today with 〜そうです, naming the source with によると."
+      ],
+      "flag": null
+    },
+    {
+      "id": "M-5-f",
+      "title": "Even if, although, while: ても, のに, ながら",
+      "gloss": "〜ても × 〜のに × 〜ながら",
+      "explanation": "Three ways to join two actions or facts (lessons 23-1, 22-2 and 18-3):\n• **〜ても** (lesson 23-1 b) = **even if / even though**: [て-form] + も; い-adjectives 高くても; な-adjectives and nouns ひまでも, 雨でも. The second part is true **whatever happens** in the first: 雨がふっても、行きます. With a question word: 何を食べても = no matter what I eat.\n• **〜のに** (lesson 22-2 c) = **although (and I'm surprised or unhappy about it)**: [short form] + のに; nouns and な-adjectives take な: 日曜日なのに, 静かなのに. It is about a **real** fact, and it often sounds like a complaint: 勉強したのに、テストはだめでした. The second part can't be a request or your own plan.\n• **〜ながら** (lesson 18-3 b) = **while**: [ます-stem] + ながら, one person doing two things at once. The **main** action is the PREDICATE at the end; the ながら action is the background: 音楽を聞きながら勉強します = I study (main) while listening to music.\n• Going further (Sakubi): Sakubi groups ても with けど and が as \"adversatives\", and describes のに as the opposite of ので: the same objective link, pointing the other way. It also notes that ながら can't join two different people: for \"while A does X, B does Y\" you need 間 (lesson 21-2 b).",
+      "structure": "[て-form] も · [short form] のに (な after a noun / な-adjective) · [stem] ながら + [main action]",
+      "examples": [
+        { "jp": "何回説明しても、弟はわかってくれません。", "kana": "なんかいせつめいしても、おとうとはわかってくれません。", "romaji": "Nankai setsumei shite mo, otōto wa wakatte kuremasen.", "en": "No matter how many times I explain, my little brother won't understand. (a question word + ても; a negative 〜てくれない for \"won't do me the favor\")" },
+        { "jp": "三時間も待ったのに、あの人は来なかった。", "kana": "さんじかんもまったのに、あのひとはこなかった。", "romaji": "Sanjikan mo matta noni, ano hito wa konakatta.", "en": "I waited a whole three hours, and yet that person never came. (number + も, のに for a real fact you are unhappy about)" },
+        { "jp": "父はいつも新聞を読みながら朝ごはんを食べます。母に注意されても、やめません。", "kana": "ちちはいつもしんぶんをよみながらあさごはんをたべます。ははにちゅういされても、やめません。", "romaji": "Chichi wa itsumo shinbun o yominagara asagohan o tabemasu. Haha ni chūi sarete mo, yamemasen.", "en": "My father always eats breakfast while reading the newspaper. Even when my mother tells him off, he doesn't stop. (ながら, then a passive + ても)" }
+      ],
+      "pitfalls": [
+        "のに can't end in an invitation or a plan: 雨がふっているのに、行きましょう ✗ → 雨がふっていても、行きましょう ✓.",
+        "ても after an い-adjective or a noun: 高いても ✗ → 高くても ✓; 雨ても ✗ → 雨でも ✓.",
+        "のに after a noun or a な-adjective needs な: 日曜日のに ✗ → 日曜日なのに ✓.",
+        "The main action goes last: (you are studying, with music in the background) 勉強しながら音楽を聞きます ✗ → 音楽を聞きながら勉強します ✓."
+      ],
+      "howToStudy": [
+        "Finish the same beginning three ways aloud: 雨がふっても…, 雨がふっているのに…, 雨の音を聞きながら….",
+        "Tap 🔬 on example 3: in sentence 2, find the ても block (母に注意されても) and the PREDICATE it points to (やめません).",
+        "Say aloud 2 true complaints with のに and 2 things you often do while doing something else, with ながら."
+      ],
+      "flag": null
+    }
+  ],
+  "media": [
+    { "order": 1, "kind": "reading", "title": "Genki II · Lessons 13 to 23: reread the grammar notes only for the points you missed on the mock test", "where": "Your Genki II textbook (3rd ed.)", "url": "", "when": "Session 2, after checking the mock test" },
+    { "order": 2, "kind": "reading", "title": "Sakubi review path: for each theme you missed, re-read only its Sakubi lessons — the five verb forms: 19 (passive), 20 (potential), 21 (volitional) and 38 (causative and causative-passive), then Lesson 23 (the verb bases) · giving, receiving and favors: 52, plus 21 for 〜てほしい · keigo: the intermission \"Keigo and some archaic speech\" · conditionals: 41 (と, たら, なら) and 22 (ば) · そう, そうです and みたい: 51 and the intermission \"Notes on wanting\" · ても, のに and ながら: 43, 45 and 42.", "where": "sakubi.neocities.org · free grammar guide (Resources tab)", "url": "", "when": "Session 2, after checking the mock test. Then, whatever your score, read the closing note of Lesson 23 (\"Section Two\"): with Genki II done, you have finished a full grammar course, and its advice is to start learning mostly from reading real Japanese, understanding the message first and taking it apart second." },
+    { "order": 3, "kind": "video", "title": "A video that compares the conditionals たら, ば, と and なら side by side. If the search brings up several, pick one that gives example sentences for each", "where": "YouTube · Japanese Ammo with Misa channel", "url": "", "search": "Japanese Ammo with Misa tara ba to nara conditionals", "when": "Session 1 or 2, especially if you missed items on point d" },
+    { "order": 4, "kind": "reading", "title": "JLPT N4 sample questions (official site jlpt.jp)", "where": "jlpt.jp · the official JLPT site", "url": "", "search": "JLPT N4 sample questions jlpt.jp", "when": "Session 3, optional: to see the format of the real exam. Taking the JLPT is optional in this course" }
+  ],
+  "homework": {
+    "intro": "Six tasks, by hand in your notebook. Tasks 1 to 5 are the mock test (25 items): set a timer for about 30 minutes and do all of it without looking anything up. Only then open the answer key, item by item, and mark each item right or wrong. Next to each mistake, write down the lesson named in the 💡 note. The goal is at least 20 of the 25 items (80%). In session 2, review those lessons and redo the items you got wrong; save 2 or 3 of the corrected sentences in the app's Mining (⛏), so they come back in your SRS reviews. Task 6 is the script for a 3-minute story: write it, rehearse it and record it. If you have the Genki II Workbook, do this lesson's exercises too: for a milestone, redo the workbook exercises of the Lessons 17–23 where you missed the most items.",
+    "tasks": [
+      {
+        "id": "h1",
+        "type": "mock-test",
+        "prompt": "Mock test · Part 1 · Verb forms (6 items). Write the form asked for.",
+        "items": [
+          { "q": "書く → causative-passive (short form), polite past", "a": { "jp": "書かされました", "kana": "かかされました", "romaji": "kakasaremashita", "en": "I was made to write" }, "note": "Short form: 書か + される (the long form 書かせられました is also right). Wrong? Review lesson 23-1 (4a)." },
+          { "q": "話す → causative-passive, polite past", "a": { "jp": "話させられました", "kana": "はなさせられました", "romaji": "hanasaseraremashita", "en": "I was made to speak" }, "note": "Verbs ending in す have no short form (話さされました ✗). Wrong? Review lesson 23-1 (4a)." },
+          { "q": "言う → passive", "a": { "jp": "言われる", "kana": "いわれる", "romaji": "iwareru", "en": "to be told; to be said" }, "note": "A verb ending in う takes わ before れる (言あれる ✗). Wrong? Review lesson 21-1 (4a)." },
+          { "q": "待つ → causative", "a": { "jp": "待たせる", "kana": "またせる", "romaji": "mataseru", "en": "to make (someone) wait" }, "note": "う-verb: the a-base (待た) + せる. Wrong? Review lesson 22-1 (4a)." },
+          { "q": "行く → ば-form", "a": { "jp": "行けば", "kana": "いけば", "romaji": "ikeba", "en": "if (I) go" }, "note": "う-verb: u → e + ば. Wrong? Review lesson 22-2 (4b)." },
+          { "q": "安い → ば-form", "a": { "jp": "安ければ", "kana": "やすければ", "romaji": "yasukereba", "en": "if it is cheap" }, "note": "い-adjective: い → ければ (安いれば ✗). Wrong? Review lesson 22-2 (4b)." }
+        ]
+      },
+      {
+        "id": "h2",
+        "type": "mock-test",
+        "prompt": "Mock test · Part 2 · Particles and favors (5 items). Fill in each blank.",
+        "items": [
+          { "q": "私は電車でとなりの人＿ 足をふまれました。", "a": { "jp": "に", "kana": "に", "romaji": "ni", "en": "On the train, the person next to me stepped on my foot. [lit. I had my foot stepped on by…]" }, "note": "In a passive, the doer takes に. Wrong? Review lesson 21-1 (4b and 4c)." },
+          { "q": "私は先生＿ 作文をなおしていただきました。", "a": { "jp": "に", "kana": "に", "romaji": "ni", "en": "My teacher kindly corrected my essay. [lit. I humbly received the favor of correcting from the teacher]" }, "note": "いただく is the humble もらう: the giver takes に. Wrong? Review lessons 16-1 (4c) and 16-2 (4b)." },
+          { "q": "友だちがノートを見せて＿＿＿。(toward me, polite past)", "a": { "jp": "くれました", "kana": "くれました", "romaji": "kuremashita", "en": "My friend showed me his notes." }, "note": "A favor toward me = 〜てくれる. Wrong? Review lesson 16-1 (4b)." },
+          { "q": "母は私＿ 一人で旅行させてくれました。", "a": { "jp": "に", "kana": "に", "romaji": "ni", "en": "My mother let me travel alone." }, "note": "Letting someone do something takes に (with を it sounds more like \"made me\"). Wrong? Review lesson 22-1 (4b and 4c)." },
+          { "q": "ルーカスさん＿ もっと早く来てほしかったです。", "a": { "jp": "に", "kana": "に", "romaji": "ni", "en": "I wish Lucas had come earlier. [lit. I wanted Lucas to come earlier]" }, "note": "The person you want to act takes に. Wrong? Review lesson 21-2 (4d)." }
+        ]
+      },
+      {
+        "id": "h3",
+        "type": "mock-test",
+        "prompt": "Mock test · Part 3 · Choose the right option in brackets (6 items).",
+        "items": [
+          { "q": "駅に（着くと／着いたら）、電話してください。", "a": { "jp": "着いたら", "kana": "ついたら", "romaji": "tsuitara", "en": "When you get to the station, please call me." }, "note": "A request after the condition: たら (と ✗). Wrong? Review lessons 17-2 (4a) and 18-3 (4a)." },
+          { "q": "京都に（行くなら／行ったら）、この本を読んでから行くといいですよ。", "a": { "jp": "行くなら", "kana": "いくなら", "romaji": "iku nara", "en": "If you're going to Kyoto, it's a good idea to read this book before you go." }, "note": "The advice happens before the trip: なら. Wrong? Review lesson 13-3 (4b)." },
+          { "q": "天気予報によると、あしたは雨が（ふりそう／ふるそう）です。", "a": { "jp": "ふるそう", "kana": "ふるそう", "romaji": "furu sō", "en": "According to the weather forecast, it will rain tomorrow." }, "note": "によると = information from someone else: short form + そうです. Wrong? Review lesson 17-1 (4a)." },
+          { "q": "あのかばんは（高そう／高いそう）ですね。いくらでしょうか。", "a": { "jp": "高そう", "kana": "たかそう", "romaji": "takasō", "en": "That bag looks expensive. I wonder how much it is." }, "note": "You are looking at it: stem + そう. Wrong? Review lesson 13-2 (4b)." },
+          { "q": "いっしょうけんめい勉強した（のに／ても）、しけんにおちました。", "a": { "jp": "のに", "kana": "のに", "romaji": "noni", "en": "Even though I studied really hard, I failed the exam." }, "note": "A real fact and a disappointing result: のに (勉強したても ✗). Wrong? Review lesson 22-2 (4c)." },
+          { "q": "先生、旅行の写真を（ごらんになっても／はいけんしても）いいですか。", "a": { "jp": "はいけんしても", "kana": "はいけんしても", "romaji": "haiken shite mo", "en": "Professor, may I look at your travel photos?" }, "note": "You are the one looking: humble (はいけんする). ごらんになる is for the teacher's action. Wrong? Review lesson 20-1 (4a)." }
+        ]
+      },
+      {
+        "id": "h4",
+        "type": "mock-test",
+        "prompt": "Mock test · Part 4 · Translate into Japanese (5 items).",
+        "items": [
+          { "q": "My boss made me work until 10 p.m.", "a": { "jp": "部長に夜十時まで働かされました。", "kana": "ぶちょうによるじゅうじまではたらかされました。", "romaji": "Buchō ni yoru jūji made hatarakasaremashita.", "en": "My boss made me work until 10 p.m." }, "note": "The causative-passive; the boss takes に (働かせられました is also right). Wrong? Review lesson 23-1 (4a)." },
+          { "q": "I should have brought an umbrella.", "a": { "jp": "かさを持ってくればよかったです。", "kana": "かさをもってくればよかったです。", "romaji": "Kasa o motte kureba yokatta desu.", "en": "I should have brought an umbrella." }, "note": "Regret: 〜ばよかった, on 持ってくる → 持ってくれば. Wrong? Review lesson 18-3 (4c)." },
+          { "q": "(To a customer) Please wait here.", "a": { "jp": "こちらでお待ちください。", "kana": "こちらでおまちください。", "romaji": "Kochira de omachi kudasai.", "en": "Please wait here." }, "note": "お + stem + ください; こちら is the polite ここ. Wrong? Review lesson 19-1 (4c)." },
+          { "q": "I've decided to study Japanese for one hour every day.", "a": { "jp": "毎日一時間日本語を勉強することにしました。", "kana": "まいにちいちじかんにほんごをべんきょうすることにしました。", "romaji": "Mainichi ichijikan nihongo o benkyō suru koto ni shimashita.", "en": "I've decided to study Japanese for one hour every day." }, "note": "Your own decision: [dictionary form] + ことにしました. Wrong? Review lesson 23-2 (4a)." },
+          { "q": "Even if it is expensive, I want to try going to that restaurant once.", "a": { "jp": "高くても、一度あのレストランに行ってみたいです。", "kana": "たかくても、いちどあのレストランにいってみたいです。", "romaji": "Takakute mo, ichido ano resutoran ni itte mitai desu.", "en": "Even if it is expensive, I want to try going to that restaurant once." }, "note": "い-adjective: 高い → 高くても; then 〜てみたい. Wrong? Review lessons 23-1 (4b) and 13-3 (4a)." }
+        ]
+      },
+      {
+        "id": "h5",
+        "type": "mock-test",
+        "prompt": "Mock test · Part 5 · Reading (3 items). Read Emily's diary without kana, then answer the questions in Japanese. ── エミリーさんの日記：先月から、駅の前のカフェでアルバイトをしています。さいしょの日は、店長に何回も注意されて、泣きそうになりました。お客さんにはけいごで話さなければいけないのに、「いらっしゃいませ」しか言えなかったんです。でも、せんぱいのたけしさんがやさしく教えてくれたので、今はちゃんと注文も聞けます。今週は、店長が私に新しいケーキを考えさせてくれました。お客さんが「おいしそう！」と言ってくれるといいんですが。",
+        "items": [
+          { "q": "エミリーさんは、さいしょの日にどうして泣きそうになりましたか。", "a": { "jp": "店長に何回も注意されたからです。", "kana": "てんちょうになんかいもちゅういされたからです。", "romaji": "Tenchō ni nankai mo chūi sareta kara desu.", "en": "Because she was told off by the manager many times." }, "note": "It is in the second sentence: a passive (注意されて) with the doer marked by に, then 泣きそう = almost cried. Wrong? Review lessons 21-1 (4b) and 13-2 (4b)." },
+          { "q": "どうしてお客さんと上手に話せなかったんですか。", "a": { "jp": "「いらっしゃいませ」しか言えなかったからです。", "kana": "「いらっしゃいませ」しかいえなかったからです。", "romaji": "\"Irasshaimase\" shika ienakatta kara desu.", "en": "Because she could only say \"Welcome.\"" }, "note": "The third sentence: のに (she had to use keigo, and yet…) + しか + a negative potential (言えなかった). Wrong? Review lessons 22-2 (4c) and 14-3 (4c)." },
+          { "q": "今週、店長はエミリーさんに何をさせてくれましたか。", "a": { "jp": "新しいケーキを考えさせてくれました。", "kana": "あたらしいケーキをかんがえさせてくれました。", "romaji": "Atarashii kēki o kangaesasete kuremashita.", "en": "The manager let her come up with a new cake." }, "note": "Causative + くれる = let her do it, as a kindness. Wrong? Review lesson 22-1 (4c)." }
+        ]
+      },
+      {
+        "id": "h6",
+        "type": "produce",
+        "prompt": "Script for a 3-minute story. Tell a real or imagined experience (a trip, a first job, a mistake, a surprise) in です／ます, in 3 parts of about 1 minute each: (1) the setting and what happened first (とき, 〜ていました, たら, volitional + と思っていました, そう and そうです, ながら); (2) the problem (a passive, 〜かもしれません, ても, のに, 〜ばよかった); (3) the help and the ending (〜てくれる or 〜てくださる, a request in keigo, 〜ことにしている, and a ことわざ to close). Rehearse it aloud, record it without reading, and compare it with your Milestone 3 and 4 recordings.",
+        "items": [
+          { "q": "Part 1 · Model (match its structure, not its words):", "a": { "jp": "去年の夏、私は一人で大阪へ旅行しました。日本で一人で旅行するのは、はじめてでした。しんかんせんに乗ったときは、とてもわくわくしていました。大阪に着いたら、まずたこやきを食べようと思っていました。駅の近くのたこやきの店は、人がたくさんならんでいて、おいしそうでした。店の人によると、その店は五十年前からあるそうです。私はたこやきを食べながら、大阪の町を歩きました。", "kana": "きょねんのなつ、わたしはひとりでおおさかへりょこうしました。にほんでひとりでりょこうするのは、はじめてでした。しんかんせんにのったときは、とてもわくわくしていました。おおさかについたら、まずたこやきをたべようとおもっていました。えきのちかくのたこやきのみせは、ひとがたくさんならんでいて、おいしそうでした。みせのひとによると、そのみせはごじゅうねんまえからあるそうです。わたしはたこやきをたべながら、おおさかのまちをあるきました。", "romaji": "Kyonen no natsu, watashi wa hitori de Ōsaka e ryokō shimashita. Nihon de hitori de ryokō suru no wa, hajimete deshita. Shinkansen ni notta toki wa, totemo wakuwaku shite imashita. Ōsaka ni tsuitara, mazu takoyaki o tabeyō to omotte imashita. Eki no chikaku no takoyaki no mise wa, hito ga takusan narande ite, oishisō deshita. Mise no hito ni yoru to, sono mise wa gojūnen mae kara aru sō desu. Watashi wa takoyaki o tabenagara, Ōsaka no machi o arukimashita.", "en": "Last summer I traveled to Osaka alone. It was my first time traveling alone in Japan. When I got on the Shinkansen, I was really excited. I had planned to eat takoyaki first thing when I got to Osaka. The takoyaki shop near the station had a long line of people, and it looked delicious. According to the shop staff, the shop has been there for fifty years. I walked around Osaka eating takoyaki." }, "note": "Check: the past and 〜ていました for the setting; とき; たら; volitional + と思っていました for a plan; stem + そう and short form + そうです side by side; ながら." },
+          { "q": "Part 2 · Model:", "a": { "jp": "でも、夕方、ホテルに帰る前にかばんを開けたら、さいふがありませんでした。だれかにとられたのかもしれません。何回さがしても、見つかりませんでした。お金もカードも、全部さいふに入れていたのに…。出かける前に、母に「人が多い所では気をつけなさい」と言われていたんです。母の言うことを聞けばよかったと思いました。", "kana": "でも、ゆうがた、ホテルにかえるまえにかばんをあけたら、さいふがありませんでした。だれかにとられたのかもしれません。なんかいさがしても、みつかりませんでした。おかねもカードも、ぜんぶさいふにいれていたのに…。でかけるまえに、ははに「ひとがおおいところではきをつけなさい」といわれていたんです。ははのいうことをきけばよかったとおもいました。", "romaji": "Demo, yūgata, hoteru ni kaeru mae ni kaban o aketara, saifu ga arimasen deshita. Dareka ni torareta no kamoshiremasen. Nankai sagashite mo, mitsukarimasen deshita. Okane mo kādo mo, zenbu saifu ni irete ita noni…. Dekakeru mae ni, haha ni \"Hito ga ōi tokoro de wa ki o tsukenasai\" to iwarete ita n desu. Haha no iu koto o kikeba yokatta to omoimashita.", "en": "But in the evening, before going back to the hotel, I opened my bag and my wallet wasn't there. Someone might have taken it. No matter how many times I looked, I couldn't find it. And I had put all my money and cards in that wallet… Before I left, my mother had told me, \"Be careful in crowded places.\" I thought I should have listened to her." }, "note": "Check: 〜前に; たら for a surprise; the passive (とられた, 言われていた); かもしれません; ても; のに left hanging at the end; なさい inside a quote; 〜ばよかった." },
+          { "q": "Part 3 · Model:", "a": { "jp": "それで、近くのこうばんに行きました。おまわりさんはとても親切で、「こちらでお待ちください」と言って、いろいろ調べてくださいました。一時間ぐらいたったら、こうばんに電話がかかってきました。たこやきの店の人が、私のさいふを見つけて、とどけてくれたんです。私は店にもどって、何度もお礼を言いました。それから、旅行のときは、お金を二つに分けて持つことにしています。日本には「終わりよければすべてよし」ということわざがあります。さいごがよければ、とちゅうで大変なことがあっても、全部よかったと思える、という意味です。あの旅行は、本当にそうでした。", "kana": "それで、ちかくのこうばんにいきました。おまわりさんはとてもしんせつで、「こちらでおまちください」といって、いろいろしらべてくださいました。いちじかんぐらいたったら、こうばんにでんわがかかってきました。たこやきのみせのひとが、わたしのさいふをみつけて、とどけてくれたんです。わたしはみせにもどって、なんどもおれいをいいました。それから、りょこうのときは、おかねをふたつにわけてもつことにしています。にほんには「おわりよければすべてよし」ということわざがあります。さいごがよければ、とちゅうでたいへんなことがあっても、ぜんぶよかったとおもえる、といういみです。あのりょこうは、ほんとうにそうでした。", "romaji": "Sorede, chikaku no kōban ni ikimashita. Omawarisan wa totemo shinsetsu de, \"Kochira de omachi kudasai\" to itte, iroiro shirabete kudasaimashita. Ichijikan gurai tattara, kōban ni denwa ga kakatte kimashita. Takoyaki no mise no hito ga, watashi no saifu o mitsukete, todokete kureta n desu. Watashi wa mise ni modotte, nando mo orei o iimashita. Sorekara, ryokō no toki wa, okane o futatsu ni wakete motsu koto ni shite imasu. Nihon ni wa \"Owari yokereba subete yoshi\" to iu kotowaza ga arimasu. Saigo ga yokereba, tochū de taihen na koto ga atte mo, zenbu yokatta to omoeru, to iu imi desu. Ano ryokō wa, hontō ni sō deshita.", "en": "So I went to a nearby police box. The police officer was very kind, said \"Please wait here,\" and looked into it for me in many ways. About an hour later, the police box got a phone call. Someone from the takoyaki shop had found my wallet and brought it in for me. I went back to the shop and thanked them again and again. Since then, when I travel, I make it a rule to split my money in two. In Japan there's a proverb, \"Owari yokereba subete yoshi\" [if the end is good, all is good]. It means that if things end well, you can feel that everything was fine, even if there was trouble along the way. That trip was exactly like that." }, "note": "Check: お〜ください and くださる for the police officer, 〜てくれる for the shop owner; たら for \"after\"; 〜ことにしている for a rule you keep; a ことわざ with a ば-form (よければ) to close. Read all three parts aloud: about 3 minutes." }
+        ]
+      }
+    ],
+    "workbook": []
+  },
+  "practice": [
+    { "tool": "Wagotabi", "what": "A long session in the game, hunting for points from all of Genki II in the dialogues: passive and causative verbs (〜られる, 〜させる, 〜させられる), honorific and humble language (いらっしゃる, 参る, お〜ください), the conditionals (〜たら, 〜ば, 〜と, 〜なら), そう／そうです／みたい, and ても／のに／ながら. For each line you understand completely, say aloud who does what to whom, starting from the predicate at the end. Copy 5 lines into your notebook and write next to each one which lesson's point it shows. Then, in Immersion → Games, log the session and paste the longest line into Anatomy. Save the 2 lines you like best in Mining (⛏), with every unknown word looked up.", "min": 20 },
+    { "tool": "ヅオリンゴー", "what": "🌊 All: do all of today's reviews first. Then Practice L17 to L23, starting with the lesson where you missed the most items on the mock test, and Drills → Conjugation for the passive, the causative and the causative-passive until you can do them without pausing.", "min": 20 },
+    { "tool": "ヅオリンゴー", "what": "Drills → 🔬 Anatomy → 🧱 Build from the end, with the longest sentences you can find (a conditional, a passive or a causative inside): 10 sentences. Then Journal: write 6 sentences about a memorable experience, each with a different point from Lessons 17–23, and check them with \"Anatomy of what I wrote\".", "min": 15 },
+    { "tool": "Speaking", "what": "Record the 3-minute story (task 6) without reading. Then listen to your recordings in order: lesson 01-1, Milestones 1 to 4 and today. Write down in your notebook 3 things that changed and 1 thing you want to strengthen in the N3 Bridge.", "min": 15 },
+    { "tool": "Reading", "what": "With Genki II done, you have read a full grammar course from start to finish: in the DJT guide's method, that is the moment to make native reading your main teacher. Pick one text a little above your level from the Resources tab (a Tadoku graded reader at level 2 or 3, NHK NEWS WEB EASY, or an easy manga with furigana) and read it for the story, without stopping at every word. Look up only the words that block the meaning, with the pop-up dictionary Yomitan, and save 3 sentences in Mining (⛏). If you haven't yet, choose one frequency deck from the Resources tab (Core 2k/6k or Kaishi 1.5k, not both) and start with a few new cards a day: reviews settle at roughly ten times your daily new cards. As Sakubi puts it at the end of its Lesson 23: understand the message first, take it apart second.", "min": 15 }
+  ],
+  "culture": {
+    "title": "ことわざ — Japanese proverbs",
+    "titleJp": "ことわざ",
+    "body": "Japanese has many **ことわざ**, short traditional sayings that people still use in conversation, at school, in speeches and in headlines. Many are about patience and effort, such as 七転び八起き (ななころびやおき, \"fall down seven times, get up eight\"), or about mistakes, such as さるも木から落ちる (\"even monkeys fall from trees\": anyone can slip up). Some use grammar you now know: 終わりよければすべてよし (\"if the end is good, all is good\") uses the ば-form of いい, and ちりもつもれば山となる (\"even dust, piled up, becomes a mountain\") uses the ば-form of つもる. Others keep older forms: in 急がば回れ (いそがばまわれ, \"if you are in a hurry, take the long way round\"), 急が + ば is an old conditional that modern Japanese would say roughly as 急ぐなら. Children often meet ことわざ in picture books and in card games such as いろはかるた. You don't need to use them often, but recognizing them helps you understand jokes, titles and headlines.",
+    "try": "Learn three ことわざ with their meaning and say each one aloud: 終わりよければすべてよし, ちりもつもれば山となる and さるも木から落ちる. Then end your 3-minute story (task 6) with the one that fits it best, followed by 〜という意味です (it means…). ちりもつもれば山となる also fits your own study: 1 to 1.5 hours a day, every day, piles up."
+  },
+  "checklist": [
+    "I scored ≥ 80% without looking: at least 20 of the 25 mock-test items, with no book, notes or app.",
+    "I did the homework and checked it against the answer key, reviewed the lessons named in the 💡 notes and redid the items I got wrong, this time correctly.",
+    "I can say the potential, volitional, passive, causative and causative-passive of any verb without looking, and say who does what in each one.",
+    "I can choose between たら, ば, と and なら, and between そう, そうです and みたい, and explain my choice.",
+    "I can use basic honorific and humble verbs with a teacher or a customer, and I never use honorific language for myself.",
+    "I read Emily's diary (Part 5) without kana and answered the 3 questions in Japanese, and I read one easy native or graded text for the story, saving 3 of its sentences in Mining.",
+    "I told the 3-minute story (task 6) without reading, recorded it, and compared it with my Milestone 3 and 4 recordings."
+  ],
+  "credits": [
+    "Explanations adapted in part from Sakubi (public domain, CC0) — sakubi.neocities.org",
+    "Study method informed by the DJT Guide to Japanese — djtguide.neocities.org/guide"
+  ]
+}

@@ -1,0 +1,296 @@
+{
+  "id": "M-4",
+  "unit": "G2-L16",
+  "genki": null,
+  "title": "Milestone 4 · first half of Genki II",
+  "titleJp": "ちょっとおねがいがあるんですが",
+  "canDo": [
+    "I can say what I can and can't do, what something looks like, what might be true and what I want, combining the potential, 〜そう, 〜かもしれません, 〜し〜し and ほしい in one short talk.",
+    "I can say who gave what to whom, and who did a favor for whom, choosing between あげる, くれる and もらう (and 〜てあげる, 〜てくれる, 〜てもらう) without mixing up the direction.",
+    "I can ask a favor in about one minute at the right level of politeness (〜てくれない？, 〜てもらえませんか, 〜ていただけませんか), explain the situation with 〜んです, and answer with an offer, a plan (〜よう, 〜ておく) or a wish (〜といいですね).",
+    "I can use 〜とき with the right tense, count how often and how much (一週間に三回, 三時間も, 百円しか〜ない), and apologize with 〜て／〜なくてすみませんでした.",
+    "I can use the self-test to find which lesson of Genki II Lessons 13–16 to review, and I get at least 80% of it right."
+  ],
+  "duration": {
+    "total": "70–90 min",
+    "blocks": [
+      { "t": "Session 1 · Warm-up: listen to your Milestone 3 recording (the 3-minute conversation) and notice one thing you would say better now", "min": 5 },
+      { "t": "Session 1 · Review: the 6 points (block 4), reading each example aloud and tapping 🔬", "min": 25 },
+      { "t": "Session 2 · Self-test (homework, tasks 1 to 4) in your notebook, timed, without looking anything up; only then the answer key", "min": 20 },
+      { "t": "Session 2 · Review the lessons named in the 💡 notes of the items you got wrong (plus their Sakubi lessons from the review path in block 6), then redo those items", "min": 10 },
+      { "t": "Session 3 · Ask a favor in one minute (task 5): write it, rehearse it, record it to a teacher and to a friend", "min": 10 },
+      { "t": "Session 3 · Checklist (block 10) + write down in your notebook the 2 points you want to strengthen before Lesson 17", "min": 5 }
+    ]
+  },
+  "prereqs": {
+    "aulas": ["16-3"],
+    "skills": [
+      "You have completed the checklists of lessons 13-1 to 16-3. If one is still open, finish it first: this milestone tests the first half of Genki II.",
+      "You can put any verb into the potential (lesson 13-1), the volitional (lesson 15-1) and the て-form, even if slowly.",
+      "You know which way あげる, くれる and もらう point (lesson 14-2): away from you, toward you, and received by the subject.",
+      "You have your Milestone 3 recording (the 3-minute conversation) at hand, to compare.",
+      "A notebook, a pen and a timer: the self-test is done by hand, in about 20 minutes, without looking anything up."
+    ],
+    "vocab": [
+      { "jp": "おねがい", "kana": "おねがい", "romaji": "onegai", "en": "a favor, a request (おねがいがある = I have a favor to ask)" },
+      { "jp": "手伝う", "kana": "てつだう", "romaji": "tetsudau", "en": "to help (with a task)" },
+      { "jp": "貸す", "kana": "かす", "romaji": "kasu", "en": "to lend" },
+      { "jp": "借りる", "kana": "かりる", "romaji": "kariru", "en": "to borrow; to rent" },
+      { "jp": "ひっこし", "kana": "ひっこし", "romaji": "hikkoshi", "en": "moving house (ひっこしする = to move)" },
+      { "jp": "はこぶ", "kana": "はこぶ", "romaji": "hakobu", "en": "to carry" },
+      { "jp": "連れて行く", "kana": "つれていく", "romaji": "tsurete iku", "en": "to take (someone) somewhere" },
+      { "jp": "見せる", "kana": "みせる", "romaji": "miseru", "en": "to show" },
+      { "jp": "返事", "kana": "へんじ", "romaji": "henji", "en": "a reply (返事をする = to reply)" },
+      { "jp": "ためる", "kana": "ためる", "romaji": "tameru", "en": "to save up (money)" },
+      { "jp": "図書館", "kana": "としょかん", "romaji": "toshokan", "en": "library" },
+      { "jp": "〜さつ", "kana": "〜さつ", "romaji": "-satsu", "en": "counter for books (三さつ = three books)" },
+      { "jp": "〜台", "kana": "〜だい", "romaji": "-dai", "en": "counter for machines: cars, computers (一台 = one)" },
+      { "jp": "重い", "kana": "おもい", "romaji": "omoi", "en": "heavy" },
+      { "jp": "めんせつ", "kana": "めんせつ", "romaji": "mensetsu", "en": "(job) interview" },
+      { "jp": "きんちょうする", "kana": "きんちょうする", "romaji": "kinchō suru", "en": "to get nervous" },
+      { "jp": "たすかる", "kana": "たすかる", "romaji": "tasukaru", "en": "to be helped (たすかります = that is a big help)" },
+      { "jp": "けっこんしき", "kana": "けっこんしき", "romaji": "kekkonshiki", "en": "wedding ceremony" },
+      { "jp": "ごしゅうぎ", "kana": "ごしゅうぎ", "romaji": "goshūgi", "en": "a gift of money given at a wedding" }
+    ]
+  },
+  "grammar": [
+    {
+      "id": "M-4-a",
+      "title": "Can, can't and \"let's try\": the potential and 〜てみる",
+      "gloss": "potential verbs · が for what you can do · 〜ことができる · 〜てみる",
+      "explanation": "The potential says what someone **can** do (lesson 13-1). Build it from the dictionary form:\n• **う-verbs**: the last u becomes **e + る**: 飲む → 飲める, 話す → 話せる, 待つ → 待てる, 行く → 行ける.\n• **る-verbs**: る → **られる**: 食べる → 食べられる, 見る → 見られる, 起きる → 起きられる.\n• **Irregular**: する → **できる**, 来る → **来られる** (こられる).\n• A potential verb is itself a **new る-verb**, so it conjugates like one: 飲めない, 飲めます, 飲めた, 飲めて.\n**Which block does what.** The potential describes an ability, more like a state than an action, so the thing you can do is usually marked with **が** instead of を: 日本語**が**話せます (lesson 13-1 b). The person who can do it is the TOPIC (私は), and the potential verb is the PREDICATE at the end.\n• **〜ことができる** (lesson 13-1 c) says the same thing more formally, as on signs and in rules: [dictionary form] + ことができる. The block before こと is a small sentence turned into a noun; できる is the PREDICATE.\n• **〜てみる** (lesson 13-3 a): [て-form] + みる = do something **to see what it is like**, try it out. It is a real action, not an attempt that fails: 着てみてもいいですか = May I try it on?\n• Going further (Sakubi): for る-verbs, the long potential 食べられる looks exactly like the passive you will meet in lesson 21-1, which is one reason the short form 食べれる, 見れる is so common in casual speech. Understand it when you hear it, but write the られる form. And an う-verb potential such as 飲める never means the passive, so you can always read it as \"can\".",
+      "structure": "[person] は + [thing] が + [potential verb] · [dictionary form] ことができる · [て-form] みる",
+      "examples": [
+        { "jp": "ひらがなは読めますが、漢字はまだ少ししか読めません。", "kana": "ひらがなはよめますが、かんじはまだすこししかよめません。", "romaji": "Hiragana wa yomemasu ga, kanji wa mada sukoshi shika yomemasen.", "en": "I can read hiragana, but I can still read only a few kanji. (the potential, は for contrast, しか + negative)" },
+        { "jp": "この図書館では、だれでも本を三さつまで借りることができます。一度行ってみませんか。", "kana": "このとしょかんでは、だれでもほんをさんさつまでかりることができます。いちどいってみませんか。", "romaji": "Kono toshokan de wa, dare demo hon o sansatsu made kariru koto ga dekimasu. Ichido itte mimasen ka.", "en": "At this library, anyone can borrow up to three books. Would you like to go and check it out sometime? (〜ことができる, 〜てみる inside an invitation with 〜ませんか)" },
+        { "jp": "きのうは十二時まで寝られなかったので、今朝は七時に起きられませんでした。", "kana": "きのうはじゅうにじまでねられなかったので、けさはしちじにおきられませんでした。", "romaji": "Kinō wa jūni-ji made nerarenakatta node, kesa wa shichi-ji ni okiraremasen deshita.", "en": "Yesterday I couldn't fall asleep until twelve, so this morning I couldn't get up at seven. (the potential of two る-verbs, both in the past negative)" }
+      ],
+      "pitfalls": [
+        "Forgetting that the potential is a new る-verb: 飲めりません ✗ → 飲めません ✓; 話せった ✗ → 話せた ✓.",
+        "する has its own potential: 運転しられる ✗ → 運転できる ✓ (or 運転ができる). And 来る → 来られる, read こられる (きられる ✗).",
+        "〜てみる needs the て-form: 食べるみる ✗ / 食べみる ✗ → 食べてみる ✓.",
+        "The object of the potential: in writing and on tests, use が: 日本語を話せます is heard, but 日本語が話せます ✓ is the safe form."
+      ],
+      "howToStudy": [
+        "Say the potential of 10 verbs aloud, then its negative: 飲む, 話す, 待つ, 帰る, 泳ぐ, 食べる, 起きる, する, 来る, 行く (飲める → 飲めない…).",
+        "Tap 🔬 on example 1 and name the blocks of the second half from the end: PREDICATE (読めません) → HOW MUCH (少ししか) → TIME WORD (まだ) → TOPIC in contrast (漢字は).",
+        "Say aloud 3 true sentences: something you couldn't do before Genki II and can do now (前は〜られませんでしたが、今は〜られます), and one thing you want to try (〜てみたいです)."
+      ],
+      "flag": null
+    },
+    {
+      "id": "M-4-b",
+      "title": "Looks like, might be, and besides: 〜そう, 〜かもしれません, 〜し〜し, ほしい",
+      "gloss": "an impression from what you see · a guess · piling up reasons · wanting a thing",
+      "explanation": "Four ways to talk about what you see, what you guess and what you want (lessons 13-2 and 14-1):\n• **Stem + そうです** (lesson 13-2 b) = it **looks** (your own impression, from what you see). い-adjectives drop い (おいしい → おいし**そう**), な-adjectives drop な (元気**そう**), verbs use the ます-stem (雨がふり**そう** = it looks like it's going to rain). Two exceptions: いい → **よさそう**, ない → **なさそう**. Before a noun it takes な (おいしそうな ケーキ), before a verb に (おいしそうに食べる).\n• **Short form + かもしれません** (lesson 14-1 b) = maybe, might. After a noun or a な-adjective there is no だ: 雨かもしれません, ひまかもしれません.\n• **Short form + し、… し、** (lesson 13-2 a) = and besides: two or more reasons, then the conclusion at the end. Here nouns and な-adjectives keep だ: 静かだし, 学生だし.\n• **[thing] が ほしいです** (lesson 14-1 a) = I want (a thing). ほしい is an い-adjective. For someone else's wants, use ほしがっています.\n**Put them together**: you look (そう), you guess (かもしれない), you give reasons (し), and you want (ほしい). Each block ends in its own small predicate, and the last one is the PREDICATE of the whole sentence.\n• Going further (Sakubi): ほしい literally means \"is wanted\", so the thing is its subject and takes が, just like 好き. And stem + そう can also mean \"about to\": 落ちそう = it looks like it's about to fall.",
+      "structure": "[stem] そうです · [short form] かもしれません · [short form] し、[short form] し、[conclusion] · [thing] が ほしいです",
+      "examples": [
+        { "jp": "あの店のラーメン、おいしそうですね。— でも、今日はこんでいるかもしれません。", "kana": "あのみせのラーメン、おいしそうですね。— でも、きょうはこんでいるかもしれません。", "romaji": "Ano mise no rāmen, oishisō desu ne. — Demo, kyō wa konde iru kamoshiremasen.", "en": "The ramen at that shop looks delicious. — But it might be crowded today. (そう from what you see, かもしれません for a guess)" },
+        { "jp": "このパソコンは軽いし、安いし、一台ほしいです。", "kana": "このパソコンはかるいし、やすいし、いちだいほしいです。", "romaji": "Kono pasokon wa karui shi, yasui shi, ichidai hoshii desu.", "en": "This computer is light, and it's cheap too, so I want one. [lit. it's light, and it's cheap, one is wanted] (two reasons with し, then ほしい)" },
+        { "jp": "ルーカスさんは今日、元気がなさそうですね。かぜかもしれません。", "kana": "ルーカスさんはきょう、げんきがなさそうですね。かぜかもしれません。", "romaji": "Rūkasu-san wa kyō, genki ga nasasō desu ne. Kaze kamoshiremasen.", "en": "Lucas looks a bit down today. It might be a cold. (ない → なさそう; a noun + かもしれません, with no だ)" }
+      ],
+      "pitfalls": [
+        "そう takes the stem, not the dictionary form: おいしいそう ✗ (that is a different そう, \"I hear\", lesson 17-1) → おいしそう ✓. And いい → よさそう ✓ (いさそう ✗).",
+        "かわいそう is a different word, \"poor thing\": to say a baby looks cute, say かわいいですね ✓ (かわいそうですね ✗ means you feel sorry for it).",
+        "かもしれません drops だ, but し keeps it: 学生だかもしれません ✗ → 学生かもしれません ✓; 静かし ✗ → 静かだし ✓.",
+        "ほしい is for things; for actions use 〜たい: 日本に行くがほしい ✗ → 日本に行きたい ✓. For another person: マリアさんはねこがほしいです ✗ → ほしがっています ✓."
+      ],
+      "howToStudy": [
+        "Look at 5 things around you and say one そう sentence for each (おいしそう, 重そう, 高そう, こわれそう…), then add a guess with かもしれません.",
+        "Tap 🔬 on example 2: find the two reasons that end in し and the PREDICATE (ほしいです) at the end that they both point to.",
+        "Say aloud 3 reasons with し for something you want to buy, and end with 〜がほしいです."
+      ],
+      "flag": null
+    },
+    {
+      "id": "M-4-c",
+      "title": "Who gives to whom: あげる, くれる, もらう — for things and for favors",
+      "gloss": "giving and receiving things (lesson 14-2) and actions (lesson 16-1)",
+      "explanation": "Giving and receiving verbs care about **direction**: who gives, who receives, and where **you** stand (lessons 14-2 and 16-1).\n• **あげる**: [giver] は [receiver] に [thing] を あげる — giving **away from me** (or between other people). Never toward me.\n• **くれる**: [giver] が [me / my side] に [thing] を くれる — giving **toward me** or my group (family, close friends). The receiver is usually left out: 父がくれました = my father gave it to me.\n• **もらう**: [receiver] は [giver] に／から [thing] を もらう — **receiving**. The receiver is the subject; the giver takes に (or から).\n**The same three verbs after a て-form** (lesson 16-1) turn an action into a **favor**: 〜てあげる (I do it for someone), 〜てくれる (someone does it for me), 〜てもらう (I get someone to do it for me, told from my side). The block before the verb is now a whole action, with its own object: 友だちに 日本語を 教えてもらいました.\n**Reading tip**: find the giving verb at the end first. It tells you the direction; then look for に to find the other person.\n• 〜てあげる said directly to someone above you sounds arrogant (lesson 16-1): offer with 〜ましょうか instead.\n• Going further (Sakubi): Sakubi describes these verbs as a kind of agreement with the speaker. In a plain statement, あげる never has you as the receiver, and くれる always has you (or your side) as the receiver. That is why the verb alone tells you who did what, even when nobody is named: 買ってくれた = someone bought it for me. And もらう works almost like a passive: the receiver becomes the subject.",
+      "structure": "[giver] が [me] に [thing / て-form] くれる · [I] は [receiver] に [thing / て-form] あげる · [I] は [giver] に [thing / て-form] もらう",
+      "examples": [
+        { "jp": "母の日に、私は母に花をあげました。母はお返しにクッキーをやいてくれました。", "kana": "ははのひに、わたしはははにはなをあげました。はははおかえしにクッキーをやいてくれました。", "romaji": "Haha no hi ni, watashi wa haha ni hana o agemashita. Haha wa okaeshi ni kukkī o yaite kuremashita.", "en": "On Mother's Day I gave my mother flowers. In return, she baked cookies for me. (あげる away from me; 〜てくれる toward me)" },
+        { "jp": "ひっこしのとき、ジョンさんに車でにもつをはこんでもらいました。", "kana": "ひっこしのとき、ジョンさんにくるまでにもつをはこんでもらいました。", "romaji": "Hikkoshi no toki, Jon-san ni kuruma de nimotsu o hakonde moraimashita.", "en": "When I moved, John carried my things in his car for me. [lit. I received from John the favor of carrying my things by car] (〜とき, 〜てもらう with the helper marked by に)" },
+        { "jp": "道がわからなかったので、知らない人が駅まで連れて行ってくれました。", "kana": "みちがわからなかったので、しらないひとがえきまでつれていってくれました。", "romaji": "Michi ga wakaranakatta node, shiranai hito ga eki made tsurete itte kuremashita.", "en": "I didn't know the way, so a stranger took me to the station. [lit. a person I don't know took me] (a description before a noun, ので, 〜てくれる)" }
+      ],
+      "pitfalls": [
+        "Toward me = くれる, never あげる: 友だちが私にプレゼントをあげました ✗ → くれました ✓.",
+        "With もらう the giver takes に, not が: (you got a book from the teacher) 先生が本をもらいました ✗ (= the teacher got it) → 先生に本をもらいました ✓.",
+        "Favor verbs need the て-form: 教えくれました ✗ → 教えてくれました ✓. And when someone helps you, leaving out くれる sounds cold: 友だちが手伝いました ✗ → 手伝ってくれました ✓.",
+        "To someone above you: 先生、かばんを持ってあげます ✗ (sounds arrogant) → 先生、かばんを持ちましょうか ✓."
+      ],
+      "howToStudy": [
+        "For each example, draw an arrow in your notebook from the giver to the receiver, and write the verb (あげる, くれる, もらう) over the arrow.",
+        "Tap 🔬 on example 2 (🏷 Tag): TIME (ひっこしのとき) → THE OTHER PERSON (ジョンさんに) → MEANS (車で) → OBJECT (にもつを) → PREDICATE (はこんでもらいました).",
+        "Say aloud 3 true sentences about favors from this week, one with 〜てあげました, one with 〜てくれました and one with 〜てもらいました."
+      ],
+      "flag": null
+    },
+    {
+      "id": "M-4-d",
+      "title": "Asking a favor, suggesting and hoping",
+      "gloss": "the request ladder · 〜んですが · 〜たらどうですか · N なら · 〜といいですね／〜といいんですが",
+      "explanation": "When you need something from someone, Japanese gives you a **ladder of politeness** (lesson 16-2). Each step is built on the favor verbs of point c:\n• Casual (friends, family): 〜て。 / 〜てくれる？ / 〜てくれない？\n• Polite: 〜てくれませんか / 〜てもらえませんか (もらえる is the potential of もらう: \"can I receive…?\").\n• Very polite (teachers, strangers, a boss): 〜ていただけませんか (lesson 16-2 b).\n**Before the request, give the situation with 〜んですが／〜んだけど**: ちょっとおねがいがあるんですが…, 手紙を書いたんですが、…. The が／けど leaves the sentence open and soft, so the other person can offer to help.\n**Suggesting** (lesson 14-3 a): [た-form] + らどうですか = why don't you…? It is direct: use it with friends, not with a teacher or a boss.\n**N なら** (lesson 13-3 b) = if it's X (that we're talking about)…: it picks up a topic the other person has just raised and gives a comment or a recommendation: 本ならあの店がいいですよ.\n**Hoping** (lesson 16-2 c): [present short form] + といいですね = I hope so (for you); + といいんですが = I hope so (for me), with a little worry.\n• Going further (Sakubi): a negative question such as 〜ませんか asks whether the other person might be willing, which is why it sounds softer than a plain 〜ますか, and Sakubi treats 〜たらどうですか as a set phrase of its own, built on たら.",
+      "structure": "[situation] んですが…、[て-form] くれませんか／もらえませんか／いただけませんか · [た-form] らどうですか · N なら、… · [present] といいですね／といいんですが",
+      "examples": [
+        { "jp": "すみません、ちょっとおねがいがあるんですが…。この手紙の日本語をチェックしていただけませんか。", "kana": "すみません、ちょっとおねがいがあるんですが…。このてがみのにほんごをチェックしていただけませんか。", "romaji": "Sumimasen, chotto onegai ga aru n desu ga…. Kono tegami no nihongo o chekku shite itadakemasen ka.", "en": "Excuse me, I have a small favor to ask… Could you please check the Japanese in this letter? (〜んですが to open, then the top step of the ladder)" },
+        { "jp": "日本のおみやげをさがしているんです。— おみやげなら、駅の近くの店がいいですよ。行ってみたらどうですか。", "kana": "にほんのおみやげをさがしているんです。— おみやげなら、えきのちかくのみせがいいですよ。いってみたらどうですか。", "romaji": "Nihon no omiyage o sagashite iru n desu. — Omiyage nara, eki no chikaku no mise ga ii desu yo. Itte mitara dō desu ka.", "en": "I'm looking for Japanese souvenirs. — If it's souvenirs, the shop near the station is good. Why don't you go and have a look? (N なら, 〜てみる + 〜たらどうですか)" },
+        { "jp": "あしたのめんせつ、うまくいくといいですね。— ありがとうございます。きんちょうしないといいんですが。", "kana": "あしたのめんせつ、うまくいくといいですね。— ありがとうございます。きんちょうしないといいんですが。", "romaji": "Ashita no mensetsu, umaku iku to ii desu ne. — Arigatō gozaimasu. Kinchō shinai to ii n desu ga.", "en": "I hope tomorrow's interview goes well. — Thank you. I just hope I don't get nervous… (といいですね for the other person, といいんですが for yourself)" }
+      ],
+      "pitfalls": [
+        "Too blunt for a real favor: (to a teacher) この手紙をチェックしてください ✗ (a polite command) → チェックしていただけませんか ✓.",
+        "〜たらどうですか sounds bossy to a teacher or a boss: 先生、少し休んだらどうですか ✗ → with a friend: 少し休んだらどうですか ✓ / 休んだら？ ✓.",
+        "N なら takes no だ, and it answers what someone has just said: 日本語だなら ✗ → 日本語なら ✓.",
+        "Your own hope takes といいんですが, and the verb before と is in the present: (your own test) ごうかくするといいですね ✗ → ごうかくするといいんですが ✓; はれたといいですね ✗ → はれるといいですね ✓."
+      ],
+      "howToStudy": [
+        "Climb the ladder aloud: say the same request 4 ways, from まどを開けて。 to まどを開けていただけませんか, and say who you would use each one with.",
+        "Tap 🔬 on example 1: the first sentence ends in が… (a soft opening, no request yet); in the second, find the OBJECT (日本語を) and the PREDICATE (チェックしていただけませんか).",
+        "Role-play with yourself: a friend says they are tired, hungry and bored; answer each one aloud with a 〜たらどうですか suggestion and a 〜といいですね."
+      ],
+      "flag": null
+    },
+    {
+      "id": "M-4-e",
+      "title": "Inviting, planning and getting ready: the volitional, 〜ておく and long descriptions",
+      "gloss": "〜よう (let's) · 〜ようと思っています · 〜ておく · describing nouns (II)",
+      "explanation": "• **The volitional** (lesson 15-1 a) is the casual \"let's\": う-verbs change the last u to **ō** (行く → 行こう, 飲む → 飲もう, 待つ → 待とう); る-verbs replace る with **よう** (食べよう, 見よう); する → しよう, 来る → 来よう (こよう). It is the short form of 〜ましょう.\n• **Uses** (lesson 15-1 b): inviting (いっしょに行こう), and with か, asking or offering (手伝おうか = shall I help?).\n• **Plans** (lesson 15-1 c): volitional + **と思っています** = I'm thinking of doing, I plan to (an idea you have had for a while). 〜つもりです (lesson 10-2) sounds firmer.\n• **〜ておく** (lesson 15-2 a): [て-form] + おく = do something **in advance**, to be ready for later: パーティーの前に飲み物を買っておきます.\n• **Long descriptions** (lesson 15-2 b and c): a whole sentence in short form can come right before a noun and describe it. Inside it, the subject takes **が**, not は: 私が買っておいたケーキ = the cake I bought in advance. Read from the END: the last noun is what the whole block is about, and everything before it describes it.\n• Going further (Sakubi): the volitional is said with a long o (行こう = ikō), not お + う. Sakubi also notes that to report **someone else's** plan you need the ている form: ペドロさんはりゅうがくしようと思っています, while 〜ようと思います is a decision you are making right now.",
+      "structure": "[volitional] (か) · [volitional] と思っています · [て-form] おく · [short-form sentence with が] + [noun]",
+      "examples": [
+        { "jp": "週末、みんなでキャンプに行こうよ。— いいね。じゃ、ぼくが車を借りておくよ。", "kana": "しゅうまつ、みんなでキャンプにいこうよ。— いいね。じゃ、ぼくがくるまをかりておくよ。", "romaji": "Shūmatsu, minna de kyanpu ni ikō yo. — Ii ne. Ja, boku ga kuruma o karite oku yo.", "en": "Let's all go camping this weekend. — Sounds good. Then I'll rent a car ahead of time. (the volitional for inviting, 〜ておく for getting ready)" },
+        { "jp": "来年、日本にりゅうがくしようと思っているので、今からお金をためておきます。", "kana": "らいねん、にほんにりゅうがくしようとおもっているので、いまからおかねをためておきます。", "romaji": "Rainen, Nihon ni ryūgaku shiyō to omotte iru node, ima kara okane o tamete okimasu.", "en": "I'm thinking of studying abroad in Japan next year, so I'm going to start saving money now. (volitional + と思っている for a plan, 〜ておく)" },
+        { "jp": "これは、マリアさんがきのう作っておいてくれたサンドイッチです。", "kana": "これは、マリアさんがきのうつくっておいてくれたサンドイッチです。", "romaji": "Kore wa, Maria-san ga kinō tsukutte oite kureta sandoitchi desu.", "en": "These are the sandwiches Maria made for us yesterday, ahead of time. [lit. this is the made-in-advance-for-us-yesterday-by-Maria sandwich] (a long description with が inside, 〜ておく + 〜てくれる)" }
+      ],
+      "pitfalls": [
+        "The volitional of う-verbs has a long o: 行こ ✗ / 行きよう ✗ → 行こう ✓; and る-verbs take よう: 食べろう ✗ → 食べよう ✓.",
+        "A plan needs the volitional before と思っています: 日本に行くと思っています ✗ (= I think I will go) → 行こうと思っています ✓ (I plan to go).",
+        "Inside a description, the subject takes が: 私は作ったケーキ ✗ → 私が作ったケーキ ✓.",
+        "〜ておく needs the て-form: 買うおきます ✗ → 買っておきます ✓. (In casual speech you will hear 買っとく.)"
+      ],
+      "howToStudy": [
+        "Say the volitional of 10 verbs aloud, then turn each one into an offer (〜ようか) and a plan (〜ようと思っています).",
+        "Tap 🔬 on example 3 and build it from the end (🧱): です → サンドイッチ → くれた → 作っておいて → きのう → マリアさんが → これは.",
+        "List aloud 3 things you will do in advance before a trip, each with 〜ておきます."
+      ],
+      "flag": null
+    },
+    {
+      "id": "M-4-f",
+      "title": "When, how often, how much, and saying sorry",
+      "gloss": "〜とき · the tense before とき · 一週間に三回 · number + も／しか〜ない · 〜てすみませんでした",
+      "explanation": "• **〜とき** (lesson 16-3 a): [short form / い-adjective / な-adjective + な / noun + の] + とき = when…. The とき block is a whole description of a time, and it works like a time word: it usually comes first, and the PREDICATE of the sentence is still at the end.\n• **The tense before とき** (lesson 16-3 b) shows the **order** of the two events, not the time of the whole sentence:\n  – present before とき: the とき action has **not happened yet** when the main one happens: 日本に行くとき、カメラを買いました = I bought a camera before going (for the trip).\n  – past before とき: the とき action is **already done**: 日本に行ったとき、カメラを買いました = I bought a camera after I got there.\n• **How often** (lesson 13-3 c): [period] に [number] 回: 一週間に三回.\n• **How much** (lesson 14-3 b and c): number + **も** = as many as (it feels like a lot): 三時間も待ちました. Number + **しか** + negative = only (it feels like too little): 千円しかありません.\n• **Apologizing** (lesson 16-3 c): [て-form] + すみませんでした = I'm sorry for doing…; ない → **なくて** + すみませんでした = I'm sorry for not doing…. Here the て-form gives the reason for the apology.\n• Going further (Sakubi): とき is simply the noun 時, \"time\". A sentence before it describes it, just as any sentence can describe a noun (point e). That is why a な-adjective takes な and a noun takes の before とき, exactly as before any other noun: ひまなとき, 子どものとき.",
+      "structure": "[short form] とき、[main sentence] · [period] に [N] 回 · [number] も／しか〜ない · [て-form / なくて] すみませんでした",
+      "examples": [
+        { "jp": "子どものとき、一週間に二回ピアノを習っていました。", "kana": "こどものとき、いっしゅうかんににかいピアノをならっていました。", "romaji": "Kodomo no toki, isshūkan ni nikai piano o naratte imashita.", "en": "When I was a child, I took piano lessons twice a week. [lit. was learning piano] (N の とき, how often)" },
+        { "jp": "駅に着いたとき、電車はもう出ていました。三十分も待たなければいけませんでした。", "kana": "えきについたとき、でんしゃはもうでていました。さんじゅっぷんもまたなければいけませんでした。", "romaji": "Eki ni tsuita toki, densha wa mō dete imashita. Sanjuppun mo matanakereba ikemasen deshita.", "en": "When I got to the station, the train had already left. I had to wait a whole thirty minutes. (past before とき = already there; number + も)" },
+        { "jp": "きのうは返事をしなくて、すみませんでした。いそがしくて、メールを見る時間が少ししかなかったんです。", "kana": "きのうはへんじをしなくて、すみませんでした。いそがしくて、メールをみるじかんがすこししかなかったんです。", "romaji": "Kinō wa henji o shinakute, sumimasen deshita. Isogashikute, mēru o miru jikan ga sukoshi shika nakatta n desu.", "en": "I'm sorry I didn't reply yesterday. I was busy, and I had only a little time to read my e-mail. (なくて + すみませんでした, しか + negative, 〜んです for the reason)" }
+      ],
+      "pitfalls": [
+        "The tense before とき shows the order: (you bought it in Japan, after you arrived) 日本に行くとき、買いました ✗ → 日本に行ったとき、買いました ✓.",
+        "Before とき, な-adjectives take な and nouns take の: ひまとき ✗ → ひまなとき ✓; 子どもとき ✗ → 子どものとき ✓.",
+        "しか always needs a negative: 千円しかあります ✗ → 千円しかありません ✓.",
+        "Sorry for NOT doing: 来ないですみません ✗ → 来なくてすみません ✓ (ない → なくて)."
+      ],
+      "howToStudy": [
+        "Say 3 pairs aloud with the same verb, 〜るとき and 〜たとき (出かけるとき／出かけたとき, 寝るとき／寝たとき, 家に帰るとき／帰ったとき), and say in English what changes.",
+        "Tap 🔬 on example 2: sentence 1 = TIME (駅に着いたとき) + TOPIC (電車は) + PREDICATE (出ていました); in sentence 2, 三十分も is an amount with no particle before the PREDICATE.",
+        "Apologize aloud for 3 real things (being late, forgetting something, not calling) with 〜て／〜なくてすみませんでした, and add the reason with 〜んです."
+      ],
+      "flag": null
+    }
+  ],
+  "media": [
+    { "order": 1, "kind": "reading", "title": "Genki II · Lessons 13 to 16: reread the grammar notes only for the points you missed on the self-test", "where": "Your Genki II textbook (3rd ed.)", "url": "", "when": "Session 2, after checking the self-test" },
+    { "order": 2, "kind": "reading", "title": "Sakubi review path: for each theme you missed, re-read only its Sakubi lessons — the potential: 20 and the intermission \"Notes on the potential\" · そう: 51 · し: 45 · ほしい and the volitional: 21 · かもしれない: 48 · 〜てみる and 〜ようと思う: Optional Lesson 2 · giving, receiving and favors: 52 (and 9, for how てもらう makes the receiver the subject) · requests with 〜ませんか: 34 · なら, 〜たらどうですか and 〜といい: 41 · 〜ておく: 46 · long descriptions: 11 · とき: 50 · しか: 32.", "where": "sakubi.neocities.org · free grammar guide (Resources tab)", "url": "", "when": "Session 2, after checking the self-test. Missed almost nothing? Then read Sakubi Lesson 52 through once: with Lessons 14 and 16 done, its idea that あげる and くれる agree with the speaker should now feel obvious." },
+    { "order": 3, "kind": "video", "title": "A video on giving and receiving (あげる, くれる, もらう and their て-forms). If the search brings up several, pick one that also covers the favor forms", "where": "YouTube · Japanese Ammo with Misa channel", "url": "", "search": "Japanese Ammo with Misa ageru kureru morau", "when": "Session 1 or 2, especially if you missed items on point c" }
+  ],
+  "homework": {
+    "intro": "Five tasks, by hand in your notebook. Tasks 1 to 4 are the self-test (20 items): set a timer for about 20 minutes and do all of it without looking anything up. Only then open the answer key, item by item, and mark each item right or wrong. Next to each mistake, write down the lesson named in the 💡 note. The goal is at least 16 of the 20 items (80%). In session 2, review those lessons and redo the items you got wrong; save 2 or 3 of the corrected sentences in the app's Mining (⛏), so they come back in your SRS reviews. Task 5 is a one-minute favor: write it, rehearse it and record it twice, to a teacher and to a friend. If you have the Genki II Workbook, do this lesson's exercises too: for a milestone, redo the workbook exercises of the Lessons 13–16 where you missed the most items.",
+    "tasks": [
+      {
+        "id": "h1",
+        "type": "self-test",
+        "prompt": "Self-test · Part 1 · Forms (6 items). Write the form asked for.",
+        "items": [
+          { "q": "泳ぐ → potential, polite negative", "a": { "jp": "泳げません", "kana": "およげません", "romaji": "oyogemasen", "en": "can't swim" }, "note": "う-verb: u → e + る (泳げる), then it conjugates like a る-verb (泳げりません ✗). Wrong? Review lesson 13-1 (4a)." },
+          { "q": "来る → potential (short form)", "a": { "jp": "来られる", "kana": "こられる", "romaji": "korareru", "en": "can come" }, "note": "Read こられる; in casual speech you will hear 来れる. Wrong? Review lesson 13-1 (4a)." },
+          { "q": "待つ → volitional", "a": { "jp": "待とう", "kana": "まとう", "romaji": "matō", "en": "let's wait" }, "note": "う-verb: the last u → ō (待と + う). Wrong? Review lesson 15-1 (4a)." },
+          { "q": "する → a plan: \"I'm thinking of doing it\"", "a": { "jp": "しようと思っています", "kana": "しようとおもっています", "romaji": "shiyō to omotte imasu", "en": "I'm thinking of doing it" }, "note": "する → しよう, + と思っています for a plan you have had for a while. Wrong? Review lesson 15-1 (4a and 4c)." },
+          { "q": "いい → \"looks good\" with そう", "a": { "jp": "よさそうです", "kana": "よさそうです", "romaji": "yosasō desu", "en": "it looks good" }, "note": "The exception: いい → よさそう (いさそう ✗, いいそう = \"I hear it's good\"). Wrong? Review lesson 13-2 (4b)." },
+          { "q": "買う → \"buy in advance\", polite", "a": { "jp": "買っておきます", "kana": "かっておきます", "romaji": "katte okimasu", "en": "I'll buy it in advance" }, "note": "The て-form (買って) + おきます. Wrong? Review lesson 15-2 (4a)." }
+        ]
+      },
+      {
+        "id": "h2",
+        "type": "self-test",
+        "prompt": "Self-test · Part 2 · Fill in the blank (5 items). Write one particle or one word.",
+        "items": [
+          { "q": "田中さんは（私に）チョコレートを＿＿＿。(gave me, polite past)", "a": { "jp": "くれました", "kana": "くれました", "romaji": "kuremashita", "en": "Mr. Tanaka gave me chocolate." }, "note": "Toward me = くれる (あげました ✗). Wrong? Review lesson 14-2 (4b)." },
+          { "q": "私は友だち＿ 日本語を教えてもらいました。", "a": { "jp": "に", "kana": "に", "romaji": "ni", "en": "I had my friend teach me Japanese." }, "note": "With もらう, the one who does the favor takes に. Wrong? Review lesson 16-1 (4c)." },
+          { "q": "ヨガを一週間＿ 三回しています。", "a": { "jp": "に", "kana": "に", "romaji": "ni", "en": "I do yoga three times a week." }, "note": "[period] に [number] 回. Wrong? Review lesson 13-3 (4c)." },
+          { "q": "さいふにお金が百円＿ ありません。", "a": { "jp": "しか", "kana": "しか", "romaji": "shika", "en": "I have only 100 yen in my wallet." }, "note": "しか + a negative = only (too little). Wrong? Review lesson 14-3 (4c)." },
+          { "q": "日本語の本をさがしているんです。— 日本語の本＿、あの図書館にたくさんありますよ。", "a": { "jp": "なら", "kana": "なら", "romaji": "nara", "en": "I'm looking for Japanese books. — If it's Japanese books, that library has lots." }, "note": "なら picks up the topic the other person has just raised. Wrong? Review lesson 13-3 (4b)." }
+        ]
+      },
+      {
+        "id": "h3",
+        "type": "self-test",
+        "prompt": "Self-test · Part 3 · Choose the right option in brackets (5 items).",
+        "items": [
+          { "q": "東京に（行く／行った）とき、しんかんせんの中でおべんとうを食べました。", "a": { "jp": "行く", "kana": "いく", "romaji": "iku", "en": "On my way to Tokyo, I ate a boxed lunch on the Shinkansen." }, "note": "You ate on the train, before arriving: present before とき. Wrong? Review lesson 16-3 (4b)." },
+          { "q": "先生、この文をもう一度（読んであげませんか／読んでいただけませんか）。", "a": { "jp": "読んでいただけませんか", "kana": "よんでいただけませんか", "romaji": "yonde itadakemasen ka", "en": "Professor, could you please read this sentence once more?" }, "note": "A favor from a teacher = the top of the ladder; 〜てあげる is for favors you do. Wrong? Review lessons 16-2 (4b) and 16-1 (4a)." },
+          { "q": "このセーター、（あたたかそう／あたたかいそう）ですね。", "a": { "jp": "あたたかそう", "kana": "あたたかそう", "romaji": "atatakasō", "en": "This sweater looks warm." }, "note": "You are looking at it: stem + そう (い drops). Wrong? Review lesson 13-2 (4b)." },
+          { "q": "あしたのしあい、（かつ／かった）といいですね。", "a": { "jp": "かつ", "kana": "かつ", "romaji": "katsu", "en": "I hope you win tomorrow's game." }, "note": "The verb before と in 〜といい is in the present. Wrong? Review lesson 16-2 (4c)." },
+          { "q": "きのうは電話を（しないで／しなくて）、すみませんでした。", "a": { "jp": "しなくて", "kana": "しなくて", "romaji": "shinakute", "en": "I'm sorry I didn't call yesterday." }, "note": "The reason for an apology takes the て-form of ない: なくて. Wrong? Review lesson 16-3 (4c)." }
+        ]
+      },
+      {
+        "id": "h4",
+        "type": "self-test",
+        "prompt": "Self-test · Part 4 · Translate into Japanese (4 items).",
+        "items": [
+          { "q": "My friend lent me his bike.", "a": { "jp": "友だちが自転車を貸してくれました。", "kana": "ともだちがじてんしゃをかしてくれました。", "romaji": "Tomodachi ga jitensha o kashite kuremashita.", "en": "My friend lent me his bike." }, "note": "A favor toward me: 〜てくれました; \"me\" and \"his\" are left out. Wrong? Review lesson 16-1 (4b)." },
+          { "q": "This bag looks heavy. Shall I carry it?", "a": { "jp": "このかばん、重そうですね。持ちましょうか。", "kana": "このかばん、おもそうですね。もちましょうか。", "romaji": "Kono kaban, omosō desu ne. Mochimashō ka.", "en": "This bag looks heavy. Shall I carry it?" }, "note": "重い → 重そう; an offer with 〜ましょうか (casual: 持とうか). Wrong? Review lessons 13-2 (4b) and 15-1 (4b)." },
+          { "q": "I can't eat spicy food, but I'll try this curry.", "a": { "jp": "からいものは食べられませんが、このカレーは食べてみます。", "kana": "からいものはたべられませんが、このカレーはたべてみます。", "romaji": "Karai mono wa taberaremasen ga, kono karē wa tabete mimasu.", "en": "I can't eat spicy food, but I'll try this curry." }, "note": "The potential of a る-verb (食べられる), then 〜てみる; は marks the contrast. Wrong? Review lessons 13-1 (4a) and 13-3 (4a)." },
+          { "q": "It might rain, so I'll buy an umbrella in advance.", "a": { "jp": "雨がふるかもしれないので、かさを買っておきます。", "kana": "あめがふるかもしれないので、かさをかっておきます。", "romaji": "Ame ga furu kamoshirenai node, kasa o katte okimasu.", "en": "It might rain, so I'll buy an umbrella in advance." }, "note": "かもしれない in the short form before ので, then 〜ておきます. Wrong? Review lessons 14-1 (4b) and 15-2 (4a)." }
+        ]
+      },
+      {
+        "id": "h5",
+        "type": "produce",
+        "prompt": "Ask a favor in one minute. Write a short scene in which you ask someone for help, in this order: (1) a soft opening (すみません／ねえ + ちょっとおねがいがあるんですが…); (2) the situation with 〜んです, a reason with ので or 〜し〜し, and a guess with 〜かもしれません or 〜そう; (3) the request at the right step of the ladder; (4) the answer, with a plan or an offer (〜よう, 〜ておく, 〜ましょうか); (5) thanks and a wish (〜といいですね／〜といいんですが). Write it twice: once to a teacher, once to a friend. The lines alternate: you, then the other person (each — starts a new turn). Rehearse both versions aloud, record them, and compare them with your Milestone 3 recording.",
+        "items": [
+          { "q": "Model A · To a teacher (polite; match its structure, not its words):", "a": { "jp": "先生、今ちょっとよろしいですか。— ええ、どうぞ。— じつは、ちょっとおねがいがあるんですが…。来週、日本の会社のめんせつがあるんです。日本語でメールを書いたんですが、まちがいがあるかもしれません。おいそがしいと思いますが、このメールを読んでいただけませんか。— いいですよ。あした読んでおきますね。— ありがとうございます。たすかります。めんせつのとき、きんちょうしないといいんですが。— だいじょうぶですよ。うまくいくといいですね。", "kana": "せんせい、いまちょっとよろしいですか。— ええ、どうぞ。— じつは、ちょっとおねがいがあるんですが…。らいしゅう、にほんのかいしゃのめんせつがあるんです。にほんごでメールをかいたんですが、まちがいがあるかもしれません。おいそがしいとおもいますが、このメールをよんでいただけませんか。— いいですよ。あしたよんでおきますね。— ありがとうございます。たすかります。めんせつのとき、きんちょうしないといいんですが。— だいじょうぶですよ。うまくいくといいですね。", "romaji": "Sensei, ima chotto yoroshii desu ka. — Ee, dōzo. — Jitsu wa, chotto onegai ga aru n desu ga…. Raishū, Nihon no kaisha no mensetsu ga aru n desu. Nihongo de mēru o kaita n desu ga, machigai ga aru kamoshiremasen. Oisogashii to omoimasu ga, kono mēru o yonde itadakemasen ka. — Ii desu yo. Ashita yonde okimasu ne. — Arigatō gozaimasu. Tasukarimasu. Mensetsu no toki, kinchō shinai to ii n desu ga. — Daijōbu desu yo. Umaku iku to ii desu ne.", "en": "Professor, do you have a moment? — Yes, go ahead. — Actually, I have a small favor to ask… Next week I have an interview with a Japanese company. I wrote an e-mail in Japanese, but it might have mistakes. I know you're busy, but could you please read this e-mail? — Sure. I'll read it tomorrow. — Thank you so much. That's a big help. I hope I don't get nervous at the interview. — You'll be fine. I hope it goes well." }, "note": "Check: a soft opening that ends in が…; the situation with 〜んです; a guess with かもしれません; the top step of the ladder (〜ていただけませんか) because it is a teacher; 〜ておく in the answer; とき; といいんですが for your own hope and といいですね for someone else's. Read aloud at a natural pace, it takes about one minute." },
+          { "q": "Model B · To a friend (casual):", "a": { "jp": "ねえ、アナ、ちょっとおねがいがあるんだけど。— なに？— 土曜日にひっこしするんだ。にもつが多いし、車もないし、ちょっと大変そうなんだ。手伝ってくれない？— いいよ。何時に行こうか。— 九時に来られる？— うん、行けるよ。— ありがとう！ おひるごはんはぼくが作っておくね。— やった。じゃ、土曜日に。はれるといいね。", "kana": "ねえ、アナ、ちょっとおねがいがあるんだけど。— なに？— どようびにひっこしするんだ。にもつがおおいし、くるまもないし、ちょっとたいへんそうなんだ。てつだってくれない？— いいよ。なんじにいこうか。— くじにこられる？— うん、いけるよ。— ありがとう！ おひるごはんはぼくがつくっておくね。— やった。じゃ、どようびに。はれるといいね。", "romaji": "Nē, Ana, chotto onegai ga aru n da kedo. — Nani? — Doyōbi ni hikkoshi suru n da. Nimotsu ga ōi shi, kuruma mo nai shi, chotto taihen sō na n da. Tetsudatte kurenai? — Ii yo. Nanji ni ikō ka. — Kuji ni korareru? — Un, ikeru yo. — Arigatō! Ohirugohan wa boku ga tsukutte oku ne. — Yatta. Ja, doyōbi ni. Hareru to ii ne.", "en": "Hey, Ana, I have a favor to ask. — What is it? — I'm moving on Saturday. I have a lot of stuff and no car, so it looks like it's going to be tough. Could you help me? — Sure. What time should I come? — Can you come at nine? — Yeah, I can. — Thanks! I'll make lunch ahead of time. — Yay. See you Saturday, then. I hope it's sunny." }, "note": "Check: the casual step of the ladder (〜てくれない？) and 〜んだけど; two reasons with し; そう for how it looks; the volitional (行こうか); the potential (来られる, 行ける); 〜ておく as your way of saying thanks; といいね. Record both models: the same favor sounds very different to a teacher and to a friend." }
+        ]
+      }
+    ],
+    "workbook": []
+  },
+  "practice": [
+    { "tool": "Wagotabi", "what": "A long session in the game, hunting for points from Lessons 13–16 in the dialogues: potential verbs (〜られる, 〜える), 〜そう, 〜かもしれない, あげる／くれる／もらう and their て-forms, polite requests (〜てくれませんか, 〜ていただけませんか), 〜とき and the volitional (〜よう). For every giving or favor verb you find, say aloud who does it for whom, starting from the verb at the end. Copy 5 lines into your notebook and write next to each one which lesson's point it shows. Then, in Immersion → Games, log the session and paste the longest line into Anatomy. Save the 2 lines you like best in Mining (⛏), with every unknown word looked up.", "min": 20 },
+    { "tool": "ヅオリンゴー", "what": "🌊 All: do all of today's reviews first. Then Practice L13, L14, L15 and L16, starting with the lesson where you missed the most items on the self-test, and Drills → Conjugation for the potential and the volitional until you can do them without pausing.", "min": 15 },
+    { "tool": "ヅオリンゴー", "what": "Drills → 🔬 Anatomy → 🧱 Build from the end, with 10 sentences that contain a favor verb or a とき block. Then Journal: write 6 sentences about favors from this week, one with each verb (あげる, くれる, もらう, 〜てあげる, 〜てくれる, 〜てもらう), and check them with \"Anatomy of what I wrote\".", "min": 15 },
+    { "tool": "Speaking", "what": "Record the one-minute favor (task 5) twice without reading: once to a teacher, once to a friend. Then listen to your Milestone 3 recording and today's, one after the other, and write down in your notebook 2 things that changed.", "min": 10 },
+    { "tool": "Reading", "what": "Keep the reading habit that the DJT guide recommends once a grammar guide is done: pick one easy real text from the Resources tab (a Tadoku graded reader at level 1 or 2, or an easy manga with furigana) and read it for the story first. Look up only the words that block the meaning (on a computer, with the pop-up dictionary Yomitan), and save 2 or 3 sentences that contain a favor verb or a potential in Mining (⛏). Keep your SRS in one daily routine and add only a few new cards a day: your reviews will settle at roughly ten times your daily new cards.", "min": 15 }
+  ],
+  "culture": {
+    "title": "Weddings: ごしゅうぎ",
+    "titleJp": "けっこんしきのごしゅうぎ",
+    "body": "At a Japanese wedding reception, guests usually give **ごしゅうぎ**: a gift of money in a special envelope, tied with a decorative cord called みずひき. The bills are usually new and crisp, as a sign that you prepared for the day in advance. Odd amounts are generally preferred (for example, three bills rather than two or four), because an even amount can be \"divided\", which some people link with separating; 4 and 9 are avoided for the reasons you saw in lesson 14-3. Guests hand the envelope over at the reception desk (うけつけ) when they arrive, often carried in a small cloth called ふくさ, and sign the guest book. At the end, the couple usually gives every guest a return gift (ひきでもの), much like the おかえし of lesson 14-2.",
+    "try": "Say aloud what a guest says at the reception desk: おめでとうございます。 Then tell a friend about an imaginary wedding with the verbs of point c: 友だちのけっこんしきで、ごしゅうぎをあげました。帰りに、きれいなひきでものをもらいました。 And, from the couple's side: みんながお祝いに来てくれました。"
+  },
+  "checklist": [
+    "I scored ≥ 80% without looking: at least 16 of the 20 self-test items, with no book, notes or app.",
+    "I did the homework and checked it against the answer key, reviewed the lessons named in the 💡 notes and redid the items I got wrong, this time correctly.",
+    "I can make the potential and the volitional of any verb without looking, including する and 来る.",
+    "I can say who gave what to whom with あげる, くれる and もらう, and turn each one into a favor with the て-form, without mixing up the direction.",
+    "I can ask the same favor at three levels (a friend, a polite stranger, a teacher) and choose the right one.",
+    "I can use 〜とき with the right tense, and apologize with 〜て／〜なくてすみませんでした.",
+    "I recorded the one-minute favor (task 5) twice, to a teacher and to a friend, without reading."
+  ],
+  "credits": [
+    "Explanations adapted in part from Sakubi (public domain, CC0) — sakubi.neocities.org",
+    "Study method informed by the DJT Guide to Japanese — djtguide.neocities.org/guide"
+  ]
+}

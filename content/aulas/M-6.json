@@ -1,0 +1,320 @@
+{
+  "id": "M-6",
+  "unit": "P-N3",
+  "genki": null,
+  "title": "Milestone 6 · N3 Bridge",
+  "titleJp": "日本語のこれまでとこれから",
+  "canDo": [
+    "I can choose the right member of each confusable pair of the Bridge (ようになる × ようにする, ことになる × ことにする, ために × ように, おかげで × せいで, そうだ × ようだ × らしい, うちに × 間に, たとたん × 次第, わけではない × わけがない…) and explain my choice with an example of my own.",
+    "I can read a short N3 text in だ／である style, with N3 kanji, and answer questions about its reasons and its conclusion.",
+    "I can write a 10-sentence text in だ／である style about my own learning, with written connectors (しかし, そのため, つまり, また), without slipping into です／ます.",
+    "I can assess honestly where I stand at N3 (reading, listening, speaking, vocabulary and kanji) and write a plan for the next phase following the DJT method: daily SRS, a mining deck built with Yomitan from what I read, native reading, a frequency deck (Core 2k/6k) if I haven't done one, and one intermediate textbook (QUARTET I → II, or Tobira).",
+    "I get at least 80% of the mock test right without looking, and I know the JLPT is optional and where to check its official information."
+  ],
+  "duration": {
+    "total": "80–100 min",
+    "blocks": [
+      { "t": "Session 1 · Warm-up: listen to your recordings from Milestones 3, 4 and 5, one after the other", "min": 5 },
+      { "t": "Session 1 · Review: the 6 contrast points (block 4), reading each example aloud and tapping 🔬", "min": 30 },
+      { "t": "Session 2 · Mock test (homework, tasks 1 to 5) in your notebook, timed, without looking anything up; only then the answer key", "min": 30 },
+      { "t": "Session 2 · Review the lessons named in the 💡 notes of the items you got wrong (plus their Sakubi lessons from the review path in block 6), then redo those items", "min": 10 },
+      { "t": "Session 3 · Your 10-sentence text in だ／である style (task 6), read aloud and recorded, then the N3 self-assessment (task 7)", "min": 15 },
+      { "t": "Session 3 · What next: read the last item of block 8 (the DJT method), write your plan for the next phase in your notebook, then the checklist (block 10)", "min": 10 }
+    ]
+  },
+  "prereqs": {
+    "aulas": ["P-22"],
+    "skills": [
+      "You have completed the checklists of lessons P-01 to P-22 and of Milestone 5. If one is still open, finish it first: this milestone closes the N3 Bridge.",
+      "You can read plain-style (だ) sentences and a short NHK NEWS WEB EASY article, even if slowly.",
+      "You have the pop-up dictionary Yomitan (Resources tab) in your browser, or you are ready to install it today: the next phase is built on it.",
+      "You have your recordings from Milestones 3, 4 and 5 at hand.",
+      "A notebook, a pen and a timer: the mock test is done by hand, in about 30 minutes, without looking anything up."
+    ],
+    "vocab": [
+      { "jp": "学習", "kana": "がくしゅう", "romaji": "gakushū", "en": "study, learning (a written word)" },
+      { "jp": "方法", "kana": "ほうほう", "romaji": "hōhō", "en": "method, way" },
+      { "jp": "目標", "kana": "もくひょう", "romaji": "mokuhyō", "en": "goal" },
+      { "jp": "続ける", "kana": "つづける", "romaji": "tsuzukeru", "en": "to continue, to keep doing" },
+      { "jp": "習慣", "kana": "しゅうかん", "romaji": "shūkan", "en": "habit" },
+      { "jp": "単語", "kana": "たんご", "romaji": "tango", "en": "word, vocabulary item" },
+      { "jp": "辞書", "kana": "じしょ", "romaji": "jisho", "en": "dictionary" },
+      { "jp": "本物", "kana": "ほんもの", "romaji": "honmono", "en": "the real thing (本物の日本語 = real, native Japanese)" },
+      { "jp": "復習する", "kana": "ふくしゅうする", "romaji": "fukushū suru", "en": "to review" },
+      { "jp": "中級", "kana": "ちゅうきゅう", "romaji": "chūkyū", "en": "intermediate (level)" },
+      { "jp": "教科書", "kana": "きょうかしょ", "romaji": "kyōkasho", "en": "textbook" },
+      { "jp": "身につく", "kana": "みにつく", "romaji": "mi ni tsuku", "en": "to become your own, to be really learned (身につける = to make it your own)" },
+      { "jp": "機会", "kana": "きかい", "romaji": "kikai", "en": "opportunity, chance" },
+      { "jp": "減る", "kana": "へる", "romaji": "heru", "en": "to decrease" },
+      { "jp": "道具", "kana": "どうぐ", "romaji": "dōgu", "en": "tool" },
+      { "jp": "意見", "kana": "いけん", "romaji": "iken", "en": "opinion" },
+      { "jp": "試験", "kana": "しけん", "romaji": "shiken", "en": "exam, test" },
+      { "jp": "茶道", "kana": "さどう", "romaji": "sadō", "en": "the tea ceremony" }
+    ]
+  },
+  "grammar": [
+    {
+      "id": "M-6-a",
+      "title": "Change, effort, decision: ようになる × ようにする × ことになる × ことにする",
+      "gloss": "なる = it happened (or was decided for me) · する = I made it happen (or decided it)",
+      "explanation": "Two pairs, one logic (lessons P-01 and P-02): **なる = it happened** (a change, or a decision made for you); **する = you made it happen** (an effort, or your own decision). Read the last verb first: it tells you who is in control.\n• **[dictionary / ない-form] + ようになる** = come to (be able to) do: a change over time. 漢字が読めるようになった. For a change toward \"no longer\", the usual form is 〜なくなる: 読めなくなった.\n• **[dictionary / ない-form] + ようにする** = make an effort to, make a point of: 毎日漢字を書くようにしている.\n• **[dictionary / ない-form] + ことにする** = I decide: 日本に住むことにした. ことにしている = a rule I keep (lesson 23-2).\n• **[dictionary / ない-form] + ことになる** = it has been decided (by others, or by circumstances): 来月から大阪で働くことになった. ことになっている = it's the rule, it's scheduled.\n**Which block does what**: everything before よう／こと is a small sentence (what changes, what you try, what is decided); なる／する at the end is the PREDICATE, and it carries the meaning.\n• Going further (Sakubi): Sakubi explains ように as \"so as to\", walking the line between \"for the purpose of\" and \"in such a way as\". That is the core of 〜ようにする: you act so as to make something happen. 〜ようになる, by contrast, only reports the result.",
+      "structure": "[plain] ようになる (a change) × ようにする (an effort) · [plain] ことになる (decided for me) × ことにする (I decide)",
+      "examples": [
+        { "jp": "日本語のニュースが少しずつわかるようになったので、毎朝ニュースを聞くようにしています。", "kana": "にほんごのニュースがすこしずつわかるようになったので、まいあさニュースをきくようにしています。", "romaji": "Nihongo no nyūsu ga sukoshi zutsu wakaru yō ni natta node, maiasa nyūsu o kiku yō ni shite imasu.", "en": "I've gradually come to understand the news in Japanese, so I make a point of listening to it every morning. (ようになる for the change, ようにする for the effort)" },
+        { "jp": "来年の春から大阪で働くことになりました。それで、かんさいべんも少し勉強することにしました。", "kana": "らいねんのはるからおおさかではたらくことになりました。それで、かんさいべんもすこしべんきょうすることにしました。", "romaji": "Rainen no haru kara Ōsaka de hataraku koto ni narimashita. Sorede, kansaiben mo sukoshi benkyō suru koto ni shimashita.", "en": "It's been decided that I'll work in Osaka from next spring. So I've decided to study a little Kansai dialect too. (ことになる: decided for me; ことにする: my own decision)" },
+        { "jp": "このりょうでは、夜十一時からはシャワーを使わないことになっています。", "kana": "このりょうでは、よるじゅういちじからはシャワーをつかわないことになっています。", "romaji": "Kono ryō de wa, yoru jūichi-ji kara wa shawā o tsukawanai koto ni natte imasu.", "en": "In this dorm, the rule is that you don't use the showers after 11 p.m. (ことになっている = the rule)" }
+      ],
+      "pitfalls": [
+        "する for a change that simply happened: (you can swim now) 泳げるようにしました ✗ → 泳げるようになりました ✓.",
+        "ことにする for a decision someone else made: (your company sent you) 大阪で働くことにしました ✗ → 働くことになりました ✓.",
+        "よう／こと take the plain form, not ます: 読めますようになった ✗ → 読めるようになった ✓."
+      ],
+      "howToStudy": [
+        "Say 4 true sentences aloud about your own Japanese, one with each form (〜ようになった, 〜ようにしている, 〜ことにした, 〜ことになった).",
+        "Tap 🔬 on example 1: two predicates — わかるようになった, inside the ので block (the change), and 聞くようにしています at the end (the effort, the main PREDICATE).",
+        "Cover the endings of the three examples and restore なる or する from the meaning alone."
+      ],
+      "flag": null
+    },
+    {
+      "id": "M-6-b",
+      "title": "Purpose and cause: ために × ように · おかげで × せいで",
+      "gloss": "in order to × so that · thanks to (good) × because of (bad)",
+      "explanation": "• **ために** (P-03 a) = in order to: [dictionary form of a verb **you can decide to do**, same subject] + ために: 日本で働くために、日本語を勉強しています. After a noun: N の ために = for (the sake of). With a past or a state, ために can also mean \"because of\": 台風のために、電車が止まった.\n• **ように** (P-03 b) = so that: [potential, ない-form, a verb you **can't simply decide** (わかる, 聞こえる, 見える), or a different subject] + ように: 後ろの人にも聞こえるように、大きい声で話した.\n**Rule of thumb**: if the verb before it is an action you choose, ために; if it is an ability, a state or something outside your control, ように.\n• **おかげで** (P-10 a) = thanks to (a good result): 先生のおかげで、ごうかくできました.\n• **せいで** (P-10 b) = because of (blame, a bad result): 雨のせいで、しあいが中止になった. Both attach like nouns: N の / short form + おかげで・せいで.\n**Which block does what**: the ために／ように block is the PURPOSE, and the おかげで／せいで block is the CAUSE; the result is always the PREDICATE at the end.\n• Going further (Sakubi): Sakubi explains せい as the noun \"fault\", which is why せいで points a finger, and notes that, like ために, it can follow a plain noun with の: 私のせいで.",
+      "structure": "[an action you choose] ために × [potential / ない / a state] ように · [N の / short form] おかげで (good) × せいで (bad)",
+      "examples": [
+        { "jp": "日本の大学に入るために、毎日勉強しています。本番できんちょうしないように、もぎしけんも受けています。", "kana": "にほんのだいがくにはいるために、まいにちべんきょうしています。ほんばんできんちょうしないように、もぎしけんもうけています。", "romaji": "Nihon no daigaku ni hairu tame ni, mainichi benkyō shite imasu. Honban de kinchō shinai yō ni, mogi shiken mo ukete imasu.", "en": "I study every day in order to get into a Japanese university. I also take practice exams so that I won't get nervous on the real day. (ために + an action you choose; ように + ない)" },
+        { "jp": "友だちが手伝ってくれたおかげで、ひっこしが早く終わりました。でも、雨のせいで、荷物が少しぬれてしまいました。", "kana": "ともだちがてつだってくれたおかげで、ひっこしがはやくおわりました。でも、あめのせいで、にもつがすこしぬれてしまいました。", "romaji": "Tomodachi ga tetsudatte kureta okage de, hikkoshi ga hayaku owarimashita. Demo, ame no sei de, nimotsu ga sukoshi nurete shimaimashita.", "en": "Thanks to my friends helping me, the move was over quickly. But because of the rain, some of my things got a little wet. (おかげで for a good result, せいで for a bad one)" },
+        { "jp": "お年寄りにも読めるように、案内の字を大きくしました。", "kana": "おとしよりにもよめるように、あんないのじをおおきくしました。", "romaji": "Otoshiyori ni mo yomeru yō ni, annai no ji o ōkiku shimashita.", "en": "We made the letters on the sign bigger so that elderly people can read them too. (ように + a potential; adjective + する)" }
+      ],
+      "pitfalls": [
+        "ために with a potential: 日本語が話せるために ✗ → 話せるように ✓.",
+        "ように with an action you choose, same subject: 日本で働くように、勉強しています ✗ → 働くために ✓ (or 働けるように ✓).",
+        "おかげで for a bad result sounds sarcastic: 雨のおかげで、しあいが中止になった ✗ (unless you mean the irony) → 雨のせいで ✓.",
+        "Both need の after a noun: 先生おかげで ✗ → 先生のおかげで ✓."
+      ],
+      "howToStudy": [
+        "Say 2 sentences aloud about why you study Japanese: one with ために (an action you choose) and one with ように (an ability: 〜られるように).",
+        "Tap 🔬 on example 2: two cause blocks, ending in おかげで and せいで, each followed by its own PREDICATE.",
+        "Think of your week: say one thing that went well thanks to someone (おかげで) and one that went badly because of something (せいで)."
+      ],
+      "flag": null
+    },
+    {
+      "id": "M-6-c",
+      "title": "Four ways to \"seem\", and three tendencies",
+      "gloss": "そうだ × ようだ × みたいだ × らしい · っぽい × がち × 気味",
+      "explanation": "Pick by **where the information comes from** and **how formal** you are (P-04):\n• **Stem + そうだ**: it **looks** (your own eyes, right now): 雨が降りそうだ. **Short form + そうだ**: I **hear** (someone told me).\n• **ようだ**: it **seems**: your own conclusion from evidence (a smell, a sound, signs). Neutral and fine in writing; ような before a noun, ように before a verb.\n• **みたいだ**: the same meaning as ようだ, casual and spoken.\n• **らしい**: **apparently**: from what you've heard or read, and you keep a little distance from it: あの店、来月閉まるらしいよ. After a noun it can also mean **typical of**: 春らしい天気.\n**Tendencies** (P-15): **っぽい** = -ish, feels like (子どもっぽい; after a verb stem, 忘れっぽい = forgetful) · **がち** = tends to (usually something undesirable): 休みがち, 遅れがち · **気味** = a slight touch of (usually unwanted): かぜ気味, つかれ気味.\n• Going further (Sakubi): Sakubi separates らしい, which says something seems so from the circumstances, from っぽい, which says it looks or feels like X from its appearance or properties; and it suggests reading hearsay そう as \"it seems that…\" until it clicks.",
+      "structure": "[stem] そうだ (looks) · [short form] そうだ (I hear) · [short form] ようだ／みたいだ (seems) · [short form] らしい (apparently) · っぽい／がち／気味",
+      "examples": [
+        { "jp": "部屋の電気が消えている。田中さんはもう帰ったようだ。", "kana": "へやのでんきがきえている。たなかさんはもうかえったようだ。", "romaji": "Heya no denki ga kiete iru. Tanaka-san wa mō kaetta yō da.", "en": "The light in the room is off. It seems Mr. Tanaka has already gone home. (ようだ: your own conclusion from evidence)" },
+        { "jp": "ニュースによると、今年の夏はとても暑くなるらしい。— え、本当？ もうつかれ気味なのに…。", "kana": "ニュースによると、ことしのなつはとてもあつくなるらしい。— え、ほんとう？ もうつかれぎみなのに…。", "romaji": "Nyūsu ni yoru to, kotoshi no natsu wa totemo atsuku naru rashii. — E, hontō? Mō tsukaregimi na noni….", "en": "According to the news, this summer is apparently going to be very hot. — What, really? And I'm already feeling a bit worn out… (らしい for what you heard; 気味 for a slight touch)" },
+        { "jp": "弟は忘れっぽくて、宿題をよく忘れる。最近は学校も休みがちで、母が心配している。", "kana": "おとうとはわすれっぽくて、しゅくだいをよくわすれる。さいきんはがっこうもやすみがちで、ははがしんぱいしている。", "romaji": "Otōto wa wasureppokute, shukudai o yoku wasureru. Saikin wa gakkō mo yasumigachi de, haha ga shinpai shite iru.", "en": "My little brother is forgetful and often forgets his homework. Lately he tends to miss school too, and my mother is worried. (っぽい after a verb stem; がち for a bad tendency)" }
+      ],
+      "pitfalls": [
+        "らしい for what you see yourself: (looking at a cake) おいしいらしい ✗ → おいしそう ✓.",
+        "ようだ after a noun needs の; みたい doesn't: 学生ようだ ✗ → 学生のようだ ✓ / 学生みたいだ ✓.",
+        "気味 is only a slight touch: (with a high fever) かぜ気味です ✗ → かぜをひいています ✓."
+      ],
+      "howToStudy": [
+        "Describe one situation (a friend is absent) 4 ways aloud: 休むそうだ, 休むようだ, 休むみたい, 休むらしい, and say where each piece of information came from.",
+        "Tap 🔬 on example 2: find the source (ニュースによると), the ending らしい, and the のに block at the end of the reply.",
+        "Say one true sentence about yourself with っぽい, one with がち and one with 気味."
+      ],
+      "flag": null
+    },
+    {
+      "id": "M-6-d",
+      "title": "The timing of an action: ところ × ばかり · うちに × 間に · たとたん × 次第",
+      "gloss": "the exact stage · while it lasts · the moment it happens",
+      "explanation": "• **ところ** (P-05 a) pins down the **exact stage**: [dictionary form] + ところ = about to; [ている] + ところ = in the middle of; [た] + ところ = just finished, a moment ago.\n• **たばかり** (P-05 b) = just did, but measured by **how it feels** to the speaker, so it can be days or months: 先月入ったばかりの会社.\n• **うちに** (P-06 a) = while (a state lasts): do it before it changes: 若いうちに, 雨が降らないうちに.\n• **間 × 間に** (P-06 b): 間 = the whole time; 間に = at some point during it.\n• **最中に** (P-06 c) = right in the middle of (and something interrupts).\n• **たとたん(に)** (P-20 a) = the moment…: and something unexpected happened, outside your control: 立ったとたん、頭が痛くなった.\n• **Stem + 次第** (P-20 b) = as soon as: formal, and the second part is a planned action, often a promise or a request: 終わり次第、ご連絡します.\n**Which block does what**: all of these blocks are TIME blocks; the PREDICATE at the end is what happens at that time.\n• Going further (Sakubi): Sakubi describes うちに as \"while X is true\", often with the feeling \"before it stops being true\" (雨が降らないうちに = before it starts raining), and 間に as an event that starts and ends inside the span of another.",
+      "structure": "[る / ている / た] ところ · [た] ばかり · [state] うちに · [span] 間／間に · [た] とたん · [stem] 次第",
+      "examples": [
+        { "jp": "今、家を出るところなので、あとで電話します。— わかった。暗くならないうちに帰ってきてね。", "kana": "いま、いえをでるところなので、あとででんわします。— わかった。くらくならないうちにかえってきてね。", "romaji": "Ima, ie o deru tokoro na node, ato de denwa shimasu. — Wakatta. Kuraku naranai uchi ni kaette kite ne.", "en": "I'm just about to leave the house, so I'll call you later. — OK. Come back before it gets dark. (ところ = about to; ないうちに = before it changes)" },
+        { "jp": "買ったばかりのかさを家に忘れて、駅に着いたとたん、雨が降り出した。", "kana": "かったばかりのかさをいえにわすれて、えきについたとたん、あめがふりだした。", "romaji": "Katta bakari no kasa o ie ni wasurete, eki ni tsuita totan, ame ga furidashita.", "en": "I left the umbrella I'd just bought at home, and the moment I got to the station, it started to rain. (ばかり describing a noun; たとたん for something sudden you didn't control)" },
+        { "jp": "資料の準備ができ次第、お送りします。会議の間は電話に出られませんので、メールでお願いします。", "kana": "しりょうのじゅんびができしだい、おおくりします。かいぎのあいだはでんわにでられませんので、メールでおねがいします。", "romaji": "Shiryō no junbi ga deki shidai, ookuri shimasu. Kaigi no aida wa denwa ni deraremasen node, mēru de onegai shimasu.", "en": "I'll send you the documents as soon as they're ready. I can't take calls during the whole meeting, so please use e-mail. (stem + 次第 for a promise; 間 for the whole time)" }
+      ],
+      "pitfalls": [
+        "たとたん for your own plan: 家に帰ったとたん、シャワーをあびるつもりだ ✗ → 家に帰ったら、すぐシャワーをあびるつもりだ ✓.",
+        "次第 for something you didn't control: 駅に着き次第、雨が降った ✗ → 駅に着いたとたん、雨が降った ✓.",
+        "間 × 間に: 旅行の間に、ずっと雨だった ✗ → 旅行の間、ずっと雨だった ✓ (the whole time = 間).",
+        "たところ is only the moment right after: 先月日本に来たところです ✗ → 来たばかりです ✓."
+      ],
+      "howToStudy": [
+        "Say the three ところ sentences with one verb (食べるところ, 食べているところ, 食べたところ), then 食べたばかり, and say in English what changes.",
+        "Tap 🔬 on example 2: the ばかり block describes かさ; the とたん block is the TIME of the last PREDICATE (降り出した).",
+        "Read example 3 aloud as if on the phone at work, then say it again with レポート instead of 資料."
+      ],
+      "flag": null
+    },
+    {
+      "id": "M-6-e",
+      "title": "Logic and expectation: わけ, はず, ないことはない, わけにはいかない, ほど, さえ",
+      "gloss": "no wonder · not necessarily · no way · can't (for social reasons) · the more… · even / as long as",
+      "explanation": "These patterns say **how sure** you are and **what follows from what** (P-07, P-08, P-14, P-19):\n• **わけだ** (P-07 a) = so that's why, no wonder: a conclusion that follows from a fact: 十年も住んでいたなら、上手なわけだ.\n• **わけではない** (P-07 b) = it's not that…, not necessarily: you soften or deny part of it: きらいなわけではない.\n• **わけがない** (P-07 c) = there's no way: your own strong denial, based on reasoning.\n• **はずがない** (P-07 d) = it can't be: it goes against what you expected from the facts: かぎをかけたから、開いているはずがない.\n• **わけにはいかない** (P-19 a and b) = I can't, for social or moral reasons: 約束したから、行かないわけにはいかない = I can't not go.\n• **ないことはない** (P-19 c) = it's not that I can't / don't: a weak yes: 食べられないことはない.\n• **ば〜ほど** (P-08 a) = the more…, the more…: 練習すれば練習するほど上手になる. **さえ** (P-14) = even; **さえ〜ば** = as long as: 時間さえあれば.\n**Which block does what**: わけ, はず and こと are nouns; the sentence before them is their description, and the ending after them (だ, ではない, がない, にはいかない) is the real PREDICATE.\n• Going further (Sakubi): Sakubi groups わけ, はず and べき as words of **expectation**, and describes さえ as an emphatic particle that means \"even an X\" or \"only an X\" depending on the rest of the sentence: exactly the さえ × さえ〜ば pair of P-14.",
+      "structure": "[short form] わけだ · わけではない · わけがない · はずがない · [ない-form] わけにはいかない · [ない-form] ことはない · [ば-form] + [same verb] ほど · N さえ (〜ば)",
+      "examples": [
+        { "jp": "ジョンさんは十年も日本に住んでいたそうだ。日本語が上手なわけだ。", "kana": "ジョンさんはじゅうねんもにほんにすんでいたそうだ。にほんごがじょうずなわけだ。", "romaji": "Jon-san wa jūnen mo Nihon ni sunde ita sō da. Nihongo ga jōzu na wake da.", "en": "I hear John lived in Japan for ten whole years. No wonder his Japanese is good. (わけだ: a conclusion that follows)" },
+        { "jp": "あしたは大事な会議があるので、かぜをひいていても休むわけにはいかない。", "kana": "あしたはだいじなかいぎがあるので、かぜをひいていてもやすむわけにはいかない。", "romaji": "Ashita wa daiji na kaigi ga aru node, kaze o hiite ite mo yasumu wake ni wa ikanai.", "en": "I have an important meeting tomorrow, so even though I have a cold, I can't take the day off. (わけにはいかない: a social reason)" },
+        { "jp": "漢字は書けば書くほど覚えやすくなる。辞書さえあれば、新聞の記事も読めないことはない。", "kana": "かんじはかけばかくほどおぼえやすくなる。じしょさえあれば、しんぶんのきじもよめないことはない。", "romaji": "Kanji wa kakeba kaku hodo oboeyasuku naru. Jisho sae areba, shinbun no kiji mo yomenai koto wa nai.", "en": "The more you write kanji, the easier they are to remember. As long as I have a dictionary, it's not that I can't read newspaper articles. (ば〜ほど, さえ〜ば, ないことはない)" }
+      ],
+      "pitfalls": [
+        "わけがない × わけではない: (it's not that I dislike it) きらいなわけがない ✗ (= there's no way I dislike it) → きらいなわけではない ✓.",
+        "わけにはいかない is not about ability: (you can't speak Japanese well) 電話に出るわけにはいかない ✗ → 電話に出られない ✓.",
+        "ば〜ほど repeats the same verb in the dictionary form: 読めば読んだほど ✗ → 読めば読むほど ✓.",
+        "さえ replaces が／を: お金がさえあれば ✗ → お金さえあれば ✓."
+      ],
+      "howToStudy": [
+        "Answer the question 漢字の勉強が好きですか aloud 4 ways: with わけではない, ないことはない, わけがない and わけにはいかない (why you can't stop), and say how each one feels.",
+        "Tap 🔬 on example 2: the ので block, the ても block, and the PREDICATE 休むわけにはいかない at the end.",
+        "Say one ば〜ほど sentence and one さえ〜ば sentence about your own Japanese."
+      ],
+      "flag": null
+    },
+    {
+      "id": "M-6-f",
+      "title": "Register: talking × writing × working",
+      "gloss": "contractions · です／ます × だ × である · written connectors · compound particles · everyday keigo",
+      "explanation": "The same message changes shape with the **situation** (P-09, P-11, P-12, P-13, P-16, P-18):\n• **Casual speech** (P-16): contractions: 〜ちゃう (= てしまう), 〜とく (= ておく), 〜てる (= ている), 〜なきゃ (= なければ), 〜じゃん.\n• **です／ます**: polite speech, NHK news, e-mails to people you don't know well.\n• **だ／である** (P-18): the plain written style of essays, reports and newspapers. である is the formal written \"is\", after nouns and な-adjectives; its past is であった, its negative ではない. Never mix です／ます and だ／である in one text.\n• **Written connectors** (P-13, P-18): しかし (however), そのため (for that reason), つまり (in other words), また (also), さらに (furthermore), 一方 (on the other hand).\n• **Compound particles** (P-09): について (about), に対して (toward; in contrast to), によって (by; depending on), として (as). They are more common in writing.\n• **Everyday keigo** (P-11 and P-12): 〜させていただきます, お世話になっております, 少々お待ちください.\n• Going further (Sakubi): Sakubi calls keigo a **register**, like the difference between the language of a cathedral and of the street, and warns that である belongs to formal, ceremonial or old-fashioned writing: someone who piles up である in conversation sounds theatrical, not polite. It also notes that である, unlike です, can sit inside a description before a noun: 学生である私たち.",
+      "structure": "casual: 〜ちゃう／〜とく／〜てる／〜なきゃ · polite: です／ます · written: だ／である + しかし／そのため／つまり · work: 申す／おる／させていただく",
+      "examples": [
+        { "jp": "宿題、まだやってない。今日中にやっとかなきゃ。", "kana": "しゅくだい、まだやってない。きょうじゅうにやっとかなきゃ。", "romaji": "Shukudai, mada yatte nai. Kyōjū ni yattokanakya.", "en": "I haven't done my homework yet. I've got to get it done today. (casual: てない = ていない, とく = ておく, なきゃ = なければ)" },
+        { "jp": "言葉は文化をうつすかがみである。そのため、言葉を学ぶことは、その国の人々の考え方を知ることにもつながる。", "kana": "ことばはぶんかをうつすかがみである。そのため、ことばをまなぶことは、そのくにのひとびとのかんがえかたをしることにもつながる。", "romaji": "Kotoba wa bunka o utsusu kagami de aru. Sono tame, kotoba o manabu koto wa, sono kuni no hitobito no kangaekata o shiru koto ni mo tsunagaru.", "en": "Language is a mirror that reflects culture. For that reason, learning a language also leads to knowing how the people of that country think. (である, a written connector, a long subject made with こと)" },
+        { "jp": "お世話になっております。さくら社のルーカスと申します。資料の件で、お電話させていただきました。", "kana": "おせわになっております。さくらしゃのルーカスともうします。しりょうのけんで、おでんわさせていただきました。", "romaji": "Osewa ni natte orimasu. Sakura-sha no Rūkasu to mōshimasu. Shiryō no ken de, odenwa sasete itadakimashita.", "en": "Thank you for your continued support [a set phrase]. This is Lucas from Sakura Company. I'm calling about the documents. (humble おる and 申す; 〜させていただく)" }
+      ],
+      "pitfalls": [
+        "Mixing styles in one text: 日本は島国である。人口は多いです ✗ → 日本は島国である。人口は多い ✓.",
+        "である after an い-adjective: 高いである ✗ → 高い ✓ (である follows nouns and な-adjectives: 静かである ✓).",
+        "Contractions in writing: (in a report) 資料を忘れちゃった ✗ → 資料を忘れてしまった ✓.",
+        "Honorific for yourself on the phone: ルーカスとおっしゃいます ✗ → ルーカスと申します ✓."
+      ],
+      "howToStudy": [
+        "Say one message aloud in three registers: to a friend (with contractions), to a teacher (です／ます), and as a line of a report (である).",
+        "Tap 🔬 on example 2: find the connector (そのため) and the two PREDICATES (かがみである, つながる).",
+        "Rewrite 3 of this week's Journal sentences in である style in your notebook."
+      ],
+      "flag": null
+    }
+  ],
+  "media": [
+    { "order": 1, "kind": "reading", "title": "Sakubi review path: for each contrast you missed, re-read only its Sakubi lessons — ようにする, ために and ように: 45 · そう, らしい and っぽい: 51, with みたい in the intermission \"Notes on wanting\" · ところ and ばかり: 31 and 32 · うちに and 間に: 42 · わけ and はず: 48 · ほど and くらい: 49 · として: Optional Lesson 2 · せいで: 45 · the causative behind させていただく: 38 · keigo: the intermission \"Keigo and some archaic speech\" · しかし, だから and それで: 43 and 44 · さえ and こそ: Optional Lesson 4, and でも: 47 · がち: Optional Lesson 4 · contractions: 46, 17, 35 and 53 · である: 16 and the intermission \"Notes on いる, ある, である, and っす\" · pitch: the intermission \"Spelling irregularities\".", "where": "sakubi.neocities.org · free grammar guide (Resources tab)", "url": "", "when": "Session 2, after checking the mock test. Then read the end of Optional Lesson 4, \"Other resources\": for this stage Sakubi points to grammar references rather than new courses (A Dictionary of Japanese Grammar, Making Sense of Japanese, A Handbook of Japanese Grammar Patterns), and it warns that grammar books organized by JLPT level are a poor way to learn the language unless the test is your only goal. Its closing note in Lesson 23 says the rest: from here on, you learn mainly by understanding real messages." },
+    { "order": 2, "kind": "reading", "title": "DJT Guide to Japanese: re-read \"Now what do I do to actually learn Japanese?\" and the Resource Guide's parts on SRS decks, pop-up dictionaries and reading tools. They describe the phase you are entering: finish a grammar guide, then read, mine and review every day", "where": "djtguide.neocities.org/guide · study method guide (read it on the site; never use its links to book downloads)", "url": "https://djtguide.neocities.org/guide", "when": "Session 3, before you write your plan for the next phase (block 8, last item)" },
+    { "order": 3, "kind": "video", "title": "An intermediate grammar video on one of the pairs you missed (for example ために × ように, or わけ × はず), to hear it explained by someone else", "where": "YouTube · Japanese Ammo with Misa channel", "url": "", "search": "Japanese Ammo with Misa intermediate grammar", "when": "Session 2, only for the contrasts you missed" },
+    { "order": 4, "kind": "input", "title": "NHK NEWS WEB EASY: one article a day for the gist; when it starts to feel easy, read the same story on regular NHK NEWS WEB", "where": "NHK NEWS WEB EASY (Resources tab)", "url": "", "search": "NHK NEWS WEB EASY", "when": "Every day from now on; in this milestone, for the reading item of block 8" },
+    { "order": 5, "kind": "reading", "title": "The JLPT (optional): N3 sample questions and the official information on dates and registration", "where": "jlpt.jp · the official JLPT site (the test is run by the Japan Foundation and JEES)", "url": "", "search": "JLPT N3 sample questions jlpt.jp", "when": "Only if you decide to take the test. Outside Japan the JLPT is run by the Japan Foundation with local host institutions; dates, fees and registration rules change, so always check the official site (jlpt.jp) or the Japan Foundation office for your country, not other sources." }
+  ],
+  "homework": {
+    "intro": "Seven tasks, by hand in your notebook. Tasks 1 to 5 are the mock test (25 items): set a timer for about 30 minutes and do all of it without looking anything up. Only then open the answer key, item by item, and mark each item right or wrong. Next to each mistake, write down the lesson named in the 💡 note. The goal is at least 20 of the 25 items (80%). In session 2, review those lessons and redo the items you got wrong; save 2 or 3 of the corrected sentences in the app's Mining (⛏), so they come back in your SRS reviews. Task 6 is a 10-sentence text in だ／である style. Task 7 is an honest N3 self-assessment: it has no score, but each answer tells you what to do next.",
+    "tasks": [
+      {
+        "id": "h1",
+        "type": "mock-test",
+        "prompt": "Mock test · Part 1 · Contrasts (10 items). Choose the right option in brackets.",
+        "items": [
+          { "q": "毎日練習したので、泳げる（ようになった／ようにした）。", "a": { "jp": "ようになった", "kana": "ようになった", "romaji": "yō ni natta", "en": "I practiced every day, so I became able to swim." }, "note": "A change over time: なる. Wrong? Review lesson P-01 (4a)." },
+          { "q": "健康のために、エレベーターを使わない（ようになっている／ようにしている）。", "a": { "jp": "ようにしている", "kana": "ようにしている", "romaji": "yō ni shite iru", "en": "For my health, I make a point of not using the elevator." }, "note": "An effort you keep up: する. Wrong? Review lesson P-01 (4b)." },
+          { "q": "部長の命令で、来月から大阪で働く（ことにした／ことになった）。", "a": { "jp": "ことになった", "kana": "ことになった", "romaji": "koto ni natta", "en": "On my boss's orders, it has been decided that I'll work in Osaka from next month." }, "note": "Someone else decided: ことになる. Wrong? Review lesson P-02 (4b)." },
+          { "q": "後ろの席の人にも聞こえる（ために／ように）、大きな声で話した。", "a": { "jp": "ように", "kana": "ように", "romaji": "yō ni", "en": "I spoke loudly so that even the people in the back seats could hear." }, "note": "聞こえる is not something they can decide to do: ように. Wrong? Review lesson P-03 (4b)." },
+          { "q": "田中さんが手伝ってくれた（おかげで／せいで）、仕事が早く終わった。", "a": { "jp": "おかげで", "kana": "おかげで", "romaji": "okage de", "en": "Thanks to Mr. Tanaka's help, the work finished early." }, "note": "A good result: おかげで. Wrong? Review lesson P-10 (4a and 4b)." },
+          { "q": "（Looking at a shelf）あの荷物は、今にも（落ちるそうだ／落ちそうだ）。", "a": { "jp": "落ちそうだ", "kana": "おちそうだ", "romaji": "ochisō da", "en": "That package looks like it's about to fall any second." }, "note": "What you see right now: stem + そうだ. Wrong? Review lesson P-04 (4a)." },
+          { "q": "友だちの話では、あの店は来月閉まる（らしい／ようだ）よ。", "a": { "jp": "らしい", "kana": "らしい", "romaji": "rashii", "en": "According to my friend, that shop is apparently closing next month." }, "note": "What you heard from someone: らしい (ようだ is your own conclusion from evidence). Wrong? Review lesson P-04 (4b and 4d)." },
+          { "q": "料理が冷めない（うちに／間に）、どうぞ食べてください。", "a": { "jp": "うちに", "kana": "うちに", "romaji": "uchi ni", "en": "Please eat before the food gets cold." }, "note": "ないうちに = before the state changes. Wrong? Review lesson P-06 (4a)." },
+          { "q": "ドアを開けた（とたん／次第）、ねこが外に飛び出した。", "a": { "jp": "とたん", "kana": "とたん", "romaji": "totan", "en": "The moment I opened the door, the cat dashed outside." }, "note": "Something sudden and unplanned, after a た-form: とたん (次第 takes the stem and a planned action). Wrong? Review lesson P-20 (4a and 4b)." },
+          { "q": "先月日本に来た（ところ／ばかり）なので、まだ友だちがいない。", "a": { "jp": "ばかり", "kana": "ばかり", "romaji": "bakari", "en": "I only came to Japan last month, so I don't have any friends yet." }, "note": "A month ago can still feel recent: ばかり (たところ is only the moment right after). Wrong? Review lesson P-05 (4b)." }
+        ]
+      },
+      {
+        "id": "h2",
+        "type": "mock-test",
+        "prompt": "Mock test · Part 2 · Logic and expectation (5 items). Choose or complete.",
+        "items": [
+          { "q": "マリアさんのお母さんは日本人なのか。日本語が上手な（わけだ／わけがない）。", "a": { "jp": "わけだ", "kana": "わけだ", "romaji": "wake da", "en": "So Maria's mother is Japanese. No wonder her Japanese is good." }, "note": "A conclusion that follows from a fact: わけだ. Wrong? Review lesson P-07 (4a)." },
+          { "q": "野菜がきらいな（わけではない／わけがない）が、肉のほうが好きだ。", "a": { "jp": "わけではない", "kana": "わけではない", "romaji": "wake de wa nai", "en": "It's not that I dislike vegetables, but I prefer meat." }, "note": "Softening, not a strong denial: わけではない. Wrong? Review lesson P-07 (4b and 4c)." },
+          { "q": "約束したから、行かない（わけにはいかない／ことはない）。", "a": { "jp": "わけにはいかない", "kana": "わけにはいかない", "romaji": "wake ni wa ikanai", "en": "I promised, so I can't not go." }, "note": "A social reason (the promise): わけにはいかない. Wrong? Review lesson P-19 (4b and 4c)." },
+          { "q": "Complete with the right form of 練習する: 練習すれば＿＿＿ほど、上手になる。", "a": { "jp": "練習する", "kana": "れんしゅうする", "romaji": "renshū suru", "en": "The more you practice, the better you get." }, "note": "ば-form + the same verb in the dictionary form + ほど. Wrong? Review lesson P-08 (4a)." },
+          { "q": "時間（さえ／こそ）あれば、もっと本が読めるのに。", "a": { "jp": "さえ", "kana": "さえ", "romaji": "sae", "en": "If only I had the time, I could read more books." }, "note": "さえ〜ば = as long as, if only. Wrong? Review lesson P-14 (4b)." }
+        ]
+      },
+      {
+        "id": "h3",
+        "type": "mock-test",
+        "prompt": "Mock test · Part 3 · Register (4 items). Rewrite or choose as asked.",
+        "items": [
+          { "q": "Rewrite in である style: 日本は島国です。", "a": { "jp": "日本は島国である。", "kana": "にほんはしまぐにである。", "romaji": "Nihon wa shimaguni de aru.", "en": "Japan is an island country." }, "note": "After a noun, です → である. Wrong? Review lesson P-18 (4a and 4b)." },
+          { "q": "Rewrite as casual speech, with a contraction: 宿題を忘れてしまった。", "a": { "jp": "宿題を忘れちゃった。", "kana": "しゅくだいをわすれちゃった。", "romaji": "Shukudai o wasurechatta.", "en": "Oops, I forgot my homework." }, "note": "てしまった → ちゃった. Wrong? Review lesson P-16 (4a)." },
+          { "q": "雨が強かった。（しかし／そのため）、試合は中止になった。", "a": { "jp": "そのため", "kana": "そのため", "romaji": "sono tame", "en": "The rain was heavy. For that reason, the game was called off." }, "note": "A cause and its result: そのため (しかし is \"however\"). Wrong? Review lesson P-13 (4a and 4b)." },
+          { "q": "(On the phone at work) \"Please wait a moment.\"", "a": { "jp": "少々お待ちください。", "kana": "しょうしょうおまちください。", "romaji": "Shōshō omachi kudasai.", "en": "Please wait a moment." }, "note": "The set phrase: 少々 is the formal ちょっと. Wrong? Review lesson P-12 (4b)." }
+        ]
+      },
+      {
+        "id": "h4",
+        "type": "mock-test",
+        "prompt": "Mock test · Part 4 · Reading (3 items). Read the text without kana, then answer the questions in Japanese. ── 最近、手で字を書く機会が減っている。スマートフォンやパソコンを使えば、漢字を覚えていなくても正しく書けるからである。しかし、しばらく手で書かないうちに、簡単な漢字さえ思い出せなくなったという人も多い。一方で、手で書けば書くほど字の形が頭に残る、という意見もある。つまり、道具が便利になっても、手で書く練習がまったく必要なくなるわけではないのである。",
+        "items": [
+          { "q": "手で字を書く機会が減っているのは、なぜか。", "a": { "jp": "スマートフォンやパソコンを使えば、漢字を覚えていなくても正しく書けるからである。", "kana": "スマートフォンやパソコンをつかえば、かんじをおぼえていなくてもただしくかけるからである。", "romaji": "Sumātofon ya pasokon o tsukaeba, kanji o oboete inakute mo tadashiku kakeru kara de aru.", "en": "Because with a smartphone or a computer you can write kanji correctly even if you don't remember them." }, "note": "The reason is the second sentence, which ends in からである, the written form of からです. Wrong? Review lesson P-18 (4b and 4d)." },
+          { "q": "しばらく手で書かないと、どうなったと言う人がいるか。", "a": { "jp": "簡単な漢字さえ思い出せなくなったと言う人がいる。", "kana": "かんたんなかんじさえおもいだせなくなったというひとがいる。", "romaji": "Kantan na kanji sae omoidasenaku natta to iu hito ga iru.", "en": "Some people say they can't even remember simple kanji anymore." }, "note": "The third sentence: さえ = even; 〜ないうちに = while not doing it (for a while). Wrong? Review lessons P-14 (4a) and P-06 (4a)." },
+          { "q": "この文を書いた人の考えに近いのは、どれか。(a) 手で書く練習は、もういらない。(b) 道具が便利になっても、手で書く練習はまだ必要だ。(c) 手で書けば書くほど、字が下手になる。", "a": { "jp": "(b) 道具が便利になっても、手で書く練習はまだ必要だ。", "kana": "(b) どうぐがべんりになっても、てでかくれんしゅうはまだひつようだ。", "romaji": "(b) Dōgu ga benri ni natte mo, te de kaku renshū wa mada hitsuyō da.", "en": "(b) Even if tools become convenient, practice writing by hand is still needed." }, "note": "つまり introduces the conclusion, and 〜わけではない softens it: it is not that handwriting practice becomes completely unnecessary. Wrong? Review lessons P-07 (4b) and P-13 (4c)." }
+        ]
+      },
+      {
+        "id": "h5",
+        "type": "mock-test",
+        "prompt": "Mock test · Part 5 · Translate into Japanese (3 items).",
+        "items": [
+          { "q": "Thanks to my teacher, I passed the exam.", "a": { "jp": "先生のおかげで、試験に合格できました。", "kana": "せんせいのおかげで、しけんにごうかくできました。", "romaji": "Sensei no okage de, shiken ni gōkaku dekimashita.", "en": "Thanks to my teacher, I passed the exam." }, "note": "A good result: N の おかげで. Wrong? Review lesson P-10 (4a)." },
+          { "q": "I make a point of reading one Japanese news article every day.", "a": { "jp": "毎日、日本語のニュースを一つ読むようにしています。", "kana": "まいにち、にほんごのニュースをひとつよむようにしています。", "romaji": "Mainichi, nihongo no nyūsu o hitotsu yomu yō ni shite imasu.", "en": "I make a point of reading one Japanese news article every day." }, "note": "An effort you keep up: 〜ようにしています. Wrong? Review lesson P-01 (4b)." },
+          { "q": "It's not that I can't eat natto, but I don't like it much.", "a": { "jp": "なっとうは食べられないことはないですが、あまり好きではありません。", "kana": "なっとうはたべられないことはないですが、あまりすきではありません。", "romaji": "Nattō wa taberarenai koto wa nai desu ga, amari suki de wa arimasen.", "en": "It's not that I can't eat natto, but I don't like it much." }, "note": "A weak yes: 〜ないことはない. Wrong? Review lesson P-19 (4c)." }
+        ]
+      },
+      {
+        "id": "h6",
+        "type": "produce",
+        "prompt": "A 10-sentence text in だ／である style: 私の日本語学習：これまでとこれから (my Japanese: so far and from here on). Rules: plain style only (だ／である, no です／ます); at least 3 written connectors (しかし, そのため, その結果, つまり, また, 一方…); at least 3 Bridge points (ようになる／ようにする, ために／ように, わけではない, さえ, 〜のである…); and a concrete plan for the next phase (what you will read, how you will mine and review, which textbook, the JLPT or not). Write it, count the sentences, check that no です／ます slipped in, then read it aloud and record it.",
+        "items": [
+          { "q": "Model (10 sentences; match its structure, not its words):", "a": { "jp": "私は、ひらがなさえ読めないところから日本語の勉強を始めた。最初は『げんき』の文法を一つずつ学び、毎日一時間から一時間半、勉強するようにした。しかし、文を作るとき、どの部分がどんなやくわりなのか、わからなくなることが多かった。そのため、文を最後から読む練習を続けた。その結果、長い文も少しずつ分けて読めるようになった。つまり、文法は覚えるだけのものではなく、使いながら身につけるものなのである。これからは、ポップアップ辞書を使いながら本物の日本語を読み、知らない単語をアプリで毎日復習するつもりだ。また、中級の教科書を一冊えらんで、一課ずつ進める予定である。日本語能力試験を受けるかどうかは、まだ決めていない。大切なのは、試験の点数ではなく、毎日少しでも日本語にふれ続けることである。", "kana": "わたしは、ひらがなさえよめないところからにほんごのべんきょうをはじめた。さいしょは『げんき』のぶんぽうをひとつずつまなび、まいにちいちじかんからいちじかんはん、べんきょうするようにした。しかし、ぶんをつくるとき、どのぶぶんがどんなやくわりなのか、わからなくなることがおおかった。そのため、ぶんをさいごからよむれんしゅうをつづけた。そのけっか、ながいぶんもすこしずつわけてよめるようになった。つまり、ぶんぽうはおぼえるだけのものではなく、つかいながらみにつけるものなのである。これからは、ポップアップじしょをつかいながらほんもののにほんごをよみ、しらないたんごをアプリでまいにちふくしゅうするつもりだ。また、ちゅうきゅうのきょうかしょをいっさつえらんで、いっかずつすすめるよていである。にほんごのうりょくしけんをうけるかどうかは、まだきめていない。たいせつなのは、しけんのてんすうではなく、まいにちすこしでもにほんごにふれつづけることである。", "romaji": "Watashi wa, hiragana sae yomenai tokoro kara nihongo no benkyō o hajimeta. Saisho wa \"Genki\" no bunpō o hitotsu zutsu manabi, mainichi ichijikan kara ichijikan han, benkyō suru yō ni shita. Shikashi, bun o tsukuru toki, dono bubun ga donna yakuwari na no ka, wakaranaku naru koto ga ōkatta. Sono tame, bun o saigo kara yomu renshū o tsuzuketa. Sono kekka, nagai bun mo sukoshi zutsu wakete yomeru yō ni natta. Tsumari, bunpō wa oboeru dake no mono de wa naku, tsukainagara mi ni tsukeru mono na no de aru. Korekara wa, poppuappu jisho o tsukainagara honmono no nihongo o yomi, shiranai tango o apuri de mainichi fukushū suru tsumori da. Mata, chūkyū no kyōkasho o issatsu erande, ikka zutsu susumeru yotei de aru. Nihongo nōryoku shiken o ukeru ka dō ka wa, mada kimete inai. Taisetsu na no wa, shiken no tensū de wa naku, mainichi sukoshi demo nihongo ni furetsuzukeru koto de aru.", "en": "I started studying Japanese from the point where I couldn't even read hiragana. At first I learned the grammar of Genki one point at a time, and I made a point of studying for one to one and a half hours every day. However, when I built sentences, I often lost track of which part had which job. For that reason, I kept practicing reading sentences from the end. As a result, I became able to read even long sentences by splitting them up little by little. In other words, grammar is not just something to memorize, but something you make your own by using it. From now on, I plan to read real Japanese with a pop-up dictionary and to review the words I don't know in an app every day. I also plan to choose one intermediate textbook and work through it one lesson at a time. I haven't decided yet whether I will take the JLPT. What matters is not a test score, but staying in touch with Japanese a little every day." }, "note": "Check: 10 sentences, all in だ／である (no です／ます); written connectors (しかし, そのため, その結果, つまり, また); the stem 学び used as a written \"and\"; Bridge points (さえ, ようにする, ようになる, 〜のである, かどうか); and a concrete plan. Your text can be about anything, but keep one style from start to finish." },
+          { "q": "The same first 3 sentences in です／ます, to feel the difference:", "a": { "jp": "私は、ひらがなさえ読めないところから日本語の勉強を始めました。最初は『げんき』の文法を一つずつ学んで、毎日一時間から一時間半、勉強するようにしました。しかし、文を作るとき、どの部分がどんなやくわりなのか、わからなくなることが多かったです。", "kana": "わたしは、ひらがなさえよめないところからにほんごのべんきょうをはじめました。さいしょは『げんき』のぶんぽうをひとつずつまなんで、まいにちいちじかんからいちじかんはん、べんきょうするようにしました。しかし、ぶんをつくるとき、どのぶぶんがどんなやくわりなのか、わからなくなることがおおかったです。", "romaji": "Watashi wa, hiragana sae yomenai tokoro kara nihongo no benkyō o hajimemashita. Saisho wa \"Genki\" no bunpō o hitotsu zutsu manande, mainichi ichijikan kara ichijikan han, benkyō suru yō ni shimashita. Shikashi, bun o tsukuru toki, dono bubun ga donna yakuwari na no ka, wakaranaku naru koto ga ōkatta desu.", "en": "I started studying Japanese from the point where I couldn't even read hiragana. At first I learned the grammar of Genki one point at a time, and I made a point of studying for one to one and a half hours every day. However, when I built sentences, I often lost track of which part had which job." }, "note": "In speech or a letter, the written stem 学び becomes 学んで, and しかし is often replaced by でも. The meaning is the same; only the register changes. Never mix the two styles in one text." }
+        ]
+      },
+      {
+        "id": "h7",
+        "type": "question",
+        "prompt": "N3 self-assessment (6 questions). Answer each one honestly with \"yes\" or \"not yet\" in your notebook; the answer key tells you what to do in each case. There is no score: the point is to know your weakest skill before the next phase.",
+        "items": [
+          { "q": "Reading: can you read an NHK NEWS WEB EASY article and say its main point in 2 or 3 Japanese sentences, looking up only a few words?", "a": { "en": "Yes → move up: regular NHK NEWS WEB, a graded reader at level 4 or 5, or an easy manga or novel you like, read for enjoyment. Not yet → keep one Easy article a day, and reread lesson P-18 (4d) on reading a sentence in layers." } },
+          { "q": "Listening: can you follow a learner podcast episode (for example Nihongo con Teppei, Resources tab) without a transcript, and retell it in a few sentences?", "a": { "en": "Yes → add native material you enjoy (a YouTube channel or a podcast for Japanese listeners). Not yet → shadow 1 minute a day with the steps of lesson P-22 (4c), and relisten to the same episode until it is clear." } },
+          { "q": "Speaking: can you talk for 3 minutes about a past experience and a plan, without long pauses?", "a": { "en": "Yes → find real conversation practice, for example a language exchange (EJLX in the Resources tab). Not yet → retell your Milestone 5 story from time to time without the script, and record it." } },
+          { "q": "Grammar: did you get at least 20 of the 25 mock-test items right without looking?", "a": { "en": "Yes → start one intermediate textbook (QUARTET I, or Tobira). Not yet → review the lessons named in your 💡 notes, redo those items, and take the mock test again before you start the textbook." } },
+          { "q": "Vocabulary and kanji: do you recognize most words of an NHK NEWS WEB EASY article, and can you read the kanji of Genki I and II?", "a": { "en": "Yes → your vocabulary now grows mainly from mining what you read (Yomitan → Mining ⛏). Not yet → a frequency deck (Core 2k/6k, Resources tab) with a few new cards a day; if kanji are slowing you down, reread lesson P-21 (4a) on radicals." } },
+          { "q": "Habit: do you do all your SRS reviews every day and read something in Japanese on most days?", "a": { "en": "Yes → you already have the habit that matters most; protect it. Not yet → lower your new cards instead of skipping reviews (reviews settle at roughly ten times your daily new cards), and tie your reading to a fixed moment of the day." } }
+        ]
+      }
+    ],
+    "workbook": []
+  },
+  "practice": [
+    { "tool": "Wagotabi", "what": "A session in the game's N3 area, hunting for the Bridge contrasts in the dialogues: ようになる／ようにする, ことになる／ことにする, ために／ように, そう／よう／みたい／らしい, うちに, わけ, はず, contractions and keigo. For each one you find, say aloud which member of its pair it is and why, starting from the predicate at the end. Log the session in Immersion → Games, paste the longest line into Anatomy, and save the 2 lines you like best in Mining (⛏).", "min": 15 },
+    { "tool": "NHK NEWS WEB EASY", "what": "Read one article twice: first straight through for the gist, then with Yomitan for the words that block the meaning. Save 2 sentences with Bridge grammar in Mining (⛏). Then write a 3-sentence summary in である style in your notebook, with one connector (しかし, そのため or つまり).", "min": 15 },
+    { "tool": "ヅオリンゴー · Journal", "what": "🌊 All first: do all of today's reviews. Then Journal: write 6 sentences of your own, one for each contrast point of block 4, and check them with \"Anatomy of what I wrote\". Finish with Drills → 🔬 Anatomy → 🧱 Build from the end, on 5 sentences from today's NHK article.", "min": 15 },
+    { "tool": "Shadowing and speaking", "what": "Read your 10-sentence text (task 6) aloud with the shadowing steps of lesson P-22: pauses only between blocks, clear sentence endings. Record it. Then listen to all your milestone recordings in order (lesson 01-1, Milestones 1 to 5, and today) and write down in your notebook how far you have come.", "min": 10 },
+    { "tool": "What next · the DJT method", "what": "Write your plan for the next phase in your notebook, step by step. (1) Reviews first: 🌊 All every day, before anything new. (2) Vocabulary: if you haven't done a frequency deck, pick one from the Resources tab (Core 2k/6k or Kaishi 1.5k, not both). Many learners stop Core at around 2,000 words, where the most common words end, and switch to mining. Keep new cards low: reviews settle at about ten times your daily new cards, and it is better to lower new cards than to skip reviews. (3) Mining: read on a computer with Yomitan and send the unknown words of real sentences into your SRS (in the app: Mining ⛏). (4) Native reading every day: easy manga with furigana, graded readers, NHK NEWS WEB EASY, then regular news; read for the story and look up only what blocks the meaning. It will feel slow at first, and only more reading makes it faster. (5) One intermediate textbook, for structure: QUARTET I and then QUARTET II (Japan Times, in the same style as Genki), or Tobira (Kurosio); choose one, not both. (6) The JLPT only if you want it: then add Sou Matome (a light first pass) and, after it, Shin Kanzen Master (demanding drills) for the level you choose, and check the official site (block 6). When a grammar point in your reading confuses you, look it up in a grammar reference instead of starting a new course.", "min": 15 }
+  ],
+  "culture": {
+    "title": "さどう — the tea ceremony",
+    "titleJp": "茶道",
+    "body": "**さどう** (茶道, also read ちゃどう) is the traditional way of preparing and serving powdered green tea, まっちゃ, to guests. The host prepares the tea with a fixed sequence of movements, and the guests follow their own set of manners: bowing, turning the bowl before drinking, and looking at the bowl with appreciation afterwards. A small traditional sweet (わがし) is usually eaten before the tea, which softens its bitterness. The phrase いちごいちえ (一期一会, \"one time, one meeting\") is often linked with the tea ceremony: each gathering happens only once, so it deserves your full attention. Today many people meet さどう through school clubs, classes or short sessions for visitors, and you don't need to know every rule to take part.",
+    "try": "Practice two phrases a guest uses, both humble keigo you know from lesson 20-1: to the next guest, before you take your sweet or tea, おさきにいただきます (\"excuse me for going first\"); to the host, before drinking, おてまえちょうだいいたします (\"I humbly receive your tea\"). Then write 3 sentences in である style about いちごいちえ and your study: each lesson, each conversation and each page you read happens only once."
+  },
+  "checklist": [
+    "I scored ≥ 80% without looking: at least 20 of the 25 mock-test items, with no book, notes or app.",
+    "I did the homework and checked it against the answer key, reviewed the lessons named in the 💡 notes and redid the items I got wrong, this time correctly.",
+    "I can explain each contrast pair of the Bridge (ようになる × ようにする, ために × ように, そうだ × ようだ × らしい, うちに × 間に, わけではない × わけがない…) with an example of my own, without looking.",
+    "I wrote my 10-sentence text in だ／である style without slipping into です／ます, read it aloud and recorded it.",
+    "I did the N3 self-assessment (task 7) honestly and wrote down my weakest skill and what I will do about it.",
+    "I have a written plan for the next phase: daily SRS reviews, a mining deck built with Yomitan from what I read, native reading every day, and one intermediate textbook (QUARTET I → II, or Tobira).",
+    "I decided whether I want to take the JLPT, and if I do, I checked the official information myself (jlpt.jp, or the Japan Foundation office for my country)."
+  ],
+  "credits": [
+    "Explanations adapted in part from Sakubi (public domain, CC0) — sakubi.neocities.org",
+    "Study method informed by the DJT Guide to Japanese — djtguide.neocities.org/guide"
+  ]
+}
