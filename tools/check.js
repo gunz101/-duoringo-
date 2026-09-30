@@ -161,7 +161,7 @@ function check(opts = {}) {
   // coverage
   if (only) return { errors, warnings, stats, missing: [], gcMiss: [] };
   const missing = mapIds.filter(x => !aulas[x]);
-  (opts.final ? err : warn)('curso', `${missing.length} aulas do mapa ainda sem arquivo${missing.length ? ': ' + missing.slice(0, 12).join(', ') + (missing.length > 12 ? '…' : '') : ''}`);
+  (opts.final && missing.length ? err : warn)('curso', `${missing.length} aulas do mapa ainda sem arquivo${missing.length ? ': ' + missing.slice(0, 12).join(', ') + (missing.length > 12 ? '…' : '') : ''}`);
   const GC = [3, 7, 8, 8, 7, 7, 6, 8, 6, 7, 4, 6];
   const gcAll = []; GC.forEach((n, i) => { for (let k = 1; k <= n; k++) gcAll.push(`${i + 1}-${k}`); });
   const gcMiss = gcAll.filter(g => !gcSeen[g]);
