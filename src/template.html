@@ -346,7 +346,7 @@
       var link = href ? '<a href="' + esc(href) + '" target="_blank" rel="noopener">' + esc(m.title) + '</a>' : esc(m.title);
       var sub = (m.links && m.links.length) ? '<div class="small" style="margin-top:4px;display:flex;flex-wrap:wrap;gap:4px 10px">' + m.links.map(function (l) { return '<a class="jp" href="' + esc(l.url) + '" target="_blank" rel="noopener">▶ ' + esc(l.t) + '</a>'; }).join('') + '</div>' : '';
       return '<div class="med"><div class="o">' + m.order + '</div><div><div class="k">' + esc(m.kind) + ' · ' + esc(m.where) + '</div><div>' + link + '</div>' + sub + (m.search && !m.url ?'<div class="small muted">Search for: <span class="jp">' + esc(m.search) + '</span></div>' : '') + (m.when ? '<div class="small muted">When: ' + esc(m.when) + '</div>' : '') + '</div></div>';
-    }).join('') + '</div>');
+    }).join('') + '</div>' + ((a.credits && a.credits.length) ? '<p class="small faint" style="margin-top:10px">Sources: ' + a.credits.map(esc).join(' · ') + '</p>' : ''));
     // 7
     var hw = a.homework, hwDone = !!(S.hw[id] && S.hw[id].done);
     h += blk(7, '<p class="small muted">' + esc(hw.intro || '') + '</p><div class="row" style="margin:8px 0"><button class="btn" data-revealall="1">Show the whole answer key</button><button class="btn' + (hwDone ? ' primary' : '') + '" data-hwdone="1">' + (hwDone ? '✓ Homework done' : 'Mark homework as done') + '</button></div>' +

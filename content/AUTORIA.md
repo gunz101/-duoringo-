@@ -9,8 +9,16 @@ Read all of this before writing. **The gold standard is `content/aulas/01-1.json
 - **No Portuguese anywhere.** The checker rejects any Portuguese. Translations go in the field `en`, never `pt`.
 - His biggest difficulty is **building sentences**: he gets lost among the parts and does not know which piece does what. So every explanation must make clear **which block of the sentence has which job** (topic, object, place, predicate…) and must drill **reading from the predicate at the end**.
 
+## Content sources — use all three
+Every lesson is built from three sources, not from Genki alone:
+1. **Genki (3rd ed.)** decides the order and the points of each lesson (cite by lesson and point name, never copy text).
+2. **Sakubi** (https://sakubi.neocities.org/) — a grammar guide whose text is **public domain / CC0**. Its sections are split into files in the session scratchpad (sakubi/<sectionId>.txt; index in sakubi/INDEX.tsv); the verified sections for each lesson are listed in content/readings.json. **Use its content**: its clearer framings (e.g. particles as case markers, "の means の", verbs as conjugation classes), rules and nuances Genki leaves out, and its warnings about common misunderstandings. You may adapt its explanations closely (rewrite them in the course voice, for our level). **Never copy Sakubi's example sentences that quote anime/manga/media** (the author uses them under fair use — they are not free); always write original examples.
+3. **DJT Guide to Japanese** (https://djtguide.neocities.org/guide, and its Resource Guide) — **no stated license: paraphrase, never copy its text**. Use its **method** in howToStudy and practice where it fits: one grammar guide read through, spaced repetition for vocabulary, kanji learned through vocabulary (or mnemonics/radicals if kanji are slow), sentence mining with a pop-up dictionary (Yomitan) into SRS, and reading real Japanese early (easy manga, graded readers). Never link its downloads of books.
+
+Every lesson ends with a **`credits`** array, e.g. `["Explanations adapted in part from Sakubi (public domain, CC0) — sakubi.neocities.org", "Study method informed by the DJT Guide to Japanese — djtguide.neocities.org/guide"]` (list only the sources you actually used).
+
 ## Non-negotiable rules
-1. **100% original content.**
+1. **Original content.** Genki and the DJT guide are never copied; Sakubi (CC0) may be adapted, but never its media quotations.
    - Do not transcribe dialogues, texts, examples or exercises from Genki or any other book or site. Write new sentences.
    - Do not copy the examples of genki-companion (`C:\Users\ramal\genki-companion\index.html`). Use it only to see **which points** to cover.
 2. **No textbook page numbers.** Cite Genki by lesson and grammar point name, using the `genki.points` field with the English names Genki uses.
