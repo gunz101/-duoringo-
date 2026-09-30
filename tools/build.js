@@ -86,7 +86,9 @@ async function anatomyEngine() {
   const json = JSON.stringify(data).replace(/<\/(script)/gi, '<\\/$1').replace(/\u2028/g, '\\u2028').replace(/\u2029/g, '\\u2029');
   const tpl = fs.readFileSync(path.join(ROOT, 'src', 'template.html'), 'utf8');
   if (!tpl.includes('/*__CURSO_DATA__*/null')) throw new Error('placeholder ausente no template');
-  const html = tpl.replace('/*__CURSO_DATA__*/null', () => json);
+  if (!tpl.includes('/*__STORE_JS__*/')) throw new Error('placeholder do store ausente no template');
+  const storeJs = fs.readFileSync(path.join(ROOT, 'src', 'store.js'), 'utf8').split('</' + 'script').join('<\\/' + 'script');
+  const html = tpl.replace('/*__STORE_JS__*/', () => storeJs).replace('/*__CURSO_DATA__*/null', () => json);
   fs.writeFileSync(path.join(ROOT, 'index.html'), html, 'utf8');
   const kb = Math.round(Buffer.byteLength(html) / 1024);
   console.log(`index.html gerado · ${Object.keys(ordered).length} aulas · ${nEx} exemplos (${nAnat} com anatomia) · ${kb} KB`);

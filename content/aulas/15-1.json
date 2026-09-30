@@ -1,0 +1,217 @@
+{
+  "id": "15-1",
+  "unit": "G2-L15",
+  "genki": { "book": "Genki II", "lesson": 15, "points": ["Volitional Form", "Volitional Form + と思っています"] },
+  "title": "Vamos! (casual) e planos",
+  "titleJp": "いっしょに行こう！",
+  "canDo": [
+    "Formar a volitiva de qualquer verbo: 見る → 見よう, 飲む → 飲もう, 帰る → 帰ろう, する → しよう, 来る → 来よう.",
+    "Convidar um amigo no casual (いっしょに行こう！, 行こうよ) e perguntar o que fazer juntos (何を食べようか。).",
+    "Me oferecer para ajudar no casual: 持とうか。, 手伝おうか。",
+    "Contar planos que venho pensando com 〜ようと思っています, os meus e os de outras pessoas.",
+    "Distinguir 行こうと思っています (plano), 行くと思います (opinião) e 行くつもりです (intenção mais firme)."
+  ],
+  "duration": {
+    "total": "60–75 min",
+    "blocks": [
+      { "t": "Aquecimento: diga em voz alta a forma de dicionário e a forma 〜ましょう de 8 verbos (Aulas 05-3 e 08-1), dizendo o tipo de cada um (る, う ou irregular)", "min": 5 },
+      { "t": "Vocabulário: ouvir 🔊 cada palavra e repetir 2 vezes", "min": 10 },
+      { "t": "Gramática: os 3 pontos, cada um com os exemplos lidos em voz alta e um 🔬", "min": 25 },
+      { "t": "Vídeo da Lição 15 (bloco 6), só a parte da forma volitiva", "min": 10 },
+      { "t": "Lição de casa no caderno + conferir no gabarito", "min": 15 },
+      { "t": "Checklist (bloco 10) + anotar dúvidas no caderno da aula", "min": 5 }
+    ]
+  },
+  "prereqs": {
+    "aulas": ["14-3"],
+    "skills": [
+      "Forma de dicionário de todos os verbos, sabendo se cada um é る, う ou irregular (Aulas 03-1 e 08-1). A volitiva sai direto dela.",
+      "〜ましょう e 〜ましょうか (Aulas 05-3 e 06-4): a volitiva é a versão casual dos dois.",
+      "Fala casual (Aula 08-1): com quem usar e com quem não usar.",
+      "〜と思います (Aula 08-2) e 〜つもりです (Aula 10-2), que voltam no ponto c.",
+      "〜そうです de aparência (Aula 13-2), que aparece num exemplo (重そう)."
+    ],
+    "vocab": [
+      { "jp": "旅行", "kana": "りょこう", "romaji": "ryokō", "pt": "viagem (旅行する = viajar)" },
+      { "jp": "計画", "kana": "けいかく", "romaji": "keikaku", "pt": "plano (o que se planeja fazer)" },
+      { "jp": "留学する", "kana": "りゅうがくする", "romaji": "ryūgaku suru", "pt": "estudar no exterior, fazer intercâmbio" },
+      { "jp": "働く", "kana": "はたらく", "romaji": "hataraku", "pt": "trabalhar (volitiva: 働こう)" },
+      { "jp": "ひっこす", "kana": "ひっこす", "romaji": "hikkosu", "pt": "mudar-se (de casa) (volitiva: ひっこそう)" },
+      { "jp": "やめる", "kana": "やめる", "romaji": "yameru", "pt": "parar, largar (タバコをやめる) (volitiva: やめよう)" },
+      { "jp": "帰る", "kana": "かえる", "romaji": "kaeru", "pt": "voltar (para casa). É verbo う: 帰ろう" },
+      { "jp": "入る", "kana": "はいる", "romaji": "hairu", "pt": "entrar (おんせんに入る). É verbo う: 入ろう" },
+      { "jp": "待つ", "kana": "まつ", "romaji": "matsu", "pt": "esperar (volitiva: 待とう)" },
+      { "jp": "手伝う", "kana": "てつだう", "romaji": "tetsudau", "pt": "ajudar (volitiva: 手伝おう)" },
+      { "jp": "持つ", "kana": "もつ", "romaji": "motsu", "pt": "segurar, carregar (volitiva: 持とう)" },
+      { "jp": "休む", "kana": "やすむ", "romaji": "yasumu", "pt": "descansar (volitiva: 休もう)" },
+      { "jp": "しらべる", "kana": "しらべる", "romaji": "shiraberu", "pt": "pesquisar, verificar" },
+      { "jp": "きめる", "kana": "きめる", "romaji": "kimeru", "pt": "decidir" },
+      { "jp": "北海道", "kana": "ほっかいどう", "romaji": "Hokkaidō", "pt": "Hokkaido (a grande ilha do norte do Japão)" },
+      { "jp": "おんせん", "kana": "おんせん", "romaji": "onsen", "pt": "fonte termal, banho termal" },
+      { "jp": "にもつ", "kana": "にもつ", "romaji": "nimotsu", "pt": "bagagem, volume, sacola" },
+      { "jp": "重い", "kana": "おもい", "romaji": "omoi", "pt": "pesado (重そう = parece pesado)" },
+      { "jp": "そろそろ", "kana": "そろそろ", "romaji": "sorosoro", "pt": "já está na hora de…, daqui a pouco" },
+      { "jp": "たすかる", "kana": "たすかる", "romaji": "tasukaru", "pt": "ser uma ajuda (たすかる！ = \"ajuda muito!\")" },
+      { "jp": "タクシー", "kana": "タクシー", "romaji": "takushī", "pt": "táxi" },
+      { "jp": "〜よう／〜おう", "kana": "〜よう／〜おう", "romaji": "-yō / -ō", "pt": "forma volitiva: \"vamos…\" (casual); \"vou…\"" },
+      { "jp": "〜と思っています", "kana": "〜とおもっています", "romaji": "-to omotte imasu", "pt": "estou pensando em…, pretendo… (com a volitiva)" }
+    ]
+  },
+  "grammar": [
+    {
+      "id": "15-1-a",
+      "gc": null,
+      "title": "Formação: 見よう, 飲もう, しよう, 来よう",
+      "gloss": "a forma volitiva: \"vamos…!\" no casual",
+      "explanation": "A **forma volitiva** é a versão casual de 〜ましょう (Aula 05-3): é o \"vamos…!\" que você diz para amigos e família. O nome vem de \"volição\", vontade: ela também expressa a **vontade de fazer**, e por isso vai servir para contar planos no ponto c. Como quase toda forma nova, ela sai da **forma de dicionário** (Aula 08-1), e o tipo do verbo decide o caminho.\n• **Verbos る**: tire o る e ponha **よう**. 食べ|る → 食べ|よう; 見る → 見よう; 起きる → 起きよう.\n• **Verbos う**: troque o **u** final pelo **o** da mesma fileira e ponha **う**. 行く (ik**u**) → 行こう (ik**ō**); 飲む → 飲もう; 話す → 話そう; 待つ → 待とう; 帰る → 帰ろう; およぐ → およごう; あそぶ → あそぼう. Os terminados em う vão para お: 買う → 買おう; 手伝う → 手伝おう.\n• **Irregulares**: **する → しよう** (勉強する → 勉強しよう) e **来る → 来よう**, lido こよう, com こ.\n• **O う final é som longo.** 行こう se lê i-ko-o, com três batidas iguais, e o romaji marca isso com o macron: ikō. É a mesma vogal longa de ありがとう.\n• Pista rápida: a volitiva de verbo う sempre termina em **-ō** (-kō, -mō, -rō…); a de verbo る, sempre em **-yō**.\n• Na frase, a volitiva é o **PREDICADO**, no fim, no mesmo lugar do ましょう. O resto não muda: [quando] [com quem] [onde] [o quê] + volitiva.",
+      "structure": "る: [radical] + よう · う: u → o + う · する → しよう · 来る → 来よう (こよう)",
+      "examples": [
+        { "jp": "週末、いっしょに映画を見よう。", "kana": "しゅうまつ、いっしょにえいがをみよう。", "romaji": "Shūmatsu, issho ni eiga o miyō.", "pt": "Vamos ver um filme juntos no fim de semana." },
+        { "jp": "もう九時だ。そろそろ帰ろう。", "kana": "もうくじだ。そろそろかえろう。", "romaji": "Mō kuji da. Sorosoro kaerō.", "pt": "Já são nove horas. Vamos indo embora." },
+        { "jp": "この店、おいしかったね。また来ようね。", "kana": "このみせ、おいしかったね。またこようね。", "romaji": "Kono mise, oishikatta ne. Mata koyō ne.", "pt": "Este restaurante estava gostoso, né? Vamos voltar aqui, tá?" }
+      ],
+      "pitfalls": [
+        "Não ponha よう depois do verbo う inteiro: 飲むよう ✗ → 飲もう ✓. O よう é só dos verbos る; nos verbos う, quem muda é a última sílaba.",
+        "帰る e 入る terminam em る, mas são verbos う: 帰よう ✗ → 帰ろう ✓ (かえ|る → かえ|ろう); 入よう ✗ → 入ろう ✓.",
+        "来る vira こよう, com こ: きよう ✗, くよう ✗ → 来よう (こよう) ✓. E する vira しよう: するよう ✗ → しよう ✓.",
+        "Na escrita, mantenha o う longo: 行こ ✗ na lição de casa → 行こう ✓. Em mensagens entre amigos você vai ver 行こ！ ou 帰ろ！, sem o う. É fala bem informal: reconheça, mas não copie."
+      ],
+      "howToStudy": [
+        "Faça uma tabela no caderno com 12 verbos (4 る, 6 う, する e 来る) em três colunas: dicionário → 〜ましょう → volitiva. Leia em voz alta, linha por linha: 飲む → 飲みましょう → 飲もう. Marque 帰る e 入る com cor.",
+        "Aperte 🔬 no exemplo 2. A primeira frase tem o seu ★ PREDICADO (九時だ); na segunda, そろそろ aparece como COMO e 帰ろう como ★ PREDICADO, do tipo convite / sugestão, o mesmo tipo do 〜ましょう. A volitiva só tomou o lugar do ましょう.",
+        "Diga em voz alta 6 convites para um amigo, cada um com um verbo de tipo diferente: 映画を見よう、コーヒーを飲もう、ゲームをしよう、公園であそぼう…"
+      ],
+      "flag": "Confira no seu Genki II se a lição traz estes pontos nesta ordem."
+    },
+    {
+      "id": "15-1-b",
+      "gc": null,
+      "title": "Usos: convidar, perguntar e se oferecer (〜よう / 〜ようか)",
+      "gloss": "o 〜ましょう / 〜ましょうか do dia a dia",
+      "explanation": "No casual, a volitiva faz tudo o que 〜ましょう e 〜ましょうか fazem no educado. Compare sempre com a forma educada que você já conhece:\n• **Convidar, já esperando o \"sim\"**: 行きましょう → **行こう！** (\"vamos!\"). Com **よ** no fim, o convite ganha um empurrãozinho: 行こうよ (\"vamos, vai!\").\n• **Perguntar o que fazer juntos**: 何を食べましょうか → **何を食べようか**. Sem palavra interrogativa, é \"vamos…?\": ちょっと休もうか (\"vamos descansar um pouco?\"). Na fala, você também vai ouvir 食べよっか.\n• **Se oferecer para ajudar** (Aula 06-4): 持ちましょうか → **持とうか** (\"quer que eu carregue?\"). O contexto mostra quem vai fazer: aqui, só você.\n• **Falar consigo mesmo**: sozinha, a volitiva é uma decisão em voz alta. よし、がんばろう！ (\"bom, vou me esforçar!\"); どうしよう！ (\"e agora, o que eu faço?\").\n• **Com quem usar**: amigos, família e colegas próximos, como toda forma curta (Aula 08-1). Com professor, chefe ou alguém que você acabou de conhecer, fique com 〜ましょう / 〜ましょうか, ou convide com 〜ませんか (Aula 03-3).\n• Na frase, a volitiva é o ★ PREDICADO. Nas perguntas com volitiva, o か fica (食べようか). É o mesmo か de 〜ましょうか, e aqui ele não soa brusco.",
+      "structure": "[…] volitiva！ (vamos) · volitiva + よ (vamos, vai!) · [palavra interrogativa] … volitiva + か · volitiva + か (quer que eu…?)",
+      "examples": [
+        { "jp": "ばんごはん、何を食べようか。— ラーメンを食べに行こう。", "kana": "ばんごはん、なにをたべようか。— ラーメンをたべにいこう。", "romaji": "Bangohan, nani o tabeyō ka. — Rāmen o tabe ni ikō.", "pt": "O que vamos comer no jantar? — Vamos comer lámen." },
+        { "jp": "にもつ、重そうだね。持とうか。— ありがとう、たすかる。", "kana": "にもつ、おもそうだね。もとうか。— ありがとう、たすかる。", "romaji": "Nimotsu, omosō da ne. Motō ka. — Arigatō, tasukaru.", "pt": "Essa bagagem parece pesada. Quer que eu carregue? — Obrigado, ajuda muito." },
+        { "jp": "ねえ、カラオケに行こうよ。— ごめん、今日はちょっと…。", "kana": "ねえ、カラオケにいこうよ。— ごめん、きょうはちょっと…。", "romaji": "Nē, karaoke ni ikō yo. — Gomen, kyō wa chotto….", "pt": "Ei, vamos ao karaokê, vai! — Desculpa, hoje não dá…" }
+      ],
+      "pitfalls": [
+        "A volitiva é casual. Com o professor: 先生、いっしょに写真をとろう ✗ → 先生、いっしょに写真をとりましょう ✓ (ou とりませんか).",
+        "A volitiva inclui você: é \"vamos\" ou \"vou\", nunca uma ordem. 早くねよう = \"vamos dormir cedo\" (ou \"vou dormir cedo\"). Para pedir a um amigo que ele faça algo, use a forma て, a versão casual de 〜てください: 早くねて ✓.",
+        "〜ようよ pressiona um pouco. Com quem talvez não possa, pergunte antes: カラオケ、行かない？ (a versão casual de 〜ませんか) e guarde o 行こう para depois do sim.",
+        "何を食べようか pergunta o que vamos fazer juntos, não o que o outro quer. Para perguntar o desejo dele, use 〜たい (Aula 11-1): 何が食べたい？ ✓."
+      ],
+      "howToStudy": [
+        "Diga cada exemplo em voz alta no educado: 何を食べましょうか → ラーメンを食べに行きましょう; 持ちましょうか; カラオケに行きましょう. Depois volte para o casual e perceba que só o fim muda.",
+        "Aperte 🔬 no exemplo 1. ばんごはん aparece como TEMPO (\"no jantar\"), 何を como OBJETO e 食べようか como ★ PREDICADO, do tipo convite / sugestão. Na resposta, 食べに aparece como FINALIDADE e 行こう é o PREDICADO: vamos → para quê? → comer lámen.",
+        "Imagine um sábado com um amigo e escreva no caderno 4 falas: 1 convite (〜よう！), 1 com よ, 1 pergunta com 何を ou どこに + 〜ようか e 1 oferta de ajuda (〜ようか)."
+      ],
+      "flag": null
+    },
+    {
+      "id": "15-1-c",
+      "gc": null,
+      "title": "Planos: 〜ようと思っています (× つもり)",
+      "gloss": "estou pensando em…, pretendo…",
+      "explanation": "Para contar um plano, junte a volitiva a **と思っています**: 行こう + と思っています = \"estou pensando em ir\", \"pretendo ir\". A lógica é a da Aula 08-2: と marca **o que se pensa**, e aqui o pensamento é \"vou fazer X\".\n• **〜ようと思っています**: um plano que você **vem pensando** há algum tempo. O ている mostra que a ideia continua na sua cabeça. É o jeito mais comum de contar planos: 来年、日本で働こうと思っています。\n• **〜ようと思います**, sem ている: soa como uma decisão tomada **agora**, na hora de falar, como \"acho que vou…\": じゃあ、今日は早くねようと思います。\n• **Plano de outra pessoa**: use sempre **〜ようと思っています**: マリアさんは、来月ひっこそうと思っています。 Com 思います, a frase só pode falar do que você mesmo pensa.\n• **A frase continua educada.** A volitiva fica dentro da citação, e quem decide o registro é o fim: 思っています é educado; 思ってる é casual (ている → てる).\n\n**Três frases que parecem iguais:**\n• 行こうと思っています = \"estou pensando em ir\" (**plano meu**).\n• 行くと思います = \"acho que [ele] vai\" (**opinião**, Aula 08-2). A diferença está só na forma do verbo: volitiva × dicionário.\n• 行くつもりです = \"pretendo ir\" (**intenção**, Aula 10-2). つもり vem depois da forma de dicionário e, em geral, soa mais firme, como uma decisão já tomada. 〜ようと思っています soa mais como \"estou pensando em\", um plano que ainda pode mudar. Na prática, as duas servem para contar planos.\n• Para planos **negativos** (\"pretendo não…\"), use 〜ないつもりです: 今日は飲まないつもりです. A volitiva quase não tem negativa no dia a dia.\n• Na frase, 思っています é o ★ PREDICADO, e o bloco volitiva + と é a **CITAÇÃO**, o conteúdo do plano. O que vem antes dele (quando, onde, com quem) faz parte do plano.",
+      "structure": "[volitiva] と思っています (plano que venho pensando) · [volitiva] と思います (decisão de agora) · × [dicionário] つもりです",
+      "examples": [
+        { "jp": "来年、日本で働こうと思っています。", "kana": "らいねん、にほんではたらこうとおもっています。", "romaji": "Rainen, Nihon de hatarakō to omotte imasu.", "pt": "Estou pensando em trabalhar no Japão no ano que vem." },
+        { "jp": "マリアさんは、来月ひっこそうと思っています。", "kana": "マリアさんは、らいげつひっこそうとおもっています。", "romaji": "Maria-san wa, raigetsu hikkosō to omotte imasu.", "pt": "A Maria está pensando em se mudar no mês que vem." },
+        { "jp": "夏休みはどうするの？— まだきめていないけど、北海道に行こうと思ってる。", "kana": "なつやすみはどうするの？— まだきめていないけど、ほっかいどうにいこうとおもってる。", "romaji": "Natsuyasumi wa dō suru no? — Mada kimete inai kedo, Hokkaidō ni ikō to omotteru.", "pt": "O que você vai fazer nas férias de verão? — Ainda não decidi, mas estou pensando em ir a Hokkaido." }
+      ],
+      "pitfalls": [
+        "Para o seu plano, use a volitiva: 行くと思っています soa como \"acho que (alguém) vai\" ✗ → 行こうと思っています ✓.",
+        "Nada de ましょう dentro da citação: 行きましょうと思っています ✗ → 行こうと思っています ✓. O educado vai só no fim (思っています).",
+        "Plano de outra pessoa pede ている: マリアさんはひっこそうと思います ✗ → マリアさんはひっこそうと思っています ✓.",
+        "Não misture as duas construções: 行こうつもりです ✗. Use 行くつもりです ✓ ou 行こうと思っています ✓."
+      ],
+      "howToStudy": [
+        "Aperte 🔬 no exemplo 1. 来年 aparece como TEMPO, 日本で como LUGAR DA AÇÃO, 働こうと como CITAÇÃO e 思っています como ★ PREDICADO (em andamento / estado). Leia de trás pra frente: estou pensando → em quê? trabalhar → onde? no Japão → quando? no ano que vem.",
+        "Fale em voz alta 3 pares e diga em português o que cada frase quer dizer: 行こうと思っています × 行くと思います; 買おうと思っています × 買うと思います; 来ようと思っています × 来ると思います.",
+        "Escreva no caderno 3 planos verdadeiros seus com 〜ようと思っています e reescreva um deles com 〜つもりです. Leia os dois em voz alta: qual soa mais decidido?"
+      ],
+      "flag": null
+    }
+  ],
+  "media": [
+    { "order": 1, "kind": "leitura", "title": "Genki II · Lição 15: diálogo, vocabulário e as explicações de gramática Volitional Form e Volitional Form + と思っています", "where": "Seu livro Genki II", "url": "", "when": "Antes desta aula ou logo depois do bloco de gramática. 〜ておく e as orações que qualificam substantivos ficam para a Aula 15-2." },
+    { "order": 2, "kind": "video", "title": "Game Gengo: a forma volitiva (〜よう / 〜おう), em inglês", "where": "YouTube · canal Game Gengo", "url": "", "search": "Game Gengo volitional form", "when": "Depois dos pontos a e b, para ver a formação explicada de outro jeito e com mais exemplos" }
+  ],
+  "homework": {
+    "intro": "Faça no caderno, à mão. Escreva com os kanji que você já conhece e em kana o resto. Só depois abra o gabarito, item por item. Circule o que errou e refaça no dia seguinte. Se você tiver o Genki II Workbook, faça também os exercícios desta lição. Nesta aula, os da forma volitiva e de 〜ようと思っています.",
+    "tasks": [
+      {
+        "id": "h1",
+        "type": "transformar",
+        "prompt": "Passe para a forma volitiva. Antes de escrever, decida o tipo do verbo: る, う ou irregular.",
+        "items": [
+          { "q": "起きる", "a": { "jp": "起きよう", "kana": "おきよう", "romaji": "okiyō" }, "note": "Verbo る: tira o る e põe よう." },
+          { "q": "飲む", "a": { "jp": "飲もう", "kana": "のもう", "romaji": "nomō" }, "note": "Verbo う: む (mu) → も (mo) + う." },
+          { "q": "帰る", "a": { "jp": "帰ろう", "kana": "かえろう", "romaji": "kaerō" }, "note": "帰る parece verbo る, mas é う: かえ|る → かえ|ろう." },
+          { "q": "買う", "a": { "jp": "買おう", "kana": "かおう", "romaji": "kaō" }, "note": "う (u) → お (o) + う." },
+          { "q": "する", "a": { "jp": "しよう", "romaji": "shiyō" }, "note": "Irregular: する → しよう." },
+          { "q": "来る", "a": { "jp": "来よう", "kana": "こよう", "romaji": "koyō" }, "note": "Irregular, com こ: こよう." }
+        ]
+      },
+      {
+        "id": "h2",
+        "type": "transformar",
+        "prompt": "Passe do educado para o casual, trocando 〜ましょう(か) pela volitiva.",
+        "items": [
+          { "q": "いっしょに帰りましょう。", "a": { "jp": "いっしょに帰ろう。", "kana": "いっしょにかえろう。", "romaji": "Issho ni kaerō." } },
+          { "q": "何を買いましょうか。", "a": { "jp": "何を買おうか。", "kana": "なにをかおうか。", "romaji": "Nani o kaō ka." }, "note": "Com volitiva, o か da pergunta fica." },
+          { "q": "ここで写真をとりましょう。", "a": { "jp": "ここで写真をとろう。", "kana": "ここでしゃしんをとろう。", "romaji": "Koko de shashin o torō." } },
+          { "q": "手伝いましょうか。", "a": { "jp": "手伝おうか。", "kana": "てつだおうか。", "romaji": "Tetsudaō ka." }, "note": "Aqui é oferta: \"quer que eu ajude?\"." },
+          { "q": "ちょっと休みましょう。", "a": { "jp": "ちょっと休もう。", "kana": "ちょっとやすもう。", "romaji": "Chotto yasumō." } },
+          { "q": "あしたは早く来ましょう。", "a": { "jp": "あしたは早く来よう。", "kana": "あしたははやくこよう。", "romaji": "Ashita wa hayaku koyō." }, "note": "来る → こよう." }
+        ]
+      },
+      {
+        "id": "h3",
+        "type": "traduzir",
+        "prompt": "Traduza para o japonês. Atenção: nem todo \"acho que\" ou \"penso em\" vira volitiva.",
+        "items": [
+          { "q": "Estou pensando em fazer intercâmbio no Japão no ano que vem.", "a": { "jp": "来年、日本に留学しようと思っています。", "kana": "らいねん、にほんにりゅうがくしようとおもっています。", "romaji": "Rainen, Nihon ni ryūgaku shiyō to omotte imasu." }, "note": "留学する → 留学しよう. Plano que você vem pensando: と思っています." },
+          { "q": "Acho que a Maria vem amanhã.", "a": { "jp": "マリアさんはあした来ると思います。", "kana": "マリアさんはあしたくるとおもいます。", "romaji": "Maria-san wa ashita kuru to omoimasu." }, "note": "É opinião sobre outra pessoa, não plano: forma de dicionário (来る)." },
+          { "q": "O Lucas está pensando em comprar um carro novo.", "a": { "jp": "ルーカスさんは新しい車を買おうと思っています。", "kana": "ルーカスさんはあたらしいくるまをかおうとおもっています。", "romaji": "Rūkasu-san wa atarashii kuruma o kaō to omotte imasu." }, "note": "Plano de outra pessoa: sempre 〜と思っています." },
+          { "q": "(decidindo agora) Então, hoje acho que vou dormir cedo.", "a": { "jp": "じゃあ、今日は早くねようと思います。", "kana": "じゃあ、きょうははやくねようとおもいます。", "romaji": "Jā, kyō wa hayaku neyō to omoimasu." }, "note": "Decisão do momento: 〜ようと思います, sem ている." },
+          { "q": "Hoje eu pretendo não beber. (use つもり)", "a": { "jp": "今日はおさけを飲まないつもりです。", "kana": "きょうはおさけをのまないつもりです。", "romaji": "Kyō wa osake o nomanai tsumori desu." }, "note": "Plano negativo: 〜ないつもりです. A volitiva quase não tem negativa no dia a dia." },
+          { "q": "(casual, para um amigo) Está chovendo, né. Vamos pegar um táxi?", "a": { "jp": "雨がふっているね。タクシーに乗ろうか。", "kana": "あめがふっているね。タクシーにのろうか。", "romaji": "Ame ga futte iru ne. Takushī ni norō ka." }, "note": "乗る é verbo う: 乗ろう. タクシーに: に de \"entrar em\" um veículo." }
+        ]
+      },
+      {
+        "id": "h4",
+        "type": "produzir",
+        "prompt": "Um amigo japonês perguntou: 今度の休みは何をするの？ Responda no casual, em 5 frases: 2 planos com 〜ようと思ってる, 1 plano negativo com 〜ないつもり, 1 convite para ele ir junto (〜ようよ) e 1 oferta (〜ようか). Depois leia em voz alta e grave no celular.",
+        "items": [
+          { "q": "Modelo, que o seu texto deve seguir na estrutura e não nas palavras:", "a": { "jp": "北海道に行こうと思ってる。おんせんにも入ろうと思ってる。でも、スキーはしないつもり。いっしょに行こうよ！ホテル、しらべようか。", "kana": "ほっかいどうにいこうとおもってる。おんせんにもはいろうとおもってる。でも、スキーはしないつもり。いっしょにいこうよ！ホテル、しらべようか。", "romaji": "Hokkaidō ni ikō to omotteru. Onsen ni mo hairō to omotteru. Demo, sukī wa shinai tsumori. Issho ni ikō yo! Hoteru, shirabeyō ka.", "pt": "Estou pensando em ir a Hokkaido. Penso em ir a um onsen também. Mas esquiar eu não pretendo. Vamos juntos! Quer que eu pesquise o hotel?" }, "note": "Confira: volitiva + と思ってる nos planos (e não a forma de dicionário), 〜ないつもり no negativo, よ no convite e か na oferta. Como é para um amigo, nada de です／ます." }
+        ]
+      }
+    ],
+    "workbook": []
+  },
+  "practice": [
+    { "tool": "Wagotabi", "what": "Jogue normalmente, de preferência numa área de nível N4 se você já tiver chegado lá. Cace volitivas nos diálogos: fins em 〜おう / 〜よう (行こう, 見よう, しよう) e planos com 〜ようと思って. Quando achar uma, diga em voz alta a forma educada equivalente (行きましょう) ou, se for um plano, o que a personagem pretende fazer. Registre a sessão em Imersão → Jogos e cole uma dessas frases na 🔬 Anatomia.", "min": 15 },
+    { "tool": "ヅオリンゴー", "what": "Treinos → Conjugação: aqueça com a forma de dicionário, que é a base da volitiva. Depois, Treinos → 🔬 Anatomia → 🧱 Montar de trás pra frente com o exemplo 1 do ponto c, começando por 思っています.", "min": 10 },
+    { "tool": "ヅオリンゴー · Diário", "what": "Escreva no Diário 3 planos verdadeiros com 〜ようと思っています e 1 com 〜つもりです. Abra \"Anatomia do que escrevi\" e confira se o bloco volitiva + と aparece como CITAÇÃO.", "min": 10 },
+    { "tool": "Shadowing", "what": "Toque 🔊 em cada exemplo desta aula e repita junto 3 vezes. Segure o som longo do fim: か・え・ろ・う são 4 batidas, e o ろう não pode encolher para ろ.", "min": 5 },
+    { "tool": "Fala", "what": "Grave a resposta da lição de casa h4 em até 30 s, como se fosse um áudio para o amigo. Ouça e confira se os planos saíram com a volitiva (〜おう / 〜よう) e não com a forma de dicionário.", "min": 5 }
+  ],
+  "culture": {
+    "title": "しゅうがくりょこう: viagens escolares",
+    "titleJp": "修学旅行",
+    "body": "No Japão, a turma inteira costuma fazer uma **しゅうがくりょこう** (修学旅行): uma viagem de estudos de alguns dias, em geral no último ou no penúltimo ano de cada etapa escolar. Os destinos clássicos costumam ser cidades históricas como Kyoto e Nara, e também Hiroshima e Okinawa, onde os alunos estudam a história da guerra e da paz; algumas escolas de ensino médio chegam a ir para o exterior. O roteiro é planejado com muita antecedência, e em muitas escolas os alunos se dividem em grupos pequenos, os **はん**, que montam o próprio plano para o tempo livre. À noite, o grupo costuma dormir em ryokans, vários alunos por quarto, em futons estendidos no chão. Para muitos japoneses, essa viagem é uma das lembranças mais marcantes da vida escolar.",
+    "try": "Imagine que você é de um はん em Kyoto, planejando a tarde livre. Escreva 3 falas casuais com a volitiva (おてらに行こう！, お昼は何を食べようか。…) e 1 frase educada contando ao professor o que o grupo pretende fazer, com 〜ようと思っています."
+  },
+  "checklist": [
+    "Faço a volitiva de qualquer verbo, sem olhar: る → よう, う → o + う, する → しよう, 来る → 来よう.",
+    "Lembro que 帰る e 入る são verbos う: 帰ろう, 入ろう.",
+    "Convido um amigo com 〜よう(よ), pergunto com 〜ようか e me ofereço para ajudar (持とうか).",
+    "Sei que a volitiva é casual e troco por 〜ましょう com professor ou chefe.",
+    "Conto planos com 〜ようと思っています, os meus e os dos outros.",
+    "Distingo 行こうと思っています (plano), 行くと思います (opinião) e 行くつもりです (intenção).",
+    "Fiz a lição de casa e conferi o gabarito, e refiz o que errei.",
+    "Se tenho o Genki II Workbook: fiz os exercícios da forma volitiva e de 〜ようと思っています."
+  ]
+}

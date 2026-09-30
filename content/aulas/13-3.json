@@ -1,0 +1,214 @@
+{
+  "id": "13-3",
+  "unit": "G2-L13",
+  "genki": { "book": "Genki II", "lesson": 13, "points": ["〜てみる", "なら", "一週間に三回 (Frequency)"] },
+  "title": "Experimentar · se for · frequência",
+  "titleJp": "たこやきなら、食べてみたい！",
+  "canDo": [
+    "Dizer que vou experimentar fazer algo e convidar alguém a experimentar, com 〜てみる: 食べてみてください, 着てみてもいいですか.",
+    "Dizer o que eu gostaria de experimentar (〜てみたい) e contar o que experimentei (〜てみました), sem confundir com 〜たことがある.",
+    "Responder a um assunto que o outro trouxe com substantivo + なら (\"se for X…\"), para recomendar algo ou fazer um contraste: 日曜日ならひまです.",
+    "Dizer e perguntar com que frequência faço algo: 一週間に三回, 一日に一時間, 一か月に何回…？"
+  ],
+  "duration": {
+    "total": "60–75 min",
+    "blocks": [
+      { "t": "Aquecimento: diga em voz alta a forma て de 10 verbos (Aula 06-1), incluindo する, 来る e 行く", "min": 5 },
+      { "t": "Vocabulário: ouvir 🔊 cada palavra e repetir 2 vezes; ler em voz alta a contagem de 一回 a 十回", "min": 10 },
+      { "t": "Gramática: os 3 pontos, cada um com os exemplos lidos em voz alta e um 🔬", "min": 25 },
+      { "t": "Vídeo (bloco 6), só a parte de なら", "min": 10 },
+      { "t": "Lição de casa no caderno + conferir no gabarito", "min": 15 },
+      { "t": "Checklist (bloco 10) + anotar dúvidas no caderno da aula", "min": 5 }
+    ]
+  },
+  "prereqs": {
+    "aulas": ["13-2"],
+    "skills": [
+      "Forma て de todos os verbos (Aula 06-1). O 〜てみる sai direto dela.",
+      "〜てください (Aula 06-2), 〜てもいいですか (Aula 06-3) e 〜たい (Aula 11-1): o 〜てみる combina com os três.",
+      "〜たことがある (Aula 11-2), para não confundir \"já fiz alguma vez\" com \"experimentei\".",
+      "は de contraste (Aula 03-2), palavras de frequência como よく e ときどき (Aula 03-3) e 〜時間 (Aula 04-3).",
+      "O potencial da Aula 13-1 (会える, 行ける, ひける), que aparece nas respostas com なら."
+    ],
+    "vocab": [
+      { "jp": "〜てみる", "kana": "〜てみる", "romaji": "-te miru", "pt": "fazer para ver como é; experimentar" },
+      { "jp": "はじめて", "kana": "はじめて", "romaji": "hajimete", "pt": "pela primeira vez" },
+      { "jp": "いつか", "kana": "いつか", "romaji": "itsuka", "pt": "algum dia" },
+      { "jp": "思ったより", "kana": "おもったより", "romaji": "omotta yori", "pt": "mais do que eu pensava, do que eu imaginava" },
+      { "jp": "かんたん（な）", "kana": "かんたん（な）", "romaji": "kantan (na)", "pt": "fácil, simples" },
+      { "jp": "シャツ", "kana": "シャツ", "romaji": "shatsu", "pt": "camisa" },
+      { "jp": "カレー", "kana": "カレー", "romaji": "karē", "pt": "curry (o japonês é um ensopado grosso, com arroz)" },
+      { "jp": "しゅうまつ", "kana": "しゅうまつ", "romaji": "shūmatsu", "pt": "fim de semana" },
+      { "jp": "スポーツ", "kana": "スポーツ", "romaji": "supōtsu", "pt": "esporte" },
+      { "jp": "サッカー", "kana": "サッカー", "romaji": "sakkā", "pt": "futebol" },
+      { "jp": "大好き（な）", "kana": "だいすき（な）", "romaji": "daisuki (na)", "pt": "que a gente adora (〜が大好きです = adoro…)" },
+      { "jp": "ジム", "kana": "ジム", "romaji": "jimu", "pt": "academia (de ginástica)" },
+      { "jp": "〜回", "kana": "〜かい", "romaji": "-kai", "pt": "… vez(es) (一回 = いっかい, uma vez)" },
+      { "jp": "何回", "kana": "なんかい", "romaji": "nankai", "pt": "quantas vezes" },
+      { "jp": "一週間", "kana": "いっしゅうかん", "romaji": "isshūkan", "pt": "uma semana" },
+      { "jp": "一か月", "kana": "いっかげつ", "romaji": "ikkagetsu", "pt": "um mês" },
+      { "jp": "一日", "kana": "いちにち", "romaji": "ichinichi", "pt": "um dia (duração; ついたち é \"dia primeiro\" do mês)" },
+      { "jp": "一年", "kana": "いちねん", "romaji": "ichinen", "pt": "um ano" },
+      { "jp": "家族", "kana": "かぞく", "romaji": "kazoku", "pt": "família" },
+      { "jp": "くすり", "kana": "くすり", "romaji": "kusuri", "pt": "remédio (くすりを飲む = tomar remédio)" },
+      { "jp": "やたい", "kana": "やたい", "romaji": "yatai", "pt": "barraca de comida (de festival ou de rua)" },
+      { "jp": "おまつり", "kana": "おまつり", "romaji": "omatsuri", "pt": "festival (まつり)" },
+      { "jp": "たこやき", "kana": "たこやき", "romaji": "takoyaki", "pt": "bolinho de massa com pedaço de polvo" }
+    ]
+  },
+  "grammar": [
+    {
+      "id": "13-3-a",
+      "gc": null,
+      "title": "〜てみる: experimentar fazer",
+      "gloss": "fazer para ver como é",
+      "explanation": "〜てみる é **fazer uma coisa para ver como é**: experimentar, provar, testar. É a **forma て** do verbo + **みる**. O みる é o mesmo verbo \"ver\", no sentido de \"fazer e ver no que dá\". Como auxiliar, ele costuma ser escrito **em kana**: 食べてみる.\n• **Forma**: forma て (Aula 06-1) + みる. 食べる → 食べてみる; 行く → 行ってみる; 着る → 着てみる; する → してみる. Até 見る funciona: 見てみる = dar uma olhada para ver.\n• **Quem conjuga é o みる**, como um verbo る: 食べてみます, 食べてみました (experimentei), 食べてみたい (quero experimentar), 食べてみてください (experimente!), 食べてみましょう (vamos experimentar).\n• As combinações mais úteis no dia a dia: **〜てみたいです** para desejos (いつか着物を着てみたいです), **〜てみてください** para recomendar, e **〜てみてもいいですか** para pedir para provar ou testar algo numa loja.\n• 〜てみる quer dizer que você **faz de verdade**, para descobrir o resultado. Quando o \"tentar\" do português é esforço de hábito (\"tento acordar cedo todo dia\"), o japonês costuma usar outra forma, 〜ようにする, que chega na Aula P-01.\n• **〜てみる × 〜たことがある**: 食べてみました conta uma ação, uma vez (\"experimentei\"). 食べたことがあります (Aula 11-2) diz que você tem essa experiência na vida (\"já comi alguma vez\").\n• Na frase, [verbo em て + みる] é um bloco só, o **PREDICADO**. O que você experimenta continua com **を**: カレーを作ってみました.",
+      "structure": "[verbo em て] + みる · 〜てみたいです · 〜てみてください · 〜てみてもいいですか",
+      "examples": [
+        { "jp": "これはブラジルのパン・デ・ケージョです。食べてみてください。", "kana": "これはブラジルのパン・デ・ケージョです。たべてみてください。", "romaji": "Kore wa Burajiru no pan de kējo desu. Tabete mite kudasai.", "pt": "Isto é pão de queijo, do Brasil. Experimente!" },
+        { "jp": "このシャツ、着てみてもいいですか。— はい、どうぞ。", "kana": "このシャツ、きてみてもいいですか。— はい、どうぞ。", "romaji": "Kono shatsu, kite mite mo ii desu ka. — Hai, dōzo.", "pt": "Posso experimentar esta camisa? — Pode, sim." },
+        { "jp": "きのう、はじめて日本のカレーを作ってみました。思ったより、かんたんでした。", "kana": "きのう、はじめてにほんのカレーをつくってみました。おもったより、かんたんでした。", "romaji": "Kinō, hajimete Nihon no karē o tsukutte mimashita. Omotta yori, kantan deshita.", "pt": "Ontem experimentei fazer curry japonês pela primeira vez. Foi mais fácil do que eu pensava." }
+      ],
+      "pitfalls": [
+        "Antes de みる vem a forma て: 食べみる ✗ / 食べるみる ✗ → 食べてみる ✓. Cuidado com os verbos う: 行きてみる ✗ → 行ってみる ✓.",
+        "Quem conjuga é o みる, no fim: 食べてみるたい ✗ → 食べてみたい ✓; 食べたいてみる ✗.",
+        "Para \"você já provou alguma vez?\", o natural é a experiência: 食べたことがありますか ✓ (Aula 11-2). 食べてみましたか pergunta por uma ocasião específica (\"você provou aquele que eu te dei?\")."
+      ],
+      "howToStudy": [
+        "Escreva no caderno 6 verbos em três formas: 〜てみたいです, 〜てみました e 〜てみてください (食べてみたいです / 食べてみました / 食べてみてください…). Leia em voz alta, conferindo a forma て de cada um.",
+        "Aperte 🔬 no exemplo 3. 作ってみました aparece como um bloco só, o PREDICADO; カレーを é o OBJETO; きのう é TEMPO e はじめて é COMO. Leia de trás pra frente: experimentei fazer → o quê? → curry japonês → quando? → ontem, pela primeira vez.",
+        "Faça uma lista de 5 coisas que você quer experimentar no Japão e diga cada uma em voz alta com 〜てみたいです: 着物を着てみたいです。おんせんに入ってみたいです。…"
+      ],
+      "flag": null
+    },
+    {
+      "id": "13-3-b",
+      "gc": null,
+      "title": "N なら: \"se for X…\"",
+      "gloss": "retomar um assunto e dizer o que vale para ele",
+      "explanation": "**なら** pega um assunto que **já apareceu** na conversa, quase sempre trazido pela outra pessoa, e diz algo que vale **especificamente** para ele: \"se for X…\", \"se é de X que estamos falando…\", \"X, aí sim\".\n• **Forma**: substantivo + なら, **sem だ**. 日曜日なら; ブラジル料理なら.\n• **Uso 1 · recomendar ou informar**: alguém menciona um assunto, e você dá a dica sobre ele. ブラジル料理が食べたいんですが。— ブラジル料理なら、駅の前の店がいいですよ。\n• **Uso 2 · contraste, \"esse sim\"**: você separa um item dos outros. 土曜日はアルバイトがありますが、日曜日ならひまですよ。 (sábado não, domingo sim). Muitas vezes a outra metade vem com o は de contraste (Aula 03-2).\n• **Uso 3 · do grupo para um item**: a pergunta é ampla, e a resposta escolhe uma parte. スポーツは好きですか。— サッカーなら大好きです。 (esporte em geral, nem tanto; futebol, sim).\n• Por isso なら quase nunca abre uma conversa do nada: ele **responde** a algo que já está na mesa.\n• Você também vai ouvir なら depois de verbos (行くなら…, \"se você vai…\"). Nesta aula, fique com substantivo + なら.\n• Na frase, o bloco com なら é a **CONDIÇÃO** (\"se for X\"), e o comentário sobre X vem depois, terminando no **PREDICADO**. Leia pelo fim: \"estou livre\" → quando? → se for domingo.",
+      "structure": "[N] なら、[o que vale para N]。 (sem だ: 日曜日なら)",
+      "examples": [
+        { "jp": "しゅうまつ、ひまですか。— 土曜日はアルバイトがありますが、日曜日ならひまですよ。", "kana": "しゅうまつ、ひまですか。— どようびはアルバイトがありますが、にちようびならひまですよ。", "romaji": "Shūmatsu, hima desu ka. — Doyōbi wa arubaito ga arimasu ga, nichiyōbi nara hima desu yo.", "pt": "Você está livre no fim de semana? — No sábado eu tenho bico, mas no domingo estou livre, sim." },
+        { "jp": "ブラジル料理が食べたいんですが。— ブラジル料理なら、駅の前の店がいいですよ。", "kana": "ブラジルりょうりがたべたいんですが。— ブラジルりょうりなら、えきのまえのみせがいいですよ。", "romaji": "Burajiru ryōri ga tabetai n desu ga. — Burajiru ryōri nara, eki no mae no mise ga ii desu yo.", "pt": "Estou com vontade de comer comida brasileira… — Comida brasileira? Então o restaurante em frente à estação é bom." },
+        { "jp": "ルーカスさん、スポーツは好きですか。— サッカーなら大好きです。", "kana": "ルーカスさん、スポーツはすきですか。— サッカーならだいすきです。", "romaji": "Rūkasu-san, supōtsu wa suki desu ka. — Sakkā nara daisuki desu.", "pt": "Lucas, você gosta de esportes? — De futebol, eu adoro." }
+      ],
+      "pitfalls": [
+        "Sem だ antes de なら: 日曜日だなら ✗ → 日曜日なら ✓.",
+        "なら responde a um assunto que já apareceu. Chegar do nada e dizer ラーメンなら、あの店がいいですよ soa estranho: primeiro alguém fala de lámen, depois vem o なら.",
+        "は só marca o tópico; なら acrescenta \"se for esse (e não outro)\". サッカーは大好きです é neutro; サッカーなら大好きです deixa claro que outros esportes, nem tanto. Não troque um pelo outro sem pensar no sentido.",
+        "Para \"se acontecer X, (então) Y\" (se chover, se eu chegar cedo), o mais comum é 〜たら, da Aula 17-2: 雨がふったら、行きません ✓. O なら desta aula serve para retomar um assunto, não para contar uma sequência de acontecimentos."
+      ],
+      "howToStudy": [
+        "Aperte 🔬 no exemplo 1. 日曜日なら aparece como CONDIÇÃO e ひまですよ é o PREDICADO. Repare também em ありますが, marcado como MAS: ele fecha a metade do sábado antes do contraste.",
+        "Invente 4 perguntas amplas e responda a cada uma em voz alta escolhendo um item com なら: 日本料理は好きですか。— すしなら好きです。 Use pelo menos uma resposta com o potencial da Aula 13-1: 英語なら話せます。",
+        "Faça o papel de guia da sua cidade: para 4 assuntos (comida, praia ou parque, compras, um esporte), diga uma recomendação com なら: 〜なら、〜がいいですよ。"
+      ],
+      "flag": null
+    },
+    {
+      "id": "13-3-c",
+      "gc": null,
+      "title": "Frequência: 一週間に三回",
+      "gloss": "[período] に [número de vezes]",
+      "explanation": "Para dizer **com que frequência** você faz algo, o japonês usa **[período] + に + [número de vezes]**. 一週間に三回 = \"três vezes por semana\", ao pé da letra \"em uma semana, três vezes\".\n• **Vezes**: número + **回** (かい). 一回 (**いっ**かい), 二回 (にかい), 三回 (さんかい), 四回 (よんかい), 五回 (ごかい), 六回 (**ろっ**かい), 七回 (ななかい), 八回 (**はっ**かい), 九回 (きゅうかい), 十回 (**じゅっ**かい). A pergunta é **何回** (なんかい).\n• **Períodos**: 一日 (**いちにち**, \"um dia\"), 一週間 (いっしゅうかん), 一か月 (いっかげつ), 一年 (いちねん).\n• A mesma fórmula serve para **quanto tempo** por período: 一日に一時間 = \"uma hora por dia\".\n• **O número não leva partícula**: 一週間に | 三回 | ジムに | 行きます. O bloco da frequência costuma vir no começo da frase ou logo antes do verbo.\n• Para responder por alto, use **ぐらい**: 三回ぐらい; 一時間ぐらい.\n• Na frase, 一週間に é **TEMPO** e 三回 é **QUANTIDADE**; o **PREDICADO** continua no fim. Leia pelo fim: \"vou\" → aonde? → à academia → quantas vezes? → três → em quanto tempo? → numa semana.",
+      "structure": "[período] に [número] 回 … [verbo] · [período] に 何回…？",
+      "examples": [
+        { "jp": "ペドロさんは一週間に三回ジムに行きます。", "kana": "ペドロさんはいっしゅうかんにさんかいジムにいきます。", "romaji": "Pedoro-san wa isshūkan ni sankai jimu ni ikimasu.", "pt": "O Pedro vai à academia três vezes por semana." },
+        { "jp": "一日に何時間ぐらい日本語を勉強しますか。— 一日に一時間ぐらいです。", "kana": "いちにちになんじかんぐらいにほんごをべんきょうしますか。— いちにちにいちじかんぐらいです。", "romaji": "Ichinichi ni nanjikan gurai nihongo o benkyō shimasu ka. — Ichinichi ni ichijikan gurai desu.", "pt": "Quantas horas por dia, mais ou menos, você estuda japonês? — Mais ou menos uma hora por dia." },
+        { "jp": "一年に一回、家族に会いにブラジルに帰ります。", "kana": "いちねんにいっかい、かぞくにあいにブラジルにかえります。", "romaji": "Ichinen ni ikkai, kazoku ni ai ni Burajiru ni kaerimasu.", "pt": "Uma vez por ano, volto ao Brasil para ver a minha família." }
+      ],
+      "pitfalls": [
+        "A ordem é período + に + vezes: 三回に一週間 ✗ → 一週間に三回 ✓.",
+        "\"Por semana\" leva に, não の: 一週間の三回 ✗ → 一週間に三回 ✓.",
+        "Depois do número não vai partícula: 三回をジムに行きます ✗ → 三回ジムに行きます ✓.",
+        "Atenção às leituras: 一回 é いっかい (いちかい ✗); 一日 como \"um dia\" é いちにち. ついたち é outra palavra, \"dia primeiro\" do mês: 一日に三回 = いちにちにさんかい ✓."
+      ],
+      "howToStudy": [
+        "Conte em voz alta de 一回 a 十回 e marque no caderno as leituras que mudam: いっかい, ろっかい, はっかい, じゅっかい.",
+        "Aperte 🔬 no exemplo 1. 一週間に aparece como TEMPO, 三回 como QUANTIDADE (sem partícula) e ジムに como DESTINO. O PREDICADO é 行きます: leia de trás pra frente.",
+        "Fale 5 frases verdadeiras sobre a sua rotina, cada uma com uma frequência: quantas vezes você treina, estuda, joga Wagotabi, liga para alguém. Use pelo menos uma com 一か月に e uma com 一日に〜時間."
+      ],
+      "flag": null
+    }
+  ],
+  "media": [
+    { "order": 1, "kind": "leitura", "title": "Genki II · Lição 13: as explicações de gramática 〜てみる, なら e a frequência (一週間に三回), e o diálogo da lição inteira", "where": "Seu livro Genki II (3ª ed.)", "url": "", "when": "Antes desta aula ou logo depois do bloco de gramática. Esta é a última aula da Lição 13: no fim, releia o diálogo do livro e confira se entende cada frase." },
+    { "order": 2, "kind": "video", "title": "Japanese Ammo with Misa: なら (\"se for…\")", "where": "YouTube · canal Japanese Ammo with Misa", "url": "", "search": "Japanese Ammo with Misa nara", "when": "Depois do ponto b. Se o vídeo comparar なら com たら, ば e と, fique com a parte de substantivo + なら: as outras formas chegam nas Lições 17, 18 e 22." }
+  ],
+  "homework": {
+    "intro": "Faça no caderno, à mão. Escreva com os kanji que você já conhece e em kana o resto. Só depois abra o gabarito, item por item. Circule o que errou e refaça no dia seguinte. Se você tiver o Genki II Workbook, faça também os exercícios desta lição.",
+    "tasks": [
+      {
+        "id": "h1",
+        "type": "transformar",
+        "prompt": "Reescreva com 〜てみる, na forma pedida. Primeiro faça a forma て; depois conjugue o みる.",
+        "items": [
+          { "q": "食べる → quero experimentar", "a": { "jp": "食べてみたいです", "kana": "たべてみたいです", "romaji": "tabete mitai desu" } },
+          { "q": "着る → posso experimentar?", "a": { "jp": "着てみてもいいですか", "kana": "きてみてもいいですか", "romaji": "kite mite mo ii desu ka" }, "note": "〜てもいいですか (Aula 06-3) depois do みる." },
+          { "q": "行く → experimentei (passado)", "a": { "jp": "行ってみました", "kana": "いってみました", "romaji": "itte mimashita" }, "note": "行く tem forma て irregular: 行って." },
+          { "q": "使う → experimente! (pedido)", "a": { "jp": "使ってみてください", "kana": "つかってみてください", "romaji": "tsukatte mite kudasai" } },
+          { "q": "運転する → quero experimentar", "a": { "jp": "運転してみたいです", "kana": "うんてんしてみたいです", "romaji": "unten shite mitai desu" } },
+          { "q": "飲む → vamos experimentar (convite)", "a": { "jp": "飲んでみましょう", "kana": "のんでみましょう", "romaji": "nonde mimashō" }, "note": "む → んで; depois みる → みましょう." }
+        ]
+      },
+      {
+        "id": "h2",
+        "type": "responder",
+        "prompt": "Responda usando o que está entre parênteses + なら. Nos contrastes, use は na parte que não dá.",
+        "items": [
+          { "q": "日本料理は好きですか。（すし）", "a": { "jp": "すしなら好きです。", "kana": "すしならすきです。", "romaji": "Sushi nara suki desu." }, "note": "Do grupo (comida japonesa) para um item (sushi)." },
+          { "q": "今日、会えますか。（夜）", "a": { "jp": "夜なら会えます。", "kana": "よるならあえます。", "romaji": "Yoru nara aemasu." }, "note": "Potencial da Aula 13-1: 会う → 会える." },
+          { "q": "おいしいパンが買いたいんですが。（パン → 駅の近くの店がいい）", "a": { "jp": "パンなら、駅の近くの店がいいですよ。", "kana": "パンなら、えきのちかくのみせがいいですよ。", "romaji": "Pan nara, eki no chikaku no mise ga ii desu yo." }, "note": "Uso 1: recomendar sobre o assunto que o outro trouxe." },
+          { "q": "月曜日にパーティーに来られますか。（月曜日はだめ／金曜日なら行ける）", "a": { "jp": "月曜日はちょっと…。金曜日なら行けます。", "kana": "げつようびはちょっと…。きんようびならいけます。", "romaji": "Getsuyōbi wa chotto…. Kin'yōbi nara ikemasu." }, "note": "Contraste: は + ちょっと… no dia que não dá, なら no dia que dá." },
+          { "q": "ピアノがひけますか。（ピアノはだめ／ギターならひける）", "a": { "jp": "ピアノはひけませんが、ギターならひけます。", "romaji": "Piano wa hikemasen ga, gitā nara hikemasu." } }
+        ]
+      },
+      {
+        "id": "h3",
+        "type": "traduzir",
+        "prompt": "Traduza para o japonês.",
+        "items": [
+          { "q": "Eu vou ao supermercado duas vezes por semana.", "a": { "jp": "一週間に二回スーパーに行きます。", "kana": "いっしゅうかんににかいスーパーにいきます。", "romaji": "Isshūkan ni nikai sūpā ni ikimasu." } },
+          { "q": "Quantas vezes por mês você liga para a sua família?", "a": { "jp": "一か月に何回家族に電話しますか。", "kana": "いっかげつになんかいかぞくにでんわしますか。", "romaji": "Ikkagetsu ni nankai kazoku ni denwa shimasu ka." }, "note": "電話する pede に: 家族に電話する." },
+          { "q": "Tome este remédio três vezes por dia.", "a": { "jp": "このくすりは一日に三回飲んでください。", "kana": "このくすりはいちにちにさんかいのんでください。", "romaji": "Kono kusuri wa ichinichi ni sankai nonde kudasai." }, "note": "Remédio se \"bebe\": くすりを飲む. 一日 aqui é いちにち." },
+          { "q": "Eu durmo mais ou menos seis horas por dia.", "a": { "jp": "一日に六時間ぐらいねます。", "kana": "いちにちにろくじかんぐらいねます。", "romaji": "Ichinichi ni rokujikan gurai nemasu." } },
+          { "q": "Algum dia, quero experimentar vestir um quimono.", "a": { "jp": "いつか着物を着てみたいです。", "kana": "いつかきものをきてみたいです。", "romaji": "Itsuka kimono o kite mitai desu." } },
+          { "q": "(Um amigo te chama para uma balada. Você não curte, mas gosta de karaokê.) Se for karaokê, eu vou!", "a": { "jp": "カラオケなら行きます！", "kana": "カラオケならいきます！", "romaji": "Karaoke nara ikimasu!" }, "note": "なら escolhe a opção que vale para você, depois que o assunto (sair) já apareceu." }
+        ]
+      },
+      {
+        "id": "h4",
+        "type": "produzir",
+        "prompt": "Um amigo japonês vai visitar a sua cidade e pergunta o que fazer. Escreva 5 ou 6 frases: 2 recomendações com なら (comida, um lugar…), 1 com 〜てみてください, 1 contando algo que você experimentou com 〜てみました e 1 com frequência (〜に〜回). Depois leia em voz alta e grave no celular.",
+        "items": [
+          { "q": "Modelo, que o seu texto deve seguir na estrutura e não nas palavras:", "a": { "jp": "ブラジル料理なら、フェイジョアーダを食べてみてください。とてもおいしいですよ。海なら、コパカバーナがいいです。わたしも一か月に二回ぐらい行きます。きょねん、そこではじめてサーフィンをしてみました。むずかしかったですが、とても楽しかったです。", "kana": "ブラジルりょうりなら、フェイジョアーダをたべてみてください。とてもおいしいですよ。うみなら、コパカバーナがいいです。わたしもいっかげつににかいぐらいいきます。きょねん、そこではじめてサーフィンをしてみました。むずかしかったですが、とてもたのしかったです。", "romaji": "Burajiru ryōri nara, feijoāda o tabete mite kudasai. Totemo oishii desu yo. Umi nara, Kopakabāna ga ii desu. Watashi mo ikkagetsu ni nikai gurai ikimasu. Kyonen, soko de hajimete sāfin o shite mimashita. Muzukashikatta desu ga, totemo tanoshikatta desu.", "pt": "Se for comida brasileira, experimente a feijoada. É muito gostosa. Se for praia, Copacabana é boa. Eu também vou umas duas vezes por mês. No ano passado, experimentei surfar lá pela primeira vez. Foi difícil, mas muito divertido." }, "note": "Confira: なら direto depois do substantivo, sem だ; 〜てみる com a forma て certa; e a frequência com [período]に[número]回, sem partícula depois do número." }
+        ]
+      }
+    ],
+    "workbook": []
+  },
+  "practice": [
+    { "tool": "Wagotabi", "what": "Jogue numa área de nível N4, se você já tiver chegado lá. Cace 〜てみる (〜てみて, 〜てみたい, 〜てみる) e なら nos diálogos. Para cada なら, diga em voz alta qual assunto ele retomou. Registre a sessão em Imersão → Jogos e cole uma dessas frases na 🔬 Anatomia.", "min": 15 },
+    { "tool": "ヅオリンゴー", "what": "Treinos → Conjugação: aqueça a forma て, que é a base do 〜てみる. Depois, Treinos → 🔬 Anatomia → 🧱 Montar de trás pra frente com o exemplo 3 do ponto c, começando por 帰ります.", "min": 10 },
+    { "tool": "ヅオリンゴー · Mineração", "what": "Sempre que achar uma frase com なら, 〜てみる ou uma frequência (〜に〜回) no jogo, num vídeo ou num site, guarde-a na Mineração de frases, com a tradução. A meta é juntar 5 até o fim da Lição 13.", "min": 5 },
+    { "tool": "Shadowing", "what": "Toque 🔊 em cada exemplo desta aula e repita junto 3 vezes. Em 一週間, o っ vale uma batida inteira: い・っ・しゅ・う・か・ん são 6 batidas. Em いっかい, também: い・っ・か・い.", "min": 5 },
+    { "tool": "Fala", "what": "Grave as dicas da sua cidade (lição de casa h4) em até 45 s. Ouça e confira se cada なら veio depois de um assunto e se os números com 回 saíram com a leitura certa.", "min": 5 }
+  ],
+  "culture": {
+    "title": "やたい e comida de rua em festivais",
+    "titleJp": "やたい",
+    "body": "Nas **まつり** e nos festivais de fogos de verão, as ruas perto do templo ou do santuário costumam se encher de **やたい**: barracas de comida montadas para o evento. Os clássicos são たこやき, やきそば (macarrão frito na chapa), やきとり, かきごおり (raspadinha de gelo com xarope), わたあめ (algodão-doce) e りんごあめ (maçã do amor). Muitas barracas também têm brincadeiras, como a きんぎょすくい, em que se tenta pegar peixinhos com uma redinha de papel. Em geral, comer andando na rua não é muito bem visto no Japão, mas nos festivais é normal comer em pé perto das barracas, e o pagamento costuma ser em dinheiro vivo. Em Fukuoka, há やたい que abrem à noite o ano todo, famosos pelo lámen.",
+    "try": "Escolha 3 comidas de やたい e diga em voz alta: 〜を食べてみたいです。 Depois responda com frequência: 一年に何回おまつりに行きますか。 Por fim, imagine que um amigo diz あまいものが食べたい。 e responda com なら: あまいものなら、わたあめがいいですよ。"
+  },
+  "checklist": [
+    "Faço 〜てみる com qualquer verbo, a partir da forma て, sem olhar: 食べてみる, 行ってみる, してみる.",
+    "Uso 〜てみたいです, 〜てみました, 〜てみてください e 〜てみてもいいですか em situações reais (loja, restaurante, viagem).",
+    "Sei a diferença entre 食べてみました (experimentei) e 食べたことがあります (já comi alguma vez).",
+    "Respondo a um assunto com substantivo + なら, sem だ, para recomendar ou para contrastar: 日曜日ならひまです。",
+    "Digo e pergunto a frequência com [período]に[número]回: 一週間に三回, 一日に何時間…？",
+    "Leio 一回, 六回, 八回, 十回 e 一日 (いちにち) do jeito certo.",
+    "Fiz a lição de casa e conferi o gabarito, e refiz o que errei.",
+    "Se tenho o Genki II Workbook: fiz os exercícios de 〜てみる, なら e frequência desta lição."
+  ]
+}

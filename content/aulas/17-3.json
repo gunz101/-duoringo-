@@ -1,0 +1,213 @@
+{
+  "id": "17-3",
+  "unit": "G2-L17",
+  "genki": { "book": "Genki II", "lesson": 17, "points": ["〜みたいです", "〜前に／〜てから"] },
+  "title": "Parece que · antes/depois",
+  "titleJp": "出かける前に・帰ってから",
+  "canDo": [
+    "Dizer o que eu deduzo pelos indícios com forma curta + みたいです: 雨がふったみたいです (vejo o chão molhado).",
+    "Montar みたいです com substantivo e adjetivo な sem だ (るすみたいです) e usar みたい para comparar: 子どもみたい, 子どもみたいなかお.",
+    "Diferenciar ふりそう (vai chover, pela cara do céu), ふったみたい (parece que choveu, pelos indícios) e ふるそうです (dizem que vai chover).",
+    "Dizer o que faço antes de algo com forma de dicionário + 前に, inclusive em frases no passado: 日本に来る前に、…ました。",
+    "Dizer o que faço depois de algo com forma て + から, e trocar uma frase de 前に para てから sem mudar o sentido."
+  ],
+  "duration": {
+    "total": "60–75 min",
+    "blocks": [
+      { "t": "Aquecimento: diga em voz alta a forma de dicionário, o passado curto e a forma て de ふる, 食べる, 帰る, する e 来る", "min": 5 },
+      { "t": "Vocabulário: ouvir 🔊 cada palavra e repetir 2 vezes", "min": 10 },
+      { "t": "Gramática: os 3 pontos, com os exemplos lidos em voz alta. Capriche no trio ふりそう × ふったみたい × ふるそう. Se ficar pesado, faça みたい numa sessão e 前に/てから na outra", "min": 30 },
+      { "t": "Vídeos (bloco 6): só a parte de みたい, 前に e てから", "min": 10 },
+      { "t": "Lição de casa no caderno + conferir no gabarito", "min": 15 },
+      { "t": "Checklist (bloco 10) + anotar dúvidas no caderno da aula", "min": 5 }
+    ]
+  },
+  "prereqs": {
+    "aulas": ["17-2"],
+    "skills": [
+      "Forma de dicionário, formas curtas e forma て (Aulas 06-1, 08-1 e 09-1): cada ponto desta aula usa uma delas.",
+      "Os dois そう: aparência (Aula 13-2) e boato (Aula 17-1). O みたい desta aula é o terceiro \"parece\", e o segredo é não confundir os três.",
+      "Ação て ação (Aula 06-2): o 〜てから é parente dele, com a ordem mais marcada.",
+      "〜たら (Aula 17-2), para comparar com 〜てから."
+    ],
+    "vocab": [
+      { "jp": "〜みたいです", "kana": "〜みたいです", "romaji": "-mitai desu", "pt": "parece que…; parece (um)…, igual a…" },
+      { "jp": "〜前に", "kana": "〜まえに", "romaji": "-mae ni", "pt": "antes de…" },
+      { "jp": "〜てから", "kana": "〜てから", "romaji": "-te kara", "pt": "depois de…" },
+      { "jp": "るす", "kana": "るす", "romaji": "rusu", "pt": "fora de casa (a pessoa não está)" },
+      { "jp": "電気", "kana": "でんき", "romaji": "denki", "pt": "luz (da casa); eletricidade" },
+      { "jp": "つく", "kana": "つく", "romaji": "tsuku", "pt": "(luz) acender, estar acesa (電気がつく). Não confunda com 着く, chegar" },
+      { "jp": "ぬれる", "kana": "ぬれる", "romaji": "nureru", "pt": "molhar-se, ficar molhado" },
+      { "jp": "道", "kana": "みち", "romaji": "michi", "pt": "rua, caminho" },
+      { "jp": "かぜをひく", "kana": "かぜをひく", "romaji": "kaze o hiku", "pt": "pegar um resfriado" },
+      { "jp": "人気がある", "kana": "にんきがある", "romaji": "ninki ga aru", "pt": "ser popular, fazer sucesso" },
+      { "jp": "ならぶ", "kana": "ならぶ", "romaji": "narabu", "pt": "fazer fila, enfileirar-se" },
+      { "jp": "子ども", "kana": "こども", "romaji": "kodomo", "pt": "criança" },
+      { "jp": "かお", "kana": "かお", "romaji": "kao", "pt": "rosto, cara (〜なかおをする = fazer cara de…)" },
+      { "jp": "モデル", "kana": "モデル", "romaji": "moderu", "pt": "modelo (de passarela, de fotos)" },
+      { "jp": "出かける", "kana": "でかける", "romaji": "dekakeru", "pt": "sair (de casa)" },
+      { "jp": "シャワーをあびる", "kana": "シャワーをあびる", "romaji": "shawā o abiru", "pt": "tomar banho de chuveiro" },
+      { "jp": "はをみがく", "kana": "はをみがく", "romaji": "ha o migaku", "pt": "escovar os dentes" },
+      { "jp": "手をあらう", "kana": "てをあらう", "romaji": "te o arau", "pt": "lavar as mãos" },
+      { "jp": "ひげをそる", "kana": "ひげをそる", "romaji": "hige o soru", "pt": "fazer a barba" },
+      { "jp": "けしょうする", "kana": "けしょうする", "romaji": "keshō suru", "pt": "maquiar-se" },
+      { "jp": "夕ごはん", "kana": "ゆうごはん", "romaji": "yūgohan", "pt": "jantar" },
+      { "jp": "おぼえる", "kana": "おぼえる", "romaji": "oboeru", "pt": "decorar, memorizar" },
+      { "jp": "ポルトガル語", "kana": "ポルトガルご", "romaji": "porutogarugo", "pt": "língua portuguesa" }
+    ]
+  },
+  "grammar": [
+    {
+      "id": "17-3-a",
+      "gc": null,
+      "title": "〜みたいです (parece que…)",
+      "gloss": "parece que…, pelo jeito…; parece (um)…",
+      "explanation": "**みたいです** é o \"parece que…\", \"pelo jeito…\" de uma **conclusão sua**: você juntou indícios (viu, ouviu, percebeu) e deduziu. Não é certeza, e ninguém te contou: quem deduziu foi você.\n• Verbo: **forma curta** + みたいです. 雨がふったみたいです (o chão está molhado); 田中さんは来ないみたいです (já passou da hora).\n• Adjetivo い: direto. 外はさむいみたいです (todo mundo está de casaco).\n• Substantivo e adjetivo な: **sem だ** no presente afirmativo. るすみたいです; 元気みたいです. Nas outras formas, forma curta normal: 休みだったみたいです; 好きじゃないみたいです.\n• O próprio みたい se comporta como um adjetivo な: みたいです, みたいだ (casual) e, antes de um substantivo, **みたいな**.\n\n**\"Igual a\", \"parece um\".** Depois de substantivo, みたい também **compara**: 子どもみたいです = \"parece uma criança\", \"igualzinho a criança\". Antes de outro substantivo: 子どもみたいなかお (\"cara de criança\"); モデルみたいな人 (\"uma pessoa que parece modelo\").\n• O contexto decide se é dedução ou comparação: あの人は日本人みたいです = \"pelo jeito, é japonês\" (dedução); ペドロさんの日本語は日本人みたいです = \"o japonês do Pedro parece de nativo\" (comparação: ele não é japonês).\n\n**Os três \"parece\":**\n• ふりそうです (Aula 13-2): radical + そう. Olho o céu escuro e prevejo: **vai** chover.\n• ふったみたいです: forma curta + みたい. Vejo o chão molhado e deduzo: **choveu**.\n• ふるそうです (Aula 17-1): forma curta + そうです. A previsão **me contou**: vai chover.\n• Com adjetivo: おいしそう (olho o prato); おいしいみたい (vejo a fila na porta); おいしいそう (um amigo me contou).\n• みたい é **coloquial**, mas com です serve bem na conversa educada. Em textos formais aparece 〜ようです, com o mesmo sentido (Ponte N3, Aula P-04).\n• Na frase, [dedução] + みたいです é o **PREDICADO**. Leia pelo fim: \"parece\" → o quê? → que choveu → quando? → à noite.",
+      "structure": "[forma curta] みたいです · [N / adj な] みたいです (sem だ) · [N] みたいな [N] (igual a…)",
+      "examples": [
+        { "jp": "道がぬれていますね。夜、雨がふったみたいです。", "kana": "みちがぬれていますね。よる、あめがふったみたいです。", "romaji": "Michi ga nurete imasu ne. Yoru, ame ga futta mitai desu.", "pt": "A rua está molhada, né. Parece que choveu à noite.", "noAnat": true },
+        { "jp": "電気がついていませんね。田中さんはるすみたいです。", "kana": "でんきがついていませんね。たなかさんはるすみたいです。", "romaji": "Denki ga tsuite imasen ne. Tanaka-san wa rusu mitai desu.", "pt": "As luzes estão apagadas. Parece que o Tanaka não está em casa.", "noAnat": true },
+        { "jp": "父はサッカーを見ている時、子どもみたいなかおをします。", "kana": "ちちはサッカーをみているとき、こどもみたいなかおをします。", "romaji": "Chichi wa sakkā o mite iru toki, kodomo mitai na kao o shimasu.", "pt": "Quando está vendo futebol, meu pai faz cara de criança." }
+      ],
+      "pitfalls": [
+        "Com substantivo e adjetivo な, sem だ: ○ るすみたいです × るすだみたいです; ○ 元気みたいです × 元気なみたいです. No boato da Aula 17-1 é o contrário: るすだそうです.",
+        "O radical do ます não entra antes de みたい: ○ 雨がふったみたいです × 雨がふりみたいです. Radical + そう é a aparência (ふりそう).",
+        "Não confunda com 見たい (quero ver): 映画を見たいです = \"quero ver o filme\" (見る + たい); 映画みたいです = \"parece coisa de filme\". ○ 雨がふったみたいです × 雨がふった見たいです.",
+        "Substantivo não aceita o そう de aparência. Para \"parece professor\", use みたい: ○ あの人は先生みたいです × あの人は先生そうです."
+      ],
+      "howToStudy": [
+        "Modo detetive: olhe ao seu redor ou pela janela e diga 5 deduções em voz alta, sempre com a pista antes: 道がぬれています。雨がふったみたいです。",
+        "Aperte 🔬 no exemplo 3. O bloco 子どもみたいな aparece como DESCREVE O PRÓXIMO, preso a かおを: みたいな funciona como um adjetivo な. O PREDICADO é します, no fim, e 見ている時 é o TEMPO.",
+        "Diga os trios em voz alta, imaginando a cena de cada um (vejo / deduzo / me contaram): ふりそう → ふったみたい → ふるそう; おいしそう → おいしいみたい → おいしいそう."
+      ],
+      "flag": null
+    },
+    {
+      "id": "17-3-b",
+      "gc": null,
+      "title": "〜前に (antes de)",
+      "gloss": "antes de fazer…",
+      "explanation": "Para dizer \"antes de fazer A, faço B\", use a **forma de dicionário** + **前に**: A前に、B。\n• ねる → ねる前に; 食べる → 食べる前に; する → する前に; 来る → 来る前に (くるまえに).\n• **A forma é sempre a de dicionário**, mesmo quando a frase fala do passado. O tempo fica no predicado do fim: 日本に来る前に、日本語を勉強しました (\"antes de vir, estudei\"). Nunca 来た前に.\n• **Atenção à ordem:** na frase, A aparece primeiro, mas acontece **depois**. 食べる前に、手をあらいます = primeiro lava as mãos, depois come.\n• Com substantivo, entra の: 仕事の前に (\"antes do trabalho\"). Mas lembre da Aula 04-1: com lugar, 前 é \"em frente de\" (駅の前に = em frente da estação). O que decide é a palavra: lugar → \"em frente de\"; ação ou evento → \"antes de\".\n• Na frase, o bloco 〜前に responde \"quando?\", e o 🔬 o marca como **TEMPO**. O PREDICADO continua no fim.",
+      "structure": "[verbo na forma de dicionário] 前に、[B] · [N] の前に、[B]",
+      "examples": [
+        { "jp": "毎日、ねる前に、シャワーをあびます。", "kana": "まいにち、ねるまえに、シャワーをあびます。", "romaji": "Mainichi, neru mae ni, shawā o abimasu.", "pt": "Todo dia, antes de dormir, tomo banho." },
+        { "jp": "日本に来る前に、ポルトガル語の先生をしていました。", "kana": "にほんにくるまえに、ポルトガルごのせんせいをしていました。", "romaji": "Nihon ni kuru mae ni, porutogarugo no sensei o shite imashita.", "pt": "Antes de vir para o Japão, eu era professor de português." }
+      ],
+      "pitfalls": [
+        "Mesmo no passado, forma de dicionário: ○ 日本に来る前に、…ました × 日本に来た前に.",
+        "A forma ます não entra: ○ 食べる前に × 食べます前に.",
+        "Lugar × tempo: 駅の前 é \"em frente da estação\". Para \"antes de ir à estação\", o verbo tem que aparecer: ○ 駅に行く前に × 駅の前に."
+      ],
+      "howToStudy": [
+        "Sua rotina da manhã: diga 4 frases com 〜前に, uma para cada coisa que você faz antes de sair: 出かける前に、コーヒーを飲みます。…",
+        "Aperte 🔬 no exemplo 2. 来る前に aparece como TEMPO, 日本に como DESTINO e していました como PREDICADO. Repare: a frase está no passado, mas o 来る continua na forma de dicionário.",
+        "Compare com a Aula 17-2, em voz alta: 日本に行く前に、カメラを買います (compro ainda no Brasil) × 日本に行ったら、カメラを買います (compro lá)."
+      ],
+      "flag": null
+    },
+    {
+      "id": "17-3-c",
+      "gc": null,
+      "title": "〜てから (depois de)",
+      "gloss": "depois de fazer…, só depois de…",
+      "explanation": "Para dizer \"depois de fazer A, faço B\", use a **forma て** + **から**: Aてから、B。\n• 帰る → 帰ってから; 食べる → 食べてから; する → してから; 来る → 来てから (きてから).\n• A ordem é fixa: **primeiro A, depois B**. Aqui a ordem da frase e a dos fatos é a mesma.\n• Na Aula 06-2 você viu ação て ação (食べて、出かけます). 〜てから **marca mais** a sequência: \"primeiro isso, só depois aquilo\". 手をあらってから、食べてください = \"lave as mãos, e só depois coma\".\n• 〜前に e 〜てから contam a mesma cena de lados opostos: 食べる前に、手をあらいます = 手をあらってから、食べます.\n• Não confunda com o から de \"porque\" (Aulas 06-4 e 09-3). O que vem antes decide: **forma て + から** = depois de; **forma curta ou です + から** = porque. 食べてから = \"depois de comer\"; 食べるから = \"porque vou comer\".\n• Com 〜たら (Aula 17-2): 〜てから só dá a ordem; 〜たら dá uma condição. Para contar as suas próprias ações em sequência, no passado, use てから: 家に帰ってから、しゅくだいをしました。\n• Na frase, o 🔬 marca o bloco 〜てから como **DEPOIS DE**, e o bloco com 〜たら como **CONDIÇÃO**. O PREDICADO continua no fim.",
+      "structure": "[A: forma て] から、[B] (primeiro A, depois B)",
+      "examples": [
+        { "jp": "うちに帰ってから、夕ごはんを作ります。", "kana": "うちにかえってから、ゆうごはんをつくります。", "romaji": "Uchi ni kaette kara, yūgohan o tsukurimasu.", "pt": "Depois de chegar em casa, faço o jantar." },
+        { "jp": "映画を見てから、レストランに行きませんか。", "kana": "えいがをみてから、レストランにいきませんか。", "romaji": "Eiga o mite kara, resutoran ni ikimasen ka.", "pt": "Que tal ver o filme e depois ir a um restaurante?" },
+        { "jp": "手をあらってから、食べてください。", "kana": "てをあらってから、たべてください。", "romaji": "Te o aratte kara, tabete kudasai.", "pt": "Lave as mãos antes de comer. (Ao pé da letra: coma depois de lavar as mãos.)" }
+      ],
+      "pitfalls": [
+        "てから (depois de) × から (porque): ○ 食べてから、出かけます (depois de comer, saio) × 食べるから、出かけます, que vira \"porque vou comer, saio\".",
+        "A base é a forma て, com as mudanças de som dos verbos う: ○ 読んでから × 読みてから; ○ 行ってから × 行きてから.",
+        "Não misture as formas: 前に pede forma de dicionário e てから pede forma て. ○ 食べる前に / 食べてから × 食べて前に × 食べるてから."
+      ],
+      "howToStudy": [
+        "Troque de lado em voz alta: A前に、B ⇄ Bてから、A. 食べる前に、手をあらいます ⇄ 手をあらってから、食べます. Faça o mesmo com 4 pares da sua rotina.",
+        "Aperte 🔬 no exemplo 2. 見てから aparece como DEPOIS DE, レストランに como DESTINO e 行きませんか como PREDICADO (convite / sugestão). Depois abra o exemplo 2 do ponto a da Aula 17-2: lá, 着いたら aparece como CONDIÇÃO.",
+        "Fala: descreva a sua noite em 4 passos com てから, como se contasse para alguém: 家に帰ってから、…。夕ごはんを食べてから、…。"
+      ],
+      "flag": null
+    }
+  ],
+  "media": [
+    { "order": 1, "kind": "leitura", "title": "Genki II · Lição 17: as explicações de gramática 〜みたいです e 〜前に／〜てから", "where": "Seu livro Genki II", "url": "", "when": "Antes desta aula ou logo depois do bloco de gramática. Com esta aula, a gramática da Lição 17 fica completa." },
+    { "order": 2, "kind": "video", "title": "Japanese Ammo with Misa: みたい e os outros \"parece\" (em inglês)", "where": "YouTube · canal Japanese Ammo with Misa", "url": "", "search": "Japanese Ammo with Misa mitai", "when": "Depois do ponto a, se ainda confundir みたい com os dois そう" },
+    { "order": 3, "kind": "video", "title": "Game Gengo: 〜前に e 〜てから (em inglês, opcional)", "where": "YouTube · canal Game Gengo", "url": "", "search": "Game Gengo 前に てから JLPT N4", "when": "Opcional, depois dos pontos b e c" }
+  ],
+  "homework": {
+    "intro": "Faça no caderno, à mão, com kanji onde souber e kana no resto. Nos itens de 前に e てから, numere as ações (1 e 2) na ordem em que acontecem antes de escrever. Só depois abra o gabarito, item por item. Circule o que errou e refaça no dia seguinte. Se você tiver o Genki II Workbook, faça também os exercícios desta lição.",
+    "tasks": [
+      {
+        "id": "h1",
+        "type": "transformar",
+        "prompt": "Faça uma dedução com みたいです a partir da pista. Antes de escrever, veja se é verbo, adjetivo い ou substantivo/な: com os dois últimos, não entra だ.",
+        "items": [
+          { "q": "(Pista: o chão está molhado.) 雨がふりました。", "a": { "jp": "雨がふったみたいです。", "kana": "あめがふったみたいです。", "romaji": "Ame ga futta mitai desu." }, "note": "Verbo: forma curta (ふった) + みたいです." },
+          { "q": "(Pista: as luzes da casa do Tanaka estão apagadas.) 田中さんはるすです。", "a": { "jp": "田中さんはるすみたいです。", "kana": "たなかさんはるすみたいです。", "romaji": "Tanaka-san wa rusu mitai desu." }, "note": "Substantivo: sem だ." },
+          { "q": "(Pista: todo mundo na rua está de casaco.) 外はさむいです。", "a": { "jp": "外はさむいみたいです。", "kana": "そとはさむいみたいです。", "romaji": "Soto wa samui mitai desu." } },
+          { "q": "(Pista: a Ana está tossindo muito.) アナさんはかぜをひきました。", "a": { "jp": "アナさんはかぜをひいたみたいです。", "romaji": "Ana-san wa kaze o hiita mitai desu." } },
+          { "q": "(Pista: sempre tem fila na porta.) あの店は人気があります。", "a": { "jp": "あの店は人気があるみたいです。", "kana": "あのみせはにんきがあるみたいです。", "romaji": "Ano mise wa ninki ga aru mitai desu." } },
+          { "q": "(Pista: o Pedro deixou o peixe no prato.) ペドロさんは魚が好きじゃありません。", "a": { "jp": "ペドロさんは魚が好きじゃないみたいです。", "kana": "ペドロさんはさかながすきじゃないみたいです。", "romaji": "Pedoro-san wa sakana ga suki ja nai mitai desu." }, "note": "Forma curta negativa (好きじゃない) + みたいです." }
+        ]
+      },
+      {
+        "id": "h2",
+        "type": "completar",
+        "prompt": "Escolha a forma certa pela situação e escreva a frase inteira: você está vendo (aparência, そう), deduziu por indícios (みたい) ou alguém te contou (boato, そうです)?",
+        "items": [
+          { "q": "Nuvens pretas no céu, agora: 雨が（ふりそう／ふったみたい／ふるそう）です。", "a": { "jp": "雨がふりそうです。", "kana": "あめがふりそうです。", "romaji": "Ame ga furisō desu." }, "note": "Você olha e prevê: aparência." },
+          { "q": "De manhã, o chão da rua está molhado: 雨が（ふりそう／ふったみたい／ふるそう）です。", "a": { "jp": "雨がふったみたいです。", "kana": "あめがふったみたいです。", "romaji": "Ame ga futta mitai desu." }, "note": "Você deduz pelo indício: みたい." },
+          { "q": "A previsão do tempo acabou de dizer: 雨が（ふりそう／ふったみたい／ふるそう）です。", "a": { "jp": "雨がふるそうです。", "kana": "あめがふるそうです。", "romaji": "Ame ga furu sō desu." }, "note": "Alguém te contou: boato." },
+          { "q": "Um homem de terno, com livros e giz na mão: あの人は（先生みたい／先生そう）です。", "a": { "jp": "あの人は先生みたいです。", "kana": "あのひとはせんせいみたいです。", "romaji": "Ano hito wa sensei mitai desu." }, "note": "Substantivo não aceita o そう de aparência: com substantivo, use みたい." },
+          { "q": "Seu amigo pula de alegria com um brinquedo novo: ルーカスは（子どもみたい／子どもそう）です。", "a": { "jp": "ルーカスは子どもみたいです。", "kana": "ルーカスはこどもみたいです。", "romaji": "Rūkasu wa kodomo mitai desu." }, "note": "Comparação: \"parece uma criança\"." }
+        ]
+      },
+      {
+        "id": "h3",
+        "type": "transformar",
+        "prompt": "Junte as duas ações com a forma pedida. Os números mostram a ordem em que elas acontecem.",
+        "items": [
+          { "q": "(1) 手をあらう → (2) 食べる · com 前に", "a": { "jp": "食べる前に、手をあらいます。", "kana": "たべるまえに、てをあらいます。", "romaji": "Taberu mae ni, te o araimasu." }, "note": "Com 前に, a ação 2 aparece primeiro na frase." },
+          { "q": "(1) 手をあらう → (2) 食べる · com てから", "a": { "jp": "手をあらってから、食べます。", "kana": "てをあらってから、たべます。", "romaji": "Te o aratte kara, tabemasu." }, "note": "Com てから, a ordem da frase é a ordem dos fatos." },
+          { "q": "(1) 天気予報を見る → (2) 出かける · com 前に", "a": { "jp": "出かける前に、天気予報を見ます。", "kana": "でかけるまえに、てんきよほうをみます。", "romaji": "Dekakeru mae ni, tenki yohō o mimasu." } },
+          { "q": "(1) しゅくだいをする → (2) ゲームをする · com てから", "a": { "jp": "しゅくだいをしてから、ゲームをします。", "romaji": "Shukudai o shite kara, gēmu o shimasu." } },
+          { "q": "(1) ひらがなをおぼえた → (2) ブラジルを出た · com 前に", "a": { "jp": "ブラジルを出る前に、ひらがなをおぼえました。", "kana": "ブラジルをでるまえに、ひらがなをおぼえました。", "romaji": "Burajiru o deru mae ni, hiragana o oboemashita." }, "note": "Passado, mas 出る fica na forma de dicionário. O passado vai só no fim." },
+          { "q": "(1) 大学をそつぎょうした → (2) 会社に入った · com てから", "a": { "jp": "大学をそつぎょうしてから、会社に入りました。", "kana": "だいがくをそつぎょうしてから、かいしゃにはいりました。", "romaji": "Daigaku o sotsugyō shite kara, kaisha ni hairimashita." } }
+        ]
+      },
+      {
+        "id": "h4",
+        "type": "produzir",
+        "prompt": "Descreva a sua noite em 5–6 frases: 2 com 〜てから, 2 com 〜前に e, no fim, uma dedução com みたいです sobre alguém da sua casa ou um vizinho, com a pista antes. Depois leia em voz alta e grave no celular.",
+        "items": [
+          { "q": "Modelo, que o seu texto deve seguir na estrutura e não nas palavras:", "a": { "jp": "仕事が終わってから、ジムに行きます。家に帰ってから、シャワーをあびます。夕ごはんを食べる前に、少し日本語を勉強します。ねる前に、スマホで日本語のニュースを読みます。弟の部屋は、まだ電気がついています。まだ起きているみたいです。", "kana": "しごとがおわってから、ジムにいきます。いえにかえってから、シャワーをあびます。ゆうごはんをたべるまえに、すこしにほんごをべんきょうします。ねるまえに、スマホでにほんごのニュースをよみます。おとうとのへやは、まだでんきがついています。まだおきているみたいです。", "romaji": "Shigoto ga owatte kara, jimu ni ikimasu. Ie ni kaette kara, shawā o abimasu. Yūgohan o taberu mae ni, sukoshi nihongo o benkyō shimasu. Neru mae ni, sumaho de nihongo no nyūsu o yomimasu. Otōto no heya wa, mada denki ga tsuite imasu. Mada okite iru mitai desu.", "pt": "Depois que o trabalho acaba, vou à academia. Depois de chegar em casa, tomo banho. Antes de jantar, estudo um pouco de japonês. Antes de dormir, leio notícias em japonês no celular. A luz do quarto do meu irmão ainda está acesa. Parece que ele ainda está acordado." }, "note": "Confira: forma て antes de から; forma de dicionário antes de 前に; forma curta antes de みたいです, sem だ se for substantivo; e o predicado sempre no fim." }
+        ]
+      }
+    ],
+    "workbook": []
+  },
+  "practice": [
+    { "tool": "Wagotabi", "what": "Jogue nas regiões e níveis N4 e cace みたい, 前に e てから nos diálogos. Para cada みたい, pergunte: qual foi a pista? Registre a sessão em Imersão → Jogos e cole na 🔬 Anatomia uma frase com てから para ver o bloco DEPOIS DE.", "min": 15 },
+    { "tool": "ヅオリンゴー · Mineração", "what": "Com o botão ⛏, guarde no SRS 5 palavras novas desta aula (るす, ぬれる, 人気がある, ならぶ, ひげをそる) e revise-as junto com o baralho \"🌊 Tudo\".", "min": 5 },
+    { "tool": "ヅオリンゴー · Diário", "what": "Escreva a sua noite (lição de casa h4) no Diário e abra \"Anatomia do que escrevi\": os blocos com てから devem aparecer como DEPOIS DE, e os com 前に como TEMPO. Na frase com みたいです, a Anatomia pode escrever \"desejo\" embaixo do PREDICADO, confundindo みたい com 〜たい: ignore essa etiqueta, porque você já sabe a diferença.", "min": 10 },
+    { "tool": "Shadowing", "what": "Toque 🔊 nos exemplos e repita junto 3 vezes. Depois de cada exemplo de みたい, diga também a versão com そう de aparência (ふったみたい → ふりそう) até a diferença sair natural.", "min": 5 },
+    { "tool": "Fala", "what": "Grave a sua noite (lição de casa h4) em até 40 s. Como esta aula fecha a Lição 17, grave também 1 frase com cada ponto da lição: そうです, って, たら, なくてもいい, みたい, 前に e てから.", "min": 5 }
+  ],
+  "culture": {
+    "title": "りゅうこうご: palavras da moda",
+    "titleJp": "りゅうこうご",
+    "body": "O japonês cria **palavras da moda** (りゅうこうご) o tempo todo, e muitas nascem na TV, na internet, nos animes ou nos bordões de comediantes. Todo fim de ano, um prêmio conhecido, o 新語・流行語大賞 (しんご・りゅうこうごたいしょう), escolhe as palavras que marcaram o ano, e o resultado costuma aparecer nos jornais e na TV. Muitas gírias são **abreviações**: あけおめ vem de あけましておめでとう, e スマホ vem de スマートフォン. Algumas mudam de sentido: ヤバい queria dizer só \"perigoso, ruim\", e hoje os jovens também usam para \"incrível\". A maioria some em poucos anos, mas algumas ficam e entram no dicionário. Entre os jovens, até o みたいな desta aula virou muleta no fim da frase, parecido com o nosso \"tipo assim\".",
+    "try": "Procure na internet a lista do 新語・流行語大賞 de um ano recente e copie no caderno 3 palavras, com o sentido de cada uma. Depois use ヤバい nos dois sentidos, em duas frases: このテスト、ヤバい… (ruim) e このケーキ、ヤバい！ (incrível)."
+  },
+  "checklist": [
+    "Faço deduções com forma curta + みたいです, sem だ depois de substantivo e adjetivo な (るすみたいです), sem olhar.",
+    "Uso N みたい e みたいな N para comparar: 子どもみたい, モデルみたいな人.",
+    "Diferencio ふりそう, ふったみたい e ふるそう pela cena: vejo, deduzo ou me contaram.",
+    "Digo o que faço antes de algo com forma de dicionário + 前に, mesmo em frases no passado.",
+    "Digo o que faço depois de algo com forma て + から, e troco uma frase de 前に para てから sem mudar o sentido.",
+    "Não confundo 〜てから (depois de) com 〜から (porque) nem com 〜たら (condição).",
+    "Fiz a lição de casa e conferi o gabarito, e refiz o que errei.",
+    "Se tenho o Genki II Workbook, fiz os exercícios de 〜みたいです e 〜前に／〜てから da Lição 17."
+  ]
+}

@@ -3,6 +3,9 @@
 <head>
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
+<!-- security: the page may not load or send anything over the network (no scripts from outside, no fetch/XHR/beacons) -->
+<meta http-equiv="Content-Security-Policy" content="default-src 'none'; script-src 'unsafe-inline'; style-src 'unsafe-inline'; img-src 'self' data:; media-src 'self' data:; connect-src 'none'; object-src 'none'; base-uri 'none'; form-action 'none'">
+<meta name="referrer" content="no-referrer">
 <title>Curso de Japonês ヅオリンゴー · 日本語コース</title>
 <style>
   :root{
@@ -139,6 +142,7 @@
   h2.sec{font-size:18px;margin:18px 0 6px}
   .res{display:grid;gap:8px}.resi{background:var(--bg3);border-radius:12px;padding:10px 12px}
   .resi .t{font-weight:600}.resi .d{font-size:13px;color:var(--muted)}
+  .savebadge{text-decoration:none;margin-left:4px;white-space:nowrap}.savebadge:hover{color:var(--fg)}
   .toast{position:fixed;left:50%;bottom:20px;transform:translateX(-50%);background:var(--bg3);border:1px solid var(--line);border-radius:12px;padding:8px 14px;font-size:13px;opacity:0;transition:opacity .2s;pointer-events:none;z-index:20}
   .toast.show{opacity:1}
   .empty{padding:30px;text-align:center;color:var(--muted)}
@@ -149,7 +153,7 @@
 <body>
 <div class="wrap">
   <header class="top">
-    <h1>Curso de Japonês <span class="jp">日本語コース</span></h1>
+    <h1>ヅオリンゴー <span class="jp">日本語コース</span></h1>
     <nav class="tabs" id="tabs">
       <a href="#/" data-v="home">Trilha</a>
       <a href="#/rotina" data-v="rotina">Rotina</a>
@@ -159,10 +163,11 @@
     </nav>
     <div class="lede" id="lede"></div>
   </header>
-  <div class="bar"><div class="barrow"><div class="prog"><i id="progbar"></i></div><div class="pct" id="pct"></div></div></div>
+  <div class="bar"><div class="barrow"><div class="prog"><i id="progbar"></i></div><div class="pct" id="pct"></div><a class="pct savebadge" id="savebadge" href="#/progresso" title="Salvamento"></a></div></div>
   <main id="view"></main>
 </div>
 <div class="toast" id="toast"></div>
+<script>/*__STORE_JS__*/</script>
 <script>window.CURSO = /*__CURSO_DATA__*/null;</script>
 <script>
 'use strict';
@@ -181,12 +186,16 @@
   var KIND_PT = { action: 'ação', existence: 'existência', identity: 'identidade (é)', description: 'descrição', request: 'pedido', wish: 'desejo', invitation: 'convite / sugestão', progress: 'em andamento / estado', explanation: 'explicação (〜んです)', experience: 'experiência', intention: 'intenção', obligation: 'obrigação', setphrase: 'expressão pronta', permission: 'permissão', prohibition: 'proibição' };
   var DAYS = ['Seg', 'Ter', 'Qua', 'Qui', 'Sex', 'Sáb', 'Dom'];
 
-  // ---------- state ----------
-  var S = load();
-  function load() { try { var s = JSON.parse(localStorage.getItem(KEY) || '{}'); return norm(s); } catch (e) { return norm({}); } }
+  // ---------- state: src/store.js (localStorage + IndexedDB mirror + restore points + optional synced file) ----------
   function norm(s) { s.pts = s.pts || {}; s.chk = s.chk || {}; s.hw = s.hw || {}; s.notes = s.notes || {}; s.rot = s.rot || {}; return s; }
-  var saveT = null;
-  function save() { clearTimeout(saveT); saveT = setTimeout(function () { try { localStorage.setItem(KEY, JSON.stringify(S)); } catch (e) { toast('Não consegui salvar (armazenamento bloqueado?)'); } }, 150); }
+  var REPLACE_MSG = { 'arquivo': '📁 Progresso sincronizado com o arquivo', 'importado': 'Backup importado', 'restaurado': 'Ponto de restauração aplicado', 'zerado': 'Progresso zerado — dá para desfazer em Pontos de restauração', 'recuperado do espelho': 'Progresso recuperado da cópia de segurança do navegador' };
+  var CUR_VIEW = 'home';
+  var STORE = window.CursoStore.createStore({
+    onReplace: function (ns, why) { S = norm(ns); route(true); if (REPLACE_MSG[why]) toast(REPLACE_MSG[why]); },
+    onStatus: function () { renderSaveBadge(); if (CUR_VIEW === 'progresso') renderSaveCard(); }
+  });
+  var S = norm(STORE.state);
+  function save() { STORE.save(); }
   function toast(m) { var t = document.getElementById('toast'); t.textContent = m; t.classList.add('show'); clearTimeout(t._h); t._h = setTimeout(function () { t.classList.remove('show'); }, 1800); }
 
   // ---------- data helpers ----------
@@ -229,9 +238,10 @@
   // ---------- views ----------
   var view = document.getElementById('view');
   function setTab(v) { [].forEach.call(document.querySelectorAll('#tabs a'), function (a) { a.classList.toggle('on', a.getAttribute('data-v') === v); }); }
-  function route() {
-    var h = location.hash.replace(/^#\/?/, ''), parts = h.split('/');
-    window.scrollTo(0, 0);
+  function route(keepScroll) {
+    var h = location.hash.replace(/^#\/?/, ''), parts = h.split('/'), y = window.scrollY;
+    CUR_VIEW = parts[0] || 'home';
+    if (keepScroll !== true) window.scrollTo(0, 0);
     if (parts[0] === 'aula' && parts[1]) { setTab('home'); renderAula(decodeURIComponent(parts[1])); }
     else if (parts[0] === 'rotina') { setTab('rotina'); renderRotina(); }
     else if (parts[0] === 'guia') { setTab('guia'); renderGuia(); }
@@ -239,8 +249,9 @@
     else if (parts[0] === 'progresso') { setTab('progresso'); renderProgresso(); }
     else { setTab('home'); renderHome(); }
     updateBar();
+    if (keepScroll === true) window.scrollTo(0, y);   // a sync/import re-render keeps your place
   }
-  window.addEventListener('hashchange', route);
+  window.addEventListener('hashchange', function () { route(); });
 
   // ----- home / trail -----
   var homeQuery = '';
@@ -436,20 +447,70 @@
     var h = '<div class="card hero"><div class="big">' + (total ? Math.round(done / total * 100) : 0) + '%</div><div><div><b>' + done + '</b> de ' + total + ' aulas dominadas</div><div class="small muted">✍️ ' + ptsS + '/' + pts + ' pontos estudados · 📱 ' + ptsW + ' praticados · 📓 ' + hw + ' lições de casa feitas</div></div></div>';
     h += '<div class="card"><h2 class="sec" style="margin-top:0">Marcos</h2>' + ms.map(function (m) { return '<div class="wb"><span class="pg">' + (isDone(m.id) ? '🏁' : '◻') + '</span><a href="#/aula/' + m.id + '">' + esc(m.title) + '</a></div>'; }).join('') + '</div>';
     h += '<div class="card"><h2 class="sec" style="margin-top:0">Por unidade</h2>' + C.curso.units.map(function (u) { var d = u.aulas.filter(function (a) { return isDone(a.id); }).length; return '<div class="row" style="margin:6px 0"><span style="flex:1">' + esc(u.name) + '</span><div class="mini" style="width:120px"><i style="width:' + (d / u.aulas.length * 100) + '%"></i></div><span class="small muted" style="width:44px;text-align:right">' + d + '/' + u.aulas.length + '</span></div>'; }).join('') + '</div>';
-    h += '<div class="card"><h2 class="sec" style="margin-top:0">Backup e integração</h2><div class="row"><button class="btn" id="exp">⬇ Exportar progresso</button><label class="btn">⬆ Importar backup<input type="file" id="imp" accept="application/json" hidden></label><button class="btn" id="gcimp">Importar do genki-companion</button><button class="btn ghost" id="wipe" style="margin-left:auto">Zerar tudo</button></div><p class="small muted" style="margin-top:8px">O progresso fica só neste navegador (localStorage). O backup é um arquivo .json que você guarda onde quiser. A importação do genki-companion traz as marcas ✍️/📱 e as notas dos 77 pontos, se os dois apps abrirem no mesmo navegador.</p></div>';
+    h += '<div class="card" id="savecard"></div>';
     view.innerHTML = h;
     view.onchange = view.oninput = null;
+    renderSaveCard();
     view.onclick = function (e) {
       var t = e.target.closest('button'); if (!t) return;
-      if (t.id === 'exp') { var blob = new Blob([JSON.stringify({ app: 'curso-japones', version: C.curso.version, state: S }, null, 1)], { type: 'application/json' }); var a = document.createElement('a'); a.href = URL.createObjectURL(blob); a.download = 'curso-japones-progresso.json'; document.body.appendChild(a); a.click(); setTimeout(function () { URL.revokeObjectURL(a.href); a.remove(); }, 500); }
+      var fail = function (err) { if (err && err.name === 'AbortError') return; toast('⚠ ' + ((err && err.message) || err)); };
+      if (t.id === 'exp') downloadText(STORE.exportText(), 'progresso-duoringo-' + stampName() + '.json');
       if (t.id === 'gcimp') importGC();
-      if (t.id === 'wipe') { if (confirm('Apagar TODO o progresso do curso neste navegador? (Exporte antes se quiser guardar.)')) { S = norm({}); save(); renderProgresso(); updateBar(); } }
+      if (t.id === 'fnew') STORE.connectNew().then(function () { toast('📁 Arquivo de progresso conectado'); }, fail);
+      if (t.id === 'fopen') STORE.connectExisting().then(function () { toast('📁 Arquivo conectado e mesclado'); }, fail);
+      if (t.id === 'frec') STORE.reconnect().then(function () { toast('📁 Arquivo reconectado'); }, fail);
+      if (t.id === 'foff') { if (confirm('Desconectar o arquivo? O progresso continua salvo neste navegador.')) STORE.disconnect(); }
+      if (t.id === 'snapnow') STORE.snapshot('manual', true).then(function () { toast('🕘 Ponto de restauração criado'); renderSaveCard(); });
+      if (t.hasAttribute('data-restore')) { if (confirm('Voltar o progresso para este ponto? (O estado atual vira um ponto de restauração antes.)')) STORE.restoreSnapshot(+t.getAttribute('data-restore')).catch(fail); }
+      if (t.id === 'wipe') { if (confirm('Zerar TODO o progresso do curso? Dá para desfazer em "Pontos de restauração".')) STORE.wipe(); }
     };
-    document.getElementById('imp').onchange = function (e) {
-      var f = e.target.files[0]; if (!f) return; var r = new FileReader();
-      r.onload = function () { try { var d = JSON.parse(r.result); if (!d || d.app !== 'curso-japones' || !d.state) throw new Error('arquivo não é um backup do curso'); S = norm(d.state); save(); toast('Backup importado'); renderProgresso(); updateBar(); } catch (err) { toast('Não importei: ' + err.message); } };
-      r.readAsText(f);
-    };
+  }
+  function stampName() { var d = new Date(); return d.getFullYear() + '-' + ('0' + (d.getMonth() + 1)).slice(-2) + '-' + ('0' + d.getDate()).slice(-2); }
+  function hhmm(ts) { if (!ts) return ''; var d = new Date(ts); return ('0' + d.getHours()).slice(-2) + ':' + ('0' + d.getMinutes()).slice(-2); }
+  function when(ts) { var d = new Date(ts); return ('0' + d.getDate()).slice(-2) + '/' + ('0' + (d.getMonth() + 1)).slice(-2) + ' ' + hhmm(ts); }
+  function downloadText(text, name) {
+    var blob = new Blob([text], { type: 'application/json' }), a = document.createElement('a');
+    a.href = URL.createObjectURL(blob); a.download = name; document.body.appendChild(a); a.click();
+    setTimeout(function () { URL.revokeObjectURL(a.href); a.remove(); }, 500);
+  }
+  function mapN() { return MAP.filter(function (m) { return aula(m.id); }).map(function (m) { return { id: m.id, n: aula(m.id).checklist.length }; }); }
+  function renderSaveBadge() {
+    var el = document.getElementById('savebadge'); if (!el) return;
+    var st = STORE.status, txt = '💾' + (st.saved ? ' ' + hhmm(st.saved) : ''), tip = st.saved ? 'Salvo às ' + hhmm(st.saved) + ' (neste navegador, em cópia dupla)' : 'Salvamento automático ativo';
+    if (st.file) { var ok = st.filePerm === 'granted' && !st.fileError; txt += ok ? ' · 📁' : ' · 📁⚠'; tip += ok ? ' · arquivo ' + st.file + (st.fileSync ? ' sincronizado às ' + hhmm(st.fileSync) : '') : ' · o arquivo precisa ser reconectado (aba Progresso)'; }
+    el.textContent = txt; el.title = tip;
+  }
+  function renderSaveCard() {
+    var box = document.getElementById('savecard'); if (!box) return;
+    var st = STORE.status, h = '<h2 class="sec" style="margin-top:0">💾 Salvamento e backup</h2>';
+    h += '<div class="small" style="display:grid;gap:4px">';
+    h += '<div>' + (st.lsError ? '⚠ O armazenamento principal está cheio/bloqueado: usando só a cópia do IndexedDB.' : '✅ Salvo automaticamente neste navegador, em <b>cópia dupla</b> (localStorage + IndexedDB)' + (st.saved ? ' · última alteração às ' + hhmm(st.saved) : '') + '.') + '</div>';
+    h += '<div>' + (st.persisted === true ? '🔒 Armazenamento <b>persistente</b>: o navegador não apaga estes dados sozinho.' : st.persisted === false ? '⚠ O navegador pode limpar dados de sites quando falta espaço: conecte um arquivo abaixo ou exporte de vez em quando.' : '… verificando se o armazenamento é persistente.') + '</div>';
+    h += '<div>🕘 Pontos de restauração automáticos (os últimos 30) protegem contra erros e importações ruins.</div></div>';
+    // synced file
+    h += '<h3 style="font-size:14px;margin:14px 0 6px">📁 Arquivo de progresso sincronizado</h3>';
+    if (!STORE.hasFileAPI) h += '<p class="small muted">Disponível no Edge/Chrome do computador. Neste navegador, leve o progresso com <b>Exportar</b> e <b>Importar e mesclar</b>.</p>';
+    else if (!st.file) h += '<p class="small muted">Conecte um arquivo uma vez: o curso grava nele a cada alteração e relê quando você volta para a aba. Guarde-o numa pasta do <b>OneDrive/Google Drive</b> e conecte o mesmo arquivo no site, no arquivo local e no app: o progresso fica igual em todos. Conectar um arquivo que já tem progresso <b>mescla</b>, sem apagar nada.</p><div class="row"><button class="btn primary" id="fnew">Criar arquivo de progresso</button><button class="btn" id="fopen">Usar um arquivo que já existe</button></div>';
+    else h += '<div class="row"><span class="small">📁 <b>' + esc(st.file) + '</b> · ' + (st.filePerm === 'granted' ? (st.fileSync ? 'sincronizado às ' + hhmm(st.fileSync) : 'conectado') : '<span style="color:var(--amber)">precisa de permissão de novo</span>') + '</span>' + (st.filePerm !== 'granted' ? '<button class="btn primary" id="frec">🔄 Reconectar</button>' : '') + '<button class="btn ghost" id="foff">Desconectar</button></div>' + (st.fileError ? '<p class="small" style="color:var(--amber)">⚠ ' + esc(st.fileError) + '</p>' : '');
+    // export / import
+    h += '<h3 style="font-size:14px;margin:14px 0 6px">⇅ Exportar / importar</h3><div class="row"><button class="btn" id="exp">⬇ Exportar backup</button><label class="btn">⬆ Importar e mesclar<input type="file" id="impm" accept="application/json,.json" hidden></label><label class="btn">⬆ Importar e substituir<input type="file" id="impr" accept="application/json,.json" hidden></label><button class="btn" id="gcimp">Importar do genki-companion</button></div>';
+    h += '<p class="small muted" style="margin-top:6px"><b>Mesclar</b> une os dois lados (vale a alteração mais recente de cada item; notas diferentes são mantidas as duas). <b>Substituir</b> troca tudo pelo backup. O backup tem soma de verificação: arquivo corrompido ou alterado é recusado. Nada sai do seu computador: o curso não usa internet para salvar.</p>';
+    // restore points
+    h += '<details style="margin-top:10px"><summary style="cursor:pointer" class="small">🕘 Pontos de restauração</summary><div id="snaps" class="small muted" style="margin-top:6px">carregando…</div><div class="row" style="margin-top:6px"><button class="btn ghost" id="snapnow">Criar ponto agora</button><button class="btn ghost" id="wipe" style="margin-left:auto">Zerar tudo</button></div></details>';
+    box.innerHTML = h;
+    var imp = function (mode) { return function (e) {
+      var f = e.target.files[0]; if (!f) return;
+      f.text().then(function (text) { return STORE.importText(text, mode); }).then(function () { if (mode !== 'replace') toast('Backup mesclado ao seu progresso'); }, function (err) { toast('⚠ Não importei: ' + (err.message || err)); });
+      e.target.value = '';
+    }; };
+    document.getElementById('impm').onchange = imp('merge');
+    document.getElementById('impr').onchange = function (e) { if (!confirm('Substituir TODO o progresso por este backup? (O atual vira um ponto de restauração antes.)')) { e.target.value = ''; return; } imp('replace')(e); };
+    STORE.listSnapshots().then(function (list) {
+      var el = document.getElementById('snaps'); if (!el) return;
+      if (!list || !list.length) { el.textContent = 'Nenhum ponto ainda: eles aparecem conforme você estuda.'; return; }
+      var M = mapN();
+      el.innerHTML = list.slice(0, 30).map(function (x) { var s = window.CursoStore.stats(x.state, M); return '<div class="wb"><span class="pg" style="min-width:92px">' + when(x.ts) + '</span><span style="flex:1">' + esc(x.why) + ' · ' + s.mastered + ' aulas dominadas · ✍️ ' + s.studied + '</span><button class="ibtn" data-restore="' + x.id + '">Restaurar</button></div>'; }).join('');
+    });
   }
   function importGC() {
     var raw = null; try { raw = localStorage.getItem('genki_companion_v1'); } catch (e) {}
@@ -465,6 +526,8 @@
   }
 
   route();
+  renderSaveBadge();
+  STORE.init();   // reconcile with the IndexedDB mirror and the synced file (re-renders only if something changed)
 })();
 </script>
 </body>
