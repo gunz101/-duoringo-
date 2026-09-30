@@ -73,7 +73,7 @@
         "もう + negativo é \"não … mais\": もう 食べません = não vou comer mais. Para \"ainda não\", use まだ (ponto 4b)."
       ],
       "howToStudy": [
-        "Faça 5 perguntas もう 〜ましたか sobre o seu dia (ひるごはん, しゅくだい, o SRS do Mirage…) e responda com a verdade.",
+        "Faça 5 perguntas もう 〜ましたか sobre o seu dia (ひるごはん, しゅくだい, o SRS do ヅオリンゴー…) e responda com a verdade.",
         "Aperte 🔬 no exemplo 2: o ★ PREDICADO はじまりました está no passado. É ele, junto com o もう, que dá o \"já começou\".",
         "Fala: diga em voz alta a versão casual das suas 5 perguntas e respostas (もう 〜た？— うん、もう 〜た。)."
       ],
@@ -188,22 +188,22 @@
       { "p": 93, "t": "7 · ～から", "tip": "Faça depois do ponto 4c." },
       { "p": 94, "t": "8 · 答えましょう (Questions)", "tip": "Revisão da lição inteira: faça por último, respondendo com frases suas." },
       { "p": 95, "t": "9 · 聞く練習 (Listening Comprehension)", "tip": "Precisa do áudio oficial do Workbook." },
-      { "p": 145, "t": "Kanji Practice", "tip": "Leitura e escrita: os kanji da Lição 9. Antes, treine a ordem dos traços em Mirage → Kanji → ✍️ Escrever." },
+      { "p": 145, "t": "Kanji Practice", "tip": "Leitura e escrita: os kanji da Lição 9. Antes, treine a ordem dos traços em ヅオリンゴー → Kanji → ✍️ Escrever." },
       { "p": 146, "t": "Using Kanji", "tip": "Depois da p. 145. Confira no Genki Answer Key oficial." }
     ]
   },
   "practice": [
     { "tool": "Wagotabi", "what": "Jogue normalmente e cace nos diálogos もう, まだ e から. Para cada から, diga em voz alta qual é o motivo e qual é o resultado. Copie 2 frases no caderno.", "min": 15 },
-    { "tool": "Mirage", "what": "Vocabulário da Lição 9 no SRS. Depois, Praticar L9: compreensão e escuta.", "min": 10 },
-    { "tool": "Kanji", "what": "Mirage → Kanji → ✍️ Escrever: os 15 kanji da Lição 9 (午 後 前 名 白 雨 書 友 間 家 話 少 古 知 来), antes das pp. 145–146 do Workbook.", "min": 10 },
-    { "tool": "Mirage", "what": "Diário: escreva 3 frases sobre hoje, uma com もう, uma com まだ 〜ていない e uma com から. Abra \"Anatomia do que escrevi\" e confira se o bloco com から aparece como MOTIVO.", "min": 5 },
+    { "tool": "ヅオリンゴー", "what": "Vocabulário da Lição 9 no SRS. Depois, Praticar L9: compreensão e escuta.", "min": 10 },
+    { "tool": "Kanji", "what": "ヅオリンゴー → Kanji → ✍️ Escrever: os 15 kanji da Lição 9 (午 後 前 名 白 雨 書 友 間 家 話 少 古 知 来), antes das pp. 145–146 do Workbook.", "min": 10 },
+    { "tool": "ヅオリンゴー", "what": "Diário: escreva 3 frases sobre hoje, uma com もう, uma com まだ 〜ていない e uma com から. Abra \"Anatomia do que escrevi\" e confira se o bloco com から aparece como MOTIVO.", "min": 5 },
     { "tool": "Fala", "what": "Leia em voz alta a sua troca de mensagens (lição de casa h4), fazendo as duas vozes, e grave.", "min": 5 }
   ],
   "culture": {
     "title": "LINE e stickers (スタンプ)",
     "titleJp": "LINEの スタンプ",
     "body": "No Japão, o aplicativo de mensagens mais usado é o **LINE**, lançado em 2011. É por ele que conversam amigos, famílias, grupos de escola e de trabalho, e muitas lojas também têm conta nele. Uma marca do LINE são as **スタンプ** (sutampu): ilustrações grandes de personagens que fazem o papel de uma frase inteira, como um urso agradecendo ou alguém fazendo reverência. Há stickers grátis, pagos e criados por usuários, e muitos trazem frases prontas em japonês casual, como りょうかい (entendido) ou おつかれ (valeu pelo esforço). O LINE mostra **既読** (きどく, \"lido\") quando a mensagem é aberta; por isso, ler e demorar muito para responder (o 既読スルー) pode incomodar algumas pessoas. Entre amigos, as mensagens usam justamente as formas curtas desta lição: もう 帰った？— まだ。",
-    "try": "Escreva no caderno ou no Diário do Mirage 3 mensagens curtas que você mandaria a um amigo japonês: uma com もう, uma com まだ e uma com から. Se você usa LINE, abra a loja de スタンプ e repare nas frases escritas nos stickers."
+    "try": "Escreva no caderno ou no Diário do ヅオリンゴー 3 mensagens curtas que você mandaria a um amigo japonês: uma com もう, uma com まだ e uma com から. Se você usa LINE, abra a loja de スタンプ e repare nas frases escritas nos stickers."
   },
   "checklist": [
     "Pergunto e respondo \"já…?\" com もう 〜ましたか / もう 〜ました, sem olhar.",

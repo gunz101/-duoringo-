@@ -184,9 +184,9 @@
   },
   "practice": [
     { "tool": "Wagotabi", "what": "Jogue normalmente. Sempre que um diálogo terminar em です ou ですか, pause e diga em voz alta qual é o tópico (は) e qual é o predicado. Copie 2 dessas frases no caderno.", "min": 15 },
-    { "tool": "Mirage", "what": "Vocabulário da Lição 1 no SRS. Depois, Treinos → 🔬 Anatomia → 🏷 Etiquetar: 5 frases.", "min": 10 },
+    { "tool": "ヅオリンゴー", "what": "Vocabulário da Lição 1 no SRS. Depois, Treinos → 🔬 Anatomia → 🏷 Etiquetar: 5 frases.", "min": 10 },
     { "tool": "Shadowing", "what": "Toque 🔊 em cada exemplo desta aula e repita junto 3 vezes, imitando o ritmo. As sílabas têm todas a mesma duração.", "min": 5 },
-    { "tool": "Kana", "what": "Se ainda está na fase de kana: 10 min na Trilha de Kana (Mirage) ou no kana-flow.", "min": 10 },
+    { "tool": "Kana", "what": "Se ainda está na fase de kana: 10 min na Trilha de Kana (ヅオリンゴー) ou no kana-flow.", "min": 10 },
     { "tool": "Fala", "what": "Grave sua autoapresentação (lição de casa h4) em até 30 s. Ouça e compare com a gravação da semana que vem.", "min": 5 }
   ],
   "culture": {

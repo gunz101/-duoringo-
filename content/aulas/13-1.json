@@ -1,0 +1,218 @@
+{
+  "id": "13-1",
+  "unit": "G2-L13",
+  "genki": { "book": "Genki II", "lesson": 13, "points": ["Potential Verbs"] },
+  "title": "Poder fazer",
+  "titleJp": "日本語が話せます",
+  "canDo": [
+    "Passar qualquer verbo para a forma potencial: 食べる → 食べられる, 飲む → 飲める, する → できる, 来る → 来られる.",
+    "Dizer o que eu consigo e o que não consigo fazer, no presente e no passado: 漢字が読めます / きのうはねられませんでした.",
+    "Escolher a partícula do objeto com o potencial (が, ou を) e manter as outras partículas (で, に) como estão.",
+    "Reconhecer as formas ら抜き da fala casual (見れる, 来れる) e escrever a forma padrão (見られる, 来られる).",
+    "Dizer a mesma coisa com 〜ことができる, num tom mais formal, e saber quando cada forma soa melhor."
+  ],
+  "duration": {
+    "total": "60–75 min",
+    "blocks": [
+      { "t": "Aquecimento: diga em voz alta a forma de dicionário de 10 verbos do Genki I (飲みます → 飲む, 来ます → 来る…) e o tipo de cada um (る, う ou irregular)", "min": 5 },
+      { "t": "Vocabulário: ouvir 🔊 cada palavra e repetir 2 vezes", "min": 10 },
+      { "t": "Gramática: os 3 pontos, cada um com os exemplos lidos em voz alta e um 🔬", "min": 25 },
+      { "t": "Vídeo da Lição 13 (bloco 6), só a parte do potencial", "min": 10 },
+      { "t": "Lição de casa no caderno + conferir no gabarito", "min": 15 },
+      { "t": "Checklist (bloco 10) + anotar dúvidas no caderno da aula", "min": 5 }
+    ]
+  },
+  "prereqs": {
+    "aulas": ["M-3"],
+    "skills": [
+      "Forma de dicionário de todos os verbos, sabendo se cada um é る, う ou irregular (Aulas 03-1 e 08-1). A forma potencial sai direto dela.",
+      "Forma ない e passado curto (Aulas 08-1 e 09-1). O potencial conjuga como um verbo る: 飲めない, 飲めた…",
+      "は de contraste (Aula 03-2), que aparece muito nas frases negativas com potencial.",
+      "Frases que descrevem substantivos (Aula 09-2) e 〜たり〜たりする (Aula 11-1), que aparecem em dois exemplos.",
+      "A partir do Genki II, as frases vêm sem espaços e com mais kanji. O kana vem sempre ao lado."
+    ],
+    "vocab": [
+      { "jp": "話す", "kana": "はなす", "romaji": "hanasu", "pt": "falar (potencial: 話せる)" },
+      { "jp": "読む", "kana": "よむ", "romaji": "yomu", "pt": "ler (potencial: 読める)" },
+      { "jp": "およぐ", "kana": "およぐ", "romaji": "oyogu", "pt": "nadar (potencial: およげる)" },
+      { "jp": "運転する", "kana": "うんてんする", "romaji": "unten suru", "pt": "dirigir (carro) (potencial: 運転できる)" },
+      { "jp": "作る", "kana": "つくる", "romaji": "tsukuru", "pt": "fazer, preparar (comida), criar" },
+      { "jp": "料理", "kana": "りょうり", "romaji": "ryōri", "pt": "comida, prato; culinária (ブラジル料理 = comida brasileira)" },
+      { "jp": "着物", "kana": "きもの", "romaji": "kimono", "pt": "quimono" },
+      { "jp": "着る", "kana": "きる", "romaji": "kiru", "pt": "vestir (camisa, casaco, quimono)" },
+      { "jp": "ひく", "kana": "ひく", "romaji": "hiku", "pt": "tocar (piano, violão): ピアノを ひく" },
+      { "jp": "歌う", "kana": "うたう", "romaji": "utau", "pt": "cantar" },
+      { "jp": "漢字", "kana": "かんじ", "romaji": "kanji", "pt": "kanji, ideograma" },
+      { "jp": "起きる", "kana": "おきる", "romaji": "okiru", "pt": "acordar, levantar-se (potencial: 起きられる)" },
+      { "jp": "肉", "kana": "にく", "romaji": "niku", "pt": "carne" },
+      { "jp": "魚", "kana": "さかな", "romaji": "sakana", "pt": "peixe" },
+      { "jp": "一人で", "kana": "ひとりで", "romaji": "hitori de", "pt": "sozinho(a)" },
+      { "jp": "アルバイト（バイト）", "kana": "アルバイト（バイト）", "romaji": "arubaito (baito)", "pt": "trabalho de meio período, \"bico\"" },
+      { "jp": "店長", "kana": "てんちょう", "romaji": "tenchō", "pt": "gerente da loja" },
+      { "jp": "めんせつ", "kana": "めんせつ", "romaji": "mensetsu", "pt": "entrevista (de emprego)" },
+      { "jp": "自転車", "kana": "じてんしゃ", "romaji": "jitensha", "pt": "bicicleta" },
+      { "jp": "のる", "kana": "のる", "romaji": "noru", "pt": "andar de, pegar (veículo): 自転車に のる" },
+      { "jp": "使う", "kana": "つかう", "romaji": "tsukau", "pt": "usar (potencial: 使える)" },
+      { "jp": "さがす", "kana": "さがす", "romaji": "sagasu", "pt": "procurar" },
+      { "jp": "できる", "kana": "できる", "romaji": "dekiru", "pt": "conseguir, poder; saber fazer (é o potencial de する)" },
+      { "jp": "〜ことができる", "kana": "〜ことができる", "romaji": "-koto ga dekiru", "pt": "conseguir/poder fazer… (tom mais formal)" }
+    ]
+  },
+  "grammar": [
+    {
+      "id": "13-1-a",
+      "gc": null,
+      "title": "Formação: 食べられる, 飲める, できる, 来られる",
+      "gloss": "a forma potencial: \"consigo / posso fazer\"",
+      "explanation": "A forma potencial diz o que alguém **consegue** ou **pode** fazer: \"sei nadar\", \"consigo acordar às seis\", \"dá para comer isto\". Em japonês não existe um verbo separado como o \"poder\" do português. É o **próprio verbo** que muda de forma. Parta sempre da **forma de dicionário** (Aula 08-1) e veja o tipo do verbo.\n• **Verbos る**: tire o る e ponha **られる**. 食べ|る → 食べ|られる; 見る → 見られる; 起きる → 起きられる.\n• **Verbos う**: troque o **u** final pelo **e** da mesma fileira e ponha **る**. 飲む (nom**u**) → 飲める (nom**e**ru); 行く → 行ける; 話す → 話せる; 待つ → 待てる; 帰る → 帰れる; およぐ → およげる; あそぶ → あそべる. Os terminados em う vão para え: 買う → 買える; 歌う → 歌える.\n• **Irregulares**: **する → できる** (運転する → 運転できる) e **来る → 来られる** (こられる).\n• **O potencial é um verbo る novo.** Depois de formado, ele conjuga como 食べる: 飲める → 飲めます (consigo), 飲めません (não consigo), 飲めました (consegui), 飲めませんでした (não consegui), 飲めない, 飲めた.\n• **ら抜き (\"sem o ら\")**: na fala casual, muita gente tira o ら dos verbos る e de 来る: 見れる, 食べれる, 来れる (これる). Você vai ouvir isso o tempo todo em conversas, animes e jogos. Mas a forma padrão, a do Genki, das provas e da escrita, é **見られる, 食べられる, 来られる**. Entenda as duas e escreva a padrão.\n• Na frase, o verbo potencial é o **PREDICADO**, no fim. Leia por ele: \"consegue acordar?\" → a que horas? → toda manhã.",
+      "structure": "る: [radical] + られる · う: u → e + る · する → できる · 来る → 来られる",
+      "examples": [
+        { "jp": "ペドロさんはポルトガル語と英語と日本語が話せます。", "kana": "ペドロさんはポルトガルごとえいごとにほんごがはなせます。", "romaji": "Pedoro-san wa porutogarugo to eigo to nihongo ga hanasemasu.", "pt": "O Pedro sabe falar português, inglês e japonês." },
+        { "jp": "毎朝六時に起きられますか。— いいえ、六時には起きられません。", "kana": "まいあさろくじにおきられますか。— いいえ、ろくじにはおきられません。", "romaji": "Maiasa rokuji ni okiraremasu ka. — Iie, rokuji ni wa okiraremasen.", "pt": "Você consegue acordar às seis toda manhã? — Não, às seis eu não consigo." },
+        { "jp": "マリアさんは日曜日にアルバイトがあるので、パーティーに来られません。", "kana": "マリアさんはにちようびにアルバイトがあるので、パーティーにこられません。", "romaji": "Maria-san wa nichiyōbi ni arubaito ga aru node, pātī ni koraremasen.", "pt": "A Maria tem bico no domingo, então não pode vir à festa." }
+      ],
+      "pitfalls": [
+        "Verbo う vai para a fileira do え, não do あ: 行かれる ✗ → 行ける ✓. (行かれる existe, mas é a voz passiva, que chega na Aula 21-1.)",
+        "帰る, 入る, 知る e 走る parecem verbos る, mas são う: 帰られる ✗ → 帰れる ✓ (かえ|る → かえ|れる).",
+        "する vira できる, e 来る vira こられる, com こ: 運転しられる ✗ → 運転できる ✓; きられる ✗ → こられる ✓.",
+        "わかる já quer dizer \"entender, estar claro para mim\" e não tem potencial: わかれる ✗ (é outra palavra, \"separar-se\"). \"Consigo entender\" = わかります ✓."
+      ],
+      "howToStudy": [
+        "Faça uma tabela no caderno com 12 verbos (4 る, 6 う, する e 来る) em três colunas: dicionário → potencial → potencial + ません. Leia em voz alta, linha por linha, e marque 帰る com cor.",
+        "Aperte 🔬 no exemplo 2. O PREDICADO é 起きられますか; 毎朝 e 六時に dizem QUANDO. Leia de trás pra frente: consegue acordar? → a que horas? → toda manhã. Na resposta, repare no には: o に de horário ficou e ganhou um は de contraste.",
+        "Fale em voz alta 5 coisas que você consegue fazer e 3 que não consegue, todas verdadeiras: 自転車にのれます。ピアノはひけません。…"
+      ],
+      "flag": "Confira no seu Genki II se a lição traz estes pontos nesta ordem."
+    },
+    {
+      "id": "13-1-b",
+      "gc": null,
+      "title": "O objeto do potencial: が (e também を)",
+      "gloss": "日本語が話せます / 日本語を話せます",
+      "explanation": "Com um verbo comum, o objeto leva を: 日本語を話します. Com o potencial, é muito comum o objeto passar a levar **が**: 日本語**が**話せます. O motivo é que a frase deixa de contar uma ação e passa a descrever uma **capacidade**, um estado. Com estados o japonês gosta de が, como em すしが好きです (Aula 05-2).\n• **Não é regra absoluta.** Com o potencial, **を também aparece**, e muitos falantes usam as duas: 日本語を話せます não está errado. Você vai ver を com frequência em frases mais longas, como no exemplo 3. O Genki e a maioria dos livros apresentam **が** como o padrão. Na dúvida, use が.\n• **Só o を pode mudar.** As outras partículas ficam como estão: 海**で**およげます (lugar), 友だち**に**会えます (com quem), 自転車**に**のれます (em quê), 一人**で**行けます (como).\n• Na negativa e nos contrastes, aparece muito o **は** de contraste (Aula 03-2): 肉**は**食べられません = \"carne, eu não posso comer\" (outras coisas, sim).\n• できる também funciona sozinho, com um substantivo: 日本語**が**できます (\"sei japonês\"), 料理**が**できます (\"sei cozinhar\"), テニスができます.\n• Anatomia: em 漢字が読めます, o bloco com が é **o que você consegue ler**, mesmo com が. Quem lê é o tópico, que muitas vezes nem aparece.",
+      "structure": "[objeto] が [potencial] (padrão) · [objeto] を [potencial] (também ocorre) · で, に… não mudam",
+      "examples": [
+        { "jp": "ルーカスさん、漢字が読めますか。— はい、少し読めます。", "kana": "ルーカスさん、かんじがよめますか。— はい、すこしよめます。", "romaji": "Rūkasu-san, kanji ga yomemasu ka. — Hai, sukoshi yomemasu.", "pt": "Lucas, você consegue ler kanji? — Sim, consigo ler um pouco." },
+        { "jp": "父は、魚は食べられますが、肉は食べられません。", "kana": "ちちは、さかなはたべられますが、にくはたべられません。", "romaji": "Chichi wa, sakana wa taberaremasu ga, niku wa taberaremasen.", "pt": "Meu pai pode comer peixe, mas carne não." },
+        { "jp": "ポルトガル語を話せる人をさがしています。", "kana": "ポルトガルごをはなせるひとをさがしています。", "romaji": "Porutogarugo o hanaseru hito o sagashite imasu.", "pt": "Estamos procurando alguém que saiba falar português. (anúncio de vaga)" }
+      ],
+      "pitfalls": [
+        "A troca vale só para o objeto. Lugar continua com で: 海がおよげます ✗ → 海でおよげます ✓.",
+        "Com o verbo comum, o objeto continua com を: 日本語が話します ✗ → 日本語を話します ✓. O が só aparece quando o verbo vira potencial (話せます).",
+        "を com o potencial não é erro. Se você ouvir 日本語を話せます, está certo. Só não use を com できる + substantivo: 日本語をできます ✗ → 日本語ができます ✓."
+      ],
+      "howToStudy": [
+        "Leia cada exemplo duas vezes, uma com が e outra com を. Depois volte para が, que é a forma do livro e a que você vai usar na lição de casa.",
+        "Aperte 🔬 no exemplo 2. Os dois blocos com は são um contraste (peixe × carne). Cada metade tem o seu PREDICADO: 食べられます / 食べられません.",
+        "Escreva 4 frases sobre o que dá e o que não dá para fazer em lugares que você conhece, mantendo a partícula de lugar: 図書館では話せません。この海ではおよげます。…"
+      ],
+      "flag": null
+    },
+    {
+      "id": "13-1-c",
+      "gc": null,
+      "title": "〜ことができる: o jeito mais formal",
+      "gloss": "conseguir / poder fazer (tom de regra, aviso, texto)",
+      "explanation": "Existe um segundo jeito de dizer \"consigo\": **forma de dicionário + ことが できる**. こと transforma a ação numa \"coisa\" (\"o ato de nadar\"), e できる diz que essa coisa é possível. O sentido é praticamente o mesmo do potencial.\n• およげます = およぐことができます; 読めます = 読むことができます.\n• **Quando usar**: 〜ことができる soa **mais formal**, mais de texto. Aparece muito em avisos, regras, sites e anúncios: ここでは写真をとることができません. Na conversa do dia a dia, o potencial é o mais comum.\n• **A partícula**: dentro do bloco com こと, o objeto fica com **を**: 日本語**を**話す**こと**が できます. O が vai depois de こと, não do objeto.\n• Com verbos する, as duas formas convivem: 運転することができます = 運転できます.\n• Dica prática: se você travar na conjugação do potencial no meio da conversa, 〜ことができます quase sempre resolve, porque só pede a forma de dicionário.\n• Na frase, [verbo + こと] é **o que é possível**, e できます é o **PREDICADO**. Leia primeiro o できます (ou できません) e depois pergunte: o quê?",
+      "structure": "[verbo no dicionário] + ことが できます = [potencial] + ます",
+      "examples": [
+        { "jp": "このアプリで、日本のラジオを聞くことができます。", "kana": "このアプリで、にほんのラジオをきくことができます。", "romaji": "Kono apuri de, Nihon no rajio o kiku koto ga dekimasu.", "pt": "Com este aplicativo, dá para ouvir rádio japonesa." },
+        { "jp": "図書館の中では、食べたり飲んだりすることができません。", "kana": "としょかんのなかでは、たべたりのんだりすることができません。", "romaji": "Toshokan no naka de wa, tabetari nondari suru koto ga dekimasen.", "pt": "Dentro da biblioteca não é permitido comer nem beber." },
+        { "jp": "マリアさんは着物を一人で着ることができます。", "kana": "マリアさんはきものをひとりできることができます。", "romaji": "Maria-san wa kimono o hitori de kiru koto ga dekimasu.", "pt": "A Maria consegue vestir o quimono sozinha." }
+      ],
+      "pitfalls": [
+        "O こと é obrigatório: およぐができます ✗ → およぐことができます ✓.",
+        "Antes de こと vai a forma de dicionário, não a forma ます: およぎますことができます ✗ → およぐことができます ✓.",
+        "Não junte as duas formas: およげることができます ✗. Use uma ou outra: およげます ✓ ou およぐことができます ✓.",
+        "Com amigos, 〜ことができる em toda frase soa duro, como um regulamento. No casual, prefira o potencial: あした来られる？ ✓."
+      ],
+      "howToStudy": [
+        "Reescreva em voz alta os 3 exemplos do ponto a com 〜ことができます (話すことができます, 起きることができますか…) e perceba como o tom fica mais formal.",
+        "Treinos → 🔬 Anatomia → 🔬 Analisar: cole o exemplo 2. Repare que 食べたり飲んだりする fica dentro do bloco com こと: esse bloco inteiro é o que \"não é possível\", e できません é o PREDICADO.",
+        "Invente 3 regras para a sua casa ou o seu trabalho, como se fossem placas, com 〜ことができません. Depois diga cada uma de novo com o potencial, como se estivesse explicando a um amigo."
+      ],
+      "flag": "O contraste com 〜ことができる é um acréscimo do curso. Confira se o seu Genki II apresenta essa forma nesta lição; se não apresentar, trate este ponto como bônus."
+    }
+  ],
+  "media": [
+    { "order": 1, "kind": "leitura", "title": "Genki II · Lição 13: diálogo, vocabulário e a explicação de gramática Potential Verbs", "where": "Seu livro Genki II (3ª ed.)", "url": "", "when": "Antes desta aula ou logo depois do bloco de gramática. Os outros pontos da lição ficam para as Aulas 13-2 e 13-3." },
+    { "order": 2, "kind": "video", "title": "Game Gengo: a forma potencial (られる / える)", "where": "YouTube · canal Game Gengo", "url": "", "search": "Game Gengo potential form", "when": "Depois dos pontos a e b, para ver a formação explicada de outro jeito." },
+    { "order": 3, "kind": "leitura", "title": "Tae Kim: a forma potencial (Potential Form), com mais exemplos", "where": "Site · Tae Kim's Guide to Learning Japanese (em inglês)", "url": "", "search": "Tae Kim potential form", "when": "Opcional, depois da lição de casa, se quiser ler mais exemplos." }
+  ],
+  "homework": {
+    "intro": "Faça no caderno, à mão. Escreva com os kanji que você já conhece e em kana o resto. Só depois abra o gabarito, item por item. Circule o que errou e refaça no dia seguinte. Se você tiver o Genki II Workbook, faça também os exercícios desta lição.",
+    "tasks": [
+      {
+        "id": "h1",
+        "type": "transformar",
+        "prompt": "Passe para a forma potencial educada (〜ます). Antes de escrever, decida o tipo do verbo: る, う ou irregular.",
+        "items": [
+          { "q": "食べる", "a": { "jp": "食べられます", "kana": "たべられます", "romaji": "taberaremasu" }, "note": "Verbo る: tira o る e põe られる. 食べれます é ら抜き, da fala casual." },
+          { "q": "飲む", "a": { "jp": "飲めます", "kana": "のめます", "romaji": "nomemasu" }, "note": "Verbo う: む (mu) → め (me) + る." },
+          { "q": "話す", "a": { "jp": "話せます", "kana": "はなせます", "romaji": "hanasemasu" }, "note": "す (su) → せ (se) + る." },
+          { "q": "帰る", "a": { "jp": "帰れます", "kana": "かえれます", "romaji": "kaeremasu" }, "note": "帰る parece verbo る, mas é う: かえ|る → かえ|れる." },
+          { "q": "運転する", "a": { "jp": "運転できます", "kana": "うんてんできます", "romaji": "unten dekimasu" }, "note": "する → できる." },
+          { "q": "来る", "a": { "jp": "来られます", "kana": "こられます", "romaji": "koraremasu" }, "note": "Com こ. 来れます (これます) é ら抜き." }
+        ]
+      },
+      {
+        "id": "h2",
+        "type": "completar",
+        "prompt": "Complete com a partícula. Quando o objeto puder levar が ou を, escreva a forma que o Genki apresenta como padrão.",
+        "items": [
+          { "q": "日本語＿話せます。", "a": { "jp": "が", "romaji": "ga" }, "note": "Objeto do potencial: が é o padrão. を também ocorre (日本語を話せます)." },
+          { "q": "この海＿およげますか。", "a": { "jp": "で", "romaji": "de" }, "note": "Lugar da ação: で não muda com o potencial." },
+          { "q": "一人で自転車＿のれます。", "a": { "jp": "に", "romaji": "ni" }, "note": "のる pede に (em quê), e isso não muda." },
+          { "q": "日曜日は友だち＿会えません。", "a": { "jp": "に", "romaji": "ni" }, "note": "会う pede に (com quem), e o potencial não mexe nisso." },
+          { "q": "ピアノ＿ひくことができます。", "a": { "jp": "を", "romaji": "o" }, "note": "Dentro do bloco com こと, o objeto fica com を. O が vem depois de こと." },
+          { "q": "肉＿食べられませんが、魚は食べられます。", "a": { "jp": "は", "romaji": "wa" }, "note": "Contraste: carne × peixe. É o は de contraste da Aula 03-2." }
+        ]
+      },
+      {
+        "id": "h3",
+        "type": "traduzir",
+        "prompt": "Traduza para o japonês, usando o potencial (e 〜ことができる só onde for pedido).",
+        "items": [
+          { "q": "Eu consigo ler hiragana e katakana, mas kanji ainda não consigo.", "a": { "jp": "ひらがなとカタカナは読めますが、漢字はまだ読めません。", "kana": "ひらがなとカタカナはよめますが、かんじはまだよめません。", "romaji": "Hiragana to katakana wa yomemasu ga, kanji wa mada yomemasen." }, "note": "は de contraste nas duas metades." },
+          { "q": "Você consegue vir amanhã às nove?", "a": { "jp": "あした九時に来られますか。", "kana": "あしたくじにこられますか。", "romaji": "Ashita kuji ni koraremasu ka." } },
+          { "q": "Ontem à noite eu não consegui dormir.", "a": { "jp": "きのうの夜はねられませんでした。", "kana": "きのうのよるはねられませんでした。", "romaji": "Kinō no yoru wa neraremasen deshita." }, "note": "ねる é verbo る: ねられる. Passado negativo: 〜られませんでした." },
+          { "q": "A Ana sabe fazer comida brasileira.", "a": { "jp": "アナさんはブラジル料理が作れます。", "kana": "アナさんはブラジルりょうりがつくれます。", "romaji": "Ana-san wa burajiru ryōri ga tsukuremasu." }, "note": "Com を (ブラジル料理を作れます) também está certo. ブラジル料理ができます também serve." },
+          { "q": "Nesta loja dá para usar cartão?", "a": { "jp": "この店でカードが使えますか。", "kana": "このみせでカードがつかえますか。", "romaji": "Kono mise de kādo ga tsukaemasu ka." } },
+          { "q": "(numa placa) Neste parque não é permitido andar de bicicleta. Use 〜ことができません.", "a": { "jp": "このこうえんでは自転車にのることができません。", "kana": "このこうえんではじてんしゃにのることができません。", "romaji": "Kono kōen de wa jitensha ni noru koto ga dekimasen." }, "note": "Tom de regra: por isso 〜ことができません." }
+        ]
+      },
+      {
+        "id": "h4",
+        "type": "produzir",
+        "prompt": "Você vai fazer a めんせつ (entrevista) para uma アルバイト numa loja. Escreva 5 frases sobre você: 2 coisas que você consegue fazer, 1 que ainda não consegue, 1 dizendo em que dias pode trabalhar e 1 com 〜ことができます. Depois leia em voz alta, como se estivesse na entrevista, e grave no celular.",
+        "items": [
+          { "q": "Modelo, que o seu texto deve seguir na estrutura e não nas palavras:", "a": { "jp": "ポルトガル語と英語が話せます。料理も作れます。でも、漢字はまだあまり読めません。月曜日と水曜日に働けます。土曜日も来ることができます。", "kana": "ポルトガルごとえいごがはなせます。りょうりもつくれます。でも、かんじはまだあまりよめません。げつようびとすいようびにはたらけます。どようびもくることができます。", "romaji": "Porutogarugo to eigo ga hanasemasu. Ryōri mo tsukuremasu. Demo, kanji wa mada amari yomemasen. Getsuyōbi to suiyōbi ni hatarakemasu. Doyōbi mo kuru koto ga dekimasu.", "pt": "Sei falar português e inglês. Também sei cozinhar. Mas ainda não consigo ler muito kanji. Posso trabalhar às segundas e quartas. Aos sábados também posso vir." }, "note": "Confira: 働く → 働ける (う: く → け); o objeto com が (ou も, que substitui o が); a negativa com は de contraste; e 来ることができます com a forma de dicionário antes de こと." }
+        ]
+      }
+    ],
+    "workbook": []
+  },
+  "practice": [
+    { "tool": "Wagotabi", "what": "Jogue normalmente, de preferência numa área de nível N4 se você já tiver chegado lá. Cace verbos potenciais nos diálogos: terminações em 〜える / 〜られる, できる e as formas ら抜き (見れる, 来れる). Quando achar um, diga em voz alta de qual verbo de dicionário ele veio. Registre a sessão em Imersão → Jogos e cole uma dessas frases na 🔬 Anatomia.", "min": 15 },
+    { "tool": "ヅオリンゴー", "what": "Treinos → Conjugação: aqueça com a forma de dicionário e a forma ない, que são a base do potencial. Depois, Treinos → 🔬 Anatomia → 🧱 Montar de trás pra frente com o exemplo 3 do ponto a, começando por 来られません.", "min": 10 },
+    { "tool": "ヅオリンゴー · Diário", "what": "Escreva no Diário 4 frases verdadeiras: 2 com o que você consegue fazer e 2 com o que não consegue (com は de contraste). Abra \"Anatomia do que escrevi\" e confira se o potencial ficou no PREDICADO.", "min": 10 },
+    { "tool": "Shadowing", "what": "Toque 🔊 em cada exemplo desta aula e repita junto 3 vezes. Repare no ritmo de 起きられません: お・き・ら・れ・ま・せ・ん são 7 batidas iguais. Não engula o ら.", "min": 5 },
+    { "tool": "Fala", "what": "Grave a sua めんせつ (lição de casa h4) em até 40 s. Ouça e confira se todos os verbos de \"consigo\" saíram no potencial.", "min": 5 }
+  ],
+  "culture": {
+    "title": "アルバイト: trabalho de meio período",
+    "titleJp": "アルバイト",
+    "body": "No Japão, a maioria dos universitários faz algum tipo de **アルバイト**, ou só **バイト**: um trabalho de meio período, pago por hora. A palavra vem do alemão *Arbeit* (\"trabalho\"). Os lugares mais comuns são konbini, restaurantes, izakaya, lojas e cursinhos, onde muitos universitários dão aula para alunos mais novos. O valor por hora, o **じきゅう** (時給), costuma vir em destaque nos anúncios, e o salário mínimo é definido por província, por isso muda de uma região para outra. Para conseguir a vaga, em geral há uma めんせつ curta, e muitas lojas pedem um りれきしょ, um currículo em formulário padrão, com foto. Estudantes estrangeiros precisam de uma autorização da imigração para trabalhar, e durante o período de aulas o limite costuma ser de 28 horas por semana.",
+    "try": "Ensaie uma めんせつ em voz alta: responda com o potencial a 何曜日に働けますか。, 日本語が話せますか。 e 朝早く来られますか。 No fim, diga uma coisa que você ainda não consegue fazer, com は de contraste."
+  },
+  "checklist": [
+    "Faço a forma potencial de qualquer verbo, sem olhar: る → られる, う → e + る, する → できる, 来る → 来られる.",
+    "Lembro que 帰る é verbo う: 帰れる.",
+    "Conjugo o potencial como verbo る: 飲めます, 飲めません, 飲めました, 飲めませんでした.",
+    "Uso が (ou を) no objeto do potencial e mantenho で e に como estão: 海でおよげます.",
+    "Reconheço 見れる e 来れる como ら抜き da fala casual e escrevo 見られる e 来られる.",
+    "Digo a mesma coisa com 〜ことができます e sei que esse jeito soa mais formal.",
+    "Fiz a lição de casa e conferi o gabarito, e refiz o que errei.",
+    "Se tenho o Genki II Workbook: fiz os exercícios de Potential Verbs."
+  ]
+}

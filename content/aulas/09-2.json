@@ -127,8 +127,8 @@
       ],
       "howToStudy": [
         "No caderno, copie os 3 exemplos, sublinhe o ★ predicado, circule o núcleo e ponha colchetes na descrição: [こうばんの 前で 本を 読んでいる] 人.",
-        "Mirage → Treinos → 🔬 Anatomia → 🧱 Montar de trás pra frente: 5 frases. Quando aparecer um bloco DESCREVE O PRÓXIMO, diga em voz alta qual substantivo ele descreve.",
-        "Mirage → Treinos → 🔬 Anatomia → 🔬 Analisar: cole o exemplo 2 e ache os dois verbos marcados como DESCREVE O PRÓXIMO (きている → 男の人; 話した → 先生)."
+        "ヅオリンゴー → Treinos → 🔬 Anatomia → 🧱 Montar de trás pra frente: 5 frases. Quando aparecer um bloco DESCREVE O PRÓXIMO, diga em voz alta qual substantivo ele descreve.",
+        "ヅオリンゴー → Treinos → 🔬 Anatomia → 🔬 Analisar: cole o exemplo 2 e ache os dois verbos marcados como DESCREVE O PRÓXIMO (きている → 男の人; 話した → 先生)."
       ],
       "flag": null
     }
@@ -193,9 +193,9 @@
   },
   "practice": [
     { "tool": "Wagotabi", "what": "Jogue normalmente e cace nos diálogos um verbo em forma curta colado num substantivo (〜た 人, 〜ている もの…). Copie 2 no caderno, ponha colchetes na descrição e traduza. Depois registre a sessão em Imersão → Jogos e cole uma dessas frases na Anatomia.", "min": 15 },
-    { "tool": "Mirage", "what": "Treinos → 🔬 Anatomia → 🧱 Montar de trás pra frente: 5 frases. A cada bloco DESCREVE O PRÓXIMO, diga em voz alta qual é o núcleo.", "min": 10 },
-    { "tool": "Mirage", "what": "Diário: escreva as frases da lição de casa h4 e abra \"Anatomia do que escrevi\". O verbo antes de cada substantivo descrito deve aparecer como DESCREVE O PRÓXIMO; se não aparecer, revise a ordem.", "min": 10 },
-    { "tool": "Mirage", "what": "Vocabulário da Lição 9 no SRS (o baralho \"🌊 Tudo\" junta as revisões do dia).", "min": 5 },
+    { "tool": "ヅオリンゴー", "what": "Treinos → 🔬 Anatomia → 🧱 Montar de trás pra frente: 5 frases. A cada bloco DESCREVE O PRÓXIMO, diga em voz alta qual é o núcleo.", "min": 10 },
+    { "tool": "ヅオリンゴー", "what": "Diário: escreva as frases da lição de casa h4 e abra \"Anatomia do que escrevi\". O verbo antes de cada substantivo descrito deve aparecer como DESCREVE O PRÓXIMO; se não aparecer, revise a ordem.", "min": 10 },
+    { "tool": "ヅオリンゴー", "what": "Vocabulário da Lição 9 no SRS (o baralho \"🌊 Tudo\" junta as revisões do dia).", "min": 5 },
     { "tool": "Fala", "what": "Olhe uma foto com várias pessoas e descreva 5 delas em voz alta: [roupa]を [verbo]ている 人が います。Grave e ouça.", "min": 5 }
   ],
   "culture": {

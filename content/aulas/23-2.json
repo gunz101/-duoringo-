@@ -1,0 +1,213 @@
+{
+  "id": "23-2",
+  "unit": "G2-L23",
+  "genki": { "book": "Genki II", "lesson": 23, "points": ["〜ことにする", "〜ことにしている", "〜まで", "〜方"] },
+  "title": "Decidir · até · jeito de",
+  "titleJp": "分かるまで聞くことにしている",
+  "canDo": [
+    "Contar uma decisão minha com 〜ことにしました, inclusive decidir não fazer: 今日は行かないことにしました。",
+    "Falar de uma regra ou hábito que eu mesmo me impus com 〜ことにしています, e explicar a diferença para 〜ことにしました.",
+    "Dizer até quando uma ação continua com [verbo no dicionário]まで: バスが来るまで、ここで待ちます。",
+    "Pedir e explicar \"o jeito de fazer\" com radical + 方, trocando を por の: 漢字の読み方, ケーキの作り方, 勉強の仕方."
+  ],
+  "duration": {
+    "total": "60–75 min",
+    "blocks": [
+      { "t": "Aquecimento: dizer em voz alta 3 planos seus com 〜つもりです (Aula 10-2)", "min": 5 },
+      { "t": "Vocabulário: ouvir 🔊 cada palavra do bloco 3 e repetir 2 vezes", "min": 10 },
+      { "t": "Gramática: ponto a (〜ことにする × 〜ことにしている), com os exemplos lidos em voz alta e um 🔬", "min": 10 },
+      { "t": "Gramática: pontos b (〜まで) e c (〜方), cada um com um 🔬", "min": 15 },
+      { "t": "Vídeo da Lição 23 (bloco 6), a parte de 〜ことにする, 〜まで e 〜方", "min": 10 },
+      { "t": "Lição de casa no caderno + conferir no gabarito", "min": 15 },
+      { "t": "Checklist (bloco 10) + anotar dúvidas no caderno da aula", "min": 5 }
+    ]
+  },
+  "prereqs": {
+    "aulas": ["23-1"],
+    "skills": [
+      "Forma de dicionário e forma ない (Aula 08-1): 〜ことにする e 〜まで usam as duas.",
+      "こと como \"o fato de…\", que transforma uma ação em substantivo, como em 〜ことがある (Aula 11-2).",
+      "Radical do verbo (a forma 〜ます sem ます), como em 〜たい (Aula 11-1) e 〜やすい / 〜にくい (Aula 20-3). É a base do 〜方.",
+      "まで depois de substantivo (五時まで, 駅まで). Agora ele vem depois de um verbo.",
+      "〜つもりです (Aula 10-2) e 〜前に (Aula 17-3), para comparar com os pontos novos."
+    ],
+    "vocab": [
+      { "jp": "きめる", "kana": "きめる", "romaji": "kimeru", "pt": "decidir (o kanji 決 fica para depois)" },
+      { "jp": "帰る", "kana": "かえる", "romaji": "kaeru", "pt": "voltar (para casa, para o país)" },
+      { "jp": "来年", "kana": "らいねん", "romaji": "rainen", "pt": "ano que vem" },
+      { "jp": "去年", "kana": "きょねん", "romaji": "kyonen", "pt": "ano passado" },
+      { "jp": "夜", "kana": "よる", "romaji": "yoru", "pt": "noite" },
+      { "jp": "スマホ", "kana": "スマホ", "romaji": "sumaho", "pt": "celular (smartphone)" },
+      { "jp": "日記", "kana": "にっき", "romaji": "nikki", "pt": "diário (caderno)" },
+      { "jp": "やむ", "kana": "やむ", "romaji": "yamu", "pt": "parar (chuva, neve)" },
+      { "jp": "見える", "kana": "みえる", "romaji": "mieru", "pt": "ser visível, dar para ver" },
+      { "jp": "手をふる", "kana": "てをふる", "romaji": "te o furu", "pt": "acenar (com a mão)" },
+      { "jp": "上手（な）", "kana": "じょうず（な）", "romaji": "jōzu (na)", "pt": "bom em algo, habilidoso" },
+      { "jp": "何度も", "kana": "なんども", "romaji": "nando mo", "pt": "muitas vezes, várias vezes" },
+      { "jp": "教室", "kana": "きょうしつ", "romaji": "kyōshitsu", "pt": "sala de aula" },
+      { "jp": "作り方", "kana": "つくりかた", "romaji": "tsukurikata", "pt": "jeito de fazer; receita" },
+      { "jp": "読み方", "kana": "よみかた", "romaji": "yomikata", "pt": "jeito de ler; leitura (de um kanji)" },
+      { "jp": "使い方", "kana": "つかいかた", "romaji": "tsukaikata", "pt": "modo de usar" },
+      { "jp": "行き方", "kana": "いきかた", "romaji": "ikikata", "pt": "como chegar (a um lugar)" },
+      { "jp": "話し方", "kana": "はなしかた", "romaji": "hanashikata", "pt": "jeito de falar" },
+      { "jp": "仕方", "kana": "しかた", "romaji": "shikata", "pt": "jeito de fazer (com verbos する: 勉強の仕方)" },
+      { "jp": "教える", "kana": "おしえる", "romaji": "oshieru", "pt": "ensinar; informar, dizer" },
+      { "jp": "習う", "kana": "ならう", "romaji": "narau", "pt": "aprender (com alguém)" },
+      { "jp": "おぼえる", "kana": "おぼえる", "romaji": "oboeru", "pt": "memorizar, decorar" },
+      { "jp": "空港", "kana": "くうこう", "romaji": "kūkō", "pt": "aeroporto" },
+      { "jp": "大切（な）", "kana": "たいせつ（な）", "romaji": "taisetsu (na)", "pt": "importante, precioso" }
+    ]
+  },
+  "grammar": [
+    {
+      "id": "23-2-a",
+      "gc": null,
+      "title": "〜ことにする × 〜ことにしている",
+      "gloss": "decidir fazer × ter como regra",
+      "explanation": "こと transforma a ação num substantivo (\"o fato de…\"), e に する quer dizer \"escolher, ficar com\": é o mesmo する de 〜にします num restaurante (\"vou querer…\"). Juntos, [verbo]ことにする = **\"decidir fazer\"**, e a decisão é **sua**.\n• O verbo antes de こと fica na **forma de dicionário** (帰る) ou na **forma ない** (帰らない = decidir não voltar).\n• **ことにしました**: a decisão já está tomada. É a forma que você mais vai usar: 帰ることにしました (\"decidi voltar\").\n• **ことにします**: você decide agora, na hora em que fala: じゃ、これを買うことにします (\"então vou ficar com este\").\n\n**〜ことにしている** é \"decidi e continuo cumprindo\": uma **regra pessoal**, um hábito que você mesmo se impôs. 毎朝走ることにしています (\"tenho como regra correr toda manhã\").\n• Compare: 毎朝走っています só descreve o hábito. 走ることにしています destaca que é uma decisão sua, um compromisso.\n\n**A frase, bloco por bloco.** [quem decide]は | [o conteúdo da decisão 〜こと]に | しました / しています。 Leia pelo PREDICADO: しました diz \"decidi\" e しています diz \"tenho como regra\"; o bloco antes de ことに é o que foi decidido.\n• E quando a decisão **não é sua** (a empresa, a escola ou as circunstâncias decidiram)? Aí o japonês usa 〜ことになる (\"ficou decidido\"), que você vê na Ponte N3 (Aula P-02).",
+      "structure": "[verbo: dicionário / ない] ことにする (decidir) · [verbo: dicionário / ない] ことにしている (regra pessoal)",
+      "examples": [
+        { "jp": "マリアさんは来年ブラジルに帰ることにしました。", "kana": "マリアさんはらいねんブラジルにかえることにしました。", "romaji": "Maria-san wa rainen Burajiru ni kaeru koto ni shimashita.", "pt": "A Maria decidiu voltar para o Brasil no ano que vem." },
+        { "jp": "つかれたから、今日はパーティーに行かないことにします。", "kana": "つかれたから、きょうはパーティーにいかないことにします。", "romaji": "Tsukareta kara, kyō wa pātī ni ikanai koto ni shimasu.", "pt": "Estou cansado, então decidi que hoje não vou à festa." },
+        { "jp": "夜十時からは、スマホを見ないことにしています。", "kana": "よるじゅうじからは、スマホをみないことにしています。", "romaji": "Yoru jūji kara wa, sumaho o minai koto ni shite imasu.", "pt": "A partir das dez da noite, tenho como regra não olhar o celular." }
+      ],
+      "pitfalls": [
+        "Forma de dicionário antes de こと, nunca a forma ます: 帰りますことにしました ✗ → 帰ることにしました ✓.",
+        "Não esqueça o に: 帰ることをしました ✗ / 帰ることしました ✗ → 帰ることにしました ✓.",
+        "ことにしました × つもりです. 日本に行くつもりです = \"pretendo ir\" (uma intenção, Aula 10-2). 日本に行くことにしました = \"decidi ir\" (a decisão foi tomada).",
+        "Decisão dos outros não é ことにする. Se a empresa decidiu transferir você, diga 〜ことになりました (Ponte N3, P-02). 〜ことにしました soaria como se a ideia fosse sua."
+      ],
+      "howToStudy": [
+        "Escreva no caderno 3 decisões reais que você já tomou (〜ことにしました) e 2 regras suas (〜ことにしています). Pelo menos uma deve usar a forma ない.",
+        "Aperte 🔬 no exemplo 3. 夜十時からは é o TÓPICO (a partir de quando), スマホを見ないこと é o CONTEÚDO da regra e にしています é o PREDICADO. Leia de trás pra frente: tenho como regra → não olhar o celular → a partir das dez da noite.",
+        "Fale em voz alta a mesma ação nas duas formas: 毎朝走ることにしました (decidi agora) × 毎朝走ることにしています (já é a minha regra). Explique a diferença para você mesmo, em português."
+      ],
+      "flag": null
+    },
+    {
+      "id": "23-2-b",
+      "gc": null,
+      "title": "[verbo] まで: até alguém fazer X",
+      "gloss": "a ação continua até um acontecimento",
+      "explanation": "Você já usa まで depois de substantivo: 五時まで, 駅まで. Agora まで vem depois de um **verbo** e marca **o acontecimento que encerra** a ação principal: \"até X acontecer\".\n• O verbo antes de まで fica **sempre na forma de dicionário**, mesmo quando a frase está no passado: 子どもがねるまで、本を読んであげました (\"li até a criança dormir\").\n• A ação principal é algo que **dura**: esperar, ficar, estudar, continuar. É ela que está no PREDICADO, no fim.\n• O sujeito do bloco com まで leva **が**, porque é uma oração dentro da frase: 雨がやむまで, バスが来るまで.\n\n**A frase, bloco por bloco.** [quem / o quê]が [verbo-dicionário]まで、| [ação que dura]。 Leia pelo PREDICADO (待ちます, \"espero\") e depois pergunte: até quando? (バスが来るまで).\n• Com o predicado negativo, fica \"não… enquanto não…\": 分かるまで帰りません (\"não vou embora até entender\").",
+      "structure": "[sujeito] が [verbo-dicionário] まで、[ação que dura]。",
+      "examples": [
+        { "jp": "雨がやむまで、カフェで待ちましょう。", "kana": "あめがやむまで、カフェでまちましょう。", "romaji": "Ame ga yamu made, kafe de machimashō.", "pt": "Vamos esperar no café até a chuva parar." },
+        { "jp": "子どもがねるまで、本を読んであげました。", "kana": "こどもがねるまで、ほんをよんであげました。", "romaji": "Kodomo ga neru made, hon o yonde agemashita.", "pt": "Li um livro para a criança até ela dormir." },
+        { "jp": "バスが見えなくなるまで、手をふりました。", "kana": "バスがみえなくなるまで、てをふりました。", "romaji": "Basu ga mienaku naru made, te o furimashita.", "pt": "Acenei até o ônibus sumir de vista." }
+      ],
+      "pitfalls": [
+        "Forma de dicionário, mesmo no passado: ねたまで ✗ → ねるまで ✓ (子どもがねるまで、読みました).",
+        "まで × までに. まで = a ação continua até aquele ponto: 五時まで待ちます (\"espero até as cinco\"). までに = a ação acontece uma vez, antes daquele ponto: 五時までに帰ります (\"volto antes das cinco\").",
+        "O sujeito do bloco com まで leva が: 先生は来るまで、教室で待ちました ✗ → 先生が来るまで、教室で待ちました ✓. Com は, 先生 vira o tópico da frase inteira, como se fosse ele quem esperou.",
+        "まで × 〜前に (Aula 17-3). ねる前に本を読みます = leio em algum momento antes de dormir. ねるまで本を読みます = leio sem parar até pegar no sono."
+      ],
+      "howToStudy": [
+        "Aperte 🔬 no exemplo 3. バスが見えなくなるまで é o bloco de ATÉ QUANDO e 手をふりました é o PREDICADO. Leia de trás pra frente: acenei → até quando? → até o ônibus sumir.",
+        "Escreva 4 frases sobre a sua rotina com まで (〜まで勉強します, 〜まで待ちます, 〜までねません…) e confira se o verbo antes de まで está na forma de dicionário.",
+        "Fale em voz alta os pares ねる前に本を読みます × ねるまで本を読みます, e diga em português a diferença entre eles."
+      ],
+      "flag": null
+    },
+    {
+      "id": "23-2-c",
+      "gc": null,
+      "title": "Radical + 方: o jeito de fazer",
+      "gloss": "作り方, 読み方, 使い方",
+      "explanation": "Pegue o **radical** do verbo (a forma 〜ます sem ます) e cole **方 (かた)**. O resultado é um **substantivo** que quer dizer \"o jeito de fazer\".\n• 作ります → 作り**方** (\"o jeito de fazer, a receita\"); 読みます → 読み**方** (\"o jeito de ler, a leitura\"); 使います → 使い**方** (\"o modo de usar\"); 行きます → 行き**方** (\"como chegar\"); 話します → 話し**方** (\"o jeito de falar\").\n• Verbos com する (勉強する, 運転する): o jeito vira [substantivo]の**仕方 (しかた)** → 勉強の仕方 (\"o jeito de estudar\").\n\n**O objeto troca を por の.** Como 〜方 é um substantivo, o que vinha com を passa a se ligar com の, igual a N₁ の N₂ (Aula 01-1): 漢字を読む → 漢字**の**読み方.\n• Partículas de direção e de limite ficam e ganham の: 駅**へ**行く → 駅**への**行き方; 空港**まで**行く → 空港**までの**行き方.\n• Na frase, [〜の〜方] é um bloco de substantivo. Pode ser objeto (作り方を教えてください), sujeito (読み方が分かりません) ou tópico (話し方は分かりやすいです).\n• Este 方 se lê **かた**. Não confunda com o 方 (ほう) de comparar (Aula 10-1) e de 〜ほうがいい (Aula 12-2).",
+      "structure": "[radical] 方 · [objeto] の [radical] 方 · [N] の 仕方 (verbos する)",
+      "examples": [
+        { "jp": "このケーキの作り方を教えてくれませんか。", "kana": "このケーキのつくりかたをおしえてくれませんか。", "romaji": "Kono kēki no tsukurikata o oshiete kuremasen ka.", "pt": "Você pode me ensinar a receita deste bolo?" },
+        { "jp": "この漢字の読み方が分かりません。", "kana": "このかんじのよみかたがわかりません。", "romaji": "Kono kanji no yomikata ga wakarimasen.", "pt": "Não sei como se lê este kanji." },
+        { "jp": "田中先生の話し方は、とても分かりやすいです。", "kana": "たなかせんせいのはなしかたは、とてもわかりやすいです。", "romaji": "Tanaka-sensei no hanashikata wa, totemo wakariyasui desu.", "pt": "O jeito de falar do professor Tanaka é muito fácil de entender." }
+      ],
+      "pitfalls": [
+        "Com 方, o objeto usa の: 漢字を読み方 ✗ → 漢字の読み方 ✓.",
+        "Para \"jeito de\", use o radical, não a forma de dicionário: 作る方 ✗ → 作り方 ✓.",
+        "Verbos com する usam の仕方: 勉強し方 ✗ → 勉強の仕方 ✓.",
+        "Leia かた, não ほう: 読み方 = よみかた. O ほう é o 方 de comparar (Aula 10-1)."
+      ],
+      "howToStudy": [
+        "No caderno, transforme 8 verbos em radical + 方 (作る → 作り方, 書く → 書き方, 食べる → 食べ方…). Inclua um verbo com する usando の仕方.",
+        "Aperte 🔬 no exemplo 2. この漢字の読み方が é o SUJEITO (a coisa que você não sabe) e 分かりません é o PREDICADO. Repare que 漢字 se liga a 読み方 com の, como dois substantivos.",
+        "Fale em voz alta 3 pedidos reais com 〜方を教えてください: a receita de um prato brasileiro, o jeito de usar um app e como chegar a um lugar da sua cidade."
+      ],
+      "flag": null
+    }
+  ],
+  "media": [
+    { "order": 1, "kind": "leitura", "title": "Genki II · Lição 23: as explicações de gramática de 〜ことにする, 〜ことにしている, 〜まで e 〜方, e o diálogo relido com esses pontos", "where": "Seu livro Genki II", "url": "", "when": "Antes desta aula ou logo depois do bloco de gramática. O causativo-passivo e 〜ても ficaram na Aula 23-1." },
+    { "order": 2, "kind": "video", "title": "Japanese Ammo with Misa: 〜ことにする e 〜ことになる (reforço opcional)", "where": "YouTube · canal Japanese Ammo with Misa", "url": "", "search": "Japanese Ammo with Misa koto ni suru koto ni naru", "when": "Opcional, depois do ponto a. Se o vídeo aprofundar 〜ことになる, veja essa parte como prévia da Aula P-02." }
+  ],
+  "homework": {
+    "intro": "Faça no caderno, à mão. Escreva o japonês com os kanji da aula e confira a leitura no gabarito. Só depois abra o gabarito, item por item. Circule o que errou e refaça no dia seguinte. Se você tiver o Genki II Workbook, faça também os exercícios desta lição.",
+    "tasks": [
+      {
+        "id": "h1",
+        "type": "completar",
+        "prompt": "Complete com ことにしました (decisão tomada) ou ことにしています (regra que continua). Procure no resto da frase a pista que decide.",
+        "items": [
+          { "q": "体にいいから、毎朝野菜ジュースを飲む＿＿。", "a": { "jp": "体にいいから、毎朝野菜ジュースを飲むことにしています。", "kana": "からだにいいから、まいあさやさいジュースをのむことにしています。", "romaji": "Karada ni ii kara, maiasa yasai jūsu o nomu koto ni shite imasu." }, "note": "毎朝: é uma regra que continua." },
+          { "q": "きのう家族と話して、来年ブラジルに帰る＿＿。", "a": { "jp": "きのう家族と話して、来年ブラジルに帰ることにしました。", "kana": "きのうかぞくとはなして、らいねんブラジルにかえることにしました。", "romaji": "Kinō kazoku to hanashite, rainen Burajiru ni kaeru koto ni shimashita." }, "note": "きのう: a decisão foi tomada num momento." },
+          { "q": "私は毎日、日本語で日記を書く＿＿。", "a": { "jp": "私は毎日、日本語で日記を書くことにしています。", "kana": "わたしはまいにち、にほんごでにっきをかくことにしています。", "romaji": "Watashi wa mainichi, nihongo de nikki o kaku koto ni shite imasu." }, "note": "毎日: regra pessoal." },
+          { "q": "高かったけど、あのカメラを買う＿＿。", "a": { "jp": "高かったけど、あのカメラを買うことにしました。", "kana": "たかかったけど、あのカメラをかうことにしました。", "romaji": "Takakatta kedo, ano kamera o kau koto ni shimashita." }, "note": "Uma compra, uma decisão só." },
+          { "q": "今日はつかれたから、ばんごはんは外で食べる＿＿。", "a": { "jp": "今日はつかれたから、ばんごはんは外で食べることにしました。", "kana": "きょうはつかれたから、ばんごはんはそとでたべることにしました。", "romaji": "Kyō wa tsukareta kara, bangohan wa soto de taberu koto ni shimashita." }, "note": "今日: decisão de hoje. ことにします também serve, se você está decidindo agora." }
+        ]
+      },
+      {
+        "id": "h2",
+        "type": "transformar",
+        "prompt": "Junte as duas frases com まで. O verbo antes de まで fica na forma de dicionário, mesmo se a frase estiver no passado.",
+        "items": [
+          { "q": "バスが来ます。／ここで待ちます。", "a": { "jp": "バスが来るまで、ここで待ちます。", "kana": "バスがくるまで、ここでまちます。", "romaji": "Basu ga kuru made, koko de machimasu." } },
+          { "q": "日本語が上手になります。／がんばります。", "a": { "jp": "日本語が上手になるまで、がんばります。", "kana": "にほんごがじょうずになるまで、がんばります。", "romaji": "Nihongo ga jōzu ni naru made, ganbarimasu." } },
+          { "q": "先生が来ました。／教室で本を読んでいました。", "a": { "jp": "先生が来るまで、教室で本を読んでいました。", "kana": "せんせいがくるまで、きょうしつでほんをよんでいました。", "romaji": "Sensei ga kuru made, kyōshitsu de hon o yonde imashita." }, "note": "A frase está no passado, mas 来る fica no dicionário: 来たまで ✗." },
+          { "q": "意味が分かりました。／何度も読みました。", "a": { "jp": "意味が分かるまで、何度も読みました。", "kana": "いみがわかるまで、なんどもよみました。", "romaji": "Imi ga wakaru made, nando mo yomimashita." }, "note": "O sujeito do bloco com まで (意味) leva が." }
+        ]
+      },
+      {
+        "id": "h3",
+        "type": "traduzir",
+        "prompt": "Traduza para o japonês usando 〜方. Lembre: o objeto se liga com の.",
+        "items": [
+          { "q": "Não sei usar esta câmera (não sei o modo de usar).", "a": { "jp": "このカメラの使い方が分かりません。", "kana": "このカメラのつかいかたがわかりません。", "romaji": "Kono kamera no tsukaikata ga wakarimasen." } },
+          { "q": "Por favor, me ensine a fazer feijoada.", "a": { "jp": "フェイジョアーダの作り方を教えてください。", "kana": "フェイジョアーダのつくりかたをおしえてください。", "romaji": "Feijoāda no tsukurikata o oshiete kudasai." } },
+          { "q": "Por favor, me diga como chegar ao aeroporto.", "a": { "jp": "空港への行き方を教えてください。", "kana": "くうこうへのいきかたをおしえてください。", "romaji": "Kūkō e no ikikata o oshiete kudasai." }, "note": "へ continua e ganha の: への. 空港までの行き方 também serve." },
+          { "q": "O jeito de estudar é importante.", "a": { "jp": "勉強の仕方は大切です。", "kana": "べんきょうのしかたはたいせつです。", "romaji": "Benkyō no shikata wa taisetsu desu." }, "note": "Verbo com する: の仕方, não 勉強し方." },
+          { "q": "Aprendi com a professora Suzuki a escrever kanji.", "a": { "jp": "すずき先生に漢字の書き方を習いました。", "kana": "すずきせんせいにかんじのかきかたをならいました。", "romaji": "Suzuki-sensei ni kanji no kakikata o naraimashita." }, "note": "習う: quem ensina leva に." }
+        ]
+      },
+      {
+        "id": "h4",
+        "type": "produzir",
+        "prompt": "Escreva 4 frases sobre o seu estudo de japonês: uma decisão (〜ことにしました), uma regra sua (〜ことにしています), uma frase com まで e uma com 〜方. Depois leia em voz alta e grave no celular.",
+        "items": [
+          { "q": "Modelo, que o seu texto deve seguir na estrutura e não nas palavras:", "a": { "jp": "去年、日本語を勉強することにしました。毎日、ねる前に三十分勉強することにしています。漢字は、読み方をおぼえるまで何度も書きます。今は、日本語の手紙の書き方を勉強しています。", "kana": "きょねん、にほんごをべんきょうすることにしました。まいにち、ねるまえにさんじゅっぷんべんきょうすることにしています。かんじは、よみかたをおぼえるまでなんどもかきます。いまは、にほんごのてがみのかきかたをべんきょうしています。", "romaji": "Kyonen, nihongo o benkyō suru koto ni shimashita. Mainichi, neru mae ni sanjuppun benkyō suru koto ni shite imasu. Kanji wa, yomikata o oboeru made nando mo kakimasu. Ima wa, nihongo no tegami no kakikata o benkyō shite imasu.", "pt": "No ano passado, decidi estudar japonês. Tenho como regra estudar 30 minutos todo dia antes de dormir. Os kanji, eu escrevo várias vezes até decorar a leitura. Agora estou estudando como escrever cartas em japonês." }, "note": "Confira: forma de dicionário antes de こと e de まで, ことにしました para a decisão, ことにしています para a regra e の antes de 〜方." }
+        ]
+      }
+    ],
+    "workbook": []
+  },
+  "practice": [
+    { "tool": "Wagotabi", "what": "Jogue nas regiões e níveis N4. Cace nos diálogos 〜ことにした, 〜ことにしている, [verbo]まで e 〜方. A cada um que achar, pause e diga em voz alta o que foi decidido, até quando algo dura ou de que \"jeito\" se fala. Copie 2 frases no caderno e sublinhe o predicado.", "min": 15 },
+    { "tool": "ヅオリンゴー", "what": "Treinos → 🔬 Anatomia → 🧱 Montar de trás pra frente com o exemplo バスが見えなくなるまで、手をふりました: comece por 手をふりました e só depois encaixe o bloco com まで.", "min": 10 },
+    { "tool": "ヅオリンゴー", "what": "Diário: escreva 2 decisões (〜ことにしました) e 2 regras suas (〜ことにしています). Use \"Anatomia do que escrevi\" para conferir se o verbo antes de こと está na forma de dicionário.", "min": 10 },
+    { "tool": "Shadowing", "what": "Toque 🔊 em cada exemplo desta aula e repita junto 3 vezes. Em ことにしています, não engula o に: こ・と・に・し・て・い・ま・す.", "min": 5 },
+    { "tool": "Fala", "what": "Grave 30 s explicando como chegar à sua casa a partir de uma estação ou de um ponto de ônibus (〜までの行き方は…), e termine com uma regra sua (〜ことにしています).", "min": 5 }
+  ],
+  "culture": {
+    "title": "Mensagens coletivas de despedida (よせがき)",
+    "titleJp": "よせがき",
+    "body": "Quando alguém se despede de um grupo (formatura, mudança de escola, transferência no trabalho, aposentadoria), é comum os colegas prepararem uma **よせがき**: várias pessoas escrevem mensagens curtas no mesmo papel. O suporte mais típico é o **しきし (色紙)**, um cartão quadrado e firme. Em geral, o nome da pessoa vai no centro, e as mensagens ficam em volta, cada uma com a assinatura de quem escreveu. As mensagens costumam agradecer e desejar sorte: 今までありがとう, 新しい所でもがんばってね, 元気でね. A よせがき costuma ser entregue com flores ou um presente no 送別会 (Aula 23-1), e muita gente guarda a sua por anos. Também é comum ver よせがき em bandeiras ou camisetas, para apoiar um time ou um atleta antes de uma competição.",
+    "try": "Escreva no caderno uma mensagem de よせがき de 2–3 linhas para alguém que está indo embora, usando pontos das duas aulas: どこに行っても、元気でね。/ また会う日まで！/ 〜の作り方を教えてくれて、ありがとう！ Em また会う日まで, o まで vem depois de 日, mas o 会う antes dele está na mesma forma de dicionário."
+  },
+  "checklist": [
+    "Digo uma decisão minha com 〜ことにしました, inclusive com a forma ない, sem olhar.",
+    "Explico a diferença entre 〜ことにしました (decidi) e 〜ことにしています (é a minha regra), e sei que 〜ことになる serve para decisões que não são minhas.",
+    "Uso [verbo no dicionário]まで mesmo em frases no passado, com が no sujeito do bloco.",
+    "Separo まで (até) de までに (antes de) e de 〜前に.",
+    "Formo radical + 方 e troco を por の: 漢字の読み方, 空港への行き方, 勉強の仕方.",
+    "Fiz a lição de casa e conferi o gabarito, e refiz o que errei.",
+    "Se tenho o Genki II Workbook, fiz os exercícios desta parte da Lição 23."
+  ]
+}

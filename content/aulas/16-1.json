@@ -1,0 +1,208 @@
+{
+  "id": "16-1",
+  "unit": "G2-L16",
+  "genki": { "book": "Genki II", "lesson": 16, "points": ["〜てあげる／てくれる／てもらう"] },
+  "title": "Favores",
+  "titleJp": "友だちがてつだってくれました",
+  "canDo": [
+    "Contar um favor que eu fiz para alguém com 〜てあげる, usando a partícula que o verbo pede: 友だちにかさを貸してあげました。",
+    "Contar um favor que alguém fez para mim ou para a minha família com 〜てくれる: たなかさんが駅まで送ってくれました。",
+    "Dizer que recebi (ou pedi) um favor com [pessoa]に 〜てもらう, e contar a mesma cena com 〜てくれる.",
+    "Explicar quem recebe o benefício em cada forma, ligando com あげる / くれる / もらう da Aula 14-2.",
+    "Oferecer ajuda a um superior com 〜ましょうか, sem o 〜てあげます que soa arrogante."
+  ],
+  "duration": {
+    "total": "60–75 min",
+    "blocks": [
+      { "t": "Aquecimento: diga em voz alta a forma て de 貸す, 持つ, 起こす, 送る, 教える, 読む e なおす, e depois uma frase com あげる, uma com くれる e uma com もらう (Aula 14-2)", "min": 5 },
+      { "t": "Vocabulário: ouvir 🔊 cada palavra e repetir 2 vezes", "min": 10 },
+      { "t": "Gramática: os 3 pontos, cada um com os exemplos lidos em voz alta e um 🔬. Desenhe no caderno uma seta para cada forma: para onde vai o favor?", "min": 25 },
+      { "t": "Vídeo da Lição 16 (bloco 6), só a parte dos favores", "min": 10 },
+      { "t": "Lição de casa no caderno + conferir no gabarito", "min": 15 },
+      { "t": "Checklist (bloco 10) + anotar dúvidas no caderno da aula", "min": 5 }
+    ]
+  },
+  "prereqs": {
+    "aulas": ["15-2"],
+    "skills": [
+      "あげる, くれる e もらう com coisas (Aula 14-2): quem dá, quem recebe e o papel do に. Esta aula usa exatamente a mesma direção, agora com ações.",
+      "Forma て de todos os verbos, sem hesitar (Aula 06-1): 貸して, 持って, 読んで, 起こして, 送って. Os três favores são forma て + um verbo de dar e receber.",
+      "〜ましょうか para oferecer ajuda (Aula 06-4). Ele substitui 〜てあげる quando você fala com um superior.",
+      "Ter terminado a Lição 15 (até a Aula 15-2)."
+    ],
+    "vocab": [
+      { "jp": "貸す", "kana": "かす", "romaji": "kasu", "pt": "emprestar (a alguém: [pessoa]に貸す)" },
+      { "jp": "起こす", "kana": "おこす", "romaji": "okosu", "pt": "acordar alguém ([pessoa]を起こす)" },
+      { "jp": "送る", "kana": "おくる", "romaji": "okuru", "pt": "levar/acompanhar alguém até um lugar ([pessoa]を送る); enviar" },
+      { "jp": "てつだう", "kana": "てつだう", "romaji": "tetsudau", "pt": "ajudar ([pessoa]をてつだう)" },
+      { "jp": "教える", "kana": "おしえる", "romaji": "oshieru", "pt": "ensinar; dizer, informar (道を教える = ensinar o caminho)" },
+      { "jp": "持つ", "kana": "もつ", "romaji": "motsu", "pt": "segurar, carregar" },
+      { "jp": "なおす", "kana": "なおす", "romaji": "naosu", "pt": "consertar; corrigir" },
+      { "jp": "作る", "kana": "つくる", "romaji": "tsukuru", "pt": "fazer, preparar (comida, coisas)" },
+      { "jp": "説明する", "kana": "せつめいする", "romaji": "setsumei suru", "pt": "explicar" },
+      { "jp": "写真をとる", "kana": "しゃしんをとる", "romaji": "shashin o toru", "pt": "tirar foto" },
+      { "jp": "読む", "kana": "よむ", "romaji": "yomu", "pt": "ler" },
+      { "jp": "にもつ", "kana": "にもつ", "romaji": "nimotsu", "pt": "bagagem, volume, coisas que se carrega" },
+      { "jp": "かさ", "kana": "かさ", "romaji": "kasa", "pt": "guarda-chuva" },
+      { "jp": "じしょ", "kana": "じしょ", "romaji": "jisho", "pt": "dicionário" },
+      { "jp": "地図", "kana": "ちず", "romaji": "chizu", "pt": "mapa" },
+      { "jp": "道", "kana": "みち", "romaji": "michi", "pt": "caminho, rua" },
+      { "jp": "作文", "kana": "さくぶん", "romaji": "sakubun", "pt": "redação" },
+      { "jp": "自転車", "kana": "じてんしゃ", "romaji": "jitensha", "pt": "bicicleta" },
+      { "jp": "おばあさん", "kana": "おばあさん", "romaji": "obāsan", "pt": "senhora idosa; avó (dos outros)" },
+      { "jp": "妹", "kana": "いもうと", "romaji": "imōto", "pt": "irmã mais nova (a minha)" },
+      { "jp": "弟", "kana": "おとうと", "romaji": "otōto", "pt": "irmão mais novo (o meu)" },
+      { "jp": "〜ましょうか", "kana": "〜ましょうか", "romaji": "-mashō ka", "pt": "quer que eu…? (oferecer ajuda)" }
+    ]
+  },
+  "grammar": [
+    {
+      "id": "16-1-a",
+      "gc": null,
+      "title": "〜てあげる",
+      "gloss": "fazer algo para alguém (o favor vai para fora)",
+      "explanation": "Na Aula 14-2 você viu あげる, くれる e もらう com **coisas**. Agora o que passa de uma pessoa para outra é uma **ação**, um favor. A receita é sempre a mesma: **forma て do verbo + あげる / くれる / もらう**. A direção também é a mesma da Aula 14-2, e a pergunta-chave é: **quem recebe o benefício?**\n• 〜てあげる: **eu (ou alguém) faço algo para outra pessoa**. O benefício sai de quem faz e vai **para fora**, como em あげる. Quem faz o favor é o TÓPICO: 私は, ルーカスさんは.\n• Quem recebe o favor leva **a partícula que o verbo já usaria sem あげる**. 貸す e 教える pedem に (友だちに貸す) → 友だちに貸してあげる. 起こす e てつだう pedem を (妹を起こす) → 妹を起こしてあげる. Se o favor é sobre uma coisa da pessoa, use の: おばあさんのにもつを持ってあげる.\n• Com verbos que não têm lugar para a pessoa, como 作る e 買う, você pode deixar a pessoa de fora (o contexto mostra) ou usar [pessoa]のために, \"para [pessoa]\": 友だちのためにケーキを作ってあげました.\n• 貸してあげました é **um bloco só: o PREDICADO**. Leia por ele: \"fiz o favor de emprestar\" → o quê? → para quem?\n\n**Cuidado com superiores.** 〜てあげる põe você no papel de quem faz o favor. Dito diretamente a um superior (professor, chefe, cliente), 先生、にもつを持ってあげます soa como \"vou lhe fazer o favor de carregar\" e pode parecer arrogante. Para oferecer ajuda, use **〜ましょうか** (Aula 06-4): 先生、にもつを持ちましょうか。 Contar para outra pessoa um favor que alguém fez (ルーカスさんはおばあさんのにもつを持ってあげました) não tem problema.",
+      "structure": "[quem faz] は [quem recebe + partícula do verbo] [objeto] を [forma て] あげる",
+      "examples": [
+        { "jp": "ルーカスさんはおばあさんのにもつを持ってあげました。", "kana": "ルーカスさんはおばあさんのにもつをもってあげました。", "romaji": "Rūkasu-san wa obāsan no nimotsu o motte agemashita.", "pt": "O Lucas carregou a bagagem da senhora (fez esse favor para ela)." },
+        { "jp": "私はマリアさんに日本の地図を貸してあげました。", "kana": "わたしはマリアさんににほんのちずをかしてあげました。", "romaji": "Watashi wa Maria-san ni Nihon no chizu o kashite agemashita.", "pt": "Emprestei um mapa do Japão para a Maria." },
+        { "jp": "朝七時に妹を起こしてあげました。", "kana": "あさしちじにいもうとをおこしてあげました。", "romaji": "Asa shichiji ni imōto o okoshite agemashita.", "pt": "Acordei minha irmã às sete da manhã (fiz esse favor para ela)." }
+      ],
+      "pitfalls": [
+        "Não use 〜てあげる direto com um superior: 先生、にもつを持ってあげます ✗ (soa arrogante) → 先生、にもつを持ちましょうか ✓.",
+        "A pessoa leva a partícula do verbo, e não sempre に: 妹に起こしてあげました ✗ → 妹を起こしてあげました ✓ (起こす pede を).",
+        "O favor de あげる vai para fora, nunca para você: 友だちが私にかさを貸してあげました ✗ → 友だちがかさを貸してくれました ✓ (ponto b)."
+      ],
+      "howToStudy": [
+        "Diga em voz alta 3 favores que você fez nos últimos dias, cada um com a partícula certa: 〜に貸してあげました, 〜を起こしてあげました, 〜の〜を持ってあげました.",
+        "Aperte 🔬 no exemplo 1: ルーカスさんは é o TÓPICO (quem faz o favor), おばあさんのにもつを é o OBJETO e 持ってあげました é o PREDICADO. Comece a ler pelo predicado: \"carregou, como favor\" → o quê? → de quem?",
+        "Pegue 3 frases com 〜てあげます e transforme-as em ofertas com 〜ましょうか, como se falasse com um professor: 持ってあげます → 持ちましょうか。"
+      ],
+      "flag": "Confira no seu Genki II se a lição traz estes pontos nesta ordem."
+    },
+    {
+      "id": "16-1-b",
+      "gc": null,
+      "title": "〜てくれる",
+      "gloss": "alguém faz algo para mim (o favor vem para o meu lado)",
+      "explanation": "〜てくれる: **alguém faz algo para mim** ou para alguém do meu lado (família, amigos, o meu grupo). O benefício vem **na direção de quem fala**, igual a くれる da Aula 14-2.\n• Quem faz o favor é o SUJEITO e costuma vir com **が**: たなかさんが送ってくれました.\n• Quem recebe quase nunca aparece: くれる já diz que fui eu. Não precisa pôr 私に ou 私を em toda frase.\n• Também serve para o seu grupo: ペドロさんが弟に日本語を教えてくれました (meu irmão está do meu lado).\n• As partículas continuam as do verbo: 教える pede に (弟に), e 送る pede を para a pessoa levada (私を, que some).\n• O japonês costuma **marcar o favor** quando alguém faz algo bom por você. 母が作りました só informa; 母が作ってくれました mostra que você reconhece a gentileza.\n• Numa pergunta, くれる vai na direção de quem ouve: だれがてつだってくれましたか = \"quem te ajudou?\".\n• Prévia: para agradecer um favor, o japonês usa 〜てくれて、ありがとう (\"obrigado por…\"). Esse ponto volta com calma na Aula 19-2.",
+      "structure": "[quem faz] が ([私に / 私を]) [objeto] を [forma て] くれる",
+      "examples": [
+        { "jp": "たなかさんが駅まで車で送ってくれました。", "kana": "たなかさんがえきまでくるまでおくってくれました。", "romaji": "Tanaka-san ga eki made kuruma de okutte kuremashita.", "pt": "O Tanaka me levou de carro até a estação." },
+        { "jp": "ペドロさんが弟に日本語を教えてくれました。", "kana": "ペドロさんがおとうとににほんごをおしえてくれました。", "romaji": "Pedoro-san ga otōto ni nihongo o oshiete kuremashita.", "pt": "O Pedro ensinou japonês ao meu irmão mais novo (um favor para a minha família)." },
+        { "jp": "だれがてつだってくれましたか。— アナさんがてつだってくれました。", "kana": "だれがてつだってくれましたか。— アナさんがてつだってくれました。", "romaji": "Dare ga tetsudatte kuremashita ka. — Ana-san ga tetsudatte kuremashita.", "pt": "Quem te ajudou? — A Ana me ajudou." }
+      ],
+      "pitfalls": [
+        "くれる nunca vai para fora do seu lado: 友だちがマリアさんに教えてくれました ✗ (se a Maria não é do seu grupo) → 友だちがマリアさんに教えてあげました ✓.",
+        "Quem faz o favor leva が (ou は), não に: たなかさんに送ってくれました ✗ → たなかさんが送ってくれました ✓. O に de quem fez é do 〜てもらう (ponto c).",
+        "Você não é o sujeito do くれる: 私は友だちにてつだってくれました ✗ → 友だちがてつだってくれました ✓, ou 私は友だちにてつだってもらいました ✓."
+      ],
+      "howToStudy": [
+        "Lembre 3 favores que você recebeu (da família, de amigos, de colegas) e diga cada um em voz alta com 〜が〜てくれました.",
+        "Aperte 🔬 no exemplo 2: ペドロさんが é o SUJEITO (quem faz), 弟に é quem recebe, 日本語を é o OBJETO e 教えてくれました é o PREDICADO. Pergunte: para que lado vai o favor? Para o meu.",
+        "Leia os exemplos 1 e 2 em voz alta duas vezes, primeiro com くれました e depois sem (送りました, 教えました), e repare como a versão sem くれる soa só informativa."
+      ],
+      "flag": null
+    },
+    {
+      "id": "16-1-c",
+      "gc": null,
+      "title": "〜てもらう",
+      "gloss": "receber o favor de alguém ([pessoa]に 〜てもらう)",
+      "explanation": "〜てもらう: **eu recebo o favor de alguém**. É a mesma cena do 〜てくれる, vista do outro lado. O SUJEITO agora é **quem recebe** (quase sempre eu, e por isso some), e quem faz o favor leva **に**.\n• 父が自転車をなおしてくれました。 → quem faz (父) é o sujeito, com が.\n• 父に自転車をなおしてもらいました。 → quem recebe (eu) é o sujeito oculto; quem faz vem com に.\n• Esse に é a **fonte** do favor, como em 友だちにもらいました (Aula 14-2): \"recebi DE\". Não é o destino.\n• Muitas vezes 〜てもらう sugere que **você pediu** o favor, enquanto 〜てくれる destaca a gentileza de quem fez. No dia a dia, os dois costumam descrever o mesmo fato, e você vai ouvir muito os dois.\n• Leia pelo predicado: なおしてもらいました = \"recebi o favor de consertar\" → de quem? → o bloco com に.\n• Com professores e superiores, a versão humilde é 〜ていただく (いただく = もらう humilde): 先生に説明していただきました. Ela é a base do pedido educado da Aula 16-2.",
+      "structure": "[quem recebe (eu)] は [quem faz] に [objeto] を [forma て] もらう",
+      "examples": [
+        { "jp": "私はすずきさんに写真をとってもらいました。", "kana": "わたしはすずきさんにしゃしんをとってもらいました。", "romaji": "Watashi wa Suzuki-san ni shashin o totte moraimashita.", "pt": "A Suzuki tirou uma foto para mim (eu recebi esse favor dela)." },
+        { "jp": "日本人の友だちにメールをチェックしてもらいました。", "kana": "にほんじんのともだちにメールをチェックしてもらいました。", "romaji": "Nihonjin no tomodachi ni mēru o chekku shite moraimashita.", "pt": "Um amigo japonês revisou o meu e-mail (eu pedi, e ele revisou)." },
+        { "jp": "父に自転車をなおしてもらいました。", "kana": "ちちにじてんしゃをなおしてもらいました。", "romaji": "Chichi ni jitensha o naoshite moraimashita.", "pt": "Meu pai consertou a minha bicicleta (recebi esse favor dele)." }
+      ],
+      "pitfalls": [
+        "Quem fez o favor leva に, não が: 友だちがてつだってもらいました ✗ (diria que o amigo é que recebeu ajuda) → 友だちにてつだってもらいました ✓.",
+        "Não confunda os dois に: em あげる, に é quem recebe (友だちに貸してあげる); em もらう, に é quem fez (友だちに貸してもらう). Olhe sempre o verbo do fim.",
+        "Favor é só para coisa boa. Para algo ruim que alguém fez com você, 〜てもらう não serve: (alguém leu o seu diário sem pedir) にっきを読んでもらいました ✗ soaria como se você tivesse pedido. Para isso o japonês usa a voz passiva (Aula 21-1)."
+      ],
+      "howToStudy": [
+        "Pegue os 3 favores que você disse no ponto b e conte cada um de novo com 〜てもらう: 〜が〜てくれました → 〜に〜てもらいました.",
+        "Treinos → 🔬 Anatomia → 🔬 Analisar: cole o exemplo 3 e confirme que 父に é quem fez o favor, e não quem recebeu.",
+        "Grave-se contando 2 favores que você pediu a alguém (um amigo, um colega), com [pessoa]に〜てもらいました."
+      ],
+      "flag": null
+    }
+  ],
+  "media": [
+    { "order": 1, "kind": "leitura", "title": "Genki II · Lição 16: diálogo, vocabulário e as explicações de gramática sobre 〜てあげる／てくれる／てもらう", "where": "Seu livro Genki II", "url": "", "when": "Antes desta aula ou logo depois do bloco de gramática. 〜ていただけませんか e 〜といい ficam para a Aula 16-2, e 〜とき e 〜てすみませんでした para a Aula 16-3." },
+    { "order": 2, "kind": "video", "title": "Japanese Ammo with Misa: favores com 〜てあげる, 〜てくれる e 〜てもらう (em inglês)", "where": "YouTube · canal Japanese Ammo with Misa", "url": "", "search": "Japanese Ammo with Misa てあげる てくれる てもらう", "when": "Depois dos 3 pontos, para ver a direção dos favores explicada de outro jeito" }
+  ],
+  "homework": {
+    "intro": "Faça no caderno, à mão. Use kanji só nos que você já conhece e escreva o resto em kana. Antes de cada item, desenhe uma seta pequena: quem faz o favor → quem recebe. Só depois abra o gabarito, item por item. Circule o que errou e refaça no dia seguinte. Se você tiver o Genki II Workbook, faça também os exercícios desta lição. Nesta aula, os de 〜てあげる／てくれる／てもらう.",
+    "tasks": [
+      {
+        "id": "h1",
+        "type": "completar",
+        "prompt": "Complete com あげました, くれました ou もらいました, de acordo com a tradução.",
+        "items": [
+          { "q": "私は弟に日本語を教えて＿。 (Ensinei japonês ao meu irmão.)", "a": { "jp": "あげました", "romaji": "agemashita" }, "note": "O favor sai de mim e vai para o meu irmão." },
+          { "q": "友だちが私のレポートを読んで＿。 (Meu amigo leu o meu relatório para mim.)", "a": { "jp": "くれました", "romaji": "kuremashita" }, "note": "Quem fez (が) é o amigo, e o favor vem para mim." },
+          { "q": "私は母に駅まで送って＿。 (Minha mãe me levou até a estação.)", "a": { "jp": "もらいました", "romaji": "moraimashita" }, "note": "母に = quem fez o favor; eu (私は) recebi. 送る pede を para a pessoa levada, então esse に só pode ser a fonte do favor." },
+          { "q": "アナさんがかさを貸して＿。 (A Ana me emprestou o guarda-chuva.)", "a": { "jp": "くれました", "romaji": "kuremashita" }, "note": "Sujeito com が + favor vindo para mim." },
+          { "q": "私はルーカスさんにてつだって＿。 (O Lucas me ajudou; eu pedi.)", "a": { "jp": "もらいました", "romaji": "moraimashita" }, "note": "てつだう pede を para quem é ajudado. Aqui o に é quem fez o favor, então é もらう." },
+          { "q": "私はおばあさんに道を教えて＿。 (Ensinei o caminho a uma senhora.)", "a": { "jp": "あげました", "romaji": "agemashita" }, "note": "教える pede に para quem aprende, e fui eu que ensinei: あげる." }
+        ]
+      },
+      {
+        "id": "h2",
+        "type": "transformar",
+        "prompt": "Conte o mesmo favor do outro ponto de vista: passe de 〜てくれました para 〜てもらいました.",
+        "items": [
+          { "q": "先生が作文を読んでくれました。", "a": { "jp": "先生に作文を読んでもらいました。", "kana": "せんせいにさくぶんをよんでもらいました。", "romaji": "Sensei ni sakubun o yonde moraimashita." }, "note": "Quem fez passa de が para に, e o sujeito vira eu (oculto)." },
+          { "q": "父がパソコンをなおしてくれました。", "a": { "jp": "父にパソコンをなおしてもらいました。", "kana": "ちちにパソコンをなおしてもらいました。", "romaji": "Chichi ni pasokon o naoshite moraimashita." } },
+          { "q": "マリアさんがブラジル料理を作ってくれました。", "a": { "jp": "マリアさんにブラジル料理を作ってもらいました。", "kana": "マリアさんにブラジルりょうりをつくってもらいました。", "romaji": "Maria-san ni burajiru ryōri o tsukutte moraimashita." } },
+          { "q": "たなかさんが写真をとってくれました。", "a": { "jp": "たなかさんに写真をとってもらいました。", "kana": "たなかさんにしゃしんをとってもらいました。", "romaji": "Tanaka-san ni shashin o totte moraimashita." }, "note": "O objeto (写真を) e o verbo não mudam; só a pessoa e o verbo final." }
+        ]
+      },
+      {
+        "id": "h3",
+        "type": "traduzir",
+        "prompt": "Traduza para o japonês. Decida primeiro: o favor vai para fora (あげる), vem para mim (くれる) ou eu recebo de alguém (もらう)?",
+        "items": [
+          { "q": "Emprestei o meu dicionário para o Pedro.", "a": { "jp": "私はペドロさんにじしょを貸してあげました。", "kana": "わたしはペドロさんにじしょをかしてあげました。", "romaji": "Watashi wa Pedoro-san ni jisho o kashite agemashita." }, "note": "貸す pede に para quem recebe." },
+          { "q": "Minha amiga me acordou.", "a": { "jp": "友だちが起こしてくれました。", "kana": "ともだちがおこしてくれました。", "romaji": "Tomodachi ga okoshite kuremashita." }, "note": "私を não precisa aparecer: くれる já diz que fui eu." },
+          { "q": "A professora me explicou a gramática (eu pedi).", "a": { "jp": "先生にぶんぽうを説明してもらいました。", "kana": "せんせいにぶんぽうをせつめいしてもらいました。", "romaji": "Sensei ni bunpō o setsumei shite moraimashita." }, "note": "\"Eu pedi\" combina com もらう. Com professor, 説明していただきました é ainda mais educado." },
+          { "q": "Quem te ensinou esse jogo?", "a": { "jp": "だれがそのゲームを教えてくれましたか。", "kana": "だれがそのゲームをおしえてくれましたか。", "romaji": "Dare ga sono gēmu o oshiete kuremashita ka." }, "note": "Na pergunta, くれる vai na direção de quem ouve." },
+          { "q": "Professor, quer que eu carregue a sua bolsa?", "a": { "jp": "先生、かばんを持ちましょうか。", "kana": "せんせい、かばんをもちましょうか。", "romaji": "Sensei, kaban o mochimashō ka." }, "note": "Com superior, ofereça com 〜ましょうか. 持ってあげます soaria arrogante." }
+        ]
+      },
+      {
+        "id": "h4",
+        "type": "produzir",
+        "prompt": "Escreva 4 frases verdadeiras sobre favores: uma com 〜てあげました, uma com 〜てくれました, uma com 〜てもらいました e uma oferta de ajuda a um superior com 〜ましょうか. Depois leia em voz alta e grave no celular.",
+        "items": [
+          { "q": "Modelo, que o seu texto deve seguir na estrutura e não nas palavras:", "a": { "jp": "きのう、妹にしゅくだいを教えてあげました。友だちが駅まで送ってくれました。母にケーキを作ってもらいました。先生、にもつを持ちましょうか。", "kana": "きのう、いもうとにしゅくだいをおしえてあげました。ともだちがえきまでおくってくれました。ははにケーキをつくってもらいました。せんせい、にもつをもちましょうか。", "romaji": "Kinō, imōto ni shukudai o oshiete agemashita. Tomodachi ga eki made okutte kuremashita. Haha ni kēki o tsukutte moraimashita. Sensei, nimotsu o mochimashō ka.", "pt": "Ontem ajudei minha irmã com a lição de casa. Um amigo me levou até a estação. Minha mãe fez um bolo para mim. Professor, quer que eu carregue as suas coisas?" }, "note": "Confira: quem faz o favor com は/が em あげる e くれる, e com に em もらう; a partícula da pessoa segue o verbo (に com 教える e 貸す, を com 起こす e てつだう); nenhum 〜てあげます dito a um superior." }
+        ]
+      }
+    ],
+    "workbook": []
+  },
+  "practice": [
+    { "tool": "Wagotabi", "what": "Jogue de preferência numa região N4 do jogo. Sempre que um diálogo tiver 〜てくれる, 〜てもらう ou 〜てあげる, pause e diga em voz alta: quem fez o favor? quem recebeu? Copie 2 dessas frases no caderno e desenhe a seta do favor.", "min": 15 },
+    { "tool": "ヅオリンゴー", "what": "Vocabulário/SRS: revise as palavras desta aula. Depois, Treinos → Conjugação: forma て de 10 verbos, que é a base dos três favores.", "min": 10 },
+    { "tool": "ヅオリンゴー", "what": "Treinos → 🔬 Anatomia → 🔬 Analisar: cole os 3 exemplos de 〜てもらう e confira, em cada um, que o bloco com に é quem fez o favor.", "min": 5 },
+    { "tool": "Shadowing", "what": "Toque 🔊 em cada exemplo desta aula e repita junto 3 vezes. Os favores deixam o predicado longo (て・つ・だっ・て・く・れ・ま・し・た): mantenha o ritmo igual até o fim.", "min": 5 },
+    { "tool": "Fala", "what": "Grave em até 1 minuto os 4 favores da lição de casa h4. Ouça e confira se cada seta saiu na direção certa.", "min": 5 }
+  ],
+  "culture": {
+    "title": "Achados e perdidos: o que se perde costuma voltar",
+    "titleJp": "おとしもの・わすれもの",
+    "body": "No Japão, quem acha uma carteira, um celular ou um guarda-chuva perdido costuma levar o objeto à **こうばん**, o posto policial do bairro, ou ao balcão da estação. Por isso é comum que coisas perdidas voltem para o dono, muitas vezes com o dinheiro dentro. Nas grandes cidades, a polícia recebe uma quantidade enorme de objetos todo ano, e os guarda-chuvas estão entre os mais comuns. A lei prevê que quem achou pode pedir ao dono uma recompensa, em geral de 5% a 20% do valor, mas muita gente abre mão dela. Se você esquecer algo no trem, vale perguntar no balcão da estação: as companhias costumam guardar os objetos por um tempo antes de mandá-los para a polícia.",
+    "try": "Treine em voz alta a cena na こうばん: すみません、さいふをおとしました。 E, quando alguém devolver: 見つけてくれて、ありがとうございます。 Repare no てくれて: é o favor que veio até você."
+  },
+  "checklist": [
+    "Explico sem olhar quem recebe o benefício em 〜てあげる, 〜てくれる e 〜てもらう, e ligo cada um com あげる / くれる / もらう da Aula 14-2.",
+    "Conto um favor que fiz com 〜てあげました, com a partícula que o verbo pede (に com 貸す, を com 起こす, の com a coisa da pessoa).",
+    "Conto um favor que recebi com [quem fez]が〜てくれました, sem precisar dizer 私に.",
+    "Troco a mesma cena de 〜てくれました para 〜てもらいました, passando quem fez de が para に.",
+    "Ofereço ajuda a um superior com 〜ましょうか, e não com 〜てあげます.",
+    "Fiz a lição de casa e conferi o gabarito, e refiz o que errei.",
+    "Se tenho o Genki II Workbook, fiz os exercícios de 〜てあげる／てくれる／てもらう."
+  ]
+}

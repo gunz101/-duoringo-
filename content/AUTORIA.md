@@ -1,11 +1,11 @@
-# Guia de autoria: como escrever uma aula do Curso de Japonês Mirage
+# Guia de autoria: como escrever uma aula do Curso de Japonês ヅオリンゴー
 
 Leia este guia inteiro antes de escrever. **O padrão-ouro é `content/aulas/01-1.json`.** Leia esse arquivo todo e copie a estrutura, o tom, a profundidade e o formato. Suas aulas precisam ter a mesma qualidade e o mesmo cuidado.
 
 ## Quem é o aluno
 - Brasileiro, fala PT-BR e estuda 1–1,5 h por dia. Não tem datas nem prazos: avança por marcos de domínio.
 - Tem o livro **Genki I 3ª ed.** e o workbook, e joga **Wagotabi**, um RPG em japonês ordenado por JLPT.
-- Usa o app **Mirage**, que faz o SRS e tem as ferramentas listadas abaixo.
+- Usa o app **ヅオリンゴー**, que faz o SRS e tem as ferramentas listadas abaixo.
 - A maior dificuldade dele é **montar frases**: ele se perde nos elementos e não sabe qual parte faz o quê. Por isso toda explicação deve deixar claro **qual bloco da frase tem qual função** (tópico, objeto, lugar, predicado…) e insistir em **ler pelo predicado, no fim da frase**.
 
 ## Regras que não se negociam
@@ -88,7 +88,7 @@ Misture nomes japoneses e brasileiros (ペドロ, マリア, ルーカス, ア�
 
 8. **`practice`**: 4–5 itens; **sempre um com Wagotabi** nas Lições 1–12.
    - Não invente detalhes do jogo. Instrua o aluno a caçar nos diálogos do jogo o ponto da aula.
-   - Use também: Mirage (recursos reais abaixo), shadowing com os 🔊 da aula, e fala (gravar-se).
+   - Use também: ヅオリンゴー (recursos reais abaixo), shadowing com os 🔊 da aula, e fala (gravar-se).
 
 9. **`culture`**: 1 hábito ou costume por aula, com `title`, `titleJp`, `body` (3–6 frases, factual e sem exagero) e `try` (algo que ele pode fazer ou treinar).
    - Use o tema atribuído a você na tabela abaixo.
@@ -101,7 +101,7 @@ Misture nomes japoneses e brasileiros (ペドロ, マリア, ルーカス, ア�
 - `grammar` = um ponto de revisão por tema da unidade, com um exemplo NOVO que combine 2+ pontos.
 - A lição de casa inclui um **autoteste** com gabarito, com 15–25 itens mistos, e uma tarefa de fala.
 
-## Recursos reais do Mirage (use só estes nomes)
+## Recursos reais do ヅオリンゴー (use só estes nomes)
 - **Vocabulário/SRS**: revisar as palavras da lição no SRS. O baralho "🌊 Tudo" junta todas as revisões do dia.
 - **Praticar L#**: prática por lição do Genki, com conjugação, escuta, compreensão e formatos no estilo do workbook.
 - **Treinos**: Conjugação, Números, Partículas e **🔬 Anatomia**. A Anatomia tem três modos:
@@ -179,7 +179,7 @@ Misture nomes japoneses e brasileiros (ペドロ, マリア, ルーカス, ア�
 - Sem livro-base. Use `"genki": null`. No bloco 6, indique recursos por ponto (vídeo + leitura), sempre com `search` e sem URLs inventadas.
 - Os exemplos devem soar como japonês do dia a dia, com kanji N4/N3. `kana` é obrigatório.
 - Cada ponto precisa de **contraste** com o vizinho que confunde: ようになる × ようにする, ために × ように, e assim por diante. É isso que o aluno mais precisa.
-- Prática: Wagotabi (fase N3), NHK Web Easy, podcasts e o Diário do Mirage, onde ele escreve frases com o ponto.
+- Prática: Wagotabi (fase N3), NHK Web Easy, podcasts e o Diário do ヅオリンゴー, onde ele escreve frases com o ponto.
 
 ## Trilha Viagem (V-01…V-08) — regras extras
 - É uma aula situacional: `grammar` = 3–4 "situações", e cada uma traz frases-chave. Use `structure` como o modelo da frase. Os exemplos são diálogos curtos (A。— B。).

@@ -100,7 +100,7 @@
         "Confundir letras parecidas: ぬ × め, ね × れ × わ, る × ろ, さ × ち, は × ほ. ぬ e る terminam com um laço; め e ろ, não."
       ],
       "howToStudy": [
-        "Mirage → Kana → Trilha de Kana: avance uma fileira por vez e só passe para a próxima quando ler a atual sem hesitar.",
+        "ヅオリンゴー → Kana → Trilha de Kana: avance uma fileira por vez e só passe para a próxima quando ler a atual sem hesitar.",
         "Escreva cada fileira à mão, 3 vezes, lendo em voz alta. Confira a ordem dos traços em Kana → Escrever.",
         "Fala: recite a tabela na horizontal (あいうえお, かきくけこ…) e depois na vertical (あかさたな…), como um ritmo."
       ],
@@ -203,7 +203,7 @@
   "media": [
     { "order": 1, "kind": "leitura", "title": "Genki I · Japanese Writing System (introdução) e Leitura e Escrita da Lição 1: a tabela de hiragana", "where": "Seu livro Genki I (3ª ed.)", "url": "", "when": "Antes desta aula ou junto com o ponto 4b" },
     { "order": 2, "kind": "video", "title": "ToKini Andy: hiragana e pronúncia, para quem vai começar o Genki", "where": "YouTube · canal ToKini Andy", "url": "", "search": "ToKini Andy hiragana", "when": "Depois dos pontos 4a e 4b, pausando para repetir cada fileira" },
-    { "order": 3, "kind": "app", "title": "Mirage · Kana → Trilha de Kana (hiragana, fileira por fileira) e Kana → Escrever (ordem dos traços)", "where": "Mirage · Kana", "url": "", "when": "Em toda sessão de estudo, até dominar as 46 letras e as combinações" },
+    { "order": 3, "kind": "app", "title": "ヅオリンゴー · Kana → Trilha de Kana (hiragana, fileira por fileira) e Kana → Escrever (ordem dos traços)", "where": "ヅオリンゴー · Kana", "url": "", "when": "Em toda sessão de estudo, até dominar as 46 letras e as combinações" },
     { "order": 4, "kind": "app", "title": "kana-flow: treino adaptativo que insiste nas letras que você erra ou demora para ler", "where": "../kana-flow/index.html", "url": "../kana-flow/index.html", "when": "Depois da Trilha de Kana, para fixar o que você já viu" }
   ],
   "homework": {
@@ -269,7 +269,7 @@
     ]
   },
   "practice": [
-    { "tool": "Kana", "what": "Mirage → Kana → Trilha de Kana: uma fileira nova por sessão, sempre revisando as anteriores. Só avance quando ler a fileira atual sem hesitar. Use Kana → Escrever para a ordem dos traços.", "min": 15 },
+    { "tool": "Kana", "what": "ヅオリンゴー → Kana → Trilha de Kana: uma fileira nova por sessão, sempre revisando as anteriores. Só avance quando ler a fileira atual sem hesitar. Use Kana → Escrever para a ordem dos traços.", "min": 15 },
     { "tool": "kana-flow", "what": "Treino adaptativo: ele insiste nas letras que você erra ou demora e, pela Caça-confusão, junta pares parecidos (ぬ/め, る/ろ). A introdução gradual libera letras novas conforme as antigas firmam. Quando já souber todas, use o kana-speed-trainer para ganhar velocidade.", "min": 10 },
     { "tool": "Wagotabi", "what": "Jogue normalmente e, nos menus e diálogos, procure palavras escritas só em hiragana. Leia 5 delas em voz alta, mora por mora, e copie no caderno. Não precisa entender: o objetivo aqui é ler o som.", "min": 10 },
     { "tool": "Shadowing", "what": "Toque 🔊 em cada exemplo da aula e repita junto 3 vezes, batendo palma a cada mora.", "min": 5 },

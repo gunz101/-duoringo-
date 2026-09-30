@@ -72,7 +72,7 @@
         "Escrever palavra estrangeira em hiragana: o certo é ブラジル, e não ぶらじる."
       ],
       "howToStudy": [
-        "Mirage → Kana → Trilha de Kana, agora no katakana, uma fileira por vez. Confira a ordem dos traços em Kana → Escrever.",
+        "ヅオリンゴー → Kana → Trilha de Kana, agora no katakana, uma fileira por vez. Confira a ordem dos traços em Kana → Escrever.",
         "No caderno, escreva シ ツ ソ ン quatro vezes cada, dizendo em voz alta a direção do traço longo: \"sobe\", \"desce\".",
         "Fala: leia em voz alta as palavras do vocabulário da aula, primeiro devagar e depois no ritmo das moras."
       ],
@@ -154,7 +154,7 @@
   "media": [
     { "order": 1, "kind": "leitura", "title": "Genki I · Japanese Writing System (introdução) e Leitura e Escrita da Lição 2: a tabela de katakana", "where": "Seu livro Genki I (3ª ed.)", "url": "", "when": "Antes desta aula ou junto com o ponto 4a" },
     { "order": 2, "kind": "video", "title": "ToKini Andy: katakana, para quem está começando o Genki", "where": "YouTube · canal ToKini Andy", "url": "", "search": "ToKini Andy katakana", "when": "Depois do ponto 4a, pausando para repetir cada fileira" },
-    { "order": 3, "kind": "app", "title": "Mirage · Kana → Trilha de Kana (katakana, fileira por fileira) e Kana → Escrever (ordem dos traços)", "where": "Mirage · Kana", "url": "", "when": "Em toda sessão de estudo, até dominar o katakana" },
+    { "order": 3, "kind": "app", "title": "ヅオリンゴー · Kana → Trilha de Kana (katakana, fileira por fileira) e Kana → Escrever (ordem dos traços)", "where": "ヅオリンゴー · Kana", "url": "", "when": "Em toda sessão de estudo, até dominar o katakana" },
     { "order": 4, "kind": "app", "title": "kana-flow: mistura hiragana e katakana e caça os pares que você confunde (シ/ツ, ソ/ン)", "where": "../kana-flow/index.html", "url": "../kana-flow/index.html", "when": "Depois da Trilha de Kana, para fixar os dois silabários juntos" }
   ],
   "homework": {
@@ -218,7 +218,7 @@
     ]
   },
   "practice": [
-    { "tool": "Kana", "what": "Mirage → Kana → Trilha de Kana, no katakana: uma fileira nova por sessão, revisando as anteriores. Use Kana → Escrever para a ordem dos traços de シ, ツ, ソ e ン.", "min": 15 },
+    { "tool": "Kana", "what": "ヅオリンゴー → Kana → Trilha de Kana, no katakana: uma fileira nova por sessão, revisando as anteriores. Use Kana → Escrever para a ordem dos traços de シ, ツ, ソ e ン.", "min": 15 },
     { "tool": "kana-flow", "what": "O modo misto junta hiragana e katakana. Se você trocar シ por ツ, a Caça-confusão registra o par e traz o sósia logo em seguida; na aba Fraquezas, use \"Treinar par\".", "min": 10 },
     { "tool": "Wagotabi", "what": "Jogue normalmente e procure palavras em katakana nos menus e diálogos. Leia 5 em voz alta, tente adivinhar a palavra estrangeira por trás e anote no caderno.", "min": 10 },
     { "tool": "Shadowing", "what": "Toque 🔊 em cada exemplo da aula e repita junto 3 vezes, segurando o ー e a pausa do ッ.", "min": 5 },

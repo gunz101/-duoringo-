@@ -196,8 +196,8 @@
   },
   "practice": [
     { "tool": "Wagotabi", "what": "Jogue normalmente. Cace frases que terminam em あります, います, ありません ou いません. Para cada uma, diga em voz alta o que existe (が) e onde (に). Copie 2 dessas frases no caderno.", "min": 15 },
-    { "tool": "Mirage", "what": "Vocabulário da Lição 4 no SRS. Depois, Praticar L4, na parte de あります／います e palavras de lugar.", "min": 10 },
-    { "tool": "Mirage", "what": "Treinos → Partículas, prestando atenção em に × で. Depois, Treinos → 🔬 Anatomia → 🏷 Etiquetar: 5 frases, dizendo qual bloco é o LUGAR e qual é o que EXISTE.", "min": 10 },
+    { "tool": "ヅオリンゴー", "what": "Vocabulário da Lição 4 no SRS. Depois, Praticar L4, na parte de あります／います e palavras de lugar.", "min": 10 },
+    { "tool": "ヅオリンゴー", "what": "Treinos → Partículas, prestando atenção em に × で. Depois, Treinos → 🔬 Anatomia → 🏷 Etiquetar: 5 frases, dizendo qual bloco é o LUGAR e qual é o que EXISTE.", "min": 10 },
     { "tool": "Shadowing", "what": "Toque 🔊 em cada exemplo desta aula e repita junto 3 vezes, imitando o ritmo.", "min": 5 },
     { "tool": "Fala", "what": "Grave um \"tour\" de 30 s pelo seu quarto: aponte e diga onde cada coisa está (〜は 〜の 上に あります…). Ouça e anote o que travou.", "min": 5 }
   ],

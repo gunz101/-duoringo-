@@ -43,15 +43,17 @@ function kanaToRomaji(input) {
 // canonical form: both sides are folded the same way, so the comparison forgives
 // macrons (ō = ou = oo), ei/ē, the particles は(wa)/へ(e)/を(o), n'/m before b-m-p, spaces and punctuation.
 function canon(r) {
-  return String(r || '').toLowerCase()
+  let s = String(r || '').toLowerCase()
     .normalize('NFC')
     .replace(/[āâ]/g, 'aa').replace(/[īî]/g, 'ii').replace(/[ūû]/g, 'uu').replace(/[ēê]/g, 'ee').replace(/[ōô]/g, 'oo')
     .replace(/[^a-z0-9]/g, '')
     .replace(/cch/g, 'tch')
     .replace(/m(?=[bmp])/g, 'n')
-    .replace(/ou/g, 'oo').replace(/ei/g, 'ee')
-    .replace(/wo/g, 'o').replace(/wa/g, 'ha').replace(/he/g, 'e')
-    .replace(/(.)\1+/g, '$1$1');                           // "ooo" (おおう) → "oo"
+    .replace(/wo/g, 'o').replace(/wa/g, 'ha').replace(/he/g, 'e');
+  // vowel length is forgiven (ō = ou = oo = o; ei = e), collapsed until stable so both sides agree
+  // (きのう うち → kinouuchi and "Kinō uchi" → kinoouchi must end the same)
+  for (let prev = ''; prev !== s;) { prev = s; s = s.replace(/ou/g, 'o').replace(/ei/g, 'e').replace(/([aeiou])\1+/g, '$1'); }
+  return s.replace(/([^aeiou])\1+/g, '$1$1');
 }
 
 function romajiMatches(kana, romaji) {

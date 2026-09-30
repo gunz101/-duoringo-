@@ -216,8 +216,8 @@
   },
   "practice": [
     { "tool": "Wagotabi", "what": "Jogue normalmente e cace números: sempre que um número aparecer na tela ou num diálogo, leia em voz alta em japonês. Se um diálogo trouxer なんじ, 〜じ, 〜さい ou 〜ねんせい, pause e copie a frase no caderno.", "min": 15 },
-    { "tool": "Mirage", "what": "Treinos → Números: 10 min. Depois, Vocabulário da Lição 1 no SRS.", "min": 15 },
-    { "tool": "Mirage", "what": "Praticar L1: escuta e compreensão, para ouvir números e horas dentro de frases.", "min": 10 },
+    { "tool": "ヅオリンゴー", "what": "Treinos → Números: 10 min. Depois, Vocabulário da Lição 1 no SRS.", "min": 15 },
+    { "tool": "ヅオリンゴー", "what": "Praticar L1: escuta e compreensão, para ouvir números e horas dentro de frases.", "min": 10 },
     { "tool": "Shadowing", "what": "Toque 🔊 nos exemplos de telefone e de idade e repita junto 3 vezes, marcando a pausa em cada の.", "min": 5 },
     { "tool": "Fala", "what": "Grave em até 30 s: いま 〜じです。 + a sua idade + o seu ano (ou o que você faz). Ouça e confira as leituras especiais.", "min": 5 }
   ],

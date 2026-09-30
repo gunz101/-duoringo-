@@ -124,7 +124,7 @@
       "howToStudy": [
         "Fala: grave a sua apresentação completa (はじめまして。〜です。よろしく おねがいします。) e ouça. Repita até sair sem pausas.",
         "Na frente do espelho, faça uma leve reverência no よろしく.",
-        "Mirage → Diário: escreva a sua apresentação e abra \"Anatomia do que escrevi\" para ver os blocos."
+        "ヅオリンゴー → Diário: escreva a sua apresentação e abra \"Anatomia do que escrevi\" para ver os blocos."
       ],
       "flag": null
     },
@@ -147,7 +147,7 @@
       ],
       "howToStudy": [
         "Fala: conte de 0 a 10 e de volta, em voz alta, usando よん, なな e きゅう.",
-        "Mirage → Treinos → Números: faça uma rodada e anote em que números você travou.",
+        "ヅオリンゴー → Treinos → Números: faça uma rodada e anote em que números você travou.",
         "Diga em japonês os números de um só dígito que aparecerem no seu dia: andar do elevador, linha do ônibus, página do livro."
       ],
       "flag": null
@@ -170,7 +170,7 @@
       ],
       "howToStudy": [
         "Fala: conte de 10 em 10 até 100 (じゅう, にじゅう … ひゃく) e depois de 5 em 5.",
-        "Mirage → Treinos → Números: mais uma rodada, agora prestando atenção nas dezenas.",
+        "ヅオリンゴー → Treinos → Números: mais uma rodada, agora prestando atenção nas dezenas.",
         "Leia em voz alta, em japonês, números até 100 que aparecerem no seu dia: placa de ônibus, página do livro, preço em reais."
       ],
       "flag": null
@@ -179,7 +179,7 @@
   "media": [
     { "order": 1, "kind": "leitura", "title": "Genki I · a parte de cumprimentos (あいさつ) e números (すうじ), antes da Lição 1", "where": "Seu livro Genki I (3ª ed.)", "url": "", "when": "Antes desta aula ou logo depois do bloco de gramática" },
     { "order": 2, "kind": "video", "title": "ToKini Andy: cumprimentos e números do começo do Genki I", "where": "YouTube · canal ToKini Andy", "url": "", "search": "ToKini Andy Genki greetings numbers", "when": "Depois dos 5 pontos: o vídeo confirma a pronúncia e dá mais exemplos" },
-    { "order": 3, "kind": "app", "title": "Mirage · Treinos → Números", "where": "Mirage · Treinos", "url": "", "when": "No fim da aula e nas sessões seguintes, até contar até 100 sem travar" }
+    { "order": 3, "kind": "app", "title": "ヅオリンゴー · Treinos → Números", "where": "ヅオリンゴー · Treinos", "url": "", "when": "No fim da aula e nas sessões seguintes, até contar até 100 sem travar" }
   ],
   "homework": {
     "intro": "Faça no caderno, à mão, escrevendo o japonês em hiragana. Só depois abra o gabarito, item por item. Circule o que errou e refaça na sessão seguinte.",
@@ -239,7 +239,7 @@
   },
   "practice": [
     { "tool": "Wagotabi", "what": "Jogue normalmente. Sempre que aparecer um cumprimento ou agradecimento nas falas (こんにちは, ありがとう, すみません…), pause, leia em voz alta e anote no caderno em que situação o personagem usou.", "min": 10 },
-    { "tool": "Mirage", "what": "Treinos → Números: 2 rodadas. Se ainda tropeçar em alguma letra, faça também Kana → Treino livre.", "min": 10 },
+    { "tool": "ヅオリンゴー", "what": "Treinos → Números: 2 rodadas. Se ainda tropeçar em alguma letra, faça também Kana → Treino livre.", "min": 10 },
     { "tool": "Shadowing", "what": "Toque 🔊 em cada cumprimento e repita junto 3 vezes, respeitando as vogais longas (おはよう, ありがとう, さようなら).", "min": 5 },
     { "tool": "Fala", "what": "Grave a sua apresentação (lição de casa h4) em até 15 s. Ouça e confira se はじめまして e よろしく おねがいします saíram sem pausas.", "min": 5 },
     { "tool": "Números no dia a dia", "what": "Conte em japonês o que aparecer: degraus da escada, passos até a esquina, itens da lista de compras. Vá até 100 quando der.", "min": 5 }

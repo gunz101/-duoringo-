@@ -1,0 +1,188 @@
+{
+  "id": "P-05",
+  "unit": "P-N3",
+  "genki": null,
+  "title": "O momento da ação",
+  "titleJp": "食べるところ・食べているところ・食べたところ",
+  "canDo": [
+    "Dizer em que momento de uma ação eu estou: prestes a começar (出かけるところ), bem no meio (作っているところ) ou logo depois (着いたところ).",
+    "Explicar por que não posso atender agora: 今、晩ご飯を作っているところだから、あとでかけ直すね。",
+    "Dizer que algo aconteceu faz pouco tempo, do meu ponto de vista, com 〜たばかり, inclusive antes de substantivo (買ったばかりのスマホ).",
+    "Escolher entre 〜たところ e 〜たばかり conforme o tempo que passou e a intenção da frase.",
+    "Reconhecer 〜るところだった (\"por pouco não…\") e o 〜たところ、 das notícias (\"ao fazer X, …\")."
+  ],
+  "duration": {
+    "total": "60–75 min",
+    "blocks": [
+      { "t": "Aquecimento: diga em voz alta a forma de dicionário, a forma ている e a forma た de 出かける, 着く, 浴びる, 始める e 食べる", "min": 5 },
+      { "t": "Vocabulário: ouvir 🔊 cada palavra e repetir 2 vezes", "min": 10 },
+      { "t": "Gramática: os 2 pontos, com os exemplos lidos em voz alta e um 🔬 em cada; no ponto b, faça com calma o contraste たところ × たばかり", "min": 25 },
+      { "t": "Vídeo e leitura do bloco 6, pausando nos exemplos", "min": 10 },
+      { "t": "Lição de casa no caderno + conferir no gabarito", "min": 15 },
+      { "t": "Checklist (bloco 10) + anotar dúvidas no caderno da aula", "min": 5 }
+    ]
+  },
+  "prereqs": {
+    "aulas": ["P-04"],
+    "skills": [
+      "Formas de dicionário, ている e た de qualquer verbo, sem hesitar (Aulas 07-1, 08-1 e 09-1). Nesta aula, é só essa forma que muda o sentido de ところ.",
+      "〜ので e 〜のに (Aulas 12-2 e 22-2), que aparecem muito junto de たばかり.",
+      "〜てしまう / 〜ちゃう (Aula 18-2), que aparece em alguns exemplos.",
+      "Ler kanji N4 com calma. Toda frase traz a leitura completa em kana."
+    ],
+    "vocab": [
+      { "jp": "ところ", "kana": "ところ", "romaji": "tokoro", "pt": "lugar; nesta aula: o ponto (o momento) de uma ação" },
+      { "jp": "〜ばかり", "kana": "〜ばかり", "romaji": "-bakari", "pt": "depois da forma た: faz pouco que…" },
+      { "jp": "ちょうど", "kana": "ちょうど", "romaji": "chōdo", "pt": "exatamente; ちょうど今 = agorinha, neste instante" },
+      { "jp": "これから", "kana": "これから", "romaji": "kore kara", "pt": "daqui a pouco, a partir de agora" },
+      { "jp": "出かける", "kana": "でかける", "romaji": "dekakeru", "pt": "sair (de casa, para algum lugar)" },
+      { "jp": "着く", "kana": "つく", "romaji": "tsuku", "pt": "chegar (〜に着く)" },
+      { "jp": "空港", "kana": "くうこう", "romaji": "kūkō", "pt": "aeroporto" },
+      { "jp": "シャワーを浴びる", "kana": "シャワーをあびる", "romaji": "shawā o abiru", "pt": "tomar banho de chuveiro" },
+      { "jp": "かけ直す", "kana": "かけなおす", "romaji": "kakenaosu", "pt": "ligar de volta (telefone)" },
+      { "jp": "引っ越す", "kana": "ひっこす", "romaji": "hikkosu", "pt": "mudar-se (de casa)" },
+      { "jp": "慣れる", "kana": "なれる", "romaji": "nareru", "pt": "acostumar-se (〜に慣れる)" },
+      { "jp": "生活", "kana": "せいかつ", "romaji": "seikatsu", "pt": "vida, dia a dia" },
+      { "jp": "生まれる", "kana": "うまれる", "romaji": "umareru", "pt": "nascer" },
+      { "jp": "赤ちゃん", "kana": "あかちゃん", "romaji": "akachan", "pt": "bebê" },
+      { "jp": "画面", "kana": "がめん", "romaji": "gamen", "pt": "tela (celular, computador)" },
+      { "jp": "割れる", "kana": "われる", "romaji": "wareru", "pt": "quebrar, rachar (vidro, tela)" },
+      { "jp": "汚れる", "kana": "よごれる", "romaji": "yogoreru", "pt": "sujar-se, ficar sujo" },
+      { "jp": "始める", "kana": "はじめる", "romaji": "hajimeru", "pt": "começar (algo)" },
+      { "jp": "会議", "kana": "かいぎ", "romaji": "kaigi", "pt": "reunião" },
+      { "jp": "もう少しで", "kana": "もうすこしで", "romaji": "mō sukoshi de", "pt": "por pouco (com 〜るところだった)" },
+      { "jp": "乗り遅れる", "kana": "のりおくれる", "romaji": "noriokureru", "pt": "perder (trem, ônibus) por chegar tarde" },
+      { "jp": "終電", "kana": "しゅうでん", "romaji": "shūden", "pt": "o último trem do dia" },
+      { "jp": "調べる", "kana": "しらべる", "romaji": "shiraberu", "pt": "pesquisar, investigar" }
+    ]
+  },
+  "grammar": [
+    {
+      "id": "P-05-a",
+      "gc": null,
+      "title": "〜るところ / 〜ているところ / 〜たところ",
+      "gloss": "prestes a · bem no meio · acabou de",
+      "explanation": "ところ quer dizer \"lugar\", mas aqui marca um **ponto no tempo**: em que momento da ação você está. Quem decide o momento é a **forma do verbo antes de ところ**.\n• **Dicionário + ところ** = prestes a. A ação ainda não começou, mas vai começar agora: 今から出かけるところです (estou saindo agora; ainda estou em casa).\n• **ている + ところ** = bem no meio. A ação está acontecendo neste momento: 今、晩ご飯を作っているところです.\n• **た + ところ** = acabou de. A ação terminou há instantes: ちょうど今、着いたところです.\n\nNa frase, [verbo + ところ] + です／だ é o **PREDICADO**. Leia pelo fim: ところです diz \"é o momento de…\", e a forma do verbo diz qual momento. Na fala casual, o だ costuma cair: 今、出るところ！\n• Palavras que costumam acompanhar: 今から／これから (るところ), 今 (ているところ), ちょうど今 (たところ).\n• Por que não dizer só 作っています? Também está certo, mas ているところ **põe o foco no momento**. Por isso ele aparece muito para explicar por que você não pode fazer outra coisa agora: 今、作っているところだから、あとでかけ直すね。\n\n**Dois usos para reconhecer:**\n• **るところだった** = \"por pouco não…\": もう少しで終電に乗り遅れるところだった (por pouco não perdi o último trem). Quase aconteceu, mas não aconteceu.\n• **たところ、** com vírgula e uma continuação, comum em notícias e relatos, quer dizer \"ao fazer X, (constatou-se) Y\": 調べたところ、〜がわかりました. Aqui não é \"acabou de\".",
+      "structure": "[verbo-dicionário] ところ (prestes a) · [verbo-ている] ところ (no meio) · [verbo-た] ところ (acabou de) + です／だ",
+      "examples": [
+        { "jp": "今から家を出るところです。— じゃあ、駅で待っていますね。", "kana": "いまからいえをでるところです。— じゃあ、えきでまっていますね。", "romaji": "Ima kara ie o deru tokoro desu. — Jā, eki de matte imasu ne.", "pt": "Estou saindo de casa agora (ainda não saí). — Então eu te espero na estação, tá?" },
+        { "jp": "今、晩ご飯を作っているところだから、あとでかけ直すね。", "kana": "いま、ばんごはんをつくっているところだから、あとでかけなおすね。", "romaji": "Ima, bangohan o tsukutte iru tokoro dakara, ato de kakenaosu ne.", "pt": "Estou bem no meio do jantar, cozinhando, então te ligo de volta depois, tá?" },
+        { "jp": "ちょうど今、空港に着いたところです。", "kana": "ちょうどいま、くうこうについたところです。", "romaji": "Chōdo ima, kūkō ni tsuita tokoro desu.", "pt": "Acabei de chegar ao aeroporto, agorinha mesmo." }
+      ],
+      "pitfalls": [
+        "A forma antes de ところ é o que muda o sentido: 食べるところ (vou comer agora) ≠ 食べているところ (estou comendo) ≠ 食べたところ (acabei de comer). Confira a forma antes de traduzir.",
+        "ているところ é só para ação acontecendo agora, nunca para estado ou hábito: 東京に住んでいるところです ✗ → 東京に住んでいます ✓; 毎朝走っているところです ✗ → 毎朝走っています ✓.",
+        "たところ é \"agorinha\". Com tempo longo, não serve: 先週引っ越したところです ✗ → 先週引っ越したばかりです ✓ (ponto b).",
+        "Não confunda るところだった (quase aconteceu, e não aconteceu) com たところ (aconteceu agora): 乗り遅れるところだった = quase perdi o trem; 乗り遅れたところ = acabei de perder o trem."
+      ],
+      "howToStudy": [
+        "No caderno, desenhe uma seta do tempo com três marcas: antes · durante · depois. Embaixo de cada marca, escreva a mesma ação com ところ: 食べるところ / 食べているところ / 食べたところ. Repita com 出かける, 読む e 始める.",
+        "🔬 Anatomia → Analisar: cole o exemplo 2. O bloco 今、晩ご飯を作っているところだから termina em から e dá o MOTIVO; あとでかけ直すね é o PREDICADO. Leia primeiro o predicado (\"te ligo depois\") e só então pergunte: por quê?",
+        "Fala: imagine que um amigo te liga três vezes. Responda em voz alta, uma vez com cada momento: 今から出るところ。／今、シャワーを浴びているところ。／今、駅に着いたところ。"
+      ],
+      "flag": null
+    },
+    {
+      "id": "P-05-b",
+      "gc": null,
+      "title": "〜たばかり (e o contraste com 〜たところ)",
+      "gloss": "faz pouco que… (na percepção de quem fala)",
+      "explanation": "た + ばかり também se traduz por \"acabou de\", mas olha para o tempo de outro jeito. ばかり diz **\"faz pouco tempo, na minha percepção\"**. Esse pouco pode ser minutos, dias ou meses: 先月日本に来たばかりです (cheguei mês passado, e para mim ainda é recente).\n• [verbo-た + ばかり] funciona como um substantivo: たばかりです／たばかりだ, たばかりなので, たばかりなのに e, antes de outro substantivo, **たばかりの + N**: 買ったばかりのスマホ (o celular recém-comprado), 生まれたばかりの赤ちゃん (o bebê recém-nascido).\n• Muitas vezes a frase com ばかり traz uma **justificativa ou uma surpresa**: 始めたばかりなので、まだ下手です (comecei faz pouco, por isso ainda sou ruim); 買ったばかりなのに、もう割れた (comprei faz pouco e já quebrou).\n\n**たところ × たばかり**\n• **たところ**: o momento **logo depois**, medido no relógio. Só serve para \"agorinha\" e costuma vir com ちょうど今.\n• **たばかり**: **pouco tempo, do ponto de vista de quem fala**. Serve para agorinha e também para dias ou meses.\n• Teste rápido: pergunte \"há quanto tempo?\". Se foi há instantes, os dois funcionam: 今、起きたところ (acordei agora, neste instante) / 起きたばかりだから、まだ頭が働かない (acordei faz pouco, por isso ainda estou lento). Se foi há dias ou meses, só ばかり: 先週引っ越したばかり ✓.\n• Antes de substantivo, só ばかりの: 買ったばかりの靴 ✓. Com ところ não se monta \"recém-X\".\n\nAtenção: ばかり também quer dizer **\"só, apenas\"** em outras construções: お菓子ばかり食べる (só come doce), 遊んでばかりいる (só fica brincando). Quem dá o sentido de \"acabou de\" é a forma **た** antes de ばかり.",
+      "structure": "[verbo-た] ばかり です／だ · [verbo-た] ばかりの [N] · [verbo-た] ばかりなので／なのに …",
+      "examples": [
+        { "jp": "先月ブラジルから来たばかりなので、まだ日本の生活に慣れていません。", "kana": "せんげつブラジルからきたばかりなので、まだにほんのせいかつになれていません。", "romaji": "Sengetsu Burajiru kara kita bakari na node, mada Nihon no seikatsu ni narete imasen.", "pt": "Como cheguei do Brasil mês passado, faz pouco, ainda não me acostumei com a vida no Japão." },
+        { "jp": "このスマホ、買ったばかりなのに、もう画面が割れちゃった。", "kana": "このスマホ、かったばかりなのに、もうがめんがわれちゃった。", "romaji": "Kono sumaho, katta bakari na noni, mō gamen ga warechatta.", "pt": "Comprei este celular faz pouco e a tela já rachou." },
+        { "jp": "生まれたばかりの赤ちゃんは、ほとんど一日中寝ています。", "kana": "うまれたばかりのあかちゃんは、ほとんどいちにちじゅうねています。", "romaji": "Umareta bakari no akachan wa, hotondo ichinichijū nete imasu.", "pt": "Bebês recém-nascidos dormem quase o dia inteiro." }
+      ],
+      "pitfalls": [
+        "Tempo longo, só ばかり: 三か月前に始めたところです ✗ → 三か月前に始めたばかりです ✓.",
+        "\"Recém-X\" antes de substantivo leva の: 買ったばかり靴 ✗ → 買ったばかりの靴 ✓.",
+        "食べたばかり (acabei de comer) ≠ 食べてばかり (só fico comendo). Uma letra muda tudo: た + ばかり = acabou de; て + ばかり + いる = só faz isso.",
+        "Na fala casual você vai ouvir ばっかり: 来たばっかり. É a mesma coisa, só mais enfática e informal. Na escrita e com o chefe, use ばかり."
+      ],
+      "howToStudy": [
+        "No caderno, escreva 3 coisas novas na sua vida com たばかり + uma consequência: 日本語の勉強を始めたばかりなので…／買ったばかりの〜／〜たばかりなのに…",
+        "Faça o teste \"há quanto tempo?\" com as frases que você escreveu. Se foi há dias ou meses, confira que você usou ばかり e não ところ.",
+        "🔬 Anatomia → 🧱 Montar de trás pra frente com o exemplo 1: comece por 慣れていません, depois 日本の生活に, depois まだ, e por fim 先月ブラジルから来たばかりなので (o MOTIVO)."
+      ],
+      "flag": null
+    }
+  ],
+  "media": [
+    { "order": 1, "kind": "leitura", "title": "JLPT Sensei: as páginas de 〜ところだ (os três momentos) e de 〜たばかり, com mais exemplos", "where": "Site · JLPT Sensei (listas de gramática por nível)", "url": "", "search": "JLPT Sensei tokoro da ta bakari", "when": "Depois do bloco de gramática. Se o site classificar algum ponto como N4, tudo bem: as listas não oficiais variam." },
+    { "order": 2, "kind": "video", "title": "Japanese Ammo with Misa: 〜ところ e 〜ばかり explicados em detalhe (em inglês)", "where": "YouTube · canal Japanese Ammo with Misa", "url": "", "search": "Japanese Ammo with Misa tokoro bakari", "when": "Depois dos 2 pontos, como segunda explicação. Se não houver um vídeo com os dois juntos, busque um de cada vez." },
+    { "order": 3, "kind": "input", "title": "EASY JAPANESE PODCAST (Masa & Asami): ouça um episódio e anote cada 〜ところ ou 〜ばかり que escutar", "where": "YouTube · EASY JAPANESE PODCAST", "url": "", "search": "EASY JAPANESE PODCAST Masa Asami", "when": "Em qualquer dia depois da aula. Primeiro a versão legendada, depois a sem legenda." }
+  ],
+  "homework": {
+    "intro": "Faça no caderno, à mão. Escreva com os kanji que você já conhece e kana no resto. Só depois abra o gabarito, item por item. Circule o que errou e refaça no dia seguinte.",
+    "tasks": [
+      {
+        "id": "h1",
+        "type": "completar",
+        "prompt": "Complete com o verbo entre colchetes + ところ, escolhendo a forma certa para o momento descrito entre parênteses.",
+        "items": [
+          { "q": "(Você está na porta, de casaco, mas ainda não saiu.) 今から＿＿ところです。［出かける］", "a": { "jp": "今から出かけるところです。", "kana": "いまからでかけるところです。", "romaji": "Ima kara dekakeru tokoro desu." }, "note": "Ainda não começou: forma de dicionário." },
+          { "q": "(O celular toca no meio do jantar.) 今、ご飯を＿＿ところだから、あとでかけ直すね。［食べる］", "a": { "jp": "今、ご飯を食べているところだから、あとでかけ直すね。", "kana": "いま、ごはんをたべているところだから、あとでかけなおすね。", "romaji": "Ima, gohan o tabete iru tokoro dakara, ato de kakenaosu ne." }, "note": "Está acontecendo agora: ている." },
+          { "q": "(Você entrou em casa neste instante.) ちょうど今、家に＿＿ところです。［帰る］", "a": { "jp": "ちょうど今、家に帰ったところです。", "kana": "ちょうどいま、いえにかえったところです。", "romaji": "Chōdo ima, ie ni kaetta tokoro desu." }, "note": "Terminou agorinha: た." },
+          { "q": "(A reunião vai começar em um minuto.) これから会議を＿＿ところです。［始める］", "a": { "jp": "これから会議を始めるところです。", "kana": "これからかいぎをはじめるところです。", "romaji": "Kore kara kaigi o hajimeru tokoro desu." } },
+          { "q": "(Um colega pergunta se você já leu o e-mail. Você está lendo agora.) 今、＿＿ところです。［読む］", "a": { "jp": "今、読んでいるところです。", "kana": "いま、よんでいるところです。", "romaji": "Ima, yonde iru tokoro desu." } }
+        ]
+      },
+      {
+        "id": "h2",
+        "type": "completar",
+        "prompt": "Complete com ところ ou ばかり. Em um dos itens, os dois servem: diga qual e por quê.",
+        "items": [
+          { "q": "先週日本に来た＿＿です。", "a": { "jp": "先週日本に来たばかりです。", "kana": "せんしゅうにほんにきたばかりです。", "romaji": "Senshū Nihon ni kita bakari desu." }, "note": "Uma semana é tempo longo para たところ. ばかり mostra que, para quem fala, ainda é recente." },
+          { "q": "買った＿＿の靴なのに、もう汚れちゃった。", "a": { "jp": "買ったばかりの靴なのに、もう汚れちゃった。", "kana": "かったばかりのくつなのに、もうよごれちゃった。", "romaji": "Katta bakari no kutsu na noni, mō yogorechatta." }, "note": "Antes de substantivo, só ばかりの." },
+          { "q": "もしもし、今どこ？— ちょうど今、駅に着いた＿＿。", "a": { "jp": "もしもし、今どこ？— ちょうど今、駅に着いたところ。", "kana": "もしもし、いまどこ？— ちょうどいま、えきについたところ。", "romaji": "Moshimoshi, ima doko? — Chōdo ima, eki ni tsuita tokoro." }, "note": "Os dois servem. ところ é o mais natural para \"neste instante\" e combina com ちょうど今, mas 着いたばかり também está certo." },
+          { "q": "日本語の勉強を始めた＿＿なので、まだ漢字があまり読めません。", "a": { "jp": "日本語の勉強を始めたばかりなので、まだ漢字があまり読めません。", "kana": "にほんごのべんきょうをはじめたばかりなので、まだかんじがあまりよめません。", "romaji": "Nihongo no benkyō o hajimeta bakari na node, mada kanji ga amari yomemasen." }, "note": "Justificativa com tempo subjetivo: ばかり." },
+          { "q": "これから晩ご飯を作る＿＿だけど、一緒に食べる？", "a": { "jp": "これから晩ご飯を作るところだけど、一緒に食べる？", "kana": "これからばんごはんをつくるところだけど、いっしょにたべる？", "romaji": "Kore kara bangohan o tsukuru tokoro da kedo, issho ni taberu?" }, "note": "Antes de começar (forma de dicionário): só ところ. ばかり precisa de た antes." }
+        ]
+      },
+      {
+        "id": "h3",
+        "type": "traduzir",
+        "prompt": "Traduza para o japonês.",
+        "items": [
+          { "q": "Acabei de acordar, neste instante. (use ところ)", "a": { "jp": "今、起きたところです。", "kana": "いま、おきたところです。", "romaji": "Ima, okita tokoro desu." } },
+          { "q": "Mudei para este apartamento mês passado, faz pouco.", "a": { "jp": "先月このアパートに引っ越したばかりです。", "kana": "せんげつこのアパートにひっこしたばかりです。", "romaji": "Sengetsu kono apāto ni hikkoshita bakari desu." }, "note": "Um mês: só ばかり." },
+          { "q": "Estou no meio do banho; te ligo depois, tá? (casual)", "a": { "jp": "今、シャワーを浴びているところだから、あとで電話するね。", "kana": "いま、シャワーをあびているところだから、あとででんわするね。", "romaji": "Ima, shawā o abite iru tokoro dakara, ato de denwa suru ne." } },
+          { "q": "Por pouco não perdi o último trem.", "a": { "jp": "もう少しで終電に乗り遅れるところだった。", "kana": "もうすこしでしゅうでんにのりおくれるところだった。", "romaji": "Mō sukoshi de shūden ni noriokureru tokoro datta." }, "note": "るところだった = quase aconteceu, mas não aconteceu." },
+          { "q": "Este é um celular que eu acabei de comprar.", "a": { "jp": "これは買ったばかりのスマホです。", "kana": "これはかったばかりのスマホです。", "romaji": "Kore wa katta bakari no sumaho desu." }, "note": "\"Recém-comprado\" antes de substantivo: ばかりの." }
+        ]
+      },
+      {
+        "id": "h4",
+        "type": "produzir",
+        "prompt": "Escreva 4 frases verdadeiras: 3 sobre o seu dia de hoje, uma para cada momento (るところ, ているところ, たところ), e 1 com たばかり sobre algo novo na sua vida. Leia em voz alta e grave no celular.",
+        "items": [
+          { "q": "Modelo, que o seu texto deve seguir na estrutura e não nas palavras:", "a": { "jp": "ちょうど今、晩ご飯を食べたところです。今は、この文を書いているところです。これから日本語の復習をするところです。先月この教科書を買ったばかりなので、まだ少ししか読んでいません。", "kana": "ちょうどいま、ばんごはんをたべたところです。いまは、このぶんをかいているところです。これからにほんごのふくしゅうをするところです。せんげつこのきょうかしょをかったばかりなので、まだすこししかよんでいません。", "romaji": "Chōdo ima, bangohan o tabeta tokoro desu. Ima wa, kono bun o kaite iru tokoro desu. Kore kara nihongo no fukushū o suru tokoro desu. Sengetsu kono kyōkasho o katta bakari na node, mada sukoshi shika yonde imasen.", "pt": "Acabei de jantar, agorinha. Agora estou escrevendo esta frase. Daqui a pouco vou revisar japonês. Comprei este livro didático mês passado, então ainda li só um pouco." }, "note": "Confira: a forma do verbo antes de ところ bate com o momento; たばかり ficou com um tempo que para você é recente; o predicado está no fim de cada frase." }
+        ]
+      }
+    ],
+    "workbook": []
+  },
+  "practice": [
+    { "tool": "Wagotabi", "what": "Jogue o Wagotabi na fase N3 (as regiões/níveis N3 do jogo). Cace nos diálogos 〜ところ e 〜ばかり: quando achar um, pause e diga em voz alta qual é o momento (antes, durante ou logo depois) e se o tempo é de relógio (ところ) ou de percepção (ばかり). Registre a sessão em Imersão → Jogos e cole uma dessas frases na 🔬 Anatomia.", "min": 15 },
+    { "tool": "NHK NEWS WEB EASY", "what": "Leia uma notícia e ouça o áudio. Procure 〜たところ seguido de vírgula (調べたところ、…): nas notícias, ele costuma querer dizer \"ao fazer X, (constatou-se) Y\", e não \"acabou de\". Se não aparecer nenhum, copie uma frase com 〜ている e diga se daria para trocar por 〜ているところ.", "min": 10 },
+    { "tool": "ヅオリンゴー · Diário", "what": "Escreva 4 frases suas: uma com るところ, uma com ているところ, uma com たところ e uma com たばかり (algo novo na sua vida). Use \"Anatomia do que escrevi\" e confira se o bloco com ところ／ばかり ficou no fim, junto do predicado.", "min": 10 },
+    { "tool": "Shadowing", "what": "Toque 🔊 em cada exemplo desta aula e repita junto 3 vezes. Exagere a sílaba que muda antes de ところ (でる・つくって いる・ついた): é só ela que muda o momento.", "min": 5 },
+    { "tool": "Fala", "what": "Simule três telefonemas e responda em até 10 s cada, com um momento diferente em cada um (出るところ / 作っているところ / 着いたところ). Grave e ouça.", "min": 5 }
+  ],
+  "culture": {
+    "title": "Lámen e suas regras (fazer barulho é normal)",
+    "titleJp": "ラーメンのマナー",
+    "body": "No Japão, **fazer barulho ao sugar o macarrão** (すする) é normal e não é falta de educação. Vale para lámen, soba e udon; muita gente diz que isso ajuda a esfriar a massa e a sentir melhor o aroma. Em muitas casas de lámen (ラーメン屋), você compra um **tíquete** numa máquina na entrada (券売機, けんばいき) e o entrega no balcão antes de sentar. O lámen costuma ser comido logo que chega, porque a massa amolece se ficar esperando (のびる). Nas casas pequenas com fila, o costume é não ficar conversando depois de comer, para liberar o lugar. Em casas de estilo Hakata, em geral dá para pedir **替え玉** (かえだま), uma porção extra só de macarrão para o caldo que sobrou.",
+    "try": "Da próxima vez que comer macarrão, narre baixinho, em japonês, cada momento: 今から食べるところ → 今、食べているところ → 今、食べたところ. E treine o pedido do macarrão extra: 替え玉、お願いします。"
+  },
+  "checklist": [
+    "Digo, sem olhar, os três momentos de uma ação com ところ: 食べるところ / 食べているところ / 食べたところ.",
+    "Explico por que não posso falar agora com 〜ているところだから…",
+    "Uso 〜たばかり para algo recente do meu ponto de vista, inclusive com dias ou meses (先月来たばかり).",
+    "Monto \"recém-X\" com 〜たばかりの + substantivo (買ったばかりの靴).",
+    "Sei quando só ばかり serve (tempo longo, antes de substantivo) e quando só ところ serve (antes de começar ou no meio da ação).",
+    "Reconheço 〜るところだった (por pouco não…) e o 〜たところ、 das notícias.",
+    "Fiz a lição de casa e conferi o gabarito, e refiz o que errei."
+  ]
+}

@@ -77,7 +77,7 @@
       ],
       "howToStudy": [
         "Compare em voz alta 5 pares da sua vida, cada um nas duas ordens: サンパウロ × リオ, コーヒー × こうちゃ, きのう × 今日, バス × ちかてつ, なつ × ふゆ.",
-        "Aperte 🔬 no exemplo da Maria: マリアさんは é o TÓPICO, コーヒーより aparece como COMPARAÇÃO, こうちゃの ほうが é o SUJEITO e すきです é o PREDICADO. Leia de trás para a frente: gosta → do chá (o vencedor) → comparado ao café → falando da Maria.",
+        "Aperte 🔬 no exemplo da Maria: マリアさんは é o TÓPICO, コーヒーより aparece como COMPARAÇÃO, ほうが é o SUJEITO (com こうちゃの preso a ele, como DESCREVE O PRÓXIMO) e すきです é o PREDICADO. Leia de trás para a frente: gosta → do lado do chá (o vencedor) → comparado ao café → falando da Maria.",
         "No caderno, escreva 3 comparações com o vencedor primeiro e reescreva as mesmas 3 começando por より. Circule a partícula de quem ganha."
       ],
       "flag": null
@@ -91,7 +91,7 @@
       "examples": [
         { "jp": "しんかんせんと ひこうきと どちらが はやいですか。— ひこうきの ほうが はやいです。", "kana": "しんかんせんと ひこうきと どちらが はやいですか。— ひこうきの ほうが はやいです。", "romaji": "Shinkansen to hikōki to dochira ga hayai desu ka. — Hikōki no hō ga hayai desu.", "pt": "O que é mais rápido, o trem-bala ou o avião? — O avião é mais rápido." },
         { "jp": "ルーカスさんは サッカーと バレーボールと どちらが すきですか。— バレーボールの ほうが すきです。", "kana": "ルーカスさんは サッカーと バレーボールと どちらが すきですか。— バレーボールの ほうが すきです。", "romaji": "Rūkasu-san wa sakkā to barēbōru to dochira ga suki desu ka. — Barēbōru no hō ga suki desu.", "pt": "Lucas, você gosta mais de futebol ou de vôlei? — Gosto mais de vôlei." },
-        { "jp": "ラーメンと すし、どっちが いい？— どっちも いいね。", "kana": "ラーメンと すし、どっちが いい？— どっちも いいね。", "romaji": "Rāmen to sushi, dotchi ga ii? — Dotchi mo ii ne.", "pt": "Lámen ou sushi, qual você prefere? — Os dois são bons, hein. (casual)" }
+        { "jp": "ラーメンと すし、どっちが いい？— どっちも いいね。", "kana": "ラーメンと すし、どっちが いい？— どっちも いいね。", "romaji": "Rāmen to sushi, dotchi ga ii? — Dotchi mo ii ne.", "pt": "Lámen ou sushi, qual você prefere? — Os dois são bons, hein. (casual)", "noAnat": true }
       ],
       "pitfalls": [
         "Palavra interrogativa não pode ser tópico: ✓ どちらが はやいですか (✗ どちらは はやいですか).",
@@ -126,7 +126,7 @@
       ],
       "howToStudy": [
         "Monte o seu \"ranking\" em voz alta: a comida, a cidade, a estação e a pessoa da família de que você mais gosta, cada uma com 〜の なかで 〜が いちばん 〜です。",
-        "No Mirage, Treinos → 🔬 Anatomia → 🧱 Montar de trás pra frente com a pergunta da Ana: comece por おもしろいですか, ponha いちばん, depois だれが e, por último, 友だちの なかで.",
+        "No ヅオリンゴー, Treinos → 🔬 Anatomia → 🧱 Montar de trás pra frente com a pergunta da Ana: comece por おもしろいですか, ponha いちばん, depois だれが e, por último, 友だちの なかで.",
         "Fala: faça 4 perguntas, uma com なにが, uma com だれが, uma com どこが e uma com いつが, e responda cada uma mantendo o が."
       ],
       "flag": null
@@ -195,8 +195,8 @@
   },
   "practice": [
     { "tool": "Wagotabi", "what": "Jogue normalmente e cace より, ほう e いちばん nos diálogos. Quando achar um, pause e diga em voz alta o que está sendo comparado e quem \"ganha\". Registre a sessão em Imersão → Jogos e cole a frase na Anatomia para ver o bloco de COMPARAÇÃO.", "min": 15 },
-    { "tool": "Mirage", "what": "Vocabulário da Lição 10 no SRS (ou o baralho 🌊 Tudo). Depois, Treinos → 🔬 Anatomia → 🏷 Etiquetar: 5 frases, dizendo a função do bloco com より e do bloco com が.", "min": 10 },
-    { "tool": "Mirage", "what": "Praticar L10: faça uma rodada e anote no caderno as frases de comparação em que você hesitou.", "min": 10 },
+    { "tool": "ヅオリンゴー", "what": "Vocabulário da Lição 10 no SRS (ou o baralho 🌊 Tudo). Depois, Treinos → 🔬 Anatomia → 🏷 Etiquetar: 5 frases, dizendo a função do bloco com より e do bloco com が.", "min": 10 },
+    { "tool": "ヅオリンゴー", "what": "Praticar L10: faça uma rodada e anote no caderno as frases de comparação em que você hesitou.", "min": 10 },
     { "tool": "Shadowing", "what": "Toque 🔊 nos exemplos de どちらが e repita junto 3 vezes, subindo a voz no か da pergunta e descendo na resposta.", "min": 5 },
     { "tool": "Fala", "what": "Grave 1 minuto de \"ranking\": sua comida, sua cidade e sua estação favoritas com いちばん, e duas comparações com の ほうが. Ouça e confira se o が apareceu nos lugares certos.", "min": 5 }
   ],

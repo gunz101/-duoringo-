@@ -125,7 +125,7 @@
       "howToStudy": [
         "Diga pares de frases em voz alta, a segunda com も: ぎんこうに いきました → ゆうびんきょくにも いきました; うちで たべました → だいがくでも たべました.",
         "Faça no caderno uma tabela: は, が, を, に, で, へ, と na coluna da esquerda e, na da direita, como cada uma fica com も.",
-        "Mirage → Treinos → Partículas, prestando atenção nos itens com も."
+        "ヅオリンゴー → Treinos → Partículas, prestando atenção nos itens com も."
       ],
       "flag": null
     },
@@ -238,14 +238,14 @@
       { "p": 47, "t": "7 · ～時間・Particles", "tip": "Faça depois do ponto 4d. Revisa também as partículas da lição inteira." },
       { "p": 48, "t": "8 · 答えましょう (Questions)", "tip": "Faça no fim da sessão 2: mistura os pontos da Lição 4." },
       { "p": 49, "t": "9 · 聞く練習 (Listening Comprehension)", "tip": "Faça com o áudio do Workbook, depois de revisar as Aulas 04-1 a 04-3." },
-      { "p": 135, "t": "Kanji Practice", "tip": "Leitura e escrita (rw): os 14 kanji da Lição 4. Faça junto com Kanji → ✍️ Escrever no Mirage." },
+      { "p": 135, "t": "Kanji Practice", "tip": "Leitura e escrita (rw): os 14 kanji da Lição 4. Faça junto com Kanji → ✍️ Escrever no ヅオリンゴー." },
       { "p": 136, "t": "Using Kanji", "tip": "Faça depois da p. 135. Confira no Genki Answer Key oficial." }
     ]
   },
   "practice": [
     { "tool": "Wagotabi", "what": "Jogue normalmente. Cace と e も nos diálogos: para cada と, decida se é lista ou companhia; para cada も, diga qual partícula ele substituiu ou acompanhou. Copie 2 frases no caderno. Depois, em Imersão → Jogos, registre a sessão e cole uma delas na Anatomia.", "min": 15 },
-    { "tool": "Mirage", "what": "Kanji → ✍️ Escrever: os 14 kanji da Lição 4 (日 本 人 月 火 水 木 金 土 曜 上 下 中 半), com a ordem dos traços.", "min": 15 },
-    { "tool": "Mirage", "what": "Praticar L4, revisando a lição inteira. Depois, o SRS com o baralho \"🌊 Tudo\".", "min": 10 },
+    { "tool": "ヅオリンゴー", "what": "Kanji → ✍️ Escrever: os 14 kanji da Lição 4 (日 本 人 月 火 水 木 金 土 曜 上 下 中 半), com a ordem dos traços.", "min": 15 },
+    { "tool": "ヅオリンゴー", "what": "Praticar L4, revisando a lição inteira. Depois, o SRS com o baralho \"🌊 Tudo\".", "min": 10 },
     { "tool": "Shadowing", "what": "Toque 🔊 em cada exemplo desta aula e repita junto 3 vezes. Capriche no ritmo de さんじかん e いちじかんはん: cada sílaba tem a mesma duração.", "min": 5 },
     { "tool": "Fala", "what": "Grave em até 40 s o relato do passeio (lição de casa h4). Ouça e confira os と, os も e as durações.", "min": 5 }
   ],

@@ -194,9 +194,9 @@
     ]
   },
   "practice": [
-    { "tool": "Wagotabi", "what": "Jogue normalmente e cace nos diálogos o passado dos adjetivos (〜かった, 〜でした) e as palavras すき / きらい. Copie 2 frases no caderno e marque o predicado e, se houver, o bloco com が. Depois, no Mirage, registre a sessão em Imersão → Jogos e cole uma dessas frases na 🔬 Anatomia.", "min": 15 },
-    { "tool": "Mirage", "what": "Vocabulário da Lição 5 no SRS. Depois, Praticar L5 → conjugação, agora com as formas do passado.", "min": 10 },
-    { "tool": "Mirage", "what": "No Diário, escreva 3 frases sobre o seu dia com adjetivos no passado e confira em \"Anatomia do que escrevi\" se o predicado ficou no fim.", "min": 10 },
+    { "tool": "Wagotabi", "what": "Jogue normalmente e cace nos diálogos o passado dos adjetivos (〜かった, 〜でした) e as palavras すき / きらい. Copie 2 frases no caderno e marque o predicado e, se houver, o bloco com が. Depois, no ヅオリンゴー, registre a sessão em Imersão → Jogos e cole uma dessas frases na 🔬 Anatomia.", "min": 15 },
+    { "tool": "ヅオリンゴー", "what": "Vocabulário da Lição 5 no SRS. Depois, Praticar L5 → conjugação, agora com as formas do passado.", "min": 10 },
+    { "tool": "ヅオリンゴー", "what": "No Diário, escreva 3 frases sobre o seu dia com adjetivos no passado e confira em \"Anatomia do que escrevi\" se o predicado ficou no fim.", "min": 10 },
     { "tool": "Shadowing", "what": "Toque 🔊 em cada exemplo desta aula e repita junto 3 vezes. Capriche no っ de かった: segure um instante antes do た.", "min": 5 },
     { "tool": "Fala", "what": "Grave o relato da lição de casa (h4) em até 40 s. Ouça e confira cada passado: かった nos い, でした nos な.", "min": 5 }
   ],

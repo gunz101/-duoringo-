@@ -101,7 +101,7 @@
       "howToStudy": [
         "Fala: descreva a sua manhã de hoje numa frase com 3 ações (おきて、…て、…ました). Depois diga a de amanhã, mudando só o último verbo para ます.",
         "Aperte 🔬 no exemplo da Ana: 行って aparece como LIGA (E…) e só かいました é o PREDICADO. Leia primeiro o predicado, depois volte ao começo.",
-        "Mirage → Treinos → 🔬 Anatomia → 🧱 Montar de trás pra frente: monte 3 frases, começando pelo último verbo."
+        "ヅオリンゴー → Treinos → 🔬 Anatomia → 🧱 Montar de trás pra frente: monte 3 frases, começando pelo último verbo."
       ],
       "flag": null
     }
@@ -166,8 +166,8 @@
   },
   "practice": [
     { "tool": "Wagotabi", "what": "Jogue normalmente e cace pedidos: falas que terminam em てください (ou só em て, na fala casual). Para cada uma, diga em voz alta o que foi pedido e quem vai fazer a ação. Anote 2 no caderno.", "min": 15 },
-    { "tool": "Mirage", "what": "Vocabulário da Lição 6 no SRS. Depois, Treinos → 🔬 Anatomia → 🧱 Montar de trás pra frente: 5 frases, reparando que a montagem começa pelo predicado.", "min": 10 },
-    { "tool": "Diário", "what": "Escreva no Diário do Mirage 2 frases sobre o seu dia, com ações encadeadas por て, e aperte \"Anatomia do que escrevi\": só o último verbo deve aparecer como PREDICADO.", "min": 10 },
+    { "tool": "ヅオリンゴー", "what": "Vocabulário da Lição 6 no SRS. Depois, Treinos → 🔬 Anatomia → 🧱 Montar de trás pra frente: 5 frases, reparando que a montagem começa pelo predicado.", "min": 10 },
+    { "tool": "Diário", "what": "Escreva no Diário do ヅオリンゴー 2 frases sobre o seu dia, com ações encadeadas por て, e aperte \"Anatomia do que escrevi\": só o último verbo deve aparecer como PREDICADO.", "min": 10 },
     { "tool": "Shadowing", "what": "Toque 🔊 nos exemplos desta aula e repita junto 3 vezes. Faça uma pausa curta na vírgula depois de cada て, como quem respira entre uma ação e outra.", "min": 5 },
     { "tool": "Fala", "what": "Grave 30 s contando a sua rotina da manhã com て (おきて、…て、…ます). Ouça e confira se só o fim tem ます.", "min": 5 }
   ],

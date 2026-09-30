@@ -216,14 +216,14 @@
       { "p": 37, "t": "6 · Frequency Adverbs", "tip": "Faça depois do ponto 4c." },
       { "p": 38, "t": "7 · 答えましょう (Questions)", "tip": "Revisão da Lição 3 inteira: faça depois de terminar as Aulas 03-1 a 03-3, respondendo com frases verdadeiras sobre você." },
       { "p": 39, "t": "8 · 聞く練習 (Listening Comprehension)", "tip": "Precisa do áudio oficial do Genki. Faça numa sessão separada, como revisão de escuta da lição." },
-      { "p": 133, "t": "Kanji Practice", "tip": "Parte de leitura e escrita: os 15 kanji da Lição 3. Treine antes a ordem dos traços no Mirage (Kanji → ✍️ Escrever)." },
+      { "p": 133, "t": "Kanji Practice", "tip": "Parte de leitura e escrita: os 15 kanji da Lição 3. Treine antes a ordem dos traços no ヅオリンゴー (Kanji → ✍️ Escrever)." },
       { "p": 134, "t": "Using Kanji", "tip": "Depois do Kanji Practice. Confira no Genki Answer Key oficial." }
     ]
   },
   "practice": [
     { "tool": "Wagotabi", "what": "Jogue e cace nos diálogos: palavras de tempo (きょう, あした, 〜時に…), advérbios de frequência e convites com 〜ませんか ou recusas com ちょっと. Anote 3 no caderno e marque se o tempo veio com ou sem に. Registre a sessão em Imersão → Jogos.", "min": 15 },
-    { "tool": "Mirage", "what": "Praticar L3 (conjugação, escuta e compreensão). Depois, Treinos → Números para firmar os números dos horários.", "min": 15 },
-    { "tool": "Kanji", "what": "Mirage → Kanji → ✍️ Escrever: os 15 kanji da Lição 3 (一 a 十, 百, 千, 万, 円, 時), com a ordem dos traços. Faça antes das páginas 133–134 do Workbook.", "min": 10 },
+    { "tool": "ヅオリンゴー", "what": "Praticar L3 (conjugação, escuta e compreensão). Depois, Treinos → Números para firmar os números dos horários.", "min": 15 },
+    { "tool": "Kanji", "what": "ヅオリンゴー → Kanji → ✍️ Escrever: os 15 kanji da Lição 3 (一 a 十, 百, 千, 万, 円, 時), com a ordem dos traços. Faça antes das páginas 133–134 do Workbook.", "min": 10 },
     { "tool": "Shadowing", "what": "Toque 🔊 nos exemplos com horários e repita junto 3 vezes, caprichando em ろくじ e じゅういちじ. Nos convites, imite a voz que cai e fica no ar em ちょっと….", "min": 5 },
     { "tool": "Fala", "what": "Role-play sozinho: grave um convite (〜ませんか) e depois grave as 3 respostas possíveis (いいですね / ええ、〜ましょう / すみません、〜は ちょっと…). Ouça e veja se a recusa soou gentil.", "min": 5 }
   ],

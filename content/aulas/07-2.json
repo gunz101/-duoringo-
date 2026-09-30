@@ -169,8 +169,8 @@
   },
   "practice": [
     { "tool": "Wagotabi", "what": "Jogue normalmente e cace descrições de personagens ou de lugares: frases com 〜が + adjetivo ou com 〜くて / 〜で. Copie 2 no caderno e marque qual bloco é o TÓPICO (は) e qual é o SUJEITO do adjetivo (が).", "min": 15 },
-    { "tool": "Mirage", "what": "Vocabulário da Lição 7 no SRS. Depois, Praticar L7 (conjugação, escuta e formatos no estilo do workbook).", "min": 10 },
-    { "tool": "Mirage", "what": "Diário: escreva 3 frases descrevendo alguém e abra \"Anatomia do que escrevi\" para ver se は e が ficaram nos blocos certos.", "min": 10 },
+    { "tool": "ヅオリンゴー", "what": "Vocabulário da Lição 7 no SRS. Depois, Praticar L7 (conjugação, escuta e formatos no estilo do workbook).", "min": 10 },
+    { "tool": "ヅオリンゴー", "what": "Diário: escreva 3 frases descrevendo alguém e abra \"Anatomia do que escrevi\" para ver se は e が ficaram nos blocos certos.", "min": 10 },
     { "tool": "Shadowing", "what": "Toque 🔊 em cada exemplo desta aula e repita junto 3 vezes. Nas frases com 〜くて / 〜で, faça uma pausa curtinha na vírgula, sem baixar a voz: a frase ainda não acabou.", "min": 5 },
     { "tool": "Fala", "what": "Grave 30 s descrevendo uma foto de família (sua ou de uma revista), pessoa por pessoa.", "min": 5 }
   ],

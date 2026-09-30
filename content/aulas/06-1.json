@@ -104,7 +104,7 @@
       "howToStudy": [
         "Fala: recite a tabela (う つ る って…) 5 vezes em voz alta. Depois escreva-a de memória no caderno e confira.",
         "Cubra as respostas e diga a forma て destes verbos: かう, まつ, のむ, あそぶ, かく, いそぐ, はなす, かえる, やすむ, はいる. Anote no caderno cada erro junto com a terminação dele.",
-        "Mirage → Praticar L6: faça uma rodada de conjugação. A cada erro, diga em voz alta a regra do verbo (ex.: \"む → んで\")."
+        "ヅオリンゴー → Praticar L6: faça uma rodada de conjugação. A cada erro, diga em voz alta a regra do verbo (ex.: \"む → んで\")."
       ],
       "flag": null
     },
@@ -202,10 +202,10 @@
   },
   "practice": [
     { "tool": "Wagotabi", "what": "Jogue normalmente e cace formas て nos diálogos: palavras que terminam em …って, …んで, …いて, …いで ou …して logo depois do pedaço de um verbo. Anote 3 no caderno e, com a tabela, descubra o verbo de dicionário de cada uma. Se ainda não aparecer nenhuma, anote verbos em ます e faça você mesmo a forma て deles.", "min": 15 },
-    { "tool": "Mirage", "what": "Vocabulário da Lição 6 no SRS. Depois, Praticar L6: uma rodada de conjugação, prestando atenção na forma て.", "min": 10 },
+    { "tool": "ヅオリンゴー", "what": "Vocabulário da Lição 6 no SRS. Depois, Praticar L6: uma rodada de conjugação, prestando atenção na forma て.", "min": 10 },
     { "tool": "Fala", "what": "Cronômetro no celular: 1 minuto para dizer a forma て de 15 verbos da aula, em ordem embaralhada. Anote quantos acertou e tente bater a marca na próxima sessão.", "min": 5 },
     { "tool": "Shadowing", "what": "Toque 🔊 em cada exemplo e repita junto 3 vezes. Exagere a pausa do っ (まって, いって) e o ん (のんで): em japonês, cada um vale uma batida inteira.", "min": 5 },
-    { "tool": "Kana", "what": "Se ainda confunde て/で ou っ/つ na leitura: 10 min no kana-flow ou na Trilha de Kana (Mirage).", "min": 10 }
+    { "tool": "Kana", "what": "Se ainda confunde て/で ou っ/つ na leitura: 10 min no kana-flow ou na Trilha de Kana (ヅオリンゴー).", "min": 10 }
   ],
   "culture": {
     "title": "Filas e ordem (ならぶ)",

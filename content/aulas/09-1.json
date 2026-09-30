@@ -78,7 +78,7 @@
       "howToStudy": [
         "Pegue 10 verbos que você já conhece e diga em voz alta a cadeia completa: たべて → たべた → たべない → たべなかった. Comece pelos verbos う de forma て mais difícil (いって, のんで, かいて, はなして).",
         "Aperte 🔬 nos exemplos. Só o ★ PREDICADO, no fim, muda de tempo. Leia esse bloco primeiro e diga se ele está no presente ou no passado, no afirmativo ou no negativo.",
-        "Mirage → Treinos → Conjugação: a cada resposta educada (〜ました / 〜ませんでした), diga também a forma curta (〜た / 〜なかった)."
+        "ヅオリンゴー → Treinos → Conjugação: a cada resposta educada (〜ました / 〜ませんでした), diga também a forma curta (〜た / 〜なかった)."
       ],
       "flag": null
     },
@@ -196,8 +196,8 @@
   },
   "practice": [
     { "tool": "Wagotabi", "what": "Jogue normalmente. Cace nos diálogos verbos terminados em 〜た ou 〜なかった, que aparecem muito na fala casual dos personagens. Para cada um, diga em voz alta a forma educada equivalente (見た → 見ました). Copie 3 no caderno.", "min": 15 },
-    { "tool": "Mirage", "what": "Vocabulário da Lição 9 no SRS. Depois, Praticar L9: conjugação e escuta.", "min": 10 },
-    { "tool": "Mirage", "what": "Treinos → Conjugação: 10 verbos. Para cada um, diga também o passado curto afirmativo e negativo antes de passar para o próximo.", "min": 10 },
+    { "tool": "ヅオリンゴー", "what": "Vocabulário da Lição 9 no SRS. Depois, Praticar L9: conjugação e escuta.", "min": 10 },
+    { "tool": "ヅオリンゴー", "what": "Treinos → Conjugação: 10 verbos. Para cada um, diga também o passado curto afirmativo e negativo antes de passar para o próximo.", "min": 10 },
     { "tool": "Shadowing", "what": "Toque 🔊 nos diálogos do ponto 4b e repita junto 3 vezes, imitando a voz que sobe na pergunta sem か.", "min": 5 },
     { "tool": "Fala", "what": "Grave 30 s contando o seu dia de ontem em forma curta (a lição de casa h4 serve de roteiro). Ouça e marque os verbos que saíram no educado sem querer.", "min": 5 }
   ],

@@ -79,7 +79,7 @@
         "Não coloque んです em toda frase. Numa autoapresentação, ブラジル人です。 basta; ブラジル人なんです。 soa como se você estivesse se justificando de alguma coisa."
       ],
       "howToStudy": [
-        "Aperte 🔬 no exemplo 1. A Anatomia do Mirage lê 〜んです como EXPLICAÇÃO, grudado no predicado: o fato é かぜを ひいた, e o んです diz \"é esse o motivo\". Leia sempre a partir do fim.",
+        "Aperte 🔬 no exemplo 1. A Anatomia do ヅオリンゴー lê 〜んです como EXPLICAÇÃO, grudado no predicado: o fato é かぜを ひいた, e o んです diz \"é esse o motivo\". Leia sempre a partir do fim.",
         "Treino de reação, falando: imagine 4 situações (colega com sono, amigo que não comeu, alguém indo embora cedo, alguém com a mão na cabeça). Para cada uma, pergunte どうしたんですか。 e responda com um motivo + んです (ねむいんです, おなかが いたいんです…).",
         "No caderno, faça uma tabela com 4 linhas (verbo, adjetivo い, adjetivo な, substantivo) e 2 colunas (presente, passado), tudo com + んです. Marque de vermelho as casas onde entra o な."
       ],
@@ -174,8 +174,8 @@
   },
   "practice": [
     { "tool": "Wagotabi", "what": "Jogue normalmente e cace 〜んです, 〜んだ e 〜の？ nos diálogos. Sempre que um personagem explicar algo ou perguntar \"o que houve?\", pause e diga em voz alta qual é o fato que está sendo explicado. Copie 2 dessas frases no caderno; se aparecer 〜すぎる, anote também.", "min": 15 },
-    { "tool": "Mirage", "what": "Vocabulário da Lição 12 no SRS. Depois, Praticar L12 e Treinos → Conjugação com as formas curtas, que são a base do 〜んです.", "min": 10 },
-    { "tool": "Mirage · 🔬 Anatomia", "what": "Treinos → 🔬 Anatomia → 🔬 Analisar: cole os 3 exemplos de 〜んです e ache o fato explicado em cada um. Depois, 🏷 Etiquetar: 5 frases.", "min": 10 },
+    { "tool": "ヅオリンゴー", "what": "Vocabulário da Lição 12 no SRS. Depois, Praticar L12 e Treinos → Conjugação com as formas curtas, que são a base do 〜んです.", "min": 10 },
+    { "tool": "ヅオリンゴー · 🔬 Anatomia", "what": "Treinos → 🔬 Anatomia → 🔬 Analisar: cole os 3 exemplos de 〜んです e ache o fato explicado em cada um. Depois, 🏷 Etiquetar: 5 frases.", "min": 10 },
     { "tool": "Shadowing", "what": "Toque 🔊 em cada exemplo desta aula e repita junto 3 vezes. O ん de んです é curto, mas conta como uma sílaba inteira: い-た-い-ん-で-す.", "min": 5 },
     { "tool": "Fala", "what": "Grave o diálogo da lição de casa (h4) fazendo as duas vozes, em até 30 s.", "min": 5 }
   ],

@@ -165,13 +165,13 @@
       { "p": 108, "t": "4 · Noun A や Noun B", "tip": "Faça depois do ponto 4b." },
       { "p": 109, "t": "5 · 答えましょう (Questions)", "tip": "Revisão da Lição 11 inteira: faça depois das Aulas 11-1 e 11-2." },
       { "p": 110, "t": "6 · 聞く練習 (Listening Comprehension)", "tip": "Com o áudio oficial do Workbook. Faça por último, e ouça mais de uma vez antes de responder." },
-      { "p": 149, "t": "Kanji Practice", "tip": "Leitura e escrita: os kanji da Lição 11. Antes, treine a ordem dos traços em Kanji → ✍️ Escrever, no Mirage." },
+      { "p": 149, "t": "Kanji Practice", "tip": "Leitura e escrita: os kanji da Lição 11. Antes, treine a ordem dos traços em Kanji → ✍️ Escrever, no ヅオリンゴー." },
       { "p": 150, "t": "Using Kanji", "tip": "Depois da p. 149. Confira tudo no Genki Answer Key oficial." }
     ]
   },
   "practice": [
     { "tool": "Wagotabi", "what": "Jogue normalmente e cace 〜ことが ある (na fala casual também aparece ことが ない, a negativa curta) e listas com や ou など. Copie 2 frases no caderno, marque o PREDICADO e diga se é experiência ou fato com data. Registre a sessão em Imersão → Jogos e cole uma das frases na 🔬 Anatomia.", "min": 15 },
-    { "tool": "Mirage", "what": "Praticar L11: escuta e compreensão. Depois, Treinos → 🔬 Anatomia → 🧱 Montar de trás pra frente: 5 frases, começando pelo あります／ありません do fim.", "min": 10 },
+    { "tool": "ヅオリンゴー", "what": "Praticar L11: escuta e compreensão. Depois, Treinos → 🔬 Anatomia → 🧱 Montar de trás pra frente: 5 frases, começando pelo あります／ありません do fim.", "min": 10 },
     { "tool": "Kanji", "what": "Kanji → ✍️ Escrever: os kanji da Lição 11 (手, 紙, 好, 近, 明, 病, 院, 映, 画, 歌, 市, 所, 勉, 強, 有, 旅), antes das páginas 149–150 do Workbook.", "min": 10 },
     { "tool": "Shadowing", "what": "Toque 🔊 em cada exemplo desta aula e repita junto 3 vezes. Em 見たことが ありません, não pare entre こと e が: é um bloco só.", "min": 5 },
     { "tool": "Fala", "what": "Grave uma entrevista de 1 minuto consigo mesmo: 3 perguntas 〜たことが ありますか com resposta. Em uma delas, conte quando foi com 〜ました.", "min": 5 }

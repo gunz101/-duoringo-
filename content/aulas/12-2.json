@@ -172,8 +172,8 @@
   },
   "practice": [
     { "tool": "Wagotabi", "what": "Jogue normalmente e cace ので e から nos diálogos. Quando um personagem der um motivo, pause e diga em voz alta qual é o motivo e qual é o resultado. Se aparecer ほうが いい (ou ほうが いいよ), copie a frase no caderno.", "min": 15 },
-    { "tool": "Mirage", "what": "Vocabulário da Lição 12 no SRS e Praticar L12. Depois, Treinos → Conjugação com as formas た e ない, que são a base do conselho.", "min": 10 },
-    { "tool": "Mirage · Diário", "what": "No Diário, escreva 3 conselhos com ほうが いい para você mesmo(a), sobre estudo ou saúde, cada um com um motivo em ので. Depois abra \"Anatomia do que escrevi\" e confira onde ficou o predicado de cada frase.", "min": 10 },
+    { "tool": "ヅオリンゴー", "what": "Vocabulário da Lição 12 no SRS e Praticar L12. Depois, Treinos → Conjugação com as formas た e ない, que são a base do conselho.", "min": 10 },
+    { "tool": "ヅオリンゴー · Diário", "what": "No Diário, escreva 3 conselhos com ほうが いい para você mesmo(a), sobre estudo ou saúde, cada um com um motivo em ので. Depois abra \"Anatomia do que escrevi\" e confira onde ficou o predicado de cada frase.", "min": 10 },
     { "tool": "Shadowing", "what": "Toque 🔊 em cada exemplo desta aula e repita junto 3 vezes. Repare no よ de 〜ほうが いいですよ: é ele que deixa o conselho amigável.", "min": 5 },
     { "tool": "Fala", "what": "Grave os conselhos da lição de casa (h4) como se fosse um áudio para o amigo japonês, em até 40 s.", "min": 5 }
   ],

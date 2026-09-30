@@ -19,7 +19,7 @@
       { "t": "Gramática: os 2 pontos, com os exemplos lidos em voz alta e um 🔬 em cada", "min": 20 },
       { "t": "Vídeo (bloco 6), pausando nos exemplos", "min": 10 },
       { "t": "Lição de casa no caderno + conferir no gabarito", "min": 15 },
-      { "t": "Kanji da Lição 6 (Workbook pp. 139–140) com o ✍️ Escrever do Mirage; se preferir, numa 2ª sessão", "min": 15 },
+      { "t": "Kanji da Lição 6 (Workbook pp. 139–140) com o ✍️ Escrever do ヅオリンゴー; se preferir, numa 2ª sessão", "min": 15 },
       { "t": "Checklist (bloco 10) + anotar dúvidas no caderno da aula", "min": 5 }
     ]
   },
@@ -62,7 +62,7 @@
       "gc": "6-6",
       "title": "〜から (porque)",
       "gloss": "motivo → resultado",
-      "explanation": "から liga um **motivo** a um **resultado**, e a ordem é o **inverso do português**: primeiro vem o motivo, com から colado no fim dele; depois vem o resultado, que é o predicado da frase.\n• [motivo]から、[resultado]。: いそがしいですから、きょうは 行きません。 (\"Estou ocupado, por isso hoje não vou.\")\n• Leia pelo fim: o predicado (行きません) diz o que acontece; o bloco com から responde \"por quê?\". A Anatomia do Mirage marca esse bloco como **MOTIVO**.\n• Nesta fase, antes de から use a forma educada: 〜ます, 〜ません, 〜ました, 〜です, 〜でした. A forma curta + から (いそがしいから) é da fala casual e vem na Lição 9.\n• **Só o motivo:** para responder どうしてですか (\"por quê?\"), basta o motivo + から. — どうしてですか。— いそがしいですから。 (\"Por quê? — Porque estou ocupado.\")\n• **だから** (\"por isso\") faz o mesmo trabalho entre duas frases: いそがしいです。だから、行きません。",
+      "explanation": "から liga um **motivo** a um **resultado**, e a ordem é o **inverso do português**: primeiro vem o motivo, com から colado no fim dele; depois vem o resultado, que é o predicado da frase.\n• [motivo]から、[resultado]。: いそがしいですから、きょうは 行きません。 (\"Estou ocupado, por isso hoje não vou.\")\n• Leia pelo fim: o predicado (行きません) diz o que acontece; o bloco com から responde \"por quê?\". A Anatomia do ヅオリンゴー marca esse bloco como **MOTIVO**.\n• Nesta fase, antes de から use a forma educada: 〜ます, 〜ません, 〜ました, 〜です, 〜でした. A forma curta + から (いそがしいから) é da fala casual e vem na Lição 9.\n• **Só o motivo:** para responder どうしてですか (\"por quê?\"), basta o motivo + から. — どうしてですか。— いそがしいですから。 (\"Por quê? — Porque estou ocupado.\")\n• **だから** (\"por isso\") faz o mesmo trabalho entre duas frases: いそがしいです。だから、行きません。",
       "structure": "[motivo] から、[resultado]。 · どうしてですか。— [motivo] から。",
       "examples": [
         { "jp": "あしたは テストが ありますから、こんばん べんきょうします。", "kana": "あしたは テストが ありますから、こんばん べんきょうします。", "romaji": "Ashita wa tesuto ga arimasu kara, konban benkyō shimasu.", "pt": "Amanhã tem prova, então hoje à noite vou estudar." },
@@ -87,7 +87,7 @@
       "gc": "6-7",
       "title": "〜ましょうか (oferecer ajuda)",
       "gloss": "quer que eu…?",
-      "explanation": "Na Aula 05-3, 〜ましょうか era um convite: \"vamos…?\" (nós dois). Aqui, o mesmo 〜ましょうか serve para **oferecer ajuda**: \"**quer que eu…?**\". A diferença está em **quem age**: na oferta, só **eu** faço, e faço **por você**.\n• Forma: radical da forma ます + **ましょうか**. もちます → もちましょうか · かします → かしましょうか · つけます → つけましょうか. Aqui não entra a forma て.\n• Muitas vezes vem depois de um motivo com から: あついですから、エアコンを つけましょうか。\n• **Aceitar:** ええ、おねがいします。 ou ありがとうございます。おねがいします。\n• **Recusar com educação:** いいえ、だいじょうぶです。ありがとうございます。 Agradeça mesmo recusando.\n• Para deixar claro que é você quem vai fazer, dá para pôr わたしが: わたしが もちましょうか。 (\"Eu carrego?\")\n• A Anatomia do Mirage marca esse fim como **convite / sugestão**, porque a forma é a mesma do \"vamos\". Quem decide se é convite ou oferta é o **contexto**.",
+      "explanation": "Na Aula 05-3, 〜ましょうか era um convite: \"vamos…?\" (nós dois). Aqui, o mesmo 〜ましょうか serve para **oferecer ajuda**: \"**quer que eu…?**\". A diferença está em **quem age**: na oferta, só **eu** faço, e faço **por você**.\n• Forma: radical da forma ます + **ましょうか**. もちます → もちましょうか · かします → かしましょうか · つけます → つけましょうか. Aqui não entra a forma て.\n• Muitas vezes vem depois de um motivo com から: あついですから、エアコンを つけましょうか。\n• **Aceitar:** ええ、おねがいします。 ou ありがとうございます。おねがいします。\n• **Recusar com educação:** いいえ、だいじょうぶです。ありがとうございます。 Agradeça mesmo recusando.\n• Para deixar claro que é você quem vai fazer, dá para pôr わたしが: わたしが もちましょうか。 (\"Eu carrego?\")\n• A Anatomia do ヅオリンゴー marca esse fim como **convite / sugestão**, porque a forma é a mesma do \"vamos\". Quem decide se é convite ou oferta é o **contexto**.",
       "structure": "([motivo] から、) [objeto] を [radical-ます] ましょうか。 — ええ、おねがいします。 ／ いいえ、だいじょうぶです。",
       "examples": [
         { "jp": "おもいですね。わたしが もちましょうか。— ありがとうございます。おねがいします。", "kana": "おもいですね。わたしが もちましょうか。— ありがとうございます。おねがいします。", "romaji": "Omoi desu ne. Watashi ga mochimashō ka. — Arigatō gozaimasu. Onegai shimasu.", "pt": "(A mala) está pesada, né? Quer que eu carregue? — Obrigado(a). Por favor." },
@@ -164,15 +164,15 @@
       { "p": 66, "t": "7 · ～から・～ましょうか", "tip": "Faça depois dos pontos 4a e 4b." },
       { "p": 67, "t": "8 · 答えましょう (Questions)", "tip": "Faça por último, como revisão da Lição 6 inteira." },
       { "p": 68, "t": "9 · 聞く練習 (Listening Comprehension)", "tip": "Precisa do áudio oficial do Genki (veja no seu livro como acessá-lo). Pode ficar para outra sessão." },
-      { "p": 139, "t": "Kanji Practice", "tip": "Os 15 kanji da Lição 6 (東 西 南 北 口 出 右 左 分 先 生 大 学 外 国). Confira a ordem dos traços no ✍️ Escrever do Mirage." },
+      { "p": 139, "t": "Kanji Practice", "tip": "Os 15 kanji da Lição 6 (東 西 南 北 口 出 右 左 分 先 生 大 学 外 国). Confira a ordem dos traços no ✍️ Escrever do ヅオリンゴー." },
       { "p": 140, "t": "Using Kanji", "tip": "Depois da página 139. Confira no Genki Answer Key oficial." }
     ]
   },
   "practice": [
     { "tool": "Wagotabi", "what": "Jogue normalmente e cace から e ましょうか nos diálogos. Quando alguém der um motivo, diga em PT o que é MOTIVO e o que é RESULTADO; quando alguém oferecer algo, diga quem vai agir. Registre a sessão em Imersão → Jogos e cole uma dessas frases na 🔬 Anatomia.", "min": 15 },
-    { "tool": "Kanji", "what": "Mirage → Kanji → ✍️ Escrever: os 15 kanji da Lição 6, 5 por vez, junto com as páginas 139–140 do Workbook.", "min": 15 },
-    { "tool": "Mirage", "what": "Vocabulário da Lição 6 no SRS. Depois, Praticar L6 completo (conjugação, escuta e compreensão), como revisão da lição inteira.", "min": 15 },
-    { "tool": "Diário", "what": "Escreva no Diário do Mirage 3 frases verdadeiras com 〜から sobre o seu dia e confira com \"Anatomia do que escrevi\": o bloco com から deve aparecer como MOTIVO.", "min": 10 },
+    { "tool": "Kanji", "what": "ヅオリンゴー → Kanji → ✍️ Escrever: os 15 kanji da Lição 6, 5 por vez, junto com as páginas 139–140 do Workbook.", "min": 15 },
+    { "tool": "ヅオリンゴー", "what": "Vocabulário da Lição 6 no SRS. Depois, Praticar L6 completo (conjugação, escuta e compreensão), como revisão da lição inteira.", "min": 15 },
+    { "tool": "Diário", "what": "Escreva no Diário do ヅオリンゴー 3 frases verdadeiras com 〜から sobre o seu dia e confira com \"Anatomia do que escrevi\": o bloco com から deve aparecer como MOTIVO.", "min": 10 },
     { "tool": "Fala", "what": "Grave o seu minidiálogo (lição de casa h4) fazendo as duas vozes. Ouça e confira se o motivo vem antes do resultado.", "min": 5 }
   ],
   "culture": {

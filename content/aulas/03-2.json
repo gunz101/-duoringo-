@@ -175,7 +175,7 @@
         "Não esqueça a etiqueta dos blocos do meio: うちで おんがくを ききます ✓ × うち おんがく ききます ✗. Na conversa casual algumas partículas caem, mas no registro educado, e enquanto aprende, escreva todas."
       ],
       "howToStudy": [
-        "Mirage → Treinos → 🔬 Anatomia → 🧱 Montar de trás pra frente: 5 frases. Comece sempre pelo ★ PREDICADO e vá para a esquerda.",
+        "ヅオリンゴー → Treinos → 🔬 Anatomia → 🧱 Montar de trás pra frente: 5 frases. Comece sempre pelo ★ PREDICADO e vá para a esquerda.",
         "Com papel: escreva cada bloco do primeiro exemplo (アナさんは / きょう / だいがくで / にほんごを / べんきょうします) num pedacinho, embaralhe e remonte em voz alta. Depois troque うちで e えいがを de lugar no terceiro exemplo e veja que o sentido não muda.",
         "Leitura pelo fim: pegue 3 frases desta aula (ou de Wagotabi), leia primeiro o verbo e faça em voz alta as perguntas: o quê? onde? para onde? quando? quem?"
       ],
@@ -246,8 +246,8 @@
   },
   "practice": [
     { "tool": "Wagotabi", "what": "Jogue e, a cada fala terminada em 〜ます ou 〜ません, pause: ache o verbo no fim e cace os blocos com を, で, に / へ e は. Copie 3 frases no caderno e escreva a função em cima de cada bloco. Depois registre a sessão em Imersão → Jogos e cole uma delas na 🔬 Anatomia para conferir.", "min": 20 },
-    { "tool": "Mirage", "what": "Treinos → Partículas (を, で, に, へ, は). Depois, 🔬 Anatomia → 🧱 Montar de trás pra frente: 5 frases.", "min": 15 },
-    { "tool": "Mirage", "what": "Diário: escreva 3 frases sobre o que você faz hoje, cada uma com um lugar (で) ou um destino (に). Use \"Anatomia do que escrevi\" para ver se cada bloco ficou com a função que você queria.", "min": 10 },
+    { "tool": "ヅオリンゴー", "what": "Treinos → Partículas (を, で, に, へ, は). Depois, 🔬 Anatomia → 🧱 Montar de trás pra frente: 5 frases.", "min": 15 },
+    { "tool": "ヅオリンゴー", "what": "Diário: escreva 3 frases sobre o que você faz hoje, cada uma com um lugar (で) ou um destino (に). Use \"Anatomia do que escrevi\" para ver se cada bloco ficou com a função que você queria.", "min": 10 },
     { "tool": "Shadowing", "what": "Toque 🔊 nos exemplos e repita, fazendo uma micro-pausa depois de cada partícula: アナさんは | きょう | だいがくで | にほんごを | べんきょうします. Isso treina o ouvido a separar os blocos.", "min": 5 },
     { "tool": "Fala", "what": "Descreva em voz alta 3 lugares da sua casa ou da sua cidade e o que você faz em cada um (〜で 〜を 〜ます), e mais 2 lugares aonde você vai (〜に いきます). Grave e ouça: o verbo ficou sempre no fim?", "min": 5 }
   ],

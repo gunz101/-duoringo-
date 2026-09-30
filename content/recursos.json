@@ -48,7 +48,7 @@
           "level": "N5–N4",
           "cost": "grátis",
           "desc": "Deck gratuito com o vocabulário do Genki I em subdecks por lição e 778 áudios; o passo seguinte é o Kaishi 1.5k, deck de 1.501 palavras de alta frequência com áudio e pitch (exige Anki 2.1.50+).",
-          "how": "Ative o subdeck de cada lição ao começá-la no Genki, com cerca de 10 min de revisão por dia junto com o Mirage; depois do Genki I, procure o Kaishi 1.5k no AnkiWeb e siga com ele."
+          "how": "Ative o subdeck de cada lição ao começá-la no Genki, com cerca de 10 min de revisão por dia junto com o ヅオリンゴー; depois do Genki I, procure o Kaishi 1.5k no AnkiWeb e siga com ele."
         },
         {
           "name": "Nihongo con Teppei for Beginners + Japanese with Shun (podcast Genki)",
@@ -267,7 +267,7 @@
           "level": "N4–N3",
           "cost": "freemium",
           "desc": "Episódios de conversa bilíngue japonês–português que terminam com uma revisão do vocabulário-chave; é uma escola, então também vende cursos pagos.",
-          "how": "A partir do Genki II, ouça um episódio por semana e leve as palavras da revisão final para o Mirage."
+          "how": "A partir do Genki II, ouça um episódio por semana e leve as palavras da revisão final para o ヅオリンゴー."
         },
         {
           "name": "HAJIMARU – podcast da Fundação Japão em São Paulo",
@@ -519,7 +519,7 @@
           "level": "N5–N1",
           "cost": "freemium",
           "desc": "SRS de gramática cujo plano grátis só mostra as páginas de gramática e leituras; o premium custa US$ 5/mês ou US$ 150 vitalício, com 30 dias de teste sem cartão.",
-          "how": "Opcional a partir do Genki II, se quiser revisar gramática em repetição espaçada além do Mirage."
+          "how": "Opcional a partir do Genki II, se quiser revisar gramática em repetição espaçada além do ヅオリンゴー."
         },
         {
           "name": "Game Gengo – JLPT N4 Grammar",
@@ -570,7 +570,7 @@
     },
     {
       "title": "Vocabulário e kanji: SRS e dicionários",
-      "note": "Seu SRS principal é o Mirage; estes entram só quando algo faltar.",
+      "note": "Seu SRS principal é o ヅオリンゴー; estes entram só quando algo faltar.",
       "items": [
         {
           "name": "Jisho.org",
@@ -606,7 +606,7 @@
           "level": "N5–N1",
           "cost": "freemium",
           "desc": "App de repetição espaçada que roda todos os decks desta lista, com sincronização por conta grátis do AnkiWeb; é grátis no computador e no Android (AnkiDroid), e o AnkiMobile para iOS custa US$ 24,99.",
-          "how": "Instale para usar os decks do Genki e o Kaishi; o resto do vocabulário pode ficar no Mirage."
+          "how": "Instale para usar os decks do Genki e o Kaishi; o resto do vocabulário pode ficar no ヅオリンゴー."
         },
         {
           "name": "renshuu",

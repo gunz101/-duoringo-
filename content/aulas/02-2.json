@@ -191,8 +191,8 @@
   },
   "practice": [
     { "tool": "Wagotabi", "what": "Jogue normalmente e leia em voz alta, em japonês, todo número que aparecer na tela (dinheiro, itens, pontos). Se um diálogo trouxer いくら, 〜えん, ください ou おねがいします, pause e copie a frase no caderno.", "min": 15 },
-    { "tool": "Mirage", "what": "Treinos → Números: 10 min. Depois, Vocabulário da Lição 2 no SRS.", "min": 15 },
-    { "tool": "Mirage", "what": "Praticar L2: faça a parte de escuta, para entender números e preços ditos em voz alta.", "min": 10 },
+    { "tool": "ヅオリンゴー", "what": "Treinos → Números: 10 min. Depois, Vocabulário da Lição 2 no SRS.", "min": 15 },
+    { "tool": "ヅオリンゴー", "what": "Praticar L2: faça a parte de escuta, para entender números e preços ditos em voz alta.", "min": 10 },
     { "tool": "Shadowing", "what": "Toque 🔊 nos exemplos desta aula e repita cada preço junto, 3 vezes.", "min": 5 },
     { "tool": "Fala", "what": "No mercado, numa loja ou num site, diga baixinho em japonês o preço de 10 produtos: só o número + えん.", "min": 5 }
   ],

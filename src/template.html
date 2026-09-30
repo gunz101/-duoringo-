@@ -3,7 +3,7 @@
 <head>
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
-<title>Curso de Japonês Mirage · 日本語コース</title>
+<title>Curso de Japonês ヅオリンゴー · 日本語コース</title>
 <style>
   :root{
     --bg:#0f1115; --bg2:#171a21; --bg3:#1f242e; --line:#2b323d;
@@ -175,9 +175,9 @@
     with: 'COM QUEM', and: 'E (LISTA)', tari: 'AÇÕES (EX.)', compare: 'COMPARAÇÃO', from: 'DE / DESDE', until: 'ATÉ',
     reason: 'MOTIVO', modifier: 'DESCREVE O PRÓXIMO', how: 'COMO', quantity: 'QUANTIDADE', link: 'LIGA (E…)',
     contrast: 'MAS', condition: 'CONDIÇÃO', quote: 'CITAÇÃO', connector: 'CONECTOR', interjection: 'INTERJEIÇÃO',
-    only: 'SÓ', indef: 'ALGO / ALGUÉM', indefneg: 'NADA / NINGUÉM', while: 'ENQUANTO', after: 'DEPOIS DE', bare: 'SEM PARTÍCULA'
+    only: 'SÓ', indef: 'ALGO / ALGUÉM', indefneg: 'NADA / NINGUÉM', while: 'ENQUANTO', after: 'DEPOIS DE', vocative: 'CHAMAMENTO', bare: 'SEM PARTÍCULA'
   };
-  var ROLE_Q = { predicate: 'O que acontece / o que é?', topic: 'Sobre o quê?', subject: 'Quem / o quê?', object: 'O quê (sofre a ação)?', place: 'Onde (acontece)?', means: 'Com quê / como?', time: 'Quando?', destination: 'Para onde?', location: 'Onde está?', target: 'Para quem / em quê?', purpose: 'Para fazer o quê?', with: 'Com quem?', modifier: 'Qual / de quem?', how: 'Como?', reason: 'Por quê?', from: 'De onde / desde quando?', until: 'Até onde / quando?', compare: 'Comparado com?', also: 'Também?', quantity: 'Quanto(s)?' };
+  var ROLE_Q = { predicate: 'O que acontece / o que é?', topic: 'Sobre o quê?', subject: 'Quem / o quê?', object: 'O quê (sofre a ação)?', place: 'Onde (acontece)?', means: 'Com quê / como?', time: 'Quando?', destination: 'Para onde?', location: 'Onde está?', target: 'Para quem / em quê?', purpose: 'Para fazer o quê?', with: 'Com quem?', modifier: 'Qual / de quem?', how: 'Como?', reason: 'Por quê?', from: 'De onde / desde quando?', until: 'Até onde / quando?', compare: 'Comparado com?', also: 'Também?', quantity: 'Quanto(s)?', vocative: 'Com quem se fala?', bare: 'Deduza pelo verbo (partícula omitida)' };
   var KIND_PT = { action: 'ação', existence: 'existência', identity: 'identidade (é)', description: 'descrição', request: 'pedido', wish: 'desejo', invitation: 'convite / sugestão', progress: 'em andamento / estado', explanation: 'explicação (〜んです)', experience: 'experiência', intention: 'intenção', obligation: 'obrigação', setphrase: 'expressão pronta', permission: 'permissão', prohibition: 'proibição' };
   var DAYS = ['Seg', 'Ter', 'Qua', 'Qui', 'Sex', 'Sáb', 'Dom'];
 
@@ -291,7 +291,7 @@
         if (p && c.t.slice(-c.p.length) === c.p) txt = esc(c.t.slice(0, c.t.length - c.p.length)) + '<em>' + p + '</em>';
         return '<div class="chip' + (c.r === 'predicate' ? ' pred' : '') + '" style="--c:' + col + '" title="' + esc(q) + '"><div class="t">' + txt + '</div><div class="l">' + (c.r === 'predicate' ? '★ ' : '') + esc(lab) + '</div>' + (c.k ? '<div class="faint" style="font-size:10px">' + esc(KIND_PT[c.k] || c.k) + '</div>' : '') + '</div>';
       }).join('') + '</div>';
-    }).join('') + '<div class="anatnote">Leia pelo ★ predicado (o fim) e depois os blocos da esquerda. A partícula colorida diz a função de cada bloco. Análise automática do motor do Mirage; em caso de dúvida, vale a explicação da aula.</div>';
+    }).join('') + '<div class="anatnote">Leia pelo ★ predicado (o fim) e depois os blocos da esquerda. A partícula colorida diz a função de cada bloco. Análise automática do motor do ヅオリンゴー; em caso de dúvida, vale a explicação da aula.</div>';
   }
   function renderAula(id) {
     var a = aula(id), m = BYID[id];
@@ -331,7 +331,8 @@
     h += blk(5, a.grammar.map(function (g, gi) { return '<div class="study"><b>4' + String.fromCharCode(97 + gi) + ' · ' + esc(g.title) + '</b><ol class="steps">' + (g.howToStudy || []).map(function (s) { return '<li>' + esc(s) + '</li>'; }).join('') + '</ol></div>'; }).join(''));
     // 6
     h += blk(6, '<div class="media">' + a.media.map(function (m) {
-      var link = m.url ? '<a href="' + esc(m.url) + '" target="_blank" rel="noopener">' + esc(m.title) + '</a>' : esc(m.title);
+      var href = (m.url && m.url.indexOf('../') === 0 &&window.top !== window && C.appsBase) ? C.appsBase + m.url.slice(3) : m.url; // inside ヅオリンゴー: absolute path to the sibling app
+      var link = href ? '<a href="' + esc(href) + '" target="_blank" rel="noopener">' + esc(m.title) + '</a>' : esc(m.title);
       var sub = (m.links && m.links.length) ? '<div class="small" style="margin-top:4px;display:flex;flex-wrap:wrap;gap:4px 10px">' + m.links.map(function (l) { return '<a class="jp" href="' + esc(l.url) + '" target="_blank" rel="noopener">▶ ' + esc(l.t) + '</a>'; }).join('') + '</div>' : '';
       return '<div class="med"><div class="o">' + m.order + '</div><div><div class="k">' + esc(m.kind) + ' · ' + esc(m.where) + '</div><div>' + link + '</div>' + sub + (m.search && !m.url ?'<div class="small muted">Buscar por: <span class="jp">' + esc(m.search) + '</span></div>' : '') + (m.when ? '<div class="small muted">Quando: ' + esc(m.when) + '</div>' : '') + '</div></div>';
     }).join('') + '</div>');

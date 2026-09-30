@@ -17,7 +17,7 @@
       { "t": "Vocabulário: ouvir 🔊 cada palavra e repetir 2 vezes, com atenção especial às leituras de ひとつ〜とお", "min": 10 },
       { "t": "Gramática: os 3 pontos com um 🔬 cada. A aula é densa: se preferir, divida em 2 sessões (ましょう e graus numa, contagem e kanji na outra)", "min": 25 },
       { "t": "Vídeo da Lição 5 (bloco 6), na parte de ましょう e da contagem", "min": 10 },
-      { "t": "Kanji da Lição 5: Kanji → ✍️ Escrever no Mirage, depois as páginas 137–138 do Workbook", "min": 15 },
+      { "t": "Kanji da Lição 5: Kanji → ✍️ Escrever no ヅオリンゴー, depois as páginas 137–138 do Workbook", "min": 15 },
       { "t": "Lição de casa no caderno + conferir no gabarito", "min": 15 },
       { "t": "Checklist (bloco 10) + anotar dúvidas no caderno da aula", "min": 5 }
     ]
@@ -192,15 +192,15 @@
       { "p": 56, "t": "7 · ～ましょう / ～ましょうか", "tip": "Faça depois do ponto a." },
       { "p": 57, "t": "8 · 答えましょう (Questions)", "tip": "Revisão da lição toda: faça no fim desta aula, respondendo com frases completas e verdadeiras sobre você." },
       { "p": 58, "t": "9 · 聞く練習 (Listening Comprehension)", "tip": "Precisa do áudio oficial do Workbook. Faça depois de todas as aulas da Lição 5." },
-      { "p": 137, "t": "Kanji Practice", "tip": "Kanji da Lição 5. Antes, treine a ordem dos traços no Mirage (Kanji → ✍️ Escrever)." },
+      { "p": 137, "t": "Kanji Practice", "tip": "Kanji da Lição 5. Antes, treine a ordem dos traços no ヅオリンゴー (Kanji → ✍️ Escrever)." },
       { "p": 138, "t": "Using Kanji", "tip": "Faça depois da página 137. Confira no Genki Answer Key oficial." }
     ]
   },
   "practice": [
     { "tool": "Wagotabi", "what": "Jogue normalmente. Sempre que alguém propuser algo com 〜ましょう ou 〜ましょうか, ou usar とても, あまり ou ぜんぜん, pause e diga em voz alta se o predicado é afirmativo ou negativo. Copie 2 dessas frases no caderno.", "min": 15 },
-    { "tool": "Mirage", "what": "Treinos → Números, para manter いち〜じゅう afiado. Logo depois, conte em voz alta ひとつ〜とお, para não misturar os dois sistemas.", "min": 5 },
-    { "tool": "Mirage", "what": "Kanji → ✍️ Escrever: os kanji da Lição 5 (山, 川, 元, 気, 天, 私, 今, 田, 女, 男, 見, 行, 食, 飲), antes das páginas 137–138 do Workbook.", "min": 15 },
-    { "tool": "Mirage", "what": "Vocabulário da Lição 5 no SRS (baralho 🌊 Tudo) e Praticar L5, para revisar a lição inteira.", "min": 10 },
+    { "tool": "ヅオリンゴー", "what": "Treinos → Números, para manter いち〜じゅう afiado. Logo depois, conte em voz alta ひとつ〜とお, para não misturar os dois sistemas.", "min": 5 },
+    { "tool": "ヅオリンゴー", "what": "Kanji → ✍️ Escrever: os kanji da Lição 5 (山, 川, 元, 気, 天, 私, 今, 田, 女, 男, 見, 行, 食, 飲), antes das páginas 137–138 do Workbook.", "min": 15 },
+    { "tool": "ヅオリンゴー", "what": "Vocabulário da Lição 5 no SRS (baralho 🌊 Tudo) e Praticar L5, para revisar a lição inteira.", "min": 10 },
     { "tool": "Fala", "what": "Grave o mini-diálogo da lição de casa (h4), fazendo as duas vozes. Ouça e confira o っ de よっつ, みっつ, むっつ e やっつ.", "min": 5 }
   ],
   "culture": {

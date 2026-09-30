@@ -164,8 +164,8 @@
   },
   "practice": [
     { "tool": "Wagotabi", "what": "Jogue normalmente e cace falas com と 思う / と 思います ou com と 言っていた / と 言っていました. Quando achar, copie a fala no caderno e sublinhe o conteúdo (tudo o que vem antes do と).", "min": 15 },
-    { "tool": "Mirage", "what": "Vocabulário/SRS da Lição 8 e Praticar L8. Depois, Treinos → 🔬 Anatomia → 🔬 Analisar: cole 3 frases suas com と 思います e confira se o bloco com と aparece como CITAÇÃO.", "min": 15 },
-    { "tool": "Diário", "what": "No Diário do Mirage, escreva 3 opiniões sobre o seu dia com 〜と 思います e use \"Anatomia do que escrevi\" para conferir.", "min": 10 },
+    { "tool": "ヅオリンゴー", "what": "Vocabulário/SRS da Lição 8 e Praticar L8. Depois, Treinos → 🔬 Anatomia → 🔬 Analisar: cole 3 frases suas com と 思います e confira se o bloco com と aparece como CITAÇÃO.", "min": 15 },
+    { "tool": "Diário", "what": "No Diário do ヅオリンゴー, escreva 3 opiniões sobre o seu dia com 〜と 思います e use \"Anatomia do que escrevi\" para conferir.", "min": 10 },
     { "tool": "Fala", "what": "Grave um \"recado\" de 20 s para alguém, repassando 2 coisas que outra pessoa disse (〜と 言っていました).", "min": 5 }
   ],
   "culture": {

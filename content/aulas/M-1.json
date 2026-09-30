@@ -1,0 +1,272 @@
+{
+  "id": "M-1",
+  "unit": "G1-L04",
+  "genki": null,
+  "title": "Marco 1 · metade do Genki I",
+  "titleJp": "わたしの まいにちと しゅうまつ",
+  "canDo": [
+    "Me apresentar em 1 minuto, sem ler: nome, nacionalidade, o que faço e onde, a minha rotina e o meu último fim de semana.",
+    "Falar da minha rotina com horário, lugar, objeto e frequência, sempre com o verbo no fim: まいにち 七時に おきます。",
+    "Dizer o que existe num lugar e onde uma coisa ou pessoa está, escolhendo あります ou います e a palavra de lugar certa.",
+    "Contar o que fiz e o que não fiz no passado educado: com quem, onde, por quanto tempo.",
+    "Descobrir pelo autoteste qual aula das Lições 1 a 4 eu preciso rever, rever essa aula e acertar na segunda tentativa."
+  ],
+  "duration": {
+    "total": "70–90 min",
+    "blocks": [
+      { "t": "Sessão 1 · Aquecimento: ouça a gravação da sua autoapresentação da Aula 01-1 e diga em voz alta o que hoje você já acrescentaria", "min": 5 },
+      { "t": "Sessão 1 · Revisão: os 6 pontos (bloco 4), lendo cada exemplo em voz alta e apertando 🔬", "min": 25 },
+      { "t": "Sessão 1 · Autoteste (lição de casa, tarefa 1) no caderno, sem consultar nada; só depois o gabarito", "min": 20 },
+      { "t": "Sessão 2 · Rever as aulas indicadas nas 💡 dos itens que errou (e o trecho do vídeo do bloco 6) e refazer esses itens", "min": 15 },
+      { "t": "Sessão 2 · Apresentação de 1 minuto (tarefa 2): escrever, ensaiar, gravar e comparar com a gravação da Aula 01-1", "min": 15 },
+      { "t": "Sessão 2 · Checklist (bloco 10) + anotar no caderno o que ainda trava", "min": 5 }
+    ]
+  },
+  "prereqs": {
+    "aulas": ["04-3"],
+    "skills": [
+      "Ter fechado o checklist das Aulas 01-1 a 04-3. Se alguma ficou pendente, termine antes: o marco testa tudo junto.",
+      "Ler hiragana e katakana com fluência e os kanji das Lições 3 e 4 (os números, 円, 時, 日, 本, 人, os dias da semana, 上, 下, 中, 半).",
+      "Ter à mão a gravação da sua autoapresentação da Aula 01-1 (lição de casa h4): você vai comparar com a de hoje.",
+      "Caderno e caneta: o autoteste é feito à mão, sem consultar."
+    ],
+    "vocab": [
+      { "jp": "まいにち", "kana": "まいにち", "romaji": "mainichi", "pt": "todo dia (sem に · Aula 03-3)" },
+      { "jp": "ときどき", "kana": "ときどき", "romaji": "tokidoki", "pt": "às vezes (Aula 03-3)" },
+      { "jp": "あまり", "kana": "あまり", "romaji": "amari", "pt": "(+ negativo) não muito (Aula 03-3)" },
+      { "jp": "きのう", "kana": "きのう", "romaji": "kinō", "pt": "ontem (sem に · Aula 04-2)" },
+      { "jp": "せんしゅう", "kana": "せんしゅう", "romaji": "senshū", "pt": "semana passada (sem に · Aula 04-2)" },
+      { "jp": "土曜日", "kana": "どようび", "romaji": "doyōbi", "pt": "sábado (com に · Aula 03-3)" },
+      { "jp": "〜じかん", "kana": "〜じかん", "romaji": "-jikan", "pt": "… horas de duração (sem に · Aula 04-3)" },
+      { "jp": "一人で", "kana": "ひとりで", "romaji": "hitori de", "pt": "sozinho(a) (Aula 04-3)" },
+      { "jp": "たくさん", "kana": "たくさん", "romaji": "takusan", "pt": "muito(s), em quantidade (Aula 04-3)" },
+      { "jp": "かえる", "kana": "かえる", "romaji": "kaeru", "pt": "voltar para casa (verbo う disfarçado · Aula 03-1)" },
+      { "jp": "はいる", "kana": "はいる", "romaji": "hairu", "pt": "entrar (verbo う disfarçado · Aula 03-1)" },
+      { "jp": "つくえ", "kana": "つくえ", "romaji": "tsukue", "pt": "mesa de estudo, escrivaninha (Aula 04-1)" },
+      { "jp": "となり", "kana": "となり", "romaji": "tonari", "pt": "ao lado de (Aula 04-1)" },
+      { "jp": "いくら", "kana": "いくら", "romaji": "ikura", "pt": "quanto (custa) (Aula 02-2)" },
+      { "jp": "はたち", "kana": "はたち", "romaji": "hatachi", "pt": "20 anos de idade (Aula 01-2)" },
+      { "jp": "ちょっと…", "kana": "ちょっと…", "romaji": "chotto...", "pt": "\"é meio…\" (recusa educada · Aula 03-3)" }
+    ]
+  },
+  "grammar": [
+    {
+      "id": "M-1-a",
+      "title": "Frases com です: é, não é, era, não era",
+      "gloss": "o predicado com substantivo",
+      "explanation": "Nas Lições 1 a 4, a frase mais usada foi **X は Y です**: o bloco com は é o TÓPICO e o bloco com です é o PREDICADO, sempre no fim. Tudo o que muda (negação, passado, pergunta, tom) muda **só no último bloco**. Por isso, leia primeiro o fim da frase.\n• Presente: がくせいです (é) · がくせいじゃないです (não é) (Aula 02-3).\n• Passado: がくせいでした (era) · がくせいじゃなかったです (não era) (Aula 04-2).\n• Mais formal: じゃありません · じゃありませんでした. Use uma forma e reconheça a outra.\n• Pergunta: か no fim, sem mudar a ordem. A palavra interrogativa (なん, だれ, どこ, いくら, なんさい) entra **no lugar da resposta** (Aula 01-1).\n• Tom: ね busca concordância; よ dá uma informação nova. Os dois vêm depois do です (Aula 02-3).\n• も no lugar do は = \"também\", quando o predicado se repete (Aula 02-3).\n• N₁ の N₂: o primeiro descreve o segundo, na ordem inversa do português (Aula 01-1).\n• O Y pode ser uma hora (くじはんです), uma idade (はたちです), um preço (三千円です) ou um lugar (あそこです): o molde é sempre o mesmo.",
+      "structure": "[X] は [Y] です／じゃないです／でした／じゃなかったです (か／ね／よ)。",
+      "examples": [
+        { "jp": "きのうは やすみでしたね。— いいえ、やすみじゃなかったです。テストでしたよ。", "kana": "きのうは やすみでしたね。— いいえ、やすみじゃなかったです。テストでしたよ。", "romaji": "Kinō wa yasumi deshita ne. — Iie, yasumi ja nakatta desu. Tesuto deshita yo.", "pt": "Ontem foi folga, né? — Não, não foi. Foi dia de prova, viu? (passado + ね, passado negativo, よ)" },
+        { "jp": "あの 人は だれですか。— すずきせんせいです。わたしの にほんごの せんせいです。", "kana": "あの ひとは だれですか。— すずきせんせいです。わたしの にほんごの せんせいです。", "romaji": "Ano hito wa dare desu ka. — Suzuki-sensei desu. Watashi no nihongo no sensei desu.", "pt": "Quem é aquela pessoa? — É a professora Suzuki. É a minha professora de japonês. (あの, だれ no lugar da resposta, の encadeado)" }
+      ],
+      "pitfalls": [
+        "じゃないでした ✗ não existe. O passado negativo é じゃなかったです ✓ ou じゃありませんでした ✓.",
+        "いいえ não nega a frase: いいえ、がくせいです ✗ para \"não sou estudante\" → いいえ、がくせいじゃないです ✓.",
+        "Palavra interrogativa não leva は: どこは ✗, なには ✗. A coisa perguntada leva は, e a interrogativa vai no fim: トイレは どこですか ✓.",
+        "の na ordem do português: せんせいの にほんご ✗ para \"professor de japonês\" → にほんごの せんせい ✓. E nunca さん depois do próprio nome."
+      ],
+      "howToStudy": [
+        "Pegue uma frase sua (がくせいです) e diga em voz alta as 4 formas: です → じゃないです → でした → じゃなかったです. Repita com mais 3 substantivos.",
+        "Aperte 🔬 nos exemplos e confira: o TÓPICO (は) fica igual, e só o PREDICADO do fim muda.",
+        "Se errou algo deste ponto no autoteste, reveja as Aulas 01-1, 02-3 (4b e 4c) e 04-2 (4a), nessa ordem."
+      ],
+      "flag": null
+    },
+    {
+      "id": "M-1-b",
+      "title": "Apontar, contar e perguntar: こそあど e números",
+      "gloss": "coisas, lugares, dono, preço, hora, idade",
+      "explanation": "Na Lição 2 você aprendeu a **apontar** com uma família de palavras que depende da distância em relação às pessoas, e nas Lições 1 e 2, a **contar**. O resumo:\n• Coisa sozinha: これ (perto de mim) · それ (perto de você) · あれ (longe dos dois) · どれ (qual?).\n• Coisa + substantivo: この · その · あの · どの + N. Nunca ficam sozinhos (Aula 02-1).\n• Lugar: ここ · そこ · あそこ · どこ.\n• Dono: だれの N ですか。— [pessoa] の (N) です.\n• **O ponto de vista muda na resposta**: o que é それ para quem pergunta é これ para quem responde.\n**Números**, quase sempre no PREDICADO:\n• Horas: 〜じ e 〜じはん, com ごぜん / ごご antes. Especiais: よじ, しちじ, くじ (Aula 01-2).\n• Idade: 〜さい, com いっさい, はっさい, じゅっさい e はたち (Aula 01-2).\n• Preço: [número] えん + いくら. Mudanças de som: さんびゃく, ろっぴゃく, はっぴゃく, さんぜん, はっせん. 10.000 = いちまん (Aula 02-2).\n• Telefone: algarismo por algarismo, com の no lugar do hífen (Aula 01-2).\n• Pedir na loja: [coisa] を ください / おねがいします (Aula 02-2).",
+      "structure": "これ／この N／ここ は [número + じ／さい／えん] です。 · [N] は いくら／なんじ／なんさい／どこ ですか。",
+      "examples": [
+        { "jp": "すみません、その ぼうしは いくらですか。— これですか。三千円です。— じゃあ、それを ください。", "kana": "すみません、その ぼうしは いくらですか。— これですか。さんぜんえんです。— じゃあ、それを ください。", "romaji": "Sumimasen, sono bōshi wa ikura desu ka. — Kore desu ka. Sanzen en desu. — Jā, sore o kudasai.", "pt": "Com licença, quanto custa esse boné (aí perto de você)? — Este? 3.000 ienes. — Então vou levar esse, por favor. (その × これ na resposta, いくら, さんぜん, ください)" },
+        { "jp": "たなかさんの ねこは なんさいですか。— はっさいです。— わたしの ねこも はっさいですよ。", "kana": "たなかさんの ねこは なんさいですか。— はっさいです。— わたしの ねこも はっさいですよ。", "romaji": "Tanaka-san no neko wa nansai desu ka. — Hassai desu. — Watashi no neko mo hassai desu yo.", "pt": "Quantos anos tem o gato do(a) Tanaka? — Oito. — O meu gato também tem oito, viu? (の, なんさい, はっさい, も, よ)" },
+        { "jp": "これは ペドロさんの じしょですか。— いいえ、ペドロさんのじゃないです。わたしのです。", "kana": "これは ペドロさんの じしょですか。— いいえ、ペドロさんのじゃないです。わたしのです。", "romaji": "Kore wa Pedoro-san no jisho desu ka. — Iie, Pedoro-san no ja nai desu. Watashi no desu.", "pt": "Este dicionário é do Pedro? — Não, não é do Pedro. É meu. (これ, の de posse sem o substantivo, じゃないです)" }
+      ],
+      "pitfalls": [
+        "これ／それ／あれ não vêm antes de substantivo: これ ほん ✗ → この ほん ✓. E この não fica sozinho: この です ✗ → これです ✓.",
+        "Na resposta, o ponto de vista muda: se alguém aponta o que está na SUA mão e pergunta それは なんですか, responda これは… ✓.",
+        "Leituras especiais: よじ, しちじ, くじ (horas); いっさい, はっさい, じゅっさい, はたち (idade); さんびゃく, ろっぴゃく, はっぴゃく, さんぜん, はっせん (preço). 20.000 é にまん ✓, não にじゅうせん ✗.",
+        "Esquecer o の da posse: ペドロさんです ✗ (\"é o Pedro\") → ペドロさんのです ✓ (\"é do Pedro\")."
+      ],
+      "howToStudy": [
+        "Pegue 3 objetos: um na sua mão, um longe e um que você imagina na mão de outra pessoa. Diga em voz alta これは…, それは…, あれは… e faça uma pergunta com だれの.",
+        "ヅオリンゴー → Treinos → Números: 5 min de horas, idades e preços, sempre em voz alta.",
+        "Encene uma compra, falando: pergunte o preço com いくら, diga o número que o vendedor responderia e peça com 〜を ください."
+      ],
+      "flag": null
+    },
+    {
+      "id": "M-1-c",
+      "title": "Verbos: presente e passado educados",
+      "gloss": "〜ます · 〜ません · 〜ました · 〜ませんでした",
+      "explanation": "Todo verbo tem um **grupo**, e é o grupo que decide como ele conjuga (Aula 03-1):\n• **Verbos る**: tire o る → たべる → たべ + ます.\n• **Verbos う**: a última sílaba passa do som de u para o som de i → のむ → のみます, いく → いきます.\n• **Irregulares**: する → します, くる → きます.\n• **Disfarçados**: かえる e はいる terminam em -eru e -iru, mas são う → かえります, はいります.\nDepois do radical vêm **quatro terminações**, iguais para todos os verbos:\n• 〜ます (faço, vou fazer) · 〜ません (não faço, não vou fazer).\n• 〜ました (fiz) · 〜ませんでした (não fiz) (Aula 04-2).\n• O presente cobre **hábito e futuro**. Ele não é o \"estou fazendo agora\".\n• Pergunta com か; resposta **repetindo o verbo, no mesmo tempo**: みましたか。— はい、みました。／いいえ、みませんでした。\n• Com o mesmo radical: 〜ませんか (convite) e 〜ましょう (\"vamos!\", para aceitar) (Aula 03-3).\n• あります e います conjugam igual: ありました, いませんでした.",
+      "structure": "[radical] + ます／ません／ました／ませんでした · convite: [radical] + ませんか",
+      "examples": [
+        { "jp": "きのう うちに かえりましたか。— いいえ、かえりませんでした。ともだちの うちで ねました。", "kana": "きのう うちに かえりましたか。— いいえ、かえりませんでした。ともだちの うちで ねました。", "romaji": "Kinō uchi ni kaerimashita ka. — Iie, kaerimasen deshita. Tomodachi no uchi de nemashita.", "pt": "Você voltou para casa ontem? — Não, não voltei. Dormi na casa de um amigo. (かえる é う, resposta no passado, で de lugar)" },
+        { "jp": "きのう えいがを みましたか。— いいえ、みませんでした。— じゃあ、こんばん いっしょに みませんか。", "kana": "きのう えいがを みましたか。— いいえ、みませんでした。— じゃあ、こんばん いっしょに みませんか。", "romaji": "Kinō eiga o mimashita ka. — Iie, mimasen deshita. — Jā, konban issho ni mimasen ka.", "pt": "Você viu algum filme ontem? — Não, não vi. — Então, que tal vermos um juntos hoje à noite? (passado negativo + convite)" },
+        { "jp": "わたしは まいあさ コーヒーを のみます。でも、けさは のみませんでした。", "kana": "わたしは まいあさ コーヒーを のみます。でも、けさは のみませんでした。", "romaji": "Watashi wa maiasa kōhī o nomimasu. Demo, kesa wa nomimasen deshita.", "pt": "Eu tomo café toda manhã. Mas hoje de manhã não tomei. (hábito no presente × passado, は de contraste)" }
+      ],
+      "pitfalls": [
+        "かえる e はいる são verbos う: かえります ✓ × かえます ✗; はいります ✓ × はいます ✗.",
+        "くる → きます ✓ × くります ✗. Nos compostos com する, só o する muda: べんきょうします ✓ × べんきょうます ✗.",
+        "Pergunta no passado, resposta no passado: いきましたか。— いいえ、いきません ✗ (\"não vou\") → いいえ、いきませんでした ✓.",
+        "Verbo não nega com じゃないです: たべるじゃないです ✗ → たべません ✓. E たべます não é \"estou comendo\" (isso vem na Aula 07-1)."
+      ],
+      "howToStudy": [
+        "Escolha 6 verbos (たべる, のむ, いく, かえる, する, くる) e diga cada um nas 4 formas, em voz alta e sem olhar: 〜ます → 〜ません → 〜ました → 〜ませんでした.",
+        "ヅオリンゴー → Treinos → Conjugação: 5 min só com as formas educadas.",
+        "Diga em voz alta 3 coisas que você faz todo dia e, para cada uma, se fez ou não ontem: まいにち 〜ます。きのうも 〜ました／きのうは 〜ませんでした。"
+      ],
+      "flag": null
+    },
+    {
+      "id": "M-1-d",
+      "title": "As partículas até aqui",
+      "gloss": "a etiqueta de cada bloco",
+      "explanation": "Cada bloco da frase é [palavra + partícula], e a partícula diz **a função** do bloco. O verbo (ou o です) fica no fim. Leia pelo predicado e faça perguntas a ele: quem? o quê? onde? quando? com quem?\n• **は** (wa): TÓPICO, o assunto. Também faz **contraste**: コーヒーは のみます。おさけは のみません。 (Aulas 01-1 e 03-2)\n• **が**: o que EXISTE (ねこが います) e a palavra interrogativa como sujeito (だれが いますか) (Aula 04-1).\n• **を** (o): OBJETO, responde \"o quê?\" (Aula 03-2).\n• **で**: lugar onde a AÇÃO acontece: としょかんで よみます (Aula 03-2).\n• **に**: três usos até aqui. Destino (リオに いきます), ponto no tempo (七時に, 土曜日に) e lugar onde algo EXISTE (つくえの 上に あります) (Aulas 03-2, 03-3 e 04-1).\n• **へ** (e): destino, e só destino (Aula 03-2).\n• **と**: \"e\" numa lista fechada (パンと 水) ou \"com\" alguém (ともだちと) (Aula 04-3).\n• **も**: \"também\". Substitui は, が e を; vem depois de に, で, へ e と (にも, でも) (Aulas 02-3 e 04-3).\n• **の**: liga dois substantivos; o primeiro descreve o segundo (Aula 01-1).\n• **か, ね, よ**: ficam no fim, depois do predicado: pergunta, concordância, informação nova.",
+      "structure": "[tópico] は + [tempo (に)] + [com quem] と + [lugar] で／[destino] に + [objeto] を + [verbo]",
+      "examples": [
+        { "jp": "土曜日に ともだちと としょかんで にほんごを べんきょうしました。", "kana": "どようびに ともだちと としょかんで にほんごを べんきょうしました。", "romaji": "Doyōbi ni tomodachi to toshokan de nihongo o benkyō shimashita.", "pt": "No sábado estudei japonês na biblioteca com um amigo. (tempo · companhia · lugar · objeto · predicado)" },
+        { "jp": "サンパウロには 日本の レストランが たくさん あります。リオにも ありますよ。", "kana": "サンパウロには にほんの レストランが たくさん あります。リオにも ありますよ。", "romaji": "Sanpauro ni wa Nihon no resutoran ga takusan arimasu. Rio ni mo arimasu yo.", "pt": "Em São Paulo há muitos restaurantes japoneses. No Rio também há, viu? (には, が de existência, たくさん, にも)" },
+        { "jp": "ははと デパートに いきました。くつと かばんを かいました。", "kana": "ははと デパートに いきました。くつと かばんを かいました。", "romaji": "Haha to depāto ni ikimashita. Kutsu to kaban o kaimashita.", "pt": "Fui à loja de departamentos com a minha mãe. Comprei sapatos e uma bolsa. (と de companhia × と de lista)" }
+      ],
+      "pitfalls": [
+        "で × に: faz algo lá → で (としょかんで よみます); vai até lá → に (としょかんに いきます); algo está lá → に (としょかんに います).",
+        "A partícula vai uma vez só, depois do último item da lista: パンを 水を かいました ✗ → パンと 水を かいました ✓.",
+        "も substitui は, が e を, mas vem depois de に e で: 水をも ✗ → 水も ✓; リオも いきました (fica ambíguo) → リオにも いきました ✓.",
+        "Como partículas, は se lê wa, へ se lê e e を se lê o. E palavra interrogativa nunca leva は: だれは いますか ✗ → だれが いますか ✓."
+      ],
+      "howToStudy": [
+        "Aperte 🔬 no exemplo 1 e diga a função de cada bloco em voz alta, do fim para o começo: predicado → objeto → lugar → companhia → tempo.",
+        "ヅオリンゴー → Treinos → Partículas: 10 min. A cada erro, anote no caderno a pergunta que decide (faz algo lá? vai até lá? está lá?).",
+        "Escreva 3 frases suas com 5 blocos cada (tempo, companhia, lugar, objeto, verbo) e confira a ordem com a estrutura deste ponto."
+      ],
+      "flag": null
+    },
+    {
+      "id": "M-1-e",
+      "title": "Tempo: quando, quanto tempo, com que frequência",
+      "gloss": "com に ou sem に?",
+      "explanation": "Um bloco de TEMPO pode dizer três coisas diferentes, e cada uma tem a sua regra de partícula:\n• **Quando, num ponto fixo**: horário e dia da semana levam **に**: 七時に, 七時半に, 土曜日に (Aula 03-3).\n• **Quando, relativo ou repetido**: **sem に**. いま, きょう, あした, こんばん, きのう, けさ, せんしゅう, きょねん, まいにち, いつ (Aulas 03-3 e 04-2). しゅうまつ, あさ e よる aceitam os dois.\n• **Quanto tempo**: 〜じかん, **sem に**, perto do verbo: にじかん べんきょうしました (Aula 04-3). 二時に = às duas; にじかん = por duas horas.\n• **Com que frequência**: advérbios **sem partícula**, antes do objeto ou do verbo. いつも > よく > ときどき > たまに; e só com verbo negativo: あまり 〜ません, ぜんぜん 〜ません (Aula 03-3).\n• A palavra de tempo pode ganhar は de contraste: きょうは いきません (hoje não; outro dia, sim).\n• O tempo do verbo combina com a palavra de tempo: きのう pede 〜ました; あした pede 〜ます.",
+      "structure": "[horário／dia da semana] に · [きょう／まいにち／きのう…] sem に · [〜じかん] sem に · [いつも／よく／ときどき…] + verbo",
+      "examples": [
+        { "jp": "わたしは まいにち 十一時に ねます。でも、きのうは 一時に ねました。", "kana": "わたしは まいにち じゅういちじに ねます。でも、きのうは いちじに ねました。", "romaji": "Watashi wa mainichi jūichi-ji ni nemasu. Demo, kinō wa ichi-ji ni nemashita.", "pt": "Eu durmo às onze todo dia. Mas ontem dormi à uma. (まいにち e きのう sem に; horário com に)" },
+        { "jp": "日曜日に こうえんで さんじかん テニスを しました。", "kana": "にちようびに こうえんで さんじかん テニスを しました。", "romaji": "Nichiyōbi ni kōen de san-jikan tenisu o shimashita.", "pt": "No domingo joguei tênis no parque por três horas. (日曜日に = quando; さんじかん = quanto tempo)" },
+        { "jp": "よく テレビを みますか。— いいえ、あまり みません。でも、しゅうまつは ときどき えいがを みます。", "kana": "よく テレビを みますか。— いいえ、あまり みません。でも、しゅうまつは ときどき えいがを みます。", "romaji": "Yoku terebi o mimasu ka. — Iie, amari mimasen. Demo, shūmatsu wa tokidoki eiga o mimasu.", "pt": "Você vê TV com frequência? — Não, não muito. Mas nos fins de semana às vezes vejo filmes. (あまり + negativo, ときどき, は de contraste)" }
+      ],
+      "pitfalls": [
+        "きょう, あした, きのう, まいにち e いつ não levam に: きのうに いきました ✗ → きのう いきました ✓.",
+        "A duração não leva に: にじかんに べんきょうしました ✗ → にじかん べんきょうしました ✓. E 二時 (às duas) ≠ にじかん (por duas horas).",
+        "あまり e ぜんぜん pedem verbo negativo: あまり みます ✗ → あまり みません ✓.",
+        "Leituras especiais: 四時 = よじ, 七時 = しちじ, 九時 = くじ; よじかん e くじかん (よんじ ✗, きゅうじ ✗)."
+      ],
+      "howToStudy": [
+        "Conte em voz alta o seu dia de ontem em 4 frases, cada uma com um tipo de tempo: um horário (に), きのう (sem に), uma duração (〜じかん) e um advérbio de frequência.",
+        "Aperte 🔬 no exemplo 2 e ache os dois blocos de TEMPO: um responde \"quando?\" e o outro, \"por quanto tempo?\".",
+        "Se errou algo deste ponto no autoteste, reveja as Aulas 03-3 (4a a 4c) e 04-3 (4d)."
+      ],
+      "flag": null
+    },
+    {
+      "id": "M-1-f",
+      "title": "Existir e onde fica: あります／います",
+      "gloss": "o que tem e onde está",
+      "explanation": "Para dizer que algo **existe** ou **está** num lugar (Aula 04-1):\n• **あります**: coisas, plantas e eventos. **います**: pessoas e animais.\n• Duas ordens, duas perguntas:\n• [lugar] に [X] が あります: responde \"o que tem ali?\". A novidade é X.\n• [X] は [lugar] に あります: responde \"onde fica X?\". A novidade é o lugar. Atalho na conversa: X は [lugar] です.\n• Posição exata: [referência] の + 上 / 下 / 中 / まえ / うしろ / みぎ / ひだり / となり / ちかく + に. Entre duas coisas: A と B の あいだに.\n• Também serve para **ter**: おかねが ありません (não tenho dinheiro), ねこが います (tenho gato).\n• Passado: ありました / いました. Negativo: ありません / いません.\n• **に × で**: に = onde algo ESTÁ; で = onde algo se FAZ. A exceção é o evento, que usa で: うちで パーティーが あります.",
+      "structure": "[lugar] に [X] が あります／います。 · [X] は [lugar] に あります／います。",
+      "examples": [
+        { "jp": "つくえの 上に なにが ありますか。— 本と とけいが あります。", "kana": "つくえの うえに なにが ありますか。— ほんと とけいが あります。", "romaji": "Tsukue no ue ni nani ga arimasu ka. — Hon to tokei ga arimasu.", "pt": "O que tem em cima da mesa? — Tem um livro e um relógio. (の上に, なにが, と de lista)" },
+        { "jp": "ねこは どこですか。— いすの 下に いますよ。きのうは かばんの 中に いました。", "kana": "ねこは どこですか。— いすの したに いますよ。きのうは かばんの なかに いました。", "romaji": "Neko wa doko desu ka. — Isu no shita ni imasu yo. Kinō wa kaban no naka ni imashita.", "pt": "Cadê o gato? — Está embaixo da cadeira, ó. Ontem estava dentro da bolsa. (animal → います, passado いました)" },
+        { "jp": "わたしの うちの ちかくには ぎんこうが ありません。でも、コンビニは たくさん ありますよ。", "kana": "わたしの うちの ちかくには ぎんこうが ありません。でも、コンビニは たくさん ありますよ。", "romaji": "Watashi no uchi no chikaku ni wa ginkō ga arimasen. Demo, konbini wa takusan arimasu yo.", "pt": "Perto da minha casa não tem banco. Mas loja de conveniência tem muitas, viu? (の encadeado, には, は de contraste, たくさん)" }
+      ],
+      "pitfalls": [
+        "Pessoa ou animal com あります: ねこが あります ✗ → ねこが います ✓. Planta é coisa: 木が あります ✓.",
+        "Lugar da existência com で: こうえんで いぬが います ✗ → こうえんに いぬが います ✓.",
+        "Posição na ordem do português: 上の つくえ ✗ (\"a mesa de cima\") → つくえの 上 ✓ (\"em cima da mesa\").",
+        "あそこは ぎんこうです (\"aquilo ali é um banco\") ≠ あそこに ぎんこうが あります (\"ali tem um banco\")."
+      ],
+      "howToStudy": [
+        "Olhe para o seu quarto e diga 5 frases em voz alta: [coisa] の 上／下／中／となりに 〜が あります／います.",
+        "Pergunte e responda sozinho, trocando a ordem: X は どこに ありますか。— 〜に あります。 / 〜に なにが ありますか。— X が あります。",
+        "Aperte 🔬 no exemplo 3 e repare no には (o lugar virou tópico) e no は de contraste em コンビニは."
+      ],
+      "flag": null
+    }
+  ],
+  "media": [
+    { "order": 1, "kind": "app", "title": "genki-companion: Lições 1 a 4, pontos 1-1 a 4-8. Releia cada ponto e confira se todos estão com ✍️; os que você errar no autoteste, releia com calma", "where": "../genki-companion/index.html", "url": "../genki-companion/index.html", "when": "Sessão 1, numa passada rápida antes do autoteste; sessão 2, com calma, só nos pontos que você errou" },
+    { "order": 2, "kind": "video", "title": "Vídeo de revisão das Lições 1 a 4 do Genki I. Se a busca não trouxer um vídeo de revisão, use as aulas da ToKini Andy das lições em que você mais errou", "where": "YouTube · canal ToKini Andy", "url": "", "search": "ToKini Andy Genki Lesson 1-4 review", "when": "Sessão 2: assista só aos trechos dos pontos que você errou" },
+    { "order": 3, "kind": "app", "title": "ヅオリンゴー · Praticar L1, L2, L3 e L4 (conjugação, escuta, compreensão e exercícios no estilo do workbook)", "where": "ヅオリンゴー", "url": "", "when": "Sessão 2, depois de rever as aulas: comece pela lição em que você mais errou" },
+    { "order": 4, "kind": "leitura", "title": "Genki I · Lições 1 a 4: releia só as explicações de gramática dos pontos que você errou no autoteste", "where": "Seu livro Genki I (3ª ed.)", "url": "", "when": "Sessão 2, junto com as aulas indicadas nas 💡" }
+  ],
+  "homework": {
+    "intro": "Duas tarefas no caderno, à mão. Faça a tarefa 1 (autoteste) sem consultar nada: nem as aulas, nem o livro, nem o app. Só depois abra o gabarito, item por item, e marque certo ou errado. Ao lado de cada erro, anote a aula indicada na 💡. A meta é acertar pelo menos 20 dos 25 itens (80%). Na sessão 2, reveja essas aulas e refaça os itens que errou. A tarefa 2 é a apresentação de 1 minuto: escreva, ensaie e grave.",
+    "tasks": [
+      {
+        "id": "h1",
+        "type": "autoteste",
+        "prompt": "Autoteste das Lições 1 a 4 (25 itens). Faça tudo sem consultar e só depois confira.",
+        "items": [
+          { "q": "Partícula · としょかん＿ しゅくだいを しました。", "a": { "jp": "で", "romaji": "de" }, "note": "Lugar onde a AÇÃO acontece → で. Errou? Reveja a Aula 03-2 (ponto 4b)." },
+          { "q": "Partículas (três lacunas) · 土曜日＿ ともだち＿ リオ＿ いきました。", "a": { "jp": "土曜日に ともだちと リオに いきました。", "kana": "どようびに ともだちと リオに いきました。", "romaji": "Doyōbi ni tomodachi to Rio ni ikimashita." }, "note": "土曜日に = quando (dia da semana leva に); ともだちと = com quem; リオに = para onde. Errou? Reveja as Aulas 03-3 (4a), 04-3 (4b) e 03-2 (4c)." },
+          { "q": "Partículas (duas lacunas) · いすの 下＿ いぬ＿ います。", "a": { "jp": "いすの 下に いぬが います。", "kana": "いすの したに いぬが います。", "romaji": "Isu no shita ni inu ga imasu." }, "note": "Lugar onde algo EXISTE → に; o que existe → が. Errou? Reveja a Aula 04-1 (4a e 4c)." },
+          { "q": "Partícula (contraste) · おさけは のみません。おちゃ＿ のみます。", "a": { "jp": "は", "romaji": "wa" }, "note": "Contraste: は no lugar do を. おちゃを também é gramatical, mas perde o contraste. Errou? Reveja a Aula 03-2 (4d)." },
+          { "q": "Partícula (também) · サンパウロで しゃしんを とりました。リオ＿ とりました。", "a": { "jp": "でも", "romaji": "de mo" }, "note": "Com で, a partícula fica e o も vem depois. Errou? Reveja a Aula 04-3 (4c)." },
+          { "q": "Fim de frase · (Vocês dois estão comendo juntos) この ラーメンは おいしいです＿。", "a": { "jp": "ね", "romaji": "ne" }, "note": "Os dois estão provando: você busca concordância → ね. よ seria para dar uma informação que o outro não tem. Errou? Reveja a Aula 02-3 (4c)." },
+          { "q": "Partículas (escreva × onde não vai partícula) · きのう＿ なんじ＿ ねましたか。", "a": { "jp": "きのう なんじに ねましたか。", "romaji": "Kinō nanji ni nemashita ka." }, "note": "きのう entra sem に; なんじ leva に, como qualquer horário. Errou? Reveja a Aula 03-3 (4a e 4b)." },
+          { "q": "Conjugue · のむ → presente negativo educado", "a": { "jp": "のみません", "romaji": "nomimasen" }, "note": "Verbo う: む → み + ません. Errou? Reveja a Aula 03-1 (4b)." },
+          { "q": "Conjugue · かえる → passado afirmativo educado", "a": { "jp": "かえりました", "romaji": "kaerimashita" }, "note": "かえる é verbo う disfarçado: かえります → かえりました (かえました ✗). Errou? Reveja as Aulas 03-1 (4a) e 04-2 (4b)." },
+          { "q": "Conjugue · くる → passado negativo educado", "a": { "jp": "きませんでした", "romaji": "kimasen deshita" }, "note": "Irregular: くる → きます → きませんでした. Errou? Reveja as Aulas 03-1 (4b) e 04-2 (4b)." },
+          { "q": "Conjugue · はいる → presente afirmativo educado", "a": { "jp": "はいります", "romaji": "hairimasu" }, "note": "はいる também é verbo う disfarçado: はいります (はいます ✗). Errou? Reveja a Aula 03-1 (4a)." },
+          { "q": "Transforme em convite · えいがを みます。", "a": { "jp": "えいがを みませんか。", "romaji": "Eiga o mimasen ka." }, "note": "Convite = negativa + か. みますか só pergunta se a pessoa vê filmes. Errou? Reveja a Aula 03-3 (4d)." },
+          { "q": "Passe para o passado negativo · パーティーは 土曜日です。", "a": { "jp": "パーティーは 土曜日じゃなかったです。", "kana": "パーティーは どようびじゃなかったです。", "romaji": "Pātī wa doyōbi ja nakatta desu." }, "note": "Substantivo: じゃなかったです (ou じゃありませんでした). じゃないでした não existe. Errou? Reveja a Aula 04-2 (4a)." },
+          { "q": "Traduza · Eu acordo às sete todo dia.", "a": { "jp": "まいにち 七時に おきます。", "kana": "まいにち しちじに おきます。", "romaji": "Mainichi shichi-ji ni okimasu." }, "note": "まいにち sem に; 七時 com に, lido しちじ. Com わたしは no começo também está certo. Errou? Reveja a Aula 03-3 (4a e 4b)." },
+          { "q": "Traduza · Ao lado da loja de conveniência tem um banco.", "a": { "jp": "コンビニの となりに ぎんこうが あります。", "romaji": "Konbini no tonari ni ginkō ga arimasu." }, "note": "[referência] の [posição] に + X が あります; banco é coisa, então あります. Errou? Reveja a Aula 04-1 (4a e 4c)." },
+          { "q": "Traduza · Ontem estudei japonês por duas horas na biblioteca.", "a": { "jp": "きのう としょかんで にじかん にほんごを べんきょうしました。", "romaji": "Kinō toshokan de ni-jikan nihongo o benkyō shimashita." }, "note": "Duração sem に; lugar da ação com で; passado no fim. Errou? Reveja as Aulas 04-3 (4d) e 03-2 (4e)." },
+          { "q": "Traduza · Este guarda-chuva não é meu. É da Ana.", "a": { "jp": "この かさは わたしのじゃないです。アナさんのです。", "romaji": "Kono kasa wa watashi no ja nai desu. Ana-san no desu." }, "note": "この + substantivo; わたしの = \"meu\", sem repetir かさ; a negação じゃないです fica no fim. Errou? Reveja as Aulas 02-1 (4b e 4d) e 02-3 (4b)." },
+          { "q": "Traduza · Com licença, quanto custa este dicionário? — 3.800 ienes. — Então vou levar este.", "a": { "jp": "すみません、この じしょは いくらですか。— 三千八百円です。— じゃあ、これを ください。", "kana": "すみません、この じしょは いくらですか。— さんぜんはっぴゃくえんです。— じゃあ、これを ください。", "romaji": "Sumimasen, kono jisho wa ikura desu ka. — Sanzen happyaku en desu. — Jā, kore o kudasai." }, "note": "さんぜん e はっぴゃく mudam de som; いくら vai no lugar do preço; para levar, これを ください. Errou? Reveja a Aula 02-2." },
+          { "q": "Traduza · No sábado fui ao parque com a minha família. Tirei muitas fotos.", "a": { "jp": "土曜日に かぞくと こうえんに いきました。しゃしんを たくさん とりました。", "kana": "どようびに かぞくと こうえんに いきました。しゃしんを たくさん とりました。", "romaji": "Doyōbi ni kazoku to kōen ni ikimashita. Shashin o takusan torimashita." }, "note": "と de companhia; たくさん logo antes do verbo; duas frases, porque と não liga verbos. Errou? Reveja as Aulas 04-3 (4b e 4e) e 04-2 (4b)." },
+          { "q": "Responda na negativa, repetindo o verbo · きのう テレビを みましたか。", "a": { "jp": "いいえ、みませんでした。", "romaji": "Iie, mimasen deshita." }, "note": "Pergunta no passado, resposta no passado: いいえ、みません seria \"não vejo\". Errou? Reveja a Aula 04-2 (4b)." },
+          { "q": "Escreva a pergunta que produziria esta resposta · はたちです。", "a": { "jp": "なんさいですか。", "romaji": "Nansai desu ka." }, "note": "はたち = 20 anos. Com gente mais velha, prefira おいくつですか. Errou? Reveja a Aula 01-2 (4c)." },
+          { "q": "Escreva a pergunta, sobre a Ana, que produziria esta resposta · としょかんの 中に います。", "a": { "jp": "アナさんは どこに いますか。", "romaji": "Ana-san wa doko ni imasu ka." }, "note": "Pergunta de ONDE: a pessoa é o tópico (は), どこに vai no lugar da resposta, e pessoa pede います. アナさんは どこですか também serve. Errou? Reveja a Aula 04-1 (4b)." },
+          { "q": "Responda na negativa, usando a palavra entre parênteses · よく えいがを みますか。(あまり)", "a": { "jp": "いいえ、あまり みません。", "romaji": "Iie, amari mimasen." }, "note": "あまり pede verbo negativo. Errou? Reveja a Aula 03-3 (4c)." },
+          { "q": "Recuse o convite com educação · あした いっしょに テニスを しませんか。", "a": { "jp": "すみません、あしたは ちょっと…。", "romaji": "Sumimasen, ashita wa chotto..." }, "note": "A frase fica no ar, e é isso que torna a recusa educada. いいえ、しません soa seco. Errou? Reveja a Aula 03-3 (4d)." },
+          { "q": "Responda com a informação entre parênteses · だれと ひるごはんを たべましたか。(sozinho)", "a": { "jp": "一人で たべました。", "kana": "ひとりで たべました。", "romaji": "Hitori de tabemashita." }, "note": "Sozinho = 一人で, com で (一人と ✗). Errou? Reveja a Aula 04-3 (4b)." }
+        ]
+      },
+      {
+        "id": "h2",
+        "type": "produzir",
+        "prompt": "Apresentação de 1 minuto. Escreva no caderno 10 a 14 frases em 3 partes: (1) quem você é: nome, nacionalidade, o que faz e onde; (2) a sua rotina: 3 ou 4 frases com horário (に), lugar (で ou に), objeto (を) e um advérbio de frequência; (3) o seu último fim de semana: 3 ou 4 frases no passado, com quem (と), quanto tempo (〜じかん) e uma frase com たくさん ou も. Ensaie em voz alta até conseguir falar sem ler, grave e compare com a gravação da Aula 01-1.",
+        "items": [
+          { "q": "Modelo, que o seu texto deve seguir na estrutura e não nas palavras:", "a": { "jp": "はじめまして。わたしの なまえは アナです。ブラジル人です。リオの だいがくの がくせいです。せんこうは れきしです。まいにち 六時半に おきます。あさ うちで コーヒーを のみます。月曜日と 水曜日に としょかんで にほんごを べんきょうします。テレビは あまり みません。せんしゅうの 日曜日に ちちと こうえんに いきました。こうえんに 人が たくさん いました。こうえんの となりの きっさてんで さんじかん はなしました。しゃしんも たくさん とりました。よろしく おねがいします。", "kana": "はじめまして。わたしの なまえは アナです。ブラジルじんです。リオの だいがくの がくせいです。せんこうは れきしです。まいにち ろくじはんに おきます。あさ うちで コーヒーを のみます。げつようびと すいようびに としょかんで にほんごを べんきょうします。テレビは あまり みません。せんしゅうの にちようびに ちちと こうえんに いきました。こうえんに ひとが たくさん いました。こうえんの となりの きっさてんで さんじかん はなしました。しゃしんも たくさん とりました。よろしく おねがいします。", "romaji": "Hajimemashite. Watashi no namae wa Ana desu. Burajirujin desu. Rio no daigaku no gakusei desu. Senkō wa rekishi desu. Mainichi roku-ji han ni okimasu. Asa uchi de kōhī o nomimasu. Getsuyōbi to suiyōbi ni toshokan de nihongo o benkyō shimasu. Terebi wa amari mimasen. Senshū no nichiyōbi ni chichi to kōen ni ikimashita. Kōen ni hito ga takusan imashita. Kōen no tonari no kissaten de san-jikan hanashimashita. Shashin mo takusan torimashita. Yoroshiku onegai shimasu.", "pt": "Muito prazer. Meu nome é Ana. Sou brasileira. Sou estudante de uma faculdade do Rio. Minha área é história. Todo dia acordo às seis e meia. De manhã tomo café em casa. Às segundas e quartas estudo japonês na biblioteca. TV eu não vejo muito. No domingo passado fui ao parque com o meu pai. No parque tinha muita gente. Conversamos por três horas no café ao lado do parque. Também tiramos muitas fotos. Conto com você." }, "note": "Confira: わたしは não se repete em toda frase; horários e dias da semana com に, まいにち e せんしゅう sem に; で para o lugar da ação; o fim de semana todo no passado; 〜じかん sem に; も no lugar do を. Cronometre: em voz alta, deve dar cerca de 1 minuto." }
+        ]
+      }
+    ],
+    "workbook": []
+  },
+  "practice": [
+    { "tool": "Wagotabi", "what": "Sessão mais longa que o normal, caçando TODOS os pontos do bloco: は, が, を, で, に, へ, と e も; です e でした; 〜ます, 〜ました e 〜ませんでした; あります e います; palavras de tempo e de lugar. Para cada frase de diálogo que entender inteira, diga em voz alta a função de cada bloco, começando pelo predicado. Copie 5 frases de pelo menos 3 blocos no caderno. Depois, em Imersão → Jogos, registre a sessão e cole a frase mais longa na Anatomia.", "min": 25 },
+    { "tool": "ヅオリンゴー", "what": "🌊 Tudo: faça todas as revisões do dia antes de começar o marco. Depois, Praticar L1, L2, L3 e L4, uma lição de cada vez, começando pela lição em que você mais errou no autoteste.", "min": 20 },
+    { "tool": "ヅオリンゴー", "what": "Treinos → 🔬 Anatomia → 🧱 Montar de trás pra frente com frases longas, de 4 ou 5 blocos: 10 frases. Depois, em 🔬 Analisar, cole 3 frases da sua apresentação (tarefa 2) e confira se cada bloco tem a função que você queria.", "min": 15 },
+    { "tool": "Fala", "what": "Grave a apresentação de 1 minuto (tarefa 2) sem ler. Depois ouça, uma depois da outra, a gravação da Aula 01-1 e a de hoje. Anote no caderno 3 coisas que você diz hoje e não dizia antes (rotina, passado, onde as coisas estão) e 1 que ainda trava.", "min": 10 },
+    { "tool": "Shadowing", "what": "Toque 🔊 nos exemplos dos 6 pontos de revisão e repita junto 2 vezes. São frases mais longas que as das aulas: respire entre os blocos, nunca no meio deles.", "min": 5 }
+  ],
+  "culture": {
+    "title": "おみやげ: trazer lembrancinhas",
+    "titleJp": "おみやげ",
+    "body": "No Japão, quem viaja costuma voltar com **おみやげ**: lembrancinhas, em geral uma comida típica do lugar visitado, para a família, os amigos e os colegas de trabalho ou de faculdade. O mais comum são caixas de doces embalados um a um, fáceis de dividir no escritório ou na turma. Estações, aeroportos e pontos turísticos têm lojas cheias de おみやげ da região, e muitas cidades são conhecidas por um doce ou um produto próprio. Depois de feriados longos, como a Golden Week e お盆 (Aula 04-2), é comum aparecer uma caixa dessas na mesa do escritório. Em geral, o que conta é o gesto de lembrar das pessoas durante a viagem, mais do que o preço.",
+    "try": "Pense numa viagem ou num passeio seu e conte, em voz alta, em 3 frases no passado: aonde foi, com quem e o que comprou. Por exemplo: せんしゅう かぞくと リオに いきました。おみやげを かいました。 Depois imagine que vai entregar uma lembrancinha do Brasil a um amigo japonês e diga: ブラジルの おみやげです。どうぞ。"
+  },
+  "checklist": [
+    "Acertei pelo menos 80% do autoteste (20 dos 25 itens) sem consultar nada.",
+    "Refiz os itens que errei depois de rever as aulas indicadas nas 💡, e acertei.",
+    "Faço a apresentação de 1 minuto (quem sou, rotina, fim de semana) sem ler, e gravei.",
+    "Comparei a gravação de hoje com a da Aula 01-1 e anotei o que melhorou e o que ainda trava.",
+    "Conjugo qualquer verbo das Lições 3 e 4 nas 4 formas educadas, inclusive かえる, はいる, する e くる, sem olhar.",
+    "Olho qualquer frase do bloco e digo a função de cada partícula (は, が, を, で, に, へ, と, も, の), lendo pelo predicado.",
+    "Digo o que existe num lugar e onde algo está, escolhendo あります ou います e に (existir) ou で (ação) sem hesitar.",
+    "Fiz Praticar L1 a L4 no ヅオリンゴー e uma sessão longa de Wagotabi caçando os pontos do bloco."
+  ]
+}

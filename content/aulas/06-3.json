@@ -59,7 +59,7 @@
       "gc": "6-3",
       "title": "〜てもいいです(か)",
       "gloss": "pode / posso…?",
-      "explanation": "Forma て + **もいいです** = \"pode fazer\", \"tudo bem fazer\". Ao pé da letra: \"mesmo que faça X, está bom\". Com **か** no fim, vira um pedido de permissão: \"**posso…?**\"\n• O predicado é o bloco inteiro do fim, 〜てもいいですか. O que vem antes diz o quê e onde: [ここに] + [すわってもいいですか] = \"aqui\" + \"posso sentar?\".\n• Quem faz a ação é **você mesmo**. Em 〜てください (Aula 06-2), era o outro.\n• Para responder **sim**: **ええ、いいですよ。** ou **はい、どうぞ。** O よ dá o tom de \"pode, sim!\".\n• Para responder **não** com jeito: **すみません、ちょっと…。** É o mesmo ちょっと… da Aula 03-3: a frase fica no ar, e o \"não\" fica subentendido.\n• Sem か, a frase **dá** permissão: この ペンを つかってもいいですよ。 (\"Pode usar esta caneta.\")\n• A Anatomia do Mirage marca esse fim como **PERMISSÃO**.",
+      "explanation": "Forma て + **もいいです** = \"pode fazer\", \"tudo bem fazer\". Ao pé da letra: \"mesmo que faça X, está bom\". Com **か** no fim, vira um pedido de permissão: \"**posso…?**\"\n• O predicado é o bloco inteiro do fim, 〜てもいいですか. O que vem antes diz o quê e onde: [ここに] + [すわってもいいですか] = \"aqui\" + \"posso sentar?\".\n• Quem faz a ação é **você mesmo**. Em 〜てください (Aula 06-2), era o outro.\n• Para responder **sim**: **ええ、いいですよ。** ou **はい、どうぞ。** O よ dá o tom de \"pode, sim!\".\n• Para responder **não** com jeito: **すみません、ちょっと…。** É o mesmo ちょっと… da Aula 03-3: a frase fica no ar, e o \"não\" fica subentendido.\n• Sem か, a frase **dá** permissão: この ペンを つかってもいいですよ。 (\"Pode usar esta caneta.\")\n• A Anatomia do ヅオリンゴー marca esse fim como **PERMISSÃO**.",
       "structure": "[verbo-て] もいいですか。 — ええ、いいですよ。 ／ すみません、ちょっと…。",
       "examples": [
         { "jp": "ここに すわってもいいですか。— ええ、いいですよ。", "kana": "ここに すわってもいいですか。— ええ、いいですよ。", "romaji": "Koko ni suwatte mo ii desu ka. — Ee, ii desu yo.", "pt": "Posso me sentar aqui? — Pode, sim." },
@@ -84,7 +84,7 @@
       "gc": "6-4",
       "title": "〜てはいけません",
       "gloss": "não pode (proibição)",
-      "explanation": "Forma て + **はいけません** = \"não pode\", \"é proibido\". Ao pé da letra: \"fazendo X, não dá\". É o oposto de 〜てもいいです, e a Anatomia do Mirage marca esse fim como **PROIBIÇÃO**.\n• O は aqui é partícula e se lê **wa**: 〜te wa ikemasen.\n• Soa como **regra**: placas, regulamentos, o professor falando com a turma, pais falando com os filhos. O bloco com で costuma dizer **onde** a regra vale: [としょかんで] [でんわを] [かけてはいけません].\n• Para responder \"não\" a um 〜てもいいですか com uma **regra**, use いいえ、〜てはいけません。 Se não for regra, e sim um \"prefiro que não\", fique com すみません、ちょっと….\n• Na fala casual você vai ouvir versões encurtadas (〜ちゃだめ, 〜ちゃいけない). Por enquanto, basta reconhecer.",
+      "explanation": "Forma て + **はいけません** = \"não pode\", \"é proibido\". Ao pé da letra: \"fazendo X, não dá\". É o oposto de 〜てもいいです, e a Anatomia do ヅオリンゴー marca esse fim como **PROIBIÇÃO**.\n• O は aqui é partícula e se lê **wa**: 〜te wa ikemasen.\n• Soa como **regra**: placas, regulamentos, o professor falando com a turma, pais falando com os filhos. O bloco com で costuma dizer **onde** a regra vale: [としょかんで] [でんわを] [かけてはいけません].\n• Para responder \"não\" a um 〜てもいいですか com uma **regra**, use いいえ、〜てはいけません。 Se não for regra, e sim um \"prefiro que não\", fique com すみません、ちょっと….\n• Na fala casual você vai ouvir versões encurtadas (〜ちゃだめ, 〜ちゃいけない). Por enquanto, basta reconhecer.",
       "structure": "[lugar] で [objeto] を [verbo-て] はいけません。",
       "examples": [
         { "jp": "としょかんで でんわを かけてはいけません。", "kana": "としょかんで でんわを かけてはいけません。", "romaji": "Toshokan de denwa o kakete wa ikemasen.", "pt": "Não pode fazer ligações na biblioteca." },
@@ -166,8 +166,8 @@
   },
   "practice": [
     { "tool": "Wagotabi", "what": "Jogue normalmente e cace frases que terminam em いいです(か) ou いけません. Anote quem pede, quem permite e o que é proibido. Se o trecho do jogo não tiver nenhuma, invente em voz alta 2 regras para o lugar onde o seu personagem está (〜てはいけません).", "min": 15 },
-    { "tool": "Mirage", "what": "Vocabulário da Lição 6 no SRS. Depois, Treinos → 🔬 Anatomia → 🏷 Etiquetar: 5 frases desta aula, dizendo antes de conferir se o fim é PEDIDO, PERMISSÃO ou PROIBIÇÃO.", "min": 10 },
-    { "tool": "Mineração", "what": "Guarde na Mineração do Mirage 2 frases reais com 〜てもいい ou 〜てはいけません que você encontrar no jogo ou num vídeo, para virarem cartões.", "min": 5 },
+    { "tool": "ヅオリンゴー", "what": "Vocabulário da Lição 6 no SRS. Depois, Treinos → 🔬 Anatomia → 🏷 Etiquetar: 5 frases desta aula, dizendo antes de conferir se o fim é PEDIDO, PERMISSÃO ou PROIBIÇÃO.", "min": 10 },
+    { "tool": "Mineração", "what": "Guarde na Mineração do ヅオリンゴー 2 frases reais com 〜てもいい ou 〜てはいけません que você encontrar no jogo ou num vídeo, para virarem cartões.", "min": 5 },
     { "tool": "Fala", "what": "Role-play sozinho: você é o dono da casa e o hóspede. Grave 4 trocas de pergunta e resposta, usando as duas respostas (いいですよ / ちょっと…).", "min": 5 },
     { "tool": "Shadowing", "what": "Toque 🔊 nos exemplos e repita junto 3 vezes. Repare que ちょっと… termina com a voz sumindo: imite isso.", "min": 5 }
   ],

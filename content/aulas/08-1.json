@@ -73,7 +73,7 @@
       ],
       "howToStudy": [
         "Pegue 10 verbos das Lições 3–7 e diga em voz alta as três formas: ます → dicionário → ない (飲みます → 飲む → 飲まない). No caderno, separe em três colunas: る, う e irregular.",
-        "No Mirage, faça Treinos → Conjugação com os verbos já vistos, prestando atenção aos que terminam em う (かう, あう, いう).",
+        "No ヅオリンゴー, faça Treinos → Conjugação com os verbos já vistos, prestando atenção aos que terminam em う (かう, あう, いう).",
         "Aperte 🔬 no exemplo do Pedro: 飲まない continua sendo o PREDICADO, e おさけを continua sendo o OBJETO. Só a forma do verbo mudou."
       ],
       "flag": null
@@ -191,7 +191,7 @@
   },
   "practice": [
     { "tool": "Wagotabi", "what": "Jogue normalmente e fique de olho nas falas que terminam sem です / ます (verbo no dicionário, ない, うん / ううん, pergunta sem か). Copie 2 delas no caderno e escreva ao lado a versão educada.", "min": 15 },
-    { "tool": "Mirage", "what": "Praticar L8 (conjugação das formas curtas) e Treinos → Conjugação. Depois, Vocabulário/SRS da Lição 8.", "min": 15 },
+    { "tool": "ヅオリンゴー", "what": "Praticar L8 (conjugação das formas curtas) e Treinos → Conjugação. Depois, Vocabulário/SRS da Lição 8.", "min": 15 },
     { "tool": "Shadowing", "what": "Toque 🔊 nos diálogos do ponto 4c e repita junto 3 vezes, com a mesma entonação: a voz sobe no fim da pergunta, sem か.", "min": 5 },
     { "tool": "Fala", "what": "Grave a mensagem da lição de casa (h4) como se fosse um áudio para um amigo, em até 30 s. Ouça e confira se não escapou nenhum です.", "min": 5 }
   ],

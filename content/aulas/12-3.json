@@ -65,7 +65,7 @@
       "gc": "12-5",
       "title": "〜なければいけません / 〜なきゃ",
       "gloss": "tenho que…, preciso…",
-      "explanation": "Para dizer que você **tem que** fazer algo, o japonês usa uma dupla negação: \"**se não** fizer, **não dá**\". なければ = \"se não…\"; いけません = \"não pode, não dá\", o mesmo いけません de 〜ては いけません (Aula 06-3). Juntando os dois: tem que.\n• Formação: pegue a **forma ない** e troque o い final por **ければ**. 行かない → 行かなければ; 食べない → 食べなければ; しない → しなければ; 来ない → 来なければ (こなければ). Depois acrescente いけません ou なりません.\n• Os verbos em う fazem o ない com わ: 使う → 使わない → 使わなければいけません.\n• **いけません × なりません**: o sentido é praticamente o mesmo. なりません soa um pouco mais formal e aparece mais em **regras** e textos escritos; na conversa, いけません é mais comum.\n• **Passado** (\"tive que\"): só o fim muda. 行かなければいけませんでした.\n• **Casual**: 〜なければいけない / 〜なければならない. Na fala do dia a dia entram as contrações **〜なきゃ** (de なければ) e **〜なくちゃ** (de 〜なくては, outra forma com o mesmo sentido): 行かなきゃ いけない, 行かなくちゃ. Muitas vezes o resto cai e a frase termina ali: 行かなきゃ。 (\"tenho que ir!\"). Use com amigos, não com o professor.\n• Na frase, 起きなければいけません é **um bloco só**, e é o predicado. A Anatomia do Mirage lê esse bloco como **PREDICADO de obrigação**. Ache-o no fim e leia primeiro: tenho que → o quê? → acordar → quando? → às seis.",
+      "explanation": "Para dizer que você **tem que** fazer algo, o japonês usa uma dupla negação: \"**se não** fizer, **não dá**\". なければ = \"se não…\"; いけません = \"não pode, não dá\", o mesmo いけません de 〜ては いけません (Aula 06-3). Juntando os dois: tem que.\n• Formação: pegue a **forma ない** e troque o い final por **ければ**. 行かない → 行かなければ; 食べない → 食べなければ; しない → しなければ; 来ない → 来なければ (こなければ). Depois acrescente いけません ou なりません.\n• Os verbos em う fazem o ない com わ: 使う → 使わない → 使わなければいけません.\n• **いけません × なりません**: o sentido é praticamente o mesmo. なりません soa um pouco mais formal e aparece mais em **regras** e textos escritos; na conversa, いけません é mais comum.\n• **Passado** (\"tive que\"): só o fim muda. 行かなければいけませんでした.\n• **Casual**: 〜なければいけない / 〜なければならない. Na fala do dia a dia entram as contrações **〜なきゃ** (de なければ) e **〜なくちゃ** (de 〜なくては, outra forma com o mesmo sentido): 行かなきゃ いけない, 行かなくちゃ. Muitas vezes o resto cai e a frase termina ali: 行かなきゃ。 (\"tenho que ir!\"). Use com amigos, não com o professor.\n• Na frase, 起きなければいけません é **um bloco só**, e é o predicado. A Anatomia do ヅオリンゴー lê esse bloco como **PREDICADO de obrigação**. Ache-o no fim e leia primeiro: tenho que → o quê? → acordar → quando? → às seis.",
       "structure": "[forma ない sem o い] + ければ いけません / なりません · casual: 〜なきゃ / 〜なくちゃ",
       "examples": [
         { "jp": "毎朝 六時に 起きなければいけません。", "kana": "まいあさ ろくじに おきなければいけません。", "romaji": "Maiasa rokuji ni okinakereba ikemasen.", "pt": "Toda manhã eu tenho que acordar às seis." },
@@ -171,14 +171,14 @@
       { "p": 116, "t": "6 · ～でしょうか", "tip": "Faça depois do ponto 4b." },
       { "p": 117, "t": "7 · 答えましょう (Questions)", "tip": "Revisão da Lição 12 inteira: faça na sessão 2, depois das Aulas 12-1 a 12-3." },
       { "p": 118, "t": "8 · 聞く練習 (Listening Comprehension)", "tip": "Precisa do áudio do Workbook. Faça na sessão 2 e confira no Genki Answer Key oficial." },
-      { "p": 151, "t": "Kanji Practice", "tip": "Kanji da Lição 12. Antes, treine a ordem dos traços em Kanji → ✍️ Escrever no Mirage." },
+      { "p": 151, "t": "Kanji Practice", "tip": "Kanji da Lição 12. Antes, treine a ordem dos traços em Kanji → ✍️ Escrever no ヅオリンゴー." },
       { "p": 152, "t": "Using Kanji", "tip": "Faça depois da página 151 e confira no Genki Answer Key oficial." }
     ]
   },
   "practice": [
     { "tool": "Wagotabi", "what": "Jogue normalmente e cace obrigações e suposições nos diálogos: 〜なければ, 〜なきゃ, 〜なくちゃ, 〜でしょう, 〜だろう. Quando achar uma, pause e diga em voz alta se é \"tem que\" ou \"provavelmente\". Registre a sessão em Imersão → Jogos e cole uma dessas frases na 🔬 Anatomia.", "min": 15 },
-    { "tool": "Mirage", "what": "Vocabulário da Lição 12 no SRS (o baralho \"🌊 Tudo\" junta as revisões do dia) e Praticar L12, agora com a lição inteira. Depois, Treinos → 🔬 Anatomia → 🧱 Montar de trás pra frente: 5 frases, começando pelo bloco de obrigação ou pelo でしょう.", "min": 15 },
-    { "tool": "Mirage · Kanji", "what": "Kanji → ✍️ Escrever: os kanji da Lição 12 (昔, 神, 早, 起, 牛, 使, 働, 連, 別, 度, 赤, 青, 色), antes das páginas 151–152 do Workbook.", "min": 10 },
+    { "tool": "ヅオリンゴー", "what": "Vocabulário da Lição 12 no SRS (o baralho \"🌊 Tudo\" junta as revisões do dia) e Praticar L12, agora com a lição inteira. Depois, Treinos → 🔬 Anatomia → 🧱 Montar de trás pra frente: 5 frases, começando pelo bloco de obrigação ou pelo でしょう.", "min": 15 },
+    { "tool": "ヅオリンゴー · Kanji", "what": "Kanji → ✍️ Escrever: os kanji da Lição 12 (昔, 神, 早, 起, 牛, 使, 働, 連, 別, 度, 赤, 青, 色), antes das páginas 151–152 do Workbook.", "min": 10 },
     { "tool": "Shadowing", "what": "Toque 🔊 em cada exemplo desta aula e repita junto 3 vezes. Compare os exemplos de でしょう: em くもりでしょう a voz desce no fim (é só suposição); em いいでしょうか ela sobe de leve no か (é pergunta). Depois diga おいしいでしょう↗ subindo a voz, para sentir o \"…né?\".", "min": 5 },
     { "tool": "Fala", "what": "Grave a mensagem de 連絡 (lição de casa h4) como se fosse um recado de voz para o chefe, em até 30 s.", "min": 5 }
   ],

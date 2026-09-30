@@ -216,14 +216,14 @@
       { "p": 84, "t": "7 · が・何か and 何も", "tip": "Faça depois dos pontos 4c e 4d." },
       { "p": 85, "t": "8 · 答えましょう (Questions)", "tip": "Revisão da Lição 8 inteira, com perguntas pessoais: faça depois das Aulas 08-1 a 08-3." },
       { "p": 86, "t": "9 · 聞く練習 (Listening Comprehension)", "tip": "Precisa do áudio do Workbook. Faça por último, depois das três aulas." },
-      { "p": 143, "t": "Kanji Practice", "tip": "Os 14 kanji da Lição 8 (員新聞作仕事電車休言読思次何). Treine antes no ✍️ Escrever do Mirage." },
+      { "p": 143, "t": "Kanji Practice", "tip": "Os 14 kanji da Lição 8 (員新聞作仕事電車休言読思次何). Treine antes no ✍️ Escrever do ヅオリンゴー." },
       { "p": 144, "t": "Using Kanji", "tip": "Depois da página 143. Confira no Genki Answer Key oficial." }
     ]
   },
   "practice": [
-    { "tool": "Wagotabi", "what": "Jogue normalmente e cace 何か, 何も, だれか, だれも ou uma pergunta com だれが / 何が. Quando achar um 何も ou だれも, confira se o verbo do fim está no negativo. Registre a sessão em Imersão → Jogos no Mirage e cole uma dessas frases na Anatomia.", "min": 15 },
-    { "tool": "Mirage", "what": "Vocabulário/SRS da Lição 8 e Praticar L8. Depois, Treinos → 🔬 Anatomia → 🧱 Montar de trás pra frente com 3 frases desta aula.", "min": 15 },
-    { "tool": "Kanji", "what": "Mirage → Kanji → ✍️ Escrever: os 14 kanji da Lição 8 (員新聞作仕事電車休言読思次何), com a ordem dos traços, antes das páginas 143–144 do Workbook.", "min": 10 },
+    { "tool": "Wagotabi", "what": "Jogue normalmente e cace 何か, 何も, だれか, だれも ou uma pergunta com だれが / 何が. Quando achar um 何も ou だれも, confira se o verbo do fim está no negativo. Registre a sessão em Imersão → Jogos no ヅオリンゴー e cole uma dessas frases na Anatomia.", "min": 15 },
+    { "tool": "ヅオリンゴー", "what": "Vocabulário/SRS da Lição 8 e Praticar L8. Depois, Treinos → 🔬 Anatomia → 🧱 Montar de trás pra frente com 3 frases desta aula.", "min": 15 },
+    { "tool": "Kanji", "what": "ヅオリンゴー → Kanji → ✍️ Escrever: os 14 kanji da Lição 8 (員新聞作仕事電車休言読思次何), com a ordem dos traços, antes das páginas 143–144 do Workbook.", "min": 10 },
     { "tool": "Shadowing", "what": "Toque 🔊 nos diálogos do ponto 4d e repita pergunta e resposta 3 vezes cada, imitando o ritmo.", "min": 5 },
     { "tool": "Fala", "what": "Grave 30 s falando do que você gosta e não gosta de fazer, usando a lição de casa h4 como roteiro.", "min": 5 }
   ],

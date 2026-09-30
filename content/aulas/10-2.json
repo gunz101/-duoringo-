@@ -52,7 +52,8 @@
       { "jp": "新しい", "kana": "あたらしい", "romaji": "atarashii", "pt": "novo" },
       { "jp": "古い", "kana": "ふるい", "romaji": "furui", "pt": "velho (coisa, não pessoa)" },
       { "jp": "じょうぶ(な)", "kana": "じょうぶ(な)", "romaji": "jōbu (na)", "pt": "resistente, durável; saudável" },
-      { "jp": "おみやげ", "kana": "おみやげ", "romaji": "omiyage", "pt": "lembrancinha de viagem" }
+      { "jp": "おみやげ", "kana": "おみやげ", "romaji": "omiyage", "pt": "lembrancinha de viagem" },
+      { "jp": "はたらく", "kana": "はたらく", "romaji": "hataraku", "pt": "trabalhar" }
     ]
   },
   "grammar": [
@@ -86,10 +87,10 @@
       "gc": "10-4",
       "title": "〜つもりです",
       "gloss": "pretendo…, tenho a intenção de…",
-      "explanation": "**つもり** quer dizer \"intenção\". Ele entra depois de um verbo na **forma curta do presente** (Aula 08-1), e o conjunto vira o **predicado**: \"pretendo…\".\n• Afirmativo: forma de dicionário + つもりです: 行く つもりです (\"pretendo ir\").\n• Negativo, \"pretendo NÃO…\": forma ない + つもりです: 行かない つもりです.\n• Na fala casual, つもりです vira つもりだ ou só つもり.\n• No passado, 〜つもりでした = \"eu pretendia…\", muitas vezes com a ideia de que acabou não acontecendo.\nLeia pelo fim: 〜つもりです é o predicado, e tudo o que vem antes descreve o plano (quando, onde, o quê).\n• A forma 〜ます já serve para o futuro (\"vou…\"). つもり acrescenta a ideia de **intenção pessoal**: algo que você decidiu fazer.\n• よてい, a palavra do título da Lição 10 (ふゆやすみの よてい), é a programação, o que está marcado na agenda. つもり é a sua intenção.\n• Para perguntar dos planos de alguém: 〜は なにを する つもりですか。 Para contar o plano de outra pessoa, é comum citar o que ela disse: 〜つもりだと 言っていました (Aula 08-2).",
+      "explanation": "**つもり** quer dizer \"intenção\". Ele entra depois de um verbo na **forma curta do presente** (Aula 08-1), e o conjunto vira o **predicado**: \"pretendo…\".\n• Afirmativo: forma de dicionário + つもりです: 行く つもりです (\"pretendo ir\").\n• Negativo, \"pretendo NÃO…\": forma ない + つもりです: 行かない つもりです.\n• Na fala casual, つもりです vira つもりだ ou só つもり.\n• No passado, 〜つもりでした = \"eu pretendia…\", muitas vezes com a ideia de que acabou não acontecendo.\nLeia pelo fim: 〜つもりです é o predicado, e tudo o que vem antes descreve o plano (quando, onde, o quê). Por dentro, つもり é um substantivo, e o verbo na forma curta o descreve, como nas frases da Aula 09-2 (きのう みた えいが): 行く つもり = \"a intenção de ir\".\n• A forma 〜ます já serve para o futuro (\"vou…\"). つもり acrescenta a ideia de **intenção pessoal**: algo que você decidiu fazer.\n• よてい, a palavra do título da Lição 10 (ふゆやすみの よてい), é a programação, o que está marcado na agenda. つもり é a sua intenção.\n• Para perguntar dos planos de alguém: 〜は なにを する つもりですか。 Para contar o plano de outra pessoa, é comum citar o que ela disse: 〜つもりだと 言っていました (Aula 08-2).",
       "structure": "[verbo na forma de dicionário] つもりです · [verbo na forma ない] つもりです",
       "examples": [
-        { "jp": "来年 日本で 日本語を べんきょうする つもりです。", "kana": "らいねん にほんで にほんごを べんきょうする つもりです。", "romaji": "Rainen Nihon de nihongo o benkyō suru tsumori desu.", "pt": "Ano que vem, pretendo estudar japonês no Japão." },
+        { "jp": "来年 日本で はたらく つもりです。", "kana": "らいねん にほんで はたらく つもりです。", "romaji": "Rainen Nihon de hataraku tsumori desu.", "pt": "Ano que vem, pretendo trabalhar no Japão." },
         { "jp": "今夜は おさけを 飲まない つもりです。あした しけんが ありますから。", "kana": "こんやは おさけを のまない つもりです。あした しけんが ありますから。", "romaji": "Kon'ya wa osake o nomanai tsumori desu. Ashita shiken ga arimasu kara.", "pt": "Hoje à noite pretendo não beber. É que amanhã tenho prova." },
         { "jp": "アナさん、ふゆやすみは 何を する つもり？— ブラジルに 帰る つもり。", "kana": "アナさん、ふゆやすみは なにを する つもり？— ブラジルに かえる つもり。", "romaji": "Ana-san, fuyuyasumi wa nani o suru tsumori? — Burajiru ni kaeru tsumori.", "pt": "Ana, o que você pretende fazer nas férias de inverno? — Pretendo voltar para o Brasil. (casual)" }
       ],
@@ -101,7 +102,7 @@
       ],
       "howToStudy": [
         "Liste no caderno 5 planos seus (férias, próximo ano, estudo de japonês): 3 com a forma de dicionário e 2 com ない つもりです.",
-        "Aperte 🔬 em 今夜は おさけを 飲まない つもりです。: o PREDICADO é 飲まない つもりです, e a Anatomia marca o tipo como intenção. おさけを é o OBJETO de 飲む: faz parte do plano.",
+        "Aperte 🔬 em 今夜は おさけを 飲まない つもりです。: つもりです aparece como PREDICADO, do tipo intenção, e 飲まない como DESCREVE O PRÓXIMO, porque o verbo descreve a つもり. おさけを é o OBJETO de 飲まない: tudo isso é o plano.",
         "Fala: pergunte a si mesmo しゅうまつは なにを する つもりですか。 e 来年は なにを する つもりですか。 e responda em voz alta, gravando."
       ],
       "flag": null
@@ -169,8 +170,8 @@
   },
   "practice": [
     { "tool": "Wagotabi", "what": "Jogue normalmente e cace dois padrões: um adjetivo seguido de の sem substantivo depois (〜いの, 〜なの) e つもり no fim de uma fala. Quando achar, pause e diga que substantivo o の está substituindo, ou qual é o plano. Registre em Imersão → Jogos e cole a frase na Anatomia.", "min": 15 },
-    { "tool": "Mirage", "what": "Diário: escreva 3 planos seus com つもり (um deles negativo) e abra \"Anatomia do que escrevi\" para conferir se o PREDICADO saiu como intenção.", "min": 10 },
-    { "tool": "Mirage", "what": "Vocabulário da Lição 10 no SRS e uma rodada de Treinos → Conjugação, com atenção à forma ない: é ela que vai antes de ない つもり.", "min": 10 },
+    { "tool": "ヅオリンゴー", "what": "Diário: escreva 3 planos seus com つもり (um deles negativo) e abra \"Anatomia do que escrevi\" para conferir se o PREDICADO saiu como intenção.", "min": 10 },
+    { "tool": "ヅオリンゴー", "what": "Vocabulário da Lição 10 no SRS e uma rodada de Treinos → Conjugação, com atenção à forma ない: é ela que vai antes de ない つもり.", "min": 10 },
     { "tool": "Shadowing", "what": "Toque 🔊 nos exemplos desta aula e repita junto 3 vezes. No exemplo do pão, faça bem a pausa entre as duas frases.", "min": 5 },
     { "tool": "Fala", "what": "Imagine uma loja com três camisetas iguais de cores diferentes. Grave um mini-diálogo em que você nunca repete a palavra シャツ: 〜のは いくらですか, 〜のと 〜のと どちらが いいですか, 〜のを ください.", "min": 5 }
   ],

@@ -1,6 +1,6 @@
 {
   "version": "1.0.0",
-  "title": "Curso de Japonês Mirage",
+  "title": "Curso de Japonês ヅオリンゴー",
   "titleJp": "日本語コース",
   "tagline": "Do kana ao N3, por marcos de domínio: sem datas, sem prazo.",
   "units": [
@@ -1300,8 +1300,8 @@
         "short": "Revisão",
         "core": true,
         "min": "15–20 min",
-        "what": "Faça todas as revisões do dia no Mirage (🌊 Tudo: vocabulário, gramática, kana e kanji juntos).",
-        "tools": "Mirage → 🌊 Tudo · se ainda estiver no kana: Trilha de Kana"
+        "what": "Faça todas as revisões do dia no ヅオリンゴー (🌊 Tudo: vocabulário, gramática, kana e kanji juntos).",
+        "tools": "ヅオリンゴー → 🌊 Tudo · se ainda estiver no kana: Trilha de Kana"
       },
       {
         "key": "aula",
@@ -1318,8 +1318,8 @@
         "short": "Prática",
         "core": false,
         "min": "10–15 min",
-        "what": "Escolha uma: a lição de casa da aula (bloco 7), 🔬 Anatomia → Montar de trás pra frente, ou 3 frases suas no Diário do Mirage.",
-        "tools": "Caderno · Mirage → Treinos / Diário"
+        "what": "Escolha uma: a lição de casa da aula (bloco 7), 🔬 Anatomia → Montar de trás pra frente, ou 3 frases suas no Diário do ヅオリンゴー.",
+        "tools": "Caderno · ヅオリンゴー → Treinos / Diário"
       },
       {
         "key": "imm",
@@ -1334,7 +1334,7 @@
     "minimum": "Nos dias corridos, faça só a Revisão (🌊 Tudo) e escreva 1 frase no Diário, uns 15 minutos. Isso já conta e é o que impede o esquecimento.",
     "cycle": {
       "title": "O ciclo de uma aula (em geral, 3 sessões)",
-      "body": "**Sessão 1 · entender:** blocos 1–4 da aula (objetivos, vocabulário, gramática com exemplos em voz alta e 🔬) e o vídeo do bloco 6.\n**Sessão 2 · fixar:** lição de casa no caderno (bloco 7), conferindo o gabarito item por item, e as páginas do Workbook.\n**Sessão 3 · usar:** prática em casa (bloco 8: Wagotabi, Mirage, shadowing, gravar-se) e o checklist (bloco 10).\n• Se algum item do checklist não fechar, faça mais uma sessão só de revisão desse ponto. É o ritmo normal de quem aprende de verdade, não é atraso.\n• Ao terminar uma lição inteira do Genki, faça a prática Praticar L# do Mirage dessa lição antes de seguir."
+      "body": "**Sessão 1 · entender:** blocos 1–4 da aula (objetivos, vocabulário, gramática com exemplos em voz alta e 🔬) e o vídeo do bloco 6.\n**Sessão 2 · fixar:** lição de casa no caderno (bloco 7), conferindo o gabarito item por item, e as páginas do Workbook.\n**Sessão 3 · usar:** prática em casa (bloco 8: Wagotabi, ヅオリンゴー, shadowing, gravar-se) e o checklist (bloco 10).\n• Se algum item do checklist não fechar, faça mais uma sessão só de revisão desse ponto. É o ritmo normal de quem aprende de verdade, não é atraso.\n• Ao terminar uma lição inteira do Genki, faça a prática Praticar L# do ヅオリンゴー dessa lição antes de seguir."
     },
     "week": {
       "title": "Uma semana-modelo (adapte à vontade)",
@@ -1353,11 +1353,11 @@
       },
       {
         "title": "Como estudar cada aula",
-        "body": "• **Leia pelo fim.** Em japonês o predicado (verbo, adjetivo ou です) vem no final e manda na frase. Leia o fim primeiro e depois pergunte: quem? o quê? onde? quando? Cada partícula responde a uma dessas perguntas, e o 🔬 de cada exemplo mostra isso colorido.\n• **Voz alta, sempre.** Leia os exemplos em voz alta e toque 🔊 para comparar.\n• **Caderno à mão.** A lição de casa é para escrever, não só para pensar. Errar no caderno é o que fixa.\n• **Gabarito item por item.** Não abra tudo de uma vez. Circule o erro, entenda o porquê pela 💡 e refaça no dia seguinte.\n• **✍️ e 📱.** Marque ✍️ quando entender um ponto e 📱 quando praticá-lo fora do curso (Wagotabi, Mirage, conversa). Use 📝 para suas notas."
+        "body": "• **Leia pelo fim.** Em japonês o predicado (verbo, adjetivo ou です) vem no final e manda na frase. Leia o fim primeiro e depois pergunte: quem? o quê? onde? quando? Cada partícula responde a uma dessas perguntas, e o 🔬 de cada exemplo mostra isso colorido.\n• **Voz alta, sempre.** Leia os exemplos em voz alta e toque 🔊 para comparar.\n• **Caderno à mão.** A lição de casa é para escrever, não só para pensar. Errar no caderno é o que fixa.\n• **Gabarito item por item.** Não abra tudo de uma vez. Circule o erro, entenda o porquê pela 💡 e refaça no dia seguinte.\n• **✍️ e 📱.** Marque ✍️ quando entender um ponto e 📱 quando praticá-lo fora do curso (Wagotabi, ヅオリンゴー, conversa). Use 📝 para suas notas."
       },
       {
         "title": "O papel de cada ferramenta",
-        "body": "• **Este curso:** diz o que estudar agora e como. É o mapa.\n• **Genki I/II (livro):** explicações, diálogos e exercícios do livro. É a leitura principal de cada lição.\n• **Genki Workbook:** exercícios. Cada aula diz quais páginas fazer, e você confere no Answer Key oficial.\n• **Mirage:** revisão espaçada (🌊 Tudo), Praticar L#, Treinos (conjugação, números, partículas, 🔬 Anatomia), Kana, Kanji, Diário e Imersão.\n• **Wagotabi:** imersão em forma de jogo, ordenada por JLPT. Cada aula sugere o que caçar nos diálogos.\n• **genki-companion:** checklist dos 77 pontos do Genki I. Dá para importar as marcações dele na aba Progresso.\n• **kana-flow / kana-speed-trainer:** fluência e velocidade no kana, enquanto a leitura ainda estiver lenta.\n• **rotina-japones:** o tracker antigo. A aba **Rotina** deste app faz o mesmo papel, já ligada à sua aula atual."
+        "body": "• **Este curso:** diz o que estudar agora e como. É o mapa.\n• **Genki I/II (livro):** explicações, diálogos e exercícios do livro. É a leitura principal de cada lição.\n• **Genki Workbook:** exercícios. Cada aula diz quais páginas fazer, e você confere no Answer Key oficial.\n• **ヅオリンゴー:** revisão espaçada (🌊 Tudo), Praticar L#, Treinos (conjugação, números, partículas, 🔬 Anatomia), Kana, Kanji, Diário e Imersão.\n• **Wagotabi:** imersão em forma de jogo, ordenada por JLPT. Cada aula sugere o que caçar nos diálogos.\n• **genki-companion:** checklist dos 77 pontos do Genki I. Dá para importar as marcações dele na aba Progresso.\n• **kana-flow / kana-speed-trainer:** fluência e velocidade no kana, enquanto a leitura ainda estiver lenta.\n• **rotina-japones:** o tracker antigo. A aba **Rotina** deste app faz o mesmo papel, já ligada à sua aula atual."
       },
       {
         "title": "Regras de ouro",
@@ -1365,7 +1365,7 @@
       },
       {
         "title": "Quando travar",
-        "body": "• **Me perco na frase:** 🔬 Anatomia → Montar de trás pra frente (Mirage) e o 🔬 nos exemplos da aula.\n• **Esqueço vocabulário:** confira se as revisões (🌊 Tudo) estão em dia. Menos palavras novas por dia, mais revisão.\n• **Conjugação não sai:** Mirage → Treinos → Conjugação, 5 minutos por dia, até sair sem pensar.\n• **Não entendo o áudio:** shadowing dos exemplos (🔊): ouça, repita junto e repita de novo.\n• **Sem motivação:** uma aula da Trilha Viagem, Wagotabi ou algo da aba Recursos. Mudar de ângulo também é estudar."
+        "body": "• **Me perco na frase:** 🔬 Anatomia → Montar de trás pra frente (ヅオリンゴー) e o 🔬 nos exemplos da aula.\n• **Esqueço vocabulário:** confira se as revisões (🌊 Tudo) estão em dia. Menos palavras novas por dia, mais revisão.\n• **Conjugação não sai:** ヅオリンゴー → Treinos → Conjugação, 5 minutos por dia, até sair sem pensar.\n• **Não entendo o áudio:** shadowing dos exemplos (🔊): ouça, repita junto e repita de novo.\n• **Sem motivação:** uma aula da Trilha Viagem, Wagotabi ou algo da aba Recursos. Mudar de ângulo também é estudar."
       },
       {
         "title": "Depois do curso",

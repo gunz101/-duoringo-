@@ -103,7 +103,7 @@
       "howToStudy": [
         "No caderno, conjugue os 14 verbos do vocabulário em duas colunas (ます / ません). Depois cubra as colunas e refaça de memória.",
         "Fala: faça a você mesmo 5 perguntas com 〜ますか sobre a sua rotina e responda em voz alta, repetindo o verbo (はい、〜ます / いいえ、〜ません).",
-        "Mirage → Treinos → Conjugação com os verbos da Lição 3. Depois, 🔬 Anatomia → 🏷 Etiquetar em 3 frases desta aula, achando primeiro o ★ PREDICADO."
+        "ヅオリンゴー → Treinos → Conjugação com os verbos da Lição 3. Depois, 🔬 Anatomia → 🏷 Etiquetar em 3 frases desta aula, achando primeiro o ★ PREDICADO."
       ],
       "flag": null
     }
@@ -169,8 +169,8 @@
   },
   "practice": [
     { "tool": "Wagotabi", "what": "Jogue normalmente. Cace nos diálogos verbos terminados em 〜ます ou 〜ません: anote 5 no caderno e escreva ao lado a forma de dicionário e o grupo (る, う ou irregular). Se não souber a forma de dicionário, deixe um ? e confira depois no vocabulário.", "min": 15 },
-    { "tool": "Mirage", "what": "Praticar L3 → conjugação. Depois, Vocabulário/SRS com as palavras da Lição 3.", "min": 10 },
-    { "tool": "Mirage", "what": "Diário: escreva 3 frases com 〜ません sobre coisas que você não faz e use \"Anatomia do que escrevi\" para ver se o verbo ficou no fim.", "min": 5 },
+    { "tool": "ヅオリンゴー", "what": "Praticar L3 → conjugação. Depois, Vocabulário/SRS com as palavras da Lição 3.", "min": 10 },
+    { "tool": "ヅオリンゴー", "what": "Diário: escreva 3 frases com 〜ません sobre coisas que você não faz e use \"Anatomia do que escrevi\" para ver se o verbo ficou no fim.", "min": 5 },
     { "tool": "Shadowing", "what": "Toque 🔊 em cada exemplo desta aula e repita junto 3 vezes. Repare que o u de ます costuma soar quase mudo: たべます soa perto de \"tabemas\".", "min": 5 },
     { "tool": "Fala", "what": "Grave 1 minuto contando um dia típico só com verbos da aula em 〜ます (おきます … たべます … いきます … かえります … ねます). Não se preocupe com as partículas ainda.", "min": 5 }
   ],

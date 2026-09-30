@@ -1,4 +1,4 @@
-# Curso de Japonês Mirage · 日本語コース
+# Curso de Japonês ヅオリンゴー · 日本語コース
 
 Curso completo de japonês para quem fala português, organizado em marcos de domínio e sem datas.
 
@@ -25,7 +25,7 @@ O progresso fica salvo no navegador (localStorage, chave `curso_jp_v1`). Para fa
 | `content/recursos.json` | Recursos externos por nível. |
 | `content/AUTORIA.md` | Regras para escrever aulas. |
 | `tools/check.js` | Critérios de aceitação: estrutura, romaji × kana, gabarito, datas, kanji por lição. |
-| `tools/build.js` | Check + anatomia das frases (motor do Mirage) → `index.html`. |
+| `tools/build.js` | Check + anatomia das frases (motor do ヅオリンゴー) → `index.html`. |
 | `docs/superpowers/specs/` | Design do curso. |
 
 ## Gerar o app de novo
@@ -36,7 +36,7 @@ node tools/check.js --readings
 node tools/build.js
 ```
 
-A anatomia colorida dos exemplos (🔬) usa o motor do Mirage, que precisa estar em `C:\Dev\japanese-study-app\renderer\lib\anatomy.js`. Sem ele, o build funciona do mesmo jeito, só que sem o 🔬.
+A anatomia colorida dos exemplos (🔬) usa o motor do ヅオリンゴー, que precisa estar em `C:\Dev\japanese-study-app\renderer\lib\anatomy.js`. Sem ele, o build funciona do mesmo jeito, só que sem o 🔬.
 
 ## Conteúdo
 

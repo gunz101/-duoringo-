@@ -19,7 +19,7 @@
       { "t": "Gramática: os 2 pontos, cada um com os exemplos lidos em voz alta e um 🔬", "min": 20 },
       { "t": "Vídeo da Lição 7 (bloco 6), pausando nos exemplos", "min": 10 },
       { "t": "Lição de casa no caderno + conferir no gabarito", "min": 20 },
-      { "t": "Kanji da Lição 7: Mirage → Kanji → ✍️ Escrever e depois as páginas de kanji do Workbook", "min": 15 },
+      { "t": "Kanji da Lição 7: ヅオリンゴー → Kanji → ✍️ Escrever e depois as páginas de kanji do Workbook", "min": 15 },
       { "t": "Checklist (bloco 10) + reler o diálogo da Lição 7 no Genki para fechar a lição", "min": 5 }
     ]
   },
@@ -167,15 +167,15 @@
       { "p": 75, "t": "7 · Counting People", "tip": "Faça depois do ponto 4b." },
       { "p": 76, "t": "8 · 答えましょう (Questions)", "tip": "Fecha a lição inteira: responda sobre você e a sua família usando os pontos das Aulas 07-1 a 07-3." },
       { "p": 77, "t": "9 · 聞く練習 (Listening Comprehension)", "tip": "Use os áudios oficiais que acompanham o seu Genki. Ouça tudo uma vez antes de responder." },
-      { "p": 141, "t": "Kanji Practice", "tip": "Kanji da Lição 7 (京 子 小 会 社 父 母 高 校 毎 語 文 帰 入). Faça depois de Mirage → Kanji → ✍️ Escrever." },
+      { "p": 141, "t": "Kanji Practice", "tip": "Kanji da Lição 7 (京 子 小 会 社 父 母 高 校 毎 語 文 帰 入). Faça depois de ヅオリンゴー → Kanji → ✍️ Escrever." },
       { "p": 142, "t": "Using Kanji", "tip": "Faça por último, no fim da lição. Confira no Genki Answer Key oficial." }
     ]
   },
   "practice": [
     { "tool": "Wagotabi", "what": "Jogue normalmente e cace duas coisas nos diálogos: alguém indo ou vindo fazer algo (〜に 行く, 〜に きた) e números de pessoas (ひとり, ふたり, 〜にん). Copie 2 frases no caderno e diga em voz alta qual bloco é o DESTINO e qual é o OBJETIVO.", "min": 15 },
-    { "tool": "Mirage", "what": "Vocabulário da Lição 7 no SRS. Depois, Treinos → Números: para cada número de 1 a 10 que aparecer, diga também em voz alta a versão para pessoas (ひとり, ふたり, さんにん…).", "min": 10 },
-    { "tool": "Mirage", "what": "Kanji → ✍️ Escrever: os 14 kanji da Lição 7 (京 子 小 会 社 父 母 高 校 毎 語 文 帰 入), com a ordem dos traços, antes das páginas 141–142 do Workbook.", "min": 15 },
-    { "tool": "Mirage", "what": "Praticar L7 para fechar a lição inteira: ている, descrições, radical + に 行く e contar pessoas.", "min": 10 },
+    { "tool": "ヅオリンゴー", "what": "Vocabulário da Lição 7 no SRS. Depois, Treinos → Números: para cada número de 1 a 10 que aparecer, diga também em voz alta a versão para pessoas (ひとり, ふたり, さんにん…).", "min": 10 },
+    { "tool": "ヅオリンゴー", "what": "Kanji → ✍️ Escrever: os 14 kanji da Lição 7 (京 子 小 会 社 父 母 高 校 毎 語 文 帰 入), com a ordem dos traços, antes das páginas 141–142 do Workbook.", "min": 15 },
+    { "tool": "ヅオリンゴー", "what": "Praticar L7 para fechar a lição inteira: ている, descrições, radical + に 行く e contar pessoas.", "min": 10 },
     { "tool": "Fala", "what": "Grave 1 minuto sobre a sua família e o seu fim de semana (lição de casa h4). É a gravação de fechamento da Lição 7: compare com a que você fez na Aula 07-1.", "min": 5 }
   ],
   "culture": {
