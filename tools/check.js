@@ -47,7 +47,9 @@ function check(opts = {}) {
   if (dupMap.length) err('curso', 'ids duplicados no mapa: ' + dupMap.join(', '));
 
   const seenSentences = {}, gcSeen = {}, pointIds = {};
-  const DATE_RE = [/\b\d{1,2}\/\d{1,2}(\/\d{2,4})?\b/, /\bprazo\b/i, /\baté (o )?dia \d/i, /\bsemana \d+ (de|do)\b/i, /\bdeadline\b/i, /\batrasad[oa]\b/i];
+  const DATE_RE = [/\b\d{1,2}\/\d{1,2}(\/\d{2,4})?\b/, /\bdeadline\b/i, /\bdue date\b/i, /\bbehind schedule\b/i, /\boverdue\b/i, /\bby (monday|tuesday|wednesday|thursday|friday|saturday|sunday|the end of the (week|month))\b/i, /\bweek \d+ of\b/i, /\bprazo\b/i, /\batrasad[oa]\b/i];
+  // the course is taught in ENGLISH: Portuguese words in teaching text are an error (Japanese and names are fine)
+  const PT_RE = /\b(você|não|também|então|porque|quando|aula|lição|frase|exemplo|palavra|português|obrigad[oa]|está|são|é o|é a|para o|para a|com o|com a|uma|das\s|nas\s|pelo|pela|isso|isto|aqui|muito|mais|mesmo|sempre|depois|antes|agora|hoje|ontem|amanhã)\b|[ãõçâêô]/i;
 
   function textFields(obj, acc = []) {
     if (typeof obj === 'string') acc.push(obj);
@@ -55,10 +57,11 @@ function check(opts = {}) {
     else if (obj && typeof obj === 'object') Object.keys(obj).forEach(k => { if (k !== 'url' && k !== 'where') textFields(obj[k], acc); });
     return acc;
   }
-  function checkSentence(id, where, ex, needPt = true) {
+  function checkSentence(id, where, ex, needEn = true) {
     if (!ex || typeof ex !== 'object') return err(id, where + ': exemplo ausente');
     ['jp', 'kana', 'romaji'].forEach(k => { if (!ex[k] || !String(ex[k]).trim()) err(id, `${where}: falta "${k}"`); });
-    if (needPt && (!ex.pt || !String(ex.pt).trim())) err(id, `${where}: falta "pt"`);
+    if (needEn && (!ex.en || !String(ex.en).trim())) err(id, `${where}: missing "en"`);
+    if (ex.pt !== undefined) err(id, `${where}: Portuguese field "pt" must be removed (the course is in English)`);
     if (ex.kana && KANJI.test(ex.kana)) err(id, `${where}: o campo kana tem kanji: ${ex.kana}`);
     if (ex.jp && !JP.test(ex.jp)) err(id, `${where}: jp sem japonês: ${ex.jp}`);
     if (ex.kana && ex.romaji && !romajiMatches(ex.kana, ex.romaji)) err(id, `${where}: romaji não bate com o kana → ${ex.kana} | ${ex.romaji}`);
@@ -133,7 +136,8 @@ function check(opts = {}) {
         const w = `bloco 7: ${t.id || ti + 1}.${ii + 1}`;
         if (!it.q) err(id, `${w} sem enunciado`);
         const ans = it.a;
-        if (!ans || (typeof ans === 'object' && !ans.jp && !ans.pt)) return err(id, `${w} SEM GABARITO`);
+        if (!ans || (typeof ans === 'object' && !ans.jp && !ans.en)) return err(id, `${w} NO ANSWER KEY`);
+        if (ans && typeof ans === 'object' && ans.pt !== undefined) err(id, `${w} Portuguese field "pt" in the answer`);
         if (typeof ans === 'object' && ans.jp) {
           if (!ans.romaji) err(id, `${w} resposta em japonês sem romaji`);
           const kana = KANJI.test(ans.jp) ? ans.kana : ans.jp;
@@ -151,7 +155,8 @@ function check(opts = {}) {
     // 10 · checklist
     if (!Array.isArray(a.checklist) || a.checklist.length < 4) err(id, 'bloco 10: checklist precisa de ≥4 itens');
     // no dates / deadlines anywhere
-    textFields(a).forEach(s => DATE_RE.forEach(re => { if (re.test(s)) err(id, `data/prazo no texto: "${s.slice(0, 80)}"`); }));
+    textFields(a).forEach(s => DATE_RE.forEach(re => { if (re.test(s)) err(id, `date/deadline in text: "${s.slice(0, 80)}"`); }));
+    textFields(a).forEach(s => { const noJp = String(s).replace(/São Paulo|Pokémon|Paraná|Ceará|Maranhão|Belém|Goiânia/g, ' ').replace(/[\u3040-\u30ff\u4e00-\u9fff々〆ー〜～・「」『』（）]+/g, ' '); if (PT_RE.test(noJp)) err(id, `Portuguese in text: "${String(s).slice(0, 90)}"`); });
   }
   // coverage
   if (only) return { errors, warnings, stats, missing: [], gcMiss: [] };

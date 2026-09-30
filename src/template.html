@@ -1,12 +1,12 @@
 <!doctype html>
-<html lang="pt-BR">
+<html lang="en">
 <head>
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
-<!-- security: the page may not load or send anything over the network (no scripts from outside, no fetch/XHR/beacons) -->
+<!-- security: the page may not load or send anything over the network (no outside scripts, no fetch/XHR/beacons) -->
 <meta http-equiv="Content-Security-Policy" content="default-src 'none'; script-src 'unsafe-inline'; style-src 'unsafe-inline'; img-src 'self' data:; media-src 'self' data:; connect-src 'none'; object-src 'none'; base-uri 'none'; form-action 'none'">
 <meta name="referrer" content="no-referrer">
-<title>Curso de Japonês ヅオリンゴー · 日本語コース</title>
+<title>ヅオリンゴー · Japanese Course · 日本語コース</title>
 <style>
   :root{
     --bg:#0f1115; --bg2:#171a21; --bg3:#1f242e; --line:#2b323d;
@@ -155,15 +155,15 @@
   <header class="top">
     <h1>ヅオリンゴー <span class="jp">日本語コース</span></h1>
     <nav class="tabs" id="tabs">
-      <a href="#/" data-v="home">Trilha</a>
-      <a href="#/rotina" data-v="rotina">Rotina</a>
-      <a href="#/guia" data-v="guia">Guia</a>
-      <a href="#/recursos" data-v="recursos">Recursos</a>
-      <a href="#/progresso" data-v="progresso">Progresso</a>
+      <a href="#/" data-v="home">Path</a>
+      <a href="#/rotina" data-v="rotina">Routine</a>
+      <a href="#/guia" data-v="guia">Guide</a>
+      <a href="#/recursos" data-v="recursos">Resources</a>
+      <a href="#/progresso" data-v="progresso">Progress</a>
     </nav>
     <div class="lede" id="lede"></div>
   </header>
-  <div class="bar"><div class="barrow"><div class="prog"><i id="progbar"></i></div><div class="pct" id="pct"></div><a class="pct savebadge" id="savebadge" href="#/progresso" title="Salvamento"></a></div></div>
+  <div class="bar"><div class="barrow"><div class="prog"><i id="progbar"></i></div><div class="pct" id="pct"></div><a class="pct savebadge" id="savebadge" href="#/progresso" title="Saving"></a></div></div>
   <main id="view"></main>
 </div>
 <div class="toast" id="toast"></div>
@@ -175,20 +175,20 @@
   var C = window.CURSO;
   var KEY = 'curso_jp_v1';
   var ROLE_PT = {
-    predicate: 'PREDICADO', topic: 'TÓPICO', also: 'TAMBÉM', subject: 'SUJEITO', object: 'OBJETO', place: 'LUGAR DA AÇÃO',
-    means: 'MEIO', time: 'TEMPO', destination: 'DESTINO', location: 'ONDE ESTÁ', target: 'ALVO', purpose: 'FINALIDADE',
-    with: 'COM QUEM', and: 'E (LISTA)', tari: 'AÇÕES (EX.)', compare: 'COMPARAÇÃO', from: 'DE / DESDE', until: 'ATÉ',
-    reason: 'MOTIVO', modifier: 'DESCREVE O PRÓXIMO', how: 'COMO', quantity: 'QUANTIDADE', link: 'LIGA (E…)',
-    contrast: 'MAS', condition: 'CONDIÇÃO', quote: 'CITAÇÃO', connector: 'CONECTOR', interjection: 'INTERJEIÇÃO',
-    only: 'SÓ', indef: 'ALGO / ALGUÉM', indefneg: 'NADA / NINGUÉM', while: 'ENQUANTO', after: 'DEPOIS DE', vocative: 'CHAMAMENTO', bare: 'SEM PARTÍCULA'
+    predicate: 'PREDICATE', topic: 'TOPIC', also: 'ALSO', subject: 'SUBJECT', object: 'OBJECT', place: 'PLACE (ACTION)',
+    means: 'MEANS', time: 'TIME', destination: 'DESTINATION', location: 'WHERE IT IS', target: 'TARGET', purpose: 'PURPOSE',
+    with: 'WITH WHOM', and: 'AND (LIST)', tari: 'ACTIONS (E.G.)', compare: 'COMPARED TO', from: 'FROM / SINCE', until: 'UNTIL',
+    reason: 'REASON', modifier: 'DESCRIBES NEXT', how: 'HOW', quantity: 'QUANTITY', link: 'LINK (AND…)',
+    contrast: 'BUT', condition: 'CONDITION', quote: 'QUOTE', connector: 'CONNECTOR', interjection: 'INTERJECTION',
+    only: 'ONLY', indef: 'SOMETHING / SOMEONE', indefneg: 'NOTHING / NOBODY', while: 'WHILE', after: 'AFTER DOING', vocative: 'CALLING', bare: 'NO PARTICLE'
   };
-  var ROLE_Q = { predicate: 'O que acontece / o que é?', topic: 'Sobre o quê?', subject: 'Quem / o quê?', object: 'O quê (sofre a ação)?', place: 'Onde (acontece)?', means: 'Com quê / como?', time: 'Quando?', destination: 'Para onde?', location: 'Onde está?', target: 'Para quem / em quê?', purpose: 'Para fazer o quê?', with: 'Com quem?', modifier: 'Qual / de quem?', how: 'Como?', reason: 'Por quê?', from: 'De onde / desde quando?', until: 'Até onde / quando?', compare: 'Comparado com?', also: 'Também?', quantity: 'Quanto(s)?', vocative: 'Com quem se fala?', bare: 'Deduza pelo verbo (partícula omitida)' };
-  var KIND_PT = { action: 'ação', existence: 'existência', identity: 'identidade (é)', description: 'descrição', request: 'pedido', wish: 'desejo', invitation: 'convite / sugestão', progress: 'em andamento / estado', explanation: 'explicação (〜んです)', experience: 'experiência', intention: 'intenção', obligation: 'obrigação', setphrase: 'expressão pronta', permission: 'permissão', prohibition: 'proibição' };
-  var DAYS = ['Seg', 'Ter', 'Qua', 'Qui', 'Sex', 'Sáb', 'Dom'];
+  var ROLE_Q = { predicate: 'What happens / what is it?', topic: 'About what?', subject: 'Who / what?', object: 'What (is acted on)?', place: 'Where does it happen?', means: 'With what / how?', time: 'When?', destination: 'Where to?', location: 'Where is it?', target: 'To whom / onto what?', purpose: 'To do what?', with: 'With whom?', modifier: 'Which / whose?', how: 'How?', reason: 'Why?', from: 'From where / since when?', until: 'Until where / when?', compare: 'Compared to what?', also: 'Also?', quantity: 'How many / how much?', vocative: 'Who is spoken to?', bare: 'Guess from the verb (particle dropped)' };
+  var KIND_PT = { action: 'action', existence: 'existence', identity: 'identity (is)', description: 'description', request: 'request', wish: 'wish', invitation: 'invitation / suggestion', progress: 'in progress / state', explanation: 'explanation (〜んです)', experience: 'experience', intention: 'intention', obligation: 'obligation', setphrase: 'set phrase', permission: 'permission', prohibition: 'prohibition' };
+  var DAYS = ['Mon', 'Tue', 'Wed', 'Thu', 'Fri', 'Sat', 'Sun'];
 
   // ---------- state: src/store.js (localStorage + IndexedDB mirror + restore points + optional synced file) ----------
   function norm(s) { s.pts = s.pts || {}; s.chk = s.chk || {}; s.hw = s.hw || {}; s.notes = s.notes || {}; s.rot = s.rot || {}; return s; }
-  var REPLACE_MSG = { 'arquivo': '📁 Progresso sincronizado com o arquivo', 'importado': 'Backup importado', 'restaurado': 'Ponto de restauração aplicado', 'zerado': 'Progresso zerado — dá para desfazer em Pontos de restauração', 'recuperado do espelho': 'Progresso recuperado da cópia de segurança do navegador' };
+  var REPLACE_MSG = { 'file': '📁 Progress synced with your file', 'imported': 'Backup imported', 'restored': 'Restore point applied', 'wiped': 'Progress wiped — you can undo it under Restore points', 'recovered': "Progress recovered from the browser's backup copy" };
   var CUR_VIEW = 'home';
   var STORE = window.CursoStore.createStore({
     onReplace: function (ns, why) { S = norm(ns); route(true); if (REPLACE_MSG[why]) toast(REPLACE_MSG[why]); },
@@ -224,15 +224,15 @@
   function pickVoice() { try { var v = speechSynthesis.getVoices(); jaVoice = v.filter(function (x) { return /ja|JP/i.test(x.lang); })[0] || null; } catch (e) {} }
   if ('speechSynthesis' in window) { pickVoice(); speechSynthesis.onvoiceschanged = pickVoice; }
   function speak(text) {
-    if (!('speechSynthesis' in window)) return toast('Sem síntese de voz neste navegador');
-    try { speechSynthesis.cancel(); var u = new SpeechSynthesisUtterance(String(text).replace(/[—]/g, '。').replace(/[→⇒＞>]/g, '、').replace(/[✓✗○×＿_]/g, '')); u.lang = 'ja-JP'; if (jaVoice) u.voice = jaVoice; u.rate = 0.9; speechSynthesis.speak(u); if (!jaVoice) toast('Dica: instale a voz japonesa do Windows para ouvir melhor'); } catch (e) {}
+    if (!('speechSynthesis' in window)) return toast('No speech synthesis in this browser');
+    try { speechSynthesis.cancel(); var u = new SpeechSynthesisUtterance(String(text).replace(/[—]/g, '。').replace(/[→⇒＞>]/g, '、').replace(/[✓✗○×＿_]/g, '')); u.lang = 'ja-JP'; if (jaVoice) u.voice = jaVoice; u.rate = 0.9; speechSynthesis.speak(u); if (!jaVoice) toast('Tip: install a Japanese voice in Windows to hear this properly'); } catch (e) {}
   }
 
   // ---------- progress bar ----------
   function updateBar() {
     var total = MAP.length, done = MAP.filter(function (m) { return isDone(m.id); }).length;
     document.getElementById('progbar').style.width = (total ? done / total * 100 : 0) + '%';
-    document.getElementById('pct').textContent = done + '/' + total + ' aulas dominadas';
+    document.getElementById('pct').textContent = done + '/' + total + ' lessons mastered';
   }
 
   // ---------- views ----------
@@ -259,10 +259,10 @@
     view.onclick = view.onchange = view.oninput = null;
     document.getElementById('lede').textContent = C.curso.tagline || '';
     var nx = nextAula(), nxm = nx && BYID[nx];
-    var html = '<div class="card hero"><div><div class="muted small">' + (nx ? (started(nx) ? 'Continue de onde parou' : 'Próxima aula') : 'Tudo dominado 🎉') + '</div>' +
+    var html = '<div class="card hero"><div><div class="muted small">' + (nx ? (started(nx) ? 'Pick up where you left off' : 'Next lesson') : 'Everything mastered 🎉') + '</div>' +
       (nxm ? '<div style="font-size:19px;font-weight:700;margin:2px 0">' + esc(nx) + ' · ' + esc(nxm.title) + '</div><div class="muted small">' + esc(UNIT_OF[nx].name) + '</div>' : '') +
-      '</div><div style="margin-left:auto" class="row">' + (nx ? '<a class="btn primary" href="#/aula/' + nx + '">Continuar →</a>' : '') + '<a class="btn ghost" href="#/rotina">Rotina de hoje</a></div></div>';
-    html += '<input type="search" id="q" placeholder="Buscar aula ou ponto (ex.: てもいい, passado, comparar)" value="' + esc(homeQuery) + '">';
+      '</div><div style="margin-left:auto" class="row">' + (nx ? '<a class="btn primary" href="#/aula/' + nx + '">Continue →</a>' : '') + '<a class="btn ghost" href="#/rotina">Today\'s routine</a></div></div>';
+    html += '<input type="search" id="q" placeholder="Search a lesson or point (e.g. てもいい, past, compare)" value="' + esc(homeQuery) + '">';
     html += '<div id="units"></div>';
     view.innerHTML = html;
     var q = document.getElementById('q');
@@ -278,20 +278,20 @@
       out += '<details class="unit"' + (open ? ' open' : '') + '><summary><div class="unum">' + (ui === 0 ? '0' : esc(u.id.replace(/^G\d-L0?/, '').replace(/^P-N3$/, 'N3').replace(/^V$/, '✈'))) + '</div><div class="utitle"><b>' + esc(u.name) + '</b><span>' + levelPill(u) + ' ' + esc(u.book || '') + '</span></div>' +
         '<div class="mini"><i style="width:' + (done / u.aulas.length * 100) + '%"></i></div><span class="small muted">' + done + '/' + u.aulas.length + '</span><span class="chev">▶</span></summary><div class="alist">';
       items.forEach(function (a) {
-        var A = aula(a.id), cc = chkCount(a.id), st = !A ? '<span class="astate faint">em preparação</span>' : isDone(a.id) ? '<span class="astate done">✓ dominada</span>' : a.id === nx ? '<span class="astate go">▶ próxima</span>' : cc[0] ? '<span class="astate muted">' + cc[0] + '/' + cc[1] + '</span>' : '';
+        var A = aula(a.id), cc = chkCount(a.id), st = !A ? '<span class="astate faint">in preparation</span>' : isDone(a.id) ? '<span class="astate done">✓ mastered</span>' : a.id === nx ? '<span class="astate go">▶ next</span>' : cc[0] ? '<span class="astate muted">' + cc[0] + '/' + cc[1] + '</span>' : '';
         out += '<a class="aitem' + (A ? '' : ' locked') + (a.milestone ? ' milestone' : '') + '" href="#/aula/' + a.id + '"><span class="aid">' + esc(a.id) + '</span><span class="atxt"><b>' + esc(a.title) + '</b><div class="pts jp">' + esc((a.points || []).join(' · ')) + '</div></span>' + st + '</a>';
       });
       out += '</div></details>';
     });
-    document.getElementById('units').innerHTML = out || '<div class="empty">Nada encontrado.</div>';
+    document.getElementById('units').innerHTML = out || '<div class="empty">Nothing found.</div>';
   }
 
   // ----- aula -----
-  var BLOCKS = ['Título e objetivos', 'Duração e plano da aula', 'Pré-requisitos e vocabulário', 'Gramática', 'Como estudar cada ponto', 'Vídeos e leitura (em ordem)', 'Lição de casa no caderno', 'Prática em casa', 'Cultura', 'Checklist de domínio'];
+  var BLOCKS = ['Goals', 'Time and lesson plan', 'Prerequisites and vocabulary', 'Grammar', 'How to study each point', 'Videos and reading (in order)', 'Notebook homework', 'Home practice', 'Culture', 'Mastery checklist'];
   function exHTML(ex, key) {
-    var h = '<div class="exrow" data-ex="' + esc(key) + '"><div class="tools"><button class="ibtn" data-say="' + esc(ex.kana || ex.jp) + '" title="Ouvir">🔊</button>' + (ex.anat ? '<button class="ibtn" data-anat="' + esc(key) + '" title="Anatomia da frase">🔬</button>' : '') + '</div>' +
+    var h = '<div class="exrow" data-ex="' + esc(key) + '"><div class="tools"><button class="ibtn" data-say="' + esc(ex.kana || ex.jp) + '" title="Listen">🔊</button>' + (ex.anat ? '<button class="ibtn" data-anat="' + esc(key) + '" title="Sentence anatomy">🔬</button>' : '') + '</div>' +
       '<div class="j">' + esc(ex.jp) + '</div>' + (ex.kana && ex.kana !== ex.jp ? '<div class="k">' + esc(ex.kana) + '</div>' : '') +
-      '<div class="r">' + esc(ex.romaji) + '</div><div class="p">' + esc(ex.pt) + '</div><div class="anatbox" hidden></div></div>';
+      '<div class="r">' + esc(ex.romaji) + '</div><div class="p">' + esc(ex.en) + '</div><div class="anatbox" hidden></div></div>';
     return h;
   }
   function anatHTML(anat) {
@@ -302,40 +302,40 @@
         if (p && c.t.slice(-c.p.length) === c.p) txt = esc(c.t.slice(0, c.t.length - c.p.length)) + '<em>' + p + '</em>';
         return '<div class="chip' + (c.r === 'predicate' ? ' pred' : '') + '" style="--c:' + col + '" title="' + esc(q) + '"><div class="t">' + txt + '</div><div class="l">' + (c.r === 'predicate' ? '★ ' : '') + esc(lab) + '</div>' + (c.k ? '<div class="faint" style="font-size:10px">' + esc(KIND_PT[c.k] || c.k) + '</div>' : '') + '</div>';
       }).join('') + '</div>';
-    }).join('') + '<div class="anatnote">Leia pelo ★ predicado (o fim) e depois os blocos da esquerda. A partícula colorida diz a função de cada bloco. Análise automática do motor do ヅオリンゴー; em caso de dúvida, vale a explicação da aula.</div>';
+    }).join('') + '<div class="anatnote">Read from the ★ predicate (the end), then the blocks to its left. The colored particle tells each block\'s job. Automatic analysis by the ヅオリンゴー engine — when in doubt, the lesson\'s explanation wins.</div>';
   }
   function renderAula(id) {
     var a = aula(id), m = BYID[id];
-    if (!m) { view.innerHTML = '<div class="empty">Aula não encontrada. <a href="#/">Voltar à trilha</a></div>'; return; }
-    if (!a) { view.innerHTML = '<div class="card"><h2>' + esc(m.id + ' · ' + m.title) + '</h2><p class="muted">Esta aula ainda está em preparação.</p><p class="jp">' + esc((m.points || []).join(' · ')) + '</p><p><a href="#/">← Trilha</a></p></div>'; return; }
+    if (!m) { view.innerHTML = '<div class="empty">Lesson not found. <a href="#/">Back to the path</a></div>'; return; }
+    if (!a) { view.innerHTML = '<div class="card"><h2>' + esc(m.id + ' · ' + m.title) + '</h2><p class="muted">This lesson is still being prepared.</p><p class="jp">' + esc((m.points || []).join(' · ')) + '</p><p><a href="#/">← Path</a></p></div>'; return; }
     S.last = id; save();
     var u = UNIT_OF[id], exIdx = {}, h = '';
     document.getElementById('lede').textContent = u.name;
-    h += '<div class="ahead card"><div class="row small muted"><a href="#/">Trilha</a> › ' + esc(u.name) + ' ' + levelPill(u) + '</div>';
+    h += '<div class="ahead card"><div class="row small muted"><a href="#/">Path</a> › ' + esc(u.name) + ' ' + levelPill(u) + '</div>';
     h += '<h2>' + esc(a.id) + ' · ' + esc(a.title) + '</h2><div class="jp">' + esc(a.titleJp) + '</div>';
-    if (a.genki) h += '<div class="small muted" style="margin-top:4px">📘 ' + esc(a.genki.book + ' · Lição ' + a.genki.lesson) + (a.genki.points && a.genki.points.length ? ' · gramática: ' + esc(a.genki.points.join(' · ')) : '') + '</div>';
+    if (a.genki) h += '<div class="small muted" style="margin-top:4px">📘 ' + esc(a.genki.book + ' · Lesson ' + a.genki.lesson) + (a.genki.points && a.genki.points.length ? ' · grammar: ' + esc(a.genki.points.join(' · ')) : '') + '</div>';
     h += '<div class="toc">' + BLOCKS.map(function (b, i) { return '<button data-go="b' + (i + 1) + '">' + (i + 1) + ' · ' + esc(b) + '</button>'; }).join('') + '</div></div>';
     // 1
     h += blk(1, '<ul class="clean">' + a.canDo.map(function (c) { return '<li>' + esc(c) + '</li>'; }).join('') + '</ul>');
     // 2
     var cols = ['var(--accent)', 'var(--blue)', 'var(--green)', 'var(--amber)', 'var(--pink)', 'var(--red)', '#9d7cff', '#4fd1c5'], tot = a.duration.blocks.reduce(function (s, b) { return s + (+b.min || 0); }, 0);
-    h += blk(2, '<div class="row"><span class="pill">⏱ ' + esc(a.duration.total) + '</span><span class="small muted">soma dos blocos: ' + tot + ' min · pode dividir em 2 sessões</span></div><div class="durbar">' + a.duration.blocks.map(function (b, i) { return '<i style="width:' + (b.min / tot * 100) + '%;background:' + cols[i % cols.length] + '" title="' + esc(b.t) + '"></i>'; }).join('') + '</div><div class="dur">' + a.duration.blocks.map(function (b, i) { return '<div><span style="color:' + cols[i % cols.length] + '">■</span> ' + esc(b.t) + '</div><div class="m">' + b.min + ' min</div>'; }).join('') + '</div>');
+    h += blk(2, '<div class="row"><span class="pill">⏱ ' + esc(a.duration.total) + '</span><span class="small muted">blocks add up to ' + tot + ' min · can be split into 2 sessions</span></div><div class="durbar">' + a.duration.blocks.map(function (b, i) { return '<i style="width:' + (b.min / tot * 100) + '%;background:' + cols[i % cols.length] + '" title="' + esc(b.t) + '"></i>'; }).join('') + '</div><div class="dur">' + a.duration.blocks.map(function (b, i) { return '<div><span style="color:' + cols[i % cols.length] + '">■</span> ' + esc(b.t) + '</div><div class="m">' + b.min + ' min</div>'; }).join('') + '</div>');
     // 3
     var pre = a.prereqs || {};
-    h += blk(3, (pre.aulas && pre.aulas.length ? '<p class="small">Aulas antes desta: ' + pre.aulas.map(function (p) { return '<a href="#/aula/' + p + '">' + p + (BYID[p] ? ' · ' + esc(BYID[p].title) : '') + '</a>' + (isDone(p) ? ' ✓' : ''); }).join(', ') + '</p>' : '') +
+    h += blk(3, (pre.aulas && pre.aulas.length ? '<p class="small">Lessons before this one: ' + pre.aulas.map(function (p) { return '<a href="#/aula/' + p + '">' + p + (BYID[p] ? ' · ' + esc(BYID[p].title) : '') + '</a>' + (isDone(p) ? ' ✓' : ''); }).join(', ') + '</p>' : '') +
       '<ul class="clean">' + (pre.skills || []).map(function (s) { return '<li>' + esc(s) + '</li>'; }).join('') + '</ul>' +
-      ((pre.vocab || []).length ? '<h4 style="margin-top:12px;font-size:14px">Vocabulário da aula <span class="small muted">(toque para ouvir)</span></h4><div class="vocab">' + pre.vocab.map(function (v) { return '<div class="voc" data-say="' + esc(v.kana || v.jp) + '"><div class="j">' + esc(v.jp) + (v.kana && v.kana !== v.jp ? ' <span class="small faint">' + esc(v.kana) + '</span>' : '') + '</div><div class="r">' + esc(v.romaji) + '</div><div class="p">' + esc(v.pt) + '</div></div>'; }).join('') + '</div>' : ''));
+      ((pre.vocab || []).length ? '<h4 style="margin-top:12px;font-size:14px">Lesson vocabulary <span class="small muted">(tap to listen)</span></h4><div class="vocab">' + pre.vocab.map(function (v) { return '<div class="voc" data-say="' + esc(v.kana || v.jp) + '"><div class="j">' + esc(v.jp) + (v.kana && v.kana !== v.jp ? ' <span class="small faint">' + esc(v.kana) + '</span>' : '') + '</div><div class="r">' + esc(v.romaji) + '</div><div class="p">' + esc(v.en) + '</div></div>'; }).join('') + '</div>' : ''));
     // 4
     var g4 = a.grammar.map(function (g, gi) {
       var p = S.pts[g.id] || {}, letter = String.fromCharCode(97 + gi);
       var exs = (g.examples || []).map(function (ex, ei) { var k = g.id + '.' + ei; exIdx[k] = ex; return exHTML(ex, k); }).join('');
       return '<div class="point" id="pt-' + esc(g.id) + '"><div class="phead"><h4>4' + letter + ' · ' + esc(g.title) + '<small>' + esc(g.gloss || '') + '</small></h4>' +
-        '<button class="cb s' + (p.s ? ' on' : '') + '" data-pt="' + esc(g.id) + '" data-k="s">✍️ Estudei</button><button class="cb w' + (p.w ? ' on' : '') + '" data-pt="' + esc(g.id) + '" data-k="w">📱 Pratiquei</button><button class="cb nt' + (p.note ? ' on' : '') + '" data-ntoggle="' + esc(g.id) + '">📝 Nota</button></div>' +
+        '<button class="cb s' + (p.s ? ' on' : '') + '" data-pt="' + esc(g.id) + '" data-k="s">✍️ Studied</button><button class="cb w' + (p.w ? ' on' : '') + '" data-pt="' + esc(g.id) + '" data-k="w">📱 Practiced</button><button class="cb nt' + (p.note ? ' on' : '') + '" data-ntoggle="' + esc(g.id) + '">📝 Note</button></div>' +
         '<div class="expl">' + md(g.explanation) + '</div><div class="struct">' + esc(g.structure) + '</div>' +
         '<div class="ex">' + exs + '</div>' +
-        (g.pitfalls && g.pitfalls.length ? '<div class="pit"><b>⚠ Armadilhas</b><ul>' + g.pitfalls.map(function (x) { return '<li>' + esc(x) + '</li>'; }).join('') + '</ul></div>' : '') +
-        (g.flag ? '<div class="flag">⚠️ <b>Sinalizado:</b> ' + esc(g.flag) + '</div>' : '') +
-        '<div class="note" data-note="' + esc(g.id) + '"' + (p.note ? '' : ' hidden') + '><textarea placeholder="Sua nota sobre este ponto (dúvidas, macetes, frases suas)…" data-ptnote="' + esc(g.id) + '">' + esc(p.note || '') + '</textarea></div></div>';
+        (g.pitfalls && g.pitfalls.length ? '<div class="pit"><b>⚠ Pitfalls</b><ul>' + g.pitfalls.map(function (x) { return '<li>' + esc(x) + '</li>'; }).join('') + '</ul></div>' : '') +
+        (g.flag ? '<div class="flag">⚠️ <b>Flagged:</b> ' + esc(g.flag) + '</div>' : '') +
+        '<div class="note" data-note="' + esc(g.id) + '"' + (p.note ? '' : ' hidden') + '><textarea placeholder="Your note on this point (questions, tricks, your own sentences)…" data-ptnote="' + esc(g.id) + '">' + esc(p.note || '') + '</textarea></div></div>';
     }).join('');
     h += blk(4, g4);
     // 5
@@ -345,27 +345,27 @@
       var href = (m.url && m.url.indexOf('../') === 0 &&window.top !== window && C.appsBase) ? C.appsBase + m.url.slice(3) : m.url; // inside ヅオリンゴー: absolute path to the sibling app
       var link = href ? '<a href="' + esc(href) + '" target="_blank" rel="noopener">' + esc(m.title) + '</a>' : esc(m.title);
       var sub = (m.links && m.links.length) ? '<div class="small" style="margin-top:4px;display:flex;flex-wrap:wrap;gap:4px 10px">' + m.links.map(function (l) { return '<a class="jp" href="' + esc(l.url) + '" target="_blank" rel="noopener">▶ ' + esc(l.t) + '</a>'; }).join('') + '</div>' : '';
-      return '<div class="med"><div class="o">' + m.order + '</div><div><div class="k">' + esc(m.kind) + ' · ' + esc(m.where) + '</div><div>' + link + '</div>' + sub + (m.search && !m.url ?'<div class="small muted">Buscar por: <span class="jp">' + esc(m.search) + '</span></div>' : '') + (m.when ? '<div class="small muted">Quando: ' + esc(m.when) + '</div>' : '') + '</div></div>';
+      return '<div class="med"><div class="o">' + m.order + '</div><div><div class="k">' + esc(m.kind) + ' · ' + esc(m.where) + '</div><div>' + link + '</div>' + sub + (m.search && !m.url ?'<div class="small muted">Search for: <span class="jp">' + esc(m.search) + '</span></div>' : '') + (m.when ? '<div class="small muted">When: ' + esc(m.when) + '</div>' : '') + '</div></div>';
     }).join('') + '</div>');
     // 7
     var hw = a.homework, hwDone = !!(S.hw[id] && S.hw[id].done);
-    h += blk(7, '<p class="small muted">' + esc(hw.intro || '') + '</p><div class="row" style="margin:8px 0"><button class="btn" data-revealall="1">Mostrar todo o gabarito</button><button class="btn' + (hwDone ? ' primary' : '') + '" data-hwdone="1">' + (hwDone ? '✓ Lição feita' : 'Marcar lição como feita') + '</button></div>' +
+    h += blk(7, '<p class="small muted">' + esc(hw.intro || '') + '</p><div class="row" style="margin:8px 0"><button class="btn" data-revealall="1">Show the whole answer key</button><button class="btn' + (hwDone ? ' primary' : '') + '" data-hwdone="1">' + (hwDone ? '✓ Homework done' : 'Mark homework as done') + '</button></div>' +
       hw.tasks.map(function (t, ti) {
         return '<div class="task"><h5>' + (ti + 1) + '. ' + esc(t.prompt) + '</h5>' + t.items.map(function (it, ii) {
-          var an = it.a || {}, ansH = typeof an === 'string' ? esc(an) : ((an.jp ? '<div class="j">' + esc(an.jp) + '</div>' : '') + (an.kana && an.kana !== an.jp ? '<div class="small faint jp">' + esc(an.kana) + '</div>' : '') + (an.romaji ? '<div class="r">' + esc(an.romaji) + '</div>' : '') + (an.pt ? '<div>' + esc(an.pt) + '</div>' : ''));
-          return '<div class="hwi"><span class="num">' + String.fromCharCode(97 + ii) + ')</span><div class="q">' + esc(it.q) + '</div><button class="ibtn reveal" data-rev="1">ver resposta</button><div class="ans">' + ansH + (it.note ? '<div class="small muted">💡 ' + esc(it.note) + '</div>' : '') + '</div></div>';
+          var an = it.a || {}, ansH = typeof an === 'string' ? esc(an) : ((an.jp ? '<div class="j">' + esc(an.jp) + '</div>' : '') + (an.kana && an.kana !== an.jp ? '<div class="small faint jp">' + esc(an.kana) + '</div>' : '') + (an.romaji ? '<div class="r">' + esc(an.romaji) + '</div>' : '') + (an.en ? '<div>' + esc(an.en) + '</div>' : ''));
+          return '<div class="hwi"><span class="num">' + String.fromCharCode(97 + ii) + ')</span><div class="q">' + esc(it.q) + '</div><button class="ibtn reveal" data-rev="1">show answer</button><div class="ans">' + ansH + (it.note ? '<div class="small muted">💡 ' + esc(it.note) + '</div>' : '') + '</div></div>';
         }).join('') + '</div>';
       }).join('') +
-      ((hw.workbook || []).length ? '<h4 style="margin-top:14px;font-size:14px">📓 Genki I Workbook (faça no livro; confira no Answer Key oficial)</h4>' + hw.workbook.map(function (w) { return '<div class="wb"><span class="pg">p. ' + esc(w.p) + '</span><span>' + esc(w.t) + (w.tip ? ' <span class="small muted">— ' + esc(w.tip) + '</span>' : '') + '</span></div>'; }).join('') : ''));
+      ((hw.workbook || []).length ? '<h4 style="margin-top:14px;font-size:14px">📓 Genki Workbook (do it in the book; check it with the official Answer Key)</h4>' + hw.workbook.map(function (w) { return '<div class="wb"><span class="pg">p. ' + esc(w.p) + '</span><span>' + esc(w.t) + (w.tip ? ' <span class="small muted">— ' + esc(w.tip) + '</span>' : '') + '</span></div>'; }).join('') : ''));
     // 8
     h += blk(8, '<div class="prac">' + a.practice.map(function (p) { return '<div class="pr"><div class="tool">' + esc(p.tool) + '</div><div>' + esc(p.what) + '</div>' + (p.min ? '<div class="min">' + p.min + ' min</div>' : '') + '</div>'; }).join('') + '</div>');
     // 9
-    h += blk(9, '<div class="cult"><h4>' + esc(a.culture.title) + (a.culture.titleJp && a.culture.title.indexOf(a.culture.titleJp) < 0 ? ' <span class="jp muted">' + esc(a.culture.titleJp) + '</span>' : '') + '</h4><div class="md">' + md(a.culture.body) + '</div><div class="try">🧪 <b>Experimente:</b> ' + esc(a.culture.try) + '</div></div>');
+    h += blk(9, '<div class="cult"><h4>' + esc(a.culture.title) + (a.culture.titleJp && a.culture.title.indexOf(a.culture.titleJp) < 0 ? ' <span class="jp muted">' + esc(a.culture.titleJp) + '</span>' : '') + '</h4><div class="md">' + md(a.culture.body) + '</div><div class="try">🧪 <b>Try it:</b> ' + esc(a.culture.try) + '</div></div>');
     // 10
     var c = S.chk[id] || [];
-    h += blk(10, '<p class="small muted">Marque só o que você consegue fazer de verdade. A aula conta como dominada quando tudo estiver marcado, no seu tempo.</p><div class="chk">' + a.checklist.map(function (x, i) { return '<label><input type="checkbox" data-chk="' + i + '"' + (c[i] ? ' checked' : '') + '><span>' + esc(x) + '</span></label>'; }).join('') + '</div>' +
-      '<div class="done-banner' + (isDone(id) ? ' show' : '') + '" id="donebanner">🎉 Aula dominada! Siga para a próxima quando quiser. Revisar as anteriores também conta.</div>' +
-      '<h4 style="margin-top:14px;font-size:14px">📒 Caderno desta aula</h4><textarea id="aulanote" placeholder="Dúvidas, frases que você criou, o que revisar…">' + esc(S.notes[id] || '') + '</textarea>');
+    h += blk(10, '<p class="small muted">Tick only what you can really do. The lesson counts as mastered when everything is ticked — at your own pace.</p><div class="chk">' + a.checklist.map(function (x, i) { return '<label><input type="checkbox" data-chk="' + i + '"' + (c[i] ? ' checked' : '') + '><span>' + esc(x) + '</span></label>'; }).join('') + '</div>' +
+      '<div class="done-banner' + (isDone(id) ? ' show' : '') + '" id="donebanner">🎉 Lesson mastered! Move on whenever you like — reviewing earlier lessons counts too.</div>' +
+      '<h4 style="margin-top:14px;font-size:14px">📒 Notebook for this lesson</h4><textarea id="aulanote" placeholder="Questions, sentences you made, what to review…">' + esc(S.notes[id] || '') + '</textarea>');
     var idx = MAP.findIndex(function (x) { return x.id === id; }), prev = MAP[idx - 1], next = MAP[idx + 1];
     h += '<div class="anav">' + (prev ? '<a class="btn" href="#/aula/' + prev.id + '">← ' + esc(prev.id + ' · ' + prev.title) + '</a>' : '<span></span>') + (next ? '<a class="btn" href="#/aula/' + next.id + '">' + esc(next.id + ' · ' + next.title) + ' →</a>' : '') + '</div>';
     view.innerHTML = h;
@@ -380,13 +380,13 @@
       if (t.hasAttribute('data-anat')) { var row = t.closest('.exrow'), box = row.querySelector('.anatbox'), ex = exIdx[t.getAttribute('data-anat')]; if (box.hidden) { box.innerHTML = anatHTML(ex.anat); box.hidden = false; } else box.hidden = true; return; }
       if (t.hasAttribute('data-pt')) { var pid = t.getAttribute('data-pt'), k = t.getAttribute('data-k'); var p = S.pts[pid] = S.pts[pid] || {}; p[k] = !p[k]; if (!p.s && !p.w && !p.note) delete S.pts[pid]; t.classList.toggle('on', !!(S.pts[pid] && S.pts[pid][k])); save(); return; }
       if (t.hasAttribute('data-ntoggle')) { var n = view.querySelector('[data-note="' + t.getAttribute('data-ntoggle') + '"]'); n.hidden = !n.hidden; if (!n.hidden) n.querySelector('textarea').focus(); return; }
-      if (t.hasAttribute('data-rev')) { var ans = t.nextElementSibling; ans.classList.toggle('show'); t.textContent = ans.classList.contains('show') ? 'esconder' : 'ver resposta'; return; }
-      if (t.hasAttribute('data-revealall')) { var all = view.querySelectorAll('#b7 .ans'), anyHidden = [].some.call(all, function (x) { return !x.classList.contains('show'); }); [].forEach.call(all, function (x) { x.classList.toggle('show', anyHidden); }); [].forEach.call(view.querySelectorAll('#b7 [data-rev]'), function (b) { b.textContent = anyHidden ? 'esconder' : 'ver resposta'; }); t.textContent = anyHidden ? 'Esconder o gabarito' : 'Mostrar todo o gabarito'; return; }
-      if (t.hasAttribute('data-hwdone')) { var d = !(S.hw[id] && S.hw[id].done); if (d) S.hw[id] = { done: true }; else delete S.hw[id]; t.classList.toggle('primary', d); t.textContent = d ? '✓ Lição feita' : 'Marcar lição como feita'; save(); return; }
+      if (t.hasAttribute('data-rev')) { var ans = t.nextElementSibling; ans.classList.toggle('show'); t.textContent = ans.classList.contains('show') ? 'hide' : 'show answer'; return; }
+      if (t.hasAttribute('data-revealall')) { var all = view.querySelectorAll('#b7 .ans'), anyHidden = [].some.call(all, function (x) { return !x.classList.contains('show'); }); [].forEach.call(all, function (x) { x.classList.toggle('show', anyHidden); }); [].forEach.call(view.querySelectorAll('#b7 [data-rev]'), function (b) { b.textContent = anyHidden ? 'hide' : 'show answer'; }); t.textContent = anyHidden ? 'Hide the answer key' : 'Show the whole answer key'; return; }
+      if (t.hasAttribute('data-hwdone')) { var d = !(S.hw[id] && S.hw[id].done); if (d) S.hw[id] = { done: true }; else delete S.hw[id]; t.classList.toggle('primary', d); t.textContent = d ? '✓ Homework done' : 'Mark homework as done'; save(); return; }
     };
     view.onchange = function (e) {
       var t = e.target;
-      if (t.hasAttribute('data-chk')) { var arr = S.chk[id] = S.chk[id] || []; arr[+t.getAttribute('data-chk')] = t.checked; save(); var d = isDone(id); document.getElementById('donebanner').classList.toggle('show', d); if (d) toast('🎉 Aula ' + id + ' dominada'); updateBar(); }
+      if (t.hasAttribute('data-chk')) { var arr = S.chk[id] = S.chk[id] || []; arr[+t.getAttribute('data-chk')] = t.checked; save(); var d = isDone(id); document.getElementById('donebanner').classList.toggle('show', d); if (d) toast('🎉 Lesson ' + id + ' mastered'); updateBar(); }
     };
     view.oninput = function (e) {
       var t = e.target;
@@ -398,38 +398,38 @@
   // ----- rotina -----
   function renderRotina() {
     var R = C.curso.rotina;
-    document.getElementById('lede').textContent = 'Sua rotina diária: sem datas, só constância.';
-    if (!R) { view.innerHTML = '<div class="empty">Rotina em preparação.</div>'; return; }
+    document.getElementById('lede').textContent = 'Your daily routine: no dates, just consistency.';
+    if (!R) { view.innerHTML = '<div class="empty">Routine coming soon.</div>'; return; }
     var nx = nextAula(), h = '';
-    h += '<div class="card"><h2 style="font-size:18px">' + esc(R.title) + '</h2><div class="md">' + md(R.intro || '') + '</div>' + (nx ? '<p class="small">📌 Aula atual: <a href="#/aula/' + nx + '">' + esc(nx + ' · ' + BYID[nx].title) + '</a></p>' : '') + '</div>';
-    h += '<div class="card"><h2 class="sec" style="margin-top:0">Blocos do dia</h2>' + R.blocks.map(function (b) { return '<div class="pr" style="margin:6px 0"><div class="tool">' + esc(b.name) + '<span class="tag ' + (b.core ? 'core' : 'flex') + '">' + (b.core ? 'núcleo' : 'flexível') + '</span></div><div><div>' + esc(b.what) + '</div>' + (b.tools ? '<div class="small muted">' + esc(b.tools) + '</div>' : '') + '</div><div class="min">' + esc(b.min) + '</div></div>'; }).join('') +
-      (R.minimum ? '<div class="flag" style="margin-top:10px">🪫 <b>Dia mínimo:</b> ' + esc(R.minimum) + '</div>' : '') + '</div>';
-    h += '<div class="card"><h2 class="sec" style="margin-top:0">Esta semana</h2><p class="small muted">Marque o que fez. Não há datas: quando quiser, comece uma semana nova.</p><div class="grid7"><div></div>' + DAYS.map(function (d) { return '<div class="h">' + d + '</div>'; }).join('') +
+    h += '<div class="card"><h2 style="font-size:18px">' + esc(R.title) + '</h2><div class="md">' + md(R.intro || '') + '</div>' + (nx ? '<p class="small">📌 Current lesson: <a href="#/aula/' + nx + '">' + esc(nx + ' · ' + BYID[nx].title) + '</a></p>' : '') + '</div>';
+    h += '<div class="card"><h2 class="sec" style="margin-top:0">Today\'s blocks</h2>' + R.blocks.map(function (b) { return '<div class="pr" style="margin:6px 0"><div class="tool">' + esc(b.name) + '<span class="tag ' + (b.core ? 'core' : 'flex') + '">' + (b.core ? 'core' : 'flexible') + '</span></div><div><div>' + esc(b.what) + '</div>' + (b.tools ? '<div class="small muted">' + esc(b.tools) + '</div>' : '') + '</div><div class="min">' + esc(b.min) + '</div></div>'; }).join('') +
+      (R.minimum ? '<div class="flag" style="margin-top:10px">🪫 <b>Minimum day:</b> ' + esc(R.minimum) + '</div>' : '') + '</div>';
+    h += '<div class="card"><h2 class="sec" style="margin-top:0">This week</h2><p class="small muted">Tick what you did. There are no dates: start a new week whenever you like.</p><div class="grid7"><div></div>' + DAYS.map(function (d) { return '<div class="h">' + d + '</div>'; }).join('') +
       R.blocks.map(function (b) { return '<div>' + esc(b.short || b.name) + '</div>' + DAYS.map(function (_, di) { var k = b.key + '_' + di; return '<button data-rot="' + k + '" class="' + (S.rot[k] ? 'on' : '') + '" aria-label="' + esc(b.name + ' ' + DAYS[di]) + '"></button>'; }).join(''); }).join('') +
-      '</div><div class="row" style="margin-top:10px"><span class="small muted" id="rotcount"></span><button class="btn ghost" id="rotreset" style="margin-left:auto">Nova semana (limpar)</button></div></div>';
+      '</div><div class="row" style="margin-top:10px"><span class="small muted" id="rotcount"></span><button class="btn ghost" id="rotreset" style="margin-left:auto">New week (clear)</button></div></div>';
     if (R.cycle) h += '<div class="card"><h2 class="sec" style="margin-top:0">' + esc(R.cycle.title) + '</h2><div class="md">' + md(R.cycle.body) + '</div></div>';
     if (R.week) h += '<div class="card"><h2 class="sec" style="margin-top:0">' + esc(R.week.title) + '</h2><div class="md">' + md(R.week.body) + '</div></div>';
     view.innerHTML = h;
-    var cnt = function () { var core = R.blocks.filter(function (b) { return b.core; })[0]; var n = core ? DAYS.filter(function (_, di) { return S.rot[core.key + '_' + di]; }).length : 0; document.getElementById('rotcount').textContent = core ? 'Dias com ' + core.short.toLowerCase() + ': ' + n + '/7' : ''; };
+    var cnt = function () { var core = R.blocks.filter(function (b) { return b.core; })[0]; var n = core ? DAYS.filter(function (_, di) { return S.rot[core.key + '_' + di]; }).length : 0; document.getElementById('rotcount').textContent = core ? 'Days with ' + core.short.toLowerCase() + ': ' + n + '/7' : ''; };
     cnt();
     view.onclick = function (e) {
       var t = e.target.closest('button'); if (!t) return;
       if (t.hasAttribute('data-rot')) { var k = t.getAttribute('data-rot'); if (S.rot[k]) delete S.rot[k]; else S.rot[k] = true; t.classList.toggle('on', !!S.rot[k]); save(); cnt(); }
-      if (t.id === 'rotreset') { if (confirm('Limpar as marcações da semana?')) { S.rot = {}; save(); renderRotina(); } }
+      if (t.id === 'rotreset') { if (confirm("Clear this week's marks?")) { S.rot = {}; save(); renderRotina(); } }
     };
     view.onchange = view.oninput = null;
   }
 
   // ----- guia / recursos / progresso -----
   function renderGuia() {
-    var G = C.curso.guia; document.getElementById('lede').textContent = 'Como seguir o curso até o fim.';
-    if (!G) { view.innerHTML = '<div class="empty">Guia em preparação.</div>'; return; }
+    var G = C.curso.guia; document.getElementById('lede').textContent = 'How to follow the course to the end.';
+    if (!G) { view.innerHTML = '<div class="empty">Guide coming soon.</div>'; return; }
     view.innerHTML = G.sections.map(function (s) { return '<div class="card"><h2 style="font-size:18px">' + esc(s.title) + '</h2><div class="md">' + md(s.body) + '</div></div>'; }).join('');
     view.onclick = view.onchange = view.oninput = null;
   }
   function renderRecursos() {
-    var R = C.recursos; document.getElementById('lede').textContent = 'O que estudar e praticar por fora, por nível.';
-    if (!R) { view.innerHTML = '<div class="empty">Recursos em preparação.</div>'; return; }
+    var R = C.recursos; document.getElementById('lede').textContent = 'What to study and practice outside the course, by level.';
+    if (!R) { view.innerHTML = '<div class="empty">Resources coming soon.</div>'; return; }
     var h = (R.intro ? '<div class="card md">' + md(R.intro) + '</div>' : '');
     R.groups.forEach(function (g) {
       h += '<h2 class="sec">' + esc(g.title) + '</h2>' + (g.note ? '<p class="small muted">' + esc(g.note) + '</p>' : '') + '<div class="res">' + g.items.map(function (it) {
@@ -440,13 +440,13 @@
     view.onclick = view.onchange = view.oninput = null;
   }
   function renderProgresso() {
-    document.getElementById('lede').textContent = 'Seu progresso: por domínio, não por calendário.';
+    document.getElementById('lede').textContent = 'Your progress: by mastery, not by calendar.';
     var total = MAP.length, done = MAP.filter(function (m) { return isDone(m.id); }).length, pts = 0, ptsS = 0, ptsW = 0, hw = 0, written = 0;
     MAP.forEach(function (m) { var a = aula(m.id); if (!a) return; written++; a.grammar.forEach(function (g) { pts++; var p = S.pts[g.id]; if (p && p.s) ptsS++; if (p && p.w) ptsW++; }); if (S.hw[m.id] && S.hw[m.id].done) hw++; });
     var ms = MAP.filter(function (m) { return m.milestone; });
-    var h = '<div class="card hero"><div class="big">' + (total ? Math.round(done / total * 100) : 0) + '%</div><div><div><b>' + done + '</b> de ' + total + ' aulas dominadas</div><div class="small muted">✍️ ' + ptsS + '/' + pts + ' pontos estudados · 📱 ' + ptsW + ' praticados · 📓 ' + hw + ' lições de casa feitas</div></div></div>';
-    h += '<div class="card"><h2 class="sec" style="margin-top:0">Marcos</h2>' + ms.map(function (m) { return '<div class="wb"><span class="pg">' + (isDone(m.id) ? '🏁' : '◻') + '</span><a href="#/aula/' + m.id + '">' + esc(m.title) + '</a></div>'; }).join('') + '</div>';
-    h += '<div class="card"><h2 class="sec" style="margin-top:0">Por unidade</h2>' + C.curso.units.map(function (u) { var d = u.aulas.filter(function (a) { return isDone(a.id); }).length; return '<div class="row" style="margin:6px 0"><span style="flex:1">' + esc(u.name) + '</span><div class="mini" style="width:120px"><i style="width:' + (d / u.aulas.length * 100) + '%"></i></div><span class="small muted" style="width:44px;text-align:right">' + d + '/' + u.aulas.length + '</span></div>'; }).join('') + '</div>';
+    var h = '<div class="card hero"><div class="big">' + (total ? Math.round(done / total * 100) : 0) + '%</div><div><div><b>' + done + '</b> of ' + total + ' lessons mastered</div><div class="small muted">✍️ ' + ptsS + '/' + pts + ' points studied · 📱 ' + ptsW + ' practiced · 📓 ' + hw + ' homework done</div></div></div>';
+    h += '<div class="card"><h2 class="sec" style="margin-top:0">Milestones</h2>' + ms.map(function (m) { return '<div class="wb"><span class="pg">' + (isDone(m.id) ? '🏁' : '◻') + '</span><a href="#/aula/' + m.id + '">' + esc(m.title) + '</a></div>'; }).join('') + '</div>';
+    h += '<div class="card"><h2 class="sec" style="margin-top:0">By unit</h2>' + C.curso.units.map(function (u) { var d = u.aulas.filter(function (a) { return isDone(a.id); }).length; return '<div class="row" style="margin:6px 0"><span style="flex:1">' + esc(u.name) + '</span><div class="mini" style="width:120px"><i style="width:' + (d / u.aulas.length * 100) + '%"></i></div><span class="small muted" style="width:44px;text-align:right">' + d + '/' + u.aulas.length + '</span></div>'; }).join('') + '</div>';
     h += '<div class="card" id="savecard"></div>';
     view.innerHTML = h;
     view.onchange = view.oninput = null;
@@ -454,15 +454,15 @@
     view.onclick = function (e) {
       var t = e.target.closest('button'); if (!t) return;
       var fail = function (err) { if (err && err.name === 'AbortError') return; toast('⚠ ' + ((err && err.message) || err)); };
-      if (t.id === 'exp') downloadText(STORE.exportText(), 'progresso-duoringo-' + stampName() + '.json');
+      if (t.id === 'exp') downloadText(STORE.exportText(), 'duoringo-progress-' + stampName() + '.json');
       if (t.id === 'gcimp') importGC();
-      if (t.id === 'fnew') STORE.connectNew().then(function () { toast('📁 Arquivo de progresso conectado'); }, fail);
-      if (t.id === 'fopen') STORE.connectExisting().then(function () { toast('📁 Arquivo conectado e mesclado'); }, fail);
-      if (t.id === 'frec') STORE.reconnect().then(function () { toast('📁 Arquivo reconectado'); }, fail);
-      if (t.id === 'foff') { if (confirm('Desconectar o arquivo? O progresso continua salvo neste navegador.')) STORE.disconnect(); }
-      if (t.id === 'snapnow') STORE.snapshot('manual', true).then(function () { toast('🕘 Ponto de restauração criado'); renderSaveCard(); });
-      if (t.hasAttribute('data-restore')) { if (confirm('Voltar o progresso para este ponto? (O estado atual vira um ponto de restauração antes.)')) STORE.restoreSnapshot(+t.getAttribute('data-restore')).catch(fail); }
-      if (t.id === 'wipe') { if (confirm('Zerar TODO o progresso do curso? Dá para desfazer em "Pontos de restauração".')) STORE.wipe(); }
+      if (t.id === 'fnew') STORE.connectNew().then(function () { toast('📁 Progress file connected'); }, fail);
+      if (t.id === 'fopen') STORE.connectExisting().then(function () { toast('📁 File connected and merged'); }, fail);
+      if (t.id === 'frec') STORE.reconnect().then(function () { toast('📁 File reconnected'); }, fail);
+      if (t.id === 'foff') { if (confirm('Disconnect the file? Your progress stays saved in this browser.')) STORE.disconnect(); }
+      if (t.id === 'snapnow') STORE.snapshot('manual', true).then(function () { toast('🕘 Restore point created'); renderSaveCard(); });
+      if (t.hasAttribute('data-restore')) { if (confirm('Go back to this point? (Your current state becomes a restore point first.)')) STORE.restoreSnapshot(+t.getAttribute('data-restore')).catch(fail); }
+      if (t.id === 'wipe') { if (confirm('Wipe ALL course progress? You can undo it under "Restore points".')) STORE.wipe(); }
     };
   }
   function stampName() { var d = new Date(); return d.getFullYear() + '-' + ('0' + (d.getMonth() + 1)).slice(-2) + '-' + ('0' + d.getDate()).slice(-2); }
@@ -476,53 +476,53 @@
   function mapN() { return MAP.filter(function (m) { return aula(m.id); }).map(function (m) { return { id: m.id, n: aula(m.id).checklist.length }; }); }
   function renderSaveBadge() {
     var el = document.getElementById('savebadge'); if (!el) return;
-    var st = STORE.status, txt = '💾' + (st.saved ? ' ' + hhmm(st.saved) : ''), tip = st.saved ? 'Salvo às ' + hhmm(st.saved) + ' (neste navegador, em cópia dupla)' : 'Salvamento automático ativo';
-    if (st.file) { var ok = st.filePerm === 'granted' && !st.fileError; txt += ok ? ' · 📁' : ' · 📁⚠'; tip += ok ? ' · arquivo ' + st.file + (st.fileSync ? ' sincronizado às ' + hhmm(st.fileSync) : '') : ' · o arquivo precisa ser reconectado (aba Progresso)'; }
+    var st = STORE.status, txt = '💾' + (st.saved ? ' ' + hhmm(st.saved) : ''), tip = st.saved ? 'Saved at ' + hhmm(st.saved) + ' (in this browser, double copy)' : 'Autosave on';
+    if (st.file) { var ok = st.filePerm === 'granted' && !st.fileError; txt += ok ? ' · 📁' : ' · 📁⚠'; tip += ok ? ' · file ' + st.file + (st.fileSync ? ' synced at ' + hhmm(st.fileSync) : '') : ' · the file needs to be reconnected (Progress tab)'; }
     el.textContent = txt; el.title = tip;
   }
   function renderSaveCard() {
     var box = document.getElementById('savecard'); if (!box) return;
-    var st = STORE.status, h = '<h2 class="sec" style="margin-top:0">💾 Salvamento e backup</h2>';
+    var st = STORE.status, h = '<h2 class="sec" style="margin-top:0">💾 Saving and backup</h2>';
     h += '<div class="small" style="display:grid;gap:4px">';
-    h += '<div>' + (st.lsError ? '⚠ O armazenamento principal está cheio/bloqueado: usando só a cópia do IndexedDB.' : '✅ Salvo automaticamente neste navegador, em <b>cópia dupla</b> (localStorage + IndexedDB)' + (st.saved ? ' · última alteração às ' + hhmm(st.saved) : '') + '.') + '</div>';
-    h += '<div>' + (st.persisted === true ? '🔒 Armazenamento <b>persistente</b>: o navegador não apaga estes dados sozinho.' : st.persisted === false ? '⚠ O navegador pode limpar dados de sites quando falta espaço: conecte um arquivo abaixo ou exporte de vez em quando.' : '… verificando se o armazenamento é persistente.') + '</div>';
-    h += '<div>🕘 Pontos de restauração automáticos (os últimos 30) protegem contra erros e importações ruins.</div></div>';
+    h += '<div>' + (st.lsError ? '⚠ The main storage is full/blocked: using only the IndexedDB copy.' : '✅ Saved automatically in this browser, as a <b>double copy</b> (localStorage + IndexedDB)' + (st.saved ? ' · last change at ' + hhmm(st.saved) : '') + '.') + '</div>';
+    h += '<div>' + (st.persisted === true ? '🔒 <b>Persistent</b> storage: the browser will not delete this data on its own.' : st.persisted === false ? '⚠ The browser may clear site data when space runs low: connect a file below or export now and then.' : '… checking whether storage is persistent.') + '</div>';
+    h += '<div>🕘 Automatic restore points (the last 30) protect against mistakes and bad imports.</div></div>';
     // synced file
-    h += '<h3 style="font-size:14px;margin:14px 0 6px">📁 Arquivo de progresso sincronizado</h3>';
-    if (!STORE.hasFileAPI) h += '<p class="small muted">Disponível no Edge/Chrome do computador. Neste navegador, leve o progresso com <b>Exportar</b> e <b>Importar e mesclar</b>.</p>';
-    else if (!st.file) h += '<p class="small muted">Conecte um arquivo uma vez: o curso grava nele a cada alteração e relê quando você volta para a aba. Guarde-o numa pasta do <b>OneDrive/Google Drive</b> e conecte o mesmo arquivo no site, no arquivo local e no app: o progresso fica igual em todos. Conectar um arquivo que já tem progresso <b>mescla</b>, sem apagar nada.</p><div class="row"><button class="btn primary" id="fnew">Criar arquivo de progresso</button><button class="btn" id="fopen">Usar um arquivo que já existe</button></div>';
-    else h += '<div class="row"><span class="small">📁 <b>' + esc(st.file) + '</b> · ' + (st.filePerm === 'granted' ? (st.fileSync ? 'sincronizado às ' + hhmm(st.fileSync) : 'conectado') : '<span style="color:var(--amber)">precisa de permissão de novo</span>') + '</span>' + (st.filePerm !== 'granted' ? '<button class="btn primary" id="frec">🔄 Reconectar</button>' : '') + '<button class="btn ghost" id="foff">Desconectar</button></div>' + (st.fileError ? '<p class="small" style="color:var(--amber)">⚠ ' + esc(st.fileError) + '</p>' : '');
+    h += '<h3 style="font-size:14px;margin:14px 0 6px">📁 Synced progress file</h3>';
+    if (!STORE.hasFileAPI) h += '<p class="small muted">Available in Edge/Chrome on a computer. In this browser, carry your progress with <b>Export</b> and <b>Import &amp; merge</b>.</p>';
+    else if (!st.file) h += '<p class="small muted">Connect a file once: the course writes to it on every change and re-reads it when you come back to the tab. Keep it in a <b>OneDrive/Google Drive</b> folder and connect the same file on the website, the local file and inside the app — your progress is the same everywhere. Connecting a file that already has progress <b>merges</b> it, deleting nothing.</p><div class="row"><button class="btn primary" id="fnew">Create a progress file</button><button class="btn" id="fopen">Use an existing file</button></div>';
+    else h += '<div class="row"><span class="small">📁 <b>' + esc(st.file) + '</b> · ' + (st.filePerm === 'granted' ? (st.fileSync ? 'synced at ' + hhmm(st.fileSync) : 'connected') : '<span style="color:var(--amber)">needs permission again</span>') + '</span>' + (st.filePerm !== 'granted' ? '<button class="btn primary" id="frec">🔄 Reconnect</button>' : '') + '<button class="btn ghost" id="foff">Disconnect</button></div>' + (st.fileError ? '<p class="small" style="color:var(--amber)">⚠ ' + esc(st.fileError) + '</p>' : '');
     // export / import
-    h += '<h3 style="font-size:14px;margin:14px 0 6px">⇅ Exportar / importar</h3><div class="row"><button class="btn" id="exp">⬇ Exportar backup</button><label class="btn">⬆ Importar e mesclar<input type="file" id="impm" accept="application/json,.json" hidden></label><label class="btn">⬆ Importar e substituir<input type="file" id="impr" accept="application/json,.json" hidden></label><button class="btn" id="gcimp">Importar do genki-companion</button></div>';
-    h += '<p class="small muted" style="margin-top:6px"><b>Mesclar</b> une os dois lados (vale a alteração mais recente de cada item; notas diferentes são mantidas as duas). <b>Substituir</b> troca tudo pelo backup. O backup tem soma de verificação: arquivo corrompido ou alterado é recusado. Nada sai do seu computador: o curso não usa internet para salvar.</p>';
+    h += '<h3 style="font-size:14px;margin:14px 0 6px">⇅ Export / import</h3><div class="row"><button class="btn" id="exp">⬇ Export backup</button><label class="btn">⬆ Import &amp; merge<input type="file" id="impm" accept="application/json,.json" hidden></label><label class="btn">⬆ Import &amp; replace<input type="file" id="impr" accept="application/json,.json" hidden></label><button class="btn" id="gcimp">Import from genki-companion</button></div>';
+    h += '<p class="small muted" style="margin-top:6px"><b>Merge</b> combines both sides (the most recent change of each item wins; two different notes are both kept). <b>Replace</b> swaps everything for the backup. Backups carry a checksum: a corrupted or edited file is rejected. Nothing leaves your computer — the course never uses the internet to save.</p>';
     // restore points
-    h += '<details style="margin-top:10px"><summary style="cursor:pointer" class="small">🕘 Pontos de restauração</summary><div id="snaps" class="small muted" style="margin-top:6px">carregando…</div><div class="row" style="margin-top:6px"><button class="btn ghost" id="snapnow">Criar ponto agora</button><button class="btn ghost" id="wipe" style="margin-left:auto">Zerar tudo</button></div></details>';
+    h += '<details style="margin-top:10px"><summary style="cursor:pointer" class="small">🕘 Restore points</summary><div id="snaps" class="small muted" style="margin-top:6px">loading…</div><div class="row" style="margin-top:6px"><button class="btn ghost" id="snapnow">Create a point now</button><button class="btn ghost" id="wipe" style="margin-left:auto">Wipe everything</button></div></details>';
     box.innerHTML = h;
     var imp = function (mode) { return function (e) {
       var f = e.target.files[0]; if (!f) return;
-      f.text().then(function (text) { return STORE.importText(text, mode); }).then(function () { if (mode !== 'replace') toast('Backup mesclado ao seu progresso'); }, function (err) { toast('⚠ Não importei: ' + (err.message || err)); });
+      f.text().then(function (text) { return STORE.importText(text, mode); }).then(function () { if (mode !== 'replace') toast('Backup merged into your progress'); }, function (err) { toast('⚠ Not imported: ' + (err.message || err)); });
       e.target.value = '';
     }; };
     document.getElementById('impm').onchange = imp('merge');
-    document.getElementById('impr').onchange = function (e) { if (!confirm('Substituir TODO o progresso por este backup? (O atual vira um ponto de restauração antes.)')) { e.target.value = ''; return; } imp('replace')(e); };
+    document.getElementById('impr').onchange = function (e) { if (!confirm('Replace ALL progress with this backup? (Your current state becomes a restore point first.)')) { e.target.value = ''; return; } imp('replace')(e); };
     STORE.listSnapshots().then(function (list) {
       var el = document.getElementById('snaps'); if (!el) return;
-      if (!list || !list.length) { el.textContent = 'Nenhum ponto ainda: eles aparecem conforme você estuda.'; return; }
+      if (!list || !list.length) { el.textContent = 'No points yet — they appear as you study.'; return; }
       var M = mapN();
-      el.innerHTML = list.slice(0, 30).map(function (x) { var s = window.CursoStore.stats(x.state, M); return '<div class="wb"><span class="pg" style="min-width:92px">' + when(x.ts) + '</span><span style="flex:1">' + esc(x.why) + ' · ' + s.mastered + ' aulas dominadas · ✍️ ' + s.studied + '</span><button class="ibtn" data-restore="' + x.id + '">Restaurar</button></div>'; }).join('');
+      el.innerHTML = list.slice(0, 30).map(function (x) { var s = window.CursoStore.stats(x.state, M); return '<div class="wb"><span class="pg" style="min-width:92px">' + when(x.ts) + '</span><span style="flex:1">' + esc(x.why) + ' · ' + s.mastered + ' lessons mastered · ✍️ ' + s.studied + '</span><button class="ibtn" data-restore="' + x.id + '">Restore</button></div>'; }).join('');
     });
   }
   function importGC() {
     var raw = null; try { raw = localStorage.getItem('genki_companion_v1'); } catch (e) {}
-    if (!raw) { toast('Não encontrei dados do genki-companion neste navegador'); return; }
-    var g; try { g = JSON.parse(raw); } catch (e) { toast('Dados do genki-companion ilegíveis'); return; }
+    if (!raw) { toast('No genki-companion data found in this browser'); return; }
+    var g; try { g = JSON.parse(raw); } catch (e) { toast('genki-companion data is unreadable'); return; }
     var n = 0;
     MAP.forEach(function (m) { var a = aula(m.id); if (!a) return; a.grammar.forEach(function (pt) {
       if (!pt.gc) return; var s = !!g[pt.gc + '_s'], w = !!g[pt.gc + '_w'], note = g[pt.gc + '_note'];
       if (!s && !w && !note) return; var p = S.pts[pt.id] = S.pts[pt.id] || {};
       if (s) p.s = true; if (w) p.w = true; if (note && !p.note) p.note = note; n++;
     }); });
-    S.imported = true; save(); toast(n + ' pontos importados do genki-companion'); renderProgresso();
+    S.imported = true; save(); toast(n + ' points imported from genki-companion'); renderProgresso();
   }
 
   route();

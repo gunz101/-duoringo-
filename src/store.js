@@ -89,7 +89,7 @@
     if (!newer) return older;
     if (newer.indexOf(older) >= 0) return newer;
     if (older.indexOf(newer) >= 0) return older;
-    return newer + '\n\n— (outra cópia) —\n' + older;   // both edited separately: keep both, lose nothing
+    return newer + '\n\n— (other copy) —\n' + older;   // both edited separately: keep both, lose nothing
   }
   // field-by-field "last change wins" (a newer un-check beats an older check); fields with no time on either
   // side (old backups) fall back to union; two different texts are both kept, so a concurrent edit is never lost
@@ -125,10 +125,10 @@
   }
   function unpack(text) {
     var d;
-    try { d = JSON.parse(text); } catch (e) { throw new Error('o arquivo não é JSON válido'); }
-    if (!d || d.app !== APP || !d.state || typeof d.state !== 'object') throw new Error('não é um backup do curso');
+    try { d = JSON.parse(text); } catch (e) { throw new Error('the file is not valid JSON'); }
+    if (!d || d.app !== APP || !d.state || typeof d.state !== 'object') throw new Error('not a course backup');
     var st = sanitize(d.state);
-    if (d.hash && hash(JSON.stringify(st)) !== d.hash) throw new Error('soma de verificação não confere: o arquivo foi alterado ou está corrompido');
+    if (d.hash && hash(JSON.stringify(st)) !== d.hash) throw new Error('checksum mismatch: the file was edited or is corrupted');
     return st;
   }
   function stats(st, map) { // map: [{id, n}] to count mastered aulas
@@ -180,7 +180,7 @@
       if (!force && now - status.lastSnap < 20 * 60 * 1000) return Promise.resolve(false);
       status.lastSnap = now;
       var json = JSON.stringify(S);
-      return tx('snaps', 'readwrite', function (s) { return s.add({ ts: now, why: why || 'automático', json: json }); }).then(function () {
+      return tx('snaps', 'readwrite', function (s) { return s.add({ ts: now, why: why || 'automatic', json: json }); }).then(function () {
         return tx('snaps', 'readwrite', function (s) {
           var rq = s.getAllKeys();
           rq.onsuccess = function () { var keys = rq.result || []; while (keys.length > 30) s.delete(keys.shift()); };
@@ -196,8 +196,8 @@
     function restoreSnapshot(id) {
       return listSnapshots().then(function (list) {
         var hit = list.filter(function (x) { return x.id === id; })[0];
-        if (!hit) throw new Error('ponto de restauração não encontrado');
-        return snapshot('antes de restaurar', true).then(function () { replace(hit.state, 'restaurado'); });
+        if (!hit) throw new Error('restore point not found');
+        return snapshot('before restoring', true).then(function () { replace(hit.state, 'restored'); });
       });
     }
 
@@ -211,7 +211,7 @@
       var json = JSON.stringify(S), okLS = true;
       try { localStorage.setItem(KEY, json); } catch (e) { okLS = false; }
       idbPut('state', json);
-      snapshot('automático', false);
+      snapshot('automatic', false);
       if (fileHandle) { clearTimeout(fileT); fileT = setTimeout(function () { pushFile(); }, 1200); }
       status.saved = S._ts; status.lsError = !okLS; emit();
       if (!status.persistAsked && navigator.storage && navigator.storage.persist) { status.persistAsked = true; navigator.storage.persist().then(function (p) { status.persisted = p; emit(); }).catch(function () {}); }
@@ -239,7 +239,7 @@
         if (p !== 'granted') return false;
         return fileHandle.getFile().then(function (f) { return f.text(); }).then(function (text) {
           if (!text.trim()) return false;
-          var st = unpack(text); status.fileError = ''; return mergeIn(st, 'arquivo');
+          var st = unpack(text); status.fileError = ''; return mergeIn(st, 'file');
         });
       }).catch(function (e) { status.fileError = e.message || String(e); emit(); return false; });
     }
@@ -257,12 +257,12 @@
       return filePerm(h, true).then(function (p) { status.filePerm = p; emit(); return pullFile(); }).then(function () { return pushFile(); });
     }
     function connectNew() {
-      if (!hasFS) return Promise.reject(new Error('este navegador não permite arquivo sincronizado — use Exportar/Importar'));
-      return window.showSaveFilePicker({ suggestedName: 'progresso-duoringo.json', types: [{ description: 'Progresso do curso', accept: { 'application/json': ['.json'] } }] }).then(useHandle);
+      if (!hasFS) return Promise.reject(new Error('this browser cannot use a synced file — use Export/Import'));
+      return window.showSaveFilePicker({ suggestedName: 'duoringo-progress.json', types: [{ description: 'Course progress', accept: { 'application/json': ['.json'] } }] }).then(useHandle);
     }
     function connectExisting() {
-      if (!hasFS) return Promise.reject(new Error('este navegador não permite arquivo sincronizado — use Exportar/Importar'));
-      return window.showOpenFilePicker({ types: [{ description: 'Progresso do curso', accept: { 'application/json': ['.json'] } }] }).then(function (hs) { return useHandle(hs[0]); });
+      if (!hasFS) return Promise.reject(new Error('this browser cannot use a synced file — use Export/Import'));
+      return window.showOpenFilePicker({ types: [{ description: 'Course progress', accept: { 'application/json': ['.json'] } }] }).then(function (hs) { return useHandle(hs[0]); });
     }
     function reconnect() { return fileHandle ? filePerm(fileHandle, true).then(function (p) { status.filePerm = p; emit(); return pullFile(); }).then(pushFile) : Promise.resolve(false); }
     function disconnect() { fileHandle = null; status.file = null; status.filePerm = null; idbDel('fileHandle'); emit(); }
@@ -271,11 +271,11 @@
     function exportText() { return pack(S, Date.now()); }
     function importText(text, mode) {
       var st = unpack(text);
-      return snapshot('antes de importar', true).then(function () {
-        if (mode === 'replace') replace(st, 'importado'); else if (!mergeIn(st, 'importado')) onReplace(S, 'nada novo');
+      return snapshot('before importing', true).then(function () {
+        if (mode === 'replace') replace(st, 'imported'); else if (!mergeIn(st, 'imported')) onReplace(S, 'nothing new');
       });
     }
-    function wipe() { return snapshot('antes de zerar', true).then(function () { replace(blank(), 'zerado'); }); }
+    function wipe() { return snapshot('before wiping', true).then(function () { replace(blank(), 'wiped'); }); }
 
     // ---- start: reconcile localStorage with the IndexedDB mirror, then the progress file
     function init() {
@@ -283,8 +283,8 @@
         if (json) {
           var mirror = null; try { mirror = sanitize(JSON.parse(json)); } catch (e) {}
           var lsEmpty = !Object.keys(S.pts).length && !Object.keys(S.chk).length && !Object.keys(S.notes).length;
-          if (mirror && lsEmpty && (Object.keys(mirror.pts).length || Object.keys(mirror.chk).length || Object.keys(mirror.notes).length)) { S = mirror; prevFlat = flatten(S); persist(); onReplace(S, 'recuperado do espelho'); }
-          else if (mirror && (mirror._ts || 0) > (S._ts || 0)) mergeIn(mirror, 'espelho');
+          if (mirror && lsEmpty && (Object.keys(mirror.pts).length || Object.keys(mirror.chk).length || Object.keys(mirror.notes).length)) { S = mirror; prevFlat = flatten(S); persist(); onReplace(S, 'recovered'); }
+          else if (mirror && (mirror._ts || 0) > (S._ts || 0)) mergeIn(mirror, 'mirror');
         } else if (S._ts) idbPut('state', JSON.stringify(S));
         return idbGet('fileHandle');
       }).then(function (h) {

@@ -52,7 +52,7 @@ ok(JSON.stringify(St.flatten(St.merge(St.merge(A, B), B))) === JSON.stringify(St
 const txt = St.pack(M, 123);
 ok(JSON.stringify(St.unpack(txt)) === JSON.stringify(St.sanitize(M)), 'pack/unpack roundtrip');
 const tampered = JSON.parse(txt); tampered.state.chk['01-1'][0] = false;
-let threw = false; try { St.unpack(JSON.stringify(tampered)); } catch (e) { threw = /soma de verificação/.test(e.message); }
+let threw = false; try { St.unpack(JSON.stringify(tampered)); } catch (e) { threw = /checksum/.test(e.message); }
 ok(threw, 'tampered backup rejected');
 threw = false; try { St.unpack('{"app":"outro","state":{}}'); } catch (e) { threw = true; } ok(threw, 'foreign file rejected');
 threw = false; try { St.unpack('não é json'); } catch (e) { threw = true; } ok(threw, 'non-JSON rejected');

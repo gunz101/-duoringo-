@@ -2,52 +2,52 @@
   "id": "01-1",
   "unit": "G1-L01",
   "genki": { "book": "Genki I", "lesson": 1, "points": ["X は Y です", "Question sentences (〜か)", "Noun₁ の Noun₂"] },
-  "title": "Eu sou…",
-  "titleJp": "わたしは ブラジルじんです",
+  "title": "I am…",
+  "titleJp": "わたしは がくせいです",
   "canDo": [
-    "Dizer quem eu sou: nome, nacionalidade e o que faço (estudante, professor…).",
-    "Transformar uma afirmação em pergunta de sim/não e responder.",
-    "Perguntar \"qual é…?\" (a sua área, o seu nome) e entender a resposta.",
-    "Ligar dois substantivos: \"estudante da universidade X\", \"professor de japonês\", \"meu nome\"."
+    "I can say who I am: my name, my nationality and what I do (student, teacher…).",
+    "I can turn a statement into a yes/no question and answer it.",
+    "I can ask \"what is…?\" (your major, your name) and understand the answer.",
+    "I can link two nouns: \"a student at university X\", \"a Japanese teacher\", \"my name\"."
   ],
   "duration": {
     "total": "60–75 min",
     "blocks": [
-      { "t": "Aquecimento: ler em voz alta o vocabulário da aula (bloco 3), só lendo o kana", "min": 5 },
-      { "t": "Vocabulário: ouvir 🔊 cada palavra e repetir 2 vezes", "min": 10 },
-      { "t": "Gramática: os 3 pontos, cada um com os exemplos lidos em voz alta e um 🔬", "min": 20 },
-      { "t": "Vídeo da Lição 1 (bloco 6), pausando nos exemplos", "min": 10 },
-      { "t": "Lição de casa no caderno + conferir no gabarito", "min": 15 },
-      { "t": "Checklist (bloco 10) + anotar dúvidas no caderno da aula", "min": 5 }
+      { "t": "Warm-up: read this lesson's vocabulary (block 3) aloud, in kana only", "min": 5 },
+      { "t": "Vocabulary: tap 🔊 on each word and repeat it twice", "min": 10 },
+      { "t": "Grammar: the 3 points, each with its examples read aloud and one 🔬", "min": 20 },
+      { "t": "Lesson 1 video (block 6), pausing on the examples", "min": 10 },
+      { "t": "Notebook homework + checking it against the answer key", "min": 15 },
+      { "t": "Checklist (block 10) + write your questions in the lesson notebook", "min": 5 }
     ]
   },
   "prereqs": {
     "aulas": ["00-1", "00-3"],
     "skills": [
-      "Ler hiragana, mesmo que devagar (as frases desta aula são todas em kana).",
-      "Reconhecer katakana básico ajuda para nomes e países (ブラジル, マリア), mas não é obrigatório: o kana vem sempre escrito."
+      "Reading hiragana, even slowly — every sentence in this lesson is in kana.",
+      "Recognizing basic katakana helps with names and countries (アメリカ, マリア), but it is not required: the kana reading is always shown."
     ],
     "vocab": [
-      { "jp": "わたし", "kana": "わたし", "romaji": "watashi", "pt": "eu" },
-      { "jp": "なまえ", "kana": "なまえ", "romaji": "namae", "pt": "nome" },
-      { "jp": "がくせい", "kana": "がくせい", "romaji": "gakusei", "pt": "estudante" },
-      { "jp": "だいがくせい", "kana": "だいがくせい", "romaji": "daigakusei", "pt": "universitário(a)" },
-      { "jp": "せんせい", "kana": "せんせい", "romaji": "sensei", "pt": "professor(a)" },
-      { "jp": "だいがく", "kana": "だいがく", "romaji": "daigaku", "pt": "universidade, faculdade" },
-      { "jp": "にほん", "kana": "にほん", "romaji": "Nihon", "pt": "Japão" },
-      { "jp": "にほんじん", "kana": "にほんじん", "romaji": "nihonjin", "pt": "japonês/japonesa (pessoa)" },
-      { "jp": "にほんご", "kana": "にほんご", "romaji": "nihongo", "pt": "língua japonesa" },
-      { "jp": "ブラジル", "kana": "ブラジル", "romaji": "Burajiru", "pt": "Brasil" },
-      { "jp": "ブラジルじん", "kana": "ブラジルじん", "romaji": "burajirujin", "pt": "brasileiro(a)" },
-      { "jp": "アメリカじん", "kana": "アメリカじん", "romaji": "amerikajin", "pt": "americano(a)" },
-      { "jp": "せんこう", "kana": "せんこう", "romaji": "senkō", "pt": "área de estudo (curso, \"major\")" },
-      { "jp": "れきし", "kana": "れきし", "romaji": "rekishi", "pt": "história" },
-      { "jp": "けいざい", "kana": "けいざい", "romaji": "keizai", "pt": "economia" },
-      { "jp": "〜さん", "kana": "〜さん", "romaji": "-san", "pt": "Sr./Sra. (depois do nome dos outros, nunca do seu)" },
-      { "jp": "なん", "kana": "なん", "romaji": "nan", "pt": "o quê (forma usada antes de です)" },
-      { "jp": "はい", "kana": "はい", "romaji": "hai", "pt": "sim" },
-      { "jp": "いいえ", "kana": "いいえ", "romaji": "iie", "pt": "não" },
-      { "jp": "そうです", "kana": "そうです", "romaji": "sō desu", "pt": "isso mesmo, é sim" }
+      { "jp": "わたし", "kana": "わたし", "romaji": "watashi", "en": "I, me" },
+      { "jp": "なまえ", "kana": "なまえ", "romaji": "namae", "en": "name" },
+      { "jp": "がくせい", "kana": "がくせい", "romaji": "gakusei", "en": "student" },
+      { "jp": "だいがくせい", "kana": "だいがくせい", "romaji": "daigakusei", "en": "college student" },
+      { "jp": "せんせい", "kana": "せんせい", "romaji": "sensei", "en": "teacher" },
+      { "jp": "だいがく", "kana": "だいがく", "romaji": "daigaku", "en": "university, college" },
+      { "jp": "にほん", "kana": "にほん", "romaji": "Nihon", "en": "Japan" },
+      { "jp": "にほんじん", "kana": "にほんじん", "romaji": "nihonjin", "en": "Japanese (person)" },
+      { "jp": "にほんご", "kana": "にほんご", "romaji": "nihongo", "en": "the Japanese language" },
+      { "jp": "ブラジル", "kana": "ブラジル", "romaji": "Burajiru", "en": "Brazil" },
+      { "jp": "ブラジルじん", "kana": "ブラジルじん", "romaji": "burajirujin", "en": "Brazilian (person)" },
+      { "jp": "アメリカじん", "kana": "アメリカじん", "romaji": "amerikajin", "en": "American (person)" },
+      { "jp": "せんこう", "kana": "せんこう", "romaji": "senkō", "en": "major (field of study)" },
+      { "jp": "れきし", "kana": "れきし", "romaji": "rekishi", "en": "history" },
+      { "jp": "けいざい", "kana": "けいざい", "romaji": "keizai", "en": "economics" },
+      { "jp": "〜さん", "kana": "〜さん", "romaji": "-san", "en": "Mr./Ms. (after other people's names, never your own)" },
+      { "jp": "なん", "kana": "なん", "romaji": "nan", "en": "what (the form used before です)" },
+      { "jp": "はい", "kana": "はい", "romaji": "hai", "en": "yes" },
+      { "jp": "いいえ", "kana": "いいえ", "romaji": "iie", "en": "no" },
+      { "jp": "そうです", "kana": "そうです", "romaji": "sō desu", "en": "that's right" }
     ]
   },
   "grammar": [
@@ -55,47 +55,47 @@
       "id": "01-1-a",
       "gc": "1-1",
       "title": "X は Y です",
-      "gloss": "X é Y",
-      "explanation": "É a frase mais básica do japonês: diz o que X é. **は marca o tópico**, ou seja, o assunto da frase (\"quanto a X…\"). Como partícula, は se lê **wa**, não \"ha\". **です vai sempre no fim** e equivale a \"é / sou / são\", no registro educado.\n• です não muda com a pessoa nem com o número: serve para eu sou, você é, eles são.\n• Não existem artigos nem plural: がくせい pode ser \"estudante\", \"o estudante\" ou \"estudantes\".\n• Quando o tópico é óbvio, ele some: numa apresentação, basta dizer ブラジルじんです。 Repetir わたしは em toda frase soa robótico.",
+      "gloss": "X is Y",
+      "explanation": "The most basic Japanese sentence: it says what X is. **は marks the topic** — what the sentence is about (\"as for X…\"). As a particle, は is read **wa**, not \"ha\". **です always comes at the end** and means \"is / am / are\" in the polite style.\n• です never changes with the person or number: I am, you are, they are — all です.\n• There are no articles and no plural: がくせい can be \"a student\", \"the student\" or \"students\".\n• When the topic is obvious, it disappears: introducing yourself, just ブラジルじんです。 is enough — repeating わたしは in every sentence sounds robotic.",
       "structure": "[X] は [Y] です。",
       "examples": [
-        { "jp": "わたしは ブラジルじんです。", "kana": "わたしは ブラジルじんです。", "romaji": "Watashi wa burajirujin desu.", "pt": "Eu sou brasileiro(a)." },
-        { "jp": "たなかさんは せんせいです。", "kana": "たなかさんは せんせいです。", "romaji": "Tanaka-san wa sensei desu.", "pt": "O(A) Sr(a). Tanaka é professor(a)." },
-        { "jp": "ペドロさんは だいがくせいです。", "kana": "ペドロさんは だいがくせいです。", "romaji": "Pedoro-san wa daigakusei desu.", "pt": "O Pedro é universitário." }
+        { "jp": "わたしは ブラジルじんです。", "kana": "わたしは ブラジルじんです。", "romaji": "Watashi wa burajirujin desu.", "en": "I'm Brazilian. [lit. as for me, Brazilian is]" },
+        { "jp": "たなかさんは せんせいです。", "kana": "たなかさんは せんせいです。", "romaji": "Tanaka-san wa sensei desu.", "en": "Mr./Ms. Tanaka is a teacher." },
+        { "jp": "ジョンさんは だいがくせいです。", "kana": "ジョンさんは だいがくせいです。", "romaji": "Jon-san wa daigakusei desu.", "en": "John is a college student." }
       ],
       "pitfalls": [
-        "は como partícula se lê \"wa\". Dentro de uma palavra continua \"ha\": はい (hai), はな (hana).",
-        "Nunca use さん depois do seu próprio nome. わたしは ペドロさんです soa como se você se chamasse de \"senhor\".",
-        "です não é \"está\" de lugar nem de estado temporário. Para dizer onde algo está, o japonês usa outro verbo (Aula 04-1)."
+        "は as a particle is read \"wa\" — but inside a word it stays \"ha\": はい (hai), はな (hana).",
+        "Never put さん after your own name: わたしは ジョンさんです ✗ → わたしは ジョンです ✓.",
+        "です is not \"is located\": to say where something is, Japanese uses a different verb (lesson 04-1). がっこうは です ✗ — です needs the Y (what X is)."
       ],
       "howToStudy": [
-        "Diga em voz alta 5 frases verdadeiras sobre você, trocando só o Y: ブラジルじんです → がくせいです → …",
-        "Aperte 🔬 nos exemplos. O bloco com は é o TÓPICO e o bloco com です é o PREDICADO: leia sempre começando pelo predicado.",
-        "No caderno, escreva 3 frases sobre pessoas que você conhece (〜さんは 〜です)."
+        "Say 5 true sentences about yourself out loud, changing only Y: ブラジルじんです → がくせいです → …",
+        "Tap 🔬 on the examples: the block with は is the TOPIC, the block with です is the PREDICATE — always read starting from the predicate.",
+        "In your notebook, write 3 sentences about people you know (〜さんは 〜です)."
       ],
       "flag": null
     },
     {
       "id": "01-1-b",
       "gc": "1-2",
-      "title": "〜か (perguntas)",
-      "gloss": "partícula de pergunta",
-      "explanation": "Para perguntar, basta colocar **か no fim** da frase. A ordem das palavras não muda: o japonês não inverte como o inglês (\"Are you…?\"). Na fala, a entonação sobe no か. Na escrita formal, a frase termina com 。, porque o か já faz o papel do ponto de interrogação.\n• Resposta afirmativa: はい、そうです。 (\"Sim, é isso.\")\n• Resposta negativa, por enquanto: いいえ + a informação certa (いいえ、アメリカじんです。). A forma negativa completa fica para a Aula 02-3.\n• Com palavra interrogativa, ela entra **no lugar onde a resposta vai ficar**. Assim, せんこうは なんですか。 é respondida com せんこうは れきしです。 Antes de です, \"o quê\" é なん.",
+      "title": "〜か (questions)",
+      "gloss": "the question particle",
+      "explanation": "To ask a question, just put **か at the end**. The word order does **not** change — Japanese never inverts like English \"Are you…?\". In speech your voice rises on か; in formal writing the sentence ends with 。, because か already does the job of the question mark.\n• A \"yes\" answer: はい、そうです。 (\"Yes, that's right.\")\n• A \"no\" answer, for now: いいえ + the correct information (いいえ、アメリカじんです。). The full negative form comes in lesson 02-3.\n• With a question word, the question word goes **exactly where the answer will go**: せんこうは なんですか。 → せんこうは れきしです。 Before です, \"what\" is なん.",
       "structure": "[X] は [Y] ですか。 · [X] は なんですか。",
       "examples": [
-        { "jp": "せんせいですか。— はい、そうです。", "kana": "せんせいですか。— はい、そうです。", "romaji": "Sensei desu ka. — Hai, sō desu.", "pt": "Você é professor(a)? — Sim, sou." },
-        { "jp": "マリアさんは にほんじんですか。— いいえ、ブラジルじんです。", "kana": "マリアさんは にほんじんですか。— いいえ、ブラジルじんです。", "romaji": "Maria-san wa nihonjin desu ka. — Iie, burajirujin desu.", "pt": "A Maria é japonesa? — Não, é brasileira." },
-        { "jp": "せんこうは なんですか。— けいざいです。", "kana": "せんこうは なんですか。— けいざいです。", "romaji": "Senkō wa nan desu ka. — Keizai desu.", "pt": "Qual é a sua área? — Economia." }
+        { "jp": "せんせいですか。— はい、そうです。", "kana": "せんせいですか。— はい、そうです。", "romaji": "Sensei desu ka. — Hai, sō desu.", "en": "Are you a teacher? — Yes, I am." },
+        { "jp": "マリアさんは にほんじんですか。— いいえ、ブラジルじんです。", "kana": "マリアさんは にほんじんですか。— いいえ、ブラジルじんです。", "romaji": "Maria-san wa nihonjin desu ka. — Iie, burajirujin desu.", "en": "Is Maria Japanese? — No, she's Brazilian." },
+        { "jp": "せんこうは なんですか。— けいざいです。", "kana": "せんこうは なんですか。— けいざいです。", "romaji": "Senkō wa nan desu ka. — Keizai desu.", "en": "What's your major? — Economics." }
       ],
       "pitfalls": [
-        "Não mude a ordem para perguntar. Pegue a afirmação e acrescente か.",
-        "\"O quê\" antes de です é なん (なんですか), não なに.",
-        "Em japonês é comum não dizer \"você\" (あなた). Chamar alguém de あなた pode soar frio. Prefira o nome + さん, ou simplesmente nenhum sujeito."
+        "Don't reorder the sentence to ask: take the statement and add か. ですか がくせい ✗ → がくせいですか ✓.",
+        "\"What\" before です is なん (なんですか), not なに: なにですか ✗ → なんですか ✓.",
+        "Japanese usually avoids saying \"you\" (あなた) — calling someone あなた can sound cold. Use their name + さん, or no subject at all."
       ],
       "howToStudy": [
-        "Pegue as 5 frases que você falou no ponto anterior e transforme cada uma em pergunta. Responda はい、そうです a cada uma.",
-        "Faça 3 perguntas com なんですか sobre coisas que você sabe responder (せんこうは なんですか…).",
-        "Ao ouvir os diálogos do vídeo, repare como a voz sobe no か."
+        "Take the 5 sentences you said in the previous point and turn each into a question; answer はい、そうです to each.",
+        "Ask 3 questions with なんですか about things you can answer (せんこうは なんですか…).",
+        "When you hear dialogues in the video, notice how the voice rises on か."
       ],
       "flag": null
     },
@@ -103,105 +103,105 @@
       "id": "01-1-c",
       "gc": "1-3",
       "title": "N₁ の N₂",
-      "gloss": "ligar dois substantivos (\"de\")",
-      "explanation": "の liga dois substantivos. O **primeiro descreve o segundo**, e o segundo é o núcleo, a coisa de que se fala. A ordem é o **inverso do português**: \"professor de japonês\" vira にほんごの せんせい.\n• Posse: わたしの なまえ (\"meu nome\"). \"Meu\", \"seu\" e \"dele\" são só pessoa + の.\n• Vínculo: サンパウロだいがくの がくせい (\"estudante da USP\").\n• Assunto/área: にほんごの せんせい (\"professor de japonês\").\n• Dá para encadear: わたしの だいがくの せんせい (\"o professor da minha faculdade\").",
-      "structure": "[N₁] の [N₂] — o N₂ é a coisa principal",
+      "gloss": "linking two nouns (\"of\", \"'s\")",
+      "explanation": "の links two nouns: the **first describes the second**, and the second is the core — the thing you are talking about. The order is like English \"'s\" (John's book = ジョンさんの ほん), and the reverse of \"of\" (teacher of Japanese = にほんごの せんせい).\n• Possession: わたしの なまえ (\"my name\"). \"My\", \"your\", \"his\" are just person + の.\n• Belonging: サンパウロだいがくの がくせい (\"a student at the University of São Paulo\").\n• Subject/field: にほんごの せんせい (\"a Japanese teacher\").\n• It chains: わたしの だいがくの せんせい (\"a teacher at my university\").",
+      "structure": "[N₁] の [N₂] — N₂ is the main thing",
       "examples": [
-        { "jp": "わたしの なまえは マリアです。", "kana": "わたしの なまえは マリアです。", "romaji": "Watashi no namae wa Maria desu.", "pt": "Meu nome é Maria." },
-        { "jp": "ペドロさんは サンパウロだいがくの がくせいです。", "kana": "ペドロさんは サンパウロだいがくの がくせいです。", "romaji": "Pedoro-san wa Sanpauro daigaku no gakusei desu.", "pt": "O Pedro é estudante da Universidade de São Paulo." },
-        { "jp": "にほんごの せんせいは たなかさんです。", "kana": "にほんごの せんせいは たなかさんです。", "romaji": "Nihongo no sensei wa Tanaka-san desu.", "pt": "O(A) professor(a) de japonês é o(a) Sr(a). Tanaka." }
+        { "jp": "わたしの なまえは マリアです。", "kana": "わたしの なまえは マリアです。", "romaji": "Watashi no namae wa Maria desu.", "en": "My name is Maria." },
+        { "jp": "ペドロさんは サンパウロだいがくの がくせいです。", "kana": "ペドロさんは サンパウロだいがくの がくせいです。", "romaji": "Pedoro-san wa Sanpauro daigaku no gakusei desu.", "en": "Pedro is a student at the University of São Paulo." },
+        { "jp": "にほんごの せんせいは たなかさんです。", "kana": "にほんごの せんせいは たなかさんです。", "romaji": "Nihongo no sensei wa Tanaka-san desu.", "en": "The Japanese teacher is Mr./Ms. Tanaka." }
       ],
       "pitfalls": [
-        "Inverter a ordem muda o sentido. せんせいの にほんご é \"o japonês do professor\", não \"o professor de japonês\".",
-        "O の desta aula liga substantivo a substantivo. Adjetivos se ligam de outro jeito, sem の (Aula 05-1).",
-        "Não traduza todo \"de\" do português por の. \"Ir de ônibus\" e \"sair de casa\" usam outras partículas, que você vai ver nas Aulas 03-2 e 10-3. の é só para ligar um substantivo a outro."
+        "Swapping the order changes the meaning: せんせいの にほんご is \"the teacher's Japanese\", not \"the Japanese teacher\".",
+        "This の links noun to noun. Adjectives attach differently, without の (lesson 05-1): たかいの やま ✗ → たかい やま ✓.",
+        "Don't translate every English \"of/from/by\" with の: \"go by bus\" or \"leave from home\" use other particles (lessons 03-2 and 10-3). の is only for noun + noun."
       ],
       "howToStudy": [
-        "Traduza em voz alta, invertendo a ordem: \"nome do professor\" → せんせいの なまえ; \"estudante de história\" → れきしの がくせい.",
-        "Aperte 🔬 no exemplo do Pedro. O bloco サンパウロだいがくの aparece como DESCREVE O PRÓXIMO, preso ao がくせい.",
-        "Escreva no caderno 3 coisas suas com わたしの… (なまえ, せんこう, だいがく)."
+        "Translate out loud: \"the teacher's name\" → せんせいの なまえ; \"a history student\" → れきしの がくせい.",
+        "Tap 🔬 on the Pedro example: サンパウロだいがくの shows up as DESCRIBES NEXT, attached to がくせい.",
+        "Write 3 things of yours in your notebook with わたしの… (なまえ, せんこう, だいがく)."
       ],
       "flag": null
     }
   ],
   "media": [
-    { "order": 1, "kind": "leitura", "title": "Genki I · Lição 1: diálogo, vocabulário e as explicações de gramática (X は Y です, perguntas, の)", "where": "Seu livro Genki I (3ª ed.)", "url": "", "when": "Antes desta aula ou logo depois do bloco de gramática" },
-    { "order": 2, "kind": "video", "title": "ToKini Andy: aula da Lição 1 do Genki I (gramática)", "where": "YouTube · canal ToKini Andy", "url": "", "when": "Depois de estudar os 3 pontos: o vídeo confirma e dá mais exemplos" },
-    { "order": 3, "kind": "app", "title": "genki-companion: Lição 1, pontos 1 a 3 (marque ✍️ quando terminar)", "where": "../genki-companion/index.html", "url": "../genki-companion/index.html", "when": "No fim, para revisar e marcar o progresso" }
+    { "order": 1, "kind": "reading", "title": "Genki I · Lesson 1: the dialogue, vocabulary and grammar notes (X は Y です, questions, の)", "where": "Your Genki I textbook (3rd ed.)", "url": "", "when": "Before this lesson or right after the grammar block" },
+    { "order": 2, "kind": "video", "title": "Japanese Ammo with Misa: the particle は and です for beginners", "where": "YouTube · Japanese Ammo with Misa channel", "url": "", "search": "Japanese Ammo with Misa wa desu beginner", "when": "Optional, if you want a third explanation" },
+    { "order": 3, "kind": "app", "title": "genki-companion: Lesson 1, points 1–3 (tick ✍️ when you finish)", "where": "../genki-companion/index.html", "url": "../genki-companion/index.html", "when": "At the end, to review and mark your progress" }
   ],
   "homework": {
-    "intro": "Faça no caderno, à mão, escrevendo o japonês em kana. Só depois abra o gabarito, item por item. Circule o que errou e refaça no dia seguinte.",
+    "intro": "Do it by hand in your notebook, writing the Japanese in kana. Only then open the answer key, item by item. Circle what you got wrong and redo it the next day.",
     "tasks": [
       {
         "id": "h1",
-        "type": "traduzir",
-        "prompt": "Traduza para o japonês.",
+        "type": "translate",
+        "prompt": "Translate into Japanese.",
         "items": [
-          { "q": "Eu sou estudante.", "a": { "jp": "わたしは がくせいです。", "romaji": "Watashi wa gakusei desu." } },
-          { "q": "O Sr. Tanaka é japonês.", "a": { "jp": "たなかさんは にほんじんです。", "romaji": "Tanaka-san wa nihonjin desu." } },
-          { "q": "A Maria é brasileira?", "a": { "jp": "マリアさんは ブラジルじんですか。", "romaji": "Maria-san wa burajirujin desu ka." } },
-          { "q": "Meu nome é Pedro.", "a": { "jp": "わたしの なまえは ペドロです。", "romaji": "Watashi no namae wa Pedoro desu." } },
-          { "q": "A Sra. Suzuki é professora de japonês.", "a": { "jp": "すずきさんは にほんごの せんせいです。", "romaji": "Suzuki-san wa nihongo no sensei desu." } },
-          { "q": "Qual é a sua área? — É história.", "a": { "jp": "せんこうは なんですか。— れきしです。", "romaji": "Senkō wa nan desu ka. — Rekishi desu." } }
+          { "q": "I am a student.", "a": { "jp": "わたしは がくせいです。", "romaji": "Watashi wa gakusei desu." } },
+          { "q": "Mr. Tanaka is Japanese.", "a": { "jp": "たなかさんは にほんじんです。", "romaji": "Tanaka-san wa nihonjin desu." } },
+          { "q": "Is Maria Brazilian?", "a": { "jp": "マリアさんは ブラジルじんですか。", "romaji": "Maria-san wa burajirujin desu ka." } },
+          { "q": "My name is John.", "a": { "jp": "わたしの なまえは ジョンです。", "romaji": "Watashi no namae wa Jon desu." } },
+          { "q": "Ms. Suzuki is a Japanese teacher.", "a": { "jp": "すずきさんは にほんごの せんせいです。", "romaji": "Suzuki-san wa nihongo no sensei desu." } },
+          { "q": "What's your major? — History.", "a": { "jp": "せんこうは なんですか。— れきしです。", "romaji": "Senkō wa nan desu ka. — Rekishi desu." } }
         ]
       },
       {
         "id": "h2",
-        "type": "completar",
-        "prompt": "Complete com は, か ou の.",
+        "type": "fill",
+        "prompt": "Fill in は, か or の.",
         "items": [
-          { "q": "わたし＿ なまえは ケンです。", "a": { "jp": "の", "romaji": "no" }, "note": "\"meu nome\": わたし descreve なまえ." },
-          { "q": "ケンさん＿ にほんじんです。", "a": { "jp": "は", "romaji": "wa" }, "note": "ケンさん é o tópico." },
-          { "q": "せんせいです＿。", "a": { "jp": "か", "romaji": "ka" }, "note": "Pergunta: か vai no fim." },
-          { "q": "とうきょうだいがく＿ がくせいです。", "a": { "jp": "の", "romaji": "no" }, "note": "\"estudante da Univ. de Tóquio\"." },
-          { "q": "せんこう＿ なんですか。", "a": { "jp": "は", "romaji": "wa" }, "note": "\"Quanto à área, é o quê?\"" }
+          { "q": "わたし＿ なまえは ケンです。", "a": { "jp": "の", "romaji": "no" }, "note": "\"my name\": わたし describes なまえ." },
+          { "q": "ケンさん＿ にほんじんです。", "a": { "jp": "は", "romaji": "wa" }, "note": "ケンさん is the topic." },
+          { "q": "せんせいです＿。", "a": { "jp": "か", "romaji": "ka" }, "note": "A question: か goes at the end." },
+          { "q": "とうきょうだいがく＿ がくせいです。", "a": { "jp": "の", "romaji": "no" }, "note": "\"a student at the University of Tokyo\"." },
+          { "q": "せんこう＿ なんですか。", "a": { "jp": "は", "romaji": "wa" }, "note": "\"As for your major, what is it?\"" }
         ]
       },
       {
         "id": "h3",
-        "type": "pergunta",
-        "prompt": "Escreva a pergunta que produziria cada resposta.",
+        "type": "question",
+        "prompt": "Write the question that would produce each answer.",
         "items": [
           { "q": "はい、そうです。がくせいです。", "a": { "jp": "がくせいですか。", "romaji": "Gakusei desu ka." } },
-          { "q": "いいえ、アメリカじんです。", "a": { "jp": "にほんじんですか。", "romaji": "Nihonjin desu ka." }, "note": "Qualquer nacionalidade diferente de americano serve (ブラジルじんですか…)." },
+          { "q": "いいえ、アメリカじんです。", "a": { "jp": "にほんじんですか。", "romaji": "Nihonjin desu ka." }, "note": "Any nationality other than American works (ブラジルじんですか…)." },
           { "q": "にほんごです。", "a": { "jp": "せんこうは なんですか。", "romaji": "Senkō wa nan desu ka." } }
         ]
       },
       {
         "id": "h4",
-        "type": "produzir",
-        "prompt": "Escreva sua autoapresentação em 4 frases: nome, nacionalidade, o que você faz e onde, mais uma frase com の. Depois leia em voz alta e grave no celular.",
+        "type": "produce",
+        "prompt": "Write your self-introduction in 4 sentences: name, nationality, what you do, and one sentence with の. Then read it aloud and record it on your phone.",
         "items": [
-          { "q": "Modelo, que o seu texto deve seguir na estrutura e não nas palavras:", "a": { "jp": "わたしの なまえは ペドロです。ブラジルじんです。だいがくせいです。せんこうは けいざいです。", "romaji": "Watashi no namae wa Pedoro desu. Burajirujin desu. Daigakusei desu. Senkō wa keizai desu.", "pt": "Meu nome é Pedro. Sou brasileiro. Sou universitário. Minha área é economia." }, "note": "Confira: tópico com は, です no fim, の só entre dois substantivos, e わたしは não repetido em toda frase." }
+          { "q": "Model (match its structure, not its words):", "a": { "jp": "わたしの なまえは ジョンです。アメリカじんです。だいがくせいです。せんこうは けいざいです。", "romaji": "Watashi no namae wa Jon desu. Amerikajin desu. Daigakusei desu. Senkō wa keizai desu.", "en": "My name is John. I'm American. I'm a college student. My major is economics." }, "note": "Check: the topic takes は, です comes at the end, の only between two nouns, and わたしは is not repeated in every sentence." }
         ]
       }
     ],
     "workbook": [
-      { "p": 16, "t": "1 · X は Y です", "tip": "Faça depois do ponto 4a." },
-      { "p": 17, "t": "2 · Question Sentences", "tip": "Faça depois do ponto 4b." },
-      { "p": 18, "t": "3 · Noun₁ の Noun₂", "tip": "Faça depois do ponto 4c. Confira no Genki Answer Key oficial." }
+      { "p": 16, "t": "1 · X は Y です", "tip": "Do it after point 4a." },
+      { "p": 17, "t": "2 · Question Sentences", "tip": "Do it after point 4b." },
+      { "p": 18, "t": "3 · Noun₁ の Noun₂", "tip": "Do it after point 4c; check it with the official Genki Answer Key." }
     ]
   },
   "practice": [
-    { "tool": "Wagotabi", "what": "Jogue normalmente. Sempre que um diálogo terminar em です ou ですか, pause e diga em voz alta qual é o tópico (は) e qual é o predicado. Copie 2 dessas frases no caderno.", "min": 15 },
-    { "tool": "ヅオリンゴー", "what": "Vocabulário da Lição 1 no SRS. Depois, Treinos → 🔬 Anatomia → 🏷 Etiquetar: 5 frases.", "min": 10 },
-    { "tool": "Shadowing", "what": "Toque 🔊 em cada exemplo desta aula e repita junto 3 vezes, imitando o ritmo. As sílabas têm todas a mesma duração.", "min": 5 },
-    { "tool": "Kana", "what": "Se ainda está na fase de kana: 10 min na Trilha de Kana (ヅオリンゴー) ou no kana-flow.", "min": 10 },
-    { "tool": "Fala", "what": "Grave sua autoapresentação (lição de casa h4) em até 30 s. Ouça e compare com a gravação da semana que vem.", "min": 5 }
+    { "tool": "Wagotabi", "what": "Play normally. Whenever a line of dialogue ends in です or ですか, pause and say out loud which part is the topic (は) and which is the predicate. Copy 2 of those lines into your notebook.", "min": 15 },
+    { "tool": "ヅオリンゴー", "what": "Lesson 1 vocabulary in the SRS, then Drills → 🔬 Anatomy → 🏷 Tag: 5 sentences.", "min": 10 },
+    { "tool": "Shadowing", "what": "Tap 🔊 on each example in this lesson and repeat along 3 times, copying the rhythm (every syllable has the same length).", "min": 5 },
+    { "tool": "Kana", "what": "Still in the kana phase? 10 minutes on the Kana Trail in the app or in kana-flow.", "min": 10 },
+    { "tool": "Speaking", "what": "Record your self-introduction (homework h4) in 30 seconds or less. Listen and compare it with next week's recording.", "min": 5 }
   ],
   "culture": {
-    "title": "A reverência (おじぎ)",
+    "title": "Bowing (おじぎ)",
     "titleJp": "おじぎ",
-    "body": "No Japão, a apresentação vem com uma **reverência**, não com aperto de mão ou beijo. Para se apresentar a colegas basta uma leve inclinação do tronco, de uns 15°, chamada 会釈 (eshaku), com as costas retas e o olhar descendo naturalmente. Inclinações mais profundas (por volta de 30° e 45°) mostram mais respeito ou um pedido de desculpas sério. Com estrangeiros, muitos japoneses oferecem a mão; retribua com um aperto leve e um pequeno aceno de cabeça. A reverência costuma acompanhar はじめまして。…よろしく おねがいします。, que você viu na Aula 00-3.",
-    "try": "Na frente do espelho: diga はじめまして。わたしは (seu nome) です。よろしく おねがいします。 e faça um 会釈 no よろしく."
+    "body": "In Japan, introductions come with a **bow**, not a handshake or a kiss on the cheek. Among colleagues, a slight bow of about 15° (会釈 eshaku) is enough: back straight, eyes lowering naturally. Deeper bows (around 30° and 45°) show more respect or a serious apology. With foreigners, many Japanese people offer a hand — return a light handshake with a small nod. A bow usually goes with はじめまして。…よろしく おねがいします。, which you saw in lesson 00-3.",
+    "try": "In front of a mirror, say はじめまして。わたしは (your name) です。よろしく おねがいします。 and do an 会釈 on よろしく."
   },
   "checklist": [
-    "Consigo me apresentar (nome, nacionalidade, o que faço) em 3–4 frases, sem olhar.",
-    "Transformo qualquer frase X は Y です em pergunta com か e respondo はい、そうです。",
-    "Pergunto \"qual é…?\" com 〜は なんですか。",
-    "Monto N₁ の N₂ na ordem certa: professor de japonês = にほんごの せんせい.",
-    "Leio は como \"wa\" quando é partícula.",
-    "Fiz a lição de casa e conferi o gabarito, e refiz o que errei.",
-    "Fiz as páginas 16–18 do Workbook."
+    "I can introduce myself (name, nationality, what I do) in 3–4 sentences without looking.",
+    "I can turn any X は Y です sentence into a question with か and answer はい、そうです。",
+    "I can ask \"what is…?\" with 〜は なんですか。",
+    "I can build N₁ の N₂ in the right order (a Japanese teacher = にほんごの せんせい).",
+    "I read は as \"wa\" when it is a particle.",
+    "I did the homework, checked it against the answer key and redid what I got wrong.",
+    "I did Workbook pages 16–18."
   ]
 }

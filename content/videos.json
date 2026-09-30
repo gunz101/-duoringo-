@@ -1,23 +1,23 @@
 {
- "note": "Vídeos verificados na listagem oficial das playlists do YouTube (ToKini Andy \"GENKI Grammar Made Clear\" N5/N4; Game Gengo \"Complete Genki 1: Grammar\"). O build injeta estes itens no bloco 6 de cada aula.",
+ "note": "Videos verified from the official YouTube playlist listings (ToKini Andy \"GENKI Grammar Made Clear\" N5/N4; Game Gengo \"Complete Genki 1: Grammar\"). The build injects these into block 6 of each lesson.",
  "verified": "2026-09-29",
  "aulas": {
   "01-1": [
    {
     "kind": "video",
-    "title": "ToKini Andy · Genki I Lição 1: a gramática da lição inteira (em inglês)",
-    "where": "YouTube · canal ToKini Andy (playlist \"GENKI Grammar Made Clear\")",
+    "title": "ToKini Andy · Genki I Lesson 1: the whole lesson's grammar",
+    "where": "YouTube · ToKini Andy channel (playlist \"GENKI Grammar Made Clear\")",
     "url": "https://www.youtube.com/watch?v=GaQBL4XHuSo",
-    "when": "Depois de estudar os pontos desta aula: assista à parte deles (o vídeo cobre a lição toda)."
+    "when": "After studying this lesson's points: watch their part (the video covers the whole Genki lesson)."
    },
    {
     "kind": "video",
-    "title": "Game Gengo · um vídeo curto por ponto (em inglês)",
-    "where": "YouTube · canal Game Gengo (playlist \"Complete Genki 1: Grammar\")",
+    "title": "Game Gengo · one short video per grammar point",
+    "where": "YouTube · Game Gengo channel (playlist \"Complete Genki 1: Grammar\")",
     "url": "https://www.youtube.com/watch?v=-K7JSUSJSDw",
     "links": [
      {
-      "t": "は (tópico)",
+      "t": "は (topic)",
       "url": "https://www.youtube.com/watch?v=-K7JSUSJSDw"
      },
      {
@@ -25,38 +25,38 @@
       "url": "https://www.youtube.com/watch?v=VXHJH_bik3o"
      },
      {
-      "t": "か (pergunta)",
+      "t": "か (question)",
       "url": "https://www.youtube.com/watch?v=OKnk7OqkxJE"
      },
      {
-      "t": "の (posse)",
+      "t": "の (possession)",
       "url": "https://www.youtube.com/watch?v=WlMjtwY7G6o"
      }
     ],
-    "when": "Logo depois de cada ponto do bloco 4, para ver o mesmo ponto explicado de outro jeito."
+    "when": "Right after each point in block 4, to see the same point explained another way."
    }
   ],
   "01-2": [
    {
     "kind": "video",
-    "title": "ToKini Andy · Genki I Lição 1: a gramática da lição inteira (em inglês)",
-    "where": "YouTube · canal ToKini Andy (playlist \"GENKI Grammar Made Clear\")",
+    "title": "ToKini Andy · Genki I Lesson 1: the whole lesson's grammar",
+    "where": "YouTube · ToKini Andy channel (playlist \"GENKI Grammar Made Clear\")",
     "url": "https://www.youtube.com/watch?v=GaQBL4XHuSo",
-    "when": "Revisão: assista à Lição 1 inteira depois desta aula."
+    "when": "Review: watch the whole Lesson 1 video after this lesson."
    }
   ],
   "02-1": [
    {
     "kind": "video",
-    "title": "ToKini Andy · Genki I Lição 2: a gramática da lição inteira (em inglês)",
-    "where": "YouTube · canal ToKini Andy (playlist \"GENKI Grammar Made Clear\")",
+    "title": "ToKini Andy · Genki I Lesson 2: the whole lesson's grammar",
+    "where": "YouTube · ToKini Andy channel (playlist \"GENKI Grammar Made Clear\")",
     "url": "https://www.youtube.com/watch?v=ftXNzFRpDbk",
-    "when": "Depois de estudar os pontos desta aula: assista à parte deles (o vídeo cobre a lição toda)."
+    "when": "After studying this lesson's points: watch their part (the video covers the whole Genki lesson)."
    },
    {
     "kind": "video",
-    "title": "Game Gengo · um vídeo curto por ponto (em inglês)",
-    "where": "YouTube · canal Game Gengo (playlist \"Complete Genki 1: Grammar\")",
+    "title": "Game Gengo · one short video per grammar point",
+    "where": "YouTube · Game Gengo channel (playlist \"Complete Genki 1: Grammar\")",
     "url": "https://www.youtube.com/watch?v=dv8IgIPAQN4",
     "links": [
      {
@@ -76,30 +76,30 @@
       "url": "https://www.youtube.com/watch?v=yj6Rr03AV44"
      }
     ],
-    "when": "Logo depois de cada ponto do bloco 4, para ver o mesmo ponto explicado de outro jeito."
+    "when": "Right after each point in block 4, to see the same point explained another way."
    }
   ],
   "02-2": [
    {
     "kind": "video",
-    "title": "ToKini Andy · Genki I Lição 2: a gramática da lição inteira (em inglês)",
-    "where": "YouTube · canal ToKini Andy (playlist \"GENKI Grammar Made Clear\")",
+    "title": "ToKini Andy · Genki I Lesson 2: the whole lesson's grammar",
+    "where": "YouTube · ToKini Andy channel (playlist \"GENKI Grammar Made Clear\")",
     "url": "https://www.youtube.com/watch?v=ftXNzFRpDbk",
-    "when": "Revisão: assista à Lição 2 inteira depois desta aula."
+    "when": "Review: watch the whole Lesson 2 video after this lesson."
    }
   ],
   "02-3": [
    {
     "kind": "video",
-    "title": "ToKini Andy · Genki I Lição 2: a gramática da lição inteira (em inglês)",
-    "where": "YouTube · canal ToKini Andy (playlist \"GENKI Grammar Made Clear\")",
+    "title": "ToKini Andy · Genki I Lesson 2: the whole lesson's grammar",
+    "where": "YouTube · ToKini Andy channel (playlist \"GENKI Grammar Made Clear\")",
     "url": "https://www.youtube.com/watch?v=ftXNzFRpDbk",
-    "when": "Depois de estudar os pontos desta aula: assista à parte deles (o vídeo cobre a lição toda)."
+    "when": "After studying this lesson's points: watch their part (the video covers the whole Genki lesson)."
    },
    {
     "kind": "video",
-    "title": "Game Gengo · um vídeo curto por ponto (em inglês)",
-    "where": "YouTube · canal Game Gengo (playlist \"Complete Genki 1: Grammar\")",
+    "title": "Game Gengo · one short video per grammar point",
+    "where": "YouTube · Game Gengo channel (playlist \"Complete Genki 1: Grammar\")",
     "url": "https://www.youtube.com/watch?v=mB9OOT7Atlc",
     "links": [
      {
@@ -119,55 +119,55 @@
       "url": "https://www.youtube.com/watch?v=vDRZusLtHxk"
      }
     ],
-    "when": "Logo depois de cada ponto do bloco 4, para ver o mesmo ponto explicado de outro jeito."
+    "when": "Right after each point in block 4, to see the same point explained another way."
    }
   ],
   "03-1": [
    {
     "kind": "video",
-    "title": "ToKini Andy · Genki I Lição 3: a gramática da lição inteira (em inglês)",
-    "where": "YouTube · canal ToKini Andy (playlist \"GENKI Grammar Made Clear\")",
+    "title": "ToKini Andy · Genki I Lesson 3: the whole lesson's grammar",
+    "where": "YouTube · ToKini Andy channel (playlist \"GENKI Grammar Made Clear\")",
     "url": "https://www.youtube.com/watch?v=ed4rmIY4mL0",
-    "when": "Depois de estudar os pontos desta aula: assista à parte deles (o vídeo cobre a lição toda)."
+    "when": "After studying this lesson's points: watch their part (the video covers the whole Genki lesson)."
    },
    {
     "kind": "video",
-    "title": "Game Gengo · um vídeo curto por ponto (em inglês)",
-    "where": "YouTube · canal Game Gengo (playlist \"Complete Genki 1: Grammar\")",
+    "title": "Game Gengo · one short video per grammar point",
+    "where": "YouTube · Game Gengo channel (playlist \"Complete Genki 1: Grammar\")",
     "url": "https://www.youtube.com/watch?v=KbdzfVSG_As",
     "links": [
      {
-      "t": "Verbos る (ichidan)",
+      "t": "る-verbs (ichidan)",
       "url": "https://www.youtube.com/watch?v=KbdzfVSG_As"
      },
      {
-      "t": "Verbos う (godan)",
+      "t": "う-verbs (godan)",
       "url": "https://www.youtube.com/watch?v=UkDaXBetuYA"
      },
      {
-      "t": "Irregulares",
+      "t": "Irregular verbs",
       "url": "https://www.youtube.com/watch?v=2JeQTX9eUm8"
      },
      {
-      "t": "〜ます (presente)",
+      "t": "〜ます (present)",
       "url": "https://www.youtube.com/watch?v=XdJCrpu81BA"
      }
     ],
-    "when": "Logo depois de cada ponto do bloco 4, para ver o mesmo ponto explicado de outro jeito."
+    "when": "Right after each point in block 4, to see the same point explained another way."
    }
   ],
   "03-2": [
    {
     "kind": "video",
-    "title": "ToKini Andy · Genki I Lição 3: a gramática da lição inteira (em inglês)",
-    "where": "YouTube · canal ToKini Andy (playlist \"GENKI Grammar Made Clear\")",
+    "title": "ToKini Andy · Genki I Lesson 3: the whole lesson's grammar",
+    "where": "YouTube · ToKini Andy channel (playlist \"GENKI Grammar Made Clear\")",
     "url": "https://www.youtube.com/watch?v=ed4rmIY4mL0",
-    "when": "Depois de estudar os pontos desta aula: assista à parte deles (o vídeo cobre a lição toda)."
+    "when": "After studying this lesson's points: watch their part (the video covers the whole Genki lesson)."
    },
    {
     "kind": "video",
-    "title": "Game Gengo · um vídeo curto por ponto (em inglês)",
-    "where": "YouTube · canal Game Gengo (playlist \"Complete Genki 1: Grammar\")",
+    "title": "Game Gengo · one short video per grammar point",
+    "where": "YouTube · Game Gengo channel (playlist \"Complete Genki 1: Grammar\")",
     "url": "https://www.youtube.com/watch?v=sI4O_l2PmZw",
     "links": [
      {
@@ -175,11 +175,11 @@
       "url": "https://www.youtube.com/watch?v=sI4O_l2PmZw"
      },
      {
-      "t": "で (lugar da ação)",
+      "t": "で (place of action)",
       "url": "https://www.youtube.com/watch?v=va18uf1l8Ug"
      },
      {
-      "t": "に (destino/tempo)",
+      "t": "に (destination/time)",
       "url": "https://www.youtube.com/watch?v=arirVES2K3I"
      },
      {
@@ -187,51 +187,51 @@
       "url": "https://www.youtube.com/watch?v=zL10DTPy1EM"
      },
      {
-      "t": "Ordem das palavras",
+      "t": "Word order",
       "url": "https://www.youtube.com/watch?v=zzCEVL9kyE8"
      }
     ],
-    "when": "Logo depois de cada ponto do bloco 4, para ver o mesmo ponto explicado de outro jeito."
+    "when": "Right after each point in block 4, to see the same point explained another way."
    }
   ],
   "03-3": [
    {
     "kind": "video",
-    "title": "ToKini Andy · Genki I Lição 3: a gramática da lição inteira (em inglês)",
-    "where": "YouTube · canal ToKini Andy (playlist \"GENKI Grammar Made Clear\")",
+    "title": "ToKini Andy · Genki I Lesson 3: the whole lesson's grammar",
+    "where": "YouTube · ToKini Andy channel (playlist \"GENKI Grammar Made Clear\")",
     "url": "https://www.youtube.com/watch?v=ed4rmIY4mL0",
-    "when": "Depois de estudar os pontos desta aula: assista à parte deles (o vídeo cobre a lição toda)."
+    "when": "After studying this lesson's points: watch their part (the video covers the whole Genki lesson)."
    },
    {
     "kind": "video",
-    "title": "Game Gengo · um vídeo curto por ponto (em inglês)",
-    "where": "YouTube · canal Game Gengo (playlist \"Complete Genki 1: Grammar\")",
+    "title": "Game Gengo · one short video per grammar point",
+    "where": "YouTube · Game Gengo channel (playlist \"Complete Genki 1: Grammar\")",
     "url": "https://www.youtube.com/watch?v=0MK2_BR7d58",
     "links": [
      {
-      "t": "〜ませんか (convite)",
+      "t": "〜ませんか (invitation)",
       "url": "https://www.youtube.com/watch?v=0MK2_BR7d58"
      },
      {
-      "t": "Advérbios de frequência",
+      "t": "Frequency adverbs",
       "url": "https://www.youtube.com/watch?v=E-0WjHWgwvg"
      }
     ],
-    "when": "Logo depois de cada ponto do bloco 4, para ver o mesmo ponto explicado de outro jeito."
+    "when": "Right after each point in block 4, to see the same point explained another way."
    }
   ],
   "04-1": [
    {
     "kind": "video",
-    "title": "ToKini Andy · Genki I Lição 4: a gramática da lição inteira (em inglês)",
-    "where": "YouTube · canal ToKini Andy (playlist \"GENKI Grammar Made Clear\")",
+    "title": "ToKini Andy · Genki I Lesson 4: the whole lesson's grammar",
+    "where": "YouTube · ToKini Andy channel (playlist \"GENKI Grammar Made Clear\")",
     "url": "https://www.youtube.com/watch?v=knbAUQqFR68",
-    "when": "Depois de estudar os pontos desta aula: assista à parte deles (o vídeo cobre a lição toda)."
+    "when": "After studying this lesson's points: watch their part (the video covers the whole Genki lesson)."
    },
    {
     "kind": "video",
-    "title": "Game Gengo · um vídeo curto por ponto (em inglês)",
-    "where": "YouTube · canal Game Gengo (playlist \"Complete Genki 1: Grammar\")",
+    "title": "Game Gengo · one short video per grammar point",
+    "where": "YouTube · Game Gengo channel (playlist \"Complete Genki 1: Grammar\")",
     "url": "https://www.youtube.com/watch?v=YSURrwUadys",
     "links": [
      {
@@ -239,51 +239,51 @@
       "url": "https://www.youtube.com/watch?v=YSURrwUadys"
      },
      {
-      "t": "Onde as coisas estão",
+      "t": "Where things are",
       "url": "https://www.youtube.com/watch?v=qUO0oQf4KN4"
      }
     ],
-    "when": "Logo depois de cada ponto do bloco 4, para ver o mesmo ponto explicado de outro jeito."
+    "when": "Right after each point in block 4, to see the same point explained another way."
    }
   ],
   "04-2": [
    {
     "kind": "video",
-    "title": "ToKini Andy · Genki I Lição 4: a gramática da lição inteira (em inglês)",
-    "where": "YouTube · canal ToKini Andy (playlist \"GENKI Grammar Made Clear\")",
+    "title": "ToKini Andy · Genki I Lesson 4: the whole lesson's grammar",
+    "where": "YouTube · ToKini Andy channel (playlist \"GENKI Grammar Made Clear\")",
     "url": "https://www.youtube.com/watch?v=knbAUQqFR68",
-    "when": "Depois de estudar os pontos desta aula: assista à parte deles (o vídeo cobre a lição toda)."
+    "when": "After studying this lesson's points: watch their part (the video covers the whole Genki lesson)."
    },
    {
     "kind": "video",
-    "title": "Game Gengo · um vídeo curto por ponto (em inglês)",
-    "where": "YouTube · canal Game Gengo (playlist \"Complete Genki 1: Grammar\")",
+    "title": "Game Gengo · one short video per grammar point",
+    "where": "YouTube · Game Gengo channel (playlist \"Complete Genki 1: Grammar\")",
     "url": "https://www.youtube.com/watch?v=E-5hjDpOQOs",
     "links": [
      {
-      "t": "Passado dos substantivos",
+      "t": "Past tense of nouns",
       "url": "https://www.youtube.com/watch?v=E-5hjDpOQOs"
      },
      {
-      "t": "Passado dos verbos",
+      "t": "Past tense of verbs",
       "url": "https://www.youtube.com/watch?v=zflXPsTSq-c"
      }
     ],
-    "when": "Logo depois de cada ponto do bloco 4, para ver o mesmo ponto explicado de outro jeito."
+    "when": "Right after each point in block 4, to see the same point explained another way."
    }
   ],
   "04-3": [
    {
     "kind": "video",
-    "title": "ToKini Andy · Genki I Lição 4: a gramática da lição inteira (em inglês)",
-    "where": "YouTube · canal ToKini Andy (playlist \"GENKI Grammar Made Clear\")",
+    "title": "ToKini Andy · Genki I Lesson 4: the whole lesson's grammar",
+    "where": "YouTube · ToKini Andy channel (playlist \"GENKI Grammar Made Clear\")",
     "url": "https://www.youtube.com/watch?v=knbAUQqFR68",
-    "when": "Depois de estudar os pontos desta aula: assista à parte deles (o vídeo cobre a lição toda)."
+    "when": "After studying this lesson's points: watch their part (the video covers the whole Genki lesson)."
    },
    {
     "kind": "video",
-    "title": "Game Gengo · um vídeo curto por ponto (em inglês)",
-    "where": "YouTube · canal Game Gengo (playlist \"Complete Genki 1: Grammar\")",
+    "title": "Game Gengo · one short video per grammar point",
+    "where": "YouTube · Game Gengo channel (playlist \"Complete Genki 1: Grammar\")",
     "url": "https://www.youtube.com/watch?v=TqnRDCjGmWo",
     "links": [
      {
@@ -303,63 +303,63 @@
       "url": "https://www.youtube.com/watch?v=7K_SUftkBI0"
      }
     ],
-    "when": "Logo depois de cada ponto do bloco 4, para ver o mesmo ponto explicado de outro jeito."
+    "when": "Right after each point in block 4, to see the same point explained another way."
    }
   ],
   "05-1": [
    {
     "kind": "video",
-    "title": "ToKini Andy · Genki I Lição 5: a gramática da lição inteira (em inglês)",
-    "where": "YouTube · canal ToKini Andy (playlist \"GENKI Grammar Made Clear\")",
+    "title": "ToKini Andy · Genki I Lesson 5: the whole lesson's grammar",
+    "where": "YouTube · ToKini Andy channel (playlist \"GENKI Grammar Made Clear\")",
     "url": "https://www.youtube.com/watch?v=zCzxXKFTYps",
-    "when": "Depois de estudar os pontos desta aula: assista à parte deles (o vídeo cobre a lição toda)."
+    "when": "After studying this lesson's points: watch their part (the video covers the whole Genki lesson)."
    },
    {
     "kind": "video",
-    "title": "Game Gengo · um vídeo curto por ponto (em inglês)",
-    "where": "YouTube · canal Game Gengo (playlist \"Complete Genki 1: Grammar\")",
+    "title": "Game Gengo · one short video per grammar point",
+    "where": "YouTube · Game Gengo channel (playlist \"Complete Genki 1: Grammar\")",
     "url": "https://www.youtube.com/watch?v=wo6y5ZsKmdo",
     "links": [
      {
-      "t": "Adjetivos い",
+      "t": "い-adjectives",
       "url": "https://www.youtube.com/watch?v=wo6y5ZsKmdo"
      },
      {
-      "t": "Adjetivos な",
+      "t": "な-adjectives",
       "url": "https://www.youtube.com/watch?v=upoVYZ4paOU"
      },
      {
-      "t": "Adjetivo + substantivo",
+      "t": "Adjective + noun",
       "url": "https://www.youtube.com/watch?v=-h8Oonhavbw"
      }
     ],
-    "when": "Logo depois de cada ponto do bloco 4, para ver o mesmo ponto explicado de outro jeito."
+    "when": "Right after each point in block 4, to see the same point explained another way."
    }
   ],
   "05-2": [
    {
     "kind": "video",
-    "title": "ToKini Andy · Genki I Lição 5: a gramática da lição inteira (em inglês)",
-    "where": "YouTube · canal ToKini Andy (playlist \"GENKI Grammar Made Clear\")",
+    "title": "ToKini Andy · Genki I Lesson 5: the whole lesson's grammar",
+    "where": "YouTube · ToKini Andy channel (playlist \"GENKI Grammar Made Clear\")",
     "url": "https://www.youtube.com/watch?v=zCzxXKFTYps",
-    "when": "Depois de estudar os pontos desta aula: assista à parte deles (o vídeo cobre a lição toda)."
+    "when": "After studying this lesson's points: watch their part (the video covers the whole Genki lesson)."
    },
    {
     "kind": "video",
-    "title": "Game Gengo · um vídeo curto por ponto (em inglês)",
-    "where": "YouTube · canal Game Gengo (playlist \"Complete Genki 1: Grammar\")",
+    "title": "Game Gengo · one short video per grammar point",
+    "where": "YouTube · Game Gengo channel (playlist \"Complete Genki 1: Grammar\")",
     "url": "https://www.youtube.com/watch?v=ArKLkqhenTA",
     "links": [
      {
-      "t": "Passado dos adjetivos い",
+      "t": "Past of い-adjectives",
       "url": "https://www.youtube.com/watch?v=ArKLkqhenTA"
      },
      {
-      "t": "Passado de いい",
+      "t": "Past of いい",
       "url": "https://www.youtube.com/watch?v=eI6Wwqt5-bM"
      },
      {
-      "t": "Passado dos adjetivos な",
+      "t": "Past of な-adjectives",
       "url": "https://www.youtube.com/watch?v=m0gN5jeNV1g"
      },
      {
@@ -367,21 +367,21 @@
       "url": "https://www.youtube.com/watch?v=r0lYKCYwKOw"
      }
     ],
-    "when": "Logo depois de cada ponto do bloco 4, para ver o mesmo ponto explicado de outro jeito."
+    "when": "Right after each point in block 4, to see the same point explained another way."
    }
   ],
   "05-3": [
    {
     "kind": "video",
-    "title": "ToKini Andy · Genki I Lição 5: a gramática da lição inteira (em inglês)",
-    "where": "YouTube · canal ToKini Andy (playlist \"GENKI Grammar Made Clear\")",
+    "title": "ToKini Andy · Genki I Lesson 5: the whole lesson's grammar",
+    "where": "YouTube · ToKini Andy channel (playlist \"GENKI Grammar Made Clear\")",
     "url": "https://www.youtube.com/watch?v=zCzxXKFTYps",
-    "when": "Depois de estudar os pontos desta aula: assista à parte deles (o vídeo cobre a lição toda)."
+    "when": "After studying this lesson's points: watch their part (the video covers the whole Genki lesson)."
    },
    {
     "kind": "video",
-    "title": "Game Gengo · um vídeo curto por ponto (em inglês)",
-    "where": "YouTube · canal Game Gengo (playlist \"Complete Genki 1: Grammar\")",
+    "title": "Game Gengo · one short video per grammar point",
+    "where": "YouTube · Game Gengo channel (playlist \"Complete Genki 1: Grammar\")",
     "url": "https://www.youtube.com/watch?v=_02Ino_00pI",
     "links": [
      {
@@ -389,51 +389,51 @@
       "url": "https://www.youtube.com/watch?v=_02Ino_00pI"
      },
      {
-      "t": "Contadores",
+      "t": "Counters",
       "url": "https://www.youtube.com/watch?v=NfaM8MEvGww"
      },
      {
-      "t": "Advérbios de grau",
+      "t": "Degree adverbs",
       "url": "https://www.youtube.com/watch?v=zsMVV_GWZ6U"
      }
     ],
-    "when": "Logo depois de cada ponto do bloco 4, para ver o mesmo ponto explicado de outro jeito."
+    "when": "Right after each point in block 4, to see the same point explained another way."
    }
   ],
   "06-1": [
    {
     "kind": "video",
-    "title": "ToKini Andy · Genki I Lição 6: a gramática da lição inteira (em inglês)",
-    "where": "YouTube · canal ToKini Andy (playlist \"GENKI Grammar Made Clear\")",
+    "title": "ToKini Andy · Genki I Lesson 6: the whole lesson's grammar",
+    "where": "YouTube · ToKini Andy channel (playlist \"GENKI Grammar Made Clear\")",
     "url": "https://www.youtube.com/watch?v=whHaSkKf-jU",
-    "when": "Depois de estudar os pontos desta aula: assista à parte deles (o vídeo cobre a lição toda)."
+    "when": "After studying this lesson's points: watch their part (the video covers the whole Genki lesson)."
    },
    {
     "kind": "video",
-    "title": "Game Gengo · um vídeo curto por ponto (em inglês)",
-    "where": "YouTube · canal Game Gengo (playlist \"Complete Genki 1: Grammar\")",
+    "title": "Game Gengo · one short video per grammar point",
+    "where": "YouTube · Game Gengo channel (playlist \"Complete Genki 1: Grammar\")",
     "url": "https://www.youtube.com/watch?v=hIjNLLjL3dU",
     "links": [
      {
-      "t": "A forma て",
+      "t": "The て-form",
       "url": "https://www.youtube.com/watch?v=hIjNLLjL3dU"
      }
     ],
-    "when": "Logo depois de cada ponto do bloco 4, para ver o mesmo ponto explicado de outro jeito."
+    "when": "Right after each point in block 4, to see the same point explained another way."
    }
   ],
   "06-2": [
    {
     "kind": "video",
-    "title": "ToKini Andy · Genki I Lição 6: a gramática da lição inteira (em inglês)",
-    "where": "YouTube · canal ToKini Andy (playlist \"GENKI Grammar Made Clear\")",
+    "title": "ToKini Andy · Genki I Lesson 6: the whole lesson's grammar",
+    "where": "YouTube · ToKini Andy channel (playlist \"GENKI Grammar Made Clear\")",
     "url": "https://www.youtube.com/watch?v=whHaSkKf-jU",
-    "when": "Depois de estudar os pontos desta aula: assista à parte deles (o vídeo cobre a lição toda)."
+    "when": "After studying this lesson's points: watch their part (the video covers the whole Genki lesson)."
    },
    {
     "kind": "video",
-    "title": "Game Gengo · um vídeo curto por ponto (em inglês)",
-    "where": "YouTube · canal Game Gengo (playlist \"Complete Genki 1: Grammar\")",
+    "title": "Game Gengo · one short video per grammar point",
+    "where": "YouTube · Game Gengo channel (playlist \"Complete Genki 1: Grammar\")",
     "url": "https://www.youtube.com/watch?v=6z5yP9ebEFs",
     "links": [
      {
@@ -441,25 +441,25 @@
       "url": "https://www.youtube.com/watch?v=6z5yP9ebEFs"
      },
      {
-      "t": "Várias ações com て",
+      "t": "Several actions with て",
       "url": "https://www.youtube.com/watch?v=RSRdVJ6gJdI"
      }
     ],
-    "when": "Logo depois de cada ponto do bloco 4, para ver o mesmo ponto explicado de outro jeito."
+    "when": "Right after each point in block 4, to see the same point explained another way."
    }
   ],
   "06-3": [
    {
     "kind": "video",
-    "title": "ToKini Andy · Genki I Lição 6: a gramática da lição inteira (em inglês)",
-    "where": "YouTube · canal ToKini Andy (playlist \"GENKI Grammar Made Clear\")",
+    "title": "ToKini Andy · Genki I Lesson 6: the whole lesson's grammar",
+    "where": "YouTube · ToKini Andy channel (playlist \"GENKI Grammar Made Clear\")",
     "url": "https://www.youtube.com/watch?v=whHaSkKf-jU",
-    "when": "Depois de estudar os pontos desta aula: assista à parte deles (o vídeo cobre a lição toda)."
+    "when": "After studying this lesson's points: watch their part (the video covers the whole Genki lesson)."
    },
    {
     "kind": "video",
-    "title": "Game Gengo · um vídeo curto por ponto (em inglês)",
-    "where": "YouTube · canal Game Gengo (playlist \"Complete Genki 1: Grammar\")",
+    "title": "Game Gengo · one short video per grammar point",
+    "where": "YouTube · Game Gengo channel (playlist \"Complete Genki 1: Grammar\")",
     "url": "https://www.youtube.com/watch?v=Jo-hcD9xAFQ",
     "links": [
      {
@@ -471,51 +471,51 @@
       "url": "https://www.youtube.com/watch?v=pPFjwqr7Hek"
      }
     ],
-    "when": "Logo depois de cada ponto do bloco 4, para ver o mesmo ponto explicado de outro jeito."
+    "when": "Right after each point in block 4, to see the same point explained another way."
    }
   ],
   "06-4": [
    {
     "kind": "video",
-    "title": "ToKini Andy · Genki I Lição 6: a gramática da lição inteira (em inglês)",
-    "where": "YouTube · canal ToKini Andy (playlist \"GENKI Grammar Made Clear\")",
+    "title": "ToKini Andy · Genki I Lesson 6: the whole lesson's grammar",
+    "where": "YouTube · ToKini Andy channel (playlist \"GENKI Grammar Made Clear\")",
     "url": "https://www.youtube.com/watch?v=whHaSkKf-jU",
-    "when": "Depois de estudar os pontos desta aula: assista à parte deles (o vídeo cobre a lição toda)."
+    "when": "After studying this lesson's points: watch their part (the video covers the whole Genki lesson)."
    },
    {
     "kind": "video",
-    "title": "Game Gengo · um vídeo curto por ponto (em inglês)",
-    "where": "YouTube · canal Game Gengo (playlist \"Complete Genki 1: Grammar\")",
+    "title": "Game Gengo · one short video per grammar point",
+    "where": "YouTube · Game Gengo channel (playlist \"Complete Genki 1: Grammar\")",
     "url": "https://www.youtube.com/watch?v=4faErs5V2Po",
     "links": [
      {
-      "t": "から (motivo)",
+      "t": "から (reason)",
       "url": "https://www.youtube.com/watch?v=4faErs5V2Po"
      }
     ],
-    "when": "Logo depois de cada ponto do bloco 4, para ver o mesmo ponto explicado de outro jeito."
+    "when": "Right after each point in block 4, to see the same point explained another way."
    }
   ],
   "07-1": [
    {
     "kind": "video",
-    "title": "ToKini Andy · Genki I Lição 7: a gramática da lição inteira (em inglês)",
-    "where": "YouTube · canal ToKini Andy (playlist \"GENKI Grammar Made Clear\")",
+    "title": "ToKini Andy · Genki I Lesson 7: the whole lesson's grammar",
+    "where": "YouTube · ToKini Andy channel (playlist \"GENKI Grammar Made Clear\")",
     "url": "https://www.youtube.com/watch?v=l5zV-7bs2Eo",
-    "when": "Depois de estudar os pontos desta aula: assista à parte deles (o vídeo cobre a lição toda)."
+    "when": "After studying this lesson's points: watch their part (the video covers the whole Genki lesson)."
    },
    {
     "kind": "video",
-    "title": "Game Gengo · um vídeo curto por ponto (em inglês)",
-    "where": "YouTube · canal Game Gengo (playlist \"Complete Genki 1: Grammar\")",
+    "title": "Game Gengo · one short video per grammar point",
+    "where": "YouTube · Game Gengo channel (playlist \"Complete Genki 1: Grammar\")",
     "url": "https://www.youtube.com/watch?v=ZFxh0YE5VZw",
     "links": [
      {
-      "t": "〜ている (em andamento)",
+      "t": "〜ている (in progress)",
       "url": "https://www.youtube.com/watch?v=ZFxh0YE5VZw"
      },
      {
-      "t": "〜ている com いく・くる",
+      "t": "〜ている with いく・くる",
       "url": "https://www.youtube.com/watch?v=dSRREt1dLA8"
      },
      {
@@ -523,103 +523,103 @@
       "url": "https://www.youtube.com/watch?v=eRRNLnNllmo"
      }
     ],
-    "when": "Logo depois de cada ponto do bloco 4, para ver o mesmo ponto explicado de outro jeito."
+    "when": "Right after each point in block 4, to see the same point explained another way."
    }
   ],
   "07-2": [
    {
     "kind": "video",
-    "title": "ToKini Andy · Genki I Lição 7: a gramática da lição inteira (em inglês)",
-    "where": "YouTube · canal ToKini Andy (playlist \"GENKI Grammar Made Clear\")",
+    "title": "ToKini Andy · Genki I Lesson 7: the whole lesson's grammar",
+    "where": "YouTube · ToKini Andy channel (playlist \"GENKI Grammar Made Clear\")",
     "url": "https://www.youtube.com/watch?v=l5zV-7bs2Eo",
-    "when": "Depois de estudar os pontos desta aula: assista à parte deles (o vídeo cobre a lição toda)."
+    "when": "After studying this lesson's points: watch their part (the video covers the whole Genki lesson)."
    },
    {
     "kind": "video",
-    "title": "Game Gengo · um vídeo curto por ponto (em inglês)",
-    "where": "YouTube · canal Game Gengo (playlist \"Complete Genki 1: Grammar\")",
+    "title": "Game Gengo · one short video per grammar point",
+    "where": "YouTube · Game Gengo channel (playlist \"Complete Genki 1: Grammar\")",
     "url": "https://www.youtube.com/watch?v=7EQTUjneVgM",
     "links": [
      {
-      "t": "は〜が + adjetivo",
+      "t": "は〜が + adjective",
       "url": "https://www.youtube.com/watch?v=7EQTUjneVgM"
      },
      {
-      "t": "Forma て de adjetivos e substantivos",
+      "t": "て-form of adjectives and nouns",
       "url": "https://www.youtube.com/watch?v=0C0k2eBCPF8"
      }
     ],
-    "when": "Logo depois de cada ponto do bloco 4, para ver o mesmo ponto explicado de outro jeito."
+    "when": "Right after each point in block 4, to see the same point explained another way."
    }
   ],
   "07-3": [
    {
     "kind": "video",
-    "title": "ToKini Andy · Genki I Lição 7: a gramática da lição inteira (em inglês)",
-    "where": "YouTube · canal ToKini Andy (playlist \"GENKI Grammar Made Clear\")",
+    "title": "ToKini Andy · Genki I Lesson 7: the whole lesson's grammar",
+    "where": "YouTube · ToKini Andy channel (playlist \"GENKI Grammar Made Clear\")",
     "url": "https://www.youtube.com/watch?v=l5zV-7bs2Eo",
-    "when": "Depois de estudar os pontos desta aula: assista à parte deles (o vídeo cobre a lição toda)."
+    "when": "After studying this lesson's points: watch their part (the video covers the whole Genki lesson)."
    },
    {
     "kind": "video",
-    "title": "Game Gengo · um vídeo curto por ponto (em inglês)",
-    "where": "YouTube · canal Game Gengo (playlist \"Complete Genki 1: Grammar\")",
+    "title": "Game Gengo · one short video per grammar point",
+    "where": "YouTube · Game Gengo channel (playlist \"Complete Genki 1: Grammar\")",
     "url": "https://www.youtube.com/watch?v=EFs4HHsmQMI",
     "links": [
      {
-      "t": "〜に行く (propósito)",
+      "t": "〜に行く (purpose)",
       "url": "https://www.youtube.com/watch?v=EFs4HHsmQMI"
      },
      {
-      "t": "Contando pessoas",
+      "t": "Counting people",
       "url": "https://www.youtube.com/watch?v=ptEZXKpxPWk"
      }
     ],
-    "when": "Logo depois de cada ponto do bloco 4, para ver o mesmo ponto explicado de outro jeito."
+    "when": "Right after each point in block 4, to see the same point explained another way."
    }
   ],
   "08-1": [
    {
     "kind": "video",
-    "title": "ToKini Andy · Genki I Lição 8: a gramática da lição inteira (em inglês)",
-    "where": "YouTube · canal ToKini Andy (playlist \"GENKI Grammar Made Clear\")",
+    "title": "ToKini Andy · Genki I Lesson 8: the whole lesson's grammar",
+    "where": "YouTube · ToKini Andy channel (playlist \"GENKI Grammar Made Clear\")",
     "url": "https://www.youtube.com/watch?v=c1R--xAXleo",
-    "when": "Depois de estudar os pontos desta aula: assista à parte deles (o vídeo cobre a lição toda)."
+    "when": "After studying this lesson's points: watch their part (the video covers the whole Genki lesson)."
    },
    {
     "kind": "video",
-    "title": "Game Gengo · um vídeo curto por ponto (em inglês)",
-    "where": "YouTube · canal Game Gengo (playlist \"Complete Genki 1: Grammar\")",
+    "title": "Game Gengo · one short video per grammar point",
+    "where": "YouTube · Game Gengo channel (playlist \"Complete Genki 1: Grammar\")",
     "url": "https://www.youtube.com/watch?v=ekbiNFQ9F_A",
     "links": [
      {
-      "t": "Forma casual: verbos",
+      "t": "Casual form: verbs",
       "url": "https://www.youtube.com/watch?v=ekbiNFQ9F_A"
      },
      {
-      "t": "Forma casual: adjetivos e substantivos",
+      "t": "Casual form: adjectives and nouns",
       "url": "https://www.youtube.com/watch?v=Y7HhZLuWfPQ"
      },
      {
-      "t": "Negativas casuais",
+      "t": "Casual negatives",
       "url": "https://www.youtube.com/watch?v=HM6LN4oojQY"
      }
     ],
-    "when": "Logo depois de cada ponto do bloco 4, para ver o mesmo ponto explicado de outro jeito."
+    "when": "Right after each point in block 4, to see the same point explained another way."
    }
   ],
   "08-2": [
    {
     "kind": "video",
-    "title": "ToKini Andy · Genki I Lição 8: a gramática da lição inteira (em inglês)",
-    "where": "YouTube · canal ToKini Andy (playlist \"GENKI Grammar Made Clear\")",
+    "title": "ToKini Andy · Genki I Lesson 8: the whole lesson's grammar",
+    "where": "YouTube · ToKini Andy channel (playlist \"GENKI Grammar Made Clear\")",
     "url": "https://www.youtube.com/watch?v=c1R--xAXleo",
-    "when": "Depois de estudar os pontos desta aula: assista à parte deles (o vídeo cobre a lição toda)."
+    "when": "After studying this lesson's points: watch their part (the video covers the whole Genki lesson)."
    },
    {
     "kind": "video",
-    "title": "Game Gengo · um vídeo curto por ponto (em inglês)",
-    "where": "YouTube · canal Game Gengo (playlist \"Complete Genki 1: Grammar\")",
+    "title": "Game Gengo · one short video per grammar point",
+    "where": "YouTube · Game Gengo channel (playlist \"Complete Genki 1: Grammar\")",
     "url": "https://www.youtube.com/watch?v=IW0RO-AGtvU",
     "links": [
      {
@@ -631,21 +631,21 @@
       "url": "https://www.youtube.com/watch?v=DbyTIm-U6_Q"
      }
     ],
-    "when": "Logo depois de cada ponto do bloco 4, para ver o mesmo ponto explicado de outro jeito."
+    "when": "Right after each point in block 4, to see the same point explained another way."
    }
   ],
   "08-3": [
    {
     "kind": "video",
-    "title": "ToKini Andy · Genki I Lição 8: a gramática da lição inteira (em inglês)",
-    "where": "YouTube · canal ToKini Andy (playlist \"GENKI Grammar Made Clear\")",
+    "title": "ToKini Andy · Genki I Lesson 8: the whole lesson's grammar",
+    "where": "YouTube · ToKini Andy channel (playlist \"GENKI Grammar Made Clear\")",
     "url": "https://www.youtube.com/watch?v=c1R--xAXleo",
-    "when": "Depois de estudar os pontos desta aula: assista à parte deles (o vídeo cobre a lição toda)."
+    "when": "After studying this lesson's points: watch their part (the video covers the whole Genki lesson)."
    },
    {
     "kind": "video",
-    "title": "Game Gengo · um vídeo curto por ponto (em inglês)",
-    "where": "YouTube · canal Game Gengo (playlist \"Complete Genki 1: Grammar\")",
+    "title": "Game Gengo · one short video per grammar point",
+    "where": "YouTube · Game Gengo channel (playlist \"Complete Genki 1: Grammar\")",
     "url": "https://www.youtube.com/watch?v=32LCAQTguBs",
     "links": [
      {
@@ -653,7 +653,7 @@
       "url": "https://www.youtube.com/watch?v=32LCAQTguBs"
      },
      {
-      "t": "Verbo + のが",
+      "t": "Verb + のが",
       "url": "https://www.youtube.com/watch?v=YHs1zI3_vKo"
      },
      {
@@ -665,73 +665,73 @@
       "url": "https://www.youtube.com/watch?v=NLdGOHHUvdQ"
      }
     ],
-    "when": "Logo depois de cada ponto do bloco 4, para ver o mesmo ponto explicado de outro jeito."
+    "when": "Right after each point in block 4, to see the same point explained another way."
    }
   ],
   "09-1": [
    {
     "kind": "video",
-    "title": "ToKini Andy · Genki I Lição 9: a gramática da lição inteira (em inglês)",
-    "where": "YouTube · canal ToKini Andy (playlist \"GENKI Grammar Made Clear\")",
+    "title": "ToKini Andy · Genki I Lesson 9: the whole lesson's grammar",
+    "where": "YouTube · ToKini Andy channel (playlist \"GENKI Grammar Made Clear\")",
     "url": "https://www.youtube.com/watch?v=icQv6j3Hz_4",
-    "when": "Depois de estudar os pontos desta aula: assista à parte deles (o vídeo cobre a lição toda)."
+    "when": "After studying this lesson's points: watch their part (the video covers the whole Genki lesson)."
    },
    {
     "kind": "video",
-    "title": "Game Gengo · um vídeo curto por ponto (em inglês)",
-    "where": "YouTube · canal Game Gengo (playlist \"Complete Genki 1: Grammar\")",
+    "title": "Game Gengo · one short video per grammar point",
+    "where": "YouTube · Game Gengo channel (playlist \"Complete Genki 1: Grammar\")",
     "url": "https://www.youtube.com/watch?v=EwlYdTRvv8o",
     "links": [
      {
-      "t": "Passado casual: verbos",
+      "t": "Casual past: verbs",
       "url": "https://www.youtube.com/watch?v=EwlYdTRvv8o"
      },
      {
-      "t": "Passado casual: adjetivos",
+      "t": "Casual past: adjectives",
       "url": "https://www.youtube.com/watch?v=duONYcMvuvo"
      },
      {
-      "t": "Passado casual negativo",
+      "t": "Casual past negative",
       "url": "https://www.youtube.com/watch?v=NrjvM03dRVs"
      }
     ],
-    "when": "Logo depois de cada ponto do bloco 4, para ver o mesmo ponto explicado de outro jeito."
+    "when": "Right after each point in block 4, to see the same point explained another way."
    }
   ],
   "09-2": [
    {
     "kind": "video",
-    "title": "ToKini Andy · Genki I Lição 9: a gramática da lição inteira (em inglês)",
-    "where": "YouTube · canal ToKini Andy (playlist \"GENKI Grammar Made Clear\")",
+    "title": "ToKini Andy · Genki I Lesson 9: the whole lesson's grammar",
+    "where": "YouTube · ToKini Andy channel (playlist \"GENKI Grammar Made Clear\")",
     "url": "https://www.youtube.com/watch?v=icQv6j3Hz_4",
-    "when": "Depois de estudar os pontos desta aula: assista à parte deles (o vídeo cobre a lição toda)."
+    "when": "After studying this lesson's points: watch their part (the video covers the whole Genki lesson)."
    },
    {
     "kind": "video",
-    "title": "Game Gengo · um vídeo curto por ponto (em inglês)",
-    "where": "YouTube · canal Game Gengo (playlist \"Complete Genki 1: Grammar\")",
+    "title": "Game Gengo · one short video per grammar point",
+    "where": "YouTube · Game Gengo channel (playlist \"Complete Genki 1: Grammar\")",
     "url": "https://www.youtube.com/watch?v=FRt25bNkGvw",
     "links": [
      {
-      "t": "Verbo + substantivo (orações que descrevem)",
+      "t": "Verb + noun (describing clauses)",
       "url": "https://www.youtube.com/watch?v=FRt25bNkGvw"
      }
     ],
-    "when": "Logo depois de cada ponto do bloco 4, para ver o mesmo ponto explicado de outro jeito."
+    "when": "Right after each point in block 4, to see the same point explained another way."
    }
   ],
   "09-3": [
    {
     "kind": "video",
-    "title": "ToKini Andy · Genki I Lição 9: a gramática da lição inteira (em inglês)",
-    "where": "YouTube · canal ToKini Andy (playlist \"GENKI Grammar Made Clear\")",
+    "title": "ToKini Andy · Genki I Lesson 9: the whole lesson's grammar",
+    "where": "YouTube · ToKini Andy channel (playlist \"GENKI Grammar Made Clear\")",
     "url": "https://www.youtube.com/watch?v=icQv6j3Hz_4",
-    "when": "Depois de estudar os pontos desta aula: assista à parte deles (o vídeo cobre a lição toda)."
+    "when": "After studying this lesson's points: watch their part (the video covers the whole Genki lesson)."
    },
    {
     "kind": "video",
-    "title": "Game Gengo · um vídeo curto por ponto (em inglês)",
-    "where": "YouTube · canal Game Gengo (playlist \"Complete Genki 1: Grammar\")",
+    "title": "Game Gengo · one short video per grammar point",
+    "where": "YouTube · Game Gengo channel (playlist \"Complete Genki 1: Grammar\")",
     "url": "https://www.youtube.com/watch?v=KxmyetLUF0g",
     "links": [
      {
@@ -739,21 +739,21 @@
       "url": "https://www.youtube.com/watch?v=KxmyetLUF0g"
      }
     ],
-    "when": "Logo depois de cada ponto do bloco 4, para ver o mesmo ponto explicado de outro jeito."
+    "when": "Right after each point in block 4, to see the same point explained another way."
    }
   ],
   "10-1": [
    {
     "kind": "video",
-    "title": "ToKini Andy · Genki I Lição 10: a gramática da lição inteira (em inglês)",
-    "where": "YouTube · canal ToKini Andy (playlist \"GENKI Grammar Made Clear\")",
+    "title": "ToKini Andy · Genki I Lesson 10: the whole lesson's grammar",
+    "where": "YouTube · ToKini Andy channel (playlist \"GENKI Grammar Made Clear\")",
     "url": "https://www.youtube.com/watch?v=qaFX3x4G6mU",
-    "when": "Depois de estudar os pontos desta aula: assista à parte deles (o vídeo cobre a lição toda)."
+    "when": "After studying this lesson's points: watch their part (the video covers the whole Genki lesson)."
    },
    {
     "kind": "video",
-    "title": "Game Gengo · um vídeo curto por ponto (em inglês)",
-    "where": "YouTube · canal Game Gengo (playlist \"Complete Genki 1: Grammar\")",
+    "title": "Game Gengo · one short video per grammar point",
+    "where": "YouTube · Game Gengo channel (playlist \"Complete Genki 1: Grammar\")",
     "url": "https://www.youtube.com/watch?v=GkSb5I52WzE",
     "links": [
      {
@@ -765,25 +765,25 @@
       "url": "https://www.youtube.com/watch?v=9RLMl4k-IAg"
      }
     ],
-    "when": "Logo depois de cada ponto do bloco 4, para ver o mesmo ponto explicado de outro jeito."
+    "when": "Right after each point in block 4, to see the same point explained another way."
    }
   ],
   "10-2": [
    {
     "kind": "video",
-    "title": "ToKini Andy · Genki I Lição 10: a gramática da lição inteira (em inglês)",
-    "where": "YouTube · canal ToKini Andy (playlist \"GENKI Grammar Made Clear\")",
+    "title": "ToKini Andy · Genki I Lesson 10: the whole lesson's grammar",
+    "where": "YouTube · ToKini Andy channel (playlist \"GENKI Grammar Made Clear\")",
     "url": "https://www.youtube.com/watch?v=qaFX3x4G6mU",
-    "when": "Depois de estudar os pontos desta aula: assista à parte deles (o vídeo cobre a lição toda)."
+    "when": "After studying this lesson's points: watch their part (the video covers the whole Genki lesson)."
    },
    {
     "kind": "video",
-    "title": "Game Gengo · um vídeo curto por ponto (em inglês)",
-    "where": "YouTube · canal Game Gengo (playlist \"Complete Genki 1: Grammar\")",
+    "title": "Game Gengo · one short video per grammar point",
+    "where": "YouTube · Game Gengo channel (playlist \"Complete Genki 1: Grammar\")",
     "url": "https://www.youtube.com/watch?v=eqyG5XH4pRg",
     "links": [
      {
-      "t": "Adjetivo + の",
+      "t": "Adjective + の",
       "url": "https://www.youtube.com/watch?v=eqyG5XH4pRg"
      },
      {
@@ -791,21 +791,21 @@
       "url": "https://www.youtube.com/watch?v=1TYm8viFDao"
      }
     ],
-    "when": "Logo depois de cada ponto do bloco 4, para ver o mesmo ponto explicado de outro jeito."
+    "when": "Right after each point in block 4, to see the same point explained another way."
    }
   ],
   "10-3": [
    {
     "kind": "video",
-    "title": "ToKini Andy · Genki I Lição 10: a gramática da lição inteira (em inglês)",
-    "where": "YouTube · canal ToKini Andy (playlist \"GENKI Grammar Made Clear\")",
+    "title": "ToKini Andy · Genki I Lesson 10: the whole lesson's grammar",
+    "where": "YouTube · ToKini Andy channel (playlist \"GENKI Grammar Made Clear\")",
     "url": "https://www.youtube.com/watch?v=qaFX3x4G6mU",
-    "when": "Depois de estudar os pontos desta aula: assista à parte deles (o vídeo cobre a lição toda)."
+    "when": "After studying this lesson's points: watch their part (the video covers the whole Genki lesson)."
    },
    {
     "kind": "video",
-    "title": "Game Gengo · um vídeo curto por ponto (em inglês)",
-    "where": "YouTube · canal Game Gengo (playlist \"Complete Genki 1: Grammar\")",
+    "title": "Game Gengo · one short video per grammar point",
+    "where": "YouTube · Game Gengo channel (playlist \"Complete Genki 1: Grammar\")",
     "url": "https://www.youtube.com/watch?v=-h50girk_Cs",
     "links": [
      {
@@ -821,21 +821,21 @@
       "url": "https://www.youtube.com/watch?v=zuF205Wu5Ak"
      }
     ],
-    "when": "Logo depois de cada ponto do bloco 4, para ver o mesmo ponto explicado de outro jeito."
+    "when": "Right after each point in block 4, to see the same point explained another way."
    }
   ],
   "11-1": [
    {
     "kind": "video",
-    "title": "ToKini Andy · Genki I Lição 11: a gramática da lição inteira (em inglês)",
-    "where": "YouTube · canal ToKini Andy (playlist \"GENKI Grammar Made Clear\")",
+    "title": "ToKini Andy · Genki I Lesson 11: the whole lesson's grammar",
+    "where": "YouTube · ToKini Andy channel (playlist \"GENKI Grammar Made Clear\")",
     "url": "https://www.youtube.com/watch?v=1r-SZJ79MZo",
-    "when": "Depois de estudar os pontos desta aula: assista à parte deles (o vídeo cobre a lição toda)."
+    "when": "After studying this lesson's points: watch their part (the video covers the whole Genki lesson)."
    },
    {
     "kind": "video",
-    "title": "Game Gengo · um vídeo curto por ponto (em inglês)",
-    "where": "YouTube · canal Game Gengo (playlist \"Complete Genki 1: Grammar\")",
+    "title": "Game Gengo · one short video per grammar point",
+    "where": "YouTube · Game Gengo channel (playlist \"Complete Genki 1: Grammar\")",
     "url": "https://www.youtube.com/watch?v=YS6kSgzPO6E",
     "links": [
      {
@@ -847,21 +847,21 @@
       "url": "https://www.youtube.com/watch?v=VEFdqpaJemo"
      }
     ],
-    "when": "Logo depois de cada ponto do bloco 4, para ver o mesmo ponto explicado de outro jeito."
+    "when": "Right after each point in block 4, to see the same point explained another way."
    }
   ],
   "11-2": [
    {
     "kind": "video",
-    "title": "ToKini Andy · Genki I Lição 11: a gramática da lição inteira (em inglês)",
-    "where": "YouTube · canal ToKini Andy (playlist \"GENKI Grammar Made Clear\")",
+    "title": "ToKini Andy · Genki I Lesson 11: the whole lesson's grammar",
+    "where": "YouTube · ToKini Andy channel (playlist \"GENKI Grammar Made Clear\")",
     "url": "https://www.youtube.com/watch?v=1r-SZJ79MZo",
-    "when": "Depois de estudar os pontos desta aula: assista à parte deles (o vídeo cobre a lição toda)."
+    "when": "After studying this lesson's points: watch their part (the video covers the whole Genki lesson)."
    },
    {
     "kind": "video",
-    "title": "Game Gengo · um vídeo curto por ponto (em inglês)",
-    "where": "YouTube · canal Game Gengo (playlist \"Complete Genki 1: Grammar\")",
+    "title": "Game Gengo · one short video per grammar point",
+    "where": "YouTube · Game Gengo channel (playlist \"Complete Genki 1: Grammar\")",
     "url": "https://www.youtube.com/watch?v=NkQGh7nNFX8",
     "links": [
      {
@@ -873,21 +873,21 @@
       "url": "https://www.youtube.com/watch?v=zOUIuwXwwLs"
      }
     ],
-    "when": "Logo depois de cada ponto do bloco 4, para ver o mesmo ponto explicado de outro jeito."
+    "when": "Right after each point in block 4, to see the same point explained another way."
    }
   ],
   "12-1": [
    {
     "kind": "video",
-    "title": "ToKini Andy · Genki I Lição 12: a gramática da lição inteira (em inglês)",
-    "where": "YouTube · canal ToKini Andy (playlist \"GENKI Grammar Made Clear\")",
+    "title": "ToKini Andy · Genki I Lesson 12: the whole lesson's grammar",
+    "where": "YouTube · ToKini Andy channel (playlist \"GENKI Grammar Made Clear\")",
     "url": "https://www.youtube.com/watch?v=tCua2K28oPE",
-    "when": "Depois de estudar os pontos desta aula: assista à parte deles (o vídeo cobre a lição toda)."
+    "when": "After studying this lesson's points: watch their part (the video covers the whole Genki lesson)."
    },
    {
     "kind": "video",
-    "title": "Game Gengo · um vídeo curto por ponto (em inglês)",
-    "where": "YouTube · canal Game Gengo (playlist \"Complete Genki 1: Grammar\")",
+    "title": "Game Gengo · one short video per grammar point",
+    "where": "YouTube · Game Gengo channel (playlist \"Complete Genki 1: Grammar\")",
     "url": "https://www.youtube.com/watch?v=pjUOYAMvIdw",
     "links": [
      {
@@ -899,21 +899,21 @@
       "url": "https://www.youtube.com/watch?v=sMslN5ZhQYY"
      }
     ],
-    "when": "Logo depois de cada ponto do bloco 4, para ver o mesmo ponto explicado de outro jeito."
+    "when": "Right after each point in block 4, to see the same point explained another way."
    }
   ],
   "12-2": [
    {
     "kind": "video",
-    "title": "ToKini Andy · Genki I Lição 12: a gramática da lição inteira (em inglês)",
-    "where": "YouTube · canal ToKini Andy (playlist \"GENKI Grammar Made Clear\")",
+    "title": "ToKini Andy · Genki I Lesson 12: the whole lesson's grammar",
+    "where": "YouTube · ToKini Andy channel (playlist \"GENKI Grammar Made Clear\")",
     "url": "https://www.youtube.com/watch?v=tCua2K28oPE",
-    "when": "Depois de estudar os pontos desta aula: assista à parte deles (o vídeo cobre a lição toda)."
+    "when": "After studying this lesson's points: watch their part (the video covers the whole Genki lesson)."
    },
    {
     "kind": "video",
-    "title": "Game Gengo · um vídeo curto por ponto (em inglês)",
-    "where": "YouTube · canal Game Gengo (playlist \"Complete Genki 1: Grammar\")",
+    "title": "Game Gengo · one short video per grammar point",
+    "where": "YouTube · Game Gengo channel (playlist \"Complete Genki 1: Grammar\")",
     "url": "https://www.youtube.com/watch?v=pAQAK8Bj4WE",
     "links": [
      {
@@ -925,21 +925,21 @@
       "url": "https://www.youtube.com/watch?v=YQqnYDm6SxI"
      }
     ],
-    "when": "Logo depois de cada ponto do bloco 4, para ver o mesmo ponto explicado de outro jeito."
+    "when": "Right after each point in block 4, to see the same point explained another way."
    }
   ],
   "12-3": [
    {
     "kind": "video",
-    "title": "ToKini Andy · Genki I Lição 12: a gramática da lição inteira (em inglês)",
-    "where": "YouTube · canal ToKini Andy (playlist \"GENKI Grammar Made Clear\")",
+    "title": "ToKini Andy · Genki I Lesson 12: the whole lesson's grammar",
+    "where": "YouTube · ToKini Andy channel (playlist \"GENKI Grammar Made Clear\")",
     "url": "https://www.youtube.com/watch?v=tCua2K28oPE",
-    "when": "Depois de estudar os pontos desta aula: assista à parte deles (o vídeo cobre a lição toda)."
+    "when": "After studying this lesson's points: watch their part (the video covers the whole Genki lesson)."
    },
    {
     "kind": "video",
-    "title": "Game Gengo · um vídeo curto por ponto (em inglês)",
-    "where": "YouTube · canal Game Gengo (playlist \"Complete Genki 1: Grammar\")",
+    "title": "Game Gengo · one short video per grammar point",
+    "where": "YouTube · Game Gengo channel (playlist \"Complete Genki 1: Grammar\")",
     "url": "https://www.youtube.com/watch?v=DCNYZcV3K-w",
     "links": [
      {
@@ -951,266 +951,266 @@
       "url": "https://www.youtube.com/watch?v=O5xw5tRy914"
      }
     ],
-    "when": "Logo depois de cada ponto do bloco 4, para ver o mesmo ponto explicado de outro jeito."
+    "when": "Right after each point in block 4, to see the same point explained another way."
    }
   ],
   "13-1": [
    {
     "kind": "video",
-    "title": "ToKini Andy · Genki II Lição 13: a gramática da lição inteira (em inglês)",
-    "where": "YouTube · canal ToKini Andy (playlist \"GENKI Grammar Made Clear\")",
+    "title": "ToKini Andy · Genki II Lesson 13: the whole lesson's grammar",
+    "where": "YouTube · ToKini Andy channel (playlist \"GENKI Grammar Made Clear\")",
     "url": "https://www.youtube.com/watch?v=CMs_NXbOwbw",
-    "when": "Depois de estudar os pontos desta aula: assista à parte deles (o vídeo cobre a lição toda)."
+    "when": "After studying this lesson's points: watch their part (the video covers the whole Genki lesson)."
    },
    {
     "kind": "video",
-    "title": "Game Gengo · A forma potencial (られる) explicada",
-    "where": "YouTube · canal Game Gengo (JLPT N4 Grammar)",
+    "title": "Game Gengo · The potential form (られる) explained",
+    "where": "YouTube · Game Gengo channel (JLPT N4 Grammar)",
     "url": "https://www.youtube.com/watch?v=gX4vkzZqPl8",
-    "when": "Depois do ponto sobre os verbos potenciais."
+    "when": "After the point on potential verbs."
    }
   ],
   "13-2": [
    {
     "kind": "video",
-    "title": "ToKini Andy · Genki II Lição 13: a gramática da lição inteira (em inglês)",
-    "where": "YouTube · canal ToKini Andy (playlist \"GENKI Grammar Made Clear\")",
+    "title": "ToKini Andy · Genki II Lesson 13: the whole lesson's grammar",
+    "where": "YouTube · ToKini Andy channel (playlist \"GENKI Grammar Made Clear\")",
     "url": "https://www.youtube.com/watch?v=CMs_NXbOwbw",
-    "when": "Depois de estudar os pontos desta aula: assista à parte deles (o vídeo cobre a lição toda)."
+    "when": "After studying this lesson's points: watch their part (the video covers the whole Genki lesson)."
    }
   ],
   "13-3": [
    {
     "kind": "video",
-    "title": "ToKini Andy · Genki II Lição 13: a gramática da lição inteira (em inglês)",
-    "where": "YouTube · canal ToKini Andy (playlist \"GENKI Grammar Made Clear\")",
+    "title": "ToKini Andy · Genki II Lesson 13: the whole lesson's grammar",
+    "where": "YouTube · ToKini Andy channel (playlist \"GENKI Grammar Made Clear\")",
     "url": "https://www.youtube.com/watch?v=CMs_NXbOwbw",
-    "when": "Depois de estudar os pontos desta aula: assista à parte deles (o vídeo cobre a lição toda)."
+    "when": "After studying this lesson's points: watch their part (the video covers the whole Genki lesson)."
    }
   ],
   "14-1": [
    {
     "kind": "video",
-    "title": "ToKini Andy · Genki II Lição 14: a gramática da lição inteira (em inglês)",
-    "where": "YouTube · canal ToKini Andy (playlist \"GENKI Grammar Made Clear\")",
+    "title": "ToKini Andy · Genki II Lesson 14: the whole lesson's grammar",
+    "where": "YouTube · ToKini Andy channel (playlist \"GENKI Grammar Made Clear\")",
     "url": "https://www.youtube.com/watch?v=RjF-k28kMkw",
-    "when": "Depois de estudar os pontos desta aula: assista à parte deles (o vídeo cobre a lição toda)."
+    "when": "After studying this lesson's points: watch their part (the video covers the whole Genki lesson)."
    }
   ],
   "14-2": [
    {
     "kind": "video",
-    "title": "ToKini Andy · Genki II Lição 14: a gramática da lição inteira (em inglês)",
-    "where": "YouTube · canal ToKini Andy (playlist \"GENKI Grammar Made Clear\")",
+    "title": "ToKini Andy · Genki II Lesson 14: the whole lesson's grammar",
+    "where": "YouTube · ToKini Andy channel (playlist \"GENKI Grammar Made Clear\")",
     "url": "https://www.youtube.com/watch?v=RjF-k28kMkw",
-    "when": "Depois de estudar os pontos desta aula: assista à parte deles (o vídeo cobre a lição toda)."
+    "when": "After studying this lesson's points: watch their part (the video covers the whole Genki lesson)."
    }
   ],
   "14-3": [
    {
     "kind": "video",
-    "title": "ToKini Andy · Genki II Lição 14: a gramática da lição inteira (em inglês)",
-    "where": "YouTube · canal ToKini Andy (playlist \"GENKI Grammar Made Clear\")",
+    "title": "ToKini Andy · Genki II Lesson 14: the whole lesson's grammar",
+    "where": "YouTube · ToKini Andy channel (playlist \"GENKI Grammar Made Clear\")",
     "url": "https://www.youtube.com/watch?v=RjF-k28kMkw",
-    "when": "Depois de estudar os pontos desta aula: assista à parte deles (o vídeo cobre a lição toda)."
+    "when": "After studying this lesson's points: watch their part (the video covers the whole Genki lesson)."
    }
   ],
   "15-1": [
    {
     "kind": "video",
-    "title": "ToKini Andy · Genki II Lição 15: a gramática da lição inteira (em inglês)",
-    "where": "YouTube · canal ToKini Andy (playlist \"GENKI Grammar Made Clear\")",
+    "title": "ToKini Andy · Genki II Lesson 15: the whole lesson's grammar",
+    "where": "YouTube · ToKini Andy channel (playlist \"GENKI Grammar Made Clear\")",
     "url": "https://www.youtube.com/watch?v=QFfBRGaHMok",
-    "when": "Depois de estudar os pontos desta aula: assista à parte deles (o vídeo cobre a lição toda)."
+    "when": "After studying this lesson's points: watch their part (the video covers the whole Genki lesson)."
    }
   ],
   "15-2": [
    {
     "kind": "video",
-    "title": "ToKini Andy · Genki II Lição 15: a gramática da lição inteira (em inglês)",
-    "where": "YouTube · canal ToKini Andy (playlist \"GENKI Grammar Made Clear\")",
+    "title": "ToKini Andy · Genki II Lesson 15: the whole lesson's grammar",
+    "where": "YouTube · ToKini Andy channel (playlist \"GENKI Grammar Made Clear\")",
     "url": "https://www.youtube.com/watch?v=QFfBRGaHMok",
-    "when": "Depois de estudar os pontos desta aula: assista à parte deles (o vídeo cobre a lição toda)."
+    "when": "After studying this lesson's points: watch their part (the video covers the whole Genki lesson)."
    }
   ],
   "16-1": [
    {
     "kind": "video",
-    "title": "ToKini Andy · Genki II Lição 16: a gramática da lição inteira (em inglês)",
-    "where": "YouTube · canal ToKini Andy (playlist \"GENKI Grammar Made Clear\")",
+    "title": "ToKini Andy · Genki II Lesson 16: the whole lesson's grammar",
+    "where": "YouTube · ToKini Andy channel (playlist \"GENKI Grammar Made Clear\")",
     "url": "https://www.youtube.com/watch?v=YiMChZ5egFc",
-    "when": "Depois de estudar os pontos desta aula: assista à parte deles (o vídeo cobre a lição toda)."
+    "when": "After studying this lesson's points: watch their part (the video covers the whole Genki lesson)."
    }
   ],
   "16-2": [
    {
     "kind": "video",
-    "title": "ToKini Andy · Genki II Lição 16: a gramática da lição inteira (em inglês)",
-    "where": "YouTube · canal ToKini Andy (playlist \"GENKI Grammar Made Clear\")",
+    "title": "ToKini Andy · Genki II Lesson 16: the whole lesson's grammar",
+    "where": "YouTube · ToKini Andy channel (playlist \"GENKI Grammar Made Clear\")",
     "url": "https://www.youtube.com/watch?v=YiMChZ5egFc",
-    "when": "Depois de estudar os pontos desta aula: assista à parte deles (o vídeo cobre a lição toda)."
+    "when": "After studying this lesson's points: watch their part (the video covers the whole Genki lesson)."
    }
   ],
   "16-3": [
    {
     "kind": "video",
-    "title": "ToKini Andy · Genki II Lição 16: a gramática da lição inteira (em inglês)",
-    "where": "YouTube · canal ToKini Andy (playlist \"GENKI Grammar Made Clear\")",
+    "title": "ToKini Andy · Genki II Lesson 16: the whole lesson's grammar",
+    "where": "YouTube · ToKini Andy channel (playlist \"GENKI Grammar Made Clear\")",
     "url": "https://www.youtube.com/watch?v=YiMChZ5egFc",
-    "when": "Depois de estudar os pontos desta aula: assista à parte deles (o vídeo cobre a lição toda)."
+    "when": "After studying this lesson's points: watch their part (the video covers the whole Genki lesson)."
    }
   ],
   "17-1": [
    {
     "kind": "video",
-    "title": "ToKini Andy · Genki II Lição 17: a gramática da lição inteira (em inglês)",
-    "where": "YouTube · canal ToKini Andy (playlist \"GENKI Grammar Made Clear\")",
+    "title": "ToKini Andy · Genki II Lesson 17: the whole lesson's grammar",
+    "where": "YouTube · ToKini Andy channel (playlist \"GENKI Grammar Made Clear\")",
     "url": "https://www.youtube.com/watch?v=CJA9SRsf1w4",
-    "when": "Depois de estudar os pontos desta aula: assista à parte deles (o vídeo cobre a lição toda)."
+    "when": "After studying this lesson's points: watch their part (the video covers the whole Genki lesson)."
    }
   ],
   "17-2": [
    {
     "kind": "video",
-    "title": "ToKini Andy · Genki II Lição 17: a gramática da lição inteira (em inglês)",
-    "where": "YouTube · canal ToKini Andy (playlist \"GENKI Grammar Made Clear\")",
+    "title": "ToKini Andy · Genki II Lesson 17: the whole lesson's grammar",
+    "where": "YouTube · ToKini Andy channel (playlist \"GENKI Grammar Made Clear\")",
     "url": "https://www.youtube.com/watch?v=CJA9SRsf1w4",
-    "when": "Depois de estudar os pontos desta aula: assista à parte deles (o vídeo cobre a lição toda)."
+    "when": "After studying this lesson's points: watch their part (the video covers the whole Genki lesson)."
    }
   ],
   "17-3": [
    {
     "kind": "video",
-    "title": "ToKini Andy · Genki II Lição 17: a gramática da lição inteira (em inglês)",
-    "where": "YouTube · canal ToKini Andy (playlist \"GENKI Grammar Made Clear\")",
+    "title": "ToKini Andy · Genki II Lesson 17: the whole lesson's grammar",
+    "where": "YouTube · ToKini Andy channel (playlist \"GENKI Grammar Made Clear\")",
     "url": "https://www.youtube.com/watch?v=CJA9SRsf1w4",
-    "when": "Depois de estudar os pontos desta aula: assista à parte deles (o vídeo cobre a lição toda)."
+    "when": "After studying this lesson's points: watch their part (the video covers the whole Genki lesson)."
    }
   ],
   "18-1": [
    {
     "kind": "video",
-    "title": "ToKini Andy · Genki II Lição 18: a gramática da lição inteira (em inglês)",
-    "where": "YouTube · canal ToKini Andy (playlist \"GENKI Grammar Made Clear\")",
+    "title": "ToKini Andy · Genki II Lesson 18: the whole lesson's grammar",
+    "where": "YouTube · ToKini Andy channel (playlist \"GENKI Grammar Made Clear\")",
     "url": "https://www.youtube.com/watch?v=qTt39_q4wFE",
-    "when": "Depois de estudar os pontos desta aula: assista à parte deles (o vídeo cobre a lição toda)."
+    "when": "After studying this lesson's points: watch their part (the video covers the whole Genki lesson)."
    }
   ],
   "18-2": [
    {
     "kind": "video",
-    "title": "ToKini Andy · Genki II Lição 18: a gramática da lição inteira (em inglês)",
-    "where": "YouTube · canal ToKini Andy (playlist \"GENKI Grammar Made Clear\")",
+    "title": "ToKini Andy · Genki II Lesson 18: the whole lesson's grammar",
+    "where": "YouTube · ToKini Andy channel (playlist \"GENKI Grammar Made Clear\")",
     "url": "https://www.youtube.com/watch?v=qTt39_q4wFE",
-    "when": "Depois de estudar os pontos desta aula: assista à parte deles (o vídeo cobre a lição toda)."
+    "when": "After studying this lesson's points: watch their part (the video covers the whole Genki lesson)."
    }
   ],
   "18-3": [
    {
     "kind": "video",
-    "title": "ToKini Andy · Genki II Lição 18: a gramática da lição inteira (em inglês)",
-    "where": "YouTube · canal ToKini Andy (playlist \"GENKI Grammar Made Clear\")",
+    "title": "ToKini Andy · Genki II Lesson 18: the whole lesson's grammar",
+    "where": "YouTube · ToKini Andy channel (playlist \"GENKI Grammar Made Clear\")",
     "url": "https://www.youtube.com/watch?v=qTt39_q4wFE",
-    "when": "Depois de estudar os pontos desta aula: assista à parte deles (o vídeo cobre a lição toda)."
+    "when": "After studying this lesson's points: watch their part (the video covers the whole Genki lesson)."
    }
   ],
   "19-1": [
    {
     "kind": "video",
-    "title": "ToKini Andy · Genki II Lição 19: a gramática da lição inteira (em inglês)",
-    "where": "YouTube · canal ToKini Andy (playlist \"GENKI Grammar Made Clear\")",
+    "title": "ToKini Andy · Genki II Lesson 19: the whole lesson's grammar",
+    "where": "YouTube · ToKini Andy channel (playlist \"GENKI Grammar Made Clear\")",
     "url": "https://www.youtube.com/watch?v=j-bn8NmqwEE",
-    "when": "Depois de estudar os pontos desta aula: assista à parte deles (o vídeo cobre a lição toda)."
+    "when": "After studying this lesson's points: watch their part (the video covers the whole Genki lesson)."
    }
   ],
   "19-2": [
    {
     "kind": "video",
-    "title": "ToKini Andy · Genki II Lição 19: a gramática da lição inteira (em inglês)",
-    "where": "YouTube · canal ToKini Andy (playlist \"GENKI Grammar Made Clear\")",
+    "title": "ToKini Andy · Genki II Lesson 19: the whole lesson's grammar",
+    "where": "YouTube · ToKini Andy channel (playlist \"GENKI Grammar Made Clear\")",
     "url": "https://www.youtube.com/watch?v=j-bn8NmqwEE",
-    "when": "Depois de estudar os pontos desta aula: assista à parte deles (o vídeo cobre a lição toda)."
+    "when": "After studying this lesson's points: watch their part (the video covers the whole Genki lesson)."
    }
   ],
   "20-1": [
    {
     "kind": "video",
-    "title": "ToKini Andy · Genki II Lição 20: a gramática da lição inteira (em inglês)",
-    "where": "YouTube · canal ToKini Andy (playlist \"GENKI Grammar Made Clear\")",
+    "title": "ToKini Andy · Genki II Lesson 20: the whole lesson's grammar",
+    "where": "YouTube · ToKini Andy channel (playlist \"GENKI Grammar Made Clear\")",
     "url": "https://www.youtube.com/watch?v=pYZASUOlcok",
-    "when": "Depois de estudar os pontos desta aula: assista à parte deles (o vídeo cobre a lição toda)."
+    "when": "After studying this lesson's points: watch their part (the video covers the whole Genki lesson)."
    }
   ],
   "20-2": [
    {
     "kind": "video",
-    "title": "ToKini Andy · Genki II Lição 20: a gramática da lição inteira (em inglês)",
-    "where": "YouTube · canal ToKini Andy (playlist \"GENKI Grammar Made Clear\")",
+    "title": "ToKini Andy · Genki II Lesson 20: the whole lesson's grammar",
+    "where": "YouTube · ToKini Andy channel (playlist \"GENKI Grammar Made Clear\")",
     "url": "https://www.youtube.com/watch?v=pYZASUOlcok",
-    "when": "Depois de estudar os pontos desta aula: assista à parte deles (o vídeo cobre a lição toda)."
+    "when": "After studying this lesson's points: watch their part (the video covers the whole Genki lesson)."
    }
   ],
   "20-3": [
    {
     "kind": "video",
-    "title": "ToKini Andy · Genki II Lição 20: a gramática da lição inteira (em inglês)",
-    "where": "YouTube · canal ToKini Andy (playlist \"GENKI Grammar Made Clear\")",
+    "title": "ToKini Andy · Genki II Lesson 20: the whole lesson's grammar",
+    "where": "YouTube · ToKini Andy channel (playlist \"GENKI Grammar Made Clear\")",
     "url": "https://www.youtube.com/watch?v=pYZASUOlcok",
-    "when": "Depois de estudar os pontos desta aula: assista à parte deles (o vídeo cobre a lição toda)."
+    "when": "After studying this lesson's points: watch their part (the video covers the whole Genki lesson)."
    }
   ],
   "21-1": [
    {
     "kind": "video",
-    "title": "ToKini Andy · Genki II Lição 21: a gramática da lição inteira (em inglês)",
-    "where": "YouTube · canal ToKini Andy (playlist \"GENKI Grammar Made Clear\")",
+    "title": "ToKini Andy · Genki II Lesson 21: the whole lesson's grammar",
+    "where": "YouTube · ToKini Andy channel (playlist \"GENKI Grammar Made Clear\")",
     "url": "https://www.youtube.com/watch?v=eh5G78_wFAM",
-    "when": "Depois de estudar os pontos desta aula: assista à parte deles (o vídeo cobre a lição toda)."
+    "when": "After studying this lesson's points: watch their part (the video covers the whole Genki lesson)."
    }
   ],
   "21-2": [
    {
     "kind": "video",
-    "title": "ToKini Andy · Genki II Lição 21: a gramática da lição inteira (em inglês)",
-    "where": "YouTube · canal ToKini Andy (playlist \"GENKI Grammar Made Clear\")",
+    "title": "ToKini Andy · Genki II Lesson 21: the whole lesson's grammar",
+    "where": "YouTube · ToKini Andy channel (playlist \"GENKI Grammar Made Clear\")",
     "url": "https://www.youtube.com/watch?v=eh5G78_wFAM",
-    "when": "Depois de estudar os pontos desta aula: assista à parte deles (o vídeo cobre a lição toda)."
+    "when": "After studying this lesson's points: watch their part (the video covers the whole Genki lesson)."
    }
   ],
   "22-1": [
    {
     "kind": "video",
-    "title": "ToKini Andy · Genki II Lição 22: a gramática da lição inteira (em inglês)",
-    "where": "YouTube · canal ToKini Andy (playlist \"GENKI Grammar Made Clear\")",
+    "title": "ToKini Andy · Genki II Lesson 22: the whole lesson's grammar",
+    "where": "YouTube · ToKini Andy channel (playlist \"GENKI Grammar Made Clear\")",
     "url": "https://www.youtube.com/watch?v=5Ipp7hXfZDs",
-    "when": "Depois de estudar os pontos desta aula: assista à parte deles (o vídeo cobre a lição toda)."
+    "when": "After studying this lesson's points: watch their part (the video covers the whole Genki lesson)."
    }
   ],
   "22-2": [
    {
     "kind": "video",
-    "title": "ToKini Andy · Genki II Lição 22: a gramática da lição inteira (em inglês)",
-    "where": "YouTube · canal ToKini Andy (playlist \"GENKI Grammar Made Clear\")",
+    "title": "ToKini Andy · Genki II Lesson 22: the whole lesson's grammar",
+    "where": "YouTube · ToKini Andy channel (playlist \"GENKI Grammar Made Clear\")",
     "url": "https://www.youtube.com/watch?v=5Ipp7hXfZDs",
-    "when": "Depois de estudar os pontos desta aula: assista à parte deles (o vídeo cobre a lição toda)."
+    "when": "After studying this lesson's points: watch their part (the video covers the whole Genki lesson)."
    }
   ],
   "23-1": [
    {
     "kind": "video",
-    "title": "ToKini Andy · Genki II Lição 23: a gramática da lição inteira (em inglês)",
-    "where": "YouTube · canal ToKini Andy (playlist \"GENKI Grammar Made Clear\")",
+    "title": "ToKini Andy · Genki II Lesson 23: the whole lesson's grammar",
+    "where": "YouTube · ToKini Andy channel (playlist \"GENKI Grammar Made Clear\")",
     "url": "https://www.youtube.com/watch?v=U6FSf5_XWdc",
-    "when": "Depois de estudar os pontos desta aula: assista à parte deles (o vídeo cobre a lição toda)."
+    "when": "After studying this lesson's points: watch their part (the video covers the whole Genki lesson)."
    }
   ],
   "23-2": [
    {
     "kind": "video",
-    "title": "ToKini Andy · Genki II Lição 23: a gramática da lição inteira (em inglês)",
-    "where": "YouTube · canal ToKini Andy (playlist \"GENKI Grammar Made Clear\")",
+    "title": "ToKini Andy · Genki II Lesson 23: the whole lesson's grammar",
+    "where": "YouTube · ToKini Andy channel (playlist \"GENKI Grammar Made Clear\")",
     "url": "https://www.youtube.com/watch?v=U6FSf5_XWdc",
-    "when": "Depois de estudar os pontos desta aula: assista à parte deles (o vídeo cobre a lição toda)."
+    "when": "After studying this lesson's points: watch their part (the video covers the whole Genki lesson)."
    }
   ]
  }

@@ -60,7 +60,7 @@ async function anatomyEngine() {
   Object.keys(ordered).forEach(id => {
     const v = videos[id]; if (!v || !v.length) return;
     const a = ordered[id], media = a.media || [];
-    const firstRead = media.filter(m => m.kind === 'leitura').slice(0, 1);
+    const firstRead = media.filter(m => (m.kind === 'reading' || m.kind === 'leitura')).slice(0, 1);
     // the verified videos replace the writer's placeholders FROM THE SAME CHANNELS; other suggestions (Misa, NHK…) stay
     const has = re => v.some(x => re.test((x.where || '') + x.title));
     const sameChannel = m => (/ToKini/i.test((m.where || '') + m.title) && has(/ToKini/i)) || (/Game Gengo/i.test((m.where || '') + m.title) && has(/Game Gengo/i));
