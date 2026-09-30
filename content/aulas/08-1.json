@@ -16,7 +16,7 @@
       { "t": "Warm-up: say the ます form of 10 verbs from Genki Lessons 3–7 out loud (食べます, 飲みます, 行きます…)", "min": 5 },
       { "t": "Vocabulary: tap 🔊 on each word and repeat it twice", "min": 10 },
       { "t": "Grammar: the 3 points, each with its examples read aloud and one 🔬", "min": 25 },
-      { "t": "Lesson 8 video (block 6), pausing on the conjugation tables", "min": 10 },
+      { "t": "Block 6: the Lesson 8 video (pause on the conjugation tables) or the Sakubi sections, read once to understand, not to memorize", "min": 10 },
       { "t": "Notebook homework + checking it against the answer key", "min": 15 },
       { "t": "Checklist (block 10) + write your questions in the lesson notebook", "min": 5 }
     ]
@@ -59,7 +59,7 @@
       "gc": "8-1",
       "title": "Verbs: dictionary form and ない",
       "gloss": "the present short form",
-      "explanation": "So far you have said everything in the **polite** style, with です and ます. Every verb also has a **short form** (Genki's name for it), which says the same thing without the layer of politeness. It has two jobs: **talking with friends and family** (point 4c) and **building new grammar**. In the next lesson, for example, 〜と 思います only works with the short form.\n• **Affirmative = dictionary form**, the form you find in a dictionary: 食べます → **食べる**, 飲みます → **飲む**, します → **する**. In う-verbs, the sound before ます (-i) becomes -u: のみます → のむ, まちます → まつ, かいます → かう.\n• **Negative = ない form**, which replaces ません.\n• **る-verbs**: drop る and add ない: たべる → たべない, みる → みない.\n• **う-verbs**: change the final -u to -a and add ない: のむ → のまない, かく → かかない, はなす → はなさない, まつ → またない, かえる → かえらない.\n• **Verbs ending in う**: the -a becomes **わ**, not あ: かう → かわない, あう → あわない, いう → いわない.\n• **Irregulars**: する → しない, くる → **こない** (く becomes こ).\n• **ある → ない**: the negative of ある is just ない.\nThe block's job does not change: the verb is still the **predicate**, at the end of the sentence. Only the register becomes informal.",
+      "explanation": "So far you have said everything in the **polite** style, with です and ます. Every verb also has a **short form** (Genki's name for it; other guides say \"plain form\"), which says the same thing without the layer of politeness. It has two jobs: **talking with friends and family** (point 4c) and **building new grammar**. In lesson 08-2, for example, 〜と 思います only works with the short form.\n• **Affirmative = dictionary form**, the form dictionaries list: 食べます → **食べる**, 飲みます → **飲む**, します → **する**. In う-verbs, the sound before ます (-i) becomes -u: のみます → のむ, まちます → まつ, かいます → かう. Like the ます form, it covers the present **and the future**: 休む = \"I rest\" or \"I'll rest\".\n• **Why two groups?** A **る-verb** has **one** fixed base that never changes: たべ + る / ない / ます. An **う-verb** keeps its base but **moves its last vowel** across the five vowels: のま-ない, のみ-ます, のむ (the other two come later). That is why Sakubi calls them \"one-form\" and \"five-form\" verbs.\n• **Telling them apart**: a verb ending in any sound other than る (う, く, す, つ, む…) is always an う-verb. A る-verb always ends in -iru or -eru (みる, たべる), but a few -iru / -eru verbs are う-verbs (かえる, はいる). Learn the group together with the word.\n• **Negative = ない form**, which replaces ません.\n• **る-verbs**: drop る and add ない: たべる → たべない, みる → みない.\n• **う-verbs**: change the final -u to -a and add ない: のむ → のまない, かく → かかない, はなす → はなさない, まつ → またない, かえる → かえらない.\n• **Verbs ending in う**: the -a becomes **わ**, not あ: かう → かわない, あう → あわない, いう → いわない.\n• **Irregulars**: Japanese has only two, and both are very common: する → しない, くる → **こない** (く becomes こ).\n• **ある → ない**: the negative of ある is just ない.\nThe block's job does not change: the verb is still the **predicate**, at the end of the sentence. Only the register becomes informal.\n• Going further (Sakubi): the ない at the end is itself an い-adjective, so it conjugates like one. The past of 飲まない will be 飲まなかった, just like 高くない → 高くなかった (lesson 09-1).",
       "structure": "[る-verb] たべる → たべない · [う-verb] のむ → のまない (-u → -a + ない) · する → しない · くる → こない · ある → ない",
       "examples": [
         { "jp": "今日は 仕事を 休む。", "kana": "きょうは しごとを やすむ。", "romaji": "Kyō wa shigoto o yasumu.", "en": "I'm taking the day off work today." },
@@ -70,11 +70,11 @@
         "Verbs ending in う take わ in the negative: かう → かわない ✓, かあない ✗. The same goes for あう, いう, あらう.",
         "The negative of ある is ない ✓, not あらない ✗. いる (people, animals), on the other hand, is regular: いない ✓.",
         "かえる and はいる look like る-verbs, but they are う-verbs: かえらない ✓ (かえない ✗), はいらない ✓ (はいない ✗). That's why it pays to learn each verb's group together with the word.",
-        "くる becomes こない ✓, not くない ✗."
+        "The two irregulars: くる becomes こない ✓, not くない ✗; する becomes しない ✓, not すない ✗."
       ],
       "howToStudy": [
         "Take 10 verbs from Genki Lessons 3–7 and say the three forms out loud: ます → dictionary → ない (飲みます → 飲む → 飲まない). In your notebook, sort them into three columns: る, う and irregular.",
-        "In ヅオリンゴー, do Drills → Conjugation with the verbs you already know, paying attention to the ones ending in う (かう, あう, いう).",
+        "In ヅオリンゴー, do Drills → Conjugation with the verbs you already know, paying attention to the ones ending in う (かう, あう, いう). Then take 2 verbs from a Wagotabi line and look them up in a dictionary (Jisho, in the Resources tab): dictionaries list verbs under the dictionary form, so this is the form you will search with from now on.",
         "Tap 🔬 on the Pedro example: 飲まない is still the PREDICATE and おさけを is still the OBJECT. Only the verb form changed."
       ],
       "flag": null
@@ -84,21 +84,21 @@
       "gc": null,
       "title": "Adjectives and nouns in the short form",
       "gloss": "高い · しずかだ · 学生だ",
-      "explanation": "Adjectives and nouns have short forms too. The practical rule: **take off です** and look at what is left.\n• **い-adjective**: 高いです → **高い**; 高くないです → **高くない**. No だ after the い.\n• **な-adjective**: しずかです → **しずかだ**; しずかじゃないです → **しずかじゃない**.\n• **Noun**: 学生です → **学生だ**; 学生じゃないです → **学生じゃない**.\n• **いい** is still irregular: いい → **よくない**.\nNotice the **だ**: it is the short version of です, and it only appears with **な-adjectives and nouns**, never after an い-adjective. And every negative ends in ない, which behaves like an い-adjective.\nThe block is still the **predicate**: 高い alone at the end is already a complete sentence (\"it's expensive\").",
+      "explanation": "Adjectives and nouns have short forms too. The practical rule: **take off です** and look at what is left.\n• **い-adjective**: 高いです → **高い**; 高くないです → **高くない**. No だ after the い.\n• **な-adjective**: しずかです → **しずかだ**; しずかじゃないです → **しずかじゃない**.\n• **Noun**: 学生です → **学生だ**; 学生じゃないです → **学生じゃない**.\n• **いい** is still irregular: いい → **よくない**.\n**Why only some take だ?** (Sakubi's framing) An **い-adjective acts like a verb**: 高い already means \"is expensive\" on its own, and the です in 高いです only adds politeness. Take the politeness away and nothing is missing. A **noun or な-adjective acts like a noun**: it has no \"is\" of its own, so its short form needs **だ**, the short version of です. And じゃない is simply the negative of だ.\nEvery negative ends in ない, which behaves like an い-adjective, so it never takes だ either.\nThe block is still the **predicate**: 高い alone at the end is already a complete sentence (\"it's expensive\").\n• Going further (Sakubi): in books, signs and formal writing you will also see **ではない** (学生ではない). It is the full, more formal form; じゃない is its spoken contraction.",
       "structure": "[い-adj] 高い / 高くない · [な-adj] しずかだ / しずかじゃない · [noun] 学生だ / 学生じゃない",
       "examples": [
         { "jp": "今日は あつくない。", "kana": "きょうは あつくない。", "romaji": "Kyō wa atsukunai.", "en": "It isn't hot today." },
-        { "jp": "私の まちは しずかじゃない。", "kana": "わたしの まちは しずかじゃない。", "romaji": "Watashi no machi wa shizuka ja nai.", "en": "My town isn't quiet.", "noAnat": true },
+        { "jp": "私の まちは しずかじゃない。", "kana": "わたしの まちは しずかじゃない。", "romaji": "Watashi no machi wa shizuka ja nai.", "en": "My town isn't quiet." },
         { "jp": "ルーカスは 学生じゃない。会社員だ。", "kana": "ルーカスは がくせいじゃない。かいしゃいんだ。", "romaji": "Rūkasu wa gakusei ja nai. Kaishain da.", "en": "Lucas isn't a student. He's an office worker." }
       ],
       "pitfalls": [
-        "Don't put だ after an い-adjective: 高いだ ✗ → 高い ✓.",
+        "Don't put だ after an い-adjective: 高いだ ✗ → 高い ✓. It already contains its own \"is\".",
         "The negative of いい is よくない ✓, not いくない ✗.",
         "きれい and きらい end in い, but they are な-adjectives: きれいじゃない ✓, きれくない ✗.",
         "Don't add だ to ない: 高くないだ ✗ → 高くない ✓. The negative is already complete."
       ],
       "howToStudy": [
-        "In your notebook, make a 4-column table (polite affirmative / polite negative / short affirmative / short negative) with 3 い-adjectives, 3 な-adjectives and 2 nouns. Include いい → よくない.",
+        "In your notebook, make a 4-column table (polite affirmative / polite negative / short affirmative / short negative) with 3 い-adjectives, 3 な-adjectives and 2 nouns. Include いい → よくない. Circle every だ: they should appear only in the な-adjective and noun rows.",
         "Say 5 short sentences about your town and your home out loud, using only short forms: サンパウロは 大きい。うちは しずかじゃない。…",
         "Tap 🔬 on the Lucas example: these are two sentences, and each one has its own PREDICATE at the end (学生じゃない and 会社員だ)."
       ],
@@ -109,18 +109,18 @@
       "gc": "8-2",
       "title": "Casual speech",
       "gloss": "with friends and family",
-      "explanation": "With friends, family and the people closest to you, Japanese ends sentences with the **short form** instead of です / ます. The content is the same; what changes is the distance between the speakers.\n• **Questions**: か usually drops, and the question is carried only by your **voice rising** at the end: 飲む？ (\"are you going to drink?\").\n• **だ disappears in questions**: 学生？ (\"are you a student?\"), ひま？ (\"are you free?\"). Don't say 学生だ？.\n• **In statements**, だ is correct, but on its own it can sound blunt. In conversation people often answer with just the noun (うん、学生。) or soften it with よ (学生だよ).\n• **Yes / no**: はい and いいえ become **うん** and **ううん**.\n• **Particles drop**: は and を often disappear in casual speech, and sometimes the destination に does too: カラオケ 行く？ When that happens, work out the block's job **from the verb** at the end.\nWhen in doubt (a teacher, a boss, someone you just met), stay with です / ます. This lesson's culture note explains who you can switch with.",
+      "explanation": "With friends, family and the people closest to you, Japanese ends sentences with the **short form** instead of です / ます. The content is the same; what changes is the distance between the speakers.\n• **Questions**: か usually drops, and the question is carried only by your **voice rising** at the end: 飲む？ (\"are you going to drink?\").\n• **だ disappears in questions**: 学生？ (\"are you a student?\"), ひま？ (\"are you free?\"). Don't say 学生だ？.\n• **In statements**, だ is correct, but on its own it can sound blunt. In conversation people often answer with just the noun (うん、学生。) or soften it with よ (学生だよ).\n• **Yes / no**: はい and いいえ become **うん** and **ううん**.\n• **Particles drop**: は and を often disappear in casual speech, and sometimes the destination に does too: カラオケ 行く？ When that happens, work out the block's job **from the verb** at the end.\nWhen in doubt (a teacher, a boss, someone you just met), stay with です / ます. This lesson's culture note explains who you can switch with.\n• Going further (Sakubi): casual questions often end in **の**: 行くの？, 食べないの？ With nouns and な-adjectives, だ turns into な: ひまなの？ It sounds softer and asks for an explanation; you will study it with 〜んです (lesson 12-1). You will also hear **ええ**, a gentle \"yes\", and **いや**, a blunter \"no\".",
       "structure": "[short form]？ (voice rises) → うん、[short form]。 / ううん、[negative short form]。",
       "examples": [
         { "jp": "しゅうまつ、ひま？— うん、ひま。", "kana": "しゅうまつ、ひま？— うん、ひま。", "romaji": "Shūmatsu, hima? — Un, hima.", "en": "Free this weekend? — Yeah, I'm free." },
         { "jp": "こんばん カラオケ 行く？— ううん、行かない。仕事が ある。", "kana": "こんばん カラオケ いく？— ううん、いかない。しごとが ある。", "romaji": "Konban karaoke iku? — Uun, ikanai. Shigoto ga aru.", "en": "Going to karaoke tonight? — No, I'm not going. I have work." },
-        { "jp": "ルーカスの せんこう、れきし？— ううん、れきしじゃない。けいざい。", "kana": "ルーカスの せんこう、れきし？— ううん、れきしじゃない。けいざい。", "romaji": "Rūkasu no senkō, rekishi? — Uun, rekishi ja nai. Keizai.", "en": "Is Lucas's major history? — No, it's not history. It's economics.", "noAnat": true }
+        { "jp": "ルーカスの せんこう、れきし？— ううん、れきしじゃない。けいざい。", "kana": "ルーカスの せんこう、れきし？— ううん、れきしじゃない。けいざい。", "romaji": "Rūkasu no senkō, rekishi? — Uun, rekishi ja nai. Keizai.", "en": "Is Lucas's major history? — No, it's not history. It's economics." }
       ],
       "pitfalls": [
         "Don't use casual speech with a teacher, a boss or an older person you have just met. When in doubt, です / ます ✓.",
         "A casual question with a noun or な-adjective takes no だ: ひま？ ✓, ひまだ？ ✗.",
         "In a casual question, か usually drops: 行く？ ✓. 行くか？ exists, but it tends to sound rough; avoid it for now ✗.",
-        "ううん (no) is longer than うん (yes). If you are afraid of mixing them up, say the whole sentence: ううん、行かない ✓, not just a bare ううん."
+        "ううん (no) is longer than うん (yes), and its melody is different too: tap 🔊 on both in the vocabulary and copy them. If you are afraid of mixing them up, say the whole sentence: ううん、行かない ✓, not just a bare ううん."
       ],
       "howToStudy": [
         "Turn 5 polite questions from this and earlier lessons into casual ones, out loud: 行きますか → 行く？; ひまですか → ひま？; 学生ですか → 学生？",
@@ -191,10 +191,11 @@
     ]
   },
   "practice": [
-    { "tool": "Wagotabi", "what": "Play normally and watch for lines that end without です / ます (a dictionary-form verb, ない, うん / ううん, a question without か). Copy 2 of them into your notebook and write the polite version next to each.", "min": 15 },
-    { "tool": "ヅオリンゴー", "what": "Practice L8 (short-form conjugation) and Drills → Conjugation. Then the Lesson 8 vocabulary in the SRS.", "min": 15 },
+    { "tool": "Wagotabi", "what": "Play normally and watch for lines that end without です / ます (a dictionary-form verb, ない, うん / ううん, a question without か). Copy 2 of them into your notebook and write the polite version next to each. Save the clearest one with ヅオリンゴー's Mining (⛏), so it comes back in your reviews.", "min": 15 },
+    { "tool": "ヅオリンゴー", "what": "Practice L8 (short-form conjugation) and Drills → Conjugation. Then the Lesson 8 vocabulary in the SRS: learn the new kanji through their words (仕事, 会社員, 休む, 作る) rather than one by one. Do every review that is due; if they pile up, add fewer new words instead of skipping reviews.", "min": 15 },
     { "tool": "Shadowing", "what": "Tap 🔊 on the dialogues in point 4c and repeat along 3 times, with the same intonation: your voice rises at the end of the question, with no か.", "min": 5 },
-    { "tool": "Speaking", "what": "Record the homework message (h4) as if it were a voice message to a friend, in 30 seconds or less. Listen and check that no です slipped in.", "min": 5 }
+    { "tool": "Speaking", "what": "Record the homework message (h4) as if it were a voice message to a friend, in 30 seconds or less. Listen and check that no です slipped in.", "min": 5 },
+    { "tool": "Reading", "what": "From this lesson on, try a little real reading: most stories and manga are written in short forms. In the Resources tab, open Tadoku's free graded readers and read one level-0 story for the gist, looking up only the words that block the story. Pick out 3 verbs or adjectives and say both forms out loud, short and polite (行く / 行きます).", "min": 10 }
   ],
   "culture": {
     "title": "Seniors and juniors (せんぱい／こうはい)",
@@ -211,5 +212,9 @@
     "I know who I can speak casually with and when to stay with です / ます.",
     "I did the homework, checked it against the answer key and redid what I got wrong.",
     "I did Workbook pages 78–79."
+  ],
+  "credits": [
+    "Explanations adapted in part from Sakubi (public domain, CC0) — sakubi.neocities.org",
+    "Study method informed by the DJT Guide to Japanese — djtguide.neocities.org/guide"
   ]
 }

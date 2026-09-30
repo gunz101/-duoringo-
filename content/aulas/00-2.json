@@ -73,7 +73,7 @@
         "Writing foreign words in hiragana: ぶらじる ✗ → ブラジル ✓."
       ],
       "howToStudy": [
-        "ヅオリンゴー → Kana → Kana Trail, now in katakana, one row at a time. Check the stroke order in Kana → Write.",
+        "ヅオリンゴー → Kana → Kana Trail, now in katakana, one row at a time. Check the stroke order in Kana → Write. Katakana doesn't have to be as fast as hiragana before you move on: once you can read it, even slowly, the names and loanwords in every lesson will keep polishing it.",
         "In your notebook, write シ ツ ソ ン four times each, saying the direction of the long stroke aloud: \"up\", \"down\".",
         "Speaking: read this lesson's vocabulary aloud, first slowly and then to the beat of the moras."
       ],
@@ -84,7 +84,7 @@
       "gc": null,
       "title": "ー and ッ",
       "gloss": "long vowels and pauses in katakana",
-      "explanation": "The two timing features you saw in hiragana appear in their own way in katakana.\n• **ー (the long-vowel bar)** stretches the vowel before it by one more mora. Instead of repeating the vowel, as hiragana does (おかあさん), katakana uses ー: コーヒー = コ・ー・ヒ・ー, 4 moras. In vertical writing, the bar stands upright.\n• **ビル (building) × ビール (beer)**: ー is the only difference.\n• **Small ッ** works just like hiragana っ: one mora of pause, with a doubled consonant in romaji. サッカー (soccer), ネット (internet).\n• In foreign words, ッ can come before sounds that almost never double in native Japanese words: ベッド (bed), バッグ (bag).\n• There is no 100% fixed rule, but there are patterns: English \"-er\" and \"-or\" at the end of a word usually become ー (サッカー, コンピューター), and a short vowel before a final t, k, p, d, g, ch or sh usually gains ッ (ネット, ベッド, バッグ). Before a final s, l, m or n there is usually no ッ: バス (bus), ホテル, ペン (pen).",
+      "explanation": "The two timing features you saw in hiragana appear in their own way in katakana.\n• **ー (the long-vowel bar)** stretches the vowel before it by one more mora. Instead of repeating the vowel, as hiragana does (おかあさん), katakana uses ー: コーヒー = コ・ー・ヒ・ー, 4 moras. A long e too: hiragana usually writes it with い (せんせい), katakana simply with ー (ケーキ, cake). In vertical writing, the bar stands upright.\n• **ビル (building) × ビール (beer)**: ー is the only difference.\n• **Small ッ** works just like hiragana っ: one mora of pause, with a doubled consonant in romaji. サッカー (soccer), ネット (internet). The consonant is not said twice: your mouth gets ready for it, the air stops for one beat, and it is released on the next letter.\n• **ー and ッ each add exactly one beat**: ハト (pigeon: a native word, but animal names are often written in katakana; 2 beats) · ハート (heart, 3) · ハット (hat, 3).\n• In foreign words, ッ can come before sounds that almost never double in native Japanese words: ベッド (bed), バッグ (bag).\n• There is no 100% fixed rule, but there are patterns: English \"-er\" and \"-or\" at the end of a word usually become ー (サッカー, コンピューター), and a short vowel before a final t, k, p, d, g, ch or sh usually gains ッ (ネット, ベッド, バッグ). Before a final s, l, m or n there is usually no ッ: バス (bus), ホテル, ペン (pen).",
       "structure": "ー = stretches the vowel before it (コーヒー) · ッ = pause, doubled consonant (サッカー)",
       "examples": [
         { "jp": "コーヒー", "kana": "コーヒー", "romaji": "kōhī", "en": "coffee · コ・ー・ヒ・ー, 4 moras", "noAnat": true },
@@ -94,11 +94,11 @@
       "pitfalls": [
         "Ignoring the ー: ビル (building) × ビール (beer). Ask for a ビル at a bar and you are asking for a building.",
         "Using ー in native Japanese words: in standard writing, a hiragana long vowel is written with a letter (おかあさん, とうきょう). ー belongs to katakana.",
-        "Reading ッ as \"tsu\": サッカー is \"sakkā\", with a pause, not \"sa-tsu-kā\".",
+        "Reading ッ as \"tsu\": サ・ツ・カ・ー ✗ → サ・ッ・カ・ー ✓. サッカー is \"sakkā\", 4 moras, with a pause: one k, held for a beat.",
         "Forgetting the ッ when writing: ネト ✗ → ネット ✓."
       ],
       "howToStudy": [
-        "Speaking: say ビル and ビール, clapping on each mora: 2 × 3.",
+        "Speaking (a rhythm drill adapted from Sakubi): say ハト · ハート · ハット, clapping 2 · 3 · 3. Then ビル and ビール: 2 × 3.",
         "Tap 🔊 on コーヒー and サッカー and imitate them, holding the ー and the ッ pause for one full beat.",
         "In your notebook, write 5 words with ー and 3 with ッ from this lesson's vocabulary."
       ],
@@ -134,11 +134,11 @@
       "gc": null,
       "title": "How English words become katakana",
       "gloss": "rebuilding a foreign word with Japanese moras",
-      "explanation": "Japanese syllables are almost all consonant + vowel, ending in a vowel (or in ン). So when a foreign word comes into Japanese, it is **rebuilt out of Japanese moras**. The main patterns:\n• **A consonant with no vowel gets one**, usually u: \"Brazil\" → ブ・ラ・ジ・ル, \"golf\" → ゴルフ. After t and d, the added vowel is usually o: \"test\" → テスト, \"bed\" → ベッド.\n• **l and r both become the ラ row**, because Japanese doesn't tell them apart: \"lemon\" → レモン, \"radio\" → ラジオ.\n• **th usually becomes the サ row**: \"three\" → スリー. **v** usually becomes the バ row (point 4c).\n• **Long vowels often become ー**: \"cake\" → ケーキ, \"Lucas\" → ルーカス (you will also see ルカス). Not always: \"Pedro\" → ペドロ, \"Maria\" → マリア. The \"-er\" ending also becomes ー (point 4b).\n• **Long words shrink**, keeping the start of each part: \"personal computer\" → パソコン, \"convenience store\" → コンビニ, \"smartphone\" → スマホ.\n• **Not every katakana word is English**: パン (bread) comes from Portuguese, アルバイト (part-time job) from German, and コーヒー arrived through Dutch.\n• **Names** have no official spelling: what counts is sounding close to how the person says it (ペドロ, アナ, ジョン, エミリー). A ・ goes between a foreign first name and last name: マリア・サントス.",
+      "explanation": "Japanese syllables are almost all consonant + vowel, ending in a vowel (or in ン). So when a foreign word comes into Japanese, it is **rebuilt out of Japanese moras**. The main patterns:\n• **A consonant with no vowel gets one**, usually u: \"Brazil\" → ブ・ラ・ジ・ル, \"golf\" → ゴルフ. After t and d, the added vowel is usually o: \"test\" → テスト, \"bed\" → ベッド. After ch and j it is i: \"match\" → マッチ, \"bridge\" → ブリッジ. Some older words also use i after k: \"cake\" → ケーキ, \"steak\" → ステーキ.\n• **l and r both become the ラ row**, because Japanese doesn't tell them apart: \"lemon\" → レモン, \"radio\" → ラジオ.\n• **th usually becomes the サ row**, or the ザ row when it is voiced: \"three\" → スリー, \"mother\" → マザー. **v** usually becomes the バ row (point 4c).\n• **Long vowels often become ー**: \"cake\" → ケーキ, \"Lucas\" → ルーカス (you will also see ルカス). Not always: \"Pedro\" → ペドロ, \"Maria\" → マリア. The \"-er\" ending also becomes ー (point 4b).\n• **Long words shrink**, usually keeping the first moras of each part (\"personal computer\" → パソコン, \"smartphone\" → スマホ), or only of the first part (\"convenience store\" → コンビニ).\n• **Not every katakana word is English**: パン (bread) comes from Portuguese, アルバイト (part-time job) from German, and コーヒー arrived through Dutch.\n• **Names** have no official spelling: what counts is sounding close to how the person says it (ペドロ, アナ, ジョン, エミリー). A ・ goes between a foreign first name and last name: マリア・サントス.",
       "structure": "foreign word → Japanese moras (ブ・ラ・ジ・ル) · l and r → ラ row · long vowels → ー · long words shrink (パソコン)",
       "examples": [
         { "jp": "ブラジル", "kana": "ブラジル", "romaji": "Burajiru", "en": "Brazil · every consonant got a vowel: ブ・ラ・ジ・ル", "noAnat": true },
-        { "jp": "サンパウロ", "kana": "サンパウロ", "romaji": "Sanpauro", "en": "São Paulo · a place name rebuilt in moras: サ・ン・パ・ウ・ロ", "noAnat": true },
+        { "jp": "サンパウロ", "kana": "サンパウロ", "romaji": "Sanpauro", "en": "São Paulo · a place name rebuilt in moras: サ・ン・パ・ウ・ロ; ン before パ sounds like \"m\" (lesson 00-1)", "noAnat": true },
         { "jp": "パソコン", "kana": "パソコン", "romaji": "pasokon", "en": "(personal) computer · shortened from \"personal computer\"", "noAnat": true }
       ],
       "pitfalls": [
@@ -225,8 +225,8 @@
     { "tool": "Kana", "what": "ヅオリンゴー → Kana → Kana Trail, in katakana: one new row per session, reviewing the earlier ones. Use Kana → Write for the stroke order of シ, ツ, ソ and ン.", "min": 15 },
     { "tool": "kana-flow", "what": "Its mixed mode combines hiragana and katakana. If you swap シ and ツ, its confusion hunt records the pair and brings the look-alike back soon after; in its weaknesses tab you can drill that exact pair.", "min": 10 },
     { "tool": "Wagotabi", "what": "Play normally and look for katakana words in the menus and dialogues. Read 5 of them aloud, try to guess the foreign word behind each one, and note them in your notebook.", "min": 10 },
-    { "tool": "Shadowing", "what": "Tap 🔊 on each example in this lesson and repeat along 3 times, holding the ー and the ッ pause.", "min": 5 },
-    { "tool": "Speaking", "what": "Say your name in katakana to the beat of the moras (ペ・ド・ロ) and record it. Listen: did it come out with no stressed syllable?", "min": 5 }
+    { "tool": "Typing", "what": "Turn on the Japanese keyboard (IME) that comes with your computer or phone and type 5 words from this lesson. You type in romaji and choose the katakana: ー is the hyphen key, ッ comes from doubling the consonant (netto → ネット), ティ is \"thi\" and ファ is \"fa\". On Windows, F7 turns what you just typed into katakana. Typing is a separate skill from reading, and you will need it for the app's Journal.", "min": 5 },
+    { "tool": "Shadowing + speaking", "what": "Tap 🔊 on each example in this lesson and repeat along 3 times, holding the ー and the ッ pause. Then say your name in katakana to the beat of the moras (ペ・ド・ロ) and record it. Listen: did it come out with no stressed syllable?", "min": 5 }
   ],
   "culture": {
     "title": "Words Japanese borrowed from Portuguese",
@@ -240,7 +240,12 @@
     "I can read ー and ッ with the right length: ビル × ビール, サッカー.",
     "I can read the new combinations (ティ, ファ, フォ, ウィ…) in words like パーティー and カフェ.",
     "I can write my name and my city in katakana without looking at the patterns.",
+    "I can type katakana words with ー and ッ (コーヒー, サッカー) on a Japanese keyboard.",
     "I did the homework, checked it against the answer key and redid what I got wrong.",
     "I did Workbook pages 23 and 128–132."
+  ],
+  "credits": [
+    "Explanations adapted in part from Sakubi (public domain, CC0) — sakubi.neocities.org",
+    "Study method informed by the DJT Guide to Japanese and its Resource Guide — djtguide.neocities.org/guide"
   ]
 }

@@ -16,7 +16,7 @@
       { "t": "Warm-up: say out loud the て-form of 10 verbs (lesson 06-1), including する, 来る and 行く", "min": 5 },
       { "t": "Vocabulary: tap 🔊 on each word and repeat it twice; count aloud from 一回 to 十回", "min": 10 },
       { "t": "Grammar: the 3 points, each with its examples read aloud and one 🔬", "min": 25 },
-      { "t": "Video (block 6), only the part on なら", "min": 10 },
+      { "t": "Block 6: the video or the Sakubi sections on 〜てみる and なら, as a second explanation (read to understand, not to memorize)", "min": 10 },
       { "t": "Notebook homework + checking it against the answer key", "min": 15 },
       { "t": "Checklist (block 10) + write your questions in the lesson notebook", "min": 5 }
     ]
@@ -27,7 +27,7 @@
       "The て-form of every verb (lesson 06-1). 〜てみる is built straight from it.",
       "〜てください (lesson 06-2), 〜てもいいですか (lesson 06-3) and 〜たい (lesson 11-1): 〜てみる combines with all three.",
       "〜たことがある (lesson 11-2), so that you don't mix up \"I have done it before\" with \"I tried it\".",
-      "Contrastive は (lesson 03-2), frequency words such as よく and ときどき (lesson 03-3) and 〜時間 (lesson 04-3).",
+      "Contrastive は (lesson 03-2), frequency words such as よく and ときどき, and ごろ for clock times (lesson 03-3), plus 〜時間 and ぐらい (lesson 04-3).",
       "The potential from lesson 13-1 (会える, 行ける, ひける), which appears in the answers with なら."
     ],
     "vocab": [
@@ -62,7 +62,7 @@
       "gc": null,
       "title": "〜てみる: trying something out",
       "gloss": "do something and see how it is",
-      "explanation": "〜てみる means **doing something to see what it's like**: trying it, tasting it, testing it. It is the verb's **て-form** + **みる**. みる is the same verb \"to see\", in the sense of \"do it and see how it goes\". As a helper verb, it is usually written **in kana**: 食べてみる.\n• **Form**: て-form (lesson 06-1) + みる. 食べる → 食べてみる; 行く → 行ってみる; 着る → 着てみる; する → してみる. Even 見る works: 見てみる = have a look and see.\n• **みる does the conjugating**, like a る-verb: 食べてみます, 食べてみました (I tried it), 食べてみたい (I want to try it), 食べてみてください (try it!), 食べてみましょう (let's try it).\n• The most useful combinations in daily life: **〜てみたいです** for wishes (いつか着物を着てみたいです), **〜てみてください** for recommending, and **〜てみてもいいですか** for asking to try something on or test it in a shop.\n• 〜てみる means you **really do it**, to find out the result. English \"try\" is broader: when it means an effort you keep up as a habit (\"I try to get up early every day\"), Japanese usually uses another form, 〜ようにする, which comes in lesson P-01.\n• **〜てみる × 〜たことがある**: 食べてみました tells about one action, one time (\"I tried it\"). 食べたことがあります (lesson 11-2) says you have that experience in your life (\"I have eaten it before\").\n• In the sentence, [verb in て + みる] is a single block, the **PREDICATE**. The thing you try keeps **を**: カレーを作ってみました.",
+      "explanation": "〜てみる means **doing something to see what it's like**: trying it, tasting it, testing it. It is the verb's **て-form** + **みる**. Japanese builds many meanings this way: an ordinary verb glued after the て-form becomes a **helper verb** and stops meaning exactly what it normally means. You already know 〜ている (lesson 07-1); 〜ておく and 〜てしまう come later (lessons 15-2 and 18-2). Here みる, \"to see\", becomes \"do it and see how it goes\". As a helper verb, it is usually written **in kana**: 食べてみる.\n• **Form**: て-form (lesson 06-1) + みる. 食べる → 食べてみる; 行く → 行ってみる; 着る → 着てみる; する → してみる. Even 見る works: 見てみる = have a look and see.\n• **みる does the conjugating**, like a る-verb: 食べてみます, 食べてみました (I tried it), 食べてみたい (I want to try it), 食べてみてください (try it!), 食べてみましょう (let's try it).\n• The most useful combinations in daily life: **〜てみたいです** for wishes (いつか着物を着てみたいです), **〜てみてください** for recommending, and **〜てみてもいいですか** for asking to try something on or test it in a shop.\n• 〜てみる means you **really do it**, to find out the result. English \"try\" is broader: when it means an effort you keep up as a habit (\"I try to get up early every day\"), Japanese usually uses another form, 〜ようにする, which comes in lesson P-01.\n• **〜てみる × 〜たことがある**: 食べてみました tells about one action, one time (\"I tried it\"). 食べたことがあります (lesson 11-2) says you have that experience in your life (\"I have eaten it before\").\n• In the sentence, [verb in て + みる] is a single block, the **PREDICATE**. The thing you try keeps **を**: カレーを作ってみました.",
       "structure": "[verb in て] + みる · 〜てみたいです · 〜てみてください · 〜てみてもいいですか",
       "examples": [
         { "jp": "これはブラジルのパン・デ・ケージョです。食べてみてください。", "kana": "これはブラジルのパン・デ・ケージョです。たべてみてください。", "romaji": "Kore wa Burajiru no pan de kējo desu. Tabete mite kudasai.", "en": "This is Brazilian cheese bread. Please try some!" },
@@ -86,7 +86,7 @@
       "gc": null,
       "title": "N なら: \"if it's X…\"",
       "gloss": "picking up a topic and saying what applies to it",
-      "explanation": "**なら** takes a topic that **has already come up** in the conversation, almost always brought up by the other person, and says something that applies **specifically** to it: \"if it's X…\", \"if you mean X…\", \"as for X, then…\".\n• **Form**: noun + なら, **without だ**. 日曜日なら; ブラジル料理なら.\n• **Use 1 · recommending or informing**: someone mentions a topic, and you give a tip about it. ブラジル料理が食べたいんですが。— ブラジル料理なら、駅の前の店がいいですよ。\n• **Use 2 · contrast, \"that one, yes\"**: you set one item apart from the others. 土曜日はアルバイトがありますが、日曜日ならひまですよ。 (Saturday no, Sunday yes). The other half often comes with contrastive は (lesson 03-2).\n• **Use 3 · from the group to one item**: the question is broad, and the answer picks out one part. スポーツは好きですか。— サッカーなら大好きです。 (sports in general, not so much; soccer, yes).\n• That is why なら almost never starts a conversation out of nowhere: it **responds** to something that is already on the table.\n• You will also hear なら after verbs (行くなら…, \"if you're going…\"). In this lesson, stick to noun + なら.\n• In the sentence, the block with なら is the **condition** (🔬 labels it IF / WHEN), and the comment about X comes after it, ending in the **PREDICATE**. Read from the end: \"I'm free\" → when? → if it's Sunday.",
+      "explanation": "**なら** takes a topic that **has already come up** in the conversation, almost always brought up by the other person, and says something that applies **specifically** to it: \"if it's X…\", \"if you mean X…\", \"as for X, then…\". なら **supposes** that what comes before it is true — \"if (it's true that) it's X\" — and tells you what follows from that.\n• **Form**: noun + なら, **without だ**. 日曜日なら; ブラジル料理なら.\n• **Use 1 · recommending or informing**: someone mentions a topic, and you give a tip about it. ブラジル料理が食べたいんですが。— ブラジル料理なら、駅の前の店がいいですよ。\n• **Use 2 · contrast, \"that one, yes\"**: you set one item apart from the others. 土曜日はアルバイトがありますが、日曜日ならひまですよ。 (Saturday no, Sunday yes). The other half often comes with contrastive は (lesson 03-2).\n• **Use 3 · from the group to one item**: the question is broad, and the answer picks out one part. スポーツは好きですか。— サッカーなら大好きです。 (sports in general, not so much; soccer, yes).\n• That is why なら almost never starts a conversation out of nowhere: it **responds** to something that is already on the table.\n• In the sentence, the block with なら is the **condition** (🔬 labels it IF / WHEN), and the comment about X comes after it, ending in the **PREDICATE**. Read from the end: \"I'm free\" → when? → if it's Sunday.\n• **Going further (Sakubi):** なら also follows verbs, with or without の: 行くなら / 行くのなら (\"if you're going\"). Because なら only supposes that something is true, the advice can even happen **before** the event, which たら can't do: 京都に行くなら、この本を読んでみてください (read it before you go). なら is short for ならば. In this lesson, stick to noun + なら.",
       "structure": "[N] なら、[what applies to N]。 (no だ: 日曜日なら)",
       "examples": [
         { "jp": "しゅうまつ、ひまですか。— 土曜日はアルバイトがありますが、日曜日ならひまですよ。", "kana": "しゅうまつ、ひまですか。— どようびはアルバイトがありますが、にちようびならひまですよ。", "romaji": "Shūmatsu, hima desu ka. — Doyōbi wa arubaito ga arimasu ga, nichiyōbi nara hima desu yo.", "en": "Are you free this weekend? — I have my part-time job on Saturday, but on Sunday I'm free." },
@@ -111,7 +111,7 @@
       "gc": null,
       "title": "Frequency: 一週間に三回",
       "gloss": "[period] に [number of times]",
-      "explanation": "To say **how often** you do something, Japanese uses **[period] + に + [number of times]**. 一週間に三回 = \"three times a week\", literally \"in one week, three times\". Notice the order: English puts the period last (\"three times **a week**\"); Japanese puts it first.\n• **Times**: number + **回** (かい). 一回 (**いっ**かい), 二回 (にかい), 三回 (さんかい), 四回 (よんかい), 五回 (ごかい), 六回 (**ろっ**かい), 七回 (ななかい), 八回 (**はっ**かい, also はちかい), 九回 (きゅうかい), 十回 (**じゅっ**かい). The question is **何回** (なんかい).\n• **Periods**: 一日 (**いちにち**, \"one day\"), 一週間 (いっしゅうかん), 一か月 (いっかげつ), 一年 (いちねん).\n• The same formula works for **how long** per period: 一日に一時間 = \"one hour a day\".\n• **The number takes no particle**: 一週間に | 三回 | ジムに | 行きます. The frequency block usually comes at the start of the sentence or right before the verb.\n• To answer roughly, use **ぐらい**: 三回ぐらい; 一時間ぐらい.\n• In the sentence, 一週間に is **TIME** and 三回 is **QUANTITY**; the **PREDICATE** is still at the end. Read from the end: \"goes\" → where? → to the gym → how many times? → three → in what period? → in a week.",
+      "explanation": "To say **how often** you do something, Japanese uses **[period] + に + [number of times]**. 一週間に三回 = \"three times a week\", literally \"in one week, three times\". Notice the order: English puts the period last (\"three times **a week**\"); Japanese puts it first.\n• **Times**: number + **回** (かい). In Japanese a number can't attach straight to a noun: it needs a **counter**, and 回 is the counter for \"times, occurrences\". It uses the Chinese-origin numbers (いち, に, さん…), not ひとつ, ふたつ: 一回 (**いっ**かい), 二回 (にかい), 三回 (さんかい), 四回 (よんかい), 五回 (ごかい), 六回 (**ろっ**かい), 七回 (ななかい), 八回 (**はっ**かい, also はちかい), 九回 (きゅうかい), 十回 (**じゅっ**かい). The question is **何回** (なんかい).\n• **Periods**: 一日 (**いちにち**, \"one day\"), 一週間 (いっしゅうかん), 一か月 (いっかげつ), 一年 (いちねん).\n• The same formula works for **how long** per period: 一日に一時間 = \"one hour a day\".\n• **The number takes no particle**: 一週間に | 三回 | ジムに | 行きます. The frequency block usually comes at the start of the sentence or right before the verb.\n• To answer roughly, use **ぐらい**, which makes an amount approximate: 三回ぐらい; 一時間ぐらい.\n• In the sentence, 一週間に is **TIME** and 三回 is **QUANTITY**; the **PREDICATE** is still at the end. Read from the end: \"goes\" → where? → to the gym → how many times? → three → in what period? → in a week.\n• **Going further:** the period can be longer than one unit: 二週間に一回 (once every two weeks), 三か月に一回 (once every three months).",
       "structure": "[period] に [number] 回 … [verb] · [period] に 何回…？",
       "examples": [
         { "jp": "ペドロさんは一週間に三回ジムに行きます。", "kana": "ペドロさんはいっしゅうかんにさんかいジムにいきます。", "romaji": "Pedoro-san wa isshūkan ni sankai jimu ni ikimasu.", "en": "Pedro goes to the gym three times a week. [lit. in one week, three times]" },
@@ -119,9 +119,9 @@
         { "jp": "一年に一回、家族に会いにブラジルに帰ります。", "kana": "いちねんにいっかい、かぞくにあいにブラジルにかえります。", "romaji": "Ichinen ni ikkai, kazoku ni ai ni Burajiru ni kaerimasu.", "en": "Once a year, I go back to Brazil to see my family." }
       ],
       "pitfalls": [
-        "The order is period + に + times: 三回に一週間 ✗ → 一週間に三回 ✓. Don't copy the English order (\"three times a week\").",
-        "The \"a\" of \"a week\" (per week) is に, not の: 一週間の三回 ✗ → 一週間に三回 ✓.",
+        "The order is period + に + times, and the \"a\" of \"a week\" is に: 三回に一週間 ✗ / 一週間の三回 ✗ → 一週間に三回 ✓. Don't copy the English order (\"three times a week\").",
         "No particle after the number: 三回をジムに行きます ✗ → 三回ジムに行きます ✓.",
+        "To round a number of times, use ぐらい, not ごろ: 三回ごろ ✗ → 三回ぐらい ✓. ごろ is only for a point in time (三時ごろ, lesson 03-3); ぐらい is for amounts (lesson 04-3).",
         "Watch the readings: 一回 is いっかい (いちかい ✗); 一日 meaning \"one day\" is いちにち. ついたち is a different word, \"the first\" of the month: 一日に三回 = いちにちにさんかい ✓."
       ],
       "howToStudy": [
@@ -172,7 +172,7 @@
           { "q": "I go to the supermarket twice a week.", "a": { "jp": "一週間に二回スーパーに行きます。", "kana": "いっしゅうかんににかいスーパーにいきます。", "romaji": "Isshūkan ni nikai sūpā ni ikimasu." } },
           { "q": "How many times a month do you call your family?", "a": { "jp": "一か月に何回家族に電話しますか。", "kana": "いっかげつになんかいかぞくにでんわしますか。", "romaji": "Ikkagetsu ni nankai kazoku ni denwa shimasu ka." }, "note": "電話する takes に: 家族に電話する." },
           { "q": "Take this medicine three times a day.", "a": { "jp": "このくすりは一日に三回飲んでください。", "kana": "このくすりはいちにちにさんかいのんでください。", "romaji": "Kono kusuri wa ichinichi ni sankai nonde kudasai." }, "note": "In English you \"take\" medicine; in Japanese you \"drink\" it: くすりを飲む. Here 一日 is いちにち." },
-          { "q": "I sleep about six hours a day.", "a": { "jp": "一日に六時間ぐらいねます。", "kana": "いちにちにろくじかんぐらいねます。", "romaji": "Ichinichi ni rokujikan gurai nemasu." } },
+          { "q": "I sleep about six hours a day.", "a": { "jp": "一日に六時間ぐらいねます。", "kana": "いちにちにろくじかんぐらいねます。", "romaji": "Ichinichi ni rokujikan gurai nemasu." }, "note": "ぐらい, not ごろ: 六時間 is an amount. ごろ is for a point in time: 十一時ごろねます = \"I go to bed around eleven\"." },
           { "q": "Someday I want to try wearing a kimono.", "a": { "jp": "いつか着物を着てみたいです。", "kana": "いつかきものをきてみたいです。", "romaji": "Itsuka kimono o kite mitai desu." } },
           { "q": "(A friend invites you to go out to a club. You're not into clubs, but you like karaoke.) If it's karaoke, I'll go!", "a": { "jp": "カラオケなら行きます！", "kana": "カラオケならいきます！", "romaji": "Karaoke nara ikimasu!" }, "note": "なら picks the option that works for you, after the topic (going out) has already come up." }
         ]
@@ -190,8 +190,8 @@
   },
   "practice": [
     { "tool": "Wagotabi", "what": "Play in an N4-level area, if you have reached one. Hunt the dialogues for 〜てみる (〜てみて, 〜てみたい, 〜てみる) and なら. For each なら, say out loud which topic it picked up. Log the session in Immersion → Games and paste one of those lines into 🔬 Anatomy.", "min": 15 },
-    { "tool": "ヅオリンゴー", "what": "Drills → Conjugation: warm up the て-form, the base of 〜てみる. Then Drills → 🔬 Anatomy → 🧱 Build from the end with example 3 of point c, starting from 帰ります.", "min": 10 },
-    { "tool": "ヅオリンゴー · Mining", "what": "Whenever you find a sentence with なら, 〜てみる or a frequency (〜に〜回) in the game, in a video or on a website, save it in sentence Mining, with its translation. The goal is to collect 5 before you move on to Lesson 14.", "min": 5 },
+    { "tool": "ヅオリンゴー", "what": "Drills → Conjugation: warm up the て-form, the base of 〜てみる. Then Drills → 🔬 Anatomy → 🧱 Build from the end with example 3 of point c, starting from 帰ります. Then clear 🌊 All: the Lesson 13 words you added with ⛏ Mining in lessons 13-1 and 13-2 should now be coming back in your reviews.", "min": 10 },
+    { "tool": "Reading + Mining", "what": "Resources tab → Tadoku's free graded readers (a level-1 or level-2 story), or a few pages of an easy manga with furigana. Read for the story; on a computer, a pop-up dictionary such as Yomitan shows a word's reading and meaning when you hover over it. Whenever you meet なら, 〜てみる or a frequency (〜に〜回) — there, in Wagotabi or in a video — save the sentence with ⛏ Mining, with its translation. Pick sentences where everything else is already familiar: one new thing per card. The goal is to collect 5 before you move on to Lesson 14.", "min": 10 },
     { "tool": "Shadowing", "what": "Tap 🔊 on each example in this lesson and repeat along 3 times. In 一週間, the っ takes a full beat: い・っ・しゅ・う・か・ん is 6 beats. The same in いっかい: い・っ・か・い.", "min": 5 },
     { "tool": "Speaking", "what": "Record your tips for your city (homework h4) in 45 seconds or less. Listen and check that each なら came after a topic and that the numbers with 回 came out with the right reading.", "min": 5 }
   ],
@@ -207,8 +207,12 @@
     "I know the difference between 食べてみました (I tried it) and 食べたことがあります (I have eaten it before).",
     "I can respond to a topic with noun + なら, without だ, to recommend something or to make a contrast: 日曜日ならひまです。",
     "I can say and ask about frequency with [period]に[number]回: 一週間に三回, 一日に何時間…？",
-    "I read 一回, 六回, 八回, 十回 and 一日 (いちにち) correctly.",
+    "I read 一回, 六回, 八回, 十回 and 一日 (いちにち) correctly, and I round with ぐらい (三回ぐらい), never ごろ.",
     "I did the homework, checked it against the answer key and redid what I got wrong.",
     "If I have the Genki II Workbook: I did this lesson's exercises on 〜てみる, なら and frequency."
+  ],
+  "credits": [
+    "Explanations adapted in part from Sakubi (public domain, CC0) — sakubi.neocities.org",
+    "Study method informed by the DJT Guide to Japanese — djtguide.neocities.org/guide"
   ]
 }

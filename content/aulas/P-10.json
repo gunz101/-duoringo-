@@ -1,0 +1,195 @@
+{
+  "id": "P-10",
+  "unit": "P-N3",
+  "genki": null,
+  "title": "Thanks to · because of (blame)",
+  "titleJp": "先生のおかげで・雨のせいで",
+  "canDo": [
+    "I can thank a person or a cause for a good result with 〜おかげで, and end a sentence with 〜のおかげです.",
+    "I can blame a person or a cause for a bad result with 〜せいで, and say 〜のせいです and 〜のせいにしないで.",
+    "I can attach both to nouns (の), verbs, い-adjectives and な-adjectives (な) without looking.",
+    "I can choose between おかげで, せいで and a neutral から／ので, and I understand an ironic おかげで and the set reply おかげさまで."
+  ],
+  "duration": {
+    "total": "60–75 min",
+    "blocks": [
+      { "t": "Warm-up: say aloud 3 sentences about your day with から (lessons 06-4 and 09-3) and 3 with ので (lesson 12-2)", "min": 5 },
+      { "t": "Vocabulary: tap 🔊 on each word and repeat it twice. Kanji stick best inside words: 試 is in both 試験 and 試合, and 合 in both 試合 and 合格. Save the new words with Mining (⛏)", "min": 10 },
+      { "t": "Grammar: the 2 points, with the examples read aloud, the contrast between them and one 🔬 each", "min": 20 },
+      { "t": "Block 6: the reading and the video, as a second explanation", "min": 10 },
+      { "t": "Notebook homework + checking it against the answer key", "min": 20 },
+      { "t": "Checklist (block 10) + write your questions in the lesson notebook", "min": 5 }
+    ]
+  },
+  "prereqs": {
+    "aulas": ["P-09"],
+    "skills": [
+      "Clauses that describe nouns (lesson 09-2): おかげ and せい are nouns, so whatever comes before them attaches like a description — 練習したおかげ, 雨のせい, 静かなおかげ.",
+      "Giving reasons with から (lessons 06-4 and 09-3) and ので (lesson 12-2): the neutral \"because\" this lesson is contrasted with.",
+      "〜てくれる (lesson 16-1) and potential verbs (lesson 13-1): they often come with おかげで (手伝ってくれたおかげで, 合格できた).",
+      "〜てしまう／〜ちゃう (lesson 18-2): it often comes with せいで, for results you regret."
+    ],
+    "vocab": [
+      { "jp": "おかげ", "kana": "おかげ", "romaji": "okage", "en": "thanks to (a good cause); lit. \"shade, protection\"" },
+      { "jp": "おかげさまで", "kana": "おかげさまで", "romaji": "okagesama de", "en": "thankfully, I'm fine (polite set reply; lit. thanks to you)" },
+      { "jp": "せい", "kana": "せい", "romaji": "sei", "en": "fault, blame" },
+      { "jp": "〜のせいにする", "kana": "〜のせいにする", "romaji": "-no sei ni suru", "en": "to blame (something) on…" },
+      { "jp": "合格する", "kana": "ごうかくする", "romaji": "gōkaku suru", "en": "to pass (an exam)" },
+      { "jp": "試験", "kana": "しけん", "romaji": "shiken", "en": "exam" },
+      { "jp": "試合", "kana": "しあい", "romaji": "shiai", "en": "match, game (sports)" },
+      { "jp": "中止", "kana": "ちゅうし", "romaji": "chūshi", "en": "cancellation; 中止になる = to be called off" },
+      { "jp": "遅れる", "kana": "おくれる", "romaji": "okureru", "en": "to be late; to be delayed" },
+      { "jp": "乗り遅れる", "kana": "のりおくれる", "romaji": "noriokureru", "en": "to miss (a train, a bus)" },
+      { "jp": "遅刻する", "kana": "ちこくする", "romaji": "chikoku suru", "en": "to be late (for school or work)" },
+      { "jp": "手伝う", "kana": "てつだう", "romaji": "tetsudau", "en": "to help (with a task)" },
+      { "jp": "失敗", "kana": "しっぱい", "romaji": "shippai", "en": "failure, mistake" },
+      { "jp": "寝坊する", "kana": "ねぼうする", "romaji": "nebō suru", "en": "to oversleep" },
+      { "jp": "風邪", "kana": "かぜ", "romaji": "kaze", "en": "a cold" },
+      { "jp": "熱", "kana": "ねつ", "romaji": "netsu", "en": "fever" },
+      { "jp": "下がる", "kana": "さがる", "romaji": "sagaru", "en": "to go down" },
+      { "jp": "薬", "kana": "くすり", "romaji": "kusuri", "en": "medicine" },
+      { "jp": "眠れる", "kana": "ねむれる", "romaji": "nemureru", "en": "to be able to sleep" },
+      { "jp": "狭い", "kana": "せまい", "romaji": "semai", "en": "narrow, small (a room, a road)" },
+      { "jp": "引っ越し", "kana": "ひっこし", "romaji": "hikkoshi", "en": "moving (house)" },
+      { "jp": "見つかる", "kana": "みつかる", "romaji": "mitsukaru", "en": "to be found" },
+      { "jp": "雪", "kana": "ゆき", "romaji": "yuki", "en": "snow" },
+      { "jp": "涼しい", "kana": "すずしい", "romaji": "suzushii", "en": "cool (weather)" },
+      { "jp": "赤ちゃん", "kana": "あかちゃん", "romaji": "akachan", "en": "baby" }
+    ]
+  },
+  "grammar": [
+    {
+      "id": "P-10-a",
+      "gc": null,
+      "title": "〜おかげで",
+      "gloss": "thanks to (a good result)",
+      "explanation": "**おかげ** is a noun. It comes from お陰, \"the shade\" — the protection of the gods, or of someone who looks after you. **X のおかげで** = **\"thanks to X\"**: X caused a result you are **happy about**, and you feel grateful for it.\n• 先生のおかげで、試験に合格できました。 (Thanks to my teacher, I was able to pass the exam.)\n• The cause can be a person, a thing or a whole event: 薬を飲んだおかげで、熱が下がった (Thanks to the medicine I took, my fever went down).\n• At the end of a sentence: **〜のおかげだ／〜おかげです** = \"it's thanks to…\": 合格できたのは、みんなが手伝ってくれたおかげです.\n• **おかげさまで** is the set polite reply when someone asks how you, your family or your work are doing: お元気ですか。— おかげさまで、元気です。 It thanks the other person (and good fortune) in general, even if they did nothing in particular.\n• **Irony:** said with a sharp tone, おかげで can mean the opposite, like English \"thanks a lot\": 君が遅れたおかげで、電車に乗り遅れたよ.\n\n**Forms:** おかげ attaches like any noun. **Noun + の** (先生のおかげで); **verb** short form, usually past (練習したおかげで); **い-adjective** directly (駅が近いおかげで); **な-adjective + な** (部屋が静かなおかげで).\n\n**The sentence, block by block.** [〜おかげで] is a **cause block**, like a から block, and the good result is the PREDICATE at the end. Everything before おかげ describes it: [毎日練習した] おかげで = \"thanks to the practicing every day\".\n\n**おかげで × から／ので:** から and ので give a **neutral** reason (lessons 06-4 and 12-2). おかげで adds **\"and I'm grateful\"**. That's why it doesn't fit a bad result — unless you're being sarcastic.",
+      "structure": "[noun] の おかげで · [verb, past] おかげで · [い-adj] おかげで · [な-adj] な おかげで + [good result] · 〜は [cause] (の) おかげです",
+      "examples": [
+        { "jp": "先生のおかげで、試験に合格できました。", "kana": "せんせいのおかげで、しけんにごうかくできました。", "romaji": "Sensei no okage de, shiken ni gōkaku dekimashita.", "en": "Thanks to my teacher, I was able to pass the exam.", "noAnat": true },
+        { "jp": "毎日練習したおかげで、漢字が速く書けるようになった。", "kana": "まいにちれんしゅうしたおかげで、かんじがはやくかけるようになった。", "romaji": "Mainichi renshū shita okage de, kanji ga hayaku kakeru yō ni natta.", "en": "Because I practiced every day, I can now write kanji quickly. [lit. thanks to having practiced every day, I've become able to write kanji fast]", "noAnat": true },
+        { "jp": "合格できたのは、みんなが手伝ってくれたおかげです。", "kana": "ごうかくできたのは、みんながてつだってくれたおかげです。", "romaji": "Gōkaku dekita no wa, minna ga tetsudatte kureta okage desu.", "en": "It's thanks to everyone's help that I passed. [lit. the fact that I could pass is thanks to everyone helping me]" }
+      ],
+      "pitfalls": [
+        "Nouns take の and な-adjectives take な: 先生おかげで ✗ → 先生のおかげで ✓; 静かおかげで ✗ → 静かなおかげで ✓.",
+        "おかげで is for good results. \"Because of the rain, the game was called off\": 雨のおかげで、試合が中止になった ✗ (unless you're glad!) → 雨のせいで、試合が中止になった ✓.",
+        "No ます form before おかげ; the politeness goes at the end: 手伝ってくれましたおかげで ✗ → 手伝ってくれたおかげで ✓.",
+        "おかげさまで answers \"how are you, how is it going?\"; it is not a thank-you for a specific favor. When someone gives you a present: おかげさまで ✗ → ありがとうございます ✓."
+      ],
+      "howToStudy": [
+        "Thank 3 people or things in your life aloud: 〜のおかげで、〜ようになった／〜できた (e.g. 友だちのおかげで、日本語が楽しくなった).",
+        "🔬 Anatomy → Analyze: paste example 3. 合格できたのは is the TOPIC (\"the fact that I passed\"), みんなが is the SUBJECT, 手伝ってくれた is DESCRIBES NEXT — it describes おかげ — and おかげです is the PREDICATE. Heads-up: in the middle of a sentence, 🔬 reads the で of おかげで as a PLACE; its real job is the cause block, \"thanks to\".",
+        "Role-play aloud: someone asks お仕事はどうですか。 — answer with おかげさまで、〜. Then say one ironic おかげで about a small disaster (〜のおかげで、〜よ！) and exaggerate the sarcastic tone."
+      ],
+      "flag": null
+    },
+    {
+      "id": "P-10-b",
+      "gc": null,
+      "title": "〜せいで (× おかげで)",
+      "gloss": "because of (a bad result) · it's … 's fault",
+      "explanation": "**せい** is also a noun: it means **\"fault\"**. Sakubi describes it as marking a cause or a reason, and says it usually implies the effect was **unwanted**. **X のせいで** = **\"because of X\"** — X is the **culprit** of a bad result.\n• 雨のせいで、試合が中止になった。 (Because of the rain, the game was called off.)\n• 昨日遅くまでゲームをしていたせいで、今日はとても眠い。 (I'm really sleepy today because I was gaming until late last night.)\n• At the end of a sentence: **〜のせいだ／〜せいです** = \"it's (X's) fault\": 遅れたのは僕のせいです (It's my fault we're late).\n• **〜のせいにする** = \"to blame something on…\": 失敗を人のせいにしないで (Don't blame your mistakes on other people).\n• **〜せいか** = \"maybe because…\", when you're not sure of the cause: 疲れているせいか、頭が痛い (Maybe because I'm tired, I have a headache).\n\n**Forms:** exactly like おかげ: **noun + の** (雨のせいで), **verb** short form (していたせいで), **い-adjective** directly (道が狭いせいで), **な-adjective + な** (下手なせいで).\n\n**The sentence, block by block.** [〜せいで] is the cause block; the bad result is the PREDICATE at the end, often with 〜てしまった／〜ちゃった. Everything before せい describes it.\n• Going further (Sakubi): like ために, せいで doesn't need a full clause before it — a noun is enough (私のせいで). And it doesn't present a logical \"therefore\" the way から does: it **points a finger**.\n\n**せいで × おかげで** (point a): the same machine with opposite feelings. Same kind of cause, two sentences: 雪のせいで電車が止まった (bad: the train stopped) × 雪のおかげで学校が休みになった (good, for a student: no school today).\n**せいで × から／ので:** 雨が降ったので、試合が中止になった is a neutral report. 雨のせいで sounds like a complaint. In a formal apology or a report, the neutral ので or ため is safer: blaming the train with せいで can sound like an excuse.",
+      "structure": "[noun] の せいで · [verb] せいで · [い-adj] せいで · [な-adj] な せいで + [bad result] · 〜は [culprit] の せいです · [thing] を [person] の せいにする",
+      "examples": [
+        { "jp": "雨のせいで、試合が中止になった。", "kana": "あめのせいで、しあいがちゅうしになった。", "romaji": "Ame no sei de, shiai ga chūshi ni natta.", "en": "Because of the rain, the game was called off.", "noAnat": true },
+        { "jp": "昨日遅くまでゲームをしていたせいで、今日はとても眠い。", "kana": "きのうおそくまでゲームをしていたせいで、きょうはとてもねむい。", "romaji": "Kinō osoku made gēmu o shite ita sei de, kyō wa totemo nemui.", "en": "I'm really sleepy today because I was playing games until late last night.", "noAnat": true },
+        { "jp": "遅れたのは僕のせいです。すみません。", "kana": "おくれたのはぼくのせいです。すみません。", "romaji": "Okureta no wa boku no sei desu. Sumimasen.", "en": "It's my fault we're late. I'm sorry. [lit. the being late is my fault]" }
+      ],
+      "pitfalls": [
+        "Nouns take の: 雨せいで ✗ → 雨のせいで ✓.",
+        "せいで is for bad results. \"Thanks to you, I had a great time\": マリアさんのせいで、楽しかった ✗ → マリアさんのおかげで、楽しかった ✓.",
+        "\"To blame someone\" is [person] のせいにする: 人をせいにする ✗ → 人のせいにする ✓.",
+        "In a formal apology, せいで can sound like an excuse. To your boss: 電車のせいで遅刻しました ✗ → 電車が遅れたため、遅刻してしまいました。申し訳ありません ✓."
+      ],
+      "howToStudy": [
+        "Say aloud 3 small bad things from this week, each with its culprit: 〜のせいで／〜たせいで、〜てしまった.",
+        "🔬 Anatomy → Analyze: paste example 3. 遅れたのは is the TOPIC (\"the being late\"), 僕のせいです is the PREDICATE (\"is my fault\") and すみません is an INTERJECTION. Heads-up: in the middle of a sentence, 🔬 shows a block like 雨のせいで as …AND THEN, because it reads the で as a て-form link; its real job is the cause, \"because of\".",
+        "Same event, two feelings: say each pair aloud — 雪のせいで電車が止まった × 雪のおかげで学校が休みになった; 雨のせいで出かけられなかった × 雨のおかげで涼しくなった. Then, as the DJT guide suggests for any \"what's the difference?\" question, search in Japanese for 「おかげでとせいでの違い」 and read one short native explanation with a pop-up dictionary. If it's still too hard, come back to it later."
+      ],
+      "flag": null
+    }
+  ],
+  "media": [
+    { "order": 1, "kind": "reading", "title": "JLPT Sensei: the pages on おかげで and せいで, with more examples", "where": "Website · JLPT Sensei (grammar lists by level)", "url": "", "search": "JLPT Sensei okage de sei de", "when": "After the grammar block. Read the example sentences aloud and sort them: grateful, blaming, or ironic. If the site lists a point at another level, that's fine: unofficial lists vary." },
+    { "order": 2, "kind": "video", "title": "Japanese Ammo with Misa: おかげで and せいで (a second explanation)", "where": "YouTube · Japanese Ammo with Misa channel", "url": "", "search": "Japanese Ammo with Misa okage de sei de", "when": "After the 2 points. If there's no video with both together, search for each one separately." },
+    { "order": 3, "kind": "input", "title": "EASY JAPANESE PODCAST (Masa & Asami): listen to one episode and note every おかげ or せい you hear", "where": "YouTube · EASY JAPANESE PODCAST", "url": "", "search": "EASY JAPANESE PODCAST Masa Asami", "when": "On any day after the lesson. Stories about everyday life are full of thanks and complaints: for each one you catch, decide whether it's grateful, blaming or ironic." }
+  ],
+  "homework": {
+    "intro": "Do it by hand in your notebook. Write with the kanji you already know and use kana for the rest. Only then open the answer key, item by item. Circle what you got wrong and redo it the next day.",
+    "tasks": [
+      {
+        "id": "h1",
+        "type": "fill",
+        "prompt": "Fill in おかげで or せいで, adding の or な where it's needed.",
+        "items": [
+          { "q": "友だち＿＿、引っ越しが早く終わった。", "a": { "jp": "友だちのおかげで、引っ越しが早く終わった。", "kana": "ともだちのおかげで、ひっこしがはやくおわった。", "romaji": "Tomodachi no okage de, hikkoshi ga hayaku owatta." }, "note": "A good result, after a noun: のおかげで." },
+          { "q": "寝坊した＿＿、バスに乗り遅れた。", "a": { "jp": "寝坊したせいで、バスに乗り遅れた。", "kana": "ねぼうしたせいで、バスにのりおくれた。", "romaji": "Nebō shita sei de, basu ni noriokureta." }, "note": "A bad result, after a verb: nothing in between." },
+          { "q": "部屋が静か＿＿、よく眠れた。", "a": { "jp": "部屋が静かなおかげで、よく眠れた。", "kana": "へやがしずかなおかげで、よくねむれた。", "romaji": "Heya ga shizuka na okage de, yoku nemureta." }, "note": "な-adjective + な." },
+          { "q": "風邪＿＿、パーティーに行けなかった。", "a": { "jp": "風邪のせいで、パーティーに行けなかった。", "kana": "かぜのせいで、パーティーにいけなかった。", "romaji": "Kaze no sei de, pātī ni ikenakatta." } },
+          { "q": "駅が近い＿＿、毎朝ゆっくりできる。", "a": { "jp": "駅が近いおかげで、毎朝ゆっくりできる。", "kana": "えきがちかいおかげで、まいあさゆっくりできる。", "romaji": "Eki ga chikai okage de, maiasa yukkuri dekiru." }, "note": "い-adjective: directly, no の." },
+          { "q": "道が狭い＿＿、車がなかなか進まない。", "a": { "jp": "道が狭いせいで、車がなかなか進まない。", "kana": "みちがせまいせいで、くるまがなかなかすすまない。", "romaji": "Michi ga semai sei de, kuruma ga nakanaka susumanai." } }
+        ]
+      },
+      {
+        "id": "h2",
+        "type": "choose",
+        "prompt": "Choose the best option. When two are possible, write both and say how each one sounds.",
+        "items": [
+          { "q": "電車が遅れた（おかげで／せいで／ので）、会議に間に合わなかった。", "a": { "jp": "電車が遅れたせいで、会議に間に合わなかった。／電車が遅れたので、会議に間に合わなかった。", "kana": "でんしゃがおくれたせいで、かいぎにまにあわなかった。／でんしゃがおくれたので、かいぎにまにあわなかった。", "romaji": "Densha ga okureta sei de, kaigi ni maniawanakatta. / Densha ga okureta node, kaigi ni maniawanakatta." }, "note": "せいで sounds like a complaint; ので is a neutral report — the better choice when you explain yourself at work." },
+          { "q": "お元気ですか。— はい、（おかげさまで／せいで）、元気です。", "a": { "jp": "お元気ですか。— はい、おかげさまで、元気です。", "kana": "おげんきですか。— はい、おかげさまで、げんきです。", "romaji": "Ogenki desu ka. — Hai, okagesama de, genki desu." }, "note": "The set polite reply." },
+          { "q": "雪の（おかげで／せいで）学校が休みになった！やった！", "a": { "jp": "雪のおかげで学校が休みになった！やった！", "kana": "ゆきのおかげでがっこうがやすみになった！やった！", "romaji": "Yuki no okage de gakkō ga yasumi ni natta! Yatta!" }, "note": "Good news for the speaker (やった！ = yay!): おかげで. For the teachers, it might be せいで." },
+          { "q": "君が大きい声で話した（おかげで／せいで）、赤ちゃんが起きちゃったよ。", "a": { "jp": "君が大きい声で話したせいで、赤ちゃんが起きちゃったよ。", "kana": "きみがおおきいこえではなしたせいで、あかちゃんがおきちゃったよ。", "romaji": "Kimi ga ōkii koe de hanashita sei de, akachan ga okichatta yo." }, "note": "A bad result, pointing at the culprit: せいで. Said sarcastically, おかげで is possible too (\"thanks a lot\")." },
+          { "q": "薬を飲んだ（おかげで／せいで）、熱が下がった。", "a": { "jp": "薬を飲んだおかげで、熱が下がった。", "kana": "くすりをのんだおかげで、ねつがさがった。", "romaji": "Kusuri o nonda okage de, netsu ga sagatta." }, "note": "A good result: おかげで. (ので would also be correct, but neutral.)" }
+        ]
+      },
+      {
+        "id": "h3",
+        "type": "translate",
+        "prompt": "Translate into Japanese.",
+        "items": [
+          { "q": "Thanks to my friend, I found a good apartment.", "a": { "jp": "友だちのおかげで、いいアパートが見つかった。", "kana": "ともだちのおかげで、いいアパートがみつかった。", "romaji": "Tomodachi no okage de, ii apāto ga mitsukatta." } },
+          { "q": "Because of the typhoon, the flight was canceled.", "a": { "jp": "台風のせいで、フライトが中止になった。", "kana": "たいふうのせいで、フライトがちゅうしになった。", "romaji": "Taifū no sei de, furaito ga chūshi ni natta." }, "note": "In the news you'd more likely read 台風のため or 台風によって (lesson P-09): they're neutral." },
+          { "q": "It's all thanks to you, Ms. Tanaka.", "a": { "jp": "全部、田中さんのおかげです。", "kana": "ぜんぶ、たなかさんのおかげです。", "romaji": "Zenbu, Tanaka-san no okage desu." }, "note": "At the end of a sentence: 〜のおかげです. Japanese avoids あなた here: use the person's name." },
+          { "q": "Don't blame me!", "a": { "jp": "私のせいにしないで！", "kana": "わたしのせいにしないで！", "romaji": "Watashi no sei ni shinaide!" } },
+          { "q": "Maybe because I drank too much coffee, I can't sleep.", "a": { "jp": "コーヒーを飲みすぎたせいか、眠れない。", "kana": "コーヒーをのみすぎたせいか、ねむれない。", "romaji": "Kōhī o nomisugita sei ka, nemurenai." }, "note": "せいか = maybe because (you're not sure of the cause)." },
+          { "q": "Because I studied every day, I was able to pass the exam.", "a": { "jp": "毎日勉強したおかげで、試験に合格できた。", "kana": "まいにちべんきょうしたおかげで、しけんにごうかくできた。", "romaji": "Mainichi benkyō shita okage de, shiken ni gōkaku dekita." }, "note": "A \"because\" with a good result you're glad about: おかげで sounds warmer than から here." }
+        ]
+      },
+      {
+        "id": "h4",
+        "type": "produce",
+        "prompt": "Write a short thank-you speech (4–5 sentences) for the people who help you learn Japanese, with at least two おかげで and one せいで. Read it aloud and record yourself on your phone.",
+        "items": [
+          { "q": "Model (match its structure, not its words):", "a": { "jp": "日本語の勉強を始めて、一年になりました。先生のおかげで、日本語で話すのが楽しくなりました。友だちが毎週いっしょに話してくれたおかげで、聞き取りも上手になりました。でも、仕事が忙しかったせいで、漢字はあまり勉強できませんでした。これからもよろしくお願いします。", "kana": "にほんごのべんきょうをはじめて、いちねんになりました。せんせいのおかげで、にほんごではなすのがたのしくなりました。ともだちがまいしゅういっしょにはなしてくれたおかげで、ききとりもじょうずになりました。でも、しごとがいそがしかったせいで、かんじはあまりべんきょうできませんでした。これからもよろしくおねがいします。", "romaji": "Nihongo no benkyō o hajimete, ichinen ni narimashita. Sensei no okage de, nihongo de hanasu no ga tanoshiku narimashita. Tomodachi ga maishū issho ni hanashite kureta okage de, kikitori mo jōzu ni narimashita. Demo, shigoto ga isogashikatta sei de, kanji wa amari benkyō dekimasen deshita. Korekara mo yoroshiku onegai shimasu.", "en": "It's been a year since I started studying Japanese. Thanks to my teacher, speaking Japanese has become fun. Because my friend talked with me every week, my listening has improved too. But because work was busy, I couldn't study kanji much. I hope you'll keep helping me." }, "note": "Check: の after nouns, nothing after verbs and い-adjectives, な after な-adjectives; good results with おかげで, bad ones with せいで." }
+        ]
+      }
+    ],
+    "workbook": []
+  },
+  "practice": [
+    { "tool": "Wagotabi", "what": "Play in the game's N3 area. Hunt for おかげ and せい in the dialogues. When you find one, pause and say out loud whether it's grateful, blaming or ironic, and what the cause was. Log the session in Immersion → Games and paste one of those lines into 🔬 Anatomy (remember: in the middle of a sentence, おかげで may show up as PLACE and せいで as …AND THEN).", "min": 15 },
+    { "tool": "NHK NEWS WEB EASY", "what": "Read one article about the weather or an accident with a pop-up dictionary (such as Yomitan) and listen to its audio. News usually gives causes neutrally (for example with 〜ため, 〜ので or 〜によって), not with せいで. Find the sentence that gives the cause and save it with Mining (⛏) so it comes back in your SRS. Then rewrite it in your notebook with せいで, and notice how it turns into a personal complaint.", "min": 10 },
+    { "tool": "ヅオリンゴー · Journal", "what": "Write 5 sentences of your own: two with おかげで (one after a noun, one after a verb), two with せいで (one after an い- or な-adjective), and one with 〜のせいにする or おかげさまで. Use \"Anatomy of what I wrote\" and check that a sentence ending in 〜おかげです／〜のせいです shows that ending as the PREDICATE.", "min": 10 },
+    { "tool": "Shadowing", "what": "Tap 🔊 on each example in this lesson and repeat along 3 times. Then say 君のおかげで、電車に乗り遅れたよ twice: once sincerely (it makes no sense!) and once sarcastically, and feel how the tone flips the meaning.", "min": 5 },
+    { "tool": "Speaking", "what": "Record your thank-you speech (homework h4) in under a minute. Listen back: did you say の after every noun before おかげ／せい?", "min": 5 }
+  ],
+  "culture": {
+    "title": "Visiting family graves (おはかまいり)",
+    "titleJp": "お墓参り",
+    "body": "**お墓参り** (おはかまいり) is a visit to the family grave. Many families go during **お盆** (in mid-August in most regions, in July in some) and during the **お彼岸** (おひがん) weeks around the spring and autumn equinoxes; some also go on the anniversary of a death, or before a big event such as an exam or a wedding. At the grave, people usually clean the stone, pour water over it with a ladle, offer flowers and incense sticks (お線香, おせんこう) — sometimes also a food or a drink the person liked — and then put their hands together (手を合わせる) in silence. Cremation is almost universal in Japan, and most graves are **family graves**: the ashes of several generations rest under one stone, often carved with the family name (〜家之墓, 〜けのはか). Many people use the visit to tell their ancestors (ご先祖様, ごせんぞさま) how the family is doing and to thank them — it's common to hear that you're well thanks to them (ご先祖様のおかげ).",
+    "try": "Write 3 short lines you might \"report\" to someone who helped you, calmly, with this lesson's grammar: おかげさまで、家族はみんな元気です。〜のおかげで、〜ができるようになりました。 Then read them aloud slowly, as if you were standing at a grave with your hands together."
+  },
+  "checklist": [
+    "I can thank a cause with 〜のおかげで／〜たおかげで and end a sentence with 〜おかげです, without looking.",
+    "I can blame a cause with 〜のせいで／〜たせいで, and say 〜のせいです and 〜のせいにしないで.",
+    "I attach both correctly: noun + の, な-adjective + な, verbs and い-adjectives directly.",
+    "I never use おかげで for a bad result unless I mean it ironically, and I can say the same event both ways.",
+    "I can answer お元気ですか with おかげさまで、元気です naturally.",
+    "I know when a neutral から／ので is better than せいで (reports, apologies at work).",
+    "I did the homework, checked it against the answer key and redid what I got wrong."
+  ],
+  "credits": [
+    "Explanations adapted in part from Sakubi (public domain, CC0) — sakubi.neocities.org",
+    "Study method informed by the DJT Guide to Japanese — djtguide.neocities.org/guide"
+  ]
+}

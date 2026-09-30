@@ -1,0 +1,238 @@
+{
+  "id": "V-02",
+  "unit": "V",
+  "genki": null,
+  "title": "Trains, subway and IC cards",
+  "titleJp": "電車・地下鉄・ICカード",
+  "canDo": [
+    "I can ask where to top up my IC card (チャージはどこでできますか) and understand an answer like 現金だけです.",
+    "I can ask which platform a train leaves from (〜行きは何番線ですか) and whether it stops at my station.",
+    "I can ask where to change trains and understand an answer like 上野で銀座線に乗り換えてください.",
+    "I can understand the most common announcements: 次は〜, 〜線はお乗り換えです, ドアが閉まります and まもなく〜番線に〜行きがまいります."
+  ],
+  "duration": {
+    "total": "60–75 min",
+    "blocks": [
+      { "t": "Warm-up: say the V-01 bus question aloud (〜行きのバスはどこですか), then read this lesson's vocabulary (block 3) aloud", "min": 5 },
+      { "t": "Vocabulary: tap 🔊 on each word and repeat it twice; save the machine and sign words with Mining (⛏)", "min": 10 },
+      { "t": "Situations: the 4 dialogues, read aloud in both roles, with one 🔬 per situation", "min": 20 },
+      { "t": "Block 6: the recording of real announcements — listen for 次は, 乗り換え and 閉まります", "min": 10 },
+      { "t": "Notebook homework + checking it against the answer key", "min": 15 },
+      { "t": "Shadow the announcements once more + checklist (block 10)", "min": 5 }
+    ]
+  },
+  "prereqs": {
+    "aulas": ["V-01", "06-4"],
+    "skills": [
+      "に for destinations and で for the place of an action (lesson 03-2): 横浜に止まります, 上野で乗り換えます.",
+      "〜てください (lesson 06-2) and 〜ましょう (lesson 05-3).",
+      "〜行き (\"bound for\") and あちら (\"over there\") from lesson V-01.",
+      "Reading kana well. The kanji here are the ones on real station signs, and every sentence comes with its full kana reading."
+    ],
+    "vocab": [
+      { "jp": "電車", "kana": "でんしゃ", "romaji": "densha", "en": "train" },
+      { "jp": "地下鉄", "kana": "ちかてつ", "romaji": "chikatetsu", "en": "subway" },
+      { "jp": "切符", "kana": "きっぷ", "romaji": "kippu", "en": "(paper) ticket" },
+      { "jp": "券売機", "kana": "けんばいき", "romaji": "kenbaiki", "en": "ticket machine" },
+      { "jp": "アイシーカード", "kana": "アイシーカード", "romaji": "aishī kādo", "en": "IC card, a rechargeable travel card (written ICカード on signs)" },
+      { "jp": "チャージ", "kana": "チャージ", "romaji": "chāji", "en": "topping up (an IC card)" },
+      { "jp": "現金", "kana": "げんきん", "romaji": "genkin", "en": "cash" },
+      { "jp": "だけ", "kana": "だけ", "romaji": "dake", "en": "only (現金だけ = cash only)" },
+      { "jp": "残高", "kana": "ざんだか", "romaji": "zandaka", "en": "balance (money left on a card)" },
+      { "jp": "精算機", "kana": "せいさんき", "romaji": "seisanki", "en": "fare adjustment machine" },
+      { "jp": "改札", "kana": "かいさつ", "romaji": "kaisatsu", "en": "ticket gate" },
+      { "jp": "〜番線", "kana": "〜ばんせん", "romaji": "-bansen", "en": "platform / track number …" },
+      { "jp": "止まります", "kana": "とまります", "romaji": "tomarimasu", "en": "to stop (at a station)" },
+      { "jp": "乗ります", "kana": "のります", "romaji": "norimasu", "en": "to get on, to ride (takes に)" },
+      { "jp": "降ります", "kana": "おります", "romaji": "orimasu", "en": "to get off" },
+      { "jp": "乗り換え", "kana": "のりかえ", "romaji": "norikae", "en": "transfer, change of trains" },
+      { "jp": "乗り換えます", "kana": "のりかえます", "romaji": "norikaemasu", "en": "to change (trains, lines)" },
+      { "jp": "〜線", "kana": "〜せん", "romaji": "-sen", "en": "… line (銀座線 = the Ginza Line)" },
+      { "jp": "次", "kana": "つぎ", "romaji": "tsugi", "en": "next" },
+      { "jp": "各駅停車", "kana": "かくえきていしゃ", "romaji": "kakuekiteisha", "en": "local train (stops at every station)" },
+      { "jp": "急行", "kana": "きゅうこう", "romaji": "kyūkō", "en": "express (skips some stations)" },
+      { "jp": "閉まります", "kana": "しまります", "romaji": "shimarimasu", "en": "to close (by itself: the doors close)" },
+      { "jp": "まもなく", "kana": "まもなく", "romaji": "mamonaku", "en": "shortly, in a moment (in announcements)" },
+      { "jp": "階段", "kana": "かいだん", "romaji": "kaidan", "en": "stairs" },
+      { "jp": "全部", "kana": "ぜんぶ", "romaji": "zenbu", "en": "all" }
+    ]
+  },
+  "grammar": [
+    {
+      "id": "V-02-a",
+      "gc": null,
+      "title": "Buying and topping up an IC card",
+      "gloss": "チャージ · 〜はどこでできますか",
+      "explanation": "With an **IC card** (Suica, PASMO, ICOCA and others) you touch the card on the reader of the ticket gate (**改札**) when you go in and when you come out, and the fare comes off the balance (**残高**). Putting money on it is **チャージ** — the Japanese word for \"top up\". At station ticket machines (**券売機**) this is usually **cash only**; many convenience stores can also top up at the register, and a card kept on a phone can often be topped up in its app. If the balance is too low when you exit, the gate closes with a beep: use the fare adjustment machine (**精算機**) next to the gates, or go to the staffed window.\n• **What you say:** すみません、チャージはどこでできますか。 (\"Excuse me, where can I top up?\")\n• **できます means \"can do\".** Going further (Sakubi): できる does double duty — it is also the \"can\" form of する. You'll study \"can\" forms in lesson 13-1; for now, 〜はどこでできますか is a chunk for \"where can I (do) …?\".\n• **The blocks:** チャージは is the TOPIC (\"as for topping up\"), どこで is the PLACE where it happens (で, lesson 03-2) and できますか is the PREDICATE. The answer keeps the same shape: あちらの券売機で + できます.\n• **What you will hear:** あちらの券売機でできます。 現金だけです (\"cash only\" — だけ = \"only\"). 精算機でチャージしてください。\n• Most machines have an English button. The Japanese on the screen is still worth learning, because it is the same everywhere: チャージ, 切符 (paper ticket), 現金.",
+      "structure": "[thing] は どこで できますか。— [place] で できます。 · [thing] は [noun] だけですか。",
+      "examples": [
+        { "jp": "すみません、チャージはどこでできますか。— あちらの券売機でできます。", "kana": "すみません、チャージはどこでできますか。— あちらのけんばいきでできます。", "romaji": "Sumimasen, chāji wa doko de dekimasu ka. — Achira no kenbaiki de dekimasu.", "en": "Excuse me, where can I top up (my card)? — You can do it at the ticket machines over there." },
+        { "jp": "チャージは現金だけですか。— はい、現金だけです。", "kana": "チャージはげんきんだけですか。— はい、げんきんだけです。", "romaji": "Chāji wa genkin dake desu ka. — Hai, genkin dake desu.", "en": "Is topping up cash only? — Yes, cash only." },
+        { "jp": "すみません、残高が足りません。— あちらの精算機でチャージしてください。", "kana": "すみません、ざんだかがたりません。— あちらのせいさんきでチャージしてください。", "romaji": "Sumimasen, zandaka ga tarimasen. — Achira no seisanki de chāji shite kudasai.", "en": "Excuse me, there isn't enough money on my card. — Please top it up at the fare adjustment machine over there. [lit. the balance isn't enough]" }
+      ],
+      "pitfalls": [
+        "Doing something at a place takes で: チャージはどこにできますか ✗ → どこでできますか ✓.",
+        "The thing that is short is the subject of 足りません, so it takes が: 残高を足りません ✗ → 残高が足りません ✓.",
+        "チャージ in Japanese means topping up, not a fee: to ask whether something costs money, チャージですか ✗ → お金がかかりますか ✓."
+      ],
+      "howToStudy": [
+        "Role-play at the machine, out loud and in both roles: ask チャージはどこでできますか, answer あちらの券売機でできます, then ask 現金だけですか. Three rounds.",
+        "Tap 🔬 on example 1: チャージは shows up as TOPIC, どこで as PLACE and できますか as PREDICATE. In the answer, あちらの is DESCRIBES NEXT (it points at 券売機) and 券売機で is the PLACE.",
+        "Learn the machine words as whole words, with their kanji — 券売機, 精算機, 現金, 残高 — and add them to your SRS with Mining (⛏). You will read them on every machine."
+      ],
+      "flag": null
+    },
+    {
+      "id": "V-02-b",
+      "gc": null,
+      "title": "Which platform? Does it stop at…?",
+      "gloss": "〜行きは何番線ですか · 〜に止まりますか",
+      "explanation": "Platforms are numbered: **〜番線** (1番線, 2番線…). The departure boards show, for each train, the time, the **type** of train, the destination (**〜行き**) and the platform. The type matters: **各駅停車** (or 普通, ふつう) stops at every station; **快速** (かいそく, rapid), **急行** (express) and similar trains skip some stations; **特急** (とっきゅう, limited express) often needs an extra ticket. Before you get on a faster train, check that it stops at your station.\n• **What you say:** [destination]行きは何番線ですか。 (\"Which platform for the trains to …?\") and この電車は[station]に止まりますか。 (\"Does this train stop at …?\")\n• **The blocks:** 新宿行き**は** is the TOPIC — \"as for (the trains) bound for Shinjuku\"; 何番線ですか is the PREDICATE. In この電車は横浜に止まりますか, 横浜に is the station where the train stops: 止まる takes に. 🔬 calls this に block a TARGET — the point the action lands on.\n• **What you will hear:** 2番線です。 はい、止まります。 いいえ、止まりません。次の電車に乗ってください (\"please take the next train\"). 乗る also takes に: 電車に乗ります (\"get on the train\").\n• Two verbs sound the same: 止まる (とまる, \"stop\") and 泊まる (とまる, \"stay overnight\", lesson V-01). The kanji tell them apart; in speech, the context does.",
+      "structure": "[destination] 行きは 何番線ですか。— [number] 番線です。 · この電車は [station] に 止まりますか。",
+      "examples": [
+        { "jp": "新宿行きは何番線ですか。— 2番線です。", "kana": "しんじゅくゆきはなんばんせんですか。— にばんせんです。", "romaji": "Shinjuku yuki wa nanbansen desu ka. — Nibansen desu.", "en": "Which platform for Shinjuku? — Platform 2. [lit. as for bound-for-Shinjuku, what track number is it?]" },
+        { "jp": "この電車は横浜に止まりますか。— いいえ、止まりません。次の電車に乗ってください。", "kana": "このでんしゃはよこはまにとまりますか。— いいえ、とまりません。つぎのでんしゃにのってください。", "romaji": "Kono densha wa Yokohama ni tomarimasu ka. — Iie, tomarimasen. Tsugi no densha ni notte kudasai.", "en": "Does this train stop at Yokohama? — No, it doesn't. Please take the next train." },
+        { "jp": "この電車は急行ですか。— いいえ、各駅停車です。全部の駅に止まります。", "kana": "このでんしゃはきゅうこうですか。— いいえ、かくえきていしゃです。ぜんぶのえきにとまります。", "romaji": "Kono densha wa kyūkō desu ka. — Iie, kakuekiteisha desu. Zenbu no eki ni tomarimasu.", "en": "Is this train an express? — No, it's a local. It stops at every station. [lit. it stops at all the stations]" }
+      ],
+      "pitfalls": [
+        "乗る takes に, not を: 電車を乗ります ✗ → 電車に乗ります ✓ — you get onto it.",
+        "〜行き is where the train is going, not where it comes from: \"the train from Shinjuku\" → 新宿行きの電車 ✗ → 新宿からの電車 ✓.",
+        "\"What number\" is なん, as in lesson 01-1: 何番線 = なにばんせん ✗ → なんばんせん ✓."
+      ],
+      "howToStudy": [
+        "Search images for 発車標 (departure board) and read one line aloud: the time, the type (各駅停車, 急行…), the destination (〜行き) and the platform (〜番線).",
+        "Tap 🔬 on example 2: この is DESCRIBES NEXT, 電車は the TOPIC, 横浜に a TARGET (the station where it stops) and 止まりますか the PREDICATE. In the last sentence, 電車に is a TARGET too — the train you get onto — and 次の is DESCRIBES NEXT, attached to it.",
+        "For 5 stations you know from maps or games, say out loud: [station]行きは何番線ですか。 and この電車は[station]に止まりますか。"
+      ],
+      "flag": null
+    },
+    {
+      "id": "V-02-c",
+      "gc": null,
+      "title": "Changing trains",
+      "gloss": "乗り換え · 〜で〜に乗り換えます",
+      "explanation": "Big cities have many lines run by different companies (JR, the subway, private railways). Changing from one to another is **乗り換え** (のりかえ), and the signs usually say のりかえ or 乗り換え next to each line's name and color. In Tokyo and some other cities, subway stations also have a letter-and-number code (such as G16) that makes them easy to find on a map. Between some companies you go out through one ticket gate and in through another; with an IC card that is automatic. A route app that also shows the station names in Japanese helps you plan.\n• **What you say:** [station]に行きます。どこで乗り換えますか。 (\"I'm going to …. Where do I change?\") and [line]の乗り換えはどちらですか。 (\"Which way to the … line?\"). どちら is the polite どこ — here, \"which way\".\n• **The pattern:** [station]**で** [line]**に** 乗り換えます. The station is the PLACE where you do the changing (で, lesson 03-2); the new line is what you change INTO (に), just as with 乗る.\n• **What you will hear:** 上野で銀座線に乗り換えてください。 あの階段を上がって、右です (\"go up those stairs, and it's on the right\"): the て form chains the steps, as in lesson 06-2 (上がる = \"go up\"). 次の駅です (\"it's the next station\").",
+      "structure": "[station] で [line] に 乗り換えます。 · [line] の 乗り換えは どちらですか。",
+      "examples": [
+        { "jp": "浅草に行きます。どこで乗り換えますか。— 上野で銀座線に乗り換えてください。", "kana": "あさくさにいきます。どこでのりかえますか。— うえのでぎんざせんにのりかえてください。", "romaji": "Asakusa ni ikimasu. Doko de norikaemasu ka. — Ueno de Ginza-sen ni norikaete kudasai.", "en": "I'm going to Asakusa. Where do I change? — Change to the Ginza Line at Ueno." },
+        { "jp": "銀座線の乗り換えはどちらですか。— あの階段を上がって、右です。", "kana": "ぎんざせんののりかえはどちらですか。— あのかいだんをあがって、みぎです。", "romaji": "Ginza-sen no norikae wa dochira desu ka. — Ano kaidan o agatte, migi desu.", "en": "Which way is the transfer to the Ginza Line? — Go up those stairs, and it's on the right." },
+        { "jp": "この駅で乗り換えですか。— いいえ、次の駅です。", "kana": "このえきでのりかえですか。— いいえ、つぎのえきです。", "romaji": "Kono eki de norikae desu ka. — Iie, tsugi no eki desu.", "en": "Do I change at this station? — No, at the next one. [lit. is it the transfer at this station? — no, it's the next station]" }
+      ],
+      "pitfalls": [
+        "The station takes で (where you change) and the new line takes に (what you change into): 上野に銀座線で乗り換えます ✗ → 上野で銀座線に乗り換えます ✓.",
+        "降りる only says you get off; to say you change lines, use 乗り換える: \"At Ueno I take the Ginza Line\" → 上野で降ります ✗ → 上野で銀座線に乗り換えます ✓."
+      ],
+      "howToStudy": [
+        "Plan a real route with a route app or a subway map — a start, a transfer station and a goal — and say it aloud: [goal]に行きます。[transfer station]で[line]に乗り換えます。",
+        "Tap 🔬 on example 1 and look at the third sentence: 上野で shows up as PLACE, 銀座線に as TARGET and 乗り換えてください as PREDICATE. Read from the end: please change → into what? the Ginza Line → where? at Ueno.",
+        "In example 2, 上がって shows up in 🔬 as …AND THEN: the first step, chained to 右です. Make two more directions like it and say them aloud: 出口を出て、右です。 改札を出て、左です。"
+      ],
+      "flag": null
+    },
+    {
+      "id": "V-02-d",
+      "gc": null,
+      "title": "Understanding announcements",
+      "gloss": "次は〜 · ドアが閉まります · まもなく〜",
+      "explanation": "Announcements are fast, but they repeat the same few sentences all day. You need to **recognize** them, not say them. Many are in very polite Japanese (keigo), which you will study in lessons 19-1 and 20-1; for now, learn them as whole lines. On many lines they are repeated in English, and screens above the doors show the next station.\n• **Inside the train:** 次は、上野、上野です。 (\"Next, Ueno.\") — the station name often comes twice. 銀座線はお乗り換えです。 (\"Change here for the Ginza Line.\") お出口は右側です。 (\"The doors on the right side will open.\" [lit. the exit is the right side])\n• **Doors:** ドアが閉まります。ご注意ください。 (\"The doors are closing. Please be careful.\") ドアが is the SUBJECT: the doors close by themselves. 駆け込み乗車はおやめください (かけこみじょうしゃはおやめください) means \"please don't rush onto the train\": if the doors are closing, wait for the next one.\n• **On the platform:** まもなく、2番線に新宿行きがまいります。 (\"A train for Shinjuku will soon arrive at platform 2.\") まいります is a very polite 来ます (lesson 20-1); 新宿行きが is the SUBJECT — the train that is coming. You may also hear 黄色い線の内側までお下がりください (\"please stand behind the yellow line\"); many stations now have platform doors instead.\n• **ご〜ください / お〜ください** is an extra-polite ください (lesson 19-1): ご注意ください = \"please be careful\". Going further (Sakubi): ください is at heart a verb of giving — \"give me (this)\" — which is why it can follow a noun as well as a て form.",
+      "structure": "次は、[station]、[station] です。 · [line] は お乗り換えです。 · まもなく、[number] 番線に [destination] 行きが まいります。",
+      "examples": [
+        { "jp": "次は、上野、上野です。銀座線はお乗り換えです。— 次で降りましょう。", "kana": "つぎは、うえの、うえのです。ぎんざせんはおのりかえです。— つぎでおりましょう。", "romaji": "Tsugi wa, Ueno, Ueno desu. Ginza-sen wa onorikae desu. — Tsugi de orimashō.", "en": "Next, Ueno, Ueno. Change here for the Ginza Line. — Let's get off at the next stop." },
+        { "jp": "ドアが閉まります。ご注意ください。— 次の電車に乗りましょう。", "kana": "ドアがしまります。ごちゅういください。— つぎのでんしゃにのりましょう。", "romaji": "Doa ga shimarimasu. Go-chūi kudasai. — Tsugi no densha ni norimashō.", "en": "The doors are closing. Please be careful. — Let's take the next train." },
+        { "jp": "まもなく、2番線に新宿行きがまいります。— あ、わたしたちの電車ですね。", "kana": "まもなく、にばんせんにしんじゅくゆきがまいります。— あ、わたしたちのでんしゃですね。", "romaji": "Mamonaku, nibansen ni Shinjuku yuki ga mairimasu. — A, watashitachi no densha desu ne.", "en": "A train for Shinjuku will soon arrive at platform 2. — Oh, that's our train." }
+      ],
+      "pitfalls": [
+        "次は〜 names the next stop, not the one you are at: when you hear 次は上野, you are not in Ueno yet. Getting off right away ✗ → getting ready and getting off at the next stop ✓.",
+        "閉まる (the doors close by themselves) and 閉める (someone closes them) are different verbs: ドアが閉めます ✗ → ドアが閉まります ✓. You'll study these pairs in lesson 18-1.",
+        "Don't copy announcement keigo when you talk to a friend: 次でお降りください ✗ (that's the conductor speaking to passengers) → 次で降りましょう ✓."
+      ],
+      "howToStudy": [
+        "Shadow the announcements: tap 🔊 on each example and repeat along 3 times, at full speed. Then play the recording of real announcements in block 6 and just listen for 次は, 乗り換え, 閉まります and まもなく.",
+        "Tap 🔬 on example 2: ドアが shows up as SUBJECT and 閉まります as PREDICATE; ご注意ください is a single PREDICATE block (a request). In the reply, 電車に is the TARGET you get onto, with 次の (DESCRIBES NEXT) in front of it.",
+        "Write the announcement for a station you know in your notebook: 次は、[station]、[station]です。[line]はお乗り換えです。 Then say it in the announcer's voice."
+      ],
+      "flag": null
+    }
+  ],
+  "media": [
+    { "order": 1, "kind": "video", "title": "Real train announcements: a recording of a ride on the JR Yamanote Line in Tokyo", "where": "YouTube · recordings uploaded by train fans (many channels)", "url": "", "search": "山手線 車内アナウンス", "when": "After situation d. Listen 3 times: first just for the station names, then for 次は and 乗り換え, then for ドアが閉まります." },
+    { "order": 2, "kind": "reading", "title": "Irodori (Japan Foundation) — free course: a situational course for everyday life in Japan, with free audio. Look in its table of contents for the topics about getting around town and using transport.", "where": "The Japan Foundation · Irodori: Japanese for Life in Japan (free textbooks and audio)", "url": "", "search": "Irodori Japanese for Life in Japan", "when": "Optional, whenever you want more short real-life exchanges to listen to." }
+  ],
+  "homework": {
+    "intro": "Do it by hand in your notebook, with the kanji you know and kana for the rest. Read every Japanese line aloud before you check it. Only then open the answer key, item by item. Circle what you got wrong and redo it the next day. The Travel Track has no Workbook pages.",
+    "tasks": [
+      {
+        "id": "h1",
+        "type": "comprehension",
+        "prompt": "What does each announcement tell you? Write it in English.",
+        "items": [
+          { "q": "次は、渋谷、渋谷です。", "a": { "en": "The next station is Shibuya." } },
+          { "q": "山手線はお乗り換えです。", "a": { "en": "Change here for the Yamanote Line." } },
+          { "q": "お出口は左側です。", "a": { "en": "The doors on the left side will open (the exit is on the left)." } },
+          { "q": "ドアが閉まります。ご注意ください。", "a": { "en": "The doors are closing. Please be careful." } },
+          { "q": "まもなく、3番線に東京行きがまいります。", "a": { "en": "A train for Tokyo will soon arrive at platform 3." } },
+          { "q": "駆け込み乗車はおやめください。", "a": { "en": "Please don't rush onto the train." }, "note": "If you hear this while running for a closing door, stop and wait for the next train." }
+        ]
+      },
+      {
+        "id": "h2",
+        "type": "translate",
+        "prompt": "Translate into Japanese.",
+        "items": [
+          { "q": "Excuse me, which platform for Kyoto?", "a": { "jp": "すみません、京都行きは何番線ですか。", "kana": "すみません、きょうとゆきはなんばんせんですか。", "romaji": "Sumimasen, Kyōto yuki wa nanbansen desu ka." } },
+          { "q": "Does this train stop at Shinagawa?", "a": { "jp": "この電車は品川に止まりますか。", "kana": "このでんしゃはしながわにとまりますか。", "romaji": "Kono densha wa Shinagawa ni tomarimasu ka." } },
+          { "q": "Where can I top up?", "a": { "jp": "チャージはどこでできますか。", "romaji": "Chāji wa doko de dekimasu ka." } },
+          { "q": "I'm going to Asakusa. Where do I change?", "a": { "jp": "浅草に行きます。どこで乗り換えますか。", "kana": "あさくさにいきます。どこでのりかえますか。", "romaji": "Asakusa ni ikimasu. Doko de norikaemasu ka." } },
+          { "q": "Let's get off at the next station.", "a": { "jp": "次の駅で降りましょう。", "kana": "つぎのえきでおりましょう。", "romaji": "Tsugi no eki de orimashō." } }
+        ]
+      },
+      {
+        "id": "h3",
+        "type": "complete",
+        "prompt": "Complete the dialogue: write the missing line in Japanese. The English in brackets tells you what to say.",
+        "items": [
+          { "q": "大阪行きは何番線ですか。— ＿＿ (Platform 5.)", "a": { "jp": "5番線です。", "kana": "ごばんせんです。", "romaji": "Gobansen desu." } },
+          { "q": "＿＿ — いいえ、止まりません。急行ですから。 (Ask whether this train stops at Nakano.)", "a": { "jp": "この電車は中野に止まりますか。", "kana": "このでんしゃはなかのにとまりますか。", "romaji": "Kono densha wa Nakano ni tomarimasu ka." }, "note": "The answer uses the から of lesson 06-4: \"because it's an express\"." },
+          { "q": "どこで乗り換えますか。— ＿＿ (Change to the Chūō Line at Shinjuku.)", "a": { "jp": "新宿で中央線に乗り換えてください。", "kana": "しんじゅくでちゅうおうせんにのりかえてください。", "romaji": "Shinjuku de Chūō-sen ni norikaete kudasai." }, "note": "で for the station, に for the line." },
+          { "q": "すみません、残高が足りません。— ＿＿ (Please top it up at the machine over there.)", "a": { "jp": "あちらの精算機でチャージしてください。", "kana": "あちらのせいさんきでチャージしてください。", "romaji": "Achira no seisanki de chāji shite kudasai." } },
+          { "q": "この電車は急行ですか。— ＿＿ (No, it's a local.)", "a": { "jp": "いいえ、各駅停車です。", "kana": "いいえ、かくえきていしゃです。", "romaji": "Iie, kakuekiteisha desu." } }
+        ]
+      },
+      {
+        "id": "h4",
+        "type": "produce",
+        "prompt": "Written role-play: you are at a station with a station attendant. Write 6–8 lines: top up your card, ask for the platform, ask whether you have to change. Then read it aloud in two voices and record it.",
+        "items": [
+          { "q": "Model (match its structure, not its words):", "a": { "jp": "すみません、チャージはどこでできますか。— あちらの券売機でできます。現金だけですか。— はい、現金だけです。渋谷に行きます。何番線ですか。— 3番線です。乗り換えはありますか。— いいえ、ありません。", "kana": "すみません、チャージはどこでできますか。— あちらのけんばいきでできます。げんきんだけですか。— はい、げんきんだけです。しぶやにいきます。なんばんせんですか。— さんばんせんです。のりかえはありますか。— いいえ、ありません。", "romaji": "Sumimasen, chāji wa doko de dekimasu ka. — Achira no kenbaiki de dekimasu. Genkin dake desu ka. — Hai, genkin dake desu. Shibuya ni ikimasu. Nanbansen desu ka. — Sanbansen desu. Norikae wa arimasu ka. — Iie, arimasen.", "en": "Excuse me, where can I top up? — At the ticket machines over there. Is it cash only? — Yes, cash only. I'm going to Shibuya. Which platform? — Platform 3. Do I have to change? — No, you don't. [lit. is there a transfer? — no, there isn't]" }, "note": "Check: で for where you top up and where you change, に for the line you change to, and 何番線 read なんばんせん." }
+        ]
+      }
+    ],
+    "workbook": []
+  },
+  "practice": [
+    { "tool": "Listening", "what": "Play the recording of real announcements from block 6 twice. Every time you hear 次は, pause and say the station name aloud. This is real, fast Japanese — and the same lines come back on every ride, so your ear gets used to them quickly.", "min": 10 },
+    { "tool": "Role-play", "what": "Out loud, with a map of a real line: one person is the station attendant, the other asks for the platform, the stops and the transfer. Alone, play both roles.", "min": 10 },
+    { "tool": "Shadowing", "what": "Shadow the announcement lines of situation d with 🔊 until you can say them at the same speed. Announcements make ideal shadowing material: short, clear and repeated.", "min": 5 },
+    { "tool": "Speaking", "what": "Record your homework h4. Listen back for 番線 (ばんせん) and 乗り換え (のりかえ), and check that 止まります sounds like とまります.", "min": 5 },
+    { "tool": "ヅオリンゴー", "what": "Save 3 announcement lines and the machine words (券売機, 精算機, 残高) with Mining (⛏) so they come back in your SRS; clear 🌊 All every day. Then Drills → 🔬 Anatomy → 🧱 Build from the end: build この電車は横浜に止まりますか starting from 止まりますか.", "min": 10 }
+  ],
+  "culture": {
+    "title": "Women-only train cars",
+    "titleJp": "女性専用車",
+    "body": "On many commuter lines in big cities such as Tokyo and Osaka, some trains have a **women-only car** (女性専用車) at certain times — usually the morning rush hour, and on some lines late at night as well. The car, and the spot on the platform where it stops, are marked with signs, often pink, that give the hours in Japanese and English. On most lines, elementary-school boys, passengers with disabilities and the people helping them may also ride in it. Outside the hours shown, the car is open to everyone. The rules and hours differ from line to line, so read the sign on the platform.",
+    "try": "Search images for 女性専用車 and find the kanji on a real sign. Read the hours on it aloud with から and まで (〜時〜分から〜時〜分まで), then say which car you would wait for: 〜号車に乗ります (\"I'll take car number …\")."
+  },
+  "checklist": [
+    "I can ask チャージはどこでできますか and understand 現金だけです.",
+    "I can ask 〜行きは何番線ですか and この電車は〜に止まりますか without looking.",
+    "I know the difference between 各駅停車 and 急行, and I check that a faster train stops at my station.",
+    "I can describe a transfer with [station]で[line]に乗り換えます.",
+    "When I hear 次は〜, 〜線はお乗り換えです, ドアが閉まります or まもなく〜番線に〜行きがまいります, I understand it at once.",
+    "I can read 券売機, 精算機, 改札, 番線 and 乗り換え without the kana.",
+    "I did the homework, checked it against the answer key and redid what I got wrong."
+  ],
+  "credits": [
+    "Explanations adapted in part from Sakubi (public domain, CC0) — sakubi.neocities.org",
+    "Study method informed by the DJT Guide to Japanese — djtguide.neocities.org/guide"
+  ]
+}

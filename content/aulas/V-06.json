@@ -1,0 +1,240 @@
+{
+  "id": "V-06",
+  "unit": "V",
+  "genki": null,
+  "title": "Asking for directions",
+  "titleJp": "道を聞く",
+  "canDo": [
+    "I can stop someone politely and ask where a place is: すみません、駅はどこですか。",
+    "I can say where I want to go with 〜へ行きたいんですが and ask whether there is a konbini or a toilet nearby.",
+    "I can follow a simple answer: straight ahead, turn right or left, at the second traffic light, next to…, a five-minute walk.",
+    "When I don't catch the answer, I can ask the person to repeat it or to speak more slowly, and check the key word (右ですか).",
+    "I can close the conversation with ありがとうございました and a small bow."
+  ],
+  "duration": {
+    "total": "60–75 min",
+    "blocks": [
+      { "t": "Warm-up: say aloud 5 places you might look for in a Japanese town (駅, コンビニ, トイレ, 銀行, ホテル) with すみません、〜はどこですか", "min": 5 },
+      { "t": "Vocabulary: tap 🔊 on each word and repeat it twice", "min": 10 },
+      { "t": "Situations 4a–4d: read each dialogue aloud, doing both voices, plus one 🔬 per situation", "min": 25 },
+      { "t": "Video (block 6): hear directions at real speed and draw the route as you listen", "min": 10 },
+      { "t": "Notebook homework + checking it against the answer key", "min": 15 },
+      { "t": "Checklist (block 10) + write your questions in the lesson notebook", "min": 5 }
+    ]
+  },
+  "prereqs": {
+    "aulas": ["V-01", "06-4"],
+    "skills": [
+      "Asking where something is with ここ／そこ／あそこ／どこ (lesson 02-1), and the location words となり, まえ and ちかく (lesson 04-1).",
+      "Understanding requests with 〜てください and chains of actions with the て-form (lessons 06-1 and 06-2): directions are a chain of て-forms.",
+      "Counting with ひとつ, ふたつ… (lesson 05-3): 二つ目 (\"the second\") is built on it.",
+      "行きたいんですが and 歩いて行けますか use forms you'll study later (〜たい in lesson 11-1, 〜んです in lesson 12-1, \"can\" forms in lesson 13-1). Here they are ready-made blocks: learn them whole."
+    ],
+    "vocab": [
+      { "jp": "道", "kana": "みち", "romaji": "michi", "en": "road, street; the way (to somewhere)" },
+      { "jp": "駅", "kana": "えき", "romaji": "eki", "en": "station" },
+      { "jp": "トイレ", "kana": "トイレ", "romaji": "toire", "en": "toilet, restroom" },
+      { "jp": "銀行", "kana": "ぎんこう", "romaji": "ginkō", "en": "bank" },
+      { "jp": "郵便局", "kana": "ゆうびんきょく", "romaji": "yūbinkyoku", "en": "post office" },
+      { "jp": "交番", "kana": "こうばん", "romaji": "kōban", "en": "police box (small neighborhood police post)" },
+      { "jp": "この辺", "kana": "このへん", "romaji": "kono hen", "en": "around here, this area" },
+      { "jp": "近く", "kana": "ちかく", "romaji": "chikaku", "en": "near, nearby; the area near" },
+      { "jp": "まっすぐ", "kana": "まっすぐ", "romaji": "massugu", "en": "straight (ahead)" },
+      { "jp": "右", "kana": "みぎ", "romaji": "migi", "en": "right" },
+      { "jp": "左", "kana": "ひだり", "romaji": "hidari", "en": "left" },
+      { "jp": "曲がる", "kana": "まがる", "romaji": "magaru", "en": "to turn" },
+      { "jp": "信号", "kana": "しんごう", "romaji": "shingō", "en": "traffic light" },
+      { "jp": "角", "kana": "かど", "romaji": "kado", "en": "(street) corner" },
+      { "jp": "二つ目", "kana": "ふたつめ", "romaji": "futatsume", "en": "the second (one)" },
+      { "jp": "隣", "kana": "となり", "romaji": "tonari", "en": "next to, next door" },
+      { "jp": "前", "kana": "まえ", "romaji": "mae", "en": "in front of" },
+      { "jp": "向かい", "kana": "むかい", "romaji": "mukai", "en": "across from, opposite" },
+      { "jp": "歩いて", "kana": "あるいて", "romaji": "aruite", "en": "on foot [lit. walking]" },
+      { "jp": "〜分", "kana": "〜ふん", "romaji": "-fun", "en": "… minute(s): 5分 = ごふん, 10分 = じゅっぷん" },
+      { "jp": "遠い", "kana": "とおい", "romaji": "tōi", "en": "far" },
+      { "jp": "地図", "kana": "ちず", "romaji": "chizu", "en": "map" },
+      { "jp": "もう一度", "kana": "もういちど", "romaji": "mō ichido", "en": "once more, again" },
+      { "jp": "ゆっくり", "kana": "ゆっくり", "romaji": "yukkuri", "en": "slowly" }
+    ]
+  },
+  "grammar": [
+    {
+      "id": "V-06-a",
+      "gc": null,
+      "title": "Asking the way: 〜はどこですか and 〜へ行きたいんですが",
+      "gloss": "stopping someone and asking",
+      "explanation": "Start every question with **すみません**: here it means \"excuse me\", and it gets the person's attention politely. Then you have three easy patterns:\n• **〜はどこですか。** (\"Where is…?\"). [駅は] is the TOPIC and [どこですか] the PREDICATE: \"as for the station, where is it?\" This is lesson 02-1's どこ, used on the street.\n• **〜へ行きたいんですが…** (\"I'd like to go to…\"). Say the place, then 行きたいんですが, and let your voice trail off. The が at the end means \"but…\": you leave the sentence open, and the listener hears \"…could you help me?\" This softer version is very common with strangers.\n• **この辺に〜はありますか。** (このへん, \"Is there a … around here?\"), for things like a konbini, a toilet or an ATM when you don't need a particular one. この近くに〜はありますか means the same.\n• What you'll hear first: あそこです (\"over there\"), often with a pointing hand, or, if the person doesn't know: すみません、ちょっとわからないです。 Then just thank them and ask someone else. Staff at a station or a konbini, and the officers at a 交番 (police box), are good people to ask.\n• Going further (Sakubi): へ means \"toward\" and marks where you're headed; に can also mark the end point, so 駅に行きたい works too. Sakubi also explains the ん in 行きたいんです: it is の, which frames your sentence as an explanation of your situation — \"(the thing is,) I want to go…\".",
+      "structure": "すみません、[place] は どこですか。 · すみません、[place] へ 行きたいんですが… · この辺に [thing] は ありますか。",
+      "examples": [
+        { "jp": "すみません、駅はどこですか。— あそこです。あの白いビルの隣です。", "kana": "すみません、えきはどこですか。— あそこです。あのしろいビルのとなりです。", "romaji": "Sumimasen, eki wa doko desu ka. — Asoko desu. Ano shiroi biru no tonari desu.", "en": "Excuse me, where is the station? — Over there. It's next to that white building." },
+        { "jp": "すみません、東京タワーへ行きたいんですが。— 東京タワーですか。この道をまっすぐです。", "kana": "すみません、とうきょうタワーへいきたいんですが。— とうきょうタワーですか。このみちをまっすぐです。", "romaji": "Sumimasen, Tōkyō Tawā e ikitai n desu ga. — Tōkyō Tawā desu ka. Kono michi o massugu desu.", "en": "Excuse me, I'd like to go to Tokyo Tower… — Tokyo Tower? It's straight down this street." },
+        { "jp": "この辺にコンビニはありますか。— はい、あの角にありますよ。", "kana": "このへんにコンビニはありますか。— はい、あのかどにありますよ。", "romaji": "Kono hen ni konbini wa arimasu ka. — Hai, ano kado ni arimasu yo.", "en": "Is there a konbini around here? — Yes, there's one on that corner." }
+      ],
+      "pitfalls": [
+        "Don't skip すみません: 駅はどこですか straight at a stranger ✗ (abrupt) → すみません、駅はどこですか ✓.",
+        "Keep the Japanese order — the place first, with は, and どこ in the predicate: どこは駅ですか ✗ (English order) → 駅はどこですか ✓.",
+        "To a stranger, a bare wish sounds like an announcement: 東京タワーへ行きたいです ✗ (\"I want to go to Tokyo Tower.\") → 東京タワーへ行きたいんですが… ✓ (\"I'd like to go to Tokyo Tower… [could you help?]\").",
+        "Places and things take ある, not いる (lesson 04-1): この辺に交番はいますか ✗ → この辺に交番はありますか ✓."
+      ],
+      "howToStudy": [
+        "Say aloud 5 questions with すみません、〜はどこですか。 for places you'll need on your trip (駅, トイレ, ホテル, 銀行, 交番), then 3 with 〜へ行きたいんですが.",
+        "Tap 🔬 on example 1: すみません is an INTERJECTION, [駅は] the TOPIC and [どこですか] the PREDICATE. In the answer, あの, 白い and ビルの are all DESCRIBES NEXT, stacked in front of 隣です — read them backwards from the PREDICATE: next to → which building? → the white one → that one.",
+        "Tap 🔬 on example 2: [東京タワーへ] is the DESTINATION and 行きたいんですが the PREDICATE, left open by the final が."
+      ],
+      "flag": null
+    },
+    {
+      "id": "V-06-b",
+      "gc": null,
+      "title": "Understanding the answer: straight, turn, the second light",
+      "gloss": "the route words you will hear",
+      "explanation": "Directions in Japanese are a **chain of て-forms** (lesson 06-2): do this, and then this, and then this — and only the last verb carries ください or です. Listen for the key words, not every syllable:\n• **まっすぐ** — straight ahead: まっすぐ行ってください。 (\"Go straight.\")\n• **右に曲がる／左に曲がる** — turn right / left. に marks the direction you turn toward.\n• **二つ目の信号** — the second traffic light. 目 after a number + つ makes an ordinal: 一つ目 (first), 二つ目 (second), 三つ目 (third). It works with 角 (かど, corner) too: 一つ目の角.\n• **を** marks the spot or route you move through: この道を (along this street), 信号を (at the light), 角を (at the corner). That's why you hear 二つ目の信号を右に曲がってください: \"at the second light, turn right\". 🔬 tags these blocks as OBJECT, because they take を — with movement verbs, read that を as \"through / along / at\".\n• People often shorten it and point: あの信号を右に曲がって、すぐです。 (\"Turn right at that light, and it's right there.\") Watch the hands as much as you listen.\n• Going further (Sakubi): まっすぐ is an adverb that needs no particle at all — it sits right before the verb, like よく or ちょっと. And each て strings one step onto the next, in order: the order of the words is the order of the walk.",
+      "structure": "[route] を まっすぐ 行って、[N]つ目の [信号／角] を [右／左] に 曲がってください。",
+      "examples": [
+        { "jp": "郵便局はどこですか。— まっすぐ行って、二つ目の信号を左に曲がってください。", "kana": "ゆうびんきょくはどこですか。— まっすぐいって、ふたつめのしんごうをひだりにまがってください。", "romaji": "Yūbinkyoku wa doko desu ka. — Massugu itte, futatsume no shingō o hidari ni magatte kudasai.", "en": "Where is the post office? — Go straight, and turn left at the second traffic light." },
+        { "jp": "駅へ行きたいんですが。— この道をまっすぐ行って、一つ目の角を右に曲がってください。", "kana": "えきへいきたいんですが。— このみちをまっすぐいって、ひとつめのかどをみぎにまがってください。", "romaji": "Eki e ikitai n desu ga. — Kono michi o massugu itte, hitotsume no kado o migi ni magatte kudasai.", "en": "I'd like to go to the station… — Go straight along this street and turn right at the first corner." },
+        { "jp": "銀行はどこですか。— あの信号を右に曲がって、すぐです。", "kana": "ぎんこうはどこですか。— あのしんごうをみぎにまがって、すぐです。", "romaji": "Ginkō wa doko desu ka. — Ano shingō o migi ni magatte, sugu desu.", "en": "Where is the bank? — Turn right at that traffic light, and it's right there." }
+      ],
+      "pitfalls": [
+        "The direction takes に, the light or corner takes を: 右を曲がって ✗ → 右に曲がって ✓; 信号に右に曲がって ✗ → 信号を右に曲がって ✓.",
+        "二つ目 is \"the second one\", not \"two\": 二つの信号 ✗ (\"two traffic lights\") → 二つ目の信号 ✓ (\"the second traffic light\").",
+        "Listening trap: stopping after まっすぐ行って and walking off ✗ → wait for the final verb (曲がってください, です) ✓. Japanese puts the last step — often the key one — at the very end."
+      ],
+      "howToStudy": [
+        "Tap 🔬 on example 1: in the answer, まっすぐ is HOW, 行って is …AND THEN (the first step), 二つ目の is DESCRIBES NEXT (it describes 信号), 左に shows as TARGET (the direction you turn toward) and the PREDICATE 曲がってください is the last step.",
+        "Draw a simple map in your notebook with a starting point and 3 places. Give yourself directions to each one out loud, as one chain of て-forms.",
+        "Listening: play the video in block 6 and draw each route while you listen, without subtitles. Then check."
+      ],
+      "flag": null
+    },
+    {
+      "id": "V-06-c",
+      "gc": null,
+      "title": "Landmarks and distance: 〜の隣, 歩いて5分",
+      "gloss": "where it is, and how far",
+      "explanation": "After the route, people usually give a **landmark** and a **distance**:\n• **[landmark] の 隣／前／向かい** — next to / in front of / across from the landmark. [銀行の] is DESCRIBES NEXT, attached to 隣: \"the bank's next-to\" = next to the bank. It's the N₁ の N₂ of lesson 01-1 with lesson 04-1's location words. You'll often hear it with です: コンビニの隣です。\n• Common landmarks: 駅, 信号, 角, コンビニ, 銀行, 交番, and the names of big buildings.\n• **歩いて5分** — a five-minute walk (literally \"walking, five minutes\"). Often with ぐらい (\"about\") after the number: 歩いて10分ぐらいです。 When a place is far, you may hear ちょっと遠いですね (\"it's a bit far\") and another way to go: バスで10分ぐらいです。 (で = by means of, lesson 10-3).\n• To ask about distance yourself: **遠いですか。** (\"Is it far?\") or **歩いて行けますか。** (\"Can I walk there?\" — a ready-made block).\n• Minutes are read with ふん or ぷん: 1分 いっぷん, 3分 さんぷん, 5分 ごふん, 10分 じゅっぷん, 15分 じゅうごふん. Catch the number first; the ふん／ぷん just says \"minutes\".\n• On maps and signs you'll also see 徒歩5分 (とほごふん): the written word for \"on foot\".",
+      "structure": "[landmark] の 隣／前／向かい です。 · 歩いて [N] 分 ぐらい です。",
+      "examples": [
+        { "jp": "郵便局はどこですか。— 駅の向かいです。銀行の隣ですよ。", "kana": "ゆうびんきょくはどこですか。— えきのむかいです。ぎんこうのとなりですよ。", "romaji": "Yūbinkyoku wa doko desu ka. — Eki no mukai desu. Ginkō no tonari desu yo.", "en": "Where is the post office? — Across from the station. It's next to the bank." },
+        { "jp": "ここから遠いですか。— いいえ、歩いて5分ぐらいですよ。", "kana": "ここからとおいですか。— いいえ、あるいてごふんぐらいですよ。", "romaji": "Koko kara tōi desu ka. — Iie, aruite gofun gurai desu yo.", "en": "Is it far from here? — No, it's about a five-minute walk.", "noAnat": true },
+        { "jp": "美術館は歩いて行けますか。— ちょっと遠いですね。バスで10分ぐらいです。", "kana": "びじゅつかんはあるいていけますか。— ちょっととおいですね。バスでじゅっぷんぐらいです。", "romaji": "Bijutsukan wa aruite ikemasu ka. — Chotto tōi desu ne. Basu de juppun gurai desu.", "en": "Can I walk to the art museum? — It's a bit far. It's about ten minutes by bus." }
+      ],
+      "pitfalls": [
+        "The landmark comes first, then の, then the position word: 隣の銀行 ✗ (that's \"the bank next door\") → 銀行の隣 ✓ (\"next to the bank\").",
+        "\"Is it far?\" is about distance, with 遠い, not 長い: 長いですか ✗ → 遠いですか ✓.",
+        "10分 is じゅっぷん, not じゅうふん ✗ → じゅっぷん ✓; 3分 is さんぷん ✓. The ふん／ぷん switch follows the number, like other counters."
+      ],
+      "howToStudy": [
+        "Tap 🔬 on example 1: in the answer, [駅の] and [銀行の] show as DESCRIBES NEXT, attached to 向かい and 隣, and each position word + です is a PREDICATE.",
+        "Tap 🔬 on example 3: 歩いて shows as HOW (the way you go), [バスで] as MEANS, and each sentence ends in its own PREDICATE. Then describe 3 real places near your home out loud: landmark + の + 隣／前／向かい, plus 歩いて〜分.",
+        "Say the minutes 1–10 and 15 aloud with ふん／ぷん until they come out without thinking."
+      ],
+      "flag": null
+    },
+    {
+      "id": "V-06-d",
+      "gc": null,
+      "title": "When you don't catch it: repeating and checking",
+      "gloss": "もう一度, ゆっくり, and checking the key word",
+      "explanation": "Nobody catches directions the first time — native speakers included. Asking again is normal and polite:\n• **すみません、もう一度お願いします。** (\"Sorry, once more, please.\") お願いします after a word or phrase is a polite \"please (do that)\" — lesson 02-2.\n• **もう少しゆっくりお願いします。** (\"A little more slowly, please.\") ゆっくり is an adverb (\"slowly\") and もう少し adds \"a bit more\" — two adverbs, no particles.\n• **Check the key word** by repeating it as a question: 右ですか。 (\"Right?\"), 二つ目ですか。 (\"The second one?\"), 右ですか、左ですか。 (\"Right or left?\"). Short checks like these are what people really use.\n• Show your phone map: **この地図で教えてください。** (\"Please show me on this map.\") Pointing at the screen and asking ここですか。 (\"Here?\") also works.\n• Close with **ありがとうございました。** — the past form, because the help is over — and a small bow.\n• Going further (Sakubi): in answers, はい is the general \"yes\" and いいえ the polite \"no\"; you'll also hear ええ (a softer \"yes\") and, among friends, うん and ううん — which sound very different, so listen to the tone.",
+      "structure": "すみません、もう一度お願いします。 · もう少し ゆっくり お願いします。 · [key word] ですか。",
+      "examples": [
+        { "jp": "すみません、もう一度お願いします。— はい。まっすぐ行って、二つ目の信号を右です。", "kana": "すみません、もういちどおねがいします。— はい。まっすぐいって、ふたつめのしんごうをみぎです。", "romaji": "Sumimasen, mō ichido onegai shimasu. — Hai. Massugu itte, futatsume no shingō o migi desu.", "en": "Sorry, once more, please. — Sure. Go straight, and turn right at the second traffic light." },
+        { "jp": "もう少しゆっくりお願いします。— はい。この道を、まっすぐ行ってください。", "kana": "もうすこしゆっくりおねがいします。— はい。このみちを、まっすぐいってください。", "romaji": "Mō sukoshi yukkuri onegai shimasu. — Hai. Kono michi o, massugu itte kudasai.", "en": "A little more slowly, please. — OK. Along this street… go straight." },
+        { "jp": "右ですか。— はい、右です。コンビニの角を右です。— わかりました。ありがとうございました。", "kana": "みぎですか。— はい、みぎです。コンビニのかどをみぎです。— わかりました。ありがとうございました。", "romaji": "Migi desu ka. — Hai, migi desu. Konbini no kado o migi desu. — Wakarimashita. Arigatō gozaimashita.", "en": "Right? — Yes, right. Turn right at the corner with the konbini. — Got it. Thank you very much." }
+      ],
+      "pitfalls": [
+        "Just saying わかりません when you didn't catch it ✗ (it ends the conversation) → もう一度お願いします or ゆっくりお願いします ✓ (it keeps the help coming).",
+        "ゆっくり is an adverb, not a thing you ask for: ゆっくりをお願いします ✗ → ゆっくりお願いします ✓.",
+        "Check with the key word only: 私は右に曲がりますか ✗ (heavy, and 私は sounds odd here) → 右ですか ✓."
+      ],
+      "howToStudy": [
+        "Say the rescue phrases aloud 5 times each until they come out automatically: もう一度お願いします, もう少しゆっくりお願いします, 右ですか、左ですか.",
+        "Tap 🔬 on example 2: もう少し and ゆっくり both show as HOW / HOW OFTEN and お願いします is the PREDICATE; in the answer, まっすぐ is HOW again and 行ってください the PREDICATE.",
+        "With the video in block 6: pause after each direction, say もう一度お願いします out loud, and replay it — then say the key word back (右ですか, 二つ目ですか)."
+      ],
+      "flag": null
+    }
+  ],
+  "media": [
+    { "order": 1, "kind": "video", "title": "Asking for and following directions: any video with a role-played street scene", "where": "YouTube · a travel-Japanese channel (pick a video with a role-played scene)", "url": "", "search": "Japanese asking for directions phrases migi hidari massugu", "when": "After situation 4b: first listen without subtitles and draw the route; then watch with subtitles and check" },
+    { "order": 2, "kind": "reading", "title": "Irodori (Japan Foundation) — free course: find a topic about going out or getting around town in the table of contents and do its listening tasks", "where": "Irodori: Japanese for Life in Japan · the Japan Foundation's free course (search for it by name)", "url": "", "search": "Irodori Japanese for Life in Japan", "when": "After the homework" }
+  ],
+  "homework": {
+    "intro": "Do it by hand in your notebook. Write the Japanese with the kanji you know and kana for the rest; the answer key always gives the reading. Only then open the answer key, item by item. Circle what you got wrong and redo it the next day.",
+    "tasks": [
+      {
+        "id": "h1",
+        "type": "complete",
+        "prompt": "Complete the dialogue: write the missing line, following the instruction in brackets.",
+        "items": [
+          { "q": "＿＿＿ — あそこです。駅の前です。 (Ask politely where the bank is.)", "a": { "jp": "すみません、銀行はどこですか。", "kana": "すみません、ぎんこうはどこですか。", "romaji": "Sumimasen, ginkō wa doko desu ka." } },
+          { "q": "＿＿＿ — 浅草ですか。この道をまっすぐです。 (Say you'd like to go to Asakusa.)", "a": { "jp": "すみません、浅草へ行きたいんですが。", "kana": "すみません、あさくさへいきたいんですが。", "romaji": "Sumimasen, Asakusa e ikitai n desu ga." }, "note": "浅草に行きたいんですが is also correct." },
+          { "q": "＿＿＿ — はい、あの信号の隣にありますよ。 (Ask whether there is a toilet around here.)", "a": { "jp": "この辺にトイレはありますか。", "kana": "このへんにトイレはありますか。", "romaji": "Kono hen ni toire wa arimasu ka." }, "note": "この近くにトイレはありますか is also correct." },
+          { "q": "まっすぐ行って、三つ目の角を左です。— ＿＿＿ (You didn't catch it: ask for it once more.)", "a": { "jp": "すみません、もう一度お願いします。", "kana": "すみません、もういちどおねがいします。", "romaji": "Sumimasen, mō ichido onegai shimasu." } },
+          { "q": "ここから遠いですか。— ＿＿＿ (No: about a ten-minute walk.)", "a": { "jp": "いいえ、歩いて10分ぐらいです。", "kana": "いいえ、あるいてじゅっぷんぐらいです。", "romaji": "Iie, aruite juppun gurai desu." }, "note": "10分 is じゅっぷん." }
+        ]
+      },
+      {
+        "id": "h2",
+        "type": "understand",
+        "prompt": "You asked the way and got these answers. Write in English exactly what to do.",
+        "items": [
+          { "q": "まっすぐ行って、一つ目の角を右に曲がってください。", "a": { "en": "Go straight, and turn right at the first corner." } },
+          { "q": "二つ目の信号を左に曲がって、すぐです。", "a": { "en": "Turn left at the second traffic light, and it's right there." } },
+          { "q": "コンビニの向かいです。歩いて3分ぐらいです。", "a": { "en": "It's across from the konbini, about a three-minute walk." }, "note": "3分 is read さんぷん." },
+          { "q": "この道をまっすぐ行って、交番の前を右です。", "a": { "en": "Go straight along this street and turn right in front of the police box." }, "note": "を marks the spot you move through: 交番の前を = at (past) the front of the police box." },
+          { "q": "ちょっと遠いですね。バスで15分ぐらいです。", "a": { "en": "It's a bit far. About fifteen minutes by bus." } }
+        ]
+      },
+      {
+        "id": "h3",
+        "type": "translate",
+        "prompt": "Translate into Japanese.",
+        "items": [
+          { "q": "Excuse me, where is the station?", "a": { "jp": "すみません、駅はどこですか。", "kana": "すみません、えきはどこですか。", "romaji": "Sumimasen, eki wa doko desu ka." } },
+          { "q": "Turn right at the second traffic light.", "a": { "jp": "二つ目の信号を右に曲がってください。", "kana": "ふたつめのしんごうをみぎにまがってください。", "romaji": "Futatsume no shingō o migi ni magatte kudasai." }, "note": "を for the light, に for the direction." },
+          { "q": "It's next to the bank.", "a": { "jp": "銀行の隣です。", "kana": "ぎんこうのとなりです。", "romaji": "Ginkō no tonari desu." } },
+          { "q": "A little more slowly, please.", "a": { "jp": "もう少しゆっくりお願いします。", "kana": "もうすこしゆっくりおねがいします。", "romaji": "Mō sukoshi yukkuri onegai shimasu." } },
+          { "q": "Right or left?", "a": { "jp": "右ですか、左ですか。", "kana": "みぎですか、ひだりですか。", "romaji": "Migi desu ka, hidari desu ka." } },
+          { "q": "Please show me on this map.", "a": { "jp": "この地図で教えてください。", "kana": "このちずでおしえてください。", "romaji": "Kono chizu de oshiete kudasai." } }
+        ]
+      },
+      {
+        "id": "h4",
+        "type": "produce",
+        "prompt": "Written role-play: write a 6–8-line scene. You stop someone on the street and ask how to get to your hotel; they give directions with a turn, a landmark and a distance; you ask them to repeat one part, check the key word and thank them. Then read it aloud, doing both voices, and record it.",
+        "items": [
+          { "q": "Model (match its structure, not its words):", "a": { "jp": "すみません、さくらホテルへ行きたいんですが。— さくらホテルですか。まっすぐ行って、二つ目の信号を右に曲がってください。郵便局の隣です。— すみません、もう一度お願いします。— まっすぐ行って、二つ目の信号を右です。— 右ですか。— はい。歩いて5分ぐらいですよ。— わかりました。ありがとうございました。", "kana": "すみません、さくらホテルへいきたいんですが。— さくらホテルですか。まっすぐいって、ふたつめのしんごうをみぎにまがってください。ゆうびんきょくのとなりです。— すみません、もういちどおねがいします。— まっすぐいって、ふたつめのしんごうをみぎです。— みぎですか。— はい。あるいてごふんぐらいですよ。— わかりました。ありがとうございました。", "romaji": "Sumimasen, Sakura Hoteru e ikitai n desu ga. — Sakura Hoteru desu ka. Massugu itte, futatsume no shingō o migi ni magatte kudasai. Yūbinkyoku no tonari desu. — Sumimasen, mō ichido onegai shimasu. — Massugu itte, futatsume no shingō o migi desu. — Migi desu ka. — Hai. Aruite gofun gurai desu yo. — Wakarimashita. Arigatō gozaimashita.", "en": "Excuse me, I'd like to go to the Sakura Hotel… — The Sakura Hotel? Go straight and turn right at the second traffic light. It's next to the post office. — Sorry, once more, please. — Go straight, and turn right at the second light. — Right? — Yes. It's about a five-minute walk. — Got it. Thank you very much." }, "note": "Check: すみません at the start, を for the light or corner and に for the direction, the landmark before の, and ありがとうございました (past) at the end." }
+        ]
+      }
+    ],
+    "workbook": []
+  },
+  "practice": [
+    { "tool": "Role-play out loud", "what": "Use your notebook map (4b): play the lost traveler and the helpful local by yourself, switching roles every round. As the local, give a chain of 2–3 steps with a landmark; as the traveler, always check one key word (右ですか, 二つ目ですか).", "min": 10 },
+    { "tool": "Speaking · record yourself", "what": "Record the h4 scene in 60 seconds or less. Listen: is すみません at the start? Does each step end in the right particle (を for the corner, に for the direction)? Record it again and compare.", "min": 5 },
+    { "tool": "Shadowing", "what": "Tap 🔊 on the answers in 4b and 4c and repeat along 3 times. Directions come fast: copy the rhythm of the て-form chain (行って、…曲がってください) until you can say it at the same speed.", "min": 5 },
+    { "tool": "ヅオリンゴー · 🔬 Anatomy", "what": "Drills → 🔬 Anatomy → 🧱 Build from the end: build 3 direction sentences starting from 曲がってください or です. Then save the 3 rescue phrases (もう一度, ゆっくり, 右ですか) with Mining so they come back in your SRS.", "min": 10 },
+    { "tool": "Real Japanese", "what": "Open a map app set to Japanese and look at the area around a big station (Tokyo, Kyoto, Osaka…). Find 交番, 郵便局, 銀行 and 駅 on the map, and read the labels with a pop-up dictionary or jisho.org. Pick one place and give yourself directions to it from the station, out loud.", "min": 10 }
+  ],
+  "culture": {
+    "title": "The neighborhood police box",
+    "titleJp": "交番",
+    "body": "A **交番** (こうばん) is a small police post, usually near stations and busy crossings, marked 交番 and often KOBAN in Latin letters. The officers there patrol the area, take reports of lost and found items, and give directions — asking the way at a 交番 is completely normal. They usually have detailed local maps, which helps because many Japanese addresses are hard to find (lesson 10-3). Sometimes the officers are out on patrol; there is often a phone or a notice at the entrance explaining what to do. In an emergency, call 110 instead of looking for a 交番 (lesson V-07).",
+    "try": "On a map of a Japanese city, search for 交番 and see how many there are around one big station. Then practice the line you'd say at the door: すみません、〜へ行きたいんですが。"
+  },
+  "checklist": [
+    "I can ask where a place is with すみません、〜はどこですか, without looking.",
+    "I can say 〜へ行きたいんですが and ask この辺に〜はありますか.",
+    "I can follow a chain of directions — まっすぐ, 右／左に曲がる, 二つ目の信号 — and I know the corner or light takes を and the direction takes に.",
+    "I understand a landmark and a distance: 〜の隣／前／向かい, 歩いて〜分.",
+    "I can ask for a repeat (もう一度お願いします), for slower speech (ゆっくりお願いします), and check 右ですか、左ですか.",
+    "I did the homework, checked it against the answer key and redid what I got wrong.",
+    "I recorded the directions role-play and listened to it."
+  ],
+  "credits": [
+    "Explanations adapted in part from Sakubi (public domain, CC0) — sakubi.neocities.org",
+    "Study method informed by the DJT Guide to Japanese — djtguide.neocities.org/guide"
+  ]
+}

@@ -17,7 +17,7 @@
       { "t": "Warm-up: say aloud the dictionary form, the short past and the て-form of ふる, 食べる, 帰る, する and 来る", "min": 5 },
       { "t": "Vocabulary: tap 🔊 on each word and repeat it twice", "min": 10 },
       { "t": "Grammar: the 3 points, with the examples read aloud. Take extra care with the trio ふりそう × ふったみたい × ふるそう. If it gets heavy, do みたい in one session and 前に/てから in another", "min": 30 },
-      { "t": "Videos (block 6): only the parts on みたい, 前に and てから", "min": 10 },
+      { "t": "Block 6: the videos or the Sakubi sections (time words; notes on wanting), only the parts on みたい, 前に and てから — read to understand, not to memorize", "min": 10 },
       { "t": "Notebook homework + checking it against the answer key", "min": 15 },
       { "t": "Checklist (block 10) + write your questions in the lesson notebook", "min": 5 }
     ]
@@ -62,7 +62,7 @@
       "gc": null,
       "title": "〜みたいです (it seems…)",
       "gloss": "it seems…, it looks like…; is like (a)…",
-      "explanation": "**みたいです** is the \"it seems…\", \"it looks like…\" of **your own conclusion**: you put the clues together (something you saw, heard or noticed) and worked it out. It isn't certain, and nobody told you: you drew the conclusion yourself.\n• Verb: **short form** + みたいです. 雨がふったみたいです (the ground is wet); 田中さんは来ないみたいです (it's already past the time).\n• い-adjective: attaches directly. 外はさむいみたいです (everyone is wearing a coat).\n• Noun and な-adjective: **no だ** in the present affirmative. るすみたいです; 元気みたいです. In the other forms, use the normal short form: 休みだったみたいです; 好きじゃないみたいです.\n• みたい itself behaves like a な-adjective: みたいです, みたいだ (casual) and, before a noun, **みたいな**.\n\n**\"Like\", \"looks like a…\".** After a noun, みたい can also **compare**: 子どもみたいです = \"is just like a child\". Before another noun: 子どもみたいなかお (\"a face like a child's\"); モデルみたいな人 (\"a person who looks like a model\").\n• The context decides whether it's a conclusion or a comparison: あの人は日本人みたいです = \"that person seems to be Japanese\" (conclusion); ペドロさんの日本語は日本人みたいです = \"Pedro's Japanese sounds like a native speaker's\" (comparison: he isn't Japanese).\n\n**The three \"seems\":**\n• ふりそうです (lesson 13-2): stem + そう. I look at the dark sky and predict: it's **going to** rain.\n• ふったみたいです: short form + みたい. I see the wet ground and conclude: it **rained**.\n• ふるそうです (lesson 17-1): short form + そうです. The forecast **told me**: it's going to rain.\n• With an adjective: おいしそう (I'm looking at the dish); おいしいみたい (I see the line at the door); おいしいそう (a friend told me).\n• みたい is **colloquial**, but with です it works fine in polite conversation. In formal writing you'll see 〜ようです, with the same meaning (N3 Bridge, lesson P-04).\n• In the sentence, [conclusion] + みたいです is the **PREDICATE**. Read from the end: \"it seems\" → what? → that it rained → when? → during the night.",
+      "explanation": "**みたいです** is the \"it seems…\", \"it looks like…\" of **your own conclusion**: you put the clues together (something you saw, heard or noticed) and worked it out. It isn't certain, and nobody told you: you drew the conclusion yourself.\n• Verb: **short form** + みたいです. 雨がふったみたいです (the ground is wet); 田中さんは来ないみたいです (it's already past the time).\n• い-adjective: attaches directly. 外はさむいみたいです (everyone is wearing a coat).\n• Noun and な-adjective: **no だ** in the present affirmative. るすみたいです; 元気みたいです. In the other forms, use the normal short form: 休みだったみたいです; 好きじゃないみたいです.\n• みたい itself behaves like a な-adjective: みたいです, みたいだ (casual) and, before a noun, **みたいな**.\n• **Sakubi's warning:** this みたい sounds exactly like 見たい (\"want to see\", 見る + たい), but it is a separate word. The \"seems\" みたい is written in **kana** and comes after a complete word or statement: 雨がふったみたい. Read it by context, not by its parts.\n\n**\"Like\", \"looks like a…\".** After a noun, みたい can also **compare**: 子どもみたいです = \"is just like a child\". Before another noun: 子どもみたいなかお (\"a face like a child's\"); モデルみたいな人 (\"a person who looks like a model\").\n• The context decides whether it's a conclusion or a comparison: あの人は日本人みたいです = \"that person seems to be Japanese\" (conclusion); ペドロさんの日本語は日本人みたいです = \"Pedro's Japanese sounds like a native speaker's\" (comparison: he isn't Japanese).\n\n**The three \"seems\":**\n• ふりそうです (lesson 13-2): stem + そう. I look at the dark sky and predict: it's **going to** rain.\n• ふったみたいです: short form + みたい. I see the wet ground and conclude: it **rained**.\n• ふるそうです (lesson 17-1): short form + そうです. The forecast **told me**: it's going to rain.\n• With an adjective: おいしそう (I'm looking at the dish); おいしいみたい (I see the line at the door); おいしいそう (a friend told me).\n• みたい is **colloquial**, but with です it works fine in polite conversation. In formal writing you'll see 〜ようです, with the same meaning (N3 Bridge, lesson P-04).\n• In the sentence, [conclusion] + みたいです is the **PREDICATE**. Read from the end: \"it seems\" → what? → that it rained → when? → during the night.\n• Going further (Sakubi): two more relatives. **らしい** (\"apparently\", lesson P-04) leans on what you've heard or on the circumstances. **っぽい** (lesson P-15) means \"-ish\" and names a quality: 子どもっぽい = \"childish\", while 子どもみたい = \"just like a child\" (a comparison).",
       "structure": "[short form] みたいです · [N / な-adj] みたいです (no だ) · [N] みたいな [N] (like…)",
       "examples": [
         { "jp": "道がぬれていますね。夜、雨がふったみたいです。", "kana": "みちがぬれていますね。よる、あめがふったみたいです。", "romaji": "Michi ga nurete imasu ne. Yoru, ame ga futta mitai desu.", "en": "The street is wet, isn't it? It looks like it rained during the night.", "noAnat": true },
@@ -87,20 +87,22 @@
       "gc": null,
       "title": "〜前に (before)",
       "gloss": "before doing…",
-      "explanation": "To say \"before doing A, I do B\", use the **dictionary form** + **前に**: A前に、B。\n• ねる → ねる前に; 食べる → 食べる前に; する → する前に; 来る → 来る前に (くるまえに).\n• **The form is always the dictionary form**, even when the sentence is about the past. The tense goes in the predicate at the end: 日本に来る前に、日本語を勉強しました (\"before I came, I studied Japanese\"). Never 来た前に.\n• **Watch the order:** in the sentence, A comes first, but it happens **later**. 食べる前に、手をあらいます = first you wash your hands, then you eat. English \"Before I eat, I wash my hands\" works the same way.\n• With a noun, add の: 仕事の前に (\"before work\"). But remember lesson 04-1: with a place, 前 means \"in front of\" (駅の前に = in front of the station). The word decides: a place → \"in front of\"; an action or event → \"before\".\n• In the sentence, the 〜前に block answers \"when?\", and 🔬 marks it as **TIME**. The PREDICATE is still at the end.",
+      "explanation": "To say \"before doing A, I do B\", use the **dictionary form** + **前に**: A前に、B。\n• ねる → ねる前に; 食べる → 食べる前に; する → する前に; 来る → 来る前に (くるまえに).\n• **The form is always the dictionary form**, even when the sentence is about the past. The tense goes in the predicate at the end: 日本に来る前に、日本語を勉強しました (\"before I came, I studied Japanese\"). Never 来た前に.\n• **Watch the order:** in the sentence, A comes first, but it happens **later**. 食べる前に、手をあらいます = first you wash your hands, then you eat. English \"Before I eat, I wash my hands\" works the same way.\n• **Not necessarily right before:** 前に only says that B comes earlier. 日本に来る前に can mean the day before or ten years before, just like English \"before\".\n• With a noun, add の: 仕事の前に (\"before work\"). A verb attaches directly, with no の.\n• **One word for space and time.** 前 means both \"in front of\" (lesson 04-1: 駅の前 = in front of the station) and \"before\". Sakubi's way to remember it: the people **in front of** you in a line get served **before** you. The word before 前 decides: a place → \"in front of\"; an action or event → \"before\". Example 3 has both.\n• In the sentence, the verb + 前に block answers \"when?\", and 🔬 marks it as **TIME**. The PREDICATE is still at the end.\n• Going further (Sakubi): the opposite of 前 is **後** (あと): 食べた後で = \"after eating\", with the **past** form, the mirror image of 前に with the dictionary form. And **先に** (さきに) means \"first, ahead of someone\": 先に食べてください = \"Go ahead and eat (don't wait for me).\"",
       "structure": "[verb in the dictionary form] 前に、[B] · [N] の前に、[B]",
       "examples": [
         { "jp": "毎日、ねる前に、シャワーをあびます。", "kana": "まいにち、ねるまえに、シャワーをあびます。", "romaji": "Mainichi, neru mae ni, shawā o abimasu.", "en": "Every day, before I go to bed, I take a shower." },
-        { "jp": "日本に来る前に、ポルトガル語の先生をしていました。", "kana": "にほんにくるまえに、ポルトガルごのせんせいをしていました。", "romaji": "Nihon ni kuru mae ni, porutogarugo no sensei o shite imashita.", "en": "Before I came to Japan, I worked as a Portuguese teacher." }
+        { "jp": "日本に来る前に、ポルトガル語の先生をしていました。", "kana": "にほんにくるまえに、ポルトガルごのせんせいをしていました。", "romaji": "Nihon ni kuru mae ni, porutogarugo no sensei o shite imashita.", "en": "Before I came to Japan, I worked as a Portuguese teacher." },
+        { "jp": "会社に行く前に、駅の前のカフェでコーヒーを飲みます。", "kana": "かいしゃにいくまえに、えきのまえのカフェでコーヒーをのみます。", "romaji": "Kaisha ni iku mae ni, eki no mae no kafe de kōhī o nomimasu.", "en": "Before I go to the office, I have coffee at the café in front of the station." }
       ],
       "pitfalls": [
         "Even in the past, use the dictionary form: 日本に来た前に ✗ → 日本に来る前に、…ました ✓.",
         "The ます form doesn't go here: 食べます前に ✗ → 食べる前に ✓.",
-        "Place × time: 駅の前 is \"in front of the station\". For \"before going to the station\", the verb has to appear: 駅の前に ✗ → 駅に行く前に ✓."
+        "Place × time: 駅の前 is \"in front of the station\". For \"before going to the station\", the verb has to appear: 駅の前に ✗ → 駅に行く前に ✓.",
+        "の goes only after a noun: 食べるの前に ✗ → 食べる前に ✓ (but 食事の前に ✓, \"before the meal\")."
       ],
       "howToStudy": [
         "Your morning routine: say 4 sentences with 〜前に, one for each thing you do before you leave: 出かける前に、コーヒーを飲みます。…",
-        "Tap 🔬 on example 2. 来る前に shows up as TIME, 日本に as DESTINATION and していました as the PREDICATE (ongoing / state). Notice: the sentence is in the past, but 来る stays in the dictionary form.",
+        "Tap 🔬 on example 2: 来る前に shows up as TIME and していました as the PREDICATE (ongoing / state). The sentence is in the past, but 来る stays in the dictionary form. Then tap 🔬 on example 3: 行く前に is TIME again. 駅の and 前の both show up as DESCRIBES NEXT, as a chain: 駅の describes 前 (the front of the station), and 駅の前の together describes カフェで (PLACE): the café in front of the station. Same 前, once in time and once in space.",
         "Compare with lesson 17-2, out loud: 日本に行く前に、カメラを買います (I buy it before I go) × 日本に行ったら、カメラを買います (I buy it there)."
       ],
       "flag": null
@@ -110,7 +112,7 @@
       "gc": null,
       "title": "〜てから (after)",
       "gloss": "after doing…, only after…",
-      "explanation": "To say \"after doing A, I do B\", use the **て-form** + **から**: Aてから、B。\n• 帰る → 帰ってから; 食べる → 食べてから; する → してから; 来る → 来てから (きてから).\n• The order is fixed: **first A, then B**. Here the order of the sentence and the order of events are the same.\n• In lesson 06-2 you saw action て action (食べて、出かけます). 〜てから **marks the sequence more strongly**: \"first this, and only then that\". 手をあらってから、食べてください = \"wash your hands, and only then eat\".\n• 〜前に and 〜てから tell the same scene from opposite sides: 食べる前に、手をあらいます = 手をあらってから、食べます.\n• Don't confuse it with the から of \"because\" (lessons 06-4 and 09-3). What comes before decides: **て-form + から** = after; **short form or です + から** = because. 食べてから = \"after eating\"; 食べるから = \"because I'm going to eat\".\n• Compared with 〜たら (lesson 17-2): 〜てから only gives the order; 〜たら gives a condition. To tell your own actions in sequence, in the past, use てから: 家に帰ってから、しゅくだいをしました。\n• In the sentence, 🔬 marks the 〜てから block as **AFTER DOING**, and the block with 〜たら as **IF / WHEN**. The PREDICATE is still at the end.",
+      "explanation": "To say \"after doing A, I do B\", use the **て-form** + **から**: Aてから、B。\n• 帰る → 帰ってから; 食べる → 食べてから; する → してから; 来る → 来てから (きてから).\n• **Why から?** You already know から as \"from\", the starting point (東京から, lesson 10-3). It is the same general \"from\" even when it's abstract: てから = \"from (the moment of) having done A\". A is the starting point, and B comes after it.\n• The order is fixed: **first A, then B**. Here the order of the sentence and the order of events are the same.\n• In lesson 06-2 you saw action て action (食べて、出かけます). 〜てから **marks the sequence more strongly**: \"first this, and only then that\". 手をあらってから、食べてください = \"wash your hands, and only then eat\".\n• 〜前に and 〜てから tell the same scene from opposite sides: 食べる前に、手をあらいます = 手をあらってから、食べます.\n• Don't confuse it with the から of \"because\" (lessons 06-4 and 09-3). What comes before decides: **て-form + から** = after; **short form or です + から** = because. 食べてから = \"after eating\"; 食べるから = \"because I'm going to eat\"; 食べたから = \"because I ate\".\n• Between two separate sentences, \"after that\" is **それから** (lit. \"from that\"): 家に帰りました。それから、夕ごはんを作りました。\n• Compared with 〜たら (lesson 17-2): 〜てから only gives the order; 〜たら gives a condition. To tell your own actions in sequence, in the past, use てから: 家に帰ってから、しゅくだいをしました。\n• In the sentence, 🔬 marks the 〜てから block as **AFTER DOING**, and the block with 〜たら as **IF / WHEN**. The PREDICATE is still at the end.",
       "structure": "[A: て-form] から、[B] (first A, then B)",
       "examples": [
         { "jp": "うちに帰ってから、夕ごはんを作ります。", "kana": "うちにかえってから、ゆうごはんをつくります。", "romaji": "Uchi ni kaette kara, yūgohan o tsukurimasu.", "en": "After I get home, I make dinner." },
@@ -118,14 +120,15 @@
         { "jp": "手をあらってから、食べてください。", "kana": "てをあらってから、たべてください。", "romaji": "Te o aratte kara, tabete kudasai.", "en": "Wash your hands before you eat. [lit. please eat after washing your hands]" }
       ],
       "pitfalls": [
-        "てから (after) × から (because): 食べるから、出かけます ✗ (that means \"because I'm going to eat, I'll go out\") → 食べてから、出かけます ✓ (after eating, I'll go out).",
+        "てから (after) × から (because). When you mean \"after eating, I'll go out\": 食べるから、出かけます ✗ (\"because I'm going to eat…\") and 食べたから、出かけます ✗ (\"because I ate…\") → 食べてから、出かけます ✓.",
         "The base is the て-form, with the sound changes of う-verbs: 読みてから ✗ → 読んでから ✓; 行きてから ✗ → 行ってから ✓.",
-        "Don't mix the forms: 前に takes the dictionary form and てから takes the て-form. 食べて前に ✗, 食べるてから ✗ → 食べる前に / 食べてから ✓."
+        "Don't mix the forms: 前に takes the dictionary form and てから takes the て-form. 食べて前に ✗, 食べるてから ✗ → 食べる前に / 食べてから ✓.",
+        "から doesn't open a sentence on its own:朝ごはんを食べました。から、出かけました ✗ → 朝ごはんを食べました。それから、出かけました ✓ (after that). Only compounds such as それから and だから (\"so\") can start a sentence."
       ],
       "howToStudy": [
         "Switch sides out loud: A前に、B ⇄ Bてから、A. 食べる前に、手をあらいます ⇄ 手をあらってから、食べます. Do the same with 4 pairs from your own routine.",
         "Tap 🔬 on example 2. 見てから shows up as AFTER DOING, レストランに as DESTINATION and 行きませんか as the PREDICATE (invitation / suggestion). Then open example 2 of point a in lesson 17-2: there, 着いたら shows up as IF / WHEN.",
-        "Speaking: describe your evening in 4 steps with てから, as if you were telling someone: 家に帰ってから、…。夕ごはんを食べてから、…。"
+        "Speaking: describe your evening in 4 steps with てから, as if you were telling someone: 家に帰ってから、…。夕ごはんを食べてから、…。 Then tell the same evening as separate sentences joined by それから."
       ],
       "flag": null
     }
@@ -188,11 +191,11 @@
     "workbook": []
   },
   "practice": [
-    { "tool": "Wagotabi", "what": "Play in the N4 areas and levels and hunt for みたい, 前に and てから in the dialogues. For each みたい, ask yourself: what was the clue? Log the session in Immersion → Games and paste a line with てから into 🔬 Anatomy to see the AFTER DOING block.", "min": 15 },
-    { "tool": "ヅオリンゴー · Mining", "what": "Use Mining (⛏) to save 5 new words from this lesson to the SRS (るす, ぬれる, 人気がある, ならぶ, ひげをそる) and review them along with the \"🌊 All\" deck.", "min": 5 },
+    { "tool": "Wagotabi", "what": "Play normally and hunt for みたい, 前に and てから in the dialogues. For each みたい, ask yourself: what was the clue? Log the session in Immersion → Games and paste a line with てから into 🔬 Anatomy to see the AFTER DOING block. Save the clearest line with ⛏ Mining, after looking up every word you didn't know.", "min": 15 },
+    { "tool": "ヅオリンゴー", "what": "First your reviews in 🌊 All. Then use ⛏ Mining to add 5 new words from this lesson to the SRS (るす, ぬれる, 人気がある, ならぶ, ひげをそる). Kanji through vocabulary: 前 and 後 are opposites, so learn them inside words you already use (前に, 名前, 午後, 後で), not one by one.", "min": 10 },
     { "tool": "ヅオリンゴー · Journal", "what": "Write your evening (homework h4) in the Journal and open \"Anatomy of what I wrote\": the blocks with てから should show up as AFTER DOING, and the ones with 前に as TIME. In the sentence with みたいです, Anatomy may write \"wish (～たい)\" under the PREDICATE, confusing みたい with 〜たい: ignore that label, because you already know the difference.", "min": 10 },
-    { "tool": "Shadowing", "what": "Tap 🔊 on the examples and repeat along 3 times. After each みたい example, also say the version with the appearance そう (ふったみたい → ふりそう) until the difference feels natural.", "min": 5 },
-    { "tool": "Speaking", "what": "Record your evening (homework h4) in 40 seconds or less. Since this lesson completes Lesson 17, also record 1 sentence with each point of the lesson: そうです, って, たら, なくてもいい, みたい, 前に and てから.", "min": 5 }
+    { "tool": "Reading", "what": "This lesson completes Genki Lesson 17, so test it on real Japanese: read one NHK NEWS WEB EASY article or a level 2 Tadoku story (Resources tab → Reading) and hunt for any of its points: そうです, って, たら, なくてもいい, みたい, 前に and てから. Copy each one you find into your notebook with its sentence, and save the clearest sentence with ⛏ Mining. Understanding the gist is enough; look up only the words that block you.", "min": 10 },
+    { "tool": "Shadowing + speaking", "what": "Tap 🔊 on the examples and repeat along 3 times; after example 1, also say the version with the appearance そう (ふったみたい → ふりそう) and notice how the meaning changes. Don't do it with examples 2 and 3: るす and 子ども are nouns, and nouns can't take the appearance そう. Then record your evening (homework h4) in 40 seconds or less, plus 1 sentence with each point of Lesson 17: そうです, って, たら, なくてもいい, みたい, 前に and てから.", "min": 10 }
   ],
   "culture": {
     "title": "りゅうこうご: buzzwords",
@@ -209,5 +212,9 @@
     "I don't confuse 〜てから (after) with 〜から (because) or with 〜たら (condition).",
     "I did the homework, checked it against the answer key and redid what I got wrong.",
     "If I have the Genki II Workbook, I did the Lesson 17 exercises on 〜みたいです and 〜前に／〜てから."
+  ],
+  "credits": [
+    "Explanations adapted in part from Sakubi (public domain, CC0) — sakubi.neocities.org",
+    "Study method informed by the DJT Guide to Japanese — djtguide.neocities.org/guide"
   ]
 }

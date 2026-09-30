@@ -51,15 +51,15 @@
 
 ## Status
 
-**74 of 102 lessons published.** Every published lesson passes the automatic checker (`tools/check.js`: structure, romaji × kana, answer keys, no dates, kanji per lesson, no Portuguese). The rest is being written.
+**99 of 102 lessons published**, each re-evaluated against three sources: Genki (order), Sakubi (CC0 grammar guide — adapted explanations and a verified section link per lesson) and the DJT guide (study method). Every published lesson passes the automatic checker.
 
 | Part | Lessons | |
 |---|---|---|
 | Unit 0 · kana | 3 / 3 | ✅ complete |
 | Genki I (N5) + Milestones 1–3 | 38 / 38 | ✅ complete |
-| Genki II (N4) + Milestones 4–5 | 28 / 30 | 🟡 in progress |
-| N3 Bridge + Milestone 6 | 5 / 23 | 🟡 in progress |
-| Travel Track | 0 / 8 | ⏳ next |
+| Genki II (N4) + Milestones 4–5 | 28 / 30 | 🟡 M-4, M-5 pending |
+| N3 Bridge + Milestone 6 | 22 / 23 | 🟡 M-6 pending |
+| Travel Track | 8 / 8 | ✅ complete |
 
 ## For contributors
 

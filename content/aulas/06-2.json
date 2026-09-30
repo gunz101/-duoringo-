@@ -60,7 +60,7 @@
       "gc": "6-2",
       "title": "〜てください",
       "gloss": "please do…",
-      "explanation": "て-form + **ください** = a **polite request**: \"please do X\". The verb in て says **which action** you are asking for. ください, at the end, is the **predicate**: it is what turns the sentence into a request.\n• The rest of the sentence follows the usual rules: the object takes を, the place takes に or で. でんきを けしてください。 = [object] でんきを + [request] けしてください.\n• **Thing × action:** in lesson 02-2, **N を ください** asked for a **thing** (\"a coffee, please\"). Now **V-て ください** asks for an **action** (\"please open the window\"). English uses \"please\" for both; Japanese uses two different patterns.\n• To sound gentler, start with **すみません、** (\"excuse me\"). With strangers and teachers, すみません + 〜てください works well.\n• The person who does the action is **the other person**. To ask \"may I do it?\", you need a different form (〜てもいいですか, lesson 06-3).",
+      "explanation": "て-form + **ください** = a **polite request**: \"please do X\". The verb in て says **which action** you are asking for. ください, at the end, is the **predicate**: it is what turns the sentence into a request.\n• The rest of the sentence follows the usual rules: the object takes を, the place takes に or で. でんきを けしてください。 = [object] でんきを + [request] けしてください.\n• **Thing × action — the same ください:** ください comes from a verb meaning \"to give (me)\". In lesson 02-2, **N を ください** asked for a **thing** (\"give me a coffee\"). **V-て ください** asks for an **action** — literally \"give me (the favor of) doing X\" — so you are asking someone to do something **for you**. English says \"please\" for both; Japanese uses two patterns built on the same word.\n• To sound gentler, start with **すみません、** (\"excuse me\"). With strangers and teachers, すみません + 〜てください works well.\n• The person who does the action is **the other person**. To ask \"may I do it?\", you need a different form (〜てもいいですか, lesson 06-3).\n• Among friends, ください often drops and the bare て-form is the request: ちょっと まって。 (\"Wait a sec.\") With strangers and teachers, keep ください.\n• Going further (Sakubi): \"please don't…\" uses the negative, 食べないでください (lesson 08-3). You'll also hear 〜なさい (食べなさい, \"eat up\"), a request that expects to be obeyed — parents to children, teachers to pupils. Recognize it, but don't use it with adults.",
       "structure": "(すみません、) [object] を [verb-て] ください。",
       "examples": [
         { "jp": "すみません、ゆっくり はなしてください。", "kana": "すみません、ゆっくり はなしてください。", "romaji": "Sumimasen, yukkuri hanashite kudasai.", "en": "Excuse me, please speak slowly." },
@@ -85,7 +85,7 @@
       "gc": "6-5",
       "title": "Action て action",
       "gloss": "I do X and then Y",
-      "explanation": "The て-form also **chains actions** in the order they happen: \"I do X and (then) Y\". Only **the last verb** — the predicate, at the very end — decides the **tense** of the sentence, present or past. The て verbs in the middle have no tense of their own: they \"borrow\" the tense of the ending. English puts the tense on every verb (\"went… and bought\"); Japanese puts it only at the end.\n• Present/future: うちに かえって、シャワーを あびます。 (\"I go home and take a shower.\")\n• Past: change only the last verb. うちに かえって、シャワーを あびました。 (\"I went home and took a shower.\")\n• Each action keeps its own blocks: [えきで でんしゃを おりて]、[ともだちに あいました]. Read in chunks: each chunk ends with a て, and the comma helps you see where it ends.\n• The order is **time order**: what is in て happens **before** what comes after it.\n• The last verb can be a request: 本を あけて、よんでください。 (\"Please open the book and read it.\") Then the whole sentence becomes a request.\n• Two or three actions per sentence sound natural. With more than that, split it into two sentences.",
+      "explanation": "The て-form also **chains actions** in the order they happen: \"I do X and (then) Y\". Only **the last verb** — the predicate, at the very end — decides the **tense** of the sentence, present or past. The て verbs in the middle have no tense of their own: they \"borrow\" the tense of the ending. English puts the tense on every verb (\"went… and bought\"); Japanese puts it only at the end.\n• Present/future: うちに かえって、シャワーを あびます。 (\"I go home and take a shower.\")\n• Past: change only the last verb. うちに かえって、シャワーを あびました。 (\"I went home and took a shower.\")\n• Each action keeps its own blocks: [えきで でんしゃを おりて]、[ともだちに あいました]. Read in chunks: each chunk ends with a て, and the comma helps you see where it ends.\n• The order is **time order**: what is in て happens **before** what comes after it.\n• て itself only says \"and (then)\". Depending on the context, the first action can also sound like the **way** the second is done: バスに のって、大学に 行きます。 (\"I get on a bus and go to college\" = \"I go to college by bus\"). But て never states a reason clearly: for \"because\", use から (lesson 06-4).\n• The last verb can be a request: 本を あけて、よんでください。 (\"Please open the book and read it.\") Then the whole sentence becomes a request.\n• Two or three actions per sentence sound natural. With more than that, split it into two sentences.\n• Going further (Sakubi): the same connector has more jobs. て also joins descriptions (おおきくて, がくせいで — lesson 07-2), and verb-て + a helper verb makes new verb phrases (〜ている, lesson 07-1).",
       "structure": "[action 1]-て、[action 2]-て、[final action]ます／ました／てください。",
       "examples": [
         { "jp": "あさ シャワーを あびて、コーヒーを 飲みます。", "kana": "あさ シャワーを あびて、コーヒーを のみます。", "romaji": "Asa shawā o abite, kōhī o nomimasu.", "en": "In the morning I take a shower and (then) drink coffee." },
@@ -96,7 +96,7 @@
         "Don't conjugate each verb as a separate sentence: デパートに 行きました、プレゼントを かいました ✗ (two sentences glued together with a comma). Put the first one in て: 行って、…かいました ✓.",
         "Only the end gives the tense: うちに かえって、ねます = \"I go home and sleep\"; うちに かえって、ねました = \"I went home and slept\". かえって is the same in both.",
         "Order matters: シャワーを あびて、ねます (shower, then bed) ≠ ねて、シャワーを あびます (sleep, then shower).",
-        "Within one sentence you don't need そして (\"and then\") between the actions: て already does that job. そして links separate sentences."
+        "English \"and\" between two actions is not と: コーヒーを 飲む と パンを 食べます ✗ (for \"I drink coffee and eat bread\") → コーヒーを 飲んで、パンを 食べます ✓. と links nouns (lesson 04-3). Inside one sentence you don't need そして either: て already does that job, and そして links separate sentences."
       ],
       "howToStudy": [
         "Speaking: describe this morning in one sentence with 3 actions (おきて、…て、…ました). Then describe tomorrow morning, changing only the last verb to ます.",
@@ -165,8 +165,8 @@
     ]
   },
   "practice": [
-    { "tool": "Wagotabi", "what": "Play normally and hunt for requests: lines ending in てください (or just て, in casual speech). For each one, say out loud what was asked and who will do the action. Write 2 of them in your notebook.", "min": 15 },
-    { "tool": "ヅオリンゴー", "what": "Lesson 6 vocabulary in the SRS. Then Drills → 🔬 Anatomy → 🧱 Build from the end: 5 sentences, noticing that you always start building from the predicate.", "min": 10 },
+    { "tool": "Wagotabi", "what": "Play normally and hunt for requests: lines ending in てください (or just て, in casual speech). For each one, say out loud what was asked and who will do the action. Write 2 of them in your notebook, look up any word you don't know in a dictionary (Yomitan or jisho.org), and save the clearest one to ヅオリンゴー's Mining, so it comes back in your SRS reviews.", "min": 15 },
+    { "tool": "ヅオリンゴー", "what": "Lesson 6 vocabulary in the SRS — today's reviews first, then the new words (a little every day beats a big batch now and then). Then Drills → 🔬 Anatomy → 🧱 Build from the end: 5 sentences, noticing that you always start building from the predicate.", "min": 10 },
     { "tool": "Journal", "what": "In the ヅオリンゴー Journal, write 2 sentences about your day with actions chained by て, and tap \"Anatomy of what I wrote\": only the last verb should show up as PREDICATE.", "min": 10 },
     { "tool": "Shadowing", "what": "Tap 🔊 on this lesson's examples and repeat along 3 times. Pause briefly at the comma after each て, as if taking a breath between one action and the next.", "min": 5 },
     { "tool": "Speaking", "what": "Record 30 seconds describing your morning routine with て (おきて、…て、…ます). Listen and check that only the end has ます.", "min": 5 }
@@ -185,5 +185,9 @@
     "I can describe this morning in one sentence, out loud, without getting stuck.",
     "I did the homework, checked it against the answer key and redid what I got wrong.",
     "I did Workbook pages 62–63."
+  ],
+  "credits": [
+    "Explanations adapted in part from Sakubi (public domain, CC0) — sakubi.neocities.org",
+    "Study method informed by the DJT Guide to Japanese — djtguide.neocities.org/guide"
   ]
 }

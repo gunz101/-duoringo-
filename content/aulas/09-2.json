@@ -64,7 +64,7 @@
       "gc": "9-4",
       "title": "Clause + noun",
       "gloss": "the whole description comes BEFORE the noun",
-      "explanation": "In English, the description comes **after** the noun and usually starts with \"that / who / which\": \"the present **that I got**\", \"the person **who is wearing a hat**\". Japanese does the opposite: the whole description comes **before** the noun, and **there is no word for \"that / who / which\"**. The last verb of the description touches the noun directly.\n• もらった + プレゼント → もらった プレゼント (the present I got)\n• ぼうしを かぶっている + 人 → ぼうしを かぶっている 人 (the person wearing a hat)\n• Only **short forms** go inside the description: 見る, 見た, 見ない, 見なかった, 見ている.\n• It is the same slot an adjective or N の uses: 高い レストラン, サンパウロの レストラン, せんしゅう 行った レストラン. Everything that describes sits on the left; the **core** (the thing you are talking about) comes last.\n• The whole block works as **one single noun**: it can take は, を, に or come before です.\n• For clothes and accessories someone has on, use 〜ている: めがねを かけている 人 is \"the person wearing glasses\".",
+      "explanation": "In English, the description comes **after** the noun and usually starts with \"that / who / which\": \"the present **that I got**\", \"the person **who is wearing a hat**\". Japanese does the opposite: the whole description comes **before** the noun, and **there is no word for \"that / who / which\"**. The last verb of the description touches the noun directly.\n• もらった + プレゼント → もらった プレゼント (the present I got)\n• ぼうしを かぶっている + 人 → ぼうしを かぶっている 人 (the person wearing a hat)\n• Only **short forms** go inside the description: 見る, 見た, 見ない, 見なかった, 見ている.\n• Here a verb works **just like an adjective**: it sits in the same slot an adjective or N の uses: 高い レストラン, サンパウロの レストラン, せんしゅう 行った レストラン. Everything that describes sits on the left; the **core** (the thing you are talking about) comes last.\n• The whole block works as **one single noun**: it can take は, を, に or come before です.\n• The core is often a very general noun — 人 (person), もの (thing), ところ (place): きのう 見た もの (the things I saw yesterday), はしを わたった ところ (the spot right after you cross the bridge).\n• For clothes and accessories someone has on, use 〜ている: めがねを かけている 人 is \"the person wearing glasses\".",
       "structure": "[description in short form] [core noun] — the core comes at the END of the block",
       "examples": [
         { "jp": "あかい ぼうしを かぶっている 人は だれですか。", "kana": "あかい ぼうしを かぶっている ひとは だれですか。", "romaji": "Akai bōshi o kabutte iru hito wa dare desu ka.", "en": "Who is the person wearing a red hat?" },
@@ -89,7 +89,7 @@
       "gc": null,
       "title": "Inside the description, the subject takes が",
       "gloss": "が stays inside; は stays outside",
-      "explanation": "When the description has its own subject (who did it, who lives there), that subject takes **が**, not は. は marks what the **whole sentence** is about; inside a block that only describes a noun, the subject goes with が.\n• Whole sentence: 母**は** ケーキを 作りました。 (My mother made a cake.)\n• Turned into a description of ケーキ: 母**が** 作った ケーキ (the cake my mother made). は became が, ケーキ moved to the end and its を disappeared.\n• The big sentence can have its own は, outside the description: 母が 作った ケーキ**は** おいしかったです。 That は marks the whole block: \"as for the cake my mother made…\".\n• When the subject is obvious (you yourself), it can disappear: もらった プレゼント.\n• You will sometimes hear の instead of this が (父の すんでいた 家). That is normal, but for now use が.",
+      "explanation": "When the description has its own subject (who did it, who lives there), that subject takes **が**, not は. は says \"this is what I'm talking about\", and it frames the **whole sentence**. A description is only a label stuck onto one noun — it isn't talking about anything by itself — so inside it the subject goes with が, the plain subject marker.\n• Whole sentence: 母**は** ケーキを 作りました。 (My mother made a cake.)\n• Turned into a description of ケーキ: 母**が** 作った ケーキ (the cake my mother made). は became が, ケーキ moved to the end and its を disappeared.\n• The big sentence can have its own は, outside the description: 母が 作った ケーキ**は** おいしかったです。 That は marks the whole block: \"as for the cake my mother made…\".\n• When the subject is obvious (you yourself), it can disappear: もらった プレゼント.\n• You will sometimes hear の instead of this が (父の すんでいた 家). That is normal — inside a description, の is allowed to mark the subject — but for now use が.",
       "structure": "[subject] が [short verb] [core] は／を／です — が stays inside, は stays outside",
       "examples": [
         { "jp": "これは 父が すんでいた 家です。", "kana": "これは ちちが すんでいた いえです。", "romaji": "Kore wa chichi ga sunde ita ie desu.", "en": "This is the house where my father used to live." },
@@ -113,7 +113,7 @@
       "gc": null,
       "title": "Building and taking apart",
       "gloss": "a step-by-step method for the Japanese order",
-      "explanation": "The grammar is simple; the hard part is the **order**. Always use the same steps.\n**Building (English → Japanese)**, e.g. \"the book the teacher wrote\":\n• 1) Find the **core**, the thing you are talking about: \"book\" (本).\n• 2) Write the description as a complete short sentence: 先生が 本を 書いた.\n• 3) Take the core out of it. **Its particle leaves with it**: 先生が 書いた.\n• 4) Attach the core at the end: 先生が 書いた 本.\n• 5) Use the block as a single noun: 先生が 書いた 本を 読みました。\n**Taking apart (Japanese → English):**\n• 1) Read the ★ predicate at the end of the sentence.\n• 2) Look for a short-form verb **right before a noun**: a description ends there, and that noun is the core.\n• 3) Go back to the left: the blocks with が, を, に, で just before that verb usually belong to the description. A block with は almost always stays outside, because it belongs to the big sentence.\n• 4) Translate starting from the core: core + \"who / that / where / with whom\" + description. English puts the core first, so you read the Japanese block backwards: [こうばんの 前で 本を 読んでいる] 人 = the person [who is reading a book in front of the police box].\n• In 🔬, the verb that closes a description shows up as **DESCRIBES NEXT**: that is your sign that a description ends there.",
+      "explanation": "The grammar is simple; the hard part is the **order**. Always use the same steps.\n**Building (English → Japanese)**, e.g. \"the book the teacher wrote\":\n• 1) Find the **core**, the thing you are talking about: \"book\" (本).\n• 2) Write the description as a complete short sentence: 先生が 本を 書いた.\n• 3) Take the core out of it. **Its particle leaves with it**: 先生が 書いた.\n• 4) Attach the core at the end: 先生が 書いた 本.\n• 5) Use the block as a single noun: 先生が 書いた 本を 読みました。\n**Taking apart (Japanese → English):**\n• 1) Read the ★ predicate at the end of the sentence.\n• 2) Look for a short-form verb **right before a noun**: a description ends there, and that noun is the core.\n• 3) Go back to the left: the blocks with が, を, に, で just before that verb usually belong to the description. A block with は almost always stays outside, because it belongs to the big sentence.\n• 4) Translate starting from the core: core + \"who / that / where / with whom\" + description. English puts the core first, so you read the Japanese block backwards: [こうばんの 前で 本を 読んでいる] 人 = the person [who is reading a book in front of the police box].\n• In 🔬, the verb that closes a description shows up as **DESCRIBES NEXT**: that is your sign that a description ends there.\n• Going further (Sakubi): when descriptions pile up, a sentence can sometimes be bracketed in two ways. 白い ぼうしを かぶっている 男の子の お父さん can be \"the father of [the boy in the white hat]\" or \"[the boy's father], who is wearing the white hat\". Native speakers pick the reading with common sense and context, and so will you: if your brackets give a strange meaning, try another split.",
       "structure": "build: core → short sentence → take out the core and its particle → attach the core at the end · take apart: ★ → short verb + noun → go back to the start of the description",
       "examples": [
         { "jp": "こうばんの 前で 本を 読んでいる 人は 私の 父です。", "kana": "こうばんの まえで ほんを よんでいる ひとは わたしの ちちです。", "romaji": "Kōban no mae de hon o yonde iru hito wa watashi no chichi desu.", "en": "The person reading a book in front of the police box is my father." },
@@ -123,11 +123,12 @@
       "pitfalls": [
         "Don't stop at the first noun: in こうばんの 前で 本を 読んでいる 人は…, the core is not こうばん or 本. It is 人, the noun right after the verb.",
         "Don't repeat the core inside the description: 先生が 本を 書いた 本 ✗ → 先生が 書いた 本 ✓.",
-        "English \"that\", \"where\" and \"with whom\" turn into nothing: きのう 話した 先生 = the teacher I talked with yesterday; 父が すんでいた 家 = the house where my father lived. Don't add と or に to stand in for them: と 話した 先生 ✗ → 話した 先生 ✓."
+        "English \"that\", \"where\" and \"with whom\" turn into nothing: きのう 話した 先生 = the teacher I talked with yesterday; 父が すんでいた 家 = the house where my father lived. Don't add と or に to stand in for them: と 話した 先生 ✗ → 話した 先生 ✓.",
+        "If your short sentence (step 2) ends in だ, that だ can't touch the core: まちは しずかだ → しずかだ まち ✗ → しずかな まち ✓ (with a noun, の: がくせいの 人). In the past, だった is fine: むかし しずかだった まち ✓ (the town that used to be quiet)."
       ],
       "howToStudy": [
         "In your notebook, copy the 3 examples, underline the ★ predicate, circle the core and put brackets around the description: [こうばんの 前で 本を 読んでいる] 人.",
-        "ヅオリンゴー → Drills → 🔬 Anatomy → 🧱 Build from the end: 5 sentences. When a DESCRIBES NEXT block appears, say out loud which noun it describes.",
+        "Sentence mining: in Wagotabi or a graded reader, find one sentence with a description before a noun. Look up the words you don't know (Jisho.org, or the Yomitan pop-up for text in your browser), bracket the description, and save the sentence in ヅオリンゴー → Mining.",
         "ヅオリンゴー → Drills → 🔬 Anatomy → 🔬 Analyze: paste example 2 and find the two verbs marked DESCRIBES NEXT (きている → 男の人; 話した → 先生). あの, 白い and 男の are marked DESCRIBES NEXT too, but they are not verbs."
       ],
       "flag": null
@@ -163,7 +164,8 @@
           { "q": "【ケーキです】【作った】【これは】【ルーカスさんが】", "a": { "jp": "これは ルーカスさんが 作った ケーキです。", "kana": "これは ルーカスさんが つくった ケーキです。", "romaji": "Kore wa Rūkasu-san ga tsukutta kēki desu.", "en": "This is the cake Lucas made." } },
           { "q": "【しゃしんを】【見ました】【アナさんが】【とった】", "a": { "jp": "アナさんが とった しゃしんを 見ました。", "kana": "アナさんが とった しゃしんを みました。", "romaji": "Ana-san ga totta shashin o mimashita.", "en": "I looked at the photos Ana took." } },
           { "q": "【こうさてんを】【ところに】【わたった】【あります】【こうばんが】", "a": { "jp": "こうさてんを わたった ところに こうばんが あります。", "romaji": "Kōsaten o watatta tokoro ni kōban ga arimasu.", "en": "Right after you cross the intersection, there's a police box." } },
-          { "q": "【かぶきは】【おもしろかったです】【せんげつ】【見た】", "a": { "jp": "せんげつ 見た かぶきは おもしろかったです。", "kana": "せんげつ みた かぶきは おもしろかったです。", "romaji": "Sengetsu mita kabuki wa omoshirokatta desu.", "en": "The kabuki I saw last month was interesting." }, "note": "せんげつ stays inside the description: last month is when I SAW it." }
+          { "q": "【かぶきは】【おもしろかったです】【せんげつ】【見た】", "a": { "jp": "せんげつ 見た かぶきは おもしろかったです。", "kana": "せんげつ みた かぶきは おもしろかったです。", "romaji": "Sengetsu mita kabuki wa omoshirokatta desu.", "en": "The kabuki I saw last month was interesting." }, "note": "せんげつ stays inside the description: last month is when I SAW it." },
+          { "q": "【まちです】【しずかだった】【ここは】【むかし】", "a": { "jp": "ここは むかし しずかだった まちです。", "romaji": "Koko wa mukashi shizuka datta machi desu.", "en": "This is a town that used to be quiet." }, "note": "むかし belongs to the description (when was it quiet?). Past だった can touch the noun; in the present it would be しずかな まち, never しずかだ まち." }
         ]
       },
       {
@@ -192,9 +194,9 @@
   },
   "practice": [
     { "tool": "Wagotabi", "what": "Play normally and hunt the dialogues for a short-form verb right before a noun (〜た 人, 〜ている もの…). Copy 2 into your notebook, bracket the description and translate. Then log the session in Immersion → Games and paste one of those lines into Anatomy.", "min": 15 },
-    { "tool": "ヅオリンゴー", "what": "Drills → 🔬 Anatomy → 🧱 Build from the end: 5 sentences. At each DESCRIBES NEXT block, say out loud which noun is the core.", "min": 10 },
-    { "tool": "ヅオリンゴー", "what": "Journal: write your homework h4 sentences and open \"Anatomy of what I wrote\". The verb before each described noun should show up as DESCRIBES NEXT; if it doesn't, check the order.", "min": 10 },
-    { "tool": "ヅオリンゴー", "what": "Lesson 9 vocabulary in the SRS (the 🌊 All deck gathers every review due today).", "min": 5 },
+    { "tool": "ヅオリンゴー", "what": "Your reviews first (🌊 All gathers every review due today, Lesson 9 words included). Then Drills → 🔬 Anatomy → 🧱 Build from the end: 5 sentences. At each DESCRIBES NEXT block, say out loud which noun is the core.", "min": 10 },
+    { "tool": "ヅオリンゴー", "what": "Journal: write your homework h4 sentences and open \"Anatomy of what I wrote\". The verb before each described noun should show up as DESCRIBES NEXT; if it doesn't, check the order.", "min": 5 },
+    { "tool": "Reading", "what": "Resources tab → Tadoku's free graded readers: read one level-0 or level-1 story and hunt for 3 descriptions before a noun (a short-form verb right before a noun). Bracket them in your notebook. Don't look up every word: follow the story.", "min": 10 },
     { "tool": "Speaking", "what": "Look at a photo with several people and describe 5 of them out loud: [clothing]を [verb]ている 人が います。 Record it and listen.", "min": 5 }
   ],
   "culture": {
@@ -205,12 +207,16 @@
   },
   "checklist": [
     "I put the whole description BEFORE the noun, with no word for \"that / who\" and no の.",
-    "I use only short forms inside the description (見る, 見た, 見ている, 見なかった), never です／ます.",
+    "I use only short forms inside the description (見る, 見た, 見ている, 見なかった), never です／ます — and never a present だ right before the noun (しずかな まち, but しずかだった まち).",
     "I use が (not は) for the subject inside the description.",
     "I can describe people by their clothes with 〜ている (ぼうしを かぶっている 人) without looking.",
     "I can take apart a long sentence: find the ★ predicate, circle the core and bracket the description.",
     "I can build a block from English following the steps: core → short sentence → take out the core → attach it at the end.",
     "I did the homework, checked it against the answer key and redid what I got wrong.",
     "I did Workbook page 91."
+  ],
+  "credits": [
+    "Explanations adapted in part from Sakubi (public domain, CC0) — sakubi.neocities.org",
+    "Study method informed by the DJT Guide to Japanese — djtguide.neocities.org/guide"
   ]
 }

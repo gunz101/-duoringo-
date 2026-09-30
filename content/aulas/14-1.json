@@ -16,7 +16,7 @@
       { "t": "Warm-up: say aloud the short forms (dictionary, ない, た, なかった) of 5 verbs (lessons 08-1 and 09-1)", "min": 5 },
       { "t": "Vocabulary: tap 🔊 on each word and repeat it twice, grouping the gifts (ゆびわ, さいふ, かばん…)", "min": 10 },
       { "t": "Grammar: the 2 points, each with its examples read aloud, and one 🔬 on point a", "min": 20 },
-      { "t": "Video (block 6), only the parts on ほしい and かもしれない", "min": 10 },
+      { "t": "Block 6: the video or the Sakubi sections, only the parts on ほしい and かもしれない, as a second explanation (read to understand, not to memorize)", "min": 10 },
       { "t": "Notebook homework + checking it against the answer key", "min": 15 },
       { "t": "Checklist (block 10) + write your questions in the lesson notebook", "min": 5 }
     ]
@@ -62,7 +62,7 @@
       "gc": null,
       "title": "ほしい: I want (a thing)",
       "gloss": "wanting an object",
-      "explanation": "ほしい means **\"I want (a thing)\"**. It is not a verb: it is an **い-adjective**, like たかい. So the thing you want is not the object of an action and does not take を. It is marked with **が**: [thing] が ほしいです, literally \"(the thing) is wanted\".\n• **Conjugation**: exactly like an い-adjective. ほしいです (want) · ほしくないです (don't want) · ほしかったです (wanted) · ほしくなかったです (didn't want).\n• **The person who wants** is the topic, with は, and it is usually dropped when it is you: (私は) 新しいパソコンがほしいです。\n• **ほしい × 〜たい**: ほしい is for **things** (nouns); 〜たい (lesson 11-1) is for **actions** (verbs). 車がほしいです = I want a car. 車を買いたいです = I want to buy a car.\n• **Only for yourself** (and, in a question, for the listener). ほしい describes a feeling inside you, and Japanese does not state someone else's feelings as a plain fact. For a third person, use **ほしがっている** (\"is showing that they want\"). ほしがる is an ordinary う-verb, so now the thing takes **を**: マリアさんは犬をほしがっています。 You can also report what they said: 犬がほしいと言っていました (lesson 08-2).\n• With friends, 何がほしいですか is fine. To a teacher or a boss, asking what they want is too direct: avoid it.\n• In the sentence, the block with が is the **SUBJECT** (the thing wanted) and ほしいです is the **PREDICATE**. Read from the end: \"is wanted\" → what? → a new computer → by whom? → me.",
+      "explanation": "ほしい means **\"I want (a thing)\"**. It is not a verb: it is an **い-adjective**, like たかい, and what it really means is **\"wanted\"**. So the thing you want is not the object of an action and does not take を. It is the **subject**, marked with **が**: [thing] が ほしいです, literally \"(the thing) is wanted\". It works just like すき (lesson 05-2): 犬がすきです, 犬がほしいです.\n• **Conjugation**: exactly like an い-adjective. ほしいです (want) · ほしくないです (don't want) · ほしかったです (wanted) · ほしくなかったです (didn't want).\n• **The person who wants** is the topic, with は, and it is usually dropped when it is you: (私は) 新しいパソコンがほしいです。\n• **ほしい × 〜たい**: ほしい is for **things** (nouns); 〜たい (lesson 11-1) is for **actions** (verbs). 車がほしいです = I want a car. 車を買いたいです = I want to buy a car. (〜たい is an い-adjective too, which is why you will also hear 車が買いたいです. With ほしい, standard Japanese uses only が.)\n• **Only for yourself** (and, in a question, for the listener). ほしい describes a feeling inside you, and Japanese does not state someone else's feelings as a plain fact. For a third person, use **ほしがっている** (\"is showing that they want\"). ほしがる is an ordinary う-verb, so now the thing takes **を**: マリアさんは犬をほしがっています。 You can also report what they said: 犬がほしいと言っていました (lesson 08-2).\n• With friends, 何がほしいですか is fine. To a teacher or a boss, asking what they want is too direct: avoid it.\n• In the sentence, the block with が is the **SUBJECT** (the thing wanted) and ほしいです is the **PREDICATE**. Read from the end: \"is wanted\" → what? → a new computer → by whom? → me.\n• **Going further (Sakubi):** ほしい can also follow the て-form of a verb: 〜てほしい = \"I want (someone) to do…\", with that person marked by に: 友だちに来てほしいです (\"I want my friend to come\"). You will study it in lesson 21-2.",
       "structure": "[person] は [thing] が ほしいです。 · third person: [person] は [thing] を ほしがっています。",
       "examples": [
         { "jp": "私は新しいパソコンがほしいです。", "kana": "わたしはあたらしいパソコンがほしいです。", "romaji": "Watashi wa atarashii pasokon ga hoshii desu.", "en": "I want a new computer. [lit. as for me, a new computer is wanted]" },
@@ -73,7 +73,7 @@
         "ほしい is an adjective, so the thing takes が, not を: パソコンをほしいです ✗ → パソコンがほしいです ✓. With ほしがっている it is the other way around: 犬をほしがっています ✓.",
         "For an action, use 〜たい, not ほしい: 日本に行くがほしいです ✗ → 日本に行きたいです ✓.",
         "Don't use ほしい for other people's wants: マリアさんは犬がほしいです ✗ → マリアさんは犬をほしがっています ✓ (or 犬がほしいと言っていました ✓).",
-        "Conjugate it like たかい: ほしいでした ✗ → ほしかったです ✓; ほしいじゃないです ✗ → ほしくないです ✓."
+        "Conjugate it like たかい, never like a verb: ほしいます ✗ → ほしいです ✓; ほしいでした ✗ → ほしかったです ✓; ほしいじゃないです ✗ → ほしくないです ✓."
       ],
       "howToStudy": [
         "Say 5 true sentences out loud: 3 things you want now (〜がほしいです) and 2 things you wanted as a child (子どものとき、〜がほしかったです).",
@@ -87,7 +87,7 @@
       "gc": null,
       "title": "〜かもしれません: maybe, might",
       "gloss": "a guess you are not sure of",
-      "explanation": "かもしれません means **\"maybe / might / may\"**: you think something is possible, but you are **not sure**. It goes at the **end of the sentence**, after the **short form** (lessons 08-1 and 09-1).\n• **Verbs**: 来る → 来るかもしれません (might come); 来ない → 来ないかもしれません (might not come); 来た → 来たかもしれません (might have come).\n• **い-adjectives**: 高いかもしれません; 高かったかもしれません.\n• **Nouns and な-adjectives: no だ**. 学生だ → 学生かもしれません; ひまだ → ひまかもしれません. In the past, だった stays: 学生だったかもしれません.\n• The casual form is **かもしれない**, and in very casual speech just **かも**: 雨かも。\n• **かもしれません × でしょう** (lesson 12-3): でしょう is a fairly confident guess (\"probably\"); かもしれません is weaker (\"maybe\"). 明日は雨でしょう = it will probably rain. 明日は雨かもしれません = it might rain.\n• **もしかしたら** (\"possibly\") often opens the same sentence and shows the doubt from the start: もしかしたら、明日は雪かもしれません。\n• In the sentence, [short form + かもしれません] works as **one block, the PREDICATE**. Everything before it is a normal sentence. Read from the end: \"might not come\" → to what? → today's party → who? → Takeshi.",
+      "explanation": "かもしれません means **\"maybe / might / may\"**: you think something is possible, but you are **not sure**. It goes at the **end of the sentence**, after the **short form** (lessons 08-1 and 09-1).\n• **What it is made of**: the question particle **か** + **も** + **しれません** (\"can't be known\"), roughly \"whether it is so — even that can't be known\". Because it begins with か, it **attaches the way か does**, and that explains the one tricky rule below.\n• **Verbs**: 来る → 来るかもしれません (might come); 来ない → 来ないかもしれません (might not come); 来た → 来たかもしれません (might have come).\n• **い-adjectives**: 高いかもしれません; 高かったかもしれません.\n• **Nouns and な-adjectives: no だ**. In plain speech, か takes the place of a final だ (学生だ → 学生か), and かもしれません does the same: 学生だ → 学生かもしれません; ひまだ → ひまかもしれません. In the past, だった stays: 学生だったかもしれません.\n• The casual form is **かもしれない**, and in very casual speech just **かも**: 雨かも。\n• **かもしれません × でしょう** (lesson 12-3): でしょう is a fairly confident guess (\"probably\"); かもしれません is weaker (\"maybe\"). 明日は雨でしょう = it will probably rain. 明日は雨かもしれません = it might rain.\n• **もしかしたら** (\"possibly\") often opens the same sentence and shows the doubt from the start: もしかしたら、明日は雪かもしれません。\n• **It also softens.** People often add かもしれません to an opinion they are fairly sure of, just so it doesn't sound too blunt: このかばん、ちょっと高いかもしれませんね。 (\"This bag might be a little expensive.\")\n• In the sentence, [short form + かもしれません] works as **one block, the PREDICATE**. Everything before it is a normal sentence. Read from the end: \"might not come\" → to what? → today's party → who? → Takeshi.\n• **Going further (Sakubi):** Sakubi groups かもしれない with other words of **expectation**. The next one you'll meet is はず (lesson 19-2): 来るはずです = \"he should come\" (I have good reasons to expect it). From weakest to strongest: かもしれません (maybe) → でしょう (probably) → はずです (should, by reasoning).",
       "structure": "[short form] かもしれません。 · noun / な-adjective without だ: 学生かもしれません, ひまかもしれません",
       "examples": [
         { "jp": "明日は雪がふるかもしれません。", "kana": "あしたはゆきがふるかもしれません。", "romaji": "Ashita wa yuki ga furu kamoshiremasen.", "en": "It might snow tomorrow.", "noAnat": true },
@@ -95,13 +95,13 @@
         { "jp": "あの人は、アナさんの彼かもしれませんね。", "kana": "あのひとは、アナさんのかれかもしれませんね。", "romaji": "Ano hito wa, Ana-san no kare kamoshiremasen ne.", "en": "That guy might be Ana's boyfriend.", "noAnat": true }
       ],
       "pitfalls": [
-        "No だ after nouns and な-adjectives: 学生だかもしれません ✗ → 学生かもしれません ✓; ひまだかもしれません ✗ → ひまかもしれません ✓.",
+        "No だ after nouns and な-adjectives (think of the か inside it: 学生か, not 学生だか): 学生だかもしれません ✗ → 学生かもしれません ✓; ひまだかもしれません ✗ → ひまかもしれません ✓.",
         "Use the short form, not the ます form: 来ますかもしれません ✗ → 来るかもしれません ✓.",
-        "The past goes in the verb, not at the end: 帰るかもしれませんでした ✗ → 帰ったかもしれません ✓ (\"might have gone home\").",
-        "If you are fairly sure, かもしれません sounds too weak. For \"probably\", use でしょう or 〜と思います (lesson 08-2)."
+        "For \"might have …\", put the past in the verb, not at the end: 帰るかもしれませんでした ✗ → 帰ったかもしれません ✓ (\"might have gone home\"). 帰るかもしれませんでした is rare and doesn't mean that: at most it means \"there was a chance he would go home\".",
+        "For a prediction you are fairly sure of, かもしれません sounds like real doubt. The forecast says rain is almost certain: 明日は雨かもしれません ✗ (too weak) → 明日は雨でしょう ✓ or 明日は雨がふると思います ✓ (lesson 08-2). As a polite softener for an opinion, though, it is fine."
       ],
       "howToStudy": [
-        "Say out loud the かもしれません version of these 5 short forms: ふる, ふらない, 高い, ひまだ, 学生だ. Check that だ disappears in the last two.",
+        "Say out loud the かもしれません version of these 5 short forms: ふる, ふらない, 高い, ひまだ, 学生だ. Check that だ disappears in the last two, just as it does before a plain か (ひまか？).",
         "Read example 2 from the end, out loud, treating 来ないかもしれません as one PREDICATE block: might not come → to what? → today's party → who? → Takeshi. Then add もしかしたら at the start and say it again.",
         "In your notebook, make 3 guesses about tomorrow (the weather, a friend, your study): one with a noun, one with an adjective and one with a verb."
       ],
@@ -164,8 +164,8 @@
     "workbook": []
   },
   "practice": [
-    { "tool": "Wagotabi", "what": "Play in an N4-level area, if you have reached one. Hunt the dialogues for ほしい, ほしがる and かもしれない (or just かも). For each one, say out loud who wants what, or what is only a guess. Log the session in Immersion → Games and paste one ほしい line into 🔬 Anatomy to find the block with が.", "min": 15 },
-    { "tool": "ヅオリンゴー", "what": "Drills → Conjugation: warm up the short forms (dictionary, ない, た, なかった), which かもしれません needs. Then Drills → 🔬 Anatomy → 🏷 Tag: 5 sentences.", "min": 10 },
+    { "tool": "Wagotabi", "what": "Play in an N4-level area, if you have reached one. Hunt the dialogues for ほしい, ほしがる and かもしれない (or just かも). For each one, say out loud who wants what, or what is only a guess. Log the session in Immersion → Games, paste one ほしい line into 🔬 Anatomy to find the block with が, and save that line with ⛏ Mining after looking up every word you didn't know.", "min": 15 },
+    { "tool": "ヅオリンゴー", "what": "Drills → Conjugation: warm up the short forms (dictionary, ない, た, なかった), which かもしれません needs. Then clear your reviews (🌊 All); if a word from block 3 is not in your decks yet, add it with ⛏ Mining inside a short sentence (新しいさいふがほしいです). Kanji through vocabulary: learn 彼, 彼女, 犬 and 雪 as whole words, reading and meaning together, not as loose characters.", "min": 10 },
     { "tool": "ヅオリンゴー · Journal", "what": "Write 5 sentences of your own in the Journal: 3 things you want (or wanted) and 2 guesses with かもしれません. Use \"Anatomy of what I wrote\" on the ほしい sentences and check that the thing you want is the SUBJECT.", "min": 10 },
     { "tool": "Shadowing", "what": "Tap 🔊 on each example and repeat along 3 times. かもしれません has 7 beats of the same length: か・も・し・れ・ま・せ・ん. Don't rush the middle.", "min": 5 },
     { "tool": "Speaking", "what": "Record your birthday text (homework h4) in 45 seconds or less. Listen and check that you said が with ほしい and を with ほしがっています.", "min": 5 }
@@ -182,8 +182,12 @@
     "I choose ほしい for things and 〜たい for actions.",
     "For someone else, I use 〜をほしがっています, not ほしい.",
     "I can make a guess with short form + かもしれません, dropping だ after nouns and な-adjectives.",
-    "I know that かもしれません is a weaker guess than でしょう.",
+    "I know that かもしれません is a weaker guess than でしょう, and that it can also soften an opinion.",
     "I did the homework, checked it against the answer key and redid what I got wrong.",
     "If I have the Genki II Workbook: I did this lesson's exercises on ほしい and かもしれません."
+  ],
+  "credits": [
+    "Explanations adapted in part from Sakubi (public domain, CC0) — sakubi.neocities.org",
+    "Study method informed by the DJT Guide to Japanese — djtguide.neocities.org/guide"
   ]
 }

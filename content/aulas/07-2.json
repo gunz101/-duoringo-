@@ -61,7 +61,7 @@
       "gc": "7-3",
       "title": "N は X が Adj",
       "gloss": "describing someone by a feature: \"has long hair\"",
-      "explanation": "To describe a person, Japanese builds a **two-level** sentence:\n• **N は** = the person you are talking about. It's the TOPIC: \"as for Maria…\".\n• **X が** = the part or feature of that person (hair, eyes, height, head). It's the SUBJECT of the adjective.\n• **Adjective + です** = what is said about that part. It's the PREDICATE.\nマリアさんは かみが ながいです。 is literally \"As for Maria, the hair is long\". English says that Maria **has** long hair, but Japanese uses no verb for \"have\" here: the adjective does all the work.\n• Read from the predicate: ながいです (is long) ← かみが (what is? the hair) ← マリアさんは (whose? Maria's).\n• Set expressions of this type: せが 高い (is tall), せが ひくい (is short), あたまが いい (is smart), めが 大きい (has big eyes).\n• English \"short\" splits in two: a short person is せが ひくい; short hair is かみが みじかい.\n• The negative and the past are the adjective's own (lessons 05-1 and 05-2): せが 高くないです, かみが ながかったです. Remember that いい becomes よ: あたまが よくないです.\n• Features that are the result of a change use the ている of lesson 07-1, with を for the object when there is one: めがねを かけています, Tシャツを きています, やせています.",
+      "explanation": "To describe a person, Japanese builds a **two-level** sentence. Each particle is a label stuck on the **end** of its block, telling you that block's job:\n• **N は** = the person you are talking about. It's the TOPIC: \"as for Maria…\". は just says \"this is what I'm talking about\", and it frames the whole sentence.\n• **X が** = the part or feature of that person (hair, eyes, height, head). が marks the SUBJECT of the adjective: the thing that is long, big or tall.\n• **Adjective + です** = what is said about that part. It's the PREDICATE.\nマリアさんは かみが ながいです。 is literally \"As for Maria, the hair is long\". English says that Maria **has** long hair, but Japanese uses no verb for \"have\" here: the adjective does all the work.\n• Read from the predicate: ながいです (is long) ← かみが (what is? the hair) ← マリアさんは (whose? Maria's).\n• Set expressions of this type: せが 高い (is tall), せが ひくい (is short), あたまが いい (is smart), めが 大きい (has big eyes).\n• English \"short\" splits in two: a short person is せが ひくい; short hair is かみが みじかい.\n• The negative and the past are the adjective's own (lessons 05-1 and 05-2): せが 高くないです, かみが ながかったです. Remember that いい becomes よ: あたまが よくないです.\n• Features that are the result of a change use the ている of lesson 07-1, with を for the object when there is one: めがねを かけています, Tシャツを きています, やせています.\n• Going further (Sakubi): besides marking the subject, が can put a spotlight on it. たなかさんが せが 高いです, with が on the person, answers \"who is tall?\": it's Tanaka, not someone else. More on this in lesson 08-3.",
       "structure": "[person] は [feature] が [adjective] です。",
       "examples": [
         { "jp": "ルーカスさんは せが 高いですね。", "kana": "ルーカスさんは せが たかいですね。", "romaji": "Rūkasu-san wa se ga takai desu ne.", "en": "Lucas is tall, isn't he? [lit. as for Lucas, the height is high]" },
@@ -69,10 +69,10 @@
         { "jp": "ペドロさんは かみが みじかいです。めがねを かけています。", "kana": "ペドロさんは かみが みじかいです。めがねを かけています。", "romaji": "Pedoro-san wa kami ga mijikai desu. Megane o kakete imasu.", "en": "Pedro has short hair. He wears glasses." }
       ],
       "pitfalls": [
-        "\"He's tall\" = せが 高いです ✓ × 高いです on its own. For a person that sounds odd, because 高い alone means \"expensive\", or \"tall\" for buildings and mountains.",
-        "Don't translate \"have\": かみが ながいです ✓ × ながい かみが あります. The adjective already says it all.",
-        "The person takes は and the feature takes が: マリアさんは かみが ながいです ✓ × マリアさんが かみは ながいです (the levels are swapped and the sentence sounds odd). マリアさんの かみは ながいです is also correct, but then the topic is the hair, not Maria.",
-        "あたまが いい uses よ in the negative and the past: あたまが よくないです ✓ × あたまが いくないです."
+        "For a person's height, say せが: ルーカスさんは 高いです ✗ → ルーカスさんは せが 高いです ✓. 高い on its own sounds odd for a person: it means \"expensive\", or \"tall\" for buildings and mountains.",
+        "Don't translate \"have\": ながい かみが あります ✗ → かみが ながいです ✓. The adjective already says it all.",
+        "The person takes は and the feature takes が: マリアさんが かみは ながいです ✗ → マリアさんは かみが ながいです ✓ (the levels were swapped). マリアさんの かみは ながいです is also correct, but then the topic is the hair, not Maria.",
+        "あたまが いい uses よ in the negative and the past: あたまが いくないです ✗ → あたまが よくないです ✓ (past: あたまが よかったです)."
       ],
       "howToStudy": [
         "Tap 🔬 on the Lucas example: the block with は is the TOPIC and the block with が is the SUBJECT of the adjective. Then build it from the end, aloud: 高いです → せが 高いです → ルーカスさんは せが 高いです.",
@@ -86,7 +86,7 @@
       "gc": "7-4",
       "title": "〜くて / 〜で (joining descriptions)",
       "gloss": "the \"and\" between adjectives and nouns",
-      "explanation": "To say two things about someone in one sentence (\"is kind **and** fun\"), the **first** trait goes into the て-form, and only the **last** one takes です. It's the same idea as the て-form of verbs (lesson 06-2), now with adjectives and nouns.\n• い-adjective: drop the い and add **くて**: やさしい → やさしくて, ながい → ながくて. The usual exception: いい → **よくて**, and so かっこいい → かっこよくて.\n• な-adjective: add **で**: しずか → しずかで, きれい → きれいで, しんせつ → しんせつで.\n• Noun: add **で**: がくせい → がくせいで, 日本人 → 日本人で.\n• **Tense and politeness stay at the end.** \"Was kind and fun\" = やさしくて、おもしろかったです. The やさしくて doesn't change.\n• It also works with the pattern from point a: かみが ながくて、めが 大きいです (has long hair and big eyes).\n• Read from the predicate: the block with くて / で doesn't close the sentence yet. Keep going until the です at the end.\n• In general, くて / で joins traits that go together, with no contrast (two neutral ones, two good ones or two bad ones). For a contrast (\"cheap, **but** bad\"), Japanese prefers が, which comes in lesson 08-3.\n• Unlike English \"and\", くて / で don't list things: \"a cat and a dog\" is ねこと いぬ (lesson 04-3). くて / で join descriptions, one after the other.",
+      "explanation": "To say two things about someone in one sentence (\"is kind **and** fun\"), the **first** trait goes into the て-form, and only the **last** one takes です. It's the same idea as the て-form of verbs (lesson 06-2), now with adjectives and nouns.\n• Why two different endings? A useful way to see it (from Sakubi): **い-adjectives act like verbs**. They carry their own endings (たかくない, たかかった), and the です after them only adds politeness, so they make their own joining form: **くて**. **な-adjectives and nouns act like nouns**: they lean on です, and the joining form of です is **で**.\n• い-adjective: drop the い and add **くて**: やさしい → やさしくて, ながい → ながくて. The usual exception: いい → **よくて**, and so かっこいい → かっこよくて.\n• な-adjective: add **で**, with no な: しずか → しずかで, きれい → きれいで, しんせつ → しんせつで. な only appears right before a noun (しずかな へや).\n• Noun: add **で**: がくせい → がくせいで, 日本人 → 日本人で. This で is not new: it's the one hiding in じゃないです. じゃ is short for では, so がくせいじゃないです is literally がくせいでは ないです.\n• **Tense and politeness stay at the end.** \"Was kind and fun\" = やさしくて、おもしろかったです. The やさしくて doesn't change.\n• It also works with the pattern from point a: かみが ながくて、めが 大きいです (has long hair and big eyes).\n• Read from the predicate: the block with くて / で doesn't close the sentence yet. Keep going until the です at the end.\n• In general, くて / で joins traits that go together, with no contrast (two neutral ones, two good ones or two bad ones). For a contrast (\"cheap, **but** bad\"), Japanese prefers が, which comes in lesson 08-3.\n• Unlike English \"and\", くて / で don't list things: \"a cat and a dog\" is ねこと いぬ (lesson 04-3). くて / で join descriptions, one after the other.\n• Going further (Sakubi): the first part sets the scene for the second, so くて / で can also hint at a reason: むずかしくて、わかりません (\"it's difficult, and so I don't understand\"). You'll meet this use more and more in real Japanese.",
       "structure": "[い-adj − い] くて · [な-adj] で · [noun] で + … [last trait] です。",
       "examples": [
         { "jp": "父は やさしくて、おもしろいです。", "kana": "ちちは やさしくて、おもしろいです。", "romaji": "Chichi wa yasashikute, omoshiroi desu.", "en": "My father is kind and fun." },
@@ -94,14 +94,14 @@
         { "jp": "たなかさんは 日本人で、高校の 先生です。", "kana": "たなかさんは にほんじんで、こうこうの せんせいです。", "romaji": "Tanaka-san wa nihonjin de, kōkō no sensei desu.", "en": "Tanaka is Japanese and a high school teacher." }
       ],
       "pitfalls": [
-        "いい becomes よくて: あたまが よくて ✓ × あたまが いくて. かっこいい too: かっこよくて ✓ × かっこいくて.",
-        "きれい is a な-adjective, despite the い at the end: きれいで ✓ × きれくて. The same goes for ゆうめい (famous) and きらい (disliked).",
-        "Don't put です in the middle: やさしくて、おもしろいです ✓ × やさしいですくて. Only the last trait takes です, and the past also goes only at the end: 〜くて、〜かったです.",
+        "い-adjectives take くて, never で: やさしいで、おもしろいです ✗ → やさしくて、おもしろいです ✓. And いい becomes よくて: あたまが いくて ✗ → あたまが よくて ✓ (かっこいくて ✗ → かっこよくて ✓).",
+        "きれい is a な-adjective, despite the い at the end: きれくて ✗ → きれいで ✓. The same goes for ゆうめい (famous) and きらい (disliked). And drop the な before で: しずかなで ✗ → しずかで ✓.",
+        "Don't put です in the middle: やさしいですくて ✗ → やさしくて、おもしろいです ✓. Only the last trait takes です, and the past also goes only at the end: 〜くて、〜かったです.",
         "This で is not the place で from lesson 03-2. がくせいで、〜 = \"is a student and…\"; としょかんで べんきょうします = \"studies at the library\". If the で is followed by another trait of the same person (and the sentence closes with です), it's the \"and\". If it's followed by an action, the で says where or with what the action is done: としょかんで (place), ラジオで / バスで (means)."
       ],
       "howToStudy": [
-        "Do the \"ladder\" aloud, 3 times: たかい → たかくて, いい → よくて, しずか → しずかで, きれい → きれいで, がくせい → がくせいで, 元気 → 元気で.",
-        "Tap 🔬 on the Suzuki-sensei example: only あたまが いいです is the PREDICATE. 元気で shows up as LINK (AND…): a trait left hanging that doesn't close the sentence yet.",
+        "Do the \"ladder\" aloud, 3 times, in two piles. The verb-like い-adjectives: たかい → たかくて, いい → よくて. The noun-like words: しずか → しずかで, きれい → きれいで, がくせい → がくせいで, 元気 → 元気で.",
+        "Tap 🔬 on the Suzuki-sensei example: only いいです is the PREDICATE, and あたまが is its SUBJECT, as in point a. 元気で shows up as …AND THEN: a trait left hanging that doesn't close the sentence yet.",
         "Describe 3 people in your life with 2 traits each, in a single sentence (〜くて / 〜で 〜です). Write them in your notebook and read them aloud."
       ],
       "flag": null
@@ -168,8 +168,8 @@
     ]
   },
   "practice": [
-    { "tool": "Wagotabi", "what": "Play normally and hunt for descriptions of characters or places: sentences with 〜が + adjective or with 〜くて / 〜で. Copy 2 into your notebook and mark which block is the TOPIC (は) and which is the SUBJECT of the adjective (が).", "min": 15 },
-    { "tool": "ヅオリンゴー", "what": "Lesson 7 vocabulary in the SRS. Then Practice L7 (conjugation, listening and workbook-style formats).", "min": 10 },
+    { "tool": "Wagotabi", "what": "Play normally and hunt for descriptions of characters or places: sentences with 〜が + adjective or with 〜くて / 〜で. Copy 2 into your notebook and mark which block is the TOPIC (は) and which is the SUBJECT of the adjective (が). If one has a word you don't know, look it up in a dictionary and save that line in ヅオリンゴー → Mining.", "min": 15 },
+    { "tool": "ヅオリンゴー", "what": "Lesson 7 vocabulary in the SRS. Learn 高い, 小さい and 高校 as whole words: that's how the Lesson 7 kanji inside them (高, 小, 校) stick. Then Practice L7 (conjugation, listening and workbook-style formats).", "min": 10 },
     { "tool": "ヅオリンゴー", "what": "Journal: write 3 sentences describing someone and open \"Anatomy of what I wrote\" to check that は and が landed in the right blocks.", "min": 10 },
     { "tool": "Shadowing", "what": "Tap 🔊 on each example in this lesson and repeat along 3 times. In the sentences with 〜くて / 〜で, pause briefly at the comma without dropping your voice: the sentence isn't over yet.", "min": 5 },
     { "tool": "Speaking", "what": "Record 30 seconds describing a family photo (yours or one from a magazine), person by person.", "min": 5 }
@@ -183,11 +183,15 @@
   "checklist": [
     "I can describe someone's appearance with N は X が Adj, without looking.",
     "I can say \"is tall / short\" with せが 高い / せが ひくい and \"is smart\" with あたまが いい, also in the negative (あたまが よくないです).",
-    "I can make the て-form of any adjective or noun: くて (い-adjectives), で (な-adjectives and nouns), いい → よくて.",
+    "I can make the て-form of any adjective or noun: くて (い-adjectives), で (な-adjectives with no な, and nouns), いい → よくて.",
     "I can join two traits in one sentence and keep the tense only at the end (〜くて、〜かったです).",
     "I know that めがね takes を (めがねを かけています), not が.",
     "I can answer a compliment with いえいえ、まだまだです.",
     "I did the homework, checked it against the answer key and redid what I got wrong.",
     "I did Workbook pages 72–73."
+  ],
+  "credits": [
+    "Explanations adapted in part from Sakubi (public domain, CC0) — sakubi.neocities.org",
+    "Study method informed by the DJT Guide to Japanese — djtguide.neocities.org/guide"
   ]
 }

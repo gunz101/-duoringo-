@@ -16,7 +16,7 @@
       { "t": "Warm-up: pick up 3 objects at home and say the name of each one in Japanese", "min": 5 },
       { "t": "Vocabulary: tap 🔊 on each word and repeat it twice", "min": 10 },
       { "t": "Grammar: the 4 points, pointing at real objects while you read the examples, and one 🔬 per point", "min": 25 },
-      { "t": "Lesson 2 video (block 6), pausing on the examples", "min": 10 },
+      { "t": "Block 6: the Lesson 2 video or the Sakubi sections, as a second explanation (read to understand, not to memorize)", "min": 10 },
       { "t": "Notebook homework + checking it against the answer key", "min": 15 },
       { "t": "Checklist (block 10) + write your questions in the lesson notebook", "min": 5 }
     ]
@@ -61,7 +61,7 @@
       "gc": "2-1",
       "title": "これ・それ・あれ・どれ",
       "gloss": "this, that, that over there, which one",
-      "explanation": "These four words **point at things** and stand **on their own**, in place of a noun. So they fill the same slots as any noun: they can be the TOPIC (これは…) or the PREDICATE (…あれです).\n• **これ**: near **the speaker** (in my hand, right in front of me).\n• **それ**: near **the listener** (in the other person's hand, next to them).\n• **あれ**: **far from both** (across the street, at the back of the room).\n• **どれ**: \"which one?\", to choose among three or more things. (For choosing between two, there is another word, in lesson 10-1.)\nJapanese decides by **distance from the people talking**. English has only \"this\" and \"that\", so English \"that\" is split in two: それ if the thing is near the listener, あれ if it is far from both of you.",
+      "explanation": "These four words **point at things** and stand **on their own**, in place of a noun. So they fill the same slots as any noun: they can be the TOPIC (これは…) or the PREDICATE (…あれです).\n• **これ**: near **the speaker** (in my hand, right in front of me).\n• **それ**: near **the listener** (in the other person's hand, next to them).\n• **あれ**: **far from both** (across the street, at the back of the room).\n• **どれ**: \"which one?\", to choose among three or more things. (For choosing between two, there is another word, in lesson 10-1.)\nJapanese decides by **distance from the people talking**. English has only \"this\" and \"that\", so English \"that\" is split in two: それ if the thing is near the listener, あれ if it is far from both of you.\n• The whole family is very regular: **こ-** = near me, **そ-** = near you, **あ-** = far from both, **ど-** = which? The same four beginnings return in この/その/あの/どの (point 4b) and ここ/そこ/あそこ/どこ (point 4c). You already know one more member: **そう** (\"so, like that\"), as in はい、そうです — literally \"yes, it is so\".\n• Going further (Sakubi): distance is only the starting point. そ-words also point at something the other person has just mentioned (それは なんですか = \"what's that thing you mentioned?\"), and あ-words at something you both know already (あの きっさてん = \"that coffee shop — you know the one\").",
       "structure": "これ / それ / あれ は [N] です。 · [N] は どれですか。",
       "examples": [
         { "jp": "これは わたしの さいふです。", "kana": "これは わたしの さいふです。", "romaji": "Kore wa watashi no saifu desu.", "en": "This is my wallet." },
@@ -72,7 +72,7 @@
         "これ doesn't go before a noun: \"this book\" is この ほん (point 4b). これ ほん ✗ → この ほん ✓.",
         "A question word doesn't take は: どれは ✗. The thing you're looking for takes は, and どれ goes where the answer goes: 〜は どれですか ✓.",
         "The point of view flips in the answer. If someone points at what's in YOUR hand and asks それは なんですか, answer これは… ✓, not それは… ✗.",
-        "Don't translate English \"that\" with それ every time. Think about where the thing is: with me → これ; with you → それ; far from both of us → あれ."
+        "Don't translate English \"that\" with それ every time. Think about where the thing is: with me → これ; with you → それ; far from both of us → あれ. Pointing at a building across the street: それは なんですか ✗ → あれは なんですか ✓."
       ],
       "howToStudy": [
         "Put one object in your hand, another on a chair (playing the listener) and a third across the room. Point at each one and say out loud これは…, それは…, あれは….",
@@ -121,7 +121,8 @@
       "pitfalls": [
         "ここ is a place and これ is a thing: ここは なんですか asks \"what is this place?\"; これは なんですか asks \"what is this?\".",
         "どこ is never the topic: どこは ✗. The place you're looking for takes は, and どこ goes at the end: きっさてんは どこですか ✓.",
-        "English \"there\" is two words in Japanese: そこ (near the listener) and あそこ (far from both of you). Pointing at a building across the street: そこです ✗ → あそこです ✓."
+        "English \"there\" is two words in Japanese: そこ (near the listener) and あそこ (far from both of you). Pointing at a building across the street: そこです ✗ → あそこです ✓.",
+        "Here the あ- word breaks the pattern of ここ and そこ: あこ ✗ → あそこ ✓ (あれ and あの are regular)."
       ],
       "howToStudy": [
         "Imagine you're on campus and act out the dialogue out loud, changing the place 4 times: としょかんは どこですか。— あそこです。 (ゆうびんきょく, きっさてん…)",
@@ -215,8 +216,8 @@
     ]
   },
   "practice": [
-    { "tool": "Wagotabi", "what": "Play normally and hunt for これ, それ, あれ, この, その, あの, ここ, そこ, あそこ and どこ in the dialogues. Each time, pause and ask yourself: who is the thing or place near? Copy 2 of those lines into your notebook.", "min": 15 },
-    { "tool": "ヅオリンゴー", "what": "Lesson 2 vocabulary in the SRS. Then Drills → 🔬 Anatomy → 🧱 Build from the end: 5 sentences.", "min": 10 },
+    { "tool": "Wagotabi", "what": "Play normally and hunt for これ, それ, あれ, この, その, あの, ここ, そこ, あそこ and どこ in the dialogues. Each time, pause and ask yourself: who is the thing or place near? Copy 2 of those lines into your notebook. Then log the session in the app (Immersion → Games) and paste one of the lines into Anatomy.", "min": 15 },
+    { "tool": "ヅオリンゴー", "what": "Lesson 2 vocabulary in the SRS — this lesson has many new nouns, so let the reviews do the memorizing instead of cramming a list (clear today's reviews first, then the new words). Then Drills → 🔬 Anatomy → 🧱 Build from the end: 5 sentences.", "min": 10 },
     { "tool": "ヅオリンゴー", "what": "Practice L2: do the comprehension part, paying attention to who is near what.", "min": 10 },
     { "tool": "Shadowing", "what": "Tap 🔊 on each example in this lesson and repeat along 3 times, pointing at a real object as you speak.", "min": 5 },
     { "tool": "Speaking", "what": "House tour: walk through the rooms for 3 minutes saying ここは…, これは…, あれは… out loud, plus one question with だれの. Record it and listen back.", "min": 5 }
@@ -235,5 +236,9 @@
     "I know that question words (どれ, どこ) don't take は.",
     "I did the homework, checked it against the answer key and redid what I got wrong.",
     "I did Workbook pages 26–28."
+  ],
+  "credits": [
+    "Explanations adapted in part from Sakubi (public domain, CC0) — sakubi.neocities.org",
+    "Study method informed by the DJT Guide to Japanese — djtguide.neocities.org/guide"
   ]
 }

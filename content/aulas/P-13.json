@@ -1,0 +1,266 @@
+{
+  "id": "P-13",
+  "unit": "P-N3",
+  "genki": null,
+  "title": "Text connectors",
+  "titleJp": "しかし・だから・つまり・ところで・それに",
+  "canDo": [
+    "I can link two sentences with the right \"but\" for the situation: でも in conversation, けれども in polite speech, しかし in writing.",
+    "I can give a result with それで, a conclusion or decision with だから and a formal cause with そのため — and I know which one can come before a request or an invitation.",
+    "I can restate an idea with つまり and tell it apart from a cause-and-result link.",
+    "I can change the topic with ところで, and I never confuse it with ところが (\"but, unexpectedly\").",
+    "I can add another point with それに (speech) or さらに (writing), and tell it apart from それから (\"and then\")."
+  ],
+  "duration": {
+    "total": "70–90 min",
+    "blocks": [
+      { "t": "Warm-up: say aloud 3 pairs of sentences joined by でも and 3 joined by だから (lessons 04-3 and 06-4), about your own day", "min": 5 },
+      { "t": "Vocabulary: tap 🔊 on each connector and repeat it twice with a comma-pause after it (しかし、…). Learn the kanji through the words: 延期 = 延 (stretch) + 期 (period) → \"postponement\"; 家賃 = 家 (house) + 賃 (fee) → \"rent\". Save the new words with Mining (⛏)", "min": 10 },
+      { "t": "Grammar: points a (\"but\") and b (\"so\"), with the examples read aloud and one 🔬 each. If you split the lesson into two sessions, stop here.", "min": 20 },
+      { "t": "Grammar: points c (つまり), d (ところで × ところが) and e (それに · さらに)", "min": 20 },
+      { "t": "Video and reading from block 6, pausing on the examples", "min": 10 },
+      { "t": "Notebook homework + checking it against the answer key", "min": 15 },
+      { "t": "Checklist (block 10) + write your questions in the lesson notebook", "min": 5 }
+    ]
+  },
+  "prereqs": {
+    "aulas": ["P-12"],
+    "skills": [
+      "でも and だから between two sentences (lessons 04-3 and 06-4), and が／けど \"but\" inside one sentence (lesson 08-3).",
+      "から and ので (lessons 06-4 and 12-2): the in-sentence partners of だから and それで.",
+      "〜し (lesson 13-2), which often teams up with それに.",
+      "〜わけだ (lesson P-07), which often ends a つまり sentence; 〜ことになる (lesson P-02) and 〜ようにする (lesson P-01), which appear in the examples."
+    ],
+    "vocab": [
+      { "jp": "しかし", "kana": "しかし", "romaji": "shikashi", "en": "however (formal, written)" },
+      { "jp": "でも", "kana": "でも", "romaji": "demo", "en": "but (conversation)" },
+      { "jp": "けれども", "kana": "けれども", "romaji": "keredomo", "en": "but, however (polite; softer than しかし)" },
+      { "jp": "ところが", "kana": "ところが", "romaji": "tokoroga", "en": "but (unexpectedly), however" },
+      { "jp": "それで", "kana": "それで", "romaji": "sorede", "en": "and so, as a result; (as a question) and then?" },
+      { "jp": "だから", "kana": "だから", "romaji": "dakara", "en": "so, that's why" },
+      { "jp": "そのため", "kana": "そのため", "romaji": "sono tame", "en": "for that reason, therefore (formal)" },
+      { "jp": "つまり", "kana": "つまり", "romaji": "tsumari", "en": "in other words, that means" },
+      { "jp": "要するに", "kana": "ようするに", "romaji": "yō suru ni", "en": "in short, to sum up" },
+      { "jp": "ところで", "kana": "ところで", "romaji": "tokorode", "en": "by the way" },
+      { "jp": "そういえば", "kana": "そういえば", "romaji": "sō ieba", "en": "that reminds me; speaking of which" },
+      { "jp": "さて", "kana": "さて", "romaji": "sate", "en": "well now, moving on (to the next item)" },
+      { "jp": "それに", "kana": "それに", "romaji": "sore ni", "en": "besides, what's more" },
+      { "jp": "さらに", "kana": "さらに", "romaji": "sara ni", "en": "furthermore (formal); even more" },
+      { "jp": "しかも", "kana": "しかも", "romaji": "shikamo", "en": "and on top of that" },
+      { "jp": "それから", "kana": "それから", "romaji": "sorekara", "en": "and then, after that; and also" },
+      { "jp": "値段", "kana": "ねだん", "romaji": "nedan", "en": "price" },
+      { "jp": "中止", "kana": "ちゅうし", "romaji": "chūshi", "en": "cancellation, calling off (中止になる = to be called off)" },
+      { "jp": "延期", "kana": "えんき", "romaji": "enki", "en": "postponement" },
+      { "jp": "準備", "kana": "じゅんび", "romaji": "junbi", "en": "preparation" },
+      { "jp": "家賃", "kana": "やちん", "romaji": "yachin", "en": "rent" },
+      { "jp": "地域", "kana": "ちいき", "romaji": "chiiki", "en": "area, region" },
+      { "jp": "増える", "kana": "ふえる", "romaji": "fueru", "en": "to increase (by itself)" },
+      { "jp": "増やす", "kana": "ふやす", "romaji": "fuyasu", "en": "to increase (something)" },
+      { "jp": "無料", "kana": "むりょう", "romaji": "muryō", "en": "free of charge" }
+    ]
+  },
+  "grammar": [
+    {
+      "id": "P-13-a",
+      "gc": null,
+      "title": "しかし · でも · けれども (× が／けど)",
+      "gloss": "\"but\" at the start of a sentence — three registers",
+      "explanation": "A **connector** is a word at the start of a sentence that says **how it relates to the one before**. It is a block of its own — in 🔬 it usually shows up as CONNECTOR — and it works as a **signpost**: before you read the next sentence, the connector already tells you what that sentence will do. The \"but\" connectors say: **the next sentence goes against the one before.**\n• **でも** — conversation, polite or casual: 日本語は難しいです。でも、楽しいです。 The most common spoken \"but\".\n• **けれども** (also けれど, and casual だけど) — a little softer than しかし: fine in polite speech and in writing. Sakubi calls けど the most informal member of the family that starts with けれども.\n• **しかし** — formal: essays, reports, news, speeches. In conversation it can sound stiff. Older speakers also use it as a sigh: しかし、暑いね (\"boy, it's hot\").\n• Others you will meet: **ですが** (polite, common in speech and e-mail), **だが** (written, blunt), **それでも** (\"even so\"), and **ところが** (\"but, unexpectedly\" — point d).\n\n**Connector × particle.** The particles **が** and **けど** (lesson 08-3) also mean \"but\", but they sit at the **end of the first clause**, inside one sentence: 高いが、おいしい。 The connectors **start the second sentence**: 高い。しかし、おいしい。 As Sakubi puts it, が attaches to what comes **before** it — unlike English \"but\", which goes with what comes after. In 🔬, 高いが shows up as …BUT (part of a clause), while しかし shows up as CONNECTOR (a block of its own).\n• Sakubi also notes that が／けど often contrast nothing at all: すみませんが、… just leads in softly. A sentence-initial しかし／でも always marks a real turn.\n• **A reading warning:** not every でも is \"but\". After a noun, でも is a particle: お茶でも飲みませんか = \"how about some tea or something?\" The connector でも stands at the start of a sentence, usually with a comma after it. The 🔬 engine sometimes misreads a sentence-initial でも as で + も (ALSO); read it as one word.",
+      "structure": "[sentence 1]。 しかし／でも／けれども、[sentence 2, the turn]。 · (in one sentence) [clause 1] が／けど、[clause 2]。",
+      "examples": [
+        { "jp": "この店の料理はとてもおいしい。しかし、値段が少し高い。", "kana": "このみせのりょうりはとてもおいしい。しかし、ねだんがすこしたかい。", "romaji": "Kono mise no ryōri wa totemo oishii. Shikashi, nedan ga sukoshi takai.", "en": "The food at this restaurant is very good. However, it's a little expensive. (written style, as in a review)" },
+        { "jp": "日本語は難しいです。でも、毎日楽しく勉強しています。", "kana": "にほんごはむずかしいです。でも、まいにちたのしくべんきょうしています。", "romaji": "Nihongo wa muzukashii desu. Demo, mainichi tanoshiku benkyō shite imasu.", "en": "Japanese is hard. But I enjoy studying it every day. (conversation)", "noAnat": true },
+        { "jp": "何度も説明しました。けれども、わかってもらえませんでした。", "kana": "なんどもせつめいしました。けれども、わかってもらえませんでした。", "romaji": "Nando mo setsumei shimashita. Keredomo, wakatte moraemasen deshita.", "en": "I explained it many times. But I couldn't get them to understand. (polite speech)", "noAnat": true }
+      ],
+      "pitfalls": [
+        "でも in formal writing: (in a report) でも、この方法には問題がある ✗ → しかし、この方法には問題がある ✓.",
+        "しかし doesn't join two clauses inside one sentence: 高いしかし、おいしい ✗ → 高いが、おいしい ✓ / 高い。しかし、おいしい ✓.",
+        "Reading every でも as \"but\": お茶でも飲みませんか = \"But shall we drink tea?\" ✗ → \"How about some tea or something?\" ✓ (after a noun, でも is a particle).",
+        "Starting a written sentence with the particle が: (in an essay) が、問題もある ✗ → しかし、問題もある ✓."
+      ],
+      "howToStudy": [
+        "Say the same pair 3 times, changing only the register: 日本語は難しい。でも、楽しい (to a friend) → 日本語は難しいです。けれども、楽しいです (polite) → 日本語は難しい。しかし、楽しい (an essay).",
+        "🔬 Anatomy → Analyze: paste example 1. The first sentence ends in the PREDICATE おいしい; しかし shows up as CONNECTOR, a block of its own; then 値段が (SUBJECT), 少し (HOW) and 高い (PREDICATE). Then paste 高いが、おいしい。 — here the \"but\" lives inside the clause 高いが, shown as …BUT.",
+        "When you read (NHK Easy, manga, Wagotabi), circle every sentence-initial \"but\" and name its register before you read on: しかし → writing, けれども → polite, でも → speech."
+      ],
+      "flag": null
+    },
+    {
+      "id": "P-13-b",
+      "gc": null,
+      "title": "それで · だから · そのため (× から／ので)",
+      "gloss": "\"so\" — a result, a conclusion, a formal cause",
+      "explanation": "All three say: **the next sentence follows from the one before.** They differ in **what kind of sentence can follow**, and in register.\n• **だから** (polite: **ですから**) — \"so, that's why\": the speaker's **own reasoning**. After it you can put anything, including **opinions, decisions, requests and invitations**: 明日は朝が早い。だから、今日はもう寝るよ。 / 道が混んでいる。だから、電車で行きましょう。 (Lesson 06-4 introduced it.)\n• **それで** — \"and so, as a result\": it **reports a result that has happened** — facts. It doesn't introduce requests, invitations or your will. Sakubi shows where the meaning comes from: それ (\"that\") + で (the て-form of だ) points back to **that** as the source of what follows. It also asks for the rest of a story: それで？ (\"And then? So?\")\n• **そのため（に）** — \"for that reason, therefore\": formal, for **writing, news and reports**. Like それで, it is used for facts, not for requests. Careful: そのために can also mean \"for that purpose\" — the ため of lesson P-03. Context decides.\n• Others: **なので** at the start of a sentence (\"so\") is very common in speech, though some people consider it too casual for writing. **したがって** (\"consequently\") belongs to formal writing.\n\n**Connector × particle.** Inside one sentence, the same links are **から** and **ので**: 雨だから、行かない (lesson 06-4) / 雨なので、試合は中止になった (lesson 12-2). だから／それで／そのため do the same job **between** two sentences.\n\n**The quick test.** Look at the PREDICATE of the second sentence. Is it a request, an invitation or a decision (〜ましょう, 〜てください, 〜よう)? → only **だから**. Is it a fact that happened? → **それで** (speech) or **そのため** (writing) — and だから works too.",
+      "structure": "[cause]。 だから、[result / opinion / request / invitation]。 · [cause]。 それで／そのため、[result that happened]。",
+      "examples": [
+        { "jp": "朝から頭が痛かったです。それで、会社を休みました。", "kana": "あさからあたまがいたかったです。それで、かいしゃをやすみました。", "romaji": "Asa kara atama ga itakatta desu. Sorede, kaisha o yasumimashita.", "en": "I had a headache from the morning on. So I took the day off work. (a result that already happened)" },
+        { "jp": "明日は朝が早い。だから、今日はもう寝るよ。", "kana": "あしたはあさがはやい。だから、きょうはもうねるよ。", "romaji": "Ashita wa asa ga hayai. Dakara, kyō wa mō neru yo.", "en": "I have an early start tomorrow. So I'm going to bed now. (a decision: only だから works)" },
+        { "jp": "この地域では高齢者が増えている。そのため、バスの本数を増やすことになった。", "kana": "このちいきではこうれいしゃがふえている。そのため、バスのほんすうをふやすことになった。", "romaji": "Kono chiiki de wa kōreisha ga fuete iru. Sono tame, basu no honsū o fuyasu koto ni natta.", "en": "The number of elderly people in this area is growing. For that reason, it has been decided to run more buses. (news style; 本数 = number of runs)", "noAnat": true }
+      ],
+      "pitfalls": [
+        "それで before a suggestion: 道が混んでいる。それで、電車で行きましょう ✗ → だから、電車で行きましょう ✓.",
+        "そのため in a chat sounds like the news: (to a friend) 寝坊した。そのため、遅刻した ✗ → 寝坊しちゃって、それで遅刻したんだ ✓.",
+        "To a superior, だから can sound argumentative, as in だから言ったでしょう (\"I told you so\"). Explaining why you were late: 電車が止まりました。だから、遅れました ✗ → 電車が止まりまして、それで遅れてしまいました ✓."
+      ],
+      "howToStudy": [
+        "Take 3 facts from your day and say each one twice: with a result (それで) and with a decision (だから): 雨が降った。それで、家にいた。 / 雨が降っている。だから、家にいよう。",
+        "🔬 Anatomy → Analyze: paste example 2. 明日は (TOPIC) + 朝が (SUBJECT) + 早い (PREDICATE); then だから as CONNECTOR, 今日は (TOPIC), もう (HOW / HOW OFTEN) and 寝るよ (PREDICATE). The predicate after だから is a decision — exactly why それで wouldn't fit.",
+        "When two connectors look the same, search in Japanese: 「それでとだからの違い」 on Google — the DJT guide's tip for any \"what's the difference between X and Y?\" question. If the native explanations are still too hard, that's a sign to come back later, not a failure."
+      ],
+      "flag": null
+    },
+    {
+      "id": "P-13-c",
+      "gc": null,
+      "title": "つまり (× だから · 要するに)",
+      "gloss": "in other words, that means",
+      "explanation": "**つまり** says: **what comes next is the same idea again, in other words** — a restatement, a clarification, or the conclusion that follows from it. Think of an equals sign: A。つまり、B。 = A is B.\n• **Restating**: 彼は母の弟、つまり私のおじです。 (He's my mother's younger brother — in other words, my uncle.) Inside one sentence, つまり can link two nouns like this.\n• **Drawing out what it means**, often ending in **〜ということです** or **〜わけです** (lesson P-07): 会議は来週に延期になりました。つまり、今週は準備する時間があるということです。\n• **In conversation, checking you understood**: 〜って、つまり〜ってこと？ (\"so what you mean is…?\"), or just つまり？ (\"meaning?\").\n\n**つまり × だから**: だから gives a **result** (A → B: rain → the game is off). つまり gives **the same thing again** (A = B: my mother's brother = my uncle). The test: can you put \"that is to say\" between the two? Then つまり.\n**つまり × 要するに（ようするに） × すなわち**: 要するに = \"in short, to sum up\": it boils down a longer explanation, and can sound impatient (\"get to the point\"). すなわち = \"namely, that is\": formal, mostly written. つまり is the neutral all-rounder, fine in speech and in writing.\n• In 🔬: inside a sentence (弟、つまり私のおじ) つまり shows up as CONNECTOR. At the very start of a sentence the engine may tag it NO PARTICLE, because つまり is also a noun; read it as a connector.",
+      "structure": "[A]。 つまり、[A in other words] ということです／わけです · [N₁]、つまり [N₂]",
+      "examples": [
+        { "jp": "彼は母の弟、つまり私のおじです。", "kana": "かれはははのおとうと、つまりわたしのおじです。", "romaji": "Kare wa haha no otōto, tsumari watashi no oji desu.", "en": "He's my mother's younger brother — in other words, my uncle." },
+        { "jp": "会議は来週に延期になりました。つまり、今週は準備する時間があるということです。", "kana": "かいぎはらいしゅうにえんきになりました。つまり、こんしゅうはじゅんびするじかんがあるということです。", "romaji": "Kaigi wa raishū ni enki ni narimashita. Tsumari, konshū wa junbi suru jikan ga aru to iu koto desu.", "en": "The meeting has been postponed to next week. That means we have time to prepare this week.", "noAnat": true },
+        { "jp": "今月は忙しいって、つまり、旅行は行けないってこと？", "kana": "こんげつはいそがしいって、つまり、りょこうはいけないってこと？", "romaji": "Kongetsu wa isogashii tte, tsumari, ryokō wa ikenai tte koto?", "en": "You said you're busy this month — does that mean you can't go on the trip?", "noAnat": true }
+      ],
+      "pitfalls": [
+        "A result isn't つまり: 雨が降った。つまり、試合が中止になった ✗ → 雨が降った。それで、試合が中止になった ✓ (the game being called off is a result of the rain, not the rain said another way).",
+        "つまり repeats; it doesn't add a new point: 駅から近い。つまり、家賃も安い ✗ → 駅から近い。それに、家賃も安い ✓ (point e).",
+        "要するに can sound like \"get to the point\". To your boss: 要するに、何が言いたいんですか ✗ → つまり、〜ということでしょうか ✓."
+      ],
+      "howToStudy": [
+        "Say 3 restatements about your own life with つまり: 〜は私の母の姉、つまり私のおばです。 / 毎日二十分勉強している。つまり、一週間で二時間以上勉強しているわけです。",
+        "🔬 Anatomy → Analyze: paste example 1. 彼は (TOPIC), 母の (DESCRIBES NEXT) + 弟 (NO PARTICLE), then つまり as CONNECTOR, 私の (DESCRIBES NEXT) and おじです (PREDICATE). 弟 and おじ are the same person: つまり is the equals sign between them.",
+        "The equals test, aloud: for each つまり in the homework, say \"A, that is to say, B\" in English. If it makes sense, つまり; if you need \"so\" or \"as a result\", it's だから or それで."
+      ],
+      "flag": null
+    },
+    {
+      "id": "P-13-d",
+      "gc": null,
+      "title": "ところで (× ところが · そういえば · さて)",
+      "gloss": "by the way — changing the topic",
+      "explanation": "**ところで** means **\"by the way\"**: it closes the current topic and opens a new one. It is common in conversation, and in letters and e-mails after the main business: 今日はありがとうございました。ところで、来月の旅行はどうなりましたか。 Often the new topic is the thing you really wanted to bring up.\n\n**ところで × ところが** — one sound apart, and very different:\n• ところ**で** = \"by the way\": a new topic, with no logical link to the sentence before.\n• ところ**が** = \"but, unexpectedly\": the next sentence **goes against what you expected** from the first. It reports **facts** that surprised you, so it isn't followed by a request or your own will: 急いで駅に行った。ところが、電車はもう出た後だった。\n**ところで × そういえば**: そういえば = \"that reminds me, speaking of which\": it links to something **just mentioned**. ところで jumps to an **unrelated** topic.\n**ところで × さて**: さて (\"well now, moving on\") moves to the **next item** in a speech, a meeting or a letter: 報告は以上です。さて、次は来月の予定です。 ところで feels more like a side turn in a conversation.\n\n**The blocks.** Like every connector, ところで and ところが are a block of their own, followed by a comma. If you paste one into 🔬 Analyze, the engine may split it into ところ (\"place, point\") + で／が — which is literally where both words come from. At the start of a sentence, read each one as a single word.",
+      "structure": "[topic 1 is done]。 ところで、[new topic]。 · [fact]。 ところが、[unexpected fact]。",
+      "examples": [
+        { "jp": "今日はありがとうございました。ところで、来月の旅行はどうなりましたか。", "kana": "きょうはありがとうございました。ところで、らいげつのりょこうはどうなりましたか。", "romaji": "Kyō wa arigatō gozaimashita. Tokorode, raigetsu no ryokō wa dō narimashita ka.", "en": "Thank you for today. By the way, what happened with next month's trip?", "noAnat": true },
+        { "jp": "急いで駅に行った。ところが、電車はもう出た後だった。", "kana": "いそいでえきにいった。ところが、でんしゃはもうでたあとだった。", "romaji": "Isoide eki ni itta. Tokoroga, densha wa mō deta ato datta.", "en": "I rushed to the station. But the train had already left. (ところが: not what I expected)", "noAnat": true },
+        { "jp": "報告は以上です。さて、次は来月の予定です。", "kana": "ほうこくはいじょうです。さて、つぎはらいげつのよていです。", "romaji": "Hōkoku wa ijō desu. Sate, tsugi wa raigetsu no yotei desu.", "en": "That's all for my report. Now, next up is next month's schedule. (さて: moving to the next item)", "noAnat": true }
+      ],
+      "pitfalls": [
+        "ところで where you mean ところが: 休みだと思っていた。ところで、授業があった ✗ → ところが、授業があった ✓.",
+        "Linking to something just said: (after a friend mentions Kyoto) ところで、京都の友だちから連絡があったよ ✗ (sounds like you're changing the subject) → そういえば、京都の友だちから連絡があったよ ✓.",
+        "ところが is for surprising facts, not for plans: 雨が降ってきた。ところが、出かけよう ✗ → 雨が降ってきた。でも、出かけよう ✓."
+      ],
+      "howToStudy": [
+        "Speaking: hold a two-topic mini-conversation with yourself, out loud. Finish topic 1 (the weather, your week), then switch with ところで. Do it 3 times with different topics.",
+        "Say these pairs aloud and feel the difference: 駅に行った。ところが、電車はもう出ていた (unexpected) × 駅に行った。ところで、明日ひま？ (a new topic).",
+        "In your next NHK Easy article or Wagotabi session, note every ところが: what did the writer expect, and what happened instead?"
+      ],
+      "flag": null
+    },
+    {
+      "id": "P-13-e",
+      "gc": null,
+      "title": "それに · さらに (× それから)",
+      "gloss": "besides, furthermore — adding a point in the same direction",
+      "explanation": "**それに** and **さらに** add **another point of the same kind**: another reason, another advantage, another problem. Both points **push in the same direction**.\n• **それに** — \"besides, what's more\": conversation and casual writing. It loves reasons, and often teams up with 〜し (lesson 13-2): 疲れたし、それに雨も降っているし、今日は家にいよう。\n• **さらに** — \"furthermore, moreover\": formal, written, ads and news. The same word is also an adverb meaning \"even more\": さらに高くなった (it got even more expensive).\n• **しかも** — \"and on top of that\": adds a point that often surprises or makes things even better (or worse): このホテルは駅から近い。しかも、朝ご飯が無料だ。\n• **また** — \"also, in addition\": very common in news and formal writing to add a separate fact.\n\n**それに × それから × そして:**\n• **それから** = \"and then, after that\": **order in time** (朝ご飯を食べた。それから、歯をみがいた。), or \"and also\" when you add one more item to a list or an order: コーヒーと、それからケーキもお願いします.\n• **そして** = \"and (then)\": neutral joining; in speech it sounds a little like a story or a speech.\n• **それに** = \"besides\": it has nothing to do with time — it **piles up arguments**.\n\n**Same direction.** それに／さらに need both points to support the same conclusion. A point against the first one needs a \"but\" (point a): この部屋は安い。でも、狭い。\n• Going further (Sakubi): formal writing has more of these \"logical\" connectors (または \"or\", および \"and\", ならびに…). Sakubi's advice is to pick them up by **reading**, when you meet them, rather than drilling them now.",
+      "structure": "[point 1]。 それに／さらに、[point 2, same direction]。 · 〜し、それに〜",
+      "examples": [
+        { "jp": "このアパートは家賃が安い。それに、駅から歩いて五分だ。", "kana": "このアパートはやちんがやすい。それに、えきからあるいてごふんだ。", "romaji": "Kono apāto wa yachin ga yasui. Sore ni, eki kara aruite gofun da.", "en": "The rent for this apartment is cheap. Besides, it's a five-minute walk from the station." },
+        { "jp": "新しいモデルは前より軽い。さらに、値段も安くなった。", "kana": "あたらしいモデルはまえよりかるい。さらに、ねだんもやすくなった。", "romaji": "Atarashii moderu wa mae yori karui. Sara ni, nedan mo yasuku natta.", "en": "The new model is lighter than before. Furthermore, it has also become cheaper. [lit. the price, too, became cheap]" },
+        { "jp": "このホテルは駅から近い。しかも、朝ご飯が無料だ。", "kana": "このホテルはえきからちかい。しかも、あさごはんがむりょうだ。", "romaji": "Kono hoteru wa eki kara chikai. Shikamo, asagohan ga muryō da.", "en": "This hotel is close to the station. And on top of that, breakfast is free.", "noAnat": true }
+      ],
+      "pitfalls": [
+        "Order in time is それから, not それに: 朝ご飯を食べた。それに、歯をみがいた ✗ → 朝ご飯を食べた。それから、歯をみがいた ✓.",
+        "A point in the other direction needs \"but\": この部屋は安い。それに、狭い ✗ (cheap is good, small is bad) → この部屋は安い。でも、狭い ✓.",
+        "さらに in a chat with friends sounds like an ad: (to a friend) この店、安いよ。さらに、おいしい ✗ → この店、安いよ。それに、おいしいし ✓."
+      ],
+      "howToStudy": [
+        "Argue for something out loud with 3 points chained by それに: 日本に行きたい。食べ物がおいしい。それに、電車が便利だ。それに、…",
+        "🔬 Anatomy → Analyze: paste example 1: この (DESCRIBES NEXT), アパートは (TOPIC), 家賃が (SUBJECT), 安い (PREDICATE), then それに as CONNECTOR, 駅から (FROM), 歩いて (…AND THEN) and 五分だ (PREDICATE). Then paste example 2: there さらに shows up as HOW / HOW OFTEN, because the same word is also the adverb \"even more\". At the start of a sentence, read it as a connector.",
+        "Write a 3-line \"ad\" for your town in your notebook with さらに, then say the same facts to a friend with それに — two registers, one message."
+      ],
+      "flag": null
+    }
+  ],
+  "media": [
+    { "order": 1, "kind": "video", "title": "Japanese Ammo with Misa: conjunctions at the start of a sentence (しかし, だから, それで, つまり…)", "where": "YouTube · Japanese Ammo with Misa channel", "url": "", "search": "Japanese Ammo with Misa conjunctions", "when": "After point b, as a second explanation. If the video covers only some of the five, that's fine." },
+    { "order": 2, "kind": "reading", "title": "JLPT Sensei: the pages on しかし, それで, つまり, ところで and それに, with more example sentences", "where": "Website · JLPT Sensei (grammar lists by level)", "url": "", "search": "JLPT Sensei tokorode", "when": "After the grammar block. Search for each connector by name; unofficial JLPT lists file them under different levels, and that's fine." },
+    { "order": 3, "kind": "input", "title": "NHK NEWS WEB EASY: read one article and circle every connector at the start of a sentence", "where": "Website · NHK NEWS WEB EASY", "url": "", "search": "NHK NEWS WEB EASY", "when": "On any day after the lesson. Before you read the sentence after each connector, guess what it will do: turn, result, same idea, new topic or extra point." }
+  ],
+  "homework": {
+    "intro": "Do it by hand in your notebook. Write with the kanji you already know and use kana for the rest. Only then open the answer key, item by item. Circle what you got wrong and redo it the next day.",
+    "tasks": [
+      {
+        "id": "h1",
+        "type": "fill",
+        "prompt": "Fill in the best connector: だから, しかし, つまり, ところで, ところが or それに. Use each one once. Write the whole pair.",
+        "items": [
+          { "q": "(To a friend) 今日は雨だね。＿＿、家で映画でも見ない？", "a": { "jp": "今日は雨だね。だから、家で映画でも見ない？", "kana": "きょうはあめだね。だから、いえでえいがでもみない？", "romaji": "Kyō wa ame da ne. Dakara, ie de eiga demo minai?" }, "note": "An invitation follows, so only だから fits (それで can't introduce an invitation). The でも after 映画 is the particle: \"a movie or something\"." },
+          { "q": "(An essay) この町は便利だ。＿＿、家賃が高い。", "a": { "jp": "この町は便利だ。しかし、家賃が高い。", "kana": "このまちはべんりだ。しかし、やちんがたかい。", "romaji": "Kono machi wa benri da. Shikashi, yachin ga takai." }, "note": "A turn, in writing: しかし." },
+          { "q": "来週の月曜日は祝日です。＿＿、三連休になるということです。", "a": { "jp": "来週の月曜日は祝日です。つまり、三連休になるということです。", "kana": "らいしゅうのげつようびはしゅくじつです。つまり、さんれんきゅうになるということです。", "romaji": "Raishū no getsuyōbi wa shukujitsu desu. Tsumari, sanrenkyū ni naru to iu koto desu." }, "note": "The same fact said another way (a Monday holiday = a three-day weekend): つまり." },
+          { "q": "今日の仕事はこれで終わりです。＿＿、週末は何をしますか。", "a": { "jp": "今日の仕事はこれで終わりです。ところで、週末は何をしますか。", "kana": "きょうのしごとはこれでおわりです。ところで、しゅうまつはなにをしますか。", "romaji": "Kyō no shigoto wa kore de owari desu. Tokorode, shūmatsu wa nani o shimasu ka." }, "note": "A new topic: ところで." },
+          { "q": "天気予報では晴れだった。＿＿、午後から大雨になった。", "a": { "jp": "天気予報では晴れだった。ところが、午後から大雨になった。", "kana": "てんきよほうでははれだった。ところが、ごごからおおあめになった。", "romaji": "Tenki yohō de wa hare datta. Tokoroga, gogo kara ōame ni natta." }, "note": "Not what anyone expected: ところが. (でも or しかし would also be correct, without the surprise.)" },
+          { "q": "このカフェは静かだ。＿＿、コーヒーもおいしい。", "a": { "jp": "このカフェは静かだ。それに、コーヒーもおいしい。", "kana": "このカフェはしずかだ。それに、コーヒーもおいしい。", "romaji": "Kono kafe wa shizuka da. Sore ni, kōhī mo oishii." }, "note": "Another good point in the same direction: それに." }
+        ]
+      },
+      {
+        "id": "h2",
+        "type": "transform",
+        "prompt": "Rewrite each spoken pair for a written report: でも → しかし, だから／それで → そのため, それに → さらに.",
+        "items": [
+          { "q": "新しい駅ができた。だから、人が増えた。", "a": { "jp": "新しい駅ができた。そのため、人が増えた。", "kana": "あたらしいえきができた。そのため、ひとがふえた。", "romaji": "Atarashii eki ga dekita. Sono tame, hito ga fueta." } },
+          { "q": "この薬はよく効く。でも、少し眠くなる。", "a": { "jp": "この薬はよく効く。しかし、少し眠くなる。", "kana": "このくすりはよくきく。しかし、すこしねむくなる。", "romaji": "Kono kusuri wa yoku kiku. Shikashi, sukoshi nemuku naru." } },
+          { "q": "この車は燃費がいい。それに、安全性も高い。", "a": { "jp": "この車は燃費がいい。さらに、安全性も高い。", "kana": "このくるまはねんぴがいい。さらに、あんぜんせいもたかい。", "romaji": "Kono kuruma wa nenpi ga ii. Sara ni, anzensei mo takai." }, "note": "燃費 = fuel efficiency; 安全性 = safety. With さらに, the も (\"its safety, too\") stays." },
+          { "q": "雨の日が続いた。それで、野菜の値段が上がった。", "a": { "jp": "雨の日が続いた。そのため、野菜の値段が上がった。", "kana": "あめのひがつづいた。そのため、やさいのねだんがあがった。", "romaji": "Ame no hi ga tsuzuita. Sono tame, yasai no nedan ga agatta." } }
+        ]
+      },
+      {
+        "id": "h3",
+        "type": "correct",
+        "prompt": "Each pair uses the wrong connector. Rewrite it with the right one and say why.",
+        "items": [
+          { "q": "朝ご飯を食べた。それに、会社に行った。", "a": { "jp": "朝ご飯を食べた。それから、会社に行った。", "kana": "あさごはんをたべた。それから、かいしゃにいった。", "romaji": "Asagohan o tabeta. Sorekara, kaisha ni itta." }, "note": "Order in time: それから." },
+          { "q": "道が混んでいる。それで、タクシーはやめましょう。", "a": { "jp": "道が混んでいる。だから、タクシーはやめましょう。", "kana": "みちがこんでいる。だから、タクシーはやめましょう。", "romaji": "Michi ga konde iru. Dakara, takushī wa yamemashō." }, "note": "A suggestion follows: only だから." },
+          { "q": "雨が降った。つまり、試合が中止になった。", "a": { "jp": "雨が降った。それで、試合が中止になった。", "kana": "あめがふった。それで、しあいがちゅうしになった。", "romaji": "Ame ga futta. Sorede, shiai ga chūshi ni natta." }, "note": "A result, not the same idea again: それで (だから also works)." },
+          { "q": "安いと思っていた。ところで、とても高かった。", "a": { "jp": "安いと思っていた。ところが、とても高かった。", "kana": "やすいとおもっていた。ところが、とてもたかかった。", "romaji": "Yasui to omotte ita. Tokoroga, totemo takakatta." }, "note": "Against what you expected: ところが, not ところで." },
+          { "q": "(In a report) でも、この方法には問題もある。", "a": { "jp": "しかし、この方法には問題もある。", "kana": "しかし、このほうほうにはもんだいもある。", "romaji": "Shikashi, kono hōhō ni wa mondai mo aru." }, "note": "Written register: しかし." }
+        ]
+      },
+      {
+        "id": "h4",
+        "type": "produce",
+        "prompt": "Write a short paragraph (5–6 sentences) about your Japanese study with at least 5 different connectors from this lesson: a \"but\", a \"so\", つまり, それに, and ところで at the end to change the topic. Read it aloud and record yourself.",
+        "items": [
+          { "q": "Model (match its structure, not its words):", "a": { "jp": "私は毎日一時間日本語を勉強しています。でも、漢字はまだ難しいです。それで、最近は新しい漢字を毎日五つずつ覚えるようにしています。つまり、一か月で百五十字覚えるわけです。それに、アプリで毎日復習もしています。ところで、みなさんはどうやって漢字を勉強していますか。", "kana": "わたしはまいにちいちじかんにほんごをべんきょうしています。でも、かんじはまだむずかしいです。それで、さいきんはあたらしいかんじをまいにちいつつずつおぼえるようにしています。つまり、いっかげつでひゃくごじゅうじおぼえるわけです。それに、アプリでまいにちふくしゅうもしています。ところで、みなさんはどうやってかんじをべんきょうしていますか。", "romaji": "Watashi wa mainichi ichijikan nihongo o benkyō shite imasu. Demo, kanji wa mada muzukashii desu. Sorede, saikin wa atarashii kanji o mainichi itsutsu zutsu oboeru yō ni shite imasu. Tsumari, ikkagetsu de hyakugojū ji oboeru wake desu. Sore ni, apuri de mainichi fukushū mo shite imasu. Tokorode, minasan wa dō yatte kanji o benkyō shite imasu ka.", "en": "I study Japanese for an hour every day. But kanji are still hard. So lately I've been making a point of learning five new kanji a day. That means I learn 150 kanji a month. Besides, I also review every day with an app. By the way, how do you all study kanji?" }, "note": "Check: each connector starts its sentence, with a comma after it. それで works here because what follows is a habit you report; before an invitation or a suggestion, only だから works. つまり repeats an idea (5 a day = 150 a month), それに adds one in the same direction, and ところで opens a new topic." }
+        ]
+      }
+    ],
+    "workbook": []
+  },
+  "practice": [
+    { "tool": "Wagotabi", "what": "Play in the game's N3 area. Hunt for connectors at the start of lines (でも, だから, それで, ところで, それに…). Each time, pause and say what the next sentence will do before you read it: turn, result, same idea, new topic or extra point. Log the session in Immersion → Games and paste one line into 🔬 Anatomy.", "min": 15 },
+    { "tool": "NHK NEWS WEB EASY", "what": "Read one article with a pop-up dictionary such as Yomitan and listen to its audio. News uses the written connectors: circle every しかし, そのため, また and さらに, and say what each one links. Save the best sentence with Mining (⛏) — reading real Japanese early and mining what you meet is the heart of the method in the DJT guide.", "min": 10 },
+    { "tool": "ヅオリンゴー · Journal", "what": "Write 5 pairs of sentences of your own, one for each point: a \"but\", a \"so\", a つまり, a ところで and a それに. Use \"Anatomy of what I wrote\" and check that each connector stands at the start of the second sentence, with a comma after it. Most show up as CONNECTOR; でも, つまり, ところで and さらに may get other labels (see the notes in points a, c, d and e).", "min": 10 },
+    { "tool": "Shadowing", "what": "Tap 🔊 on each example and repeat along 3 times. Make a short pause after each connector, the way Japanese speakers do: しかし、(pause) 値段が少し高い。", "min": 5 },
+    { "tool": "Speaking", "what": "Record a 45-second story about a day that didn't go as planned, using ところが, それで, それに and, at the end, ところで. Listen back: did each connector do the job you meant?", "min": 5 }
+  ],
+  "culture": {
+    "title": "Vertical writing (たてがき)",
+    "titleJp": "縦書き",
+    "body": "Japanese can be written in two directions. In **縦書き** (たてがき, vertical writing), characters run from top to bottom and the columns go from right to left; in **横書き** (よこがき, horizontal writing), lines run from left to right, as in English. Novels, newspapers, most manga and many magazines are written vertically, so those books open from what an English reader would call the back. Textbooks with math or English, websites, and most business documents and e-mails are horizontal. In vertical text, 、 and 。 sit at the top right of their square, the long-vowel mark ー turns into a vertical line, and numbers are often written in kanji (二十, 百). Manga panels are generally read from right to left and top to bottom, following the direction of the text.",
+    "try": "Write your homework paragraph (h4) vertically in your notebook: start at the top right, go down, and begin each new column to the left of the last. Put the 、 after each connector in its vertical place, at the top right of its square."
+  },
+  "checklist": [
+    "I can choose the right \"but\" for the register without looking: でも (conversation), けれども (polite), しかし (writing).",
+    "I know that が／けど end the first clause, while しかし／でも start the second sentence.",
+    "I use だから before a request, an invitation or a decision, and それで／そのため only for results that happened.",
+    "I can restate an idea with つまり and tell it apart from a result (だから／それで).",
+    "I never confuse ところで (by the way) with ところが (but, unexpectedly).",
+    "I add a point in the same direction with それに or さらに, and I use それから for order in time.",
+    "I did the homework, checked it against the answer key and redid what I got wrong."
+  ],
+  "credits": [
+    "Explanations adapted in part from Sakubi (public domain, CC0) — sakubi.neocities.org",
+    "Study method informed by the DJT Guide to Japanese — djtguide.neocities.org/guide"
+  ]
+}

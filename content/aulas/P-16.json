@@ -1,0 +1,286 @@
+{
+  "id": "P-16",
+  "unit": "P-N3",
+  "genki": null,
+  "title": "Real speech (contractions)",
+  "titleJp": "行かなきゃ・言ったじゃん",
+  "canDo": [
+    "I can understand and say the everyday contractions ちゃう／じゃう, とく, てる and なきゃ／なくちゃ, and rebuild the full form of each one.",
+    "I can use じゃん with friends to say \"see? / isn't it?\", and I never confuse it with a real negative じゃない.",
+    "I can hear the explaining 〜んだ apart from a past tense like 読んだ, and I can tell which job a って is doing.",
+    "I know who I can use contractions with, and I switch to the full forms with a boss, a customer and in writing.",
+    "I can recognize three features of Kansai dialect: おおきに, 〜へん and や."
+  ],
+  "duration": {
+    "total": "70–90 min",
+    "blocks": [
+      { "t": "Warm-up: say aloud the て-form and the ない-form of 忘れる, 飲む, 買う, 読む and する — every contraction in this lesson is built on them", "min": 5 },
+      { "t": "Vocabulary: tap 🔊 on each word and repeat it twice; save the words you don't know yet with Mining (⛏), each inside one sentence from this lesson, so they enter your SRS", "min": 10 },
+      { "t": "Grammar: points a (ちゃう), b (とく) and c (てる), with the examples read aloud and one 🔬 each. If you split the lesson into two sessions, stop here.", "min": 20 },
+      { "t": "Grammar: points d (なきゃ), e (じゃん) and f (んだ・って), with the contrasts said aloud", "min": 20 },
+      { "t": "Video and reading from block 6, pausing on the examples", "min": 10 },
+      { "t": "Notebook homework + checking it against the answer key", "min": 15 },
+      { "t": "Checklist (block 10) + write your questions in the lesson notebook", "min": 5 }
+    ]
+  },
+  "prereqs": {
+    "aulas": ["P-15"],
+    "skills": [
+      "The て-form of every verb type (lesson 06-1) and the ない-form (lesson 08-1): the contractions are built on them.",
+      "The full forms behind this lesson: 〜てしまう (18-2), 〜ておく (15-2), 〜ている (07-1), 〜なければいけない (12-3), 〜んです (12-1) and hearsay 〜って (17-1).",
+      "Short forms and casual speech (lessons 08-1 and 09-1): contractions live in casual speech."
+    ],
+    "vocab": [
+      { "jp": "宿題", "kana": "しゅくだい", "romaji": "shukudai", "en": "homework" },
+      { "jp": "財布", "kana": "さいふ", "romaji": "saifu", "en": "wallet" },
+      { "jp": "準備する", "kana": "じゅんびする", "romaji": "junbi suru", "en": "to prepare, to get ready" },
+      { "jp": "冷蔵庫", "kana": "れいぞうこ", "romaji": "reizōko", "en": "refrigerator" },
+      { "jp": "置く", "kana": "おく", "romaji": "oku", "en": "to put, to leave (somewhere)" },
+      { "jp": "持っていく", "kana": "もっていく", "romaji": "motte iku", "en": "to take (a thing) along" },
+      { "jp": "待つ", "kana": "まつ", "romaji": "matsu", "en": "to wait" },
+      { "jp": "着く", "kana": "つく", "romaji": "tsuku", "en": "to arrive" },
+      { "jp": "さっき", "kana": "さっき", "romaji": "sakki", "en": "a moment ago" },
+      { "jp": "返事", "kana": "へんじ", "romaji": "henji", "en": "reply, answer" },
+      { "jp": "洗濯する", "kana": "せんたくする", "romaji": "sentaku suru", "en": "to do the laundry" },
+      { "jp": "だめ", "kana": "だめ", "romaji": "dame", "en": "no good; not allowed" },
+      { "jp": "ほら", "kana": "ほら", "romaji": "hora", "en": "look! / see? (pointing something out)" },
+      { "jp": "写真を撮る", "kana": "しゃしんをとる", "romaji": "shashin o toru", "en": "to take a photo" },
+      { "jp": "久しぶり", "kana": "ひさしぶり", "romaji": "hisashiburi", "en": "long time no see" },
+      { "jp": "熱", "kana": "ねつ", "romaji": "netsu", "en": "fever" },
+      { "jp": "言っとくけど", "kana": "いっとくけど", "romaji": "ittoku kedo", "en": "just so you know, … (= 言っておくけど)" },
+      { "jp": "関西弁", "kana": "かんさいべん", "romaji": "kansaiben", "en": "the Kansai dialect (Osaka, Kyoto, Kobe)" },
+      { "jp": "おおきに", "kana": "おおきに", "romaji": "ōkini", "en": "thank you (Kansai, traditional)" },
+      { "jp": "〜へん", "kana": "〜へん", "romaji": "-hen", "en": "(Kansai) the negative, = 〜ない: わからへん" },
+      { "jp": "ほんま", "kana": "ほんま", "romaji": "honma", "en": "(Kansai) really, true (= 本当)" }
+    ]
+  },
+  "grammar": [
+    {
+      "id": "P-16-a",
+      "gc": null,
+      "title": "〜ちゃう／〜じゃう (= てしまう)",
+      "gloss": "(do) completely · end up doing · oops",
+      "explanation": "In speech, **てしまう becomes ちゃう** and **でしまう becomes じゃう**. The meaning is the one from lesson 18-2: **\"completely, all of it\"**, or **\"end up doing\"** (often \"oops\"). Sakubi's handle for it: \"it's done\" / \"now I've done it\".\n• How to build it: take the て-form, drop て／で, add ちゃう／じゃう: 忘れて → 忘れちゃう; 行って → 行っちゃう; 読んで → 読んじゃう; 遊んで → 遊んじゃう.\n• It conjugates like a う-verb: ちゃった／じゃった (past), ちゃって (て-form), ちゃおう (let's just…): 全部食べちゃおう (let's just finish it all).\n• You'll also hear a rougher version, **ちまう／ちまった**, mostly in rough, male-sounding speech in fiction.\n• **Who:** friends, family, people close to you. In friendly polite talk, 〜ちゃいました is common too (忘れちゃいました); with a boss, a customer or in writing, use the full 〜てしまいました.\n\n**The sentence, block by block.** ちゃった is part of the **PREDICATE**: [宿題を][忘れちゃった] = OBJECT + PREDICATE. Read the end first: \"(oops) forgot\" → what? → the homework.\n\n**ちゃう × ちゃ + だめ**: not every ちゃ is てしまう (Sakubi). **ちゃ／じゃ followed by だめ or いけない is ては**: 食べちゃだめ = 食べてはだめ (you mustn't eat it); 飲んじゃいけない = 飲んではいけない (lesson 06-3). Look at what comes right after ちゃ: う／った → てしまう; だめ／いけない → ては.",
+      "structure": "[て-form minus て] ちゃう／ちゃった · [で-form minus で] じゃう／じゃった · (≠) 〜ちゃ だめ = 〜ては だめ",
+      "examples": [
+        { "jp": "あっ、宿題を忘れちゃった！", "kana": "あっ、しゅくだいをわすれちゃった！", "romaji": "A, shukudai o wasurechatta!", "en": "Oh no, I forgot my homework! [= 忘れてしまった]" },
+        { "jp": "このマンガ、おもしろくて、最後まで読んじゃった。", "kana": "このマンガ、おもしろくて、さいごまでよんじゃった。", "romaji": "Kono manga, omoshirokute, saigo made yonjatta.", "en": "This manga was so good I read it all the way to the end. [= 読んでしまった]" },
+        { "jp": "そのケーキ、まだ食べちゃだめだよ。", "kana": "そのケーキ、まだたべちゃだめだよ。", "romaji": "Sono kēki, mada tabecha dame da yo.", "en": "Don't eat that cake yet! [= 食べてはだめ]" }
+      ],
+      "pitfalls": [
+        "After ん-verbs it's じゃう: 飲んちゃった ✗ → 飲んじゃった ✓ (飲んで → 飲んじゃった).",
+        "Don't read ちゃだめ as てしまう: 食べちゃだめ = \"ended up eating\" ✗ → \"you mustn't eat it\" (食べてはだめ) ✓.",
+        "Keep it out of formal speech. To a customer: 書類を忘れちゃいました ✗ → 書類を忘れてしまいました ✓."
+      ],
+      "howToStudy": [
+        "Confess 3 small \"oops\" moments aloud with 〜ちゃった／じゃった, then say the full form of each: 寝坊しちゃった → 寝坊してしまった.",
+        "🔬 Anatomy → Analyze: paste example 3. その is DESCRIBES NEXT, ケーキ shows up as NO PARTICLE (casual speech dropped the particle), まだ is HOW / HOW OFTEN, and 食べちゃだめだよ is one PREDICATE marked prohibition — proof that this ちゃ is ては, not てしまう.",
+        "Tell an imaginary child 3 things they mustn't do, with 〜ちゃだめ／じゃだめ (触っちゃだめ, 走っちゃだめ, 飲んじゃだめ)."
+      ],
+      "flag": null
+    },
+    {
+      "id": "P-16-b",
+      "gc": null,
+      "title": "〜とく／〜どく (= ておく)",
+      "gloss": "do in advance · leave it that way",
+      "explanation": "In speech, **ておく becomes とく** and **でおく becomes どく**: the て + お melt into と. The meaning is the one from lesson 15-2: **do something in advance, as preparation**, or **leave it that way** for now (Sakubi: ておく means doing something as a preparation).\n• 買っておく → 買っとく; 準備しておく → 準備しとく; 読んでおく → 読んどく.\n• It's a う-verb: とく (non-past), といた (past), といて (て-form, also a casual request), とこう (let's…): 窓、開けといて (open the window, will you — and leave it open). A very common phrase: **言っとくけど** (just so you know, …).\n• **Who:** friends, family and close colleagues. In polite speech and in writing: 〜ておきます.\n\n**The sentence, block by block.** とく is part of the **PREDICATE**, and the object stays with the verb: [ビール、][冷蔵庫に][入れといて] — casual speech often drops the を after ビール.\n\n**とく × てく** — easy to confuse by ear: てく is the contraction of **ていく** (\"go and…, take along\"; Sakubi: ていく can be spoken as てく). 持ってく = 持っていく (take it with me). 持っとく = 持っておく (hold on to it, keep it for now). One vowel — お or え — changes the meaning.",
+      "structure": "[て-form minus て] とく／といた／といて · [で-form minus で] どく／どいた · (≠) 〜てく = 〜ていく",
+      "examples": [
+        { "jp": "明日は早いから、今夜準備しとくね。", "kana": "あしたははやいから、こんやじゅんびしとくね。", "romaji": "Ashita wa hayai kara, kon'ya junbi shitoku ne.", "en": "I have an early start tomorrow, so I'll get things ready tonight. [= 準備しておく]" },
+        { "jp": "ビール、冷蔵庫に入れといて。— わかった。", "kana": "ビール、れいぞうこにいれといて。— わかった。", "romaji": "Bīru, reizōko ni iretoite. — Wakatta.", "en": "Put the beer in the fridge, will you? — Got it. [= 入れておいて]" },
+        { "jp": "傘、持ってく？— ううん、ここに置いとく。", "kana": "かさ、もってく？— ううん、ここにおいとく。", "romaji": "Kasa, motteku? — Uun, koko ni oitoku.", "en": "Are you taking the umbrella? — No, I'll leave it here. [持ってく = 持っていく; 置いとく = 置いておく]" }
+      ],
+      "pitfalls": [
+        "With ん-verbs it's どく: 読んとく ✗ → 読んどく ✓ (読んでおく).",
+        "\"I'll take it with me\": 持っとく ✗ (= I'll keep hold of it) → 持ってく ✓.",
+        "Writing needs the full form. In a work e-mail: 資料をコピーしときます ✗ → 資料をコピーしておきます ✓."
+      ],
+      "howToStudy": [
+        "Plan tomorrow aloud: 3 things you'll do in advance tonight with 〜とく (目覚ましをかけとく, 服を出しとく, お弁当を作っとく).",
+        "🔬 Anatomy → Analyze: paste example 3. 傘 shows up as NO PARTICLE (the を was dropped), and each half has its own PREDICATE: 持ってく (take along = ていく) and 置いとく (leave it = ておく). ここに is TARGET: where the umbrella stays.",
+        "Minimal pairs: say each pair aloud 3 times, slowly and then fast, and translate: 持っとく／持ってく, 置いとく／置いてく (leave it here for later / leave it behind)."
+      ],
+      "flag": null
+    },
+    {
+      "id": "P-16-c",
+      "gc": null,
+      "title": "〜てる (= ている)",
+      "gloss": "is doing · is in a state",
+      "explanation": "**ている becomes てる**: the い simply drops. Sakubi: this is normal, but not formal. The meaning is 100% ている (lesson 07-1): an action **in progress** (待ってる = I'm waiting) or a **resulting state** (知ってる = I know; 結婚してる = is married; 来てる = has come, is here).\n• The rest follows: てる, てた (past), てない (negative), てて (て-form): 昨日は一日中寝てた (I slept all day yesterday).\n• With で-verbs: 読んでる, 遊んでる, 住んでる.\n• Polite speech drops the い too: 知っています → 知ってます. That's normal in everyday polite conversation; in careful writing, keep ています.\n• Going further (Sakubi): before の or な, a る often turns into ん: 何してるの？ → 何してんの？ The same happens in わからない → わかんない and するの → すんの.\n• **Who:** てる is everyday speech with anyone you'd use casual forms with; てます is fine in normal polite talk.\n\n**The sentence, block by block.** てる ends the **PREDICATE**, just like ている. In a question-and-answer pair, each line has its own predicate: [今][何][してる？] — [駅で][友だちを][待ってる].\n\n**てる × とく** (point b): 読んでる = I'm reading (it's happening now); 読んどく = I'll read it beforehand. Listen for the vowel: え in てる, お in とく.",
+      "structure": "[て-form] る／た／ない (= ている／ていた／ていない) · [て-form] ます (= ています)",
+      "examples": [
+        { "jp": "今、何してる？— 駅で友だちを待ってる。", "kana": "いま、なにしてる？— えきでともだちをまってる。", "romaji": "Ima, nani shiteru? — Eki de tomodachi o matteru.", "en": "What are you doing now? — I'm waiting for a friend at the station." },
+        { "jp": "マリアさんはもう来てる？— うん、さっき着いたよ。", "kana": "マリアさんはもうきてる？— うん、さっきついたよ。", "romaji": "Maria-san wa mō kiteru? — Un, sakki tsuita yo.", "en": "Is Maria here yet? — Yeah, she got here a moment ago. [来てる = has come, is here]" },
+        { "jp": "何してんの？早く行こうよ。", "kana": "なにしてんの？はやくいこうよ。", "romaji": "Nani shiten no? Hayaku ikō yo.", "en": "What are you doing? Come on, let's go. [= 何をしているの]", "noAnat": true }
+      ],
+      "pitfalls": [
+        "行ってる is a resulting state: \"has gone (and is there)\" or \"goes regularly\". \"I'm on my way to school\": 学校に行ってる ✗ (= I'm at school / I attend school) → 今、学校に向かってる ✓.",
+        "The past is てた, not てるた: 寝てるた ✗ → 寝てた ✓.",
+        "In formal writing, spell it out. In a job application: 日本語を勉強してます ✗ → 日本語を勉強しています ✓."
+      ],
+      "howToStudy": [
+        "Narrate your day in a whisper with てる: 歩いてる、コーヒー飲んでる、スマホ見てる… Ten sentences, as things happen.",
+        "🔬 Anatomy → Analyze: paste example 1. 今 is TIME, 何 NO PARTICLE (を dropped), 駅で PLACE and 友だちを OBJECT — and both してる and 待ってる come out as PREDICATE / progress: the engine reads てる as ている, and so should you.",
+        "Read real Japanese, DJT-style: open an easy slice-of-life manga (the DJT guide's classic first manga is よつばと！). Its dialogue is full of てる, ちゃう and とく. When a pop-up dictionary can't find a slurred form, rebuild the full one (してんの → しているの), look that up, and mine the sentence."
+      ],
+      "flag": null
+    },
+    {
+      "id": "P-16-d",
+      "gc": null,
+      "title": "〜なきゃ／〜なくちゃ (= must)",
+      "gloss": "have to · must",
+      "explanation": "\"Must\" in Japanese is a double negative: \"not doing it is no good\". Sakubi: all the variants boil down to \"not X\" + \"wrong\". Speech squeezes both halves:\n• なければ (いけない) → **なきゃ** (いけない): 行かなければいけない → 行かなきゃ.\n• なくては (いけない) → **なくちゃ** (いけない): 行かなくてはいけない → 行かなくちゃ.\n• ないと (いけない) → **ないと**: 行かないと.\n• Very often the second half (いけない, だめ) disappears completely: もう行かなきゃ。 = I have to go now. The listener fills in the rest.\n• How to build it: the ない-form minus い, + きゃ or くちゃ: 食べない → 食べなきゃ／食べなくちゃ; しない → しなきゃ; 来ない → 来なきゃ.\n• **Who:** friends, family, and talking to yourself (あ、洗濯しなきゃ). With a boss or a customer: 〜なければなりません or 〜ないといけません.\n\n**The sentence, block by block.** なきゃ／なくちゃ ends the **PREDICATE**, even when いけない is gone: [今夜は][勉強しなくちゃ].\n\n**Three neighbors — must, mustn't, don't have to:**\n• 食べなきゃ = I have to eat.\n• 食べちゃだめ = you mustn't eat (point a: ちゃ = ては).\n• 食べなくてもいい = you don't have to eat (lesson 17-2).\nThe ちゃ in なくちゃ is ては as well, not てしまう (Sakubi).",
+      "structure": "[ない-form minus い] きゃ (いけない) · [ない-form minus い] くちゃ (いけない) · 〜ないと (いけない)",
+      "examples": [
+        { "jp": "もうこんな時間！早く帰らなきゃ。", "kana": "もうこんなじかん！はやくかえらなきゃ。", "romaji": "Mō konna jikan! Hayaku kaeranakya.", "en": "Look at the time! I have to get home. [= 帰らなければいけない]" },
+        { "jp": "明日テストだから、今夜は勉強しなくちゃ。", "kana": "あしたテストだから、こんやはべんきょうしなくちゃ。", "romaji": "Ashita tesuto dakara, kon'ya wa benkyō shinakucha.", "en": "I have a test tomorrow, so I have to study tonight. [= 勉強しなくてはいけない]" },
+        { "jp": "山田さんにメールの返事をしないと。", "kana": "やまださんにメールのへんじをしないと。", "romaji": "Yamada-san ni mēru no henji o shinai to.", "en": "I need to answer Ms. Yamada's e-mail. [= しないといけない]" }
+      ],
+      "pitfalls": [
+        "Build it from the ない-form: 帰るなきゃ ✗ → 帰らなきゃ ✓ (帰らない → 帰らなきゃ).",
+        "\"You don't have to come\" is not なきゃ: 来なきゃいい ✗ → 来なくてもいい ✓.",
+        "In an e-mail to a client: 確認しなきゃいけません ✗ → 確認しなければなりません ✓."
+      ],
+      "howToStudy": [
+        "Say tonight's to-do list aloud, 4 items, each ending in 〜なきゃ or 〜なくちゃ (洗濯しなきゃ、復習しなくちゃ…). Put 復習 first: with SRS, reviews done on time matter more than new cards.",
+        "🔬 Anatomy → Analyze: paste example 2. 明日 is TIME, テストだから REASON, 今夜は the TOPIC and 勉強しなくちゃ the PREDICATE — a complete sentence, with いけない nowhere in sight.",
+        "Speaking drill with the three neighbors: for 行く, 飲む and 見る, say 〜なきゃ／〜ちゃだめ／〜なくてもいい aloud and translate each one."
+      ],
+      "flag": null
+    },
+    {
+      "id": "P-16-e",
+      "gc": null,
+      "title": "〜じゃん",
+      "gloss": "…, right? · see? · hey, it's…!",
+      "explanation": "じゃん is a casual contraction of **じゃない** — but only of the **confirmation** じゃない (\"…, right? / see? / isn't it?\"), never of the real negative (Sakubi). You say it with a flat or falling voice, asking the listener to agree with something that is, or should be, obvious.\n• **\"See? I told you!\"**: ほら、だから言ったじゃん！\n• **\"Hey, it's…!\"** — pointing out something you've just noticed: あれ、ペドロじゃん！\n• **\"…, isn't it? / What's wrong with that?\"**: いいじゃん、行こうよ (Oh come on, it's fine — let's go).\n• It goes after short forms: nouns and な-adjectives directly (雨じゃん, きれいじゃん), い-adjectives and verbs in short form (いいじゃん, 言ったじゃん). Never after だ.\n• **Who:** close friends, family, people your age or younger — it's very casual. Its polite relative, 〜じゃないですか (\"…, you know?\"), can sound pushy, so use it with care. A milder casual way to ask for agreement is 〜でしょ.\n\n**The sentence, block by block.** じゃん is the very end of the **PREDICATE**: [この写真、][いいじゃん！]. Read it as \"it's good — right?\"\n\n**じゃん × じゃない (the real negative)**: after a noun, the negative じゃない and the confirmation じゃない look identical, and only context and intonation tell them apart (Sakubi: there's no way around it). じゃん removes the doubt: it is **always** confirmation. 学生じゃない。 (He's not a student.) × 学生じゃん！ (You're a student, aren't you? — so you get the discount!)",
+      "structure": "[short form / N / な-adj] じゃん · (polite, use with care) 〜じゃないですか",
+      "examples": [
+        { "jp": "財布を忘れちゃった。— ほら、だから言ったじゃん！", "kana": "さいふをわすれちゃった。— ほら、だからいったじゃん！", "romaji": "Saifu o wasurechatta. — Hora, dakara itta jan!", "en": "I forgot my wallet. — See? I told you so!" },
+        { "jp": "この写真、いいじゃん！どこで撮ったの？", "kana": "このしゃしん、いいじゃん！どこでとったの？", "romaji": "Kono shashin, ii jan! Doko de totta no?", "en": "Hey, this photo is great! Where did you take it?" },
+        { "jp": "あれ、ペドロじゃん！久しぶり！", "kana": "あれ、ペドロじゃん！ひさしぶり！", "romaji": "Are, Pedoro jan! Hisashiburi!", "en": "Hey, it's Pedro! Long time no see!" }
+      ],
+      "pitfalls": [
+        "じゃん is never a real negative. \"I'm not a student\": 学生じゃん ✗ → 学生じゃない ✓.",
+        "No だ before it: 雨だじゃん ✗ → 雨じゃん ✓.",
+        "Keep it among friends. To a teacher: 先生、それ、さっき言ったじゃん ✗ → 先生、それはさっきおっしゃいましたよね ✓."
+      ],
+      "howToStudy": [
+        "React aloud to 4 situations with じゃん: a friend's new shoes (いいじゃん！), bumping into a friend (〜じゃん！), a prediction that came true (だから言ったじゃん), finding your lost keys (ここにあるじゃん).",
+        "🔬 Anatomy → Analyze: paste example 2. この is DESCRIBES NEXT, 写真 NO PARTICLE (the は was dropped), いいじゃん the PREDICATE, どこで PLACE and 撮ったの a second PREDICATE, the question.",
+        "Record yourself saying 学生じゃない as a plain negative (\"he's not a student\"), then 学生じゃん！ as \"you're a student, right?\". Listen back: the words are close, the message is opposite."
+      ],
+      "flag": null
+    },
+    {
+      "id": "P-16-f",
+      "gc": null,
+      "title": "〜んだ and 〜って",
+      "gloss": "you see… (explaining) · says / called / as for",
+      "explanation": "Two tiny endings that are everywhere in real speech.\n\n**〜んだ** is the casual form of 〜んです (lesson 12-1), from の + だ (Sakubi: のだ can be pronounced んだ). It gives an **explanation** or background: \"you see…, the thing is…\". 今日は行けない。熱があるんだ。 (I can't go today. I've got a fever, you see.) The question form is 〜の？: どうしたの？ (What's wrong?)\n• Nouns and な-adjectives take な: 休みなんだ, 好きなんだ.\n• Like んです, it's for explaining, not for plain statements (Sakubi).\n**んだ (explaining) × 〜んだ (past)**: 読んだ, 飲んだ, 遊んだ are just the past of ん-verbs. The explaining んだ comes **after a complete form**: 飲むんだ (I'm going to drink, you see), 飲んだんだ (I drank, you see). Test: take んだ off — if a full verb is left (飲む, 飲んだ), it was the explaining んだ; if only 飲 is left, it was the past.\n\n**〜って** is the spoken form of several things (Sakubi: って is basically a colloquial と, and it can also set off a topic):\n• **= と (quote)**: ジョンさんは少し遅れるって (John says he'll be a little late). Hearsay って is from lesson 17-1.\n• **= は, a topic with a hint of \"this thing called…\"**: 日本の夏って、暑いね (Japanese summers — they're hot, huh).\n• **= という (\"called\")**: ヅオリンゴーっていうアプリ (an app called ヅオリンゴー).\n**って (topic) × って (quote)**: look at where it sits. After a noun at the start, it's the topic: 納豆って、おいしい？ (Is natto good?). At the end, after a full sentence, it's a quote: 納豆、おいしいって (They say natto is good). And neither is the て-form って of 行って, 買って, 待って.\n• **Who:** both are everyday casual speech. In polite speech, use 〜んです and 〜と言っていました／〜そうです.\n\n**The sentence, block by block.** んだ ends the **PREDICATE** (熱が + あるんだ). A quote って also closes the sentence, while a topic って closes the first block, like は.",
+      "structure": "[short form] んだ (N / な-adj + な んだ) · [short form] って (= と, quote) · [N] って … (= は, topic) · [N] っていう [N] (= という)",
+      "examples": [
+        { "jp": "ごめん、今日は行けない。ちょっと熱があるんだ。", "kana": "ごめん、きょうはいけない。ちょっとねつがあるんだ。", "romaji": "Gomen, kyō wa ikenai. Chotto netsu ga aru n da.", "en": "Sorry, I can't go today. I've got a bit of a fever, you see." },
+        { "jp": "ジョンさんは少し遅れるって。", "kana": "ジョンさんはすこしおくれるって。", "romaji": "Jon-san wa sukoshi okureru tte.", "en": "John says he'll be a little late. [って = と言っていた]" },
+        { "jp": "日本の夏って、本当に暑いんだね。", "kana": "にほんのなつって、ほんとうにあついんだね。", "romaji": "Nihon no natsu tte, hontō ni atsui n da ne.", "en": "Japanese summers really are hot, huh. [って = は]" }
+      ],
+      "pitfalls": [
+        "Nouns and な-adjectives need な before んだ: 休みんだ ✗ → 休みなんだ ✓.",
+        "The past alone doesn't explain. \"I read it, you see (that's why I know)\": 読んだ ✗ (just \"I read it\") → 読んだんだ ✓.",
+        "Topic って is casual. In a presentation: 日本語って難しいです ✗ → 日本語は難しいです ✓."
+      ],
+      "howToStudy": [
+        "Give 3 excuses aloud with 〜んだ: 今日はバイトなんだ、お金がないんだ、ちょっと頭が痛いんだ.",
+        "🔬 Anatomy → Analyze: paste example 1. ごめん is INTERJECTION, 今日は the TOPIC, 行けない the first PREDICATE, 熱が the SUBJECT, and あるんだ comes out as PREDICATE / explanation — the のだ-type んだ, not a past tense.",
+        "Be a messenger: pass on 3 things people \"said\" with 〜って (マリアさん、明日来られないって。田中さん、もう着いたって。…)."
+      ],
+      "flag": null
+    }
+  ],
+  "media": [
+    { "order": 1, "kind": "reading", "title": "Tae Kim's Guide to Japanese Grammar: the section on casual patterns and slang", "where": "Website · Tae Kim's Guide to Japanese Grammar", "url": "", "search": "Tae Kim casual patterns and slang", "when": "After the grammar block, as a second explanation. His pages on てしまう, ておく and \"must\" also mention the spoken forms (ちゃう, とく, なきゃ); compare each one with its full form." },
+    { "order": 2, "kind": "video", "title": "Japanese Ammo with Misa: casual contractions (ちゃう, とく, てる, なきゃ)", "where": "YouTube · Japanese Ammo with Misa channel", "url": "", "search": "Japanese Ammo with Misa casual contractions chau toku", "when": "After point d. If there's no single video, search for ちゃう and なきゃ separately." },
+    { "order": 3, "kind": "input", "title": "Nihongo con Teppei: listen to one episode and note every てる, ちゃう, んだ or って you catch", "where": "Podcast · Nihongo con Teppei", "url": "", "search": "Nihongo con Teppei podcast", "when": "On any day after the lesson. Relaxed, spoken Japanese is where contractions live; for each one, say the full form in your head." }
+  ],
+  "homework": {
+    "intro": "Do it by hand in your notebook. Write with the kanji you already know and use kana for the rest. For every contraction, write the full form next to it: that's the skill that makes real speech understandable. Only then open the answer key, item by item. Circle what you got wrong and redo it the next day.",
+    "tasks": [
+      {
+        "id": "h1",
+        "type": "transform",
+        "prompt": "Say it like a friend would: turn the full form into its contraction.",
+        "items": [
+          { "q": "かぎをなくしてしまった。", "a": { "jp": "かぎをなくしちゃった。", "romaji": "Kagi o nakushichatta." }, "note": "てしまった → ちゃった." },
+          { "q": "もう全部飲んでしまった。", "a": { "jp": "もう全部飲んじゃった。", "kana": "もうぜんぶのんじゃった。", "romaji": "Mō zenbu nonjatta." }, "note": "でしまった → じゃった, after 飲んで." },
+          { "q": "窓を開けておいて。", "a": { "jp": "窓を開けといて。", "kana": "まどをあけといて。", "romaji": "Mado o aketoite." }, "note": "ておいて → といて (a casual request)." },
+          { "q": "今、音楽を聞いている。", "a": { "jp": "今、音楽を聞いてる。", "kana": "いま、おんがくをきいてる。", "romaji": "Ima, ongaku o kiiteru." }, "note": "ている → てる." },
+          { "q": "明日は早く起きなければいけない。", "a": { "jp": "明日は早く起きなきゃ。", "kana": "あしたははやくおきなきゃ。", "romaji": "Ashita wa hayaku okinakya." }, "note": "なければいけない → なきゃ. いけない can stay (起きなきゃいけない), and 起きなくちゃ is also right." },
+          { "q": "いいじゃない、一緒に行こうよ。", "a": { "jp": "いいじゃん、一緒に行こうよ。", "kana": "いいじゃん、いっしょにいこうよ。", "romaji": "Ii jan, issho ni ikō yo." }, "note": "A confirmation じゃない → じゃん." }
+        ]
+      },
+      {
+        "id": "h2",
+        "type": "transform",
+        "prompt": "Now the other way: rebuild the full form, then translate.",
+        "items": [
+          { "q": "何してんの？", "a": { "jp": "何をしているの？", "kana": "なにをしているの？", "romaji": "Nani o shite iru no?", "en": "What are you doing?" }, "note": "てる = ている, and る → ん before の; casual speech also drops を." },
+          { "q": "この本、読んどいて。", "a": { "jp": "この本を読んでおいて。", "kana": "このほんをよんでおいて。", "romaji": "Kono hon o yonde oite.", "en": "Read this book (before we meet), will you?" }, "note": "どいて = でおいて, after 読んで." },
+          { "q": "遅れちゃだめだよ。", "a": { "jp": "遅れてはだめだよ。", "kana": "おくれてはだめだよ。", "romaji": "Okurete wa dame da yo.", "en": "Don't be late!" }, "note": "ちゃ + だめ = ては + だめ, not てしまう." },
+          { "q": "もう行かなくちゃ。", "a": { "jp": "もう行かなくてはいけない。", "kana": "もういかなくてはいけない。", "romaji": "Mō ikanakute wa ikenai.", "en": "I have to go now." } },
+          { "q": "雨、やんだって。", "a": { "jp": "雨がやんだと言っていた。", "kana": "あめがやんだといっていた。", "romaji": "Ame ga yanda to itte ita.", "en": "They said the rain has stopped." }, "note": "って = と (a quote). やんだ is just the past of やむ (to stop raining) — not the explaining んだ." }
+        ]
+      },
+      {
+        "id": "h3",
+        "type": "identify",
+        "prompt": "Which job is it? For each って or んだ, say whether it's a topic って, a quote って, an explaining んだ or just a past tense, and translate.",
+        "items": [
+          { "q": "田中さんって、どんな人？", "a": { "en": "Topic って (= は): \"What kind of person is Tanaka?\"" } },
+          { "q": "明日は休みだって。", "a": { "en": "Quote って (= と): \"I hear tomorrow's a day off.\"" } },
+          { "q": "昨日、映画を見に行ったんだ。", "a": { "en": "Explaining んだ, after the full past 行った: \"I went to see a movie yesterday, you see.\"" } },
+          { "q": "昨日、ビールを飲んだ。", "a": { "en": "Just the past: 飲んだ is the past of 飲む — take んだ off and no verb is left. \"I drank beer yesterday.\"" } },
+          { "q": "「ヅオリンゴー」っていうアプリ、知ってる？", "a": { "en": "って = と inside っていう (= という, \"called\"): \"Do you know an app called ヅオリンゴー?\" (And 知ってる = 知っている.)" } }
+        ]
+      },
+      {
+        "id": "h4",
+        "type": "produce",
+        "prompt": "Rewrite this polite exchange as a chat between two friends, with at least 4 contractions from this lesson: 宿題を忘れてしまいました。— だから昨日言ったじゃないですか。— 今から取りに帰らなければいけません。— じゃあ、先生に言っておきますね。 Then read both versions aloud and record them.",
+        "items": [
+          { "q": "Model (match its structure, not its words):", "a": { "jp": "宿題、忘れちゃった。— だから昨日言ったじゃん。— 今から取りに帰らなきゃ。— じゃあ、先生に言っとくね。", "kana": "しゅくだい、わすれちゃった。— だからきのういったじゃん。— いまからとりにかえらなきゃ。— じゃあ、せんせいにいっとくね。", "romaji": "Shukudai, wasurechatta. — Dakara kinō itta jan. — Ima kara tori ni kaeranakya. — Jā, sensei ni ittoku ne.", "en": "I forgot my homework. — I told you yesterday! — I have to go home and get it now. — OK, I'll let the teacher know." }, "note": "Check: ちゃった (てしまった), じゃん (confirmation じゃない), なきゃ (なければいけない), とく (ておく), and that casual speech often drops を. The polite version is still the one for a teacher or a boss." }
+        ]
+      }
+    ],
+    "workbook": []
+  },
+  "practice": [
+    { "tool": "Wagotabi", "what": "Play in the game's N3 area and hunt for contractions in casual dialogue: ちゃう／じゃう, とく, てる, なきゃ／なくちゃ, じゃん, んだ, って. For each one, pause and say the full form aloud (食べちゃった → 食べてしまった). Log the session in Immersion → Games, paste one line into 🔬 Anatomy and save it with Mining (⛏).", "min": 15 },
+    { "tool": "NHK NEWS WEB EASY", "what": "Read one article with a pop-up dictionary such as Yomitan. The news uses full forms (〜ています, 〜なければなりません): notice them. Then pick 2 sentences and say aloud how a friend would tell you the same news casually (〜てるんだって, 〜なきゃいけないんだって).", "min": 10 },
+    { "tool": "ヅオリンゴー · Journal", "what": "Write a 5-line text chat with a friend about weekend plans, using ちゃった, とく, てる, なきゃ and じゃん. Run \"Anatomy of what I wrote\", and in your notebook write the full form under each line.", "min": 10 },
+    { "tool": "Shadowing", "what": "Tap 🔊 on each example in this lesson and repeat along 3 times, at full speed. Contractions exist because they're fast: aim for the rhythm, not for careful syllables.", "min": 5 },
+    { "tool": "Speaking", "what": "Record the homework h4 dialogue twice: first the polite version, then the casual one. Listen back — the casual one should sound faster and softer, not ruder.", "min": 5 }
+  ],
+  "culture": {
+    "title": "The Kansai dialect (関西弁)",
+    "titleJp": "かんさいべん",
+    "body": "**関西弁** (かんさいべん) is the group of dialects spoken around Osaka, Kyoto and Kobe, and it's probably the regional speech you'll hear most on Japanese TV, especially from comedians. Three features are easy to spot. The negative **〜へん** replaces 〜ない: わからへん = わからない, 行かへん = 行かない (Sakubi mentions あらへん for \"there isn't\"). **や** replaces だ: そうや = そうだ, ほんまや = 本当だ (\"it's true\"). And **おおきに** means \"thank you\", a traditional word you may still hear from older people or in shops in Kyoto and Osaka. Kansai speech also has its own pitch accent, so familiar words can sound different. You don't need to speak it — standard Japanese works everywhere — but recognizing these forms helps a lot with TV, manga and travel.",
+    "try": "Turn 3 standard sentences into Kansai style aloud, then back again: わからない → わからへん; そうだね → そうやね; ありがとう → おおきに."
+  },
+  "checklist": [
+    "For ちゃう／じゃう, とく, てる and なきゃ／なくちゃ, I can give the full form without looking.",
+    "I can tell 食べちゃった (ended up eating) from 食べちゃだめ (you mustn't eat).",
+    "I can hear the difference between 持っとく and 持ってく, and between 読んでる and 読んどく.",
+    "I use じゃん only for confirmation, never as a real negative.",
+    "I can tell 飲んだ (past) from 飲むんだ／飲んだんだ (explaining), and say which job a って is doing.",
+    "I know when not to use contractions: with a boss, a customer, and in writing.",
+    "I can recognize へん, や and おおきに as Kansai speech.",
+    "I did the homework, checked it against the answer key and redid what I got wrong."
+  ],
+  "credits": [
+    "Explanations adapted in part from Sakubi (public domain, CC0) — sakubi.neocities.org",
+    "Study method informed by the DJT Guide to Japanese — djtguide.neocities.org/guide"
+  ]
+}

@@ -1,0 +1,240 @@
+{
+  "id": "V-05",
+  "unit": "V",
+  "genki": null,
+  "title": "Konbini and shopping",
+  "titleJp": "コンビニと買い物",
+  "canDo": [
+    "I can recognize the four questions a konbini cashier usually asks (bag, heating, point card, receipt) and answer each one politely.",
+    "I can accept with はい、お願いします and decline with いいえ、大丈夫です or いいえ、けっこうです, so the cashier knows exactly what I mean.",
+    "In a clothes shop, I can ask to try something on, ask for another color and ask for a slightly bigger or smaller size.",
+    "I can ask whether a shop offers tax-free shopping (免税できますか) and I know I will be asked for my passport."
+  ],
+  "duration": {
+    "total": "60–75 min",
+    "blocks": [
+      { "t": "Warm-up: say aloud 5 things you would buy at a konbini (お弁当, 水, おにぎり…) with 〜をください", "min": 5 },
+      { "t": "Vocabulary: tap 🔊 on each word and repeat it twice", "min": 10 },
+      { "t": "Situations 4a–4d: read each dialogue aloud, doing both voices, plus one 🔬 per situation", "min": 25 },
+      { "t": "Video (block 6): hear the cashier's questions at real speed", "min": 10 },
+      { "t": "Notebook homework + checking it against the answer key", "min": 15 },
+      { "t": "Checklist (block 10) + write your questions in the lesson notebook", "min": 5 }
+    ]
+  },
+  "prereqs": {
+    "aulas": ["V-01", "06-4"],
+    "skills": [
+      "Asking for things with 〜をください and 〜をおねがいします (lesson 02-2), and asking whether something exists with 〜はありますか (lesson 04-1).",
+      "Asking permission with 〜てもいいですか (lesson 06-3): it is the base of 試着してもいいですか.",
+      "Giving a reason with 〜から (lesson 06-4).",
+      "Some phrases use forms you haven't studied yet: the shop-speech forms お持ちです, おつけします and ございます, and できる (\"can do\", lesson 13-1). Here they are ready-made blocks: learn to recognize them and repeat them."
+    ],
+    "vocab": [
+      { "jp": "コンビニ", "kana": "コンビニ", "romaji": "konbini", "en": "convenience store (konbini)" },
+      { "jp": "レジ", "kana": "レジ", "romaji": "reji", "en": "register, checkout (where you pay)" },
+      { "jp": "袋", "kana": "ふくろ", "romaji": "fukuro", "en": "bag" },
+      { "jp": "レジ袋", "kana": "レジぶくろ", "romaji": "rejibukuro", "en": "plastic bag from the register" },
+      { "jp": "エコバッグ", "kana": "エコバッグ", "romaji": "ekobaggu", "en": "reusable shopping bag" },
+      { "jp": "ご利用", "kana": "ごりよう", "romaji": "goriyō", "en": "use (shop word: ご利用ですか = will you use…?)" },
+      { "jp": "要る", "kana": "いる", "romaji": "iru", "en": "to need (要りますか = do you need…?; often written in kana)" },
+      { "jp": "お弁当", "kana": "おべんとう", "romaji": "obentō", "en": "boxed meal, bento" },
+      { "jp": "温める", "kana": "あたためる", "romaji": "atatameru", "en": "to heat up, to warm" },
+      { "jp": "お箸", "kana": "おはし", "romaji": "ohashi", "en": "chopsticks" },
+      { "jp": "レシート", "kana": "レシート", "romaji": "reshīto", "en": "receipt (the ordinary till slip)" },
+      { "jp": "ポイントカード", "kana": "ポイントカード", "romaji": "pointo kādo", "en": "point card, loyalty card" },
+      { "jp": "持っています", "kana": "もっています", "romaji": "motte imasu", "en": "I have (it with me)" },
+      { "jp": "大丈夫です", "kana": "だいじょうぶです", "romaji": "daijōbu desu", "en": "it's all right; (in a shop) no need, I'm fine" },
+      { "jp": "けっこうです", "kana": "けっこうです", "romaji": "kekkō desu", "en": "no, thank you (formal)" },
+      { "jp": "試着する", "kana": "しちゃくする", "romaji": "shichaku suru", "en": "to try on (clothes)" },
+      { "jp": "試着室", "kana": "しちゃくしつ", "romaji": "shichakushitsu", "en": "fitting room" },
+      { "jp": "他の", "kana": "ほかの", "romaji": "hoka no", "en": "other, another" },
+      { "jp": "色", "kana": "いろ", "romaji": "iro", "en": "color" },
+      { "jp": "サイズ", "kana": "サイズ", "romaji": "saizu", "en": "size" },
+      { "jp": "もう少し", "kana": "もうすこし", "romaji": "mō sukoshi", "en": "a little more, slightly" },
+      { "jp": "考える", "kana": "かんがえる", "romaji": "kangaeru", "en": "to think (about), to consider" },
+      { "jp": "免税", "kana": "めんぜい", "romaji": "menzei", "en": "tax exemption, tax-free" },
+      { "jp": "パスポート", "kana": "パスポート", "romaji": "pasupōto", "en": "passport" },
+      { "jp": "カード", "kana": "カード", "romaji": "kādo", "en": "card (credit or debit card)" }
+    ]
+  },
+  "grammar": [
+    {
+      "id": "V-05-a",
+      "gc": null,
+      "title": "At the register (1): bag and point card",
+      "gloss": "the first questions at the register, and how to answer",
+      "explanation": "At a konbini or a supermarket, the cashier scans your items and asks short, fast questions that almost always follow the same pattern. You don't need to understand the whole sentence: **catch the keyword**, which comes first, and answer.\n• **袋** (ふくろ, bag): 袋はご利用ですか。 (\"Will you use a bag?\") or 袋は要りますか。 (\"Do you need a bag?\" — often written in kana: いりますか). The first is more formal, with ご利用 (\"use\"). Both take the same answer.\n• **ポイントカード** (the chain's loyalty card): ポイントカードはお持ちですか。 (\"Do you have a point card?\"). お持ちです is the respectful form of 持っています and is only used about the customer. About yourself, use the plain verb: 持っていません.\n• **To accept:** はい、お願いします。\n• **To decline:** いいえ、大丈夫です。 (\"No, I'm fine\" — no need), or, more formal, いいえ、けっこうです。 Say the いいえ: it makes the \"no\" unmistakable.\n• The blocks: [袋は] is the TOPIC (\"as for a bag…\") and [ご利用ですか] is the PREDICATE, at the end. Read from the end: \"will you use?\" → what? → a bag.\n• Going further (Sakubi): shop speech is **keigo**, a formal register. Keigo words work like polite euphemisms — longer and less direct than the everyday word: お持ちです for 持っています, ございます for あります. You only need to **recognize** them; your answers can stay in simple です/ます.\n• If you don't catch the question, it's fine to say すみません、もう一度お願いします。 Lesson V-06 drills this.",
+      "structure": "[item] は ご利用ですか／要りますか。 → はい、お願いします。 ／ いいえ、大丈夫です。",
+      "examples": [
+        { "jp": "袋はご利用ですか。— はい、お願いします。", "kana": "ふくろはごりようですか。— はい、おねがいします。", "romaji": "Fukuro wa goriyō desu ka. — Hai, onegai shimasu.", "en": "Cashier: Will you use a bag? — You: Yes, please." },
+        { "jp": "袋は要りますか。— いいえ、大丈夫です。", "kana": "ふくろはいりますか。— いいえ、だいじょうぶです。", "romaji": "Fukuro wa irimasu ka. — Iie, daijōbu desu.", "en": "Cashier: Do you need a bag? — You: No, I'm fine. [= I don't need one]" },
+        { "jp": "ポイントカードはお持ちですか。— いいえ、持っていません。", "kana": "ポイントカードはおもちですか。— いいえ、もっていません。", "romaji": "Pointo kādo wa omochi desu ka. — Iie, motte imasen.", "en": "Cashier: Do you have a point card? — You: No, I don't." }
+      ],
+      "pitfalls": [
+        "A clear \"no\" starts with いいえ: 大丈夫です on its own, with no gesture ✗ → いいえ、大丈夫です, with a small wave of the hand ✓. Alone, 大丈夫です can sound like \"that's fine, go ahead\", and the cashier may not know which you mean.",
+        "Don't answer with the words of the question: はい、ご利用です ✗ → はい、お願いします ✓. The question is about the shop's service; you only accept or decline.",
+        "お持ちです is respectful and only for the other person. About yourself: いいえ、お持ちではありません ✗ → いいえ、持っていません ✓.",
+        "Written in kana with no spaces, reading 袋はいりますか as 袋 + はいります (\"enter\") ✗ → 袋は + いります (\"need\") ✓. Find the particle は first, then the verb."
+      ],
+      "howToStudy": [
+        "Play cashier and customer by yourself, out loud: read the question fast, in a cashier's voice, and answer with no pause. Alternate accepting and declining.",
+        "Tap 🔬 on example 1: [袋は] is the TOPIC and [ご利用ですか] the PREDICATE; in the answer, はい is an INTERJECTION and お願いします is a PREDICATE of its own. At the register, listen for the TOPIC keyword (袋, ポイントカード).",
+        "In your notebook, draw a table with 3 columns — keyword, \"yes\" and \"no\" — and fill it with this situation's phrases."
+      ],
+      "flag": null
+    },
+    {
+      "id": "V-05-b",
+      "gc": null,
+      "title": "At the register (2): heating, chopsticks, receipt",
+      "gloss": "when you buy ready-to-eat food",
+      "explanation": "If you buy ready-to-eat food (a bento, pasta, a fried snack), the cashier often asks whether you want it heated in the shop's microwave: **温めますか**。 (あたためますか, \"Shall I heat it up?\"). Sometimes the item comes first: お弁当は温めますか。\n• With food you may also hear **お箸はおつけしますか**。 (\"Shall I put in chopsticks?\"). おつけします is the humble form of つけます (\"to add, to include\"): recognize it, but you don't need to say it. The same pattern comes with スプーン (spoon).\n• At the end, the receipt: **レシートは要りますか**。 In many shops the receipt prints anyway, and there is often a small box by the register for receipts people don't want.\n• The answers follow the previous situation: はい、お願いします。 ／ いいえ、大丈夫です。 To keep the food as it is: いいえ、そのままで大丈夫です。 (\"No, it's fine as it is.\")\n• The blocks: 温めますか has no subject and no object. Japanese drops what is obvious: the cashier is the one heating, and the object is the food in their hands. The PREDICATE alone is a full sentence.\n• To ask without being asked: これ、温めてください。 (〜てください, lesson 06-2).\n• Going further (Sakubi): ください comes from a verb meaning \"to give\" (くださる). It asks for something **for your benefit**, which is why it fits requests to shop staff so well.",
+      "structure": "[food] は 温めますか。 → はい、お願いします。 ／ いいえ、そのままで大丈夫です。",
+      "examples": [
+        { "jp": "お弁当は温めますか。— はい、お願いします。", "kana": "おべんとうはあたためますか。— はい、おねがいします。", "romaji": "Obentō wa atatamemasu ka. — Hai, onegai shimasu.", "en": "Cashier: Shall I heat up your bento? — You: Yes, please." },
+        { "jp": "お箸はおつけしますか。— いいえ、大丈夫です。", "kana": "おはしはおつけしますか。— いいえ、だいじょうぶです。", "romaji": "Ohashi wa otsuke shimasu ka. — Iie, daijōbu desu.", "en": "Cashier: Shall I put in chopsticks? — You: No, I'm fine.", "noAnat": true },
+        { "jp": "レシートは要りますか。— いいえ、けっこうです。", "kana": "レシートはいりますか。— いいえ、けっこうです。", "romaji": "Reshīto wa irimasu ka. — Iie, kekkō desu.", "en": "Cashier: Do you need the receipt? — You: No, thank you." }
+      ],
+      "pitfalls": [
+        "The question is about what the cashier will do, so don't repeat the verb: はい、温めます ✗ (\"yes, I'll heat it\") → はい、お願いします ✓.",
+        "You don't need shop speech yourself. To ask for chopsticks: お箸をおつけします ✗ (that's the clerk's line) → お箸をください ✓, simple and polite.",
+        "For a formal receipt (for example, to claim expenses): レシートをお願いします ✗ gets you the ordinary till slip → 領収書をお願いします (りょうしゅうしょ) ✓."
+      ],
+      "howToStudy": [
+        "Shadowing: tap 🔊 on お弁当は温めますか。 and repeat it at a cashier's speed. Then answer with no pause.",
+        "Build the whole dialogue of buying a bento (温める, お箸, 袋, レシート) and say it aloud, in that order.",
+        "Tap 🔬 on example 1: [お弁当は] is the TOPIC and [温めますか] the PREDICATE. Then say the question without the topic — 温めますか — and notice that it is still a complete sentence."
+      ],
+      "flag": null
+    },
+    {
+      "id": "V-05-c",
+      "gc": null,
+      "title": "In a clothes shop: trying on, another color, another size",
+      "gloss": "the three fitting-room phrases",
+      "explanation": "In a clothes shop, staff often come over to offer help. The three key phrases are:\n• **試着してもいいですか。** (しちゃくしてもいいですか, \"May I try it on?\"). It is 〜てもいいですか from lesson 06-3 with the verb 試着する (\"to try on clothes\"). The clerk shows you the fitting room: こちらへどうぞ。 In many shops you take your shoes off before stepping into the fitting room, and some hand you a face cover (フェイスカバー) so makeup doesn't mark the clothes.\n• **他の色はありますか。** (ほかのいろはありますか, \"Do you have another color?\"). [他の色は] is the TOPIC and [ありますか] the PREDICATE. In the answer you may hear ございます — the shop-speech あります.\n• **もう少し大きいサイズはありますか。** (\"Do you have a slightly bigger size?\"). The opposite is もう少し小さいサイズ. You will also hear 大きいの (\"a bigger one\"), where の stands in for the item — that の comes in lesson 10-2.\n• To buy it: **これをください。** To leave without buying, with no awkwardness: **ちょっと考えます。** (\"I'll think about it.\")\n• When you hand the clothes back after trying them on, say ありがとうございました。\n• Going further (Sakubi): いい just means \"good, fine\". 〜てもいいですか literally asks \"is it fine even if I do…?\" — that is why it works as \"may I…?\".",
+      "structure": "[verb て] もいいですか。 · [N] は ありますか。 · もう少し [adjective] サイズは ありますか。",
+      "examples": [
+        { "jp": "すみません、これ、試着してもいいですか。— はい、どうぞ。こちらへどうぞ。", "kana": "すみません、これ、しちゃくしてもいいですか。— はい、どうぞ。こちらへどうぞ。", "romaji": "Sumimasen, kore, shichaku shite mo ii desu ka. — Hai, dōzo. Kochira e dōzo.", "en": "You: Excuse me, may I try this on? — Clerk: Of course. This way, please." },
+        { "jp": "他の色はありますか。— はい、白と黒がございます。", "kana": "ほかのいろはありますか。— はい、しろとくろがございます。", "romaji": "Hoka no iro wa arimasu ka. — Hai, shiro to kuro ga gozaimasu.", "en": "You: Do you have another color? — Clerk: Yes, we have white and black." },
+        { "jp": "もう少し大きいサイズはありますか。— 少々お待ちください。", "kana": "もうすこしおおきいサイズはありますか。— しょうしょうおまちください。", "romaji": "Mō sukoshi ōkii saizu wa arimasu ka. — Shōshō omachi kudasai.", "en": "You: Do you have a slightly bigger size? — Clerk: One moment, please." }
+      ],
+      "pitfalls": [
+        "Don't drop the もいい: 試着してください ✗ (that tells the clerk to try it on!) → 試着してもいいですか ✓.",
+        "\"Bigger\" needs a noun after it: もう少し大きいはありますか ✗ → もう少し大きいサイズはありますか ✓ (or 大きいの, where の replaces the noun).",
+        "Shoes and the fitting room: stepping in with your shoes on when there is a raised floor or a mat at the entrance ✗ → take them off at the entrance ✓. It's a common tourist slip."
+      ],
+      "howToStudy": [
+        "Role-play with 3 imaginary items: for each one, ask to try it on, ask for another color and ask for a bigger or smaller size. Out loud.",
+        "Tap 🔬 on example 3: もう少し is HOW, 大きい is DESCRIBES NEXT (it describes サイズ), [サイズは] is the TOPIC and [ありますか] the PREDICATE.",
+        "Record yourself doing the whole scene, from 試着してもいいですか to これをください or ちょっと考えます."
+      ],
+      "flag": null
+    },
+    {
+      "id": "V-05-d",
+      "gc": null,
+      "title": "Tax-free (免税)",
+      "gloss": "buying without the consumption tax, as a visitor",
+      "explanation": "Many shops that serve tourists display a **Tax-Free** or **免税** (めんぜい) sign. Visitors to Japan can get the consumption tax back on some purchases, under certain rules. In general terms:\n• You need your **original passport**. A photo of it on your phone usually won't do.\n• Not every shop offers it, and there is usually a **minimum amount** per shop.\n• Some shops handle it at the register; big stores often have a separate **tax-free counter** (免税カウンター), sometimes on a specific floor.\n• Customs may check what you bought when you leave Japan.\n• **The rules change** (see the note at the bottom of this point): check on site, and on Japan's official tourism website before you travel.\n• The phrase: **免税できますか。** (\"Can I get this tax-free?\"). You'll hear **パスポートをお願いします。** or パスポートはお持ちですか。 If an item doesn't qualify: 対象外です (たいしょうがいです, \"it isn't eligible\").\n• The blocks: in 免税できますか, できますか is the PREDICATE (\"is it possible?\") and 免税 is what is possible.\n• Going further (Sakubi): できる does double duty as the \"can\" form of する — that is how 免税 + できます comes to mean \"tax-free is possible\". You'll meet \"can\" forms properly in lesson 13-1.",
+      "structure": "すみません、免税できますか。 → パスポートをお願いします。",
+      "examples": [
+        { "jp": "すみません、免税できますか。— はい、パスポートをお願いします。", "kana": "すみません、めんぜいできますか。— はい、パスポートをおねがいします。", "romaji": "Sumimasen, menzei dekimasu ka. — Hai, pasupōto o onegai shimasu.", "en": "You: Excuse me, can I get this tax-free? — Clerk: Yes, your passport, please." },
+        { "jp": "免税カウンターはどこですか。— 3階でございます。", "kana": "めんぜいカウンターはどこですか。— さんがいでございます。", "romaji": "Menzei kauntā wa doko desu ka. — Sangai de gozaimasu.", "en": "You: Where is the tax-free counter? — Clerk: It's on the third floor." },
+        { "jp": "これも免税になりますか。— すみません、こちらは対象外です。", "kana": "これもめんぜいになりますか。— すみません、こちらはたいしょうがいです。", "romaji": "Kore mo menzei ni narimasu ka. — Sumimasen, kochira wa taishōgai desu.", "en": "You: Is this one tax-free too? — Clerk: I'm sorry, this item isn't eligible." }
+      ],
+      "pitfalls": [
+        "Bring the real passport: a photo of your passport on your phone ✗ → the original passport in your bag ✓.",
+        "Tax-free is not a discount you bargain for: 安くしてください ✗ (\"make it cheaper\") → 免税できますか ✓. Shops in Japan generally don't haggle.",
+        "Ask before you pay: paying first and remembering later ✗ → 免税できますか, then pay ✓. In some big stores you pay at the normal register and take the receipt to the tax-free counter the same day; asking first avoids mistakes."
+      ],
+      "howToStudy": [
+        "Say the whole sequence aloud: すみません、免税できますか。 → パスポートをお願いします。 → はい、どうぞ。 (handing over your passport).",
+        "In your notebook, write what to bring and what to ask on a tax-free purchase, with the phrases in Japanese.",
+        "Tap 🔬 on example 1: すみません is an INTERJECTION and 免税できますか the PREDICATE; in the answer, [パスポートを] is the OBJECT of お願いします."
+      ],
+      "flag": "Tax-free: Japan announced a switch to a refund system — you pay the full price with tax in the shop, and the tax is refunded after customs checks your purchases when you leave the country — planned to start in November 2026. I could not confirm how it works in practice, or which conditions (minimum amount, sealed packaging for food and cosmetics) still apply. Before your trip, check the current rules on the official Japan tourism site (JNTO) and ask in the shop."
+    }
+  ],
+  "media": [
+    { "order": 1, "kind": "video", "title": "A konbini checkout at real speed: any video with the cashier's questions role-played", "where": "YouTube · a travel-Japanese channel (pick a video with a role-played scene)", "url": "", "search": "Japanese convenience store phrases konbini cashier", "when": "After situations 4a and 4b: listen once without subtitles and try to catch 袋, 温めますか and レシート" },
+    { "order": 2, "kind": "reading", "title": "Irodori (Japan Foundation) — free course: find the topics on shopping in the table of contents and do their listening and speaking tasks", "where": "Irodori: Japanese for Life in Japan · the Japan Foundation's free course (search for it by name)", "url": "", "search": "Irodori Japanese for Life in Japan", "when": "After the homework" }
+  ],
+  "homework": {
+    "intro": "Do it by hand in your notebook. Write the Japanese with the kanji you know and kana for the rest; the answer key always gives the reading. Only then open the answer key, item by item. Circle what you got wrong and redo it the next day.",
+    "tasks": [
+      {
+        "id": "h1",
+        "type": "complete",
+        "prompt": "Complete the customer's answer (yours), following the instruction in brackets.",
+        "items": [
+          { "q": "袋はご利用ですか。— ＿＿＿ (accept)", "a": { "jp": "はい、お願いします。", "kana": "はい、おねがいします。", "romaji": "Hai, onegai shimasu." } },
+          { "q": "お弁当は温めますか。— ＿＿＿ (decline: it's fine as it is)", "a": { "jp": "いいえ、そのままで大丈夫です。", "kana": "いいえ、そのままでだいじょうぶです。", "romaji": "Iie, sono mama de daijōbu desu." } },
+          { "q": "ポイントカードはお持ちですか。— ＿＿＿ (you don't have one)", "a": { "jp": "いいえ、持っていません。", "kana": "いいえ、もっていません。", "romaji": "Iie, motte imasen." }, "note": "About yourself, 持っていません — without the お of the question." },
+          { "q": "レシートは要りますか。— ＿＿＿ (decline, formal)", "a": { "jp": "いいえ、けっこうです。", "romaji": "Iie, kekkō desu." } },
+          { "q": "スプーンはおつけしますか。— ＿＿＿ (decline)", "a": { "jp": "いいえ、大丈夫です。", "kana": "いいえ、だいじょうぶです。", "romaji": "Iie, daijōbu desu." }, "note": "スプーン = spoon. Anything the cashier offers follows the same pattern." }
+        ]
+      },
+      {
+        "id": "h2",
+        "type": "build",
+        "prompt": "Build the dialogue: write the question that matches each answer.",
+        "items": [
+          { "q": "— はい、お願いします。 (You bought a bento and the cashier wants to know whether to heat it.)", "a": { "jp": "お弁当は温めますか。", "kana": "おべんとうはあたためますか。", "romaji": "Obentō wa atatamemasu ka." }, "note": "Just 温めますか。 is also correct." },
+          { "q": "— いいえ、持っていません。 (The cashier asked about the point card.)", "a": { "jp": "ポイントカードはお持ちですか。", "kana": "ポイントカードはおもちですか。", "romaji": "Pointo kādo wa omochi desu ka." } },
+          { "q": "— はい、どうぞ。こちらへどうぞ。 (You are in a clothes shop, holding a shirt.)", "a": { "jp": "試着してもいいですか。", "kana": "しちゃくしてもいいですか。", "romaji": "Shichaku shite mo ii desu ka." }, "note": "Here you, the customer, are the one asking." },
+          { "q": "— はい、パスポートをお願いします。", "a": { "jp": "免税できますか。", "kana": "めんぜいできますか。", "romaji": "Menzei dekimasu ka." } }
+        ]
+      },
+      {
+        "id": "h3",
+        "type": "translate",
+        "prompt": "Translate into Japanese.",
+        "items": [
+          { "q": "Excuse me, do you have another color?", "a": { "jp": "すみません、他の色はありますか。", "kana": "すみません、ほかのいろはありますか。", "romaji": "Sumimasen, hoka no iro wa arimasu ka." } },
+          { "q": "Do you have a slightly smaller size?", "a": { "jp": "もう少し小さいサイズはありますか。", "kana": "もうすこしちいさいサイズはありますか。", "romaji": "Mō sukoshi chiisai saizu wa arimasu ka." }, "note": "Also correct: もう少し小さいのはありますか。 — the の replaces the noun." },
+          { "q": "I'll take this one. (\"Please give me this.\")", "a": { "jp": "これをください。", "romaji": "Kore o kudasai." } },
+          { "q": "I'll think about it.", "a": { "jp": "ちょっと考えます。", "kana": "ちょっとかんがえます。", "romaji": "Chotto kangaemasu." }, "note": "The polite way to leave without buying." },
+          { "q": "Where is the fitting room?", "a": { "jp": "試着室はどこですか。", "kana": "しちゃくしつはどこですか。", "romaji": "Shichakushitsu wa doko desu ka." } },
+          { "q": "Do you need a bag? — No, I'm fine. I have a reusable bag.", "a": { "jp": "袋は要りますか。— いいえ、大丈夫です。エコバッグを持っていますから。", "kana": "ふくろはいりますか。— いいえ、だいじょうぶです。エコバッグをもっていますから。", "romaji": "Fukuro wa irimasu ka. — Iie, daijōbu desu. Ekobaggu o motte imasu kara." }, "note": "から (lesson 06-4) gives the reason; here it comes as an afterthought, after the answer — very common in speech." }
+        ]
+      },
+      {
+        "id": "h4",
+        "type": "produce",
+        "prompt": "Written role-play: write an 8–10-line scene at a konbini. You buy a bento; the cashier asks whether to heat it, whether you want a bag, whether you have a point card, how you'll pay and whether you want the receipt. Then read it aloud, doing both voices, and record it.",
+        "items": [
+          { "q": "Model (match its structure, not its words):", "a": { "jp": "いらっしゃいませ。お弁当は温めますか。— はい、お願いします。— 袋はご利用ですか。— いいえ、大丈夫です。— ポイントカードはお持ちですか。— いいえ、持っていません。— お支払いはどうなさいますか。— カードでお願いします。— レシートは要りますか。— いいえ、けっこうです。— ありがとうございました。", "kana": "いらっしゃいませ。おべんとうはあたためますか。— はい、おねがいします。— ふくろはごりようですか。— いいえ、だいじょうぶです。— ポイントカードはおもちですか。— いいえ、もっていません。— おしはらいはどうなさいますか。— カードでおねがいします。— レシートはいりますか。— いいえ、けっこうです。— ありがとうございました。", "romaji": "Irasshaimase. Obentō wa atatamemasu ka. — Hai, onegai shimasu. — Fukuro wa goriyō desu ka. — Iie, daijōbu desu. — Pointo kādo wa omochi desu ka. — Iie, motte imasen. — Oshiharai wa dō nasaimasu ka. — Kādo de onegai shimasu. — Reshīto wa irimasu ka. — Iie, kekkō desu. — Arigatō gozaimashita.", "en": "Welcome. Shall I heat up your bento? — Yes, please. — Will you use a bag? — No, I'm fine. — Do you have a point card? — No, I don't. — How would you like to pay? — By card, please. — Do you need the receipt? — No, thank you. — Thank you very much." }, "note": "Check: お願いします to accept, いいえ + 大丈夫です／けっこうです to decline, 持っていません (no お) about yourself, and です/ます in all your lines. お支払い = payment; 現金で (げんきんで) = in cash." }
+        ]
+      }
+    ],
+    "workbook": []
+  },
+  "practice": [
+    { "tool": "Role-play out loud", "what": "Play cashier and customer by yourself, switching roles every round: 3 rounds at the konbini (use homework h4, changing yes and no each time) and 2 in the clothes shop (situation 4c). In the cashier's voice, speak fast, like in a real shop.", "min": 10 },
+    { "tool": "Speaking · record yourself", "what": "Record your konbini role-play (h4) in 60 seconds or less. Listen: did you answer without a long pause? Did you say いいえ when declining? Record it again and compare.", "min": 5 },
+    { "tool": "Shadowing", "what": "Tap 🔊 on each example in this lesson and repeat along 3 times, especially the cashier's questions (袋はご利用ですか, 温めますか, ポイントカードはお持ちですか), so you recognize them at real speed.", "min": 5 },
+    { "tool": "ヅオリンゴー · Journal", "what": "In the Journal, write 3 sentences you would say in a clothes shop (trying on, another color, another size). Then open \"Anatomy of what I wrote\" and check which block is the PREDICATE.", "min": 10 },
+    { "tool": "ヅオリンゴー · Mining", "what": "Save the 4 cashier questions of this lesson with Mining so they come back in your SRS. These are lines you need to **recognize**, not produce — recognition and production are separate skills, so train the one you need: Japanese on the front, meaning and your answer on the back.", "min": 5 }
+  ],
+  "culture": {
+    "title": "Paid bags at the register",
+    "titleJp": "レジぶくろ",
+    "body": "Since 2020, shops in Japan have generally **charged for plastic bags at the register** (レジ袋), under a national rule to cut plastic use. That's why the cashier asks 袋はご利用ですか before packing, and the bag shows up as an extra item on the receipt. Many people carry a folded **エコバッグ** (reusable bag) in their backpack or handbag. If you don't want a bag, the cashier usually hands you the item as it is, sometimes with a small piece of tape on it to show it has been paid for. In clothes shops and department stores, paper bags may also cost extra; this varies from shop to shop.",
+    "try": "Pack a foldable bag for your trip and practice the full answer: 袋はご利用ですか。— いいえ、大丈夫です。エコバッグを持っていますから。"
+  },
+  "checklist": [
+    "I recognize the 4 cashier questions without looking: 袋, 温めますか, レシート and ポイントカード.",
+    "I accept with はい、お願いします and decline with いいえ、大丈夫です or いいえ、けっこうです, always with the いいえ.",
+    "I answer ポイントカードはお持ちですか with いいえ、持っていません (without the お).",
+    "In a clothes shop, I can ask to try something on, ask for another color and ask for another size, without looking.",
+    "I can leave without buying with ちょっと考えます and buy with これをください.",
+    "I can ask 免税できますか and I know I will need my original passport.",
+    "I did the homework, checked it against the answer key and redid what I got wrong.",
+    "I recorded the konbini role-play and listened to it."
+  ],
+  "credits": [
+    "Explanations adapted in part from Sakubi (public domain, CC0) — sakubi.neocities.org",
+    "Study method informed by the DJT Guide to Japanese — djtguide.neocities.org/guide"
+  ]
+}

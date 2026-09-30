@@ -1,0 +1,223 @@
+{
+  "id": "P-12",
+  "unit": "P-N3",
+  "genki": null,
+  "title": "Everyday keigo",
+  "titleJp": "少々お待ちください・かしこまりました",
+  "canDo": [
+    "I can understand what a shop clerk says to me (いらっしゃいませ, 袋はご利用ですか, 〜円になります, かしこまりました) and answer naturally in plain です／ます.",
+    "I can answer a work phone with the company name, give my own name with 〜と申します, and ask the caller to hold with 少々お待ちください.",
+    "I can say that a colleague is away (席を外しております), offer a callback or take a message, and end the call politely.",
+    "I can write a short work e-mail on the standard frame: 〜様, お世話になっております, my name, 〜の件で, a request and よろしくお願いいたします.",
+    "For each set phrase, I can say what job it does and who says it: clerk, customer, caller, receiver or writer."
+  ],
+  "duration": {
+    "total": "70–90 min",
+    "blocks": [
+      { "t": "Warm-up: say aloud the honorific and humble pairs from lessons 19-1 and 20-1 (いらっしゃる／おる, おっしゃる／申す, なさる／いたす), then one sentence with 〜させていただきます from lesson P-11", "min": 5 },
+      { "t": "Vocabulary: tap 🔊 on each word and repeat it twice. Learn the kanji through the words: 伝言 = 伝 (pass on) + 言 (words) → \"a message\"; 席を外す = \"to leave (外す) one's seat (席)\". Save the new words with Mining (⛏)", "min": 10 },
+      { "t": "Situation a (in a shop), with the dialogues read aloud in both roles and one 🔬", "min": 15 },
+      { "t": "Situation b (on the phone): read the whole call aloud as a script. If you split the lesson into two sessions, stop here.", "min": 15 },
+      { "t": "Situation c (a short e-mail): copy the frame by hand", "min": 10 },
+      { "t": "Video and reading from block 6", "min": 10 },
+      { "t": "Notebook homework + checking it against the answer key", "min": 15 },
+      { "t": "Checklist (block 10) + write your questions in the lesson notebook", "min": 5 }
+    ]
+  },
+  "prereqs": {
+    "aulas": ["P-11"],
+    "skills": [
+      "Honorific verbs and お〜ください (lesson 19-1): いらっしゃる, お持ちです, お待ちください.",
+      "Humble verbs, お〜する and でございます (lesson 20-1): 申す, おる, いたす, うかがう, ございます — and the うち／そと rule: with an outsider, your own colleagues (even your boss) get no さん and humble verbs.",
+      "The request ladder up to 〜ていただけませんか (lesson 16-2), and 〜させていただきます (lesson P-11)."
+    ],
+    "vocab": [
+      { "jp": "いらっしゃいませ", "kana": "いらっしゃいませ", "romaji": "irasshaimase", "en": "welcome (said by staff to customers)" },
+      { "jp": "かしこまりました", "kana": "かしこまりました", "romaji": "kashikomarimashita", "en": "certainly, understood (staff to customers; humble)" },
+      { "jp": "承知しました", "kana": "しょうちしました", "romaji": "shōchi shimashita", "en": "understood, certainly (formal, common at work)" },
+      { "jp": "少々", "kana": "しょうしょう", "romaji": "shōshō", "en": "a little, a moment (the formal ちょっと)" },
+      { "jp": "お会計", "kana": "おかいけい", "romaji": "okaikei", "en": "the bill; paying at the register" },
+      { "jp": "袋", "kana": "ふくろ", "romaji": "fukuro", "en": "bag" },
+      { "jp": "温める", "kana": "あたためる", "romaji": "atatameru", "en": "to heat up, to warm" },
+      { "jp": "ポイントカード", "kana": "ポイントカード", "romaji": "pointo kādo", "en": "point card, loyalty card" },
+      { "jp": "お返し", "kana": "おかえし", "romaji": "okaeshi", "en": "change (money given back); also a return gift" },
+      { "jp": "申す", "kana": "もうす", "romaji": "mōsu", "en": "to be called; to say (humble)" },
+      { "jp": "様", "kana": "さま", "romaji": "sama", "en": "Mr./Ms. (a more respectful さん: customers, e-mails)" },
+      { "jp": "商事", "kana": "しょうじ", "romaji": "shōji", "en": "trading company (in company names)" },
+      { "jp": "席を外す", "kana": "せきをはずす", "romaji": "seki o hazusu", "en": "to be away from one's desk" },
+      { "jp": "外出する", "kana": "がいしゅつする", "romaji": "gaishutsu suru", "en": "to go out; to be out of the office" },
+      { "jp": "折り返し", "kana": "おりかえし", "romaji": "orikaeshi", "en": "(calling) back" },
+      { "jp": "伝言", "kana": "でんごん", "romaji": "dengon", "en": "message (left for someone)" },
+      { "jp": "恐れ入ります", "kana": "おそれいります", "romaji": "osoreirimasu", "en": "I'm sorry to trouble you; thank you (very polite)" },
+      { "jp": "申し訳ございません", "kana": "もうしわけございません", "romaji": "mōshiwake gozaimasen", "en": "I'm terribly sorry" },
+      { "jp": "お世話になる", "kana": "おせわになる", "romaji": "osewa ni naru", "en": "to be in someone's care; to receive someone's help" },
+      { "jp": "件", "kana": "けん", "romaji": "ken", "en": "matter, subject (〜の件で = about…)" },
+      { "jp": "連絡", "kana": "れんらく", "romaji": "renraku", "en": "getting in touch, contact" },
+      { "jp": "打ち合わせ", "kana": "うちあわせ", "romaji": "uchiawase", "en": "(work) meeting, planning session" },
+      { "jp": "確認", "kana": "かくにん", "romaji": "kakunin", "en": "checking, confirmation" },
+      { "jp": "幸い", "kana": "さいわい", "romaji": "saiwai", "en": "fortunate (〜と幸いです = I'd be grateful if…)" }
+    ]
+  },
+  "grammar": [
+    {
+      "id": "P-12-a",
+      "gc": null,
+      "title": "In a shop: what the clerk says, what you say",
+      "gloss": "shop keigo goes one way — the clerk uses it, you answer in です／ます",
+      "explanation": "**The key idea: keigo in a shop goes one way.** The clerk raises you, the customer, with honorific words (お持ちですか, ご利用ですか) and lowers the shop with humble ones. **You don't have to answer in keigo**: plain です／ます, すみません and お願いします are correct and polite from a customer. What you need is to **recognize** the clerk's lines instantly. They are set phrases, and each one has a single job.\n\n**What the clerk says — and its job:**\n• **いらっしゃいませ** — a welcome as you walk in. No answer is expected; a small nod is enough.\n• **何名様ですか** — \"how many people?\" (restaurants). Answer with the number: 二人です.\n• **袋はご利用ですか** — \"do you need a bag?\" (bags usually cost a little).\n• **温めますか** — \"shall I heat it up?\" (a konbini bento).\n• **ポイントカードはお持ちですか** — \"do you have a point card?\"\n• **〜円になります** — \"that comes to … yen\". This になります of service speech doesn't mean \"become\": it is a soft way of saying です.\n• **〜円のお返しです** — \"here is your change: … yen\".\n• **かしこまりました** — \"certainly\": the humble, service version of わかりました.\n• **少々お待ちください** — \"one moment, please\" (少々 = the formal ちょっと; お〜ください, lesson 19-1).\n• **ありがとうございました。またお越しくださいませ** — \"thank you; please come again\" (お越し = honorific \"coming\").\n\n**What you say (customer):** すみません (to call a clerk) · これをお願いします／これをください · 〜はありますか · カードで払えますか · 見ているだけです (I'm just looking) · 大丈夫です (no, thank you — for a bag, heating, a receipt).\n\n**The contrasts to watch:**\n• **かしこまりました × わかりました**: わかりました is fine with friends and colleagues; to customers, staff say かしこまりました (or 承知しました).\n• **大丈夫です × いいです**: いいです can mean \"yes, that's fine\" or \"no, I'm fine\", so it is easy to misread. To decline, 大丈夫です with a small wave of the hand is the usual choice; to be completely clear, say it: 袋はいらないです.\n\n**The blocks.** Clerk questions are short: a TOPIC (袋は, ポイントカードは) and a keigo PREDICATE (ご利用ですか, お持ちですか). Read the predicate: is it asking about **you**? Then it's honorific, and you answer with your plain verb.\n• Going further (Sakubi): keigo works like a set of **euphemisms**: longer, less direct phrases stand in for everyday words (ある → ございます, する → いたす), and longer usually sounds more formal. That's why shop lines feel long — and why they are easier to learn as whole chunks than word by word.\n• In some chains you'll hear forms like 〜でよろしかったでしょうか (a past tense for a present check) or 〜のほうになります. Some people criticize these as \"part-timer keigo\" (バイト敬語, バイトけいご). Just recognize them.",
+      "structure": "Clerk: [thing] は + お／ご〜ですか (お持ちですか, ご利用ですか) · You: [thing] を お願いします · 〜で 払えますか · 大丈夫です",
+      "examples": [
+        { "jp": "いらっしゃいませ。— すみません、これ、温めてもらえますか。— かしこまりました。少々お待ちください。", "kana": "いらっしゃいませ。— すみません、これ、あたためてもらえますか。— かしこまりました。しょうしょうおまちください。", "romaji": "Irasshaimase. — Sumimasen, kore, atatamete moraemasu ka. — Kashikomarimashita. Shōshō omachi kudasai.", "en": "Welcome! — Excuse me, could you heat this up? — Certainly. One moment, please. (the welcome needs no answer; かしこまりました accepts your request)" },
+        { "jp": "袋はご利用ですか。— いいえ、大丈夫です。", "kana": "ふくろはごりようですか。— いいえ、だいじょうぶです。", "romaji": "Fukuro wa goriyō desu ka. — Iie, daijōbu desu.", "en": "Would you like a bag? [lit. will you be using a bag?] — No, I'm fine. (大丈夫です = a polite \"no, thank you\")" },
+        { "jp": "お会計は千五百円になります。— カードでお願いします。", "kana": "おかいけいはせんごひゃくえんになります。— カードでおねがいします。", "romaji": "Okaikei wa sen gohyaku en ni narimasu. — Kādo de onegai shimasu.", "en": "That comes to 1,500 yen. — By card, please. (になります here is a soft です, not \"becomes\")", "noAnat": true },
+        { "jp": "ポイントカードはお持ちですか。— いいえ、持っていません。", "kana": "ポイントカードはおもちですか。— いいえ、もっていません。", "romaji": "Pointo kādo wa omochi desu ka. — Iie, motte imasen.", "en": "Do you have a point card? — No, I don't. (the clerk raises you with お持ちです; you answer with plain 持っていません)" }
+      ],
+      "pitfalls": [
+        "Don't use the clerk's honorific about yourself: ポイントカードはお持ちですか。— はい、お持ちです ✗ (raises yourself) → はい、持っています ✓.",
+        "Don't return the welcome: いらっしゃいませ。— いらっしゃいませ ✗ → a small nod, or こんにちは ✓.",
+        "いいです can be heard as \"yes, fine\". Declining a bag: いいです ✗ (ambiguous) → 大丈夫です ✓ / 袋はいらないです ✓.",
+        "かしこまりました is staff language. When the clerk says 少々お待ちください, the customer doesn't answer かしこまりました ✗ → はい ✓ / お願いします ✓."
+      ],
+      "howToStudy": [
+        "Make cards of whole chunks, not single words: the clerk's line on the front, its job on the back (いらっしゃいませ → welcome, no answer needed). The DJT guide points out that recognizing and producing are separate skills, each needing its own practice — keigo is the perfect case: learn to recognize the clerk's lines, and to say only the customer's.",
+        "🔬 Anatomy → Analyze: paste example 4. ポイントカードは is the TOPIC and お持ちですか the PREDICATE; in the answer, いいえ is an INTERJECTION and 持っていません the PREDICATE. Same verb, two levels: the clerk raises you (お持ち), you stay plain.",
+        "Speaking: play a whole konbini checkout alone, out loud — both roles, from いらっしゃいませ to ありがとうございました. Then do it again answering only as the customer, in under 20 seconds."
+      ],
+      "flag": null
+    },
+    {
+      "id": "P-12-b",
+      "gc": null,
+      "title": "On the phone: もしもし, 〜と申します, 少々お待ちください",
+      "gloss": "calling and answering at work — humble words for your side, honorific for theirs",
+      "explanation": "Phone Japanese is mostly **fixed routines**, and it follows the うち／そと rule of lesson 20-1: **humble** words for you and your company, **honorific** words for the caller and their people.\n\n**Answering at work:**\n• **はい、〇〇でございます** — the company name + でございます (lesson 20-1). It often starts with お電話ありがとうございます.\n**Calling:**\n• **〇〇の△△と申します** — your company and your name, with humble 申す.\n• **いつもお世話になっております** — the standard greeting between companies, \"thank you for your continued support\" [lit. I am always in your care]. おります is the humble ています.\n• **〜様はいらっしゃいますか** — \"is Mr./Ms. … available?\" (honorific, for their person).\n**Handling the call:**\n• **少々お待ちください** — \"one moment, please\" (putting the caller on hold).\n• **失礼ですが、どちら様でしょうか** — \"excuse me, who's calling, please?\"\n• **申し訳ございません。〜はただいま席を外しております** — \"I'm sorry, … is away from their desk at the moment\". Your own colleague gets **no さん** and a humble verb (おる), even if they are your boss. ただいま here is a formal 今.\n• **戻りましたら、折り返しお電話いたします** — \"when they're back, we'll call you back\".\n• **よろしければ、ご伝言をうかがいましょうか** — \"if you like, shall I take a message?\" (うかがう = humble \"hear\").\n• **かしこまりました／承知しました** — \"certainly\".\n• **失礼いたします** — the goodbye of a work call (\"I'll hang up now\").\n\n**もしもし** is for **checking the line** or for **personal** calls: もしもし、聞こえますか (hello? can you hear me?). At work, people usually answer with the company name instead, and many business-manners guides advise against answering with もしもし.\n\n**申します × 言います × おっしゃいます**: 〜と申します is for **your own** name (humble). 〜と言います is neutral. For the other person's name, go honorific — お名前は何とおっしゃいますか — or, more commonly, ask: お名前をうかがってもよろしいでしょうか.\n\n**The blocks.** A phone line is usually short: maybe an INTERJECTION (はい, もしもし) or an IF / WHEN (よろしければ), then the keigo PREDICATE at the end. The predicate carries all the politeness: read it first and ask **whose side** it is on — honorific (theirs) or humble (mine)?",
+      "structure": "はい、[company] でございます · [company] の [name] と申します · [colleague, no さん] は ただいま 〜ております",
+      "examples": [
+        { "jp": "はい、さくら商事でございます。— ひかり商事の山田と申します。いつもお世話になっております。", "kana": "はい、さくらしょうじでございます。— ひかりしょうじのやまだともうします。いつもおせわになっております。", "romaji": "Hai, Sakura Shōji de gozaimasu. — Hikari Shōji no Yamada to mōshimasu. Itsumo osewa ni natte orimasu.", "en": "Hello, Sakura Trading. — This is Yamada from Hikari Trading. Thank you for your continued support. (the receiver gives the company name; the caller gives company + name)", "noAnat": true },
+        { "jp": "恐れ入りますが、田中様はいらっしゃいますか。— 申し訳ございません。田中はただいま席を外しております。", "kana": "おそれいりますが、たなかさまはいらっしゃいますか。— もうしわけございません。たなかはただいませきをはずしております。", "romaji": "Osoreirimasu ga, Tanaka-sama wa irasshaimasu ka. — Mōshiwake gozaimasen. Tanaka wa tadaima seki o hazushite orimasu.", "en": "Sorry to trouble you, but is Mr./Ms. Tanaka available? — I'm very sorry. Tanaka is away from their desk at the moment. (the caller says 田中様; Tanaka's own colleague says just 田中)", "noAnat": true },
+        { "jp": "よろしければ、ご伝言をうかがいましょうか。— はい、お願いします。", "kana": "よろしければ、ごでんごんをうかがいましょうか。— はい、おねがいします。", "romaji": "Yoroshikereba, go-dengon o ukagaimashō ka. — Hai, onegai shimasu.", "en": "If you like, shall I take a message? — Yes, please." },
+        { "jp": "もしもし、聞こえますか。", "kana": "もしもし、きこえますか。", "romaji": "Moshimoshi, kikoemasu ka.", "en": "Hello? Can you hear me? (もしもし to check the line)" }
+      ],
+      "pitfalls": [
+        "Your own colleague, to an outsider: no さん, humble verb. 田中さんはいらっしゃいません ✗ → 田中はただいま席を外しております ✓.",
+        "申します is only for your side. Asking the caller's name: お名前は何と申しますか ✗ → お名前をうかがってもよろしいでしょうか ✓.",
+        "Answering the phone at work: もしもし ✗ → はい、〇〇でございます ✓. Keep もしもし for checking the line and for personal calls.",
+        "Putting a caller on hold with an everyday request: ちょっと待ってください ✗ → 少々お待ちください ✓."
+      ],
+      "howToStudy": [
+        "Write the whole call as a script in your notebook, both sides: company name + でございます → 〜と申します + お世話になっております → 〜様はいらっしゃいますか → 少々お待ちください → 席を外しております → ご伝言をうかがいましょうか → 失礼いたします. Read it aloud twice.",
+        "🔬 Anatomy → Analyze: paste example 3. よろしければ shows up as IF / WHEN, ご伝言を as the OBJECT and うかがいましょうか as the PREDICATE: humble うかがう, because you, the receiver, are the one who will hear the message.",
+        "Next to each predicate in your script, write 尊 (honorific: their side) or 謙 (humble: my side): いらっしゃいます → 尊, おります → 謙, 申します → 謙, うかがいます → 謙."
+      ],
+      "flag": null
+    },
+    {
+      "id": "P-12-c",
+      "gc": null,
+      "title": "A short work e-mail: お世話になっております … よろしくお願いいたします",
+      "gloss": "the fixed frame of a work e-mail, line by line",
+      "explanation": "A Japanese work e-mail has a **fixed frame**. Learn the frame as a whole: only the middle changes from one mail to the next. Line by line, with the job of each:\n1. **Addressee**: company + name + **様** — さくら商事　山田様. 様 is the written, more respectful さん.\n2. **Greeting**: **いつもお世話になっております** — it opens almost every mail to people outside your company, even people you barely know. It works as a ritual greeting, not literal thanks. Writing to someone for the first time: **はじめてご連絡いたします**.\n3. **Who you are**: **〇〇の△△です** (or, more humbly, 〜と申します).\n4. **Purpose**: **〜の件でご連絡いたしました** — \"I'm writing about…\" (件 = matter; ご連絡いたす = humble \"contact\", the お〜する of lesson 20-1).\n5. **Request**: 〜ていただけますでしょうか · 〜ていただけますと幸いです (\"I'd be grateful if you could…\"), softened with **お忙しいところ恐れ入りますが、** (\"sorry to trouble you when you're busy\").\n6. **Closing**: **よろしくお願いいたします** — with いたします (humble する), the standard in work writing. For a big favor: 何卒よろしくお願いいたします (何卒 = なにとぞ, \"kindly\").\n7. **Signature**: your name, company, department and contact details.\n\n**Contrasts:**\n• **お世話になっております × お世話になりました**: the first is for an **ongoing** relationship — every mail. The second thanks someone for help that is **over**: the end of a project, leaving a job.\n• **よろしくお願いします × よろしくお願いいたします**: both are polite; いたします is the usual choice in work writing.\n• **ご確認ください × ご確認いただけますでしょうか**: お〜ください (lesson 19-1) is a polite instruction; the いただけますでしょうか question sounds softer when you are asking a favor.\n• **Inside your own company**, mails usually open with **お疲れさまです** instead of お世話になっております.\n\n**The blocks.** Most lines are set phrases: learn them as chunks. In the purpose and request lines, find the predicate first (ご連絡いたしました = I have contacted you, humbly; ご確認いただけますと幸いです = I'd be glad to receive your checking) and read backwards to the 件 or the object.",
+      "structure": "[company] [name] 様 → いつもお世話になっております → [company] の [name] です → 〜の件でご連絡いたしました → [request] → よろしくお願いいたします",
+      "examples": [
+        { "jp": "山田様　いつもお世話になっております。ひかり商事のペドロです。", "kana": "やまださま　いつもおせわになっております。ひかりしょうじのペドロです。", "romaji": "Yamada-sama, itsumo osewa ni natte orimasu. Hikari Shōji no Pedoro desu.", "en": "Dear Mr./Ms. Yamada, thank you for your continued support. This is Pedro from Hikari Trading. (addressee, greeting, who you are)", "noAnat": true },
+        { "jp": "来週の打ち合わせの件でご連絡いたしました。", "kana": "らいしゅうのうちあわせのけんでごれんらくいたしました。", "romaji": "Raishū no uchiawase no ken de go-renraku itashimashita.", "en": "I'm writing about next week's meeting. [lit. I have contacted you about the matter of next week's meeting]", "noAnat": true },
+        { "jp": "お忙しいところ恐れ入りますが、ご確認いただけますと幸いです。よろしくお願いいたします。", "kana": "おいそがしいところおそれいりますが、ごかくにんいただけますとさいわいです。よろしくおねがいいたします。", "romaji": "Oisogashii tokoro osoreirimasu ga, go-kakunin itadakemasu to saiwai desu. Yoroshiku onegai itashimasu.", "en": "I'm sorry to trouble you when you're busy, but I'd be grateful if you could check it. Thank you in advance. (request + closing)", "noAnat": true }
+      ],
+      "pitfalls": [
+        "Casual closings: よろしくね ✗ / よろしく ✗ → よろしくお願いいたします ✓.",
+        "The address line, to someone outside your company: 山田さん ✗ → 山田様 ✓.",
+        "お世話になりました at the top of an ordinary mail sounds like goodbye: お世話になりました ✗ → お世話になっております ✓.",
+        "Starting straight with the request: 資料を送ってください ✗ → the frame first, then a softer request: いつもお世話になっております。〇〇です。…資料をお送りいただけますでしょうか ✓."
+      ],
+      "howToStudy": [
+        "Copy the 7-line frame into your notebook once, by hand, with each line's job in English next to it. Then close the notebook and write it again from memory, reading each line aloud as you write.",
+        "Write 3 mini e-mails on the same frame, changing only lines 4 and 5: moving a meeting, asking for a document, and thanking someone for a visit (見学させていただき、ありがとうございました, lesson P-11).",
+        "When you meet a new e-mail phrase (ご査収ください, ご教示ください…), search for it in Japanese as 「ご査収」とは or 「ご査収」 意味 — the DJT guide's trick for finding explanations written by native speakers. Save the phrase with Mining (⛏)."
+      ],
+      "flag": null
+    }
+  ],
+  "media": [
+    { "order": 1, "kind": "video", "title": "Japanese Ammo with Misa: business Japanese on the phone and set keigo phrases", "where": "YouTube · Japanese Ammo with Misa channel", "url": "", "search": "Japanese Ammo with Misa business Japanese phone keigo", "when": "After situation b, to hear the phone routines at natural speed. If the video covers keigo in general, watch it as a review of lessons 19-1 and 20-1." },
+    { "order": 2, "kind": "reading", "title": "Tae Kim's Guide: the chapter on honorific and humble forms (a compact review of lessons 19-1 and 20-1)", "where": "Website · Tae Kim's Guide to Learning Japanese", "url": "", "search": "Tae Kim honorific humble forms", "when": "Before situation b, if the honorific／humble split still feels shaky." },
+    { "order": 3, "kind": "input", "title": "YUYUの日本語Podcast: pick an episode about work, shops or keigo (敬語) and listen for this lesson's phrases", "where": "Podcast · YUYUの日本語Podcast", "url": "", "search": "YUYUの日本語Podcast 敬語", "when": "On any day after the lesson. If there's no episode on keigo, any episode about daily life works: note every ございます, おります or いたします you hear." }
+  ],
+  "homework": {
+    "intro": "Do it by hand in your notebook. Write with the kanji you already know and use kana for the rest. Only then open the answer key, item by item. Circle what you got wrong and redo it the next day.",
+    "tasks": [
+      {
+        "id": "h1",
+        "type": "match",
+        "prompt": "What's the job of each phrase? Write who says it (clerk, customer, caller, the person answering the phone, e-mail writer) and what it means, in English.",
+        "items": [
+          { "q": "かしこまりました。", "a": { "en": "Staff (a clerk, or whoever answers the phone): \"Certainly\" — accepting a request. It is the service version of わかりました." } },
+          { "q": "〜円のお返しです。", "a": { "en": "Clerk: \"Here is your change: … yen.\"" } },
+          { "q": "ただいま席を外しております。", "a": { "en": "The person answering the phone, about a colleague: \"(They're) away from their desk at the moment.\" Humble おります, because the colleague is on their side." } },
+          { "q": "折り返しお電話いたします。", "a": { "en": "The person answering the phone: \"We'll call you back.\"" } },
+          { "q": "いつもお世話になっております。", "a": { "en": "Caller or e-mail writer: the standard opening greeting between companies (\"thank you for your continued support\")." } },
+          { "q": "大丈夫です。 (to a clerk who asks about a bag)", "a": { "en": "Customer: \"No, thank you\" — declining politely." } }
+        ]
+      },
+      {
+        "id": "h2",
+        "type": "produce",
+        "prompt": "What do you say? Write the set phrase for each situation.",
+        "items": [
+          { "q": "You answer the phone at work. Your company is Sakura Trading (さくら商事).", "a": { "jp": "はい、さくら商事でございます。", "kana": "はい、さくらしょうじでございます。", "romaji": "Hai, Sakura Shōji de gozaimasu." }, "note": "お電話ありがとうございます。さくら商事でございます。 is also common." },
+          { "q": "You call another company. Give your name (Pedro, from Hikari Trading) and greet them.", "a": { "jp": "ひかり商事のペドロと申します。いつもお世話になっております。", "kana": "ひかりしょうじのペドロともうします。いつもおせわになっております。", "romaji": "Hikari Shōji no Pedoro to mōshimasu. Itsumo osewa ni natte orimasu." } },
+          { "q": "The caller asks for your colleague Suzuki, who is out of the office. Apologize and say she's out right now.", "a": { "jp": "申し訳ございません。鈴木はただいま外出しております。", "kana": "もうしわけございません。すずきはただいまがいしゅつしております。", "romaji": "Mōshiwake gozaimasen. Suzuki wa tadaima gaishutsu shite orimasu." }, "note": "Your own colleague: no さん, humble おります." },
+          { "q": "You didn't catch who is calling. Ask politely.", "a": { "jp": "失礼ですが、どちら様でしょうか。", "kana": "しつれいですが、どちらさまでしょうか。", "romaji": "Shitsurei desu ga, dochira-sama deshō ka." } },
+          { "q": "Offer to take a message for your colleague.", "a": { "jp": "ご伝言をお預かりしましょうか。", "kana": "ごでんごんをおあずかりしましょうか。", "romaji": "Go-dengon o oazukari shimashō ka." }, "note": "お預かりする = humble \"to keep, to look after\" (お〜する, lesson 20-1). ご伝言をうかがいましょうか also works." },
+          { "q": "At a konbini, the clerk asks お弁当、温めますか. You'd like it heated.", "a": { "jp": "はい、お願いします。", "kana": "はい、おねがいします。", "romaji": "Hai, onegai shimasu." }, "note": "You're the customer: plain polite speech is right. No かしこまりました from you!" }
+        ]
+      },
+      {
+        "id": "h3",
+        "type": "correct",
+        "prompt": "Each sentence has a keigo mistake for its situation. Rewrite it correctly.",
+        "items": [
+          { "q": "(On the phone to a client, about your boss Tanaka) 田中部長はいらっしゃいません。", "a": { "jp": "部長の田中は、ただいま席を外しております。", "kana": "ぶちょうのたなかは、ただいませきをはずしております。", "romaji": "Buchō no Tanaka wa, tadaima seki o hazushite orimasu." }, "note": "To an outsider, your boss is on your side: 部長の田中 (the title goes before the name), and a humble verb." },
+          { "q": "(A clerk to a customer) わかりました。少し待ってください。", "a": { "jp": "かしこまりました。少々お待ちください。", "kana": "かしこまりました。しょうしょうおまちください。", "romaji": "Kashikomarimashita. Shōshō omachi kudasai." } },
+          { "q": "(Introducing yourself on the phone) ペドロとおっしゃいます。", "a": { "jp": "ペドロと申します。", "kana": "ペドロともうします。", "romaji": "Pedoro to mōshimasu." }, "note": "おっしゃる raises the speaker — wrong for your own name. 申す lowers you." },
+          { "q": "(A customer, about her own point card) はい、お持ちです。", "a": { "jp": "はい、持っています。", "kana": "はい、もっています。", "romaji": "Hai, motte imasu." }, "note": "お持ちです is honorific: the clerk uses it about you; you don't use it about yourself." },
+          { "q": "(Closing a work e-mail to a client) よろしくね。", "a": { "jp": "よろしくお願いいたします。", "kana": "よろしくおねがいいたします。", "romaji": "Yoroshiku onegai itashimasu." } }
+        ]
+      },
+      {
+        "id": "h4",
+        "type": "produce",
+        "prompt": "Write a short e-mail to Mr./Ms. Yamada at Sakura Trading asking to move next week's meeting from Wednesday to Thursday. Use the 7-line frame (you can skip the signature). Then read it aloud.",
+        "items": [
+          { "q": "Model (match its structure, not its words):", "a": { "jp": "さくら商事　山田様　いつもお世話になっております。ひかり商事のペドロです。来週の打ち合わせの日程の件でご連絡いたしました。申し訳ありませんが、水曜日から木曜日に変更していただくことは可能でしょうか。お忙しいところ恐れ入りますが、ご検討いただけますと幸いです。よろしくお願いいたします。", "kana": "さくらしょうじ　やまださま　いつもおせわになっております。ひかりしょうじのペドロです。らいしゅうのうちあわせのにっていのけんでごれんらくいたしました。もうしわけありませんが、すいようびからもくようびにへんこうしていただくことはかのうでしょうか。おいそがしいところおそれいりますが、ごけんとういただけますとさいわいです。よろしくおねがいいたします。", "romaji": "Sakura Shōji Yamada-sama, itsumo osewa ni natte orimasu. Hikari Shōji no Pedoro desu. Raishū no uchiawase no nittei no ken de go-renraku itashimashita. Mōshiwake arimasen ga, suiyōbi kara mokuyōbi ni henkō shite itadaku koto wa kanō deshō ka. Oisogashii tokoro osoreirimasu ga, go-kentō itadakemasu to saiwai desu. Yoroshiku onegai itashimasu.", "en": "Dear Mr./Ms. Yamada (Sakura Trading), thank you for your continued support. This is Pedro from Hikari Trading. I'm writing about the date of next week's meeting. I'm sorry, but would it be possible to move it from Wednesday to Thursday? I'm sorry to trouble you when you're busy, but I'd be grateful if you could consider it. Thank you in advance." }, "note": "Check the frame: 様 in the address, お世話になっております, your company and name, 〜の件で, the request as a question (〜ていただくことは可能でしょうか), and よろしくお願いいたします. In a real mail each part goes on its own line, with your signature at the end. (日程 = schedule, dates; ご検討 = consideration.)" }
+        ]
+      }
+    ],
+    "workbook": []
+  },
+  "practice": [
+    { "tool": "Wagotabi", "what": "Play in the game's N3 area. Shopkeepers, innkeepers and officials are where keigo lives: hunt for いらっしゃいませ, かしこまりました, ございます and お〜ください. For each one, say its job and whether it raises the listener (尊) or lowers the speaker (謙). Log the session in Immersion → Games and paste one line into 🔬 Anatomy.", "min": 15 },
+    { "tool": "NHK NEWS WEB EASY", "what": "Read one article with a pop-up dictionary such as Yomitan and listen to its audio. Then \"forward\" it to an imaginary client in a 4-line e-mail on this lesson's frame: 〜様 / いつもお世話になっております / 〜の件でご連絡いたしました + a one-sentence summary / よろしくお願いいたします. Save one new word from the article with Mining (⛏).", "min": 10 },
+    { "tool": "ヅオリンゴー · Journal", "what": "Write 5 sentences of your own: 2 clerk lines, 2 phone lines (one of them about a colleague, with a humble verb) and your own e-mail greeting + purpose. Use \"Anatomy of what I wrote\" and check that the politeness sits in the PREDICATE, at the end.", "min": 10 },
+    { "tool": "Shadowing", "what": "Tap 🔊 on each example and repeat along 3 times, at shop speed. いらっしゃいませ and かしこまりました are said fast and smoothly: copy the rhythm of the whole phrase, not each syllable.", "min": 5 },
+    { "tool": "Speaking", "what": "Record a 45-second phone call, playing both roles: answer with the company name, the caller asks for 田中様, 田中 is away, you offer to take a message, 失礼いたします. Listen back and check: no さん on your own colleague.", "min": 5 }
+  ],
+  "culture": {
+    "title": "Work e-mail: お世話になっております",
+    "titleJp": "お世話になっております",
+    "body": "Japanese work e-mail tends to be more formal and more fixed than in many other countries, and **いつもお世話になっております** is the line almost every mail to another company starts with — even when the two people have barely worked together. The **subject line** (件名, けんめい) is usually concrete, and many people add brackets like 【ご相談】 (a request for advice) or 【ご確認のお願い】 (please check) so the reader knows the type of mail at a glance. The seasonal greetings of traditional paper letters are usually left out of e-mail. Inside the same company, mails generally open with お疲れさまです instead. Mails usually end with a **signature block** (署名, しょめい) giving the company, department, name and phone number, and a reply often keeps the earlier messages quoted below it.",
+    "try": "Write the subject line and the first three lines of a mail to a client in your notebook: 件名：【ご相談】来週の打ち合わせについて ／ さくら商事　山田様 ／ いつもお世話になっております。〇〇の△△です。 Then write the same opening for a colleague in your own company, starting with お疲れさまです."
+  },
+  "checklist": [
+    "I can recognize at least 8 clerk phrases instantly and say what each one does.",
+    "I answer clerks in plain です／ます, and I decline clearly with 大丈夫です or 〜はいらないです.",
+    "I can answer a work phone with the company name + でございます, and give my own name with 〜と申します, without looking.",
+    "I never use さん or honorific verbs for my own colleagues when I speak to an outsider.",
+    "I can put a caller on hold, say that a colleague is away, and offer a callback or to take a message.",
+    "I can write a short work e-mail on the 7-line frame from memory.",
+    "I did the homework, checked it against the answer key and redid what I got wrong."
+  ],
+  "credits": [
+    "Explanations adapted in part from Sakubi (public domain, CC0) — sakubi.neocities.org",
+    "Study method informed by the DJT Guide to Japanese — djtguide.neocities.org/guide"
+  ]
+}

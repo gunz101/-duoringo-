@@ -16,7 +16,7 @@
       { "t": "Warm-up: say aloud the た-form of 8 verbs (lesson 09-1), including 行く, する and 来る", "min": 5 },
       { "t": "Vocabulary: tap 🔊 on each word and repeat it twice; read the counters aloud with 4 and 9 (よにん, よじかん, きゅうこ…)", "min": 10 },
       { "t": "Grammar: the 3 points, each with its examples read aloud, and one 🔬 on points a and c", "min": 25 },
-      { "t": "Video (block 6), only the parts on this lesson's points", "min": 10 },
+      { "t": "Block 6: the video or the Sakubi sections, only the parts on this lesson's points, as a second explanation (read to understand, not to memorize)", "min": 10 },
       { "t": "Notebook homework + checking it against the answer key", "min": 15 },
       { "t": "Checklist (block 10) + write your questions in the lesson notebook", "min": 5 }
     ]
@@ -62,7 +62,7 @@
       "gc": null,
       "title": "〜たらどうですか: why don't you…?",
       "gloss": "suggesting an action",
-      "explanation": "〜たらどうですか means **\"why don't you…?\" / \"how about …ing?\"**: you suggest an action to the other person. Build it from the **short past (た-form**, lesson 09-1**)** + **ら** + **どうですか**: 休んだ → 休んだらどうですか; 聞いた → 聞いたらどうですか; した → したらどうですか.\n• Literally it asks \"if you did X, how would it be?\". So this た does **not** mean past: it is only the base for ら.\n• Casual form, with friends: **〜たらどう？** or just **〜たら？**: 先生に聞いたら？\n• **Only for friends and people below you.** It tells the other person what to do, and to a teacher, a boss or an older person it can sound pushy, even like **criticism**. With them, it is safer not to use it.\n• **〜たらどうですか × 〜ほうがいいです** (lesson 12-2): ほうがいい is stronger advice (\"you had better\"); 〜たらどうですか is a lighter suggestion, one idea among others.\n• In the sentence, the block ending in 〜たら is the **IF / WHEN** part (\"if you did…\"), and どうですか is the **PREDICATE** (\"how would it be?\"). The object or the place of the action stays in the first half: 日本人の友だちを作ったら | どうですか.",
+      "explanation": "〜たらどうですか means **\"why don't you…?\" / \"how about …ing?\"**: you suggest an action to the other person. Build it from the **short past (た-form**, lesson 09-1**)** + **ら** + **どうですか**: 休んだ → 休んだらどうですか; 聞いた → 聞いたらどうですか; した → したらどうですか.\n• Literally it asks \"if you did X, how would it be?\". たら is the **\"if / when\"** form you will study in full in lesson 17-2. As Sakubi explains it, たら puts one event after another **without claiming that the first causes the second**, which is why it suits a hypothetical question like this one: you float an idea and let the other person judge it. So this た does **not** mean past: it is only the base for ら.\n• Learn it as **one chunk**: 〜たらどうですか is often treated as a set phrase of its own.\n• Casual form, with friends: **〜たらどう？** or just **〜たら？**: 先生に聞いたら？\n• **Only for friends and people below you.** It tells the other person what to do, and to a teacher, a boss or an older person it can sound pushy, even like **criticism**. With them, it is safer not to use it.\n• **〜たらどうですか × 〜ほうがいいです** (lesson 12-2): ほうがいい is stronger advice (\"you had better\"); 〜たらどうですか is a lighter suggestion, one idea among others.\n• In the sentence, the block ending in 〜たら is the **IF / WHEN** part (\"if you did…\"), and どうですか is the **PREDICATE** (\"how would it be?\"). The object or the place of the action stays in the first half: 日本人の友だちを作ったら | どうですか.\n• **Going further (Sakubi):** Japanese has three common \"if\" words, each with its own job: と for a natural, automatic result (lesson 18-3), たら for \"if / when X happens, then…\" (lesson 17-2), and なら for \"if that's the case…\" (lesson 13-3).",
       "structure": "[verb in た-form] ら どうですか。 · casual: 〜たら（どう）？",
       "examples": [
         { "jp": "日本語が上手になりたいんです。— 日本人の友だちを作ったらどうですか。", "kana": "にほんごがじょうずになりたいんです。— にほんじんのともだちをつくったらどうですか。", "romaji": "Nihongo ga jōzu ni naritai n desu. — Nihonjin no tomodachi o tsukuttara dō desu ka.", "en": "I want to get better at Japanese. — Why don't you make some Japanese friends? [lit. if you made Japanese friends, how would it be?]" },
@@ -87,7 +87,7 @@
       "gc": null,
       "title": "Number + も: as many as",
       "gloss": "the number is bigger than expected",
-      "explanation": "After a **number + counter**, **も** does not mean \"also\". It means **\"as many as\", \"as much as\", \"as long as\"**: the speaker finds the amount **bigger than expected**, with surprise, admiration or complaint.\n• 一時間も待ちました = I waited **a whole hour** (that's a lot!).\n• も attaches **directly to the number + counter**: 百人も, 二万円も, 八時間も, 二十こも.\n• Use it with an **affirmative verb**, in the present or the past. (With a negative verb, number + も means \"not even\": 五分もかかりません = it doesn't even take five minutes. Just recognize it for now.)\n• For prices, the verb is often する (\"to cost\"): このセーターは二万円もしました.\n• Compare: チョコを十こもらいました is neutral (\"I got ten\"); チョコを十こももらいました adds \"— ten!\".\n• In the sentence, [number + counter + も] works as a **QUANTITY** block, usually right before the verb, with no case particle. Read from the end: waited → how long? → one hour, and that's a lot → for whom? → a friend.",
+      "explanation": "After a **number + counter**, **も** does not mean \"also\". It means **\"as many as\", \"as much as\", \"as long as\"**: the speaker finds the amount **bigger than expected**, with surprise, admiration or complaint.\n• 一時間も待ちました = I waited **a whole hour** (that's a lot!).\n• Remember how numbers work in Japanese: a number can't sit right next to a noun as in English (\"twenty chocolates\"). It needs a **counter** (三人, 二十こ, 一時間), and number + counter makes **one block**. も attaches **directly to that block**: 百人も, 二万円も, 八時間も, 二十こも.\n• Use it with an **affirmative verb**, in the present or the past.\n• For prices, the verb is often する (\"to cost\"): このセーターは二万円もしました.\n• Compare: チョコを十こもらいました is neutral (\"I got ten\"); チョコを十こももらいました adds \"— ten!\".\n• In the sentence, [number + counter + も] works as a **QUANTITY** block, usually right before the verb, with no case particle. Read from the end: waited → how long? → one hour, and that's a lot → for whom? → a friend.\n• **Going further (Sakubi):** も is an **inclusion** word (\"also, even\"), and a negative verb flips what it includes. So with a negative, number + も means **\"not even\"**: 五分もかかりません (\"it doesn't take even five minutes\"), 一人も来ませんでした (\"not a single person came\"). Just recognize it for now.",
       "structure": "[number + counter] も [affirmative verb] — \"as many as…, a whole…\"",
       "examples": [
         { "jp": "友だちを駅で一時間も待ちました。", "kana": "ともだちをえきでいちじかんもまちました。", "romaji": "Tomodachi o eki de ichijikan mo machimashita.", "en": "I waited for my friend at the station for a whole hour.", "noAnat": true },
@@ -96,6 +96,7 @@
       ],
       "pitfalls": [
         "After a number, も is not \"also\": 三時間も勉強しました is not \"I also studied three hours\" but \"I studied for three whole hours\".",
+        "Where も goes changes the meaning. After the noun it is \"also\": チョコも二十こもらいました ✗ (for \"as many as twenty\"; it says \"I got twenty chocolates, too\") → チョコを二十こももらいました ✓.",
         "も goes right after the number + counter: 二十もこ ✗ → 二十こも ✓; 一時間待ちましたも ✗ → 一時間も待ちました ✓.",
         "With a negative verb, number + も means \"not even\", not \"only\": 千円もありません = \"I don't even have 1,000 yen\" (less than that). For \"I only have 1,000 yen\", use しか: 千円しかありません ✓."
       ],
@@ -111,7 +112,7 @@
       "gc": null,
       "title": "Number + しか + negative: only",
       "gloss": "only, with a feeling of \"too few\"",
-      "explanation": "**しか + a negative verb** means **\"only\"**, with the feeling that the amount is **too small**: less than you'd like or expect. It is the mirror of the previous point: number + も says \"that's a lot\", しか〜ない says \"that's all\".\n• 千円しかありません = I only have 1,000 yen (and that's not much).\n• **The verb is always negative, but the meaning is not.** しか + negative works as one unit, \"nothing but\"; literally, \"apart from 1,000 yen, there isn't any\". So 三人しか来ませんでした means three people **did** come.\n• しか goes **right after the number + counter**: 三人しか, 一時間しか, 一つしか.\n• Past: 〜しか〜ませんでした: パーティーに三人しか来ませんでした.\n• **しか × だけ**: だけ (\"just, only\") is neutral and takes an **affirmative** verb: 千円だけあります. しか〜ない adds \"and that's not enough\". When you only want to state the fact, だけ is the safe choice.\n• しか also works after nouns (水しか飲みません, \"I drink nothing but water\"), but here you practice it with numbers.\n• In the sentence, [number + しか] is the **QUANTITY** block and the negative verb is the **PREDICATE**. Read from the end: didn't get → apart from how many? → one → what? → chocolate.",
+      "explanation": "**しか + a negative verb** means **\"only\"**, with the feeling that the amount is **too small**: less than you'd like or expect. It is the mirror of the previous point: number + も says \"that's a lot\", しか〜ない says \"that's all\".\n• 千円しかありません = I only have 1,000 yen (and that's not much).\n• **The verb is always negative, but the meaning is not.** Sakubi's framing: しか means **\"but, except\"**, and it lives only in negative sentences — the negative is true of **everything except** the しか block. 千円しかありません = \"except for 1,000 yen, there isn't any (money)\" → \"I only have 1,000 yen\". So 三人しか来ませんでした means three people **did** come.\n• しか goes **right after the number + counter**: 三人しか, 一時間しか, 一つしか.\n• Past: 〜しか〜ませんでした: パーティーに三人しか来ませんでした.\n• **しか × だけ**: だけ (\"just, only\") is neutral and takes an **affirmative** verb: 千円だけあります. しか〜ない adds \"and that's not enough\". When you only want to state the fact, だけ is the safe choice. Careful: **だけ with a negative verb means something else**. 三人だけ来ませんでした = \"only three people didn't come\" (everyone else did).\n• しか also works after nouns (水しか飲みません, \"I drink nothing but water\"), but here you practice it with numbers.\n• In the sentence, [number + しか] is the **QUANTITY** block and the negative verb is the **PREDICATE**. Read from the end: didn't get → apart from how many? → one → what? → chocolate.\n• **Going further (Sakubi):** two more \"only\" words you will meet. **たった** (\"a mere, just\") comes before a number to stress how small it is, and often teams up with しか: たった千円しかありません. **ばかり** (\"nothing but\") says that everything is X, and it usually goes with affirmative verbs: 毎日ラーメンばかり食べています (\"I eat nothing but ramen every day\").",
       "structure": "[number + counter] しか [negative verb] — \"only… (too few)\"",
       "examples": [
         { "jp": "今、お金が千円しかありません。", "kana": "いま、おかねがせんえんしかありません。", "romaji": "Ima, okane ga sen'en shika arimasen.", "en": "Right now I only have 1,000 yen." },
@@ -121,7 +122,7 @@
       "pitfalls": [
         "しか needs a negative verb: 千円しかあります ✗ → 千円しかありません ✓.",
         "Don't read the negative as \"not\": 三人しか来ませんでした means three people DID come, only three.",
-        "Don't mix しか and だけ: 千円だけありません ✗ (for \"I only have 1,000 yen\") → 千円しかありません ✓ or 千円だけあります ✓.",
+        "Don't swap しか for だけ in a negative sentence: だけ + negative means \"only X did NOT\". 三人だけ来ませんでした ✗ (for \"only three came\"; it says \"only three didn't come\") → 三人しか来ませんでした ✓ or 三人だけ来ました ✓.",
         "Numbers with 4 and 9 are easy to misread: 四人 is よにん (しにん ✗), 四時間 is よじかん, 九時 is くじ. しか doesn't change them."
       ],
       "howToStudy": [
@@ -172,10 +173,10 @@
         "items": [
           { "q": "Why don't you ask Ms. Suzuki? (to a friend, politely)", "a": { "jp": "すずきさんに聞いたらどうですか。", "kana": "すずきさんにきいたらどうですか。", "romaji": "Suzuki-san ni kiitara dō desu ka." } },
           { "q": "I waited for the bus for as long as 40 minutes.", "a": { "jp": "バスを四十分も待ちました。", "kana": "バスをよんじゅっぷんもまちました。", "romaji": "Basu o yonjuppun mo machimashita." }, "note": "四十分 = よんじゅっぷん." },
-          { "q": "Only four people came to the class.", "a": { "jp": "クラスに四人しか来ませんでした。", "kana": "クラスによにんしかきませんでした。", "romaji": "Kurasu ni yonin shika kimasen deshita." }, "note": "四人 = よにん." },
+          { "q": "Only four people came to the class.", "a": { "jp": "クラスに四人しか来ませんでした。", "kana": "クラスによにんしかきませんでした。", "romaji": "Kurasu ni yonin shika kimasen deshita." }, "note": "四人 = よにん. 四人だけ来ました also works; 四人だけ来ませんでした would mean \"only four didn't come\"." },
           { "q": "I only slept three hours last night.", "a": { "jp": "ゆうべは三時間しかねませんでした。", "kana": "ゆうべはさんじかんしかねませんでした。", "romaji": "Yūbe wa sanjikan shika nemasen deshita." } },
           { "q": "I got as many as nine chocolates!", "a": { "jp": "チョコを九こももらいました！", "kana": "チョコをきゅうこももらいました！", "romaji": "Choko o kyūko mo moraimashita!" }, "note": "九こ = きゅうこ." },
-          { "q": "I only have 500 yen, so I can't buy it.", "a": { "jp": "五百円しかありませんから、買えません。", "kana": "ごひゃくえんしかありませんから、かえません。", "romaji": "Gohyaku en shika arimasen kara, kaemasen." }, "note": "買える is the potential of 買う (lesson 13-1)." }
+          { "q": "I only have 500 yen, so I can't buy it.", "a": { "jp": "五百円しかありませんから、買えません。", "kana": "ごひゃくえんしかありませんから、かえません。", "romaji": "Gohyakuen shika arimasen kara, kaemasen." }, "note": "買える is the potential of 買う (lesson 13-1)." }
         ]
       },
       {
@@ -190,9 +191,9 @@
     "workbook": []
   },
   "practice": [
-    { "tool": "Wagotabi", "what": "Play in an N4-level area, if you have reached one. Hunt the dialogues for しか, a number + も and 〜たら(どう). For each しか, say out loud what there is \"only\" of; for each number + も, say what is \"a lot\". Log the session in Immersion → Games and paste a しか line into 🔬 Anatomy.", "min": 15 },
-    { "tool": "ヅオリンゴー", "what": "Drills → Numbers: warm up the readings, especially 4 and 9 (よん, よ, し / きゅう, く). Then Drills → Conjugation: the た-form, which 〜たらどうですか needs.", "min": 10 },
-    { "tool": "ヅオリンゴー", "what": "Drills → 🔬 Anatomy → 🧱 Build from the end with example 3 of point c, starting from もらいませんでした.", "min": 5 },
+    { "tool": "Wagotabi", "what": "Play in an N4-level area, if you have reached one. Hunt the dialogues for しか, a number + も and 〜たら(どう). For each しか, say out loud what there is \"only\" of; for each number + も, say what is \"a lot\". Log the session in Immersion → Games, paste a しか line into 🔬 Anatomy, and save it with ⛏ Mining after looking up any word you didn't know.", "min": 15 },
+    { "tool": "ヅオリンゴー", "what": "Drills → Numbers: warm up the readings, especially 4 and 9 (よん, よ, し / きゅう, く). Then Drills → Conjugation: the た-form, which 〜たらどうですか needs. Finish with Drills → 🔬 Anatomy → 🧱 Build from the end with example 3 of point c, starting from もらいませんでした.", "min": 10 },
+    { "tool": "Reading", "what": "This lesson closes Genki Lesson 14: a good moment for real Japanese. In the Resources tab, open NHK NEWS WEB EASY (or a level-1 story from Tadoku's free graded readers, if the news feels too hard) and read one short text for the gist. News is full of numbers: read each number + counter out loud, watching 4 and 9, and if a も or しか follows a number, say what feeling it adds. Look up only the words that block you; save one sentence you now understand with ⛏ Mining.", "min": 10 },
     { "tool": "Shadowing", "what": "Tap 🔊 on each example and repeat along 3 times. Pay attention to the counters: いちじかん, にじゅっこ, にまんえん, せんえん, さんにん.", "min": 5 },
     { "tool": "Speaking", "what": "Record your answer to the friend (homework h4) in under a minute. Listen and check that every しか came with a negative verb and every suggestion with the た-form.", "min": 5 }
   ],
@@ -207,9 +208,13 @@
     "I use 〜たらどうですか (or 〜たら？) only with friends and people below me, not with teachers or bosses.",
     "I can stress a big number with number + も: 一時間も待ちました。",
     "I can say \"only (too few)\" with number + しか + a negative verb, and I know the verb is negative but the meaning isn't.",
-    "I can tell しか + negative apart from だけ + affirmative.",
+    "I can tell しか + negative apart from だけ + affirmative, and I know that 三人だけ来ませんでした means \"only three didn't come\".",
     "I read 4 and 9 correctly with common counters (よにん, よじ, よんじゅっぷん, くじ, きゅうこ).",
     "I did the homework, checked it against the answer key and redid what I got wrong.",
     "If I have the Genki II Workbook: I did this lesson's exercises on 〜たらどうですか, number + も and number + しか + negative."
+  ],
+  "credits": [
+    "Explanations adapted in part from Sakubi (public domain, CC0) — sakubi.neocities.org",
+    "Study method informed by the DJT Guide to Japanese — djtguide.neocities.org/guide"
   ]
 }

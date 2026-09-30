@@ -17,7 +17,7 @@
       { "t": "Warm-up: make 4 い-adjectives and 4 な-adjectives negative aloud, in the present (lesson 05-1)", "min": 5 },
       { "t": "Vocabulary: tap 🔊 on each word and repeat it twice, saying whether each adjective is い or な", "min": 10 },
       { "t": "Grammar: the 3 points, building the table of the 4 forms in your notebook and doing one 🔬 per point", "min": 25 },
-      { "t": "Lesson 5 video (block 6): the part on the past tense and on すき / きらい", "min": 10 },
+      { "t": "Block 6: the Lesson 5 video (the part on the past tense and on すき / きらい) or the Sakubi sections, as a second explanation", "min": 10 },
       { "t": "Notebook homework + checking it against the answer key", "min": 15 },
       { "t": "Checklist (block 10) + write your questions in the lesson notebook", "min": 5 }
     ]
@@ -62,7 +62,7 @@
       "gc": "5-3",
       "title": "Past い-adjectives: 〜かったです / 〜くなかったです",
       "gloss": "\"was…\" / \"wasn't…\" with い-adjectives",
-      "explanation": "The past of い-adjectives also happens **inside the adjective itself**, just like the negative in lesson 05-1. Drop the final い and add the ending:\n• Past affirmative: たのし|い → たのし|**かったです** (\"it was fun\").\n• Past negative: start from the negative たのしくない and swap its final い for かった → たのしく**なかったです** (\"it wasn't fun\").\n• Trick: the くない form behaves like a brand-new い-adjective. Whatever you do to たかい (たかい → たかかった), you do to たかくない (たかくない → たかくなかった).\n• です stays at the end only for politeness. The past is already in かった, which is why たのしいでした is wrong.\n• The exception is still there: **いい** conjugates from よい. よかったです (\"it was good\"), よくなかったです (\"it wasn't good\"). With ね, **よかったですね！** is the usual way to say \"that's great!\" when someone tells you good news. Without ね, よかったです is about your own feeling: \"it was good\", or \"I'm glad\" (relief).\n• To ask \"how was it?\", use **〜は どうでしたか。** The answer is a past-tense adjective: たのしかったです。\n• Read from the predicate: the tense of the sentence lives at the end. If you see かった or でした, it's the past.",
+      "explanation": "The past of い-adjectives also happens **inside the adjective itself**, just like the negative in lesson 05-1: い-adjectives act like verbs. Drop the final い and add the ending:\n• Past affirmative: たのし|い → たのし|**かったです** (\"it was fun\").\n• Past negative: start from the negative たのしくない and swap its final い for かった → たのしく**なかったです** (\"it wasn't fun\").\n• Trick: the くない form behaves like a brand-new い-adjective, because ない itself conjugates like one. Whatever you do to たかい (たかい → たかかった), you do to たかくない (たかくない → たかくなかった).\n• Japanese builds long forms by **stacking pieces**: むずかし | く | なかった | です = \"difficult\" + the link く + \"was not\" + polite です. When a form looks long, cut it into pieces: the negative and the tense are always in the last ones.\n• です stays at the end only for politeness. The past is already in かった, which is why たのしいでした is wrong.\n• Japanese has only **two tenses**: past and non-past. The \"present\" forms of lesson 05-1 also cover the future: あしたは さむいです = \"it will be cold tomorrow\".\n• The exception is still there: **いい** conjugates from よい. よかったです (\"it was good\"), よくなかったです (\"it wasn't good\"). With ね, **よかったですね！** is the usual way to say \"that's great!\" when someone tells you good news. Without ね, よかったです is about your own feeling: \"it was good\", or \"I'm glad\" (relief).\n• To ask \"how was it?\", use **〜は どうでしたか。** The answer is a past-tense adjective: たのしかったです。\n• Read from the predicate: the tense of the sentence lives at the end. If you see かった or でした, it's the past.\n• Going further (Sakubi): casual speech (lesson 09-1) keeps the adjective and drops です: たのしかった (\"it was fun\"), たのしくなかった (\"it wasn't fun\"). As in the present, an い-adjective never takes だ: たのしかっただ ✗.",
       "structure": "[N] は [adj minus い]かったです。 · [N] は [adj minus い]くなかったです。",
       "examples": [
         { "jp": "しゅうまつの りょこうは たのしかったです。", "kana": "しゅうまつの りょこうは たのしかったです。", "romaji": "Shūmatsu no ryokō wa tanoshikatta desu.", "en": "The weekend trip was fun." },
@@ -70,7 +70,7 @@
         { "jp": "マリアさんの パーティーは どうでしたか。— よかったです。たべものも おいしかったです。", "kana": "マリアさんの パーティーは どうでしたか。— よかったです。たべものも おいしかったです。", "romaji": "Maria-san no pātī wa dō deshita ka. — Yokatta desu. Tabemono mo oishikatta desu.", "en": "How was Maria's party? — It was good. The food was delicious, too." }
       ],
       "pitfalls": [
-        "い-adjectives don't use でした: たのしいでした ✗ → たのしかったです ✓.",
+        "い-adjectives don't use でした: たのしいでした ✗ → たのしかったです ✓. And don't mark the past twice: たのしかったでした ✗ → たのしかったです ✓.",
         "The past negative is a single form: たのしくないでした ✗ → たのしくなかったです ✓.",
         "いい follows よい in the past too: いかったです ✗ → よかったです ✓; いくなかったです ✗ → よくなかったです ✓.",
         "ました is only for verbs (lesson 04-2), never for adjectives: たのしいました ✗ → たのしかったです ✓."
@@ -87,7 +87,7 @@
       "gc": null,
       "title": "Past な-adjectives: 〜でした / 〜じゃなかったです",
       "gloss": "\"was…\" / \"wasn't…\" with な-adjectives",
-      "explanation": "な-adjectives form the past **exactly like nouns** (lesson 04-2). The adjective doesn't change; only what comes after it does.\n• Past affirmative: しずか**でした** (\"it was quiet\").\n• Past negative: しずか**じゃなかったです** (\"it wasn't quiet\"). しずかじゃありませんでした also exists, with the same meaning.\n• The な-adjectives that end in い follow the な rule: きれいでした, ゆうめいじゃなかったです. Never きれかったです.\n• The four forms side by side:\n• な: しずかです · しずかじゃないです · しずかでした · しずかじゃなかったです\n• い: たかいです · たかくないです · たかかったです · たかくなかったです\n• To recognize them when reading: かった stuck to the adjective (たのしかった) means an い-adjective; でした or じゃなかった after the adjective means a な-adjective (or a noun).",
+      "explanation": "な-adjectives form the past **exactly like nouns** (lesson 04-2). The adjective doesn't change; only what comes after it does.\n• Past affirmative: しずか**でした** (\"it was quiet\").\n• Past negative: しずか**じゃなかったです** (\"it wasn't quiet\"). しずかじゃありませんでした also exists, with the same meaning, and in writing you will see the full forms with では: しずかではありませんでした, しずかではなかったです.\n• The な-adjectives that end in い follow the な rule: きれいでした, ゆうめいじゃなかったです. Never きれかったです.\n• The four forms side by side:\n• な: しずかです · しずかじゃないです · しずかでした · しずかじゃなかったです\n• い: たかいです · たかくないです · たかかったです · たかくなかったです\n• To recognize them when reading: かった stuck to the adjective (たのしかった) means an い-adjective; でした or じゃなかった after the adjective means a な-adjective (or a noun).\n• Going further (Sakubi): in casual speech the past of です is **だった**: しずかだった, ひまじゃなかった (lesson 09-1). It is the same だった you will hear after nouns: がくせいだった (\"I was a student\").",
       "structure": "[N] は [な-adj] でした。 · [N] は [な-adj] じゃなかったです。",
       "examples": [
         { "jp": "リオの カーニバルは にぎやかでした。", "kana": "リオの カーニバルは にぎやかでした。", "romaji": "Rio no kānibaru wa nigiyaka deshita.", "en": "The carnival in Rio was lively." },
@@ -97,7 +97,8 @@
       "pitfalls": [
         "な-adjectives don't use かった: しずかかったです ✗ → しずかでした ✓.",
         "きれい is a な-adjective: きれかったです ✗ → きれいでした ✓; きれくなかったです ✗ → きれいじゃなかったです ✓.",
-        "な never appears at the end of a sentence, not even in the past: しずかなでした ✗ → しずかでした ✓."
+        "な never appears at the end of a sentence, not even in the past: しずかなでした ✗ → しずかでした ✓.",
+        "The past negative is a single form here too: しずかじゃないでした ✗ → しずかじゃなかったです ✓ (or しずかじゃありませんでした ✓)."
       ],
       "howToStudy": [
         "Copy the table of the 4 forms with しずか and たかい into your notebook. Then cover it and write the same 4 forms for きれい and おいしい without looking.",
@@ -111,7 +112,7 @@
       "gc": "5-4",
       "title": "すき(な) / きらい(な)",
       "gloss": "liking and disliking",
-      "explanation": "In Japanese, \"to like\" is not a verb. **すき** is a な-adjective meaning something like \"liked, dear\". \"I like sushi\" is, literally, \"as for me, sushi is liked\".\n• The thing you like is marked with **が**, not を: すしが すきです。 This is the big difference from English, where \"sushi\" is the object of the verb \"like\".\n• The person who likes, when mentioned, takes は, as the TOPIC: わたしは すしが すきです。 Read from the predicate: すきです (\"is liked\") → what? すしが → by whom? わたしは.\n• **きらい(な)** is the opposite, \"disliked\". It is a な-adjective that ends in い (lesson 05-1): きらいじゃないです, きらいでした.\n• Stronger: **だいすき** (\"love\") and **だいきらい** (\"hate\"). These are な-adjectives too.\n• Before a noun, な appears: すきな たべもの (\"favorite food\"). To ask: なにが すきですか。 / どんな おんがくが すきですか。\n• きらい, and even more だいきらい, sound strong. To soften, people often use the negative instead: あまり すきじゃないです (\"I don't really like it\"). You will practice this あまり in lesson 05-3.",
+      "explanation": "In Japanese, \"to like\" is not a verb. **すき** is a な-adjective meaning something like \"liked, dear\". \"I like sushi\" is, literally, \"as for me, sushi is liked\".\n• The thing you like is marked with **が**, not を: すしが すきです。 Why? すき describes a **state** (\"being liked\"), not an action, and adjectives never take an object with を, not even すき. The liked thing is the **SUBJECT** of that state, and が is the particle that marks a subject. This is the big difference from English, where \"sushi\" is the object of the verb \"like\".\n• The person who likes, when mentioned, takes は, as the TOPIC: わたしは すしが すきです。 Read from the predicate: すきです (\"is liked\") → what? すしが → by whom? わたしは. Keep the two apart: たなかさんが すきです on its own usually means \"(I) like Tanaka\": Tanaka is the one who is liked.\n• **きらい(な)** is the opposite, \"disliked\". It is a な-adjective that ends in い (lesson 05-1): きらいじゃないです, きらいでした.\n• Stronger: **だいすき** (\"love\") and **だいきらい** (\"hate\"). These are な-adjectives too.\n• Before a noun, な appears: すきな たべもの (\"favorite food\"). To ask: なにが すきですか。 / どんな おんがくが すきですか。 A question word takes が here, never は.\n• きらい, and even more だいきらい, sound strong. To soften, people often use the negative instead: あまり すきじゃないです (\"I don't really like it\"). You will practice this あまり in lesson 05-3.\n• Going further (Sakubi): to put the past before a noun, use だった, the casual past of です: すきだった たべもの (\"a food I used to like\"). In the present, that slot never takes だ or です, only な: すきな たべもの. Lesson 09-2 covers this.",
       "structure": "[person] は [thing] が すきです／きらいです。",
       "examples": [
         { "jp": "わたしは ブラジルの おんがくが だいすきです。", "kana": "わたしは ブラジルの おんがくが だいすきです。", "romaji": "Watashi wa Burajiru no ongaku ga daisuki desu.", "en": "I love Brazilian music. [lit. as for me, Brazilian music is much liked]" },
@@ -175,7 +176,8 @@
           { "q": "The hotel wasn't quiet.", "a": { "jp": "ホテルは しずかじゃなかったです。", "romaji": "Hoteru wa shizuka ja nakatta desu." }, "note": "ホテルは しずかじゃありませんでした。 is also correct." },
           { "q": "I love Japan.", "a": { "jp": "わたしは 日本が だいすきです。", "kana": "わたしは にほんが だいすきです。", "romaji": "Watashi wa Nihon ga daisuki desu." } },
           { "q": "What kind of music do you like?", "a": { "jp": "どんな おんがくが すきですか。", "romaji": "Donna ongaku ga suki desu ka." }, "note": "どんな + noun; the thing that is liked takes が." },
-          { "q": "How was the trip? — It was fun.", "a": { "jp": "りょこうは どうでしたか。— たのしかったです。", "romaji": "Ryokō wa dō deshita ka. — Tanoshikatta desu." } }
+          { "q": "How was the trip? — It was fun.", "a": { "jp": "りょこうは どうでしたか。— たのしかったです。", "romaji": "Ryokō wa dō deshita ka. — Tanoshikatta desu." } },
+          { "q": "I'll be busy tomorrow.", "a": { "jp": "あしたは いそがしいです。", "romaji": "Ashita wa isogashii desu." }, "note": "No special future form: the non-past いそがしいです covers \"will be\". あした tells you it's the future." }
         ]
       },
       {
@@ -194,10 +196,10 @@
     ]
   },
   "practice": [
-    { "tool": "Wagotabi", "what": "Play normally and hunt the dialogues for past-tense adjectives (〜かった, 〜でした) and the words すき / きらい. Copy 2 lines into your notebook and mark the predicate and, if there is one, the block with が. Then, in ヅオリンゴー, log the session in Immersion → Games and paste one of those lines into 🔬 Anatomy.", "min": 15 },
-    { "tool": "ヅオリンゴー", "what": "Lesson 5 vocabulary in the SRS. Then Practice L5 → conjugation, now with the past-tense forms.", "min": 10 },
+    { "tool": "Wagotabi", "what": "Play normally and hunt the dialogues for past-tense adjectives (〜かった, 〜でした) and the words すき / きらい. Copy 2 lines into your notebook and mark the predicate and, if there is one, the block with が. Then, in ヅオリンゴー, log the session in Immersion → Games and paste one of those lines into 🔬 Anatomy. If a line has a word you don't know, save it with that word in Mining: it becomes a card in your reviews.", "min": 15 },
+    { "tool": "ヅオリンゴー", "what": "Lesson 5 vocabulary in the SRS, today's reviews first. If reviews start to pile up, add fewer new words per day instead of skipping reviews. Then Practice L5 → conjugation, now with the past-tense forms.", "min": 10 },
     { "tool": "ヅオリンゴー", "what": "In the Journal, write 3 sentences about your day with past-tense adjectives and check in \"Anatomy of what I wrote\" that the predicate is at the end.", "min": 10 },
-    { "tool": "Shadowing", "what": "Tap 🔊 on each example in this lesson and repeat along 3 times. Take care with the っ in かった: hold a short silent beat before た.", "min": 5 },
+    { "tool": "Shadowing", "what": "Tap 🔊 on each example in this lesson and repeat along 3 times. Take care with the っ in かった: your mouth gets ready for the t and holds it silently for one full beat before た (か・っ・た, three beats). Notice too that でした usually sounds like \"desh-ta\": the i is whispered.", "min": 5 },
     { "tool": "Speaking", "what": "Record your homework story (h4) in 40 seconds or less. Listen and check each past form: かった for い-adjectives, でした for な-adjectives.", "min": 5 }
   ],
   "culture": {
@@ -212,7 +214,12 @@
     "I say よかったです and よくなかったです without hesitating.",
     "I can ask 〜は どうでしたか and answer with a past-tense adjective.",
     "I can say what I like and dislike with が (〜が すきです / きらいです), and I use だいすき and だいきらい.",
+    "I use the non-past forms for the future too: あしたは いそがしいです (\"I'll be busy tomorrow\").",
     "I did the homework, checked it against the answer key and redid what I got wrong.",
     "I did Workbook pages 52, 53 and 55."
+  ],
+  "credits": [
+    "Explanations adapted in part from Sakubi (public domain, CC0) — sakubi.neocities.org",
+    "Study method informed by the DJT Guide to Japanese — djtguide.neocities.org/guide"
   ]
 }

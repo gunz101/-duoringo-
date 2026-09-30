@@ -1,0 +1,222 @@
+{
+  "id": "P-08",
+  "unit": "P-N3",
+  "genki": null,
+  "title": "The more…",
+  "titleJp": "読めば読むほど面白い",
+  "canDo": [
+    "I can say \"the more…, the more…\" with 〜ば〜ほど, for verbs, い-adjectives and な-adjectives (読めば読むほど, 安ければ安いほど, 静かなら静かなほど).",
+    "I can describe how far a feeling or a state goes with 〜ほど／〜くらい: 泣きたいほどうれしい, 立っていられないくらい眠い.",
+    "I can say \"A is not as … as B\" with AはBほど〜ない, \"not as … as I thought\" with 思ったほど〜ない, and \"nothing is as … as X\" with Xほど〜はない.",
+    "I can choose between ほど and くらい, and between ほど and より, and say why."
+  ],
+  "duration": {
+    "total": "70–90 min",
+    "blocks": [
+      { "t": "Warm-up: say aloud 3 comparisons with より (lesson 10-1) and 3 sentences with the ば-form (lesson 22-2)", "min": 5 },
+      { "t": "Vocabulary: tap 🔊 on each word and repeat it twice; save the words you don't know yet with Mining (⛏), each inside one sentence from this lesson, so they enter your SRS", "min": 10 },
+      { "t": "Grammar: point a (〜ば〜ほど), with the forms said aloud. If you split the lesson into two sessions, stop after point b.", "min": 15 },
+      { "t": "Grammar: points b (degree ほど／くらい) and c (AはBほど〜ない), with the contrasts and one 🔬 each", "min": 20 },
+      { "t": "Block 6: the reading and the video, as a second explanation", "min": 10 },
+      { "t": "Notebook homework + checking it against the answer key", "min": 20 },
+      { "t": "Checklist (block 10) + write your questions in the lesson notebook", "min": 5 }
+    ]
+  },
+  "prereqs": {
+    "aulas": ["P-07"],
+    "skills": [
+      "The ば-form from lesson 22-2 (行けば, 食べれば, すれば, 来れば, 安ければ, よければ, ひまなら): point a is built on it.",
+      "Comparing with より and のほうが from lesson 10-1: point c is the negative partner of より.",
+      "〜ぐらい (\"about\") after amounts, from lesson 04-3, and 〜すぎる (\"too much\"), from lesson 12-1: point b is compared with both.",
+      "Potential verbs (lesson 13-1) and 〜てしまう (lesson 18-2), which appear in the examples."
+    ],
+    "vocab": [
+      { "jp": "ほど", "kana": "ほど", "romaji": "hodo", "en": "extent, degree; (not) as … as; about (after an amount)" },
+      { "jp": "くらい／ぐらい", "kana": "くらい／ぐらい", "romaji": "kurai / gurai", "en": "about; to the point that; at least (this much)" },
+      { "jp": "それほど", "kana": "それほど", "romaji": "sore hodo", "en": "that much; (not) so…" },
+      { "jp": "思ったほど", "kana": "おもったほど", "romaji": "omotta hodo", "en": "as much as I thought (used with a negative)" },
+      { "jp": "家族", "kana": "かぞく", "romaji": "kazoku", "en": "family" },
+      { "jp": "大切（な）", "kana": "たいせつ（な）", "romaji": "taisetsu (na)", "en": "precious, important" },
+      { "jp": "簡単（な）", "kana": "かんたん（な）", "romaji": "kantan (na)", "en": "simple, easy" },
+      { "jp": "説明", "kana": "せつめい", "romaji": "setsumei", "en": "explanation" },
+      { "jp": "面白い", "kana": "おもしろい", "romaji": "omoshiroi", "en": "interesting, fun" },
+      { "jp": "考える", "kana": "かんがえる", "romaji": "kangaeru", "en": "to think (about), to consider" },
+      { "jp": "慣れる", "kana": "なれる", "romaji": "nareru", "en": "to get used to" },
+      { "jp": "耳", "kana": "みみ", "romaji": "mimi", "en": "ear" },
+      { "jp": "年をとる", "kana": "としをとる", "romaji": "toshi o toru", "en": "to grow older" },
+      { "jp": "感じる", "kana": "かんじる", "romaji": "kanjiru", "en": "to feel" },
+      { "jp": "泣く", "kana": "なく", "romaji": "naku", "en": "to cry" },
+      { "jp": "笑う", "kana": "わらう", "romaji": "warau", "en": "to laugh" },
+      { "jp": "声", "kana": "こえ", "romaji": "koe", "en": "voice" },
+      { "jp": "疲れる", "kana": "つかれる", "romaji": "tsukareru", "en": "to get tired" },
+      { "jp": "眠い", "kana": "ねむい", "romaji": "nemui", "en": "sleepy" },
+      { "jp": "去年", "kana": "きょねん", "romaji": "kyonen", "en": "last year" },
+      { "jp": "背が高い", "kana": "せがたかい", "romaji": "se ga takai", "en": "tall (a person)" },
+      { "jp": "弟", "kana": "おとうと", "romaji": "otōto", "en": "(my) younger brother" },
+      { "jp": "試験", "kana": "しけん", "romaji": "shiken", "en": "exam, test" },
+      { "jp": "旅行", "kana": "りょこう", "romaji": "ryokō", "en": "trip, travel" },
+      { "jp": "住みやすい", "kana": "すみやすい", "romaji": "sumiyasui", "en": "easy (pleasant) to live in" }
+    ]
+  },
+  "grammar": [
+    {
+      "id": "P-08-a",
+      "gc": null,
+      "title": "〜ば〜ほど",
+      "gloss": "the more…, the more…",
+      "explanation": "English says \"the more you read, the more you understand\". Japanese builds the same idea from two pieces you already know: the **ば-form** (\"if…\", lesson 22-2) and **ほど** (\"extent\"). You say the **same word twice**: first in the ば-form, then in its plain dictionary form + ほど. 読めば読むほど = \"if you read, to the extent that you read…\" → **\"the more you read…\"**.\n• **Verbs:** ば-form + dictionary form + ほど → 読めば読むほど, 食べれば食べるほど, 使えば使うほど, 来れば来るほど. With する-verbs, the noun part is usually said once: 勉強すればするほど (勉強すれば勉強するほど is also correct).\n• **い-adjectives:** 〜ければ + dictionary form + ほど → 安ければ安いほど, 近ければ近いほど. いい uses its older form よい: よければよいほど.\n• **な-adjectives:** なら + な + ほど → 静かなら静かなほど, 簡単なら簡単なほど. In formal writing: 静かであればあるほど.\n• **Short version:** you can drop the ば half and keep only [dictionary form] ほど: 練習するほど上手になる. Same meaning; it sounds a little more written.\n\n**The sentence, block by block.** The pair [〜ば][〜ほど] works as **one block**: it says **what increases**. The second half says what changes along with it, so it usually ends in something that can grow or shrink: 〜くなる, 〜になる, 〜ようになる, an adjective. 日本語は ｜ 勉強すればするほど ｜ 面白くなる = TOPIC ｜ what increases ｜ what changes with it (PREDICATE). Read from the end: \"it becomes interesting — the more you study it\".\n\n**〜ば〜ほど × plain 〜ば** (lesson 22-2): plain ば gives a condition and its result: 練習すれば上手になる (if you practice, you'll get better — yes or no). ば〜ほど gives a **proportion**: 練習すればするほど上手になる (the more you practice, the better you get — a sliding scale).\n• Going further (Sakubi): ば says the condition is **enough** to bring the result — a logical \"if\". In ば〜ほど that logic becomes a scale: every bit more of X brings a bit more of Y.",
+      "structure": "[verb ば-form] [same verb, dictionary form] ほど · [い-adj]ければ [い-adj] ほど · [な-adj] なら [な-adj] な ほど → [what changes]",
+      "examples": [
+        { "jp": "日本語は勉強すればするほど面白くなる。", "kana": "にほんごはべんきょうすればするほどおもしろくなる。", "romaji": "Nihongo wa benkyō sureba suru hodo omoshiroku naru.", "en": "The more you study Japanese, the more interesting it gets. [lit. Japanese, the more you study it, becomes interesting]", "noAnat": true },
+        { "jp": "アパートは、駅に近ければ近いほど高くなる。", "kana": "アパートは、えきにちかければちかいほどたかくなる。", "romaji": "Apāto wa, eki ni chikakereba chikai hodo takaku naru.", "en": "The closer an apartment is to the station, the more expensive it gets.", "noAnat": true },
+        { "jp": "説明は簡単なら簡単なほどいい。", "kana": "せつめいはかんたんならかんたんなほどいい。", "romaji": "Setsumei wa kantan nara kantan na hodo ii.", "en": "The simpler an explanation is, the better.", "noAnat": true }
+      ],
+      "pitfalls": [
+        "The same word goes in both halves, first in the ば-form, then in the dictionary form: 読めば読めばほど ✗ → 読めば読むほど ✓.",
+        "い-adjectives use 〜ければ, then the plain adjective: 高いければ高いほど ✗ → 高ければ高いほど ✓.",
+        "な-adjectives take なら … なほど, never ば: 静かれば静かほど ✗ → 静かなら静かなほど ✓.",
+        "The second half must be something that can grow or shrink, not a single event. \"The more I heard about it, the more I wanted to go\": 話を聞けば聞くほど、行った ✗ → 話を聞けば聞くほど、行きたくなった ✓."
+      ],
+      "howToStudy": [
+        "Make the chain aloud, as fast as you can: 読む → 読めば読むほど, 食べる → 食べれば食べるほど, 使う → 使えば使うほど, する → すればするほど, 来る → 来れば来るほど. Then 3 adjectives: 安い → 安ければ安いほど, 近い → 近ければ近いほど, 静か → 静かなら静かなほど.",
+        "Say 3 true sentences about your own study, each ending in a result that changes: 単語は使えば使うほど忘れなくなる。／漢字は書けば書くほど〜。／日本語は聞けば聞くほど〜。",
+        "Speaking: take 3 ば sentences from lesson 22-2 and turn each into ば〜ほど, feeling the difference aloud: 練習すれば上手になる (if you practice, you'll improve) → 練習すればするほど上手になる (the more you practice, the better you get)."
+      ],
+      "flag": null
+    },
+    {
+      "id": "P-08-b",
+      "gc": null,
+      "title": "〜ほど / 〜くらい (degree)",
+      "gloss": "so … that · to the point of · about · at least",
+      "explanation": "ほど and くらい (also ぐらい) put a **measure** on something. After an amount you already know くらい as \"about\" (三時間ぐらい, lesson 04-3). After a verb or an adjective, both mean **\"to the point that, so … that\"**: they show **how far** a feeling or a state goes, by giving a picture of what it leads to.\n• 泣きたいほどうれしかった。 = happy to the point of wanting to cry → \"I was so happy I could have cried.\"\n• 今日は立っていられないくらい眠い。 = sleepy to the point of not being able to stay on my feet.\n• Very common as exaggeration in casual speech: 死ぬほど疲れた (tired to death), 死ぬほど忙しい.\n• After a noun, directly: 山ほど = \"a mountain's worth\", a ton of: 宿題が山ほどある.\n\n**Forms:** ほど and くらい attach like a noun. Verb or い-adjective short form + ほど／くらい (泣きたいほど, 歩けないくらい); な-adjective + **な** (不思議なほど, \"to a surprising degree\"); noun directly (山ほど, これくらい).\n\n**The sentence, block by block.** The ほど／くらい block sits right **before the PREDICATE** and answers **\"how much?\"** about it: [泣きたいほど] [うれしかった]. Read the predicate first (I was happy), then the block (how happy? — enough to cry).\n\n**ほど × くらい:** for \"to the point that\" they are usually interchangeable. くらい／ぐらい sounds more conversational; ほど a bit more formal, and more natural for **extreme** degrees. Only くらい can mean **\"at least, just this much\"**, which makes something sound small or easy: それくらい自分でやって (do at least that much yourself). ほど can't do that.\n• **About amounts** (Sakubi): after a number, both mean \"about\": 十分ぐらい／十分ほど待ってください. ほど sounds more polite and is common in shops and announcements.\n\n**ほど × すぎる** (lesson 12-1): 〜すぎる just says \"too much\": 食べすぎた (I ate too much). ほど gives a picture of the result instead: 動けないほど食べた (I ate so much I couldn't move).",
+      "structure": "[short form] ほど／くらい + [predicate] · [amount] ほど／ぐらい (= about) · それくらい (= at least that much)",
+      "examples": [
+        { "jp": "泣きたいほどうれしかった。", "kana": "なきたいほどうれしかった。", "romaji": "Nakitai hodo ureshikatta.", "en": "I was so happy I could have cried. [lit. I was happy to the point of wanting to cry]", "noAnat": true },
+        { "jp": "今日は立っていられないくらい眠い。", "kana": "きょうはたっていられないくらいねむい。", "romaji": "Kyō wa tatte irarenai kurai nemui.", "en": "Today I'm so sleepy I can barely stay on my feet." },
+        { "jp": "それくらい自分でやってください。", "kana": "それくらいじぶんでやってください。", "romaji": "Sore kurai jibun de yatte kudasai.", "en": "Please do at least that much yourself." }
+      ],
+      "pitfalls": [
+        "For \"at least, just this much\", only くらい works: それほど自分でやって ✗ → それくらい自分でやって ✓ (それほど means \"that much\" and is mostly used with a negative, point c).",
+        "The ほど／くらい block goes before what it measures, not after: うれしかった、泣きたいほど ✗ → 泣きたいほどうれしかった ✓.",
+        "No ます form before ほど／くらい; the politeness goes at the end: 泣きたいですほどうれしかった ✗ → 泣きたいほどうれしかったです ✓.",
+        "な-adjectives keep な: 不思議ほど ✗ → 不思議なほど ✓."
+      ],
+      "howToStudy": [
+        "Describe 3 extreme moments from your life aloud, each with a picture of what it led to: [result] ほど／くらい + [feeling]. E.g. 声が出なくなるほど笑った, 動けないくらい食べた, 泣きたいほどうれしかった.",
+        "🔬 Anatomy → Analyze: paste example 2. 今日は is the TOPIC, 立っていられないくらい shows up as QUANTITY — it answers \"how much?\", here: how sleepy — and 眠い is the PREDICATE. Read it from the end: sleepy → how sleepy? → can't stay standing.",
+        "Say each pair aloud and name the difference in English: 食べすぎた (too much) × 動けないほど食べた (so much that…); それくらい自分でできる (at least that much) × それほど難しくない (not that hard, point c)."
+      ],
+      "flag": null
+    },
+    {
+      "id": "P-08-c",
+      "gc": null,
+      "title": "A は B ほど 〜ない (not as … as)",
+      "gloss": "A is not as … as B · nothing is as … as X",
+      "explanation": "In lesson 10-1, より said who **wins**: 東京は私の町より大きい. To say that A **doesn't reach** B's level, Japanese uses **ほど + a negative**: 私の町は東京ほど大きくない = \"My town isn't as big as Tokyo.\" [B ほど] is the **yardstick**; the negative predicate says A doesn't measure up to it. Sakubi puts it this way: in a comparison, ほど means \"as\" and sets a limit on how far the statement applies — and in this use, the statement must be negative.\n• 今年の夏は去年ほど暑くない。 (This summer isn't as hot as last year's.)\n• It also says, softly, that B **does** have the quality: 東京ほど便利じゃない implies Tokyo is convenient.\n• **思ったほど〜ない** = \"not as … as I thought\": 試験は思ったほど難しくなかった.\n• **それほど〜ない / そんなに〜ない** = \"not that…, not so…\", with no B at all: この映画はそれほど面白くなかった. Sakubi notes that compounds like それほど act as one word: \"that much\".\n• **X ほど 〜 は ない** = \"nothing is as … as X\" — the strongest way to praise X: 家族ほど大切なものはない (nothing is as precious as family). Here くらい／ぐらい also works: 家族くらい大切なものはない.\n\n**Forms:** ほど comes right after B: a noun (去年ほど), or a verb in the short form (思ったほど). The predicate is **negative**: 〜くない, 〜じゃない, 〜ない.\n\n**The sentence, block by block.** [A は] TOPIC ｜ [B ほど] the yardstick ｜ [negative adjective or verb] PREDICATE. Read from the end: \"is not hot\" → compared with what? → last year.\n\n**ほど × より:** より works with an affirmative: 去年のほうが今年より暑かった (last year was hotter than this year). ほど needs a negative: 今年は去年ほど暑い ✗. より with a negative (今年は去年より暑くない) exists, but it only denies \"hotter\"; the natural way to say \"not as … as\" is ほど.\n**ほど × くらい (same level):** くらい can compare too, but with an **affirmative** it says A and B are **about the same** (Sakubi): 弟はもう父くらい背が高い (my little brother is already about as tall as my father). So: B くらい + affirmative = about as … as; B ほど + negative = not as … as.",
+      "structure": "[A] は [B] ほど [negative predicate] · 思ったほど〜ない · それほど〜ない · [X] ほど [adjective] [noun] は ない",
+      "examples": [
+        { "jp": "今年の夏は去年ほど暑くない。", "kana": "ことしのなつはきょねんほどあつくない。", "romaji": "Kotoshi no natsu wa kyonen hodo atsukunai.", "en": "This summer isn't as hot as last year's.", "noAnat": true },
+        { "jp": "試験は思ったほど難しくなかった。", "kana": "しけんはおもったほどむずかしくなかった。", "romaji": "Shiken wa omotta hodo muzukashikunakatta.", "en": "The exam wasn't as hard as I'd thought.", "noAnat": true },
+        { "jp": "この映画はそれほど面白くなかった。", "kana": "このえいがはそれほどおもしろくなかった。", "romaji": "Kono eiga wa sore hodo omoshirokunakatta.", "en": "This movie wasn't that interesting." }
+      ],
+      "pitfalls": [
+        "ほど needs a negative predicate: 今年は去年ほど暑い ✗ → 今年は去年ほど暑くない ✓, or 去年のほうが暑かった ✓.",
+        "B, the yardstick, goes before ほど, and A is the topic. \"My town isn't as big as Tokyo\": 東京は私の町ほど大きくない ✗ (= Tokyo isn't as big as my town) → 私の町は東京ほど大きくない ✓.",
+        "For \"about as … as\" (the same level), use くらい with an affirmative: 弟は父ほど背が高い ✗ → 弟は父くらい背が高い ✓."
+      ],
+      "howToStudy": [
+        "Compare aloud in both directions, 3 pairs from your own life (towns, languages, seasons): 東京は私の町より大きい → 私の町は東京ほど大きくない.",
+        "🔬 Anatomy → Analyze: paste example 3. この is DESCRIBES NEXT, 映画は the TOPIC, それほど comes out as HOW / HOW OFTEN (it answers \"how much?\") and 面白くなかった is the PREDICATE. Heads-up: 🔬 has no label for ほど after a noun yet, so a block like 去年ほど shows up as NO PARTICLE. Its real job is the yardstick: \"compared with last year\".",
+        "In your notebook, write 3 sentences with 思ったほど〜なかった about things that turned out easier, cheaper or smaller than you expected, and 1 sentence with 〜ほど〜はない about something you love."
+      ],
+      "flag": null
+    }
+  ],
+  "media": [
+    { "order": 1, "kind": "reading", "title": "Tae Kim's Guide to Learning Japanese: the page on expressing amounts, the part on using ほど to express the extent of something (it includes 〜ば〜ほど)", "where": "Website · Tae Kim's Guide to Learning Japanese", "url": "", "search": "Tae Kim expressing amounts hodo extent", "when": "After point a. It's short: read it and compare his examples with the forms in point a." },
+    { "order": 2, "kind": "video", "title": "Japanese Ammo with Misa: ほど and くらい／ぐらい (a second explanation)", "where": "YouTube · Japanese Ammo with Misa channel", "url": "", "search": "Japanese Ammo with Misa hodo kurai", "when": "After points b and c. If there's no video covering both, search for each one separately, or for \"ba hodo\"." },
+    { "order": 3, "kind": "reading", "title": "JLPT Sensei: the pages on 〜ば〜ほど, 〜ほど and 〜くらい／ぐらい, with more examples", "where": "Website · JLPT Sensei (grammar lists by level)", "url": "", "search": "JLPT Sensei ba hodo", "when": "After the homework, to review. Read the example sentences aloud. If the site lists a point at another level, that's fine: unofficial lists vary." },
+    { "order": 4, "kind": "input", "title": "Nihongo con Teppei: listen to one episode and note every ほど, くらい or ぐらい you catch", "where": "Podcast · Nihongo con Teppei", "url": "", "search": "Nihongo con Teppei podcast", "when": "On any day after the lesson. For each one you catch, decide: \"about\", \"so … that\", or \"not as … as\"." }
+  ],
+  "homework": {
+    "intro": "Do it by hand in your notebook. Write with the kanji you already know and use kana for the rest. Only then open the answer key, item by item. Circle what you got wrong and redo it the next day.",
+    "tasks": [
+      {
+        "id": "h1",
+        "type": "transform",
+        "prompt": "Join the two parts with 〜ば〜ほど (\"the more…, the more…\") and write the full sentence.",
+        "items": [
+          { "q": "練習する → 上手になる", "a": { "jp": "練習すればするほど上手になる。", "kana": "れんしゅうすればするほどじょうずになる。", "romaji": "Renshū sureba suru hodo jōzu ni naru." }, "note": "する-verb: the noun part is said once (練習すれば練習するほど is also correct)." },
+          { "q": "考える → わからなくなる", "a": { "jp": "考えれば考えるほど、わからなくなる。", "kana": "かんがえればかんがえるほど、わからなくなる。", "romaji": "Kangaereba kangaeru hodo, wakaranaku naru." }, "note": "The result can also shrink: the more I think, the less I understand." },
+          { "q": "部屋は広い → 高くなる", "a": { "jp": "部屋は広ければ広いほど高くなる。", "kana": "へやはひろければひろいほどたかくなる。", "romaji": "Heya wa hirokereba hiroi hodo takaku naru." }, "note": "い-adjective: 広ければ + 広い + ほど." },
+          { "q": "町は静かだ → 住みやすい", "a": { "jp": "町は静かなら静かなほど住みやすい。", "kana": "まちはしずかならしずかなほどすみやすい。", "romaji": "Machi wa shizuka nara shizuka na hodo sumiyasui." }, "note": "な-adjective: なら + な + ほど. In formal writing: 静かであればあるほど." },
+          { "q": "年をとる → 一年が短く感じる", "a": { "jp": "年をとればとるほど、一年が短く感じる。", "kana": "としをとればとるほど、いちねんがみじかくかんじる。", "romaji": "Toshi o toreba toru hodo, ichinen ga mijikaku kanjiru." } },
+          { "q": "日本語を聞く → 耳が慣れてくる", "a": { "jp": "日本語は聞けば聞くほど、耳が慣れてくる。", "kana": "にほんごはきけばきくほど、みみがなれてくる。", "romaji": "Nihongo wa kikeba kiku hodo, mimi ga narete kuru." }, "note": "日本語 became the topic (日本語は), so を disappears. 日本語を聞けば聞くほど is also fine." }
+        ]
+      },
+      {
+        "id": "h2",
+        "type": "fill",
+        "prompt": "Fill in ほど or くらい／ぐらい. If both work, write both.",
+        "items": [
+          { "q": "それ＿＿自分でやってよ。", "a": { "jp": "それくらい自分でやってよ。", "kana": "それくらいじぶんでやってよ。", "romaji": "Sore kurai jibun de yatte yo." }, "note": "\"At least that much\" makes the task sound small: only くらい can do that." },
+          { "q": "今年の冬は去年＿＿寒くない。", "a": { "jp": "今年の冬は去年ほど寒くない。", "kana": "ことしのふゆはきょねんほどさむくない。", "romaji": "Kotoshi no fuyu wa kyonen hodo samukunai." }, "note": "\"Not as … as\" + a negative: ほど." },
+          { "q": "駅まで歩いて十分＿＿です。", "a": { "jp": "駅まで歩いて十分ほどです。／十分ぐらいです。", "kana": "えきまであるいてじゅっぷんほどです。／じゅっぷんぐらいです。", "romaji": "Eki made aruite juppun hodo desu. / Juppun gurai desu." }, "note": "After an amount, both mean \"about\". ほど sounds a little more polite." },
+          { "q": "弟はもう父＿＿背が高い。", "a": { "jp": "弟はもう父くらい背が高い。", "kana": "おとうとはもうちちくらいせがたかい。", "romaji": "Otōto wa mō chichi kurai se ga takai." }, "note": "About the same level, with an affirmative: くらい. ほど would need a negative." },
+          { "q": "声が出なくなる＿＿笑った。", "a": { "jp": "声が出なくなるほど笑った。／声が出なくなるくらい笑った。", "kana": "こえがでなくなるほどわらった。／こえがでなくなるくらいわらった。", "romaji": "Koe ga denaku naru hodo waratta. / Koe ga denaku naru kurai waratta." }, "note": "Degree (\"so much that…\"): both work; くらい sounds more conversational." },
+          { "q": "家族＿＿大切なものはない。", "a": { "jp": "家族ほど大切なものはない。／家族くらい大切なものはない。", "kana": "かぞくほどたいせつなものはない。／かぞくくらいたいせつなものはない。", "romaji": "Kazoku hodo taisetsu na mono wa nai. / Kazoku kurai taisetsu na mono wa nai." }, "note": "\"Nothing is as … as X\": both work." }
+        ]
+      },
+      {
+        "id": "h3",
+        "type": "translate",
+        "prompt": "Translate into Japanese.",
+        "items": [
+          { "q": "The more I read this book, the more interesting it gets.", "a": { "jp": "この本は読めば読むほど面白くなる。", "kana": "このほんはよめばよむほどおもしろくなる。", "romaji": "Kono hon wa yomeba yomu hodo omoshiroku naru." } },
+          { "q": "The trip wasn't as expensive as I'd thought.", "a": { "jp": "旅行は思ったほど高くなかった。", "kana": "りょこうはおもったほどたかくなかった。", "romaji": "Ryokō wa omotta hodo takakunakatta." } },
+          { "q": "I'm not as good at Japanese as Maria.", "a": { "jp": "私はマリアさんほど日本語が上手じゃない。", "kana": "わたしはマリアさんほどにほんごがじょうずじゃない。", "romaji": "Watashi wa Maria-san hodo nihongo ga jōzu ja nai." }, "note": "A は B ほど [skill] が 上手じゃない. Polite: 上手じゃありません." },
+          { "q": "I was so tired I fell asleep on the train.", "a": { "jp": "電車で寝てしまうほど疲れていた。", "kana": "でんしゃでねてしまうほどつかれていた。", "romaji": "Densha de nete shimau hodo tsukarete ita." }, "note": "The picture of the result (寝てしまう) goes in the ほど block, before what it measures. くらい also works." },
+          { "q": "Nothing is as fun as traveling.", "a": { "jp": "旅行ほど楽しいものはない。", "kana": "りょこうほどたのしいものはない。", "romaji": "Ryokō hodo tanoshii mono wa nai." } },
+          { "q": "The cheaper, the better.", "a": { "jp": "安ければ安いほどいい。", "kana": "やすければやすいほどいい。", "romaji": "Yasukereba yasui hodo ii." } }
+        ]
+      },
+      {
+        "id": "h4",
+        "type": "produce",
+        "prompt": "Write 4 sentences about your Japanese study: one with 〜ば〜ほど, one with degree ほど／くらい, one with 思ったほど〜ない (or AはBほど〜ない), and one with 〜ほど〜はない. Read them aloud and record yourself on your phone.",
+        "items": [
+          { "q": "Model (match its structure, not its words):", "a": { "jp": "日本語は使えば使うほど楽しくなる。最初は、漢字が泣きたいほど難しかった。でも、今は思ったほど大変じゃない。好きなアニメを日本語で見ることほど楽しいことはない。", "kana": "にほんごはつかえばつかうほどたのしくなる。さいしょは、かんじがなきたいほどむずかしかった。でも、いまはおもったほどたいへんじゃない。すきなアニメをにほんごでみることほどたのしいことはない。", "romaji": "Nihongo wa tsukaeba tsukau hodo tanoshiku naru. Saisho wa, kanji ga nakitai hodo muzukashikatta. Demo, ima wa omotta hodo taihen ja nai. Suki na anime o nihongo de miru koto hodo tanoshii koto wa nai.", "en": "The more I use Japanese, the more fun it gets. At first, kanji were so hard I wanted to cry. But now it isn't as tough as I'd thought. Nothing is as fun as watching my favorite anime in Japanese." }, "note": "Check: the same word twice in ば〜ほど, the ほど block right before what it measures, and a negative after every \"B ほど\" comparison." }
+        ]
+      }
+    ],
+    "workbook": []
+  },
+  "practice": [
+    { "tool": "Wagotabi", "what": "Play in the game's N3 area. Hunt for ほど, くらい and ぐらい in the dialogues. For each one, decide which job it has: \"about\" (an amount), \"so … that\" (degree), \"not as … as\" (with a negative), or half of 〜ば〜ほど. Log the session in Immersion → Games and paste one of those lines into 🔬 Anatomy (remember: a ほど block may show up as NO PARTICLE).", "min": 15 },
+    { "tool": "NHK NEWS WEB EASY", "what": "Read one article with a pop-up dictionary (such as Yomitan in your browser) and listen to its audio. News often gives amounts with ほど, \"about\" (百人ほど, 三時間ほど). Copy one such sentence and save it with Mining (⛏) so it comes back in your SRS. Then write one sentence of your own about the article with 〜ば〜ほど or 〜ほど〜ない.", "min": 10 },
+    { "tool": "ヅオリンゴー · Journal", "what": "Write 5 sentences of your own: two with 〜ば〜ほど (one verb, one adjective), one with degree ほど／くらい, one with AはBほど〜ない or 思ったほど〜なかった, and one with 〜ほど〜はない. Use \"Anatomy of what I wrote\" to check the topic and the predicate at the end, and check yourself that every \"B ほど\" comparison ends in a negative.", "min": 10 },
+    { "tool": "Shadowing", "what": "Tap 🔊 on each example in this lesson and repeat along 3 times. Then chant the pairs until they're automatic: 読めば読むほど・食べれば食べるほど・すればするほど・安ければ安いほど・静かなら静かなほど.", "min": 5 },
+    { "tool": "Speaking", "what": "Record 30 seconds comparing your town with a big city: one sentence with より, one with 〜ほど〜ない, one with 〜ば〜ほど (e.g. 大きい町に住めば住むほど…), and one with 〜ほど〜はない.", "min": 5 }
+  ],
+  "culture": {
+    "title": "Continuous improvement (かいぜん)",
+    "titleJp": "改善",
+    "body": "**改善** (かいぜん) simply means \"improvement\" in everyday Japanese, but abroad it became the name of a whole way of working: **small, steady improvements, made all the time, by everyone** — not one big reform. The idea is closely linked to Japanese manufacturing, especially the Toyota Production System, and it became widely known outside Japan in the 1980s. In a kaizen workplace, the people who do the job are the ones expected to spot problems and suggest fixes, often through a suggestion system (改善提案, かいぜんていあん). Related habits include the PDCA cycle (plan, do, check, act) and **5S**, a checklist for keeping a workplace in order: 整理 (せいり, sort), 整頓 (せいとん, set in order), 清掃 (せいそう, clean), 清潔 (せいけつ, keep clean) and しつけ (discipline). Many Japanese companies still use these ideas, though how seriously they're practiced varies from place to place.",
+    "try": "Apply kaizen to your study: this week, change just one small thing — a better time of day for your reviews, fewer new SRS cards if your reviews are piling up, or one more minute of shadowing. Then write it in your notebook with this lesson's grammar: 毎日少しずつ改善すればするほど、勉強が楽になる。"
+  },
+  "checklist": [
+    "I can build 〜ば〜ほど without looking, for verbs, い-adjectives and な-adjectives (読めば読むほど, 安ければ安いほど, 静かなら静かなほど).",
+    "I know the second half of ば〜ほど must be something that grows or shrinks, and I can tell it apart from a plain ば condition.",
+    "I can describe an extreme degree with 〜ほど／〜くらい, placed right before what it measures.",
+    "I know only くらい means \"at least, just this much\" (それくらい自分でできる).",
+    "I can say \"A is not as … as B\" with AはBほど〜ない, and I never use this ほど with an affirmative predicate.",
+    "I can say 思ったほど〜なかった and 〜ほど〜はない, and I can tell B くらい (about the same) from B ほど〜ない (not as … as).",
+    "I did the homework, checked it against the answer key and redid what I got wrong."
+  ],
+  "credits": [
+    "Explanations adapted in part from Sakubi (public domain, CC0) — sakubi.neocities.org",
+    "Study method informed by the DJT Guide to Japanese — djtguide.neocities.org/guide"
+  ]
+}

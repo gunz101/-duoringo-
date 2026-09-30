@@ -16,7 +16,7 @@
       { "t": "Warm-up: count by tens up to 100 and say 3 phone numbers (lessons 00-3 and 01-2)", "min": 5 },
       { "t": "Vocabulary: tap 🔊 on each word and repeat it twice", "min": 10 },
       { "t": "Grammar: the 3 points, taking your time with the big numbers, and one 🔬 per point", "min": 25 },
-      { "t": "Video (block 6), pausing to repeat the prices", "min": 10 },
+      { "t": "Block 6: the video, pausing to repeat the prices, or the Sakubi sections as a second explanation", "min": 10 },
       { "t": "Notebook homework + checking it against the answer key", "min": 15 },
       { "t": "Checklist (block 10) + write your questions in the lesson notebook", "min": 5 }
     ]
@@ -85,7 +85,7 @@
       "gc": null,
       "title": "〜えん · いくら",
       "gloss": "yen · how much?",
-      "explanation": "The price is the **PREDICATE** of an X は Y です sentence: [thing] は [number]えんです。 To ask, **いくら** (\"how much\") goes exactly where the price goes: この さいふは いくらですか。— よんせんごひゃくえんです。\n• The TOPIC is usually the thing you point at with この/その/あの or これ/それ/あれ (lesson 02-1). Read it starting from the predicate: \"is 4,500 yen… this wallet\".\n• えん is the yen. Japanese has no \"y\" sound in it: say **en**, not \"yen\".\n• Watch the 4: 4 yen is **よえん** (like よじ in lesson 01-2), but 40 yen is よんじゅうえん and 400 yen is よんひゃくえん.\n• You may also hear なんえんですか (\"how many yen?\"); いくら is the most common.",
+      "explanation": "The price is the **PREDICATE** of an X は Y です sentence: [thing] は [number]えんです。 To ask, **いくら** (\"how much\") goes exactly where the price goes: この さいふは いくらですか。— よんせんごひゃくえんです。\n• The TOPIC is usually the thing you point at with この/その/あの or これ/それ/あれ (lesson 02-1). Read it starting from the predicate: \"is 4,500 yen… this wallet\".\n• えん is the yen. Japanese has no \"y\" sound in it: say **en**, not \"yen\".\n• えん is a **counter**, like じ and さい (lesson 01-2): it attaches straight to the number, and it has its own sound change. 4 yen is **よえん** (like よじ), but 40 yen is よんじゅうえん and 400 yen is よんひゃくえん.\n• You may also hear なんえんですか (\"how many yen?\"); いくら is the most common.",
       "structure": "[thing] は いくらですか。— [number] えんです。",
       "examples": [
         { "jp": "すみません、この さいふは いくらですか。— よんせんごひゃくえんです。", "kana": "すみません、この さいふは いくらですか。— よんせんごひゃくえんです。", "romaji": "Sumimasen, kono saifu wa ikura desu ka. — Yonsen gohyaku en desu.", "en": "Excuse me, how much is this wallet? — It's 4,500 yen." },
@@ -95,12 +95,12 @@
       "pitfalls": [
         "いくら doesn't take は: いくらは ✗. The thing takes は, and いくら goes at the end: 〜は いくらですか ✓.",
         "English puts \"how much\" at the start of the question. In Japanese, いくら stays where the price will go, right before です: いくら この かさは ですか ✗ → この かさは いくらですか ✓.",
-        "Say えん (en), not \"yen\".",
+        "えん has no \"y\" sound: \"yen\" ✗ → \"en\" ✓ (ごひゃくえん = gohyaku en).",
         "4 yen is よえん, but 4,000 yen is よんせんえん: the よ reading only applies when the 4 sits right before えん."
       ],
       "howToStudy": [
         "Act out a dialogue by yourself, out loud, with 5 objects at home: ask 〜は いくらですか and answer with a made-up price.",
-        "Tap 🔬 on example 1: この さいふは is the TOPIC and いくらですか is the PREDICATE. In the answer, the price takes the same place.",
+        "Tap 🔬 on example 1: すみません is an INTERJECTION, この shows up as DESCRIBES NEXT, さいふは is the TOPIC and いくらですか is the PREDICATE. In the answer, the price takes the same place.",
         "Tap 🔊 on example 2 and repeat along until you can say いちまんにせんえん without stumbling."
       ],
       "flag": null
@@ -110,7 +110,7 @@
       "gc": null,
       "title": "〜を ください · 〜を おねがいします",
       "gloss": "… please (give me) · …, please",
-      "explanation": "To ask for something, say **the thing + を + ください**: この かさを ください (\"This umbrella, please\" — in a shop, \"I'll take this one\"). **を** marks the **OBJECT**, the thing you want to receive, and is read **o**. ください is the request and goes at the end, in the predicate slot.\n• **おねがいします** works the same way and sounds **softer**: とんかつを おねがいします (\"A tonkatsu, please\"). It's very common in restaurants and also works for services: メニューを おねがいします, おかいけい おねがいします (\"The check, please\").\n• In speech, を is often dropped: とんかつ、おねがいします。\n• When you're handed something, you'll hear **どうぞ** (\"here you are\"). When you walk into a shop, you'll hear **いらっしゃいませ** (\"welcome\"); customers usually don't reply, and a small nod is enough.\n• You'll study を with verbs in lesson 03-2.",
+      "explanation": "To ask for something, say **the thing + を + ください**: この かさを ください (\"This umbrella, please\" — in a shop, \"I'll take this one\"). **を** is the **OBJECT** label: like は, it comes right after its block and says what job the block has — here, the thing you want to receive. It is read **o**. ください is a polite \"please give me\", so it is the PREDICATE and goes at the end: Japanese puts the object **before** the verb, the reverse of English \"give me this umbrella\".\n• **おねがいします** works the same way and sounds **softer**: とんかつを おねがいします (\"A tonkatsu, please\"). It's very common in restaurants and also works for services: メニューを おねがいします, おかいけい おねがいします (\"The check, please\").\n• In speech, を is often dropped when the meaning is obvious: とんかつ、おねがいします。 The labels are still the norm, especially in writing.\n• When you're handed something, you'll hear **どうぞ** (\"here you are\"). When you walk into a shop, you'll hear **いらっしゃいませ** (\"welcome\"); customers usually don't reply, and a small nod is enough.\n• You'll study を with verbs in lesson 03-2.\n• Going further (Sakubi): ください asks for something **for your benefit**. It also follows verbs, to ask someone to do something for you: みてください (\"please look\"). That uses the て-form, in lesson 06-2.",
       "structure": "[thing] を ください。 · [thing] を おねがいします。",
       "examples": [
         { "jp": "じゃあ、この かさを ください。", "kana": "じゃあ、この かさを ください。", "romaji": "Jā, kono kasa o kudasai.", "en": "Well then, I'll take this umbrella. [lit. then, this umbrella, please give me]" },
@@ -118,7 +118,7 @@
         { "jp": "メニューを おねがいします。— はい、どうぞ。", "kana": "メニューを おねがいします。— はい、どうぞ。", "romaji": "Menyū o onegai shimasu. — Hai, dōzo.", "en": "The menu, please. — Sure, here you are." }
       ],
       "pitfalls": [
-        "を is read o, just like お: とんかつを = tonkatsu o.",
+        "を is read o, just like お: とんかつを = \"tonkatsu wo\" ✗ → \"tonkatsu o\" ✓. (You may hear \"wo\" in songs, but in speech it is o.)",
         "The thing comes before the request: ください この かさ ✗ (the English order, \"give me this umbrella\") → この かさを ください ✓.",
         "ください is not a loose \"please\" at the start of a sentence: ください、メニュー ✗ → メニューを ください ✓. To call a waiter or a clerk, use すみません.",
         "\"I want this\" doesn't need a verb \"want\" (it comes in lessons 11-1 and 14-1). In a shop, これを ください says it all."
@@ -191,10 +191,10 @@
   },
   "practice": [
     { "tool": "Wagotabi", "what": "Play normally and read aloud, in Japanese, every number that appears on screen (money, items, points). If a line of dialogue has いくら, 〜えん, ください or おねがいします, pause and copy it into your notebook.", "min": 15 },
-    { "tool": "ヅオリンゴー", "what": "Drills → Numbers: 10 min. Then the Lesson 2 vocabulary in the SRS.", "min": 15 },
+    { "tool": "ヅオリンゴー", "what": "Drills → Numbers: 10 min — short daily sessions fix the five sound changes better than one long one. Then clear today's reviews and the Lesson 2 vocabulary in the SRS.", "min": 15 },
     { "tool": "ヅオリンゴー", "what": "Practice L2: do the listening part, to understand numbers and prices said aloud.", "min": 10 },
     { "tool": "Shadowing", "what": "Tap 🔊 on the examples in this lesson and repeat each price along with it, 3 times.", "min": 5 },
-    { "tool": "Speaking", "what": "At the supermarket, in a shop or on a website, quietly say the price of 10 products in Japanese: just the number + えん.", "min": 5 }
+    { "tool": "Real Japanese", "what": "Open a Japanese online shop (search for くつ or ぼうし) and say the price of 10 products aloud in Japanese: just the number + えん. Try a pop-up dictionary such as Yomitan (a free browser add-on) on one product name: hover over it to see its reading and meaning. You won't understand the page yet, and that's fine — this is your first contact with real Japanese.", "min": 5 }
   ],
   "culture": {
     "title": "Money: the little tray at the register, no tipping",
@@ -210,5 +210,9 @@
     "I can order in a restaurant with 〜を おねがいします (a dish, the menu, the check).",
     "I did the homework, checked it against the answer key and redid what I got wrong.",
     "I did Workbook page 25."
+  ],
+  "credits": [
+    "Explanations adapted in part from Sakubi (public domain, CC0) — sakubi.neocities.org",
+    "Study method informed by the DJT Guide to Japanese — djtguide.neocities.org/guide"
   ]
 }

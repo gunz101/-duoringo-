@@ -16,7 +16,7 @@
       { "t": "Warm-up: read this lesson's vocabulary (block 3) aloud, in kana only", "min": 5 },
       { "t": "Vocabulary: tap 🔊 on each word and repeat it twice", "min": 10 },
       { "t": "Grammar: the 3 points, each with its examples read aloud and one 🔬", "min": 20 },
-      { "t": "Lesson 1 video (block 6), pausing on the examples", "min": 10 },
+      { "t": "Block 6: the Lesson 1 video or the Sakubi sections, as a second explanation (read to understand, not to memorize)", "min": 10 },
       { "t": "Notebook homework + checking it against the answer key", "min": 15 },
       { "t": "Checklist (block 10) + write your questions in the lesson notebook", "min": 5 }
     ]
@@ -47,7 +47,8 @@
       { "jp": "なん", "kana": "なん", "romaji": "nan", "en": "what (the form used before です)" },
       { "jp": "はい", "kana": "はい", "romaji": "hai", "en": "yes" },
       { "jp": "いいえ", "kana": "いいえ", "romaji": "iie", "en": "no" },
-      { "jp": "そうです", "kana": "そうです", "romaji": "sō desu", "en": "that's right" }
+      { "jp": "そうです", "kana": "そうです", "romaji": "sō desu", "en": "that's right" },
+      { "jp": "そうですか", "kana": "そうですか", "romaji": "sō desu ka", "en": "I see; is that so?" }
     ]
   },
   "grammar": [
@@ -56,7 +57,7 @@
       "gc": "1-1",
       "title": "X は Y です",
       "gloss": "X is Y",
-      "explanation": "The most basic Japanese sentence: it says what X is. **は marks the topic** — what the sentence is about (\"as for X…\"). As a particle, は is read **wa**, not \"ha\". **です always comes at the end** and means \"is / am / are\" in the polite style.\n• です never changes with the person or number: I am, you are, they are — all です.\n• There are no articles and no plural: がくせい can be \"a student\", \"the student\" or \"students\".\n• When the topic is obvious, it disappears: introducing yourself, just ブラジルじんです。 is enough — repeating わたしは in every sentence sounds robotic.",
+      "explanation": "The most basic Japanese sentence: it says what X is. **は marks the topic** — what the sentence is about (\"as for X…\"). The topic is often the English subject, but not always: は only says \"this is what I'm talking about\". As a particle, は is read **wa**, not \"ha\". **です always comes at the end** and means \"is / am / are\" in the polite style: the \"is\" word comes **after** what it describes, not before it as in English.\n• **Particles** like は are small words that come **right after** a word and label its job in the sentence — like English prepositions, but placed after. English shows each word's job mostly by word order; Japanese shows it with these labels. So every block ends in its label: わたし**は** = the topic block.\n• です never changes with the person, number or gender: I am, you are, she is, they are — all です. In normal speech it sounds like \"dess\": the final u is almost silent.\n• There are no articles and no plural: がくせい can be \"a student\", \"the student\" or \"students\".\n• When the topic is obvious, it disappears: introducing yourself, just ブラジルじんです。 is enough — repeating わたしは in every sentence sounds robotic.\n• Going further (Sakubi): です is the polite member of a pair. Its plain partner is だ (がくせいだ), used among friends; you'll learn it with the short forms in lesson 08-1. The difference is politeness, not a contraction like \"it is\" vs \"it's\".",
       "structure": "[X] は [Y] です。",
       "examples": [
         { "jp": "わたしは ブラジルじんです。", "kana": "わたしは ブラジルじんです。", "romaji": "Watashi wa burajirujin desu.", "en": "I'm Brazilian. [lit. as for me, Brazilian is]" },
@@ -64,13 +65,13 @@
         { "jp": "ジョンさんは だいがくせいです。", "kana": "ジョンさんは だいがくせいです。", "romaji": "Jon-san wa daigakusei desu.", "en": "John is a college student." }
       ],
       "pitfalls": [
-        "は as a particle is read \"wa\" — but inside a word it stays \"ha\": はい (hai), はな (hana).",
-        "Never put さん after your own name: わたしは ジョンさんです ✗ → わたしは ジョンです ✓.",
-        "です is not \"is located\": to say where something is, Japanese uses a different verb (lesson 04-1). がっこうは です ✗ — です needs the Y (what X is)."
+        "は as a particle is read \"wa\": わたしは = \"watashi ha\" ✗ → \"watashi wa\" ✓. Inside a word it stays \"ha\": はい (hai), はな (hana).",
+        "Never put さん after your own name: わたしは ジョンさんです ✗ → わたしは ジョンです ✓. With other people, use it by default: a bare name (just たなか) sounds overly familiar unless you are close friends.",
+        "です says what X is (X = Y), not that something exists. \"There's a teacher (here)\": せんせいです ✗ (that means \"I'm / he's a teacher\") → せんせいが います ✓, a different verb you'll learn in lesson 04-1."
       ],
       "howToStudy": [
         "Say 5 true sentences about yourself out loud, changing only Y: ブラジルじんです → がくせいです → …",
-        "Tap 🔬 on the examples: the block with は is the TOPIC, the block with です is the PREDICATE — always read starting from the predicate.",
+        "Tap 🔬 on the examples: the block ending in は is the TOPIC, the block ending in です is the PREDICATE — always read starting from the predicate.",
         "In your notebook, write 3 sentences about people you know (〜さんは 〜です)."
       ],
       "flag": null
@@ -80,7 +81,7 @@
       "gc": "1-2",
       "title": "〜か (questions)",
       "gloss": "the question particle",
-      "explanation": "To ask a question, just put **か at the end**. The word order does **not** change — Japanese never inverts like English \"Are you…?\". In speech your voice rises on か; in formal writing the sentence ends with 。, because か already does the job of the question mark.\n• A \"yes\" answer: はい、そうです。 (\"Yes, that's right.\")\n• A \"no\" answer, for now: いいえ + the correct information (いいえ、アメリカじんです。). The full negative form comes in lesson 02-3.\n• With a question word, the question word goes **exactly where the answer will go**: せんこうは なんですか。 → せんこうは れきしです。 Before です, \"what\" is なん.",
+      "explanation": "To ask a question, just put **か at the end**. The word order does **not** change — Japanese never inverts like English \"Are you…?\". In speech your voice rises on か; in formal writing the sentence ends with 。, because か already does the job of the question mark.\n• A \"yes\" answer: はい、そうです。 (\"Yes, that's right.\")\n• A \"no\" answer, for now: いいえ + the correct information (いいえ、アメリカじんです。). The full negative form comes in lesson 02-3.\n• With a question word, the question word goes **exactly where the answer will go**: せんこうは なんですか。 → せんこうは れきしです。 Before です, \"what\" is なん.\n• Not every か really asks something: そうですか said with a **falling** voice means \"Oh, I see.\" With a rising voice, it asks \"Really?\"\n• Going further (Sakubi): among friends, a rising voice alone can make the question, with no か at all: がくせい？ You'll meet this casual style in lesson 08-1.",
       "structure": "[X] は [Y] ですか。 · [X] は なんですか。",
       "examples": [
         { "jp": "せんせいですか。— はい、そうです。", "kana": "せんせいですか。— はい、そうです。", "romaji": "Sensei desu ka. — Hai, sō desu.", "en": "Are you a teacher? — Yes, I am." },
@@ -90,12 +91,12 @@
       "pitfalls": [
         "Don't reorder the sentence to ask: take the statement and add か. ですか がくせい ✗ → がくせいですか ✓.",
         "\"What\" before です is なん (なんですか), not なに: なにですか ✗ → なんですか ✓.",
-        "Japanese usually avoids saying \"you\" (あなた) — calling someone あなた can sound cold. Use their name + さん, or no subject at all."
+        "Japanese usually avoids saying \"you\" (あなた) — calling someone あなた can sound cold. あなたは がくせいですか ✗ → マリアさんは がくせいですか ✓, or just がくせいですか ✓."
       ],
       "howToStudy": [
         "Take the 5 sentences you said in the previous point and turn each into a question; answer はい、そうです to each.",
         "Ask 3 questions with なんですか about things you can answer (せんこうは なんですか…).",
-        "When you hear dialogues in the video, notice how the voice rises on か."
+        "When you hear dialogues in the video, notice how the voice rises on か — and how it falls on そうですか (\"I see\")."
       ],
       "flag": null
     },
@@ -104,7 +105,7 @@
       "gc": "1-3",
       "title": "N₁ の N₂",
       "gloss": "linking two nouns (\"of\", \"'s\")",
-      "explanation": "の links two nouns: the **first describes the second**, and the second is the core — the thing you are talking about. The order is like English \"'s\" (John's book = ジョンさんの ほん), and the reverse of \"of\" (teacher of Japanese = にほんごの せんせい).\n• Possession: わたしの なまえ (\"my name\"). \"My\", \"your\", \"his\" are just person + の.\n• Belonging: サンパウロだいがくの がくせい (\"a student at the University of São Paulo\").\n• Subject/field: にほんごの せんせい (\"a Japanese teacher\").\n• It chains: わたしの だいがくの せんせい (\"a teacher at my university\").",
+      "explanation": "の links two nouns: the **first describes the second**, and the second is the core — the thing you are talking about. The order is like English \"'s\" (John's book = ジョンさんの ほん), and the reverse of \"of\" (teacher of Japanese = にほんごの せんせい). An easy way to remember it: の is like \"of\", but read backwards.\n• Possession: わたしの なまえ (\"my name\"). \"My\", \"your\", \"his\" are just person + の. わたし itself never changes form: it is both \"I\" and \"me\".\n• Belonging: サンパウロだいがくの がくせい (\"a student at the University of São Paulo\").\n• Subject/field, or any other attribute of N₂: にほんごの せんせい (\"a Japanese teacher\").\n• It chains, and \"backwards of\" still works: わたしの だいがくの せんせい = \"teacher of the university of me\" = \"a teacher at my university\".\n• の is one of the most common words in Japanese: you'll see this pattern everywhere.",
       "structure": "[N₁] の [N₂] — N₂ is the main thing",
       "examples": [
         { "jp": "わたしの なまえは マリアです。", "kana": "わたしの なまえは マリアです。", "romaji": "Watashi no namae wa Maria desu.", "en": "My name is Maria." },
@@ -112,12 +113,13 @@
         { "jp": "にほんごの せんせいは たなかさんです。", "kana": "にほんごの せんせいは たなかさんです。", "romaji": "Nihongo no sensei wa Tanaka-san desu.", "en": "The Japanese teacher is Mr./Ms. Tanaka." }
       ],
       "pitfalls": [
-        "Swapping the order changes the meaning: せんせいの にほんご is \"the teacher's Japanese\", not \"the Japanese teacher\".",
+        "Swapping the order changes the meaning. \"A Japanese teacher\": せんせいの にほんご ✗ (that's \"the teacher's Japanese\") → にほんごの せんせい ✓.",
         "This の links noun to noun. Adjectives attach differently, without の (lesson 05-1): たかいの やま ✗ → たかい やま ✓.",
-        "Don't translate every English \"of/from/by\" with の: \"go by bus\" or \"leave from home\" use other particles (lessons 03-2 and 10-3). の is only for noun + noun."
+        "Don't translate every English \"of/from/by\" with の: \"go by bus\" or \"leave from home\" use other particles (lessons 03-2 and 10-3). の is only for noun + noun.",
+        "〜じん (nationality) and 〜ご (language) are suffixes, not nouns: they can't stand alone, so they glue straight onto the country, with no の. にほんの じん ✗ → にほんじん ✓; にほんの ご ✗ → にほんご ✓."
       ],
       "howToStudy": [
-        "Translate out loud: \"the teacher's name\" → せんせいの なまえ; \"a history student\" → れきしの がくせい.",
+        "Translate out loud: \"the teacher's name\" → せんせいの なまえ; \"a history student\" → れきしの がくせい. Then check each one by reading it backwards with \"of\": なまえ of せんせい = the name of the teacher.",
         "Tap 🔬 on the Pedro example: サンパウロだいがくの shows up as DESCRIBES NEXT, attached to がくせい.",
         "Write 3 things of yours in your notebook with わたしの… (なまえ, せんこう, だいがく)."
       ],
@@ -148,13 +150,14 @@
       {
         "id": "h2",
         "type": "fill",
-        "prompt": "Fill in は, か or の.",
+        "prompt": "Fill in は, か or の — or nothing, if no particle belongs there.",
         "items": [
           { "q": "わたし＿ なまえは ケンです。", "a": { "jp": "の", "romaji": "no" }, "note": "\"my name\": わたし describes なまえ." },
           { "q": "ケンさん＿ にほんじんです。", "a": { "jp": "は", "romaji": "wa" }, "note": "ケンさん is the topic." },
           { "q": "せんせいです＿。", "a": { "jp": "か", "romaji": "ka" }, "note": "A question: か goes at the end." },
           { "q": "とうきょうだいがく＿ がくせいです。", "a": { "jp": "の", "romaji": "no" }, "note": "\"a student at the University of Tokyo\"." },
-          { "q": "せんこう＿ なんですか。", "a": { "jp": "は", "romaji": "wa" }, "note": "\"As for your major, what is it?\"" }
+          { "q": "せんこう＿ なんですか。", "a": { "jp": "は", "romaji": "wa" }, "note": "\"As for your major, what is it?\"" },
+          { "q": "ジョンさんは アメリカ＿じんです。", "a": { "jp": "アメリカじん", "romaji": "amerikajin" }, "note": "Nothing goes there: じん is a suffix glued straight onto the country, so no の." }
         ]
       },
       {
@@ -183,9 +186,9 @@
     ]
   },
   "practice": [
-    { "tool": "Wagotabi", "what": "Play normally. Whenever a line of dialogue ends in です or ですか, pause and say out loud which part is the topic (は) and which is the predicate. Copy 2 of those lines into your notebook.", "min": 15 },
-    { "tool": "ヅオリンゴー", "what": "Lesson 1 vocabulary in the SRS, then Drills → 🔬 Anatomy → 🏷 Tag: 5 sentences.", "min": 10 },
-    { "tool": "Shadowing", "what": "Tap 🔊 on each example in this lesson and repeat along 3 times, copying the rhythm (every syllable has the same length).", "min": 5 },
+    { "tool": "Wagotabi", "what": "Play normally. Whenever a line of dialogue ends in です or ですか, pause and say out loud which part is the topic (は) and which is the predicate. Copy 2 of those lines into your notebook, and save 1 of them in the app's Mining (it becomes an SRS card), with every word looked up in a dictionary.", "min": 15 },
+    { "tool": "ヅオリンゴー", "what": "Lesson 1 vocabulary in the SRS, then Drills → 🔬 Anatomy → 🏷 Tag: 5 sentences. From today on, clear all your reviews every day (🌊 All): spaced repetition only works when reviews happen on time. If the pile grows too big, add fewer new words rather than skipping reviews.", "min": 10 },
+    { "tool": "Shadowing", "what": "Tap 🔊 on each example in this lesson and repeat along 3 times, copying the rhythm (every syllable has the same length, and です sounds like \"dess\").", "min": 5 },
     { "tool": "Kana", "what": "Still in the kana phase? 10 minutes on the Kana Trail in the app or in kana-flow.", "min": 10 },
     { "tool": "Speaking", "what": "Record your self-introduction (homework h4) in 30 seconds or less. Listen and compare it with next week's recording.", "min": 5 }
   ],
@@ -201,7 +204,12 @@
     "I can ask \"what is…?\" with 〜は なんですか。",
     "I can build N₁ の N₂ in the right order (a Japanese teacher = にほんごの せんせい).",
     "I read は as \"wa\" when it is a particle.",
+    "In any sentence from this lesson, I can point to the particle that labels each block (は = topic, の = describes the next noun, か = question).",
     "I did the homework, checked it against the answer key and redid what I got wrong.",
     "I did Workbook pages 16–18."
+  ],
+  "credits": [
+    "Explanations adapted in part from Sakubi (public domain, CC0) — sakubi.neocities.org",
+    "Study method informed by the DJT Guide to Japanese — djtguide.neocities.org/guide"
   ]
 }

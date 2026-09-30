@@ -18,7 +18,7 @@
       { "t": "Vocabulary: tap 🔊 on each word and repeat it twice", "min": 10 },
       { "t": "Grammar 4a: forming the passive, with the conjugation table in your notebook and one 🔬", "min": 15 },
       { "t": "Grammar 4b and 4c: who did what to whom, and the suffering passive, each with one 🔬", "min": 15 },
-      { "t": "Lesson 21 video (block 6), only the part on the passive", "min": 10 },
+      { "t": "Block 6: the Lesson 21 video or the Sakubi section on the passive, as a second explanation (read to understand, not to memorize)", "min": 10 },
       { "t": "Notebook homework + checking it against the answer key", "min": 15 },
       { "t": "Checklist (block 10) + write your questions in the lesson notebook", "min": 5 }
     ]
@@ -64,7 +64,7 @@
       "gc": null,
       "title": "Forming the passive",
       "gloss": "to be done (by someone)",
-      "explanation": "The passive tells an event from the side of **the one it happened to**. English does this with \"be + -ed\" (I was praised); Japanese changes the ending of the verb.\n\n**How to form it:**\n• **る-verbs:** drop る, add **られる** → ほめる → ほめ**られる**, 食べる → 食べ**られる**.\n• **う-verbs:** change the final u-sound to its **a-sound** and add **れる** → 読む → 読**まれる**, 書く → 書**かれる**, 待つ → 待**たれる**, 起こす → 起こ**される**. It is the same a-sound as in the ない-form (読まない). A verb ending in う takes **わ**: 笑う → 笑**われる**, 言う → 言**われる**.\n• **する → される** (注意する → 注意**される**). **くる → こられる** (来られる).\n\nEvery passive verb ends in 〜れる, so it **conjugates like a る-verb**: ほめられます, ほめられました, ほめられない, ほめられて.\n\n**The look-alike: passive or potential?** For る-verbs and for くる, the passive looks exactly like the potential of lesson 13-1: 食べられる can mean \"can eat\" or \"be eaten\", and 来られる can be \"can come\" or the passive of 来る. For う-verbs and する there is no problem: 読める (can read) ≠ 読まれる (be read); できる (can do) ≠ される (be done). To decide, look at the **particles and the context**:\n• A **doer with に** and something that happens to someone → passive: 弟にケーキを食べられました (my little brother ate my cake).\n• An ability, often with が, and no doer → potential: 私はさしみが食べられます (I can eat sashimi).\n• In casual speech many people drop the ら of the potential (食べれる). The passive always keeps its ら.",
+      "explanation": "The passive tells an event from the side of **the one it happened to**. In the active sentence, that person (or thing) is usually the OBJECT: 先生が私をほめました. The passive moves it to the front, as the one the sentence is about, and changes the verb to show it: 私は先生にほめられました. English does this with \"be + -ed\" (I was praised); Japanese changes the ending of the verb.\n\n**How to form it:**\n• **る-verbs:** drop る, add **られる** → ほめる → ほめ**られる**, 食べる → 食べ**られる**.\n• **う-verbs:** change the final u-sound to its **a-sound** and add **れる** → 読む → 読**まれる**, 書く → 書**かれる**, 待つ → 待**たれる**, 起こす → 起こ**される**. It is the same a-sound as in the ない-form (読まない). A verb ending in う takes **わ**: 笑う → 笑**われる**, 言う → 言**われる**.\n• **する → される** (注意する → 注意**される**). **くる → こられる** (来られる).\n• **Shortcut:** start from the ない-form and swap ない. う-verbs take **れる** (読まない → 読まれる, 笑わない → 笑われる); る-verbs and くる take **られる** (食べない → 食べられる, こない → こられる). Only する breaks the pattern: しない → **される**.\n\nEvery passive verb ends in 〜れる, so it **conjugates like a る-verb**: ほめられます, ほめられました, ほめられない, ほめられて.\n\n**The look-alike: passive or potential?** For る-verbs and for くる, the passive looks exactly like the potential of lesson 13-1: 食べられる can mean \"can eat\" or \"be eaten\", and 来られる can be \"can come\" or the passive of 来る. For う-verbs and する there is no problem: 読める (can read) ≠ 読まれる (be read); できる (can do) ≠ される (be done). To decide, look at the **particles and the context**:\n• A **doer with に** and something that happens to someone → passive: 弟にケーキを食べられました (my little brother ate my cake).\n• An ability, often with が, and no doer → potential: 私はさしみが食べられます (I can eat sashimi).\n• In casual speech many people drop the ら of the potential (食べれる). The passive always keeps its ら.\n• Going further (Sakubi): keigo loves passives. The same form also works as a light **honorific**: 先生がもう来られました can simply mean \"the teacher has already come\", said with respect — nobody is bothered. So 来られる can be passive, potential or honorific: the context decides.",
       "structure": "る-verb: 〜る → 〜られる · う-verb: u → a + れる (読む → 読まれる, 笑う → 笑われる) · する → される · くる → こられる",
       "examples": [
         { "jp": "私は先生にほめられました。", "kana": "わたしはせんせいにほめられました。", "romaji": "Watashi wa sensei ni homeraremashita.", "en": "I was praised by my teacher. [lit. as for me, (I) was praised by the teacher]" },
@@ -78,7 +78,7 @@
         "Don't use the potential of an う-verb when you mean the passive: 母に日記を読めました ✗ (読める means \"can read\") → 母に日記を読まれました ✓ (my mother read my diary, and I didn't like it)."
       ],
       "howToStudy": [
-        "In your notebook, make a table with 3 columns (dictionary form → ない-form → passive) for 8 verbs: 食べる, 見る, 読む, 書く, 笑う, 起こす, する, くる. For the う-verbs, circle the a-sound that the ない-form and the passive share.",
+        "In your notebook, make a table with 3 columns (dictionary form → ない-form → passive) for 8 verbs: 食べる, 見る, 読む, 書く, 笑う, 起こす, する, くる. On every row, test the shortcut — swap ない for れる or られる — and circle the one verb that breaks it (する → される).",
         "Tap 🔬 on example 1: 私は shows up as TOPIC (the one it happened to), 先生に as TARGET and ほめられました as the PREDICATE. In a passive sentence, read the に-block as \"by whom\": the doer. Read from the end: was praised → by whom? the teacher → who was? me.",
         "Say out loud, fast, the passive of 10 verbs while looking only at the dictionary form. Then, for 食べる, say one sentence with the passive (弟に食べられました) and one with the potential (さしみが食べられます)."
       ],
@@ -89,7 +89,7 @@
       "gc": null,
       "title": "[the one affected] は [the doer] に + passive",
       "gloss": "who did what to whom",
-      "explanation": "A passive sentence has **three blocks** to keep apart:\n• **[the one affected] は** — the TOPIC: the person (or thing) the event happened to. Very often it is 私, and then it is usually dropped.\n• **[the doer] に** — who did it, like English \"by\". It can be left out when it doesn't matter or you don't know who it was.\n• **[the passive verb]** — the PREDICATE, at the end. Read it first.\n\nCompare the two points of view:\n• Active: 先生は私をほめました。 (The teacher praised me.) The doer is the topic, and I am the object.\n• Passive: 私は先生にほめられました。 (I was praised by the teacher.) Now I am the topic, and the doer moves to に.\n\n**When your THING is affected.** English says \"my cake was eaten\". Japanese usually tells it from **your** side: **you** had your cake eaten. [person]は [doer]に **[the thing]を** + passive. The thing keeps its を, and 私の disappears: the topic already says whose it is.\n• 私は弟にケーキを食べられました。 (My little brother ate my cake.)\n• This pattern almost always means **you were bothered**: something was done to you or to your things.\n\n**Things as the topic.** When the doer is \"people in general\" or doesn't matter, a thing can be the topic, with no complaint at all: この本は多くの人に読まれています (This book is read by many people). You'll see this style a lot in news and in writing.",
+      "explanation": "A passive sentence has **three blocks** to keep apart:\n• **[the one affected] は** — the TOPIC: the person (or thing) the event happened to. Very often it is 私, and then it is usually dropped.\n• **[the doer] に** — who did it, like English \"by\". It can be left out when it doesn't matter or you don't know who it was.\n• **[the passive verb]** — the PREDICATE, at the end. Read it first.\n\nCompare the two points of view:\n• Active: 先生は私をほめました。 (The teacher praised me.) The doer is the topic, and I am the object.\n• Passive: 私は先生にほめられました。 (I was praised by the teacher.) Now I am the topic, and the doer moves to に.\n\n**When your THING is affected.** English says \"my cake was eaten\". Japanese usually tells it from **your** side: **you** had your cake eaten. [person]は [doer]に **[the thing]を** + passive. The thing keeps its を, and 私の disappears: the topic already says whose it is.\n• 私は弟にケーキを食べられました。 (My little brother ate my cake.)\n• This pattern almost always means **you were bothered**: something was done to you or to your things.\n\n**Things as the topic.** When the doer is \"people in general\" or doesn't matter, a thing can be the topic, with no complaint at all: この本は多くの人に読まれています (This book is read by many people). You'll see this style a lot in news and in writing.\n• Going further (Sakubi): with verbs where something **passes from the doer to you** — words, a warning, a message — the doer can also take から: 先生から注意されました. With physical actions, only に works: 犬にかまれました (never 犬からかまれました).",
       "structure": "[the one affected] は [the doer] に ([the thing] を) [passive]。",
       "examples": [
         { "jp": "私は弟にケーキを食べられました。", "kana": "わたしはおとうとにケーキをたべられました。", "romaji": "Watashi wa otōto ni kēki o taberaremashita.", "en": "My little brother ate my cake. [lit. I had my cake eaten by my little brother]" },
@@ -99,7 +99,8 @@
       "pitfalls": [
         "Don't swap the roles: 先生は私にほめられました ✗ says that YOU praised the teacher. The one affected takes は and the doer takes に: 私は先生にほめられました ✓.",
         "The doer of a passive takes に, not が: 私は犬がかまれました ✗ → 私は犬にかまれました ✓ (I was bitten by a dog). With が, use the active verb: 犬が私をかみました ✓.",
-        "With the one affected as the topic and the doer in に, the verb must be passive: 私は弟にケーキを食べました ✗ → 私は弟にケーキを食べられました ✓."
+        "With the one affected as the topic and the doer in に, the verb must be passive: 私は弟にケーキを食べました ✗ → 私は弟にケーキを食べられました ✓.",
+        "An intransitive verb (lesson 18-1) never takes a doer with に — only the passive does: ドアが弟に開きました ✗ → 弟にドアを開けられました ✓ (passive: the doer is in に) or ドアが開きました ✓ (intransitive: it just opened, and nobody is mentioned)."
       ],
       "howToStudy": [
         "Flip 3 active sentences into the passive, out loud: 母は私をしかりました → 私は母にしかられました. For each pair, point at who moved to は and who moved to に.",
@@ -191,11 +192,11 @@
     "workbook": []
   },
   "practice": [
-    { "tool": "Wagotabi", "what": "Play at the N4 level. Whenever a line of dialogue has a verb ending in 〜られる, 〜される or 〜a-sound + れる, pause and decide out loud: passive or potential? If it is a passive, say who it happened to and who did it (the に-block). Copy 2 of those lines into your notebook.", "min": 15 },
-    { "tool": "ヅオリンゴー", "what": "Drills → 🔬 Anatomy → 🔬 Analyze: paste the 3 examples of point 4b and check which block is the TOPIC (the one affected) and which に-block is the doer. Then paste the potential sentence 私はすしが食べられます and compare: TOPIC, SUBJECT (すしが) and PREDICATE, but no doer block with に.", "min": 10 },
-    { "tool": "ヅオリンゴー", "what": "Journal: write 3 true sentences with the passive (one good, like ほめられました, and two bad) and check them with \"Anatomy of what I wrote\".", "min": 10 },
+    { "tool": "Wagotabi", "what": "Play at the N4 level. Whenever a line of dialogue has a verb ending in 〜られる, 〜される or 〜a-sound + れる, pause and decide out loud: passive or potential? If it is a passive, say who it happened to and who did it (the に-block). Log the session in Immersion → Games, paste the clearest line into 🔬 Anatomy, then save it with ⛏ Mining (mark one new word and fill it in with the 📖 Dictionary button), so the sentence comes back in your reviews.", "min": 15 },
+    { "tool": "ヅオリンゴー", "what": "Drills → 🔬 Anatomy → 🔬 Analyze: paste example 1 of point 4b and check the TOPIC (the one affected) and the TARGET (read it as \"by\": the doer). Then paste the potential sentence 私はすしが食べられます and compare: TOPIC, SUBJECT (すしが) and PREDICATE, but no doer block with に. Last, vocabulary: the Genki II words are not a ready-made deck in the app, so add the 5 verbs from block 3 you find hardest (ほめる, しかる, ぬすむ, ふむ, かむ…) with ⛏ Mining, each inside a passive sentence from this lesson, and clear 🌊 All every day. Learn the kanji inside the words (笑 in 笑う, 足 in 足をふまれる, 注意), not one by one.", "min": 10 },
+    { "tool": "Reading", "what": "Resources tab → Reading → NHK NEWS WEB EASY: read one short article for the gist. News loves the passive: 〜と言われています (it is said that…), 〜にえらばれました (was chosen as…). Hunt for 2 verbs ending in 〜れました / 〜られました and say who it happened to. On a computer, the Yomitan pop-up dictionary (Resources tab) shows a word's meaning when you hover over it; look up only the words that block the story.", "min": 10 },
     { "tool": "Shadowing", "what": "Tap 🔊 on each example of this lesson and repeat along 3 times. ほめられました has 7 beats of the same length: ほ・め・ら・れ・ま・し・た.", "min": 5 },
-    { "tool": "Speaking", "what": "Record your bad day (homework h4) in 30–45 seconds. Listen and check the に of each doer and the ending of each passive.", "min": 5 }
+    { "tool": "Speaking", "what": "Record your bad day (homework h4) in 30–45 seconds. Listen and check the に of each doer and the ending of each passive. Then type it into the Journal and open \"Anatomy of what I wrote\": each doer should show up with に, as TARGET (the \"by\" block).", "min": 10 }
   ],
   "culture": {
     "title": "Bicycles: parking and rules",
@@ -212,5 +213,9 @@
     "I can tell 食べられる (passive) from 食べられる (potential) by the particles and the context.",
     "I did the homework, checked it against the answer key and redid what I got wrong.",
     "If I have the Genki II Workbook, I did its exercises on the passive in Lesson 21."
+  ],
+  "credits": [
+    "Explanations adapted in part from Sakubi (public domain, CC0) — sakubi.neocities.org",
+    "Study method informed by the DJT Guide to Japanese — djtguide.neocities.org/guide"
   ]
 }

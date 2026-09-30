@@ -17,7 +17,7 @@
       { "t": "Warm-up: say out loud the dictionary form of 10 Genki I verbs (飲みます → 飲む, 来ます → 来る…) and the type of each (る, う or irregular)", "min": 5 },
       { "t": "Vocabulary: tap 🔊 on each word and repeat it twice", "min": 10 },
       { "t": "Grammar: the 3 points, each with its examples read aloud and one 🔬", "min": 25 },
-      { "t": "Lesson 13 video (block 6), only the potential part", "min": 10 },
+      { "t": "Block 6: the Lesson 13 video or the Sakubi sections on the potential, as a second explanation (read to understand, not to memorize)", "min": 10 },
       { "t": "Notebook homework + checking it against the answer key", "min": 15 },
       { "t": "Checklist (block 10) + write your questions in the lesson notebook", "min": 5 }
     ]
@@ -64,7 +64,7 @@
       "gc": null,
       "title": "Forming it: 食べられる, 飲める, できる, 来られる",
       "gloss": "the potential form: \"can / be able to do\"",
-      "explanation": "The potential form says what someone **can** do or **is able** to do: \"I can swim\", \"I can get up at six\", \"you can eat this\". English adds a separate word, \"can\". Japanese changes **the verb itself**. Always start from the **dictionary form** (lesson 08-1) and check the verb type.\n• **る-verbs**: drop る and add **られる**. 食べ|る → 食べ|られる; 見る → 見られる; 起きる → 起きられる.\n• **う-verbs**: change the final **u** to the **e** of the same kana row and add **る**. 飲む (nom**u**) → 飲める (nom**e**ru); 行く → 行ける; 話す → 話せる; 待つ → 待てる; 帰る → 帰れる; およぐ → およげる; あそぶ → あそべる. Verbs ending in う go to え: 買う → 買える; 歌う → 歌える.\n• **Irregulars**: **する → できる** (運転する → 運転できる) and **来る → 来られる** (こられる).\n• **The potential is a new る-verb.** Once you have formed it, it conjugates like 食べる: 飲める → 飲めます (I can drink it), 飲めません (I can't), 飲めました (I could, I managed to), 飲めませんでした (I couldn't), 飲めない, 飲めた.\n• **ら抜き (\"ら dropped\")**: in casual speech, many people drop the ら from る-verbs and from 来る: 見れる, 食べれる, 来れる (これる). You will hear this all the time in conversations, anime and games. But the standard form, the one in Genki, in tests and in writing, is **見られる, 食べられる, 来られる**. Understand both; write the standard one.\n• In the sentence, the potential verb is the **PREDICATE**, at the end. Read from it: \"can you get up?\" → at what time? → every morning.",
+      "explanation": "The potential form says what someone **can** do or **is able** to do: \"I can swim\", \"I can get up at six\", \"you can eat this\". English adds a separate word, \"can\". Japanese changes **the verb itself**. Always start from the **dictionary form** (lesson 08-1) and check the verb's class: how a verb conjugates depends on its class (lesson 03-1), not on its meaning.\n• **る-verbs**: drop る and add **られる**. 食べ|る → 食べ|られる; 見る → 見られる; 起きる → 起きられる.\n• **う-verbs** (the five-form verbs of lesson 03-1, whose last kana moves along its row): move the final **u** to the **e** of the same row and add **る**. 飲む (nom**u**) → 飲める (nom**e**ru); 行く → 行ける; 話す → 話せる; 待つ → 待てる; 帰る → 帰れる; およぐ → およげる; あそぶ → あそべる. Verbs ending in う go to え: 買う → 買える; 歌う → 歌える.\n• **Irregulars**: **する → できる** (運転する → 運転できる) and **来る → 来られる** (こられる).\n• **The potential is a new る-verb.** Once you have formed it, it conjugates like 食べる: 飲める → 飲めます (I can drink it), 飲めません (I can't), 飲めました (I could, I managed to), 飲めませんでした (I couldn't), 飲めない, 飲めた.\n• **ら抜き (\"ら dropped\")**: in casual speech, many people drop the ら from る-verbs and from 来る: 見れる, 食べれる, 来れる (これる). You will hear this all the time in conversations, anime and games. It spread because it is more regular — it makes る-verbs work like う-verbs (見れる, like 帰れる) — and because it can't be mistaken for another form (see the last point). But the standard form, the one in Genki, in tests and in writing, is **見られる, 食べられる, 来られる**. Understand both; write the standard one.\n• In the sentence, the potential verb is the **PREDICATE**, at the end. Read from it: \"can you get up?\" → at what time? → every morning.\n• **Going further (Sakubi):** 食べられる has exactly the same shape as the **passive** of 食べる (\"to be eaten\"), which comes in lesson 21-1; only context tells which one it is. う-verb potentials (飲める) and ら抜き forms (食べれる) are never passive. You will also hear **ありえない** (\"impossible, no way!\"), from ありえる, a special potential of ある.",
       "structure": "る: [stem] + られる · う: u → e + る · する → できる · 来る → 来られる",
       "examples": [
         { "jp": "ペドロさんはポルトガル語と英語と日本語が話せます。", "kana": "ペドロさんはポルトガルごとえいごとにほんごがはなせます。", "romaji": "Pedoro-san wa porutogarugo to eigo to nihongo ga hanasemasu.", "en": "Pedro can speak Portuguese, English and Japanese." },
@@ -73,7 +73,7 @@
       ],
       "pitfalls": [
         "う-verbs go to the え row, not the あ row: 行かれる ✗ → 行ける ✓. (行かれる does exist, but it is the passive voice, which comes in lesson 21-1.)",
-        "帰る, 入る, 知る and 走る look like る-verbs, but they are う-verbs: 帰られる ✗ → 帰れる ✓ (かえ|る → かえ|れる).",
+        "帰る, 入る, 走る and しゃべる look like る-verbs, but they are う-verbs: 帰られる ✗ → 帰れる ✓ (かえ|る → かえ|れる).",
         "する becomes できる, and 来る becomes こられる, with こ: 運転しられる ✗ → 運転できる ✓; きられる ✗ → こられる ✓.",
         "わかる already means \"to understand, to be clear to me\" and has no potential form: わかれる ✗ (that is a different word, \"to part, break up\"). \"I can understand\" = わかります ✓."
       ],
@@ -89,7 +89,7 @@
       "gc": null,
       "title": "The object of the potential: が (and also を)",
       "gloss": "日本語が話せます / 日本語を話せます",
-      "explanation": "With an ordinary verb, the object takes を: 日本語を話します. With the potential, the object very often takes **が** instead: 日本語**が**話せます. The reason: the sentence no longer tells about an action; it describes an **ability**, a state. Japanese likes が with states, as in すしが好きです (lesson 05-2).\n• **It is not an absolute rule.** With the potential, **を also appears**, and many speakers use both: 日本語を話せます is not wrong. You will often see を in longer sentences, like the job ad in example 3. Genki and most textbooks present **が** as the standard. When in doubt, use が.\n• **Only を can change.** The other particles stay as they are: 海**で**およげます (place), 友だち**に**会えます (who you meet), 自転車**に**のれます (what you ride), 一人**で**行けます (how).\n• In negatives and contrasts, contrastive **は** (lesson 03-2) shows up a lot: 肉**は**食べられません = \"meat, I can't eat\" (other things, yes).\n• できる also works on its own, with a noun: 日本語**が**できます (\"I know Japanese\"), 料理**が**できます (\"I can cook\"), テニスができます (\"I can play tennis\").\n• Anatomy: in 漢字が読めます, 🔬 labels 漢字が as SUBJECT because of the が, but it is still **what you can read**. The person who reads is the topic, and it is often not even said.",
+      "explanation": "With an ordinary verb, the object takes を: 日本語を話します. With the potential, the object very often takes **が** instead: 日本語**が**話せます. Remember that particles are **job labels** for the blocks of a sentence (lesson 01-1): を labels the thing an action is done to. A potential verb no longer tells about an action; it describes an **ability**, a state — and Japanese labels what a state is about with **が**, as in すしが好きです (lesson 05-2) and 日本語がわかります.\n• **It is not an absolute rule.** With the potential, **を also appears**, and many speakers use both: 日本語を話せます is not wrong. You will often see を in longer sentences, like the job ad in example 3. Genki and most textbooks present **が** as the standard. When in doubt, use が.\n• **Only を can change.** The other particles stay as they are: 海**で**およげます (place), 友だち**に**会えます (who you meet), 自転車**に**のれます (what you ride), 一人**で**行けます (how).\n• **The person who can** is the topic, with は, or is simply left unsaid: (わたしは)日本語が話せます.\n• In negatives and contrasts, contrastive **は** (lesson 03-2) shows up a lot: 肉**は**食べられません = \"meat, I can't eat\" (other things, yes).\n• できる also works on its own, with a noun: 日本語**が**できます (\"I know Japanese\"), 料理**が**できます (\"I can cook\"), テニスができます (\"I can play tennis\"). できる is also an everyday verb meaning \"to come into being, to be made, to be ready\": 駅の前に新しい店ができました (\"a new shop opened in front of the station\"), ごはんができましたよ (\"the food's ready!\"). So 日本語ができます is, literally, \"Japanese is doable (for me)\" — one more reason it takes が.\n• Anatomy: in 漢字が読めます, 🔬 labels 漢字が as SUBJECT because of the が, but it is still **what you can read**. The person who reads is the topic, and it is often not even said.\n• **Going further (Sakubi):** for things that are simply **visible or audible**, Japanese uses separate verbs: ここから海が見えます (\"you can see the sea from here\"), 音が聞こえます (\"I can hear a sound\"). 見られる and 聞ける are about having the chance or the ability: この映画はネットで見られます (\"you can watch this movie online\").",
       "structure": "[object] が [potential] (standard) · [object] を [potential] (also used) · で, に… don't change",
       "examples": [
         { "jp": "ルーカスさん、漢字が読めますか。— はい、少し読めます。", "kana": "ルーカスさん、かんじがよめますか。— はい、すこしよめます。", "romaji": "Rūkasu-san, kanji ga yomemasu ka. — Hai, sukoshi yomemasu.", "en": "Lucas, can you read kanji? — Yes, I can read a little." },
@@ -99,7 +99,8 @@
       "pitfalls": [
         "The switch applies only to the object. A place still takes で: 海がおよげます ✗ → 海でおよげます ✓.",
         "With an ordinary verb, the object keeps を: 日本語が話します ✗ → 日本語を話します ✓. が only appears when the verb becomes potential (話せます).",
-        "を with the potential is not a mistake. If you hear 日本語を話せます, it is correct. Just don't use を with できる + noun: 日本語をできます ✗ → 日本語ができます ✓."
+        "を with the potential is not a mistake. If you hear 日本語を話せます, it is correct. Just don't use を with できる + noun: 日本語をできます ✗ → 日本語ができます ✓.",
+        "In a neutral sentence, the person who can is not marked with が: わたしが日本語が話せます ✗ (as a plain self-introduction) → わたしは日本語が話せます ✓. が on the person adds focus — \"I'm the one who can\" — which fits only as the answer to だれが話せますか。"
       ],
       "howToStudy": [
         "Read examples 1 and 3 aloud twice: once as written and once swapping the object particle (漢字を読めますか / ポルトガル語が話せる人). Both versions are correct. In the homework, use が, the book's form.",
@@ -113,7 +114,7 @@
       "gc": null,
       "title": "〜ことができる: the more formal way",
       "gloss": "can / be able to do (the tone of rules, notices and written text)",
-      "explanation": "There is a second way to say \"can\": **dictionary form + ことが できる**. こと turns the action into a \"thing\" (\"the act of swimming\"), and できる says that this thing is possible. The meaning is practically the same as the potential.\n• およげます = およぐことができます; 読めます = 読むことができます.\n• **When to use it**: 〜ことができる sounds **more formal**, more like written text. It is very common in notices, rules, websites and ads: ここでは写真をとることができません. In everyday conversation, the potential is more common.\n• **The particle**: inside the こと block, the object keeps **を**: 日本語**を**話す**こと**が できます. The が goes after こと, not after the object.\n• With する-verbs, both forms live side by side: 運転することができます = 運転できます.\n• A practical tip: if you freeze on a potential form in the middle of a conversation, 〜ことができます almost always saves you, because it only needs the dictionary form.\n• In the sentence, [verb + こと] is **what is possible** (🔬 labels [verb + ことが] as SUBJECT), and できます is the **PREDICATE**. Read できます (or できません) first, then ask: what?",
+      "explanation": "There is a second way to say \"can\": **dictionary form + ことが できる**. **こと** is the noun \"thing\" for things you can't touch — actions, facts, events (a physical thing is もの). Here it turns the action into a noun (\"the act of swimming\"), and できる says that this thing is possible. The meaning is practically the same as the potential.\n• およげます = およぐことができます; 読めます = 読むことができます.\n• **When to use it**: 〜ことができる sounds **more formal**, more like written text. It is very common in notices, rules, websites and ads: ここでは写真をとることができません. In everyday conversation, the potential is more common.\n• **The particle**: inside the こと block, the object keeps **を**: 日本語**を**話す**こと**が できます. The が goes after こと, not after the object.\n• With する-verbs, both forms live side by side: 運転することができます = 運転できます.\n• A practical tip: if you freeze on a potential form in the middle of a conversation, 〜ことができます almost always saves you, because it only needs the dictionary form.\n• In the sentence, [verb + こと] is **what is possible** (🔬 labels [verb + ことが] as SUBJECT), and できます is the **PREDICATE**. Read できます (or できません) first, then ask: what?\n• **Going further (Sakubi):** こと belongs to the same family as the の of のが好き (lesson 08-3): both turn a verb phrase into a noun. But this pattern is fixed: always 〜ことができる, never 〜のができる.",
       "structure": "[dictionary form] + ことが できます = [potential] + ます",
       "examples": [
         { "jp": "このアプリで、日本のラジオを聞くことができます。", "kana": "このアプリで、にほんのラジオをきくことができます。", "romaji": "Kono apuri de, Nihon no rajio o kiku koto ga dekimasu.", "en": "With this app, you can listen to Japanese radio." },
@@ -121,7 +122,7 @@
         { "jp": "マリアさんは着物を一人で着ることができます。", "kana": "マリアさんはきものをひとりできることができます。", "romaji": "Maria-san wa kimono o hitori de kiru koto ga dekimasu.", "en": "Maria can put on a kimono by herself." }
       ],
       "pitfalls": [
-        "こと is required: およぐができます ✗ → およぐことができます ✓.",
+        "こと is required — and it is こと, the word for actions, not もの, the word for physical things: およぐができます ✗ / およぐものができます ✗ → およぐことができます ✓.",
         "Before こと comes the dictionary form, not the ます form: およぎますことができます ✗ → およぐことができます ✓.",
         "Don't combine the two forms: およげることができます ✗. Use one or the other: およげます ✓ or およぐことができます ✓.",
         "With friends, 〜ことができる in every sentence sounds stiff, like a rulebook. In casual speech, use the potential: あした来られる？ ✓."
@@ -129,15 +130,14 @@
       "howToStudy": [
         "Say the 3 examples of point a out loud again with 〜ことができます (話すことができます, 起きることができますか…) and notice how the tone becomes more formal.",
         "Drills → 🔬 Anatomy → 🔬 Analyze: paste example 2. 図書館の中では shows up as PLACE, 食べたり and 飲んだり as THINGS LIKE, and することが as SUBJECT: that whole stretch is what is \"not possible\", and できません is the PREDICATE.",
-        "Invent 3 rules for your home or your workplace, as if they were signs, with 〜ことができません. Then say each one again with the potential, as if you were explaining it to a friend."
+        "Invent 3 rules for your home or your workplace, as if they were signs, with 〜ことができません. Then say each one again with the potential, as if you were explaining it to a friend. Real signs and websites (museums, stations, shops) are full of 〜ことができます: when you meet one, look up its words (Yomitan or jisho.org) and save it with ⛏ Mining."
       ],
       "flag": "The contrast with 〜ことができる is an addition of this course. Check whether your Genki II presents this form in this lesson; if it doesn't, treat this point as a bonus."
     }
   ],
   "media": [
     { "order": 1, "kind": "reading", "title": "Genki II · Lesson 13: the dialogue, the vocabulary and the grammar note Potential Verbs", "where": "Your Genki II textbook (3rd ed.)", "url": "", "when": "Before this lesson or right after the grammar block. The lesson's other points are covered in lessons 13-2 and 13-3." },
-    { "order": 2, "kind": "video", "title": "Game Gengo: the potential form (られる / える)", "where": "YouTube · Game Gengo channel", "url": "", "search": "Game Gengo potential form", "when": "After points a and b, to see the formation explained another way." },
-    { "order": 3, "kind": "reading", "title": "Tae Kim: the potential form, with more examples", "where": "Website · Tae Kim's Guide to Learning Japanese", "url": "", "search": "Tae Kim potential form", "when": "Optional, after the homework, if you want to read more examples." }
+    { "order": 2, "kind": "video", "title": "Game Gengo: the potential form (られる / える)", "where": "YouTube · Game Gengo channel", "url": "", "search": "Game Gengo potential form", "when": "After points a and b, to see the formation explained another way." }
   ],
   "homework": {
     "intro": "Do it by hand in your notebook. Write the kanji you already know and the rest in kana. Only then open the answer key, item by item. Circle what you got wrong and redo it the next day. If you have the Genki II Workbook, do this lesson's exercises too.",
@@ -175,7 +175,7 @@
         "items": [
           { "q": "I can read hiragana and katakana, but I can't read kanji yet.", "a": { "jp": "ひらがなとカタカナは読めますが、漢字はまだ読めません。", "kana": "ひらがなとカタカナはよめますが、かんじはまだよめません。", "romaji": "Hiragana to katakana wa yomemasu ga, kanji wa mada yomemasen." }, "note": "Contrastive は in both halves." },
           { "q": "Can you come tomorrow at nine?", "a": { "jp": "あした九時に来られますか。", "kana": "あしたくじにこられますか。", "romaji": "Ashita kuji ni koraremasu ka." } },
-          { "q": "I couldn't sleep last night.", "a": { "jp": "きのうの夜はねられませんでした。", "kana": "きのうのよるはねられませんでした。", "romaji": "Kinō no yoru wa neraremasen deshita." }, "note": "ねる is a る-verb: ねられる. Past negative: 〜られませんでした." },
+          { "q": "I couldn't sleep last night.", "a": { "jp": "きのうの夜はねられませんでした。", "kana": "きのうのよるはねられませんでした。", "romaji": "Kinō no yoru wa neraremasen deshita." }, "note": "ねる is a る-verb: ねられる. Past negative: 〜られませんでした. ねむれませんでした (from ねむる, \"to fall asleep\") is also very common." },
           { "q": "Ana can cook Brazilian food.", "a": { "jp": "アナさんはブラジル料理が作れます。", "kana": "アナさんはブラジルりょうりがつくれます。", "romaji": "Ana-san wa burajiru ryōri ga tsukuremasu." }, "note": "With を (ブラジル料理を作れます) it is also correct. ブラジル料理ができます works too." },
           { "q": "Can I use a card at this store?", "a": { "jp": "この店でカードが使えますか。", "kana": "このみせでカードがつかえますか。", "romaji": "Kono mise de kādo ga tsukaemasu ka." } },
           { "q": "(on a sign) You can't ride a bicycle in this park. Use 〜ことができません.", "a": { "jp": "このこうえんでは自転車にのることができません。", "kana": "このこうえんではじてんしゃにのることができません。", "romaji": "Kono kōen de wa jitensha ni noru koto ga dekimasen." }, "note": "It is a rule: that is why 〜ことができません fits." }
@@ -193,9 +193,9 @@
     "workbook": []
   },
   "practice": [
-    { "tool": "Wagotabi", "what": "Play normally, ideally in an N4-level area if you have reached one. Hunt the dialogues for potential verbs: endings in 〜える / 〜られる, できる, and the ら抜き forms (見れる, 来れる). When you find one, say out loud which dictionary verb it came from. Log the session in Immersion → Games and paste one of those lines into 🔬 Anatomy.", "min": 15 },
-    { "tool": "ヅオリンゴー", "what": "Drills → Conjugation: warm up with the dictionary form and the ない form, the base of the potential. Then Drills → 🔬 Anatomy → 🧱 Build from the end with example 3 of point a, starting from 来られません.", "min": 10 },
-    { "tool": "ヅオリンゴー · Journal", "what": "Write 4 true sentences in the Journal: 2 about what you can do and 2 about what you can't (with contrastive は). Open \"Anatomy of what I wrote\" and check that the potential verb ended up as the PREDICATE.", "min": 10 },
+    { "tool": "Wagotabi", "what": "Play normally, ideally in an N4-level area if you have reached one. Hunt the dialogues for potential verbs: endings in 〜える / 〜られる, できる, and the ら抜き forms (見れる, 来れる). When you find one, say out loud which dictionary verb it came from. Log the session in Immersion → Games and paste one of those lines into 🔬 Anatomy. If you had to look up a word in it (Yomitan or jisho.org), save the line with ⛏ Mining, so it comes back in your SRS reviews.", "min": 15 },
+    { "tool": "ヅオリンゴー", "what": "Spaced repetition for this lesson's words: if a word from block 3 is missing from your deck (likely for many Genki II words), add it with ⛏ Mining, one new word per card, then clear 🌊 All. Reviews come first: if the pile grows too big, add fewer new cards rather than skipping reviews. Then Drills → 🔬 Anatomy → 🧱 Build from the end with example 3 of point a, starting from 来られません.", "min": 10 },
+    { "tool": "Reading", "what": "Keep reading real Japanese: Resources tab → Tadoku's free graded readers. Read one level-1 story from start to finish for the gist, looking up only the words that block the story. Hunt for \"can\" verbs (〜える, 〜られる, できる) and say out loud which dictionary verb each one came from.", "min": 10 },
     { "tool": "Shadowing", "what": "Tap 🔊 on each example in this lesson and repeat along 3 times. Notice the rhythm of 起きられません: お・き・ら・れ・ま・せ・ん is 7 equal beats. Don't swallow the ら.", "min": 5 },
     { "tool": "Speaking", "what": "Record your めんせつ (homework h4) in 40 seconds or less. Listen and check that every \"I can\" verb came out in the potential.", "min": 5 }
   ],
@@ -209,10 +209,14 @@
     "I can make the potential form of any verb without looking: る → られる, う → e + る, する → できる, 来る → 来られる.",
     "I remember that 帰る is an う-verb: 帰れる.",
     "I conjugate the potential like a る-verb: 飲めます, 飲めません, 飲めました, 飲めませんでした.",
-    "I use が (or を) for the object of the potential and keep で and に as they are: 海でおよげます.",
+    "I use が (or を) for the object of the potential, keep で and に as they are (海でおよげます), and put the person who can in the topic: わたしは日本語が話せます.",
     "I recognize 見れる and 来れる as casual ら抜き and I write 見られる and 来られる.",
     "I can say the same thing with 〜ことができます, and I know it sounds more formal.",
     "I did the homework, checked it against the answer key and redid what I got wrong.",
     "If I have the Genki II Workbook: I did the Potential Verbs exercises."
+  ],
+  "credits": [
+    "Explanations adapted in part from Sakubi (public domain, CC0) — sakubi.neocities.org",
+    "Study method informed by the DJT Guide to Japanese — djtguide.neocities.org/guide"
   ]
 }

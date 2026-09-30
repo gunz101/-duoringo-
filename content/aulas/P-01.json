@@ -15,7 +15,7 @@
     "total": "60–75 min",
     "blocks": [
       { "t": "Warm-up: say aloud the potential form and the ない form of 話す, 読む, 食べる, 来る and する — this lesson is built on them", "min": 5 },
-      { "t": "Vocabulary: tap 🔊 on each word and repeat it twice", "min": 10 },
+      { "t": "Vocabulary: tap 🔊 on each word and repeat it twice; save the words you don't know yet with Mining (⛏), each inside one sentence from this lesson, so they enter your SRS", "min": 10 },
       { "t": "Grammar: the 2 points, with the examples read aloud and one 🔬 each; in point b, take your time with the なる × する contrast", "min": 25 },
       { "t": "Video and reading (block 6), pausing on the examples", "min": 10 },
       { "t": "Notebook homework + checking it against the answer key", "min": 15 },
@@ -63,7 +63,7 @@
       "gc": null,
       "title": "〜ようになる (and 〜なくなる)",
       "gloss": "to come to…, to get to where you can… · no longer…",
-      "explanation": "よう means **\"the way things are, a state\"**, and ように means **\"into that state\"**. Add なる (\"become\") and you get **〜ようになる: \"come to…\", \"get to the point where…\"** — a change that happened, usually **gradually**, in what you **can do** or what you **usually do**.\n• **Ability: potential + ようになる.** 泳げる → 泳げるようになった; 読める → 読めるようになった. The message is **\"before I couldn't, now I can\"**.\n• Verbs that already mean \"can\" or \"happens by itself\" work the same way: 分かる, 見える, 聞こえる, できる → 日本語のニュースが分かるようになった.\n• **Habit: dictionary form + ようになる.** 毎朝走る → 毎朝走るようになった (\"I've started running every morning\"). It reports that the habit **came about**, often with no clear starting day.\n• **The opposite, \"no longer\": 〜なくなる.** Take the ない form, change い to く and add なる: 読まない → 読まなくなった (\"I don't read anymore\"); 泳げない → 泳げなくなった (\"I can't swim anymore\"). This is the everyday form for \"stopped doing / can't anymore\". You may occasionally meet 〜ないようになる, but 〜なくなる is what people normally say, so use that.\n• You already know なる with adjectives and nouns (lesson 10-3): 上手になる, 寒くなる. With a **verb**, なる needs ように in between: 話せるようになる, never 話せるになる.\n• You usually report the change in the past: ようになりました / ようになった. ようになってきました adds \"little by little, up to now\". ようになります is for a change still to come: 練習すれば、できるようになりますよ.\n• In the sentence, [change]ように + なりました is the **PREDICATE**. Read it from the end: \"it became so\" → what did? → the part before ように → since when? → often a から block or 最近.",
+      "explanation": "よう is a noun meaning **\"way, manner, the way things are\"**. Like any noun, it can be described by a whole verb phrase in front of it (lesson 09-2): 泳げるよう = \"the way of being able to swim\". Add に and the block works like an adverb, \"into that way\" — the same job as 上手に in 上手になる, or 寒く in 寒くなる. なる (\"become\") takes exactly this kind of word in front of it, so **〜ようになる = \"come to…\", \"get to the point where…\"**: a change that happened, usually **gradually**, in what you **can do** or what you **usually do**.\n• **Ability: potential + ようになる.** 泳げる → 泳げるようになった; 読める → 読めるようになった. The message is **\"before I couldn't, now I can\"**.\n• Verbs that already mean \"can\" or \"happens by itself\" work the same way: 分かる, 見える, 聞こえる, できる → 日本語のニュースが分かるようになった.\n• **Habit: dictionary form + ようになる.** 毎朝走る → 毎朝走るようになった (\"I've started running every morning\"). It reports that the habit **came about**, often with no clear starting day.\n• **The opposite, \"no longer\": 〜なくなる.** Take the ない form, change い to く and add なる: 読まない → 読まなくなった (\"I don't read anymore\"); 泳げない → 泳げなくなった (\"I can't swim anymore\"). This is the everyday form for \"stopped doing / can't anymore\". You may occasionally meet 〜ないようになる, but 〜なくなる is what people normally say, so use that.\n• You already know なる with adjectives and nouns (lesson 10-3): 上手になる, 寒くなる. A **verb** can't play that adverb role by itself, so なる needs ように in between: 話せるようになる, never 話せるになる.\n• You usually report the change in the past: ようになりました / ようになった. ようになってきました adds \"little by little, up to now\". ようになります is for a change still to come: 練習すれば、できるようになりますよ.\n• In the sentence, [change]ように + なりました is the **PREDICATE**. Read it from the end: \"it became so\" → what did? → the part before ように → since when? → often a から block or 最近.",
       "structure": "[potential] ようになる (now I can) · [dictionary form] ようになる (now I usually do) · [ない → なく] なる (no longer)",
       "examples": [
         { "jp": "前は日本語のニュースが全然分からなかったけど、最近少し分かるようになりました。", "kana": "まえはにほんごのニュースがぜんぜんわからなかったけど、さいきんすこしわかるようになりました。", "romaji": "Mae wa nihongo no nyūsu ga zenzen wakaranakatta kedo, saikin sukoshi wakaru yō ni narimashita.", "en": "Before, I couldn't understand the news in Japanese at all, but lately I've started to understand a little." },
@@ -74,7 +74,7 @@
         "With a verb, なる needs ように: 日本語が話せるになりました ✗ → 日本語が話せるようになりました ✓. Adjectives and nouns attach directly (上手になりました, lesson 10-3).",
         "\"Can't anymore\" is なくなる, not a failed ようになる: \"I can't swim anymore\" → 泳げるようになりませんでした ✗ (= I never learned) → 泳げなくなりました ✓.",
         "If nothing changed, don't use ようになる / なくなる — they always tell a before and an after: \"Penguins can't fly\" → ペンギンは飛べなくなります ✗ → ペンギンは飛べません ✓.",
-        "No ます form before ように: 読めますようになりました ✗ → 読めるようになりました ✓."
+        "Before ように goes the plain form — not ます, and not the volitional 〜よう of lesson 15-1, which only looks similar: 読めますようになりました ✗ → 読めるようになりました ✓; 食べようになりました ✗ → 食べるようになりました ✓."
       ],
       "howToStudy": [
         "Before and after: in your notebook, write 3 things you couldn't do a year ago and can do now, and 1 thing you used to do and don't anymore. Say each one aloud: 前は〜けど、今は〜ようになりました。",
@@ -88,7 +88,7 @@
       "gc": null,
       "title": "〜ようにする (and the contrast with 〜ようになる)",
       "gloss": "to make sure to…, to make a point of… (a conscious effort)",
-      "explanation": "Change なる (\"become\") to する (\"make\") and the meaning moves from a change that happened to **an effort you make**: **〜ようにする = \"make sure to…\", \"make a point of…\"** — you act so that things turn out a certain way.\n• Form: **dictionary form** or **ない form** + ようにする. 食べる → 食べるようにする; 飲まない → 飲まないようにする (\"make sure not to drink\").\n• **ようにしている / ようにしています**: an ongoing effort, a habit you keep working at: 毎日野菜を食べるようにしています (\"I make a point of eating vegetables every day\").\n• **ようにします**: a resolution, from now on: これからは早く寝るようにします.\n• **ようにしてください**: \"please make sure to / not to…\" — a soft request about care or habits, common from teachers, doctors and bosses: 遅れないようにしてください. For a simple action right now, just use てください: 座ってください.\n• ようにする is **effort, not a guarantee**: it says you try, not that you always succeed.\n\n**ようになる × ようにする — the key contrast:**\n• ようになる = **it became** that way (a result; you notice the change).\n• ようにする = **you make** it that way (an effort; your will).\n• 犬を飼い始めてから、毎朝早く起きるようになりました — since I got a dog, I've started getting up early (the dog changed my routine; it just happened).\n• 朝の時間を使いたいので、毎朝早く起きるようにしています — I want to use my mornings, so I make a point of getting up early (my decision, my effort).\n• Test: ask **\"Is this a result I noticed, or something I'm working at?\"** Result → なる. Effort → する.\n• Don't confuse it with 〜てみる (lesson 13-3): てみる is trying something once to see how it goes; ようにする is a steady effort.\n• In the sentence, [effort]ように + しています is the **PREDICATE**, at the end.",
+      "explanation": "Change なる (\"become\") to する (\"make\") and the meaning moves from a change that happened to **an effort you make**. する takes the same adverb-like words as なる: 静かにする (\"make it quiet\" → be quiet), 早くする (\"make it quick\" → hurry up). So [X]ようにする = \"make things go the X way\": **\"make sure to…\", \"make a point of…\"** — you act so that things turn out a certain way.\n• Form: **dictionary form** or **ない form** + ようにする. 食べる → 食べるようにする; 飲まない → 飲まないようにする (\"make sure not to drink\").\n• **ようにしている / ようにしています**: an ongoing effort, a habit you keep working at: 毎日野菜を食べるようにしています (\"I make a point of eating vegetables every day\").\n• **ようにします**: a resolution, from now on: これからは早く寝るようにします.\n• **ようにしてください**: \"please make sure to / not to…\" — a soft request about care or habits, common from teachers, doctors and bosses: 遅れないようにしてください. For a simple action right now, just use てください: 座ってください.\n• ようにする is **effort, not a guarantee**: it says you try, not that you always succeed.\n• **To recognize — with a potential verb**, ようにする means acting so that something **becomes possible**: スマホでも見られるようにしました (\"we've made it viewable on phones too\" — a common line in app and website notices); だれでも使えるようにする (\"make it usable by anyone\").\n\n**ようになる × ようにする — the key contrast:**\n• ようになる = **it became** that way (a result; you notice the change).\n• ようにする = **you make** it that way (an effort; your will).\n• 犬を飼い始めてから、毎朝早く起きるようになりました — since I got a dog, I've started getting up early (the dog changed my routine; it just happened).\n• 朝の時間を使いたいので、毎朝早く起きるようにしています — I want to use my mornings, so I make a point of getting up early (my decision, my effort).\n• Test: ask **\"Is this a result I noticed, or something I'm working at?\"** Result → なる. Effort → する.\n• Don't confuse it with 〜てみる (lesson 13-3): てみる is trying something once to see how it goes; ようにする is a steady effort.\n• In the sentence, [effort]ように + しています is the **PREDICATE**, at the end.\n• Going further (Sakubi): ように can also stand on its own and link to another verb: \"so that…\" (忘れないように、メモします = I'll write it down so I don't forget — lesson P-03) or \"like, as\" (いつものように = as usual). When you meet ように, look at what comes right after it: なる or する → this lesson; any other verb → \"so that\" or \"like\".",
       "structure": "[dictionary form / ない form] ようにする · ようにしています (ongoing effort) · ようにしてください (please make sure to…)",
       "examples": [
         { "jp": "最近、エレベーターを使わないで、階段を上るようにしています。", "kana": "さいきん、エレベーターをつかわないで、かいだんをのぼるようにしています。", "romaji": "Saikin, erebētā o tsukawanai de, kaidan o noboru yō ni shite imasu.", "en": "Lately I've been making a point of taking the stairs instead of the elevator. [lit. not using the elevator, I make sure to climb the stairs]" },
@@ -96,7 +96,7 @@
         { "jp": "明日の面接には遅れないようにしてください。", "kana": "あしたのめんせつにはおくれないようにしてください。", "romaji": "Ashita no mensetsu ni wa okurenai yō ni shite kudasai.", "en": "Please make sure you're not late for tomorrow's interview." }
       ],
       "pitfalls": [
-        "Effort ≠ change: \"I've come to understand the news\" is a result, not an effort: ニュースが分かるようにしました ✗ → ニュースが分かるようになりました ✓.",
+        "Effort ≠ change: \"I've come to understand the news\" is a result, not an effort: ニュースが分かるようにしました ✗ (that would mean you arranged for the news to be understandable) → ニュースが分かるようになりました ✓.",
         "\"Make sure NOT to\" puts the negative before ように: コーヒーを飲むようにしません ✗ → コーヒーを飲まないようにしています ✓.",
         "\"I make a point of…\" is not てみる: 毎日野菜を食べてみています ✗ → 毎日野菜を食べるようにしています ✓. てみる = try once and see (lesson 13-3).",
         "For a one-off action right now, ようにしてください sounds odd: \"Please sit down\" → 座るようにしてください ✗ → 座ってください ✓. Keep ようにしてください for habits and care: 毎日薬を飲むようにしてください."
@@ -104,7 +104,7 @@
       "howToStudy": [
         "Minimal pairs aloud: say each pair and tell yourself in English what the difference is: 早く起きるようになりました ⇄ 早く起きるようにしています; 野菜を食べるようになりました ⇄ 野菜を食べるようにしています.",
         "Tap 🔬 on example 2: 眠れなく (NO PARTICLE) + なるので (REASON) together give the reason; 夜は is the TOPIC, コーヒーを the OBJECT, 飲まないように is tagged TARGET (read it as \"so as not to drink\") and しています is the PREDICATE. Read from the end: I make sure → of what? → not drinking coffee → when? → at night → why? → I can't sleep.",
-        "Speaking: say 3 efforts you are making for your Japanese with 〜ようにしています, and 1 thing you make sure not to do with 〜ないようにしています."
+        "Speaking: say 3 efforts you are making for your Japanese with 〜ようにしています, and 1 thing you make sure not to do with 〜ないようにしています. Make them real study habits, e.g. 毎日、復習を全部するようにしています (clear every review, every day) · 新しい単語は文の中で覚えるようにしています (learn new words inside sentences) · 復習をためないようにしています (don't let reviews pile up)."
       ],
       "flag": null
     }
@@ -152,7 +152,8 @@
           { "q": "Lately I make a point of walking to the station.", "a": { "jp": "最近、駅まで歩くようにしています。", "kana": "さいきん、えきまであるくようにしています。", "romaji": "Saikin, eki made aruku yō ni shite imasu." } },
           { "q": "Since I started working, I don't play games anymore.", "a": { "jp": "働き始めてから、ゲームをしなくなりました。", "kana": "はたらきはじめてから、ゲームをしなくなりました。", "romaji": "Hatarakihajimete kara, gēmu o shinaku narimashita." }, "note": "する → しない → しなく + なる." },
           { "q": "Please make sure you don't forget your passport.", "a": { "jp": "パスポートを忘れないようにしてください。", "kana": "パスポートをわすれないようにしてください。", "romaji": "Pasupōto o wasurenai yō ni shite kudasai." } },
-          { "q": "I make sure not to look at my phone before bed.", "a": { "jp": "寝る前に、スマホを見ないようにしています。", "kana": "ねるまえに、スマホをみないようにしています。", "romaji": "Neru mae ni, sumaho o minai yō ni shite imasu." } }
+          { "q": "I make sure not to look at my phone before bed.", "a": { "jp": "寝る前に、スマホを見ないようにしています。", "kana": "ねるまえに、スマホをみないようにしています。", "romaji": "Neru mae ni, sumaho o minai yō ni shite imasu." } },
+          { "q": "I make a point of reading a little Japanese every day.", "a": { "jp": "毎日、日本語を少し読むようにしています。", "kana": "まいにち、にほんごをすこしよむようにしています。", "romaji": "Mainichi, nihongo o sukoshi yomu yō ni shite imasu." }, "note": "An effort you keep up: dictionary form + ようにしています. A little real Japanese every day is one of the best habits you can build from now on." }
         ]
       },
       {
@@ -168,7 +169,7 @@
   },
   "practice": [
     { "tool": "Wagotabi", "what": "Play in the game's N3 areas. Hunt for 〜ようになる, 〜ようにする and 〜なくなる in the dialogues. Each time, pause and ask: is this a change that happened (なる) or an effort someone makes (する)? Log the session in Immersion → Games and paste one of those lines into 🔬 Anatomy.", "min": 15 },
-    { "tool": "NHK NEWS WEB EASY", "what": "Read one article and listen to its audio. News often reports changes with 〜ようになります / 〜ようになりました (\"from now on, you will be able to…\") and 〜なくなりました. Copy one such sentence into your notebook and write what changed, before → after. If you find none, copy a sentence with a potential verb and turn it into a ようになりました sentence.", "min": 10 },
+    { "tool": "NHK NEWS WEB EASY", "what": "Read one article with a pop-up dictionary (such as Yomitan in your browser: hover over a word to see its reading and meaning) and listen to its audio. News often reports changes with 〜ようになります / 〜ようになりました (\"from now on, you will be able to…\") and 〜なくなりました. Copy one such sentence into your notebook, write what changed, before → after, and save it with Mining (⛏) so it comes back in your SRS. If you find none, copy a sentence with a potential verb and turn it into a ようになりました sentence.", "min": 10 },
     { "tool": "ヅオリンゴー · Journal", "what": "Write 5 sentences of your own (homework h4): 3 changes and 2 efforts. Open \"Anatomy of what I wrote\" and check that each ように block (tagged TARGET) sits right before なりました or しています.", "min": 10 },
     { "tool": "Shadowing", "what": "Tap 🔊 on each example and repeat along 3 times. Stress the last word — なりました or しています — because that one word flips the meaning between change and effort.", "min": 5 },
     { "tool": "Speaking", "what": "Record a 40-second \"before and after\" about your life since you started Japanese: 2 changes with ようになりました, 1 with なくなりました, 2 efforts with ようにしています. Listen back and check each なる and する.", "min": 5 }
@@ -186,5 +187,9 @@
     "I can ask someone to make sure to do something with 〜ようにしてください, and I know when a plain てください is better.",
     "Given any sentence with ように + なる or する, I can say whether it is a change that happened or an effort.",
     "I did the homework, checked it against the answer key and redid what I got wrong."
+  ],
+  "credits": [
+    "Explanations adapted in part from Sakubi (public domain, CC0) — sakubi.neocities.org",
+    "Study method informed by the DJT Guide to Japanese — djtguide.neocities.org/guide"
   ]
 }

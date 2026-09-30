@@ -15,7 +15,7 @@
     "total": "70–90 min",
     "blocks": [
       { "t": "Warm-up: say aloud the honorifics from lesson 19-1 (いらっしゃる, めしあがる, おっしゃる, ごらんになる, お〜になる)", "min": 5 },
-      { "t": "Vocabulary: tap 🔊 on each word, repeat it twice and copy the 9 humble verbs into your notebook", "min": 10 },
+      { "t": "Vocabulary: tap 🔊 on each word, repeat it twice and copy the 10 humble verbs into your notebook", "min": 10 },
       { "t": "Session 1 · Grammar: points a and b, with the examples read aloud and one 🔬", "min": 20 },
       { "t": "Session 2 · Grammar: points c and d (the 尊敬語 × 謙譲語 table), with one 🔬", "min": 20 },
       { "t": "Lesson 20 video (block 6), only the part on humble language", "min": 10 },
@@ -41,6 +41,7 @@
       { "jp": "うかがう", "kana": "うかがう", "romaji": "ukagau", "en": "to visit; to ask (humble of 訪ねる／聞く)" },
       { "jp": "さしあげる", "kana": "さしあげる", "romaji": "sashiageru", "en": "to give (humble of あげる)" },
       { "jp": "ぞんじておる", "kana": "ぞんじておる", "romaji": "zonjite oru", "en": "to know (humble of 知っている); \"I don't know\" = ぞんじません" },
+      { "jp": "お目にかかる", "kana": "おめにかかる", "romaji": "ome ni kakaru", "en": "to meet (humble of 会う)" },
       { "jp": "ございます", "kana": "ございます", "romaji": "gozaimasu", "en": "there is, we have (extra-modest of あります); negative: ございません" },
       { "jp": "でございます", "kana": "でございます", "romaji": "de gozaimasu", "en": "is (extra-modest of です)" },
       { "jp": "かしこまりました", "kana": "かしこまりました", "romaji": "kashikomarimashita", "en": "certainly, understood (humble of 分かりました)" },
@@ -64,7 +65,7 @@
       "gc": null,
       "title": "Special humble verbs (謙譲語)",
       "gloss": "lowering myself and my group to show respect to the other person",
-      "explanation": "In lesson 19-1 you saw **尊敬語** (honorific language): it **raises the other person** (いらっしゃる, めしあがる…). Now comes the opposite side, **謙譲語 (けんじょうご), humble language**. It **lowers the speaker** and **the speaker's own group** (family, company) in front of someone who deserves respect. The final effect is the same: the distance between you and the other person grows, and that sounds respectful.\n**When to use it:** the action is **yours** (or someone on your side does it) and you are talking to a teacher, a customer, a superior or a stranger in a formal situation.\n\n**The special verbs** (all end in the usual ます):\n• 行く／来る → **まいる** (まいります)\n• いる → **おる** (おります) · 〜ている → 〜**ております**\n• 言う → **もうす** (もうします): ペドロともうします。\n• する → **いたす** (いたします)\n• 食べる／飲む → **いただく** · もらう → also **いただく**: 先生から本をいただきました。\n• 見る → **はいけんする** (はいけんします)\n• 訪ねる (to visit) → **うかがう** · 聞く (to ask) → also **うかがう**: ちょっとうかがいたいんですが…\n• あげる → **さしあげる** (さしあげます)\n• 知っている → **ぞんじております** · \"I don't know\" → **ぞんじません**\n\n**Two groups that work a little differently:**\n• まいる, おる, もうす and いたす make your speech **courteous toward the listener**, even when the action has nothing to do with that person: あしたは家におります。 (\"I'll be at home tomorrow.\") Even station announcements use まいる for the train that is coming in.\n• うかがう, いただく, はいけんする and さしあげる need **someone above you whom the action is directed at**: the teacher's office, the customer's gift, the boss's photo.\n\n**In the sentence:** the humble verb is the **PREDICATE**, at the end. The subject is almost always \"I\" and disappears. When you read, start from the predicate and ask: is it humble? Then the one doing the action is me, or someone on my side.",
+      "explanation": "In lesson 19-1 you saw **尊敬語** (honorific language): it **raises the other person** (いらっしゃる, めしあがる…). Now comes the opposite side, **謙譲語 (けんじょうご), humble language**. It **lowers the speaker** and **the speaker's own group** (family, company) in front of someone who deserves respect. The final effect is the same: the distance between you and the other person grows, and that sounds respectful.\n**When to use it:** the action is **yours** (or someone on your side does it) and you are talking to a teacher, a customer, a superior or a stranger in a formal situation.\n\n**The special verbs** (all end in the usual ます):\n• 行く／来る → **まいる** (まいります)\n• いる → **おる** (おります) · 〜ている → 〜**ております**\n• 言う → **もうす** (もうします): ペドロともうします。\n• する → **いたす** (いたします)\n• 食べる／飲む → **いただく** · もらう → also **いただく**: 先生から本をいただきました。\n• 見る → **はいけんする** (はいけんします)\n• 訪ねる (to visit) → **うかがう** · 聞く (to ask) → also **うかがう**: ちょっとうかがいたいんですが…\n• あげる → **さしあげる** (さしあげます)\n• 知っている → **ぞんじております** · \"I don't know\" → **ぞんじません**\n• 会う → **お目にかかる** (お目にかかります): お目にかかれて、うれしいです。\n\n**Two groups that work a little differently:**\n• まいる, おる, もうす and いたす make your speech **courteous toward the listener**, even when the action has nothing to do with that person: あしたは家におります。 (\"I'll be at home tomorrow.\") Even station announcements use まいる for the train that is coming in.\n• うかがう, いただく, はいけんする, さしあげる and お目にかかる need **someone above you whom the action is directed at**: the teacher's office, the customer's gift, the boss's photo, the person you meet.\n\n**In the sentence:** the humble verb is the **PREDICATE**, at the end. The subject is almost always \"I\" and disappears. When you read, start from the predicate and ask: is it humble? Then the one doing the action is me, or someone on my side.\n• Going further (Sakubi): 〜ておる can be shortened to 〜とる. You will mostly hear that in the dialects of western Japan, where おる and 〜とる are simply the everyday いる and 〜ている, with no humility at all — so a game character who says 何しとる？ is not being humble.",
       "structure": "[I / my group] (は／が) … [humble verb]。 · 行きます → まいります",
       "examples": [
         { "jp": "はじめまして。ペドロともうします。ブラジルからまいりました。", "kana": "はじめまして。ペドロともうします。ブラジルからまいりました。", "romaji": "Hajimemashite. Pedoro to mōshimasu. Burajiru kara mairimashita.", "en": "How do you do? My name is Pedro. I'm from Brazil. [lit. I have come from Brazil]", "noAnat": true },
@@ -75,21 +76,21 @@
         "Humble never goes on the other person's action: 先生はもうすぐまいります ✗ → 先生はもうすぐいらっしゃいます ✓. まいる would lower your teacher.",
         "With a customer, your colleague or boss belongs to YOUR group: no さん, and humble verbs. 田中さんはいらっしゃいません ✗ → 田中はおりません ✓ (said to a customer, on the phone).",
         "うかがう, さしあげる and はいけんする raise someone. Chatting with a friend, 友だちの家にうかがいます ✗ (it raises the friend and sounds odd) → 友だちの家に行きます ✓. Talking to that friend's parents, it's right: おたくにうかがいます ✓.",
-        "With a customer or a teacher, しりません sounds curt. The humble form is ぞんじません ✓ (\"I don't know\")."
+        "With a customer or a teacher, 知りません sounds curt: (to a customer) 知りません ✗ → ぞんじません ✓ (\"I'm afraid I don't know\")."
       ],
       "howToStudy": [
-        "Make 9 cards: on the front the neutral verb (行く, いる, 言う, する, 食べる, 見る, 訪ねる, あげる, 知っている), on the back the humble one. Read them aloud until they come out without thinking: 行く → まいります.",
+        "Say the 10 pairs aloud from the neutral verb (行く, いる, 言う, する, 食べる, 見る, 訪ねる, あげる, 知っている, 会う) until the humble one comes out without thinking: 行く → まいります. Then use ⛏ Mining to save each humble verb inside a short sentence (ペドロともうします。/ 明日うかがいます。), so they come back as SRS cards in your 🌊 All reviews.",
         "Tap 🔬 on example 2: 明日の and 先生の show up as DESCRIBES NEXT, 午後 as TIME, 研究室へ as DESTINATION and うかがいます as the PREDICATE. 私 never appears, but the humble predicate already tells you who is going: me.",
         "Record your formal self-introduction in 20 seconds or less: はじめまして。(your name) ともうします。ブラジルからまいりました。よろしくおねがいいたします。 Swap ブラジル for your own country."
       ],
-      "flag": "Check in your Genki II that this lesson has these points in this order. Here all the special humble verbs come together in this point; the book may split まいる, おる, もうす and いたす (together with ございます) off as \"extra-modest expressions\", separate from いただく, うかがう, はいけんする and さしあげる."
+      "flag": "Check in your Genki II that this lesson has these points in this order. Here all the special humble verbs come together in this point; the book may split まいる, おる, もうす and いたす (together with ございます) off as \"extra-modest expressions\", separate from いただく, うかがう, はいけんする, さしあげる and お目にかかる."
     },
     {
       "id": "20-1-b",
       "gc": null,
       "title": "お + stem + する",
       "gloss": "the humble formula for verbs without a special form",
-      "explanation": "Most verbs have no special humble form. For them there is a **formula**: **お + stem (the ます form without ます) + する**.\n• 持ちます → **お持ちします** (\"I'll carry it for you\")\n• 待ちます → お待ちします · 送ります → お送りします · 貸します → お貸しします · 知らせます → お知らせします · 見せます → お見せします\n• Verbs made of a Sino-Japanese noun + する use **ご**: あんないする → **ご**あんないします · れんらくする → ごれんらくします · せつめいする → ごせつめいします. A common exception: 電話する → **お**電話します.\n• Even humbler: swap する for **いたす**: お持ちいたします, ごあんないいたします.\n\n**The condition:** the action has to **affect or help the other person**: carrying their bag, waiting for them, sending them something. If the action is only yours and doesn't involve anyone on the other side, the formula doesn't fit.\n\n**The three お's of Lessons 19 and 20:**\n• お持ち**になります** → the other person holds it (honorific, lesson 19-1)\n• お持ち**ください** → please hold / take it (request, lesson 19-1)\n• お持ち**します** → I'll carry it for you (humble, this lesson)\n\n**In the sentence:** お〜します is the **PREDICATE**. The object, with を, is the thing you do for the other person: かばんを | お持ちします。 It often comes as an offer, with 〜ましょうか: お持ちしましょうか。 (\"Shall I carry it for you?\")",
+      "explanation": "Most verbs have no special humble form. For them there is a **formula**: **お + stem (the ます form without ます) + する**.\n• 持ちます → **お持ちします** (\"I'll carry it for you\")\n• 待ちます → お待ちします · 送ります → お送りします · 貸します → お貸しします · 知らせます → お知らせします · 見せます → お見せします\n• Verbs made of a Sino-Japanese noun + する use **ご**: あんないする → **ご**あんないします · れんらくする → ごれんらくします · せつめいする → ごせつめいします. A common exception: 電話する → **お**電話します.\n• A few verbs with a special humble form also take the formula, and both are correct: 聞く → **お聞きします** or うかがいます; 会う → **お会いします** or お目にかかります; 訪ねる → **お訪ねします** or うかがいます (the special form is a little humbler). But 行く, 来る, いる, 言う, 見る and 食べる never take it.\n• Even humbler: swap する for **いたす**: お持ちいたします, ごあんないいたします.\n\n**The condition:** the action has to **affect or help the other person**: carrying their bag, waiting for them, sending them something. If the action is only yours and doesn't involve anyone on the other side, the formula doesn't fit.\n\n**The three お's of Lessons 19 and 20:**\n• お持ち**になります** → the other person holds it (honorific, lesson 19-1)\n• お持ち**ください** → please hold / take it (request, lesson 19-1)\n• お持ち**します** → I'll carry it for you (humble, this lesson)\n\n**In the sentence:** お〜します is the **PREDICATE**. The object, with を, is the thing you do for the other person: かばんを | お持ちします。 It often comes as an offer, with 〜ましょうか: お持ちしましょうか。 (\"Shall I carry it for you?\")",
       "structure": "お + [verb stem] + します · ご + [Sino-Japanese noun] + します",
       "examples": [
         { "jp": "重そうですね。お持ちしましょうか。", "kana": "おもそうですね。おもちしましょうか。", "romaji": "Omosō desu ne. Omochi shimashō ka.", "en": "That looks heavy. Shall I carry it for you?", "noAnat": true },
@@ -97,7 +98,7 @@
         { "jp": "くつの売り場ですね。ごあんないいたします。", "kana": "くつのうりばですね。ごあんないいたします。", "romaji": "Kutsu no uriba desu ne. Goannai itashimasu.", "en": "The shoe department, right? I'll show you the way.", "noAnat": true }
       ],
       "pitfalls": [
-        "A verb with a special form uses the special form: お行きします ✗ → うかがいます ✓; お見します ✗ → はいけんします ✓; お食べします ✗ → いただきます ✓.",
+        "Verbs like 行く, 見る and 食べる use their special form, never the formula: お行きします ✗ → うかがいます ✓; お見します ✗ → はいけんします ✓; お食べします ✗ → いただきます ✓. (聞く, 会う and 訪ねる are the exceptions that allow both.)",
         "An action that is only yours doesn't take the formula. Telling a customer about your weekend: きのう時計をお買いしました ✗ → きのう時計を買いました ✓ (the purchase doesn't involve the customer).",
         "お〜します is what I do. To ask whether your teacher will read something: この本をお読みしますか ✗ → この本をお読みになりますか ✓.",
         "Offering help with 〜てさしあげます straight to a superior sounds like \"I'm doing you a favor\": 持ってさしあげます ✗ → お持ちします ✓."
@@ -114,7 +115,7 @@
       "gc": null,
       "title": "でございます / ございます",
       "gloss": "extra-modest expressions",
-      "explanation": "Two expressions come up all the time in shops, hotels, stations and company phone calls:\n• です → **でございます**: こちらが売り場でございます。\n• あります → **ございます**: 赤もございます。 · negative: **ございません**\n\nThey don't lower any particular person: they make your speech **extra-modest, courteous toward the listener**. That is why the people who use them most are those who serve customers: 店員, receptionists, announcements.\n• You already know ございます from set phrases: ありがとうございます, おはようございます and **もうしわけございません**, the most formal version of もうしわけありません.\n• They usually come with: こちら／そちら／あちら instead of これ／ここ, **よろしい** instead of いい (よろしいでしょうか) and **少々** instead of ちょっと (少々お待ちください).\n• ございます is for **things**. For people, the other person \"is (there)\" with いらっしゃいます and I \"am (here)\" with おります.\n• To say what the OTHER person is, the honorific is **でいらっしゃいます**: 田中さまでいらっしゃいますか。 でございます stays for things and for your own side: はい、さくら書店でございます。\n\n**In the sentence:** でございます and ございます are the **PREDICATE**. Read the end first: ございます = \"there is / we have\"; でございます = \"is\"; ございません = \"there isn't / we don't have\".",
+      "explanation": "Two expressions come up all the time in shops, hotels, stations and company phone calls:\n• です → **でございます**: こちらが売り場でございます。\n• あります → **ございます**: 赤もございます。 · negative: **ございません**\n\nThey don't lower any particular person: they make your speech **extra-modest, courteous toward the listener**. That is why the people who use them most are those who serve customers: 店員, receptionists, announcements.\n• You already know ございます from set phrases: ありがとうございます, おはようございます and **もうしわけございません**, the most formal version of もうしわけありません.\n• They usually come with: こちら／そちら／あちら instead of これ／ここ, **よろしい** instead of いい (よろしいでしょうか) and **少々** instead of ちょっと (少々お待ちください).\n• ございます is for **things**. For people, the other person \"is (there)\" with いらっしゃいます and I \"am (here)\" with おります.\n• To say what the OTHER person is, the honorific is **でいらっしゃいます**: 田中さまでいらっしゃいますか。 でございます stays for things and for your own side: はい、さくら書店でございます。\n\n**In the sentence:** でございます and ございます are the **PREDICATE**. Read the end first: ございます = \"there is / we have\"; でございます = \"is\"; ございません = \"there isn't / we don't have\".\n• Going further (Sakubi): ございます is the keigo partner of ある, and one leading theory says です itself began as a shortened でございます (or であります) — so this lesson's でございます is, in a way, です at full length.",
       "structure": "[thing] は [N] でございます。 · [thing] が／も ございます。",
       "examples": [
         { "jp": "お電話ありがとうございます。さくら書店でございます。", "kana": "おでんわありがとうございます。さくらしょてんでございます。", "romaji": "Odenwa arigatō gozaimasu. Sakura shoten de gozaimasu.", "en": "Thank you for calling. This is Sakura Bookstore." },
@@ -124,12 +125,12 @@
       "pitfalls": [
         "For the other person, でございます doesn't work: 田中さまでございますか ✗ → 田中さまでいらっしゃいますか ✓. でございます is the speaker's modesty.",
         "ございます is only for things: 先生はあちらにございます ✗ → 先生はあちらにいらっしゃいます ✓.",
-        "Among friends, でございます sounds theatrical or sarcastic. With classmates and friends, です is enough."
+        "Among friends, でございます sounds theatrical or sarcastic: (to a friend) トイレはあちらでございます ✗ → トイレはあっちだよ ✓."
       ],
       "howToStudy": [
         "Turn 5 shop sentences from neutral into extra-modest, aloud: トイレはあちらです → お手洗いはあちらでございます; 赤もあります → 赤もございます; ありません → ございません.",
         "Tap 🔬 on example 2: お手洗いは is the TOPIC and あちらでございます is the PREDICATE — the extra-modest way of saying \"is over there\".",
-        "Shadowing: tap 🔊 on example 1 and repeat it 3 times, as if you were answering the phone at a shop."
+        "Shadowing: tap 🔊 on example 1 and repeat it 3 times, as if you were answering the phone at a shop. With these forms your first goal is **recognition** — you will hear でございます far more often than you say it — and recognition is trained by listening, so replay the examples until you understand them at full speed."
       ],
       "flag": null
     },
@@ -138,7 +139,7 @@
       "gc": null,
       "title": "尊敬語 × 謙譲語 × the neutral form",
       "gloss": "the question that decides: whose action is it?",
-      "explanation": "Putting lessons 19-1 and 20-1 together: formal Japanese has **three levels**, and the question that decides is always the same: **whose action is it?**\n• **The other person's action** (teacher, customer, boss) → **尊敬語 (そんけいご)**: it raises the other person.\n• **My action** (or my group's) **for the other person** → **謙譲語 (けんじょうご)**: it lowers me.\n• No special hierarchy → **です／ます**, the polite neutral form. It is still correct and enough for most everyday situations.\n\n**Table** (neutral → 尊敬語, the other person's action | 謙譲語, my action):\n• 行く／来る → いらっしゃる | まいる (to visit: うかがう)\n• いる → いらっしゃる | おる\n• 言う → おっしゃる | もうす\n• 食べる／飲む → めしあがる | いただく\n• 見る → ごらんになる | はいけんする\n• する → なさる | いたす\n• 知っている → ごぞんじです | ぞんじております\n• giving: くれる → くださる (the other person gives to me) | あげる → さしあげる (I give to the other person)\n• もらう → (not used) | いただく\n• 聞く (to ask) → お聞きになる | うかがう\n• 会う → お会いになる | お目にかかる\n• other verbs → お〜になる | お〜する\n• です → でいらっしゃる | でございます\n\n**Golden rule:** honorific = the OTHER person's action; humble = MY action toward the other person. They never swap places.\n**Inside and outside (うち／そと):** with an outsider, like a customer, your boss becomes part of YOUR group: you use humble verbs for him and drop the さん. Inside the company, with colleagues, the boss gets honorifics.\n**Reading tip:** when you hear a keigo predicate, work out first whether it is 尊敬 or 謙譲. That reveals **who the subject is**, even when it is not said.",
+      "explanation": "Putting lessons 19-1 and 20-1 together: formal Japanese has **three levels**, and the question that decides is always the same: **whose action is it?**\n• **The other person's action** (teacher, customer, boss) → **尊敬語 (そんけいご)**: it raises the other person.\n• **My action** (or my group's) **for the other person** → **謙譲語 (けんじょうご)**: it lowers me.\n• No special hierarchy → **です／ます**, the polite neutral form. It is still correct and enough for most everyday situations.\n• する shows all three at once: なさる raises the other person, いたす lowers me, and します is simply polite.\n\n**Table** (neutral → 尊敬語, the other person's action | 謙譲語, my action):\n• 行く／来る → いらっしゃる | まいる (to visit: うかがう)\n• いる → いらっしゃる | おる\n• 言う → おっしゃる | もうす\n• 食べる／飲む → めしあがる | いただく\n• 見る → ごらんになる | はいけんする\n• する → なさる | いたす\n• 知っている → ごぞんじです | ぞんじております\n• giving: くれる → くださる (the other person gives to me) | あげる → さしあげる (I give to the other person)\n• もらう → (not used) | いただく\n• 聞く (to ask) → お聞きになる | うかがう (or お聞きする)\n• 会う → お会いになる | お目にかかる (or お会いする)\n• other verbs → お〜になる | お〜する\n• です → でいらっしゃる | でございます\n\n**Golden rule:** honorific = the OTHER person's action; humble = MY action toward the other person. They never swap places.\n**Inside and outside (うち／そと):** with an outsider, like a customer, your boss becomes part of YOUR group: you use humble verbs for him and drop the さん. Inside the company, with colleagues, the boss gets honorifics.\n**Reading tip:** when you hear a keigo predicate, work out first whether it is 尊敬 or 謙譲. That reveals **who the subject is**, even when it is not said.",
       "structure": "the other person's action → 尊敬語 (いらっしゃる) · my action → 謙譲語 (まいる)",
       "examples": [
         { "jp": "社長はもういらっしゃいましたか。— いいえ、まだです。私が駅までおむかえにまいります。", "kana": "しゃちょうはもういらっしゃいましたか。— いいえ、まだです。わたしがえきまでおむかえにまいります。", "romaji": "Shachō wa mō irasshaimashita ka. — Iie, mada desu. Watashi ga eki made omukae ni mairimasu.", "en": "Has the president arrived yet? — No, not yet. I'll go to the station to pick him up. (two employees of the same company)" },
@@ -149,12 +150,12 @@
         "With a customer, your boss belongs to your group: 社長はすぐいらっしゃいます ✗ → 社長の山田はすぐまいります ✓.",
         "When you offer food, the other person is the one eating: どうぞいただいてください ✗ → どうぞめしあがってください ✓.",
         "Humble is not \"more polite\" than honorific: they point in opposite directions. 先生がいただきました ✗ → 先生がめしあがりました ✓.",
-        "Keigo is not used with your own family at home. Only when you talk ABOUT them to an outsider do they become 母 and get humble verbs: 母もそうもうしておりました ✓."
+        "Keigo is not used with your own family at home. When you talk ABOUT them to an outsider, they become 母, 父… and get humble verbs, never honorific ones: (to your teacher) お母さんもそうおっしゃっていました ✗ → 母もそうもうしておりました ✓."
       ],
       "howToStudy": [
         "Copy the table into your notebook in 3 columns (neutral | 尊敬語 | 謙譲語). Cover two columns and recite the third; switch the covered columns until you get them all.",
         "Tap 🔬 on example 1. いらっしゃいましたか is a PREDICATE whose topic is 社長 (the other person); in the last sentence, 私が is the SUBJECT of the PREDICATE まいります. The type of keigo confirms who does each action. Then tap 🔬 on example 3: the question's PREDICATE なさいますか raises the listener, and the answer's PREDICATE まいります lowers the speaker.",
-        "Say 4 pairs aloud, changing only the subject: 先生はいらっしゃいます / 私はまいります; めしあがります / いただきます; ごらんになります / はいけんします; おっしゃいます / もうします."
+        "Say 4 pairs aloud, changing only the subject: 先生はいらっしゃいます / 私はまいります; めしあがります / いただきます; ごらんになります / はいけんします; おっしゃいます / もうします. Don't chase every fine nuance of keigo yet: know this table well, and let listening and reading fill in the rest over time."
       ],
       "flag": null
     }
@@ -210,18 +211,18 @@
         "type": "produce",
         "prompt": "You work in a shop. Write 4 lines to a customer: greet them, offer help with お〜します, say there is another option with ございます and explain, with おる, that a colleague is out. Then read them aloud and record yourself on your phone.",
         "items": [
-          { "q": "Model (match its structure, not its words):", "a": { "jp": "いらっしゃいませ。おにもつ、お持ちしましょうか。このシャツは、ほかの色もございます。もうしわけございません。田中はただいま出かけております。", "kana": "いらっしゃいませ。おにもつ、おもちしましょうか。このシャツは、ほかのいろもございます。もうしわけございません。たなかはただいまでかけております。", "romaji": "Irasshaimase. Onimotsu, omochi shimashō ka. Kono shatsu wa, hoka no iro mo gozaimasu. Mōshiwake gozaimasen. Tanaka wa tadaima dekakete orimasu.", "en": "Welcome. Shall I carry your bags for you? This shirt also comes in other colors. I'm very sorry, Tanaka is out at the moment." }, "note": "Check: humble only on YOUR actions and your colleague's; no さん for your colleague; ございます only for things; the verb always at the end." }
+          { "q": "Model (match its structure, not its words):", "a": { "jp": "いらっしゃいませ。おにもつをお持ちしましょうか。このシャツは、ほかの色もございます。もうしわけございません。田中はただいま出かけております。", "kana": "いらっしゃいませ。おにもつをおもちしましょうか。このシャツは、ほかのいろもございます。もうしわけございません。たなかはただいまでかけております。", "romaji": "Irasshaimase. Onimotsu o omochi shimashō ka. Kono shatsu wa, hoka no iro mo gozaimasu. Mōshiwake gozaimasen. Tanaka wa tadaima dekakete orimasu.", "en": "Welcome. Shall I carry your bags for you? This shirt also comes in other colors. I'm very sorry, Tanaka is out at the moment." }, "note": "Check: humble only on YOUR actions and your colleague's; no さん for your colleague; ございます only for things; the verb always at the end." }
         ]
       }
     ],
     "workbook": []
   },
   "practice": [
-    { "tool": "Wagotabi", "what": "If you are already in the N4 parts of the game, pay attention to shopkeepers, receptionists and formal characters. Write down in your notebook every humble or extra-modest form that shows up (まいります, おります, もうします, いたします, ございます…) and write the neutral form next to it. If none shows up in the session, hunt for the honorifics of lesson 19-1 instead.", "min": 15 },
-    { "tool": "ヅオリンゴー", "what": "Vocabulary/SRS: review this lesson's words, paying attention to the 9 humble verbs. Then, in Mining, save the 3 sentences of point d, which show honorific and humble side by side.", "min": 10 },
+    { "tool": "Wagotabi", "what": "If you are already in the N4 parts of the game, pay attention to shopkeepers, receptionists and formal characters. Write down in your notebook every humble or extra-modest form that shows up (まいります, おります, もうします, いたします, ございます…) and write the neutral form next to it. If none shows up in the session, hunt for the honorifics of lesson 19-1 instead. Save the clearest line with ⛏ Mining, after looking up every word in it.", "min": 15 },
+    { "tool": "ヅオリンゴー · Mining", "what": "If you didn't in point a, use ⛏ Mining to save the 10 humble verbs to the SRS, each inside a short sentence, plus 3 words from block 3 (店員, 売り場, もうしわけございません). Learn kanji words like 店員 and 売り場 as whole words, reading and meaning together. Then clear today's 🌊 All reviews; if the pile grows, add fewer new cards rather than skipping reviews.", "min": 10 },
     { "tool": "ヅオリンゴー", "what": "Drills → 🔬 Anatomy → 🔬 Analyze: paste the examples of point d and, for each predicate, say who the subject is (the other person or me).", "min": 5 },
-    { "tool": "Shadowing", "what": "Tap 🔊 on each example in this lesson and repeat along 3 times. Take care with the long words: も・う・し・わ・け・ご・ざ・い・ま・せ・ん has 11 beats of the same length.", "min": 5 },
-    { "tool": "Speaking", "what": "Record yourself playing both parts of a shop scene: the customer speaks with です／ます and the clerk speaks with the lines from homework h4. 40 seconds or less.", "min": 5 }
+    { "tool": "Reading and listening", "what": "10 minutes of real Japanese from the Resources tab: an NHK News Web Easy article or a Tadoku graded reader, with a pop-up dictionary such as Yomitan on the computer, or a shop or restaurant scene in a Japanese video. Whenever you meet a keigo verb, decide first: 尊敬語 (the other person acts) or 謙譲語 (the speaker acts)? Save 1 sentence you now understand with ⛏ Mining.", "min": 10 },
+    { "tool": "Shadowing + Speaking", "what": "Tap 🔊 on each example in this lesson and repeat along 3 times. Take care with the long words: も・う・し・わ・け・ご・ざ・い・ま・せ・ん has 11 beats of the same length. Then record yourself playing both parts of a shop scene: the customer speaks with です／ます and the clerk speaks with the lines from homework h4. 40 seconds or less.", "min": 10 }
   ],
   "culture": {
     "title": "Japanese hospitality: おもてなし and いらっしゃいませ",
@@ -230,12 +231,16 @@
     "try": "Practice aloud the 3 clerk phrases you will hear most, until you understand each one without translating: いらっしゃいませ。 / かしこまりました。 / 少々お待ちください。 Next time you see a shop scene in a video or an anime, write down the keigo that comes after いらっしゃいませ."
   },
   "checklist": [
-    "I can say the 9 humble verbs from the neutral verb without looking (行く → まいる, 見る → はいけんする, 知っている → ぞんじております…).",
+    "I can say the 10 humble verbs from the neutral verb without looking (行く → まいる, 見る → はいけんする, 知っている → ぞんじております…).",
     "I can give a formal self-introduction with もうします and まいりました.",
     "I offer help with お〜します and ご〜します, and I know when the formula doesn't work (verbs with a special form, actions that are only mine).",
     "I understand でございます, ございます and ございません in shop sentences, and I know ございます is only for things.",
     "I choose between 尊敬語 and 謙譲語 by asking \"whose action is it?\", including when I talk about my boss to a customer.",
     "I did the homework, checked it against the answer key and redid what I got wrong.",
     "If I have the Genki II Workbook, I did the Lesson 20 exercises on humble language."
+  ],
+  "credits": [
+    "Explanations adapted in part from Sakubi (public domain, CC0) — sakubi.neocities.org",
+    "Study method informed by the DJT Guide to Japanese — djtguide.neocities.org/guide"
   ]
 }

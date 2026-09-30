@@ -61,7 +61,7 @@
       "gc": null,
       "title": "Greetings for the time of day",
       "gloss": "good morning, hello, good evening, goodbye",
-      "explanation": "Japanese chooses a greeting by the **time of day** and by how **close** you are to the person. These are fixed formulas: learn each one as a single block.\n• **おはようございます**: good morning, in the morning. With friends and family, just おはよう.\n• **こんにちは**: hello, good afternoon — roughly from late morning to late afternoon. In general, it isn't used with your own family.\n• **こんばんは**: good evening, **when arriving** or meeting someone in the evening.\n• **おやすみなさい**: good night, **when going to bed** or parting late at night. With friends and family, おやすみ. The split works like English \"good evening\" (a hello) × \"good night\" (a goodbye).\n• **さようなら**: goodbye. It can sound like a longer or more final farewell than English \"bye\"; among friends, day to day, じゃあね or また あした (\"see you tomorrow\") are more common. At school, though, it is the normal goodbye between students and their teacher.\n• In こんにちは and こんばんは, the last は is read **wa**. It was originally the particle は, and the spelling stayed.",
+      "explanation": "Japanese chooses a greeting by the **time of day** and by how **close** you are to the person. These are fixed formulas: learn each one as a single block.\n• **おはようございます**: good morning, in the morning. With friends and family, just おはよう.\n• **こんにちは**: hello, good afternoon — roughly from late morning to late afternoon. In general, it isn't used with your own family.\n• **こんばんは**: good evening, **when arriving** or meeting someone in the evening.\n• **おやすみなさい**: good night, **when going to bed** or parting late at night. With friends and family, おやすみ. The split works like English \"good evening\" (a hello) × \"good night\" (a goodbye).\n• **さようなら**: goodbye. It can sound like a longer or more final farewell than English \"bye\"; among friends, day to day, じゃあね or また あした (\"see you tomorrow\") are more common. At school, though, it is the normal goodbye between students and their teacher.\n• **Meals**: **いただきます** just before you start eating, **ごちそうさま** (politer: ごちそうさまでした) when you finish. Both are said even at home, with family (lesson 05-2 tells you more).\n• **Longer is politer.** A rule of thumb you will meet again and again: the longer version of a phrase is the more polite one. おはよう → おはようございます, おやすみ → おやすみなさい, ありがとう → ありがとうございます. ございます is a formal word that lifts the whole phrase.\n• In こんにちは and こんばんは, the last は is read **wa**. It was originally the particle は, and the spelling stayed.\n• Going further (Sakubi): very casual speech squeezes greetings. Among friends, especially young men and sports teammates, you may hear おっす (\"hey\"), often explained as a worn-down おはようございます. Recognize it, but don't use it with teachers or strangers.",
       "structure": "morning: おはようございます · daytime: こんにちは · evening (arriving): こんばんは · bedtime: おやすみなさい · goodbye: さようなら",
       "examples": [
         { "jp": "たなかせんせい、おはようございます。", "kana": "たなかせんせい、おはようございます。", "romaji": "Tanaka-sensei, ohayō gozaimasu.", "en": "Good morning, Professor Tanaka.", "noAnat": true },
@@ -86,7 +86,7 @@
       "gc": null,
       "title": "すみません, どうも, ありがとう",
       "gloss": "thanking, getting attention, apologizing",
-      "explanation": "Three expressions you will use all the time, each with more than one job:\n• **ありがとうございます**: thank you, polite. **ありがとう** alone is casual, for friends and family. To thank someone for something that is already over (at the end of a class, after someone has helped you), use ありがとうございました. It is also what the clerk says when you leave a shop.\n• **どうも**: a short, very common \"thanks\" in daily life, for example when you get your change. Before ありがとうございます it adds emphasis: どうも ありがとうございます is \"thank you very much\".\n• **すみません**: \"excuse me\", \"I'm sorry\" and sometimes \"thank you (sorry for the trouble)\". Use it to call a waiter, to squeeze past people, or to apologize for something small.\n• To reply to a thank-you, the simplest answer is **いいえ** (\"not at all\"). どういたしまして (\"you're welcome\") also exists, but it sounds a bit stiff and textbook-like and is less common in everyday speech than you might expect. いいえ (or いえいえ) is the safe choice.",
+      "explanation": "Three expressions you will use all the time, each with more than one job:\n• **ありがとうございます**: thank you, polite. **ありがとう** alone is casual, for friends and family. To thank someone for something that is already over (at the end of a class, after someone has helped you), use ありがとうございました. It is also what the clerk says when you leave a shop.\n• **どうも**: a short, very common \"thanks\" in daily life, for example when you get your change. Before ありがとうございます it adds emphasis: どうも ありがとうございます is \"thank you very much\".\n• **すみません**: \"excuse me\", \"I'm sorry\" and sometimes \"thank you (sorry for the trouble)\". Use it to call a waiter, to squeeze past people, or to apologize for something small.\n• To reply to a thank-you, the simplest answer is **いいえ** (\"not at all\"). どういたしまして (\"you're welcome\") also exists, but it sounds a bit stiff and textbook-like and is less common in everyday speech than you might expect. いいえ (or いえいえ) is the safe choice. いいえ is literally the polite \"no\": here, \"no need to thank me\".\n• Going further (Sakubi): with friends, \"yes\" and \"no\" are usually うん (yeah) and ううん (nope). In speech they are told apart above all by the tone of voice, so listen to the melody, not just the sounds. Keep はい and いいえ for polite speech.",
       "structure": "thanks: ありがとうございます (casual: ありがとう) · excuse me / sorry: すみません · reply to a thank-you: いいえ",
       "examples": [
         { "jp": "どうも ありがとうございます。— いいえ。", "kana": "どうも ありがとうございます。— いいえ。", "romaji": "Dōmo arigatō gozaimasu. — Iie.", "en": "Thank you very much. — Not at all.", "noAnat": true },
@@ -96,7 +96,8 @@
       "pitfalls": [
         "Using just ありがとう with a teacher or a stranger: it sounds too familiar. With them, ありがとうございます.",
         "Thinking すみません only means \"sorry\". It is also the \"excuse me\" for getting someone's attention: calling out すみません！ in a restaurant is normal and polite.",
-        "Translating \"you're welcome\" as どういたしまして every time: it can sound stiff. A short いいえ (or いえいえ) is the everyday reply."
+        "Translating \"you're welcome\" as どういたしまして every time: it can sound stiff. A short いいえ (or いえいえ) is the everyday reply.",
+        "Spelling the long o with お: ありがとお ✗ → ありがとう ✓, おはよお ✗ → おはよう ✓. The long o is almost always written with う (lesson 00-1)."
       ],
       "howToStudy": [
         "Speaking: act out pairs aloud. Say どうも ありがとうございます and answer いいえ; then say すみません！ as if calling a waiter.",
@@ -110,7 +111,7 @@
       "gc": null,
       "title": "はじめまして・よろしく おねがいします",
       "gloss": "the first-introduction formula",
-      "explanation": "To introduce yourself for the first time, Japanese uses a three-part formula, almost always in this order:\n• **はじめまして。** \"How do you do?\" Literally something like \"for the first time\". It is only for a first meeting.\n• **(name) です。** \"I'm (name).\" For now, use 〜です as a fixed block. In lesson 01-1 you will understand the full sentence (わたしは 〜です).\n• **よろしく おねがいします。** It has no direct translation: roughly \"please treat me kindly\" or \"I hope we get along\". In an introduction, English \"Nice to meet you\" is the closest. It closes the introduction, usually with a slight bow (lesson 01-1).\n• Among friends, just よろしく is fine. In a more formal situation, どうぞ よろしく おねがいします is more careful.\n• よろしく おねがいします also shows up outside introductions — when asking a favor or when starting to work together: a general \"I'm counting on you\".",
+      "explanation": "To introduce yourself for the first time, Japanese uses a three-part formula, almost always in this order:\n• **はじめまして。** \"How do you do?\" Literally something like \"for the first time\". It is only for a first meeting.\n• **(name) です。** \"I'm (name).\" **です** is a polite \"is / am\", and unlike English it comes **after** the word it goes with: ルーカスです is literally \"Lucas am\". There is no word for \"I\" in this sentence: Japanese leaves out whatever is obvious, and in an introduction it is obvious who you mean. In lesson 01-1 you will see the full sentence (わたしは 〜です).\n• **よろしく おねがいします。** It has no direct translation: roughly \"please treat me kindly\" or \"I hope we get along\". In an introduction, English \"Nice to meet you\" is the closest. It closes the introduction, usually with a slight bow (lesson 01-1).\n• Among friends, just よろしく is fine. In a more formal situation, どうぞ よろしく おねがいします is more careful.\n• よろしく おねがいします also shows up outside introductions — when asking a favor or when starting to work together: a general \"I'm counting on you\".",
       "structure": "はじめまして。 [name] です。 よろしく おねがいします。",
       "examples": [
         { "jp": "はじめまして。ルーカスです。よろしく おねがいします。", "kana": "はじめまして。ルーカスです。よろしく おねがいします。", "romaji": "Hajimemashite. Rūkasu desu. Yoroshiku onegaishimasu.", "en": "How do you do? I'm Lucas. Nice to meet you." },
@@ -121,7 +122,7 @@
         "Using はじめまして with someone you have already met: it is only for the first meeting.",
         "Putting さん on your own name: ルーカスさんです ✗ → ルーカスです ✓. さん is only for other people (lesson 01-1).",
         "Translating よろしく おねがいします word by word. Treat it as a formula: it closes the introduction and shows goodwill.",
-        "Being surprised by family names: in formal situations, Japanese people usually introduce themselves by their family name (すずきです)."
+        "Calling someone you have just met by the bare name they gave: in formal situations Japanese people usually introduce themselves by their family name (すずきです), and you call them by that name plus さん: すずき ✗ (too familiar) → すずきさん ✓."
       ],
       "howToStudy": [
         "Speaking: record your full introduction (はじめまして。〜です。よろしく おねがいします。) and listen to it. Repeat until it comes out with no pauses.",
@@ -135,7 +136,7 @@
       "gc": null,
       "title": "Numbers from 0 to 10",
       "gloss": "and the double readings of 4, 7 and 9",
-      "explanation": "The numbers from 0 to 10 are the base of everything: from 11 to 100, you just combine them.\n• 0 ゼロ (also れい) · 1 いち · 2 に · 3 さん · 4 よん／し · 5 ご\n• 6 ろく · 7 なな／しち · 8 はち · 9 きゅう／く · 10 じゅう\n• **4, 7 and 9 have two readings.** For the number on its own and in the tens, prefer **よん, なな and きゅう**: they are the safest. し, しち and く appear in some counters and fixed words. For clock times (lesson 01-2), each number has its preferred reading.\n• A common explanation is that し is avoided because it sounds the same as a word meaning \"death\", and く like one meaning \"suffering\".\n• Watch the long vowels: じゅう (10) and きゅう (9) have う. Without it, じゅ and きゅ are not numbers.\n• ろく uses the tapped r (like the \"tt\" in American \"butter\"), not an English r.",
+      "explanation": "The numbers from 0 to 10 are the base of everything: from 11 to 100, you just combine them.\n• 0 ゼロ (also れい) · 1 いち · 2 に · 3 さん · 4 よん／し · 5 ご\n• 6 ろく · 7 なな／しち · 8 はち · 9 きゅう／く · 10 じゅう\n• **4, 7 and 9 have two readings.** For the number on its own and in the tens, prefer **よん, なな and きゅう**: they are the safest. し, しち and く appear in some counters and fixed words. (よん and なな were in fact borrowed from Japan's native way of counting, which you will meet in lesson 05-3.) For clock times (lesson 01-2), each number has its preferred reading.\n• A common explanation is that し is avoided because it sounds the same as a word meaning \"death\", and く like one meaning \"suffering\".\n• Watch the long vowels: じゅう (10) and きゅう (9) have う. Without it, じゅ and きゅ are not numbers.\n• ろく uses the tapped r (like the \"tt\" in American \"butter\"), not an English r.\n• Going further (Sakubi): Japanese has **two sets of numbers**. いち, に, さん… came from Chinese; a native set (ひとつ, ふたつ, みっつ…) is also used. Both are used for counting things. And a number never attaches straight to a noun: it needs a counter word, a bit like English \"three **cups** of coffee\", and each counter usually takes one set or the other. Both come in lesson 05-3.",
       "structure": "0 ゼロ · 1 いち · 2 に · 3 さん · 4 よん／し · 5 ご · 6 ろく · 7 なな／しち · 8 はち · 9 きゅう／く · 10 じゅう",
       "examples": [
         { "jp": "よん／し", "kana": "よん／し", "romaji": "yon / shi", "en": "4 · prefer よん", "noAnat": true },
@@ -144,7 +145,7 @@
       ],
       "pitfalls": [
         "Forgetting the long う: じゅ ✗ → じゅう ✓ (10), きゅ ✗ → きゅう ✓ (9).",
-        "Using し, しち and く in the tens: the standard forms are よんじゅう (40), ななじゅう (70) and きゅうじゅう (90).",
+        "Using し and く in the tens: しじゅう ✗ → よんじゅう ✓ (40), くじゅう ✗ → きゅうじゅう ✓ (90). For 70, ななじゅう is the safe choice; しちじゅう is also heard, especially from older speakers.",
         "Confusing し (4) and しち (7) in a fast list: one more reason to prefer よん and なな.",
         "Reading ろく with an English r. It is the quick tap: \"ro-ku\"."
       ],
@@ -186,7 +187,7 @@
     { "order": 3, "kind": "app", "title": "ヅオリンゴー · Drills → Numbers", "where": "ヅオリンゴー · Drills", "url": "", "when": "At the end of the lesson and in the next sessions, until you can count to 100 without stumbling" }
   ],
   "homework": {
-    "intro": "Do it by hand in your notebook, writing the Japanese in hiragana. Only then open the answer key, item by item. Circle what you got wrong and redo it in your next session.",
+    "intro": "Do it by hand in your notebook, writing the Japanese in kana: hiragana, except ゼロ and names, which go in katakana. Only then open the answer key, item by item. Circle what you got wrong and redo it in your next session.",
     "tasks": [
       {
         "id": "h1",
@@ -209,8 +210,8 @@
           { "q": "0", "a": { "jp": "ゼロ", "romaji": "zero" }, "note": "Also れい." },
           { "q": "14", "a": { "jp": "じゅうよん", "romaji": "jūyon" }, "note": "You will also hear じゅうし." },
           { "q": "27", "a": { "jp": "にじゅうなな", "romaji": "nijūnana" }, "note": "Also にじゅうしち." },
-          { "q": "39", "a": { "jp": "さんじゅうきゅう", "romaji": "sanjūkyū" } },
-          { "q": "70", "a": { "jp": "ななじゅう", "romaji": "nanajū" } },
+          { "q": "39", "a": { "jp": "さんじゅうきゅう", "romaji": "sanjūkyū" }, "note": "You may also hear さんじゅうく, but きゅう is the safer choice." },
+          { "q": "70", "a": { "jp": "ななじゅう", "romaji": "nanajū" }, "note": "You may also hear しちじゅう; ななじゅう is the safe choice." },
           { "q": "100", "a": { "jp": "ひゃく", "romaji": "hyaku" }, "note": "No いち in front." }
         ]
       },
@@ -237,16 +238,16 @@
       }
     ],
     "workbook": [
-      { "p": 13, "t": "あいさつ Greetings", "tip": "Do it after points 4a to 4c." },
+      { "p": 13, "t": "あいさつ Greetings", "tip": "Do it after points 4a to 4c and the culture note (いってきます, ただいま…)." },
       { "p": 15, "t": "すうじ Numbers", "tip": "Do it after points 4d and 4e. Check it with the official Genki Answer Key." }
     ]
   },
   "practice": [
-    { "tool": "Wagotabi", "what": "Play normally. Whenever a greeting or a thank-you shows up in the dialogue (こんにちは, ありがとう, すみません…), pause, read it aloud and note in your notebook the situation in which the character used it.", "min": 10 },
-    { "tool": "ヅオリンゴー", "what": "Drills → Numbers: 2 rounds. If you still stumble on some letters, also do Kana → Free practice.", "min": 10 },
+    { "tool": "Wagotabi", "what": "Play normally. Whenever a greeting or a thank-you shows up in the dialogue (こんにちは, ありがとう, すみません…), pause, read it aloud and note in your notebook the situation in which the character used it. Save one of those lines in ヅオリンゴー's Mining (⛏), with its translation, so it comes back as an SRS card: your first mined sentence.", "min": 10 },
+    { "tool": "ヅオリンゴー", "what": "Drills → Numbers: 2 rounds. Then Review: this lesson's greetings and numbers are already part of the Lesson 1 vocabulary in the SRS, so you can start that deck now. Do all of today's reviews (🌊 All) every day; a steady pace beats cramming. If you still stumble on some letters, also do Kana → Free practice.", "min": 10 },
     { "tool": "Shadowing", "what": "Tap 🔊 on each greeting and repeat along 3 times, keeping the long vowels (おはよう, ありがとう, さようなら).", "min": 5 },
     { "tool": "Speaking", "what": "Record your self-introduction (homework h4) in 15 seconds or less. Listen and check that はじめまして and よろしく おねがいします came out without pauses.", "min": 5 },
-    { "tool": "Numbers in daily life", "what": "Count in Japanese whatever you come across: the stairs, your steps to the corner, the items on your shopping list. Go up to 100 when you can.", "min": 5 }
+    { "tool": "Getting ready for Lesson 1", "what": "Install Yomitan, a free pop-up dictionary for your browser, and import a dictionary (JMdict) in its settings, as its welcome page explains. Hold Shift over a Japanese word on any web page and it shows the reading and meaning; from Lesson 1 on, that is how you will look up words in real Japanese before mining them. Also know that block 6 usually links a section of Sakubi, a free grammar guide, as it did in lessons 00-1 and 00-2: read each one through to understand it, not to memorize it. The grammar sticks by meeting it again and again in real Japanese.", "min": 5 }
   ],
   "culture": {
     "title": "Leaving home and coming back",
@@ -263,5 +264,9 @@
     "I can write any number up to 100 in hiragana, with the long う of じゅう and きゅう.",
     "I did the homework, checked it against the answer key and redid what I got wrong.",
     "I did Workbook pages 13 and 15."
+  ],
+  "credits": [
+    "Explanations adapted in part from Sakubi (public domain, CC0) — sakubi.neocities.org",
+    "Study method informed by the DJT Guide to Japanese and its Resource Guide — djtguide.neocities.org/guide"
   ]
 }

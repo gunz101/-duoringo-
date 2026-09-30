@@ -14,9 +14,9 @@
     "total": "60–75 min",
     "blocks": [
       { "t": "Warm-up: say 10 verbs in 〜ます out loud (lesson 03-1), as fast as you can", "min": 5 },
-      { "t": "Vocabulary: the past-time words (きのう, けさ, せんしゅう…) with 🔊, repeating each one twice", "min": 10 },
+      { "t": "Vocabulary: the past-time words (きのう, けさ, せんしゅう…) with 🔊, repeating each one twice. Read 土曜日 and 日曜日 as whole words: kanji stick best inside words you use", "min": 10 },
       { "t": "Grammar: the 2 points, saying the conjugations out loud and one 🔬 for each", "min": 20 },
-      { "t": "Lesson 4 video (block 6), pausing on the examples", "min": 10 },
+      { "t": "Block 6: the Lesson 4 video, pausing on the examples — or one Sakubi section from block 6, read once straight through (aim to understand, not to memorize)", "min": 10 },
       { "t": "Notebook homework + checking it against the answer key", "min": 20 },
       { "t": "Checklist (block 10) + write your questions in the lesson notebook", "min": 5 }
     ]
@@ -56,7 +56,7 @@
       "gc": "4-3",
       "title": "でした / じゃなかったです",
       "gloss": "was · was not",
-      "explanation": "です has a past tense too. It's the X は Y です sentence from lesson 01-1, only talking about before:\n• **でした**: was, were. きのうは 日曜日でした。\n• **じゃなかったです**: was not, were not. It's the past of じゃないです (lesson 02-3).\n• **じゃありませんでした**: the same meaning, a little more formal. It's the past of じゃありません. Both are correct: pick one to speak with and learn to recognize the other.\nHow to build the negative without getting lost: じゃない becomes じゃ**なかった** (なかった is the past of ない), and the です at the end just makes it polite. Remember this なかった: it comes back with adjectives (lesson 05-2).\nThe blocks of the sentence don't change: the topic takes は and the predicate comes at the end. **Only the end of the sentence carries the tense**, present or past. In English the tense can show up early (\"**Was** Maria a student…?\"); in Japanese you only find out at the last word. So read from the predicate: it tells you whether it's now or before.",
+      "explanation": "です has a past tense too. It's the X は Y です sentence from lesson 01-1, only talking about before. Japanese has just **two tenses**: the non-past (です: now, or later) and the past (でした).\n• **でした**: was, were. きのうは 日曜日でした。\n• **じゃなかったです**: was not, were not. It's the past of じゃないです (lesson 02-3).\n• **じゃありませんでした**: the same meaning, a little more formal. It's じゃありません + でした: ません has no past of its own, so it borrows でした, the past of です. Both negatives are correct: pick one to speak with and learn to recognize the other.\n• As in lesson 02-3, じゃ is the spoken form of では: in formal writing you will also see ではありませんでした.\nHow to build the negative without getting lost: じゃない becomes じゃ**なかった** (なかった is the past of ない), and the です at the end just makes it polite. Remember this なかった: it comes back with adjectives (lesson 05-2).\nThe blocks of the sentence don't change: the topic takes は and the predicate comes at the end. **Only the end of the sentence carries the tense**, present or past. In English the tense can show up early (\"**Was** Maria a student…?\"); in Japanese you only find out at the last word. So read from the predicate: it tells you whether it's now or before.\n• でした is the polite past. Among friends, people use the past of だ, だった (lesson 09-1).",
       "structure": "[X] は [N] でした。 · [X] は [N] じゃなかったです／じゃありませんでした。",
       "examples": [
         { "jp": "きのうは 日曜日でした。", "kana": "きのうは にちようびでした。", "romaji": "Kinō wa nichiyōbi deshita.", "en": "Yesterday was Sunday. [lit. as for yesterday, (it) was Sunday]" },
@@ -65,9 +65,9 @@
       ],
       "pitfalls": [
         "じゃないでした ✗ doesn't exist. The negative past is じゃなかったです ✓ or じゃありませんでした ✓.",
-        "でした doesn't go after a verb: いきましたでした ✗. でした is for nouns (and, in lesson 05-2, for な-adjectives; い-adjectives have their own past, without でした). Verbs have their own past too (point 4b).",
+        "でした doesn't go after a verb: いきましたでした ✗ → いきました ✓. でした is for nouns (and, in lesson 05-2, for な-adjectives; い-adjectives have their own past, without でした). Verbs have their own past (point 4b).",
         "The tense lives at the end of the sentence: きのうは 日曜日です ✗ → きのうは 日曜日でした ✓. With きのう, the predicate must be in the past.",
-        "でした is the polite form. Casual speech among friends uses another one (だった), which comes in lesson 09-1."
+        "でした is already the past of です, so ます never joins it: がくせいでしました ✗ → がくせいでした ✓."
       ],
       "howToStudy": [
         "Say 3 true sentences about yesterday: きのうは (day of the week) でした。 きのうは やすみでした／やすみじゃなかったです。",
@@ -81,7 +81,7 @@
       "gc": "4-4",
       "title": "〜ました / 〜ませんでした",
       "gloss": "did · didn't",
-      "explanation": "The polite past of verbs is easy, because you already know how to make 〜ます (lesson 03-1). Just change the ending:\n• 〜ます → **〜ました** (did): たべます → たべました.\n• 〜ません → **〜ませんでした** (didn't): たべません → たべませんでした. It's ません + でした.\n• It works for all three groups, including the irregulars: します → しました, きます → きました. No exceptions — much simpler than English irregular pasts (go → went, eat → ate).\n• あります → ありました, います → いました: \"there was, had, was (somewhere)\".\nNothing else in the sentence changes: topic (は), time (きのう, 日曜日に), place (で), object (を) and, at the end, the verb in the past. Keep reading from the predicate: it tells you whether it happened or not.\n• Question: 〜ましたか。 Answer: はい、〜ました。 / いいえ、〜ませんでした。\n• Words that call for the past: きのう, けさ, せんしゅう, せんげつ, きょねん. They take no に (lesson 03-3); days of the week and clock times take に (日曜日に, 十時に).\n• A past form you will use a lot: わかりました (\"I understand\", \"got it\").",
+      "explanation": "The polite past of verbs is easy, because you already know how to make 〜ます (lesson 03-1). Keep the stem (the part before ます: たべ, のみ, かき, し…) and change only the ending:\n• 〜ます → **〜ました** (did): たべます → たべました.\n• 〜ません → **〜ませんでした** (didn't): たべません → たべませんでした. ません has no past of its own, so it borrows でした, the past of です (point 4a).\n• It works for all three groups, including the irregulars: します → しました, きます → きました. No exceptions — much simpler than English irregular pasts (go → went, eat → ate).\n• あります → ありました, います → いました: \"there was, had, was (somewhere)\".\n• Japanese verbs have **two tenses**: the non-past 〜ます (a habit, the future — あした いきます — or a state that holds now, like あります or わかります; never an action in progress) and the past 〜ました. There is no separate future form.\nNothing else in the sentence changes: topic (は), time (きのう, 日曜日に), place (で), object (を) and, at the end, the verb in the past. Keep reading from the predicate: it tells you whether it happened or not.\n• Question: 〜ましたか。 Answer: はい、〜ました。 / いいえ、〜ませんでした。\n• Words that call for the past: きのう, けさ, せんしゅう, せんげつ, きょねん. They take no に (lesson 03-3); days of the week and clock times take に (日曜日に, 十時に).\n• A past form you will use a lot: わかりました (\"I understand\", \"got it\").\n• Going further (Sakubi): the Japanese past often just means \"done, complete\", even for something that happened a second ago. That's why わかりました is \"got it\" (the understanding is now complete), and why people who find something they were looking for say あ、ありました！ (\"Oh, there it is!\").",
       "structure": "[time] [place] で [object] を [verb]ました／ませんでした。",
       "examples": [
         { "jp": "けさ コーヒーを のみました。", "kana": "けさ コーヒーを のみました。", "romaji": "Kesa kōhī o nomimashita.", "en": "I drank coffee this morning." },
@@ -90,9 +90,9 @@
       ],
       "pitfalls": [
         "A past question needs a past answer: いきましたか。— いいえ、いきません ✗ (that means \"I don't go / I won't go\") → いいえ、いきませんでした ✓.",
-        "Don't forget the でした in the negative: たべません (I don't eat / I won't eat) ≠ たべませんでした (I didn't eat).",
+        "Don't forget the でした in the negative. \"I didn't eat breakfast\": あさごはんを たべません ✗ (that's \"I don't / I won't eat breakfast\") → あさごはんを たべませんでした ✓.",
         "Past-time words take no に: きのうに いきました ✗ → きのう いきました ✓.",
-        "\"I haven't eaten yet\" is not たべませんでした. たべませんでした is \"I didn't eat\" (on that occasion). For \"not yet\", Japanese has a different structure (lesson 09-3)."
+        "\"I haven't eaten yet\" is not まだ たべませんでした ✗: たべませんでした is \"I didn't eat\" (on that occasion). \"Not yet\" is まだ たべていません ✓, a structure you will learn in lesson 09-3."
       ],
       "howToStudy": [
         "ヅオリンゴー → Drills → Conjugation, in the polite past: 10 verbs, saying the form out loud before you answer.",
@@ -164,10 +164,10 @@
     ]
   },
   "practice": [
-    { "tool": "Wagotabi", "what": "Play normally. Hunt for verbs ending in 〜ました or 〜ませんでした and for sentences with でした. For each one, say the present form out loud (いきました → いきます). Copy 2 of those lines into your notebook.", "min": 15 },
-    { "tool": "ヅオリンゴー", "what": "Drills → Conjugation, in the polite past: 15 verbs. Then Practice L4.", "min": 10 },
+    { "tool": "Wagotabi", "what": "Play normally. Hunt for verbs ending in 〜ました or 〜ませんでした and for sentences with でした. For each one, say the present form out loud (いきました → いきます). Don't try to memorize them: the more past forms you meet in real Japanese, the faster you recognize them at a glance. Copy 2 of those lines into your notebook.", "min": 15 },
+    { "tool": "ヅオリンゴー", "what": "Review → 🌊 All: every card due today, including the Lesson 4 time words. Spaced repetition only works if you review every day — if the pile gets too big, add fewer new words instead of skipping reviews. Then Drills → Conjugation in the polite past (10 verbs) and Practice L4.", "min": 10 },
     { "tool": "ヅオリンゴー", "what": "Journal: write 3 sentences in the past about what you did today, and check the blocks with \"Anatomy of what I wrote\".", "min": 10 },
-    { "tool": "Shadowing", "what": "Tap 🔊 on each example in this lesson and repeat along 3 times. Notice that in ました and でした the i of し is often almost silent (\"mash'ta\", \"desh'ta\"), just like the u of す in です and ます.", "min": 5 },
+    { "tool": "Shadowing", "what": "Tap 🔊 on each example in this lesson and repeat along 3 times. Notice that in ました and でした the i of し is often almost silent (\"mash'ta\", \"desh'ta\"), just like the u of す in です and ます. Just copy what you hear; you don't need the rules behind it yet.", "min": 5 },
     { "tool": "Speaking", "what": "Record your weekend story (homework h4) in 30 seconds or less. Listen and check that every verb came out in the past.", "min": 5 }
   ],
   "culture": {
@@ -185,5 +185,9 @@
     "I can tell about my weekend in 4–5 sentences in the past.",
     "I did the homework, checked it against the answer key and redid what I got wrong.",
     "I did Workbook pages 43–45."
+  ],
+  "credits": [
+    "Explanations adapted in part from Sakubi (public domain, CC0) — sakubi.neocities.org",
+    "Study method informed by the DJT Guide to Japanese — djtguide.neocities.org/guide"
   ]
 }

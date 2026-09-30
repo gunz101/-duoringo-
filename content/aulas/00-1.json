@@ -63,7 +63,7 @@
       "gc": null,
       "title": "Mora and the 5 vowels",
       "gloss": "the rhythm of Japanese",
-      "explanation": "Japanese doesn't count syllables the way English does: it counts **moras**, beats of equal length. Almost every hiragana letter is one mora. Think of a metronome: に・ほ・ん is 3 equal beats.\n• **There is no strong stressed syllable** like the \"MA\" in \"toMAto\" or the \"HO\" in \"HOtel\". No mora is longer or louder than the others.\n• There are only **5 vowels**, and each one always has the same sound: あ a (like the \"a\" in \"father\", but short) · い i (like \"ee\" in \"see\", but short) · う u · え e (like the \"e\" in \"pet\") · お o (like \"oh\", cut short, with no \"w\" at the end).\n• **Keep every vowel pure.** English turns vowels into glides (\"day\" ends in a y sound, \"go\" in a w sound) and weakens unstressed vowels to \"uh\". Japanese does neither: ね is \"ne\", never \"nay\", and からて (karate) keeps a clear \"a\" in both of its first two beats.\n• う is not rounded like the \"oo\" in \"food\": the lips stay relaxed, **no pouting**, and the sound sits a little further toward the middle of the mouth.\n• Between voiceless consonants (k, s, t, h, p, ch, sh…), or at the end of a sentence right after one of them, い and う often almost disappear in speech: すき (liked) sounds close to \"ski\", and です and ます sound close to \"dess\" and \"mass\". Listen for it in the 🔊, but don't worry about imitating it yet.",
+      "explanation": "Japanese doesn't count syllables the way English does: it counts **moras**, beats of equal length. Almost every hiragana letter is one mora. Think of a metronome: に・ほ・ん is 3 equal beats.\n• **There is no strong stressed syllable** like the \"MA\" in \"toMAto\" or the \"HO\" in \"HOtel\". No mora is longer or louder than the others.\n• There are only **5 vowels**, and each one always has the same sound: あ a (like the \"a\" in \"father\", but short) · い i (like \"ee\" in \"see\", but short) · う u · え e (like the \"e\" in \"pet\") · お o (like \"oh\", cut short, with no \"w\" at the end). These descriptions only get you close: the 🔊 and native recordings are the real reference.\n• **Kana spelling is very regular.** In English, \"ough\" is read differently in \"though\", \"through\" and \"tough\". In Japanese, a letter is read the same way in every word — the few exceptions, like the particle は read \"wa\", are covered in this lesson. Once you know a letter, you can read any word that uses it.\n• **Keep every vowel pure.** English turns vowels into glides (\"day\" ends in a y sound, \"go\" in a w sound) and weakens unstressed vowels to \"uh\". Japanese does neither: ね is \"ne\", never \"nay\", and からて (karate) keeps a clear \"a\" in both of its first two beats.\n• う is not rounded like the \"oo\" in \"food\": the lips stay relaxed, **no pouting**, and the sound sits a little further toward the middle of the mouth.\n• Between voiceless consonants (k, s, t, h, p, ch, sh…), or at the end of a sentence right after one of them, い and う often almost disappear in speech: すき (liked) sounds close to \"ski\", and です and ます sound close to \"dess\" and \"mass\". Saying the full vowel is not wrong, just a little stiff. Listen for it in the 🔊, but don't study the rules yet: imitate what you hear, and the pattern will come with listening.",
       "structure": "1 letter = 1 mora (beat) · あ a · い i · う u · え e · お o",
       "examples": [
         { "jp": "あおい", "kana": "あおい", "romaji": "aoi", "en": "blue · 3 moras (あ・お・い): each vowel keeps its full sound", "noAnat": true },
@@ -88,7 +88,7 @@
       "gc": null,
       "title": "The 46 basic letters, row by row",
       "gloss": "the あいうえお chart",
-      "explanation": "Hiragana is organized in a chart of **rows**. Each row is one consonant combined with the 5 vowels, always in the order a-i-u-e-o. Learning with the chart is much easier than memorizing letter by letter.\n• あ い う え お · か き く け こ · さ し す せ そ · た ち つ て と · な に ぬ ね の\n• は ひ ふ へ ほ · ま み む め も · や ゆ よ · ら り る れ ろ · わ を · ん\n• **Irregulars**: し = shi (as in \"she\"), ち = chi (as in \"cheese\"), つ = tsu (the \"ts\" at the end of \"cats\", plus u — one beat, and the t is always there), ふ = fu (a soft puff of air between the lips, without the teeth touching the lower lip as in English f).\n• **ら り る れ ろ**: the Japanese r is a quick tap of the tongue just behind the upper teeth, like the \"tt\" in American \"butter\" or \"water\" — never the English r. Sometimes it sounds close to a light l or d.\n• **は** is a light h, as in \"hello\"; **ひ** is a little softer, closer to the h in \"huge\".\n• **ん** is the only letter that is just a consonant, and it is a full mora. Before ば, ま and ぱ it sounds like \"m\" (しんぶん). Before a vowel it stays separate: きんえん is き・ん・え・ん. At the end of a word (にほん, しんぶん) it is still a whole beat: don't fold it into the syllable before it — hold the nasal sound for one mora, に・ほ・ん.\n• **を** (o) only appears as a particle. The particles は and へ are read \"wa\" and \"e\" (lessons 01-1 and 03-2).",
+      "explanation": "Hiragana is organized in a chart of **rows**. Each row is one consonant combined with the 5 vowels, always in the order a-i-u-e-o. Learning with the chart is much easier than memorizing letter by letter.\n• あ い う え お · か き く け こ · さ し す せ そ · た ち つ て と · な に ぬ ね の\n• は ひ ふ へ ほ · ま み む め も · や ゆ よ · ら り る れ ろ · わ を · ん\n• **Only four letters are irregular**: し = shi (as in \"she\"), ち = chi (as in \"cheese\"), つ = tsu (the \"ts\" at the end of \"cats\", plus u — one beat, and the t is always there), ふ = fu (a soft puff of air between the lips, without the teeth touching the lower lip as in English f). Every other letter is simply its row's consonant + the vowel.\n• **ら り る れ ろ**: the Japanese r is a quick tap of the tongue just behind the upper teeth, like the \"tt\" in American \"butter\" or \"water\" — never the English r. Sometimes it sounds close to a light l or d.\n• **は** is a light h, as in \"hello\"; **ひ** is a little softer, closer to the h in \"huge\".\n• **ん** is the only letter that is just a consonant, and it is a full mora. Its sound **blends into whatever comes next**, the way English \"input\" often comes out as \"imput\": before ば, ぱ and ま it sounds like \"m\" (しんぶん, えんぴつ); before か and が it sounds like the \"ng\" in \"sing\" (げんき, healthy). At the end of an utterance (a word said on its own, or before a pause) it is a soft nasal hum, closer to \"ng\" than to a crisp English n. Before t, d, n or r it is a plain n (こんにちは). Before a vowel it stays separate: きんえん is き・ん・え・ん. Wherever it is, it is still a whole beat: don't fold it into the syllable before it — hold the nasal sound for one mora, に・ほ・ん.\n• **を** (o) only appears as a particle, and in speech it sounds exactly like お. In songs you may hear it sung \"wo\"; when you speak, say \"o\". The particles は and へ are read \"wa\" and \"e\" (lessons 01-1 and 03-2).\n• Going further (Sakubi): Japanese spelling has only a handful of quirks. Besides the particles は, へ and を, the most common is the verb いう (to say), which in its basic (dictionary) form is pronounced ゆう; its other forms keep the い. You will meet it later; for now, just know that the quirks are few.",
       "structure": "[consonant] + a · i · u · e · o → か き く け こ · さ し す せ そ…",
       "examples": [
         { "jp": "さくら", "kana": "さくら", "romaji": "sakura", "en": "cherry blossom · three equal beats; ら with the tapped r", "noAnat": true },
@@ -98,12 +98,12 @@
       "pitfalls": [
         "Reading ら with an English r, tongue curled back. In さくら, the r is a quick tap, like the \"tt\" in American \"butter\".",
         "Dropping the t of つ: English speakers often say \"tsunami\" as \"soo-nami\". つ keeps it: \"tsu\", in one beat — ちかてつ is chi-ka-te-tsu.",
-        "Joining ん to the next vowel: きんえん (no smoking) has 4 moras; きねん, with 3, is a different word.",
+        "Joining ん to the next vowel: き・ね・ん ✗ → き・ん・え・ん ✓. きんえん (no smoking) has 4 moras; きねん, with 3, is a different word.",
         "Mixing up look-alike letters: ぬ × め, ね × れ × わ, る × ろ, さ × ち, は × ほ. ぬ and る end in a loop; め and ろ don't."
       ],
       "howToStudy": [
-        "ヅオリンゴー → Kana → Kana Trail: move one row at a time, and only go on to the next row when you can read the current one without hesitating.",
-        "Write each row by hand 3 times, reading it aloud. Check the stroke order in Kana → Write.",
+        "ヅオリンゴー → Kana → Kana Trail: move one row at a time, and only go on to the next row when you can read the current one without hesitating. Short daily sessions work better than one long one.",
+        "Write each row by hand 3 times, reading it aloud: reading and writing are separate skills, and each needs its own practice. Check the stroke order in Kana → Write. If a letter won't stick, invent a picture for it: ね ends in a curled tail, like a sleeping cat (ねこ).",
         "Speaking: recite the chart across (あいうえお, かきくけこ…) and then down (あかさたな…), like a rhythm."
       ],
       "flag": null
@@ -113,7 +113,7 @@
       "gc": null,
       "title": "Dakuten ゛ and handakuten ゜",
       "gloss": "the little marks that change the sound",
-      "explanation": "With two little marks at the top right of a letter you get **25 new letters** (23 new sounds, since ぢ and づ repeat じ and ず) without learning a single new shape.\n• **Dakuten ゛** (the two small strokes, also called てんてん) makes the consonant voiced: か→が (k→g), さ→ざ (s→z), た→だ (t→d), は→ば (h→b).\n• **Handakuten ゜** (the small circle, まる) only appears on the は row: は→ぱ (h→p).\n• が ぎ ぐ げ ご: the g is **always hard**. ぎ is \"gi\" as in \"give\" and げ is \"ge\" as in \"get\" — never the soft g of \"giant\" or \"gem\".\n• The irregulars carry over: し → じ (ji, as in \"jeep\"), ち → ぢ (also ji), つ → づ (zu), ふ → ぶ (bu). ず and づ sound like \"zu\", sometimes closer to \"dzu\" (like the \"ds\" in \"kids\").\n• ぢ and づ sound the same as じ and ず and are rare. They show up in a few words, such as はなぢ (nosebleed) and つづく (to continue). When in doubt, the usual spelling is じ and ず.",
+      "explanation": "With two little marks at the top right of a letter you get **25 new letters** (23 new sounds, since ぢ and づ repeat じ and ず) without learning a single new shape.\n• **Dakuten ゛** (the two small strokes, also called てんてん) makes the consonant voiced: か→が (k→g), さ→ざ (s→z), た→だ (t→d), は→ば (h→b).\n• **Handakuten ゜** (the small circle, まる) only appears on the は row: は→ぱ (h→p).\n• が ぎ ぐ げ ご: the g is **always hard**. ぎ is \"gi\" as in \"give\" and げ is \"ge\" as in \"get\" — never the soft g of \"giant\" or \"gem\".\n• The irregulars carry over: し → じ (ji, as in \"jeep\"), ち → ぢ (also ji), つ → づ (zu), ふ → ぶ (bu).\n• In standard Japanese, **ず and づ sound the same**: \"zu\" or \"dzu\" (like the \"ds\" in \"kids\"), and both are normal. **じ and ぢ also sound the same**: a j that can be soft, like the \"s\" in \"vision\", or harder, like the \"j\" in \"jeep\".\n• ぢ and づ are rare. They show up in a few words, such as はなぢ (nosebleed) and つづく (to continue). When in doubt, the usual spelling is じ and ず.\n• Going further (Sakubi): some speakers, often older ones, soften a g in the middle of a word into a nasal \"ng\", so かぎ can sound like \"ka-ngi\". It is a matter of personal accent, it sounds refined, and it is becoming rare. A hard g is always correct.",
       "structure": "か さ た は + ゛ → が ざ だ ば · は + ゜ → ぱ",
       "examples": [
         { "jp": "かき", "kana": "かき", "romaji": "kaki", "en": "persimmon (the fruit)", "noAnat": true },
@@ -138,7 +138,7 @@
       "gc": null,
       "title": "Combinations: きゃ, しゅ, ちょ…",
       "gloss": "an -i letter + small ゃ・ゅ・ょ",
-      "explanation": "Take a letter from the い column (き, し, ち, に, ひ, み, り, and also ぎ, じ, び, ぴ) and add a **small ゃ, ゅ or ょ**. The two letters become **a single mora**: きゃ = kya, しゅ = shu, ちょ = cho.\n• **Size matters.** The small letter merges with the one before it; a full-size one is a separate mora. Compare きょう (today, 2 moras: きょ・う) with きよう (skillful, 3 moras: き・よ・う).\n• With し, ち and じ, the sound becomes \"sha, shu, sho\", \"cha, chu, cho\" and \"ja, ju, jo\": しゃしん (photo), おちゃ (tea), じゅう (ten).\n• In ordinary hiragana, combinations are always an -i letter + ゃ, ゅ or ょ. Katakana creates others, which you will see in lesson 00-2.\n• When writing by hand, make the size difference clear: the small letter is about half size, tucked against the one before it.",
+      "explanation": "Take a letter from the い column (き, し, ち, に, ひ, み, り, and also ぎ, じ, び, ぴ) and add a **small ゃ, ゅ or ょ**. The two letters become **a single mora**: きゃ = kya, しゅ = shu, ちょ = cho.\n• **Size matters.** The small letter merges with the one before it; a full-size one is a separate mora. Compare きょう (today, 2 moras: きょ・う) with きよう (skillful, 3 moras: き・よ・う).\n• With し, ち and じ, the sound becomes \"sha, shu, sho\", \"cha, chu, cho\" and \"ja, ju, jo\": しゃしん (photo), おちゃ (tea), じゅう (ten). **The y disappears** here: ちゃ is \"cha\", never \"chya\". With every other letter the y stays: きゃ is \"kya\", びょ is \"byo\".\n• In ordinary hiragana, combinations are always an -i letter + ゃ, ゅ or ょ. Katakana creates others, which you will see in lesson 00-2.\n• When writing by hand, make the size difference clear: the small letter is about half size, tucked against the one before it.",
       "structure": "[-i letter] + small ゃ／ゅ／ょ = 1 mora · き + ゃ → きゃ",
       "examples": [
         { "jp": "おちゃ", "kana": "おちゃ", "romaji": "ocha", "en": "tea · 2 moras (お・ちゃ)", "noAnat": true },
@@ -148,7 +148,7 @@
       "pitfalls": [
         "Writing ゃ, ゅ or ょ full size: きよう means \"skillful\", not \"today\" (きょう). When in doubt, count the moras.",
         "Reading きょ as two syllables, \"ki-yo\": とうきょう is と・う・きょ・う, not \"To-ki-yo\", and Kyoto (きょうと) begins with the single beat きょ, not \"kee-yo\".",
-        "Reading しゃ as \"s-ya\": しゃ is \"sha\", so しゃしん (photo) is \"sha-shin\"."
+        "Adding a y after sh, ch or j: \"s-ya\", \"chya\" ✗ → しゃ = \"sha\", ちゃ = \"cha\" ✓. So しゃしん (photo) is \"sha-shin\" and おちゃ is \"o-cha\"."
       ],
       "howToStudy": [
         "Speaking: say びょういん and びよういん alternately, clapping on each mora (4 × 5). Record yourself and listen: can you tell them apart?",
@@ -162,7 +162,7 @@
       "gc": null,
       "title": "Small っ and long vowels",
       "gloss": "in Japanese, length changes meaning too",
-      "explanation": "Japanese writes down two things that English spelling doesn't mark: the **pause** and the **length**. Both change the meaning of a word.\n**Small っ** (a smaller つ) is a mora of silence: you get ready for the next consonant, hold it for a moment, then release it — like the held k in English \"bookkeeper\". In romaji, the consonant is doubled.\n• おと (sound) × おっと (husband) · さか (slope) × さっか (writer).\n• Before ち, romaji writes \"tch\": まっちゃ (matcha).\n• At the end of an utterance, っ marks an abrupt stop: えっ？ (\"Huh?!\").\n**A long vowel** is the same vowel lasting two moras. In hiragana, it is written with one extra vowel:\n• -a + あ: おかあさん (mother) · -i + い: おにいさん (older brother) · -u + う: すうじ (number).\n• -e + い, almost always: せんせい (in everyday speech it sounds like a long e). Sometimes -e + え: おねえさん (older sister).\n• -o + う, almost always: おはよう, とうきょう. Sometimes -o + お: おおきい (big).\n• おばさん (aunt) × おばあさん (grandmother) · おじさん (uncle) × おじいさん (grandfather). Shorten the vowel and you change the person!\n• In this course's romaji, a long vowel gets a macron: とうきょう = Tōkyō, おばあさん = obāsan. えい stays \"ei\" (sensei) and いい stays \"ii\".",
+      "explanation": "Japanese writes down two things that English spelling doesn't mark: the **pause** and the **length**. Both change the meaning of a word.\n**Small っ** (a smaller つ) is a mora of silence: your mouth gets into position for the next consonant, the air stops for one beat, and it is released only on the next letter — like the held k in English \"bookkeeper\". The consonant is not said twice. In romaji, it is written double.\n• っ lasts exactly as long as one extra vowel: きて (a form of \"come\", 2 beats) · きいて (a form of \"listen\", 3) · きって (stamp, 3). The first two are verb forms from Lesson 6; here, only count their beats.\n• おと (sound) × おっと (husband) · さか (slope) × さっか (writer).\n• Before ち, romaji writes \"tch\": まっちゃ (matcha).\n• At the end of an utterance, っ marks an abrupt stop: えっ？ (\"Huh?!\").\n**A long vowel** is the same vowel lasting two moras. This is not what \"long vowel\" means in English, where the \"long a\" of \"cake\" is simply a different sound from the a of \"cat\". In Japanese, a long vowel is **literally longer**: the same sound, held for one more beat. In hiragana, it is written with one extra vowel:\n• -a + あ: おかあさん (mother) · -i + い: おにいさん (older brother) · -u + う: すうじ (number).\n• -e + い, almost always: せんせい. In everyday speech it sounds like a long e (\"sensee\"); saying it carefully as e-i is also correct, just a little stiff. Sometimes -e + え: おねえさん (older sister).\n• -o + う, almost always: おはよう, とうきょう. Here the う is not a separate \"u\": you say a plain long o. Sometimes -o + お: おおきい (big).\n• おばさん (aunt) × おばあさん (grandmother) · おじさん (uncle) × おじいさん (grandfather). Shorten the vowel and you change the person!\n• In this course's romaji, a long vowel gets a macron: とうきょう = Tōkyō, おばあさん = obāsan. えい stays \"ei\" (sensei) and いい stays \"ii\".\n• Going further (Sakubi): not every \"o + う\" is a long o. In verb endings, the う is the verb's own ending: in おもう (to think) the う is its own beat, お・も・う. In fast speech it can sound close to a long o, but it is meant as o + u, while in とうきょう the う only lengthens the o. In the same way, not every \"e + い\" is a long e. You will meet verbs from lesson 03-1 on.",
       "structure": "っ = 1 mora of pause (doubled consonant) · long vowel = 2 moras (おばあさん, とうきょう)",
       "examples": [
         { "jp": "おばさん", "kana": "おばさん", "romaji": "obasan", "en": "aunt; middle-aged woman · 4 moras", "noAnat": true },
@@ -171,13 +171,13 @@
       ],
       "pitfalls": [
         "Ignoring the long vowel because it \"sounds the same\": おばさん (aunt) × おばあさん (grandmother). Hold the vowel for two beats.",
-        "Reading っ as \"tsu\": きって is \"kitte\", with a pause, not \"ki-tsu-te\". Small っ has no sound of its own.",
+        "Reading っ as \"tsu\": き・つ・て ✗ → き・っ・て ✓. きって is \"kitte\", with a pause: small っ has no sound of its own.",
         "Writing the long o with お where う is the norm: とおきょう ✗ → とうきょう ✓. Only some words use おお (おおきい); learn those as exceptions.",
         "Saying \"TOH-kyoh\" with a stressed first syllable: とうきょう is 4 moras of equal length, と・う・きょ・う."
       ],
       "howToStudy": [
         "Speaking: record yourself saying おばさん and おばあさん, おじさん and おじいさん. Listen: can you tell which is which from the audio alone?",
-        "Clap on each mora in きって (3), がっこう (4) and とうきょう (4).",
+        "Rhythm drill (adapted from Sakubi): say きて · きいて · きって, clapping 2 · 3 · 3. The long vowel and the っ pause each take one full clap. Then clap がっこう (4) and とうきょう (4).",
         "In your notebook, write 5 words with a long vowel from this lesson and underline the letter that only lengthens the vowel."
       ],
       "flag": null
@@ -187,7 +187,7 @@
       "gc": null,
       "title": "A first look at pitch",
       "gloss": "high and low, not loud and soft",
-      "explanation": "English marks the stressed syllable with **loudness and length** (a REcord × to reCORD). Japanese uses **pitch** instead: each mora is high or low, like the notes of a melody, and they all keep the same length. This is called **pitch accent** (アクセント).\n• In standard Tokyo Japanese, あめ \"rain\" starts high and falls; あめ \"candy\" starts low and rises.\n• Writing doesn't show pitch: both words are written あめ. Context almost always settles it.\n• Pitch varies by region (Osaka differs from Tokyo), and a wrong pitch rarely stops people from understanding you. So here it is only a **first look**: listen and imitate. The detailed study comes in lesson P-22.\n• Careful with the 🔊: it is a synthesized voice that only receives the kana. Since both words are written あめ, the 🔊 reads them **the same way**. To hear the difference, listen to a native speaker: the Genki audio, a video or an accent dictionary with audio.",
+      "explanation": "English marks the stressed syllable with **loudness and length** (a REcord × to reCORD). Japanese uses **pitch** instead: each mora is high or low, like the notes of a melody, and they all keep the same length. This is called **pitch accent** (アクセント). It is not stress, and it is not the tones of Chinese: it is the melody of each word.\n• **Japanese is not flat or robotic.** Like every language, it has its own music: words have their pitch patterns, and whole sentences rise and fall too.\n• In standard Tokyo Japanese, あめ \"rain\" starts high and falls; あめ \"candy\" starts low and rises.\n• Writing doesn't show pitch: both words are written あめ. Context almost always settles it.\n• Pitch varies by region (Osaka differs from Tokyo), and context usually rescues a wrong pitch. Still, pitch is a big part of sounding natural when you speak, so it gets its own lesson later (P-22). Here it is only a **first look**: listen and imitate.\n• Careful with the 🔊: it is a synthesized voice that only receives the kana. Since both words are written あめ, the 🔊 reads them **the same way**. To hear the difference, listen to a native speaker: the Genki audio, a video or an accent dictionary with audio.",
       "structure": "each mora: high or low · あめ high → low = rain · あめ low → high = candy",
       "examples": [
         { "jp": "あめ", "kana": "あめ", "romaji": "ame", "en": "rain · あ high, め low (the 🔊 can't show the pitch: listen to a native speaker)", "noAnat": true },
@@ -196,7 +196,8 @@
       "pitfalls": [
         "Confusing pitch with stress: raising the pitch doesn't mean saying it louder or longer. The length of the moras doesn't change.",
         "Freezing for fear of getting the pitch wrong. At the start, the rhythm (equal moras) and the long vowels matter much more for being understood.",
-        "Looking for pitch in the writing: kana doesn't show it. Only some dictionaries and specialized sites mark it."
+        "Looking for pitch in the writing: kana doesn't show it. Only some dictionaries and specialized sites mark it.",
+        "Speaking in a flat monotone to avoid stressing anything ✗ → imitate the rise and fall you hear in native audio ✓. Japanese has a melody; it just isn't made of loud syllables."
       ],
       "howToStudy": [
         "Speaking: say あめ both ways, humming the two notes (high-low and low-high), like a melody.",
@@ -256,7 +257,7 @@
       {
         "id": "h4",
         "type": "produce",
-        "prompt": "From memory, write the chart of the 46 basic letters in your notebook, row by row. Then write in hiragana 3 Japanese words you already know (food, sports, anime…) and count their moras.",
+        "prompt": "From memory, write the chart of the 46 basic letters in your notebook, row by row. Then write in hiragana 3 Japanese words you already know that are not loanwords (すし, からて, にんじゃ…; loanwords like ラーメン are written in katakana, lesson 00-2) and count their moras.",
         "items": [
           { "q": "The chart (check it letter by letter):", "a": { "jp": "あいうえお かきくけこ さしすせそ たちつてと なにぬねの はひふへほ まみむめも やゆよ らりるれろ わを ん", "romaji": "a i u e o / ka ki ku ke ko / sa shi su se so / ta chi tsu te to / na ni nu ne no / ha hi fu he ho / ma mi mu me mo / ya yu yo / ra ri ru re ro / wa o / n" }, "note": "Check the irregulars し, ち, つ and ふ. を sits in the わ row, and ん stands alone at the end." },
           { "q": "Model with 3 words you know:", "a": { "jp": "すし、からて、さくら", "romaji": "sushi, karate, sakura", "en": "sushi (2 moras), karate (3), cherry blossom (3)" }, "note": "Any words will do. Check: one letter = one mora, and a small ゃ, ゅ or ょ doesn't count on its own." }
@@ -275,7 +276,7 @@
     ]
   },
   "practice": [
-    { "tool": "Kana", "what": "ヅオリンゴー → Kana → Kana Trail: one new row per session, always reviewing the earlier ones. Only move on when you can read the current row without hesitating. Use Kana → Write for the stroke order.", "min": 15 },
+    { "tool": "Kana", "what": "ヅオリンゴー → Kana → Kana Trail: one new row per session, always reviewing the earlier ones. Only move on when you can read the current row without hesitating. Use Kana → Write for the stroke order. Kana is learned by plain repetition: drill little and often until reading is automatic, and cover the romaji as soon as you can. Then do all of today's reviews in Review → 🌊 All; if they start piling up, add new rows more slowly instead of skipping reviews.", "min": 15 },
     { "tool": "kana-flow", "what": "Adaptive practice: it keeps coming back to the letters you miss or read slowly, and its confusion hunt pairs up look-alikes (ぬ/め, る/ろ). New letters unlock gradually as the old ones stick. Once you know them all, use kana-speed-trainer to build speed.", "min": 10 },
     { "tool": "Wagotabi", "what": "Play normally and, in the menus and dialogues, look for words written only in hiragana. Read 5 of them aloud, mora by mora, and copy them into your notebook. You don't need to understand them: the goal here is to read the sounds.", "min": 10 },
     { "tool": "Shadowing", "what": "Tap 🔊 on each example in this lesson and repeat along 3 times, clapping on each mora.", "min": 5 },
@@ -296,5 +297,9 @@
     "I pronounce ら as a quick tap and keep every vowel pure, with no glide and no \"uh\" (ねこ, さけ, からて).",
     "I did the homework, checked it against the answer key and redid what I got wrong.",
     "I did Workbook pages 11 and 121–127."
+  ],
+  "credits": [
+    "Explanations adapted in part from Sakubi (public domain, CC0) — sakubi.neocities.org",
+    "Study method informed by the DJT Guide to Japanese — djtguide.neocities.org/guide"
   ]
 }

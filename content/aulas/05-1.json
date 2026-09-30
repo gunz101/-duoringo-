@@ -17,7 +17,7 @@
       { "t": "Warm-up: make 3 nouns negative with じゃないです (lesson 02-3) and read this lesson's vocabulary (block 3) aloud", "min": 5 },
       { "t": "Vocabulary: tap 🔊 on each adjective, repeat it twice and copy it into your notebook in two columns (い / な)", "min": 10 },
       { "t": "Grammar: the 3 points, each with its examples read aloud and one 🔬", "min": 25 },
-      { "t": "Lesson 5 video (block 6): only the part on the present tense and on adjectives before nouns", "min": 10 },
+      { "t": "Block 6: the Lesson 5 video (only the part on the present tense and adjectives before nouns) or the Sakubi section, as a second explanation. Aim to understand it, not to memorize it: the SRS and the homework do the memorizing", "min": 10 },
       { "t": "Notebook homework + checking it against the answer key", "min": 15 },
       { "t": "Checklist (block 10) + write your questions in the lesson notebook", "min": 5 }
     ]
@@ -61,7 +61,7 @@
       "gc": "5-1",
       "title": "い-adjectives: 〜いです / 〜くないです",
       "gloss": "adjectives that end in い",
-      "explanation": "An adjective is a word that says **what something is like**: expensive, new, fun. Japanese has two types of adjectives, and the type decides how the adjective changes. The first type ends in **い** (たかい, おもしろい, あたらしい) and **conjugates by itself**: the adjective itself turns negative.\n• Affirmative: adjective + です → たかいです (\"it's expensive\").\n• Negative: drop the final い and add **くないです** → たか|い → たか|くないです (\"it isn't expensive\"). You will also hear たかくありません, with the same meaning and a slightly more formal tone.\n• With い-adjectives, です only makes the sentence polite: the meaning \"is\" is already inside the adjective. That is why the adjective carries the negative, and です stays as it is.\n• In the sentence, adjective + です is the **PREDICATE**: it sits at the end, and it is where you start reading. The block with は is the TOPIC, the thing being described: この とけいは | たかいです。\n• Important exception: **いい** (good). The affirmative is いいです, but the negative comes from よい, another form of the same word: **よくないです**. Never いくないです.",
+      "explanation": "An adjective is a word that says **what something is like**: expensive, new, fun. Japanese has two types of adjectives, and the type decides how the adjective changes. A handy way to picture them: **い-adjectives act like verbs** (they conjugate by themselves), while **な-adjectives act like nouns** (point b). The first type ends in **い** (たかい, おもしろい, あたらしい), and the adjective itself turns negative.\n• Affirmative: adjective + です → たかいです (\"it's expensive\").\n• Negative: drop the final い and add **くないです** → たか|い → たか|くないです (\"it isn't expensive\"). You will also hear たかくありません, with the same meaning and a slightly more formal tone.\n• With い-adjectives, です only makes the sentence polite: the meaning \"is\" is already inside the adjective. That is why the adjective carries the negative, and です stays as it is.\n• Notice that たかくない ends in い again: that ない works like an い-adjective of its own. Lesson 05-2 uses this to build the past.\n• In the sentence, adjective + です is the **PREDICATE**: it sits at the end, and it is where you start reading. The block with は is the TOPIC, the thing being described: この とけいは | たかいです。\n• Important exception: **いい** (good). The affirmative is いいです, but the negative comes from よい, another form of the same word: **よくないです**. Never いくないです.\n• Going further (Sakubi): since です adds only politeness here, casual speech simply drops it — たかい on its own already means \"it's expensive\". Never add だ (the casual です, lesson 08-1) to an い-adjective: たかいだ ✗.",
       "structure": "[N] は [い-adj]です。 · [N] は [adj minus い]くないです。",
       "examples": [
         { "jp": "にほんごの しゅくだいは むずかしいです。", "kana": "にほんごの しゅくだいは むずかしいです。", "romaji": "Nihongo no shukudai wa muzukashii desu.", "en": "The Japanese homework is difficult." },
@@ -69,7 +69,7 @@
         { "jp": "きょうの 天気は よくないです。", "kana": "きょうの てんきは よくないです。", "romaji": "Kyō no tenki wa yokunai desu.", "en": "The weather today isn't good." }
       ],
       "pitfalls": [
-        "い-adjectives don't use じゃないです: たかいじゃないです ✗ → たかくないです ✓. The adjective itself becomes negative.",
+        "い-adjectives never use じゃ or では: たかいじゃないです ✗, たかいではありません ✗ → たかくないです ✓ / たかくありません ✓. The adjective itself becomes negative.",
         "Drop the い before adding くない: たかいくないです ✗ → たかくないです ✓.",
         "いい is irregular in the negative: いくないです ✗ → よくないです ✓.",
         "Japanese has no dummy \"it\": \"It's cold today\" is not それは さむいです ✗ → きょうは さむいです ✓. The adjective + です already says \"is cold\"."
@@ -86,7 +86,7 @@
       "gc": "5-2",
       "title": "な-adjectives: 〜です / 〜じゃないです",
       "gloss": "adjectives that act like nouns at the end of a sentence",
-      "explanation": "The second type is the **な-adjectives** (しずか, にぎやか, 元気, ゆうめい). At the end of a sentence they behave **like nouns**: the adjective stays the same and only です changes.\n• Affirmative: しずかです (\"it's quiet\").\n• Negative: しずか**じゃないです** (\"it isn't quiet\"), just like がくせいじゃないです in lesson 02-3. しずかじゃありません also exists, with the same meaning.\n• At the end of a sentence there is **no な**: しずかです. な only appears when the adjective comes before a noun (point c).\n\n**な-adjectives that end in い.** A few な-adjectives happen to end in い: **きれい** (pretty, clean), **ゆうめい** (famous) and **きらい** (disliked, lesson 05-2). That い is part of the word, not the ending of an い-adjective. So the negative is きれいじゃないです, never きれくないです.\n• Clue: if the word ends in **-ei** (きれい = kirei, ゆうめい = yūmei), it is a な-adjective. The い-adjectives at this level end in -ai, -ii, -ui or -oi (たかい, おおきい, ふるい, おもしろい).\n• きらい ends in -ai, like たかい, so the clue doesn't help there. Just memorize that one.\n• In this lesson's vocabulary and in Genki's word lists, な-adjectives are marked (な): きれい(な). Learn each adjective together with its type.",
+      "explanation": "The second type is the **な-adjectives** (しずか, にぎやか, 元気, ゆうめい). They **act like nouns**: at the end of a sentence the adjective stays the same and only です changes.\n• Affirmative: しずかです (\"it's quiet\").\n• Negative: しずか**じゃないです** (\"it isn't quiet\"), just like がくせいじゃないです in lesson 02-3. じゃないです is simply the negative of です, so nouns and な-adjectives share it. しずかじゃありません also exists, with the same meaning.\n• じゃ is the spoken short form of **では**. In writing and formal speech you will see the full form, しずか**では**ありません or しずかではないです: same meaning, more formal.\n• At the end of a sentence there is **no な**: しずかです. な only appears when the adjective comes before a noun (point c).\n\n**な-adjectives that end in い.** A few な-adjectives happen to end in い: **きれい** (pretty, clean), **ゆうめい** (famous) and **きらい** (disliked, lesson 05-2). That い is part of the word, not the ending of an い-adjective. So the negative is きれいじゃないです, never きれくないです.\n• Clue: if the word ends in **-ei** (きれい = kirei, ゆうめい = yūmei), it is a な-adjective. The い-adjectives at this level end in -ai, -ii, -ui or -oi (たかい, おおきい, ふるい, おもしろい).\n• きらい ends in -ai, like たかい, so the clue doesn't help there. Just memorize that one.\n• In this lesson's vocabulary and in Genki's word lists, な-adjectives are marked (な): きれい(な). Learn each adjective together with its type.\n• Going further (Sakubi): dictionaries keep な-adjectives in a category of their own, apart from ordinary nouns. Jisho, for example, tags them \"Na-adjective\" and tags い-adjectives \"I-adjective\". When you look up a new adjective, that tag tells you its type.",
       "structure": "[N] は [な-adj] です。 · [N] は [な-adj] じゃないです。",
       "examples": [
         { "jp": "リオは にぎやかです。", "kana": "リオは にぎやかです。", "romaji": "Rio wa nigiyaka desu.", "en": "Rio is lively." },
@@ -100,7 +100,7 @@
         "To say \"I'm fine\" (お元気ですか。— …), use 元気, not いい: いいです ✗ → はい、元気です ✓. Before a noun, 元気な 人 means \"an energetic person\"."
       ],
       "howToStudy": [
-        "Sort all of this lesson's vocabulary into two columns, い and な. Highlight きれい and ゆうめい: they end in -ei and are な.",
+        "Sort all of this lesson's vocabulary into two columns, い and な. Highlight きれい and ゆうめい: they end in -ei and are な. Then, in your SRS reviews, say each adjective's type and its negative aloud before you flip the card: きれい → な → きれいじゃないです.",
         "Tap 🔬 on the river example. この shows up as DESCRIBES NEXT, 川は is the TOPIC and きれいじゃないです is the PREDICATE. Notice that きれい did not change: only です became じゃないです.",
         "Say 4 sentences aloud about your town, 2 affirmative and 2 negative, with しずか, にぎやか, きれい and ゆうめい."
       ],
@@ -111,7 +111,7 @@
       "gc": null,
       "title": "Adjective + noun: たかい 山, しずかな まち",
       "gloss": "an adjective describing a noun",
-      "explanation": "To describe a noun inside a sentence, the adjective comes **before** it — the same order as in English: \"a tall mountain\" → たかい 山.\n• い-adjectives go straight in, with nothing in between: おもしろい えいが, あたらしい とけい.\n• な-adjectives: this is where the **な** appears. しずかな まち, きれいな 川, ゆうめいな 人. This な is where the name \"な-adjective\" comes from.\n• Don't put の between an adjective and a noun. の links a noun to a noun (lesson 01-1): にほんごの せんせい, but おもしろい せんせい.\n• The block [adjective + noun] works as **a single noun**. It can be a topic, an object, a place, or come before です. In サンパウロは おおきい まちです。, the predicate is おおきい まちです (\"is a big city\"): 🔬 shows おおきい as DESCRIBES NEXT, attached to まち, and まちです as the PREDICATE.\n• To ask \"what kind of…?\", use **どんな** + noun: どんな まちですか。 The answer puts an adjective where どんな was: しずかな まちです。",
+      "explanation": "To describe a noun inside a sentence, the adjective comes **before** it — the same order as in English: \"a tall mountain\" → たかい 山.\n• い-adjectives go straight in, with nothing in between: おもしろい えいが, あたらしい とけい.\n• な-adjectives: this is where the **な** appears. It is the link that lets a noun-like word describe the next noun: しずかな まち, きれいな 川, ゆうめいな 人. This な is where the name \"な-adjective\" comes from.\n• So there are three ways to put a word before a noun: a **noun** takes の (にほんごの せんせい, lesson 01-1), an **い-adjective** goes straight in (おもしろい せんせい), and a **な-adjective** takes な (ゆうめいな せんせい). Never の after an adjective.\n• The block [adjective + noun] works as **a single noun**. It can be a topic, an object, a place, or come before です. In サンパウロは おおきい まちです。, the predicate is おおきい まちです (\"is a big city\"): 🔬 shows おおきい as DESCRIBES NEXT, attached to まち, and まちです as the PREDICATE.\n• To ask \"what kind of…?\", use **どんな** + noun: どんな まちですか。 The answer puts an adjective where どんな was: しずかな まちです。\n• Going further (Sakubi): the slot before a noun is not only for adjectives. Later, whole verb phrases sit there the same way, with nothing in between: すしを 食べる 人 (\"a person who eats sushi\", lesson 09-2). A describing form (an い-adjective, a な-adjective + な, a noun + の, or later a whole verb phrase) describes the noun right after it. Not every word that happens to stand before a noun describes it: in まいにち コーヒーを 飲みます, まいにち is TIME and goes with the verb, not with コーヒー.",
       "structure": "[い-adj] [N] · [な-adj] な [N] · どんな [N] ですか。",
       "examples": [
         { "jp": "サンパウロは おおきい まちです。", "kana": "サンパウロは おおきい まちです。", "romaji": "Sanpauro wa ōkii machi desu.", "en": "São Paulo is a big city." },
@@ -127,7 +127,7 @@
       "howToStudy": [
         "Drills → 🔬 Anatomy → 🧱 Build from the end with example 3: start with 食べました, then ばんごはんを, then レストランで, then にぎやかな, and finally きのう. Notice that にぎやかな always sits right before レストラン: it DESCRIBES NEXT.",
         "Write 6 real pairs in your notebook (3 with い, 3 with な) about your own things: あたらしい スマホ, しずかな へや, ふるい とけい…",
-        "Ask どんな まちですか aloud about 3 places you know, and answer with adjective + noun. A detail in example 2: in ふじ山 the kanji 山 is read さん — a reading of the kanji, not the さん of たなかさん."
+        "Ask どんな まちですか aloud about 3 places you know, and answer with adjective + noun. Then learn this lesson's kanji through its words, not as a list of readings: 山 is やま on its own but さん in ふじ山 (not the さん of たなかさん), 川 is かわ, and 天気 and 元気 share 気 (き)."
       ],
       "flag": null
     }
@@ -195,8 +195,8 @@
     ]
   },
   "practice": [
-    { "tool": "Wagotabi", "what": "Play normally. Whenever a line of dialogue has an adjective (〜いです, 〜くないです or an adjective before a noun), pause and say aloud whether it is い or な. Copy 2 of those lines into your notebook and underline the predicate.", "min": 15 },
-    { "tool": "ヅオリンゴー", "what": "Lesson 5 vocabulary in the SRS. Then Practice L5 → conjugation, only with the present-tense forms for now.", "min": 10 },
+    { "tool": "Wagotabi", "what": "Play normally. Whenever a line of dialogue has an adjective (〜いです, 〜くないです or an adjective before a noun), pause and say aloud whether it is い or な. Copy 2 of those lines into your notebook and underline the predicate. If one has a word you don't know, save the line with that word in ヅオリンゴー → Mining, which can look the word up in its dictionary: it becomes a card in your reviews.", "min": 15 },
+    { "tool": "ヅオリンゴー", "what": "Lesson 5 vocabulary in the SRS: first clear all of today's reviews, then add the new adjectives. Then Practice L5 → conjugation, only with the present-tense forms for now.", "min": 10 },
     { "tool": "ヅオリンゴー", "what": "Drills → 🔬 Anatomy → 🏷 Tag: 5 sentences with adjectives. Check that you find the PREDICATE and can say which block DESCRIBES NEXT.", "min": 5 },
     { "tool": "Shadowing", "what": "Tap 🔊 on each example in this lesson and repeat along 3 times. In the negatives, keep the rhythm even: た・か・く・な・い・で・す is 7 beats of the same length.", "min": 5 },
     { "tool": "Speaking", "what": "Record the description of your town (homework h4) in 30 seconds or less. Listen and check that each negative used the right form for its type.", "min": 5 }
@@ -215,5 +215,9 @@
     "I can ask どんな 〜ですか and answer with adjective + noun.",
     "I did the homework, checked it against the answer key and redid what I got wrong.",
     "I did Workbook pages 50, 51 and 54."
+  ],
+  "credits": [
+    "Explanations adapted in part from Sakubi (public domain, CC0) — sakubi.neocities.org",
+    "Study method informed by the DJT Guide to Japanese — djtguide.neocities.org/guide"
   ]
 }

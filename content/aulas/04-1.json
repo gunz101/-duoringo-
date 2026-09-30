@@ -16,7 +16,7 @@
       { "t": "Warm-up: look around your room and say in English where 5 things are (\"the bag is under the desk\"). By the end of the lesson you will say it in Japanese", "min": 5 },
       { "t": "Vocabulary: tap 🔊 on each word and repeat it twice; for the location words, point to the position as you say them", "min": 10 },
       { "t": "Grammar: the 3 points, each with its examples read aloud and one 🔬", "min": 25 },
-      { "t": "Lesson 4 video (block 6), pausing on the examples", "min": 10 },
+      { "t": "Block 6: the Lesson 4 video, pausing on the examples — or the Sakubi section on いる and ある, read once straight through (aim to understand, not to memorize)", "min": 10 },
       { "t": "Notebook homework + checking it against the answer key", "min": 15 },
       { "t": "Checklist (block 10) + write your questions in the lesson notebook", "min": 5 }
     ]
@@ -63,7 +63,7 @@
       "gc": "4-1",
       "title": "あります × います",
       "gloss": "there is · to be (somewhere)",
-      "explanation": "To say that something **exists** or **is** somewhere, Japanese uses one of two verbs. English uses \"there is\" for everything; Japanese splits it by what exists:\n• **あります**: things, plants, and also events (a test, a party).\n• **います**: people and animals — beings that move on their own.\nIn the sentence, **what exists takes が** and **the place takes に**. The predicate (あります／います) comes at the end. Read it from the end: exists (あります) ← what? (が) ← where? (に).\n• Negative: ありません, いません. Question: ありますか, いますか.\n• With a question word, use が: なにが ありますか。 だれが いますか。\n• The same verbs also mean **to have**: お金が ありません (read おかねが ありません: \"I don't have any money\"), きょうだいが います (\"I have brothers and sisters\").\n• **に × で**: に marks the place of EXISTENCE (where something is). で (lesson 03-2) marks the place of an ACTION (where something is done). こうえんに いぬが います (there's a dog in the park) × こうえんで テニスを します (I play tennis in the park).",
+      "explanation": "To say that something **exists** or **is** somewhere, Japanese uses one of two verbs. English uses \"there is\" for everything; Japanese splits it by what exists:\n• **あります**: things, plants, and also events (a test, a party).\n• **います**: people and animals — beings that move on their own.\nThe split is about being **animate** (able to move on its own), **not about politeness**: both are ordinary polite ます forms. Plants are alive but not animate, so they take あります. (In the dictionary, いる is a る-verb and ある is an う-verb — the groups of lesson 03-1.)\nIn the sentence, **what exists takes が** and **the place takes に**. Each particle marks the job of its block, so the jobs stay the same even if the blocks move; only the predicate (あります／います) must stay at the end. Read it from the end: exists (あります) ← what? (が) ← where? (に).\n• Negative: ありません, いません. Question: ありますか, いますか.\n• With a question word, use が: なにが ありますか。 だれが いますか。\n• **\"To have\"**: Japanese has no separate verb here. It simply says the thing exists (for you): お金が ありません (read おかねが ありません: \"I don't have any money\", lit. money doesn't exist), きょうだいが います (\"I have brothers and sisters\"). What you \"have\" takes が, never を.\n• The place is often the topic too: に + は = **には**. うちには ねこが います (\"at my place, there's a cat\" = I have a cat). に stays, and は comes after it.\n• **に × で**: に marks the place of EXISTENCE (where something is). で (lesson 03-2) marks the place of an ACTION (where something is done). こうえんに いぬが います (there's a dog in the park) × こうえんで テニスを します (I play tennis in the park).\n• Going further (Sakubi): since the real line is \"animate or not\", a few things sit in between. A vehicle normally takes あります, but you may hear います for a bus or a taxi pictured as moving around with its driver; choosing the unusual verb adds a nuance. And ある has an irregular plain negative: just ない (lesson 08-1).",
       "structure": "[place] に [thing/person] が あります／います。",
       "examples": [
         { "jp": "うちに ねこが います。", "kana": "うちに ねこが います。", "romaji": "Uchi ni neko ga imasu.", "en": "There's a cat at home (= I have a cat). [lit. at home, a cat exists]" },
@@ -71,10 +71,10 @@
         { "jp": "としょかんに だれが いますか。— ルーカスさんが います。", "kana": "としょかんに だれが いますか。— ルーカスさんが います。", "romaji": "Toshokan ni dare ga imasu ka. — Rūkasu-san ga imasu.", "en": "Who is in the library? — Lucas is." }
       ],
       "pitfalls": [
-        "People and animals take います, never あります: ねこが あります ✗ → ねこが います ✓. A plant counts as a \"thing\": 木が あります ✓.",
+        "People and animals take います, never あります: ねこが あります ✗ → ねこが います ✓. A plant counts as a \"thing\": 木が います ✗ → 木が あります ✓.",
         "The place of existence takes に, not で: こうえんで いぬが います ✗ → こうえんに いぬが います ✓. Use で only for actions: こうえんで テニスを します ✓.",
-        "A tricky exception: an EVENT that takes place somewhere uses で, because taking place is an action. 土曜日に うちで パーティーが あります ✓ (there's a party at my place on Saturday).",
-        "With the PLACE as the topic, です can't replace あります: \"there's a bank over there\" is あそこに ぎんこうが あります ✓, while あそこは ぎんこうです means \"that place over there is a bank\" (it identifies the place). Swapping in です only works the other way round, X は [place] です (point 4b): ぎんこうは あそこです ✓."
+        "A tricky exception: an EVENT that takes place somewhere uses で, because taking place is an action: 土曜日に うちに パーティーが あります ✗ → 土曜日に うちで パーティーが あります ✓ (there's a party at my place on Saturday).",
+        "\"I have a cat\" is not ねこを います ✗. あります／います take no object: what you have is simply what exists, so it takes が → ねこが います ✓ (or うちに ねこが います)."
       ],
       "howToStudy": [
         "Look around and say 5 sentences with [place] に … が あります／います (うちに テレビが あります。うちに ねこが います…). Before each one, decide: is it a thing or a living being?",
@@ -88,7 +88,7 @@
       "gc": null,
       "title": "[place] に X が × X は [place] に",
       "gloss": "what's there? × where is it?",
-      "explanation": "The same information can come in two orders, and each one answers a different question.\n• **[place] に [X] が あります**: the starting point is the PLACE, and the new information is **what** exists there. It answers \"what's there?\". あそこに ぎんこうが あります。 (There's a bank over there.)\n• **[X] は [place] に あります**: the topic (は) is the THING, which both speakers already know about, and the new information is **where** it is. It answers \"where is X?\". ぎんこうは あそこに あります。 (The bank is over there.)\nThe golden rule: **in Japanese, new information goes near the end**, right before the predicate. With が, the news is the thing; with は, the news is the place.\n• To ask where: [X] は どこに ありますか／いますか。\n• In conversation, [X] は [place] です is also very common: ぎんこうは あそこです。 Here です stands in for に あります.\n• English gives you a handy test: if \"there is/are X in…\" sounds natural, use the が order. If \"X is in…\" sounds better, use the は order.",
+      "explanation": "The same information can come in two orders, and each one answers a different question.\n• **[place] に [X] が あります**: the starting point is the PLACE, and the new information is **what** exists there. It answers \"what's there?\". あそこに ぎんこうが あります。 (There's a bank over there.)\n• **[X] は [place] に あります**: the topic (は) is the THING, which both speakers already know about, and the new information is **where** it is. It answers \"where is X?\". ぎんこうは あそこに あります。 (The bank is over there.)\nThe golden rule: **in Japanese, new information goes near the end**, right before the predicate. With が, the news is the thing; with は, the news is the place.\n• Why が? Besides marking the subject, が **puts the spotlight** on its block (\"a BANK is what's there\"), while は just sets the stage (\"as for the bank…\"). A question word is always the spotlight, so it can never take は: when it is what exists (the subject), it takes が — なにが ありますか, だれが いますか. In any other job it keeps that job's particle (どこに, なにを).\n• To ask where: [X] は どこに ありますか／いますか。\n• In the answer, drop what both speakers already know: ぎんこうに います is enough. Repeating ペドロさんは is not wrong, but it puts extra weight on Pedro.\n• In conversation, [X] は [place] です is also very common: ぎんこうは あそこです。 Here です stands in for に あります.\n• English gives you a handy test: if \"there is/are X in…\" sounds natural, use the が order. If \"X is in…\" sounds better, use the は order.",
       "structure": "[place] に [X] が あります。 ↔ [X] は [place] に あります。",
       "examples": [
         { "jp": "この まちに なにが ありますか。— こうえんが あります。", "kana": "この まちに なにが ありますか。— こうえんが あります。", "romaji": "Kono machi ni nani ga arimasu ka. — Kōen ga arimasu.", "en": "What is there in this town? — There's a park." },
@@ -97,8 +97,9 @@
       ],
       "pitfalls": [
         "A question word never takes は: なには ありますか ✗ → なにが ありますか ✓; だれは いますか ✗ → だれが いますか ✓.",
-        "When the question is WHERE, the thing is the topic: コンビニが どこに ありますか sounds odd → コンビニは どこに ありますか ✓.",
-        "The shortcut X は [place] です only says where X is. In the other order it changes the meaning: あそこは コンビニです means \"that place over there is a convenience store\" (it identifies the place), not \"there's a convenience store over there\"."
+        "When the question is WHERE, the thing is the topic: コンビニが どこに ありますか ✗ (sounds odd) → コンビニは どこに ありますか ✓.",
+        "\"There's a convenience store over there\" is not あそこは コンビニです ✗ — that identifies the place (\"that place over there is a convenience store\") → あそこに コンビニが あります ✓. The shortcut with です only works as X は [place] です: コンビニは あそこです ✓.",
+        "Answering \"where is Pedro?\", don't move the spotlight to Pedro: ペドロさんが ぎんこうに います ✗ (\"PEDRO is the one at the bank\" — it answers \"who is at the bank?\") → (ペドロさんは) ぎんこうに います ✓."
       ],
       "howToStudy": [
         "Say pairs out loud, switching the order: うちに ねこが います ↔ ねこは うちに います. For each one, ask yourself: is the news WHAT or WHERE?",
@@ -112,7 +113,7 @@
       "gc": "4-2",
       "title": "A の うえ／した／なか… (location words)",
       "gloss": "on, under, inside, next to…",
-      "explanation": "English gives positions with prepositions (on, under, in). Japanese uses a **location noun** attached to a reference point with **の**. つくえの 上 is literally \"the desk's top\". That whole block (A の position) becomes the PLACE of the sentence and takes に: つくえの 上に. The order is the reverse of English \"the top of the desk\": first the reference point, then the position.\n• 上 (うえ) on, above · 下 (した) under, below · 中 (なか) inside\n• まえ in front · うしろ behind\n• みぎ to the right · ひだり to the left\n• となり next to. It is usually used for two things of the same kind side by side: two shops, two houses, two people.\n• ちかく near, in the area\n• あいだ between. It needs two reference points: **A と B の あいだ**. That と is the \"and\" you will study in lesson 04-3.\n• It works in both orders from point 4b: つくえの 下に かばんが あります。 / かばんは つくえの 下に あります。\n• The kanji 上, 下 and 中 are from Genki Lesson 4: from now on they appear written that way.",
+      "explanation": "English gives positions with prepositions (on, under, in). Japanese uses a **location noun** attached to a reference point with **の**. つくえの 上 is literally \"the desk's top\". That whole block (A の position) becomes the PLACE of the sentence and takes に: つくえの 上に. A particle always attaches to the whole phrase before it, not just to the last word. The order is the reverse of English \"the top of the desk\": first the reference point, then the position.\n• 上 (うえ) on, above · 下 (した) under, below · 中 (なか) inside\n• まえ in front · うしろ behind\n• みぎ to the right · ひだり to the left\n• となり next to. It is usually used for two things of the same kind side by side: two shops, two houses, two people.\n• ちかく near, in the area\n• あいだ between. It needs two reference points: **A と B の あいだ**. That と is the \"and\" you will study in lesson 04-3.\n• It works in both orders from point 4b: つくえの 下に かばんが あります。 / かばんは つくえの 下に あります。\n• The kanji 上, 下 and 中 are from Genki Lesson 4: from now on they appear written that way.",
       "structure": "[A] の [position] に [X] が あります／います。 · [X] は [A] の [position] に あります／います。",
       "examples": [
         { "jp": "テレビの 上に ねこが います。", "kana": "テレビの うえに ねこが います。", "romaji": "Terebi no ue ni neko ga imasu.", "en": "There's a cat on top of the TV. [lit. at the TV's top, a cat exists]" },
@@ -123,7 +124,7 @@
         "Reversed order: \"on the desk\" = つくえの 上 ✓. 上の つくえ ✗ would be \"the desk above\".",
         "Don't drop の or に: つくえ 上に ✗ / つくえの 上 あります ✗ → つくえの 上に あります ✓.",
         "あいだ needs two reference points linked by と: ぎんこうの あいだ ✗ → ゆうびんきょくと ぎんこうの あいだ ✓.",
-        "となり is \"right next to\"; ちかく is \"in the area\". A bakery two blocks away is ちかく, not となり."
+        "となり is \"right next to\"; ちかく is \"in the area\". For a convenience store two blocks from the bank: ぎんこうの となりです ✗ → ぎんこうの ちかくです ✓."
       ],
       "howToStudy": [
         "Take a pen and put it in different places. For each position, say out loud: ペンは つくえの 上に あります → いすの 下に → かばんの 中に → 本の まえに…",
@@ -163,7 +164,7 @@
           { "q": "としょかん＿ ペドロさんが います。", "a": { "jp": "に", "romaji": "ni" }, "note": "Being there is EXISTENCE: に." },
           { "q": "わたしの かさ＿ どこに ありますか。", "a": { "jp": "は", "romaji": "wa" }, "note": "A \"where?\" question: the thing is the topic." },
           { "q": "いすの 下＿ かばん＿ あります。", "a": { "jp": "に・が", "romaji": "ni, ga" }, "note": "The place takes に, what exists takes が." },
-          { "q": "カフェ＿ コーヒーを のみます。", "a": { "jp": "で", "romaji": "de" }, "note": "Drinking is an action: で." },
+          { "q": "わたし＿ きょうだい＿ います。", "a": { "jp": "は・が", "romaji": "wa, ga" }, "note": "\"I have brothers and sisters\": the topic is わたし, and the siblings EXIST, so they take が — never を." },
           { "q": "金曜日に ともだちの うち＿ パーティーが あります。", "a": { "jp": "で", "romaji": "de" }, "note": "An event takes place → で, even with あります." }
         ]
       },
@@ -195,8 +196,8 @@
     ]
   },
   "practice": [
-    { "tool": "Wagotabi", "what": "Play normally. Hunt for lines that end in あります, います, ありません or いません. For each one, say out loud what exists (が) and where (に). Copy 2 of those lines into your notebook.", "min": 15 },
-    { "tool": "ヅオリンゴー", "what": "Lesson 4 vocabulary in the SRS. Then Practice L4.", "min": 10 },
+    { "tool": "Wagotabi", "what": "Play normally. Hunt for lines that end in あります, います, ありません or いません. For each one, say out loud what exists (が) and where (に). Copy 2 of those lines into your notebook, look up any word you don't know in a dictionary, and save the best line in ヅオリンゴー → Mining so it becomes an SRS card (sentence mining).", "min": 15 },
+    { "tool": "ヅオリンゴー", "what": "Lesson 4 vocabulary in the SRS. Learn the kanji through the words, not one by one: 上, 下 and 中 are the words うえ, した and なか — when a card shows one, say the word and point to the position. Then Practice L4.", "min": 10 },
     { "tool": "ヅオリンゴー", "what": "Drills → Particles, paying attention to に × で. Then Drills → 🔬 Anatomy → 🏷 Tag: 5 sentences, saying which block is the LOCATION and which is the SUBJECT (what exists).", "min": 10 },
     { "tool": "Shadowing", "what": "Tap 🔊 on each example in this lesson and repeat along 3 times, copying the rhythm.", "min": 5 },
     { "tool": "Speaking", "what": "Record a 30-second \"tour\" of your room: point and say where each thing is (〜は 〜の 上に あります…). Listen and note where you got stuck.", "min": 5 }
@@ -213,7 +214,12 @@
     "I can ask and answer where something is: X は どこに ありますか。— 〜に あります／〜です。",
     "I can use the 10 location words with の, including A と B の あいだ.",
     "I can explain why it's こうえんに いぬが います but こうえんで テニスを します.",
+    "I can say what I have with 〜が あります／います (うちに ねこが います) — never with を.",
     "I did the homework, checked it against the answer key and redid what I got wrong.",
     "I did Workbook pages 41–42."
+  ],
+  "credits": [
+    "Explanations adapted in part from Sakubi (public domain, CC0) — sakubi.neocities.org",
+    "Study method informed by the DJT Guide to Japanese — djtguide.neocities.org/guide"
   ]
 }

@@ -62,7 +62,7 @@
       "gc": "9-1",
       "title": "た / なかった",
       "gloss": "the short past of verbs, adjectives and nouns",
-      "explanation": "The short past is the **informal partner** of 〜ました / 〜ませんでした. You use it with friends and, above all, **inside** bigger sentences: before と 思います (point 4c) and before a noun (lesson 09-2). The good news: you already know how to make it.\n• **Verb, affirmative**: take the て-form and change て to た (or で to だ). たべて → たべた; のんで → のんだ; かいて → かいた; いって (行く) → いった; して → した; きて → きた.\n• **Verb, negative**: take the ない-form and change the final い to **かった**. たべない → たべなかった; 行かない → 行かなかった; しない → しなかった; こない → こなかった. The negative of ある is ない, so its past is なかった.\n• **い-adjective**: change い to かった. たかい → たかかった; negative: たかくない → たかくなかった. **いい is irregular**: よかった / よくなかった.\n• **な-adjective and noun**: だ becomes **だった** and じゃない becomes **じゃなかった**. しずかだった / しずかじゃなかった; がくせいだった / がくせいじゃなかった.\n• To go from the polite past to the short past, drop です where there is one: たかかったです → たかかった. With verbs, 〜ました becomes 〜た and 〜ませんでした becomes 〜なかった.\n• Rule of thumb: **every short negative ends in ない and conjugates like an い-adjective**. That is why every short negative in the past ends in なかった.",
+      "explanation": "The short past is the **informal partner** of 〜ました / 〜ませんでした. You use it with friends and, above all, **inside** bigger sentences: before と 思います (point 4c) and before a noun (lesson 09-2). The good news: you already know how to make it.\n• **Verb, affirmative**: take the て-form and change て to た (or で to だ). たべて → たべた; のんで → のんだ; かいて → かいた; いって (行く) → いった; して → した; きて → きた.\n• **Verb, negative**: take the ない-form and change the final い to **かった**. たべない → たべなかった; 行かない → 行かなかった; しない → しなかった; こない → こなかった. The negative of ある is ない, so its past is なかった.\n• **い-adjective**: change い to かった. たかい → たかかった; negative: たかくない → たかくなかった. **いい is irregular**: よかった / よくなかった.\n• **な-adjective and noun**: だ becomes **だった** and じゃない becomes **じゃなかった**. しずかだった / しずかじゃなかった; がくせいだった / がくせいじゃなかった.\n• To go from the polite past to the short past, drop です where there is one: たかかったです → たかかった. After an い-adjective, です only adds politeness — it does not mean \"is\" — so nothing is lost when it goes, and nothing (no だ, no だった) takes its place. With verbs, 〜ました becomes 〜た and 〜ませんでした becomes 〜なかった.\n• Rule of thumb: **ない is itself an い-adjective**, so every short negative conjugates like one: ない → なかった, just like たかい → たかかった. That is why every short negative in the past ends in なかった.\n• Going further (Sakubi): た attaches to the same stem as ます (かきます → かき + た), and in う-verbs that stem got \"slurred\" over the centuries: roughly, かき + た → かいた, よみ + た → よんだ. That is why the て-form trick works. Native speakers don't work this out each time — they know the forms from hearing them constantly, and with enough reading and listening, so will you.",
       "structure": "verb: て-form (て→た, で→だ) · ない-form (ない→なかった) · い-adj: 〜かった / 〜くなかった · な-adj and N: 〜だった / 〜じゃなかった",
       "examples": [
         { "jp": "せんしゅう 友だちと かぶきを 見た。", "kana": "せんしゅう ともだちと かぶきを みた。", "romaji": "Senshū tomodachi to kabuki o mita.", "en": "Last week I saw kabuki with a friend." },
@@ -71,14 +71,14 @@
       ],
       "pitfalls": [
         "いい is irregular: いかった ✗ → よかった ✓; いくなかった ✗ → よくなかった ✓.",
-        "行く keeps its て-form exception: いいた ✗ → いった ✓.",
+        "い-adjectives never take だ or だった — the かった already means \"was\": たのしいだった ✗ / たのしかっただ ✗ → たのしかった ✓.",
         "きれい and きらい look like い-adjectives, but they are な-adjectives: きれかった ✗ → きれいだった ✓.",
-        "来る changes its vowel in the negative: きなかった ✗ → こなかった ✓."
+        "行く and 来る keep their quirks: いいた ✗ → いった ✓ (from the て-form exception いって); きなかった ✗ → こなかった ✓ (from こない)."
       ],
       "howToStudy": [
         "Take 10 verbs you already know and say the whole chain out loud: たべて → たべた → たべない → たべなかった. Start with the う-verbs whose て-form is trickiest (いって, のんで, かいて, はなして).",
         "Tap 🔬 on the examples. Only the ★ PREDICATE at the end changes tense. Read that block first and say whether it is present or past, affirmative or negative.",
-        "ヅオリンゴー → Drills → Conjugation: for every polite answer (〜ました / 〜ませんでした), also say the short form (〜た / 〜なかった)."
+        "ヅオリンゴー → Drills → Conjugation: for every polite answer (〜ました / 〜ませんでした), also say the short form (〜た / 〜なかった). Don't try to memorize a table in one sitting: understand where each form comes from, and let daily reviews and reading make it automatic."
       ],
       "flag": null
     },
@@ -87,7 +87,7 @@
       "gc": "9-2",
       "title": "Casual speech in the past",
       "gloss": "telling and asking what happened, among friends",
-      "explanation": "Among friends, family and people your own age (remember せんぱい／こうはい, lesson 08-1), talk about the past uses **only short forms**: 〜た, 〜なかった, 〜だった.\n• **Question**: no か. Just **raise your voice** at the end: 見た？ (Did you see it?)\n• **Answer**: うん (yeah) or ううん (no), plus the short form: うん、見た。 / ううん、見なかった。\n• **は and を often drop**: えいが、見た？ Particles that carry meaning, such as と (with whom), で (where) and から, almost always stay.\n• With な-adjectives and nouns, the past question **keeps だった**: テスト、どうだった？ In the present, remember, だ drops in a question (げんき？); in the past it stays.\n• With people you speak to in です／ます (a teacher, a stranger), stay polite: 見ましたか。",
+      "explanation": "Among friends, family and people your own age (remember せんぱい／こうはい, lesson 08-1), talk about the past uses **only short forms**: 〜た, 〜なかった, 〜だった.\n• **Question**: no か. Just **raise your voice** at the end: 見た？ (Did you see it?)\n• **Answer**: うん (yeah) or ううん (no), plus the short form: うん、見た。 / ううん、見なかった。\n• **は and を often drop**: えいが、見た？ Particles are what mark each block's job, so casual speech drops only the ones whose job is obvious from the verb. Particles that carry meaning, such as と (with whom), で (where) and から, almost always stay.\n• With な-adjectives and nouns, the past question **keeps だった**: テスト、どうだった？ In the present, remember, だ drops in a question (げんき？); in the past it stays.\n• With people you speak to in です／ます (a teacher, a stranger), stay polite: 見ましたか。\n• Going further (Sakubi): you will also hear ええ (a relaxed, gentle \"yes\") and いや (a blunt \"no\"), and casual questions that end in の — 見たの？ — which sound softer and often ask for an explanation. That の comes back in lesson 12-1.",
       "structure": "[short past form] ↗？ — うん、[short form]。 / ううん、[negative short form]。",
       "examples": [
         { "jp": "しゅうまつ、何を した？— ギターを ひいた。", "kana": "しゅうまつ、なにを した？— ギターを ひいた。", "romaji": "Shūmatsu, nani o shita? — Gitā o hiita.", "en": "What did you do on the weekend? — I played the guitar." },
@@ -97,12 +97,12 @@
       "pitfalls": [
         "No か in a casual question: 見たか？ ✗ (it sounds blunt, like a demand) → 見た？ ✓.",
         "うん is \"yes\"; ううん, with one extra syllable, is \"no\" — much like English \"uh-huh\" and \"uh-uh\". Say them very differently so the listener doesn't mix them up: ううん ✗ (when you mean yes) → うん ✓.",
-        "When in doubt, keep the particle. は and を can drop, but keeping them is never wrong; dropping と or で can make the sentence lose its meaning: パーティー おどった？ ✗ → パーティーで おどった？ ✓.",
+        "When in doubt, keep the particle. は and を can drop, but keeping them is never wrong; dropping と or で can change the meaning: ともだち 行った？ ✗ (sounds like \"Did your friend go?\") → ともだちと 行った？ ✓ (\"Did you go with a friend?\").",
         "Casual is for friends, family and people your age or younger. To a teacher or a stranger: 見た？ ✗ → 見ましたか。 ✓."
       ],
       "howToStudy": [
         "Read the 3 dialogues out loud, with your voice rising at the end of the question and falling in the answer.",
-        "Take 5 polite questions from your notebook (〜ましたか) and say the casual version (〜た？), answering with うん or ううん.",
+        "Tap 🔬 on example 2: テスト shows up as NO PARTICLE — casual speech dropped its は, so you work out its job from the ★ PREDICATE (どうだった). Then take 5 polite questions from your notebook (〜ましたか) and say the casual version (〜た？), answering with うん or ううん.",
         "Speaking: record a 4-line mini-dialogue with an imaginary friend about the weekend, only in short forms."
       ],
       "flag": null
@@ -112,7 +112,7 @@
       "gc": "9-3",
       "title": "〜と 思う / 〜と 言っていた with the past",
       "gloss": "\"I think it was…\", \"(he) said that…\"",
-      "explanation": "In lesson 08-2 you saw that **the part before と is always in short form**. Now that part can be in the past.\n• **An opinion about something that already happened**: [short past] と 思います. E.g. むずかしかったと 思います。 (I think it was difficult.) In casual speech: 〜と 思う.\n• **Reporting what someone said**: [who] は [short form] と 言っていました. In casual speech: 〜と 言っていた.\n• **Golden rule of tense**: the part before と keeps **the tense the person used when they spoke**. If Maria said 「びょうきです」 (I'm sick), report びょうきだと 言っていました. If she said 「びょうきでした」 (I was sick), report びょうきだったと 言っていました. English usually shifts the tense back (\"she said she was sick\"); Japanese does not.\n• Read from the end: first the ★ 思います / 言っていました, then what was thought or said (the block with と), and finally the は block. With 言っていました, the は block is usually the person who spoke; with 思います, the thinker is you (left unsaid), and the は block is who or what your opinion is about.",
+      "explanation": "In lesson 08-2 you saw that **the part before と is always in short form**. Now that part can be in the past.\n• Think of the part before と as **a complete sentence inside the sentence**: と wraps it up and hands it to 思う or 言う as \"what was thought / said\". That inner sentence keeps its own time, which is why the golden rule below works.\n• **An opinion about something that already happened**: [short past] と 思います. E.g. むずかしかったと 思います。 (I think it was difficult.) In casual speech: 〜と 思う.\n• **Reporting what someone said**: [who] は [short form] と 言っていました. In casual speech: 〜と 言っていた.\n• **Golden rule of tense**: the part before と keeps **the tense the person used when they spoke**. If Maria said 「びょうきです」 (I'm sick), report びょうきだと 言っていました. If she said 「びょうきでした」 (I was sick), report びょうきだったと 言っていました. English usually shifts the tense back (\"she said she was sick\"); Japanese does not.\n• Read from the end: first the ★ 思います / 言っていました, then what was thought or said (the block with と), and finally the は block. With 言っていました, the は block is usually the person who spoke; with 思います, the thinker is you (left unsaid), and the は block is who or what your opinion is about.\n• Going further (Sakubi): only an exact quotation, written inside 「」, keeps the speaker's words as they were, polite forms included: マリアさんは「びょうきです」と 言っていました。 And to say what someone else thinks, Japanese uses 思っている: アナさんは たのしかったと 思っています。 (Ana thinks it was fun.) For now, reporting what the person said (〜と 言っていました) is the safer choice.",
       "structure": "[who] は [short sentence, present or past] と 思います / 言っていました。",
       "examples": [
         { "jp": "アナさんは きのう 学校に 来なかったと 思います。", "kana": "アナさんは きのう がっこうに こなかったと おもいます。", "romaji": "Ana-san wa kinō gakkō ni konakatta to omoimasu.", "en": "I think Ana didn't come to school yesterday." },
@@ -123,7 +123,7 @@
         "Short form before と: 見ましたと 思います ✗ → 見たと 思います ✓.",
         "Don't shift the tense back the way English does. If Pedro said 「びょうきです」: びょうきだったと 言っていました ✗ → びょうきだと 言っていました ✓. びょうきだったと would mean he said he had been sick.",
         "With nouns and な-adjectives, だ / だった cannot disappear: びょうきと ✗ → びょうきだったと ✓.",
-        "思います is YOUR opinion. To tell what someone else thinks, report what they said: アナさんは たのしかったと 思います ✗ (that means \"I think Ana had fun\") → アナさんは たのしかったと 言っていました ✓ (\"Ana said it was fun\")."
+        "思います is always YOUR opinion, even when the sentence starts with someone else's name. For \"Ana thinks it was fun\": アナさんは たのしかったと 思います ✗ (this really means \"I think Ana had fun\", like example 1) → アナさんは たのしかったと 思っています ✓ (\"Ana thinks it was fun\"), or report her words: アナさんは たのしかったと 言っていました ✓ (\"Ana said it was fun\")."
       ],
       "howToStudy": [
         "Tap 🔬 on the examples: the block ending in と shows up as QUOTE. Read the ★ PREDICATE (思います / 言っていました) first, then the QUOTE, and finally the TOPIC (in examples 2 and 3, the person who spoke).",
@@ -195,10 +195,10 @@
     ]
   },
   "practice": [
-    { "tool": "Wagotabi", "what": "Play normally. Hunt the dialogues for verbs ending in 〜た or 〜なかった. For each one, say the matching polite form out loud (見た → 見ました). Copy 3 of them into your notebook.", "min": 15 },
-    { "tool": "ヅオリンゴー", "what": "Lesson 9 vocabulary in the SRS. Then Practice L9: conjugation and listening.", "min": 10 },
-    { "tool": "ヅオリンゴー", "what": "Drills → Conjugation: 10 verbs. For each one, also say the short past affirmative and negative before moving on to the next.", "min": 10 },
-    { "tool": "Shadowing", "what": "Tap 🔊 on the dialogues in point 4b and repeat along 3 times, copying the voice that rises in a question without か.", "min": 5 },
+    { "tool": "Wagotabi", "what": "Play normally. Hunt the dialogues for verbs ending in 〜た or 〜なかった. For each one, say the matching polite form out loud (見た → 見ました). Copy 3 of them into your notebook, and save one line with a word you had to look up in ヅオリンゴー → Mining, so the new word enters your reviews together with its sentence.", "min": 15 },
+    { "tool": "ヅオリンゴー", "what": "Lesson 9 vocabulary in the SRS (🌊 All), then Practice L9: conjugation and listening. Do every review that is due; if the pile grows too big, learn fewer new words for a few days instead of skipping reviews.", "min": 10 },
+    { "tool": "Reading", "what": "Your first taste of real reading: in the Resources tab, open Tadoku's free graded readers and read one level-0 story. Stories usually tell what happened, so hunt for past endings: for each 〜た you find, say the polite form, and for each 〜ました, say the short form. Understand what you can and look up only the words that block the story.", "min": 10 },
+    { "tool": "Shadowing", "what": "Tap 🔊 on the dialogues in point 4b and repeat along 3 times, copying the voice that rises in a question without か. Notice that in した the i is barely heard (almost \"shta\"): copy that too.", "min": 5 },
     { "tool": "Speaking", "what": "Record 30 seconds about your day yesterday in short forms (homework h4 works as a script). Listen and mark any verbs that slipped into the polite form.", "min": 5 }
   ],
   "culture": {
@@ -210,11 +210,15 @@
   "checklist": [
     "I can put any verb into 〜た / 〜なかった from the て-form and the ない-form, without a table.",
     "I remember the exceptions without looking: いった (行く), こなかった (来る), よかった (いい), きれいだった.",
-    "I can put い-adjectives, な-adjectives and nouns into the short past, affirmative and negative.",
+    "I can put い-adjectives, な-adjectives and nouns into the short past, affirmative and negative — and I never add だ or だった to an い-adjective.",
     "I can ask and answer about the past in casual speech (見た？— うん、見た。) without か.",
     "I can give an opinion about something that already happened with 〜たと 思います.",
     "I can report what someone said with 〜と 言っていました, keeping the tense they used.",
     "I did the homework, checked it against the answer key and redid what I got wrong.",
     "I did Workbook pages 87–90."
+  ],
+  "credits": [
+    "Explanations adapted in part from Sakubi (public domain, CC0) — sakubi.neocities.org",
+    "Study method informed by the DJT Guide to Japanese — djtguide.neocities.org/guide"
   ]
 }

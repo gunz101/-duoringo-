@@ -16,7 +16,7 @@
       { "t": "Warm-up: say aloud the short forms (present and past, affirmative and negative) of ふる, 高い and 休み", "min": 5 },
       { "t": "Vocabulary: tap 🔊 on each word and repeat it twice", "min": 10 },
       { "t": "Grammar: the 2 points, with the examples read aloud and one 🔬 for each. Take extra care with the pairs ふりそう × ふるそう", "min": 25 },
-      { "t": "Lesson 17 video (block 6), only the part on そうです and って", "min": 10 },
+      { "t": "Block 6: the Lesson 17 video or the Sakubi sections (likeness; quoting), only the parts on そうです and って — read to understand, not to memorize", "min": 10 },
       { "t": "Notebook homework + checking it against the answer key", "min": 15 },
       { "t": "Checklist (block 10) + write your questions in the lesson notebook", "min": 5 }
     ]
@@ -59,7 +59,7 @@
       "gc": null,
       "title": "〜そうです (I hear)",
       "gloss": "I hear that…, they say…",
-      "explanation": "To pass on information you **heard, read or saw** (on TV, online, from a friend), Japanese puts **そうです** after the **short form**. It's English \"I hear that…\", \"they say…\": you don't vouch for the information, you just pass it on.\n• Verb: short form + そうです. ふる → ふるそうです; ふらない → ふらないそうです; ふった → ふったそうです; ふらなかった → ふらなかったそうです.\n• い-adjective: attaches directly. おいしい → おいしいそうです; 高くなかった → 高くなかったそうです.\n• Noun and な-adjective: in the present affirmative, add **だ**. 休みだそうです; 元気だそうです. In the other forms, use the normal short form: 休みじゃないそうです; 元気だったそうです.\n• This そうです **does not conjugate**: past and negative stay inside the information, before it. With this meaning there is no そうでした and no そうじゃないです.\n• The **source** goes at the start, with **〜によると** (\"according to…\"): ニュースによると、… When the source is a person and you want to quote them, 〜と言っていました (lesson 08-2) also works.\n• In the sentence, [information] + そうです is the **PREDICATE**. Read from the end: \"I hear\" → what? → everything that comes before it.\n\n**Hearsay × appearance (lesson 13-2).** These are two different そう, and **what comes before** decides which one you have:\n• Appearance: **ます-stem** or **い-adjective minus い** + そう = \"looks…, from what I can see\". 雨がふりそうです (I'm looking at the dark sky); おいしそうです (I'm looking at the cake); 元気そうです (I'm looking at the person's face).\n• Hearsay: **complete short form** + そうです = \"I hear…\". 雨がふるそうです (the forecast said so); おいしいそうです (someone told me); 元気だそうです (his mother told me).\n• Quick clue: if the form before そう **could end a sentence on its own** (ふる, おいしい, 元気だ), it's hearsay. If the word is **cut off** (ふり, おいし, 元気 without だ), it's appearance.",
+      "explanation": "To pass on information you **heard, read or saw** (on TV, online, from a friend), Japanese puts **そうです** after the **short form**. It's English \"I hear that…\", \"they say…\": you don't vouch for the information, you just pass it on.\n• **This そう attaches to a whole statement**, not to a single word: what comes before it is a complete sentence in the short form, one that could end right there (雨がふる。 / おいしい。 / 休みだ。). The politeness goes only on the です at the end.\n• Verb: short form + そうです. ふる → ふるそうです; ふらない → ふらないそうです; ふった → ふったそうです; ふらなかった → ふらなかったそうです.\n• い-adjective: attaches directly. おいしい → おいしいそうです; 高くなかった → 高くなかったそうです.\n• Noun and な-adjective: in the present affirmative, add **だ**. 休みだそうです; 元気だそうです. In the other forms, use the normal short form: 休みじゃないそうです; 元気だったそうです.\n• This そうです **does not conjugate**: past and negative stay inside the information, before it. With this meaning there is no そうでした and no そうじゃないです.\n• The **source** goes at the start, with **〜によると** (\"according to…\"): ニュースによると、… When the source is a person, you can also quote them with 〜と言っていました (lesson 08-2), or say how you got the news with **〜と聞きました** (\"I heard that…\"): ペドロさんが来月ひっこすと聞きました。 The same short form goes before と.\n• Not every そうです is hearsay: in はい、そうです (lesson 01-1), そう is just the word \"so, like that\". Hearsay そうです always has a statement in front of it.\n• In the sentence, [information] + そうです is the **PREDICATE**. Read from the end: \"I hear\" → what? → everything that comes before it.\n\n**Hearsay × appearance (lesson 13-2).** These are two different そう, and **what comes before** decides which one you have:\n• Appearance: **ます-stem** or **い-adjective minus い** + そう = \"looks…, from what I can see\". With a verb it often means \"looks like it's about to…\". 雨がふりそうです (I'm looking at the dark sky: it's about to rain); おいしそうです (I'm looking at the cake); 元気そうです (I'm looking at the person's face).\n• Hearsay: **complete short form** + そうです = \"I hear…\". 雨がふるそうです (the forecast said so); おいしいそうです (someone told me); 元気だそうです (his mother told me).\n• Quick clue: if you could put a 。 right before そう (ふる。 おいしい。 元気だ。), it's hearsay. If the word is **cut off** (ふり, おいし, 元気 without だ), it's appearance.\n• Going further (Sakubi): **らしい** is a close relative of hearsay そうです. あしたは休みらしいです = \"apparently tomorrow is a day off\": a conclusion from what you've heard or from the circumstances. It attaches to a noun without だ, and it comes back in the N3 Bridge (lesson P-04).",
       "structure": "[source]によると、[short form] そうです · [N / な-adj] だそうです",
       "examples": [
         { "jp": "天気予報によると、あしたは雨がふるそうです。", "kana": "てんきよほうによると、あしたはあめがふるそうです。", "romaji": "Tenki yohō ni yoru to, ashita wa ame ga furu sō desu.", "en": "According to the weather forecast, it's going to rain tomorrow.", "noAnat": true },
@@ -68,7 +68,7 @@
       ],
       "pitfalls": [
         "With nouns and な-adjectives, don't forget だ: 休みそうです ✗ → 休みだそうです ✓. Without だ, the sentence is no longer hearsay.",
-        "The past goes in the information, not in そうです: ふるそうでした ✗ → ふったそうです ✓ (I hear it rained).",
+        "The information stays in the plain short form, and its tense goes inside it, never on そうです: 雨がふりますそうです ✗ → 雨がふるそうです ✓; ふるそうでした ✗ → ふったそうです ✓ (I hear it rained).",
         "If you only heard about it, don't use the appearance form. いい and ない are the tricky ones: for appearance they become よさそう / なさそう; for hearsay they stay いいそう / ないそう. A friend told you the hotel is good: あのホテルはよさそうです ✗ (that's \"it looks good\") → あのホテルはいいそうです ✓.",
         "Don't use hearsay for things you know firsthand: わたしは来月ひっこすそうです ✗ → 来月ひっこします ✓. For your own plans, just say them directly."
       ],
@@ -84,7 +84,7 @@
       "gc": null,
       "title": "〜って (casual quoting)",
       "gloss": "said that…, I hear…; this … thing",
-      "explanation": "In casual speech, **って** is the all-purpose quoting word. It shows up in three places:\n• **Instead of と**, before 言う: 「行く」って言ってた = 「行く」と言っていました.\n• **At the end of the sentence**, as a casual そうです: short form + って. 雨がふるって。 = \"They say it's going to rain.\" With nouns and な-adjectives, だ stays: 休みだって。 You'll also hear **〜んだって** a lot (来ないんだって), with the same meaning.\n• **After a noun**, as a casual topic, to bring something up or to ask about something you don't know well: 新しい先生って、どんな人？ (\"So what's the new teacher like?\"); 「かいてんずし」って何？ (\"What's this 'kaitenzushi' thing?\").\n• Often the final 言ってた drops, and the listener fills it in: 田中さんは来ないって。 = \"Tanaka (says he) isn't coming.\"\n• って is **informal**: use it with friends and family. With your teacher or your boss, use 〜そうです and 〜と言っていました.\n• In the sentence, everything **before って** is what was said, the **QUOTE**. The predicate (言ってた) sometimes doesn't appear at all.",
+      "explanation": "In casual speech, **って** is the all-purpose quoting word. Like と, it is a **quote marker**: it closes off a whole clause (what someone said, thought or heard) and plugs it into a bigger sentence, a bit like \"that\" in \"he said **that** he's coming\", but placed **after** the clause. **When it quotes, って is the colloquial version of と.** It shows up in three places:\n• **Instead of と**, before 言う: 「行く」って言ってた = 「行く」と言っていました.\n• **At the end of the sentence**, as a casual そうです: short form + って. 雨がふるって。 = \"They say it's going to rain.\" With nouns and な-adjectives, だ stays: 休みだって。 You'll also hear **〜んだって** a lot (来ないんだって), with the same meaning.\n• **After a noun**, as a casual topic: to bring something up, to ask about something you don't know well, or to put feeling on it. 新しい先生って、どんな人？ (\"So what's the new teacher like?\"); 「かいてんずし」って何？ (\"What's this 'kaitenzushi' thing?\"); 月曜日って、きらい！ (\"Mondays — I hate them!\").\n• Often the final 言ってた drops, and the listener fills it in: 田中さんは来ないって。 = \"Tanaka (says he) isn't coming.\"\n• **Which form goes before って or と?** When you report the idea in your own words, the short form: 行くって言ってた. Only an exact quotation, inside 「」, keeps the speaker's own words, polite or not: 「行きます」って言ってた.\n• To ask what someone said: なんて言ってた？ (\"What did they say?\"). なんて is 何と (\"what\" + the quote marker), squeezed together.\n• って is **informal**: use it with friends and family. With your teacher or your boss, use 〜そうです and 〜と言っていました.\n• In the sentence, in the quoting uses everything **before って** is what was said, the **QUOTE**, and the predicate (言ってた) sometimes doesn't appear at all. In the topic use (新しい先生って、…), the block before って is the **TOPIC**: a casual は.\n• Going further (Sakubi): **だって** at the start of a sentence is a different word: a protest or an excuse, \"but…, well, because…\". だって、雨がふってたから。 = \"Well, it was raining!\" Don't confuse it with 休みだって (だ + って, \"they say it's a day off\"). And **っていう** (casual という) + noun means \"called…\": 「さくら」っていう店 = \"a shop called Sakura\" (lesson 20-3).",
       "structure": "「[words]」って言ってた · [short form]って。(= casual そうです) · [N]って、〜？(casual topic)",
       "examples": [
         { "jp": "ルーカスがたからくじに当たったって。— えっ、うらやましい！", "kana": "ルーカスがたからくじにあたったって。— えっ、うらやましい！", "romaji": "Rūkasu ga takarakuji ni atatta tte. — E, urayamashii!", "en": "I heard Lucas won the lottery. — What? I'm so jealous!", "noAnat": true },
@@ -93,13 +93,13 @@
       ],
       "pitfalls": [
         "って is casual. With your teacher: 田中さんは来ないって。✗ → 田中さんは来ないそうです ✓.",
-        "In hearsay, だ stays: 休みって ✗ → 休みだって ✓ (they say it's a day off). Without it, 休みって becomes the topic \"about the day off…\", and the sentence is left hanging.",
+        "In hearsay, だ goes after nouns and な-adjectives, never after い-adjectives: さむいだって ✗ → さむいって ✓ (they say it's cold). After a noun, keep だ when you speak: あしたは休みだって ✓ (they say it's a day off). In fast casual speech you will also hear it dropped (休みって言ってた), but a bare 休みって can also be heard as the topic \"about the day off…\".",
         "In 「行く」って言ってた there are two \"tte\": the first is the quote marker; the second is part of 言って, the て-form of 言う. Don't mix them up.",
         "って at the end of a sentence means \"(someone) said / they say\", not your own opinion. For \"I think\", use 〜と思う (lesson 08-2): 雨がふるって ✗ (when you mean \"I think it'll rain\") → 雨がふると思う ✓."
       ],
       "howToStudy": [
         "Switch 4 sentences from one register to the other, out loud: 雨がふるそうです ⇄ 雨がふるって。; 休みだそうです ⇄ 休みだって。",
-        "Tap 🔬 on example 2: 田中さんが is the SUBJECT and 言ってたよ is the PREDICATE at the end. The quoted part ends in ひまだって, which Anatomy tags NO PARTICLE because it doesn't read って as a quote marker. Correct it in your notebook: everything before って is the QUOTE, and って does the job of と.",
+        "Tap 🔬 on example 2: 田中さんが is the SUBJECT and 言ってたよ is the PREDICATE at the end. The quoted part ends in ひまだって, which Anatomy tags NO PARTICLE because it doesn't read って as a quote marker. Now paste the polite version into 🔬 Analyze: 田中さんは「あしたはひまだ」と言っていました。 With と, the same block (ひまだと) shows up as QUOTE, and that is exactly the job って does.",
         "Speaking: tell an imaginary friend 3 pieces of news from your week with って (…って。 / …んだって。), as if you were leaving a voice message."
       ],
       "flag": null
@@ -144,8 +144,8 @@
         "prompt": "Make each sentence casual with って, as if you were telling a friend.",
         "items": [
           { "q": "ペドロさんは来月ひっこすそうです。", "a": { "jp": "ペドロは来月ひっこすって。", "kana": "ペドロはらいげつひっこすって。", "romaji": "Pedoro wa raigetsu hikkosu tte." }, "note": "Between close friends, さん usually drops." },
-          { "q": "あしたは休みだそうです。", "a": { "jp": "あしたは休みだって。", "kana": "あしたはやすみだって。", "romaji": "Ashita wa yasumi da tte." }, "note": "だ stays. Without it, 休みって becomes a topic." },
-          { "q": "マリアさんは「すしが好きです」と言っていました。", "a": { "jp": "マリアは「すしが好き」って言ってた。", "kana": "マリアは「すしがすき」っていってた。", "romaji": "Maria wa \"sushi ga suki\" tte itteta." }, "note": "って replaces と, and 言っていました becomes 言ってた." },
+          { "q": "あしたは休みだそうです。", "a": { "jp": "あしたは休みだって。", "kana": "あしたはやすみだって。", "romaji": "Ashita wa yasumi da tte." }, "note": "Keep だ. Without it, 休みって could also be heard as a topic." },
+          { "q": "マリアさんは「すしが好きです」と言っていました。", "a": { "jp": "マリアはすしが好きだって言ってた。", "kana": "マリアはすしがすきだっていってた。", "romaji": "Maria wa sushi ga suki da tte itteta." }, "note": "Reported in your own words, so the short form (好きです → 好きだ); って replaces と, and 言っていました becomes 言ってた. To keep her exact words, put them in 「」: 「すしが好きです」って言ってた also works." },
           { "q": "山田さんとアナさんはつきあっているそうです。", "a": { "jp": "山田さんとアナさんはつきあってるって。", "kana": "やまださんとアナさんはつきあってるって。", "romaji": "Yamada-san to Ana-san wa tsukiatteru tte." }, "note": "In casual speech, 〜ている often becomes 〜てる." },
           { "q": "Ask a friend what おこのみやき is, using って.", "a": { "jp": "「おこのみやき」って何？", "kana": "「おこのみやき」ってなに？", "romaji": "\"Okonomiyaki\" tte nani?" }, "note": "Nって何？ = \"What's this N thing?\"" }
         ]
@@ -162,9 +162,9 @@
     "workbook": []
   },
   "practice": [
-    { "tool": "Wagotabi", "what": "Play in the N4 areas and levels and hunt for そう and って in the dialogues. For each そう, decide by what comes before it: a complete form (hearsay) or a cut-off word (appearance). Log the session in Immersion → Games and paste one of those lines into 🔬 Anatomy. With a verb + そうです, Anatomy may tag the verb DESCRIBES NEXT and そうです alone as the PREDICATE: read the two together as the predicate.", "min": 15 },
-    { "tool": "ヅオリンゴー · Mining", "what": "Use Mining (⛏) to save 5 new words from this lesson to the SRS (うわさ, 天気予報, たからくじ, 当たる, ひっこす) and review them along with the \"🌊 All\" deck.", "min": 5 },
-    { "tool": "ヅオリンゴー", "what": "Drills → 🔬 Anatomy → 🏷 Tag: 5 sentences. Then paste a sentence of your own with an い-adjective + そうです (…はおもしろいそうです) into 🔬 Analyze and check that it shows up as a single PREDICATE at the end.", "min": 10 },
+    { "tool": "Wagotabi", "what": "Play normally and hunt for そう and って in the dialogues. For each そう, decide by what comes before it: a complete statement (hearsay) or a cut-off word (appearance). Log the session in Immersion → Games and paste one of those lines into 🔬 Anatomy. With a verb + そうです, Anatomy may tag the verb DESCRIBES NEXT and そうです alone as the PREDICATE: read the two together as the predicate. Save the best line with ⛏ Mining, after looking up every word you didn't know.", "min": 15 },
+    { "tool": "ヅオリンゴー", "what": "First your reviews in 🌊 All. Then use ⛏ Mining to add 5 new words from this lesson to the SRS (うわさ, 天気予報, たからくじ, 当たる, ひっこす): the kanji of 天気予報 and 当たる stick best inside these words, not on their own. Finish with Drills → 🔬 Anatomy → 🏷 Tag: 5 sentences, then paste a sentence of your own with an い-adjective + そうです (…はおもしろいそうです) into 🔬 Analyze and check that it shows up as a single PREDICATE at the end.", "min": 15 },
+    { "tool": "Reading", "what": "Real Japanese news: open one NHK NEWS WEB EASY article (Resources tab → Reading). News is all about passing on information, so look for the lines that report what someone said or announced (〜と言っています, 〜と話しています, maybe a 〜そうです). Read it once for the gist, then look up only the words that block you; on a computer, the Yomitan pop-up dictionary (also in the Resources tab) does it with a hover. Save one sentence you now understand with ⛏ Mining, so it comes back in your SRS.", "min": 10 },
     { "tool": "Shadowing", "what": "Tap 🔊 on the examples and repeat along 3 times. In example 3 of point a, notice that おいしいそう and おいしそう differ by just one い: say them back to back until the difference comes out clearly.", "min": 5 },
     { "tool": "Speaking", "what": "Record your news roundup (homework h4) in 40 seconds or less, in a TV-host voice.", "min": 5 }
   ],
@@ -180,7 +180,12 @@
     "I can name the source with 〜によると at the start of the sentence.",
     "I can tell ふりそうです (appearance) from ふるそうです (hearsay), and おいしそう from おいしいそう, just by what comes before そう.",
     "I use って with friends: instead of と (「…」って言ってた), at the end of a sentence (来ないって) and to bring up a topic (Nって何？).",
+    "I know that って is the casual と, and that reported words before it go in the short form (行くって言ってた); only an exact quote in 「」 keeps the original words.",
     "I did the homework, checked it against the answer key and redid what I got wrong.",
     "If I have the Genki II Workbook, I did the Lesson 17 exercises on そうです and って."
+  ],
+  "credits": [
+    "Explanations adapted in part from Sakubi (public domain, CC0) — sakubi.neocities.org",
+    "Study method informed by the DJT Guide to Japanese — djtguide.neocities.org/guide"
   ]
 }

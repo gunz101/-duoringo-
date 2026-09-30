@@ -16,7 +16,7 @@
       { "t": "Warm-up: say aloud the short past (た) and the ない form of 行く, 食べる, する, 来る, 安い and ひま", "min": 5 },
       { "t": "Vocabulary: tap 🔊 on each word and repeat it twice", "min": 10 },
       { "t": "Grammar: the 2 points, with the examples read aloud and one 🔬 for each. In point a, keep the three uses (if, when, discovery) clearly apart", "min": 25 },
-      { "t": "Lesson 17 video (block 6), only the part on 〜たら and 〜なくてもいいです", "min": 10 },
+      { "t": "Block 6: the Lesson 17 video or the Sakubi sections (if and when; permission with いい), only the parts on 〜たら and 〜なくてもいいです — read to understand, not to memorize", "min": 10 },
       { "t": "Notebook homework + checking it against the answer key", "min": 15 },
       { "t": "Checklist (block 10) + write your questions in the lesson notebook", "min": 5 }
     ]
@@ -60,7 +60,7 @@
       "gc": null,
       "title": "〜たら (if / when)",
       "gloss": "if…, when… (condition and result)",
-      "explanation": "**〜たら** links two parts: the **condition** (A) and the **result** (B). \"If/when A happens, B.\" Making it is easy: take the **short past** and add **ら**. It's the same form as in 〜たらどうですか (lesson 14-3).\n• Verb: 行った → 行ったら; 食べた → 食べたら; した → したら; 来た → 来たら (きたら). Negative: 行かなかった → 行かなかったら (\"if I don't go\").\n• い-adjective: 安かった → 安かったら. Careful with いい: よかった → **よかったら** (\"if it's good\"). On its own, よかったら also means \"if you like\": よかったら、いっしょに行きませんか。\n• Noun and な-adjective: だった → **だったら**. 雨だったら (\"if it's rainy\"); ひまだったら (\"if you're free\").\n• The ら is **not past**. The form looks like the past, but the tense of the sentence is decided by the **predicate at the end**: あした雨がふったら… is about tomorrow.\n• **A always comes before B.** The result only happens after the condition is met: 日本に行ったら、カメラを買います = \"I'll buy the camera there, once I'm in Japan\".\n\n**The three uses of 〜たら:**\n• **If (hypothesis):** A may or may not happen. もし at the start stresses the doubt: もしお金があったら、日本に住みたいです。\n• **When (certainty):** A is sure to happen, and B comes after it. 駅に着いたら、電話してください。 (\"When you get to the station, please call me.\") 大学をそつぎょうしたら… (\"When I graduate from college…\").\n• **Discovery (B in the past):** \"when I did A, (I found that) B\". B is something you **found**, or something that happened without depending on you: カーテンを開けたら、雪がふっていました。\n• In the sentence, the block with たら is the **CONDITION** (🔬 labels it IF / WHEN), and the **PREDICATE** is still at the end. Read from the end: \"please call me\" → on what condition? → when you arrive → where? → at the station.",
+      "explanation": "**〜たら** links two parts: the **condition** (A) and the **result** (B). \"If/when A happens, B.\" It says that B comes **after** A, but it doesn't claim that A **causes** B. That loose link is why たら is the most flexible \"if\" in Japanese: it works for plans, requests, invitations and pure hypotheses. Making it is easy: take the **short past** and add **ら**. It's the same form as in 〜たらどうですか (lesson 14-3).\n• Verb: 行った → 行ったら; 食べた → 食べたら; した → したら; 来た → 来たら (きたら). Negative: 行かなかった → 行かなかったら (\"if I don't go\").\n• い-adjective: 安かった → 安かったら. Careful with いい: よかった → **よかったら** (\"if it's good\"). On its own, よかったら also means \"if you like\": よかったら、いっしょに行きませんか。\n• Noun and な-adjective: だった → **だったら**. 雨だったら (\"if it's rainy\"); ひまだったら (\"if you're free\").\n• The ら is **not past**. The form looks like the past, but the tense of the sentence is decided by the **predicate at the end**: あした雨がふったら… is about tomorrow.\n• **A always comes before B.** The result only happens after the condition is met: 日本に行ったら、カメラを買います = \"I'll buy the camera there, once I'm in Japan\".\n\n**The three uses of 〜たら:**\n• **If (hypothesis):** A may or may not happen. もし at the start stresses the doubt: もしお金があったら、日本に住みたいです。\n• **When (certainty):** A is sure to happen, and B comes after it. 駅に着いたら、電話してください。 (\"When you get to the station, please call me.\") 大学をそつぎょうしたら… (\"When I graduate from college…\").\n• **Discovery (B in the past):** \"when I did A, (I found that) B\". B is something you **found**, or something that happened without depending on you: カーテンを開けたら、雪がふっていました。\n• In the sentence, the block with たら is the **CONDITION** (🔬 labels it IF / WHEN), and the **PREDICATE** is still at the end. Read from the end: \"please call me\" → on what condition? → when you arrive → where? → at the station.\n• Going further (Sakubi): Japanese has several words for \"if\", and たら is the all-rounder. **と** (lesson 18-3) is for a natural, automatic consequence (press the button and the door opens). **なら** (lesson 13-3) assumes that A is true and says what follows from it, so B can even happen **before** A: 日本に行くなら、カメラを買ったほうがいいですよ = \"If you're going to Japan, you'd better buy a camera\" (before the trip, unlike 行ったら). **ば** comes in lesson 22-2.",
       "structure": "[A: short past]ら、[B: result] · もし [A]たら、[B] (hypothesis)",
       "examples": [
         { "jp": "もしお金があったら、日本に住みたいです。", "kana": "もしおかねがあったら、にほんにすみたいです。", "romaji": "Moshi okane ga attara, Nihon ni sumitai desu.", "en": "If I had money, I'd want to live in Japan." },
@@ -85,7 +85,7 @@
       "gc": null,
       "title": "〜なくてもいいです (don't have to)",
       "gloss": "you don't have to…, there's no need to…",
-      "explanation": "To say you **don't have to** do something, take the **ない form**, change the final い to **くても** and add **いいです**. Literally: \"even not doing it, it's fine\".\n• 行かない → 行か**なくても**いいです; 食べない → 食べなくてもいいです; しない → しなくてもいいです; 来ない → 来なくてもいいです (こなくても).\n• It's the 〜てもいいです of permission (lesson 06-3) applied to the negative: 行ってもいいです = \"you may go\"; 行かなくてもいいです = \"you don't have to go\".\n• It's the **opposite of 〜なければいけません** (lesson 12-3). When someone asks \"do I have to…?\", the \"no\" answer uses this form: くつをぬがなければいけませんか。— いいえ、ぬがなくてもいいです。\n• It also works with adjectives and nouns: 長くなくてもいいです (\"it doesn't have to be long\"); 日本人じゃなくてもいいです (\"you don't have to be Japanese\").\n• Casual: 行かなくてもいい, and often without も: 行かなくていい.\n• In the sentence, 〜なくてもいいです is **a single block**, the PREDICATE. 🔬 shows it as a PREDICATE of **permission**, the same family as 〜てもいいです.\n\n**All four on the same verb** (worth copying into your notebook):\n• 行ってもいいです = you may go (permission)\n• 行ってはいけません = you must not go (prohibition)\n• 行かなければいけません = you have to go (obligation)\n• 行かなくてもいいです = you don't have to go (no obligation)",
+      "explanation": "To say you **don't have to** do something, take the **ない form**, change the final い to **くても** and add **いいです**. Literally: \"even not doing it, it's fine\". The piece ても is the て-form + も (\"even\"): なくて + も = \"even not…\". The same ても, \"even if\", comes back on its own in lesson 23-1.\n• 行かない → 行か**なくても**いいです; 食べない → 食べなくてもいいです; しない → しなくてもいいです; 来ない → 来なくてもいいです (こなくても).\n• It's the 〜てもいいです of permission (lesson 06-3) applied to the negative: 行ってもいいです = \"you may go\"; 行かなくてもいいです = \"you don't have to go\".\n• It's the **opposite of 〜なければいけません** (lesson 12-3). When someone asks \"do I have to…?\", the \"no\" answer uses this form: くつをぬがなければいけませんか。— いいえ、ぬがなくてもいいです。\n• It also works with adjectives and nouns: 長くなくてもいいです (\"it doesn't have to be long\"); 日本人じゃなくてもいいです (\"you don't have to be Japanese\").\n• Casual: 行かなくてもいい, and often without も: 行かなくていい.\n• Like very polite English, a \"you don't have to\" can double as a gentle \"please don't bother\": 手伝わなくてもいいですよ = \"You don't have to help\", often meaning \"I'm fine, really.\" Listen to the tone.\n• In the sentence, 〜なくてもいいです is **a single block**, the PREDICATE. 🔬 shows it as a PREDICATE of **permission**, the same family as 〜てもいいです.\n\n**All four on the same verb** (worth copying into your notebook):\n• 行ってもいいです = you may go (permission)\n• 行ってはいけません = you must not go (prohibition)\n• 行かなければいけません = you have to go (obligation)\n• 行かなくてもいいです = you don't have to go (no obligation)\n\n• Going further (Sakubi): casual speech also has 〜ないでいい (食べないでいいよ, \"it's fine not to eat\"), built with ないで (lesson 20-2) and very close in meaning. On the other side, \"must\" has many shapes: なければいけない, なければならない, なくてはいけない and the casual なきゃ / なくちゃ (lessons 12-3 and P-16). They all say the same thing: not doing it is no good.",
       "structure": "[ない form minus い] + くてもいいです · 〜なければいけませんか。— いいえ、〜なくてもいいです。",
       "examples": [
         { "jp": "あしたは休みだから、早く起きなくてもいいです。", "kana": "あしたはやすみだから、はやくおきなくてもいいです。", "romaji": "Ashita wa yasumi da kara, hayaku okinakute mo ii desu.", "en": "Tomorrow is a day off, so I don't have to get up early." },
@@ -94,6 +94,7 @@
       ],
       "pitfalls": [
         "\"Don't have to\" is not \"must not\", in Japanese or in English: 来てはいけません ✗ (that forbids it: \"you must not come\") → 来なくてもいいです ✓ (you don't have to come).",
+        "\"You don't have to come\" is not \"please don't come\" either: 来ないでください ✗ (a request, \"please don't come\", lesson 08-3) → 来なくてもいいですよ ✓ (you're free not to come).",
         "The base is the ない form minus its final い: 書きなくても ✗, 書かないくても ✗ → 書かなくても ✓.",
         "\"I don't need\" + a thing is a different structure: ふくろはいりません (\"I don't need a bag\"). With an action, use this form: 名前を書くはいりません ✗ → 名前を書かなくてもいいです ✓."
       ],
@@ -162,11 +163,11 @@
     "workbook": []
   },
   "practice": [
-    { "tool": "Wagotabi", "what": "Play in the N4 areas and levels and hunt for 〜たら in the dialogues. For each one, decide: is it \"if\", \"when\" or a discovery? Log the session in Immersion → Games and paste one of those lines into 🔬 Anatomy to see the IF / WHEN block.", "min": 15 },
-    { "tool": "ヅオリンゴー", "what": "Drills → Conjugation: the short past (〜た) and the negative (〜ない) of 10 verbs. They are the bases of 〜たら and 〜なくてもいいです.", "min": 10 },
+    { "tool": "Wagotabi", "what": "Play normally and hunt for 〜たら in the dialogues. For each one, decide: is it \"if\", \"when\" or a discovery? Log the session in Immersion → Games and paste one of those lines into 🔬 Anatomy to see the IF / WHEN block. Save the clearest line with ⛏ Mining, after looking up every word you didn't know.", "min": 15 },
+    { "tool": "ヅオリンゴー", "what": "First your reviews in 🌊 All; if a word from block 3 is missing from your deck, add it with ⛏ Mining (着く, 開ける and 終わる are good ones: their kanji stick best inside these verbs). Then Drills → Conjugation: the short past (〜た) and the negative (〜ない) of 10 verbs. They are the bases of 〜たら and 〜なくてもいいです.", "min": 10 },
     { "tool": "ヅオリンゴー · Journal", "what": "Write 3 sentences of your own: one with もし〜たら, one with a \"when\" 〜たら and one with 〜なくてもいいです. Then open \"Anatomy of what I wrote\" and check that the block with たら shows up as IF / WHEN and that the predicate is at the end.", "min": 10 },
-    { "tool": "Shadowing", "what": "Tap 🔊 on the examples and repeat along 3 times. In example 2 of point b, the question and the answer have long predicates (ぬ・が・な・け・れ・ば…): keep the rhythm even all the way to the end.", "min": 5 },
-    { "tool": "Speaking", "what": "Record your day-off plan (homework h4) in 40 seconds or less. Listen and check that each たら came out attached to the short past.", "min": 5 }
+    { "tool": "Reading", "what": "Open a level 1 or 2 story from the Tadoku free graded readers (Resources tab → Reading). Stories are told in the past, so a 〜たら there is often a discovery (…たら、…がいました). For each たら you find, say out loud what happened first and what was found. Read for the story; look up only the words that block you.", "min": 10 },
+    { "tool": "Shadowing + speaking", "what": "Tap 🔊 on the examples and repeat along 3 times. In example 2 of point b, the question and the answer have long predicates (ぬ・が・な・け・れ・ば…): keep the rhythm even all the way to the end. Then record your day-off plan (homework h4) in 40 seconds or less, and check that each たら came out attached to the short past.", "min": 10 }
   ],
   "culture": {
     "title": "Earthquakes and ぼうさい (preparedness)",
@@ -179,8 +180,12 @@
     "I use 〜たら for \"if\" (with もし) and for \"when\" (things that will happen), with the result always at the end.",
     "I can tell about a discovery with 〜たら and the result in the past: …たら、…ました。",
     "I can say \"you don't have to\" with 〜なくてもいいです and answer いいえ、〜なくてもいいです to 〜なければいけませんか。",
-    "I can tell the four apart: 〜てもいい, 〜てはいけない, 〜なければいけない and 〜なくてもいい.",
+    "I can tell the four apart (〜てもいい, 〜てはいけない, 〜なければいけない and 〜なくてもいい), and I don't confuse 〜なくてもいい (don't have to) with 〜ないでください (please don't).",
     "I did the homework, checked it against the answer key and redid what I got wrong.",
     "If I have the Genki II Workbook, I did the Lesson 17 exercises on 〜たら and 〜なくてもいいです."
+  ],
+  "credits": [
+    "Explanations adapted in part from Sakubi (public domain, CC0) — sakubi.neocities.org",
+    "Study method informed by the DJT Guide to Japanese — djtguide.neocities.org/guide"
   ]
 }

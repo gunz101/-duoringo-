@@ -1,0 +1,219 @@
+{
+  "id": "P-11",
+  "unit": "P-N3",
+  "genki": null,
+  "title": "Asking permission with the causative",
+  "titleJp": "考えさせてください・休ませていただけませんか",
+  "canDo": [
+    "I can ask to do something myself with 〜させてください (少し考えさせてください, 私に払わせてください), and I never mix it up with 〜てください.",
+    "I can ask a boss or a teacher for permission very politely with a reason + 〜させていただけませんか (a day off, leaving early, using something).",
+    "I can open a meeting or a talk, humbly announcing what I'll do, with 〜させていただきます — and I recognize it on shop notices.",
+    "I can build the causative て-form of any verb without the extra さ (休ませて, 読ませて, 説明させて).",
+    "I know when させていただく fits and why some speakers find it overused."
+  ],
+  "duration": {
+    "total": "70–90 min",
+    "blocks": [
+      { "t": "Warm-up: say aloud 5 causatives from lesson 22-1 (行かせる, 休ませる, 待たせる, 考えさせる, させる), then put each in the て-form", "min": 5 },
+      { "t": "Vocabulary: tap 🔊 on each word and repeat it twice. Learn the kanji through the words: 見学 = 見 (see) + 学 (learn) → \"visit to see and learn\"; 休業 = 休 (rest) + 業 (business) → \"the business rests\". Save the new words with Mining (⛏)", "min": 10 },
+      { "t": "Grammar: point a (〜させてください), with the examples read aloud and one 🔬. If you split the lesson into two sessions, stop here.", "min": 15 },
+      { "t": "Grammar: points b (〜させていただけませんか) and c (〜させていただきます), with the contrast between asking and announcing", "min": 20 },
+      { "t": "Video and reading from block 6, pausing on the examples", "min": 10 },
+      { "t": "Notebook homework + checking it against the answer key", "min": 20 },
+      { "t": "Checklist (block 10) + write your questions in the lesson notebook", "min": 5 }
+    ]
+  },
+  "prereqs": {
+    "aulas": ["P-10"],
+    "skills": [
+      "The causative (lesson 22-1): 行かせる, 食べさせる, させる, 来させる; and 〜させてくれる, where 〜させてください first appeared.",
+      "The request ladder 〜てください → 〜てくれませんか → 〜てもらえませんか → 〜ていただけませんか (lesson 16-2). This lesson climbs the same ladder with させ.",
+      "Humble language (lesson 20-1): いただく, いたす, 申す, and お〜します.",
+      "〜てもいいですか (lesson 06-3) and 〜ので (lesson 12-2), which this lesson uses with permission requests."
+    ],
+    "vocab": [
+      { "jp": "考える", "kana": "かんがえる", "romaji": "kangaeru", "en": "to think (about), to consider" },
+      { "jp": "休む", "kana": "やすむ", "romaji": "yasumu", "en": "to rest; to take a day off" },
+      { "jp": "早退する", "kana": "そうたいする", "romaji": "sōtai suru", "en": "to leave (work or school) early" },
+      { "jp": "払う", "kana": "はらう", "romaji": "harau", "en": "to pay" },
+      { "jp": "手伝う", "kana": "てつだう", "romaji": "tetsudau", "en": "to help (with a task)" },
+      { "jp": "決める", "kana": "きめる", "romaji": "kimeru", "en": "to decide" },
+      { "jp": "説明する", "kana": "せつめいする", "romaji": "setsumei suru", "en": "to explain" },
+      { "jp": "担当する", "kana": "たんとうする", "romaji": "tantō suru", "en": "to be in charge of" },
+      { "jp": "自己紹介", "kana": "じこしょうかい", "romaji": "jiko shōkai", "en": "self-introduction" },
+      { "jp": "会議", "kana": "かいぎ", "romaji": "kaigi", "en": "meeting" },
+      { "jp": "資料", "kana": "しりょう", "romaji": "shiryō", "en": "materials, documents, handouts" },
+      { "jp": "見学する", "kana": "けんがくする", "romaji": "kengaku suru", "en": "to visit and observe (a factory, a school…)" },
+      { "jp": "休業", "kana": "きゅうぎょう", "romaji": "kyūgyō", "en": "being closed for business (a shop, a company)" },
+      { "jp": "臨時", "kana": "りんじ", "romaji": "rinji", "en": "special, unscheduled (臨時休業 = a special closure)" },
+      { "jp": "値上げ", "kana": "ねあげ", "romaji": "neage", "en": "price increase" },
+      { "jp": "熱", "kana": "ねつ", "romaji": "netsu", "en": "fever" },
+      { "jp": "体調", "kana": "たいちょう", "romaji": "taichō", "en": "physical condition (体調が悪い = to feel unwell)" },
+      { "jp": "課長", "kana": "かちょう", "romaji": "kachō", "en": "section chief, manager" },
+      { "jp": "有給休暇", "kana": "ゆうきゅうきゅうか", "romaji": "yūkyū kyūka", "en": "paid leave (often just 有給)" },
+      { "jp": "私用", "kana": "しよう", "romaji": "shiyō", "en": "personal matters (私用のため = for personal reasons)" },
+      { "jp": "ごちそうになる", "kana": "ごちそうになる", "romaji": "gochisō ni naru", "en": "to be treated (to a meal)" },
+      { "jp": "ぜひ", "kana": "ぜひ", "romaji": "zehi", "en": "by all means, really (showing eagerness)" },
+      { "jp": "かまいません", "kana": "かまいません", "romaji": "kamaimasen", "en": "it's no problem, I don't mind" }
+    ]
+  },
+  "grammar": [
+    {
+      "id": "P-11-a",
+      "gc": null,
+      "title": "〜させてください",
+      "gloss": "please let me… (asking to do something yourself)",
+      "explanation": "In lesson 22-1 you met 〜させてください at the end of 〜させてくれる. Now it gets a lesson of its own. **Causative て-form + ください = \"please let me…\"** Compare:\n• 説明してください = please explain (**you** act).\n• 説明させてください = please let **me** explain (**I** act, you allow).\nOne させ flips who does the action.\n\n**Why the causative?** The causative says that someone in charge makes or **lets** another person act (lesson 22-1). Here the one in charge is **the listener**, and the one who acts is **you**. So 説明させてください is literally \"please let (me) explain\" — exactly the English.\n\n**The blocks.** Both people usually disappear, because the request already shows who is who:\n• the one who allows = the listener: never said;\n• the one who acts = you: often dropped, or said as **私に** (the に of the one who acts, lesson 22-1): ここは私に払わせてください;\n• [causative て + ください] = the **PREDICATE**, at the end. Read it first: \"let me pay\" → who acts? me → when? today.\n\n**Three everyday jobs:**\n• **Asking for time**: 少し考えさせてください (let me think it over). It is also the polite way to avoid saying yes on the spot.\n• **Offering, eagerly**: その仕事、ぜひ私にやらせてください (please let me do that job). It sounds keen and willing.\n• **Insisting kindly**: 今日は私に払わせてください (let me pay today).\n\n**Forms** (lesson 22-1): う-verbs → a-sound + せて (払わせて, 休ませて, 言わせて, 行かせて); る-verbs → させて (考えさせて, 決めさせて); する → させて (説明させて); くる → 来させて (こさせて). Among friends, drop ください: ちょっと考えさせて。\n\n**させてください × 〜てもいいですか** (lesson 06-3): both ask permission, in different ways. 〜てもいいですか is a **question** (\"is it OK if I…?\") and leaves the answer open. 〜させてください is a **request**: firmer, and it shows you really want to do it. With someone above you, the softest option is a question built on the causative: 〜させていただけませんか (point b).\n• Going further (Sakubi): in casual speech the causative has a short version in which せる becomes す, so you will hear 言わして and 休まして for 言わせて and 休ませて (mostly with う-verbs). Recognize it; write the full form.",
+      "structure": "(私に) [causative て-form] ください · (casual) 〜させて",
+      "examples": [
+        { "jp": "その件は、一日考えさせてください。", "kana": "そのけんは、いちにちかんがえさせてください。", "romaji": "Sono ken wa, ichinichi kangaesasete kudasai.", "en": "Please let me think about that matter for a day." },
+        { "jp": "今日は私に払わせてください。いつもごちそうになっているので。", "kana": "きょうはわたしにはらわせてください。いつもごちそうになっているので。", "romaji": "Kyō wa watashi ni harawasete kudasai. Itsumo gochisō ni natte iru node.", "en": "Please let me pay today. You always treat me, after all. [lit. because I'm always being treated]" },
+        { "jp": "その仕事、ぜひ私にやらせてください。", "kana": "そのしごと、ぜひわたしにやらせてください。", "romaji": "Sono shigoto, zehi watashi ni yarasete kudasai.", "en": "Please let me do that job — I'd really like to." }
+      ],
+      "pitfalls": [
+        "〜てください makes the OTHER person act. \"Let me explain\": 説明してください ✗ (= please explain) → 説明させてください ✓.",
+        "Build it from the a-sound, not from the ます stem: 休みさせてください ✗ → 休ませてください ✓; 帰りさせて ✗ → 帰らせて ✓. Only する-nouns take させて directly: 説明させて ✓.",
+        "The one who acts takes に, not は: 私は払わせてください ✗ → 私に払わせてください ✓ (or just 払わせてください).",
+        "English \"let me know\" is not a causative — it means \"tell me\", so the other person acts: メールで知らせさせてください ✗ → メールで知らせてください ✓ / メールで教えてください ✓."
+      ],
+      "howToStudy": [
+        "Say 5 pairs aloud, first with てください, then with させてください, and translate both: 払ってください (you pay) → 払わせてください (let me pay); 手伝ってください → 手伝わせてください; 考えてください → 考えさせてください; 説明してください → 説明させてください; 決めてください → 決めさせてください.",
+        "🔬 Anatomy → Analyze: paste example 2. 今日は is the TOPIC, 私に shows up as TARGET — it is the one who acts, marked with に exactly as in lesson 22-1 — and 払わせてください is the PREDICATE. The one who lets you pay (the listener) isn't in the sentence at all.",
+        "Speaking: imagine a colleague offers you a job, a gift or a plan. Answer 3 times without saying yes or no: ありがとうございます。少し考えさせてください。 — then with 一日 and 一週間 instead of 少し."
+      ],
+      "flag": null
+    },
+    {
+      "id": "P-11-b",
+      "gc": null,
+      "title": "〜させていただけませんか (× 〜ていただけませんか)",
+      "gloss": "could I possibly…? (asking permission very politely)",
+      "explanation": "To ask permission from a boss, a teacher or a client, put the causative on the **request ladder** of lesson 16-2. The ladder is the same; only させ is added, so the favor you ask for is **being allowed to act**:\n• **〜させて** — friends and family.\n• **〜させてください** — a direct request (point a).\n• **〜させてもらえませんか** — \"could I get you to let me…?\": polite, for colleagues and acquaintances.\n• **〜させていただけませんか** — \"could I humbly receive your permission to…?\": the standard way to ask a boss or a client.\n• **〜させていただけないでしょうか** — even softer, for a big request or a formal e-mail.\nいただける is the potential of いただく (lesson 16-2), so the request is really a question: \"can I receive this favor?\" That leaves the decision to the other person, which is what makes it polite.\n\n**At work** this is the everyday tool for time off, leaving early, taking on a task or using something. Two habits go with it:\n• open with **すみませんが、** or **申し訳ありませんが、**;\n• give the reason first, with **ので** (lesson 12-2): 熱があるので、今日は早退させていただけませんか。\nTypical answers: **いいですよ／どうぞ／ええ、かまいませんよ** (sure, go ahead). A refusal usually sounds like ちょっと…\n\n**The blocks.** [reason ので] → [time] → [object を] → [causative て + いただけませんか] = the **PREDICATE**. As in point a, both the listener (who allows) and you (who act) are usually left out. Read the predicate first: \"could I leave early?\" → when? → why?\n\n**させていただけませんか × ていただけませんか** (lesson 16-2): one させ decides who acts.\n• 説明していただけませんか = could **you** explain? (they act)\n• 説明させていただけませんか = could **I** explain? (you let me act)\n\n**× 〜てもよろしいでしょうか**: also very polite, and a good choice for small, immediate things: ここに座ってもよろしいでしょうか (may I sit here?). 〜させていただけませんか frames the permission as a **favor you receive**, so it fits requests that cost the other person something: a day off, a schedule change, their time.",
+      "structure": "[reason] ので、[time]、([object] を) [causative て-form] いただけませんか／いただけないでしょうか · (colleagues) 〜させてもらえませんか",
+      "examples": [
+        { "jp": "すみません、熱があるので、今日は早退させていただけませんか。", "kana": "すみません、ねつがあるので、きょうはそうたいさせていただけませんか。", "romaji": "Sumimasen, netsu ga aru node, kyō wa sōtai sasete itadakemasen ka.", "en": "Excuse me, I have a fever, so could I leave early today?" },
+        { "jp": "来週の金曜日、休ませていただけませんか。", "kana": "らいしゅうのきんようび、やすませていただけませんか。", "romaji": "Raishū no kin'yōbi, yasumasete itadakemasen ka.", "en": "Could I take next Friday off?" },
+        { "jp": "すみません、この資料をコピーさせてもらえませんか。— ええ、どうぞ。", "kana": "すみません、このしりょうをコピーさせてもらえませんか。— ええ、どうぞ。", "romaji": "Sumimasen, kono shiryō o kopī sasete moraemasen ka. — Ē, dōzo.", "en": "Excuse me, could I make a copy of these materials? — Sure, go ahead." }
+      ],
+      "pitfalls": [
+        "The request needs the potential いただけ: 休ませていただきませんか ✗ → 休ませていただけませんか ✓ (the same slip as in lesson 16-2).",
+        "Without させ, you ask the other person to act. To ask your boss whether YOU may give the presentation: 発表していただけませんか ✗ (= would you give it?) → 発表させていただけませんか ✓.",
+        "Too heavy among friends, as if you weren't close: (to a friend) ペン、使わせていただけませんか ✗ → ペン、使わせて ✓ / 使っていい？ ✓."
+      ],
+      "howToStudy": [
+        "Climb the ladder out loud with one verb: 帰らせて → 帰らせてください → 帰らせてもらえませんか → 帰らせていただけませんか → 帰らせていただけないでしょうか. Then do it again with 休む and 使う.",
+        "🔬 Anatomy → Analyze: paste example 1. すみません is an INTERJECTION, 熱が the SUBJECT, あるので the REASON, 今日は the TOPIC, and 早退させていただけませんか is one PREDICATE. Read it from the end: could I leave early? → when? today → why? I have a fever.",
+        "Speaking: role-play 3 requests to a boss — a day off, leaving early, using the meeting room. Each one: すみませんが + reason ので + 〜させていただけませんか. Record them and check the け in いただけませんか."
+      ],
+      "flag": null
+    },
+    {
+      "id": "P-11-c",
+      "gc": null,
+      "title": "〜させていただきます",
+      "gloss": "I will (humbly) do… — announcing your action with the listener's permission",
+      "explanation": "**〜させていただきます** is the same causative + いただく, but as a **statement**, not a question: \"I (humbly) receive your permission to do X.\" In practice it means **\"I will…\"**, said very modestly, and it tells the listener you are acting with their permission, or thanks to them. It is everywhere in work Japanese, speeches and shop notices.\n• **Opening or running a meeting or a talk**: 始めさせていただきます (I'll begin), 自己紹介させていただきます (let me introduce myself), 説明させていただきます (I'll explain).\n• **Notices from shops and companies** — the \"permission\" is the customers': 本日は臨時休業させていただきます (we're closed today); 来月から、一部の商品を値上げさせていただきます (from next month, we'll be raising some prices).\n• **Thanks**, in the past or with the stem: 参加させていただきました (I took part — thanks to you); 見学させていただき、ありがとうございました (thank you for letting me visit). The stem いただき + 、 is the formal way to say いただいて.\n\n**The blocks.** [reason / time / topic] → [object を] → [causative て + いただきます] = the **PREDICATE**. Compare 会議を始めます and 会議を始めさせていただきます: the blocks are the same; only the predicate got humbler.\n\n**させていただきます × させていただけませんか** (point b): the question **asks** for permission; the statement **announces** an action whose permission is already clear — you are the chair, the shop sets its own hours.\n\n**× お〜いたします** (lesson 20-1): ご説明いたします simply lowers you politely. 説明させていただきます adds \"with your permission\" — softer, but longer. Both are correct at work.\n\n**A word on overuse.** Because it sounds humble and safe, many people put させていただく on almost any verb, even when nobody's permission is involved. Some speakers find this **wordy or a little too much**, and it comes up often in columns about keigo. Japan's official keigo guidelines (敬語の指針, けいごのししん, from the government's Council for Cultural Affairs) describe it as fitting best when **(1)** you act with someone's permission and **(2)** you benefit from it. A practical rule: use it when there really is someone who allows the action or makes it possible; otherwise お〜します／いたします, or plain ます, is enough. You will still hear it all the time — it isn't wrong, just easy to overdo.\n\n**One slip people notice: the extra さ.** う-verbs take せて, so 読ませていただきます, not 読まさせていただきます. This extra さ (さ入れ言葉, さいれことば) is a well-known mistake, even among native speakers.",
+      "structure": "([object] を) [causative て-form] いただきます · 〜させていただき、ありがとうございました",
+      "examples": [
+        { "jp": "時間になりましたので、会議を始めさせていただきます。", "kana": "じかんになりましたので、かいぎをはじめさせていただきます。", "romaji": "Jikan ni narimashita node, kaigi o hajimesasete itadakimasu.", "en": "It's time, so I'll start the meeting. [lit. since it has become the time, I'll humbly receive (your permission) to start the meeting]" },
+        { "jp": "本日は臨時休業させていただきます。", "kana": "ほんじつはりんじきゅうぎょうさせていただきます。", "romaji": "Honjitsu wa rinji kyūgyō sasete itadakimasu.", "en": "We are closed today (a special closure). (a notice on a shop door)" },
+        { "jp": "先日はお話を聞かせていただき、ありがとうございました。", "kana": "せんじつはおはなしをきかせていただき、ありがとうございました。", "romaji": "Senjitsu wa ohanashi o kikasete itadaki, arigatō gozaimashita.", "en": "Thank you for letting me hear what you had to say the other day." }
+      ],
+      "pitfalls": [
+        "The extra さ: 読まさせていただきます ✗ → 読ませていただきます ✓; 休まさせて ✗ → 休ませて ✓. う-verbs take せて.",
+        "Only for YOUR action (or your side's). Inviting a guest to sit down: どうぞ座らせていただきます ✗ (= I'll humbly sit) → どうぞおかけください ✓ (lesson 19-1).",
+        "No one's permission, no させていただく. Telling a colleague about your weekend: 週末は映画を見させていただきました ✗ (sounds odd and wordy) → 週末は映画を見ました ✓.",
+        "Announcing is not asking. If your boss hasn't agreed yet: 来週の金曜日、休ませていただきます ✗ (sounds as if you've already decided) → 来週の金曜日、休ませていただけませんか ✓."
+      ],
+      "howToStudy": [
+        "Write a 3-line meeting opening in your notebook and say it aloud: 時間になりましたので、始めさせていただきます。まず、自己紹介させていただきます。〜と申します。",
+        "🔬 Anatomy → Analyze: paste example 1. なりましたので is the REASON, 会議を the OBJECT and 始めさせていただきます the PREDICATE. Then paste 会議を始めます。 and compare: same blocks, only the predicate changed.",
+        "Test each use with the two questions from the explanation — does someone allow it? do I benefit? Say one sentence where both answers are yes (工場を見学させていただきました) and one where they aren't, fixed to plain ます (週末は映画を見ました)."
+      ],
+      "flag": "How much させていただく is too much is a matter of taste, and usage keeps changing: many uses outside the two conditions of the official guideline are common and widely accepted today. The guideline here is a safe rule for your own speech, not a reason to correct other people."
+    }
+  ],
+  "media": [
+    { "order": 1, "kind": "video", "title": "Japanese Ammo with Misa: させてください and させていただく (asking permission with the causative)", "where": "YouTube · Japanese Ammo with Misa channel", "url": "", "search": "Japanese Ammo with Misa sasete kudasai sasete itadaku", "when": "After point b, as a second explanation. If the video covers only the causative in general, watch it as a review of lesson 22-1." },
+    { "order": 2, "kind": "reading", "title": "JLPT Sensei: the pages on 〜させてください and 〜させていただく, with more example sentences", "where": "Website · JLPT Sensei (grammar lists by level)", "url": "", "search": "JLPT Sensei sasete itadaku", "when": "After point c. Read the examples aloud. If the site lists a point at another level, that's fine: unofficial lists vary." },
+    { "order": 3, "kind": "input", "title": "Nihongo con Teppei: listen to one episode and note every させて you catch", "where": "Podcast · Nihongo con Teppei", "url": "", "search": "Nihongo con Teppei podcast", "when": "On any day after the lesson. Hosts sometimes announce what they'll do with 〜させていただきます; if you catch one, ask yourself who is \"allowing\" it." }
+  ],
+  "homework": {
+    "intro": "Do it by hand in your notebook. Write with the kanji you already know and use kana for the rest. Only then open the answer key, item by item. Circle what you got wrong and redo it the next day.",
+    "tasks": [
+      {
+        "id": "h1",
+        "type": "transform",
+        "prompt": "Make yourself the one who acts: turn each てください request into a させてください request, then translate it.",
+        "items": [
+          { "q": "説明してください。 (Please explain.)", "a": { "jp": "説明させてください。", "kana": "せつめいさせてください。", "romaji": "Setsumei sasete kudasai.", "en": "Please let me explain." }, "note": "する-noun: 説明する → 説明させる." },
+          { "q": "払ってください。 (Please pay.)", "a": { "jp": "払わせてください。", "kana": "はらわせてください。", "romaji": "Harawasete kudasai.", "en": "Please let me pay." }, "note": "Verbs in う take わ: 払う → 払わせる (like 払わない)." },
+          { "q": "手伝ってください。 (Please help.)", "a": { "jp": "手伝わせてください。", "kana": "てつだわせてください。", "romaji": "Tetsudawasete kudasai.", "en": "Please let me help." } },
+          { "q": "決めてください。 (Please decide.)", "a": { "jp": "決めさせてください。", "kana": "きめさせてください。", "romaji": "Kimesasete kudasai.", "en": "Please let me decide." }, "note": "る-verb: drop る, add させる." },
+          { "q": "行ってください。 (Please go.)", "a": { "jp": "行かせてください。", "kana": "いかせてください。", "romaji": "Ikasete kudasai.", "en": "Please let me go." } },
+          { "q": "読んでください。 (Please read it.)", "a": { "jp": "読ませてください。", "kana": "よませてください。", "romaji": "Yomasete kudasai.", "en": "Please let me read it." }, "note": "読む → 読ま + せて. No extra さ: 読まさせて is the slip from point c." }
+        ]
+      },
+      {
+        "id": "h2",
+        "type": "fill",
+        "prompt": "Complete with させてください, させていただけませんか, させていただきます or させていただき — the situation in brackets tells you which. Write the whole sentence.",
+        "items": [
+          { "q": "(You're chairing the meeting, and it's time to begin.) それでは、始め＿＿。", "a": { "jp": "それでは、始めさせていただきます。", "kana": "それでは、はじめさせていただきます。", "romaji": "Sore de wa, hajimesasete itadakimasu." }, "note": "You announce your own action as the chair: いただきます." },
+          { "q": "(To your manager. You feel unwell.) すみません、体調が悪いので、今日は早く帰ら＿＿。", "a": { "jp": "すみません、体調が悪いので、今日は早く帰らせていただけませんか。", "kana": "すみません、たいちょうがわるいので、きょうははやくかえらせていただけませんか。", "romaji": "Sumimasen, taichō ga warui node, kyō wa hayaku kaerasete itadakemasen ka." }, "note": "Your manager decides, so you ask: いただけませんか." },
+          { "q": "(To a colleague, about a project you'd love to lead.) その企画、ぜひ私に担当さ＿＿！", "a": { "jp": "その企画、ぜひ私に担当させてください！", "kana": "そのきかく、ぜひわたしにたんとうさせてください！", "romaji": "Sono kikaku, zehi watashi ni tantō sasete kudasai!" }, "note": "An eager offer: させてください. (企画 = project, plan.)" },
+          { "q": "(A notice on a shop door.) 誠に勝手ながら、本日は休業さ＿＿。", "a": { "jp": "誠に勝手ながら、本日は休業させていただきます。", "kana": "まことにかってながら、ほんじつはきゅうぎょうさせていただきます。", "romaji": "Makoto ni katte nagara, honjitsu wa kyūgyō sasete itadakimasu." }, "note": "The standard shop notice. 誠に勝手ながら = \"we apologize for the inconvenience\" [lit. very selfishly on our part]." },
+          { "q": "(An e-mail after a factory visit.) 先日は工場を見学さ＿＿、ありがとうございました。", "a": { "jp": "先日は工場を見学させていただき、ありがとうございました。", "kana": "せんじつはこうじょうをけんがくさせていただき、ありがとうございました。", "romaji": "Senjitsu wa kōjō o kengaku sasete itadaki, arigatō gozaimashita." }, "note": "Thanks for a permission you received. The stem いただき + 、 is the formal いただいて." }
+        ]
+      },
+      {
+        "id": "h3",
+        "type": "translate",
+        "prompt": "Translate into Japanese.",
+        "items": [
+          { "q": "Let me think about it until tomorrow.", "a": { "jp": "明日まで考えさせてください。", "kana": "あしたまでかんがえさせてください。", "romaji": "Ashita made kangaesasete kudasai." } },
+          { "q": "(To your manager) Could I leave thirty minutes early today?", "a": { "jp": "今日は三十分早く帰らせていただけませんか。", "kana": "きょうはさんじゅっぷんはやくかえらせていただけませんか。", "romaji": "Kyō wa sanjuppun hayaku kaerasete itadakemasen ka." }, "note": "三十分早退させていただけませんか also works." },
+          { "q": "(Opening a presentation) First, I'd like to introduce myself briefly.", "a": { "jp": "まず、簡単に自己紹介させていただきます。", "kana": "まず、かんたんにじこしょうかいさせていただきます。", "romaji": "Mazu, kantan ni jiko shōkai sasete itadakimasu." } },
+          { "q": "(To a colleague) Could I use your computer for a moment?", "a": { "jp": "ちょっとパソコンを使わせてもらえませんか。", "kana": "ちょっとパソコンをつかわせてもらえませんか。", "romaji": "Chotto pasokon o tsukawasete moraemasen ka." }, "note": "With a colleague, もらえませんか is polite enough." },
+          { "q": "Please let me know by e-mail.", "a": { "jp": "メールで知らせてください。", "kana": "メールでしらせてください。", "romaji": "Mēru de shirasete kudasai." }, "note": "A trap: English \"let me know\" means \"tell me\", so the other person acts and there's no させて. メールで教えてください also works." }
+        ]
+      },
+      {
+        "id": "h4",
+        "type": "produce",
+        "prompt": "Write a short message (4–5 sentences) to your manager asking for a day of paid leave: a greeting, the day, a short reason, the request with 〜させていただけないでしょうか, and a closing. Then write the one sentence you'll say when you come back. Read both aloud and record yourself.",
+        "items": [
+          { "q": "Model for the request (match its structure, not its words):", "a": { "jp": "課長、お疲れさまです。来週の金曜日ですが、私用のため、有給休暇を取らせていただけないでしょうか。仕事はそれまでに終わらせておきます。よろしくお願いいたします。", "kana": "かちょう、おつかれさまです。らいしゅうのきんようびですが、しようのため、ゆうきゅうきゅうかをとらせていただけないでしょうか。しごとはそれまでにおわらせておきます。よろしくおねがいいたします。", "romaji": "Kachō, otsukaresama desu. Raishū no kin'yōbi desu ga, shiyō no tame, yūkyū kyūka o torasete itadakenai deshō ka. Shigoto wa sore made ni owarasete okimasu. Yoroshiku onegai itashimasu.", "en": "Thank you for your hard work. About next Friday: could I take a day of paid leave for personal reasons? I'll have my work finished before then. Thank you." }, "note": "Check: a reason (のため or ので) before the request, いただけ (not いただき) in the question, and no さん after 課長 — the title is already polite. 終わらせる is the causative of 終わる, used as \"to finish something\"." },
+          { "q": "Model for the day you come back:", "a": { "jp": "先日は休ませていただき、ありがとうございました。", "kana": "せんじつはやすませていただき、ありがとうございました。", "romaji": "Senjitsu wa yasumasete itadaki, arigatō gozaimashita.", "en": "Thank you for letting me take the day off the other day." }, "note": "Thanks for a permission you received: 〜させていただき、ありがとうございました." }
+        ]
+      }
+    ],
+    "workbook": []
+  },
+  "practice": [
+    { "tool": "Wagotabi", "what": "Play in the game's N3 area. Hunt for させて in the dialogues (させてください, させてもらう, させていただく). When you find one, pause and say out loud who acts and who allows. Log the session in Immersion → Games and paste the line into 🔬 Anatomy.", "min": 15 },
+    { "tool": "NHK NEWS WEB EASY", "what": "Read one article with a pop-up dictionary such as Yomitan, and listen to its audio. News about shops and companies often reports decisions like 値上げする or 休業する: if you find one, rewrite it as the company's own notice with 〜させていただきます. Then save one new sentence with Mining (⛏) — whole sentences stick better than lone words.", "min": 10 },
+    { "tool": "ヅオリンゴー · Journal", "what": "Write 5 sentences of your own: 2 with させてください (an offer and a request for time), 2 with させていただけませんか (to a boss or a teacher) and 1 announcement with させていただきます. Use \"Anatomy of what I wrote\" and check that the causative sits inside the PREDICATE and that 私, if you wrote it, takes に.", "min": 10 },
+    { "tool": "Shadowing", "what": "Tap 🔊 on each example and repeat along 3 times. Then say the ladder at natural speed: 休ませて・休ませてください・休ませてもらえませんか・休ませていただけませんか.", "min": 5 },
+    { "tool": "Speaking", "what": "Record a 30-second role-play: you ask your boss for a day off (reason + させていただけませんか), your boss says いいですよ, and you thank them. Listen for the け in いただけませんか and the せ in 休ませて.", "min": 5 }
+  ],
+  "culture": {
+    "title": "Paid leave (ゆうきゅう): asking for time off",
+    "titleJp": "有給休暇",
+    "body": "In Japan, paid annual leave is called **有給休暇** (ゆうきゅうきゅうか), usually shortened to **有給** (ゆうきゅう); you will also see it written 有休. By law, full-time employees generally get paid leave after about six months at a company, and the number of days grows with their years of service. For a long time, many workers used only part of their days — often, it is said, so as not to burden their colleagues. Since 2019, companies must make sure that employees who get ten or more days a year actually take at least five of them. When you ask, you usually don't need to explain in detail: 私用のため (\"for personal reasons\") is generally enough. Many people ask well ahead, make sure their work is covered, and thank their team when they come back.",
+    "try": "Say the request aloud as if to your manager: 課長、来週の月曜日に有給を取らせていただけないでしょうか。 Then say the thank-you for the day you're back: 先日はお休みをいただき、ありがとうございました。"
+  },
+  "checklist": [
+    "I can ask to do something myself with 〜させてください without looking, and I never confuse it with 〜てください.",
+    "I can build the causative て-form of any verb without the extra さ (休ませて, 読ませて, 説明させて).",
+    "I can climb the permission ladder (させて → させてください → させてもらえませんか → させていただけませんか) and choose the right step for a friend, a colleague and a boss.",
+    "I can ask my boss for a day off or to leave early with すみませんが + a reason + 〜させていただけませんか.",
+    "I can open a meeting or a talk with 〜させていただきます, and I know it announces rather than asks.",
+    "I know the two conditions that make させていただく fit (someone allows it; I benefit), and I don't use it when nobody's permission is involved.",
+    "I did the homework, checked it against the answer key and redid what I got wrong."
+  ],
+  "credits": [
+    "Explanations adapted in part from Sakubi (public domain, CC0) — sakubi.neocities.org",
+    "Study method informed by the DJT Guide to Japanese — djtguide.neocities.org/guide"
+  ]
+}

@@ -59,7 +59,7 @@
       "gc": "6-3",
       "title": "〜てもいいです(か)",
       "gloss": "you may / may I…?",
-      "explanation": "て-form + **もいいです** = \"you may\", \"it's OK to\". Literally: \"even if (you) do X, it's fine\". With **か** at the end, it becomes a request for permission: \"**may I…?**\"\n• The predicate is the whole block at the end, 〜てもいいですか. What comes before it says what and where: [ここに] + [すわってもいいですか] = \"here\" + \"may I sit?\".\n• The person doing the action is **you yourself**. With 〜てください (lesson 06-2), it was the other person.\n• To say **yes**: **ええ、いいですよ。** or **はい、どうぞ。** The よ adds the tone of \"sure, go ahead!\". The other person may also answer with a request: はい、どうぞ つかってください。 (\"Yes, please go ahead and use it.\")\n• To say **no** gently: **すみません、ちょっと…。** It is the same ちょっと… as in lesson 03-3: the sentence trails off, and the \"no\" is understood.\n• Without か, the sentence **gives** permission: この ペンを つかってもいいですよ。 (\"You can use this pen.\")\n• The ヅオリンゴー Anatomy marks this ending as **★ PREDICATE · permission**.",
+      "explanation": "て-form + **もいいです** = \"you may\", \"it's OK to\". Every piece is a word you already know: the て-form + **も** (\"also, even\", lesson 02-3) + **いい** (\"good, fine\") + です. Literally: \"even if (you) do X, it's fine\". With **か** at the end, it becomes a request for permission: \"**may I…?**\"\n• The predicate is the whole block at the end, 〜てもいいですか. What comes before it says what and where: [ここに] + [すわってもいいですか] = \"here\" + \"may I sit?\".\n• The person doing the action is **you yourself**. With 〜てください (lesson 06-2), it was the other person.\n• To say **yes**: **ええ、いいですよ。** or **はい、どうぞ。** The よ adds the tone of \"sure, go ahead!\". The other person may also answer with a request: はい、どうぞ つかってください。 (\"Yes, please go ahead and use it.\")\n• To say **no** gently: **すみません、ちょっと…。** It is the same ちょっと… as in lesson 03-3: the sentence trails off, and the \"no\" is understood.\n• Without か, the sentence **gives** permission: この ペンを つかってもいいですよ。 (\"You can use this pen.\")\n• Among friends, the whole thing gets shorter: 食べて(も)いい？ — いいよ。 (\"Can I eat it? — Sure.\")\n• The ヅオリンゴー Anatomy marks this ending as **★ PREDICATE · permission**.\n• Going further (Sakubi): put a negative before いい and you get \"you don't have to\": 食べなくてもいいです。 (\"You don't have to eat it.\") It comes in lesson 17-2.",
       "structure": "[verb-て] もいいですか。 — ええ、いいですよ。 ／ すみません、ちょっと…。",
       "examples": [
         { "jp": "ここに すわってもいいですか。— ええ、いいですよ。", "kana": "ここに すわってもいいですか。— ええ、いいですよ。", "romaji": "Koko ni suwatte mo ii desu ka. — Ee, ii desu yo.", "en": "May I sit here? — Yes, that's fine. [lit. even if (I) sit here, is it good?]" },
@@ -84,7 +84,7 @@
       "gc": "6-4",
       "title": "〜てはいけません",
       "gloss": "must not (prohibition)",
-      "explanation": "て-form + **はいけません** = \"you must not\", \"it's not allowed\". Literally: \"doing X won't do\". It is the opposite of 〜てもいいです, and the ヅオリンゴー Anatomy marks this ending as **★ PREDICATE · prohibition**.\n• The は here is a particle and is read **wa**: 〜te wa ikemasen.\n• It sounds like a **rule**: signs, regulations, a teacher talking to the class, parents talking to their children. The block with で often says **where** the rule applies: [としょかんで] [でんわを] [かけてはいけません].\n• To answer \"no\" to a 〜てもいいですか with a **rule**, use いいえ、〜てはいけません。 If it's not a rule but an \"I'd rather you didn't\", stick with すみません、ちょっと….\n• In casual speech you'll hear shortened versions (〜ちゃだめ, 〜ちゃいけない). For now, just recognize them.",
+      "explanation": "て-form + **はいけません** = \"you must not\", \"it's not allowed\". It mirrors 〜てもいいです piece by piece: **は** makes the action the **topic** (\"as for doing X…\" — the same topic は as in lesson 01-1), and **いけません** comments on it: \"won't do, is no good\". Literally: \"doing X won't do\". It is the opposite of 〜てもいいです, and the ヅオリンゴー Anatomy marks this ending as **★ PREDICATE · prohibition**.\n• The は here is a particle and is read **wa**: 〜te wa ikemasen.\n• It sounds like a **rule**: signs, regulations, a teacher talking to the class, parents talking to their children. The block with で often says **where** the rule applies: [としょかんで] [でんわを] [かけてはいけません].\n• To answer \"no\" to a 〜てもいいですか with a **rule**, use いいえ、〜てはいけません。 If it's not a rule but an \"I'd rather you didn't\", stick with すみません、ちょっと….\n• In conversation you'll often hear **だめ** (\"no good\") in the same slot: 〜てはだめです, or casually 〜ちゃだめ / 〜ちゃいけない. They sound more casual and direct. For now, use 〜てはいけません and just recognize the others.\n• Going further (Sakubi): the same frame hides inside \"must\": 〜なくてはいけません = \"not doing X won't do\" = \"you must do X\" (Genki's version, 〜なければいけません, comes in lesson 12-3). You'll also see a stiffer cousin, 〜てはなりません, in written rules.",
       "structure": "[place] で [object] を [verb-て] はいけません。",
       "examples": [
         { "jp": "としょかんで でんわを かけてはいけません。", "kana": "としょかんで でんわを かけてはいけません。", "romaji": "Toshokan de denwa o kakete wa ikemasen.", "en": "You must not make phone calls in the library. [lit. in the library, making phone calls won't do]" },
@@ -93,7 +93,7 @@
       ],
       "pitfalls": [
         "は is read wa: \"te wa ikemasen\", never \"te ha\".",
-        "Don't mix up the pairs: 〜てもいいです (may) takes も; 〜てはいけません (must not) takes は. 〜てはいいです ✗, 〜てもいけません ✗.",
+        "Don't mix up the pairs: 〜てはいいです ✗ → 〜てもいいです ✓ (may); 〜てもいけません ✗ → 〜てはいけません ✓ (must not). Remember them by meaning: も \"even\" goes with いい (\"even doing it is fine\"); は \"as for\" goes with いけません (\"as for doing it — no good\").",
         "When a friend asks for permission, answering with 〜てはいけません sounds like a scolding. Save it for rules; to decline gently, use すみません、ちょっと…",
         "A prohibition ≠ asking someone not to do something. \"Please don't…\" is 〜ないでください (lesson 08-3), which is softer. 〜てはいけません is the rule."
       ],
@@ -166,8 +166,8 @@
   },
   "practice": [
     { "tool": "Wagotabi", "what": "Play normally and hunt for lines ending in いいです(か) or いけません. Note who asks, who gives permission and what is not allowed. If this part of the game has none, make up 2 rules out loud for the place where your character is (〜てはいけません).", "min": 15 },
-    { "tool": "ヅオリンゴー", "what": "Lesson 6 vocabulary in the SRS. Then Drills → 🔬 Anatomy → 🔬 Analyze: paste 5 sentences from this lesson and, before looking at the result, say whether the ending is a request, permission or a prohibition.", "min": 10 },
-    { "tool": "Mining", "what": "Save 2 real sentences with 〜てもいい or 〜てはいけません that you find in the game or in a video to ヅオリンゴー's Mining, so they become SRS cards.", "min": 5 },
+    { "tool": "ヅオリンゴー", "what": "Lesson 6 vocabulary in the SRS — do today's reviews before any new cards; if they pile up, lower the new cards instead of skipping reviews. Then Drills → 🔬 Anatomy → 🔬 Analyze: paste 5 sentences from this lesson and, before looking at the result, say whether the ending is a request, permission or a prohibition.", "min": 10 },
+    { "tool": "Mining", "what": "Save 2 real sentences with 〜てもいい or 〜てはいけません that you find in the game or in a video to ヅオリンゴー's Mining, so they become SRS cards. First look up the words you don't know (Yomitan or jisho.org), and pick sentences where almost everything else is already familiar: one new thing per card.", "min": 5 },
     { "tool": "Speaking", "what": "Solo role-play: you are both the host and the guest. Record 4 question-and-answer exchanges, using both answers (いいですよ / ちょっと…).", "min": 5 },
     { "tool": "Shadowing", "what": "Tap 🔊 on the examples and repeat along 3 times. Notice that ちょっと… ends with the voice fading out: imitate that.", "min": 5 }
   ],
@@ -185,5 +185,9 @@
     "Reading the end of a sentence, I can tell whether it is a request, permission or a prohibition.",
     "I did the homework, checked it against the answer key and redid what I got wrong.",
     "I did Workbook pages 64–65."
+  ],
+  "credits": [
+    "Explanations adapted in part from Sakubi (public domain, CC0) — sakubi.neocities.org",
+    "Study method informed by the DJT Guide to Japanese — djtguide.neocities.org/guide"
   ]
 }

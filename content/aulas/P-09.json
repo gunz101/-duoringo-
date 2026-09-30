@@ -1,0 +1,246 @@
+{
+  "id": "P-09",
+  "unit": "P-N3",
+  "genki": null,
+  "title": "Compound particles",
+  "titleJp": "日本について・留学生として",
+  "canDo": [
+    "I can say what I talk, read or know about with 〜について, and describe a noun with 〜についての (日本についての本).",
+    "I can say who an attitude or a reaction is aimed at with 〜に対して, and set two facts side by side with 〜のに対して.",
+    "I can say \"it depends on…\", \"by…\" (who made something) and \"because of…\" with 〜によって, and I never confuse it with 〜によると (according to).",
+    "I can say in what role I do something with 〜として, and tell it apart from 〜にとって (for me, from my point of view).",
+    "I read each compound particle as ONE block, and I use its form before a noun: についての, に対する, による, としての."
+  ],
+  "duration": {
+    "total": "70–90 min",
+    "blocks": [
+      { "t": "Warm-up: say aloud 3 sentences with で (means, lesson 10-3) and 3 passives (lesson 21-1)", "min": 5 },
+      { "t": "Vocabulary: tap 🔊 on each word and repeat it twice. Kanji stick best inside words: notice that 対 in に対して is the same as in 反対 (opposition), and save the new words with Mining (⛏)", "min": 10 },
+      { "t": "Grammar: points a (〜について) and b (〜に対して), with the contrast between them. If you split the lesson into two sessions, stop here.", "min": 20 },
+      { "t": "Grammar: points c (〜によって) and d (〜として), with their contrasts (によると, にとって)", "min": 20 },
+      { "t": "Block 6: the reading, the video and one NHK NEWS WEB EASY article", "min": 10 },
+      { "t": "Notebook homework + checking it against the answer key", "min": 20 },
+      { "t": "Checklist (block 10) + write your questions in the lesson notebook", "min": 5 }
+    ]
+  },
+  "prereqs": {
+    "aulas": ["P-08"],
+    "skills": [
+      "Particles as labels for the job of the block before them (lessons 01-1 and 03-2): は, が, を, に, で. A compound particle does the same thing — it is just longer.",
+      "The て-form (lesson 06-1): four of these particles contain a frozen て-form of a verb (つく → ついて, 対する → 対して, よる → よって, する → して).",
+      "The passive (lesson 21-1): point c uses によって for the doer of a passive.",
+      "Words and clauses that describe nouns (lessons 09-2 and 15-2): the before-noun forms (についての, による…) work the same way."
+    ],
+    "vocab": [
+      { "jp": "〜について", "kana": "〜について", "romaji": "-ni tsuite", "en": "about, concerning" },
+      { "jp": "〜に対して", "kana": "〜にたいして", "romaji": "-ni taishite", "en": "toward, to (an attitude or a reaction); whereas" },
+      { "jp": "〜によって", "kana": "〜によって", "romaji": "-ni yotte", "en": "depending on; by (the doer); because of" },
+      { "jp": "〜によると", "kana": "〜によると", "romaji": "-ni yoru to", "en": "according to" },
+      { "jp": "〜として", "kana": "〜として", "romaji": "-to shite", "en": "as (in the role of)" },
+      { "jp": "〜にとって", "kana": "〜にとって", "romaji": "-ni totte", "en": "for (from the point of view of)" },
+      { "jp": "文化", "kana": "ぶんか", "romaji": "bunka", "en": "culture" },
+      { "jp": "祭り", "kana": "まつり", "romaji": "matsuri", "en": "festival" },
+      { "jp": "意見", "kana": "いけん", "romaji": "iken", "en": "opinion" },
+      { "jp": "質問", "kana": "しつもん", "romaji": "shitsumon", "en": "question" },
+      { "jp": "答える", "kana": "こたえる", "romaji": "kotaeru", "en": "to answer" },
+      { "jp": "客", "kana": "きゃく", "romaji": "kyaku", "en": "customer, guest (polite: お客さん)" },
+      { "jp": "厳しい", "kana": "きびしい", "romaji": "kibishii", "en": "strict" },
+      { "jp": "失礼（な）", "kana": "しつれい（な）", "romaji": "shitsurei (na)", "en": "rude" },
+      { "jp": "仕方", "kana": "しかた", "romaji": "shikata", "en": "way (of doing something)" },
+      { "jp": "違う", "kana": "ちがう", "romaji": "chigau", "en": "to differ, to be different" },
+      { "jp": "お寺", "kana": "おてら", "romaji": "otera", "en": "(Buddhist) temple" },
+      { "jp": "建てる", "kana": "たてる", "romaji": "tateru", "en": "to build" },
+      { "jp": "台風", "kana": "たいふう", "romaji": "taifū", "en": "typhoon" },
+      { "jp": "被害", "kana": "ひがい", "romaji": "higai", "en": "damage (from a disaster)" },
+      { "jp": "留学生", "kana": "りゅうがくせい", "romaji": "ryūgakusei", "en": "international student" },
+      { "jp": "通訳", "kana": "つうやく", "romaji": "tsūyaku", "en": "interpreter; interpreting" },
+      { "jp": "責任", "kana": "せきにん", "romaji": "sekinin", "en": "responsibility" },
+      { "jp": "賛成", "kana": "さんせい", "romaji": "sansei", "en": "agreement, being in favor" },
+      { "jp": "反対", "kana": "はんたい", "romaji": "hantai", "en": "opposition, being against" }
+    ]
+  },
+  "grammar": [
+    {
+      "id": "P-09-a",
+      "gc": null,
+      "title": "〜について",
+      "gloss": "about, concerning",
+      "explanation": "**First, what a compound particle is.** Some jobs in a sentence are done by a particle plus a frozen piece of a verb: に + ついて (from つく, \"to be attached to\"), に + 対して, に + よって, と + して. You don't translate the pieces one by one. The whole thing is **one particle block**, just longer: [日本の祭りについて] is one block with one job, exactly like [日本で] or [日本に]. Sakubi makes the same point about compound particles such as では and までに: their meaning is not the sum of their parts.\n• Before a **noun**, a compound particle needs its describing form. For について, add の: **についての** + noun (日本についての本, \"a book about Japan\").\n\n**〜について = \"about, concerning\".** It marks **the subject matter** of talking, thinking, knowing, writing and asking: 話す, 聞く, 考える, 知っている, 調べる, 書く, 質問する.\n• 田中さんは日本の祭りについてよく知っている。 (Tanaka knows a lot about Japanese festivals.)\n• With は, it becomes a contrast or a new topic: そのことについては、あとで話しましょう (as for that matter, let's talk later).\n• In formal speech and writing you'll also meet **〜に関して** (に関する + noun), with the same meaning.\n\n**The sentence, block by block.** 田中さんは (TOPIC) ｜ 日本の (DESCRIBES NEXT) ｜ 祭りについて (about what?) ｜ よく (HOW) ｜ 知っている (PREDICATE). Read the predicate first (knows), then ask \"knows about what?\"\n\n**について × を:** を marks the thing itself; について marks the topic around it. 日本語を話す = to speak Japanese. 日本語について話す = to talk about Japanese (in any language).\n**について × の:** 日本の本 = a Japanese book (from Japan, or in Japanese). 日本についての本 = a book about Japan.",
+      "structure": "[noun] について + [talk / think / know / ask] · [noun] についての + [noun]",
+      "examples": [
+        { "jp": "田中さんは日本の祭りについてよく知っている。", "kana": "たなかさんはにほんのまつりについてよくしっている。", "romaji": "Tanaka-san wa Nihon no matsuri ni tsuite yoku shitte iru.", "en": "Tanaka knows a lot about Japanese festivals.", "noAnat": true },
+        { "jp": "このニュースについて、どう思いますか。", "kana": "このニュースについて、どうおもいますか。", "romaji": "Kono nyūsu ni tsuite, dō omoimasu ka.", "en": "What do you think about this news?", "noAnat": true },
+        { "jp": "図書館で、日本の文化についての本を借りた。", "kana": "としょかんで、にほんのぶんかについてのほんをかりた。", "romaji": "Toshokan de, Nihon no bunka ni tsuite no hon o karita.", "en": "I borrowed a book about Japanese culture at the library.", "noAnat": true }
+      ],
+      "pitfalls": [
+        "Before a noun, について needs の: 日本について本 ✗ → 日本についての本 ✓.",
+        "The language you speak is not \"about\": \"I can speak Japanese\" = 日本語について話せます ✗ (= I can talk about Japanese) → 日本語が話せます ✓.",
+        "興味がある (to be interested) takes plain に: 日本の文化について興味があります ✗ (unnatural) → 日本の文化に興味があります ✓."
+      ],
+      "howToStudy": [
+        "Say aloud 3 things you know a lot about and 3 you know nothing about: 〜についてよく知っている／〜については何も知らない.",
+        "Minimal pairs aloud, each followed by its English: 日本語を話す × 日本語について話す; 日本の本 × 日本についての本; 映画を見る × 映画について書く.",
+        "🔬 heads-up: the Anatomy engine doesn't know compound particles yet. Paste example 1 into 🔬 Anatomy → Analyze: 田中さんは (TOPIC) and 知っている (PREDICATE) come out right, but 祭りについて shows up as NO PARTICLE, and in other sentences it may cut the block in two (文化につ + いての). Use it as a test: find the block the engine got wrong and say its real job aloud — \"about what?\""
+      ],
+      "flag": null
+    },
+    {
+      "id": "P-09-b",
+      "gc": null,
+      "title": "〜に対して",
+      "gloss": "toward, to (an attitude) · whereas",
+      "explanation": "**〜に対して** comes from 対する, \"to face, to be opposite\". It has two main jobs.\n• **Toward, to**: the person or thing an **attitude, a feeling or a reaction** is aimed at. 山田先生は学生に対してとても厳しい (Mr. Yamada is very strict with his students). 客の質問に対して、店員はていねいに答えた (The clerk answered the customer's question politely).\n• **Whereas, in contrast to**: after a clause + **の**, it sets two facts side by side: 東京は人が多いのに対して、私の町は静かだ (Whereas Tokyo is crowded, my town is quiet). With a な-adjective or a noun, the clause ends in な: 兄はスポーツが好きなのに対して….\n• Before a noun: **に対する** + noun (日本に対するイメージ, \"the image people have of Japan\"); に対しての also exists.\n\n**The sentence, block by block.** [学生に対して] is one block: \"toward whom?\" The PREDICATE at the end says what the attitude is (厳しい). In the \"whereas\" use, [〜のに対して] closes the first half; the second half has its own topic and its own predicate.\n\n**に対して × について** (point a): について = the **subject matter** (what you talk or think about). に対して = the **target** of an attitude or a reaction (who or what it is aimed at). 先生について話す = to talk about the teacher. 先生に対して失礼なことを言う = to say something rude to the teacher.\n**に対して × plain に:** 先生に言う is simply \"say to the teacher\". に対して is heavier and more formal, and it stresses the direction of an attitude: rude to, strict with, kind to, a reply to, opposition to.",
+      "structure": "[person / thing] に対して + [attitude / reaction] · [clause] の に対して、[contrasting clause] · [noun] に対する + [noun]",
+      "examples": [
+        { "jp": "山田先生は学生に対してとても厳しい。", "kana": "やまだせんせいはがくせいにたいしてとてもきびしい。", "romaji": "Yamada-sensei wa gakusei ni taishite totemo kibishii.", "en": "Mr. Yamada is very strict with his students.", "noAnat": true },
+        { "jp": "客の質問に対して、店員はていねいに答えた。", "kana": "きゃくのしつもんにたいして、てんいんはていねいにこたえた。", "romaji": "Kyaku no shitsumon ni taishite, ten'in wa teinei ni kotaeta.", "en": "The clerk answered the customer's question politely.", "noAnat": true },
+        { "jp": "東京は人が多いのに対して、私の町はとても静かだ。", "kana": "とうきょうはひとがおおいのにたいして、わたしのまちはとてもしずかだ。", "romaji": "Tōkyō wa hito ga ōi no ni taishite, watashi no machi wa totemo shizuka da.", "en": "Whereas Tokyo has a lot of people, my town is very quiet.", "noAnat": true }
+      ],
+      "pitfalls": [
+        "Before a noun, use に対する (or に対しての): 日本に対してイメージ ✗ → 日本に対するイメージ ✓.",
+        "\"A book about Japan\" is について, not に対して: 日本に対する本 ✗ → 日本についての本 ✓.",
+        "The \"whereas\" use needs の after a clause: 東京は人が多いに対して ✗ → 東京は人が多いのに対して ✓.",
+        "に対して is the direction of an attitude, not a place you move to: 駅に対して行く ✗ → 駅に行く ✓."
+      ],
+      "howToStudy": [
+        "Describe 3 people you know aloud with 〜に対して + an adjective: 母は私に対して優しい／〜さんは後輩に対して厳しい／〜はだれに対してもていねいだ.",
+        "Contrast your country and Japan in 3 sentences with 〜のに対して, aloud and then in your notebook. E.g. 日本では車は左側を走るのに対して、ブラジルでは右側を走る。",
+        "Say the pair aloud and explain it in English: 先生について話す (about the teacher) × 先生に対して失礼だ (rude to the teacher)."
+      ],
+      "flag": null
+    },
+    {
+      "id": "P-09-c",
+      "gc": null,
+      "title": "〜によって (× によると)",
+      "gloss": "depending on · by (the doer) · because of, by means of",
+      "explanation": "**〜によって** comes from よる, \"to depend on, to be based on\". In all its uses, [X によって] says **what the result rests on**.\n• **Depending on**: 国によって、あいさつの仕方が違う (Greetings differ from country to country). The predicate is usually 違う, 変わる, いろいろだ, or a question. **〜によっては** = \"in some cases, depending on…\": 店によっては、カードが使えない (some shops don't take cards).\n• **By (the doer of a passive)**: for things that are **created, discovered or done formally** — built, written, invented, organized: このお寺は三百年前に村の人たちによって建てられた. Sakubi notes that the doer of a passive is usually marked with **に** (lesson 21-1); によって is the formal choice, and the natural one for creations.\n• **Because of, by means of** (formal, news style): 台風によって、たくさんの木が倒れた (Many trees fell because of the typhoon).\n• Before a noun: **による** + noun: 台風による被害 (damage caused by the typhoon).\n\n**The sentence, block by block.** [国によって] is one block: \"depending on what?\" Read the predicate first (違う, 建てられた, 倒れた), then ask what it depends on, who did it, or what caused it.\n\n**によって × によると:** they look alike, but によると means **\"according to\"** — a source of information — and the sentence usually ends in そうだ or らしい: 天気予報によると、明日は雨だそうだ. によって never means \"according to\".\n**によって × に (passive):** everyday passives use に: 母にしかられた (I was scolded by my mother). によって sounds odd there; keep it for creations and formal writing.\n**によって × で (means):** in everyday speech, \"by bus, with a pen\" is で: バスで来た. によって as \"by means of\" belongs to news, reports and signs.",
+      "structure": "[noun] によって + 違う／変わる · [doer] によって + [passive verb] · [cause] によって + [result] · [noun] による + [noun] · (× [source] によると〜そうだ)",
+      "examples": [
+        { "jp": "国によって、あいさつの仕方が違う。", "kana": "くにによって、あいさつのしかたがちがう。", "romaji": "Kuni ni yotte, aisatsu no shikata ga chigau.", "en": "Greetings differ from country to country. [lit. depending on the country, the way of greeting is different]", "noAnat": true },
+        { "jp": "このお寺は、三百年前に村の人たちによって建てられた。", "kana": "このおてらは、さんびゃくねんまえにむらのひとたちによってたてられた。", "romaji": "Kono otera wa, sanbyakunen mae ni mura no hitotachi ni yotte taterareta.", "en": "This temple was built three hundred years ago by the people of the village.", "noAnat": true },
+        { "jp": "台風による被害は、思ったより大きかった。", "kana": "たいふうによるひがいは、おもったよりおおきかった。", "romaji": "Taifū ni yoru higai wa, omotta yori ōkikatta.", "en": "The damage caused by the typhoon was bigger than we'd thought.", "noAnat": true }
+      ],
+      "pitfalls": [
+        "\"According to\" is によると, not によって: 天気予報によって、明日は雨だそうです ✗ → 天気予報によると、明日は雨だそうです ✓.",
+        "Everyday passives take に: 母によってしかられた ✗ → 母にしかられた ✓.",
+        "Before a noun, use による: 台風によって被害 ✗ → 台風による被害 ✓.",
+        "\"By bus\" in daily speech is で: バスによって来ました ✗ → バスで来ました ✓."
+      ],
+      "howToStudy": [
+        "Say aloud 3 things that depend on something: 〜によって違う／変わる (e.g. 天気によって、着る服が変わる; 人によって、好きな季節が違う).",
+        "Name 3 buildings, books or inventions you know and their creators with 〜によって建てられた／書かれた／作られた. Then say one everyday passive with に (友だちに笑われた) and feel the difference.",
+        "News check: in one NHK NEWS WEB EASY article, find による or によって and decide which job it has — depending on, by, or because of. If you find によると, note the source it names."
+      ],
+      "flag": null
+    },
+    {
+      "id": "P-09-d",
+      "gc": null,
+      "title": "〜として (× にとって)",
+      "gloss": "as (in the role of)",
+      "explanation": "**〜として** comes from とする, \"to take as, to treat as\". It means **\"as\" — in the role, the capacity or the status of**. Sakubi describes it as \"operating as X\", and links it to とする, \"let's say that…, suppose…\": として is taking X as your role.\n• Roles and jobs: マリアさんは留学生として日本に来た (Maria came to Japan as an international student). 通訳として働く (to work as an interpreter).\n• A purpose or a category: 趣味として写真を撮っている (I take photos as a hobby).\n• **〜としては** = \"speaking as X, as far as X is concerned\": 私としては、この計画に賛成です (Speaking for myself, I'm in favor of this plan).\n• Before a noun: **としての** + noun: 親としての責任 (one's responsibility as a parent).\n\n**The sentence, block by block.** [留学生として] is one block: \"in what role?\" It usually comes before the verb it frames (来た, 働く). In 🔬, the before-noun form 親としての comes out as **DESCRIBES NEXT**, attached to 責任 — exactly its job.\n\n**として × にとって:** they look alike, but they answer different questions. として = **in the role of X** (what X is, or acts as). **にとって** = **for X, from X's point of view**: how something matters or feels to X, usually with an evaluation like 大切, 難しい, うれしい. 私にとって、日本語はとても大切だ (For me, Japanese is very important). 私としては、賛成だ (Speaking as myself, I agree).\n**として × のように:** English \"as\" and \"like\" get mixed up. として says what someone really **is** in that role; のように (lesson 22-2) says someone is **like** something: プロとして歌う (she sings as a professional — it's her job) × プロのように歌う (she sings like a pro).",
+      "structure": "[role] として + [verb] · [person] としては、[opinion] · [role] としての + [noun] · (× [person] にとって + [evaluation])",
+      "examples": [
+        { "jp": "マリアさんは留学生として、二年前に日本に来た。", "kana": "マリアさんはりゅうがくせいとして、にねんまえににほんにきた。", "romaji": "Maria-san wa ryūgakusei to shite, ninen mae ni Nihon ni kita.", "en": "Maria came to Japan two years ago as an international student.", "noAnat": true },
+        { "jp": "私としては、この計画に賛成です。", "kana": "わたしとしては、このけいかくにさんせいです。", "romaji": "Watashi to shite wa, kono keikaku ni sansei desu.", "en": "Speaking for myself, I'm in favor of this plan.", "noAnat": true },
+        { "jp": "彼には親としての責任がある。", "kana": "かれにはおやとしてのせきにんがある。", "romaji": "Kare ni wa oya to shite no sekinin ga aru.", "en": "He has a responsibility as a parent." }
+      ],
+      "pitfalls": [
+        "\"For me\" as a point of view is にとって: 私として、日本語は大切だ ✗ → 私にとって、日本語は大切だ ✓.",
+        "Before a noun, use としての: 親として責任 ✗ → 親としての責任 ✓.",
+        "\"Like\" (similar to) is のように, not として: \"He runs like the wind\" = 風として走る ✗ → 風のように走る ✓."
+      ],
+      "howToStudy": [
+        "Say aloud 3 roles you have or have had, with として: 〜として働いている／〜として〜をしている／いつか〜として日本に行きたい.",
+        "🔬 Anatomy → Analyze: paste example 3. 彼には shows up as LOCATION (where the responsibility exists), 親としての as DESCRIBES NEXT — it describes 責任 — 責任が is the SUBJECT and ある is the PREDICATE. Read from the end: there is → what? → a responsibility → what kind? → as a parent.",
+        "Say the pair aloud and explain it in English: 私にとって大切だ (it matters to me) × 私としては賛成だ (speaking as myself, I agree). For native explanations, do what the DJT guide suggests for any \"what's the difference?\" question: search in Japanese for 「としてとにとっての違い」 and read one short answer with a pop-up dictionary. If it's still too hard, that's normal: come back to it later."
+      ],
+      "flag": null
+    }
+  ],
+  "media": [
+    { "order": 1, "kind": "reading", "title": "JLPT Sensei: the pages on について, に対して, によって and として, with more examples", "where": "Website · JLPT Sensei (grammar lists by level)", "url": "", "search": "JLPT Sensei ni tsuite ni taishite ni yotte to shite", "when": "After the grammar block. Read the example sentences aloud. If an explanation still doesn't click, look the point up in a grammar dictionary, such as A Dictionary of Intermediate Japanese Grammar, in a library or your own copy." },
+    { "order": 2, "kind": "video", "title": "Japanese Ammo with Misa: compound particles (について, に対して, によって, として)", "where": "YouTube · Japanese Ammo with Misa channel", "url": "", "search": "Japanese Ammo with Misa ni tsuite ni taishite ni yotte", "when": "After points a and b, as a second explanation. If there's no single video with all four, search for each one separately." },
+    { "order": 3, "kind": "input", "title": "NHK NEWS WEB EASY: read one article and hunt for について, に対して, によって／による and として", "where": "Website · NHK NEWS WEB EASY", "url": "", "search": "NHK NEWS WEB EASY", "when": "On any day after the lesson. News is full of compound particles: read the article once, then listen to the audio while reading along." }
+  ],
+  "homework": {
+    "intro": "Do it by hand in your notebook. Write with the kanji you already know and use kana for the rest. Only then open the answer key, item by item. Circle what you got wrong and redo it the next day.",
+    "tasks": [
+      {
+        "id": "h1",
+        "type": "fill",
+        "prompt": "Fill in について, に対して, によって or として — or its form before a noun: についての, に対する, による, としての.",
+        "items": [
+          { "q": "日本の歴史＿＿本を読んでいます。", "a": { "jp": "日本の歴史についての本を読んでいます。", "kana": "にほんのれきしについてのほんをよんでいます。", "romaji": "Nihon no rekishi ni tsuite no hon o yonde imasu." }, "note": "Before a noun (本): についての." },
+          { "q": "田中さんはお客さん＿＿いつもていねいだ。", "a": { "jp": "田中さんはお客さんに対していつもていねいだ。", "kana": "たなかさんはおきゃくさんにたいしていつもていねいだ。", "romaji": "Tanaka-san wa okyaku-san ni taishite itsumo teinei da." }, "note": "The target of an attitude (ていねい): に対して." },
+          { "q": "季節＿＿、山の色が変わる。", "a": { "jp": "季節によって、山の色が変わる。", "kana": "きせつによって、やまのいろがかわる。", "romaji": "Kisetsu ni yotte, yama no iro ga kawaru." }, "note": "\"Depending on…\" + 変わる: によって." },
+          { "q": "兄は医者＿＿病院で働いている。", "a": { "jp": "兄は医者として病院で働いている。", "kana": "あにはいしゃとしてびょういんではたらいている。", "romaji": "Ani wa isha to shite byōin de hataraite iru." }, "note": "A role: として." },
+          { "q": "地震＿＿被害は、思ったより小さかった。", "a": { "jp": "地震による被害は、思ったより小さかった。", "kana": "じしんによるひがいは、おもったよりちいさかった。", "romaji": "Jishin ni yoru higai wa, omotta yori chiisakatta." }, "note": "A cause, before a noun (被害): による." },
+          { "q": "私＿＿は、この意見に反対です。", "a": { "jp": "私としては、この意見に反対です。", "kana": "わたしとしては、このいけんにはんたいです。", "romaji": "Watashi to shite wa, kono iken ni hantai desu." }, "note": "\"Speaking for myself\": としては." }
+        ]
+      },
+      {
+        "id": "h2",
+        "type": "choose",
+        "prompt": "Choose the right option and say why.",
+        "items": [
+          { "q": "天気予報（によって／によると）、明日は晴れるそうだ。", "a": { "jp": "天気予報によると、明日は晴れるそうだ。", "kana": "てんきよほうによると、あしたははれるそうだ。", "romaji": "Tenki yohō ni yoru to, ashita wa hareru sō da." }, "note": "A source of information + そうだ: によると (according to)." },
+          { "q": "私（として／にとって）、家族は一番大切です。", "a": { "jp": "私にとって、家族は一番大切です。", "kana": "わたしにとって、かぞくはいちばんたいせつです。", "romaji": "Watashi ni totte, kazoku wa ichiban taisetsu desu." }, "note": "A point of view + an evaluation (大切): にとって." },
+          { "q": "日本語（が／について）話せますか。 (= Can you speak Japanese?)", "a": { "jp": "日本語が話せますか。", "kana": "にほんごがはなせますか。", "romaji": "Nihongo ga hanasemasu ka." }, "note": "The language itself is what you speak: が (を is also possible). 日本語について話せますか = Can you talk about the Japanese language?" },
+          { "q": "この本は有名な作家（に／によって）書かれた。", "a": { "jp": "この本は有名な作家によって書かれた。", "kana": "このほんはゆうめいなさっかによってかかれた。", "romaji": "Kono hon wa yūmei na sakka ni yotte kakareta." }, "note": "A creation (a book being written): によって." },
+          { "q": "弟は母（に／によって）しかられた。", "a": { "jp": "弟は母にしかられた。", "kana": "おとうとはははにしかられた。", "romaji": "Otōto wa haha ni shikarareta." }, "note": "An everyday passive: に." },
+          { "q": "先生（について／に対して）失礼なことを言ってはいけない。", "a": { "jp": "先生に対して失礼なことを言ってはいけない。", "kana": "せんせいにたいしてしつれいなことをいってはいけない。", "romaji": "Sensei ni taishite shitsurei na koto o itte wa ikenai." }, "note": "Rude toward someone: the target of an attitude, に対して." }
+        ]
+      },
+      {
+        "id": "h3",
+        "type": "translate",
+        "prompt": "Translate into Japanese.",
+        "items": [
+          { "q": "I want to know more about Japanese culture.", "a": { "jp": "日本の文化についてもっと知りたい。", "kana": "にほんのぶんかについてもっとしりたい。", "romaji": "Nihon no bunka ni tsuite motto shiritai." } },
+          { "q": "Prices differ depending on the shop.", "a": { "jp": "店によって値段が違う。", "kana": "みせによってねだんがちがう。", "romaji": "Mise ni yotte nedan ga chigau." }, "note": "値段 (ねだん) = price." },
+          { "q": "She works as a Japanese teacher in Brazil.", "a": { "jp": "彼女はブラジルで日本語の先生として働いている。", "kana": "かのじょはブラジルでにほんごのせんせいとしてはたらいている。", "romaji": "Kanojo wa Burajiru de nihongo no sensei to shite hataraite iru." } },
+          { "q": "Whereas my older brother likes sports, I like reading.", "a": { "jp": "兄はスポーツが好きなのに対して、私は読書が好きだ。", "kana": "あにはスポーツがすきなのにたいして、わたしはどくしょがすきだ。", "romaji": "Ani wa supōtsu ga suki na no ni taishite, watashi wa dokusho ga suki da." }, "note": "な-adjective + な + のに対して. 読書 (どくしょ) = reading (books)." },
+          { "q": "He's always kind to everyone.", "a": { "jp": "彼はだれに対してもいつも優しい。", "kana": "かれはだれにたいしてもいつもやさしい。", "romaji": "Kare wa dare ni taishite mo itsumo yasashii." }, "note": "だれに対しても = toward anyone at all. みんなに対して also works." },
+          { "q": "I read an article about the typhoon damage.", "a": { "jp": "台風の被害についての記事を読んだ。", "kana": "たいふうのひがいについてのきじをよんだ。", "romaji": "Taifū no higai ni tsuite no kiji o yonda." }, "note": "Before a noun (記事, \"article\"): についての." }
+        ]
+      },
+      {
+        "id": "h4",
+        "type": "produce",
+        "prompt": "Write 5 sentences about yourself and something that interests you, using について (or についての), に対して, によって and として at least once each. Read them aloud and record yourself on your phone.",
+        "items": [
+          { "q": "Model (match its structure, not its words):", "a": { "jp": "私はエンジニアとして会社で働いています。趣味として日本語を勉強しています。最近、日本の祭りについての本を読みました。祭りは地方によってかなり違うそうです。ブラジルのカーニバルがとてもにぎやかなのに対して、日本には静かな祭りもあります。", "kana": "わたしはエンジニアとしてかいしゃではたらいています。しゅみとしてにほんごをべんきょうしています。さいきん、にほんのまつりについてのほんをよみました。まつりはちほうによってかなりちがうそうです。ブラジルのカーニバルがとてもにぎやかなのにたいして、にほんにはしずかなまつりもあります。", "romaji": "Watashi wa enjinia to shite kaisha de hataraite imasu. Shumi to shite nihongo o benkyō shite imasu. Saikin, Nihon no matsuri ni tsuite no hon o yomimashita. Matsuri wa chihō ni yotte kanari chigau sō desu. Burajiru no kānibaru ga totemo nigiyaka na no ni taishite, Nihon ni wa shizuka na matsuri mo arimasu.", "en": "I work at a company as an engineer. I study Japanese as a hobby. Recently I read a book about Japanese festivals. Apparently festivals differ quite a lot from region to region. Whereas Brazil's Carnival is very lively, Japan also has quiet festivals." }, "note": "Check: each compound particle written as one block, the before-noun form (についての) right before a noun, and な + の before に対して after a な-adjective." }
+        ]
+      }
+    ],
+    "workbook": []
+  },
+  "practice": [
+    { "tool": "Wagotabi", "what": "Play in the game's N3 area. Hunt for について, に対して, によって／による and として in the dialogues. For each one, say its job aloud: about, toward, depending on / by / because of, or as. Log the session in Immersion → Games and paste one of those lines into 🔬 Anatomy. The engine doesn't know compound particles yet, so it may show the block as NO PARTICLE or cut it in two: circle it as one block yourself.", "min": 15 },
+    { "tool": "NHK NEWS WEB EASY", "what": "Read one article with a pop-up dictionary (such as Yomitan in your browser) and listen to its audio. Copy every sentence with a compound particle, write the job of each one, and save the best sentence with Mining (⛏) so it comes back in your SRS.", "min": 10 },
+    { "tool": "ヅオリンゴー · Journal", "what": "Write 5 sentences of your own: one each with について, に対して, によって and として, plus one with a before-noun form (についての, に対する, による or としての). Use \"Anatomy of what I wrote\" for the other blocks (topic, object, predicate), and underline each compound particle by hand as one block.", "min": 10 },
+    { "tool": "Shadowing", "what": "Tap 🔊 on each example in this lesson and repeat along 3 times. Say each compound particle as one smooth unit, with no pause inside it: についての・に対する・による・としての.", "min": 5 },
+    { "tool": "Speaking", "what": "Record one minute about yourself: what you do (〜として働いています), one topic you like reading about (〜についての記事をよく読みます), one thing that differs by country (国によって〜が違います), and one contrast (〜のに対して、〜).", "min": 5 }
+  ],
+  "culture": {
+    "title": "NHK and the newspapers",
+    "titleJp": "NHKと新聞",
+    "body": "**NHK** (日本放送協会, にっぽんほうそうきょうかい) is Japan's public broadcaster. It is funded mainly by a **receiving fee** (受信料, じゅしんりょう) that households with a TV are expected to pay, not by advertising, so its channels show no commercials. Japan also has several big national newspapers — the **読売新聞** (よみうりしんぶん), **朝日新聞** (あさひしんぶん), **毎日新聞** (まいにちしんぶん), **日本経済新聞** (にほんけいざいしんぶん, called 日経) and **産経新聞** (さんけいしんぶん) — plus many regional ones. Traditionally, many households subscribed and had the paper delivered to the door, often with a morning edition (朝刊, ちょうかん) and an evening edition (夕刊, ゆうかん). Print sales have been falling for years as more people read the news on their phones, but newspapers are still widely read, especially by older people. For learners, NHK runs **NHK NEWS WEB EASY**: news rewritten in simple Japanese, with furigana over the kanji and audio.",
+    "try": "Read one NHK NEWS WEB EASY article and sum it up in two sentences with this lesson's grammar: これは〜についてのニュースです。〜によって、〜。 Then give your opinion aloud: このニュースについて、私は〜と思います。"
+  },
+  "checklist": [
+    "I can say what I talk, read or know about with 〜について, and make 〜についての + noun without looking.",
+    "I can say who an attitude is aimed at with 〜に対して, and contrast two facts with 〜のに対して.",
+    "I can use 〜によって for \"depending on\", \"by\" (creations) and \"because of\", and I never use it for \"according to\" (that's によると).",
+    "I can say in what role I do something with 〜として, and I know 〜にとって means \"for me, from my point of view\".",
+    "I know the before-noun forms without looking: についての, に対する, による, としての.",
+    "When I read a sentence, I treat each compound particle as ONE block and can name its job.",
+    "I did the homework, checked it against the answer key and redid what I got wrong."
+  ],
+  "credits": [
+    "Explanations adapted in part from Sakubi (public domain, CC0) — sakubi.neocities.org",
+    "Study method informed by the DJT Guide to Japanese — djtguide.neocities.org/guide"
+  ]
+}

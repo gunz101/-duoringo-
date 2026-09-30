@@ -6,7 +6,7 @@
   "titleJp": "ともだちと にじかん はなしました",
   "canDo": [
     "I can list things and people with と (パンと コーヒー) and say who I did something with (ともだちと) or that I did it alone (一人で).",
-    "I can say \"also\" on any block of the sentence: わたしも, コーヒーも, リオにも, うちでも.",
+    "I can say \"also\" on any block of the sentence (わたしも, コーヒーも, リオにも, うちでも), and \"not… either\" with the same も.",
     "I can say how long an activity lasted (にじかん べんきょうしました) and ask なんじかん.",
     "I can say that there is a lot of something, or that I did a lot of something, with たくさん.",
     "I can tell about an outing combining everything: who with, where, for how long and what else I did."
@@ -17,7 +17,7 @@
       { "t": "Session 1 · Warm-up: say out loud what you did yesterday, in 3 sentences in the past (lesson 04-2)", "min": 5 },
       { "t": "Session 1 · Vocabulary: tap 🔊 on each word and repeat it twice", "min": 10 },
       { "t": "Session 1 · Grammar: と (4a and 4b) and も (4c), with the examples read aloud and one 🔬", "min": 20 },
-      { "t": "Session 1 · Lesson 4 video (block 6), pausing on the examples", "min": 10 },
+      { "t": "Session 1 · Block 6: the Lesson 4 video, pausing on the examples — or the Sakubi section on も and と, read once straight through", "min": 10 },
       { "t": "Session 2 · Grammar: 〜じかん (4d) and たくさん (4e)", "min": 15 },
       { "t": "Session 2 · Notebook homework + checking it against the answer key", "min": 20 },
       { "t": "Session 2 · Checklist (block 10). Workbook pp. 135–136 go together with the Kanji → ✍️ Write practice item (block 8), the same day or the next", "min": 5 }
@@ -59,9 +59,9 @@
     {
       "id": "04-3-a",
       "gc": "4-5",
-      "title": "N と N (a complete list)",
+      "title": "N と N (listing nouns)",
       "gloss": "and (between nouns)",
-      "explanation": "と links nouns like English \"and\": パンと コーヒー (bread and coffee). A list with と is **complete**: exactly these things, no more, no less.\n• The block's particle (を, が, は, に…) comes **only once, after the last item**: パンと コーヒーを かいました。 The whole block パンと コーヒーを is the OBJECT.\n• You can list more than two: ペドロさんと マリアさんと わたし.\n• と links **nouns only**. Unlike English \"and\", it doesn't link verbs or sentences: \"I ate and slept\" doesn't use と. For now, make two sentences.\n• To give just some examples (\"bread, coffee and so on\"), Japanese has や (lesson 11-2).\n• You already used this と in lesson 04-1: A と B の あいだ.",
+      "explanation": "と links nouns like English \"and\": パンと コーヒー (bread and coffee). Think of と as a tag after each item — except the last one, which gets the block's particle instead. A と list names each thing one by one and sounds like the **whole list**: bread and coffee, these things.\n• The block's particle (を, が, は, に…) comes **only once, after the last item**: パンと コーヒーを かいました。 A particle attaches to the whole phrase before it, so the whole block パンと コーヒーを is the OBJECT.\n• You can list more than two: ペドロさんと マリアさんと わたし.\n• と links **nouns only**. Unlike English \"and\", it doesn't link verbs or sentences: \"I ate and slept\" doesn't use と. For now, make two sentences.\n• To give just some examples (\"bread, coffee and so on\"), Japanese has や (lesson 11-2).\n• You already used this と in lesson 04-1: A と B の あいだ.\n• Going further (Sakubi): strictly speaking, と doesn't promise that nothing else exists — it just counts each item on its own. It feels complete mainly next to や, which presents the items as examples of a kind of thing.",
       "structure": "[N] と [N] (と [N]) + the block's particle",
       "examples": [
         { "jp": "コンビニで パンと コーヒーを かいました。", "kana": "コンビニで パンと コーヒーを かいました。", "romaji": "Konbini de pan to kōhī o kaimashita.", "en": "I bought bread and coffee at the convenience store." },
@@ -71,7 +71,7 @@
       "pitfalls": [
         "Don't repeat the particle on each item: パンを コーヒーを かいました ✗ → パンと コーヒーを かいました ✓.",
         "と doesn't link verbs: たべましたと ねました ✗ → たべました。ねました。 ✓ (two sentences).",
-        "A と list is closed. If you mean \"things like bread and coffee\", Japanese uses や (lesson 11-2)."
+        "A と list sounds like the whole list. For \"I bought things like bread and coffee\": パンと コーヒーを かいました ✗ (for this meaning) → パンや コーヒーを かいました ✓ (lesson 11-2)."
       ],
       "howToStudy": [
         "Open your bag or the fridge and say out loud what's inside, with と: 〜と 〜と 〜が あります。",
@@ -93,9 +93,9 @@
         { "jp": "だれと ひるごはんを たべましたか。— 一人で たべました。", "kana": "だれと ひるごはんを たべましたか。— ひとりで たべました。", "romaji": "Dare to hirugohan o tabemashita ka. — Hitori de tabemashita.", "en": "Who did you have lunch with? — I ate alone." }
       ],
       "pitfalls": [
-        "English \"with\" can also mean a tool, but that \"with\" is not と: \"eat with chopsticks\" uses で (はしで たべます), a use of で you will see later. と is only for company.",
+        "English \"with\" can also mean a tool, but that \"with\" is not と. \"Eat with chopsticks\": はしと たべます ✗ → はしで たべます ✓ — で marks the means, a use you will see later. と is only for company.",
         "\"Alone\" is 一人で, with で: 一人と いきました ✗ → 一人で いきました ✓.",
-        "はは and ちち are YOUR mother and YOUR father. For other people's parents there are other words (lesson 07-1)."
+        "はは and ちち are only YOUR mother and YOUR father. \"Maria's mother\": マリアさんの はは ✗ → マリアさんの おかあさん ✓ (family words, lesson 07-1)."
       ],
       "howToStudy": [
         "Say 4 sentences in the past about who you did things with recently: ともだちと…, かぞくと…, 一人で…",
@@ -109,18 +109,18 @@
       "gc": null,
       "title": "も after other particles",
       "gloss": "also, too (with に, で, へ, と…)",
-      "explanation": "In lesson 02-3 you used も in place of は: わたしも がくせいです. Now も can go on any block of the sentence, and the rule depends on the particle that was already there:\n• **は, が, を → just も**: も replaces the particle. いぬが います → ねこ**も** います. パンを かいました → 水**も** かいました.\n• **に, で, へ, と → particle + も**: も comes after it. リオ**にも** いきました. うち**でも** べんきょうしました. きょうと**へも** いきました. ちち**とも** はなしました.\n• A time word with no particle (きのう, あした) just takes も: あしたも.\n• も marks **the block that is \"also\"**. Move it and the meaning changes: わたしも パンを かいました (I bought bread too — just like someone else did) × わたしは パンも かいました (I bought bread as well — besides something else). English \"too\" can be vague about this; Japanese is not.",
+      "explanation": "In lesson 02-3 you used も in place of は: わたしも がくせいです. も **includes** its block: it adds it to the things the sentence is true for (\"this one too\"). Now も can go on any block of the sentence, and the rule depends on the particle that was already there:\n• **は, が, を → just も**: も replaces the particle. いぬが います → ねこ**も** います. パンを かいました → 水**も** かいました.\n• **に, で, へ, と → particle + も**: も comes after it. リオ**にも** いきました. うち**でも** べんきょうしました. きょうと**へも** いきました. ちち**とも** はなしました.\n• A time word with no particle (きのう, あした) just takes も: あしたも.\n• **In a negative sentence, も means \"either\"**. English switches from \"too\" to \"either\"; Japanese keeps も: わたしも いきませんでした (I didn't go either).\n• も marks **the block that is \"also\"**. Move it and the meaning changes: わたしも パンを かいました (I bought bread too — just like someone else did) × わたしは パンも かいました (I bought bread as well — besides something else). English \"too\" can be vague about this; Japanese is not.\n• Going further (Sakubi): on a question word, も makes a new word. With a negative verb, なにも means \"nothing\": なにも かいませんでした (I didn't buy anything). You will study it in lesson 08-3.",
       "structure": "は／が／を → も · に／で／へ／と → にも／でも／へも／とも",
       "examples": [
         { "jp": "ペドロさんは サンパウロに いきました。リオにも いきました。", "kana": "ペドロさんは サンパウロに いきました。リオにも いきました。", "romaji": "Pedoro-san wa Sanpauro ni ikimashita. Rio ni mo ikimashita.", "en": "Pedro went to São Paulo. He went to Rio too." },
         { "jp": "としょかんで べんきょうしました。うちでも べんきょうしました。", "kana": "としょかんで べんきょうしました。うちでも べんきょうしました。", "romaji": "Toshokan de benkyō shimashita. Uchi de mo benkyō shimashita.", "en": "I studied at the library. I studied at home too." },
-        { "jp": "コンビニで パンを かいました。水も かいました。", "kana": "コンビニで パンを かいました。みずも かいました。", "romaji": "Konbini de pan o kaimashita. Mizu mo kaimashita.", "en": "I bought bread at the convenience store. I bought water too." }
+        { "jp": "けさ コーヒーを のみませんでした。水も のみませんでした。", "kana": "けさ コーヒーを のみませんでした。みずも のみませんでした。", "romaji": "Kesa kōhī o nomimasen deshita. Mizu mo nomimasen deshita.", "en": "I didn't drink coffee this morning. I didn't drink water either." }
       ],
       "pitfalls": [
         "With を and が, も takes their place: ねこがも ✗ → ねこも ✓; 水をも ✗ in speech (をも only shows up in formal writing) → 水も ✓.",
         "With に and で, the particle stays: リオにも ✓, うちでも ✓. Dropping で breaks the meaning (うちも べんきょうしました ✗), and dropping に, though you may hear it in casual speech, hides the block's job — keep it.",
-        "でも after a PLACE (うちでも) is で + も = \"at… too\". At the start of a sentence, でも is a different word: \"but\".",
-        "Put も on the block that is the news: if Ana bought something too, it's アナさんも; if you bought water too, it's 水も."
+        "でも after a PLACE (うちでも) is で + も = \"at… too\". At the start of a sentence, でも is a different word, \"but\". \"I studied at home too\": でも、うちで べんきょうしました ✗ (\"But I studied at home\") → うちでも べんきょうしました ✓.",
+        "Put も on the block that is the news. \"Ana bought bread too (like me)\": アナさんは パンも かいました ✗ (that's \"Ana bought bread as well\", besides other things) → アナさんも パンを かいました ✓."
       ],
       "howToStudy": [
         "Say pairs of sentences out loud, the second one with も: ぎんこうに いきました → ゆうびんきょくにも いきました; うちで たべました → だいがくでも たべました.",
@@ -134,7 +134,7 @@
       "gc": "4-8",
       "title": "〜じかん (duration)",
       "gloss": "for X hours",
-      "explanation": "〜じかん measures **how long** something lasts: にじかん = two hours (of duration). Don't confuse it with 〜じ, the **clock time** (lesson 01-2): 二時 (にじ) = at two o'clock.\n• The duration goes in **without に**, as a block with no particle, usually close to the verb: にじかん べんきょうしました. The clock time takes に: 二時に おきました.\n• English needs \"for\" (for two hours); Japanese doesn't — the number of hours alone does the job.\n• Add half an hour with はん: いちじかんはん = an hour and a half.\n• Watch the readings: 4 hours = **よ**じかん, 9 hours = **く**じかん, 7 hours = しちじかん (ななじかん is also heard).\n• Question: **なんじかん** 〜ましたか。 (For how many hours…?)\n• For \"about\", add ぐらい: にじかんぐらい (about two hours).\n• In kanji, じかん is written 時間. The second kanji (間) only comes in Genki Lesson 9, so in this course the word stays in kana for now.",
+      "explanation": "〜じかん measures **how long** something lasts: にじかん = two hours (of duration). Don't confuse it with 〜じ, the **clock time** (lesson 01-2): 二時 (にじ) = at two o'clock.\n• The duration goes in **without に**, as a block with no particle, usually close to the verb: にじかん べんきょうしました. The clock time takes に: 二時に おきました.\n• English needs \"for\" (for two hours); Japanese doesn't — the number of hours alone does the job.\n• Add half an hour with はん: いちじかんはん = an hour and a half.\n• Watch the readings: 4 hours = **よ**じかん, 9 hours = **く**じかん, 7 hours = しちじかん (ななじかん is also heard).\n• Question: **なんじかん** 〜ましたか。 (For how many hours…?)\n• For \"about\", add ぐらい: にじかんぐらい (about two hours). ぐらい makes an amount or a length approximate. For a point on the clock you already know ごろ (lesson 03-3): 二時ごろ (around two o'clock).\n• In kanji, じかん is written 時間. The second kanji (間) only comes in Genki Lesson 9, so in this course the word stays in kana for now.",
       "structure": "[number] じかん (ぐらい) [verb] · no に",
       "examples": [
         { "jp": "きのう さんじかん ゲームを しました。", "kana": "きのう さんじかん ゲームを しました。", "romaji": "Kinō san-jikan gēmu o shimashita.", "en": "Yesterday I played video games for three hours." },
@@ -143,8 +143,9 @@
       ],
       "pitfalls": [
         "Duration takes no に: にじかんに べんきょうしました ✗ → にじかん べんきょうしました ✓. に is only for the clock time: 二時に ✓.",
-        "二時 (にじ) ≠ にじかん: \"at two\" × \"for two hours\". One extra かん changes everything.",
-        "4 hours of duration is よじかん, not よんじかん ✗. And 9 hours is くじかん."
+        "二時 (にじ) ≠ にじかん: \"at two\" × \"for two hours\". \"I studied for two hours\": 二時 べんきょうしました ✗ → にじかん べんきょうしました ✓. One extra かん changes everything.",
+        "4 hours of duration is よじかん: よんじかん ✗ → よじかん ✓. And 9 hours is くじかん.",
+        "ごろ is for a point in time, not a length: にじかんごろ ✗ → にじかんぐらい ✓ (about two hours). With a clock time, 二時ごろ ✓ (in speech you will also hear 二時ぐらい)."
       ],
       "howToStudy": [
         "Count out loud from いちじかん to じゅうじかん, paying attention to よじかん, しちじかん and くじかん.",
@@ -158,7 +159,7 @@
       "gc": "4-7",
       "title": "たくさん",
       "gloss": "a lot, many (quantity)",
-      "explanation": "たくさん means **a large quantity**: lots of things, lots of people, doing a lot of something.\n• It usually comes **right before the verb**, after the block with が or を: しゃしんを たくさん とりました. 人が たくさん います.\n• It can also come before a noun, linked with の: たくさんの 人 (a lot of people).\n• たくさん is only about **quantity**. English \"a lot\" can also mean intensity (\"it's a lot better\", \"thanks a lot\"); たくさん can't. For intensity (\"very good\"), Japanese uses another word, とても (lesson 05-3).\n• For \"not… much\", the most natural choice is あまり + negative, the あまり you saw in lesson 03-3: あまり たべませんでした.",
+      "explanation": "たくさん means **a large quantity**: lots of things, lots of people, doing a lot of something.\n• It usually comes **right before the verb**, after the block with が or を: しゃしんを たくさん とりました. 人が たくさん います. There it works like the frequency words of lesson 03-3 (よく, ときどき): it takes **no particle** and describes the action — here, how much.\n• It can also come before a noun, linked with の: たくさんの 人 (a lot of people).\n• たくさん is only about **quantity**. English \"a lot\" can also mean intensity (\"it's a lot better\", \"thanks a lot\"); たくさん can't. For intensity (\"very good\"), Japanese uses another word, とても (lesson 05-3).\n• For \"not… much\", the most natural choice is あまり + negative, the あまり you saw in lesson 03-3: あまり たべませんでした.",
       "structure": "[N] が／を たくさん [verb] · たくさんの [N]",
       "examples": [
         { "jp": "リベルダーデに 日本りょうりの レストランが たくさん あります。", "kana": "リベルダーデに にほんりょうりの レストランが たくさん あります。", "romaji": "Riberudāde ni Nihon ryōri no resutoran ga takusan arimasu.", "en": "There are lots of Japanese restaurants in Liberdade (a neighborhood in São Paulo)." },
@@ -172,8 +173,8 @@
       ],
       "howToStudy": [
         "Say 3 sentences about places you know: 〜に 〜が たくさん あります／います。",
-        "Take 3 sentences from the homework of lesson 04-2 and add たくさん right before the verb, where it makes sense.",
-        "Speaking: record 20 seconds saying what you did a lot of recently (たくさん ねました, しゃしんを たくさん とりました…)."
+        "Tap 🔬 on the photo example: しゃしんを is still the OBJECT, and たくさん shows up as HOW / HOW OFTEN — a block with no particle, like よく and ときどき. It describes the action, not the noun.",
+        "Take 3 sentences from the homework of lesson 04-2, add たくさん right before the verb where it makes sense, and record 20 seconds saying them and what else you did a lot of recently (たくさん ねました…)."
       ],
       "flag": null
     }
@@ -221,7 +222,8 @@
           { "q": "[かいました] [たくさん] [パンを] [コンビニで]", "a": { "jp": "コンビニで パンを たくさん かいました。", "romaji": "Konbini de pan o takusan kaimashita." }, "note": "たくさん right before the verb." },
           { "q": "[ねました] [はちじかん] [きのう]", "a": { "jp": "きのう はちじかん ねました。", "romaji": "Kinō hachi-jikan nemashita." } },
           { "q": "[あります] [テーブルの 上に] [パンと 水が]", "a": { "jp": "テーブルの 上に パンと 水が あります。", "kana": "テーブルの うえに パンと みずが あります。", "romaji": "Tēburu no ue ni pan to mizu ga arimasu." }, "note": "With が, starting from the place is the most natural (lesson 04-1, point 4b). パンと 水が テーブルの 上に あります is also grammatical, but sounds less natural here." },
-          { "q": "[います] [ねこも] [うちに]", "a": { "jp": "うちに ねこも います。", "romaji": "Uchi ni neko mo imasu." }, "note": "が became も: \"there's a cat at home too\". ねこも うちに います is also grammatical, but it means something else: \"the cat is at home too\" (like someone or something already mentioned)." }
+          { "q": "[います] [ねこも] [うちに]", "a": { "jp": "うちに ねこも います。", "romaji": "Uchi ni neko mo imasu." }, "note": "が became も: \"there's a cat at home too\". ねこも うちに います is also grammatical, but it means something else: \"the cat is at home too\" (like someone or something already mentioned)." },
+          { "q": "[いきませんでした] [わたしも] [こうえんに]", "a": { "jp": "わたしも こうえんに いきませんでした。", "romaji": "Watashi mo kōen ni ikimasen deshita." }, "note": "In a negative sentence, も is \"either\": \"I didn't go to the park either\" (just like someone else)." }
         ]
       },
       {
@@ -243,8 +245,8 @@
     ]
   },
   "practice": [
-    { "tool": "Wagotabi", "what": "Play normally. Hunt for と and も in the dialogues: for each と, decide whether it's a list or company; for each も, say which particle it replaced or joined. Copy 2 lines into your notebook. Then, in Immersion → Games, log the session and paste one of them into Anatomy.", "min": 15 },
-    { "tool": "ヅオリンゴー", "what": "Kanji → ✍️ Write: the 14 kanji of Lesson 4 (日 本 人 月 火 水 木 金 土 曜 上 下 中 半), with stroke order.", "min": 15 },
+    { "tool": "Wagotabi", "what": "Play normally. Hunt for と and も in the dialogues: for each と, decide whether it's a list or company; for each も, say which particle it replaced or joined. Copy 2 lines into your notebook. Then, in Immersion → Games, log the session and paste one of them into Anatomy; if it has a word you didn't know, look it up and save the line in Mining.", "min": 15 },
+    { "tool": "ヅオリンゴー", "what": "Kanji → ✍️ Write: the 14 kanji of Lesson 4 (日 本 人 月 火 水 木 金 土 曜 上 下 中 半), with stroke order. Tie each one to a word you already know (日本, 人, 水, 月曜日, 上…): learning kanji through the words they live in is the simplest way to start. If some don't stick, give them a tiny picture story (木 looks like a tree; 人, a person walking). Writing and reading are separate skills: after writing, also read them in the Lesson 4 SRS cards.", "min": 15 },
     { "tool": "ヅオリンゴー", "what": "Practice L4, reviewing the whole lesson. Then the SRS with the 🌊 All deck.", "min": 10 },
     { "tool": "Shadowing", "what": "Tap 🔊 on each example in this lesson and repeat along 3 times. Get the rhythm of さんじかん and いちじかんはん right: every mora (every kana, including ん) gets the same beat. さ・ん・じ・か・ん is 5 beats; い・ち・じ・か・ん・は・ん is 7.", "min": 5 },
     { "tool": "Speaking", "what": "Record your outing story (homework h4) in 40 seconds or less. Listen and check your と's, your も's and the durations.", "min": 5 }
@@ -258,11 +260,15 @@
   "checklist": [
     "I can list 2 or 3 things with と, with the particle only once, at the end of the block.",
     "I can say who I did something with (〜と) or that I did it alone (一人で), without looking.",
-    "I put も on the right block: in place of は／が／を, and after に／で／へ／と (にも, でも…).",
+    "I put も on the right block: in place of は／が／を, and after に／で／へ／と (にも, でも…) — and I use it for \"either\" in negative sentences.",
     "I can tell 二時 (at two) from にじかん (for two hours) and I read よじかん and くじかん without mistakes.",
     "I use たくさん before the verb (しゃしんを たくさん とりました) and I know it doesn't mean \"very\".",
     "I can read and write the 14 kanji of Lesson 4.",
     "I did the homework, checked it against the answer key and redid what I got wrong.",
     "I did Workbook pages 46–49 and 135–136."
+  ],
+  "credits": [
+    "Explanations adapted in part from Sakubi (public domain, CC0) — sakubi.neocities.org",
+    "Study method informed by the DJT Guide to Japanese — djtguide.neocities.org/guide"
   ]
 }

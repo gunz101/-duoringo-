@@ -1,0 +1,240 @@
+{
+  "id": "V-04",
+  "unit": "V",
+  "genki": null,
+  "title": "Restaurants and izakaya",
+  "titleJp": "レストランと居酒屋",
+  "canDo": [
+    "I can say how many we are (二人です) and ask for an English menu, softly (英語のメニューはありませんか).",
+    "I can order by pointing (これを二つください), join two items with と, and ask for a recommendation (おすすめは何ですか).",
+    "I can say what I can't eat (〜が食べられません), mention an allergy, and ask whether a dish contains something.",
+    "I can ask for the bill (お会計お願いします) and whether I can pay by card, and I say いただきます and ごちそうさまでした at the right moments."
+  ],
+  "duration": {
+    "total": "60–75 min",
+    "blocks": [
+      { "t": "Warm-up: count aloud with つ (ひとつ … とお) and with 人 (ひとり, ふたり, さんにん…), then read this lesson's vocabulary (block 3) aloud", "min": 5 },
+      { "t": "Vocabulary: tap 🔊 on each word and repeat it twice; save the food words you would really order with Mining (⛏)", "min": 10 },
+      { "t": "Situations: the 4 dialogues, read aloud in both roles, with one 🔬 per situation", "min": 20 },
+      { "t": "Block 6: the video, pausing to answer the staff's questions yourself", "min": 10 },
+      { "t": "Notebook homework + checking it against the answer key", "min": 15 },
+      { "t": "Role-play a whole meal out loud + checklist (block 10)", "min": 10 }
+    ]
+  },
+  "prereqs": {
+    "aulas": ["V-01", "06-4"],
+    "skills": [
+      "〜をください and 〜をおねがいします (lesson 02-2): the core of ordering.",
+      "Counting things with ひとつ, ふたつ… (lesson 05-3) and joining nouns with と (lesson 04-3).",
+      "あります／ありません (lesson 04-1) and 〜ませんか (lesson 03-3).",
+      "Counting people (ひとり, ふたり, さんにん) belongs to lesson 07-3; this lesson gives you what you need for the door.",
+      "Every sentence comes with its full kana reading."
+    ],
+    "vocab": [
+      { "jp": "居酒屋", "kana": "いざかや", "romaji": "izakaya", "en": "Japanese-style pub serving drinks and small dishes" },
+      { "jp": "〜名様", "kana": "〜めいさま", "romaji": "-meisama", "en": "… people (the staff's very polite counter for guests)" },
+      { "jp": "一人", "kana": "ひとり", "romaji": "hitori", "en": "one person" },
+      { "jp": "二人", "kana": "ふたり", "romaji": "futari", "en": "two people" },
+      { "jp": "メニュー", "kana": "メニュー", "romaji": "menyū", "en": "menu" },
+      { "jp": "英語", "kana": "えいご", "romaji": "eigo", "en": "English (the language)" },
+      { "jp": "席", "kana": "せき", "romaji": "seki", "en": "seat" },
+      { "jp": "カウンター", "kana": "カウンター", "romaji": "kauntā", "en": "counter (seats at the counter)" },
+      { "jp": "注文", "kana": "ちゅうもん", "romaji": "chūmon", "en": "order (of food and drink)" },
+      { "jp": "おすすめ", "kana": "おすすめ", "romaji": "osusume", "en": "recommendation" },
+      { "jp": "生ビール", "kana": "なまビール", "romaji": "nama bīru", "en": "draft beer" },
+      { "jp": "枝豆", "kana": "えだまめ", "romaji": "edamame", "en": "boiled green soybeans" },
+      { "jp": "焼き魚", "kana": "やきざかな", "romaji": "yakizakana", "en": "grilled fish" },
+      { "jp": "肉", "kana": "にく", "romaji": "niku", "en": "meat" },
+      { "jp": "豚肉", "kana": "ぶたにく", "romaji": "butaniku", "en": "pork" },
+      { "jp": "魚", "kana": "さかな", "romaji": "sakana", "en": "fish" },
+      { "jp": "えび", "kana": "えび", "romaji": "ebi", "en": "shrimp" },
+      { "jp": "卵", "kana": "たまご", "romaji": "tamago", "en": "egg" },
+      { "jp": "アレルギー", "kana": "アレルギー", "romaji": "arerugī", "en": "allergy" },
+      { "jp": "入っています", "kana": "はいっています", "romaji": "haitte imasu", "en": "is in it, contains" },
+      { "jp": "だし", "kana": "だし", "romaji": "dashi", "en": "soup stock (often made from fish)" },
+      { "jp": "お会計", "kana": "おかいけい", "romaji": "okaikei", "en": "the bill; paying" },
+      { "jp": "現金", "kana": "げんきん", "romaji": "genkin", "en": "cash" },
+      { "jp": "カード", "kana": "カード", "romaji": "kādo", "en": "(credit) card" },
+      { "jp": "払います", "kana": "はらいます", "romaji": "haraimasu", "en": "to pay" }
+    ]
+  },
+  "grammar": [
+    {
+      "id": "V-04-a",
+      "gc": null,
+      "title": "At the door: how many people?",
+      "gloss": "何名様ですか · 二人です · 〜はありませんか",
+      "explanation": "When you walk in, the staff call out **いらっしゃいませ** (\"welcome\"). You don't answer it — a nod or a smile is enough. Then comes the first question: **何名様ですか** (\"How many people?\"). 〜名様 is the staff's very polite way to count guests; you answer with the ordinary counter, often holding up your fingers too. At busy places you may be asked to write your name on a list and wait (お名前を書いてお待ちください). At many ramen and soba shops you buy a meal ticket at a machine by the entrance first, and hand it to the staff.\n• **Counting people:** 一人 (ひとり) and 二人 (ふたり) are special; from three on it is number + 人 (にん): 三人 (さんにん), 四人 (よにん), 五人 (ごにん). You will study this counter in lesson 07-3.\n• **Asking for an English menu:** 英語のメニューはありますか。 or, more softly, 英語のメニューは**ありませんか**。 Going further (Sakubi): this negative question isn't negative in meaning — ませんか often makes a question more modest, like English \"you wouldn't have…, would you?\" It is the same ませんか you used for invitations in lesson 03-3. The answer may be はい、ございます (ございます is a very polite あります) or すみません、日本語だけです.\n• **The blocks:** 英語の DESCRIBES the next noun, メニューは is the TOPIC and ありませんか the PREDICATE.\n• **Seats:** カウンター席はいかがですか。 (\"How about seats at the counter?\") — いかが is the polite どう. はい、お願いします accepts.",
+      "structure": "何名様ですか。— [number of people] です。 · [thing] は ありますか／ありませんか。",
+      "examples": [
+        { "jp": "いらっしゃいませ。何名様ですか。— 二人です。", "kana": "いらっしゃいませ。なんめいさまですか。— ふたりです。", "romaji": "Irasshaimase. Nanmei-sama desu ka. — Futari desu.", "en": "Welcome. How many are you? — Two." },
+        { "jp": "英語のメニューはありませんか。— すみません、日本語だけです。", "kana": "えいごのメニューはありませんか。— すみません、にほんごだけです。", "romaji": "Eigo no menyū wa arimasen ka. — Sumimasen, nihongo dake desu.", "en": "Would you have an English menu? — Sorry, it's only in Japanese. [lit. isn't there an English menu? — sorry, only Japanese]" },
+        { "jp": "カウンター席はいかがですか。— はい、お願いします。", "kana": "カウンターせきはいかがですか。— はい、おねがいします。", "romaji": "Kauntā-seki wa ikaga desu ka. — Hai, onegai shimasu.", "en": "How about seats at the counter? — Yes, please." }
+      ],
+      "pitfalls": [
+        "様 honors the guest, so you never use it about your own group: 二名様です ✗ → 二人です ✓ (二名です ✓ is also fine).",
+        "一人 and 二人 are irregular: いちにん ✗ → ひとり ✓; ににん ✗ → ふたり ✓.",
+        "いらっしゃいませ is the shop's greeting to you; it is not returned: answering いらっしゃいませ ✗ → a nod, then 二人です ✓."
+      ],
+      "howToStudy": [
+        "Say the door exchange aloud for groups of 1 to 5 (一人です … 五人です), holding up the right number of fingers each time.",
+        "Tap 🔬 on example 2: 英語の shows up as DESCRIBES NEXT, メニューは as TOPIC and ありませんか as PREDICATE. Then paste 英語のメニューはありますか into 🔬 Analyze: the same three blocks — only the ending is softer.",
+        "Record yourself doing the whole door exchange (number of people, English menu, seats) in under 20 seconds."
+      ],
+      "flag": null
+    },
+    {
+      "id": "V-04-b",
+      "gc": null,
+      "title": "Ordering",
+      "gloss": "これをください · おすすめは何ですか",
+      "explanation": "When you are ready, catch the staff's attention with a raised hand and **すみません！** — that is normal, not rude. Many places have a call button on the table instead, and some take orders on a tablet or through a QR code on your phone. The staff will ask **ご注文はお決まりですか** (\"Are you ready to order?\" [lit. is your order decided?]).\n• **Pointing works:** これをください。 with your finger on the menu photo, plus a number: これを二つください。 This is the 〜をください of lesson 02-2 with a counter from lesson 05-3. お願いします is a slightly softer alternative: これを二つお願いします。\n• **Two items at once:** [A]を[number]と、[B]をお願いします。 生ビールを二つと、枝豆をお願いします。 と joins the items, as in lesson 04-3.\n• **Asking for a recommendation:** おすすめは何ですか。— 今日は焼き魚がおすすめです。 In the answer, 今日は is the TOPIC (\"today\") and 焼き魚が is the SUBJECT: が points at the dish that is recommended.\n• **What you will hear:** かしこまりました (\"certainly\"), お飲み物は？ (\"and to drink?\"), 以上でよろしいですか (\"will that be all?\" — answer はい).\n• Going further (Sakubi): ください comes from a verb of giving — \"give me\" — so in speech it often follows a noun directly, with no を: これください, 生二つください. Both ways are fine.",
+      "structure": "[dish] を [number] ください／お願いします。 · [A] を [number] と、[B] を お願いします。 · おすすめは 何ですか。",
+      "examples": [
+        { "jp": "ご注文はお決まりですか。— はい、これを二つください。", "kana": "ごちゅうもんはおきまりですか。— はい、これをふたつください。", "romaji": "Go-chūmon wa okimari desu ka. — Hai, kore o futatsu kudasai.", "en": "Are you ready to order? — Yes, two of these, please. [lit. is your order decided?]" },
+        { "jp": "おすすめは何ですか。— 今日は焼き魚がおすすめです。", "kana": "おすすめはなんですか。— きょうはやきざかながおすすめです。", "romaji": "Osusume wa nan desu ka. — Kyō wa yakizakana ga osusume desu.", "en": "What do you recommend? — Today, we recommend the grilled fish. [lit. as for today, the grilled fish is the recommendation]" },
+        { "jp": "生ビールを二つと、枝豆をお願いします。— かしこまりました。", "kana": "なまビールをふたつと、えだまめをおねがいします。— かしこまりました。", "romaji": "Nama bīru o futatsu to, edamame o onegai shimasu. — Kashikomarimashita.", "en": "Two draft beers and some edamame, please. — Certainly." }
+      ],
+      "pitfalls": [
+        "The number goes after を, right before ください: 二つを これ ください ✗ → これを二つください ✓.",
+        "Drinks and dishes are counted with つ, people with 人: ビールを二人 ✗ → ビールを二つ ✓.",
+        "Snapping your fingers or whistling for the staff ✗ → a raised hand and すみません！ ✓."
+      ],
+      "howToStudy": [
+        "Order from a real menu (a restaurant's website or photos): point, say これを[number]ください, then add a drink with と.",
+        "Tap 🔬 on example 3: 生ビールを is OBJECT, 二つと shows up as AND (the と that joins the next item), 枝豆を is another OBJECT and お願いします the PREDICATE.",
+        "Tap 🔬 on the answer of example 2: 今日は is TOPIC, 焼き魚が SUBJECT and おすすめです PREDICATE. Say it aloud with 3 other dishes in place of 焼き魚."
+      ],
+      "flag": null
+    },
+    {
+      "id": "V-04-c",
+      "gc": null,
+      "title": "What I can't eat",
+      "gloss": "〜が食べられません · 〜が入っていますか",
+      "explanation": "Say clearly what you can't eat, then ask about the dish. Many Japanese dishes use **だし** (soup stock), which is often made from fish (dried bonito flakes) — so even a vegetable dish, a sauce or a soup may contain fish. For a serious allergy, a card in Japanese that lists what you can't eat is safer than speaking, and staff may not always know every ingredient.\n• **〜が食べられません = \"I can't eat …\".** 食べられる is the \"can\" form of 食べる (lesson 13-1); for now, learn it as a chunk. The food is usually marked with **が**: 豚肉が食べられません。 Going further (Sakubi): in casual speech you will also hear 食べれない, a shorter form that has been common for a long time; 食べられません is the safe polite form.\n• **Allergies:** [food]のアレルギーがあります。 (\"I have a … allergy.\" [lit. there is a … allergy])\n• **Asking about the dish:** これは[food]が入っていますか。 (\"Does this have … in it?\") 入っています means \"is in it\" — the 〜ている of lesson 07-1. Answers: はい、入っています／いいえ、入っていません. この料理は大丈夫ですか (\"Is this dish OK (for me)?\") is a useful short version.\n• **The blocks:** in これは豚肉が入っていますか, これは is the TOPIC (\"as for this\"), 豚肉が the SUBJECT (what is in it) and 入っていますか the PREDICATE.\n• A vegetarian might say: わたしはベジタリアンです。肉と魚が食べられません。 Some restaurants now mark dishes with icons, but check with the staff.",
+      "structure": "[food] が 食べられません。 · [food] の アレルギーが あります。 · これは [food] が 入っていますか。",
+      "examples": [
+        { "jp": "すみません、豚肉が食べられません。これは豚肉が入っていますか。— はい、入っています。", "kana": "すみません、ぶたにくがたべられません。これはぶたにくがはいっていますか。— はい、はいっています。", "romaji": "Sumimasen, butaniku ga taberaremasen. Kore wa butaniku ga haitte imasu ka. — Hai, haitte imasu.", "en": "Excuse me, I can't eat pork. Does this have pork in it? — Yes, it does." },
+        { "jp": "えびのアレルギーがあります。この料理は大丈夫ですか。— はい、えびは入っていません。", "kana": "えびのアレルギーがあります。このりょうりはだいじょうぶですか。— はい、えびははいっていません。", "romaji": "Ebi no arerugī ga arimasu. Kono ryōri wa daijōbu desu ka. — Hai, ebi wa haitte imasen.", "en": "I have a shrimp allergy. Is this dish OK? — Yes, there's no shrimp in it." },
+        { "jp": "わたしはベジタリアンです。肉と魚が食べられません。この料理は大丈夫ですか。— すみません、魚のだしが入っています。", "kana": "わたしはベジタリアンです。にくとさかながたべられません。このりょうりはだいじょうぶですか。— すみません、さかなのだしがはいっています。", "romaji": "Watashi wa bejitarian desu. Niku to sakana ga taberaremasen. Kono ryōri wa daijōbu desu ka. — Sumimasen, sakana no dashi ga haitte imasu.", "en": "I'm a vegetarian. I can't eat meat or fish. Is this dish OK? — I'm sorry, it has fish stock in it." }
+      ],
+      "pitfalls": [
+        "食べません is \"I don't eat\" (a habit or a choice); 食べられません is \"I can't eat\". For an allergy: えびを食べません ✗ → えびが食べられません ✓ (or えびのアレルギーがあります ✓).",
+        "ベジタリアン alone is not enough — many people assume fish or dashi is fine: ベジタリアンです (and nothing more) ✗ → ベジタリアンです。肉と魚が食べられません ✓.",
+        "A vegetable dish is not automatically fish-free: assuming 野菜の料理 has no fish ✗ → asking 魚のだしが入っていますか ✓."
+      ],
+      "howToStudy": [
+        "Write your own restriction card in your notebook: 1–3 lines with 〜が食べられません or 〜のアレルギーがあります. Say it aloud until it comes out without thinking — even if you can eat everything, write one for a friend.",
+        "Tap 🔬 on example 1: 豚肉が shows up as SUBJECT and 食べられません as PREDICATE. In the question, これは is TOPIC, 豚肉が SUBJECT and 入っていますか PREDICATE. Read from the end: is it in? → what? pork → in what? this.",
+        "Role-play out loud: ask この料理は大丈夫ですか about 3 dishes, and answer yourself once with はい、〜は入っていません and once with すみません、〜が入っています."
+      ],
+      "flag": null
+    },
+    {
+      "id": "V-04-d",
+      "gc": null,
+      "title": "Paying and leaving",
+      "gloss": "お会計お願いします · カードで払えますか · ごちそうさまでした",
+      "explanation": "When you have finished, ask for the bill: **すみません、お会計お願いします** (\"Excuse me, the bill, please\"). In speech the を is usually dropped; お会計をお願いします is the full form. In many restaurants the bill (伝票, でんぴょう) is already on your table, and you take it to the register (レジ) near the exit; at izakaya you often pay at the table or at the register. Card and phone payments are more and more common, but some places are **cash only**, so ask before you order if you are unsure.\n• **カードで払えますか = \"Can I pay by card?\"** で marks the MEANS — how you pay (you will meet this で again with transport in lesson 10-3). 払えます is the \"can\" form of 払う (lesson 13-1): learn it as a chunk. 現金で払います = \"I'll pay in cash\".\n• **What you will hear:** レジでお願いします (\"at the register, please\"), 現金だけです (\"cash only\"), お支払いは？ (\"how will you pay?\"), 別々ですか (\"separately?\").\n• **Two set phrases around the meal:** いただきます before you eat, to the people at your table, and **ごちそうさまでした** when you have finished — also to the staff as you leave. They answer ありがとうございました。またお越しください (\"thank you — please come again\"). You met both phrases in lesson 05-2.",
+      "structure": "すみません、お会計（を）お願いします。 · [カード／現金] で 払えますか。",
+      "examples": [
+        { "jp": "すみません、お会計をお願いします。— はい、レジでお願いします。", "kana": "すみません、おかいけいをおねがいします。— はい、レジでおねがいします。", "romaji": "Sumimasen, okaikei o onegai shimasu. — Hai, reji de onegai shimasu.", "en": "Excuse me, the bill, please. — Sure, please pay at the register. [lit. at the register, please]" },
+        { "jp": "カードで払えますか。— すみません、現金だけです。", "kana": "カードではらえますか。— すみません、げんきんだけです。", "romaji": "Kādo de haraemasu ka. — Sumimasen, genkin dake desu.", "en": "Can I pay by card? — Sorry, cash only." },
+        { "jp": "ごちそうさまでした。— ありがとうございました。またお越しください。", "kana": "ごちそうさまでした。— ありがとうございました。またおこしください。", "romaji": "Gochisōsama deshita. — Arigatō gozaimashita. Mata okoshi kudasai.", "en": "Thank you for the meal. — Thank you very much. Please come again." }
+      ],
+      "pitfalls": [
+        "いただきます comes before the meal, ごちそうさまでした after it: leaving with いただきます ✗ → ごちそうさまでした ✓.",
+        "How you pay takes で (the means): カードを払えますか ✗ (\"can I pay the card?\") → カードで払えますか ✓.",
+        "Japan usually has no tipping, and staff may even run after you to return the money: leaving extra on the table ✗ → paying the amount on the bill ✓."
+      ],
+      "howToStudy": [
+        "Role-play the end of a meal out loud: call the staff, ask for the bill, ask カードで払えますか, hear 現金だけです, pay, and leave with ごちそうさまでした.",
+        "Tap 🔬 on example 2: カードで shows up as MEANS and 払えますか as PREDICATE. Paste 現金で払えますか into 🔬 Analyze: 現金で is the MEANS now, and the PREDICATE stays the same.",
+        "Tap 🔬 on example 1: お会計を is OBJECT and お願いします PREDICATE. Then paste the spoken version, お会計お願いします, into 🔬 Analyze: without を, it shows up as a single PREDICATE block — the particle was dropped, the meaning is the same."
+      ],
+      "flag": null
+    }
+  ],
+  "media": [
+    { "order": 1, "kind": "video", "title": "JapanesePod101: Japanese phrases for ordering at a restaurant", "where": "YouTube · JapanesePod101.com channel", "url": "", "search": "JapanesePod101 ordering food restaurant Japanese phrases", "when": "After situations a and b. Pause after each staff question and answer it yourself before the video does." },
+    { "order": 2, "kind": "reading", "title": "Irodori (Japan Foundation) — free course: a situational course for everyday life in Japan, with free audio. Look in its table of contents for the topics about food and eating out.", "where": "The Japan Foundation · Irodori: Japanese for Life in Japan (free textbooks and audio)", "url": "", "search": "Irodori Japanese for Life in Japan", "when": "Optional, whenever you want more short real-life exchanges to listen to." }
+  ],
+  "homework": {
+    "intro": "Do it by hand in your notebook, with the kanji you know and kana for the rest. Read every Japanese line aloud before you check it. Only then open the answer key, item by item. Circle what you got wrong and redo it the next day. The Travel Track has no Workbook pages.",
+    "tasks": [
+      {
+        "id": "h1",
+        "type": "complete",
+        "prompt": "Complete the dialogue: write the missing line in Japanese. The English in brackets tells you what to say.",
+        "items": [
+          { "q": "いらっしゃいませ。何名様ですか。— ＿＿ (Three.)", "a": { "jp": "三人です。", "kana": "さんにんです。", "romaji": "Sannin desu." } },
+          { "q": "ご注文はお決まりですか。— ＿＿ (Yes: one of these and two of those, please.)", "a": { "jp": "はい、これを一つと、それを二つください。", "kana": "はい、これをひとつと、それをふたつください。", "romaji": "Hai, kore o hitotsu to, sore o futatsu kudasai." }, "note": "と joins the two items; お願いします instead of ください is also right." },
+          { "q": "＿＿ — 今日は天ぷらがおすすめです。 (Ask for a recommendation.)", "a": { "jp": "おすすめは何ですか。", "kana": "おすすめはなんですか。", "romaji": "Osusume wa nan desu ka." } },
+          { "q": "カードで払えますか。— ＿＿ (Sorry, cash only.)", "a": { "jp": "すみません、現金だけです。", "kana": "すみません、げんきんだけです。", "romaji": "Sumimasen, genkin dake desu." }, "note": "A line you will hear: writing it helps you recognize it." },
+          { "q": "＿＿ — ありがとうございました。またお越しください。 (What you say as you leave.)", "a": { "jp": "ごちそうさまでした。", "romaji": "Gochisōsama deshita." } }
+        ]
+      },
+      {
+        "id": "h2",
+        "type": "translate",
+        "prompt": "Translate into Japanese.",
+        "items": [
+          { "q": "(Softly) Would you have an English menu?", "a": { "jp": "英語のメニューはありませんか。", "kana": "えいごのメニューはありませんか。", "romaji": "Eigo no menyū wa arimasen ka." } },
+          { "q": "I can't eat eggs.", "a": { "jp": "卵が食べられません。", "kana": "たまごがたべられません。", "romaji": "Tamago ga taberaremasen." } },
+          { "q": "Does this have meat in it?", "a": { "jp": "これは肉が入っていますか。", "kana": "これはにくがはいっていますか。", "romaji": "Kore wa niku ga haitte imasu ka." } },
+          { "q": "I have a peanut allergy.", "a": { "jp": "ピーナッツのアレルギーがあります。", "romaji": "Pīnattsu no arerugī ga arimasu." } },
+          { "q": "(Spoken, the usual way) The bill, please.", "a": { "jp": "お会計お願いします。", "kana": "おかいけいおねがいします。", "romaji": "Okaikei onegai shimasu." }, "note": "In speech the を is usually dropped; お会計をお願いします is also right." },
+          { "q": "Two draft beers and one oolong tea, please.", "a": { "jp": "生ビールを二つと、ウーロン茶を一つお願いします。", "kana": "なまビールをふたつと、ウーロンちゃをひとつおねがいします。", "romaji": "Nama bīru o futatsu to, ūroncha o hitotsu onegai shimasu." } }
+        ]
+      },
+      {
+        "id": "h3",
+        "type": "transform",
+        "prompt": "Turn each note into a sentence you can say to the staff, with 〜が食べられません or 〜のアレルギーがあります.",
+        "items": [
+          { "q": "(no pork)", "a": { "jp": "豚肉が食べられません。", "kana": "ぶたにくがたべられません。", "romaji": "Butaniku ga taberaremasen." } },
+          { "q": "(allergy: wheat — 小麦, こむぎ)", "a": { "jp": "小麦のアレルギーがあります。", "kana": "こむぎのアレルギーがあります。", "romaji": "Komugi no arerugī ga arimasu." } },
+          { "q": "(no alcohol — use お酒 and 飲めません, \"can't drink\")", "a": { "jp": "お酒が飲めません。", "kana": "おさけがのめません。", "romaji": "Osake ga nomemasen." }, "note": "飲めません is the \"can't\" form of 飲む (lesson 13-1). Learn it as a chunk, like 食べられません." },
+          { "q": "(vegetarian: no meat, no fish)", "a": { "jp": "肉と魚が食べられません。", "kana": "にくとさかながたべられません。", "romaji": "Niku to sakana ga taberaremasen." }, "note": "Adding わたしはベジタリアンです。 first is fine — but always say what that means for you." },
+          { "q": "(allergy: shrimp)", "a": { "jp": "えびのアレルギーがあります。", "romaji": "Ebi no arerugī ga arimasu." } }
+        ]
+      },
+      {
+        "id": "h4",
+        "type": "produce",
+        "prompt": "Written role-play: an evening at an izakaya with a friend. Write 10–12 lines: the door, ordering drinks and food, one restriction, the bill, leaving. Then read it aloud in two voices and record it.",
+        "items": [
+          { "q": "Model (match its structure, not its words):", "a": { "jp": "いらっしゃいませ。何名様ですか。— 二人です。英語のメニューはありませんか。— すみません、日本語だけです。ご注文はお決まりですか。— 生ビールを二つと、枝豆をお願いします。豚肉が食べられません。おすすめは何ですか。— 焼き魚がおすすめです。— じゃあ、それを一つください。……すみません、お会計お願いします。カードで払えますか。— はい、大丈夫です。— ごちそうさまでした。", "kana": "いらっしゃいませ。なんめいさまですか。— ふたりです。えいごのメニューはありませんか。— すみません、にほんごだけです。ごちゅうもんはおきまりですか。— なまビールをふたつと、えだまめをおねがいします。ぶたにくがたべられません。おすすめはなんですか。— やきざかながおすすめです。— じゃあ、それをひとつください。……すみません、おかいけいおねがいします。カードではらえますか。— はい、だいじょうぶです。— ごちそうさまでした。", "romaji": "Irasshaimase. Nanmei-sama desu ka. — Futari desu. Eigo no menyū wa arimasen ka. — Sumimasen, nihongo dake desu. Go-chūmon wa okimari desu ka. — Nama bīru o futatsu to, edamame o onegai shimasu. Butaniku ga taberaremasen. Osusume wa nan desu ka. — Yakizakana ga osusume desu. — Jā, sore o hitotsu kudasai. … Sumimasen, okaikei onegai shimasu. Kādo de haraemasu ka. — Hai, daijōbu desu. — Gochisōsama deshita.", "en": "Welcome. How many are you? — Two. Would you have an English menu? — Sorry, only in Japanese. Are you ready to order? — Two draft beers and edamame, please. I can't eat pork. What do you recommend? — The grilled fish. — Then one of those, please. … Excuse me, the bill, please. Can I pay by card? — Yes, that's fine. — Thank you for the meal." }, "note": "Check: 二人 (not 二名様) for your group, つ for dishes and drinks, が before 食べられません, で before 払えますか, and ごちそうさまでした at the end." }
+        ]
+      }
+    ],
+    "workbook": []
+  },
+  "practice": [
+    { "tool": "Role-play", "what": "Out loud, with a real menu (a restaurant's website or photos): one person is the staff, the other the guest. Play the whole meal — door, order, one restriction, the bill, leaving. Alone, play both roles.", "min": 10 },
+    { "tool": "Speaking", "what": "Record your homework h4 in two voices. Listen back: 二人 or 二名様? つ for the drinks? Record it again in a few days and compare.", "min": 5 },
+    { "tool": "Shadowing", "what": "Tap 🔊 on each example and repeat along 3 times, at full speed. Focus on the staff's lines — いらっしゃいませ, 何名様ですか, ご注文はお決まりですか, かしこまりました — because those are the ones you must catch the first time.", "min": 5 },
+    { "tool": "Reading real Japanese", "what": "Find a real izakaya or restaurant menu in Japanese online. Where the text can be selected, use a pop-up dictionary such as Yomitan; for photos, look the words up by hand. Pick 3 dishes you would really order and save each one with Mining (⛏) inside an ordering sentence (〜を二つください), so they come back in your SRS.", "min": 10 },
+    { "tool": "ヅオリンゴー", "what": "Drills → 🔬 Anatomy → 🏷 Tag: 5 sentences from this lesson; name the job of each block before you check it. Then write your restriction card (situation c) in the Journal and open \"Anatomy of what I wrote\": the food should be the SUBJECT (が) before 食べられません.", "min": 10 }
+  ],
+  "culture": {
+    "title": "おしぼり and asking for the bill",
+    "titleJp": "おしぼりとお会計",
+    "body": "When you sit down in most restaurants and izakaya, the staff bring an **おしぼり**: a wet towel, often hot in winter and cool in summer, or sometimes a paper one in a plastic wrap. It is for wiping your hands before the meal; some people also wipe their face with it, but many see that as bad manners, so stick to your hands. Fold it and leave it at the side of your place. At the end, to **ask for the bill**, catch a staff member's eye and say お会計お願いします; some people also make a small X with their index fingers, but the words are clearer and always polite. At many izakaya a small dish, **お通し** (おとおし), arrives without being ordered and appears on the bill as a kind of table charge — that is normal, not a mistake.",
+    "try": "Next time you eat out, anywhere, run the sequence in your head: wipe your hands, fold the napkin to the side, and when you are done say to yourself すみません、お会計お願いします — then ごちそうさまでした on the way out."
+  },
+  "checklist": [
+    "I can answer 何名様ですか with the right counter (一人, 二人, 三人…) without looking.",
+    "I can ask for an English menu, softly, with 英語のメニューはありませんか.",
+    "I can order by pointing (これを[number]ください) and join two items with と.",
+    "I can ask おすすめは何ですか and understand the answer.",
+    "I can say what I can't eat (〜が食べられません), mention an allergy (〜のアレルギーがあります), and ask whether a dish contains something (〜が入っていますか).",
+    "I can ask for the bill and ask カードで払えますか, and I say ごちそうさまでした when I leave.",
+    "I did the homework, checked it against the answer key and redid what I got wrong."
+  ],
+  "credits": [
+    "Explanations adapted in part from Sakubi (public domain, CC0) — sakubi.neocities.org",
+    "Study method informed by the DJT Guide to Japanese — djtguide.neocities.org/guide"
+  ]
+}

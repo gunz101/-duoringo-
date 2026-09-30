@@ -17,7 +17,7 @@
       { "t": "Vocabulary: tap 🔊 on each word and repeat it twice", "min": 10 },
       { "t": "Grammar 4a: 〜たい, its conjugation ladder and the を／が swap, with one 🔬", "min": 15 },
       { "t": "Grammar 4b: 〜たり 〜たり する, reading each example from the する at the end", "min": 10 },
-      { "t": "Lesson 11 video (block 6), pausing on the examples", "min": 10 },
+      { "t": "Block 6: the Lesson 11 video or the Sakubi sections, as a second explanation (read to understand, not to memorize)", "min": 10 },
       { "t": "Notebook homework + checking it against the answer key", "min": 15 },
       { "t": "Checklist (block 10) + write your questions in the lesson notebook", "min": 5 }
     ]
@@ -61,7 +61,7 @@
       "gc": "11-1",
       "title": "〜たい (want to do)",
       "gloss": "I want to…",
-      "explanation": "〜たい says what **I want to do**. Take the verb **stem** (the ます-form without ます) and add たい: 食べます → 食べ**たい**, 行きます → 行き**たい**, します → し**たい**, 来ます → 来**たい** (きたい). Unlike English \"want to\", たい is not a separate word: it glues onto the verb.\n• The result behaves like an **い-adjective**: 〜たいです (I want to), 〜たくないです (I don't want to), 〜たかったです (I wanted to), 〜たくなかったです (I didn't want to). It is the same pattern as たかい → たかくない → たかかった → たかくなかった.\n• In the sentence, 〜たいです is the **PREDICATE** and comes at the end. The rest does not change: [place] に, [place] で and [with whom] と stay the same.\n• Only the **object** may change its particle: を can become **が** (ラーメンを／ラーメンが 食べたいです). に, で and the other particles stay as they are.\n• 〜たい talks about **your own** wish. In a question, it asks about the listener's wish: 何を したいですか (what do you want to do?).\n• To report **someone else's** wish, don't state it for them (マリアさんは 〜たいです). Quote what they said: マリアさんは 〜たいと 言っていました (lesson 08-2).",
+      "explanation": "〜たい says what **I want to do**. Take the verb **stem** (the ます-form without ます) and add たい: 食べます → 食べ**たい**, 行きます → 行き**たい**, します → し**たい**, 来ます → 来**たい** (きたい). Unlike English \"want to\", たい is not a separate word: it glues onto the verb, the same way ます does.\n• The result **is an い-adjective**, so it conjugates like one: 〜たいです (I want to), 〜たくないです (I don't want to), 〜たかったです (I wanted to), 〜たくなかったです (I didn't want to). It is the same pattern as たかい → たかくない → たかかった → たかくなかった.\n• In the sentence, 〜たいです is the **PREDICATE** and comes at the end. たい sits at the end of the **whole phrase**, and the phrase keeps its inner structure: [place] に, [place] で and [with whom] と stay the same.\n• Only the **object** may change its particle: を can become **が** (ラーメンを／ラーメンが 食べたいです). **Why?** An adjective describes a state, not an action: with たい, \"eat\" turns into a feeling, and the thing you want can be marked with が as what the feeling is about — just like ラーメンが 好きです. So ラーメンが 食べたい is roughly \"ramen is want-to-eat (for me)\". を is also correct and very common in speech. に, で and the other particles stay as they are.\n• 〜たい talks about **your own** wish. In a question, it asks about the listener's wish: 何を したいですか (what do you want to do?).\n• To report **someone else's** wish, don't state it for them (マリアさんは 〜たいです). Quote what they said: マリアさんは 〜たいと 言っていました (lesson 08-2).\n• **Going further (Sakubi):** 見たい (\"want to see\") has a look-alike. みたい written in kana right after a verb or a noun usually means \"looks like, seems\" (雨みたいですね = it looks like rain), which you will learn in lesson 17-3. Always check the context, not just the letters.",
       "structure": "([place] に／で) ([object] を／が) [stem] たいです",
       "examples": [
         { "jp": "来年、ふじさんに のぼりたいです。", "kana": "らいねん、ふじさんに のぼりたいです。", "romaji": "Rainen, Fujisan ni noboritai desu.", "en": "Next year, I want to climb Mt. Fuji." },
@@ -69,14 +69,14 @@
         { "jp": "きのうは 雨だったから、どこにも 行きたくなかったです。", "kana": "きのうは あめだったから、どこにも いきたくなかったです。", "romaji": "Kinō wa ame datta kara, doko ni mo ikitakunakatta desu.", "en": "It was raining yesterday, so I didn't want to go anywhere." }
       ],
       "pitfalls": [
-        "たい attaches to the stem, never to the dictionary form: 食べるたい ✗ → 食べたい ✓.",
-        "The negative and the past change たい itself, as with an い-adjective: 行きたいじゃないです ✗ → 行きたくないです ✓; 行きたいでした ✗ → 行きたかったです ✓.",
+        "たい attaches to the stem, and the negative and the past change たい itself, as with an い-adjective: 食べるたい ✗ → 食べたい ✓; 行きたいじゃないです ✗ → 行きたくないです ✓; 行きたいでした ✗ → 行きたかったです ✓.",
         "Only を can become が: うみが およぎたいです ✗ → うみで およぎたいです ✓. で marks the place, and it stays で.",
+        "たい is for **actions**. To want a **thing**, Japanese uses a different word, ほしい (lesson 14-1): 新しい パソコンが たいです ✗ → 新しい パソコンが ほしいです ✓. Or name the action you want: 新しい パソコンが 買いたいです ✓.",
         "Don't state other people's wishes with 〜たいです: アナさんは 〜たいです ✗ (it sounds as if you could read her mind) → アナさんは 〜たいと 言っていました ✓. And with a teacher or boss, asking 〜たいですか directly can sound too familiar; to invite them, use 〜ませんか (lesson 03-3)."
       ],
       "howToStudy": [
         "Say the ladder out loud: 食べたいです → 食べたくないです → 食べたかったです → 食べたくなかったです. Repeat it with 行く, 見る, する and 来る (きたい).",
-        "Tap 🔬 on the ramen example. 食べたいです shows up as the PREDICATE (wish). ラーメンが shows up as SUBJECT because of the が, but before 〜たい this が points to the thing you want. Paste the version with ラーメンを into 🔬 Analyze: the block becomes OBJECT, and the basic meaning does not change.",
+        "Tap 🔬 on the ramen example. 食べたいです shows up as the PREDICATE (wish). ラーメンが shows up as SUBJECT because of the が, but before 〜たい this が points to the thing you want — the same が as in ラーメンが 好きです. Paste the version with ラーメンを into 🔬 Analyze: the block becomes OBJECT, and the basic meaning does not change.",
         "Say 5 true wishes for your next vacation (〜たいです) and 2 things you don't want to do (〜たくないです). Record them on your phone."
       ],
       "flag": "Someone else's wish (\"he wants to…\"): Japanese has a special form for this, 〜たがっている, but it has not been confirmed whether Genki I already introduces it in this lesson. So it is left out here for now. Until then, to report someone's wish, quote what they said: 〜たいと 言っていました (lesson 08-2)."
@@ -86,7 +86,7 @@
       "gc": "11-2",
       "title": "〜たり 〜たり する",
       "gloss": "doing things like A and B",
-      "explanation": "〜たり 〜たり する gives **examples of actions**, without claiming the list is complete: \"I do things like A and B\". To build it, take the **た-form** (the short past, lesson 09-1) and add り: 見た → 見**たり**, 読んだ → 読ん**だり**, 行った → 行っ**たり**, した → し**たり**.\n• Each たり closes **one whole action**, with its own object and particle: [そうじを したり]、[せんたくを したり].\n• After the examples comes **する**, and **that final する carries the tense and the politeness**: 〜たり 〜たり **します** (I usually do / I will do), **しました** (I did), **したいです** (I want to do).\n• The た inside たり **does not mean past**. It is just a building block; the final する decides the tense.\n• たり does not say in which order things happened. For \"I did A and then B\", use the て-form (lesson 06-2).\n• Read from the end: しました (I did) → what? → things like swimming and taking photos.",
+      "explanation": "〜たり 〜たり する gives **examples of actions**, without claiming the list is complete: \"I do things like A and B\". It is the **action version of や** (lesson 11-2): や lists example things, たり lists example actions. To build it, take the **た-form** (the short past, lesson 09-1) and add り: 見た → 見**たり**, 読んだ → 読ん**だり**, 行った → 行っ**たり**, した → し**たり**. Because it is built exactly like the past, every sound change of the た-form carries over: if you know the た-form, you know たり.\n• Each たり closes **one whole action**, with its own object and particle: [そうじを したり]、[せんたくを したり].\n• After the examples comes **する**, and **that final する carries the tense and the politeness**: 〜たり 〜たり **します** (I usually do / I will do), **しました** (I did), **したいです** (I want to do).\n• The た inside たり **does not mean past**. It is just a building block; the final する decides the tense.\n• **One たり is enough** to hint that there is more: しゅうまつは 映画を 見たり します。 = \"On weekends, I do things like watching movies.\" It sounds vaguer, and often softer, than a flat 映画を 見ます.\n• たり does not say in which order things happened. For \"I did A and then B\", use the て-form (lesson 06-2).\n• Read from the end: しました (I did) → what? → things like swimming and taking photos.",
       "structure": "[action 1 in the た-form]り、[action 2 in the た-form]り します／しました／したいです",
       "examples": [
         { "jp": "休みの 日は そうじを したり、せんたくを したり します。", "kana": "やすみの ひは そうじを したり、せんたくを したり します。", "romaji": "Yasumi no hi wa sōji o shitari, sentaku o shitari shimasu.", "en": "On my days off, I do things like cleaning and laundry. [lit. as for days off, doing cleaning, doing laundry, I do]" },
@@ -166,11 +166,11 @@
     ]
   },
   "practice": [
-    { "tool": "Wagotabi", "what": "Play normally and hunt for lines with 〜たい, 〜たくない or 〜たかった (who wants what?) and any 〜たり. Copy 2 lines into your notebook and mark the PREDICATE. If none shows up this session, copy a line with 〜ます and turn it into 〜たいです. Log the session in Immersion → Games and paste one of the lines into 🔬 Anatomy.", "min": 15 },
-    { "tool": "ヅオリンゴー", "what": "Lesson 11 vocabulary in the SRS (the 🌊 All deck gathers the day's reviews). Then Practice L11 and, in Drills → Conjugation, reinforce the た-form, which is the base of たり.", "min": 10 },
-    { "tool": "Journal", "what": "In the ヅオリンゴー Journal, write 3 wishes with 〜たい and 1 sentence with 〜たり 〜たり about your weekend. Open \"Anatomy of what I wrote\" and check that the final する shows up as the PREDICATE.", "min": 10 },
+    { "tool": "Wagotabi", "what": "Play normally and hunt for lines with 〜たい, 〜たくない or 〜たかった (who wants what?) and any 〜たり. Copy 2 lines into your notebook and mark the PREDICATE. If none shows up this session, copy a line with 〜ます and turn it into 〜たいです. Log the session in Immersion → Games and paste one of the lines into 🔬 Anatomy. Sentence mining: save 1 of the lines in Mining, with every word looked up in a dictionary, so it comes back as an SRS card.", "min": 15 },
+    { "tool": "ヅオリンゴー", "what": "Add the Lesson 11 vocabulary to your SRS and clear the day's reviews in 🌊 All. Keep the number of new words at a level you can review every day: if the pile grows, add fewer new cards instead of skipping reviews. Then Practice L11 and, in Drills → Conjugation, reinforce the た-form, which is the base of たり.", "min": 10 },
+    { "tool": "Reading", "what": "Read real Japanese early: in the Resources tab, open Tadoku's free graded readers and read one level-0 or level-1 story once, for the gist. Hunt for 〜たい and 〜たり; for each one you find, say out loud who wants or does what. Look up only the words that block the story — understanding half is fine.", "min": 10 },
     { "tool": "Shadowing", "what": "Tap 🔊 on each example in this lesson and repeat along 3 times. Notice the rhythm of たくなかった: た・く・な・か・っ・た is 6 beats, and the っ is a beat of silence.", "min": 5 },
-    { "tool": "Speaking", "what": "Record 30 seconds answering the question 休みの 日は 何を したいですか。 Use at least one 〜たい, one 〜たくない and one 〜たり 〜たり.", "min": 5 }
+    { "tool": "Journal + speaking", "what": "In the ヅオリンゴー Journal, answer 休みの 日は 何を したいですか。 in 5 sentences: 3 wishes with 〜たい, 1 thing with 〜たくない and 1 sentence with 〜たり 〜たり. Open \"Anatomy of what I wrote\" and check that the final する shows up as the PREDICATE. Then record yourself saying the answer in 30 seconds, without reading.", "min": 10 }
   ],
   "culture": {
     "title": "School clubs (ぶかつ)",
@@ -181,10 +181,15 @@
   "checklist": [
     "I can make 〜たい from any verb without looking: stem + たい (食べたい, 行きたい, したい, 来たい).",
     "I conjugate 〜たい like an い-adjective: たくない, たかった, たくなかった.",
-    "I know that only を can become が before 〜たい; に and で don't change.",
+    "I know that only を can become が before 〜たい (as in 〜が 好きです); に and で don't change.",
+    "I use 〜たい for actions and know that wanting a thing needs a different word (ほしい, lesson 14-1).",
     "I report someone else's wish with 〜たいと 言っていました, without stating 〜たいです for them.",
     "I build 〜たり 〜たり from the た-form and put the tense on the final する (します／しました／したいです).",
     "I did the homework, checked it against the answer key and redid what I got wrong.",
     "I did Workbook pages 105–106."
+  ],
+  "credits": [
+    "Explanations adapted in part from Sakubi (public domain, CC0) — sakubi.neocities.org",
+    "Study method informed by the DJT Guide to Japanese — djtguide.neocities.org/guide"
   ]
 }

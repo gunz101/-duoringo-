@@ -1,0 +1,197 @@
+{
+  "id": "P-03",
+  "unit": "P-N3",
+  "genki": null,
+  "title": "In order to",
+  "titleJp": "留学するために・忘れないように",
+  "canDo": [
+    "I can say a goal and what I'm doing to reach it with 〜ために: 日本へ留学するために、お金をためています。",
+    "I can say who or what something is for with 〜のために (家族のために, 健康のために) and what a goal requires with 〜ためには.",
+    "I can say \"so that…\" and \"so as not to…\" with 〜ように: 忘れないように、メモしました。",
+    "I can choose between ために and ように by asking one question: can the same person simply decide to do it?",
+    "I can understand ため(に) meaning \"due to\" in announcements (大雨のため、中止になりました), and write a wish with 〜ますように."
+  ],
+  "duration": {
+    "total": "60–75 min",
+    "blocks": [
+      { "t": "Warm-up: say aloud one 〜ようになりました and one 〜ようにしています (lesson P-01), and one 〜に行きます (lesson 07-3)", "min": 5 },
+      { "t": "Vocabulary: tap 🔊 on each word and repeat it twice", "min": 10 },
+      { "t": "Grammar: the 2 points, with the examples read aloud and one 🔬 each; in point b, take your time with the ために × ように test", "min": 25 },
+      { "t": "Video and reading (block 6), pausing on the examples", "min": 10 },
+      { "t": "Notebook homework + checking it against the answer key", "min": 15 },
+      { "t": "Checklist (block 10) + write your questions in the lesson notebook", "min": 5 }
+    ]
+  },
+  "prereqs": {
+    "aulas": ["P-02"],
+    "skills": [
+      "〜ようになる and 〜ようにする (lesson P-01). Today ように stands on its own, before any verb.",
+      "Stem + に行く (\"go to do\", lesson 07-3), the first way you learned to say \"in order to\".",
+      "Potential verbs (lesson 13-1) and the ない form (lesson 08-1): they are exactly the forms that call for ように.",
+      "のような / のように = \"like\" (lesson 22-2), so you can tell it apart from today's ように.",
+      "Reading N4 kanji calmly. Every sentence comes with its full kana reading."
+    ],
+    "vocab": [
+      { "jp": "ため", "kana": "ため", "romaji": "tame", "en": "purpose, sake, benefit (a noun); in formal style also: cause" },
+      { "jp": "〜ために", "kana": "〜ために", "romaji": "-tame ni", "en": "in order to…; for (the sake of)…; because of… (formal)" },
+      { "jp": "〜ように", "kana": "〜ように", "romaji": "-yō ni", "en": "so that…; so as (not) to…" },
+      { "jp": "留学する", "kana": "りゅうがくする", "romaji": "ryūgaku suru", "en": "to study abroad" },
+      { "jp": "お金をためる", "kana": "おかねをためる", "romaji": "okane o tameru", "en": "to save money" },
+      { "jp": "家族", "kana": "かぞく", "romaji": "kazoku", "en": "family" },
+      { "jp": "健康", "kana": "けんこう", "romaji": "kenkō", "en": "health" },
+      { "jp": "お弁当", "kana": "おべんとう", "romaji": "obentō", "en": "boxed lunch" },
+      { "jp": "大雨", "kana": "おおあめ", "romaji": "ōame", "en": "heavy rain" },
+      { "jp": "試合", "kana": "しあい", "romaji": "shiai", "en": "game, match (sports)" },
+      { "jp": "中止", "kana": "ちゅうし", "romaji": "chūshi", "en": "cancellation (中止になる = to be canceled)" },
+      { "jp": "事故", "kana": "じこ", "romaji": "jiko", "en": "accident" },
+      { "jp": "忘れる", "kana": "わすれる", "romaji": "wasureru", "en": "to forget" },
+      { "jp": "メモする", "kana": "メモする", "romaji": "memo suru", "en": "to jot down, to make a note" },
+      { "jp": "聞こえる", "kana": "きこえる", "romaji": "kikoeru", "en": "to be audible, can be heard (happens by itself)" },
+      { "jp": "見える", "kana": "みえる", "romaji": "mieru", "en": "to be visible, can be seen (happens by itself)" },
+      { "jp": "間に合う", "kana": "まにあう", "romaji": "maniau", "en": "to make it in time (〜に間に合う)" },
+      { "jp": "遅れる", "kana": "おくれる", "romaji": "okureru", "en": "to be late (〜に遅れる); to be delayed" },
+      { "jp": "治る", "kana": "なおる", "romaji": "naoru", "en": "to get better, to heal (an illness, an injury)" },
+      { "jp": "席", "kana": "せき", "romaji": "seki", "en": "seat" },
+      { "jp": "声", "kana": "こえ", "romaji": "koe", "en": "voice (大きな声 = a loud voice)" },
+      { "jp": "ふりがな", "kana": "ふりがな", "romaji": "furigana", "en": "small kana printed next to kanji to show the reading" },
+      { "jp": "合格する", "kana": "ごうかくする", "romaji": "gōkaku suru", "en": "to pass (an exam) (〜に合格する)" },
+      { "jp": "お守り", "kana": "おまもり", "romaji": "omamori", "en": "amulet, good-luck charm (from a shrine or temple)" },
+      { "jp": "〜ますように", "kana": "〜ますように", "romaji": "-masu yō ni", "en": "\"may…!\", \"please let…\" (a wish or a prayer)" }
+    ]
+  },
+  "grammar": [
+    {
+      "id": "P-03-a",
+      "gc": null,
+      "title": "〜ために (in order to · for · because of)",
+      "gloss": "in order to… · for (the sake of)… · due to… (formal)",
+      "explanation": "ため is a noun meaning **\"purpose, sake, benefit\"**. Add に and you get a block that answers **\"what for?\"**: [something]ために = \"for the purpose of…\", \"in order to…\". Because ため is a noun, anything that can describe a noun can go in front of it (Sakubi): a verb phrase (留学する + ため), a noun + の (家族の + ため), or just その (そのために = \"for that\").\n• **Purpose: dictionary form + ために.** 日本へ留学するために、お金をためています (\"I'm saving money in order to study in Japan\"). The verb before ために is an action you can **decide to do** — a **volitional** verb: 行く, 買う, 読む, 勉強する, 留学する.\n• **Usually the same person.** The one who has the goal is the one who acts: *I* save money so that *I* can study abroad. When the result is out of your hands, or belongs to someone else, you'll usually need ように (point b).\n• **Noun + のために = \"for (the sake of)\"**: 家族のために働く (work for my family), 健康のために歩く (walk for my health), 試験のために勉強する (study for the exam). する-nouns work both ways: 留学のために = 留学するために.\n• **ための + noun** = \"for…\" before a noun: 留学のためのお金 (money for studying abroad), 初心者のための本 (a book for beginners).\n• **ためには + \"need / must\"** says what a goal requires: 日本で働くためには、ビザが必要です (to work in Japan, you need a visa).\n• In the sentence, the ために block answers \"what for?\", and the main action comes last, as the **PREDICATE**. Read from the end: \"I'm saving money\" → what for? → to study in Japan.\n\n**ために × stem + に行く (lesson 07-3).** Both translate as \"to…\", but stem + に only works before 行く／来る／帰る. ために works with any main verb: 車を買うために働く ✓. With 行く both are possible, and ために sounds more serious — a goal, not an errand: 本を買いに行く (go buy a book) × 日本語を勉強するために日本へ行く (go to Japan in order to study Japanese).\n\n**A second meaning: cause (formal).** When what comes before ため is a **past event, a state or an event noun**, ため(に) means **\"due to, because of\"**: 大雨のために、試合は中止になりました; 事故があったため、電車が遅れています. This is the language of **announcements, the news and formal writing**; in conversation people say から or ので. Announcements often drop the に: 大雨のため、…\n• Purpose or cause? A goal you act toward (the dictionary form of a volitional verb, 家族の, 健康の) = purpose. Something that already happened or simply is (a past form, 大雨の, 事故の) = cause.\n• Going further (Sakubi): **せいで** is another \"because of\" built on a noun (せい, \"fault\"), but it puts the **blame** on the cause: 雨のせいで = \"because of the rain (and it's the rain's fault)\". ため is neutral. You'll compare せいで with おかげで (\"thanks to\") in lesson P-10.",
+      "structure": "[dictionary form] ために (in order to) · [N] のために (for N) · [N] のための [N] · [past form / event N の] ため(に) (due to — formal)",
+      "examples": [
+        { "jp": "来年日本へ留学するために、毎月お金をためています。", "kana": "らいねんにほんへりゅうがくするために、まいつきおかねをためています。", "romaji": "Rainen Nihon e ryūgaku suru tame ni, maitsuki okane o tamete imasu.", "en": "I'm saving money every month in order to study in Japan next year. [lit. in order to study abroad in Japan next year, every month, money, I'm saving]" },
+        { "jp": "家族のために、毎朝早く起きてお弁当を作っています。", "kana": "かぞくのために、まいあさはやくおきておべんとうをつくっています。", "romaji": "Kazoku no tame ni, maiasa hayaku okite obentō o tsukutte imasu.", "en": "Every morning I get up early and make boxed lunches for my family." },
+        { "jp": "大雨のために、午後の試合は中止になりました。", "kana": "おおあめのために、ごごのしあいはちゅうしになりました。", "romaji": "Ōame no tame ni, gogo no shiai wa chūshi ni narimashita.", "en": "Due to the heavy rain, the afternoon game has been canceled." }
+      ],
+      "pitfalls": [
+        "Before ために goes the plain dictionary form — not ます, and not the stem: 留学しますために ✗ / 留学しために ✗ → 留学するために ✓.",
+        "A noun needs の: 家族ために ✗ → 家族のために ✓; 試験ために ✗ → 試験のために ✓.",
+        "Stem + に only works with going and coming (lesson 07-3): 家を買いに働いています ✗ → 家を買うために働いています ✓.",
+        "ために needs something you can simply do. Being on time depends on the train, not only on you: 電車に間に合うために、走りました ✗ → 電車に間に合うように、走りました ✓ (point b)."
+      ],
+      "howToStudy": [
+        "Say 3 true goals out loud, each with what you do for it: 〜ために、毎日〜ています (日本の本を読むために、毎日漢字を勉強しています…). Then 2 more with Nのために: 家族のために…, 健康のために…",
+        "🔬 Anatomy → Analyze: paste example 1. 来年 shows up as TIME, 日本へ as DESTINATION and 留学するために as TARGET — the engine's general label for any block ending in に; read it as \"what for?\". 毎月 is TIME, お金を the OBJECT and ためています the PREDICATE. Read from the end: I'm saving → what? money → how often? every month → what for? to study in Japan.",
+        "Sentence mining: when you meet ため in real Japanese (NHK NEWS WEB EASY is full of 〜のため、中止になりました), save the whole sentence with Mining (⛏) so it comes back in your SRS. A sentence you met in context sticks better than a rule on its own."
+      ],
+      "flag": null
+    },
+    {
+      "id": "P-03-b",
+      "gc": null,
+      "title": "〜ように (so that…) × 〜ために",
+      "gloss": "so that…, so as (not) to… · and how to choose between the two",
+      "explanation": "You've met ように with なる and する (lesson P-01) and, after a noun, as \"like\" (のように, lesson 22-2). Now it stands on its own, before any other verb: [result]ように、[action] = **\"so that [result] happens\"**, **\"so as (not) to…\"**. Sakubi's framing helps: ように walks the line between **\"for the purpose of\"** and **\"in such a way that\"**. You act **in a way that makes a result likely** — a result you **can't simply decide**.\n• **Negative + ように**: 忘れないように、メモしました (I made a note so I wouldn't forget). 遅れないように、早く出ます.\n• **Potential + ように**: 日本語の本が読めるように、漢字を勉強しています (so that I can read Japanese books).\n• **Verbs that happen by themselves** (non-volitional): わかる, 見える, 聞こえる, 間に合う, 治る: 電車に間に合うように、走りました; 風邪が早く治るように、薬を飲んで寝ます.\n• **A different subject**: the result belongs to someone else: 後ろの席の人にも聞こえるように、大きな声で話してください; 子どもも読めるように、ふりがなをつけました.\n• Form: the plain dictionary or ない form + ように. No ます, and not the volitional 〜よう of lesson 15-1, which only looks similar (Sakubi warns about this too).\n• In the sentence, the ように block answers \"so that what?\", and the action you take is the **PREDICATE** at the end.\n\n**How to choose — the practical rule.**\n• Ask: **\"Is it an action the same person can simply decide to do?\"** Yes → **ために** (留学する, 買う, 読む, 行く).\n• Is it a **result** you can only make more likely — a negative, a potential, a verb that happens by itself, or something **someone else** does? → **ように**.\n• Minimal pair: 日本語の本を**読むために**、漢字を勉強しています (reading is the action I aim at) × 日本語の本が**読めるように**、漢字を勉強しています (being able to read is the result I work toward). Both are natural: the verb form decides.\n• Nouns only take ために: 試験のために ✓. After a noun, のように means \"like\" (lesson 22-2): 試験のように = \"like an exam\".\n• **Limits:** this rule is a strong guide and exactly what the JLPT expects, but native speakers stretch it in a few places. See the flag below.\n\n**Two uses to recognize:**\n• **〜ますように。** at the end of a sentence is a **wish or a prayer**: 合格しますように (please let me pass!). It is the one place where ます goes before ように. You'll see it on shrine plaques (culture note).\n• **ように + 言う / 頼む** reports an instruction or a request: 先生に、毎日復習するように言われました (the teacher told me to review every day).\n• Going further (Sakubi): **のに** after a dictionary-form verb can also mean \"for (doing)\", with words like かかる, 使う, 便利, 必要: この辞書は漢字を調べるのに便利です (this dictionary is handy for looking up kanji). ために states a goal; のに says what something is good for or what it takes. You met this のに briefly in lesson 22-2.",
+      "structure": "[ない form / potential / verb that happens by itself / someone else's action] ように、[action] · [volitional verb, same person] ために、[action]",
+      "examples": [
+        { "jp": "忘れないように、会議の時間をスマホにメモしました。", "kana": "わすれないように、かいぎのじかんをスマホにメモしました。", "romaji": "Wasurenai yō ni, kaigi no jikan o sumaho ni memo shimashita.", "en": "I noted the meeting time on my phone so I wouldn't forget it. [lit. so as not to forget, the meeting's time, on my phone, I noted]" },
+        { "jp": "後ろの席の人にも聞こえるように、大きな声で話してください。", "kana": "うしろのせきのひとにもきこえるように、おおきなこえではなしてください。", "romaji": "Ushiro no seki no hito ni mo kikoeru yō ni, ōkina koe de hanashite kudasai.", "en": "Please speak in a loud voice so that the people in the back seats can hear you too." },
+        { "jp": "小さい子どもも読めるように、漢字にふりがなをつけました。", "kana": "ちいさいこどももよめるように、かんじにふりがなをつけました。", "romaji": "Chiisai kodomo mo yomeru yō ni, kanji ni furigana o tsukemashita.", "en": "I added furigana to the kanji so that small children can read it too." }
+      ],
+      "pitfalls": [
+        "Potential verbs take ように, not ために: 日本語が話せるために ✗ → 日本語が話せるように ✓ (or 話せるようになるために ✓: see the flag).",
+        "Before ように goes the plain form: 忘れませんように、メモします ✗ → 忘れないように、メモします ✓. 〜ますように is only for a wish at the end of a sentence: 合格しますように。",
+        "A plain goal you simply go and do takes ために: 家を買うように、お金をためています ✗ → 家を買うために ✓ (or 家が買えるように ✓, with the potential).",
+        "After a noun, ように means \"like\", not \"for\": 家族のように働いています ✗ (= I work like a family) → 家族のために働いています ✓."
+      ],
+      "howToStudy": [
+        "The one-question test, out loud: for each item ask \"can I simply decide to do it?\" and say the right form: 留学する → 留学するために · 忘れない → 忘れないように · 話せる → 話せるように · 間に合う → 間に合うように · 車を買う → 車を買うために · 家族 → 家族のために.",
+        "🔬 Anatomy → Analyze: paste example 2. 後ろの and 席の are DESCRIBES NEXT, 人にも is TARGET (who should hear), and 聞こえるように is also TARGET — read it as \"so that…\". 大きな is DESCRIBES NEXT, 声で is MEANS and 話してください is the PREDICATE. Read from the end: please speak → how? in a loud voice → so that? the people in the back can hear too.",
+        "If the two still feel the same, search in Japanese: 「ためにとようにの違い」. Japanese teachers' pages explain it with many example pairs — just read the pairs. If the explanations are still too hard, that's fine: come back after a few more lessons."
+      ],
+      "flag": "Where native speakers vary: the ために／ように rule above is a teaching simplification. It works in most cases and it's what textbooks and the JLPT expect, but natives stretch it in three places. (1) ない + ために is common when not doing something is a deliberate choice: 太らないために、夜はあまり食べない. (2) 〜ようになるために is normal: 話せるようになるために、毎日練習している. (3) ために with a different subject appears when someone works toward another person's planned action: 子どもが大学に行くために、親は働いている. When you're not sure, ように is the safer choice for anything outside your direct control."
+    }
+  ],
+  "media": [
+    { "order": 1, "kind": "reading", "title": "JLPT Sensei: the grammar pages for 〜ために and 〜ように (purpose), with more example sentences", "where": "Website · JLPT Sensei (grammar lists by level)", "url": "", "search": "JLPT Sensei tame ni you ni", "when": "After the grammar block. Unofficial JLPT lists vary: if the site files these points under N4, that's fine — this lesson goes further." },
+    { "order": 2, "kind": "video", "title": "Japanese Ammo with Misa: ために vs ように (saying \"in order to\")", "where": "YouTube · Japanese Ammo with Misa channel", "url": "", "search": "Japanese Ammo with Misa tame ni you ni", "when": "After point b, as a second explanation. If you can't find one video with both, search for each point separately." },
+    { "order": 3, "kind": "input", "title": "Nihongo con Teppei: listen to one episode and note every ために or ように you catch — and whether it comes after a verb you can simply do", "where": "Podcast · Nihongo con Teppei", "url": "", "search": "Nihongo con Teppei podcast", "when": "Any day after the lesson. Episodes about his goals, habits or plans are the richest in ために／ように." }
+  ],
+  "homework": {
+    "intro": "Do it by hand in your notebook, with the kanji you know and kana for the rest. Before each item, ask \"can the same person simply decide to do it?\". Only then open the answer key, item by item. Circle what you got wrong and redo it the next day.",
+    "tasks": [
+      {
+        "id": "h1",
+        "type": "choose",
+        "prompt": "Choose ために or ように (or のために / のように) and write the whole sentence.",
+        "items": [
+          { "q": "日本の大学に入る（ために／ように）、毎日三時間勉強しています。", "a": { "jp": "日本の大学に入るために、毎日三時間勉強しています。", "kana": "にほんのだいがくにはいるために、まいにちさんじかんべんきょうしています。", "romaji": "Nihon no daigaku ni hairu tame ni, mainichi san-jikan benkyō shite imasu." }, "note": "Entering a university is a goal you choose and work toward, and you are the one studying: ために." },
+          { "q": "風邪をひかない（ために／ように）、よく手を洗っています。", "a": { "jp": "風邪をひかないように、よく手を洗っています。", "kana": "かぜをひかないように、よくてをあらっています。", "romaji": "Kaze o hikanai yō ni, yoku te o aratte imasu." }, "note": "You can't decide not to catch a cold; you can only make it less likely. A negative result → ように. (You'll also hear ひかないために: see the flag in point b.)" },
+          { "q": "家族（のために／のように）、毎日遅くまで働いています。", "a": { "jp": "家族のために、毎日遅くまで働いています。", "kana": "かぞくのために、まいにちおそくまではたらいています。", "romaji": "Kazoku no tame ni, mainichi osoku made hataraite imasu." }, "note": "\"For my family\": のために. 家族のように would mean \"like a family\"." },
+          { "q": "後ろの席の人にも見える（ために／ように）、字を大きく書いてください。", "a": { "jp": "後ろの席の人にも見えるように、字を大きく書いてください。", "kana": "うしろのせきのひとにもみえるように、じをおおきくかいてください。", "romaji": "Ushiro no seki no hito ni mo mieru yō ni, ji o ōkiku kaite kudasai." }, "note": "見える happens by itself, and the people in the back are the ones who see: two reasons for ように." },
+          { "q": "新しいパソコンを買う（ために／ように）、アルバイトを始めました。", "a": { "jp": "新しいパソコンを買うために、アルバイトを始めました。", "kana": "あたらしいパソコンをかうために、アルバイトをはじめました。", "romaji": "Atarashii pasokon o kau tame ni, arubaito o hajimemashita." }, "note": "A goal you simply go and do, and the same person acts: ために." },
+          { "q": "朝の電車に間に合う（ために／ように）、六時に起きました。", "a": { "jp": "朝の電車に間に合うように、六時に起きました。", "kana": "あさのでんしゃにまにあうように、ろくじにおきました。", "romaji": "Asa no densha ni maniau yō ni, roku-ji ni okimashita." }, "note": "Being on time depends on the train too, not only on you: ように." }
+        ]
+      },
+      {
+        "id": "h2",
+        "type": "transform",
+        "prompt": "Join the two parts into one sentence with ために or ように. The goal or result comes first, the action last.",
+        "items": [
+          { "q": "(goal) 日本で働く ＋ 日本語を勉強しています。", "a": { "jp": "日本で働くために、日本語を勉強しています。", "kana": "にほんではたらくために、にほんごをべんきょうしています。", "romaji": "Nihon de hataraku tame ni, nihongo o benkyō shite imasu." } },
+          { "q": "(result) 漢字を忘れない ＋ 毎日ノートに書きます。", "a": { "jp": "漢字を忘れないように、毎日ノートに書きます。", "kana": "かんじをわすれないように、まいにちノートにかきます。", "romaji": "Kanji o wasurenai yō ni, mainichi nōto ni kakimasu." }, "note": "A negative result: ように." },
+          { "q": "(result) 日本語のニュースがわかる ＋ 毎日やさしいニュースを読んでいます。", "a": { "jp": "日本語のニュースがわかるように、毎日やさしいニュースを読んでいます。", "kana": "にほんごのニュースがわかるように、まいにちやさしいニュースをよんでいます。", "romaji": "Nihongo no nyūsu ga wakaru yō ni, mainichi yasashii nyūsu o yonde imasu." }, "note": "わかる happens by itself: you can't decide to understand, only work toward it." },
+          { "q": "(for) 健康 ＋ 毎朝三十分歩いています。", "a": { "jp": "健康のために、毎朝三十分歩いています。", "kana": "けんこうのために、まいあささんじゅっぷんあるいています。", "romaji": "Kenkō no tame ni, maiasa sanjuppun aruite imasu." }, "note": "A noun: のために." },
+          { "q": "(result, other people) みんなが座れる ＋ いすをあと五つ持ってきました。", "a": { "jp": "みんなが座れるように、いすをあと五つ持ってきました。", "kana": "みんながすわれるように、いすをあといつつもってきました。", "romaji": "Minna ga suwareru yō ni, isu o ato itsutsu motte kimashita.", "en": "I brought five more chairs so that everyone can sit." }, "note": "A potential verb (座れる) and a different subject (everyone): ように." }
+        ]
+      },
+      {
+        "id": "h3",
+        "type": "translate",
+        "prompt": "Translate into Japanese.",
+        "items": [
+          { "q": "I'm studying kanji in order to read manga in Japanese.", "a": { "jp": "日本語のまんがを読むために、漢字を勉強しています。", "kana": "にほんごのまんがをよむために、かんじをべんきょうしています。", "romaji": "Nihongo no manga o yomu tame ni, kanji o benkyō shite imasu." }, "note": "With the potential, ように is also correct: 日本語のまんがが読めるように…" },
+          { "q": "Please write in big letters so that everyone can read it.", "a": { "jp": "みんなが読めるように、大きい字で書いてください。", "kana": "みんながよめるように、おおきいじでかいてください。", "romaji": "Minna ga yomeru yō ni, ōkii ji de kaite kudasai." } },
+          { "q": "I left home early so as not to be late for the meeting.", "a": { "jp": "会議に遅れないように、早く家を出ました。", "kana": "かいぎにおくれないように、はやくいえをでました。", "romaji": "Kaigi ni okurenai yō ni, hayaku ie o demashita." } },
+          { "q": "(A station announcement) Due to an accident, the trains are delayed.", "a": { "jp": "事故のため、電車が遅れています。", "kana": "じこのため、でんしゃがおくれています。", "romaji": "Jiko no tame, densha ga okurete imasu." }, "note": "Cause, in formal style. 事故のために is also correct; announcements usually drop the に. In conversation: 事故で電車が遅れています." },
+          { "q": "I bought an omamori for my friend.", "a": { "jp": "友だちのために、お守りを買いました。", "kana": "ともだちのために、おまもりをかいました。", "romaji": "Tomodachi no tame ni, omamori o kaimashita." } },
+          { "q": "(A wish written on an ema plaque) May I pass the exam!", "a": { "jp": "試験に合格しますように。", "kana": "しけんにごうかくしますように。", "romaji": "Shiken ni gōkaku shimasu yō ni." }, "note": "A wish at the end of a sentence: 〜ますように。 This is the one place where ます goes before ように." }
+        ]
+      },
+      {
+        "id": "h4",
+        "type": "produce",
+        "prompt": "Write about your own Japanese study in 5 sentences: 2 with ために (a goal: one after a verb, one with Nのために), 2 with ように (a result you work toward: one negative, one potential or a verb that happens by itself) and 1 wish with 〜ますように. Read them aloud and record yourself.",
+        "items": [
+          { "q": "Model (match its structure, not its words):", "a": { "jp": "日本の会社で働くために、毎日日本語を勉強しています。健康のために、勉強の後で三十分歩きます。新しい単語を忘れないように、毎朝アプリで復習しています。日本のドラマが字幕なしでわかるように、毎晩リスニングの練習をしています。来年、日本語能力試験に合格しますように。", "kana": "にほんのかいしゃではたらくために、まいにちにほんごをべんきょうしています。けんこうのために、べんきょうのあとでさんじゅっぷんあるきます。あたらしいたんごをわすれないように、まいあさアプリでふくしゅうしています。にほんのドラマがじまくなしでわかるように、まいばんリスニングのれんしゅうをしています。らいねん、にほんごのうりょくしけんにごうかくしますように。", "romaji": "Nihon no kaisha de hataraku tame ni, mainichi nihongo o benkyō shite imasu. Kenkō no tame ni, benkyō no ato de sanjuppun arukimasu. Atarashii tango o wasurenai yō ni, maiasa apuri de fukushū shite imasu. Nihon no dorama ga jimaku nashi de wakaru yō ni, maiban risuningu no renshū o shite imasu. Rainen, Nihongo Nōryoku Shiken ni gōkaku shimasu yō ni.", "en": "I study Japanese every day in order to work at a Japanese company. For my health, I walk for thirty minutes after studying. So that I don't forget new words, I review them with an app every morning. So that I can understand Japanese dramas without subtitles, I practice listening every night. Next year, may I pass the JLPT!" }, "note": "Check: ために follows a verb you can simply do (or Nの); ように follows a negative, a potential or a verb that happens by itself; the main action is at the end of each sentence; ます appears before ように only in the final wish." }
+        ]
+      }
+    ],
+    "workbook": []
+  },
+  "practice": [
+    { "tool": "Wagotabi", "what": "Play in the game's N3 areas and hunt for ために and ように in the dialogues. Each time, pause and ask: is the part before it something the speaker can simply do (ために), or a result they can only make likely (ように)? Log the session in Immersion → Games and paste one of those lines into 🔬 Anatomy.", "min": 15 },
+    { "tool": "NHK NEWS WEB EASY", "what": "Read one article with a pop-up dictionary (such as Yomitan in your browser) and listen to its audio. News is full of ため: 〜のため、中止になりました (cause) and 〜ために (purpose); you'll often see 〜ように気をつけてください (\"please be careful so that…\") too. Copy one sentence, write whether its ため is a purpose or a cause, and save it with Mining (⛏) so it comes back in your SRS.", "min": 10 },
+    { "tool": "ヅオリンゴー · Journal", "what": "Write 5 sentences of your own (homework h4 is a good start): 2 with ために, 2 with ように and 1 wish with 〜ますように. Open \"Anatomy of what I wrote\" and check that each ために／ように block (tagged TARGET) comes before the action, and that the action is the PREDICATE at the end.", "min": 10 },
+    { "tool": "Shadowing", "what": "Tap 🔊 on each example and repeat along 3 times. Stress the verb form right before ように (わすれない・きこえる・よめる): it's the form that makes ように the right choice.", "min": 5 },
+    { "tool": "Speaking", "what": "Record 40 seconds on \"my goals and my strategies\": 2 goals with 〜ために、〜ています and 2 strategies with 〜ように、〜ています (忘れないように…, わかるように…). Listen back and check each form before ために／ように.", "min": 5 }
+  ],
+  "culture": {
+    "title": "おまもり — amulets",
+    "titleJp": "お守り",
+    "body": "**お守り** are small amulets, usually a little cloth pouch with a blessing sealed inside, that you can get at a **shrine** (神社) or a **temple** (お寺). Each one is for a specific wish: 学業成就 (がくぎょうじょうじゅ, success in studies), 合格祈願 (ごうかくきがん, passing an exam), 交通安全 (こうつうあんぜん, road safety), 健康 (health), 縁結び (えんむすび, finding a partner) and more. Many people hang one on a bag, keep one in a wallet or put a road-safety one in the car. Traditionally you **don't open** an omamori, and many people replace theirs after about a year, taking the old one back to a shrine or temple so it can be burned respectfully. Before entrance exams, students often get a 合格 omamori, and many also write a wish on an **絵馬** (えま), a small wooden plaque hung up at the shrine. Those wishes very often end in 〜ますように: 大学に合格しますように。",
+    "try": "Write your own 絵馬 wish in your notebook, in Japanese, ending in 〜ますように (for example 日本語能力試験に合格しますように。). Under it, write two sentences about what you'll do for it: one with ために and one with ように."
+  },
+  "checklist": [
+    "I can say a goal and what I do for it with 〜ために (留学するために、お金をためています) without looking.",
+    "I can use 〜のために for \"for (the sake of)\" (家族のために, 健康のために) and 〜ための before a noun.",
+    "I can say \"so that…\" / \"so as not to…\" with 〜ように after a negative, a potential, a verb that happens by itself or someone else's action.",
+    "I can choose between ために and ように with the question \"can the same person simply decide to do it?\" — and I know the rule has limits.",
+    "I recognize ため(に) meaning \"due to\" in announcements and news (大雨のため、中止になりました).",
+    "I can write a wish with 〜ますように.",
+    "I did the homework, checked it against the answer key and redid what I got wrong."
+  ],
+  "credits": [
+    "Explanations adapted in part from Sakubi (public domain, CC0) — sakubi.neocities.org",
+    "Study method informed by the DJT Guide to Japanese — djtguide.neocities.org/guide"
+  ]
+}

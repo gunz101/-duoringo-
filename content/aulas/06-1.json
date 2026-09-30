@@ -62,7 +62,7 @@
       "gc": "6-1",
       "title": "The て-form and る-verbs",
       "gloss": "the connector piece; る → て",
-      "explanation": "The て-form is a **connector piece**. It has no tense (present or past) and cannot end a sentence by itself: it attaches to something else, and that something, at the end of the sentence, decides the meaning. In Genki Lesson 6 it becomes a request (〜てください), a sequence of actions (lesson 06-2), permission (〜てもいいです) and prohibition (〜てはいけません, lesson 06-3). So today the focus is only on **forming** it. Using it comes in the next lessons.\n• **る-verbs: drop る and add て.** たべる → たべて · みる → みて · おきる → おきて · あける → あけて · わすれる → わすれて.\n• **Shortcut from the ます-form:** with る-verbs, just swap ます for て. たべます → たべて, しめます → しめて.\n• **How do you know a verb is a る-verb?** Every る-verb ends in **-iru** or **-eru** (みる, あける). The reverse is not true: かえる and はいる end that way and are う-verbs (point 4b). A verb that does **not** end in -iru/-eru is never a る-verb: it is a う-verb or an irregular.\n• **A clue from the ます-form:** if the sound before ます is an **e** sound (たべます, あけます, ねます), the verb is definitely a る-verb. If it is an **i** sound (みます, のみます), it could be either group, and you need to know the dictionary form.",
+      "explanation": "The て-form is a **connector piece**. It has no tense (present or past) and cannot end a sentence by itself: it attaches to something else, and that something, at the end of the sentence, decides the meaning. In Genki Lesson 6 it becomes a request (〜てください), a sequence of actions (lesson 06-2), permission (〜てもいいです) and prohibition (〜てはいけません, lesson 06-3). So today the focus is only on **forming** it. Using it comes in the next lessons.\n• **It is not a past tense.** It looks a lot like the past short form you'll meet in lesson 09-1 (たべた), but たべて alone never means \"ate\".\n• **る-verbs: drop る and add て.** たべる → たべて · みる → みて · おきる → おきて · あける → あけて · わすれる → わすれて.\n• **Why る-verbs are so regular:** a る-verb has one base that never changes (たべ-, み-, あけ-), and every form just replaces る with an ending: たべ-ます, たべ-て, and later たべ-ない, たべ-た. Some guides (Sakubi, for one) call them \"one-form\" verbs for this reason. う-verbs are \"five-form\" verbs: their last sound changes from form to form (かく → かきます → かいて), which is why they need the table in point 4b.\n• **Shortcut from the ます-form:** with る-verbs, just swap ます for て. たべます → たべて, しめます → しめて.\n• **How do you know a verb is a る-verb?** Every る-verb ends in **-iru** or **-eru** (みる, あける). The reverse is not true: かえる and はいる end that way and are う-verbs (point 4b). A verb that does **not** end in -iru/-eru is never a る-verb: it is a う-verb or an irregular.\n• **A clue from the ます-form:** if the sound before ます is an **e** sound (たべます, あけます, ねます), the verb is definitely a る-verb. If it is an **i** sound (みます, のみます), it could be either group, and you need to know the dictionary form.",
       "structure": "[る-verb] − る + て   (たべる → たべて)",
       "examples": [
         { "jp": "ごはんを 食べる → ごはんを 食べて", "kana": "ごはんを たべる → ごはんを たべて", "romaji": "gohan o taberu → gohan o tabete", "en": "to eat a meal → て-form (roughly \"eat a meal and…\")", "noAnat": true },
@@ -73,7 +73,7 @@
         "Don't stick て onto the whole ます-form: たべますて ✗ → たべて ✓. The shortcut is to SWAP ます for て, and it only works for る-verbs and the two irregulars (point 4c).",
         "With る-verbs the ending is always て, never で: たべて ✓, たべで ✗. で only appears with some う-verbs (4b).",
         "かえる (to go home) and はいる (to enter) look like る-verbs, but they are う-verbs: かえって ✓, はいって ✓. For these two verbs, かえて ✗ and はいて ✗.",
-        "On its own, the て-form doesn't end a polite sentence. A bare たべて。 sounds like a casual request (\"eat!\"). For now, always complete it: たべてください, たべてもいいです…"
+        "The て-form is not a past tense, and on its own it doesn't end a polite sentence: \"I watched TV yesterday\" is きのう テレビを 見て ✗ → きのう テレビを 見ました ✓. A bare 見て。 sounds like a casual request (\"look!\"). For now, always complete it: 見てください, 見てもいいです…"
       ],
       "howToStudy": [
         "Speaking: say these pairs in rhythm, 3 rounds in a row: たべる-たべて, みる-みて, おきる-おきて, ねる-ねて, あける-あけて, しめる-しめて.",
@@ -87,7 +87,7 @@
       "gc": null,
       "title": "う-verbs: the て-form table",
       "gloss": "the last syllable decides",
-      "explanation": "With う-verbs, the て-form depends on the **last syllable** of the dictionary form. There are five groups. This is the table to memorize:\n• **う・つ・る → って**: かう → かって · まつ → まって · かえる → かえって\n• **む・ぶ・ぬ → んで**: のむ → のんで · あそぶ → あそんで · しぬ → しんで\n• **く → いて**: かく → かいて · きく → きいて\n• **ぐ → いで**: いそぐ → いそいで · およぐ → およいで\n• **す → して**: はなす → はなして · けす → けして\n**Trick 1: the song.** Repeat it in rhythm, like a chorus: \"う つ る って · む ぶ ぬ んで · く いて · ぐ いで · す して\". There are sung versions on YouTube (search \"te-form song\"); many people use the tune of \"Oh My Darling, Clementine\".\n**Trick 2: where で appears.** で only appears after four endings: **む, ぶ, ぬ and ぐ**. ぶ and ぐ already have the two little marks (゛) and pass them on (んで, いで); む and ぬ join ぶ in the んで group. Every other ending gives て.\n**Trick 3: only one common verb ends in ぬ.** It is しぬ (to die). You'll hardly ever use it, but it completes the group.",
+      "explanation": "With う-verbs, the て-form depends on the **last syllable** of the dictionary form. There are five groups. This is the table to memorize:\n• **う・つ・る → って**: かう → かって · まつ → まって · かえる → かえって\n• **む・ぶ・ぬ → んで**: のむ → のんで · あそぶ → あそんで · しぬ → しんで\n• **く → いて**: かく → かいて · きく → きいて\n• **ぐ → いで**: いそぐ → いそいで · およぐ → およいで\n• **す → して**: はなす → はなして · けす → けして\n**Where the table comes from:** start from the ます-stem and let the て \"slur\" onto it, the way words wear down in fast speech: かき+て → かいて · いそぎ+て → いそいで · のみ+て → のんで · まち+て → まって · かえり+て → かえって · はなし+て → はなして (no change). This happened long ago; today Japanese speakers don't run the process in their heads — the slurred form is simply the word. So the table is not random, and after enough reading and listening you will recognize these forms at a glance.\n**Trick 1: the song.** Repeat it in rhythm, like a chorus: \"う つ る って · む ぶ ぬ んで · く いて · ぐ いで · す して\". There are sung versions on YouTube (search \"te-form song\"); many people use the tune of \"Oh My Darling, Clementine\".\n**Trick 2: where で appears.** Whenever the ending turns into **ん**, the て after it becomes voiced: ん + て → **んで** (む, ぶ, ぬ). And ぐ keeps its two little marks (゛): **いで**. Every other ending gives て.\n**Trick 3: only one common verb ends in ぬ.** It is しぬ (to die). You'll hardly ever use it, but it completes the group.\n• Going further (Sakubi): the plain past you'll learn in lesson 09-1 uses exactly the same sound changes, with た/だ in place of て/で: かって → かった, のんで → のんだ, かいて → かいた, いそいで → いそいだ. Learn this table well now and the past short forms come almost for free.",
       "structure": "う・つ・る → って · む・ぶ・ぬ → んで · く → いて · ぐ → いで · す → して",
       "examples": [
         { "jp": "バスを まつ → バスを まって", "kana": "バスを まつ → バスを まって", "romaji": "basu o matsu → basu o matte", "en": "to wait for the bus → て-form (つ → って)", "noAnat": true },
@@ -96,9 +96,9 @@
         { "jp": "でんきを けす → でんきを けして", "kana": "でんきを けす → でんきを けして", "romaji": "denki o kesu → denki o keshite", "en": "to turn off the light → て-form (す → して)", "noAnat": true }
       ],
       "pitfalls": [
-        "The small っ counts: まって (ma-t-te, with a one-beat pause), not まて. Without it, まて becomes a different form: a blunt order, \"wait!\".",
-        "く becomes いて, not くて: かいて ✓, かくて ✗. くて does exist, but it belongs to adjectives (lesson 07-2).",
-        "ぐ passes its two little marks on: いそいで ✓, いそいて ✗.",
+        "The small っ counts: まて ✗ → まって ✓ (ma-t-te, with a one-beat pause). Without it, まて becomes a different form: a blunt order, \"wait!\".",
+        "く and ぐ become いて and いで: かくて ✗ → かいて ✓ · いそいて ✗ → いそいで ✓ (ぐ keeps its two little marks). くて does exist, but it belongs to adjectives (lesson 07-2).",
+        "The る → って row is only for う-verbs, so check the group first: みる → みって ✗ → みて ✓ (みる is a る-verb), but かえる → かえって ✓ (a う-verb).",
         "There are two きる: きる \"to wear\" is a る-verb (きて); きる \"to cut\" is a う-verb (きって). Same sound, different て-form."
       ],
       "howToStudy": [
@@ -113,7 +113,7 @@
       "gc": null,
       "title": "Irregulars して / きて and the exception いって",
       "gloss": "the three that break the rule",
-      "explanation": "Three verbs don't follow the table. They are among the most common verbs, so it's worth memorizing them like vocabulary:\n• **する → して** (to do). This applies to every verb with する: べんきょうする → べんきょうして · そうじする → そうじして · せんたくする → せんたくして.\n• **くる → きて** (to come). The vowel changes to **き**, the same as in the ます-form (きます).\n• **いく → いって** (to go). By the table, く would give いて (いいて), but いく is the **only exception** among う-verbs and becomes いって, with っ.\n**Shortcut for the irregulars:** the て-form is the ます-form with て in place of ます. します → して, きます → きて. With う-verbs this shortcut doesn't work: いきます does not become いきて.\n• A word you'll come across: もってくる (\"to bring\"). Literally it is もって (\"holding\", from もつ) + くる (\"to come\"). The て-form even shows up inside words.",
+      "explanation": "Three verbs don't follow the table. They are among the most common verbs, so it's worth memorizing them like vocabulary:\n• **する → して** (to do). This applies to every verb with する: べんきょうする → べんきょうして · そうじする → そうじして · せんたくする → せんたくして.\n• **くる → きて** (to come). The vowel changes to **き**, the same as in the ます-form (きます).\n• **いく → いって** (to go). By the table, く would give いて (いいて), but いく is the **one everyday exception** among う-verbs and becomes いって, with っ.\n• **Only する and くる are truly irregular.** いく is a normal う-verb everywhere else (いきます, いきません); only its て-form — and, later, its past いった — is special.\n**Shortcut for the irregulars:** the て-form is the ます-form with て in place of ます. します → して, きます → きて. With う-verbs this shortcut doesn't work: いきます does not become いきて.\n• A word you'll come across: もってくる (\"to bring\"). Literally it is もって (\"holding\", from もつ) + くる (\"to come\"). The て-form even shows up inside words.\n• Going further (Sakubi): もってくる is one case of a pattern you'll use a lot — verb-て + a second verb that shapes the meaning of the first, often losing its own literal meaning. 〜ている (lesson 07-1) and 〜てあげる / 〜てもらう (lesson 16-1) are built this way.",
       "structure": "する → して · くる → きて · いく → いって (exception)",
       "examples": [
         { "jp": "にほんごを べんきょうする → にほんごを べんきょうして", "kana": "にほんごを べんきょうする → にほんごを べんきょうして", "romaji": "nihongo o benkyō suru → nihongo o benkyō shite", "en": "to study Japanese → て-form", "noAnat": true },
@@ -201,11 +201,11 @@
     ]
   },
   "practice": [
-    { "tool": "Wagotabi", "what": "Play normally and hunt for て-forms in the dialogues: words ending in …って, …んで, …いて, …いで or …して right after a piece of a verb. Write 3 of them in your notebook and use the table to work out each one's dictionary form. If none show up yet, write down verbs in ます and make their て-form yourself.", "min": 15 },
-    { "tool": "ヅオリンゴー", "what": "Lesson 6 vocabulary in the SRS. Then Practice L6: one round of conjugation, paying attention to the て-form.", "min": 10 },
+    { "tool": "Wagotabi", "what": "Play normally and hunt for て-forms in the dialogues: words ending in …って, …んで, …いて, …いで or …して right after a piece of a verb. Write 3 of them in your notebook and use the table to work out each one's dictionary form, then check your guess in a dictionary (Yomitan or jisho.org show the dictionary form). Save the clearest line to ヅオリンゴー's Mining. If none show up yet, write down verbs in ます and make their て-form yourself.", "min": 15 },
+    { "tool": "ヅオリンゴー", "what": "Lesson 6 vocabulary in the SRS: first clear today's reviews (🌊 All), then learn the new verbs. Doing your reviews every day matters more than adding many new cards — if they pile up, add fewer new ones instead of skipping reviews. Then Practice L6: one round of conjugation, paying attention to the て-form.", "min": 10 },
+    { "tool": "Reading", "what": "Read the Sakubi section on the て form (linked in block 6) once, straight through. Aim to understand the idea, not to memorize it: the drills, the song and the game will do the memorizing.", "min": 10 },
     { "tool": "Speaking", "what": "Phone timer: 1 minute to say the て-form of 15 verbs from this lesson, in random order. Write down how many you got right and try to beat that score next session.", "min": 5 },
-    { "tool": "Shadowing", "what": "Tap 🔊 on each example and repeat along 3 times. Exaggerate the pause of っ (まって, いって) and the ん (のんで): in Japanese, each one takes a full beat.", "min": 5 },
-    { "tool": "Kana", "what": "If you still mix up て/で or っ/つ when reading: 10 minutes in kana-flow or on the Kana Trail (ヅオリンゴー).", "min": 10 }
+    { "tool": "Shadowing", "what": "Tap 🔊 on each example and repeat along 3 times. Exaggerate the pause of っ (まって, いって) and the ん (のんで): in Japanese, each one takes a full beat. In natural speech the i of して is often whispered (it can sound like \"shte\"): copy what you hear. Still mixing up て/で or っ/つ when reading? Add 10 minutes of kana-flow or the Kana Trail.", "min": 5 }
   ],
   "culture": {
     "title": "Lines and order (ならぶ)",
@@ -221,5 +221,9 @@
     "I don't get the three special ones wrong: して, きて, いって.",
     "I did the homework, checked it against the answer key and redid what I got wrong.",
     "I did Workbook pages 59 and 61."
+  ],
+  "credits": [
+    "Explanations adapted in part from Sakubi (public domain, CC0) — sakubi.neocities.org",
+    "Study method informed by the DJT Guide to Japanese — djtguide.neocities.org/guide"
   ]
 }

@@ -16,7 +16,7 @@
       { "t": "Warm-up: turn 8 polite sentences into the short form, out loud (lesson 08-1)", "min": 5 },
       { "t": "Vocabulary: tap 🔊 on each word and repeat it twice", "min": 10 },
       { "t": "Grammar: the 2 points, each with its examples read aloud and one 🔬", "min": 25 },
-      { "t": "Lesson 8 video (block 6), pausing on the examples with と", "min": 10 },
+      { "t": "Block 6: the Lesson 8 video (pause on the examples with と) or the Sakubi sections, read once to understand, not to memorize", "min": 10 },
       { "t": "Notebook homework + checking it against the answer key", "min": 15 },
       { "t": "Checklist (block 10) + write your questions in the lesson notebook", "min": 5 }
     ]
@@ -58,7 +58,7 @@
       "gc": "8-3",
       "title": "〜と 思います",
       "gloss": "I think (that)…",
-      "explanation": "To give an opinion or a guess, say the idea in the **short form** and close with **と 思います** (\"I think…\"). The sentence has two layers:\n• the **content** (what you think), in the short form, attached to **と**, which works like quotation marks;\n• the **main predicate**, 思います, at the end. That is where you start reading: \"I think… what? → [content]\".\n• **Verbs and い-adjectives** go in directly: くると 思います, 高いと 思います, 高くないと 思います.\n• **Nouns and な-adjectives** need **だ**: 学生**だ**と 思います, かんたん**だ**と 思います. Without the だ, the sentence is wrong.\n• **Negative, two ways**: (1) negate the content: 高くない**と 思います** (lit. \"I think it isn't expensive\"). This is the usual way to say what English says as \"I don't think it's expensive\". (2) Negate the thinking: 高いと **思いません** (\"I don't think it's expensive\"), which sounds more like disagreeing with an idea.\n• \"I think so\" is **そう 思います**, without と.\n• 思います at the end of a sentence is **the speaker's** opinion. To ask for someone else's: どう 思いますか (\"what do you think?\"). To report another person's opinion, use point 4b.\n• Among friends, the same sentence ends in 思う: 高いと 思う。\nThe present short form also covers the future: ペドロさんは くると 思います (\"I think Pedro will come\").",
+      "explanation": "To give an opinion or a guess, say the idea in the **short form** and close with **と 思います** (\"I think…\"). The sentence has two layers:\n• the **content** (what you think): a whole mini-sentence in the short form, with its own topic and predicate (Sakubi calls it an **embedded clause**), closed off by **と**, which works like quotation marks;\n• the **main predicate**, 思います, at the end. That is where you start reading: \"I think… what? → [content]\".\n• **Verbs and い-adjectives** go in directly: くると 思います, 高いと 思います, 高くないと 思います.\n• **Nouns and な-adjectives** need **だ**: 学生**だ**と 思います, かんたん**だ**と 思います. Without the だ, the sentence is wrong.\n• **Negative, two ways**: (1) negate the content: 高くない**と 思います** (lit. \"I think it isn't expensive\"). This is the usual way to say what English says as \"I don't think it's expensive\". (2) Negate the thinking: 高いと **思いません** (\"I don't think it's expensive\"), which sounds more like disagreeing with an idea.\n• \"I think so\" is **そう 思います**, without と.\n• 思います at the end of a sentence is **the speaker's** opinion. To ask for someone else's: どう 思いますか (\"what do you think?\"). To pass on what another person said, use point 4b.\n• Among friends, the same sentence ends in 思う: 高いと 思う。\nThe present short form also covers the future: ペドロさんは くると 思います (\"I think Pedro will come\").\n• Going further (Sakubi): for what **someone else** thinks, Japanese uses the ている form: ペドロさんは 高いと 思っています (\"Pedro thinks it's expensive\"). You will use it for plans in Genki II (lesson 15-1).",
       "structure": "[short form] と 思います · [noun / な-adj] だと 思います",
       "examples": [
         { "jp": "日本語は あまり むずかしくないと 思います。", "kana": "にほんごは あまり むずかしくないと おもいます。", "romaji": "Nihongo wa amari muzukashikunai to omoimasu.", "en": "I think Japanese isn't that difficult. [lit. as for Japanese, not very difficult, I think]" },
@@ -83,7 +83,7 @@
       "gc": "8-4",
       "title": "〜と 言っていました",
       "gloss": "(someone) said that…",
-      "explanation": "To report what someone else said, the structure is the same as in point 4a: **content in the short form + と**, and at the end **言っていました** (\"said that…\").\n• [person] **は** + [what they said] **と** + 言っていました. The topic (は) is **who spoke**; the block with と is **what was said**; the predicate is 言っていました.\n• The rules for attaching the content don't change: verbs and い-adjectives go in directly; **nouns and な-adjectives take だ**: ひまだと 言っていました, 学生だと 言っていました.\n• Why 言っていました (the ている form in the past) and not just 言いました? In practice, 言っていました is the most common way to **pass on a message** or a piece of information (\"she mentioned that…\"). 言いました exists too, but it sounds more like reporting the exact moment someone spoke. For now, use 言っていました.\n• The content stays **the way the person said it**. English usually shifts the tense back (\"she said she would go\"); Japanese keeps the original: if she said \"I'll go\", it stays 行くと 言っていました.\n• Pronunciation: 言う is written いう but usually sounds like \"yuu\". Its て-form is **言って** (itte), with っ.",
+      "explanation": "To report what someone else said, the structure is the same as in point 4a: **content in the short form + と**, and at the end **言っていました** (\"said that…\").\n• [person] **は** + [what they said] **と** + 言っていました. The topic (は) is **who spoke**; the block with と is **what was said**; the predicate is 言っていました.\n• The rules for attaching the content don't change: verbs and い-adjectives go in directly; **nouns and な-adjectives take だ**: ひまだと 言っていました, 学生だと 言っていました.\n• Why 言っていました (the ている form in the past) and not just 言いました? In practice, 言っていました is the most common way to **pass on a message** or a piece of information (\"she mentioned that…\"). 言いました exists too, but it sounds more like reporting the exact moment someone spoke. For now, use 言っていました.\n• The content stays **the way the person said it**. English usually shifts the tense back (\"she said she would go\"); Japanese keeps the original: if she said \"I'll go\", it stays 行くと 言っていました.\n• **Exact words** are the one exception to the short-form rule: a direct quote goes inside 「」 and keeps everything the person said, even です / ます: アナさんは「あした 行きます」と 言っていました。 To pass on a message, the short form without 「」 is the usual choice, and it is what Genki practices here.\n• Pronunciation: 言う is written いう but usually sounds like \"yuu\". Its て-form is **言って** (itte), with っ.\n• Going further (Sakubi): in casual speech と often becomes **って**, and 言っていました shrinks to 言ってた: アナは あした 行くって 言ってた (\"Ana said she's going tomorrow\"). You will meet って properly in lesson 17-1.",
       "structure": "[person] は [short form] と 言っていました。",
       "examples": [
         { "jp": "すずきさんは 次の 休みに 東京に 帰ると 言っていました。", "kana": "すずきさんは つぎの やすみに とうきょうに かえると いっていました。", "romaji": "Suzuki-san wa tsugi no yasumi ni Tōkyō ni kaeru to itte imashita.", "en": "Ms. Suzuki said she's going back to Tokyo on her next break." },
@@ -93,13 +93,13 @@
       "pitfalls": [
         "Forgetting だ: ひまと 言っていました ✗ → ひまだと 言っていました ✓.",
         "Forgetting っ: 言ていました ✗ / いてました ✗ → 言っていました (itte imashita) ✓.",
-        "Using 思います for someone else's opinion. 思います at the end is always the speaker's opinion. To pass on what another person thinks, report what they said: ペドロさんは 高いと 言っていました ✓.",
+        "Using 思います for someone else's opinion. 思います at the end is always the speaker's opinion. To pass on what another person thinks, report what they said: ペドロさんは 高いと 言っていました ✓ (or use 思っています, the last bullet of point 4a).",
         "Shifting the content into the past, the English way: if Ana said あした 行きます, pass it on as あした 行くと 言っていました ✓, keeping 行く."
       ],
       "howToStudy": [
         "Think of 3 things someone told you today (at home, at work, in a message) and pass each one on in Japanese: [person]は 〜と 言っていました.",
         "Tap 🔬 on the Ana example and say each block's job before translating: TOPIC (アナさんは, who spoke) → the content, which ends in the QUOTE (すきだと) → PREDICATE (言っていました).",
-        "Say 言っていました out loud 5 times, marking the pause of the っ: it-te i-ma-shi-ta. Then say the 3 examples in full."
+        "Say 言っていました out loud 5 times, marking the pause of the っ: it-te i-ma-shi-ta. Then learn the kanji 言 through the word 言う, and spot it as the left part of 語 (日本語) and 読 (読む): it is the \"speech\" part, and knowing it makes those kanji easier to tell apart."
       ],
       "flag": null
     }
@@ -163,10 +163,11 @@
     ]
   },
   "practice": [
-    { "tool": "Wagotabi", "what": "Play normally and hunt for lines with と 思う / と 思います or と 言っていた / と 言っていました. When you find one, copy it into your notebook and underline the content (everything before と).", "min": 15 },
+    { "tool": "Wagotabi", "what": "Play normally and hunt for lines with と 思う / と 思います or と 言っていた / と 言っていました (and the casual って). When you find one, copy it into your notebook and underline the content (everything before と). Save the best one with ヅオリンゴー's Mining (⛏), together with the one word you had to look up.", "min": 15 },
     { "tool": "ヅオリンゴー", "what": "Lesson 8 vocabulary in the SRS and Practice L8. Then Drills → 🔬 Anatomy → 🔬 Analyze: paste 3 of your own sentences with と 思います and check that the block with と shows up as QUOTE.", "min": 15 },
     { "tool": "Journal", "what": "In the ヅオリンゴー Journal, write 3 opinions about your day with 〜と 思います and check them with \"Anatomy of what I wrote\".", "min": 10 },
-    { "tool": "Speaking", "what": "Record a 20-second \"message\" for someone, passing on 2 things another person said (〜と 言っていました).", "min": 5 }
+    { "tool": "Speaking", "what": "Record a 20-second \"message\" for someone, passing on 2 things another person said (〜と 言っていました).", "min": 5 },
+    { "tool": "Reading", "what": "Open another level-0 story from Tadoku's free graded readers (Resources tab) and hunt for と before 思う or 言う (思いました, 言いました…). For each one, read the content before と first and then the verb, the same order as 🔬. Understand what you can; don't look up every word.", "min": 10 }
   ],
   "culture": {
     "title": "What you show and what you think (たてまえ／ほんね)",
@@ -182,5 +183,9 @@
     "I read a sentence with と starting from the predicate: 思います / 言っていました → what was thought or said.",
     "I did the homework, checked it against the answer key and redid what I got wrong.",
     "I did Workbook pages 80–81."
+  ],
+  "credits": [
+    "Explanations adapted in part from Sakubi (public domain, CC0) — sakubi.neocities.org",
+    "Study method informed by the DJT Guide to Japanese — djtguide.neocities.org/guide"
   ]
 }

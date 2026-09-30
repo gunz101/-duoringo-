@@ -1,0 +1,217 @@
+{
+  "id": "P-20",
+  "unit": "P-N3",
+  "genki": null,
+  "title": "As soon as · the moment",
+  "titleJp": "ドアを開けたとたん・分かり次第・起きてすぐ",
+  "canDo": [
+    "I can tell about something unexpected that happened the instant something else happened, with 〜たとたん (ドアを開けたとたん、猫が飛び出してきた).",
+    "I can write a formal \"as soon as\" for work e-mails and notices with a verb stem + 次第 (分かり次第、ご連絡します).",
+    "I can say that something depends on something else with a noun + 次第 (予定は、天気次第です).",
+    "I can use 〜てすぐ and 〜たらすぐ for everyday habits, plans and casual requests.",
+    "I can choose between とたん, 次第 and てすぐ／たらすぐ by asking two questions: who controls the second half, and is it past or future?"
+  ],
+  "duration": {
+    "total": "70–90 min",
+    "blocks": [
+      { "t": "Warm-up: say aloud 3 things you do every morning, in order, with the て-form (起きて、顔を洗って、…)", "min": 5 },
+      { "t": "Vocabulary: tap 🔊 on each word and repeat it twice. Learn the kanji through the words: 次第 = 次 (\"next\", as in 次の駅) + 第 (\"number…\", as in 第一); 到着 and 出発 are the formal \"arrive\" and \"depart\" you see on station boards. Save the new words with Mining (⛏)", "min": 10 },
+      { "t": "Grammar: point a (〜たとたん), with the examples read aloud. If you split the lesson into two sessions, stop here.", "min": 15 },
+      { "t": "Grammar: points b (〜次第) and c (〜てすぐ／〜たらすぐ, and choosing the right \"as soon as\"), with one 🔬 in each", "min": 20 },
+      { "t": "Block 6: the reading and the video as a second explanation, then the podcast on another day", "min": 10 },
+      { "t": "Notebook homework + checking it against the answer key", "min": 15 },
+      { "t": "Checklist (block 10) + write your questions in the lesson notebook", "min": 5 }
+    ]
+  },
+  "prereqs": {
+    "aulas": ["P-19"],
+    "skills": [
+      "The た-form, the て-form and the verb stem (the ます-stem: 分かり, 決まり, 届き) — lessons 03-1, 06-1 and 09-1.",
+      "〜たら (lesson 17-2) and 〜と (lesson 18-3): point c builds on them.",
+      "〜たところ, \"have just done\" (lesson P-05), to keep it apart from とたん.",
+      "Polite set phrases like ご連絡します and お電話ください (lessons 19-1 and 20-1), which 次第 usually comes with."
+    ],
+    "vocab": [
+      { "jp": "〜とたん（に）", "kana": "〜とたん（に）", "romaji": "-totan (ni)", "en": "the very moment…, just as… (also written 途端)" },
+      { "jp": "次第", "kana": "しだい", "romaji": "shidai", "en": "as soon as (after a verb stem); depending on (after a noun)" },
+      { "jp": "すぐ（に）", "kana": "すぐ（に）", "romaji": "sugu (ni)", "en": "right away, immediately; (of place) right, very close: すぐそこ = right over there" },
+      { "jp": "飛び出す", "kana": "とびだす", "romaji": "tobidasu", "en": "to rush out, to jump out" },
+      { "jp": "降り出す", "kana": "ふりだす", "romaji": "furidasu", "en": "to start to rain (or snow)" },
+      { "jp": "泣き出す", "kana": "なきだす", "romaji": "nakidasu", "en": "to burst into tears" },
+      { "jp": "立ち上がる", "kana": "たちあがる", "romaji": "tachiagaru", "en": "to stand up" },
+      { "jp": "めまい", "kana": "めまい", "romaji": "memai", "en": "dizziness; めまいがする = to feel dizzy" },
+      { "jp": "急に", "kana": "きゅうに", "romaji": "kyū ni", "en": "suddenly, all at once" },
+      { "jp": "詳しい", "kana": "くわしい", "romaji": "kuwashii", "en": "detailed; 詳しいこと = the details" },
+      { "jp": "連絡", "kana": "れんらく", "romaji": "renraku", "en": "contact; 連絡する = to get in touch; ご連絡します (polite) = we will contact you" },
+      { "jp": "知らせる", "kana": "しらせる", "romaji": "shiraseru", "en": "to let (someone) know; お知らせします (polite) = we will let you know" },
+      { "jp": "到着", "kana": "とうちゃく", "romaji": "tōchaku", "en": "arrival; 到着する = to arrive (formal)" },
+      { "jp": "出発", "kana": "しゅっぱつ", "romaji": "shuppatsu", "en": "departure; 出発する = to set off" },
+      { "jp": "準備", "kana": "じゅんび", "romaji": "junbi", "en": "preparation; 準備ができる = to be ready" },
+      { "jp": "決まる", "kana": "きまる", "romaji": "kimaru", "en": "to be decided" },
+      { "jp": "届く", "kana": "とどく", "romaji": "todoku", "en": "to arrive, to be delivered" },
+      { "jp": "結果", "kana": "けっか", "romaji": "kekka", "en": "result" },
+      { "jp": "予定", "kana": "よてい", "romaji": "yotei", "en": "plan, schedule" },
+      { "jp": "天気", "kana": "てんき", "romaji": "tenki", "en": "weather" },
+      { "jp": "卒業", "kana": "そつぎょう", "romaji": "sotsugyō", "en": "graduation; 卒業する = to graduate" },
+      { "jp": "態度", "kana": "たいど", "romaji": "taido", "en": "attitude, the way someone behaves" },
+      { "jp": "改札", "kana": "かいさつ", "romaji": "kaisatsu", "en": "ticket gate (at a station)" }
+    ]
+  },
+  "grammar": [
+    {
+      "id": "P-20-a",
+      "gc": null,
+      "title": "〜たとたん（に）",
+      "gloss": "the moment X happened, (something unexpected) happened",
+      "explanation": "とたん is a noun that means **\"the very instant\"**. Put a verb in the **た-form** in front of it and you get: \"the moment X happened, Y happened\" — so close together that they feel like one event. The に after とたん is optional; the meaning doesn't change.\n• **Y is a surprise the speaker didn't control**: it started to rain, the cat shot out, I felt dizzy, someone burst into tears. That's why Y so often ends in 〜出す (\"start to…\", suddenly) or 〜てくる, or comes with 急に／突然.\n• **Y is something that really happened** — almost always in the past tense. It can't be a plan, a wish, an invitation or a request: no 〜よう, 〜たい, 〜ましょう or 〜てください after とたん.\n• The two halves can share a subject — 急に立ち上がったとたん、めまいがした (I stood up, and I felt dizzy) — as long as Y is not something you chose to do.\n\n**The sentence, block by block.** [verb-た + とたん(に)] is a **time block**: it answers \"at what moment?\". The PREDICATE at the end is the surprise. Read it first: what happened? → at what moment? → the instant X happened.\n\n**とたん × てすぐ／たらすぐ.** English \"as soon as\" and \"the moment\" cover both, but Japanese splits them by **who is in control of Y**:\n• 家に帰ったとたん、雨が降り出した — the rain just happened to you: とたん ✓.\n• 家に帰ってすぐ、シャワーを浴びた — you decided to shower: とたん ✗, てすぐ ✓ (point c).\n• A quick test: can you put \"and — surprise! —\" before Y in English? Then とたん fits. If Y is your own decision, use てすぐ or たらすぐ.\n• とたん usually describes one real moment that already happened. For habits (\"every morning, as soon as I get up…\"), てすぐ is the safe choice.\n\n**とたん × たところ.** 〜たところ (lesson P-05) says \"I have just done X\" and can end a sentence: 今、家に着いたところです. とたん never ends a sentence: it always needs the Y that happened.",
+      "structure": "[verb-た] とたん(に)、[something unexpected that happened]",
+      "examples": [
+        { "jp": "ドアを開けたとたん、猫が飛び出してきた。", "kana": "ドアをあけたとたん、ねこがとびだしてきた。", "romaji": "Doa o aketa totan, neko ga tobidashite kita.", "en": "The moment I opened the door, the cat shot out. [lit. at the instant I opened the door, the cat jumped out (toward me)]", "noAnat": true },
+        { "jp": "駅を出たとたんに、雨が降り出しました。", "kana": "えきをでたとたんに、あめがふりだしました。", "romaji": "Eki o deta totan ni, ame ga furidashimashita.", "en": "Just as I stepped out of the station, it started to rain.", "noAnat": true },
+        { "jp": "急に立ち上がったとたん、めまいがした。", "kana": "きゅうにたちあがったとたん、めまいがした。", "romaji": "Kyū ni tachiagatta totan, memai ga shita.", "en": "The moment I suddenly stood up, I felt dizzy.", "noAnat": true }
+      ],
+      "pitfalls": [
+        "Y can't be your own choice: 家に帰ったとたん、シャワーを浴びた ✗ → 家に帰ってすぐ、シャワーを浴びた ✓.",
+        "No requests, plans or wishes after とたん: 駅に着いたとたん、電話してください ✗ → 駅に着いたらすぐ、電話してください ✓ (or, formally, 駅に着き次第、お電話ください ✓).",
+        "The verb before とたん is always in the た-form: ドアを開けるとたん ✗ → ドアを開けたとたん ✓.",
+        "とたん is not \"have just done\" and can't end the sentence: 今、家に着いたとたんです ✗ → 今、家に着いたところです ✓ (lesson P-05)."
+      ],
+      "howToStudy": [
+        "Think of 3 real moments when something took you by surprise (the rain, a phone, a noise, a power cut) and say each one aloud: 〜たとたん、〜。",
+        "The control test: for every とたん sentence you write, ask \"did I choose Y?\". If the answer is yes, rewrite it with てすぐ or たらすぐ.",
+        "Read each example from the end: find the surprise in the PREDICATE first (飛び出してきた, 降り出しました, めまいがした), then its moment (〜たとたん). Say both halves aloud, with a little surprise in your voice."
+      ],
+      "flag": null
+    },
+    {
+      "id": "P-20-b",
+      "gc": null,
+      "title": "〜次第 (as soon as) × N 次第 (depends on)",
+      "gloss": "as soon as X, (I'll) do Y — formal · it depends on N",
+      "explanation": "次第 (しだい) has two jobs, and **what comes right before it** tells you which one.\n\n**1 · Verb stem + 次第 = as soon as.** 分かり次第 (as soon as it's known), 準備ができ次第 (as soon as we're ready), 届き次第 (as soon as it arrives). Some する-nouns take it directly: 到着次第 (as soon as you arrive), 決定次第 (as soon as it's decided).\n• X is something **still to come**, and Y is a **deliberate action**: a promise (ご連絡します), a request (お電話ください) or a plan (出発しましょう).\n• It is **formal**: business e-mail, shop notices, announcements, the news. Among friends the same idea is 〜たらすぐ (point c).\n• It never tells a story about the past: 着き次第、雨が降った ✗.\n\n**2 · Noun + 次第 = depends on.** 天気次第です (it depends on the weather), 結果次第で決めます (we'll decide depending on the result). 次第 sits right after the noun, with **no の**. It's close to 〜によります, with a flavor of \"it's all up to N\". It works as the PREDICATE (〜次第だ／です) or as a condition block (〜次第で). 〜次第では often leads to a possibility: 天気次第では、中止になるかもしれません (depending on the weather, it may be called off).\n\n**The sentence, block by block.** In meaning 1, [verb stem + 次第] is a **TIME** block (\"when?\"), and the PREDICATE at the end is your action. Read it first: we'll contact you → when? → as soon as we know. Any subject inside the time block (詳しいことが, 準備が) belongs to the verb before 次第, not to the predicate.\n\n**次第 × とたん.** They look like twins — both are \"as soon as\" — but they are opposites in almost every way:\n• 次第: **future**, Y is **what you will do**, formal.\n• とたん: **past**, Y is **what happened to you**, a surprise.\n• 家に着き次第、連絡します (a promise) · 家に着いたとたん、雨が降り出した (a surprise).",
+      "structure": "[verb stem] 次第、[your planned action / request] · [する-noun] 次第 · [noun] 次第だ／次第で (depends on)",
+      "examples": [
+        { "jp": "詳しいことが分かり次第、ご連絡します。", "kana": "くわしいことがわかりしだい、ごれんらくします。", "romaji": "Kuwashii koto ga wakari shidai, go-renraku shimasu.", "en": "As soon as we know the details, we'll contact you." },
+        { "jp": "準備ができ次第、出発しましょう。", "kana": "じゅんびができしだい、しゅっぱつしましょう。", "romaji": "Junbi ga deki shidai, shuppatsu shimashō.", "en": "Let's set off as soon as we're ready." },
+        { "jp": "予定は、天気次第です。", "kana": "よていは、てんきしだいです。", "romaji": "Yotei wa, tenki shidai desu.", "en": "Our plans depend on the weather. [lit. as for the plan, it's up to the weather]" }
+      ],
+      "pitfalls": [
+        "Use the stem, not the dictionary or た-form: 分かる次第 ✗ / 分かった次第 ✗ → 分かり次第 ✓.",
+        "次第 looks forward, never back: 駅に着き次第、雨が降り出した ✗ → 駅に着いたとたん、雨が降り出した ✓.",
+        "No の between the noun and 次第: 天気の次第です ✗ → 天気次第です ✓.",
+        "Too stiff among friends: (to a friend) 着き次第、電話する ✗ (it sounds like a business e-mail) → 着いたらすぐ電話するね ✓."
+      ],
+      "howToStudy": [
+        "🔬 Anatomy → Analyze: paste example 1. 詳しいことが shows up as SUBJECT, 分かり as DESCRIBES NEXT (it attaches to 次第), 次第 as TIME and ご連絡します as the PREDICATE. Read from the end: we'll contact you → when? → as soon as the details are known.",
+        "Write 3 lines you could put in a work e-mail with 〜次第 (分かり次第／決まり次第／届き次第), then say them aloud in a calm, polite voice.",
+        "Speaking: say 3 things in your life that 〜次第です: 週末の予定は、〜次第です。 日本へ行くかどうかは、〜次第です。"
+      ],
+      "flag": null
+    },
+    {
+      "id": "P-20-c",
+      "gc": null,
+      "title": "〜てすぐ · 〜たらすぐ (and choosing the right \"as soon as\")",
+      "gloss": "right after… · as soon as… — the everyday, all-purpose way",
+      "explanation": "The plainest way to say \"as soon as\" is to add **すぐ (right away)** to a sequence you already know.\n• **〜てすぐ(に)**: X, and right after that, Y. It works for habits, past events and plans, and Y can be your own choice: 毎朝、起きてすぐ水を飲む. 卒業してすぐ、働き始めた.\n• **〜たらすぐ(に)**: as soon as X happens, Y. This is the natural choice for **requests and promises about the future**: 着いたらすぐ連絡してね.\n• For habits you'll also hear **〜とすぐ(に)** (the と of lesson 18-3): 家に帰るとすぐ、手を洗います.\n• Going further (Sakubi): **すぐ** is an adverb-like noun that means \"immediately\" in time **and** \"right next to\" in space: すぐそこ (right over there), 駅のすぐ前 (right in front of the station). すぐに can also be a little looser, closer to \"soon\". **後で**, by contrast, only means \"after\" — not necessarily soon: 家に着いた後で電話した says nothing about how long you waited. And たら on its own only says that Y comes after X; it's the すぐ that adds the speed.\n\n**The sentence, block by block.** The て-form links X to the rest (…AND THEN), すぐ says how soon (HOW), and the PREDICATE at the end is Y. With たら, the X block is a condition (IF / WHEN).\n\n**Choosing the right \"as soon as\"** — look at Y and ask:\n• Did it just **happen to me**, as a surprise, in the past? → **〜たとたん**.\n• Is it **my own action**, in a **formal** message about the future? → **〜次第**.\n• Anything else — habits, casual promises and requests, your own past actions? → **〜てすぐ／〜たらすぐ**.\n• When in doubt, てすぐ／たらすぐ is the safe choice: it never gets the meaning wrong — it's only less vivid than とたん and less formal than 次第.",
+      "structure": "[verb-て] すぐ(に)、[Y] · [verb-たら] すぐ(に)、[request / plan] · [dictionary form] と すぐ(に)、[habit]",
+      "examples": [
+        { "jp": "毎朝、起きてすぐ水を一杯飲みます。", "kana": "まいあさ、おきてすぐみずをいっぱいのみます。", "romaji": "Maiasa, okite sugu mizu o ippai nomimasu.", "en": "Every morning, I drink a glass of water right after I get up." },
+        { "jp": "家に着いたらすぐ、連絡してね。", "kana": "いえについたらすぐ、れんらくしてね。", "romaji": "Ie ni tsuitara sugu, renraku shite ne.", "en": "Let me know as soon as you get home, OK?" },
+        { "jp": "大学を卒業してすぐ、東京の会社で働き始めました。", "kana": "だいがくをそつぎょうしてすぐ、とうきょうのかいしゃではたらきはじめました。", "romaji": "Daigaku o sotsugyō shite sugu, Tōkyō no kaisha de hatarakihajimemashita.", "en": "Right after graduating from university, I started working at a company in Tokyo." }
+      ],
+      "pitfalls": [
+        "すぐ goes after the て-form, not the た-form: 起きたすぐ、水を飲む ✗ → 起きてすぐ、水を飲む ✓ (起きたすぐ後で ✓ also works, with 後).",
+        "後で alone is only \"after\", not \"right after\". \"I called the moment I got home\": 家に着いた後で電話した ✗ (the \"right away\" is lost) → 家に着いてすぐ電話した ✓.",
+        "For a habit, neither とたん nor 次第 fits: 毎朝、起きたとたん、水を飲みます ✗ / 毎朝、起き次第、水を飲みます ✗ → 毎朝、起きてすぐ、水を飲みます ✓."
+      ],
+      "howToStudy": [
+        "🔬 Anatomy → Analyze: paste example 1. 毎朝 is TIME, 起きて shows up as …AND THEN, すぐ as HOW / HOW OFTEN, 水を as OBJECT and 飲みます as the PREDICATE: the て-form links the two actions and すぐ says how soon.",
+        "Speaking: describe your morning routine aloud in 30 seconds, with at least 3 〜てすぐ (起きてすぐ、〜。顔を洗ってすぐ、〜。).",
+        "Take one situation — arriving at a station — and say it 3 ways: a surprise (改札を出たとたん、〜), a formal promise (駅に到着次第、〜) and a casual request (駅に着いたらすぐ、〜ね)."
+      ],
+      "flag": null
+    }
+  ],
+  "media": [
+    { "order": 1, "kind": "reading", "title": "JLPT Sensei: the pages on 〜たとたん(に) and 〜次第, with more examples", "where": "Website · JLPT Sensei (grammar lists by level)", "url": "", "search": "JLPT Sensei totan ni shidai", "when": "After the grammar block. Unofficial lists may put these points at N3 or N2 — that's fine." },
+    { "order": 2, "kind": "video", "title": "日本語の森 (Nihongo no Mori): an N3 grammar video on 〜たとたん(に)", "where": "YouTube · 日本語の森 channel", "url": "", "search": "日本語の森 N3 とたんに", "when": "Optional, as a second explanation. If the search doesn't find it, search \"Japanese grammar totan ni\" and pick a video from a teacher's channel." },
+    { "order": 3, "kind": "input", "title": "A podcast episode: listen for すぐ, とたん and 次第", "where": "Podcast · e.g. EASY JAPANESE PODCAST or Nihongo con Teppei (both in the Resources tab)", "url": "", "search": "EASY JAPANESE PODCAST Masa Asami", "when": "On any day after the lesson, in your Immersion block. Don't stop for every word: just notice each すぐ or とたん and what happens right after it." }
+  ],
+  "homework": {
+    "intro": "Do it by hand in your notebook. Write with the kanji you already know and use kana for the rest. Only then open the answer key, item by item. Circle what you got wrong and redo it the next day.",
+    "tasks": [
+      {
+        "id": "h1",
+        "type": "choose",
+        "prompt": "Put the verb in brackets into the right form and add とたん, 次第 or てすぐ／たらすぐ. Look at the second half first: a surprise, a formal promise, or an everyday sequence?",
+        "items": [
+          { "q": "窓を（開ける）＿＿、強い風が入ってきた。", "a": { "jp": "窓を開けたとたん、強い風が入ってきた。", "kana": "まどをあけたとたん、つよいかぜがはいってきた。", "romaji": "Mado o aketa totan, tsuyoi kaze ga haitte kita." }, "note": "The wind is a surprise that happened to you: た-form + とたん." },
+          { "q": "資料が（届く）＿＿、お送りいたします。", "a": { "jp": "資料が届き次第、お送りいたします。", "kana": "しりょうがとどきしだい、おおくりいたします。", "romaji": "Shiryō ga todoki shidai, o-okuri itashimasu." }, "note": "A formal promise about the future: stem + 次第." },
+          { "q": "毎晩、お風呂に（入る）＿＿寝ます。", "a": { "jp": "毎晩、お風呂に入ってすぐ寝ます。", "kana": "まいばん、おふろにはいってすぐねます。", "romaji": "Maiban, ofuro ni haitte sugu nemasu." }, "note": "A habit, and your own choice: てすぐ." },
+          { "q": "子どもは母親の顔を（見る）＿＿、泣き出した。", "a": { "jp": "子どもは母親の顔を見たとたん、泣き出した。", "kana": "こどもはははおやのかおをみたとたん、なきだした。", "romaji": "Kodomo wa hahaoya no kao o mita totan, nakidashita." }, "note": "Bursting into tears isn't planned: とたん. 〜出す often goes with it." },
+          { "q": "駅に（着く）＿＿、電話してね。", "a": { "jp": "駅に着いたらすぐ、電話してね。", "kana": "えきについたらすぐ、でんわしてね。", "romaji": "Eki ni tsuitara sugu, denwa shite ne." }, "note": "A casual request: たらすぐ. 着き次第 would be too stiff with a friend, and とたん can't take a request." },
+          { "q": "会議の時間が（決まる）＿＿、皆さんにお知らせします。", "a": { "jp": "会議の時間が決まり次第、皆さんにお知らせします。", "kana": "かいぎのじかんがきまりしだい、みなさんにおしらせします。", "romaji": "Kaigi no jikan ga kimari shidai, minasan ni o-shirase shimasu." }, "note": "An announcement at work: stem + 次第." }
+        ]
+      },
+      {
+        "id": "h2",
+        "type": "transform",
+        "prompt": "You're writing to a client. Rewrite each casual sentence in formal style with 〜次第.",
+        "items": [
+          { "q": "結果が分かったらすぐ、連絡します。", "a": { "jp": "結果が分かり次第、ご連絡します。", "kana": "けっかがわかりしだい、ごれんらくします。", "romaji": "Kekka ga wakari shidai, go-renraku shimasu." }, "note": "分かった → stem 分かり. ご連絡します (or ご連絡いたします) is the polite way to say 連絡します." },
+          { "q": "準備ができたらすぐ、始めます。", "a": { "jp": "準備ができ次第、始めます。", "kana": "じゅんびができしだい、はじめます。", "romaji": "Junbi ga deki shidai, hajimemasu." } },
+          { "q": "空港に着いたらすぐ、電話してください。", "a": { "jp": "空港に到着次第、お電話ください。", "kana": "くうこうにとうちゃくしだい、おでんわください。", "romaji": "Kūkō ni tōchaku shidai, o-denwa kudasai." }, "note": "A する-noun takes 次第 directly: 到着次第. 空港に着き次第 is also correct." },
+          { "q": "商品が入ったらすぐ、お知らせします。", "a": { "jp": "商品が入り次第、お知らせします。", "kana": "しょうひんがはいりしだい、おしらせします。", "romaji": "Shōhin ga hairi shidai, o-shirase shimasu." }, "note": "入る → stem 入り. Shops say this about items that are out of stock." }
+        ]
+      },
+      {
+        "id": "h3",
+        "type": "translate",
+        "prompt": "Translate into Japanese.",
+        "items": [
+          { "q": "The moment I got on the train, the doors closed.", "a": { "jp": "電車に乗ったとたん、ドアが閉まった。", "kana": "でんしゃにのったとたん、ドアがしまった。", "romaji": "Densha ni notta totan, doa ga shimatta." }, "note": "The doors closing isn't your choice: とたん, with the intransitive 閉まる (lesson 18-1)." },
+          { "q": "(Formal) As soon as the schedule is decided, we will let you know.", "a": { "jp": "予定が決まり次第、お知らせします。", "kana": "よていがきまりしだい、おしらせします。", "romaji": "Yotei ga kimari shidai, o-shirase shimasu." } },
+          { "q": "Whether we have the barbecue depends on the weather.", "a": { "jp": "バーベキューをするかどうかは、天気次第です。", "kana": "バーベキューをするかどうかは、てんきしだいです。", "romaji": "Bābekyū o suru ka dō ka wa, tenki shidai desu." }, "note": "〜かどうか (lesson 20-2) + は, then noun + 次第です." },
+          { "q": "I went to bed right after I got home.", "a": { "jp": "家に帰ってすぐ寝ました。", "kana": "いえにかえってすぐねました。", "romaji": "Ie ni kaette sugu nemashita." }, "note": "Going to bed was your own choice, so not とたん." },
+          { "q": "The moment he became famous, his attitude changed.", "a": { "jp": "彼は有名になったとたん、態度が変わった。", "kana": "かれはゆうめいになったとたん、たいどがかわった。", "romaji": "Kare wa yūmei ni natta totan, taido ga kawatta." }, "note": "A sudden change that others noticed: とたん. Sharing a subject is fine, because the change is told as something that happened." }
+        ]
+      },
+      {
+        "id": "h4",
+        "type": "produce",
+        "prompt": "Write 4 true sentences: one with 〜たとたん (a real surprise), one with 〜次第 (a line for a work e-mail), one with noun + 次第です, and one with 〜てすぐ (a habit). Read them aloud and record yourself on your phone.",
+        "items": [
+          { "q": "Model (match its structure, not its words):", "a": { "jp": "家を出たとたん、雨が降り出しました。仕事が終わり次第、ご連絡します。週末の予定は、天気次第です。毎朝、起きてすぐアプリで復習をしています。", "kana": "いえをでたとたん、あめがふりだしました。しごとがおわりしだい、ごれんらくします。しゅうまつのよていは、てんきしだいです。まいあさ、おきてすぐアプリでふくしゅうをしています。", "romaji": "Ie o deta totan, ame ga furidashimashita. Shigoto ga owari shidai, go-renraku shimasu. Shūmatsu no yotei wa, tenki shidai desu. Maiasa, okite sugu apuri de fukushū o shite imasu.", "en": "The moment I left home, it started to rain. As soon as I finish work, I'll get in touch. My weekend plans depend on the weather. Every morning, right after I get up, I do my reviews in the app." }, "note": "Check: the た-form before とたん and something unplanned after it; the verb stem before 次第 and your own action after it; no の in noun + 次第; すぐ right after the て-form." }
+        ]
+      }
+    ],
+    "workbook": []
+  },
+  "practice": [
+    { "tool": "Wagotabi", "what": "Play in the game's N3 area and hunt for とたん, 次第 and すぐ in the dialogues. Each time you find one, pause and say out loud whether the second half is a surprise, a formal promise or an everyday sequence. Log the session in Immersion → Games and paste one of those lines into 🔬 Anatomy.", "min": 15 },
+    { "tool": "NHK NEWS WEB EASY", "what": "Read one article with a pop-up dictionary such as Yomitan, then listen to its audio. Look for すぐ, 〜とすぐ and 〜次第 (次第 is rare in easy news but common in official notices). Save one sentence you understood with Mining (⛏) so it comes back in your SRS: collecting sentences from real Japanese is how you keep growing after the textbook.", "min": 10 },
+    { "tool": "ヅオリンゴー · Journal", "what": "Write 5 sentences of your own: 2 with 〜たとたん (real surprises), 1 with 〜次第 (a line for a work e-mail), 1 with noun + 次第です, and 1 with 〜てすぐ (a habit). Use \"Anatomy of what I wrote\" and check that the PREDICATE after とたん is something that happened to you, not something you decided.", "min": 10 },
+    { "tool": "Shadowing", "what": "Tap 🔊 on each example in this lesson and repeat along 3 times. Give the とたん sentences a lively, surprised voice and the 次第 sentences a calm, business-like one.", "min": 5 },
+    { "tool": "Speaking", "what": "Record 30 seconds about the last time something took you by surprise (〜たとたん) and what you did right after (〜てすぐ). Listen and check the た-form before とたん and the て-form before すぐ.", "min": 5 }
+  ],
+  "culture": {
+    "title": "The station as a shopping mall (えきビル)",
+    "titleJp": "駅ビル",
+    "body": "In Japanese cities, a big train station is often much more than a place to catch a train. Many stations are part of a **駅ビル** (えきビル), a station building full of shops and restaurants, sometimes with a department store or a hotel, often run by the railway company or a company in its group. There are also shops inside the ticket gates, called **駅ナカ** (えきナカ), where you can buy bentō, sweets or gifts without leaving the paid area. Many commuters do their shopping on the way home, and some station buildings have food floors much like the デパ地下 of lesson 20-2. Big stations can feel like mazes, so people usually agree on a precise meeting point, such as a named exit or a famous statue like Hachikō at Shibuya.",
+    "try": "Imagine you've just arrived at a big station. Write 3 sentences in your notebook with this lesson's grammar: 改札を出たとたん、〜。／駅に着いたらすぐ、〜。／何を買うかは、〜次第です。 Then read them aloud."
+  },
+  "checklist": [
+    "I can tell about a sudden, unexpected event with 〜たとたん, and I never put a request, a plan or my own choice after it.",
+    "I can write a formal promise with a verb stem + 次第 (分かり次第、ご連絡します) without looking.",
+    "I can say that something depends on something else with noun + 次第です, with no の.",
+    "I use 〜てすぐ for habits and my own actions, and 〜たらすぐ for casual requests.",
+    "Given one situation, I can pick とたん, 次第 or てすぐ／たらすぐ and explain why in one sentence.",
+    "I know that 後で is just \"after\", while すぐ adds \"right away\".",
+    "I did the homework, checked it against the answer key and redid what I got wrong."
+  ],
+  "credits": [
+    "Explanations adapted in part from Sakubi (public domain, CC0) — sakubi.neocities.org",
+    "Study method informed by the DJT Guide to Japanese — djtguide.neocities.org/guide"
+  ]
+}

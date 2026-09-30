@@ -16,7 +16,7 @@
       { "t": "Warm-up: say the ない form of 10 verbs out loud (lesson 08-1)", "min": 5 },
       { "t": "Vocabulary: tap 🔊 on each word and repeat it twice", "min": 10 },
       { "t": "Grammar: the 4 points, with the examples read aloud and one 🔬 each. A dense lesson: if you prefer, split it into 2 sessions (4a–4b in one, 4c–4d in the other)", "min": 35 },
-      { "t": "Lesson 8 video (block 6), pausing on the examples", "min": 10 },
+      { "t": "Block 6: the Lesson 8 video (pause on the examples) or the Sakubi sections, read once to understand, not to memorize", "min": 10 },
       { "t": "Notebook homework + checking it against the answer key", "min": 20 },
       { "t": "Checklist (block 10) + write your questions in the lesson notebook", "min": 5 }
     ]
@@ -60,7 +60,7 @@
       "gc": "8-5",
       "title": "〜ないでください",
       "gloss": "please don't…",
-      "explanation": "You already ask someone **to do** something with 〜てください (lesson 06-2). To ask them **not to**, take the **ない form** (lesson 08-1) and add **でください**.\n• 飲まない → 飲まない**でください** (\"please don't drink\").\n• 見ない → 見ないでください; しない → しないでください; こない → こないでください.\n• The whole block is the **predicate**, and its kind is a **request**. The other blocks keep their usual particles: [place] で, [object] を.\n• It is polite, but direct. With strangers, people often open with すみませんが、… (\"excuse me, but…\").\n• Among friends, the casual version is just 〜ないで: 行かないで！ (\"don't go!\").\n• Don't confuse it with 〜ては いけません (lesson 06-3): ないでください is a **request** to someone; てはいけません says something **is not allowed**.",
+      "explanation": "You already ask someone **to do** something with 〜てください (lesson 06-2). To ask them **not to**, take the **ない form** (lesson 08-1) and add **でください**.\n• 飲まない → 飲まない**でください** (\"please don't drink\").\n• 見ない → 見ないでください; しない → しないでください; こない → こないでください.\n• **ないで, not なくて**: in a request, ない is always followed by で. なくて (built like 高くて, lesson 07-2) exists, but it has other jobs, which you will meet in Genki II.\n• ください comes from a verb meaning \"to give (me)\", so you are asking a favor: \"please do me the favor of not…\".\n• The whole block is the **predicate**, and its kind is a **request**. The other blocks keep their usual particles: [place] で, [object] を.\n• It is polite, but direct. With strangers, people often open with すみませんが、… (\"excuse me, but…\").\n• Among friends, the casual version is just 〜ないで: 行かないで！ (\"don't go!\").\n• Don't confuse it with 〜ては いけません (lesson 06-3): ないでください is a **request** to someone; てはいけません says something **is not allowed**.\n• Going further (Sakubi): in games and anime you will hear a blunt prohibition, dictionary form + **な**: 行くな！ (\"Don't go!\"), 見るな！ (\"Don't look!\"). It is a rough command: learn to recognize it, but don't use it yourself.",
       "structure": "[verb in the ない form] でください",
       "examples": [
         { "jp": "ここで たばこを すわないでください。", "kana": "ここで たばこを すわないでください。", "romaji": "Koko de tabako o suwanaide kudasai.", "en": "Please don't smoke here." },
@@ -68,9 +68,9 @@
         { "jp": "あしたの テストを わすれないでください。", "kana": "あしたの テストを わすれないでください。", "romaji": "Ashita no tesuto o wasurenaide kudasai.", "en": "Please don't forget tomorrow's test." }
       ],
       "pitfalls": [
-        "Building it from the ます form: 飲みませんでください ✗ → 飲まないでください ✓. The base is always the ない form.",
+        "Building it from the ます form or dropping で: 飲みませんでください ✗, 飲まないください ✗ → 飲まないでください ✓. The base is always the ない form, followed by で.",
+        "Using なくて: 飲まなくてください ✗ → 飲まないでください ✓. Requests always take ないで.",
         "Verbs ending in う take わ: すわないでください ✓, すあないでください ✗. The same with つかう: つかわないでください ✓.",
-        "Forgetting で: 飲まないください ✗ → 飲まないでください ✓.",
         "Mixing it up with 〜ては いけません: ここで たばこを すわないでください asks someone not to smoke; ここで たばこを すっては いけません says smoking here is not allowed."
       ],
       "howToStudy": [
@@ -85,7 +85,7 @@
       "gc": "8-6",
       "title": "Verb + のが すき / じょうず / へた",
       "gloss": "liking doing, being good or bad at doing",
-      "explanation": "すき, きらい, じょうず and へた need a **noun** before が: ビールが すきです. To talk about an **action** (swimming, singing, reading), turn the verb into a noun with **の**: [verb in the dictionary form] + の. It works like English \"-ing\" in \"I like swimming\".\n• およぐ → およぐ**の** (\"swimming\") → およぐのが すきです (\"I like swimming\").\n• The verb can bring its own blocks along: 本を 読む**の**が すきです. The whole group [本を 読む] becomes the \"noun\", and it is the **subject** of すき, marked by が.\n• **Not liking**: 読むのが すきじゃないです, or, stronger, 読むのが きらいです. For \"I don't like it much\": あまり すきじゃないです.\n• **じょうず / へた** are about skill: うたうのが じょうずです (\"is good at singing\"). じょうず is usually used to **praise others**; about yourself, it sounds like bragging. For yourself, prefer へたです or あまり じょうずじゃないです.\nRead from the end: すきです → likes what? → the block with のが.",
+      "explanation": "すき, きらい, じょうず and へた need a **noun** before が: ビールが すきです. To talk about an **action** (swimming, singing, reading), turn the verb into a noun with **の**: [verb in the dictionary form] + の. It works like English \"-ing\" in \"I like swimming\". Sakubi calls this **nominalizing**: making a noun out of a whole phrase.\n• およぐ → およぐ**の** (\"swimming\") → およぐのが すきです (\"I like swimming\").\n• The verb can bring its own blocks along, **with their own particles**: 本を 読む**の**が すきです. The whole group [本を 読む] becomes the \"noun\", and it is the **subject** of すき, marked by が. The を inside belongs to 読む, so it stays を.\n• **Not liking**: 読むのが すきじゃないです, or, stronger, 読むのが きらいです. For \"I don't like it much\": あまり すきじゃないです.\n• **じょうず / へた** are about skill: うたうのが じょうずです (\"is good at singing\"). じょうず is usually used to **praise others**; about yourself, it sounds like bragging. For yourself, prefer へたです or あまり じょうずじゃないです.\nRead from the end: すきです → likes what? → the block with のが.\n• Going further (Sakubi): こと (\"thing\", used for actions and ideas) can make the same kind of noun: 本を 読むことが すきです is also correct. You will use it in 〜ことが ある (lesson 11-2). And the same の gives you \"the … one\": あかいの = \"the red one\" (lesson 10-2).",
       "structure": "[verb (dictionary form)] のが すき / きらい / じょうず / へた です",
       "examples": [
         { "jp": "私は うちで 本を 読むのが すきです。", "kana": "わたしは うちで ほんを よむのが すきです。", "romaji": "Watashi wa uchi de hon o yomu no ga suki desu.", "en": "I like reading books at home." },
@@ -93,9 +93,9 @@
         { "jp": "私は およぐのが へたです。", "kana": "わたしは およぐのが へたです。", "romaji": "Watashi wa oyogu no ga heta desu.", "en": "I'm bad at swimming." }
       ],
       "pitfalls": [
-        "Using the ます form before の: 読みますのが すきです ✗ → 読むのが すきです ✓.",
-        "Forgetting の: 読むが すきです ✗ → 読むのが すきです ✓.",
-        "Using を instead of が: 読むのを すきです ✗ → 読むのが すきです ✓. すき, きらい, じょうず and へた take が.",
+        "The verb before の is in the dictionary form, and の is required: 読みますのが すきです ✗ / 読むが すきです ✗ → 読むのが すきです ✓.",
+        "Changing the particle inside the phrase: 本が 読むのが すきです ✗ → 本を 読むのが すきです ✓. 本 is what you read, so it keeps を; only the whole [本を 読む]の takes が.",
+        "Using を instead of が after の: 読むのを すきです ✗ → 読むのが すきです ✓. すき, きらい, じょうず and へた take が.",
         "Praising yourself: 私は うたうのが じょうずです sounds like bragging. About yourself: うたうのが へたです or あまり じょうずじゃないです ✓."
       ],
       "howToStudy": [
@@ -110,7 +110,7 @@
       "gc": "8-7",
       "title": "が (subject particle)",
       "gloss": "who? — it's X that…",
-      "explanation": "が marks the **subject**: who does the action, or the thing something is said about. You have already seen が with すき (lesson 05-2), with ある / いる (lesson 04-1) and in N は X が Adj (lesson 07-2). The focus now is a **question word as the subject**.\n• When だれ, 何 or どれ is the subject, it takes **が, never は**: だれが きますか。 (だれは ✗).\n• Why: は marks the **topic**, something already known, the subject matter you are about to talk about. A question word is exactly what is **not known**, so it cannot be the topic. が marks **new information**, the focus of the question.\n• **The answer keeps が**, because it is what fills the gap: だれが きますか。— ルーカスさんが きます。 Answering ルーカスさんは きます tends to sound like a contrast (\"Lucas, at least, is coming\") and doesn't really answer the question.\n• For a short answer, [X]です is enough: マリアさんです。\n• Both together: この レストランは 何が おいしいですか。 The restaurant is the **topic** (は, already known); what is being asked is the **subject** (何が, new). The answer: カレーが おいしいです。\n• In short: **Xは** = \"as for X…\" (known subject matter); **Xが** = \"it's X that…\" (new information, in focus).\n• **Another use, don't confuse them**: after です / ます, が joins two sentences and means **\"but\"**: 高いですが、おいしいです。 That が comes after a predicate, not after a noun, and it does not mark a subject.",
+      "explanation": "Sakubi's framing helps here: most particles are **case markers**. Each one labels the **job** of the block in front of it: が subject, を object, で place, に destination. が marks the **subject**: who does the action, or the thing something is said about. You have already seen が with すき (lesson 05-2), with ある / いる (lesson 04-1) and in N は X が Adj (lesson 07-2). The focus now is a **question word as the subject**.\n• When だれ, 何 or どれ is the subject, it takes **が, never は**: だれが きますか。 (だれは ✗).\n• Why: は is not a job label. It marks the **topic**: \"this is what I'm talking about\", something already known. A question word is exactly what is **not known**, so it cannot be the topic. が marks the subject and also puts it **in focus**, as new information: the gap the question is about.\n• **The answer keeps が**, because it is what fills the gap: だれが きますか。— ルーカスさんが きます。 Answering ルーカスさんは きます tends to sound like a contrast (\"Lucas, at least, is coming\") and doesn't really answer the question.\n• For a short answer, [X]です is enough: マリアさんです。\n• Both together: この レストランは 何が おいしいですか。 The restaurant is the **topic** (は, already known); what is being asked is the **subject** (何が, new). The answer: カレーが おいしいです。\n• In short: **Xは** = \"as for X…\" (known subject matter); **Xが** = \"it's X that…\" (new information, in focus).\n• **Another use, don't confuse them**: after です / ます, が joins two sentences and means **\"but\"**: 高いですが、おいしいです。 That が comes after a predicate, not after a noun, and it does not mark a subject.\n• Going further (Sakubi): は can sit on top of other particles. With で or に it is added: うちでは (\"as for at home\"), as in homework h4. With が and を it replaces them: ケーキは マリアさんが 作りました (\"as for the cake, Maria made it\").",
       "structure": "[だれ / 何] が [predicate]か。— [X] が [predicate]。 · [topic] は [question word] が [predicate]か。",
       "examples": [
         { "jp": "だれが この ケーキを 作りましたか。— マリアさんが 作りました。", "kana": "だれが この ケーキを つくりましたか。— マリアさんが つくりました。", "romaji": "Dare ga kono kēki o tsukurimashita ka. — Maria-san ga tsukurimashita.", "en": "Who made this cake? — Maria made it." },
@@ -135,7 +135,7 @@
       "gc": "8-8",
       "title": "何か / 何も",
       "gloss": "something / nothing (and someone / no one)",
-      "explanation": "Add **か** to a **question word** and it becomes \"some-\"; add **も** + a **negative verb** and it becomes \"no-\".\n• 何**か** = something: 何か 食べますか (\"will you eat something?\"). The answer is はい / いいえ.\n• 何**も** + negative = nothing: 何も 食べません (\"I don't eat anything\"). The **verb must be negative**. English can say \"I eat nothing\" with a positive verb; Japanese can't: 何も always goes with a negative verb, like \"not… anything\".\n• だれ**か** = someone; だれ**も** + negative = no one: だれも いません (\"nobody is here\").\n• 何か / 何も / だれか / だれも take the place of the **object** or the **subject**, and を and が **usually disappear**: 何か 飲みますか, だれも いません.\n• When reading, as soon as you see 何も or だれも, **jump to the end** and confirm that the verb is negative.\n• With places the logic is the same, but the particle stays: どこかに 行きます / どこにも 行きません (lesson 10-3).",
+      "explanation": "Add **か** to a **question word** and it becomes \"some-\"; add **も** + a **negative verb** and it becomes \"no-\".\n• 何**か** = something: 何か 食べますか (\"will you eat something?\"). The answer is はい / いいえ.\n• 何**も** + negative = nothing: 何も 食べません (\"I don't eat anything\"). The **verb must be negative**. English can say \"I eat nothing\" with a positive verb; Japanese can't: 何も always goes with a negative verb, like \"not… anything\".\n• だれ**か** = someone; だれ**も** + negative = no one: だれも いません (\"nobody is here\").\n• 何か / 何も / だれか / だれも take the place of the **object** or the **subject**. After か, を and が **usually disappear**: 何か 飲みますか. After も they **disappear completely**, because も replaces が and を, just as in 私も (lesson 02-3): 何も 飲みません, だれも いません.\n• When reading, as soon as you see 何も or だれも, **jump to the end** and confirm that the verb is negative.\n• With places the logic is the same, but the particle stays: どこかに 行きます / どこにも 行きません (lesson 10-3).\n• Going further (Sakubi): add でも for \"any… at all\" with a positive verb: 何でも 食べます (\"I'll eat anything\"), だれでも いいです (\"anyone is fine\"). In casual speech 何か often becomes なんか, which is also a very common filler, like \"kind of\".",
       "structure": "何か / だれか [verb]ますか · 何も / だれも [negative verb]",
       "examples": [
         { "jp": "何か 飲みますか。— いいえ、何も いりません。", "kana": "なにか のみますか。— いいえ、なにも いりません。", "romaji": "Nanika nomimasu ka. — Iie, nanimo irimasen.", "en": "Will you have something to drink? — No, I don't need anything." },
@@ -144,7 +144,7 @@
       ],
       "pitfalls": [
         "何も with an affirmative verb (the English \"I eat nothing\" trap): 何も 食べます ✗ → 何も 食べません ✓.",
-        "Keeping the particle: 何もを 食べません ✗ → 何も 食べません ✓.",
+        "Keeping the particle: 何もを 食べません ✗ → 何も 食べません ✓. も has already taken the place of を.",
         "Confusing 何か with 何を: 何を 飲みますか = \"what will you drink?\" (the answer is the drink); 何か 飲みますか = \"will you drink something?\" (the answer is はい / いいえ).",
         "だれか and だれも are for people, 何か and 何も for things: へやに 何も いません ✗ → へやに だれも いません ✓."
       ],
@@ -181,7 +181,7 @@
         "type": "translate",
         "prompt": "Translate into Japanese, using verb + のが….",
         "items": [
-          { "q": "I like making cakes.", "a": { "jp": "私は ケーキを 作るのが すきです。", "kana": "わたしは ケーキを つくるのが すきです。", "romaji": "Watashi wa kēki o tsukuru no ga suki desu." } },
+          { "q": "I like making cakes.", "a": { "jp": "私は ケーキを 作るのが すきです。", "kana": "わたしは ケーキを つくるのが すきです。", "romaji": "Watashi wa kēki o tsukuru no ga suki desu." }, "note": "ケーキ is what you make, so it keeps を; the whole [ケーキを 作る]の takes が." },
           { "q": "Ana is good at swimming.", "a": { "jp": "アナさんは およぐのが じょうずです。", "romaji": "Ana-san wa oyogu no ga jōzu desu." } },
           { "q": "I don't like doing the laundry.", "a": { "jp": "私は せんたくするのが すきじゃないです。", "kana": "わたしは せんたくするのが すきじゃないです。", "romaji": "Watashi wa sentaku suru no ga suki ja nai desu." }, "note": "きらいです is also correct, but stronger (\"I hate it\")." },
           { "q": "Pedro is bad at singing.", "a": { "jp": "ペドロさんは うたうのが へたです。", "romaji": "Pedoro-san wa utau no ga heta desu." }, "note": "Saying this in front of Pedro could sound rude; here it's just practice." },
@@ -221,9 +221,9 @@
     ]
   },
   "practice": [
-    { "tool": "Wagotabi", "what": "Play normally and hunt for 何か, 何も, だれか, だれも or a question with だれが / 何が. When you find 何も or だれも, check that the verb at the end is negative. Log the session in Immersion → Games in ヅオリンゴー and paste one of those lines into Anatomy.", "min": 15 },
+    { "tool": "Wagotabi", "what": "Play normally and hunt for 何か, 何も, だれか, だれも or a question with だれが / 何が. When you find 何も or だれも, check that the verb at the end is negative. Log the session in Immersion → Games in ヅオリンゴー and paste one of those lines into Anatomy; if it has a word you had to look up, save it with Mining (⛏).", "min": 15 },
     { "tool": "ヅオリンゴー", "what": "Lesson 8 vocabulary in the SRS and Practice L8. Then Drills → 🔬 Anatomy → 🧱 Build from the end with 3 sentences from this lesson.", "min": 15 },
-    { "tool": "Kanji", "what": "ヅオリンゴー → Kanji → ✍️ Write: the 14 kanji of Genki Lesson 8 (員新聞作仕事電車休言読思次何), with stroke order, before Workbook pages 143–144.", "min": 10 },
+    { "tool": "Kanji", "what": "ヅオリンゴー → Kanji → ✍️ Write: the 14 kanji of Genki Lesson 8 (員新聞作仕事電車休言読思次何), with stroke order, before Workbook pages 143–144. Tie each one to a word you already use (会社員, 新聞, 電車, 仕事, 読む…) and notice shared parts: 言 is the left side of 読 and 語. If one keeps slipping, make up a short story that links its parts.", "min": 10 },
     { "tool": "Shadowing", "what": "Tap 🔊 on the dialogues in point 4d and repeat each question and answer 3 times, copying the rhythm.", "min": 5 },
     { "tool": "Speaking", "what": "Record 30 seconds about what you like and don't like doing, using homework h4 as your script.", "min": 5 }
   ],
@@ -242,5 +242,9 @@
     "I use だれか / だれも (someone / no one) with the right verb.",
     "I did the homework, checked it against the answer key and redid what I got wrong.",
     "I did Workbook pages 82–86 and 143–144."
+  ],
+  "credits": [
+    "Explanations adapted in part from Sakubi (public domain, CC0) — sakubi.neocities.org",
+    "Study method informed by the DJT Guide to Japanese — djtguide.neocities.org/guide"
   ]
 }

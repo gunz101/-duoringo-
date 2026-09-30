@@ -65,7 +65,7 @@
       "gc": "10-5",
       "title": "〜く なる / 〜に なる",
       "gloss": "to become, to get (a change)",
-      "explanation": "**なる** = \"to become, to get\": it shows a **change** of state. What the thing changes into comes before なる, in a special form:\n• い-adjective: replace the final い with **く**: さむい → **さむく なる** (\"to get cold\"). Watch out: いい → **よく なる** (\"to get better\").\n• な-adjective: drop the な and add **に**: きれい(な) → **きれいに なる** (\"to get clean, to become pretty\").\n• Noun + **に**: 先生 → **先生に なる** (\"to become a teacher\"); はる → **はるに なる** (\"spring comes\" [lit. it becomes spring]).\nIn the blocks of the sentence: the thing that changes is the **SUBJECT**, with が (or the **TOPIC**, with は); **なる** is the **PREDICATE**, and the word in く / に, right before it, gives the **result** of the change.\n• なる is an う-verb: なります, なりました, なりません, なって…\n• Usually you talk about a change that has already happened, so the past 〜く なりました / 〜に なりました (\"has become…, got…\") is very common.\n• English uses many verbs for this — \"get cold\", \"turn red\", \"become a teacher\", \"grow up\" — and Japanese uses なる for all of them.\n• It combines well with lesson 10-1: 前より 〜く なりました (\"it has gotten more… than before\").",
+      "explanation": "**なる** = \"to become, to get\": it shows a **change** of state. What the thing changes into comes before なる, in its **adverb form**, the form that tells how something ends up:\n• い-adjective: replace the final い with **く**: さむい → **さむく なる** (\"to get cold\"). Watch out: いい → **よく なる** (\"to get better\").\n• な-adjective: drop the な and add **に**: きれい(な) → **きれいに なる** (\"to get clean, to become pretty\").\n• Noun + **に**: 先生 → **先生に なる** (\"to become a teacher\"); はる → **はるに なる** (\"spring comes\" [lit. it becomes spring]).\nWhy these forms? The く of さむく is the adverb form of an い-adjective, the same く you already use in さむくない (lesson 05-1) and in はやく おきます (\"to get up early\"); に does that job for な-adjectives and nouns. That is why 🔬 labels よく or きれいに as HOW / HOW OFTEN.\nIn the blocks of the sentence: the thing that changes is the **SUBJECT**, with が (or the **TOPIC**, with は); **なる** is the **PREDICATE**, and the word in く / に, right before it, gives the **result** of the change.\n• なる is an う-verb: なります, なりました, なりません, なって…\n• Usually you talk about a change that has already happened, so the past 〜く なりました / 〜に なりました (\"has become…, got…\") is very common.\n• English uses many verbs for this — \"get cold\", \"turn red\", \"become a teacher\", \"grow up\" — and Japanese uses なる for all of them.\n• It combines well with lesson 10-1: 前より 〜く なりました (\"it has gotten more… than before\").\n• **Going further (Sakubi):** in shops and restaurants you will hear staff say こちら、コーヒーに なります (roughly \"here is your coffee\"). It is a set service phrase: nothing is changing.",
       "structure": "[い-adjective → く] なる · [な-adjective → に] なる · [noun] に なる",
       "examples": [
         { "jp": "日本語の べんきょうは むずかしく なりましたが、おもしろいです。", "kana": "にほんごの べんきょうは むずかしく なりましたが、おもしろいです。", "romaji": "Nihongo no benkyō wa muzukashiku narimashita ga, omoshiroi desu.", "en": "Studying Japanese has gotten difficult, but it's interesting." },
@@ -73,7 +73,7 @@
         { "jp": "アナさんは 日本語の 先生に なりました。", "kana": "アナさんは にほんごの せんせいに なりました。", "romaji": "Ana-san wa nihongo no sensei ni narimashita.", "en": "Ana became a Japanese teacher.", "noAnat": true }
       ],
       "pitfalls": [
-        "な-adjectives and nouns use に, not く: げんきく なる ✗ → げんきに なる ✓; 先生く なる ✗ → 先生に なる ✓.",
+        "な-adjectives and nouns use に — not く, and not を (English \"become a teacher\" looks like it has an object, but なる never takes を): げんきく なる ✗ → げんきに なる ✓; 先生を なる ✗ → 先生に なる ✓.",
         "いい becomes よく: 天気が いく なりました ✗ → 天気が よく なりました ✓.",
         "きれい is a な-adjective, even though it ends in い: きれく なる ✗ → きれいに なる ✓. The same goes for ゆうめい: ゆうめいに なる.",
         "なる is only about changing. English \"stay\" is not a change: \"stay home\" is うちに なります ✗ → うちに います ✓."
@@ -81,7 +81,7 @@
       "howToStudy": [
         "Think of 5 changes in your life (the weather, your Japanese, your city, your age, your room) and say each one with なりました: at least one い-adjective, one な-adjective and one noun.",
         "Tap 🔬 on そうじを して、へやが きれいに なりました。: そうじを is the OBJECT and して shows up as …AND THEN (the first action); へやが is the SUBJECT (what changed); きれいに shows up as HOW / HOW OFTEN — here it tells you how the room ended up, the result; and なりました is the PREDICATE.",
-        "In your notebook, make a table with 3 columns (い / な / noun) and write 4 words in each, already in the なる form."
+        "In your notebook, make a table with 3 columns (い / な / noun) and write 4 words in each, already in the なる form. Include 長い (長く なる) and 新しい: a new kanji sticks best inside a word you actually use."
       ],
       "flag": null
     },
@@ -90,7 +90,7 @@
       "gc": "10-6",
       "title": "どこかに / どこにも",
       "gloss": "(to) somewhere / (not) anywhere",
-      "explanation": "Remember **なにか** (\"something\") and **なにも** + negative (\"nothing\") from lesson 08-3? With どこ (\"where\") the logic is the same:\n• question word + **か** = \"some-\": なにか (something), **どこか** (somewhere), だれか (someone).\n• question word + **も** + **negative** verb = \"no-\", \"not any-\": なにも (nothing), **どこにも** (nowhere, not anywhere), だれも (nobody).\nThe difference is in the particle:\n• を and が drop before も: なにを + も → なにも. That's why you never saw なにをも.\n• に **does not drop**: it stays between どこ and も → **どこにも** 行きません.\n• With か, the particle comes after: **どこかに** 行きます, **どこかで** 食べます. In speech, the に of どこかに sometimes drops: どこか 行きましたか。\nWatch the question: **どこかに 行きましたか。** is a **yes/no** question (\"did you go anywhere?\"). **どこに 行きましたか。** asks **where**. Answer the first one with はい、〜に 行きました or いいえ、どこにも 行きませんでした.",
+      "explanation": "Remember **なにか** (\"something\") and **なにも** + negative (\"nothing\") from lesson 08-3? With どこ (\"where\") the logic is the same:\n• question word + **か** = \"some-\": なにか (something), **どこか** (somewhere), だれか (someone), いつか (sometime, someday).\n• question word + **も** + **negative** verb = \"no-\", \"not any-\": なにも (nothing), **どこにも** (nowhere, not anywhere), だれも (nobody).\nThe difference is in the particle:\n• を and が drop before も: なにを + も → なにも. That's why you never saw なにをも.\n• に **does not drop**: it stays between どこ and も → **どこにも** 行きません.\n• With か, the particle comes after: **どこかに** 行きます, **どこかで** 食べます. In speech, the に of どこかに sometimes drops: どこか 行きましたか。\nWatch the question: **どこかに 行きましたか。** is a **yes/no** question (\"did you go anywhere?\"). **どこに 行きましたか。** asks **where**. Answer the first one with はい、〜に 行きました or いいえ、どこにも 行きませんでした. The same goes for なにか: なにか 食べましたか = \"did you eat anything?\" (yes/no), but なにを 食べましたか = \"what did you eat?\".\n• **Going further (Sakubi):** question word + **でも** = \"any… at all\", and it works with affirmative verbs: どこでも いいです (\"anywhere is fine\"), なんでも 食べます (\"I'll eat anything\").",
       "structure": "どこかに [verb] · どこにも [negative verb]",
       "examples": [
         { "jp": "こんどの 土曜日、どこかに 行きませんか。", "kana": "こんどの どようび、どこかに いきませんか。", "romaji": "Kondo no doyōbi, dokoka ni ikimasen ka.", "en": "This coming Saturday, would you like to go somewhere?", "noAnat": true },
@@ -100,7 +100,8 @@
       "pitfalls": [
         "どこにも needs a negative verb: どこにも 行きます ✗ → どこにも 行きません ✓. English \"I go nowhere\" has no \"not\", but Japanese always needs the negative verb.",
         "Don't forget the に before も: どこにも 行きません ✓. Without it, どこも usually means something else: どこも 高いです = \"everywhere is expensive\".",
-        "Answer the yes or the no first: to どこかに 行きましたか, just リオです ✗ (that answers a different question, どこに 行きましたか) → はい、リオに 行きました ✓."
+        "Answer the yes or the no first: to どこかに 行きましたか, just リオです ✗ (that answers a different question, どこに 行きましたか) → はい、リオに 行きました ✓.",
+        "In a question, use どこか, not どこにも. English says \"anywhere\" both in \"Did you go anywhere?\" and in \"I didn't go anywhere\"; Japanese splits them: どこにも 行きましたか ✗ → どこかに 行きましたか ✓."
       ],
       "howToStudy": [
         "Say the whole series out loud, with a short sentence for each: なにか / なにも, だれか / だれも, どこかに / どこにも.",
@@ -114,7 +115,7 @@
       "gc": "10-7",
       "title": "で: means of transport",
       "gloss": "by bus, by train, on foot",
-      "explanation": "You already know で as the **place of an action** (lesson 03-2: としょかんで べんきょうします). It also marks the **means**: \"with what, how\". English says \"by bus\", \"by train\"; Japanese says **バスで**, **電車で**.\n• Transport: [means] で [destination] に 行きます / 来ます / 帰ります: じてんしゃで 大学に 行きます。\n• Tools and languages too: はしで 食べます (\"to eat with chopsticks\"), 日本語で 話します (\"to speak in Japanese\").\n• **\"On foot\" is あるいて**, the て-form of あるく (\"to walk\"), and it comes **without で**: えきまで あるいて 行きます. Don't say あしで: that would be \"using my feet\", as if they were a tool.\n• To ask \"how?\": **どうやって** 行きますか。 (\"by what means\"). You may hear 何で 行きますか, but that 何で, read なんで, also means \"why?\" in speech. どうやって is clearer.\nIn the blocks: the で block is the **MEANS**, the に block is the **DESTINATION** and the verb of movement is the **PREDICATE**, at the end. The blocks with particles can swap places; the verb can't.",
+      "explanation": "You already know で as the **place of an action** (lesson 03-2: としょかんで べんきょうします). In fact で marks the **circumstances** of an action: where it happens, or with what it is done. So the same particle also marks the **means**: \"with what, how\". English says \"by bus\", \"by train\"; Japanese says **バスで**, **電車で**.\n• Transport: [means] で [destination] に 行きます / 来ます / 帰ります: じてんしゃで 大学に 行きます。\n• Tools and languages too: はしで 食べます (\"to eat with chopsticks\"), 日本語で 話します (\"to speak in Japanese\").\n• **\"On foot\" is あるいて**, the て-form of あるく (\"to walk\"), and it comes **without で**: えきまで あるいて 行きます. Don't say あしで: that would be \"using my feet\", as if they were a tool.\n• To ask \"how?\": **どうやって** 行きますか。 (\"by what means\"). You may hear 何で 行きますか, but that 何で, read なんで, also means \"why?\" in speech. どうやって is clearer.\nIn the blocks: the で block is the **MEANS**, the に block is the **DESTINATION** and the verb of movement is the **PREDICATE**, at the end. The blocks with particles can swap places; the verb can't.\n• **Going further (Sakubi):** there is also a look-alike で, the て-form of です that joins two statements (lesson 07-2: マリアさんは ブラジルじんで、がくせいです。). It links sentences instead of marking a block.",
       "structure": "[means] で [destination] に 行きます · あるいて 行きます (no で)",
       "examples": [
         { "jp": "毎日 ちかてつで 会社に 行きます。", "kana": "まいにち ちかてつで かいしゃに いきます。", "romaji": "Mainichi chikatetsu de kaisha ni ikimasu.", "en": "I go to the office by subway every day." },
@@ -139,7 +140,7 @@
       "gc": null,
       "title": "〜かかります",
       "gloss": "it takes (time) / it costs (money)",
-      "explanation": "**かかる** means \"to take\" (time) or \"to cost\" (money), in the sense of \"it requires\". The **amount** comes **right before the verb, with no particle**:\n[A] から [B] まで [means] で [amount] (ぐらい) かかります。\n• **から** = \"from\" (starting point); **まで** = \"to, as far as\" (end point).\n• **ぐらい** = \"about\", right after the amount: 一時間 ぐらい (\"about an hour\").\n• Time: 〜分 (ふん / ぷん, minutes), 〜時間 (じかん, hours). Money: 〜円.\n• To ask: **どのぐらい** かかりますか (\"how long does it take?\"); for money, **いくら** かかりますか.\n• In the blocks: から = FROM, まで = UNTIL / TO, で = MEANS, the number = QUANTITY and かかります = PREDICATE. かかります always stays at the end.\n• かかる is an う-verb: かかります, かかりました, かかりません.",
+      "explanation": "**かかる** means \"to take\" (time) or \"to cost\" (money), in the sense of \"it requires\". The **amount** comes **right before the verb, with no particle**:\n[A] から [B] まで [means] で [amount] (ぐらい) かかります。\n• **から** = \"from\" (starting point); **まで** = \"to, as far as\" (end point). まで includes the end point: 月曜日から 金曜日まで = \"Monday through Friday\".\n• **ぐらい** = \"about\", right after the amount: 一時間 ぐらい (\"about an hour\"). ぐらい makes an amount or a length approximate; for a point in time you already have ごろ (lesson 03-3: 三時ごろ).\n• Time: 〜分 (ふん / ぷん, minutes), 〜時間 (じかん, hours). Money: 〜円.\n• To ask: **どのぐらい** かかりますか (\"how long does it take?\"); for money, **いくら** かかりますか.\n• In the blocks: から = FROM, まで = UNTIL / TO, で = MEANS, the number = QUANTITY and かかります = PREDICATE. かかります always stays at the end.\n• かかる is an う-verb: かかります, かかりました, かかりません.\n• **Going further (Sakubi):** **までに** means \"by (a certain time)\", not \"until\": 五時まで べんきょうします = \"I'll study until five\", but 五時までに 帰ります = \"I'll be home by five\".",
       "structure": "[A] から [B] まで [means] で [amount] ぐらい かかります。 · どのぐらい かかりますか。",
       "examples": [
         { "jp": "うちから 大学まで バスで 四十分 ぐらい かかります。", "kana": "うちから だいがくまで バスで よんじゅっぷん ぐらい かかります。", "romaji": "Uchi kara daigaku made basu de yonjuppun gurai kakarimasu.", "en": "It takes about 40 minutes by bus from my home to the college." },
@@ -148,7 +149,7 @@
       ],
       "pitfalls": [
         "The amount takes no particle and goes right before the verb: 二時間を かかります ✗, 二時間に かかります ✗ → 二時間 かかります ✓.",
-        "ぐらい comes after the number: ぐらい 三十分 ✗ → 三十分 ぐらい ✓.",
+        "ぐらい comes after the number, and a length of time takes ぐらい, not ごろ (ごろ is for a point on the clock): ぐらい 一時間 ✗, 一時間ごろ ✗ → 一時間 ぐらい ✓.",
         "English \"take\" has two meanings. Take time = 一時間 かかります ✓; take an object with you = かさを かかります ✗ → かさを 持って 行きます ✓.",
         "The price of an item in a shop is still 〜です: この シャツは 三千円 かかります ✗ (it sounds odd) → この シャツは 三千円です ✓. かかります is for the cost of something you do: the taxi ride, the trip."
       ],
@@ -226,8 +227,8 @@
   },
   "practice": [
     { "tool": "Wagotabi", "what": "Play normally and hunt the dialogues for three things: なる (〜く なりました, 〜に なりました), どこか / どこにも, and a で after a means of transport or a language. When you find one, pause and say what changed, or what the means is. Log the session in Immersion → Games and paste the line into 🔬 Anatomy.", "min": 15 },
-    { "tool": "ヅオリンゴー", "what": "Practice L10: now that you have seen all 7 points of the Genki lesson, do one full round. Then the Lesson 10 SRS (or the 🌊 All deck).", "min": 10 },
-    { "tool": "Kanji", "what": "ヅオリンゴー → Kanji → ✍️ Write: the Lesson 10 kanji (住 正 年 売 買 町 長 道 雪 立 自 夜 朝 持), before Workbook pp. 147–148.", "min": 10 },
+    { "tool": "ヅオリンゴー", "what": "Practice L10: now that you have seen all 7 points of the Genki lesson, do one full round. Then the Lesson 10 SRS (or the 🌊 All deck): do every review that is due. If the pile gets too big, add fewer new cards instead of skipping reviews — skipped reviews break the spacing that makes SRS work.", "min": 10 },
+    { "tool": "Kanji", "what": "Kanji through vocabulary: in ヅオリンゴー → Kanji → ✍️ Write, practice the Lesson 10 kanji (住 正 年 売 買 町 長 道 雪 立 自 夜 朝 持) before Workbook pp. 147–148, tying each one to a word: 住む (すむ), 買う (かう), 売る (うる), 町 (まち), 長い (ながい), 今夜 (こんや), 来年 (らいねん), お正月 (おしょうがつ). Readings stick inside words, not alone. Also read the words aloud, not only write them: recognizing and writing are separate skills.", "min": 10 },
     { "tool": "Shadowing", "what": "Tap 🔊 on the かかります examples and repeat along 3 times: this is the kind of sentence you will hear most in a station.", "min": 5 },
     { "tool": "Speaking", "what": "Record your commute (homework h4) in 45 seconds or less, without reading. Listen and check the で, the あるいて and the かかります.", "min": 5 }
   ],
@@ -243,8 +244,12 @@
     "I answer a どこかに 〜か question with はい or いいえ first.",
     "I can say how I get to places with 〜で, and on foot with あるいて, without で.",
     "I can say and ask how much time or money something takes: 〜から 〜まで 〜ぐらい かかります / どのぐらい かかりますか.",
-    "I can write the Lesson 10 kanji in the right stroke order.",
+    "I can read the Lesson 10 kanji inside words (住む, 買う, 町, 長い, 今夜…) and write them in the right stroke order.",
     "I did the homework, checked it against the answer key and redid what I got wrong.",
     "I did Workbook pages 100–103 and 147–148."
+  ],
+  "credits": [
+    "Explanations adapted in part from Sakubi (public domain, CC0) — sakubi.neocities.org",
+    "Study method informed by the DJT Guide to Japanese — djtguide.neocities.org/guide"
   ]
 }

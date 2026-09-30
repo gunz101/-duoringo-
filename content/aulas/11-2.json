@@ -17,15 +17,16 @@
       { "t": "Vocabulary: tap 🔊 on each word and repeat it twice", "min": 10 },
       { "t": "Grammar 4a: 〜たことが ある × the simple past × もう, with one 🔬", "min": 15 },
       { "t": "Grammar 4b: A や B × A と B", "min": 10 },
-      { "t": "Lesson 11 video (block 6), pausing on the examples", "min": 10 },
+      { "t": "Block 6: the Lesson 11 video or the Sakubi section, as a second explanation (read to understand, not to memorize)", "min": 10 },
       { "t": "Notebook homework + checking it against the answer key", "min": 15 },
       { "t": "Checklist (block 10) + write your questions in the lesson notebook", "min": 5 }
     ]
   },
   "prereqs": {
-    "aulas": ["04-3", "09-1", "09-3", "11-1"],
+    "aulas": ["04-3", "09-1", "09-2", "09-3", "11-1"],
     "skills": [
       "Making the た-form, the short past, of any verb (lesson 09-1): 行った, 食べた, 見た, 飲んだ, した. 〜ことが ある is built on it.",
+      "Sentences that describe nouns (lesson 09-2): in 〜たことが ある, the た-form phrase describes the noun こと.",
       "Using もう 〜ました, \"already did\" in the sense of \"I'm done\" (lesson 09-3). In this lesson you separate that \"already\" from \"have done before\".",
       "Linking nouns with と, \"A and B\" (lesson 04-3).",
       "The points of lesson 11-1 (〜たい and 〜たり): they come back in the examples and the homework. The や in this lesson is a \"cousin\" of たり."
@@ -62,7 +63,7 @@
       "gc": "11-3",
       "title": "〜たことが ある (experience)",
       "gloss": "I have done it (at some point in my life)",
-      "explanation": "〜たことが ある tells a **life experience**: something you have done **at least once**, without saying when. Build it with the **た-form** (lesson 09-1) + ことが あります: 行った**ことが あります** (I have been there), 食べた**ことが あります** (I have eaten it).\n• Literally: \"the fact (こと) of having gone exists (あります)\". こと turns the action into a **fact**, and あります says that this fact exists in your life.\n• Negative: 〜たことが **ありません** = \"I have never done it\". Question: 〜たことが **ありますか** = \"have you ever done it?\". Short answers: はい、あります。／いいえ、ありません。\n• The action is **always in the た-form**. Only the あります at the end changes (affirmative, negative, question).\n• The rest of the sentence does not change: [place] に 行ったことが, [object] を 食べたことが, [person] に 会ったことが.\n**Three sentences that English \"have…\" can blur:**\n• きのう ラーメンを 食べました。 = \"I ate ramen yesterday\": a fact at a specific time → the simple past 〜ました.\n• もう ひるごはんを 食べました。 = \"I've already had lunch\", in the sense of \"I'm done\" → もう 〜ました (lesson 09-3).\n• 日本の ラーメンを 食べたことが あります。 = \"I have eaten Japanese ramen (before)\", at some point in my life → 〜たことが あります, with no time.\nEnglish can say \"I have eaten\" for both of the last two; Japanese keeps them apart.",
+      "explanation": "〜たことが ある tells a **life experience**: something you have done **at least once**, without saying when. Build it with the **た-form** (lesson 09-1) + ことが あります: 行った**ことが あります** (I have been there), 食べた**ことが あります** (I have eaten it).\n• Literally: \"the fact (こと) of having gone exists (あります)\". **How it is built:** [行った] is a sentence that describes the noun こと, exactly like the descriptions before nouns in lesson 09-2 ([めがねを かけている] 人). こと is the word for an **intangible thing** — an action, a fact, an experience; its partner もの is for **tangible things** you can touch. So [日本に 行った] こと = \"the experience of having gone to Japan\", and が あります says that this experience exists in your life.\n• Negative: 〜たことが **ありません** = \"I have never done it\". Question: 〜たことが **ありますか** = \"have you ever done it?\". Short answers: はい、あります。／いいえ、ありません。\n• **Casual:** 〜たことが ある？ — うん、ある。／ううん、ない。 The short negative of ある is **ない** (lesson 08-1).\n• The action is **always in the た-form**. Only the あります at the end changes (affirmative, negative, question).\n• The rest of the sentence does not change: [place] に 行ったことが, [object] を 食べたことが, [person] に 会ったことが.\n• Use it for things that count as an experience: trips, unusual food, meeting someone. 水を 飲んだことが ありますか sounds odd, because everyone has; 日本の おさけを 飲んだことが ありますか is natural.\n**Three sentences that English \"have…\" can blur:**\n• きのう ラーメンを 食べました。 = \"I ate ramen yesterday\": a fact at a specific time → the simple past 〜ました.\n• もう ひるごはんを 食べました。 = \"I've already had lunch\", in the sense of \"I'm done\" → もう 〜ました (lesson 09-3).\n• 日本の ラーメンを 食べたことが あります。 = \"I have eaten Japanese ramen (before)\", at some point in my life → 〜たことが あります, with no time.\nEnglish can say \"I have eaten\" for both of the last two; Japanese keeps them apart.\n• **Going further (Sakubi):** こと and の can both turn a whole phrase into a noun. You met the の version in lesson 08-3 (日本語を 話すのが 好きです). For experience, only こと works: 行ったのが あります does not mean \"I have been\". And that phrase-to-noun の comes back in the next lesson, as the ん of 〜んです (lesson 12-1).",
       "structure": "[action in the た-form] ことが あります／ありません／ありますか",
       "examples": [
         { "jp": "わたしは 雪を 見たことが ありません。", "kana": "わたしは ゆきを みたことが ありません。", "romaji": "Watashi wa yuki o mita koto ga arimasen.", "en": "I have never seen snow. [lit. as for me, the fact of having seen snow does not exist]" },
@@ -71,13 +72,13 @@
       ],
       "pitfalls": [
         "The action goes in the た-form: 行きましたことが あります ✗ → 行ったことが あります ✓. With the dictionary form (行くことが ある) the expression means something else (\"it sometimes happens\"), a use that comes later.",
-        "An experience has no time. With a time, use the simple past: きのう 映画を 見たことが あります ✗ → きのう 映画を 見ました ✓.",
-        "The \"already\" of \"I'm done\" is もう: ひるごはんを 食べたことが あります ✗ (that would be \"I have eaten lunch at some point in my life\") → もう ひるごはんを 食べました ✓ (\"I've already had lunch\").",
-        "Use it for things that count as an experience: trips, unusual food, meeting people. 水を 飲んだことが ありますか ✗ (odd: everyone has drunk water) → 日本の おさけを 飲んだことが ありますか ✓."
+        "An experience has no time, and it is not \"I'm done\". With a time, use the simple past: きのう 映画を 見たことが あります ✗ → きのう 映画を 見ました ✓. For \"already\", use もう: ひるごはんを 食べたことが あります ✗ (that would be \"I have eaten lunch at some point in my life\") → もう ひるごはんを 食べました ✓.",
+        "The experience word is こと, not の or もの: すしを 食べたのが あります ✗ → すしを 食べたことが あります ✓. もの would be a physical thing: 日本で 買った ものが あります = \"there are things I bought in Japan\", not an experience.",
+        "In casual speech, the negative of ある is ない: 行ったことが あらない ✗ → 行ったことが ない ✓ (polite: 行ったことが ありません)."
       ],
       "howToStudy": [
         "Tap 🔬 on the snow example. Anatomy reads 見たことが ありません as a single block: the PREDICATE (experience). 雪を is the OBJECT. Read from the end: \"it has never happened\" → what? → seeing snow.",
-        "Make two lists out loud: 5 experiences of yours (〜たことが あります) and 5 things you have never done (〜たことが ありません).",
+        "Make two lists out loud: 5 experiences of yours (〜たことが あります) and 5 things you have never done (〜たことが ありません). Write 2 of them in your notebook and bracket the part that describes こと, as in lesson 09-2: [ふじさんに のぼった] ことが あります.",
         "Practice switching from experience to a fact with a time. Ask and answer yourself, 3 times: 〜たことが ありますか。— はい、あります。[when] 〜ました。"
       ],
       "flag": null
@@ -87,7 +88,7 @@
       "gc": "11-4",
       "title": "A や B (a list of examples)",
       "gloss": "A, B and other things",
-      "explanation": "や links **nouns** into a list of **examples**: you name a few and make it clear there are more. It is the cousin of たり from lesson 11-1: たり gives example **actions**, や gives example **things**.\n• と (lesson 04-3) is the **complete** list: パンと ぎゅうにゅうを 買いました = I bought bread and milk (and only that).\n• や is the **open** list: パンや ぎゅうにゅうを 買いました = I bought bread, milk… (and other things).\n• You can add **など** (\"etc., and so on\") after the last item: パンや ぎゅうにゅう**など**を 買いました.\n• The particle comes **only once, after the last item**, and covers the whole list: を, が, に… In 🔬, the first item shows up as AND, linked to the next one, and the last item takes the job of the particle (OBJECT, SUBJECT…).\n• Read from the end: 買いました (I bought) → what? → bread, milk and other things.",
+      "explanation": "や links **nouns** into a list of **examples**: you name a few members of a group and let them stand for the rest. It is the cousin of たり from lesson 11-1: たり gives example **actions**, や gives example **things**.\n• English builds a list with commas and one \"and\" at the end. Japanese puts a small word **between** the items, and that word tells what kind of list it is: と = exactly these items, や = some examples.\n• と (lesson 04-3) is the **complete** list: パンと ぎゅうにゅうを 買いました = I bought bread and milk (and only that).\n• や is the **open** list: パンや ぎゅうにゅうを 買いました = I bought bread, milk… (and other things).\n• You can add **など** (\"etc., and so on\") after the last item: パンや ぎゅうにゅう**など**を 買いました.\n• The particle comes **only once, after the last item**, and covers the whole list: を, が, に… In 🔬, the first item shows up as AND, linked to the next one, and the last item takes the job of the particle (OBJECT, SUBJECT…).\n• Read from the end: 買いました (I bought) → what? → bread, milk and other things.\n• **Going further (Sakubi):** in casual speech you will often hear **とか** for a vaguer \"things like…\" list, with each item tagged: パンとか ぎゅうにゅうとか. And **か** between nouns lists **alternatives**, \"A or B\": コーヒーか こうちゃ (coffee or tea).",
       "structure": "[N₁] や [N₂] (など) + particle",
       "examples": [
         { "jp": "スーパーで やさいや くだものを 買いました。", "kana": "スーパーで やさいや くだものを かいました。", "romaji": "Sūpā de yasai ya kudamono o kaimashita.", "en": "At the supermarket, I bought vegetables, fruit and other things." },
@@ -97,6 +98,7 @@
       "pitfalls": [
         "や only links nouns. For actions, use たり (lesson 11-1): 映画を 見るや 歌を 歌います ✗ → 映画を 見たり、歌を 歌ったり します ✓.",
         "The particle comes once, at the end of the list: パンを や ぎゅうにゅうを 買いました ✗ → パンや ぎゅうにゅうを 買いました ✓.",
+        "や goes only **between** items, never after the last one — that slot belongs to など or to the particle: パンや ぎゅうにゅうや 買いました ✗ → パンや ぎゅうにゅうを 買いました ✓ (or パンや ぎゅうにゅうなどを).",
         "If the list is complete, use と: きょうだいは あにや いもうとです ✗ (it suggests there are more siblings) → きょうだいは あにと いもうとです ✓ (just those two)."
       ],
       "howToStudy": [
@@ -171,10 +173,10 @@
   },
   "practice": [
     { "tool": "Wagotabi", "what": "Play normally and hunt for 〜ことが ある (in casual speech you will also see ことが ない, the short negative) and for lists with や or など. Copy 2 lines into your notebook, mark the PREDICATE and say whether it is an experience or a fact with a time. Log the session in Immersion → Games and paste one of the lines into 🔬 Anatomy.", "min": 15 },
-    { "tool": "ヅオリンゴー", "what": "Practice L11: listening and comprehension. Then Drills → 🔬 Anatomy → 🧱 Build from the end: 5 sentences, starting from the あります／ありません at the end.", "min": 10 },
-    { "tool": "Kanji", "what": "Kanji → ✍️ Write: the Lesson 11 kanji (手, 紙, 好, 近, 明, 病, 院, 映, 画, 歌, 市, 所, 勉, 強, 有, 旅), before Workbook pages 149–150.", "min": 10 },
-    { "tool": "Shadowing", "what": "Tap 🔊 on each example in this lesson and repeat along 3 times. In 見たことが ありません, don't pause between こと and が: it is a single block.", "min": 5 },
-    { "tool": "Speaking", "what": "Record a 1-minute interview with yourself: 3 questions with 〜たことが ありますか, each with its answer. In one of them, say when it was with 〜ました.", "min": 5 }
+    { "tool": "ヅオリンゴー", "what": "Practice L11, now with the whole Genki lesson: listening and comprehension. Then Drills → 🔬 Anatomy → 🧱 Build from the end: 5 sentences, starting from the あります／ありません at the end. Finish with the day's reviews in 🌊 All.", "min": 10 },
+    { "tool": "Kanji", "what": "Kanji through vocabulary: in Kanji → ✍️ Write, practice the Lesson 11 kanji (手, 紙, 好, 近, 明, 病, 院, 映, 画, 歌, 市, 所, 勉, 強, 有, 旅) before Workbook pages 149–150, and tie each one to a word you already use: 手紙 (てがみ), 好き (すき), 近い (ちかい), 病院 (びょういん), 映画 (えいが), 歌う (うたう), 勉強 (べんきょう), 有名 (ゆうめい), 旅行 (りょこう). A reading is easier to keep inside a word than alone. Read the words aloud too: recognizing a kanji and writing it are two separate skills.", "min": 10 },
+    { "tool": "Reading", "what": "Resources tab → Tadoku's free graded readers: read one level-1 story and hunt for 〜ことが ある and for lists with や or など. Then pick one sentence you now understand, look up every word (Jisho.org, or the Yomitan pop-up dictionary on a computer) and save it in Mining, so it becomes an SRS card.", "min": 10 },
+    { "tool": "Shadowing + speaking", "what": "Tap 🔊 on each example in this lesson and repeat along 3 times; in 見たことが ありません, don't pause between こと and が, because it is a single block. Then record a 1-minute interview with yourself: 3 questions with 〜たことが ありますか, each with its answer. In one of them, say when it was with 〜ました.", "min": 10 }
   ],
   "culture": {
     "title": "Karaoke (カラオケ)",
@@ -183,12 +185,16 @@
     "try": "Pick a slow Japanese song you like, read its title aloud and look for 2 words you already know. Then say out loud: カラオケに 行ったことが あります。(or ありません。) カラオケで 日本の 歌を 歌いたいです。"
   },
   "checklist": [
-    "I build 〜たことが あります from the た-form of any verb, without looking.",
-    "I say what I have never done with 〜たことが ありません and ask with 〜たことが ありますか.",
+    "I build 〜たことが あります from the た-form of any verb, without looking, and I can say why the word is こと (an experience) and not もの.",
+    "I say what I have never done with 〜たことが ありません (casual: 〜たことが ない) and ask with 〜たことが ありますか.",
     "I tell apart an experience (〜たことが あります), a fact with a time (〜ました) and \"already done\" (もう 〜ました).",
     "I use や for examples and と for complete lists, with the particle only once, at the end.",
     "I can explain why や (things) and たり (actions) are \"cousins\".",
     "I did the homework, checked it against the answer key and redid what I got wrong.",
     "I did Workbook pages 107–110 and 149–150."
+  ],
+  "credits": [
+    "Explanations adapted in part from Sakubi (public domain, CC0) — sakubi.neocities.org",
+    "Study method informed by the DJT Guide to Japanese — djtguide.neocities.org/guide"
   ]
 }

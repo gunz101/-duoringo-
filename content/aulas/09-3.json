@@ -61,7 +61,7 @@
       "gc": null,
       "title": "もう 〜ました",
       "gloss": "already did",
-      "explanation": "もう means **already**. With the verb **in the past**, it says the action **has already happened** — usually something that was expected to happen.\n• もう 名前を 書きました。 (I've already written my name.)\n• To ask \"…yet?\": もう 〜ましたか。 In casual speech: もう 〜た？ English switches to \"yet\" in questions (\"Have you eaten yet?\"), but Japanese keeps もう.\n• A yes answer: はい、もう 〜ました。 Casual: うん、もう 〜た。\n• もう can come at the start of the sentence or near the verb: もう しゅくだいを 出しました。 / しゅくだいは もう 出しました。 Both are natural.\n• Read from the end: the ★ past verb gives you \"did\"; もう adds \"already\".",
+      "explanation": "もう means **already**. With the verb **in the past**, it says the action **has already happened** — usually something that was expected to happen.\n• The idea behind もう is **change**: something that was not true before is true now. もう + past = \"already done\"; もう + negative = \"not anymore\" (it used to be true, and now it isn't).\n• Japanese has only two tenses, non-past and past, so the past 〜ました / 〜た also covers English \"have done\": もう 名前を 書きました。 (I've already written my name.)\n• To ask \"…yet?\": もう 〜ましたか。 In casual speech: もう 〜た？ English switches to \"yet\" in questions (\"Have you eaten yet?\"), but Japanese keeps もう, because you are asking whether the change has happened.\n• A yes answer: はい、もう 〜ました。 Casual: うん、もう 〜た。\n• もう can come at the start of the sentence or near the verb: もう しゅくだいを 出しました。 / しゅくだいは もう 出しました。 Both are natural.\n• Read from the end: the ★ past verb gives you \"did\"; もう adds \"already\".\n• Going further (Sakubi): before an amount, もう means \"more\": もう すこし (a little more), もう ひとつ (one more).",
       "structure": "もう [verb in the past]。 · もう [verb]ましたか。 · (casual) もう [verb]た？",
       "examples": [
         { "jp": "もう しゅくだいを 出しました。", "kana": "もう しゅくだいを だしました。", "romaji": "Mō shukudai o dashimashita.", "en": "I've already handed in my homework." },
@@ -85,7 +85,7 @@
       "gc": "9-5",
       "title": "まだ 〜ていません",
       "gloss": "haven't done it yet",
-      "explanation": "To say **not yet**, Japanese does **not** use the past negative. It uses **まだ + 〜ていません**, the negative of the ている form.\n• Why? 〜ている can describe a **state** (lesson 07-1). まだ 〜ていません = \"I'm still not in the state of having done it\": the action can still happen. English does something similar: it says \"I **haven't** eaten yet\", not \"I didn't eat\".\n• まだ 名前を 書いていません。 (I haven't written my name yet.)\n• Short answer to もう 〜ましたか: いいえ、まだです。 Casual: ううん、まだ。\n• The full casual form: まだ 〜ていない (まだ 読んでいない).\n• Compare: 食べませんでした = \"I didn't eat\", on an occasion that is over (yesterday, at the party). まだ 食べていません = \"I haven't eaten yet\", and the chance is still open.\n• まだ with an affirmative means \"still\", in the sense of \"it is continuing\": まだ 雨が ふっています。 (It's still raining.)",
+      "explanation": "To say **not yet**, Japanese does **not** use the past negative. It uses **まだ + 〜ていません**, the negative of the ている form.\n• まだ is the opposite of もう: **no change yet** — the old situation is still going on. You haven't eaten, and that is still the case: まだ 食べていません.\n• Why? 〜ている can describe a **state** (lesson 07-1). まだ 〜ていません = \"I'm still not in the state of having done it\": the action can still happen. English does something similar: it says \"I **haven't** eaten yet\", not \"I didn't eat\".\n• まだ 名前を 書いていません。 (I haven't written my name yet.)\n• Short answer to もう 〜ましたか: いいえ、まだです。 Casual: ううん、まだ。\n• The full casual form: まだ 〜ていない (まだ 読んでいない).\n• Compare: 食べませんでした = \"I didn't eat\", on an occasion that is over (yesterday, at the party). まだ 食べていません = \"I haven't eaten yet\", and the chance is still open.\n• まだ with an affirmative means \"still\", in the sense of \"it is continuing\": まだ 雨が ふっています。 (It's still raining.)\n• Going further (Sakubi): in relaxed speech the い of ている usually drops: まだ 読んでない, もう 来てる. You will hear it all the time in games and shows; lesson P-16 covers it. In your own writing, keep the full form for now.",
       "structure": "まだ [verb て] いません。 · いいえ、まだです。 · (casual) まだ [verb て] いない。 / ううん、まだ。",
       "examples": [
         { "jp": "アナさんは まだ 来ていません。", "kana": "アナさんは まだ きていません。", "romaji": "Ana-san wa mada kite imasen.", "en": "Ana hasn't come yet." },
@@ -96,7 +96,7 @@
         "まだ 〜ませんでした is not \"not yet\": まだ 食べませんでした ✗ → まだ 食べていません ✓.",
         "With people you speak to in です／ます, don't cut it down to just まだ: ううん、まだ。 ✗ (to a teacher) → いいえ、まだです。 ✓. ううん、まだ。 is for friends.",
         "Without まだ, 〜ていません can mean \"I'm not doing it right now\". まだ makes it clear that you mean \"I haven't done it yet\".",
-        "まだ + affirmative is \"still (continuing)\": まだ 雨が ふっています = it's still raining, not \"it hasn't rained yet\"."
+        "Watch the dakuten: また means \"again\", まだ means \"still / not yet\". For \"not yet\": また 食べていません ✗ → まだ 食べていません ✓. With an affirmative, まだ 雨が ふっています = it's still raining; また 雨が ふっています = it's raining again."
       ],
       "howToStudy": [
         "List 5 things you planned for today. For each one, say もう 〜ました or まだ 〜ていません, whichever is true.",
@@ -110,7 +110,7 @@
       "gc": "9-6",
       "title": "〜から with short forms",
       "gloss": "because (in casual speech and inside a sentence)",
-      "explanation": "In lesson 06-4, から came after です／ます: 雨ですから… Now it also comes after **short forms**, which is normal in casual speech and in the middle of sentences.\n• [reason] から、[result]。 The reason comes **first**; the result comes **at the end**. E.g. 雨が ふっているから、でかけない。 (It's raining, so I'm not going out.)\n• In polite conversation it is very common for only the end to be in です／ます: 雨が ふっているから、でかけません。\n• Nouns and な-adjectives take **だ**: びょうきだから, ひまだから. い-adjectives attach directly: 高いから.\n• The reason can be in the past: 高かったから, 来なかったから.\n• To answer \"why?\" (どうして), the reason + から is enough: どうして 行かなかった？— いそがしかったから。\n• Read from the end: first the ★ what happens; then the block with から (REASON) answers \"why?\".",
+      "explanation": "In lesson 06-4, から came after です／ます: 雨ですから… Now it also comes after **short forms**, which is normal in casual speech and in the middle of sentences.\n• [reason] から、[result]。 The reason comes **first**; the result comes **at the end**. E.g. 雨が ふっているから、でかけない。 (It's raining, so I'm not going out.)\n• In polite conversation it is very common for only the end to be in です／ます: 雨が ふっているから、でかけません。\n• Nouns and な-adjectives take **だ**: びょうきだから, ひまだから. い-adjectives attach directly: 高いから.\n• The reason can be in the past: 高かったから, 来なかったから.\n• To answer \"why?\" (どうして), the reason + から is enough: どうして 行かなかった？— いそがしかったから。\n• The reason and the result can also be two separate sentences, joined by **だから** (\"so, that's why\" — it is just だ + から): きのうは アルバイトが あった。だから、しゅくだいを していない。 In polite speech: ですから.\n• Read from the end: first the ★ what happens; then the block with から (REASON) answers \"why?\".\n• Going further (Sakubi): ので (lesson 12-2) also means \"because\", but it sounds softer and more objective, and nouns take なので, not だので. And friends often ask なんで instead of どうして; なぜ belongs more to writing and formal speech.",
       "structure": "[reason in short form] から、[result]。 · noun / な-adj + だから · い-adj + から",
       "examples": [
         { "jp": "あしたは しけんが あるから、きょうは はやく 帰る。", "kana": "あしたは しけんが あるから、きょうは はやく かえる。", "romaji": "Ashita wa shiken ga aru kara, kyō wa hayaku kaeru.", "en": "I have an exam tomorrow, so I'm going home early today. [lit. tomorrow there is an exam, so today (I) go home early]" },
@@ -160,7 +160,8 @@
           { "q": "びょうきから、きょうは 休みます。", "a": { "jp": "びょうきだから、きょうは 休みます。", "kana": "びょうきだから、きょうは やすみます。", "romaji": "Byōki da kara, kyō wa yasumimasu." }, "note": "Noun + だ + から." },
           { "q": "おいしかっただから、また 食べた。", "a": { "jp": "おいしかったから、また 食べた。", "kana": "おいしかったから、また たべた。", "romaji": "Oishikatta kara, mata tabeta." }, "note": "い-adjectives, present or past, attach straight to から." },
           { "q": "もう ひるごはんを 食べます。 (meaning: I've already had lunch)", "a": { "jp": "もう ひるごはんを 食べました。", "kana": "もう ひるごはんを たべました。", "romaji": "Mō hirugohan o tabemashita." }, "note": "\"Already did\" needs the verb in the past." },
-          { "q": "でかけないから、さむい。 (meaning: I'm not going out because it's cold)", "a": { "jp": "さむいから、でかけない。", "romaji": "Samui kara, dekakenai." }, "note": "The reason (さむい) comes before から; the result comes at the end." }
+          { "q": "でかけないから、さむい。 (meaning: I'm not going out because it's cold)", "a": { "jp": "さむいから、でかけない。", "romaji": "Samui kara, dekakenai." }, "note": "The reason (さむい) comes before から; the result comes at the end." },
+          { "q": "また しゅくだいを 出していません。 (meaning: I haven't handed in my homework yet)", "a": { "jp": "まだ しゅくだいを 出していません。", "kana": "まだ しゅくだいを だしていません。", "romaji": "Mada shukudai o dashite imasen." }, "note": "また = again; まだ = still / not yet. Only the dakuten differs." }
         ]
       },
       {
@@ -194,9 +195,9 @@
     ]
   },
   "practice": [
-    { "tool": "Wagotabi", "what": "Play normally and hunt the dialogues for もう, まだ and から. For each から, say out loud which part is the reason and which is the result. Copy 2 sentences into your notebook.", "min": 15 },
+    { "tool": "Wagotabi", "what": "Play normally and hunt the dialogues for もう, まだ and から. For each から, say out loud which part is the reason and which is the result. Copy 2 sentences into your notebook and save one of them in ヅオリンゴー → Mining, after looking up any word you didn't know.", "min": 15 },
     { "tool": "ヅオリンゴー", "what": "Lesson 9 vocabulary in the SRS. Then Practice L9: comprehension and listening.", "min": 10 },
-    { "tool": "Kanji", "what": "ヅオリンゴー → Kanji → ✍️ Write: the 15 kanji of Lesson 9 (午 後 前 名 白 雨 書 友 間 家 話 少 古 知 来), before Workbook pp. 145–146.", "min": 10 },
+    { "tool": "Kanji", "what": "ヅオリンゴー → Kanji → ✍️ Write: the 15 kanji of Lesson 9 (午 後 前 名 白 雨 書 友 間 家 話 少 古 知 来), before Workbook pp. 145–146. Learn each one inside a word you already know (午後, 名前, 雨, 書く, 友だち, 時間, 話す, 古い, 来る…). If one won't stick, split it into parts and make up a tiny story: 間 = 門 (gate) + 日 (sun) — the sun shining through a gap in the gate.", "min": 10 },
     { "tool": "ヅオリンゴー", "what": "Journal: write 3 sentences about today, one with もう, one with まだ 〜ていない and one with から. Open \"Anatomy of what I wrote\" and check that the から block shows up as REASON.", "min": 5 },
     { "tool": "Speaking", "what": "Read your message exchange (homework h4) out loud, doing both voices, and record it.", "min": 5 }
   ],
@@ -209,11 +210,15 @@
   "checklist": [
     "I can ask and answer \"already…? / …yet?\" with もう 〜ましたか / もう 〜ました without looking.",
     "I say \"not yet\" with まだ 〜ていません (and いいえ、まだです), never with まだ 〜ませんでした.",
-    "I know that もう + negative is \"not … anymore\" and まだ + affirmative is \"still (continuing)\".",
+    "I know that もう + negative is \"not … anymore\" and まだ + affirmative is \"still (continuing)\" — and I don't mix up まだ with また (again).",
     "I give reasons with a short form + から, remembering だ after nouns and な-adjectives.",
     "I read から sentences from the end: first the result, then the REASON.",
     "I did the homework, checked it against the answer key and redid what I got wrong.",
     "I did Workbook pages 92–95 and the kanji pages 145–146.",
     "I can write the 15 Lesson 9 kanji in the correct stroke order."
+  ],
+  "credits": [
+    "Explanations adapted in part from Sakubi (public domain, CC0) — sakubi.neocities.org",
+    "Study method informed by the DJT Guide to Japanese — djtguide.neocities.org/guide"
   ]
 }

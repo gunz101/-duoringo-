@@ -42,7 +42,7 @@
       { "jp": "いもうと", "kana": "いもうと", "romaji": "imōto", "en": "(my) younger sister; いもうとさん for someone else's" },
       { "jp": "おとうと", "kana": "おとうと", "romaji": "otōto", "en": "(my) younger brother; おとうとさん for someone else's" },
       { "jp": "けっこんする", "kana": "けっこんする", "romaji": "kekkon suru", "en": "to get married → けっこんしている: to be married" },
-      { "jp": "すむ", "kana": "すむ", "romaji": "sumu", "en": "to settle (somewhere) → すんでいる: to live (place + に)" },
+      { "jp": "すむ", "kana": "すむ", "romaji": "sumu", "en": "to live (somewhere) → for where someone lives now, Japanese uses すんでいる (place + に)" },
       { "jp": "しる", "kana": "しる", "romaji": "shiru", "en": "to get to know, to find out → しっている: to know" },
       { "jp": "つとめる", "kana": "つとめる", "romaji": "tsutomeru", "en": "to work for, to be employed at → almost always つとめている (company + に)" },
       { "jp": "ふとる", "kana": "ふとる", "romaji": "futoru", "en": "to gain weight → ふとっている: to be fat, heavy" },
@@ -62,7 +62,7 @@
       "gc": "7-1",
       "title": "〜ています (action in progress)",
       "gloss": "to be doing (right now)",
-      "explanation": "The て-form of a verb + **います** = an action that **is happening**: it has started and has not finished yet. It is the closest thing to English \"be + -ing\": たべています = \"is eating\".\n• The います here is the same いる from lesson 04-1, now working as a **helper verb** attached to the て-form. It conjugates like any る-verb: 〜ています (is doing), 〜ていません (isn't doing), 〜ていました (was doing), 〜ていませんでした (wasn't doing).\n• Tense and negation go **only on the final います**. The て-form in front never changes.\n• The sentence keeps the same blocks as in lesson 03-2: [who] は [place] で [object] を [verb-て います]. Read the PREDICATE first (\"is studying\"), then look at where and what.\n• With 毎日 and other frequency words, ています becomes a **current habit**: 毎日 およいでいます = \"I swim every day (it's my routine these days)\", close to English \"I've been swimming every day\". Plain ます (毎日 およぎます) is also correct.\n• **The English trap**: not every English \"-ing\" is ています. \"I'm going to Rio tomorrow\" is a plan, and plans in Japanese use ます: あした リオに 行きます。 And with change verbs (get married, settle, find out) ています means something else: that is point b.\n• In casual speech ている shrinks to てる (たべてる, 見てる). You will hear it a lot in Wagotabi. For now, write the full form.",
+      "explanation": "The て-form of a verb + **います** = an action that **is happening**: it has started and has not finished yet. It is the closest thing to English \"be + -ing\": たべています = \"is eating\".\n• The います here is the same いる (\"to be there\") from lesson 04-1, now working as a **helper verb** attached to the て-form: it says the verb is **still there**. Sakubi calls this an **enduring** form: in this point the action itself is still going on; in point b, what lasts is its result. As a helper, いる no longer means \"someone is there\", so it stays いる even when the subject is a thing: あめが ふっています (\"it's raining\").\n• It conjugates like any る-verb: 〜ています (is doing), 〜ていません (isn't doing), 〜ていました (was doing), 〜ていませんでした (wasn't doing).\n• Tense and negation go **only on the final います**. The て-form in front never changes.\n• The sentence keeps the same blocks as in lesson 03-2: [who] は [place] で [object] を [verb-て います]. Read the PREDICATE first (\"is studying\"), then look at where and what.\n• With 毎日 and other frequency words, ています becomes a **current habit**: 毎日 およいでいます = \"I swim every day (it's my routine these days)\", close to English \"I've been swimming every day\". Plain ます (毎日 およぎます) is also correct.\n• **The English trap**: not every English \"-ing\" is ています. \"I'm going to Rio tomorrow\" is a plan, and plans in Japanese use ます: あした リオに 行きます。 And with change verbs (get married, settle, find out) ています means something else: that is point b.\n• In casual speech the い simply drops: ている → てる (たべてる, 見てる). It's normal in speech, but not formal. You will hear it a lot in Wagotabi. For now, write the full form.",
       "structure": "[verb-て] います · negative [verb-て] いません · past [verb-て] いました",
       "examples": [
         { "jp": "アナさんは 今 としょかんで べんきょうしています。", "kana": "アナさんは いま としょかんで べんきょうしています。", "romaji": "Ana-san wa ima toshokan de benkyō shite imasu.", "en": "Ana is studying at the library right now." },
@@ -70,10 +70,10 @@
         { "jp": "ルーカスさんは 毎日 ラジオで ニュースを きいています。", "kana": "ルーカスさんは まいにち ラジオで ニュースを きいています。", "romaji": "Rūkasu-san wa mainichi rajio de nyūsu o kiite imasu.", "en": "Lucas listens to the news on the radio every day (it's his habit these days)." }
       ],
       "pitfalls": [
-        "\"I'm traveling to Rio tomorrow\" is a plan, and plans use ます: あした リオに 行きます。 ✓ × あした リオに 行っています。 English uses \"-ing\" for plans; Japanese does not. To announce what you are going to do, ています doesn't work: it talks about what is happening now, a current habit, or a state.",
-        "\"I'm coming!\" (when someone calls you) = 今 行きます！ ✓ × 今 行っています。 行っています means \"has gone and is there\" (point b), not \"is on the way\".",
-        "The て-form has to be right before います: よんでいます ✓ × よみています; およいでいます ✓ × およぎています. When in doubt, go back to the table in lesson 06-1.",
-        "Adjectives never take ています: \"it's cold\" = さむいです ✓ × さむいています. ています only comes after the て-form of a verb."
+        "Plans use ます, not ています: \"I'm going to Rio tomorrow\" = あした リオに 行っています ✗ → あした リオに 行きます ✓. English uses \"-ing\" for plans; Japanese does not. ています talks about what is happening now, a current habit, or a state.",
+        "\"I'm coming!\" (when someone calls you): 今 行っています ✗ → 今 行きます！ ✓. 行っています means \"has gone and is there\" (point b), not \"is on the way\".",
+        "ています only comes after the て-form of a verb, and the て-form must be right: よみています ✗ → よんでいます ✓; およぎています ✗ → およいでいます ✓ (when in doubt, go back to the table in lesson 06-1). Adjectives never take it: さむいています ✗ → さむいです ✓ (\"it's cold\").",
+        "\"I'm not studying right now\": 今 べんきょうしません ✗ → 今 べんきょうしていません ✓. べんきょうしません means \"I don't study\" or \"I won't study\", not what is (not) happening at this moment."
       ],
       "howToStudy": [
         "Look around and narrate aloud 5 things happening right now, with 今 〜ています: 父は テレビを 見ています、ねこは ねています…",
@@ -87,23 +87,23 @@
       "gc": "7-2",
       "title": "〜ています (resulting state)",
       "gloss": "the state left after a change",
-      "explanation": "Some verbs describe a **change that happens in an instant**: getting married, settling somewhere, finding out, gaining weight, putting on glasses. With these verbs, ています is **not** \"be -ing\": it is the **state left after the change**, which is still true now.\n• けっこんしています = \"is married\": got married and still is. Compare: けっこんしました = \"got married\" (the event) and けっこんします = \"will get married\".\n• すんでいます = \"lives\". The place takes **に**: サンパウロに すんでいます。\n• しっています = \"knows\". **Careful: the negative is しりません**, without ている. Question and answers: しっていますか。— はい、しっています。/ いいえ、しりません。\n• つとめています = \"works for (a company)\", also with に: 会社に つとめています。\n• ふとっています = \"is fat, heavy\"; やせています = \"is thin\". They are the result of gaining and losing weight, and Japanese uses this form even for someone who has always been thin.\n• めがねを かけています = \"wears glasses, has glasses on\". Clothes work the same way, but each item has its own verb: シャツを きています (tops, or whole garments such as dresses, coats and kimono), ズボンを はいています (pants and skirts, and also shoes), ぼうしを かぶっています (on the head).\n• 行っています and きています (from くる) are this type too: \"has gone and is there\", \"has come and is here\".\n• Careful: in kana, きています can come from くる (\"has come and is here\") or from きる (\"is wearing\"). If there is a piece of clothing with を before it, it's きる: シャツを きています.\n• **The English contrast in a nutshell**: if the verb lasts (eat, study, swim), ています ≈ \"be -ing\". If the verb is an instant change, ています ≈ the English simple present or \"be\" + adjective: \"lives\", \"is married\", \"knows\", \"is thin\".",
+      "explanation": "Some verbs describe a **change that happens in an instant**: getting married, settling somewhere, finding out, gaining weight, putting on glasses. With these verbs, ています is **not** \"be -ing\": it is the **state left after the change**, which is still true now (Sakubi's \"enduring state\").\n• A test verb: しぬ (to die) → しんでいます means \"is dead\", never \"is dying\". Dying is over in an instant; ている keeps its result.\n• けっこんしています = \"is married\": got married and still is. Compare: けっこんしました = \"got married\" (the event) and けっこんします = \"will get married\".\n• すんでいます = \"lives\". The place takes **に**, the particle for the point where someone is (as in 〜に います, lesson 04-1): サンパウロに すんでいます。 で would mark a place where an activity happens, and where you live is where you ended up, not an activity.\n• しっています = \"knows\". **Careful: the negative is しりません**, without ている. Question and answers: しっていますか。— はい、しっています。/ いいえ、しりません。\n• つとめています = \"works for (a company)\", also with に: 会社に つとめています。\n• ふとっています = \"is fat, heavy\"; やせています = \"is thin\". They are the result of gaining and losing weight, and Japanese uses this form even for someone who has always been thin.\n• めがねを かけています = \"wears glasses, has glasses on\". Clothes work the same way, but each item has its own verb: シャツを きています (tops, or whole garments such as dresses, coats and kimono), ズボンを はいています (pants and skirts, and also shoes), ぼうしを かぶっています (on the head).\n• 行っています and きています (from くる) are this type too: \"has gone and is there\", \"has come and is here\".\n• Careful: in kana, きています can come from くる (\"has come and is here\") or from きる (\"is wearing\"). If there is a piece of clothing with を before it, it's きる: シャツを きています.\n• **The English contrast in a nutshell**: if the verb lasts (eat, study, swim), ています ≈ \"be -ing\". If the verb is an instant change, ています ≈ the English simple present or \"be\" + adjective: \"lives\", \"is married\", \"knows\", \"is thin\".\n• Going further (Sakubi): a cousin, 〜てある, also describes a state, but one that someone left on purpose: まどが あけてあります (\"the window has been opened\", and it is still open). It comes in Genki II (lesson 21-2).",
       "structure": "[change verb-て] います = state · [place] に すんでいます · しっています ⇄ しりません",
       "examples": [
         { "jp": "すずき先生は けっこんしていますか。— いいえ、けっこんしていません。", "kana": "すずきせんせいは けっこんしていますか。— いいえ、けっこんしていません。", "romaji": "Suzuki-sensei wa kekkon shite imasu ka. — Iie, kekkon shite imasen.", "en": "Is Suzuki-sensei married? — No, she isn't." },
-        { "jp": "父は リオに すんでいます。", "kana": "ちちは リオに すんでいます。", "romaji": "Chichi wa Rio ni sunde imasu.", "en": "My father lives in Rio. [lit. as for my father, has settled in Rio]" },
+        { "jp": "父は リオに すんでいます。", "kana": "ちちは リオに すんでいます。", "romaji": "Chichi wa Rio ni sunde imasu.", "en": "My father lives in Rio. [lit. as for my father, in Rio (he) is living]" },
         { "jp": "たなかさんの いもうとさんを しっていますか。— いいえ、しりません。", "kana": "たなかさんの いもうとさんを しっていますか。— いいえ、しりません。", "romaji": "Tanaka-san no imōto-san o shitte imasu ka. — Iie, shirimasen.", "en": "Do you know Tanaka's younger sister? — No, I don't." }
       ],
       "pitfalls": [
-        "\"I don't know\" = しりません ✓ × しっていません. The affirmative needs ている (しっています ✓), but the negative doesn't.",
-        "\"I'm married\" = けっこんしています ✓ × けっこんします, which means \"I'm going to get married\". The event \"I got married\" is けっこんしました.",
-        "\"Live in\" takes に, not で, even though English says \"in\": サンパウロに すんでいます ✓ × サンパウロで すんでいます.",
-        "\"He's fat\" = ふとっています ✓ × ふといです. ふとい means \"thick\": it works for lines, tree trunks and body parts (あしが ふとい = thick legs), but not for saying that a person is fat."
+        "\"I don't know\": しっていません ✗ → しりません ✓. The affirmative needs ている (しっています ✓), but the negative doesn't.",
+        "\"I'm married\": けっこんします ✗ → けっこんしています ✓. けっこんします means \"I'm going to get married\"; the event \"I got married\" is けっこんしました.",
+        "\"Live in\" takes に, not で, even though English says \"in\": サンパウロで すんでいます ✗ → サンパウロに すんでいます ✓.",
+        "\"He's fat\": ふといです ✗ → ふとっています ✓. ふとい means \"thick\": it works for lines, tree trunks and body parts (あしが ふとい = thick legs), but not for saying that a person is fat."
       ],
       "howToStudy": [
         "Say aloud 4 true facts about yourself with the ている of states: where you live (〜に すんでいます), whether you're married, whether you wear glasses, and a famous person you know of (〜を しっています).",
         "Drill the pair that trips everyone up: ask 6 questions with 〜を しっていますか and answer half with はい、しっています and half with いいえ、しりません, without thinking.",
-        "Tap 🔬 on the father example: the PREDICATE is すんでいます, a state, not an action. Notice that リオに shows up as WHERE IT IS, not as the PLACE (ACTION) that で marks in lesson 03-2."
+        "Tap 🔬 on the father example: the PREDICATE is すんでいます, a state, not an action. Notice that リオに shows up as LOCATION (where someone is), not as the PLACE that で marks in lesson 03-2."
       ],
       "flag": null
     }
@@ -172,8 +172,8 @@
     ]
   },
   "practice": [
-    { "tool": "Wagotabi", "what": "Play normally and hunt for 〜ています (or the casual 〜てる) in the dialogues. For each one, decide: action in progress or state? Copy 2 of those lines into your notebook with your answer next to them.", "min": 15 },
-    { "tool": "ヅオリンゴー", "what": "Lesson 7 vocabulary in the SRS. Then Drills → Conjugation for 5 minutes, also saying aloud the て-form + います of every verb that comes up.", "min": 10 },
+    { "tool": "Wagotabi", "what": "Play normally and hunt for 〜ています (or the casual 〜てる) in the dialogues. For each one, decide: action in progress or state? Copy 2 of those lines into your notebook with your answer next to them. If one has a word you don't know, look it up in a dictionary and save that line in ヅオリンゴー → Mining.", "min": 15 },
+    { "tool": "ヅオリンゴー", "what": "Lesson 7 vocabulary in the SRS. Learn this lesson's kanji through its words (父, 母, 会社, 毎日) rather than one by one. Do all of today's reviews first; if they pile up, add fewer new words instead of skipping reviews. Then Drills → Conjugation for 5 minutes, also saying aloud the て-form + います of every verb that comes up.", "min": 10 },
     { "tool": "ヅオリンゴー", "what": "Practice L7. Then Drills → 🔬 Anatomy → 🧱 Build from the end with 3 sentences from this lesson, starting from the 〜ています.", "min": 10 },
     { "tool": "Shadowing", "what": "Tap 🔊 on the 6 examples in this lesson and repeat along 3 times. Notice that at the end of ています the u of す almost disappears.", "min": 5 },
     { "tool": "Speaking", "what": "Record 30 seconds saying what the people in your home are doing right now (今 〜ています) and where each of them lives.", "min": 5 }
@@ -193,5 +193,9 @@
     "I use はは / ちち for my own family and おかあさん / おとうさん for other people's.",
     "I did the homework, checked it against the answer key and redid what I got wrong.",
     "I did Workbook pages 69–71."
+  ],
+  "credits": [
+    "Explanations adapted in part from Sakubi (public domain, CC0) — sakubi.neocities.org",
+    "Study method informed by the DJT Guide to Japanese — djtguide.neocities.org/guide"
   ]
 }

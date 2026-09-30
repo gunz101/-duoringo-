@@ -23,10 +23,10 @@
     ]
   },
   "prereqs": {
-    "aulas": ["05-1", "05-2", "07-2"],
+    "aulas": ["05-1", "05-2", "07-2", "08-3"],
     "skills": [
       "Conjugating い- and な-adjectives in the present and the past: はやいです, さむかったです, きれいでした (lessons 05-1 and 05-2).",
-      "Using 〜が すき and 〜が じょうず (lesson 05-2): the が you saw there is the same が you will use in comparisons.",
+      "Using 〜が すき (lesson 05-2) and 〜が じょうず (lessons 07-2 and 08-3): the が you saw there is the same が you will use in comparisons.",
       "Understanding N は X が adjective, as in せが 高い (lesson 07-2).",
       "The kanji in this lesson come from Genki Lessons 3–10, and the kana reading is always shown next to them."
     ],
@@ -62,7 +62,7 @@
       "gc": "10-1",
       "title": "A の ほうが B より 〜",
       "gloss": "A is more … than B",
-      "explanation": "In Japanese the adjective **does not change** to compare. There is no \"-er\" or \"more\" inside it: 大きい means both \"big\" and \"bigger\". The comparison is made by **two blocks with particles**:\n• **A の ほうが**: ほう means \"side\", so this is \"A's side\". It is the **winner**, the subject of the comparison, and it takes が.\n• **B より**: \"than B\". より marks the **standard**, the thing you compare against (the one that \"loses\").\n• The **predicate** (adjective + です) comes at the end, as always. Read from it: first the quality, then who wins and who loses.\nThe two blocks can swap places: **A の ほうが B より 〜** = **B より A の ほうが 〜**. The particle decides the meaning, not the position: the block with より loses, the block with の ほうが wins.\n• If B is already clear from the conversation, it disappears: サンパウロの ほうが 大きいです。 (\"São Paulo is bigger.\")\n• You will also see **A は B より 〜**: サンパウロは リオより 大きいです。 Here A is the topic, and the sentence states something about it. This is correct and common. To answer a \"which of the two?\" question (next point), use の ほうが.",
+      "explanation": "In Japanese the adjective **does not change** to compare. There is no \"-er\" or \"more\" inside it: 大きい means both \"big\" and \"bigger\". The comparison is made by **two blocks with particles**, which between them do the whole job of English \"more … than\":\n• **A の ほうが**: ほう means \"side\", so this is \"A's side\". It is the **winner**, the subject of the comparison, and it takes が.\n• **B より**: \"than B\". より marks the **standard**, the thing you compare against (the one that \"loses\").\n• The **predicate** (adjective + です) comes at the end, as always. Read from it: first the quality, then who wins and who loses.\nThe two blocks can swap places: **A の ほうが B より 〜** = **B より A の ほうが 〜**. The particle decides the meaning, not the position: the block with より loses, the block with の ほうが wins.\n• If B is already clear from the conversation, it disappears: サンパウロの ほうが 大きいです。 (\"São Paulo is bigger.\")\n• You will also see **A は B より 〜**: サンパウロは リオより 大きいです。 Here A is the topic, and the sentence states something about it. This is correct and common. To answer a \"which of the two?\" question (next point), use の ほうが.\n• **Going further (Sakubi):** a question word + よりも means \"than any…\": クラスの だれよりも せが 高いです (\"taller than anyone in the class\"). And B **ほど** + a negative means \"not as … as B\": バスは しんかんせんほど はやくないです (\"The bus isn't as fast as the Shinkansen\"). Just recognize these for now.",
       "structure": "[A] の ほうが [B] より [adjective] です。 = [B] より [A] の ほうが [adjective] です。",
       "examples": [
         { "jp": "サンパウロの ほうが リオより 大きいです。", "kana": "サンパウロの ほうが リオより おおきいです。", "romaji": "Sanpauro no hō ga Rio yori ōkii desu.", "en": "São Paulo is bigger than Rio. [lit. São Paulo's side, compared to Rio, is big]" },
@@ -70,7 +70,7 @@
         { "jp": "マリアさんは コーヒーより こうちゃの ほうが すきです。", "kana": "マリアさんは コーヒーより こうちゃの ほうが すきです。", "romaji": "Maria-san wa kōhī yori kōcha no hō ga suki desu.", "en": "Maria likes black tea better than coffee." }
       ],
       "pitfalls": [
-        "The LOSER takes より; the WINNER takes の ほうが. Swapping the particles flips the meaning: バスの ほうが ちかてつより はやいです says the BUS is the faster one.",
+        "The LOSER takes より; the WINNER takes の ほうが. Swapping the particles flips the meaning: バスの ほうが ちかてつより はやいです says the BUS is the faster one. And より comes after B, like every particle: より リオ ✗ → リオより ✓.",
         "After a noun, ほう needs の: しんかんせん ほうが ✗ → しんかんせんの ほうが ✓. And don't confuse it with 〜ほうが いいです (\"you had better…\"), a different point that comes in Genki Lesson 12.",
         "The adjective is what goes into the past, as always: きのうの ほうが さむいでした ✗ → きのうの ほうが さむかったです ✓.",
         "Don't look for a word for \"more\" or \"-er\": リオより たくさん 大きい ✗ → リオより 大きい ✓. たくさん means \"a lot\", and the \"more\" is already in より and の ほうが."
@@ -87,7 +87,7 @@
       "gc": null,
       "title": "A と B と どちらが 〜ですか",
       "gloss": "which of the two is more…?",
-      "explanation": "To ask \"which of the two?\", list the two options with と and ask with **どちら** (\"which one, of two\"):\n[A] と [B] と どちらが [adjective] ですか。\n• In speech the second と often drops, and a pause takes its place: ラーメンと すし、どっちが いい？\n• **どっち** is the casual version of どちら. どちらの ほうが is also common.\n• The answer uses the previous point: [A] の ほうが [adjective] です。 No need to repeat B.\n• If it's a tie: **どちらも** + affirmative: どちらも はやいです (\"both are fast\").\n**Why が and not は?**\n• は introduces the **topic**: something already known, about which you are going to say something new. The new part comes after は.\n• A question word (どちら, なに, だれ, どこ, いつ) is exactly what **nobody knows yet**, so it cannot be the topic. It takes **が**, which marks the subject as **new information**: どちらが はやいですか。\n• In the answer, the word that fills the slot of どちら is the new information, so it takes が too: ひこうきの ほうが はやいです。\n• Rule of thumb: **question with が → answer with が, in the same slot.**\n• A topic can appear as well, no problem: ルーカスさんは (who we are talking about) … どちらが (what is being asked) …",
+      "explanation": "To ask \"which of the two?\", list the two options with と and ask with **どちら** (\"which one, of two\"):\n[A] と [B] と どちらが [adjective] ですか。\n• In speech the second と often drops, and a pause takes its place: ラーメンと すし、どっちが いい？\n• **どっち** is the casual version of どちら. どちらの ほうが is also common.\n• The answer uses the previous point: [A] の ほうが [adjective] です。 No need to repeat B.\n• If it's a tie: **どちらも** + affirmative: どちらも はやいです (\"both are fast\").\n**Why が and not は?**\n• は introduces the **topic**: something already known, about which you are going to say something new. The new part comes after は.\n• A question word (どちら, なに, だれ, どこ, いつ) is exactly what **nobody knows yet**, so it cannot be the topic. It takes **が**, which marks the subject as **new information**: どちらが はやいですか。\n• In the answer, the word that fills the slot of どちら is the new information, so it takes が too: ひこうきの ほうが はやいです。\n• が marks the subject and also puts the **focus** on it, a bit like English \"X is the one that…\": ひこうきの ほうが はやいです ≈ \"the plane is the one that's faster\".\n• Rule of thumb: **question with が → answer with が, in the same slot.**\n• A topic can appear as well, no problem: ルーカスさんは (who we are talking about) … どちらが (what is being asked) …",
       "structure": "[A] と [B] と どちらが [adjective] ですか。— [A] の ほうが [adjective] です。",
       "examples": [
         { "jp": "しんかんせんと ひこうきと どちらが はやいですか。— ひこうきの ほうが はやいです。", "kana": "しんかんせんと ひこうきと どちらが はやいですか。— ひこうきの ほうが はやいです。", "romaji": "Shinkansen to hikōki to dochira ga hayai desu ka. — Hikōki no hō ga hayai desu.", "en": "Which is faster, the bullet train or the plane? — The plane is faster." },
@@ -112,7 +112,7 @@
       "gc": "10-2",
       "title": "〜の なかで 〜が いちばん 〜",
       "gloss": "among…, X is the most…",
-      "explanation": "With **three or more** options, use **いちばん** (\"number one\", \"the most\"):\n[group] の なかで [X] が いちばん [adjective] です。\n• **[group] の なかで** = \"among the…\", \"within the group\". It is the SETTING of the comparison. When the group is a place, で alone is enough: ブラジルで いちばん 大きい 町は サンパウロです。 (\"The biggest city in Brazil is São Paulo.\" Here いちばん 大きい describes 町.)\n• **X が** = the winner.\n• **いちばん** goes right before the adjective, with no particle.\nTo ask, replace X with the question word that fits the group, always with が:\n• things (foods, sports, drinks) → **なにが**\n• people → **だれが**\n• places (cities, countries, beaches) → **どこが**\n• time (seasons, months, days) → **いつが**\nTo choose among things right in front of you (in a shop window, on a menu), **どれが** is also used: この なかで どれが いちばん いいですか。\n**And why が on the winner?** Because the sentence answers \"which one, of all of them?\". The winner is the new information, the choice made within the group, just like the answer to どちらが. Think of が as a pointing finger: \"THIS one, not the others\".",
+      "explanation": "With **three or more** options, use **いちばん** (\"number one\", \"the most\"):\n[group] の なかで [X] が いちばん [adjective] です。\n• **[group] の なかで** = \"among the…\", \"within the group\". It is the SETTING of the comparison. Literally it is \"in the inside of [group]\": the の is the ordinary linking の of lesson 01-1, so 🔬 shows 友だちの as DESCRIBES NEXT, attached to なかで. When the group is a place, で alone is enough: ブラジルで いちばん 大きい 町は サンパウロです。 (\"The biggest city in Brazil is São Paulo.\" Here いちばん 大きい describes 町.)\n• **X が** = the winner.\n• **いちばん** is an adverb, like とても: it goes right before the adjective, with no particle.\nTo ask, replace X with the question word that fits the group, always with が:\n• things (foods, sports, drinks) → **なにが**\n• people → **だれが**\n• places (cities, countries, beaches) → **どこが**\n• time (seasons, months, days) → **いつが**\nTo choose among things right in front of you (in a shop window, on a menu), **どれが** is also used: この なかで どれが いちばん いいですか。\n**And why が on the winner?** Because the sentence answers \"which one, of all of them?\". The winner is the new information, the choice made within the group, just like the answer to どちらが. Think of が as a pointing finger: \"THIS one, not the others\".",
       "structure": "[group] の なかで [X] が いちばん [adjective] です。 · [group] の なかで なにが / だれが / どこが / いつが いちばん [adjective] ですか。",
       "examples": [
         { "jp": "ブラジルりょうりの なかで シュラスコが いちばん すきです。", "kana": "ブラジルりょうりの なかで シュラスコが いちばん すきです。", "romaji": "Burajiru ryōri no naka de shurasuko ga ichiban suki desu.", "en": "Of all Brazilian dishes, I like churrasco (Brazilian barbecue) the best. [lit. among Brazilian food, churrasco is the most liked]" },
@@ -122,7 +122,7 @@
       "pitfalls": [
         "With three or more, don't use どちら: スポーツの なかで どちらが いちばん すきですか ✗ → なにが いちばん すきですか ✓.",
         "Choose the question word by the kind of group. English says \"which city\" or \"which season\", but Japanese asks \"where\" or \"when\": for cities, なにが ✗ → どこが ✓; for people, だれが ✓.",
-        "いちばん goes straight before the adjective, with no の: いちばんの 高い ✗ → いちばん 高い ✓.",
+        "いちばん goes straight before the adjective, with no の: いちばんの 高い ✗ → いちばん 高い ✓. (Before a noun, いちばんの is fine: いちばんの 友だち = \"my best friend\".)",
         "The group takes の なかで, with で: くだものの なかに ✗ (that would be \"inside the fruit\", as a physical place) → くだものの なかで ✓."
       ],
       "howToStudy": [
@@ -150,8 +150,8 @@
           { "q": "My older sister is taller than me.", "a": { "jp": "あねの ほうが わたしより せが 高いです。", "kana": "あねの ほうが わたしより せが たかいです。", "romaji": "Ane no hō ga watashi yori se ga takai desu." }, "note": "せが 高い = to be tall (lesson 07-2). \"Than me\" = わたしより." },
           { "q": "Which is more expensive, a taxi or the bus? — The taxi.", "a": { "jp": "タクシーと バスと どちらが 高いですか。— タクシーの ほうが 高いです。", "kana": "タクシーと バスと どちらが たかいですか。— タクシーの ほうが たかいです。", "romaji": "Takushī to basu to dochira ga takai desu ka. — Takushī no hō ga takai desu." }, "note": "The short answer タクシーの ほうです。 is also correct." },
           { "q": "Of the seasons in Japan, which one is the most beautiful?", "a": { "jp": "日本の きせつの なかで いつが いちばん きれいですか。", "kana": "にほんの きせつの なかで いつが いちばん きれいですか。", "romaji": "Nihon no kisetsu no naka de itsu ga ichiban kirei desu ka." }, "note": "A season is a time, so いつが (\"when\"), even though English says \"which one\". どちら doesn't work: there are four." },
-          { "q": "In my family, my mother is the best cook.", "a": { "jp": "かぞくの なかで 母が いちばん りょうりが じょうずです。", "kana": "かぞくの なかで ははが いちばん りょうりが じょうずです。", "romaji": "Kazoku no naka de haha ga ichiban ryōri ga jōzu desu." }, "note": "The winner (母) takes が. りょうりが じょうず = \"good at cooking\" (lesson 05-2)." },
-          { "q": "Who is the tallest in the class? — Pedro.", "a": { "jp": "クラスの なかで だれが いちばん せが 高いですか。— ペドロさんです。", "kana": "クラスの なかで だれが いちばん せが たかいですか。— ペドロさんです。", "romaji": "Kurasu no naka de dare ga ichiban se ga takai desu ka. — Pedoro-san desu." }, "note": "The full answer ペドロさんが いちばん 高いです。 also works: notice that the が stays." }
+          { "q": "In my family, my mother is the best cook.", "a": { "jp": "かぞくの なかで 母が いちばん りょうりが じょうずです。", "kana": "かぞくの なかで ははが いちばん りょうりが じょうずです。", "romaji": "Kazoku no naka de haha ga ichiban ryōri ga jōzu desu." }, "note": "The winner (母) takes が. りょうりが じょうず = \"good at cooking\" (lesson 08-3). 母が りょうりが いちばん じょうずです。 is also correct: いちばん can also go right before じょうず." },
+          { "q": "Who is the tallest in the class? — Pedro.", "a": { "jp": "クラスの なかで だれが いちばん せが 高いですか。— ペドロさんです。", "kana": "クラスの なかで だれが いちばん せが たかいですか。— ペドロさんです。", "romaji": "Kurasu no naka de dare ga ichiban se ga takai desu ka. — Pedoro-san desu." }, "note": "The full answer ペドロさんが いちばん せが 高いです。 also works: notice that the が stays." }
         ]
       },
       {
@@ -195,9 +195,9 @@
     ]
   },
   "practice": [
-    { "tool": "Wagotabi", "what": "Play normally and hunt the dialogues for より, ほう and いちばん. When you find one, pause and say out loud what is being compared and who \"wins\". Log the session in Immersion → Games and paste the line into 🔬 Anatomy to see the COMPARED TO block.", "min": 15 },
-    { "tool": "ヅオリンゴー", "what": "Lesson 10 vocabulary in the SRS (or the 🌊 All deck). Then Drills → 🔬 Anatomy → 🏷 Tag: 5 sentences, naming the job of the block with より and of the block with が.", "min": 10 },
-    { "tool": "ヅオリンゴー", "what": "Practice L10: do one round and write down in your notebook the comparison sentences where you hesitated.", "min": 10 },
+    { "tool": "Wagotabi", "what": "Play normally and hunt the dialogues for より, ほう and いちばん. When you find one, pause and say out loud what is being compared and who \"wins\". Log the session in Immersion → Games, paste the line into 🔬 Anatomy to see the COMPARED TO block, then save it with ⛏ Mining (mark one new word and fill it in with the 📖 Dictionary button), so the sentence comes back in your SRS reviews.", "min": 15 },
+    { "tool": "ヅオリンゴー", "what": "Lesson 10 vocabulary in the SRS (or the 🌊 All deck); if a word from block 3 is missing from your deck, add it with ⛏ Mining. Then Drills → 🔬 Anatomy → 🏷 Tag: 5 sentences, naming the job of the block with より and of the block with が.", "min": 10 },
+    { "tool": "Reading", "what": "Start reading real Japanese early: open a level 0 or 1 story from the Tadoku free graded readers (Resources tab → Reading) and read it once, start to finish, for fun and without looking anything up. Understanding half is fine. Keep the story: you will reread it in lesson 10-2.", "min": 10 },
     { "tool": "Shadowing", "what": "Tap 🔊 on the どちらが examples and repeat along 3 times, letting your voice rise on the か of the question and fall in the answer.", "min": 5 },
     { "tool": "Speaking", "what": "Record a 1-minute \"ranking\": your favorite food, city and season with いちばん, plus two comparisons with の ほうが. Listen and check that が showed up in the right places.", "min": 5 }
   ],
@@ -216,5 +216,9 @@
     "I can explain in my own words why question words and the winner of いちばん take が.",
     "I did the homework, checked it against the answer key and redid what I got wrong.",
     "I did Workbook pages 96–97."
+  ],
+  "credits": [
+    "Explanations adapted in part from Sakubi (public domain, CC0) — sakubi.neocities.org",
+    "Study method informed by the DJT Guide to Japanese — djtguide.neocities.org/guide"
   ]
 }

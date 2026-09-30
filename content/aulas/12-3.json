@@ -17,7 +17,7 @@
       { "t": "Session 1 · Warm-up: say the ない-form of 起きる, 働く, 使う, 飲む, 帰る, 待つ, する and 来る out loud", "min": 5 },
       { "t": "Vocabulary: tap 🔊 on each word and repeat it twice", "min": 10 },
       { "t": "Grammar 4a (〜なければいけません) and 4b (〜でしょう): the examples aloud + one 🔬 for each", "min": 25 },
-      { "t": "Lesson 12 video (block 6), pausing on the examples", "min": 10 },
+      { "t": "Block 6: the Lesson 12 video or the Sakubi sections, as a second explanation (read to understand, not to memorize)", "min": 10 },
       { "t": "Notebook homework + checking it against the answer key", "min": 15 },
       { "t": "Session 2 (it can be on another day): Workbook pp. 117–118 (the lesson's review and listening) and the Lesson 12 kanji on pp. 151–152", "min": 20 },
       { "t": "Checklist (block 10) + write your questions in the lesson notebook", "min": 5 }
@@ -65,7 +65,7 @@
       "gc": "12-5",
       "title": "〜なければいけません / 〜なきゃ",
       "gloss": "have to…, must…",
-      "explanation": "To say you **have to** do something, Japanese uses a double negative: \"**if** I **don't** do it, **it's no good**\". なければ = \"if (I) don't…\"; いけません = \"it won't do, it's not OK\", the same いけません as in 〜ては いけません (lesson 06-3). Put together: have to. English says \"must\" directly; Japanese gets there through two negatives.\n• Formation: take the **ない-form** and change the final い to **ければ**. 行かない → 行かなければ; 食べない → 食べなければ; しない → しなければ; 来ない → 来なければ (こなければ). Then add いけません or なりません.\n• Verbs ending in う make their ない-form with わ: 使う → 使わない → 使わなければいけません.\n• **いけません × なりません**: the meaning is practically the same. なりません sounds a little more formal and shows up more in **rules** and written texts; in conversation, いけません is more common.\n• **Past** (\"I had to\"): only the end changes. 行かなければいけませんでした.\n• **Casual**: 〜なければいけない / 〜なければならない. In everyday speech you get the contractions **〜なきゃ** (from なければ) and **〜なくちゃ** (from 〜なくては, another form with the same meaning): 行かなきゃ いけない, 行かなくちゃ. Often the rest drops off and the sentence ends right there: 行かなきゃ。 (\"I've got to go!\"). Use them with friends, not with your teacher.\n• In the sentence, 起きなければいけません is **a single block**, and it is the predicate. ヅオリンゴー's Anatomy reads that block as a **PREDICATE (obligation)**. Find it at the end and read it first: I have to → what? → get up → when? → at six.",
+      "explanation": "To say you **have to** do something, Japanese uses a double negative: \"**if** I **don't** do it, **it's no good**\". なければ = \"if (I) don't…\"; いけません = \"it won't do, it's not OK\", the same いけません as in 〜ては いけません (lesson 06-3). Put together: have to. English says \"must\" directly; Japanese gets there through two negatives.\n• Formation: take the **ない-form** and change the final い to **ければ**. 行かない → 行かなければ; 食べない → 食べなければ; しない → しなければ; 来ない → 来なければ (こなければ). Then add いけません or なりません. This ければ is the **\"if\" form** (the ば-form): ない conjugates like an い-adjective, and い-words make \"if\" with ければ. You will study that form on its own in lesson 22-2.\n• Verbs ending in う make their ない-form with わ: 使う → 使わない → 使わなければいけません.\n• **いけません × なりません**: the meaning is practically the same. なりません sounds a little more formal and shows up more in **rules** and written texts; in conversation, いけません is more common.\n• **Past** (\"I had to\"): only the end changes. 行かなければいけませんでした.\n• **Casual**: 〜なければいけない / 〜なければならない. In everyday speech you get the contractions **〜なきゃ** (なければ → なけりゃ → なきゃ) and **〜なくちゃ** (from 〜なくては, another form with the same meaning): 行かなきゃ いけない, 行かなくちゃ. Often the rest drops off and the sentence ends right there: 行かなきゃ。 (\"I've got to go!\"). Among friends, the \"no good\" part can also be だめ: 行かなきゃ だめだよ。 Use all of these with friends, not with your teacher.\n• In the sentence, 起きなければいけません is **a single block**, and it is the predicate. ヅオリンゴー's Anatomy reads that block as a **PREDICATE (obligation)**. Find it at the end and read it first: I have to → what? → get up → when? → at six.\n• **Going further (Sakubi):** there are several more versions of the same double negative — 〜なくては いけない (the full form behind なくちゃ), and, in formal writing, 〜ねば ならない. They differ a little in flavor and strength, but even for native speakers the difference is subtle: recognize them all as \"must\", and use なければいけません yourself.",
       "structure": "[ない-form without the い] + ければ いけません / なりません · casual: 〜なきゃ / 〜なくちゃ",
       "examples": [
         { "jp": "毎朝 六時に 起きなければいけません。", "kana": "まいあさ ろくじに おきなければいけません。", "romaji": "Maiasa rokuji ni okinakereba ikemasen.", "en": "I have to get up at six every morning. [lit. every morning, if I don't get up at six, it won't do]" },
@@ -74,8 +74,8 @@
       ],
       "pitfalls": [
         "Don't confuse it with the prohibition from lesson 06-3: 行っては いけません = \"you must not go\"; 行かなければいけません = \"you have to go\".",
-        "The base is the ない-form, not the ます stem: 行きなければ ✗ → 行かなければ ✓.",
-        "Verbs ending in う use わ: 使あなければ ✗ → 使わなければ ✓.",
+        "The base is the ない-form, not the ます stem — and verbs ending in う use わ: 行きなければ ✗ → 行かなければ ✓; 使あなければ ✗ → 使わなければ ✓.",
+        "なきゃ and なくちゃ are spoken, casual forms. In a message to your teacher or boss: 休まなきゃ いけません ✗ → 休まなければいけません ✓.",
         "As in English, \"don't have to\" is not \"must not\", and it is not the negative of this form either. \"You don't have to do it\" is 〜なくても いいです, which you will see in lesson 17-2."
       ],
       "howToStudy": [
@@ -90,7 +90,7 @@
       "gc": "12-6",
       "title": "〜でしょう",
       "gloss": "probably…; …, right? (checking)",
-      "explanation": "でしょう expresses **probability**: \"probably\", \"I guess\". It is the polite form of だろう. It often comes with **たぶん** before it, adding to the doubt: たぶん 雨でしょう。\n• Formation: **short form + でしょう**. 来る → 来るでしょう; 来ない → 来ないでしょう; さむい → さむいでしょう; 帰った → 帰ったでしょう.\n• With **nouns and な-adjectives** in the present affirmative, だ **disappears**, and な does not come in either: 雨でしょう, しずかでしょう. Notice the difference: 〜んです and 〜ので swap だ for な; でしょう just drops だ.\n• It is the typical language of the **weather forecast**. In conversation, to give your own opinion, 〜と 思います (lesson 08-2) is usually more common; でしょう on its own sounds a bit formal.\n• **〜でしょうか** is a **more polite, softer** question than 〜ですか. Use it to ask carefully, to a stranger or someone above you, or to ask for someone's opinion.\n• **でしょう↗**, with the voice rising at the end, asks for **confirmation**: \"…, right?\", when you think the other person knows or agrees. おいしいでしょう↗ = \"it's good, right?\". It can sound like a reproach: きのう 言ったでしょう↗ = \"I told you yesterday, didn't I?\". In casual speech it becomes でしょ↗ or だろう↗.\n• In the sentence, でしょう sits at the **end of the predicate** and changes the tone of the whole sentence: the statement becomes a guess.",
+      "explanation": "でしょう expresses **probability**: \"probably\", \"I guess\". It is the polite form of だろう. It often comes with **たぶん** before it, adding to the doubt: たぶん 雨でしょう。\n• **Where it comes from:** でしょう is です with the same ending as the volitional 行こう (\"let's go\", lesson 15-1). With a verb, that ending shows intention; with です, it **offers an idea** instead of stating it: not \"it is\", but \"it would be…\" → \"probably\". That is also why でしょう can invite the listener to agree (see ↗ below).\n• Formation: **short form + でしょう**. 来る → 来るでしょう; 来ない → 来ないでしょう; さむい → さむいでしょう; 帰った → 帰ったでしょう.\n• With **nouns and な-adjectives** in the present affirmative, だ **disappears**, and な does not come in either: 雨でしょう, しずかでしょう. Notice the difference: 〜んです and 〜ので swap だ for な; でしょう just drops だ.\n• It is the typical language of the **weather forecast**. In conversation, to give your own opinion, 〜と 思います (lesson 08-2) is usually more common; でしょう on its own sounds a bit formal.\n• **〜でしょうか** is a **more polite, softer** question than 〜ですか. Use it to ask carefully, to a stranger or someone above you, or to ask for someone's opinion.\n• **でしょう↗**, with the voice rising at the end, asks for **confirmation**: \"…, right?\", when you think the other person knows or agrees. おいしいでしょう↗ = \"it's good, right?\". It can sound like a reproach: きのう 言ったでしょう↗ = \"I told you yesterday, didn't I?\". In casual speech it becomes でしょ↗ or だろう↗.\n• In the sentence, でしょう sits at the **end of the predicate** and changes the tone of the whole sentence: the statement becomes a guess.",
       "structure": "[short form] でしょう · [N / な-adj] でしょう (no だ) · 〜でしょうか (polite question)",
       "examples": [
         { "jp": "あしたの リオは 雨でしょう。", "kana": "あしたの リオは あめでしょう。", "romaji": "Ashita no Rio wa ame deshō.", "en": "Tomorrow it will probably rain in Rio. [lit. as for tomorrow's Rio, it is probably rain]" },
@@ -176,11 +176,11 @@
     ]
   },
   "practice": [
-    { "tool": "Wagotabi", "what": "Play normally and hunt the dialogues for obligations and guesses: 〜なければ, 〜なきゃ, 〜なくちゃ, 〜でしょう, 〜だろう. When you find one, pause and say out loud whether it means \"have to\" or \"probably\". Log the session in Immersion → Games and paste one of those lines into 🔬 Anatomy.", "min": 15 },
+    { "tool": "Wagotabi", "what": "Play normally and hunt the dialogues for obligations and guesses: 〜なければ, 〜なきゃ, 〜なくちゃ, 〜でしょう, 〜だろう. When you find one, pause and say out loud whether it means \"have to\" or \"probably\". Log the session in Immersion → Games and paste one of those lines into 🔬 Anatomy. Save the clearest one in Mining, with every word looked up.", "min": 15 },
     { "tool": "ヅオリンゴー", "what": "Lesson 12 vocabulary in the SRS (the 🌊 All deck gathers the day's reviews) and Practice L12, now with the whole lesson. Then Drills → 🔬 Anatomy → 🧱 Build from the end: 5 sentences, starting from the obligation block or from でしょう.", "min": 15 },
-    { "tool": "ヅオリンゴー · Kanji", "what": "Kanji → ✍️ Write: the Lesson 12 kanji (昔, 神, 早, 起, 牛, 使, 働, 連, 別, 度, 赤, 青, 色), before Workbook pages 151–152.", "min": 10 },
-    { "tool": "Shadowing", "what": "Tap 🔊 on each example in this lesson and repeat along 3 times. Compare the でしょう examples: in 雨でしょう the voice falls at the end (it is just a guess); in いいでしょうか it rises slightly on か (it is a question). Then say おいしいでしょう↗ with a rising voice, to feel the \"…, right?\".", "min": 5 },
-    { "tool": "Speaking", "what": "Record the 連絡 message (homework h4) as if it were a voice message to your boss, in 30 seconds or less.", "min": 5 }
+    { "tool": "ヅオリンゴー · Kanji", "what": "Kanji through vocabulary: in Kanji → ✍️ Write, practice the Lesson 12 kanji (昔, 神, 早, 起, 牛, 使, 働, 連, 別, 度, 赤, 青, 色) before Workbook pages 151–152, each inside a word: 昔 (むかし), 神社 (じんじゃ), 早い (はやい), 起きる (おきる), 牛にく (ぎゅうにく), 使う (つかう), 働く (はたらく), 連絡 (れんらく), 〜度 (〜ど), 赤い (あかい), 青い (あおい), 色 (いろ). If kanji keep slipping away, try a short story or picture for each one's parts.", "min": 10 },
+    { "tool": "Reading", "what": "You now have all of Genki I's grammar. You won't remember every point yet — that is normal: reading is what makes grammar stick. In the Resources tab, open Tadoku's free graded readers and read two level-1 or level-2 stories, one per session, for fun. Hunt for 〜なければ and でしょう, and save 1 sentence you like in Mining (look words up with Jisho.org, or with the Yomitan pop-up dictionary on a computer).", "min": 15 },
+    { "tool": "Shadowing + speaking", "what": "Tap 🔊 on each example in this lesson and repeat along 3 times. Compare the でしょう examples: in 雨でしょう the voice falls at the end (it is just a guess); in いいでしょうか it rises slightly on か (it is a question); say おいしいでしょう↗ with a rising voice, to feel the \"…, right?\". Then record the 連絡 message (homework h4) as if it were a voice message to your boss, in 30 seconds or less.", "min": 10 }
   ],
   "culture": {
     "title": "ほうれんそう at work",
@@ -191,11 +191,15 @@
   "checklist": [
     "I turn any verb into 〜なければいけません (including 使う → 使わなければ, する and 来る), without looking.",
     "I say \"I had to\" with 〜なければいけませんでした.",
-    "I recognize 〜なきゃ and 〜なくちゃ in casual speech and know not to use them with my teacher.",
+    "I recognize 〜なきゃ and 〜なくちゃ (and 〜なきゃ だめ) in casual speech and know not to use them with my teacher.",
     "I don't confuse 〜なければいけません (have to) with 〜ては いけません (must not).",
     "I make guesses with (たぶん) 〜でしょう, dropping だ after nouns and な-adjectives (雨でしょう, しずかでしょう).",
     "I ask polite questions with 〜でしょうか and use でしょう↗ to check that the listener agrees.",
     "I did the homework, checked it against the answer key and redid what I got wrong.",
     "I did Workbook pages 115–118 and the kanji pages, 151–152."
+  ],
+  "credits": [
+    "Explanations adapted in part from Sakubi (public domain, CC0) — sakubi.neocities.org",
+    "Study method informed by the DJT Guide to Japanese — djtguide.neocities.org/guide"
   ]
 }

@@ -1,0 +1,240 @@
+{
+  "id": "V-01",
+  "unit": "V",
+  "genki": null,
+  "title": "Airport and immigration",
+  "titleJp": "空港と入国",
+  "canDo": [
+    "I can answer the immigration officer's questions about why I am visiting and whether it is my first time in Japan.",
+    "I can say how long I am staying (十日間, 二週間) and where my hotel is.",
+    "I can understand 申告するものはありますか at customs, answer it, and follow a simple instruction like スーツケースを開けてください.",
+    "I can ask where the station, the bus for a place (〜行きのバス) or the currency exchange is, and understand a short answer."
+  ],
+  "duration": {
+    "total": "60–75 min",
+    "blocks": [
+      { "t": "Warm-up: read this lesson's vocabulary (block 3) aloud, and say the kana of each sign word (出口, 駅, 乗り場, 両替)", "min": 5 },
+      { "t": "Vocabulary: tap 🔊 on each word and repeat it twice; save the sign words with Mining (⛏) so they enter your SRS", "min": 10 },
+      { "t": "Situations: the 4 dialogues, each read aloud in both roles, with one 🔬 per situation", "min": 20 },
+      { "t": "Block 6: the video, pausing after each question to answer it yourself", "min": 10 },
+      { "t": "Notebook homework + checking it against the answer key", "min": 15 },
+      { "t": "Role-play the whole arrival out loud once + checklist (block 10)", "min": 10 }
+    ]
+  },
+  "prereqs": {
+    "aulas": ["06-4"],
+    "skills": [
+      "X は 何ですか and 〜ですか (lesson 01-1): most of what the officers ask has exactly this shape.",
+      "ここ・そこ・あそこ・どこ (lesson 02-1) and あります／ありません (lesson 04-1).",
+      "〜てください (lesson 06-2): at the counters you will mostly hear it rather than say it.",
+      "Reading kana well. This track uses kanji as they appear on real signs, and every sentence comes with its full kana reading."
+    ],
+    "vocab": [
+      { "jp": "空港", "kana": "くうこう", "romaji": "kūkō", "en": "airport" },
+      { "jp": "入国", "kana": "にゅうこく", "romaji": "nyūkoku", "en": "entry into a country (immigration)" },
+      { "jp": "目的", "kana": "もくてき", "romaji": "mokuteki", "en": "purpose" },
+      { "jp": "観光", "kana": "かんこう", "romaji": "kankō", "en": "sightseeing, tourism" },
+      { "jp": "仕事", "kana": "しごと", "romaji": "shigoto", "en": "work, job" },
+      { "jp": "初めて", "kana": "はじめて", "romaji": "hajimete", "en": "for the first time" },
+      { "jp": "〜日間", "kana": "〜にちかん", "romaji": "-nichikan", "en": "for … days (a length of time)" },
+      { "jp": "〜週間", "kana": "〜しゅうかん", "romaji": "-shūkan", "en": "for … weeks" },
+      { "jp": "泊まります", "kana": "とまります", "romaji": "tomarimasu", "en": "to stay overnight (at a hotel, at someone's house)" },
+      { "jp": "ホテル", "kana": "ホテル", "romaji": "hoteru", "en": "hotel" },
+      { "jp": "パスポート", "kana": "パスポート", "romaji": "pasupōto", "en": "passport" },
+      { "jp": "税関", "kana": "ぜいかん", "romaji": "zeikan", "en": "customs" },
+      { "jp": "申告", "kana": "しんこく", "romaji": "shinkoku", "en": "declaration (at customs)" },
+      { "jp": "荷物", "kana": "にもつ", "romaji": "nimotsu", "en": "luggage, bags" },
+      { "jp": "スーツケース", "kana": "スーツケース", "romaji": "sūtsukēsu", "en": "suitcase" },
+      { "jp": "お土産", "kana": "おみやげ", "romaji": "omiyage", "en": "souvenir; a gift brought from a trip" },
+      { "jp": "駅", "kana": "えき", "romaji": "eki", "en": "station" },
+      { "jp": "〜行き", "kana": "〜ゆき", "romaji": "-yuki", "en": "bound for … (trains and buses)" },
+      { "jp": "乗り場", "kana": "のりば", "romaji": "noriba", "en": "boarding place (bus stop, taxi stand)" },
+      { "jp": "出口", "kana": "でぐち", "romaji": "deguchi", "en": "exit" },
+      { "jp": "両替", "kana": "りょうがえ", "romaji": "ryōgae", "en": "currency exchange" },
+      { "jp": "あちら", "kana": "あちら", "romaji": "achira", "en": "over there (the polite word for あそこ)" },
+      { "jp": "外", "kana": "そと", "romaji": "soto", "en": "outside" },
+      { "jp": "まっすぐ", "kana": "まっすぐ", "romaji": "massugu", "en": "straight ahead" }
+    ]
+  },
+  "grammar": [
+    {
+      "id": "V-01-a",
+      "gc": null,
+      "title": "At the immigration counter: why are you here?",
+      "gloss": "the purpose of your visit · is it your first time?",
+      "explanation": "After landing, you follow the signs to **入国審査** (にゅうこくしんさ, immigration). Foreign visitors use the lanes marked for foreigners (外国人, がいこくじん). You hand over your passport, plus any arrival form your airport asks for (on paper, or registered online in advance — the procedure changes, so check it before you fly). You will usually be asked to put your index fingers on a scanner and look into a small camera. Many officers speak some English, and often they ask nothing at all. When they do ask in Japanese, it is the same few short questions.\n• **What you will hear:** 入国の目的は何ですか。 (\"What is the purpose of your visit?\"), often cut down to 目的は？, or a yes/no guess: 観光ですか。 Also 日本は初めてですか。 (\"Is this your first time in Japan?\") and パスポートを見せてください。\n• **The blocks:** 入国の目的**は** is the TOPIC — \"as for the purpose of (your) entry\". 入国の describes 目的, like にほんごの せんせい in lesson 01-1. 何ですか is the PREDICATE: the question itself. It is the X は 何ですか of lesson 01-1, with a longer X.\n• **Your answer is just the new information + です:** 観光です。仕事です。 No topic and no verb: the officer's topic carries over, exactly like せんこうは なんですか。— けいざいです。 in lesson 01-1.\n• If the guess is wrong, say いいえ and then the right answer: 観光ですか。— いいえ、仕事です。 For a conference or a business trip, 仕事です is enough.\n• 初めて means \"for the first time\". A second visit is 二回目です (\"it's my second time\").",
+      "structure": "[X] は 何ですか。— [answer] です。 · [guess] ですか。— はい、そうです／いいえ、[answer] です。",
+      "examples": [
+        { "jp": "入国の目的は何ですか。— 観光です。", "kana": "にゅうこくのもくてきはなんですか。— かんこうです。", "romaji": "Nyūkoku no mokuteki wa nan desu ka. — Kankō desu.", "en": "What is the purpose of your visit? — Sightseeing. [lit. as for the purpose of entry, what is it? — sightseeing is]" },
+        { "jp": "観光ですか。— いいえ、仕事です。", "kana": "かんこうですか。— いいえ、しごとです。", "romaji": "Kankō desu ka. — Iie, shigoto desu.", "en": "Are you here for sightseeing? — No, for work. [lit. is it sightseeing? — no, it's work]" },
+        { "jp": "日本は初めてですか。— はい、初めてです。", "kana": "にほんははじめてですか。— はい、はじめてです。", "romaji": "Nihon wa hajimete desu ka. — Hai, hajimete desu.", "en": "Is this your first time in Japan? — Yes, it's my first time." }
+      ],
+      "pitfalls": [
+        "目的 is \"purpose\" (why you came), not \"destination\": 目的は？ — 東京です ✗ → 観光です ✓.",
+        "観光 (kankō, sightseeing) and 韓国 (kankoku, Korea) sound close: かんこくです ✗ → かんこうです ✓. Stretch the final o and don't add a く.",
+        "A bare いいえ after a wrong guess sounds abrupt and leaves the officer without an answer: 観光ですか。— いいえ ✗ → いいえ、仕事です ✓."
+      ],
+      "howToStudy": [
+        "Play both roles out loud: ask 入国の目的は何ですか, then answer 観光です. Do it 5 times, faster each time, until your answer comes in under two seconds.",
+        "Tap 🔬 on example 1: 入国の shows up as DESCRIBES NEXT (it describes 目的), 目的は as TOPIC and 何ですか as PREDICATE. In the answer, 観光です is the only block — the PREDICATE; the topic carried over from the question.",
+        "In your notebook, write your own true answers: the purpose of your trip, and whether it is your first time (初めてです／二回目です)."
+      ],
+      "flag": null
+    },
+    {
+      "id": "V-01-b",
+      "gc": null,
+      "title": "How long, and where are you staying?",
+      "gloss": "〜日間 · 〜週間 · your hotel",
+      "explanation": "The officer may also ask how long you are staying and where. Keep your hotel's name and address ready, on paper or on your phone.\n• **What you will hear:** 何日間ですか。 (\"How many days?\") or どのくらい日本にいますか。 (\"How long will you be in Japan?\"). The answer is a length of time + です: 十日間です。二週間です。\n• **Where you are staying:** ホテルはどこですか。 or どこに泊まりますか。 Answer with the area and the hotel: 新宿のホテルです。, or with the verb: 京都のホテルに泊まります。 泊まります (\"stay overnight\") takes に for the place, like います.\n• **〜日間 counts days as a length of time**, and 2 to 10 use the special readings of the calendar: 二日間 (ふつかかん), 三日間 (みっかかん), 四日間 (よっかかん), 五日間 (いつかかん), 六日間 (むいかかん), 七日間 (なのかかん), 八日間 (ようかかん), 九日間 (ここのかかん), 十日間 (とおかかん). From 11 on they are regular — 十一日間 (じゅういちにちかん), 十二日間 (じゅうににちかん) — except 十四日間 (じゅうよっかかん) and 二十日間 (はつかかん). One day is 一日 (いちにち).\n• **Weeks are regular:** 一週間 (いっしゅうかん, with a small っ), 二週間 (にしゅうかん), 三週間 (さんしゅうかん).\n• **The blocks:** in どのくらい日本にいますか, いますか is the PREDICATE (\"are you?\", lesson 04-1), 日本に is the LOCATION where you are, and どのくらい (\"about how much / how long\") asks for a QUANTITY. Read it from the end: are you → where? in Japan → how long?",
+      "structure": "何日間ですか。— [number] 日間です。 · どのくらい 日本に いますか。— [number] 週間です。 · ホテルは どこですか。— [area] の ホテルです。",
+      "examples": [
+        { "jp": "何日間ですか。— 十日間です。", "kana": "なんにちかんですか。— とおかかんです。", "romaji": "Nannichikan desu ka. — Tōkakan desu.", "en": "How many days (are you staying)? — Ten days." },
+        { "jp": "どのくらい日本にいますか。— 二週間です。", "kana": "どのくらいにほんにいますか。— にしゅうかんです。", "romaji": "Dono kurai Nihon ni imasu ka. — Nishūkan desu.", "en": "How long will you be in Japan? — Two weeks. [lit. about how much are you in Japan?]" },
+        { "jp": "ホテルはどこですか。— 新宿のホテルです。", "kana": "ホテルはどこですか。— しんじゅくのホテルです。", "romaji": "Hoteru wa doko desu ka. — Shinjuku no hoteru desu.", "en": "Where is your hotel? — It's a hotel in Shinjuku." }
+      ],
+      "pitfalls": [
+        "Days as a length use the calendar readings: 十日間 = じゅうにちかん ✗ → とおかかん ✓; 三日間 = さんにちかん ✗ → みっかかん ✓.",
+        "一週間 has a small っ: いちしゅうかん ✗ → いっしゅうかん ✓.",
+        "〜時間 (lesson 04-3) counts hours, not days: \"ten days\" → 十時間です ✗ (ten hours!) → 十日間です ✓."
+      ],
+      "howToStudy": [
+        "Say the day lengths aloud from 2 to 10 (ふつかかん, みっかかん … とおかかん) three times, then answer 何日間ですか with the real length of your trip.",
+        "Tap 🔬 on example 2: どのくらい shows up as QUANTITY, 日本に as LOCATION and いますか as PREDICATE. Read it from the end: are you → where? in Japan → how long? about how much.",
+        "Write your hotel line in your notebook ([area]の[hotel name]です) and keep a copy on your phone for the trip."
+      ],
+      "flag": null
+    },
+    {
+      "id": "V-01-c",
+      "gc": null,
+      "title": "At customs: anything to declare?",
+      "gloss": "申告するものはありますか · 〜てください",
+      "explanation": "After you collect your bags, you pass **税関** (customs). You hand over your customs declaration — a paper form or, at many airports, a code you prepared online before landing; check the current procedure before you fly. Most travelers simply walk through, but an officer may ask a question or look inside a bag.\n• **What you will hear:** 申告するものはありますか。 (\"Do you have anything to declare?\"), sometimes 何か申告するものは？, then maybe スーツケースを開けてください。 (\"Please open your suitcase\") and これは何ですか。\n• **The blocks:** 申告するもの**は** is the TOPIC: \"things to declare\". Here a verb, 申告する, describes the noun もの (\"things\"). You'll learn to build this yourself in lesson 09-2; for now, 申告するもの is one chunk. ありますか is the PREDICATE: \"are there (any)?\" (lesson 04-1).\n• **Answering:** いいえ、ありません。 (\"No, I don't\") — or はい、あります。 and then show it: これです。\n• **〜てください is a request (lesson 06-2).** Going further (Sakubi): ください comes from a verb that means \"to give (to me)\", so it asks someone to do something for you. At customs you are the one being asked: 開けてください = \"please open (it)\". When you hand something over, the polite word is はい、どうぞ (\"here you are\").\n• Gifts you brought are お土産 (おみやげ): お土産のお菓子です. Japan, like many countries, has strict rules on bringing in food — meat products, for example, are usually not allowed — so check the current rules before you pack any.",
+      "structure": "[thing] は ありますか。— はい、あります／いいえ、ありません。 · [object] を [verb て] ください。— はい、どうぞ。",
+      "examples": [
+        { "jp": "申告するものはありますか。— いいえ、ありません。", "kana": "しんこくするものはありますか。— いいえ、ありません。", "romaji": "Shinkoku suru mono wa arimasu ka. — Iie, arimasen.", "en": "Do you have anything to declare? — No, I don't. [lit. as for things to declare, are there any? — no, there aren't]" },
+        { "jp": "スーツケースを開けてください。— はい、どうぞ。", "kana": "スーツケースをあけてください。— はい、どうぞ。", "romaji": "Sūtsukēsu o akete kudasai. — Hai, dōzo.", "en": "Please open your suitcase. — Sure, go ahead." },
+        { "jp": "これは何ですか。— お土産のお菓子です。", "kana": "これはなんですか。— おみやげのおかしです。", "romaji": "Kore wa nan desu ka. — Omiyage no okashi desu.", "en": "What is this? — Sweets, as gifts. [lit. souvenir sweets]" }
+      ],
+      "pitfalls": [
+        "Don't say はい just to sound polite: はい means \"yes, I have something to declare\". If you have nothing: はい ✗ → いいえ、ありません ✓.",
+        "ありますか is answered with あります／ありません, not いる: いいえ、いません ✗ → いいえ、ありません ✓ (いる is for people and animals, lesson 04-1).",
+        "どうぞ offers or hands over; it never asks for something. Asking for a pen: ペンをどうぞ ✗ (that means \"here's a pen\") → ペンをください ✓ (lesson 02-2)."
+      ],
+      "howToStudy": [
+        "Role-play the customs officer and yourself out loud: twice answering いいえ、ありません, and once answering はい、あります and showing something (これです).",
+        "Tap 🔬 on example 1: 申告するものは shows up as one TOPIC block and ありますか as the PREDICATE. Read from the end: are there any? → of what? things to declare.",
+        "Pack-list practice: pick 3 things from your bag and answer これは何ですか for each in your notebook (お土産の〜です, 薬です, 本です…)."
+      ],
+      "flag": null
+    },
+    {
+      "id": "V-01-d",
+      "gc": null,
+      "title": "Finding the train, the bus and the exit",
+      "gloss": "〜はどこですか · 〜行きのバス",
+      "explanation": "Airport signs are usually in Japanese and English, and often in Chinese and Korean too. The Japanese words worth spotting: **出口** (exit), **駅** (station), **バス乗り場** (bus stops), **両替** (currency exchange). If you are lost, ask at the information counter or anyone in uniform.\n• **Asking:** すみません、[place]は どこですか。 — the ここ・そこ・あそこ・どこ question of lesson 02-1. すみません first gets the person's attention.\n• **〜行き means \"bound for\"** (read ゆき; you will also hear いき): 東京駅行きのバス = \"the bus bound for Tokyo Station\". The whole 東京駅行きの block describes the next noun, like にほんごの せんせい in lesson 01-1 — the thing you want comes last.\n• **Answers you will hear:** あちらです (\"over there\" — あちら is the polite あそこ), まっすぐ行ってください (\"please go straight ahead\"), 出口の右です (\"to the right of the exit\"), 外です (\"outside\"), 乗り場は5番です (\"the stop is number 5\"). Airport buses usually leave from numbered stops outside the arrivals hall; where there is a ticket counter or machine, you buy the ticket there — check on site.\n• Answers often come with a pointing hand. Follow the hand even if you miss the words, and ask again at the next sign.",
+      "structure": "すみません、[place] は どこですか。 · [destination] 行きの バスは どこですか。",
+      "examples": [
+        { "jp": "すみません、駅はどこですか。— あちらです。まっすぐ行ってください。", "kana": "すみません、えきはどこですか。— あちらです。まっすぐいってください。", "romaji": "Sumimasen, eki wa doko desu ka. — Achira desu. Massugu itte kudasai.", "en": "Excuse me, where is the station? — Over there. Please go straight ahead." },
+        { "jp": "東京駅行きのバスはどこですか。— 外です。乗り場は5番です。", "kana": "とうきょうえきゆきのバスはどこですか。— そとです。のりばはごばんです。", "romaji": "Tōkyō-eki yuki no basu wa doko desu ka. — Soto desu. Noriba wa go-ban desu.", "en": "Where is the bus for Tokyo Station? — Outside. The stop is number 5." },
+        { "jp": "両替はどこですか。— あそこです。出口の右です。", "kana": "りょうがえはどこですか。— あそこです。でぐちのみぎです。", "romaji": "Ryōgae wa doko desu ka. — Asoko desu. Deguchi no migi desu.", "en": "Where is the currency exchange? — Over there. To the right of the exit." }
+      ],
+      "pitfalls": [
+        "〜行き describes the bus, so it comes first, with の: バスの東京駅行き ✗ → 東京駅行きのバス ✓.",
+        "〜行き is where the bus is going, not where it comes from: \"the bus from Narita\" → 成田行きのバス ✗ → 成田からのバス ✓.",
+        "Starting with the question sounds abrupt to a stranger: 駅はどこですか ✗ → すみません、駅はどこですか ✓."
+      ],
+      "howToStudy": [
+        "Point-and-ask drill: look around your room and ask aloud すみません、[thing]はどこですか for 5 things; answer yourself with あちらです, あそこです or ここです.",
+        "Tap 🔬 on example 2: 東京駅行きの shows up as DESCRIBES NEXT, attached to バスは (TOPIC), and どこですか is the PREDICATE. In the reply, 乗り場は is the TOPIC and 5番です the PREDICATE.",
+        "Learn the sign words as whole words, kanji and all — 出口, 駅, 乗り場, 両替 — and add them to your SRS with Mining (⛏), so you can read them without the kana when you land."
+      ],
+      "flag": null
+    }
+  ],
+  "media": [
+    { "order": 1, "kind": "video", "title": "JapanesePod101: Japanese phrases for the airport and immigration", "where": "YouTube · JapanesePod101.com channel", "url": "", "search": "JapanesePod101 airport immigration Japanese phrases", "when": "After the 4 situations. Pause after each question and answer it before the speaker does." },
+    { "order": 2, "kind": "reading", "title": "Irodori (Japan Foundation) — free course: a situational course for everyday life in Japan, with free audio. Look in its table of contents for the topics about getting around and places in town. It is written for people living in Japan, so not every scene is about travel.", "where": "The Japan Foundation · Irodori: Japanese for Life in Japan (free textbooks and audio)", "url": "", "search": "Irodori Japanese for Life in Japan", "when": "Optional, whenever you want more short real-life exchanges to listen to." }
+  ],
+  "homework": {
+    "intro": "Do it by hand in your notebook, with the kanji you know and kana for the rest. Then read every answer aloud, as if you were standing at the counter. Only then open the answer key, item by item. Circle what you got wrong and redo it the next day. The Travel Track has no Workbook pages.",
+    "tasks": [
+      {
+        "id": "h1",
+        "type": "complete",
+        "prompt": "Complete the dialogue: write the missing line in Japanese. The English in brackets tells you what to say.",
+        "items": [
+          { "q": "入国の目的は何ですか。— ＿＿ (Sightseeing.)", "a": { "jp": "観光です。", "kana": "かんこうです。", "romaji": "Kankō desu." } },
+          { "q": "＿＿ — 一週間です。 (Ask how many days.)", "a": { "jp": "何日間ですか。", "kana": "なんにちかんですか。", "romaji": "Nannichikan desu ka." }, "note": "どのくらい日本にいますか。 is also right." },
+          { "q": "日本は初めてですか。— ＿＿ (No, it's my second time.)", "a": { "jp": "いいえ、二回目です。", "kana": "いいえ、にかいめです。", "romaji": "Iie, nikaime desu." } },
+          { "q": "申告するものはありますか。— ＿＿ (No, nothing.)", "a": { "jp": "いいえ、ありません。", "romaji": "Iie, arimasen." }, "note": "Not はい: that would mean you do have something to declare." },
+          { "q": "ホテルはどこですか。— ＿＿ (A hotel in Asakusa.)", "a": { "jp": "浅草のホテルです。", "kana": "あさくさのホテルです。", "romaji": "Asakusa no hoteru desu." } },
+          { "q": "すみません、駅はどこですか。— ＿＿ (Over there. Please go straight ahead.)", "a": { "jp": "あちらです。まっすぐ行ってください。", "kana": "あちらです。まっすぐいってください。", "romaji": "Achira desu. Massugu itte kudasai." }, "note": "This is a line you will hear, not say: writing it helps you recognize it." }
+        ]
+      },
+      {
+        "id": "h2",
+        "type": "translate",
+        "prompt": "Translate into Japanese.",
+        "items": [
+          { "q": "Excuse me, where is the bus for Kyoto Station?", "a": { "jp": "すみません、京都駅行きのバスはどこですか。", "kana": "すみません、きょうとえきゆきのバスはどこですか。", "romaji": "Sumimasen, Kyōto-eki yuki no basu wa doko desu ka." } },
+          { "q": "I'm staying at a hotel in Ueno.", "a": { "jp": "上野のホテルに泊まります。", "kana": "うえののホテルにとまります。", "romaji": "Ueno no hoteru ni tomarimasu." }, "note": "泊まります takes に for the place where you stay." },
+          { "q": "(Answering the purpose question) It's for work.", "a": { "jp": "仕事です。", "kana": "しごとです。", "romaji": "Shigoto desu." }, "note": "Just the new information + です: the topic (目的は) carries over." },
+          { "q": "Where is the exit?", "a": { "jp": "出口はどこですか。", "kana": "でぐちはどこですか。", "romaji": "Deguchi wa doko desu ka." } },
+          { "q": "(Answering これは何ですか) They're sweets, as gifts.", "a": { "jp": "お土産のお菓子です。", "kana": "おみやげのおかしです。", "romaji": "Omiyage no okashi desu." } }
+        ]
+      },
+      {
+        "id": "h3",
+        "type": "transform",
+        "prompt": "Answer 何日間ですか with each length of stay, using 〜日間 or 〜週間. Watch the special readings, and write the kana too.",
+        "items": [
+          { "q": "3 days", "a": { "jp": "三日間です。", "kana": "みっかかんです。", "romaji": "Mikkakan desu." } },
+          { "q": "5 days", "a": { "jp": "五日間です。", "kana": "いつかかんです。", "romaji": "Itsukakan desu." } },
+          { "q": "8 days", "a": { "jp": "八日間です。", "kana": "ようかかんです。", "romaji": "Yōkakan desu." } },
+          { "q": "10 days", "a": { "jp": "十日間です。", "kana": "とおかかんです。", "romaji": "Tōkakan desu." } },
+          { "q": "14 days", "a": { "jp": "十四日間です。", "kana": "じゅうよっかかんです。", "romaji": "Jūyokkakan desu." }, "note": "14 (and 24) use よっか; 11, 12 and 13 are regular (じゅういちにち…)." },
+          { "q": "1 week", "a": { "jp": "一週間です。", "kana": "いっしゅうかんです。", "romaji": "Isshūkan desu." }, "note": "Small っ: いっしゅうかん, not いちしゅうかん." }
+        ]
+      },
+      {
+        "id": "h4",
+        "type": "produce",
+        "prompt": "Written role-play: write your whole arrival in 8–10 lines, both roles — the officer at immigration, the officer at customs, and you asking for the train or the bus. Use your real trip details. Then read it aloud in two voices and record it on your phone.",
+        "items": [
+          { "q": "Model (match its structure, not its words):", "a": { "jp": "入国の目的は何ですか。— 観光です。何日間ですか。— 十日間です。ホテルはどこですか。— 京都のホテルです。申告するものはありますか。— いいえ、ありません。すみません、京都駅行きのバスはどこですか。— 外です。乗り場は8番です。", "kana": "にゅうこくのもくてきはなんですか。— かんこうです。なんにちかんですか。— とおかかんです。ホテルはどこですか。— きょうとのホテルです。しんこくするものはありますか。— いいえ、ありません。すみません、きょうとえきゆきのバスはどこですか。— そとです。のりばははちばんです。", "romaji": "Nyūkoku no mokuteki wa nan desu ka. — Kankō desu. Nannichikan desu ka. — Tōkakan desu. Hoteru wa doko desu ka. — Kyōto no hoteru desu. Shinkoku suru mono wa arimasu ka. — Iie, arimasen. Sumimasen, Kyōto-eki yuki no basu wa doko desu ka. — Soto desu. Noriba wa hachi-ban desu.", "en": "What is the purpose of your visit? — Sightseeing. How many days? — Ten days. Where is your hotel? — It's a hotel in Kyoto. Do you have anything to declare? — No, I don't. Excuse me, where is the bus for Kyoto Station? — Outside. The stop is number 8." }, "note": "Check: your answers are short (noun + です), you answer いいえ、ありません at customs, 〜行きの comes before バス, and the day count uses the special readings." }
+        ]
+      }
+    ],
+    "workbook": []
+  },
+  "practice": [
+    { "tool": "Role-play", "what": "Out loud, both roles: be the officer and ask this lesson's questions in random order (目的, 初めて, 何日間, ホテル, 申告), then answer as yourself. If you study with someone, swap roles. Aim for answers in under two seconds — at a real counter there is no time to translate in your head.", "min": 10 },
+    { "tool": "Speaking", "what": "Record your homework h4 in two voices. Listen back: are your answers short (noun + です)? Is 観光 かんこう, with a long o, and not かんこく? Record it again in a few days and compare.", "min": 5 },
+    { "tool": "Shadowing", "what": "Tap 🔊 on each example and repeat along 3 times, matching the speed. Spend most of the time on the lines you will hear — 入国の目的は何ですか, 申告するものはありますか, スーツケースを開けてください — so you recognize them at native speed.", "min": 5 },
+    { "tool": "ヅオリンゴー", "what": "Save the officers' questions and the sign words (出口, 駅, 乗り場, 両替) with Mining (⛏), each inside a sentence, so they come back in your SRS — and clear your reviews every day (🌊 All). Then Drills → 🔬 Anatomy → 🔬 Analyze: paste each line of your h4 and check that every answer is a single PREDICATE block.", "min": 10 },
+    { "tool": "Reading real Japanese", "what": "Open the Japanese version of the website of the airport you will land at, with a pop-up dictionary such as Yomitan in your browser (hover over a word to see its reading and meaning). Find the pages about getting to the city (アクセス, バス, 電車) and mine 2 new words into your SRS. Don't try to read everything: you are hunting for the words you will see on the signs.", "min": 10 }
+  ],
+  "culture": {
+    "title": "Arriving: cash, IC cards and Wi-Fi",
+    "titleJp": "現金・ICカード・Wi-Fi",
+    "body": "Card and phone payments are more and more common in Japan, but **cash** is still widely used, and some small restaurants, shops and shrines take cash only. Many travelers withdraw yen at ATMs in convenience stores or post offices, which usually accept foreign cards — check with your bank before you go. An **IC card** (Suica, PASMO, ICOCA and others) works on trains and buses in most big cities and in many shops; the ways a visitor can get a physical card have changed in recent years, and many phones can carry one, so check the current options when you arrive. Free **Wi-Fi** exists at airports, many stations and some shops, but coverage varies, so many visitors rent a pocket Wi-Fi router or buy a SIM or eSIM. Sorting out these three things at the airport makes the first day much easier.",
+    "try": "Write an arrival checklist in your notebook, one line each: 現金, ICカード, Wi-Fi. Next to each, write where you plan to get it (空港, 駅, コンビニ), and practice the question you would ask: すみません、ATMはどこですか。"
+  },
+  "checklist": [
+    "I can answer 入国の目的は何ですか and 日本は初めてですか without looking, with a short noun + です.",
+    "I can say the length of my trip with 〜日間 or 〜週間, using the special day readings (みっかかん, とおかかん…).",
+    "I can say where I am staying: [area]のホテルです or [place]に泊まります.",
+    "I understand 申告するものはありますか and スーツケースを開けてください, and I answer いいえ、ありません when I have nothing to declare.",
+    "I can ask where the station, the currency exchange and the bus for a place are (〜行きのバスはどこですか).",
+    "I can read the signs 出口, 駅, 乗り場 and 両替 without the kana.",
+    "I did the homework, checked it against the answer key and redid what I got wrong.",
+    "I recorded the arrival role-play (h4) in two voices and listened back."
+  ],
+  "credits": [
+    "Explanations adapted in part from Sakubi (public domain, CC0) — sakubi.neocities.org",
+    "Study method informed by the DJT Guide to Japanese — djtguide.neocities.org/guide"
+  ]
+}

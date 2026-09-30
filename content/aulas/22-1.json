@@ -18,7 +18,7 @@
       { "t": "Vocabulary: tap 🔊 on each word and repeat it twice", "min": 10 },
       { "t": "Grammar 4a: forming the causative, with the conjugation table in your notebook and one 🔬", "min": 15 },
       { "t": "Grammar 4b and 4c: making × letting, the particles, and 〜させてあげる／くれる, each with one 🔬", "min": 15 },
-      { "t": "Lesson 22 video (block 6), only the part on the causative", "min": 10 },
+      { "t": "Block 6: the Lesson 22 video or the Sakubi section on the causative, as a second explanation (read to understand, not to memorize)", "min": 10 },
       { "t": "Notebook homework + checking it against the answer key", "min": 15 },
       { "t": "Checklist (block 10) + write your questions in the lesson notebook", "min": 5 }
     ]
@@ -63,7 +63,7 @@
       "gc": null,
       "title": "Forming the causative: させる / せる",
       "gloss": "to make / let (someone) do",
-      "explanation": "The causative says that **someone in charge makes or lets another person do something**. The verb gets a new ending:\n• **る-verbs:** drop る, add **させる** → 食べる → 食べ**させる**, 見る → 見**させる**.\n• **う-verbs:** change the final u-sound to its **a-sound** and add **せる** → 行く → 行**かせる**, 書く → 書**かせる**, 待つ → 待**たせる**, 読む → 読**ませる**. Verbs in う take **わ**: 習う → 習**わせる**, 使う → 使**わせる**. It is the same a-sound as in the ない-form and the passive (lesson 21-1).\n• **する → させる** (勉強する → 勉強**させる**). **くる → こさせる** (来させる).\n\nEvery causative ends in 〜せる, so it **conjugates like a る-verb**: 行かせます, 行かせました, 行かせない, 行かせて.\n\n**The blocks:**\n• **[the one in charge] は** — the TOPIC: the parent, the teacher, the boss.\n• **[the one who acts] に** (sometimes を, see 4b) — the person who actually does the action.\n• ([object] を) + **[causative verb]** — the PREDICATE, at the end.\n• 先生は学生に漢字を書かせます。 = The teacher makes the students write kanji. Read from the end: makes (someone) write → write what? kanji → who writes? the students (に) → who decides? the teacher (は).\n\n**Don't confuse it with the passive.** Passive 〜られる / 〜れる: something is done **to** the topic (書かれる = be written). Causative 〜させる / 〜せる: the topic makes **someone else** act (書かせる = make someone write).",
+      "explanation": "The causative says that **someone in charge makes or lets another person do something**. One form covers **both** \"make\" and \"let\" — that is why it has the vague name *causative* (point 4b tells them apart). The verb gets a new ending:\n• **る-verbs:** drop る, add **させる** → 食べる → 食べ**させる**, 見る → 見**させる**.\n• **う-verbs:** change the final u-sound to its **a-sound** and add **せる** → 行く → 行**かせる**, 書く → 書**かせる**, 待つ → 待**たせる**, 読む → 読**ませる**. Verbs in う take **わ**: 習う → 習**わせる**, 使う → 使**わせる**. It is the same a-sound as in the ない-form and the passive (lesson 21-1).\n• **する → させる** (勉強する → 勉強**させる**). **くる → こさせる** (来させる).\n• **Shortcut** (the same trick as for the passive): swap the ない of the ない-form for **せる** in う-verbs (行かない → 行かせる) and for **させる** in る-verbs and くる (食べない → 食べさせる, こない → こさせる). Only する is special: しない → **させる**.\n\nEvery causative ends in 〜せる, so it **conjugates like a る-verb**: 行かせます, 行かせました, 行かせない, 行かせて.\n\n**The blocks:**\n• **[the one in charge] は** — the TOPIC: the parent, the teacher, the boss.\n• **[the one who acts] に** (sometimes を, see 4b) — the person who actually does the action.\n• ([object] を) + **[causative verb]** — the PREDICATE, at the end.\n• 先生は学生に漢字を書かせます。 = The teacher makes the students write kanji. Read from the end: makes (someone) write → write what? kanji → who writes? the students (に) → who decides? the teacher (は).\n\n**The causative is the mirror image of the passive.** Ask \"who actually writes?\". In 書かれる (passive, lesson 21-1), the topic is not the writer: it is what gets written, or the one affected. In 書かせる (causative), the topic is not the writer either: it makes **someone else** write. In lesson 23-1, 書かせられる (\"be made to write\") will put the writer back in the topic.\n• Going further (Sakubi): in casual speech you will also hear a short causative ending in **す**: 書かす, 待たす (= 書かせる, 待たせる). Understand it when you hear it, but use せる / させる yourself.",
       "structure": "[the one in charge] は [the one who acts] に ([object] を) [causative]。 · 食べさせる · 行かせる · 習わせる · させる · 来させる",
       "examples": [
         { "jp": "先生は学生に毎日漢字を書かせます。", "kana": "せんせいはがくせいにまいにちかんじをかかせます。", "romaji": "Sensei wa gakusei ni mainichi kanji o kakasemasu.", "en": "The teacher makes the students write kanji every day." },
@@ -77,7 +77,7 @@
         "Don't mix up the endings: to say the teacher made them write, 先生は学生に作文を書かれました ✗ (a passive ending) → 先生は学生に作文を書かせました ✓."
       ],
       "howToStudy": [
-        "In your notebook, make a table with 4 columns — dictionary form → ない-form → passive → causative — for 食べる, 行く, 書く, 習う, 待つ, する and くる. For the う-verbs, the last three columns share the same a-sound.",
+        "In your notebook, make a table with 4 columns — dictionary form → ない-form → passive → causative — for 食べる, 行く, 書く, 習う, 待つ, する and くる. For the う-verbs, the last three columns share the same a-sound; on every row, test the ない shortcut and circle the verb that breaks it (する).",
         "Tap 🔬 on example 1: 先生は = TOPIC (the one in charge), 学生に = TARGET (the one who actually writes), 毎日 = TIME, 漢字を = OBJECT, 書かせます = PREDICATE. Ask the two questions every causative needs: who decides? who acts?",
         "Say out loud, fast, the causative of 10 verbs while looking only at the dictionary form; then the passive of the same 10, to keep the two endings apart."
       ],
@@ -102,7 +102,7 @@
       ],
       "howToStudy": [
         "Tap 🔬 on example 1, then on example 2: the one who acts is 私を (OBJECT) in the first and 学生に (TARGET) in the second. Both are the person who does the action; in both, the TOPIC is the one in charge.",
-        "For each example, say out loud in English \"made\" or \"let\", and what in the context told you (a test, a mother sending you on an errand…).",
+        "For each example, say out loud in English \"made\" or \"let\", and what in the context told you (a test, a mother sending you on an errand…). Do the same with every causative you meet in Wagotabi or in your reading: real context is what finally settles \"make\" or \"let\".",
         "Say 2 true sentences with feelings: 子どものとき、よく母を心配させました。 / 〜さんはいつもみんなを笑わせます。"
       ],
       "flag": "The choice between を and に for the one who acts, with intransitive verbs, is shown here as a tendency (を = made, に = let). In real speech both are heard, and other things matter too, such as avoiding two に in a row. With transitive verbs, に is the rule."
@@ -112,7 +112,7 @@
       "gc": null,
       "title": "〜させてあげる / 〜させてくれる",
       "gloss": "to let someone do (as a favor)",
-      "explanation": "Put the causative in the て-form and add the favor verbs of lesson 16-1. Now \"let\" is **clear and kind**: the person wanted to do it, and someone allowed it.\n• **〜させてくれる** — someone let **me** (or my family) do something: 両親は私に好きな大学をえらばせてくれました (my parents let me choose the university I wanted). It says **I'm grateful**.\n• **〜させてあげる** — I (or someone) let **another person** do something: 私は妹に私のパソコンを使わせてあげました (I let my little sister use my computer). As with 〜てあげる, saying it to the person's face can sound like you're showing off your kindness, so use it mostly when you tell the story to others.\n\n**The blocks** are the same as before: [the one who allows] は | [the one who acts] に | ([object] を) | 〜させてくれました／あげました. The PREDICATE now says two things: allowed + as a favor.\n\n**A first look at 〜させてください.** Causative て-form + ください = **\"please let me…\"**. It is how you ask permission to do something yourself, and it is very polite: ちょっと考えさせてください (let me think about it a little). You will study it in depth, together with 〜させていただきます, in lesson P-11.",
+      "explanation": "Put the causative in the て-form and add the favor verbs of lesson 16-1. Now \"let\" is **clear and kind**: the person wanted to do it, and someone allowed it.\n• **〜させてくれる** — someone let **me** (or my family) do something: 両親は私に好きな大学をえらばせてくれました (my parents let me choose the university I wanted). It says **I'm grateful**.\n• **〜させてあげる** — I (or someone) let **another person** do something: 私は妹に私のパソコンを使わせてあげました (I let my little sister use my computer). As with 〜てあげる, saying it to the person's face can sound like you're showing off your kindness, so use it mostly when you tell the story to others.\n• **The favor verb fixes the direction.** With くれる, the one who receives the favor is always you (or your side), so 私に is often dropped: 店長が早く帰らせてくれました is understood as \"the manager let **me** go home early\". With あげる, the one who receives it is never you.\n\n**The blocks** are the same as before: [the one who allows] は | [the one who acts] に | ([object] を) | 〜させてくれました／あげました. The PREDICATE now says two things: allowed + as a favor.\n\n**A first look at 〜させてください.** Causative て-form + ください = **\"please let me…\"**. It is how you ask permission to do something yourself, and it is very polite: ちょっと考えさせてください (let me think about it a little). You will study it in depth, together with 〜させていただきます, in lesson P-11.",
       "structure": "[the one who allows] は [the one who acts] に ([object] を) [causative て-form] くれる／あげる · [causative て-form] ください (please let me…)",
       "examples": [
         { "jp": "両親は私に好きな大学をえらばせてくれました。", "kana": "りょうしんはわたしにすきなだいがくをえらばせてくれました。", "romaji": "Ryōshin wa watashi ni suki na daigaku o erabasete kuremashita.", "en": "My parents let me choose the university I wanted." },
@@ -188,11 +188,11 @@
     "workbook": []
   },
   "practice": [
-    { "tool": "Wagotabi", "what": "Play at the N4 level and hunt the dialogues for verbs ending in 〜せる / 〜させる. When you find one, pause and say out loud: who is in charge? who acts? is it \"make\" or \"let\"? Copy 2 lines into your notebook.", "min": 15 },
-    { "tool": "ヅオリンゴー", "what": "Drills → 🔬 Anatomy → 🔬 Analyze: paste the 3 examples of point 4b and compare the one who acts — 私を (OBJECT) or 学生に (TARGET). Then paste 先生は学生に作文を書かせました: 学生に shows up as TARGET — the one who actually writes — and 作文を as OBJECT.", "min": 10 },
-    { "tool": "ヅオリンゴー", "what": "Journal: write your 5 childhood sentences (homework h4) and check them with \"Anatomy of what I wrote\".", "min": 10 },
+    { "tool": "Wagotabi", "what": "Play at the N4 level and hunt the dialogues for verbs ending in 〜せる / 〜させる. When you find one, pause and say out loud: who is in charge? who acts? is it \"make\" or \"let\"? Copy 2 lines into your notebook, log the session in Immersion → Games, and save the clearest line with ⛏ Mining (mark one new word and fill it in with the 📖 Dictionary button).", "min": 15 },
+    { "tool": "ヅオリンゴー", "what": "Drills → 🔬 Anatomy → 🔬 Analyze: paste the 3 examples of point 4b and compare the one who acts — 私を (OBJECT) or 学生に (TARGET). Then paste 先生は学生に作文を書かせました: 学生に shows up as TARGET — the one who actually writes — and 作文を as OBJECT. Last, vocabulary: the Genki II words are not a ready-made deck in the app, so add the words from block 3 you find hardest (習う, 両親, 教育, えらぶ…) with ⛏ Mining, each inside a sentence from this lesson. Learn the kanji inside the words; if one keeps slipping, split it into parts and make up a tiny story: 親 = 立 (stand) + 木 (tree) + 見 (look) — a parent stands on a tree to watch over the children.", "min": 10 },
+    { "tool": "Reading", "what": "Resources tab → Reading: read one short folktale from 福娘童話集, or an article in NHK NEWS WEB EASY, for the gist. Hunt for 〜せる / 〜させる (stories with parents, kings or bosses often have them). If you don't find one, that's fine: pick one sentence you understood, look up its words (on a computer, the Yomitan pop-up), and save it with ⛏ Mining.", "min": 10 },
     { "tool": "Shadowing", "what": "Tap 🔊 on each example of this lesson and repeat along 3 times. させてください has 7 beats of the same length: さ・せ・て・く・だ・さ・い.", "min": 5 },
-    { "tool": "Speaking", "what": "Record 30–45 seconds about what your parents made you do and let you do. Listen and check the は of the one in charge and the に of the one who acts.", "min": 5 }
+    { "tool": "Speaking", "what": "Record 30–45 seconds about what your parents made you do and let you do (homework h4). Listen and check the は of the one in charge and the に of the one who acts. Then type it into the Journal and open \"Anatomy of what I wrote\": wherever you named the one in charge, it should show up as TOPIC (with は).", "min": 10 }
   ],
   "culture": {
     "title": "Cram schools and entrance exams",
@@ -209,5 +209,9 @@
     "I can ask permission for myself with 〜させてください.",
     "I did the homework, checked it against the answer key and redid what I got wrong.",
     "If I have the Genki II Workbook, I did its exercises on the causative in Lesson 22."
+  ],
+  "credits": [
+    "Explanations adapted in part from Sakubi (public domain, CC0) — sakubi.neocities.org",
+    "Study method informed by the DJT Guide to Japanese — djtguide.neocities.org/guide"
   ]
 }

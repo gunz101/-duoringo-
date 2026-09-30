@@ -1,0 +1,213 @@
+{
+  "id": "P-19",
+  "unit": "P-N3",
+  "genki": null,
+  "title": "Can't not · it's not that I don't",
+  "titleJp": "休むわけにはいかない・行けないことはない",
+  "canDo": [
+    "I can say that I can't do something because it wouldn't be right, with 〜わけにはいかない (明日は休むわけにはいかない).",
+    "I can say that I have no choice but to do something, with 〜ないわけにはいかない (行かないわけにはいかない), and I never lose one of the two ないs.",
+    "I can give a reluctant \"yes, I could\" with 〜ないことはない (食べられないことはないけど…).",
+    "I can choose between 〜ないことはない and 〜わけではない (lesson P-07), and between わけにはいかない, the potential negative (休めない) and なければならない."
+  ],
+  "duration": {
+    "total": "60–75 min",
+    "blocks": [
+      { "t": "Warm-up: say aloud 3 sentences with 〜わけではない from lesson P-07 (it's not that…)", "min": 5 },
+      { "t": "Vocabulary: tap 🔊 on each word and repeat it twice; save the words you don't know yet with Mining (⛏), each inside one sentence from this lesson", "min": 10 },
+      { "t": "Grammar: points a (〜わけにはいかない) and b (〜ないわけにはいかない), with the examples read aloud, one 🔬 each and the contrasts", "min": 20 },
+      { "t": "Grammar: point c (〜ないことはない × 〜わけではない)", "min": 10 },
+      { "t": "Video and reading from block 6, pausing on the examples", "min": 10 },
+      { "t": "Notebook homework + checking it against the answer key", "min": 15 },
+      { "t": "Checklist (block 10) + write your questions in the lesson notebook", "min": 5 }
+    ]
+  },
+  "prereqs": {
+    "aulas": ["P-18"],
+    "skills": [
+      "〜わけだ, 〜わけではない and 〜わけがない from lesson P-07: this lesson adds one more わけ pattern and a new neighbor for わけではない.",
+      "Potential verbs (lesson 13-1: 休める, 食べられる, 行ける): they are the neighbor of point a and often come before ないことはない.",
+      "〜なければいけない／〜なければならない from lesson 12-3 (\"must\"), the neighbor of point b.",
+      "The ない-form of verbs (lesson 08-1) and 〜から／〜ので for reasons (lessons 06-4 and 12-2)."
+    ],
+    "vocab": [
+      { "jp": "大事（な）", "kana": "だいじ（な）", "romaji": "daiji (na)", "en": "important" },
+      { "jp": "会議", "kana": "かいぎ", "romaji": "kaigi", "en": "meeting" },
+      { "jp": "休む", "kana": "やすむ", "romaji": "yasumu", "en": "to take the day off; to rest" },
+      { "jp": "お酒", "kana": "おさけ", "romaji": "osake", "en": "alcohol; sake" },
+      { "jp": "捨てる", "kana": "すてる", "romaji": "suteru", "en": "to throw away" },
+      { "jp": "親友", "kana": "しんゆう", "romaji": "shin'yū", "en": "best friend, close friend" },
+      { "jp": "結婚式", "kana": "けっこんしき", "romaji": "kekkonshiki", "en": "wedding (ceremony)" },
+      { "jp": "部長", "kana": "ぶちょう", "romaji": "buchō", "en": "department manager" },
+      { "jp": "誘う", "kana": "さそう", "romaji": "sasou", "en": "to invite, to ask (someone) out" },
+      { "jp": "飲み会", "kana": "のみかい", "romaji": "nomikai", "en": "drinking party (with colleagues or friends)" },
+      { "jp": "頼む", "kana": "たのむ", "romaji": "tanomu", "en": "to ask (a favor)" },
+      { "jp": "約束する", "kana": "やくそくする", "romaji": "yakusoku suru", "en": "to promise" },
+      { "jp": "手伝う", "kana": "てつだう", "romaji": "tetsudau", "en": "to help" },
+      { "jp": "断る", "kana": "ことわる", "romaji": "kotowaru", "en": "to turn down, to refuse" },
+      { "jp": "辛い", "kana": "からい", "romaji": "karai", "en": "spicy" },
+      { "jp": "急ぐ", "kana": "いそぐ", "romaji": "isogu", "en": "to hurry" },
+      { "jp": "間に合う", "kana": "まにあう", "romaji": "maniau", "en": "to be in time, to make it" },
+      { "jp": "運転する", "kana": "うんてんする", "romaji": "unten suru", "en": "to drive" },
+      { "jp": "心配する", "kana": "しんぱいする", "romaji": "shinpai suru", "en": "to worry" },
+      { "jp": "義理", "kana": "ぎり", "romaji": "giri", "en": "social obligation (to people you have a relationship with)" },
+      { "jp": "しかたがない", "kana": "しかたがない", "romaji": "shikata ga nai", "en": "there's nothing to be done; oh well" },
+      { "jp": "資料", "kana": "しりょう", "romaji": "shiryō", "en": "materials, documents (for a meeting)" }
+    ]
+  },
+  "grammar": [
+    {
+      "id": "P-19-a",
+      "gc": null,
+      "title": "〜わけにはいかない",
+      "gloss": "I can't (because it wouldn't be right) · I'm in no position to",
+      "explanation": "〜わけにはいかない says: **I could do it, physically, but the situation doesn't allow it** — because of duty, other people, common sense or my own conscience. English says \"I can't really…\", \"I can't very well…\", \"I'm in no position to…\".\n• 明日は大事な会議があるので、休むわけにはいかない。 (I can't take the day off.) You're not sick in bed — you could stay home — but you'd let everyone down.\n• 車で来たから、お酒を飲むわけにはいかない。 (I can't drink: I'm driving.)\n\n**Forms:** dictionary form + わけにはいかない. Polite: **わけにはいきません**. Past: わけにはいかなかった. In speech the は sometimes drops: わけにいかない. The いく is often written in kana (you'll also see 行かない).\nThe いく here is the one in うまくいく (\"to go well, to work out\"), so the literal shape is roughly \"things won't go that way\". わけ is the noun you know from lesson P-07: \"reason, the circumstances behind something\" (Sakubi).\n\n**The sentence, block by block.** わけにはいかない closes the **PREDICATE**, and the verb right in front of it is the action that's ruled out. The reason usually comes first, in a から／ので block: [大事な会議があるので][休むわけにはいかない]. Read from the end: can't (it wouldn't be right) → do what? take the day off → why? an important meeting.\n\n**わけにはいかない × the potential negative** (lesson 13-1): 休めない simply says \"I can't\" — for any reason, including rules and ability (今日は忙しくて休めない). わけにはいかない is **your own judgment**: you could, but it wouldn't be right. For pure ability, only the potential works: \"I can't swim\" = 泳げない.\n\n**わけにはいかない × わけがない** (lesson P-07): 休むわけにはいかない = I can't take the day off (it wouldn't be right). 休めるわけがない = there's no way I could take the day off (it's impossible).\n\n**わけにはいかない × 〜てはいけない** (lesson 06-3): てはいけない is a rule for someone (\"you must not\"). わけにはいかない is the speaker's own sense of what they can and can't do.",
+      "structure": "[reason] から／ので、[dictionary form] わけにはいかない · polite: 〜わけにはいきません",
+      "examples": [
+        { "jp": "明日は大事な会議があるので、休むわけにはいかない。", "kana": "あしたはだいじなかいぎがあるので、やすむわけにはいかない。", "romaji": "Ashita wa daiji na kaigi ga aru node, yasumu wake ni wa ikanai.", "en": "I have an important meeting tomorrow, so I can't take the day off." },
+        { "jp": "車で来たから、お酒を飲むわけにはいかないんです。", "kana": "くるまできたから、おさけをのむわけにはいかないんです。", "romaji": "Kuruma de kita kara, osake o nomu wake ni wa ikanai n desu.", "en": "I came by car, so I can't drink." },
+        { "jp": "先生にもらった本だから、捨てるわけにはいきません。", "kana": "せんせいにもらったほんだから、すてるわけにはいきません。", "romaji": "Sensei ni moratta hon dakara, suteru wake ni wa ikimasen.", "en": "It's a book my teacher gave me, so I can't throw it away." }
+      ],
+      "pitfalls": [
+        "For ability, use the potential. \"I can't swim\": 泳ぐわけにはいかない ✗ (that sounds like \"I mustn't swim\") → 泳げない ✓.",
+        "The dictionary form goes before わけ, not the potential — the \"can't\" is already in いかない: 休めるわけにはいかない ✗ → 休むわけにはいかない ✓.",
+        "It is about your own situation, not a rule for others. Telling a visitor they can't smoke here: ここでたばこを吸うわけにはいきません ✗ (it sounds like \"I can't smoke here\") → ここでたばこを吸ってはいけません ✓."
+      ],
+      "howToStudy": [
+        "Say aloud 3 things you could do but won't, because of someone else: 明日は〜ので、〜わけにはいかない。 (e.g. 友だちが待っているので、遅れるわけにはいかない。)",
+        "🔬 Anatomy → Analyze: paste example 1. あるので is the REASON, and the end splits into 休むわけには (DESTINATION) + いかない (PREDICATE): the engine sees に + いく, \"go\". That is the literal shape — \"things won't go (that way)\" — but read わけにはいかない as one block: \"can't (it wouldn't be right)\".",
+        "Say this pair aloud and feel the difference: 今日は休めない (I can't — no time, or it isn't allowed) × 今日は休むわけにはいかない (I could, but it wouldn't be right)."
+      ],
+      "flag": null
+    },
+    {
+      "id": "P-19-b",
+      "gc": null,
+      "title": "〜ないわけにはいかない",
+      "gloss": "I can't not… · I have no choice but to",
+      "explanation": "Put a **negative** verb in front, and the meaning flips: **〜ないわけにはいかない** = \"**not doing it** isn't an option\" → I have to, whether I want to or not. The pressure comes from **people and situations**: a friend's wedding, a promise, a request from your boss, what everyone expects of you. There is often a hint of reluctance.\n• 親友の結婚式だから、行かないわけにはいかない。 (It's my best friend's wedding, so I can't not go.)\n• 約束したんだから、手伝わないわけにはいかないよ。 (I promised, so I can't not help.)\n\n**Forms:** ない-form + わけにはいかない. Polite: 〜ないわけにはいきません. The politeness goes only at the very end.\n\n**The sentence, block by block.** Two negatives sit in the **PREDICATE**: 行か**ない** + わけにはいか**ない**. Read from the end: いかない (it won't do) ← わけには (the case of) ← 行かない (not going) = \"not going won't do\" = I have to go.\n\n**ないわけにはいかない × なければならない** (lesson 12-3): both are double negatives that end up meaning \"must\" — Sakubi describes なければならない as \"if not X, it won't do\". なければならない is **general necessity**: rules, laws, facts (ビザを更新しなければならない). ないわけにはいかない is **social or moral pressure** in a particular situation, often with \"I'd rather not, but…\": 部長に誘われたから、飲み会に行かないわけにはいかない.\n\n**ないわけにはいかない × わけにはいかない** (point a): one ない apart, opposite meanings. 行くわけにはいかない = I can't go. 行かないわけにはいかない = I have to go.\n\nGoing further (Sakubi): what often comes next is **しかたがない** or **しょうがない** — literally \"there's no way to do (anything about it)\", used like \"oh well\": 行かないわけにはいかない。しょうがない。 And at N2 you'll meet a stiffer, more written cousin: 〜ざるを得ない (行かざるを得ない).",
+      "structure": "[reason] から、[ない-form] わけにはいかない · polite: 〜ないわけにはいきません",
+      "examples": [
+        { "jp": "親友の結婚式だから、行かないわけにはいかない。", "kana": "しんゆうのけっこんしきだから、いかないわけにはいかない。", "romaji": "Shin'yū no kekkonshiki dakara, ikanai wake ni wa ikanai.", "en": "It's my best friend's wedding, so I can't not go." },
+        { "jp": "約束したんだから、手伝わないわけにはいかないよ。", "kana": "やくそくしたんだから、てつだわないわけにはいかないよ。", "romaji": "Yakusoku shita n dakara, tetsudawanai wake ni wa ikanai yo.", "en": "I promised, so I can't not help." },
+        { "jp": "部長に誘われたから、飲み会に行かないわけにはいかない。", "kana": "ぶちょうにさそわれたから、のみかいにいかないわけにはいかない。", "romaji": "Buchō ni sasowareta kara, nomikai ni ikanai wake ni wa ikanai.", "en": "The manager invited me, so I can't really skip the drinking party." }
+      ],
+      "pitfalls": [
+        "Don't lose one of the two ないs. \"I have to go\": 行くわけにはいかない ✗ (= I can't go) → 行かないわけにはいかない ✓.",
+        "Only the plain ない-form goes before わけ; the politeness goes at the end: 行きませんわけにはいかない ✗ → 行かないわけにはいきません ✓.",
+        "For a rule or a law with no personal dilemma behind it, use なければならない: 日本では車は左側を走らないわけにはいかない ✗ → 日本では車は左側を走らなければならない ✓."
+      ],
+      "howToStudy": [
+        "Write 3 obligations from your own life in your notebook, each with the person or promise behind it: 〜から、〜ないわけにはいかない。",
+        "🔬 Anatomy → Analyze: paste example 1. 結婚式だから is the REASON, and the end splits into 行かないわけには (DESTINATION) + いかない (PREDICATE). Count the two ないs, then read from the end: \"not going — won't do\".",
+        "Say this pair aloud three times, faster each time: 行くわけにはいかない (I can't go) × 行かないわけにはいかない (I have to go)."
+      ],
+      "flag": null
+    },
+    {
+      "id": "P-19-c",
+      "gc": null,
+      "title": "〜ないことはない (× 〜わけではない)",
+      "gloss": "it's not that I can't · I could, if I had to",
+      "explanation": "〜ないことはない is a double negative that gives a **weak, reluctant yes**: literally \"there is no such thing as [not X]\" → \"it's not that I can't\" → \"I can, sort of, but…\". It usually comes with けど and a reservation.\n• 辛い料理も食べられないことはないけど、あまり好きじゃない。 (I can eat spicy food if I have to, but I don't really like it.)\n• 今から急げば、間に合わないことはない。 (If we hurry now, we can still make it — just.)\n• It is most common after a **potential verb** or わからない: 読めないことはない, 行けないことはない, わからないことはない.\n• After an ordinary verb it means \"it's not that I never do it\": お酒は飲まないことはない (I do drink, now and then).\n• Softer and more roundabout: **〜ないこともない** (も instead of は): 行けないこともない (I suppose I could go).\n\n**Forms:** ない-form + ことはない. Polite: 〜ないことはありません.\n\n**The sentence, block by block.** 🔬 shows the literal shape: [間に合わないことは] (TOPIC) + [ない] (PREDICATE: \"doesn't exist\"). こと is \"a thing, a case\" — Sakubi calls こと and もの generic nouns that turn a whole phrase into a noun. So: \"the case of not making it — there isn't one.\" But read ないことはない as one block: \"it's possible (though not great)\".\n\n**ないことはない × わけではない** (lesson P-07): both sound like \"it's not that…\", but they do different jobs.\n• ないことはない **grants a possibility**: 食べられないことはない = \"I can eat it (if I must)\".\n• わけではない **rejects a conclusion** the listener might draw: 辛い料理が嫌いなわけではない = \"it's not that I dislike spicy food\" (the real reason is something else — maybe I'm just full).\nA quick test: if you can add \"…if I have to\", use ないことはない; if you are correcting what someone assumed, use わけではない.\n\n**Don't confuse it with 〜ことはない after the dictionary form**: 心配することはない = \"there's no need to worry\" (no ない before こと). One ない changes everything: 行くことはない (there's no need to go) × 行かないことはない (it's not that I never go).",
+      "structure": "[ない-form] ことはない (けど…) · softer: 〜ないこともない · × [dictionary form] ことはない = no need to",
+      "examples": [
+        { "jp": "辛い料理も食べられないことはないけど、あまり好きじゃない。", "kana": "からいりょうりもたべられないことはないけど、あまりすきじゃない。", "romaji": "Karai ryōri mo taberarenai koto wa nai kedo, amari suki ja nai.", "en": "I can eat spicy food if I have to, but I don't really like it." },
+        { "jp": "今から急げば、間に合わないことはない。", "kana": "いまからいそげば、まにあわないことはない。", "romaji": "Ima kara isogeba, maniawanai koto wa nai.", "en": "If we hurry now, we can still make it. [lit. there's no such thing as not making it]" },
+        { "jp": "日本語の新聞、読める？— 読めないことはないけど、時間がかかるよ。", "kana": "にほんごのしんぶん、よめる？— よめないことはないけど、じかんがかかるよ。", "romaji": "Nihongo no shinbun, yomeru? — Yomenai koto wa nai kedo, jikan ga kakaru yo.", "en": "Can you read Japanese newspapers? — I can, sort of, but it takes me a long time." }
+      ],
+      "pitfalls": [
+        "Keep both ないs. \"I could go, if I had to\": 行けることはない ✗ → 行けないことはない ✓.",
+        "Don't use it to correct an assumption about your feelings. \"It's not that I hate you\": 嫌いじゃないことはない ✗ (that would mean \"it's not that I don't hate you\") → 嫌いなわけではない ✓.",
+        "Dictionary form + ことはない is a different pattern. \"There's no need to worry\": 心配しないことはない ✗ → 心配することはない ✓."
+      ],
+      "howToStudy": [
+        "Answer 3 questions about yourself with a reluctant yes, out loud: 納豆、食べられる？— 食べられないことはないけど…; 朝五時に起きられる？— 起きられないことはないけど…; 漢字で手紙、書ける？— …",
+        "🔬 Anatomy → Analyze: paste example 2. 急げば is IF / WHEN, 間に合わないことは is the TOPIC and ない the PREDICATE (\"doesn't exist\"): \"the case of not making it — there is none\". Then paste example 1: there the whole 食べられないことはないけど is one …BUT block, and 好きじゃない is the PREDICATE.",
+        "Say this trio aloud and match each one to a situation: 行けないことはない (I could go, if I had to) × 行けないわけではない (it's not that I can't go — there's another reason) × 行くわけにはいかない (I can't go — it wouldn't be right)."
+      ],
+      "flag": "ないことはない and わけではない overlap: in a sentence like 行けないことはない／行けないわけではない, both are natural and very close in meaning. The test given here (granting a possibility × correcting an assumption) is the usual explanation in learner grammar references, not a strict rule, so if you hear one where you expected the other, it is probably not a mistake."
+    }
+  ],
+  "media": [
+    { "order": 1, "kind": "reading", "title": "JLPT Sensei: the pages on 〜わけにはいかない and 〜ないことはない, with more example sentences", "where": "Website · JLPT Sensei (grammar lists by level)", "url": "", "search": "JLPT Sensei wake ni wa ikanai", "when": "After the grammar block. Read the example sentences aloud. If the site lists a point at another level, that's fine: unofficial lists vary." },
+    { "order": 2, "kind": "video", "title": "Japanese Ammo with Misa: 〜わけにはいかない (a second explanation)", "where": "YouTube · Japanese Ammo with Misa channel", "url": "", "search": "Japanese Ammo with Misa wake ni wa ikanai", "when": "After point b. If there's no video on it, search her channel for her videos on わけ and watch the part on わけにはいかない." },
+    { "order": 3, "kind": "input", "title": "YUYUの日本語Podcast: listen to one episode and note every わけにはいかない or ないことはない you catch", "where": "Podcast · YUYUの日本語Podcast", "url": "", "search": "YUYUの日本語Podcast", "when": "On any day after the lesson. Pick an episode about her daily life or work: that's where obligations and \"I could, but…\" come up." },
+    { "order": 4, "kind": "reading", "title": "Search in Japanese: 「ないわけにはいかない なければならない 違い」 — pages by Japanese teachers that explain the difference with many examples", "where": "Web search · in Japanese", "url": "", "search": "ないわけにはいかない なければならない 違い", "when": "After the homework. Read the example sentences first; if the explanation itself is still too hard, leave it for later and come back after a few more lessons." }
+  ],
+  "homework": {
+    "intro": "Do it by hand in your notebook. Write with the kanji you already know and use kana for the rest. Only then open the answer key, item by item. Circle what you got wrong and redo it the next day.",
+    "tasks": [
+      {
+        "id": "h1",
+        "type": "fill",
+        "prompt": "Complete each sentence with 〜わけにはいかない or 〜ないわけにはいかない, using the verb in brackets (polite where the sentence is polite).",
+        "items": [
+          { "q": "明日は試験だから、今夜は遊びに（行く）＿＿。", "a": { "jp": "明日は試験だから、今夜は遊びに行くわけにはいかない。", "kana": "あしたはしけんだから、こんやはあそびにいくわけにはいかない。", "romaji": "Ashita wa shiken dakara, kon'ya wa asobi ni iku wake ni wa ikanai." }, "note": "I could go out, but it wouldn't be sensible: わけにはいかない." },
+          { "q": "部長に頼まれた仕事だから、（やる）＿＿。", "a": { "jp": "部長に頼まれた仕事だから、やらないわけにはいかない。", "kana": "ぶちょうにたのまれたしごとだから、やらないわけにはいかない。", "romaji": "Buchō ni tanomareta shigoto dakara, yaranai wake ni wa ikanai." }, "note": "I have no choice but to do it: ないわけにはいかない." },
+          { "q": "友だちが困っているから、（手伝う）＿＿。", "a": { "jp": "友だちが困っているから、手伝わないわけにはいかない。", "kana": "ともだちがこまっているから、てつだわないわけにはいかない。", "romaji": "Tomodachi ga komatte iru kara, tetsudawanai wake ni wa ikanai." } },
+          { "q": "これは母からの大切な手紙なので、（捨てる）＿＿。", "a": { "jp": "これは母からの大切な手紙なので、捨てるわけにはいきません。", "kana": "これはははからのたいせつなてがみなので、すてるわけにはいきません。", "romaji": "Kore wa haha kara no taisetsu na tegami na node, suteru wake ni wa ikimasen." }, "note": "Polite ending: わけにはいきません." },
+          { "q": "薬を飲んでいるから、お酒を（飲む）＿＿。", "a": { "jp": "薬を飲んでいるから、お酒を飲むわけにはいかない。", "kana": "くすりをのんでいるから、おさけをのむわけにはいかない。", "romaji": "Kusuri o nonde iru kara, osake o nomu wake ni wa ikanai." }, "note": "I'm taking medicine, so drinking wouldn't be right: わけにはいかない." }
+        ]
+      },
+      {
+        "id": "h2",
+        "type": "fill",
+        "prompt": "Fill in 〜ないことはない or 〜わけではない (in the right form) and say why.",
+        "items": [
+          { "q": "納豆は（食べられる）＿＿けど、あまり好きじゃない。", "a": { "jp": "納豆は食べられないことはないけど、あまり好きじゃない。", "kana": "なっとうはたべられないことはないけど、あまりすきじゃない。", "romaji": "Nattō wa taberarenai koto wa nai kedo, amari suki ja nai." }, "note": "A reluctant \"I can, if I must\": ないことはない." },
+          { "q": "日本の料理が（嫌い）＿＿。今日はお腹がすいていないだけです。", "a": { "jp": "日本の料理が嫌いなわけではありません。今日はお腹がすいていないだけです。", "kana": "にほんのりょうりがきらいなわけではありません。きょうはおなかがすいていないだけです。", "romaji": "Nihon no ryōri ga kirai na wake de wa arimasen. Kyō wa onaka ga suite inai dake desu." }, "note": "Correcting an assumption, then the real reason: わけではない. Polite, because the next sentence ends in です." },
+          { "q": "一時間あれば、（終わる）＿＿。", "a": { "jp": "一時間あれば、終わらないことはない。", "kana": "いちじかんあれば、おわらないことはない。", "romaji": "Ichijikan areba, owaranai koto wa nai." }, "note": "Granting a possibility: \"with an hour, it's possible to finish\"." },
+          { "q": "毎日勉強しているからといって、全部（わかる）＿＿。", "a": { "jp": "毎日勉強しているからといって、全部わかるわけではない。", "kana": "まいにちべんきょうしているからといって、ぜんぶわかるわけではない。", "romaji": "Mainichi benkyō shite iru kara to itte, zenbu wakaru wake de wa nai." }, "note": "からといって + 全部 = \"just because… doesn't mean all…\": わけではない (lesson P-07)." },
+          { "q": "漢字は（書ける）＿＿けど、時間がかかる。", "a": { "jp": "漢字は書けないことはないけど、時間がかかる。", "kana": "かんじはかけないことはないけど、じかんがかかる。", "romaji": "Kanji wa kakenai koto wa nai kedo, jikan ga kakaru." }, "note": "I can, sort of: ないことはない + けど + the reservation." }
+        ]
+      },
+      {
+        "id": "h3",
+        "type": "translate",
+        "prompt": "Translate into Japanese.",
+        "items": [
+          { "q": "I can't not go to my colleague's farewell party.", "a": { "jp": "同僚の送別会に行かないわけにはいかない。", "kana": "どうりょうのそうべつかいにいかないわけにはいかない。", "romaji": "Dōryō no sōbetsukai ni ikanai wake ni wa ikanai." } },
+          { "q": "I promised my kids, so I can't be late.", "a": { "jp": "子どもと約束したから、遅れるわけにはいかない。", "kana": "こどもとやくそくしたから、おくれるわけにはいかない。", "romaji": "Kodomo to yakusoku shita kara, okureru wake ni wa ikanai." } },
+          { "q": "I can drive, but I don't like it.", "a": { "jp": "運転できないことはないけど、好きじゃない。", "kana": "うんてんできないことはないけど、すきじゃない。", "romaji": "Unten dekinai koto wa nai kedo, suki ja nai." }, "note": "The reluctant yes: ないことはない + けど." },
+          { "q": "There's no need to worry.", "a": { "jp": "心配することはない。", "kana": "しんぱいすることはない。", "romaji": "Shinpai suru koto wa nai." }, "note": "Dictionary form + ことはない = no need to. No ない before こと." },
+          { "q": "It's not that I can't cook — I just don't have time.", "a": { "jp": "料理ができないわけではない。時間がないだけだ。", "kana": "りょうりができないわけではない。じかんがないだけだ。", "romaji": "Ryōri ga dekinai wake de wa nai. Jikan ga nai dake da." }, "note": "Correcting an assumption and giving the real reason: わけではない (料理ができないことはない would sound like \"I can cook, sort of\")." }
+        ]
+      },
+      {
+        "id": "h4",
+        "type": "produce",
+        "prompt": "Write a short message (4 sentences) to a friend explaining why you can't come to their party this weekend. Use 〜わけにはいかない, 〜ないわけにはいかない and 〜ないことはない once each. Read it aloud and record yourself.",
+        "items": [
+          { "q": "Model (match its structure, not its words):", "a": { "jp": "ごめん、土曜日のパーティーには行けないんだ。部長に頼まれて、会議の資料を作らないわけにはいかなくなって…。月曜日の会議で使うから、遅れるわけにはいかないんだ。日曜日の夜なら会えないことはないけど、どう？", "kana": "ごめん、どようびのパーティーにはいけないんだ。ぶちょうにたのまれて、かいぎのしりょうをつくらないわけにはいかなくなって…。げつようびのかいぎでつかうから、おくれるわけにはいかないんだ。にちようびのよるならあえないことはないけど、どう？", "romaji": "Gomen, doyōbi no pātī ni wa ikenai n da. Buchō ni tanomarete, kaigi no shiryō o tsukuranai wake ni wa ikanaku natte…. Getsuyōbi no kaigi de tsukau kara, okureru wake ni wa ikanai n da. Nichiyōbi no yoru nara aenai koto wa nai kedo, dō?", "en": "Sorry, I can't make it to the party on Saturday. My manager asked me to prepare the materials for a meeting, and now I've got no choice but to do it… They're for Monday's meeting, so I can't be late with them. I could meet up on Sunday evening, though — how about it?" }, "note": "Check: the dictionary form before わけにはいかない, two ないs in ないわけにはいかない, a reluctant yes with ないことはない + けど, and a casual style all the way through (ending in んだ, not です)." }
+        ]
+      }
+    ],
+    "workbook": []
+  },
+  "practice": [
+    { "tool": "Wagotabi", "what": "Play in the game's N3 area. Hunt for わけにはいかない, ないわけにはいかない and ないことはない in the dialogues — and for the reason that comes before them. When you find one, pause and say out loud which of the three it is and what obligation or doubt is behind it. Log the session in Immersion → Games, paste the line into 🔬 Anatomy and save it with Mining (⛏). Each time you meet one again in the game, come back to its point here and re-read it: grammar settles through real Japanese, not through one explanation.", "min": 15 },
+    { "tool": "NHK NEWS WEB EASY", "what": "Read one article with a pop-up dictionary such as Yomitan and listen to its audio. If you find a person or a company in a dilemma, say their situation with this lesson's patterns (e.g. 〜は値段を上げないわけにはいかない). If not, pick one fact from the article and react to it with 〜わけにはいかない or 〜ないことはない.", "min": 10 },
+    { "tool": "ヅオリンゴー · Journal", "what": "Write 5 sentences of your own: two with わけにはいかない (one with ない in front), two with ないことはない, and one with わけではない that corrects an assumption. Use \"Anatomy of what I wrote\" and check that わけにはいかない and ことはない sit at the very end, inside the predicate.", "min": 10 },
+    { "tool": "Shadowing", "what": "Tap 🔊 on each example in this lesson and repeat along 3 times. Then contrast the pairs aloud, slowly first and then at full speed: 行くわけにはいかない・行かないわけにはいかない; 行けないことはない・行けないわけではない.", "min": 5 },
+    { "tool": "Speaking", "what": "Role-play for 30–60 seconds: a friend invites you to three things (a party, a trip, a karaoke night). Answer the first with 〜わけにはいかない, the second with 〜ないわけにはいかない (a reason you must go somewhere else), and the third with 〜ないことはないけど… Record yourself and listen back.", "min": 5 }
+  ],
+  "culture": {
+    "title": "Giri: social obligations",
+    "titleJp": "義理",
+    "body": "**義理** (ぎり) is the sense of obligation that comes from a relationship: to your boss and colleagues, to relatives, to neighbors, to anyone who has helped you. It shows up in customs like going to a colleague's wedding or funeral, sending summer gifts (お中元, おちゅうげん) and year-end gifts (お歳暮, おせいぼ) to people you feel indebted to, and giving 義理チョコ — \"obligation chocolate\" — on Valentine's Day (lesson 14-1). The pull between 義理 and 人情 (にんじょう, personal feelings) is a classic theme in older dramas and stories. In recent years many people, especially younger ones, and many workplaces have scaled back some of these customs, so how strongly people feel 義理 varies a lot. It is exactly the feeling behind 〜ないわけにはいかない.",
+    "try": "Think of 3 obligations in your own life — a person, a promise, a custom — and say each one with this lesson's pattern: 〜から、〜ないわけにはいかない。 Then add how you really feel: …けど、ちょっと面倒だ or …し、楽しみだ."
+  },
+  "checklist": [
+    "I can say that I can't do something because it wouldn't be right, with 〜わけにはいかない, without looking.",
+    "I can say that I have no choice but to, with 〜ないわけにはいかない, and I never lose one of the two ないs.",
+    "I know when to use the potential negative (泳げない) or なければならない instead of わけにはいかない.",
+    "I can give a reluctant yes with 〜ないことはないけど…",
+    "I can choose between ないことはない and わけではない, and I know that 〜することはない means \"there's no need to\".",
+    "I did the homework, checked it against the answer key and redid what I got wrong."
+  ],
+  "credits": [
+    "Explanations adapted in part from Sakubi (public domain, CC0) — sakubi.neocities.org",
+    "Study method informed by the DJT Guide to Japanese — djtguide.neocities.org/guide"
+  ]
+}

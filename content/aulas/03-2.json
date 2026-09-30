@@ -64,7 +64,7 @@
       "gc": "3-3",
       "title": "を: the object",
       "gloss": "answers \"what?\"",
-      "explanation": "A sentence with a verb is a row of **blocks**, and each block is [word + particle]. The particle is the **label** that says what job that block does. The first label in this lesson is **を** (read **o**).\n• を goes **after** the thing that receives the action: what is eaten, drunk, watched, read, listened to or done. The block [thing + を] is the **OBJECT**, and it answers the question **\"what?\"** asked of the verb at the end.\n• コーヒーを のみます: \"I drink what?\" → coffee.\n• The label goes **after** the word. English says \"I drink coffee\"; Japanese says \"coffee-を drink\".\n• With する, the object is often an activity: テニスを します (\"I play tennis\", literally \"I do tennis\").\n• Questions: replace the thing with **なに** and keep を: なにを たべますか。 (\"What do you eat?\")\n• Verbs of movement (いく, くる, かえる) do **not** take を to say where someone goes: the destination has a different label (point 4c).",
+      "explanation": "A sentence with a verb is a row of **blocks**, and each block is [word + particle]. The particle is the **label** that says what job that block does for the verb. Grammar books call these jobs **cases**, and particles like を, で and に are **case markers**.\n**This is the big difference from English.** English shows each word's job by its **position**: \"the dog bites the man\" and \"the man bites the dog\" use the same words, and only the order tells you who bites. Japanese shows the job with the **label**, so a block keeps its job even if it moves. Always look at the label, not the position.\nThe first label in this lesson is **を** (read **o**).\n• を goes **after** the thing that receives the action: what is eaten, drunk, watched, read, listened to or done. The block [thing + を] is the **OBJECT**, and it answers the question **\"what?\"** asked of the verb at the end.\n• コーヒーを のみます: \"I drink what?\" → coffee.\n• Particles work like English prepositions placed **after** the word. English says \"I drink coffee\"; Japanese says \"coffee-を drink\".\n• A label covers the **whole block** before it, not just the last word: in すずきさんの ほんを よみます, を marks all of \"Mr./Ms. Suzuki's book\".\n• With する, the object is often an activity: テニスを します (\"I play tennis\", literally \"I do tennis\").\n• Questions: replace the thing with **なに** and keep を: なにを たべますか。 (\"What do you eat?\")\n• Verbs of movement (いく, くる, かえる, and also はいる, \"to enter\") do **not** take を for the place someone goes, even when English has no \"to\" (\"enter the library\"): the destination has a different label (point 4c).",
       "structure": "[thing] を [verb]  → answers \"what?\"",
       "examples": [
         { "jp": "アナさんは ざっしを よみます。", "kana": "アナさんは ざっしを よみます。", "romaji": "Ana-san wa zasshi o yomimasu.", "en": "Ana reads magazines." },
@@ -78,7 +78,7 @@
       ],
       "howToStudy": [
         "For each Lesson 3 verb, say out loud one thing + を: ほんを よみます, おちゃを のみます, テレビを みます…",
-        "Tap 🔬 on the examples: the block with を shows up as OBJECT. Ask the ★ PREDICATE \"what?\" and check that the answer is that block.",
+        "Tap 🔬 on the examples: the block with を shows up as OBJECT. Ask the ★ PREDICATE \"what?\" and check that the answer is that block. Then find the label first, before you even read the word: the label tells you the job.",
         "In your notebook, write 3 sentences \"I do X\" and 3 \"I don't do X\" (〜を 〜ません)."
       ],
       "flag": null
@@ -88,7 +88,7 @@
       "gc": null,
       "title": "で: where the action happens",
       "gloss": "the stage of the action",
-      "explanation": "で marks **the place where an action happens**: the stage where someone eats, studies, watches or plays. The block [place + で] is the **PLACE** of the action, and it answers **\"where does it happen?\"**.\n• としょかんで べんきょうします: I study where? → at the library.\n• Use で with **activity** verbs: たべる, のむ, みる, よむ, きく, する, べんきょうする…\n• English helps here: \"**at / in** the library\" for where you do something is で; \"**to** the library\" for where you go is に / へ (next point). The question that decides it is: **does the person do something there (で) or go there (に)?**\n• Questions: どこで 〜ますか。 (\"Where do you…?\")\n• Saying where a thing **is** (exists) is a different structure, with に and another verb (lesson 04-1).\n• で has one more use, the **means** (\"by bus\"), which waits until lesson 10-3. In this lesson, で = the place of the action.",
+      "explanation": "で marks the **setting of an action**: the circumstances in which it happens. The most common setting is a place: **the place where an action happens**, the stage where someone eats, studies, watches or plays. The block [place + で] is the **PLACE** of the action, and it answers **\"where does it happen?\"**.\n• としょかんで べんきょうします: I study where? → at the library.\n• Use で with **activity** verbs: たべる, のむ, みる, よむ, きく, する, べんきょうする…\n• English helps here: \"**at / in** the library\" for where you do something is で; \"**to** the library\" for where you go is に / へ (next point). The question that decides it is: **does the person do something there (で) or go there (に)?**\n• Questions: どこで 〜ますか。 (\"Where do you…?\")\n• Saying where a thing **is** (exists) is a different structure, with に and another verb (lesson 04-1).\n• で has one more use, the **means** (\"by bus\"), which waits until lesson 10-3. It is the same idea, the circumstances of the action: first *where* it happens, later *with what*. In this lesson, で = the place of the action.\n• **Going further (Sakubi):** で began as a contraction of an older pair of particles, にて, which you can still find in old-fashioned or very formal writing.",
       "structure": "[place] で [object] を [verb]  → で answers \"where does it happen?\"",
       "examples": [
         { "jp": "わたしは としょかんで ほんを よみます。", "kana": "わたしは としょかんで ほんを よみます。", "romaji": "Watashi wa toshokan de hon o yomimasu.", "en": "I read books at the library." },
@@ -112,7 +112,7 @@
       "gc": null,
       "title": "に / へ: where to (destination)",
       "gloss": "the arrow of movement",
-      "explanation": "に and へ mark the **destination** of verbs of movement: いく (to go), くる (to come), かえる (to go back home). The block [place + に / へ] is the **DESTINATION**, and it answers **\"where to?\"**.\n• だいがくに いきます = だいがくへ いきます: \"I go to the university\".\n• As a particle, へ is read **e**, not \"he\" — just as は is read wa.\n• For destinations the two are practically interchangeable. へ puts a little more weight on the **direction** (\"toward\"); に, on the **point of arrival**. When in doubt, use に.\n• に has other uses that へ doesn't, such as clock times (しちじに, lesson 03-3). So **へ is only for direction**.\n• かえる means going back to your base: うちに かえります (I go home), ブラジルに かえります (I go back to Brazil).\n• Questions: どこに いきますか。 / どこへ いきますか。",
+      "explanation": "に and へ mark the **destination** of verbs of movement: いく (to go), くる (to come), かえる (to go back home). The block [place + に / へ] is the **DESTINATION**, and it answers **\"where to?\"**.\n• だいがくに いきます = だいがくへ いきます: \"I go to the university\".\n• As a particle, へ is read **e**, not \"he\" — just as は is read wa.\n• For destinations the two are practically interchangeable. へ cares more about the **motion** (\"to, toward\"); に cares more about the **place itself**, the point where you arrive. When in doubt, use に.\n• に has other uses that へ doesn't, such as clock times (しちじに, lesson 03-3). So **へ is only for direction**.\n• かえる means going back to your base: うちに かえります (I go home), ブラジルに かえります (I go back to Brazil).\n• **に where English has no \"to\":** some verbs take に for a word that looks like an object in English. In this lesson it is **はいる** (to enter): としょかんに はいります (\"I enter the library\"). When a verb can't take を for such a word, に is usually the first choice to try; you will see this again with other verbs, such as あう (to meet someone).\n• Questions: どこに いきますか。 / どこへ いきますか。\n• **Going further (Sakubi):** the partner of に / へ is から (\"from\"), the starting point of the movement: うちから だいがくに いきます (\"I go from home to the university\").",
       "structure": "[destination] に / へ [いく・くる・かえる]  → answers \"where to?\"",
       "examples": [
         { "jp": "マリアさんは あした リオに いきます。", "kana": "マリアさんは あした リオに いきます。", "romaji": "Maria-san wa ashita Rio ni ikimasu.", "en": "Maria is going to Rio tomorrow." },
@@ -122,13 +122,13 @@
       "pitfalls": [
         "へ as a particle is read \"e\": にほんへ = \"Nihon he\" ✗ → \"Nihon e\" ✓.",
         "English \"go home\" has no \"to\", but Japanese still needs the destination particle — and it is never を or で: うち かえります ✗ / うちを かえります ✗ / うちで かえります ✗ → うちに かえります ✓.",
-        "へ does not mark clock times: しちじへ おきます ✗ → しちじに おきます ✓.",
+        "\"Enter the library\" looks like verb + object in English, but はいる takes に: としょかんを はいります ✗ → としょかんに はいります ✓.",
         "かえる means going back home (or to the country or city where you live). Going back to the university after lunch is not かえる: だいがくに かえります ✗, unless you live there. To \"go back\" to any other place, Japanese uses another verb (もどる), which is not in this lesson."
       ],
       "howToStudy": [
         "Say out loud 3 places you always go to and 1 place you don't: 〜に いきます / 〜に いきません.",
         "Read out loud 5 destinations with へ, making sure you say \"e\": にほんへ, うちへ, がっこうへ, リオへ, だいがくへ.",
-        "In your notebook, write 3 pairs with different places: \"I go to the library\" (としょかんに いきます) × \"I study at the library\" (としょかんで べんきょうします)."
+        "In your notebook, write 3 pairs with different places: \"I go to the library\" (としょかんに いきます) × \"I study at the library\" (としょかんで べんきょうします). Add one with はいる, too: としょかんに はいります."
       ],
       "flag": null
     },
@@ -137,7 +137,7 @@
       "gc": "3-4",
       "title": "は: topic and contrast",
       "gloss": "\"as for…\"",
-      "explanation": "You know は from lesson 01-1: it marks the **TOPIC**, what the sentence is going to talk about (\"as for X…\"). With verbs, the topic is usually the person: わたしは おちゃを のみます (\"as for me, I drink tea\").\n• は is the sentence's **heading**, not a \"who does it\" label. Often the topic is the one doing the action (わたしは), but many things can become the topic: the person, the object, the place, the time.\n• **Contrast:** は also sets one thing against another, whether the other is said or only implied. コーヒーは のみます。おさけは のみません。 = \"Coffee, I drink. Alcohol, I don't.\" English does something similar when it moves the object to the front and stresses it.\n• When the object becomes the topic, **は replaces を**: おさけを → おさけは.\n• With で and に, **は comes after** and the particle stays: うちでは (\"at home, …\"), がっこうには (\"to school, …\").\n• In a negative sentence, は often sounds like contrast: \"not this (but something else, yes)\".\n• If the topic is already clear, it disappears: you don't need to repeat わたしは in every sentence.",
+      "explanation": "You know は from lesson 01-1: it marks the **TOPIC**, what the sentence is going to talk about (\"as for X…\"). With verbs, the topic is usually the person: わたしは おちゃを のみます (\"as for me, I drink tea\").\n• は is the sentence's **heading**, not a \"who does it\" label. Unlike を, で and に, it is not a case marker: it doesn't say what job the word does for the verb, it just says \"this is what I'm talking about\". Often the topic is the one doing the action (わたしは), but many things can become the topic: the person, the object, the place, the time.\n• **Contrast:** は also sets one thing against another, whether the other is said or only implied. コーヒーは のみます。おさけは のみません。 = \"Coffee, I drink. Alcohol, I don't.\" English does something similar when it moves the object to the front and stresses it.\n• When the object becomes the topic, **は replaces を**: おさけを → おさけは.\n• With で and に, **は comes after** and the particle stays: うちでは (\"at home, …\"), がっこうには (\"to school, …\").\n• In a negative sentence, は often sounds like contrast: \"not this (but something else, yes)\".\n• If the topic is already clear, it disappears: you don't need to repeat わたしは in every sentence. In fact, saying something that is obvious makes it sound **emphasized**, so repeating わたしは sounds like \"as for ME…\" every time.\n• **Going further (Sakubi):** は is often confused with が, the **subject** particle (lesson 08-3), which marks who does the action and can put the focus on it (\"*Tanaka* is the one who's coming\"). They are not two versions of the same thing: は is the heading, が is a job label. For now, use は for the topic.",
       "structure": "[topic] は …  ·  contrast: A は 〜ます。B は 〜ません。",
       "examples": [
         { "jp": "コーヒーは のみます。おさけは のみません。", "kana": "コーヒーは のみます。おさけは のみません。", "romaji": "Kōhī wa nomimasu. Osake wa nomimasen.", "en": "Coffee, I drink. Alcohol, I don't. [lit. as for coffee, (I) drink; as for alcohol, (I) don't drink]" },
@@ -147,7 +147,8 @@
       "pitfalls": [
         "は and を don't go together: おさけをは のみません ✗ → おさけは のみません ✓.",
         "では is written with は and read \"de wa\": うちでわ ✗ → うちでは ✓.",
-        "The topic is not always the one doing the action. おさけは のみません: \"the alcohol doesn't drink\" ✗ → \"alcohol, (I) don't drink (it)\" ✓."
+        "The topic is not always the one doing the action. おさけは のみません: \"the alcohol doesn't drink\" ✗ → \"alcohol, (I) don't drink (it)\" ✓.",
+        "Repeating the obvious topic sounds insistent: わたしは あさ コーヒーを のみます。わたしは パンを たべます ✗ → わたしは あさ コーヒーを のみます。パンを たべます ✓."
       ],
       "howToStudy": [
         "Speaking: make 3 true contrast pairs about yourself (food, drinks, places): 〜は 〜ます。〜は 〜ません。",
@@ -161,7 +162,7 @@
       "gc": "3-8",
       "title": "Word order: putting the blocks together",
       "gloss": "verb at the end; topic and time at the start",
-      "explanation": "Now put it all together. A Japanese sentence is a **row of labeled blocks**, and the **PREDICATE** (the verb in ます) closes the row. The most common order is this:\n• 1st **TOPIC** [〜は]: who or what the sentence is about.\n• 2nd **TIME** [きょう, あした, こんばん…]: when. These words take no particle; clock times take に (lesson 03-3).\n• 3rd **PLACE** [〜で] or **DESTINATION** [〜に / へ]: where it happens, or where someone goes.\n• 4th **OBJECT** [〜を]: what.\n• 5th **PREDICATE** [〜ます / 〜ません]: what happens. **Always at the end.**\n**Two fixed rules:** the predicate stays at the end, and each particle stays **stuck right after** its word.\n**One flexible rule:** the blocks in the middle can swap places, because the labels say which is which. わたしは としょかんで ほんを よみます and わたしは ほんを としょかんで よみます mean the same thing (the first is more common). Time and topic can also swap at the start: こんばん、わたしは…\n**How to READ:** go straight to the end, find the ★ predicate (よみます, \"read\") and ask it questions: what? → ほんを. Where? → としょかんで. Who? → わたしは.\n**How to BUILD:** after the topic, Japanese is roughly English in a mirror: \"(I) read books at the library today\" → きょう · としょかんで · ほんを · よみます. So choose the verb and write it at the end of the line; then fill in from right to left: object → place or destination → time → topic.\n**Questions:** replace the block with the question word, in the same place, and put か at the end: どこで ほんを よみますか。 / なにを よみますか。",
+      "explanation": "Now put it all together. A Japanese sentence is a **row of labeled blocks**, and the **PREDICATE** (the verb in ます) closes the row. English puts the verb in the middle (I · read · books); Japanese makes it **wait for the end** (わたしは · ほんを · よみます). The most common order is this:\n• 1st **TOPIC** [〜は]: who or what the sentence is about.\n• 2nd **TIME** [きょう, あした, こんばん…]: when. These words take no particle; clock times take に (lesson 03-3).\n• 3rd **PLACE** [〜で] or **DESTINATION** [〜に / へ]: where it happens, or where someone goes.\n• 4th **OBJECT** [〜を]: what.\n• 5th **PREDICATE** [〜ます / 〜ません]: what happens. **Always at the end.**\n**Two fixed rules:** the predicate stays at the end, and each particle stays **stuck right after** its word.\n**One flexible rule:** the blocks in the middle can swap places, because the labels say which is which (English can't do this, because it relies on word order). わたしは としょかんで ほんを よみます and わたしは ほんを としょかんで よみます mean the same thing; at most, the emphasis shifts a little (the first order is more common). Time and topic can also swap at the start: こんばん、わたしは…\n**A block can be long:** the label covers everything before it, so すずきさんの うちで is a single PLACE block (\"at Mr./Ms. Suzuki's house\"). Move it, and it moves as one piece.\n**How to READ:** go straight to the end, find the ★ predicate (よみます, \"read\") and ask it questions: what? → ほんを. Where? → としょかんで. Who? → わたしは.\n**How to BUILD:** after the topic, Japanese is roughly English in a mirror: \"(I) read books at the library today\" → きょう · としょかんで · ほんを · よみます. So choose the verb and write it at the end of the line; then fill in from right to left: object → place or destination → time → topic.\n**Questions:** replace the block with the question word, **in the same place**, and put か at the end: どこで ほんを よみますか。 / なにを よみますか。 English moves \"where\" and \"what\" to the front; Japanese leaves the question word exactly where the answer will go.",
       "structure": "[topic] は + [time] + [place] で / [destination] に + [object] を + [verb]ます",
       "examples": [
         { "jp": "アナさんは きょう だいがくで にほんごを べんきょうします。", "kana": "アナさんは きょう だいがくで にほんごを べんきょうします。", "romaji": "Ana-san wa kyō daigaku de nihongo o benkyō shimasu.", "en": "Today Ana will study Japanese at the university. [topic · time · place · object · predicate]" },
@@ -177,7 +178,7 @@
       "howToStudy": [
         "ヅオリンゴー → Drills → 🔬 Anatomy → 🧱 Build from the end: 5 sentences. Always start with the ★ PREDICATE and work to the left.",
         "On paper: write each block of the first example (アナさんは / きょう / だいがくで / にほんごを / べんきょうします) on a small slip, shuffle them and rebuild the sentence out loud. Then swap うちで and えいがを in the third example and notice that the meaning doesn't change.",
-        "Reading from the end: take 3 sentences from this lesson (or from Wagotabi), read the verb first and ask the questions out loud: what? where? where to? when? who?"
+        "Reading from the end: take 3 sentences from this lesson (or from Wagotabi), read the verb first and ask the questions out loud: what? where? where to? when? who? Then paste わたしは すずきさんの うちで ばんごはんを たべます into 🔬 Anatomy → 🔬 Analyze: すずきさんの shows up as DESCRIBES NEXT, attached to うちで (PLACE); together they are one place block. It will feel slow at first: the automatic feel comes from reading many sentences, not from one perfect pass."
       ],
       "flag": null
     }
@@ -200,7 +201,7 @@
           { "q": "ルーカスさんは あした リオ＿ いきます。", "a": { "jp": "に", "romaji": "ni", "en": "(へ is also correct)" }, "note": "He GOES there: the destination." },
           { "q": "コーヒーは のみます。でも、おちゃ＿ のみません。", "a": { "jp": "は", "romaji": "wa" }, "note": "Contrast: おちゃ becomes a topic, and は replaces を." },
           { "q": "がっこう＿ ひるごはんを たべます。", "a": { "jp": "で", "romaji": "de" }, "note": "Eating is an activity: the place takes で." },
-          { "q": "たなかさんは にほん＿ かえります。", "a": { "jp": "に", "romaji": "ni", "en": "(へ is also correct)" }, "note": "かえる is movement: a destination with に / へ." }
+          { "q": "ジョンさんは としょかん＿ はいります。", "a": { "jp": "に", "romaji": "ni", "en": "(へ is possible too, but に is the usual choice with はいる)" }, "note": "English \"enter the library\" has no \"to\", but はいる marks the place you go into with に, never を." }
         ]
       },
       {
@@ -244,8 +245,8 @@
     ]
   },
   "practice": [
-    { "tool": "Wagotabi", "what": "Play, and at every line ending in 〜ます or 〜ません, pause: find the verb at the end and hunt for the blocks with を, で, に / へ and は. Copy 3 sentences into your notebook and write the job above each block. Then log the session in Immersion → Games and paste one of them into 🔬 Anatomy to check.", "min": 20 },
-    { "tool": "ヅオリンゴー", "what": "Drills → Particles (を, で, に, へ, は). Then 🔬 Anatomy → 🧱 Build from the end: 5 sentences.", "min": 15 },
+    { "tool": "Wagotabi", "what": "Play, and at every line ending in 〜ます or 〜ません, pause: find the verb at the end and hunt for the blocks with を, で, に / へ and は. Copy 3 sentences into your notebook and write the job above each block. Then log the session in Immersion → Games and paste one of them into 🔬 Anatomy to check. Save the best one in Mining (⛏), with its translation, after looking up any unknown word in a dictionary: sentences from something you enjoy stick better than textbook ones.", "min": 20 },
+    { "tool": "ヅオリンゴー", "what": "First today's reviews in 🌊 All (this lesson's places, things and time words are there). Then Drills → Particles (を, で, に, へ, は) and 🔬 Anatomy → 🧱 Build from the end: 5 sentences.", "min": 15 },
     { "tool": "ヅオリンゴー", "what": "Journal: write 3 sentences about your plans for today, each with a place (で) or a destination (に). Use \"Anatomy of what I wrote\" to see whether each block got the job you wanted.", "min": 10 },
     { "tool": "Shadowing", "what": "Tap 🔊 on the examples and repeat them, making a tiny pause after each particle: アナさんは | きょう | だいがくで | にほんごを | べんきょうします. This trains your ear to separate the blocks.", "min": 5 },
     { "tool": "Speaking", "what": "Describe out loud 3 places in your home or your city and what you do in each one (〜で 〜を 〜ます), plus 2 places you go to (〜に いきます). Record yourself and listen: was the verb always at the end?", "min": 5 }
@@ -258,11 +259,16 @@
   },
   "checklist": [
     "I choose between で and に / へ by asking \"do they do something there, or go there?\", without hesitating.",
-    "I can read any sentence in this lesson starting from the predicate and name the job of each block.",
+    "I can read any sentence in this lesson starting from the predicate and name the job of each block from its label (particle), not from its position.",
     "I can build a sentence of 4–5 blocks in the order topic → time → place or destination → object → verb, without looking.",
     "I can make a contrast with は (〜は 〜ます。〜は 〜ません。) and I know that は replaces を.",
     "I read へ as \"e\" and を as \"o\" when they are particles.",
+    "I know that はいる (to enter) takes に, even though English \"enter the library\" has no \"to\".",
     "I did the homework, checked it against the answer key and redid what I got wrong.",
     "I did Workbook pages 33–34."
+  ],
+  "credits": [
+    "Explanations adapted in part from Sakubi (public domain, CC0) — sakubi.neocities.org",
+    "Study method informed by the DJT Guide to Japanese — djtguide.neocities.org/guide"
   ]
 }

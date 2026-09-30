@@ -1,0 +1,242 @@
+{
+  "id": "P-18",
+  "unit": "P-N3",
+  "genki": null,
+  "title": "Written style and reading",
+  "titleJp": "である体とニュースの読み方",
+  "canDo": [
+    "I can recognize the three styles of written Japanese — です／ます, だ and である — from the sentence endings, and rewrite a short text from one into another without mixing them.",
+    "I can use 〜である, 〜であった, 〜ではない and 〜であり、 in written sentences, and I know that である sounds odd in everyday speech.",
+    "I can follow a written text through its connectors: また, さらに, 一方, そのため, ただし and なお.",
+    "I can read a news sentence in layers: first the predicate of each clause, then the particles, then the long descriptions in front of each noun.",
+    "I can read a short NHK NEWS WEB EASY article with a pop-up dictionary and give its main point in one English sentence."
+  ],
+  "duration": {
+    "total": "70–90 min",
+    "blocks": [
+      { "t": "Warm-up: read aloud 3 sentences from any Japanese text you've read recently and say whether each one ends in です／ます or in a plain form", "min": 5 },
+      { "t": "Vocabulary: tap 🔊 on each word and repeat it twice; save the words you don't know yet with Mining (⛏), each inside one sentence from this lesson", "min": 10 },
+      { "t": "Grammar: points a (the three styles) and b (〜である), with the examples read aloud and one 🔬 each. If you split the lesson into two sessions, stop here.", "min": 20 },
+      { "t": "Grammar: points c (written connectors) and d (reading a news sentence in layers)", "min": 20 },
+      { "t": "Block 6: one NHK NEWS WEB EASY article read with the four steps of point d, then the reading or the video", "min": 10 },
+      { "t": "Notebook homework + checking it against the answer key", "min": 20 },
+      { "t": "Checklist (block 10) + write your questions in the lesson notebook", "min": 5 }
+    ]
+  },
+  "prereqs": {
+    "aulas": ["P-17"],
+    "skills": [
+      "Short (plain) forms of verbs, adjectives and nouns, present and past (lessons 08-1 and 09-1): the written styles are built on them.",
+      "Clauses that describe nouns (lessons 09-2 and 15-2): news sentences stack them, layer on layer.",
+      "The spoken connectors of lesson P-13 (しかし, だから, それに…): point c adds their written cousins.",
+      "〜という (lesson 20-3) and the compound particles of lesson P-09 (〜について, 〜によって): the news is full of them."
+    ],
+    "vocab": [
+      { "jp": "書き言葉", "kana": "かきことば", "romaji": "kakikotoba", "en": "written language" },
+      { "jp": "話し言葉", "kana": "はなしことば", "romaji": "hanashikotoba", "en": "spoken language" },
+      { "jp": "文体", "kana": "ぶんたい", "romaji": "buntai", "en": "writing style (です／ます, だ, である)" },
+      { "jp": "記事", "kana": "きじ", "romaji": "kiji", "en": "(news) article" },
+      { "jp": "見出し", "kana": "みだし", "romaji": "midashi", "en": "headline" },
+      { "jp": "発表する", "kana": "はっぴょうする", "romaji": "happyō suru", "en": "to announce; to present" },
+      { "jp": "市長", "kana": "しちょう", "romaji": "shichō", "en": "mayor" },
+      { "jp": "計画", "kana": "けいかく", "romaji": "keikaku", "en": "plan" },
+      { "jp": "予定", "kana": "よてい", "romaji": "yotei", "en": "plan, schedule; 〜予定だ = is scheduled to" },
+      { "jp": "首都", "kana": "しゅと", "romaji": "shuto", "en": "capital city" },
+      { "jp": "都市", "kana": "とし", "romaji": "toshi", "en": "city" },
+      { "jp": "文化", "kana": "ぶんか", "romaji": "bunka", "en": "culture" },
+      { "jp": "一部", "kana": "いちぶ", "romaji": "ichibu", "en": "a part; some (of)" },
+      { "jp": "医者", "kana": "いしゃ", "romaji": "isha", "en": "doctor" },
+      { "jp": "気温", "kana": "きおん", "romaji": "kion", "en": "(air) temperature" },
+      { "jp": "超える", "kana": "こえる", "romaji": "koeru", "en": "to go over, to exceed" },
+      { "jp": "火事", "kana": "かじ", "romaji": "kaji", "en": "(a) fire" },
+      { "jp": "けが人", "kana": "けがにん", "romaji": "keganin", "en": "injured person" },
+      { "jp": "一方", "kana": "いっぽう", "romaji": "ippō", "en": "on the other hand; meanwhile" },
+      { "jp": "さらに", "kana": "さらに", "romaji": "sara ni", "en": "furthermore, on top of that" },
+      { "jp": "そのため", "kana": "そのため", "romaji": "sono tame", "en": "for that reason, as a result" },
+      { "jp": "ただし", "kana": "ただし", "romaji": "tadashi", "en": "however (adds an exception or a condition)" },
+      { "jp": "なお", "kana": "なお", "romaji": "nao", "en": "note that; in addition (a side remark)" },
+      { "jp": "〜によると", "kana": "〜によると", "romaji": "-ni yoru to", "en": "according to…" }
+    ]
+  },
+  "grammar": [
+    {
+      "id": "P-18-a",
+      "gc": null,
+      "title": "Three styles: です／ます × だ × である",
+      "gloss": "choosing a style for writing — and sticking to it",
+      "explanation": "Every Japanese text is written in one **style** (文体), and the style shows at the **end of each sentence**:\n• **です／ます style** — polite. Letters, e-mails, blogs written for readers, NHK news (it is written to be read aloud), NHK NEWS WEB EASY, and most example sentences in this course so far.\n• **だ style** — the plain forms you use with friends (lesson 08-1), used in writing: diaries, personal essays, a lot of informal writing.\n• **である style** — plain but heavier and impersonal: reports, academic papers, newspaper editorials and columns, essays that argue a point, definitions. It uses である where だ would be (point b).\nThe だ and である styles together are the **plain style** (常体); です／ます is the **polite style** (敬体). You'll also see them called です・ます調 and だ・である調.\n\n**Newspapers** write the news in the plain style, and most sentences end in a plain verb or adjective: 発表した, 増えている, 高い. So the same news reads differently in the two media:\n• NHK: 市長は、…と話しました。\n• a newspaper: 市長は、…と話した。\n\n**The golden rule: one text, one style.** Mixing です／ます and plain endings in the same text is a classic learner mistake in essays. (Native writers sometimes switch on purpose, for effect — a skill for much later.) Inside a sentence, clauses before けど／から／ので can stay plain even in the polite style: it is the **end of the sentence** that sets the style.\n\n**Changing style, piece by piece:**\n• です → だ / である · でした → だった / であった\n• ではありません／じゃないです → ではない (in writing, ではない is more usual than じゃない)\n• でしょう → だろう / であろう\n• 〜ます → dictionary form · 〜ました → 〜た · 〜ません → 〜ない\n• い-adjectives just drop です: 高いです → 高い (never 高いだ).\n\n**The sentence, block by block.** The style lives **only in the predicate**. The TOPIC, the OBJECT, the QUOTE stay exactly the same: [市長は][…ルールを][変えると][話した／話しました]. So when you read, the predicate tells you not only what happened, but also **what kind of text you are in**.\n\n**です／ます × だ × である**: です／ます is politeness toward the reader; だ is plain and personal (a diary, a friend); である is plain and impersonal — the voice of a report or an argument.",
+      "structure": "polite: …です。／…ます。 · plain: …だ。／…た。／dictionary form。 · formal plain: …である。",
+      "examples": [
+        { "jp": "市長は、来年からごみのルールを変えると話した。", "kana": "しちょうは、らいねんからごみのルールをかえるとはなした。", "romaji": "Shichō wa, rainen kara gomi no rūru o kaeru to hanashita.", "en": "The mayor said they will change the garbage rules starting next year. (newspaper style: plain)" },
+        { "jp": "市長は、来年からごみのルールを変えると話しました。", "kana": "しちょうは、らいねんからごみのルールをかえるとはなしました。", "romaji": "Shichō wa, rainen kara gomi no rūru o kaeru to hanashimashita.", "en": "The mayor said they will change the garbage rules starting next year. (NHK style: です／ます)" },
+        { "jp": "日本語の勉強は楽しい。しかし、漢字を覚えるのは大変だ。", "kana": "にほんごのべんきょうはたのしい。しかし、かんじをおぼえるのはたいへんだ。", "romaji": "Nihongo no benkyō wa tanoshii. Shikashi, kanji o oboeru no wa taihen da.", "en": "Studying Japanese is fun. Learning kanji, however, is hard work. (essay style: だ)" }
+      ],
+      "pitfalls": [
+        "Don't mix styles in one text: 昨日は雨でした。だから、家にいた。 ✗ → 昨日は雨だった。だから、家にいた。 ✓ (or both sentences in です／ます ✓).",
+        "い-adjectives take no だ in the plain style: 漢字は難しいだ ✗ → 漢字は難しい ✓.",
+        "In a report or an essay, the negative of a noun is ではない, not the spoken じゃない: この問題は簡単じゃない ✗ → この問題は簡単ではない ✓."
+      ],
+      "howToStudy": [
+        "Take the model answer from any earlier homework written in です／ます and rewrite it in the だ style in your notebook — change only the end of each sentence.",
+        "🔬 Anatomy → Analyze: paste examples 1 and 2. Every block is the same — 市長は (TOPIC), ルールを (OBJECT), 変えると (QUOTE) — and only the PREDICATE changes: 話した × 話しました. The style lives at the end.",
+        "Open NHK NEWS WEB EASY and the website of a Japanese newspaper, look at 3 sentences from each, and say aloud which style each one is in and how you know."
+      ],
+      "flag": null
+    },
+    {
+      "id": "P-18-b",
+      "gc": null,
+      "title": "〜である",
+      "gloss": "the formal written \"is\"",
+      "explanation": "**である** is the written, formal version of だ: \"is\". Historically, だ itself comes from である (Sakubi). It attaches like だ — after a noun, or after a な-adjective **without な**: 学生である, 静かである, 大切である.\n\n**Its forms:**\n• present: 〜である · past: 〜であった\n• negative: 〜ではない · past negative: 〜ではなかった\n• \"probably\": 〜であろう (= だろう) — very formal\n• the joining form **〜であり、** (\"is…, and…\"): 東京は日本の首都であり、最大の都市でもある。 In writing, であり、 does the job that で、 does in speech (lesson 07-2).\n\n**Where you meet it:** reports, academic papers, editorials and columns, essays that argue a point, laws, and definitions (言葉は文化の一部である). In ordinary news articles most sentences end in plain verbs, so である is less frequent there.\n\n**What である can do that だ can't** (Sakubi): plain だ can't sit **right before a noun** — 医者だ父 is impossible. である can: **医者である父** (\"my father, who is a doctor\"). It is the formal way to put a noun inside a describing clause; in speech you'd say 医者の父 (lesson 01-1's の works here too).\n\n**Kana warning** (Sakubi): であった written in kana looks exactly like 出会った (\"met\"). Context tells you which: 大変であった (it was hard) × 駅で友だちに出会った (I ran into a friend at the station).\n\n**In speech:** である sounds like a formal speech, a ceremony or a documentary narrator — and from someone in a normal conversation it sounds theatrical, or like showing off. With people, use だ or です.\n\n**The sentence, block by block.** 〜である closes the **PREDICATE**, like です: [言葉は][文化の][一部である]. When 〜である sits before a noun, the whole block **DESCRIBES NEXT**: [医者である][父は]…\n\n**である × だ**: the same meaning and the same place in the sentence, but a different voice: だ is plain and personal, である is plain and impersonal. And である can go before a noun; だ can't.",
+      "structure": "[noun / な-adj] である · であった · ではない · であり、… · [noun] である + [noun]",
+      "examples": [
+        { "jp": "言葉は文化の一部である。", "kana": "ことばはぶんかのいちぶである。", "romaji": "Kotoba wa bunka no ichibu de aru.", "en": "Language is a part of culture." },
+        { "jp": "医者である父は、毎朝六時に家を出る。", "kana": "いしゃであるちちは、まいあさろくじにいえをでる。", "romaji": "Isha de aru chichi wa, maiasa rokuji ni ie o deru.", "en": "My father, who is a doctor, leaves home at six every morning." },
+        { "jp": "東京は日本の首都であり、最大の都市でもある。", "kana": "とうきょうはにほんのしゅとであり、さいだいのとしでもある。", "romaji": "Tōkyō wa Nihon no shuto de ari, saidai no toshi de mo aru.", "en": "Tokyo is the capital of Japan, and it is also its largest city.", "noAnat": true }
+      ],
+      "pitfalls": [
+        "No な before である: 静かなである ✗ → 静かである ✓ (just like 静かだ).",
+        "Plain だ can't go before a noun, but である can: 医者だ父 ✗ → 医者である父 ✓ (or 医者の父 ✓ in speech).",
+        "The negative is ではない, not \"であらない\": 簡単であらない ✗ → 簡単ではない ✓.",
+        "Don't use である with people: (to a colleague) 明日は休みである ✗ → 明日は休みです ✓."
+      ],
+      "howToStudy": [
+        "Write 3 definitions in the である style about things you know well, e.g. 寿司は日本の料理である。 / 漢字は中国から来た文字である。",
+        "🔬 Anatomy → Analyze: paste example 2. 医者である shows up as DESCRIBES NEXT, attached to 父は (the TOPIC), and 出る is the PREDICATE. Read it from the end: leaves home → who? my father → which father? the one who is a doctor.",
+        "Read example 3 aloud and pause at であり、: two facts about Tokyo, joined the way で、 joins them in speech. Then say it in speech style: 東京は日本の首都で、いちばん大きい都市でもあるよ。"
+      ],
+      "flag": null
+    },
+    {
+      "id": "P-18-c",
+      "gc": null,
+      "title": "Written connectors (また, さらに, 一方, そのため, ただし, なお)",
+      "gloss": "signposts between sentences — and the verb-stem comma",
+      "explanation": "Written Japanese has its own set of connectors. They usually **start a sentence**, followed by 、, and tell you **how the new sentence relates to the one before**. Learn them as signposts: when you see one, you already know what kind of information is coming next.\n• **また** — also, in addition (another fact of the same kind).\n• **さらに** — furthermore, on top of that (adding something more, often bigger).\n• **一方** (いっぽう) — on the other hand / meanwhile (a contrast between two sides, two places, two groups).\n• **そのため** — for that reason, as a result (what happened because of the previous sentence).\n• **ただし** — however, but note: an **exception or a condition** to what was just said.\n• **なお** — note also: a side remark or extra information, typical at the end of notices and announcements.\n• Also in formal writing (Sakubi): **および** (and — a formal と: 東京および大阪) and **または** (or — a formal か: 電話またはメール).\n\n**The verb-stem comma.** In speech you join clauses with the て-form. In writing you'll often see the **ます-stem + 、** instead: 雨は夜遅くまで降り続き、多くの電車が止まった (降り続いて → 降り続き). For である it is であり、 (point b). Read it exactly like a て-form: \"…, and…\".\n\n**The sentence, block by block.** A connector is its own block at the very start (🔬 calls it CONNECTOR), and it points **back** to the previous sentence. Find the predicate of each sentence first, then read the connector as the arrow between them: [fact A]。一方、[fact B]。\n\n**Written × spoken** (lesson P-13): そのため ≈ だから／それで; また ≈ それに; 一方 ≈ でも (when you compare two sides).\n**ただし × しかし**: しかし turns the idea around (\"however\"); ただし keeps the idea and adds an exception or a condition (\"…except that…, …but only if…\"): 入場は無料である。ただし、予約が必要である。 (Entry is free. You do need to book, though.)",
+      "structure": "[sentence A]。 また／さらに／一方／そのため／ただし／なお、[sentence B]。 · [verb stem]、 = [verb て]、",
+      "examples": [
+        { "jp": "東京では気温が三十五度を超えた。一方、札幌では二十度までしか上がらなかった。", "kana": "とうきょうではきおんがさんじゅうごどをこえた。いっぽう、さっぽろではにじゅうどまでしかあがらなかった。", "romaji": "Tōkyō de wa kion ga sanjūgo-do o koeta. Ippō, Sapporo de wa nijū-do made shika agaranakatta.", "en": "In Tokyo, the temperature went over 35 degrees. Meanwhile, in Sapporo, it only rose to 20." },
+        { "jp": "会場は駅から歩いて五分である。なお、駐車場はない。", "kana": "かいじょうはえきからあるいてごふんである。なお、ちゅうしゃじょうはない。", "romaji": "Kaijō wa eki kara aruite gofun de aru. Nao, chūshajō wa nai.", "en": "The venue is a five-minute walk from the station. Please note that there is no parking." },
+        { "jp": "入場は無料である。ただし、予約が必要である。", "kana": "にゅうじょうはむりょうである。ただし、よやくがひつようである。", "romaji": "Nyūjō wa muryō de aru. Tadashi, yoyaku ga hitsuyō de aru.", "en": "Entry is free. However, you need to book in advance.", "noAnat": true }
+      ],
+      "pitfalls": [
+        "ただし adds an exception; it doesn't turn the whole idea around. \"The food was good. However, it was expensive\": 料理はおいしかった。ただし、高かった ✗ → 料理はおいしかった。しかし、高かった ✓.",
+        "一方 compares two sides; it doesn't mean \"so\": 雨が降った。一方、試合は中止になった ✗ → 雨が降った。そのため、試合は中止になった ✓.",
+        "These connectors belong to writing and formal speech. With a friend: 雨だった。そのため、家にいた ✗ (it sounds like a report) → 雨だったから、家にいたよ ✓."
+      ],
+      "howToStudy": [
+        "Make a signpost card for each connector: the word on one side, and on the other what comes next (another fact / something more / the other side / the result / an exception / a side note).",
+        "🔬 Anatomy → Analyze: paste example 1. You get two sentences, each with its own PREDICATE (超えた, 上がらなかった), and 一方 between them as a CONNECTOR. Read both predicates first, then the connector: it tells you the two facts are being contrasted.",
+        "Take 3 pairs of your own sentences and join each pair twice, aloud: once in speech (だから, それに, でも) and once in writing (そのため, また, 一方)."
+      ],
+      "flag": null
+    },
+    {
+      "id": "P-18-d",
+      "gc": null,
+      "title": "Reading a news sentence in layers",
+      "gloss": "predicate first, then particles, then the layers in front of each noun",
+      "explanation": "News sentences are long, but they are built from blocks you already know — just more of them, stacked. Don't read them from left to right the way you read English. Use this order:\n\n**Step 1 — Find the predicates.** The main predicate is at the very end (発表した, 止まっている). Then look for the **clause ends** inside the sentence: a verb or adjective before 、, or before から／ので／ため／が／けど, or a verb stem with a comma (降り続き、). Each one closes a smaller sentence inside the big one.\n\n**Step 2 — Find the big particles of the main predicate.** Ask only: who? (は／が) what? (を) where, when? (で／に, time words). Skip everything else for now. You get the skeleton: [さくら市は][計画を][発表した] = \"Sakura City announced a plan.\"\n\n**Step 3 — Open the layers.** A long block in front of a noun describes that noun (a describing clause, lessons 09-2 and 15-2). Find the noun at the end of the layer, then read the layer backward from it: [駅前に新しい図書館を建てる]計画 = a plan (to build a new library in front of the station). Layers can sit inside layers; open them one at a time.\n\n**Step 4 — Check the frame words.** News has fixed frames that say where the information comes from or how certain it is: **〜によると** (according to…), **〜という** at the end (reportedly, it is said), **〜とみられる** (it is thought that…), **〜予定だ** (is scheduled to…).\n\n**Headlines** have their own rules: particles are dropped, and they often end in a noun or in へ (\"heading toward\"): 新図書館、来春オープンへ = \"New library to open next spring\". The first paragraph of the article usually gives the key facts as full sentences — read it right after the headline.\n\nGoing further (Sakubi): understand the **message first**, and only then take it apart. If you already know what a story is about (from the photo, or from news you've heard in English), the Japanese gets much easier — and noticing \"this phrase is used in this kind of situation\" is what makes it stick.\n\n**Start reading real Japanese now** (the DJT guide's advice): once you've been through a grammar guide, read. Your first articles will feel slow and strange; that's normal, and reading is the only thing that makes the feeling go away. NHK NEWS WEB EASY is the ideal start: short sentences, readings over the kanji, and audio. Read with a pop-up dictionary (Yomitan), mine the sentences you want to keep, and try regular NHK articles when Easy starts to feel comfortable.",
+      "structure": "1. predicates (the end + each clause end) → 2. は／が・を・に／で of the main predicate → 3. [layer] + noun, read backward → 4. frames: によると · という · とみられる · 予定だ",
+      "examples": [
+        { "jp": "さくら市は、駅前に新しい図書館を建てる計画を発表した。", "kana": "さくらしは、えきまえにあたらしいとしょかんをたてるけいかくをはっぴょうした。", "romaji": "Sakura-shi wa, ekimae ni atarashii toshokan o tateru keikaku o happyō shita.", "en": "Sakura City announced a plan to build a new library in front of the station." },
+        { "jp": "昨日の夜、駅前のビルで火事があったが、けが人はいないという。", "kana": "きのうのよる、えきまえのビルでかじがあったが、けがにんはいないという。", "romaji": "Kinō no yoru, ekimae no biru de kaji ga atta ga, keganin wa inai to iu.", "en": "Last night there was a fire in a building in front of the station, but reportedly no one was hurt." },
+        { "jp": "電車が止まったので、多くの人が駅で待っていた。", "kana": "でんしゃがとまったので、おおくのひとがえきでまっていた。", "romaji": "Densha ga tomatta node, ōku no hito ga eki de matte ita.", "en": "Because the trains had stopped, many people were waiting at the station." }
+      ],
+      "pitfalls": [
+        "Don't take the first verb you meet as the main one: in …図書館を建てる計画を発表した, 建てる ✗ (it only describes 計画) → 発表した ✓ (the end) is the main predicate.",
+        "〜という at the end of a news sentence usually means \"reportedly\", not \"called\": けが人はいないという = \"there are no injured people called…\" ✗ → \"reportedly, no one was hurt\" ✓.",
+        "Don't translate a long sentence word by word from the left: \"Sakura City, in front of the station, new library, build, plan, announced\" ✗ → the skeleton first, \"Sakura City announced a plan\", then open the layer: \"…to build a new library in front of the station\" ✓."
+      ],
+      "howToStudy": [
+        "Pick one NHK NEWS WEB EASY article. For its first 3 sentences, write only the skeleton in English (who + what + predicate) before you read the rest in detail.",
+        "🔬 Anatomy → Analyze: paste example 1. さくら市は is the TOPIC, 計画を the OBJECT and 発表した the PREDICATE; 新しい and 建てる both show up as DESCRIBES NEXT — the layers in front of 図書館 and 計画. Read it from the end: announced → what? a plan → what plan? to build → build what? a new library. Then paste example 2: あったが is …BUT (the end of the first clause) and いないという is the PREDICATE.",
+        "Read the same NHK article aloud with its audio twice: once slowly, touching each predicate with your finger, and once at the reader's speed (shadowing)."
+      ],
+      "flag": null
+    }
+  ],
+  "media": [
+    { "order": 1, "kind": "reading", "title": "Tae Kim's Guide to Learning Japanese: the page on formal expressions (である, ではない and the formal way of joining clauses)", "where": "Website · Tae Kim's Guide to Learning Japanese", "url": "", "search": "Tae Kim formal expressions de aru", "when": "After points a and b. Compare his examples with the forms table in point b." },
+    { "order": 2, "kind": "video", "title": "A video on reading NHK NEWS WEB EASY as a learner (step by step, with a real article)", "where": "YouTube · a Japanese-teaching channel of your choice", "url": "", "search": "how to read NHK News Web Easy Japanese learners", "when": "After point d. Pick one where the teacher reads a real article sentence by sentence, and pause to try each sentence yourself first." },
+    { "order": 3, "kind": "input", "title": "NHK NEWS WEB EASY: read one article with the four steps of point d, then listen to its audio", "where": "Website · NHK NEWS WEB EASY", "url": "", "search": "NHK NEWS WEB EASY", "when": "The same day as the lesson if you can, and then as a habit: one short article at a time." },
+    { "order": 4, "kind": "reading", "title": "Search in Japanese: 「です・ます調 だ・である調 違い」 — pages by Japanese teachers on the two writing styles and why not to mix them", "where": "Web search · in Japanese", "url": "", "search": "です・ます調 だ・である調 違い", "when": "After the homework. Read the example sentences first; if the explanation is still too hard, come back to it after a few more lessons." }
+  ],
+  "homework": {
+    "intro": "Do it by hand in your notebook. Write with the kanji you already know and use kana for the rest. Only then open the answer key, item by item. Circle what you got wrong and redo it the next day.",
+    "tasks": [
+      {
+        "id": "h1",
+        "type": "transform",
+        "prompt": "Rewrite each sentence in the style shown in brackets.",
+        "items": [
+          { "q": "(です／ます → だ) 昨日は一日中雨でした。", "a": { "jp": "昨日は一日中雨だった。", "kana": "きのうはいちにちじゅうあめだった。", "romaji": "Kinō wa ichinichijū ame datta." } },
+          { "q": "(です／ます → plain) 日本語の文法は難しくありません。", "a": { "jp": "日本語の文法は難しくない。", "kana": "にほんごのぶんぽうはむずかしくない。", "romaji": "Nihongo no bunpō wa muzukashiku nai." }, "note": "An い-adjective has no だ or である: 難しくない is the same in both plain styles." },
+          { "q": "(だ → である) これは大切な問題だ。", "a": { "jp": "これは大切な問題である。", "kana": "これはたいせつなもんだいである。", "romaji": "Kore wa taisetsu na mondai de aru." }, "note": "Here な stays: it belongs to 大切な before the noun 問題, not to である." },
+          { "q": "(plain → です／ます) 市は新しい公園を作る予定だ。", "a": { "jp": "市は新しい公園を作る予定です。", "kana": "しはあたらしいこうえんをつくるよていです。", "romaji": "Shi wa atarashii kōen o tsukuru yotei desu." }, "note": "Only the end changes: the describing clause 新しい公園を作る stays plain." },
+          { "q": "(だ → である, past) 昔、この町は小さな村だった。", "a": { "jp": "昔、この町は小さな村であった。", "kana": "むかし、このまちはちいさなむらであった。", "romaji": "Mukashi, kono machi wa chiisa na mura de atta." } },
+          { "q": "(spoken て → written stem comma) 雨が降って、試合が中止になった。", "a": { "jp": "雨が降り、試合が中止になった。", "kana": "あめがふり、しあいがちゅうしになった。", "romaji": "Ame ga furi, shiai ga chūshi ni natta." }, "note": "降って → 降り (the ます-stem) + 、." }
+        ]
+      },
+      {
+        "id": "h2",
+        "type": "fill",
+        "prompt": "Fill in the written connector that fits: また・一方・そのため・ただし・なお. Use each one once.",
+        "items": [
+          { "q": "大雪で電車が止まった。＿＿、多くの人が駅で夜を過ごした。", "a": { "jp": "大雪で電車が止まった。そのため、多くの人が駅で夜を過ごした。", "kana": "おおゆきででんしゃがとまった。そのため、おおくのひとがえきでよるをすごした。", "romaji": "Ōyuki de densha ga tomatta. Sono tame, ōku no hito ga eki de yoru o sugoshita." }, "note": "The result of the first sentence: そのため." },
+          { "q": "図書館は毎日開いている。＿＿、月曜日は午後五時までである。", "a": { "jp": "図書館は毎日開いている。ただし、月曜日は午後五時までである。", "kana": "としょかんはまいにちあいている。ただし、げつようびはごごごじまでである。", "romaji": "Toshokan wa mainichi aite iru. Tadashi, getsuyōbi wa gogo goji made de aru." }, "note": "An exception to \"every day\": ただし." },
+          { "q": "都会では人口が増えている。＿＿、多くの村では人口が減っている。", "a": { "jp": "都会では人口が増えている。一方、多くの村では人口が減っている。", "kana": "とかいではじんこうがふえている。いっぽう、おおくのむらではじんこうがへっている。", "romaji": "Tokai de wa jinkō ga fuete iru. Ippō, ōku no mura de wa jinkō ga hette iru." }, "note": "Two sides compared (cities × villages): 一方." },
+          { "q": "この店は料理がおいしい。＿＿、値段も安い。", "a": { "jp": "この店は料理がおいしい。また、値段も安い。", "kana": "このみせはりょうりがおいしい。また、ねだんもやすい。", "romaji": "Kono mise wa ryōri ga oishii. Mata, nedan mo yasui." }, "note": "Another good point of the same kind: また (さらに also works)." },
+          { "q": "説明会は十時に始まる。＿＿、会場に駐車場はない。", "a": { "jp": "説明会は十時に始まる。なお、会場に駐車場はない。", "kana": "せつめいかいはじゅうじにはじまる。なお、かいじょうにちゅうしゃじょうはない。", "romaji": "Setsumeikai wa jūji ni hajimaru. Nao, kaijō ni chūshajō wa nai." }, "note": "A side note at the end of an announcement: なお." }
+        ]
+      },
+      {
+        "id": "h3",
+        "type": "translate",
+        "prompt": "Read each news sentence in layers. Write (1) the main predicate, (2) the skeleton in English (who + what + predicate), and (3) a full translation.",
+        "items": [
+          { "q": "市は、スマートフォンを見ながら自転車に乗ることを禁止する新しいルールを発表した。", "a": { "jp": "発表した", "kana": "はっぴょうした", "romaji": "happyō shita", "en": "Skeleton: The city announced a new rule. Full: The city announced a new rule that bans riding a bicycle while looking at a smartphone." }, "note": "Two layers in front of ルール: [スマートフォンを見ながら自転車に乗ること] is what 禁止する bans, and [〜を禁止する] describes the rule." },
+          { "q": "先週から降り続いている雨の影響で、一部の電車が止まっている。", "a": { "jp": "止まっている", "kana": "とまっている", "romaji": "tomatte iru", "en": "Skeleton: Some trains are stopped. Full: Because of the rain that has kept falling since last week, some trains are stopped." }, "note": "〜の影響で = because of the effects of…; [先週から降り続いている] is a layer describing 雨." },
+          { "q": "鉄道会社によると、電車は夜までに動き始める予定だという。", "a": { "jp": "予定だという", "kana": "よていだという", "romaji": "yotei da to iu", "en": "Skeleton: The trains are (reportedly) scheduled to start moving. Full: According to the railway company, the trains are expected to start running again by tonight." }, "note": "Two frames: 〜によると (the source) and 〜という (reportedly). Both point to the same source." },
+          { "q": "駅の近くで先月オープンしたパン屋に、毎朝長い列ができている。", "a": { "jp": "できている", "kana": "できている", "romaji": "dekite iru", "en": "Skeleton: A long line forms (at a bakery). Full: Every morning, a long line forms at the bakery that opened near the station last month." }, "note": "[駅の近くで先月オープンした] is the layer describing パン屋." }
+        ]
+      },
+      {
+        "id": "h4",
+        "type": "produce",
+        "prompt": "Write a 4-sentence \"news article\" about something that happened in your town, your workplace or your home, in the plain newspaper style: one sentence with a describing layer in front of a noun, one with a written connector, and one ending in 〜予定だ or 〜という. Then read it aloud.",
+        "items": [
+          { "q": "Model (match its structure, not its words):", "a": { "jp": "昨日、さくら町の図書館で、子どもたちに絵本を読む会が開かれた。会には二十人ほどの子どもが参加した。また、次の会は来月十日に開かれる予定だ。なお、参加は無料だという。", "kana": "きのう、さくらまちのとしょかんで、こどもたちにえほんをよむかいがひらかれた。かいにはにじゅうにんほどのこどもがさんかした。また、つぎのかいはらいげつとおかにひらかれるよていだ。なお、さんかはむりょうだという。", "romaji": "Kinō, Sakura-machi no toshokan de, kodomotachi ni ehon o yomu kai ga hirakareta. Kai ni wa nijūnin hodo no kodomo ga sanka shita. Mata, tsugi no kai wa raigetsu tōka ni hirakareru yotei da. Nao, sanka wa muryō da to iu.", "en": "Yesterday, a picture-book reading event for children was held at the Sakura Town library. About twenty children took part. The next event is scheduled for the 10th of next month. Participation is reportedly free." }, "note": "Check: every sentence ends in a plain form (no です／ます), the layer [子どもたちに絵本を読む] sits right before the noun it describes (会), and each connector starts its sentence, followed by 、." }
+        ]
+      }
+    ],
+    "workbook": []
+  },
+  "practice": [
+    { "tool": "Wagotabi", "what": "Play in the game's N3 area. For each longer line of dialogue, notice the style first: plain だ, polite です／ます, or something else? Then take one long line and do the steps of point d out loud: its predicates, the particles of the main one, and any layer in front of a noun. Log the session in Immersion → Games, paste the line into 🔬 Anatomy to check yourself, and save it with Mining (⛏).", "min": 15 },
+    { "tool": "NHK NEWS WEB EASY", "what": "Read one article with the four steps of point d and a pop-up dictionary such as Yomitan, then listen to its audio. Sentence mining, DJT-style: pick 2 sentences where you understood the grammar but not one or two words, and save them with Mining (⛏) — one new thing per card, so the reviews stay easy. Finally, rewrite one sentence of the article in the newspaper style (plain).", "min": 15 },
+    { "tool": "ヅオリンゴー · Journal", "what": "Write 5 sentences of your own in the plain written style (だ or である, not both) about a topic you know well — your city, your job, a hobby — with at least two written connectors and one である before a noun. Use \"Anatomy of what I wrote\" to check that each sentence has its predicate at the end.", "min": 10 },
+    { "tool": "Shadowing", "what": "Tap 🔊 on each example in this lesson and repeat along 3 times. Then shadow one paragraph of the NHK NEWS WEB EASY audio three times: news readers keep an even pace and pause briefly at each 、 — pause where they pause.", "min": 5 },
+    { "tool": "Speaking", "what": "Summarize the NHK article you read aloud in 3 Japanese sentences, in です／ます, as if you were the NHK reader. Record it, then say the same 3 sentences in plain style, as if telling a friend.", "min": 5 }
+  ],
+  "culture": {
+    "title": "How to read a Japanese newspaper",
+    "titleJp": "新聞の読み方",
+    "body": "A printed Japanese newspaper is usually written vertically (lesson P-13) and read from right to left, so the most important story of the day sits at the **top right** of the front page. Headlines are short, drop most particles and often end in a noun, and the first paragraph of an article usually gives the key facts in one or two sentences. Many papers print a morning edition (朝刊, ちょうかん) and, in big cities, an evening edition (夕刊, ゆうかん), and home delivery is still common. The TV listings are usually on the **back page**, which is why some people open the paper from the back. There are also newspapers for children, with the readings printed over the kanji — good practice for learners too.",
+    "try": "On a Japanese news site (or NHK NEWS WEB EASY), read 5 headlines. For each one, say aloud which particles or verbs were dropped, and turn it into a full sentence, e.g. 新図書館、来春オープンへ → 新しい図書館が来年の春にオープンする予定だ。"
+  },
+  "checklist": [
+    "I can tell a です／ます text, a だ text and a である text apart from the sentence endings alone.",
+    "I can rewrite a short text from です／ます into the plain style without mixing the two.",
+    "I can use である, であった, ではない and であり、, and I can put である before a noun (医者である父).",
+    "I know what kind of information comes after また, さらに, 一方, そのため, ただし and なお.",
+    "I can read a news sentence in four steps: predicates, particles, layers, frames (によると, という, 予定だ).",
+    "I read at least one NHK NEWS WEB EASY article with a pop-up dictionary and mined 2 sentences from it.",
+    "I did the homework, checked it against the answer key and redid what I got wrong."
+  ],
+  "credits": [
+    "Explanations adapted in part from Sakubi (public domain, CC0) — sakubi.neocities.org",
+    "Study method informed by the DJT Guide to Japanese — djtguide.neocities.org/guide"
+  ]
+}

@@ -1,0 +1,247 @@
+{
+  "id": "P-04",
+  "unit": "P-N3",
+  "genki": null,
+  "title": "The four ways to say \"seems\"",
+  "titleJp": "降りそうだ・降るそうだ・降ったようだ・降ったらしい",
+  "canDo": [
+    "I can tell whether a \"seems\" sentence is based on what the speaker saw, heard or worked out — and choose the right form myself.",
+    "I can say what something looks like (降りそう, 難しそう) and pass on what I heard (暑いそうです) without mixing up the two そう.",
+    "I can state a conclusion from clues with 〜ようです in polite or written Japanese, and with 〜みたい among friends.",
+    "I can use 〜らしい for \"apparently…\" and for \"typical of\" (春らしい天気, ルーカスさんらしくない).",
+    "I can fill in a comparison table of the four forms: how each one attaches, what it's based on, how sure it is and where it fits."
+  ],
+  "duration": {
+    "total": "70–90 min",
+    "blocks": [
+      { "t": "Session 1 · Warm-up: say aloud 降りそう, 降るそう and 降ったみたい, and what each is based on (lessons 13-2, 17-1, 17-3)", "min": 5 },
+      { "t": "Session 1 · Vocabulary: tap 🔊 on each word and repeat it twice", "min": 10 },
+      { "t": "Session 1 · Grammar: points a and b, with the examples read aloud and one 🔬 each", "min": 25 },
+      { "t": "Session 2 · Grammar: points c and d; copy the comparison table of point d into your notebook", "min": 20 },
+      { "t": "Session 2 · Video and reading (block 6), pausing on the examples", "min": 10 },
+      { "t": "Session 2 · Notebook homework + checking it against the answer key", "min": 15 },
+      { "t": "Checklist (block 10) + write your questions in the lesson notebook", "min": 5 }
+    ]
+  },
+  "prereqs": {
+    "aulas": ["P-03"],
+    "skills": [
+      "Appearance 〜そうです (lesson 13-2) and hearsay 〜そうです (lesson 17-1). This lesson reviews them side by side.",
+      "〜みたいです (lesson 17-3) and のような / のように = \"like\" (lesson 22-2).",
+      "The plain (short) forms of verbs, adjectives and nouns, present and past, affirmative and negative (lessons 08-1 and 09-1): three of the four forms attach to them.",
+      "Reading N4 kanji calmly. Every sentence comes with its full kana reading."
+    ],
+    "vocab": [
+      { "jp": "〜そうだ", "kana": "〜そうだ", "romaji": "-sō da", "en": "looks… (appearance, after the stem) · I hear… (hearsay, after a complete sentence)" },
+      { "jp": "〜ようだ", "kana": "〜ようだ", "romaji": "-yō da", "en": "it seems…, it appears… (your conclusion); also: is like…" },
+      { "jp": "〜みたいだ", "kana": "〜みたいだ", "romaji": "-mitai da", "en": "the casual 〜ようだ: seems…; like…" },
+      { "jp": "〜らしい", "kana": "〜らしい", "romaji": "-rashii", "en": "apparently…, I gather…; typical of…, true to type" },
+      { "jp": "まるで", "kana": "まるで", "romaji": "marude", "en": "just like, as if (with 〜ようだ / 〜みたいだ)" },
+      { "jp": "今にも", "kana": "いまにも", "romaji": "ima ni mo", "en": "(at) any moment now (with 〜そうだ)" },
+      { "jp": "天気予報", "kana": "てんきよほう", "romaji": "tenki yohō", "en": "weather forecast" },
+      { "jp": "〜によると", "kana": "〜によると", "romaji": "-ni yoru to", "en": "according to…" },
+      { "jp": "梅雨", "kana": "つゆ", "romaji": "tsuyu", "en": "the rainy season (early summer)" },
+      { "jp": "降る", "kana": "ふる", "romaji": "furu", "en": "to fall (rain, snow)" },
+      { "jp": "暗い", "kana": "くらい", "romaji": "kurai", "en": "dark" },
+      { "jp": "問題", "kana": "もんだい", "romaji": "mondai", "en": "problem; question (on a test)" },
+      { "jp": "丈夫", "kana": "じょうぶ", "romaji": "jōbu", "en": "sturdy, durable; healthy" },
+      { "jp": "有名", "kana": "ゆうめい", "romaji": "yūmei", "en": "famous" },
+      { "jp": "玄関", "kana": "げんかん", "romaji": "genkan", "en": "entryway (where you take off your shoes)" },
+      { "jp": "お客さん", "kana": "おきゃくさん", "romaji": "okyakusan", "en": "guest, visitor; customer" },
+      { "jp": "風邪をひく", "kana": "かぜをひく", "romaji": "kaze o hiku", "en": "to catch a cold" },
+      { "jp": "熱", "kana": "ねつ", "romaji": "netsu", "en": "fever" },
+      { "jp": "絵", "kana": "え", "romaji": "e", "en": "picture, painting" },
+      { "jp": "かぎ", "kana": "かぎ", "romaji": "kagi", "en": "key" },
+      { "jp": "忘れてくる", "kana": "わすれてくる", "romaji": "wasurete kuru", "en": "to leave something behind (lit. forget it and come)" },
+      { "jp": "約束", "kana": "やくそく", "romaji": "yakusoku", "en": "promise; appointment, plans to meet" },
+      { "jp": "遅れる", "kana": "おくれる", "romaji": "okureru", "en": "to be late (〜に遅れる)" },
+      { "jp": "〜っぽい", "kana": "〜っぽい", "romaji": "-ppoi", "en": "-ish (子どもっぽい = childish; lesson P-15)" }
+    ]
+  },
+  "grammar": [
+    {
+      "id": "P-04-a",
+      "gc": null,
+      "title": "〜そうだ: \"looks…\" × \"I hear…\"",
+      "gloss": "the two そう: appearance (lesson 13-2) · hearsay (lesson 17-1)",
+      "explanation": "Japanese has **four ways to say \"seems\"**, and each one answers a different question: **did you see it, were you told it, or did you work it out?** This lesson puts them side by side, starting with the two そう you already know — two different words that happen to share a spelling. Sakubi counts them the same way: そう as \"seeming\" and そう as \"hearsay\".\n• **Appearance: stem + そうだ** = \"looks…\", a guess from **what you see right now**, before you check. い-adjective minus い (おいしそう), な-adjective without な (丈夫そう), verb ます-stem (降りそう). Irregular: いい → よさそう, ない → なさそう.\n• With a verb it often means **\"looks like it's about to…\"**, for something that happens **by itself** (Sakubi notes that a frequency dictionary glosses it \"about to\"): 今にも雨が降りそうだ; 泣きそうな顔 (a face that's about to cry).\n• It behaves like a な-adjective: 降りそうです, 丈夫そうなかばん, うれしそうに笑う.\n• N3 negatives to recognize: **〜そうにない / 〜そうもない** = \"doesn't look like it will…\": この仕事は今日中に終わりそうにない (it doesn't look like this work will be done today).\n• **Hearsay: complete plain form + そうだ** = \"I hear…, they say…\". You **pass on** what you heard or read, with no judgment of your own. The source usually comes first, with 〜によると or 〜の話では.\n• Nouns and な-adjectives need **だ**: 休みだそうだ, 元気だそうだ. This そう never changes (no そうだった, no negative): tense and negation stay inside the information.\n\n**The contrast — look at what comes right before そう:**\n• A **cut** word (the stem) → appearance: 暑そう (looks hot), 降りそう (looks like rain), 元気そう (looks well).\n• A **complete** sentence you could end with 。 → hearsay: 暑いそう (I hear it's hot), 降るそう (I hear it'll rain), 元気だそう (I hear they're well).\n• In the sentence, the whole […そうです] block is the **PREDICATE**. Read from the end and ask first: *seen or heard?*",
+      "structure": "[stem] そうだ (looks… / about to) · [complete plain form] そうだ (I hear…) · [N / な-adj] だそうだ",
+      "examples": [
+        { "jp": "空が暗くなってきました。今にも雨が降りそうです。", "kana": "そらがくらくなってきました。いまにもあめがふりそうです。", "romaji": "Sora ga kuraku natte kimashita. Ima ni mo ame ga furisō desu.", "en": "The sky has gotten dark. It looks like it's going to rain any minute." },
+        { "jp": "この問題は難しそうですが、やってみます。", "kana": "このもんだいはむずかしそうですが、やってみます。", "romaji": "Kono mondai wa muzukashisō desu ga, yatte mimasu.", "en": "This problem looks difficult, but I'll give it a try." },
+        { "jp": "ニュースで見たんですが、今年の夏は去年より暑いそうです。", "kana": "ニュースでみたんですが、ことしのなつはきょねんよりあついそうです。", "romaji": "Nyūsu de mita n desu ga, kotoshi no natsu wa kyonen yori atsui sō desu.", "en": "I saw it on the news: they say this summer will be hotter than last year." }
+      ],
+      "pitfalls": [
+        "Hearsay needs the complete form: 天気予報によると、あしたは雨が降りそうです ✗ (that's your own guess from the sky) → 雨が降るそうです ✓.",
+        "Nouns don't take appearance そう, and hearsay needs だ: あの人は学生そうです ✗ → 学生みたいです ✓ / 学生らしいです ✓ (seems) · 学生だそうです ✓ (I hear).",
+        "いい and ない split: appearance よさそう / なさそう, hearsay いいそう / ないそう. A friend told you: あのホテルはよさそうです ✗ → あのホテルはいいそうです ✓.",
+        "Qualities that are obvious at a glance don't take そう: (looking at a pretty flower) きれいそうですね ✗ → きれいですね ✓."
+      ],
+      "howToStudy": [
+        "Minimal pairs aloud: say each pair, then say in English whether you saw it or heard it: 暑そう ⇄ 暑いそう · 降りそう ⇄ 降るそう · 元気そう ⇄ 元気だそう · よさそう ⇄ いいそう.",
+        "🔬 Anatomy → Analyze: paste example 3. ニュースで見たんですが shows up as …BUT (here it just sets up the source), 今年の as DESCRIBES NEXT, 夏は as the TOPIC, 去年より as COMPARED TO and 暑いそうです as the PREDICATE. Then look at the word right before そう: 暑い is complete, so this is hearsay.",
+        "Speaking: look out of the window and say two sentences about tomorrow's weather: your own guess (〜そうです, from the sky) and the forecast (天気予報によると、〜そうです)."
+      ],
+      "flag": null
+    },
+    {
+      "id": "P-04-b",
+      "gc": null,
+      "title": "〜ようだ (it seems… — your own conclusion)",
+      "gloss": "seems, appears (from clues) · まるで〜のようだ = just like…",
+      "explanation": "ようだ says **\"it seems…, it appears…\"** when you have put **clues** together — something you saw, heard, smelled or felt — and reached **your own conclusion**. よう is the noun \"way, manner, likeness\" you met in lessons P-01 and 22-2, so ようだ is literally \"it's that way\".\n• **Form:** ようだ attaches like a noun. Verbs and い-adjectives: plain form + ようだ (来ているようだ, 帰ったようだ, 寒いようだ). な-adjectives keep **な**: 静かなようだ. Nouns take **の**: 休みのようだ.\n• It behaves like a な-adjective: ようです (polite), ようだ (plain, mostly written), ような + noun, ように + verb.\n• **Your own body:** it's very common for your own physical state, where you notice the signs but can't be sure: 風邪をひいたようです (I seem to have caught a cold).\n• **Register:** ようだ is the **neutral-to-formal** \"seems\": the news, reports, polite conversation, writing. In casual speech people use みたい instead (point c).\n• **A second meaning, \"like\" (lesson 22-2):** after a noun, ようだ can compare instead of conclude, often with **まるで** (\"just like, as if\"): まるで夢のようだ (it's like a dream). Context decides: あの人は先生のようだ can be \"that person seems to be a teacher\" or \"that person is like a teacher\"; まるで makes it a comparison.\n• In the sentence, [conclusion] + ようです is the **PREDICATE**. Read from the end: \"it seems\" → what? → the clause before it → and what's the evidence? Usually the sentence just before.\n\n**ようだ × appearance そう.** そう is your **first impression** of what's in front of you; ようだ is a **conclusion** you reached from clues. おいしそう = the food looks good (I'm looking at it). おいしいようだ = it seems to be good (there's a long line outside, and everyone is eating happily). Looking at the dark sky: 雨が降りそうだ (it's about to). Looking at the wet street: 雨が降ったようだ (it rained — a conclusion).",
+      "structure": "[plain V / い-adj] ようだ · [な-adj] なようだ · [N] のようだ · まるで [N] のようだ (just like…)",
+      "examples": [
+        { "jp": "玄関に靴がたくさんありますね。お客さんが来ているようです。", "kana": "げんかんにくつがたくさんありますね。おきゃくさんがきているようです。", "romaji": "Genkan ni kutsu ga takusan arimasu ne. Okyakusan ga kite iru yō desu.", "en": "There are a lot of shoes in the entryway. It seems we have visitors." },
+        { "jp": "風邪をひいたようです。のどが痛くて、少し熱があります。", "kana": "かぜをひいたようです。のどがいたくて、すこしねつがあります。", "romaji": "Kaze o hiita yō desu. Nodo ga itakute, sukoshi netsu ga arimasu.", "en": "I seem to have caught a cold. My throat hurts, and I have a slight fever." },
+        { "jp": "初めて富士山を見た時は、まるで絵のようでした。", "kana": "はじめてふじさんをみたときは、まるでえのようでした。", "romaji": "Hajimete Fujisan o mita toki wa, marude e no yō deshita.", "en": "When I saw Mt. Fuji for the first time, it was just like a painting." }
+      ],
+      "pitfalls": [
+        "Nouns take の and な-adjectives keep な: 休みようです ✗ → 休みのようです ✓; 静かようです ✗ → 静かなようです ✓. (With みたい it's the opposite — nothing in between: point c.)",
+        "No ます before ようだ: 来ていますようです ✗ → 来ているようです ✓.",
+        "Don't use ようだ for what you know for sure: (about your own plans) 来月引っ越すようです ✗ → 来月引っ越します ✓.",
+        "ようだ is a conclusion, not a first impression: (looking at a cake in the shop window) おいしいようですね ✗ → おいしそうですね ✓."
+      ],
+      "howToStudy": [
+        "Detective drill: in your notebook, write 3 clues and the conclusion each one leads to, with ようです: 道がぬれている → 雨が降ったようです · 電気が消えている → 田中さんはもう帰ったようです · みんなコートを着ている → 外は寒いようです.",
+        "🔬 Anatomy → Analyze: paste example 1. The first sentence is the evidence: 玄関に (LOCATION), 靴が (SUBJECT), たくさん (HOW / HOW OFTEN) and ありますね (PREDICATE). The second is the conclusion: お客さんが (SUBJECT) and 来ているようです (PREDICATE). Clue first, conclusion second is the typical order.",
+        "Speaking: say the same conclusion twice, polite and casual: お客さんが来ているようです ⇄ お客さん、来ているみたい. Only the ending changes — which is point c."
+      ],
+      "flag": null
+    },
+    {
+      "id": "P-04-c",
+      "gc": null,
+      "title": "〜みたいだ (the casual ようだ)",
+      "gloss": "seems… · like… · such as… — in conversation",
+      "explanation": "みたいだ means **the same as ようだ** — a conclusion from clues, a comparison (\"like\") or an example (\"such as\") — but it is **conversational**. You met it in lesson 17-3; here is how it lines up with ようだ.\n• **Form:** みたい attaches **straight** to nouns and な-adjectives — **no の, no な, no だ**: 休みみたい, 静かみたい, 先生みたい. Verbs and い-adjectives: plain form + みたい (忘れてきたみたい, 寒いみたい).\n• It behaves like a な-adjective: みたいだ / みたいです, みたいな + noun, みたいに + verb.\n• **Register:** with friends, just みたい or みたいだ; みたいです is fine in polite conversation. In formal writing, reports and speeches, use ようだ.\n\n**The same three jobs as ようだ:**\n• Conclusion: あれ、かぎがない。どこかに忘れてきたみたい (= 忘れてきたようだ).\n• Comparison: 夢みたい (= 夢のようだ); 子どもみたいに笑う (laugh like a child).\n• Example, \"such as\": 東京みたいな大きい町 (= 東京のような大きい町, a big city like Tokyo).\n\n**ようだ × みたいだ, side by side:** 休みのようだ ⇄ 休みみたいだ · 静かなようだ ⇄ 静かみたいだ · 帰ったようだ ⇄ 帰ったみたいだ. Same meaning; only the register and the joint (の / な) change.\n• **Sakubi's warning:** this みたい is not 見たい (\"want to see\"). The \"seems\" みたい is written in kana and follows a complete word or statement: 雨が降ったみたい. 映画を見たい = \"I want to see a movie\". Read it by context, not by its parts.\n• In the sentence, [conclusion] + みたい(だ) is the **PREDICATE**; [N]みたいな + noun is a block that DESCRIBES NEXT.",
+      "structure": "[plain V / い-adj] みたいだ · [N / な-adj] みたいだ (no の, no な) · [N] みたいな [N] · [N] みたいに [V]",
+      "examples": [
+        { "jp": "あれ、かぎがない。どこかに忘れてきたみたいだ。", "kana": "あれ、かぎがない。どこかにわすれてきたみたいだ。", "romaji": "Are, kagi ga nai. Dokoka ni wasurete kita mitai da.", "en": "Huh, my keys are gone. Looks like I left them somewhere." },
+        { "jp": "この店、今日は休みみたいだよ。", "kana": "このみせ、きょうはやすみみたいだよ。", "romaji": "Kono mise, kyō wa yasumi mitai da yo.", "en": "Looks like this place is closed today." },
+        { "jp": "東京みたいな大きい町は、ちょっと疲れます。", "kana": "とうきょうみたいなおおきいまちは、ちょっとつかれます。", "romaji": "Tōkyō mitai na ōkii machi wa, chotto tsukaremasu.", "en": "Big cities like Tokyo tire me out a bit." }
+      ],
+      "pitfalls": [
+        "Nothing goes between a noun or な-adjective and みたい: 休みのみたい ✗ → 休みみたい ✓; 静かなみたい ✗ → 静かみたい ✓.",
+        "In a report or a formal e-mail, みたい sounds too casual: 原因はシステムの問題みたいです ✗ → 原因はシステムの問題のようです ✓.",
+        "The \"seems\" みたい is not 見たい: どこかに忘れてきた見たい ✗ → どこかに忘れてきたみたい ✓.",
+        "Before a noun it's みたいな, before a verb みたいに: 子どもみたいな笑います ✗ → 子どもみたいに笑います ✓."
+      ],
+      "howToStudy": [
+        "Switch the register: say the 3 examples of point b casually with みたい, then say this point's examples formally with ようです. Watch the joint: の and な appear only with ようだ.",
+        "🔬 Anatomy → Analyze: paste example 3. 東京みたいな shows up as DESCRIBES NEXT, just like 大きい after it — both describe 町. 町は is the TOPIC, ちょっと is HOW / HOW OFTEN and 疲れます is the PREDICATE.",
+        "Mine it: when a friend, a podcast or Wagotabi uses みたい, save the whole line with Mining (⛏) and add a one-word note: conclusion, comparison or example? Reviewing real sentences in your SRS teaches the feel of a word better than a rule does."
+      ],
+      "flag": "Where native speakers vary: in casual conversation, みたい is also often used for things you only heard (来週テストがあるみたいだよ = \"looks like there's a test next week\", said after a classmate mentioned it). Textbooks describe みたい as your own conclusion from clues; in real speech the line between みたい, らしい and hearsay そう is blurry. For tests, keep the textbook split."
+    },
+    {
+      "id": "P-04-d",
+      "gc": null,
+      "title": "〜らしい (apparently… · typical of…) and the four side by side",
+      "gloss": "apparently, I gather · true to type (男らしい, 春らしい)",
+      "explanation": "らしい has **two uses**, and they are easy to tell apart.\n\n**1 · \"Apparently…, it seems…\" (what you heard, or the circumstances).** In Sakubi's words, らしい says something **factually seems so, based on the circumstances** — usually what you heard or read, or indirect signs. It keeps some **distance**: \"that's what I gather\". 田中さん、来月会社をやめるらしいよ (apparently Tanaka is quitting next month).\n• **Form:** plain form + らしい for verbs and い-adjectives (やめるらしい, 高いらしい). Nouns and な-adjectives attach **directly**, with no だ: 休みらしい, 有名らしい.\n• らしい is itself an **い-adjective**: らしいです (polite), らしかった (past), らしくない (not typical).\n• **らしい × hearsay そうだ:** both pass on information. そうだ reports it directly, often with a clear source (〜によると、…そうだ). らしい is vaguer and adds \"from what I gather\"; it also works when you infer from indirect signs.\n• **らしい × ようだ / みたい:** ようだ / みたい is **your** conclusion from clues **you** noticed; らしい leans on **what others say** or on the situation. Think: みたい = I noticed; らしい = I gather.\n\n**2 · \"Typical of, true to type\": noun + らしい.** After a noun, らしい can mean \"just as an X should be\": 春らしい天気 (real spring weather), 男らしい (manly), 学生らしい服 (clothes that suit a student). After a person's name it means \"just like him or her\": ルーカスさんらしくない (that's not like Lucas). Sakubi's tip: らしい means \"seems X\" or \"a true X\", never \"X-ish\". **\"X-ish\" is っぽい** (子どもっぽい = childish; lesson P-15), and **\"just like an X\" is みたい** (子どもみたい).\n• Context tells the two らしい apart: あの人は先生らしい = \"apparently that person is a teacher\" (use 1) or \"that person is every inch a teacher\" (use 2). Right before a noun, it's usually use 2: 先生らしい先生.\n\n**The four ways to say \"seems\": the table.** Each line gives the form · what it's based on · how sure the speaker is · the register.\n• **stem + そうだ** (降りそう, 高そう) · what you see right now; with verbs, \"about to\" · a first impression, not checked · neutral: any style.\n• **plain form + そうだ** (降るそう, 高いそう, 休みだそう) · what you were told or read · no judgment of your own: you just pass it on · neutral; polite with です, common in the news.\n• **ようだ** (降ったよう, 休みのよう) · your own conclusion from clues · fairly sure · formal and written; polite conversation.\n• **みたいだ** (降ったみたい, 休みみたい) · the same as ようだ · fairly sure · casual; fine with です in conversation.\n• **らしい** (降ったらしい, 休みらしい) · what you heard, or the circumstances · some distance: \"apparently\" · neutral; speech and writing.\n• One event, four sentences: dark clouds → 雨が降りそうだ; the forecast → 雨が降るそうだ; the street is wet → 雨が降ったようだ / 降ったみたいだ; a friend mentioned it → 雨が降ったらしい.",
+      "structure": "[plain V / い-adj] らしい · [N / な-adj] らしい (no だ) · [N] らしい [N] (typical of) · 〜らしくない",
+      "examples": [
+        { "jp": "聞いた話だけど、田中さん、来月会社をやめるらしいよ。", "kana": "きいたはなしだけど、たなかさん、らいげつかいしゃをやめるらしいよ。", "romaji": "Kiita hanashi da kedo, Tanaka-san, raigetsu kaisha o yameru rashii yo.", "en": "It's just something I heard, but apparently Tanaka is quitting the company next month." },
+        { "jp": "今日は春らしい天気ですね。", "kana": "きょうははるらしいてんきですね。", "romaji": "Kyō wa haru rashii tenki desu ne.", "en": "It's real spring weather today, isn't it? [lit. today is spring-typical weather]" },
+        { "jp": "約束の時間に遅れるのは、ルーカスさんらしくないですね。", "kana": "やくそくのじかんにおくれるのは、ルーカスさんらしくないですね。", "romaji": "Yakusoku no jikan ni okureru no wa, Rūkasu-san rashikunai desu ne.", "en": "Being late for an appointment isn't like Lucas, is it?" }
+      ],
+      "pitfalls": [
+        "No だ between a noun or な-adjective and らしい: 休みだらしい ✗ → 休みらしい ✓. (Hearsay そう is the opposite: 休みだそうだ.)",
+        "\"X-ish\" is っぽい, not らしい: (about an adult acting like a kid) 子どもらしい ✗ (= as a child should be, a compliment for a child) → 子どもっぽい ✓.",
+        "Don't use らしい for what you know firsthand: (you're the one quitting) 来月会社をやめるらしいです ✗ → 来月会社をやめます ✓.",
+        "\"Not like Lucas\" puts the negative on らしい itself: ルーカスさんじゃないらしい ✗ (= apparently it isn't Lucas) → ルーカスさんらしくない ✓."
+      ],
+      "howToStudy": [
+        "Copy the table into your notebook with only the first column filled in. Fill in the other three from memory, then check against point d. Do it again at the start of your next study session.",
+        "🔬 Anatomy → Analyze: paste example 2. 今日は is the TOPIC, 春らしい is DESCRIBES NEXT — it describes 天気 like any い-adjective — and 天気ですね is the PREDICATE. Then paste example 1: 聞いた is DESCRIBES NEXT and 話だけど is …BUT (\"it's something I heard, but…\"), 田中さん is NO PARTICLE (the は was dropped, as usual in casual speech), 来月 is TIME, 会社を the OBJECT and やめるらしいよ the PREDICATE.",
+        "One event, four sentences, out loud: pick an event (a shop closing, a friend moving) and say it four ways — seen (〜そう), told (〜そうだ), worked out (〜ようだ／みたい), heard around (〜らしい). Then say which one you'd write in an e-mail to your boss."
+      ],
+      "flag": "The \"how sure\" column is a tendency that learner references agree on, not a strict rule. Native speakers also choose by style and by how much responsibility they want to take for what they say, so you'll hear らしい, みたい and ようだ in very similar situations. Two safe habits: use hearsay そうだ when you name a source, and use ようだ (not みたい) in writing."
+    }
+  ],
+  "media": [
+    { "order": 1, "kind": "reading", "title": "Tae Kim's Guide to Learning Japanese: the page on expressing similarity or hearsay (よう, みたい, そう, そうだ, らしい, っぽい)", "where": "Website · Tae Kim's Guide to Learning Japanese", "url": "", "search": "Tae Kim expressing similarity or hearsay", "when": "In session 2, after point d. Compare his examples with your table. If you're reading one grammar guide all the way through, this is a page worth coming back to." },
+    { "order": 2, "kind": "video", "title": "Japanese Ammo with Misa: そう, よう, みたい and らしい (the \"seems\" family)", "where": "YouTube · Japanese Ammo with Misa channel", "url": "", "search": "Japanese Ammo with Misa sou you mitai rashii", "when": "After session 1 or session 2, as a second explanation. If there's no single video on all four, search for らしい and ようだ separately." },
+    { "order": 3, "kind": "input", "title": "YUYUの日本語Podcast: listen to one episode and note every みたい and らしい you catch — and what the information was based on", "where": "Podcast · YUYUの日本語Podcast", "url": "", "search": "YUYUの日本語Podcast", "when": "Any day after the lesson. Episodes where she tells stories about other people are full of みたい and らしい." }
+  ],
+  "homework": {
+    "intro": "Do it by hand in your notebook, with the kanji you know and kana for the rest. Before each item, ask \"seen, told, or worked out?\". Only then open the answer key, item by item. Circle what you got wrong and redo it the next day.",
+    "tasks": [
+      {
+        "id": "h1",
+        "type": "choose",
+        "prompt": "Seen, told or worked out? Choose the form that fits the situation in parentheses and write the whole sentence.",
+        "items": [
+          { "q": "(You're looking at the dark clouds.) 雨が（降りそうです／降るそうです）。", "a": { "jp": "雨が降りそうです。", "kana": "あめがふりそうです。", "romaji": "Ame ga furisō desu." }, "note": "You can see it: appearance, stem + そう." },
+          { "q": "(The forecast said so.) 天気予報によると、あしたは雪が（降りそうです／降るそうです）。", "a": { "jp": "天気予報によると、あしたは雪が降るそうです。", "kana": "てんきよほうによると、あしたはゆきがふるそうです。", "romaji": "Tenki yohō ni yoru to, ashita wa yuki ga furu sō desu." }, "note": "You were told: hearsay, complete form + そうです. A source with によると is a strong clue." },
+          { "q": "(You haven't been outside, but everyone coming in has a wet umbrella.) 外は雨が（降っているそうです／降っているようです）。", "a": { "jp": "外は雨が降っているようです。", "kana": "そとはあめがふっているようです。", "romaji": "Soto wa ame ga futte iru yō desu." }, "note": "Nobody told you: you worked it out from the umbrellas. ようです." },
+          { "q": "(A coworker mentioned it at lunch; you're not sure it's true.) あの店は来月閉店する（らしいです／ようです）。", "a": { "jp": "あの店は来月閉店するらしいです。", "kana": "あのみせはらいげつへいてんするらしいです。", "romaji": "Ano mise wa raigetsu heiten suru rashii desu." }, "note": "Something you heard, passed on with some distance: らしい. (Hearsay 閉店するそうです would work too.)" },
+          { "q": "(Casual, to a friend. The lights in Maria's room are off.) マリア、もう寝た（みたいだね／ようですね）。", "a": { "jp": "マリア、もう寝たみたいだね。", "kana": "マリア、もうねたみたいだね。", "romaji": "Maria, mō neta mitai da ne." }, "note": "Both mean the same, but with a friend みたい is the natural register; ようですね sounds stiff in casual talk." },
+          { "q": "(In a written report to your manager.) 原因は古いパソコン（のようです／みたいです）。", "a": { "jp": "原因は古いパソコンのようです。", "kana": "げんいんはふるいパソコンのようです。", "romaji": "Gen'in wa furui pasokon no yō desu." }, "note": "A written report calls for ようです. Notice the joint: パソコンのよう, but パソコンみたい." }
+        ]
+      },
+      {
+        "id": "h2",
+        "type": "fill",
+        "prompt": "Attach the ending to the word in brackets and write the whole form + です.",
+        "items": [
+          { "q": "［休み］＋ hearsay そう (a coworker told you)", "a": { "jp": "休みだそうです", "kana": "やすみだそうです", "romaji": "yasumi da sō desu" }, "note": "Nouns need だ before hearsay そう." },
+          { "q": "［休み］＋ ようだ", "a": { "jp": "休みのようです", "kana": "やすみのようです", "romaji": "yasumi no yō desu" }, "note": "Nouns take の before よう." },
+          { "q": "［休み］＋ みたいだ", "a": { "jp": "休みみたいです", "kana": "やすみみたいです", "romaji": "yasumi mitai desu" }, "note": "Nothing in between." },
+          { "q": "［休み］＋ らしい (apparently)", "a": { "jp": "休みらしいです", "kana": "やすみらしいです", "romaji": "yasumi rashii desu" }, "note": "No だ before らしい." },
+          { "q": "［静か］＋ ようだ", "a": { "jp": "静かなようです", "kana": "しずかなようです", "romaji": "shizuka na yō desu" }, "note": "な-adjectives keep な before よう (but 静かみたい, 静からしい)." },
+          { "q": "［いい］＋ appearance そう", "a": { "jp": "よさそうです", "romaji": "yosasō desu" }, "note": "The irregular one: いい → よさそう. Hearsay would be いいそうです." }
+        ]
+      },
+      {
+        "id": "h3",
+        "type": "translate",
+        "prompt": "Translate into Japanese.",
+        "items": [
+          { "q": "This bag looks sturdy.", "a": { "jp": "このかばんは丈夫そうです。", "kana": "このかばんはじょうぶそうです。", "romaji": "Kono kaban wa jōbu sō desu." }, "note": "な-adjective + appearance そう: no な." },
+          { "q": "I hear Ms. Suzuki is getting married in June.", "a": { "jp": "すずきさんは六月に結婚するそうです。", "kana": "すずきさんはろくがつにけっこんするそうです。", "romaji": "Suzuki-san wa rokugatsu ni kekkon suru sō desu." } },
+          { "q": "(Polite) It seems I left my umbrella on the train.", "a": { "jp": "電車にかさを忘れたようです。", "kana": "でんしゃにかさをわすれたようです。", "romaji": "Densha ni kasa o wasureta yō desu." }, "note": "Your own conclusion (the umbrella is gone): ようです. With a friend: 忘れたみたい." },
+          { "q": "(Casual) It's like a dream!", "a": { "jp": "夢みたい！", "kana": "ゆめみたい！", "romaji": "Yume mitai!" }, "note": "A comparison: みたい right after the noun. In formal style: まるで夢のようです." },
+          { "q": "Apparently that restaurant is famous.", "a": { "jp": "あのレストランは有名らしいです。", "kana": "あのレストランはゆうめいらしいです。", "romaji": "Ano resutoran wa yūmei rashii desu." }, "note": "な-adjective + らしい: no だ, no な." },
+          { "q": "Forgetting her homework isn't like Maria.", "a": { "jp": "宿題を忘れるのは、マリアさんらしくないですね。", "kana": "しゅくだいをわすれるのは、マリアさんらしくないですね。", "romaji": "Shukudai o wasureru no wa, Maria-san rashikunai desu ne." }, "note": "\"Typical of\" らしい is an い-adjective: its negative is らしくない." }
+        ]
+      },
+      {
+        "id": "h4",
+        "type": "produce",
+        "prompt": "Describe a place from a photo (or the view from your window) in 5 sentences, one with each: stem + そう, hearsay そうです (invent a source), ようです, みたい and noun + らしい (\"typical of\"). Read them aloud and record yourself.",
+        "items": [
+          { "q": "Model (match its structure, not its words):", "a": { "jp": "このラーメン、おいしそうですね。店の人の話では、この店は五十年前からあるそうです。外に長い列がありますから、人気があるようです。今日は特に人が多いみたいです。木のテーブルといすで、とても日本らしい店です。", "kana": "このラーメン、おいしそうですね。みせのひとのはなしでは、このみせはごじゅうねんまえからあるそうです。そとにながいれつがありますから、にんきがあるようです。きょうはとくにひとがおおいみたいです。きのテーブルといすで、とてもにほんらしいみせです。", "romaji": "Kono rāmen, oishisō desu ne. Mise no hito no hanashi de wa, kono mise wa gojū-nen mae kara aru sō desu. Soto ni nagai retsu ga arimasu kara, ninki ga aru yō desu. Kyō wa toku ni hito ga ōi mitai desu. Ki no tēburu to isu de, totemo Nihon rashii mise desu.", "en": "This ramen looks delicious, doesn't it? According to the staff, this shop has been here for fifty years. There's a long line outside, so it seems to be popular. It looks like there are especially many people today. With its wooden tables and chairs, it's a very typically Japanese shop." }, "note": "Check: each ending matches its source (seen · told · worked out · typical of); nouns take だ only before hearsay そう and の only before よう; the \"seems\" word is at the very end of each sentence." }
+        ]
+      }
+    ],
+    "workbook": []
+  },
+  "practice": [
+    { "tool": "Wagotabi", "what": "Play in the game's N3 areas and hunt for そう, よう, みたい and らしい in the dialogues. For each line, pause and ask: did the speaker see it, hear it, or work it out? Log the session in Immersion → Games and paste one of those lines into 🔬 Anatomy.", "min": 15 },
+    { "tool": "NHK NEWS WEB EASY", "what": "Read one article with a pop-up dictionary (such as Yomitan) and listen to its audio; weather and accident news work well. Look for 〜そうです (reporting what someone said) or 〜ようです (a careful conclusion). If none shows up, copy a sentence that reports what someone said (〜と言っています) and rewrite it with 〜そうです. Save the sentence with Mining (⛏) so it comes back in your SRS.", "min": 10 },
+    { "tool": "ヅオリンゴー · Journal", "what": "Write 5 sentences of your own, one with each: stem + そう, hearsay そうだ, ようです, みたい and らしい (either use). Open \"Anatomy of what I wrote\" and check that each \"seems\" ending sits inside the PREDICATE, at the very end.", "min": 10 },
+    { "tool": "Shadowing", "what": "Tap 🔊 on each example and repeat along 3 times. Then say examples a1 and a3 again with the other そう (降るそうです / 暑そうです) and hear how one sound changes the source of the information.", "min": 5 },
+    { "tool": "Speaking", "what": "Photo game: pick a photo (a street, a party, a meal) and describe it for 40 seconds: what things look like (〜そう), what you conclude (〜ようです / 〜みたい) and one thing you \"heard\" about the place (〜らしい or 〜そうです). Record yourself and check each ending.", "min": 5 }
+  ],
+  "culture": {
+    "title": "つゆ — the rainy season and the weather forecast",
+    "titleJp": "梅雨",
+    "body": "**梅雨** (つゆ) is the rainy season of early summer. In much of Japan it usually runs from **around early June to mid or late July** — earlier in Okinawa (roughly May to June), while Hokkaido usually has no clear rainy season. It doesn't rain all day, every day, but skies are often gray and the air is very **humid** (蒸し暑い, むしあつい); it's also the season of hydrangeas (あじさい). The Japan Meteorological Agency (気象庁) announces the start and the end of the season region by region, in careful \"seems\" language — 〜地方は梅雨入りしたとみられます (\"the rainy season appears to have started in…\") — and it reviews those dates after the season, sometimes changing them. Forecasts give the **降水確率** (こうすいかくりつ, chance of rain) as a percentage, and many people carry a folding umbrella (折りたたみ傘) just in case. Children sometimes hang a little cloth or paper doll, **てるてる坊主** (てるてるぼうず), by the window to wish for a sunny day.",
+    "try": "Check tomorrow's forecast for a Japanese city on a Japanese weather site or app. Say it two ways: as something you were told (天気予報によると、あしたは雨が降るそうです) and as your own guess from the sky (あ、雨が降りそうですね)."
+  },
+  "checklist": [
+    "I can tell appearance そう from hearsay そう by what comes before it (降りそう × 降るそう; 暑そう × 暑いそう) without looking.",
+    "I can state a conclusion from clues with 〜ようです in polite or written Japanese, and with 〜みたい in conversation.",
+    "I attach each form correctly to a noun: 休みだそうだ · 休みのようだ · 休みみたいだ · 休みらしい.",
+    "I can pass on something I heard with 〜らしい, and say \"typical of\" with noun + らしい (春らしい, ルーカスさんらしくない).",
+    "I can say \"it's just like…\" with まるで〜のようだ / 〜みたいだ.",
+    "I can fill in the four-way comparison table (form, what it's based on, how sure, register) from memory.",
+    "I did the homework, checked it against the answer key and redid what I got wrong."
+  ],
+  "credits": [
+    "Explanations adapted in part from Sakubi (public domain, CC0) — sakubi.neocities.org",
+    "Study method informed by the DJT Guide to Japanese — djtguide.neocities.org/guide"
+  ]
+}

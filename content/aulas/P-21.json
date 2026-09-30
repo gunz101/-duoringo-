@@ -1,0 +1,221 @@
+{
+  "id": "P-21",
+  "unit": "P-N3",
+  "genki": null,
+  "title": "Kanji for life",
+  "titleJp": "一生続けられる漢字の勉強法",
+  "canDo": [
+    "I can split a kanji into its components and use them to guess the field of meaning (氵 water, 亻 person, 言 words…), knowing it's a hint, not a rule.",
+    "I can name 15 common components and give one word I know for each.",
+    "I can say whether a common word uses on'yomi or kun'yomi, and I know the usual exceptions (今日, 毎朝, 手紙…).",
+    "I can explain the honest trade-offs of learning kanji through vocabulary, with mnemonics, or radicals first — and I have chosen my road.",
+    "I have a daily kanji routine I can keep: reviews first, a few new words, and words mined from real Japanese."
+  ],
+  "duration": {
+    "total": "70–90 min",
+    "blocks": [
+      { "t": "Warm-up: write 10 kanji you know in your notebook and group the ones that share a piece", "min": 5 },
+      { "t": "Vocabulary: tap 🔊 on each word and repeat it twice; notice which pieces repeat across the words. Save the new words with Mining (⛏)", "min": 10 },
+      { "t": "Point a (radicals and components): read the 15-component list aloud, one word per component, and do one 🔬", "min": 20 },
+      { "t": "Points b (on'yomi × kun'yomi) and c (a method that lasts). If you split the lesson into two sessions, start the second one here.", "min": 20 },
+      { "t": "Block 6: the DJT guide's kanji sections, then one NHK Easy article on another day", "min": 10 },
+      { "t": "Notebook homework + checking it against the answer key", "min": 15 },
+      { "t": "Checklist (block 10) + write your kanji plan (point c) on the first page of your notebook", "min": 5 }
+    ]
+  },
+  "prereqs": {
+    "aulas": ["P-20"],
+    "skills": [
+      "The kanji you met in Genki I and II (about 300): they are the raw material of this lesson.",
+      "Doing 🌊 All in the ヅオリンゴー app every day, and the Kanji → ✍️ Write screen (stroke order).",
+      "Optional but useful: Yomitan in your browser (Resources tab), to look up readings as you read."
+    ],
+    "vocab": [
+      { "jp": "漢字", "kana": "かんじ", "romaji": "kanji", "en": "kanji, Chinese characters" },
+      { "jp": "部首", "kana": "ぶしゅ", "romaji": "bushu", "en": "radical (the component a dictionary files a kanji under)" },
+      { "jp": "音読み", "kana": "おんよみ", "romaji": "on'yomi", "en": "on-reading: a reading that came from Chinese" },
+      { "jp": "訓読み", "kana": "くんよみ", "romaji": "kun'yomi", "en": "kun-reading: a native Japanese word given to the kanji" },
+      { "jp": "送りがな", "kana": "おくりがな", "romaji": "okurigana", "en": "the kana written after a kanji (the べる of 食べる)" },
+      { "jp": "熟語", "kana": "じゅくご", "romaji": "jukugo", "en": "a word written with two or more kanji" },
+      { "jp": "書き順", "kana": "かきじゅん", "romaji": "kakijun", "en": "stroke order" },
+      { "jp": "単語", "kana": "たんご", "romaji": "tango", "en": "word, vocabulary item" },
+      { "jp": "覚える", "kana": "おぼえる", "romaji": "oboeru", "en": "to memorize, to learn" },
+      { "jp": "復習", "kana": "ふくしゅう", "romaji": "fukushū", "en": "review; 復習する = to review" },
+      { "jp": "泳ぐ", "kana": "およぐ", "romaji": "oyogu", "en": "to swim" },
+      { "jp": "浴びる", "kana": "あびる", "romaji": "abiru", "en": "to pour over oneself; シャワーを浴びる = to take a shower" },
+      { "jp": "お湯", "kana": "おゆ", "romaji": "oyu", "en": "hot water" },
+      { "jp": "温かい", "kana": "あたたかい", "romaji": "atatakai", "en": "warm (to the touch: water, food)" },
+      { "jp": "荷物", "kana": "にもつ", "romaji": "nimotsu", "en": "luggage, bags, a package" },
+      { "jp": "記事", "kana": "きじ", "romaji": "kiji", "en": "article (in a newspaper or online)" },
+      { "jp": "内容", "kana": "ないよう", "romaji": "naiyō", "en": "content, what something says" },
+      { "jp": "富士山", "kana": "ふじさん", "romaji": "Fujisan", "en": "Mount Fuji" },
+      { "jp": "登山", "kana": "とざん", "romaji": "tozan", "en": "mountain climbing" },
+      { "jp": "大人", "kana": "おとな", "romaji": "otona", "en": "adult" },
+      { "jp": "期待", "kana": "きたい", "romaji": "kitai", "en": "expectation, hope" },
+      { "jp": "一生", "kana": "いっしょう", "romaji": "isshō", "en": "one's whole life" },
+      { "jp": "大丈夫", "kana": "だいじょうぶ", "romaji": "daijōbu", "en": "all right, fine" }
+    ]
+  },
+  "grammar": [
+    {
+      "id": "P-21-a",
+      "gc": null,
+      "title": "Radicals and components",
+      "gloss": "the building blocks inside a kanji: a hint to the meaning (and sometimes to the sound)",
+      "explanation": "Most kanji are not random drawings: they are built from a small set of **components** that come back again and again. Once you see them, a new kanji stops being a tangle of lines and becomes two or three pieces you already know — much easier to remember and much harder to confuse.\n• The **radical** (部首, ぶしゅ) is the one component a dictionary files the kanji under, and it often hints at the **field of meaning**. Learners often say \"radical\" for any component; that's fine for studying.\n• Components have usual places, and their Japanese names often say where: **へん** on the left (氵 in 海), **つくり** on the right, **かんむり** on top (艹 in 花), **あし** at the bottom (心 in 思), **にょう** wrapping the bottom-left (辶 in 道), **かまえ** around the outside (門 in 間).\n\n**15 components worth knowing now** (each with words you've met):\n• **氵 さんずい** — water: 海 (うみ), 泳ぐ (およぐ), 洗う (あらう), お湯 (おゆ), 酒 (さけ)\n• **亻 にんべん** — person: 休む (やすむ), 体 (からだ), 住む (すむ), 使う (つかう), 働く (はたらく)\n• **口 くちへん** — mouth: 味 (あじ), 呼ぶ (よぶ), 吸う (すう), 鳴く (なく)\n• **木 きへん** — tree, wood: 林 (はやし), 森 (もり), 橋 (はし), 机 (つくえ), 村 (むら)\n• **言 ごんべん** — words, speech: 話す (はなす), 日本語 (にほんご), 読む (よむ), 記事 (きじ), 説明 (せつめい)\n• **糸 いとへん** — thread: 紙 (かみ), 線 (せん), 結ぶ (むすぶ), 細い (ほそい), 絵 (え)\n• **金 かねへん** — metal, money: 銀行 (ぎんこう), 地下鉄 (ちかてつ), 鉛筆 (えんぴつ)\n• **日 ひへん** — sun, day, time: 晴れる (はれる), 明るい (あかるい), 暗い (くらい), 時間 (じかん), 昨日 (きのう)\n• **扌 てへん** — hand: 持つ (もつ), 押す (おす), 払う (はらう), 投げる (なげる), 指 (ゆび)\n• **艹 くさかんむり** — grass, plants: 花 (はな), お茶 (おちゃ), 薬 (くすり), 言葉 (ことば)\n• **辶 しんにょう** — road, moving: 道 (みち), 近い (ちかい), 遠い (とおい), 送る (おくる), 運ぶ (はこぶ)\n• **宀 うかんむり** — roof, house: 家 (いえ), 教室 (きょうしつ), 宿題 (しゅくだい), 客 (きゃく)\n• **忄／心 りっしんべん／こころ** — heart, feelings: 忙しい (いそがしい), 思う (おもう), 急ぐ (いそぐ), 感じる (かんじる)\n• **飠 しょくへん** — food, eating: 飲む (のむ), ご飯 (ごはん), 飼う (かう)\n• **雨 あめかんむり** — weather: 雪 (ゆき), 雲 (くも), 電気 (でんき) — 電 first meant \"lightning\"\n\n**Meaning part × sound part.** Many kanji are a **meaning part + a sound part**. 晴 (\"clear weather\") = 日 (sun, the meaning) + 青 (read せい, the sound): in 晴天 it's read せいてん. The same sound part shows up in other kanji: 寺 (じ) is inside 時 (じ) and 持 (じ); 反 (はん) is inside 飯 (はん, ご飯) and 板 (はん／ばん). But it's a **hint, not a rule**: 待 also contains 寺 and is read たい (期待). The meaning part is a hint too: 英 (as in 英語) has 艹 with no link to plants, and 決める (to decide) has 氵 with no link to water.\n\n**Look-alikes: the component is the difference.** 休 (rest: a person 亻 leaning on a tree 木) × 体 (body). 持 (hold: the hand 扌) × 待 (wait: 彳, a road — you wait by the road) × 時 (time: the sun 日). When two kanji keep swapping in your head, find the component that differs and give it a tiny story.",
+      "structure": "[meaning part: field] + [sound part: a possible reading] · へん (left) · つくり (right) · かんむり (top) · あし (bottom) · にょう · かまえ",
+      "examples": [
+        { "jp": "海で泳いでから、温かいお湯を浴びました。", "kana": "うみでおよいでから、あたたかいおゆをあびました。", "romaji": "Umi de oyoide kara, atatakai oyu o abimashita.", "en": "After swimming in the sea, I rinsed off with warm water. [海, 泳, 温, 湯 and 浴 all have 氵, water]" },
+        { "jp": "重い荷物を持っているので、ちょっと待ってください。", "kana": "おもいにもつをもっているので、ちょっとまってください。", "romaji": "Omoi nimotsu o motte iru node, chotto matte kudasai.", "en": "I'm carrying heavy luggage, so please wait a moment. [持 (hold) has 扌, the hand; 待 (wait) has 彳, the road — and both share 寺]" },
+        { "jp": "日本語の記事を読んで、友だちに内容を話しました。", "kana": "にほんごのきじをよんで、ともだちにないようをはなしました。", "romaji": "Nihongo no kiji o yonde, tomodachi ni naiyō o hanashimashita.", "en": "I read an article in Japanese and told a friend what it said. [語, 記, 読 and 話 all have 言, words]" }
+      ],
+      "pitfalls": [
+        "Taking the component as the whole meaning: \"決める must be about water, because of 氵\" ✗ → 氵 is only a hint; 決める just means \"to decide\" ✓.",
+        "Mixing look-alikes: 体みの日 ✗ → 休みの日 ✓ (休 = a person 亻 resting against a tree 木).",
+        "Hand or road? \"Wait a moment\": ちょっと持ってください ✗ (that's \"hold it a moment\") → ちょっと待ってください ✓.",
+        "Trusting the sound part blindly: \"待 has 寺, so 期待 is きじ\" ✗ → 期待 is きたい ✓ — the sound part is a strong hint with exceptions."
+      ],
+      "howToStudy": [
+        "Go through the 15 components aloud: say the component's meaning and one word that contains it (氵 → water → 海, うみ). Skip the ones you can't do yet and come back to them tomorrow.",
+        "🔬 Anatomy → Analyze: paste example 1. Read from the end: 浴びました is the PREDICATE, お湯を the OBJECT, 温かい shows up as DESCRIBES NEXT, 泳いでから as AFTER DOING and 海で as PLACE. Then circle every 氵 in the sentence (there are 5).",
+        "In your notebook, write the look-alike groups side by side — 休／体, 持／待／時 — and label the component that makes the difference, with a 5-word story for each."
+      ],
+      "flag": null
+    },
+    {
+      "id": "P-21-b",
+      "gc": null,
+      "title": "On'yomi × kun'yomi",
+      "gloss": "the Chinese-based reading and the native Japanese reading — tendencies, not rules",
+      "explanation": "Most kanji have two kinds of reading.\n• **On'yomi** (音読み, おんよみ) comes from how the kanji was pronounced in Chinese when it reached Japan: 山 = さん, 食 = しょく.\n• **Kun'yomi** (訓読み, くんよみ) is a native Japanese word that was attached to the kanji: 山 = やま, 食 = た(べる).\n• Dictionaries such as Jisho usually print the on'yomi in **katakana** and the kun'yomi in **hiragana**: 山 サン／やま.\n\n**The tendencies (no absolute rule):**\n• A kanji **alone** or with **okurigana** → usually **kun**: 山 (やま), 食べる (たべる), 高い (たかい).\n• Two or more kanji together (**熟語**) → usually **on**: 登山 (とざん), 食事 (しょくじ), 高校 (こうこう).\n• Exceptions both ways: some single kanji are read on — 本 (ほん), 肉 (にく), 駅 (えき), 茶 (ちゃ); some compounds are kun — 手紙 (てがみ), 名前 (なまえ), 花火 (はなび); some mix the two — 毎朝 (まい + あさ: on + kun), 場所 (ば + しょ: kun + on).\n• **Readings of the whole word**: 今日 (きょう), 明日 (あした), 大人 (おとな), 一人 (ひとり). You can't build them kanji by kanji.\n• **Sound changes** inside words: か becomes が in 手紙 (てがみ), ひ becomes び in 日曜日 (にちようび), and がく + こう becomes 学校 (がっこう).\n• One kanji can have several of each: 生 is せい in 学生, しょう in 一生, い(きる) in 生きる, う(まれる) in 生まれる and なま in 生ビール.\n• Sakubi points out the trap with 者: as a suffix it's しゃ (医者, いしゃ), but on its own it's a different word, もの, with a different reading.\n\n**The practical rule: the word decides the reading.** Learn each reading as part of a word you know, not as a list of readings per kanji. This is also what the DJT guide advises: learn readings through vocabulary.\n\n**On × kun: what each one is good for.** On'yomi are the Lego pieces of vocabulary: once you know 電 = でん, you can guess 電車, 電話, 電気. Kun'yomi carry the verbs and adjectives of everyday speech (食べる, 高い, 持つ). So when you meet a new two-kanji word, try the on'yomi you know first; when you meet kanji + okurigana, expect a kun'yomi.",
+      "structure": "kanji alone / + okurigana → usually kun · 熟語 → usually on · some words have a reading for the whole word (今日 = きょう)",
+      "examples": [
+        { "jp": "富士山は、日本で一番高い山です。", "kana": "ふじさんは、にほんでいちばんたかいやまです。", "romaji": "Fujisan wa, Nihon de ichiban takai yama desu.", "en": "Mount Fuji is the highest mountain in Japan. [山: さん (on) in 富士山, やま (kun) on its own]" },
+        { "jp": "日曜日は、雨の日でした。", "kana": "にちようびは、あめのひでした。", "romaji": "Nichiyōbi wa, ame no hi deshita.", "en": "Sunday was a rainy day. [日: にち (on) and び (kun, voiced) in 日曜日; ひ (kun) on its own]" },
+        { "jp": "今日は、大人が一人だけ来ました。", "kana": "きょうは、おとながひとりだけきました。", "romaji": "Kyō wa, otona ga hitori dake kimashita.", "en": "Today only one adult came. [今日 (きょう), 大人 (おとな) and 一人 (ひとり) are readings of the whole word]" }
+      ],
+      "pitfalls": [
+        "Reading a special word kanji by kanji: 今日 = いまひ ✗ → きょう ✓. (こんにち also exists, but it's another word, \"nowadays\".)",
+        "Using the on'yomi for a kanji on its own: 山に登る = さんに のぼる ✗ → やまに のぼる ✓.",
+        "Forgetting sound changes: 手紙 = てかみ ✗ → てがみ ✓; 学校 = がくこう ✗ → がっこう ✓.",
+        "Memorizing every reading of 生 from a list ✗ → learning 学生, 一生, 生まれる… one word at a time ✓."
+      ],
+      "howToStudy": [
+        "Read aloud, and after each word say \"on\" or \"kun\": 山／富士山／登山, 食べる／食事, 日／日曜日／毎日, 手紙, 毎朝.",
+        "🔬 Anatomy → Analyze: paste example 1. 富士山は is the TOPIC and 山です the PREDICATE — the same kanji, read さん in the topic and やま in the predicate. Say both blocks aloud and stress the change.",
+        "Whenever a new two-kanji word shows up, guess its reading from on'yomi you know (電 = でん → 電話), then check with the furigana or Yomitan. Guessing first makes you notice the reading."
+      ],
+      "flag": null
+    },
+    {
+      "id": "P-21-c",
+      "gc": null,
+      "title": "A method that lasts",
+      "gloss": "through vocabulary × isolated study (mnemonics, radicals) — and a routine you can keep",
+      "explanation": "There is no single best way to learn kanji. As the DJT guide puts it, what matters most is not which method is most \"efficient\" but **which one you will actually keep doing**. Here are the three roads, with their honest trade-offs.\n\n**Road 1 · Kanji through vocabulary.** You don't study kanji on their own: you learn words, and the kanji come with them — meaning and reading in context.\n• For: no extra time (you need the words anyway), readings stick to real words, and you learn exactly what you'll read.\n• Against: look-alike kanji can blur together, and if kanji keep slipping away, progress slows down.\n\n**Road 2 · Isolated kanji with mnemonics.** Each kanji gets an English keyword and a short story built from its components (休 = a person resting against a tree). Remembering the Kanji, KanjiDamage and the Kodansha Kanji Learner's Course are well-known examples, each with its own style.\n• For: you tell look-alikes apart, handwriting gets easier, and later vocabulary goes faster.\n• Against: it takes months before it pays off in reading; the keyword is not a Japanese word; and you still learn the readings through words.\n\n**Road 3 · Radicals first.** Spend a week or two learning the building blocks (there are about 200 traditional radicals; point a gave you 15), then go back to vocabulary.\n• A middle ground: kanji stop looking like random lines, without months of isolated study.\n\n**Isolated study × through vocabulary: how to choose.** Start with Road 1 plus the components from point a as your toolkit. If you notice that kanji are slow to stick or you keep confusing them, add Road 2 or 3 — that's the DJT guide's advice too. If you do isolated study, aim to finish it within a few months so you can focus on words.\n\n**Recognition × production.** Reading a kanji and writing it from memory are **separate skills**: practicing one helps the other, but doesn't replace it. Most learners put reading first. Writing is optional, but writing a kanji by hand helps you tell look-alikes apart.\n\n**A routine that lasts:**\n• **Every day, reviews first:** clear 🌊 All (words and kanji due).\n• **A few new words a day** — a number you can keep every day. Raise it if you have room, lower it if reviews pile up. With spaced repetition, daily reviews end up several times larger than your daily new words, so start small. Never skip reviews to make room: add fewer new words instead.\n• **Words from real Japanese:** while reading NHK Easy, Wagotabi or an easy manga, save 1–3 words a day with Yomitan and the app's Mining (⛏).\n• **A few times a week:** Kanji → ✍️ Write for the kanji you confuse.\n• **Optional:** WaniKani (a fixed pace, free for the first levels, then paid, in its own order) or Anki kanji decks (free and flexible, but you set everything up) — both are in the Resources tab. Pick **one** main path.\n\n**The scale.** Japanese schools teach the 2,136 常用漢字 (じょうようかんじ, the kanji for general use). Unofficial N3 lists usually have around 600–650 (the JLPT publishes no official list), and Genki I and II give you about 300. It's a long road, and a steady pace is what gets you there.",
+      "structure": "choose a road (vocabulary / mnemonics / radicals first) → every day: reviews → a few new words → words mined from reading",
+      "examples": [
+        { "jp": "私は、漢字を単語の中で覚えています。", "kana": "わたしは、かんじをたんごのなかでおぼえています。", "romaji": "Watashi wa, kanji o tango no naka de oboete imasu.", "en": "I'm learning kanji inside words." },
+        { "jp": "毎日、新しい単語を五つ覚えています。", "kana": "まいにち、あたらしいたんごをいつつおぼえています。", "romaji": "Mainichi, atarashii tango o itsutsu oboete imasu.", "en": "I learn five new words every day." },
+        { "jp": "書けなくても、読めれば大丈夫です。", "kana": "かけなくても、よめればだいじょうぶです。", "romaji": "Kakenakute mo, yomereba daijōbu desu.", "en": "Even if you can't write them, you're fine as long as you can read them.", "noAnat": true }
+      ],
+      "pitfalls": [
+        "Starting too fast: 50 new words a day for a week, then quitting ✗ → a small number you can keep every day, e.g. 5–10 ✓.",
+        "Skipping reviews when the pile grows ✗ → clearing the reviews and adding fewer new words ✓.",
+        "Studying only by writing, then not recognizing the kanji in a text ✗ → practicing recognition (reading) as a skill of its own ✓.",
+        "Running WaniKani, an Anki kanji deck and the app's SRS all at once ✗ → one main path; add another only if you have time left ✓."
+      ],
+      "howToStudy": [
+        "Choose your road today — through vocabulary, mnemonics or radicals first — and write it in one Japanese sentence on the first page of your notebook: 私は、漢字を〜覚えます。",
+        "🔬 Anatomy → Analyze: paste example 2. 毎日 is TIME, 新しい shows up as DESCRIBES NEXT, 単語を as OBJECT, 五つ as QUANTITY and 覚えています as the PREDICATE. Swap in your own number and say it aloud.",
+        "Speaking: say your daily routine aloud in 3 Japanese sentences (毎日、〜。新しい単語を〜。〜で復習します。) and record it. Listen again when the routine starts to slip."
+      ],
+      "flag": null
+    }
+  ],
+  "media": [
+    { "order": 1, "kind": "reading", "title": "DJT Guide to Japanese: the kanji sections (isolated study, kanji through vocabulary, mnemonics, radicals)", "where": "Website · DJT Guide to Japanese", "url": "https://djtguide.neocities.org/guide#Benefits%20and%20drawbacks%20of%20isolated%20kanji%20study", "when": "Before point c. It's short: read it once and compare it with your plan. Skip any links to book downloads." },
+    { "order": 2, "kind": "reading", "title": "Tae Kim's Guide: the kanji page (on'yomi, kun'yomi, okurigana, sound changes)", "where": "Website · Tae Kim's Guide to Learning Japanese", "url": "", "search": "Tae Kim guide kanji onyomi kunyomi okurigana", "when": "After point b, as a second explanation." },
+    { "order": 3, "kind": "video", "title": "A short video on kanji radicals and components", "where": "YouTube · Japanese Ammo with Misa channel", "url": "", "search": "Japanese Ammo with Misa kanji radicals", "when": "Optional. If nothing close comes up, search \"kanji radicals explained\" and choose a short video from a teacher's channel." },
+    { "order": 4, "kind": "input", "title": "NHK NEWS WEB EASY: 5 kanji words, guessed before you look", "where": "Website · NHK NEWS WEB EASY", "url": "", "search": "NHK NEWS WEB EASY", "when": "On any day after the lesson. If the site lets you hide the furigana, hide it; guess 5 words from their components and the on'yomi you know, then show it again to check." }
+  ],
+  "homework": {
+    "intro": "Do it by hand in your notebook. Write with the kanji you already know and use kana for the rest. Only then open the answer key, item by item. Circle what you got wrong and redo it the next day.",
+    "tasks": [
+      {
+        "id": "h1",
+        "type": "classify",
+        "prompt": "Find the component these kanji share. Write it, its name in kana, and the field it hints at.",
+        "items": [
+          { "q": "海・泳ぐ・洗う", "a": { "jp": "氵", "kana": "さんずい", "romaji": "sanzui", "en": "water" } },
+          { "q": "休む・体・住む", "a": { "jp": "亻", "kana": "にんべん", "romaji": "ninben", "en": "person" } },
+          { "q": "話す・読む・記事", "a": { "jp": "言", "kana": "ごんべん", "romaji": "gonben", "en": "words, speech" } },
+          { "q": "紙・線・結ぶ", "a": { "jp": "糸", "kana": "いとへん", "romaji": "itohen", "en": "thread" } },
+          { "q": "道・近い・送る", "a": { "jp": "辶", "kana": "しんにょう", "romaji": "shinnyō", "en": "road, moving" } },
+          { "q": "花・茶・薬", "a": { "jp": "艹", "kana": "くさかんむり", "romaji": "kusakanmuri", "en": "grass, plants" }, "note": "英 (in 英語) has it too, with no link to plants: a hint, not a rule." }
+        ]
+      },
+      {
+        "id": "h2",
+        "type": "classify",
+        "prompt": "Write the reading of each word and say which kind it is: on'yomi, kun'yomi, a mix, or a reading of the whole word.",
+        "items": [
+          { "q": "山 (on its own)", "a": { "jp": "山", "kana": "やま", "romaji": "yama", "en": "kun'yomi — a kanji on its own" } },
+          { "q": "登山", "a": { "jp": "登山", "kana": "とざん", "romaji": "tozan", "en": "on'yomi — two kanji together" }, "note": "さん becomes ざん inside the word." },
+          { "q": "食べる", "a": { "jp": "食べる", "kana": "たべる", "romaji": "taberu", "en": "kun'yomi — kanji + okurigana" } },
+          { "q": "食事", "a": { "jp": "食事", "kana": "しょくじ", "romaji": "shokuji", "en": "on'yomi — two kanji together" } },
+          { "q": "毎朝", "a": { "jp": "毎朝", "kana": "まいあさ", "romaji": "maiasa", "en": "a mix: まい (on) + あさ (kun)" } },
+          { "q": "今日", "a": { "jp": "今日", "kana": "きょう", "romaji": "kyō", "en": "a reading of the whole word" } },
+          { "q": "手紙", "a": { "jp": "手紙", "kana": "てがみ", "romaji": "tegami", "en": "kun'yomi + kun'yomi, with かみ → がみ" } }
+        ]
+      },
+      {
+        "id": "h3",
+        "type": "guess",
+        "prompt": "Each kanji below has a sound part you know. Guess the reading of the word, then check it in a dictionary. Did the guess work?",
+        "items": [
+          { "q": "晴天 (晴 = 日 + 青, and 青 is せい)", "a": { "jp": "晴天", "kana": "せいてん", "romaji": "seiten", "en": "clear, sunny weather" }, "note": "The guess works: 晴 = せい." },
+          { "q": "ご飯 (飯 = 飠 + 反, and 反 is はん)", "a": { "jp": "ご飯", "kana": "ごはん", "romaji": "gohan", "en": "rice; a meal" }, "note": "The guess works." },
+          { "q": "時間 (時 = 日 + 寺, and 寺 is じ)", "a": { "jp": "時間", "kana": "じかん", "romaji": "jikan", "en": "time" }, "note": "The guess works." },
+          { "q": "期待 (待 = 彳 + 寺, and 寺 is じ)", "a": { "jp": "期待", "kana": "きたい", "romaji": "kitai", "en": "expectation" }, "note": "The guess fails: 待 is たい. That's why the sound part is only a hint." },
+          { "q": "黒板 (板 = 木 + 反, and 反 is はん)", "a": { "jp": "黒板", "kana": "こくばん", "romaji": "kokuban", "en": "blackboard" }, "note": "Almost: はん, voiced to ばん inside the word." }
+        ]
+      },
+      {
+        "id": "h4",
+        "type": "produce",
+        "prompt": "Write your kanji plan in 4 Japanese sentences: your road, how many new words a day, when you review, and where your new words come from. Read it aloud.",
+        "items": [
+          { "q": "Model (match its structure, not its words):", "a": { "jp": "私は、漢字を単語の中で覚えます。毎日、新しい単語を五つ覚えます。朝、アプリで復習をします。NHKのやさしいニュースを読んで、知らない言葉をアプリに保存します。", "kana": "わたしは、かんじをたんごのなかでおぼえます。まいにち、あたらしいたんごをいつつおぼえます。あさ、アプリでふくしゅうをします。NHKのやさしいニュースをよんで、しらないことばをアプリにほぞんします。", "romaji": "Watashi wa, kanji o tango no naka de oboemasu. Mainichi, atarashii tango o itsutsu oboemasu. Asa, apuri de fukushū o shimasu. NHK no yasashii nyūsu o yonde, shiranai kotoba o apuri ni hozon shimasu.", "en": "I learn kanji inside words. Every day, I learn five new words. In the morning, I review in the app. I read NHK's easy news and save the words I don't know in the app." }, "note": "Check: a number you can really keep every day, reviews before new words, and new words that come from real Japanese." }
+        ]
+      }
+    ],
+    "workbook": []
+  },
+  "practice": [
+    { "tool": "Wagotabi", "what": "Play in the game's N3 area. When a kanji word stops you, don't skip it: split its kanji into components you know, guess the field of meaning and the reading, then check it in a dictionary. Save 2 of those words with Mining (⛏) and log the session in Immersion → Games.", "min": 15 },
+    { "tool": "NHK NEWS WEB EASY", "what": "Read one article with Yomitan and listen to its audio. Pick 3 two-kanji words and guess their on'yomi from kanji you already know (電 = でん → 電気), then check. Save the sentence of one of them with Mining (⛏): new kanji learned inside real sentences, the way the DJT guide suggests.", "min": 10 },
+    { "tool": "Kanji", "what": "ヅオリンゴー → Kanji → ✍️ Write: the look-alikes of this lesson (休／体, 待／持／時), with stroke order. As you finish each one, say a word with it aloud (休み, 体, 待つ, 持つ, 時間).", "min": 10 },
+    { "tool": "ヅオリンゴー · Journal", "what": "Write 5 sentences of your own, each with a word from a different component family (氵, 亻, 言, 辶, 艹…). Check the blocks with \"Anatomy of what I wrote\", then circle the component in each kanji word.", "min": 10 },
+    { "tool": "Shadowing + speaking", "what": "Tap 🔊 on the vocabulary and the examples and repeat along, so each reading sticks to its sound. Then say your kanji plan (homework h4) aloud and record it.", "min": 5 }
+  ],
+  "culture": {
+    "title": "Calligraphy (しょどう)",
+    "titleJp": "書道",
+    "body": "**書道** (しょどう), \"the way of writing\", is the art of writing characters with a brush (筆, ふで) and ink (墨, すみ), usually on thin paper called 半紙 (はんし). Children in Japan practice brush writing at school, and many adults keep it up as a hobby, some taking grading exams over many years. Because every stroke shows in the ink, stroke order and the direction of each stroke matter even more than with a pen. A well-known custom is **書き初め** (かきぞめ), the first writing of the new year, done in early January, often with a hopeful word or short phrase. Calligraphers also write in flowing, cursive styles that even many native speakers find hard to read.",
+    "try": "Hold your pen upright, like a brush, and write 永 (えい, \"eternal\") slowly 5 times. Calligraphy teachers traditionally use it because it contains the basic kinds of stroke. Check its stroke order in a dictionary such as Jisho first, then compare your first try with your fifth."
+  },
+  "checklist": [
+    "I can name at least 12 of the 15 components in point a and give a word for each without looking.",
+    "I can tell 休／体 and 待／持 apart and say which component makes the difference.",
+    "For common words, I can say whether the reading is on'yomi or kun'yomi, and I know that the word, not the kanji, decides.",
+    "I can read 今日, 大人, 一人, 毎朝 and 手紙 correctly and explain why they break the tendencies.",
+    "I have chosen my kanji road and written my daily routine in my notebook.",
+    "I clear 🌊 All every day, adding fewer new words rather than skipping reviews.",
+    "I did the homework, checked it against the answer key and redid what I got wrong."
+  ],
+  "credits": [
+    "Explanations adapted in part from Sakubi (public domain, CC0) — sakubi.neocities.org",
+    "Study method informed by the DJT Guide to Japanese — djtguide.neocities.org/guide"
+  ]
+}

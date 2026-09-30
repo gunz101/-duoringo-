@@ -62,7 +62,7 @@
       "gc": "6-6",
       "title": "〜から (because)",
       "gloss": "reason → result",
-      "explanation": "から links a **reason** to a **result**. First comes the reason, with から attached to its end; then comes the result, which is the predicate of the sentence. That is the order of English \"…, so…\", and the **reverse** of an English \"because\" sentence, where the result usually comes first.\n• [reason]から、[result]。: いそがしいですから、きょうは 行きません。 (\"I'm busy, so I'm not going today.\")\n• Read from the end: the predicate (行きません) says what happens; the block with から answers \"why?\". The ヅオリンゴー Anatomy marks this block as **REASON**.\n• At this stage, use the polite form before から: 〜ます, 〜ません, 〜ました, 〜です, 〜でした. The short form + から (いそがしいから) belongs to casual speech and comes in lesson 09-3.\n• **Just the reason:** to answer どうしてですか (\"why?\"), the reason + から is enough. — どうしてですか。— いそがしいですから。 (\"Why? — Because I'm busy.\")\n• **だから** (\"so, that's why\") does the same job between two sentences: いそがしいです。だから、行きません。",
+      "explanation": "から links a **reason** to a **result**. First comes the reason, with から attached to its end; then comes the result, which is the predicate of the sentence. That is the order of English \"…, so…\", and the **reverse** of an English \"because\" sentence, where the result usually comes first.\n• [reason]から、[result]。: いそがしいですから、きょうは 行きません。 (\"I'm busy, so I'm not going today.\")\n• Read from the end: the predicate (行きません) says what happens; the block with から answers \"why?\". The ヅオリンゴー Anatomy marks this block as **REASON**.\n• **Two different から.** After a **noun** — a time or a place — から means \"from\": 九時から (\"from nine\"), うちから (\"from home\"). After a **complete statement** — something ending in です, ます or an adjective — it means \"because\". Look at what comes right before it.\n• At this stage, use the polite form before から: 〜ます, 〜ません, 〜ました, 〜です, 〜でした. Later you'll also put short forms before から (いそがしいから). That is correct in casual speech **and** in the middle of a polite sentence (いそがしいから、きょうは 行きません。). It comes in lesson 09-3.\n• **Just the reason:** to answer どうしてですか (\"why?\"), the reason + から is enough. — どうしてですか。— いそがしいですから。 (\"Why? — Because I'm busy.\")\n• **だから** (\"so, that's why\") does the same job between two sentences: いそがしいです。だから、行きません。 (ですから is a more formal version.)\n• Going further (Sakubi): Genki Lesson 12 adds **ので** (lesson 12-2), another \"because\". It sounds more neutral and objective — less emphatic than から — so it is common in polite explanations. から is the all-purpose one.",
       "structure": "[reason] から、[result]。 · どうしてですか。— [reason] から。",
       "examples": [
         { "jp": "あしたは テストが ありますから、こんばん べんきょうします。", "kana": "あしたは テストが ありますから、こんばん べんきょうします。", "romaji": "Ashita wa tesuto ga arimasu kara, konban benkyō shimasu.", "en": "I have a test tomorrow, so I'll study tonight. [lit. as for tomorrow, there is a test, so tonight (I) study]" },
@@ -72,8 +72,8 @@
       "pitfalls": [
         "The order is the reverse of English \"because\": \"I'm not going because I'm busy\" = いそがしいですから、行きません ✓. 行きませんから、いそがしいです ✗ means \"since I'm not going, I'm busy\".",
         "から goes right after the reason, never at the start the way English \"because\" does: から いそがしいです ✗.",
-        "Don't confuse it with から meaning \"from\" (九時から, \"from 9 o'clock\"). After a time or a place it means \"from / since\"; after a verb or an adjective, it means \"because\".",
-        "Before から, at this stage, keep です/ます: からいですから ✓. からいから also exists, but it is casual (lesson 09-3)."
+        "Don't confuse it with から meaning \"from\". After a noun, から is \"from\": 九時から = \"from 9 o'clock\". To say \"It's 9 o'clock, so I'm going home\", the reason must be a full statement: 九時から、かえります ✗ → 九時ですから、かえります ✓.",
+        "An い-adjective never takes だ before から: からいだから ✗ → からいですから ✓. からいから, with no です, is also correct, even inside a polite sentence (からいから、食べません。). It uses the short form, which comes in lesson 09-3."
       ],
       "howToStudy": [
         "Speaking: give 3 excuses in Japanese for not going out today, each with 〜ですから or 〜ますから (いそがしいですから, テストが ありますから, ねむいですから…).",
@@ -87,7 +87,7 @@
       "gc": "6-7",
       "title": "〜ましょうか (offering help)",
       "gloss": "shall I…?",
-      "explanation": "In lesson 05-3, 〜ましょうか was an invitation: \"shall we…?\" (the two of us). Here the same 〜ましょうか is used to **offer help**: \"**shall I…?**\". The difference is **who acts**: in an offer, only **I** do it, and I do it **for you**. English marks this with \"we\" or \"I\"; Japanese usually leaves it to the context.\n• Form: ます-stem + **ましょうか**. もちます → もちましょうか · かします → かしましょうか · つけます → つけましょうか. The て-form is not used here.\n• It often comes after a reason with から: あついですから、エアコンを つけましょうか。\n• **Accepting:** ええ、おねがいします。, ありがとうございます。おねがいします。 or すみません。おねがいします。 (\"Sorry to trouble you. Yes, please.\")\n• **Declining politely:** いいえ、だいじょうぶです。ありがとうございます。 Say thank you even when you decline.\n• To make it clear that you are the one who will do it, you can add わたしが: わたしが もちましょうか。 (\"Shall **I** carry it?\")\n• The ヅオリンゴー Anatomy marks this ending as **★ PREDICATE · invitation / suggestion**, because the form is the same as for \"let's\". The **context** decides whether it is an invitation or an offer.",
+      "explanation": "In lesson 05-3, 〜ましょうか was an invitation: \"shall we…?\" (the two of us). Here the same 〜ましょうか is used to **offer help**: \"**shall I…?**\". The difference is **who acts**: in an offer, only **I** do it, and I do it **for you**. English marks this with \"we\" or \"I\"; Japanese usually leaves it to the context.\n• **Why one form does both jobs:** 〜ましょう expresses willingness — \"I'll do it / let's do it\". Adding か hands the decision to the other person: \"shall I / shall we?\"\n• Form: ます-stem + **ましょうか**. もちます → もちましょうか · かします → かしましょうか · つけます → つけましょうか. The て-form is not used here.\n• It often comes after a reason with から: あついですから、エアコンを つけましょうか。\n• **Accepting:** ええ、おねがいします。, ありがとうございます。おねがいします。 or すみません。おねがいします。 (\"Sorry to trouble you. Yes, please.\")\n• **Declining politely:** いいえ、だいじょうぶです。ありがとうございます。 Say thank you even when you decline.\n• To make it clear that you are the one who will do it, you can add わたしが: わたしが もちましょうか。 (\"Shall **I** carry it?\")\n• The ヅオリンゴー Anatomy marks this ending as **★ PREDICATE · invitation / suggestion**, because the form is the same as for \"let's\". The **context** decides whether it is an invitation or an offer.\n• Going further (Sakubi): in casual speech, the offer uses the plain volitional form + か: もとうか？ (\"Shall I carry it?\"). It comes in lesson 15-1.",
       "structure": "([reason] から、) [object] を [ます-stem] ましょうか。 — ええ、おねがいします。 ／ いいえ、だいじょうぶです。",
       "examples": [
         { "jp": "おもいですね。わたしが もちましょうか。— ありがとうございます。おねがいします。", "kana": "おもいですね。わたしが もちましょうか。— ありがとうございます。おねがいします。", "romaji": "Omoi desu ne. Watashi ga mochimashō ka. — Arigatō gozaimasu. Onegai shimasu.", "en": "That's heavy, isn't it? Shall I carry it? — Thank you. Yes, please." },
@@ -169,9 +169,9 @@
     ]
   },
   "practice": [
-    { "tool": "Wagotabi", "what": "Play normally and hunt for から and ましょうか in the dialogues. When someone gives a reason, say in English which part is the REASON and which is the RESULT; when someone offers something, say who will act. Log the session in Immersion → Games and paste one of those lines into 🔬 Anatomy.", "min": 15 },
-    { "tool": "Kanji", "what": "ヅオリンゴー → Kanji → ✍️ Write: the 15 kanji of Lesson 6, 5 at a time, together with Workbook pages 139–140.", "min": 15 },
-    { "tool": "ヅオリンゴー", "what": "Lesson 6 vocabulary in the SRS. Then the full Practice L6 (conjugation, listening and comprehension), as a review of the whole lesson.", "min": 15 },
+    { "tool": "Wagotabi", "what": "Play normally and hunt for から and ましょうか in the dialogues. When someone gives a reason, say in English which part is the REASON and which is the RESULT; when someone offers something, say who will act. Log the session in Immersion → Games and paste one of those lines into 🔬 Anatomy. If you had to look up a word in it (Yomitan or jisho.org), save the line to Mining so the word comes back in your SRS.", "min": 15 },
+    { "tool": "Kanji", "what": "ヅオリンゴー → Kanji → ✍️ Write: the 15 kanji of Lesson 6, 5 at a time, together with Workbook pages 139–140. Learn each kanji inside a word, not alone — the reading sticks better that way: 東口 (ひがしぐち, east exit), 出口 (でぐち, exit), 右 (みぎ, right), 左 (ひだり, left), 大学 (だいがく, university), 外国 (がいこく, foreign country), 先生 (せんせい, teacher). If two kanji keep blurring, compare their parts: 右 has 口 at the bottom, 左 has 工. Reading and writing are separate skills, so also read each word aloud when you see its kanji.", "min": 15 },
+    { "tool": "ヅオリンゴー", "what": "Lesson 6 vocabulary in the SRS (today's reviews first, then new words). Then the full Practice L6 (conjugation, listening and comprehension), as a review of the whole lesson.", "min": 15 },
     { "tool": "Journal", "what": "In the ヅオリンゴー Journal, write 3 true sentences with 〜から about your day and check them with \"Anatomy of what I wrote\": the block with から should show up as REASON.", "min": 10 },
     { "tool": "Speaking", "what": "Record your mini-dialogue (homework h4) doing both voices. Listen and check that the reason comes before the result.", "min": 5 }
   ],
@@ -187,8 +187,12 @@
     "I can offer help with 〜ましょうか in 4 situations, without looking.",
     "I can accept (おねがいします) and decline (いいえ、だいじょうぶです) an offer, saying thank you.",
     "I know that てつだってください is a request and てつだいましょうか is an offer.",
-    "I can write the 15 kanji of Lesson 6 in the correct stroke order.",
+    "I can write the 15 kanji of Lesson 6 in the correct stroke order and read each one inside a word (東口, 出口, 大学, 外国…).",
     "I did the homework, checked it against the answer key and redid what I got wrong.",
     "I did Workbook pages 66–68 and 139–140."
+  ],
+  "credits": [
+    "Explanations adapted in part from Sakubi (public domain, CC0) — sakubi.neocities.org",
+    "Study method informed by the DJT Guide to Japanese — djtguide.neocities.org/guide"
   ]
 }

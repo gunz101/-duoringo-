@@ -16,7 +16,7 @@
       { "t": "Warm-up: point at 3 objects and say what they are and how much they cost (lessons 02-1 and 02-2)", "min": 5 },
       { "t": "Vocabulary: tap 🔊 on each word and repeat it twice", "min": 10 },
       { "t": "Grammar: the 3 points, each with its examples read aloud and one 🔬", "min": 20 },
-      { "t": "Lesson 2 video (block 6), pausing on the sentence endings", "min": 10 },
+      { "t": "Block 6: the Lesson 2 video, pausing on the sentence endings, or the Sakubi sections as a second explanation", "min": 10 },
       { "t": "Notebook homework + checking it against the answer key", "min": 15 },
       { "t": "Checklist (block 10) + write your questions in the lesson notebook", "min": 5 }
     ]
@@ -55,7 +55,7 @@
       "gc": "2-5",
       "title": "N も",
       "gloss": "also, too",
-      "explanation": "も means **\"also / too\"** and **takes the place of は**: the sentence stays the same, only は becomes も. マリアさんは ブラジルじんです。 → ルーカスさんも ブラジルじんです。 (\"Lucas is Brazilian too.\")\n• も sticks to **the block that is \"also\"**, not to the end of the sentence like English \"too\". The PREDICATE (…です) is the same as in the sentence before; that's exactly why you use も.\n• は and も never go together: わたしはも ✗.\n• In a question: すずきさんも いしゃですか。 (\"Is Mr./Ms. Suzuki a doctor too?\")\n• If the predicate changes, go back to は: ペドロさんは がくせいです。アナさんは かいしゃいんです。\n• With the negative (point 4b), も means \"not … either\".",
+      "explanation": "も means **\"also / too\"** and **takes the place of は**: the sentence stays the same, only は becomes も. マリアさんは ブラジルじんです。 → ルーカスさんも ブラジルじんです。 (\"Lucas is Brazilian too.\")\n• も is an **inclusion** label: it adds its block to something already said (\"Maria is Brazilian — and Lucas is included\"). It sticks to **the block that is \"also\"**, not to the end of the sentence like English \"too\". The PREDICATE (…です) is the same as in the sentence before; that's exactly why you use も.\n• は and も never go together: わたしはも ✗. In lesson 04-3 you'll see that も also takes the place of が and を, while with other particles, such as に and で, it goes after them instead.\n• In a question: すずきさんも いしゃですか。 (\"Is Mr./Ms. Suzuki a doctor too?\")\n• If the predicate changes, go back to は: ペドロさんは がくせいです。アナさんは かいしゃいんです。\n• With the negative (point 4b), も means \"not … either\".",
       "structure": "[A] は X です。 [B] も X です。",
       "examples": [
         { "jp": "マリアさんは ブラジルじんです。ルーカスさんも ブラジルじんです。", "kana": "マリアさんは ブラジルじんです。ルーカスさんも ブラジルじんです。", "romaji": "Maria-san wa burajirujin desu. Rūkasu-san mo burajirujin desu.", "en": "Maria is Brazilian. Lucas is Brazilian too." },
@@ -79,7 +79,7 @@
       "gc": "2-6",
       "title": "N じゃないです",
       "gloss": "is not / am not",
-      "explanation": "To make a noun sentence negative, swap **です** for **じゃないです**: がくせいです → がくせいじゃないです (\"I'm not a student\"). Nothing else changes: the TOPIC still takes は, and the negative sits **at the end**, inside the PREDICATE. That's why it matters so much to read to the end: English tells you \"not\" early (\"I am **not**…\"), but in Japanese you only find out whether it's yes or no in the last block.\n• **じゃありません** means the same thing and is the **more formal** version. In formal writing you'll also see ではありません (じゃ is the spoken form of では).\n• Now you can answer \"no\" in full, as promised in lesson 01-1: いいえ、にほんじんじゃないです。ブラジルじんです。\n• A short answer: いいえ、そうじゃないです。 (\"No, that's not so.\")\n• With も, it becomes \"not … either\": ペドロさんも にほんじんじゃないです。\n• For now, じゃないです is for nouns. Verbs and い-adjectives make their negatives differently (lessons 03-1 and 05-1).",
+      "explanation": "To make a noun sentence negative, swap **です** for **じゃないです**: がくせいです → がくせいじゃないです (\"I'm not a student\"). Nothing else changes: the TOPIC still takes は, and the negative sits **at the end**, inside the PREDICATE. That's why it matters so much to read to the end: English tells you \"not\" early (\"I am **not**…\"), but in Japanese you only find out whether it's yes or no in the last block.\n• **じゃありません** means the same thing and is the **more formal** version.\n• Where the pieces come from: じゃ is the spoken contraction of **では**, and ない means \"not\"; です keeps it polite. That's why formal writing uses the uncontracted ではありません.\n• Now you can answer \"no\" in full, as promised in lesson 01-1: いいえ、にほんじんじゃないです。ブラジルじんです。\n• A short answer: いいえ、そうじゃないです。 (\"No, that's not so.\")\n• With も, it becomes \"not … either\": ペドロさんも にほんじんじゃないです。\n• For now, じゃないです is for nouns. Verbs and い-adjectives make their negatives differently (lessons 03-1 and 05-1).\n• Going further (Sakubi): without です, じゃない is the casual \"isn't\" — the negative of だ (lesson 08-1) — and you'll hear it a lot in games. Said with a rising voice, 〜じゃない？ can also mean \"isn't it?\", asking the other person to confirm, so listen to the tone.",
       "structure": "[X] は [N] じゃないです。 · more formal: [X] は [N] じゃありません。",
       "examples": [
         { "jp": "ルーカスさんは にほんじんじゃないです。ブラジルじんです。", "kana": "ルーカスさんは にほんじんじゃないです。ブラジルじんです。", "romaji": "Rūkasu-san wa nihonjin ja nai desu. Burajirujin desu.", "en": "Lucas isn't Japanese. He's Brazilian." },
@@ -104,17 +104,18 @@
       "gc": "2-7",
       "title": "〜ね / 〜よ",
       "gloss": "right? / you know",
-      "explanation": "ね and よ come **after です**, at the very end, and don't change the content of the sentence: they change **the tone**, showing what you think the other person already knows.\n• **ね** = \"…, right?\", \"…, isn't it?\": you expect the other person to **agree** or to confirm something you both see or know. Both of you are eating: この とんかつは おいしいですね。\n• **よ** = \"…, you know\", \"I'm telling you\": you're giving **new information** the other person doesn't have.\n• そうですね = \"that's right\", agreeing. It also buys time, like English \"let me see…\".\n• You'll often hear **よね** together, checking something you think you know (\"…, isn't it?\").\n• おいしい (\"delicious\") and たかい (\"expensive\") are adjectives; they come in lesson 05-1, but you can already use おいしいです and たかいです.",
+      "explanation": "ね and よ come **after です**, at the very end, and don't change the content of the sentence: they change **the tone**, showing what you think the other person already knows. The descriptions below are a guide, not exact rules: these endings are learned mostly **by ear**, by hearing them again and again.\n• **ね** = \"…, right?\", \"…, isn't it?\": you expect the other person to **agree** or to confirm something you both see or know. Both of you are eating: この とんかつは おいしいですね。\n• **よ** = \"…, you know\", \"I'm telling you\": you're giving **new information** the other person doesn't have.\n• そうですね = \"that's right\", agreeing. It also buys time, like English \"let me see…\".\n• You'll often hear **よね** together, checking something you think you know (\"…, isn't it?\").\n• At the start of a sentence, ね (or ねえ) just gets someone's attention, like \"hey\" — among friends.\n• おいしい (\"delicious\") and たかい (\"expensive\") are adjectives; they come in lesson 05-1, but you can already use おいしいです and たかいです.\n• Going further (Sakubi): casual speech has more of these endings — な (emphasis, often said to yourself), ぞ and ぜ (assertive, and they sound masculine), わ and さ. You'll meet them in games and manga: learn to recognize them, but don't use them yet.",
       "structure": "[sentence] ね。 (seeks agreement) · [sentence] よ。 (new information)",
       "examples": [
         { "jp": "ペドロさんは ブラジルじんですね。— ええ、そうです。", "kana": "ペドロさんは ブラジルじんですね。— ええ、そうです。", "romaji": "Pedoro-san wa burajirujin desu ne. — Ē, sō desu.", "en": "Pedro, you're Brazilian, right? — Yes, that's right. [lit. Pedro is Brazilian, right?]" },
-        { "jp": "あの ひとは やまだせんせいですよ。", "kana": "あの ひとは やまだせんせいですよ。", "romaji": "Ano hito wa Yamada-sensei desu yo.", "en": "That person over there is Professor Yamada, you know." },
+        { "jp": "あの ひとは にほんごの せんせいですよ。", "kana": "あの ひとは にほんごの せんせいですよ。", "romaji": "Ano hito wa nihongo no sensei desu yo.", "en": "That person over there is the Japanese teacher, you know." },
         { "jp": "この かばんは たかいですね。— ええ、にまんえんですよ。", "kana": "この かばんは たかいですね。— ええ、にまんえんですよ。", "romaji": "Kono kaban wa takai desu ne. — Ē, niman en desu yo.", "en": "This bag is expensive, isn't it? — Yes, it's 20,000 yen, you know." }
       ],
       "pitfalls": [
         "Don't use ね for something the other person can't know yet. わたしの なまえは ペドロですね ✗ sounds as if they should already know your name. In an introduction, add nothing: わたしの なまえは ペドロです ✓.",
         "Too much よ sounds pushy, as if you were correcting the other person all the time. With teachers and bosses, use it sparingly.",
-        "ね asks for confirmation of something you already think (ブラジルじんですね = \"you're Brazilian, right?\"). If you really don't know the answer, ask with か: ブラジルじんですか ✓."
+        "ね asks for confirmation of something you already think (ブラジルじんですね = \"you're Brazilian, right?\"). If you really don't know the answer, ask with か: ブラジルじんですか ✓.",
+        "ね and よ always come last, after です: ブラジルじんねです ✗ → ブラジルじんですね ✓."
       ],
       "howToStudy": [
         "Look at photos on your phone and comment on them out loud with ね, as if someone were looking with you: 〜さんですね。, おいしいですね。",
@@ -183,8 +184,8 @@
     ]
   },
   "practice": [
-    { "tool": "Wagotabi", "what": "Play normally and hunt for sentence endings: ね, よ and negatives (the game may use the casual form じゃない, without です), plus も in the middle of a sentence. Each time, say out loud what it does: agreement, new information, negative or \"also\". Copy 2 of those lines into your notebook.", "min": 15 },
-    { "tool": "ヅオリンゴー", "what": "Drills → Particles: 10 min, paying attention to は × も. Then the Lesson 2 vocabulary in the SRS.", "min": 15 },
+    { "tool": "Wagotabi", "what": "Play normally and hunt for sentence endings: ね, よ and negatives (the game may use the casual form じゃない, without です), plus も in the middle of a sentence. Each time, say out loud what it does: agreement, new information, negative or \"also\". Copy 2 of those lines into your notebook and save 1 in the app's Mining, with every word looked up in a dictionary. Other endings (な, ぞ, さ…) may show up too: just note them.", "min": 15 },
+    { "tool": "ヅオリンゴー", "what": "Drills → Particles: 10 min, paying attention to は × も. Then clear today's reviews (🌊 All), including the Lesson 2 vocabulary and the sentences you have mined.", "min": 15 },
     { "tool": "ヅオリンゴー", "what": "Journal: write 3 sentences about you and a friend with も and じゃないです, then open \"Anatomy of what I wrote\".", "min": 10 },
     { "tool": "Shadowing", "what": "Tap 🔊 on each example in this lesson and repeat along 3 times, copying the tone of ね and よ.", "min": 5 },
     { "tool": "Speaking", "what": "Record 1 minute about you and a friend using も, じゃないです, ね and よ (use homework h4 as a script).", "min": 5 }
@@ -203,5 +204,9 @@
     "I read a sentence to the end before deciding whether it's affirmative or negative.",
     "I did the homework, checked it against the answer key and redid what I got wrong.",
     "I did Workbook pages 29–31."
+  ],
+  "credits": [
+    "Explanations adapted in part from Sakubi (public domain, CC0) — sakubi.neocities.org",
+    "Study method informed by the DJT Guide to Japanese — djtguide.neocities.org/guide"
   ]
 }

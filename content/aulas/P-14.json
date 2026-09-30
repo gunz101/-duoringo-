@@ -1,0 +1,241 @@
+{
+  "id": "P-14",
+  "unit": "P-N3",
+  "genki": null,
+  "title": "Even · precisely",
+  "titleJp": "時間さえあれば・今度こそ",
+  "canDo": [
+    "I can stress \"not even X\" with 〜さえ (and でさえ for a person): 忙しくて、水を飲む時間さえなかった。",
+    "I can say \"as long as X, that's all it takes\" with 〜さえ〜ば: 地図さえあれば、一人で行ける。",
+    "I can point at \"this one, precisely\" with 〜こそ: 今度こそ, こちらこそ, 〜からこそ.",
+    "I can use でも after a noun for \"even X\" and to soften an invitation: お茶でも飲みませんか。",
+    "I can tell さえ from も and まで, こそ from は／が, and でも (even) from で＋も, 〜ても (even if) and でも (but)."
+  ],
+  "duration": {
+    "total": "70–90 min",
+    "blocks": [
+      { "t": "Warm-up: say aloud 3 things you couldn't do on a really busy day, with 〜なかった (寝る時間がなかった…) — point a builds on them", "min": 5 },
+      { "t": "Vocabulary: tap 🔊 on each word and repeat it twice; save the words you don't know yet with Mining (⛏), each inside one sentence from this lesson, so they enter your SRS", "min": 10 },
+      { "t": "Grammar: points a (〜さえ) and b (〜さえ〜ば), with the examples read aloud and one 🔬 each. If you split the lesson into two sessions, stop here.", "min": 20 },
+      { "t": "Grammar: points c (〜こそ) and d (〜でも), with the four でも／ても look-alikes side by side", "min": 20 },
+      { "t": "Video and reading from block 6, pausing on the examples", "min": 10 },
+      { "t": "Notebook homework + checking it against the answer key", "min": 15 },
+      { "t": "Checklist (block 10) + write your questions in the lesson notebook", "min": 5 }
+    ]
+  },
+  "prereqs": {
+    "aulas": ["P-13"],
+    "skills": [
+      "The ば conditional (lesson 22-2): point b is built on it (あれば, よければ, すれば).",
+      "Potential verbs (lesson 13-1) and the short past negative 〜なかった (lesson 09-1): さえ loves \"couldn't even…\" sentences.",
+      "〜ても \"even if\" (lesson 23-1) and question word + も (lesson 08-3): point d keeps them apart from でも.",
+      "でも at the start of a sentence (\"but\") and the other connectors from lesson P-13."
+    ],
+    "vocab": [
+      { "jp": "さえ", "kana": "さえ", "romaji": "sae", "en": "even (an emphatic particle); with ば: as long as" },
+      { "jp": "こそ", "kana": "こそ", "romaji": "koso", "en": "precisely, this one for sure (an emphatic particle)" },
+      { "jp": "今度", "kana": "こんど", "romaji": "kondo", "en": "this time; next time" },
+      { "jp": "こちらこそ", "kana": "こちらこそ", "romaji": "kochira koso", "en": "likewise; I'm the one who should say that (a reply)" },
+      { "jp": "元気", "kana": "げんき", "romaji": "genki", "en": "energy; healthy, well" },
+      { "jp": "シャワーを浴びる", "kana": "シャワーをあびる", "romaji": "shawā o abiru", "en": "to take a shower" },
+      { "jp": "間違える", "kana": "まちがえる", "romaji": "machigaeru", "en": "to make a mistake, to get (something) wrong" },
+      { "jp": "読み方", "kana": "よみかた", "romaji": "yomikata", "en": "way of reading; the reading (of a kanji)" },
+      { "jp": "あいさつ（する）", "kana": "あいさつ（する）", "romaji": "aisatsu (suru)", "en": "a greeting; to say hello or goodbye" },
+      { "jp": "地図", "kana": "ちず", "romaji": "chizu", "en": "map" },
+      { "jp": "道に迷う", "kana": "みちにまよう", "romaji": "michi ni mayou", "en": "to get lost" },
+      { "jp": "薬", "kana": "くすり", "romaji": "kusuri", "en": "medicine (薬を飲む = to take medicine)" },
+      { "jp": "試験", "kana": "しけん", "romaji": "shiken", "en": "exam" },
+      { "jp": "落ちる", "kana": "おちる", "romaji": "ochiru", "en": "to fall; to fail (an exam)" },
+      { "jp": "合格する", "kana": "ごうかくする", "romaji": "gōkaku suru", "en": "to pass (an exam)" },
+      { "jp": "探す", "kana": "さがす", "romaji": "sagasu", "en": "to look for" },
+      { "jp": "初心者", "kana": "しょしんしゃ", "romaji": "shoshinsha", "en": "beginner" },
+      { "jp": "質問", "kana": "しつもん", "romaji": "shitsumon", "en": "question" },
+      { "jp": "いつでも", "kana": "いつでも", "romaji": "itsu demo", "en": "any time" },
+      { "jp": "何でも", "kana": "なんでも", "romaji": "nandemo", "en": "anything" },
+      { "jp": "週末", "kana": "しゅうまつ", "romaji": "shūmatsu", "en": "weekend" },
+      { "jp": "参加する", "kana": "さんかする", "romaji": "sanka suru", "en": "to take part, to join" },
+      { "jp": "続ける", "kana": "つづける", "romaji": "tsuzukeru", "en": "to continue, to keep (doing)" },
+      { "jp": "礼", "kana": "れい", "romaji": "rei", "en": "a bow; courtesy, respect" }
+    ]
+  },
+  "grammar": [
+    {
+      "id": "P-14-a",
+      "gc": null,
+      "title": "〜さえ",
+      "gloss": "even (X) · not even (X)",
+      "explanation": "さえ is an **emphatic particle** meaning **\"even X\"**. It picks the most extreme or most basic example, and the logic is: if it's true even for X, it's surely true for everything else. ひらがなさえ読めない = \"I can't even read hiragana\" (so kanji are out of the question).\n• **It takes the place of が and を**: 水を飲めなかった → 水さえ飲めなかった. Other particles stay, and さえ goes **after** them: 先生に → 先生にさえ (even to the teacher).\n• **でさえ**: when the \"even X\" is the person or thing that does the action, you'll very often hear でさえ: 先生でさえ知らなかった (even the teacher didn't know). This で has nothing to do with place.\n• It's most common in **negative** sentences (\"not even\"): 忙しくて、昼ご飯を食べる時間さえなかった. It also works in positive ones: 小さい子どもでさえ知っている (even small children know it).\n\n**The sentence, block by block.** A さえ block has lost its が／を, so its job comes from the predicate. In 水さえ飲めなかった, read the end first — 飲めなかった (couldn't drink) — then ask \"what?\": 水さえ, even water. So 水さえ is the object.\n\n**さえ × も**: も can mean \"even\" too (ひらがなも読めない), but it can also just mean \"also\", so it's ambiguous. さえ always means \"even\", and it's stronger.\n**さえ × まで**: まで can also mean \"even\", mostly in positive sentences with the feel of \"on top of everything\": 雨まで降ってきた (and then it even started to rain). For \"not even\", and with ば (point b), use さえ (Sakubi).\n• Going further (Sakubi): **すら** means the same \"even\" as さえ but sounds bookish. You'll meet it in writing: 名前すら知らない (I don't even know the name).",
+      "structure": "[N] さえ + predicate (usually negative) · [person] でさえ … · [N + に／と] さえ",
+      "examples": [
+        { "jp": "疲れすぎて、シャワーを浴びる元気さえなかった。", "kana": "つかれすぎて、シャワーをあびるげんきさえなかった。", "romaji": "Tsukaresugite, shawā o abiru genki sae nakatta.", "en": "I was so tired I didn't even have the energy to take a shower." },
+        { "jp": "漢字の読み方は、日本人でさえ間違えることがある。", "kana": "かんじのよみかたは、にほんじんでさえまちがえることがある。", "romaji": "Kanji no yomikata wa, nihonjin de sae machigaeru koto ga aru.", "en": "Even Japanese people sometimes get kanji readings wrong. [lit. as for kanji readings, even Japanese people sometimes get them wrong]" },
+        { "jp": "ルーカスさんは、あいさつさえしないで帰った。", "kana": "ルーカスさんは、あいさつさえしないでかえった。", "romaji": "Rūkasu-san wa, aisatsu sae shinaide kaetta.", "en": "Lucas left without even saying goodbye." }
+      ],
+      "pitfalls": [
+        "In a plain sentence, さえ means \"even\", not \"only\". \"I only drank water\": 水さえ飲んだ ✗ → 水だけ飲んだ ✓／水しか飲まなかった ✓. (The \"only this is needed\" meaning appears with ば — point b.)",
+        "さえ comes after に and と, not before: 先生さえに言えなかった ✗ → 先生にさえ言えなかった ✓ (I couldn't even tell my teacher).",
+        "まで doesn't work for \"not even\": 電話までしなかった ✗ → 電話さえしなかった ✓ (he didn't even call)."
+      ],
+      "howToStudy": [
+        "Think of a really busy day and say 3 \"not even\" sentences about it aloud: 〜さえ〜なかった (e.g. 忙しくて、水を飲む時間さえなかった).",
+        "🔬 Anatomy → Analyze: paste example 1. 疲れすぎて is …AND THEN (the cause), シャワーを the OBJECT, 浴びる DESCRIBES NEXT (it describes 元気), 元気さえ shows up as NO PARTICLE — さえ took the place of が — and なかった is the PREDICATE. Read it from the end: didn't exist → what? → even the energy → to do what? → take a shower.",
+        "Sentence mining, DJT-style: every time you meet さえ in real Japanese (Wagotabi, NHK Web Easy, a manga), save the whole sentence with Mining (⛏). A handful of real sentences teaches the feel of \"even\" better than any rule."
+      ],
+      "flag": null
+    },
+    {
+      "id": "P-14-b",
+      "gc": null,
+      "title": "〜さえ〜ば",
+      "gloss": "as long as · if only (that's all it takes)",
+      "explanation": "Put さえ inside a ば condition and its meaning turns from \"even\" into **\"only this is needed\"**: 時間さえあれば、行ける = \"as long as I have time, I can go\" — time is the one condition, and nothing else is missing. Sakubi's point: さえ means \"even an X\" or \"only an X\" depending on the sentence around it.\n• **With a noun**: [N] さえ + a verb or adjective in the ば form: 地図さえあれば, 天気さえよければ. The noun keeps its job (subject or object) but loses が／を.\n• **With a verb**: [verb stem] さえ すれば: 薬を飲みさえすれば治る (as long as you take the medicine, you'll get better). With a state: [て-form] さえ いれば: 毎日練習してさえいれば (as long as you keep practicing every day).\n• **A set phrase**: あなたさえよければ / 田中さんさえよければ = \"if it's all right with you\" — a polite, very common way to offer or suggest something.\n• In speech you'll also hear たら instead of ば: 時間さえあったら.\n\n**The sentence, block by block.** The whole [〜さえ〜ば] part is one **IF / WHEN** block — the condition. The result, what becomes possible, is the **PREDICATE** at the end. Read the end first: 行ける (I can go) ← under what condition? ← 時間さえあれば (only that I have time).\n\n**さえ〜ば × 〜ば**: 時間があれば行ける is a plain condition (\"if I have time, I can go\"). 時間さえあれば行ける adds \"and that's the only thing I need\".\n**さえ〜ば × さえ + negative** (point a): the same さえ, two meanings. 時間さえない = \"I don't even have time\". 時間さえあれば = \"as long as I have time\". Look at the end of the block: a negative → \"even\"; ば → \"as long as\".",
+      "structure": "[N] さえ [〜ば]、[result] · [verb stem] さえ すれば、[result] · [〜て] さえ いれば、[result]",
+      "examples": [
+        { "jp": "この地図さえあれば、道に迷わないよ。", "kana": "このちずさえあれば、みちにまよわないよ。", "romaji": "Kono chizu sae areba, michi ni mayowanai yo.", "en": "As long as you have this map, you won't get lost." },
+        { "jp": "この薬を飲みさえすれば、すぐよくなりますよ。", "kana": "このくすりをのみさえすれば、すぐよくなりますよ。", "romaji": "Kono kusuri o nomi sae sureba, sugu yoku narimasu yo.", "en": "As long as you take this medicine, you'll get better soon.", "noAnat": true },
+        { "jp": "アナさんさえよければ、週末に一緒に行きませんか。", "kana": "アナさんさえよければ、しゅうまつにいっしょにいきませんか。", "romaji": "Ana-san sae yokereba, shūmatsu ni issho ni ikimasen ka.", "en": "If it's all right with you, Ana, shall we go together this weekend?" }
+      ],
+      "pitfalls": [
+        "さえ goes right after the noun, and ば on the verb: 地図があればさえ ✗ → 地図さえあれば ✓.",
+        "With a verb, use the stem + さえ + すれば: 飲むさえすれば ✗ → 飲みさえすれば ✓.",
+        "さえ〜ば is not \"even if\". \"Even if it rains, I'll go\": 雨さえ降れば行く ✗ (= I'll go as long as it rains!) → 雨が降っても行く ✓ (lesson 23-1)."
+      ],
+      "howToStudy": [
+        "Finish this sentence aloud 3 ways, with a different verb stem each time: 日本語は、毎日〜さえすれば、上手になる。 (聞き, 読み, 話し…).",
+        "🔬 Anatomy → Analyze: paste example 1. この is DESCRIBES NEXT, 地図さえ is NO PARTICLE and あれば is IF / WHEN: together, 地図さえあれば is the condition. 迷わないよ is the PREDICATE. Read the end first — you won't get lost — then the condition: only that you have this map.",
+        "Offer something politely to 2 imaginary people, aloud and in a soft voice: 〜さんさえよければ、〜ませんか。 (e.g. 田中さんさえよければ、駅まで一緒に行きませんか。)"
+      ],
+      "flag": null
+    },
+    {
+      "id": "P-14-c",
+      "gc": null,
+      "title": "〜こそ",
+      "gloss": "precisely · this one for sure",
+      "explanation": "こそ is an emphatic particle that works like **stressing a word with your voice** in English: \"THIS time\", \"I'M the one\", \"THAT's exactly why\". Sakubi suggests reading it as \"for sure\" until it clicks. It points at one thing and says: this one, precisely.\n• **今度こそ** = \"this time for sure\", after failing before: 今度こそ合格したい.\n• **こちらこそ** = \"likewise; no, I'm the one who should say that\": the reply when someone thanks you, apologizes or says よろしく. It is always a reply, never the first line.\n• **[N] こそ** = \"exactly this, the very one\": これこそ私が探していた本だ (This is exactly the book I was looking for).\n• **〜からこそ** = \"precisely because\": it stresses the reason, often one the listener might not expect: 好きだからこそ、きびしく言うんです (It's precisely because I care that I'm strict with you).\n• **Form**: こそ takes the place of は, が and を (これこそ, 今度こそ); after から it simply follows it (からこそ).\n\n**The sentence, block by block.** こそ doesn't change a block's job; it only turns up the volume. Like さえ, a こそ block has lost its particle, so ask the predicate what it is: in 今度こそ合格したい, 今度こそ answers \"when?\" — it's a time word, stressed.\n\n**こそ × さえ**: both are emphatic, but they point in different directions. さえ points at the **extreme case** (\"even X\", the least expected one); こそ points at **the right one** (\"X, precisely\"). 先生でさえ間違える = even the teacher makes mistakes. これこそ正しい答えだ = this, precisely, is the right answer.\n**こそ × は／が**: は just sets the topic and が marks the subject; こそ adds \"this one and no other\". It's strong, so in everyday talk it lives mostly in the set uses above.",
+      "structure": "今度こそ 〜たい · こちらこそ (a reply) · [N] こそ … · [short form] からこそ、…",
+      "examples": [
+        { "jp": "去年は試験に落ちたけど、今度こそ合格したい。", "kana": "きょねんはしけんにおちたけど、こんどこそごうかくしたい。", "romaji": "Kyonen wa shiken ni ochita kedo, kondo koso gōkaku shitai.", "en": "I failed the exam last year, but this time I really want to pass." },
+        { "jp": "はじめまして、ペドロです。よろしくお願いします。— 田中です。こちらこそ、よろしくお願いします。", "kana": "はじめまして、ペドロです。よろしくおねがいします。— たなかです。こちらこそ、よろしくおねがいします。", "romaji": "Hajimemashite, Pedoro desu. Yoroshiku onegai shimasu. — Tanaka desu. Kochira koso, yoroshiku onegai shimasu.", "en": "Nice to meet you, I'm Pedro. I look forward to working with you. — I'm Tanaka. Likewise, I look forward to working with you. [こちらこそ, lit. this side, precisely]" },
+        { "jp": "日本語は難しいからこそ、おもしろい。", "kana": "にほんごはむずかしいからこそ、おもしろい。", "romaji": "Nihongo wa muzukashii kara koso, omoshiroi.", "en": "It's precisely because Japanese is hard that it's interesting.", "noAnat": true }
+      ],
+      "pitfalls": [
+        "こちらこそ is only a reply. As your first line: こちらこそ、よろしくお願いします ✗ → よろしくお願いします ✓ — and the other person answers こちらこそ.",
+        "Don't use こそ as a stronger は: 私こそマリアです ✗ (= I'm the real Maria!) → 私はマリアです ✓.",
+        "からこそ stresses a reason; with an everyday reason it sounds oddly dramatic: 疲れたからこそ、帰ります ✗ → 疲れたから、帰ります ✓."
+      ],
+      "howToStudy": [
+        "Build the reply reflex: say ありがとう／すみません／よろしくお願いします aloud, and answer each one yourself with こちらこそ + the same phrase (こちらこそ、ありがとう…). 5 rounds, getting faster.",
+        "🔬 Anatomy → Analyze: paste これこそ私が探していた本だ。 これこそ shows up as NO PARTICLE (こそ took the place of が), 私が is the SUBJECT, 探していた DESCRIBES NEXT (it describes 本) and 本だ is the PREDICATE. Read from the end: a book → which one? → the one I was looking for → and これ, precisely, is it.",
+        "Write one 今度こそ goal about real Japanese in your notebook — for example 今度こそ、日本語のマンガを一冊最後まで読みたい. Reading real material early is how grammar like this settles."
+      ],
+      "flag": null
+    },
+    {
+      "id": "P-14-d",
+      "gc": null,
+      "title": "〜でも (even · or something)",
+      "gloss": "even X · X or something · any-",
+      "explanation": "でも attached **directly to a noun** has two jobs that have nothing to do with \"but\":\n• **\"Even X\"** — softer and more everyday than さえ: この本は初心者でも読める (even a beginner can read this book).\n• **\"X or something\"**, in invitations, offers and suggestions: お茶でも飲みませんか (Would you like some tea or something?). Nobody is saying \"even tea\": でも makes the offer vague and gentle, so the other person feels free to choose. Sakubi's description: in invitations and requests, this でも marks something vague that could be swapped for something else.\n• With a **question word**, でも makes \"any-\": 何でも (anything), いつでも (any time), だれでも (anyone), どこでも (anywhere), with a positive verb: 何でも食べます (I eat anything).\n\n**The sentence, block by block.** Like さえ, でも takes the place of が or を, so the block's job comes from the verb: in コーヒーでも飲む？, コーヒーでも is what you'd drink (the object). Other particles stay in front: 図書館にでも行こうか (shall we go to the library or somewhere?).\n\n**Four look-alikes to keep apart:**\n• [N] でも = even N / N or something: 初心者でも, お茶でも.\n• [N] で + も = the particle で plus も (\"also\"): 日本でも人気がある (it's popular in Japan too).\n• [verb て-form] + も = \"even if\" (lesson 23-1): 雨が降っても行く. After verbs like 読む it's spelled でも (読んでも), but it's still the て-form.\n• でも at the start of a sentence = \"but\": 高い。でも、買う。\n**でも × さえ**: 子どもでもできる = even a kid can do it (everyday). 子どもでさえできる = even a KID can do it (stronger).",
+      "structure": "[N] でも + predicate (even N) · [N] でも 〜ませんか／〜ない？ (N or something) · [question word] でも (any-)",
+      "examples": [
+        { "jp": "この本はやさしい日本語で書いてあるから、初心者でも読める。", "kana": "このほんはやさしいにほんごでかいてあるから、しょしんしゃでもよめる。", "romaji": "Kono hon wa yasashii nihongo de kaite aru kara, shoshinsha demo yomeru.", "en": "This book is written in easy Japanese, so even a beginner can read it." },
+        { "jp": "少し休もうか。コーヒーでも飲む？", "kana": "すこしやすもうか。コーヒーでものむ？", "romaji": "Sukoshi yasumō ka. Kōhī demo nomu?", "en": "Shall we take a short break? Want a coffee or something?" },
+        { "jp": "質問があったら、いつでも聞いてください。", "kana": "しつもんがあったら、いつでもきいてください。", "romaji": "Shitsumon ga attara, itsu demo kiite kudasai.", "en": "If you have any questions, ask me any time.", "noAnat": true }
+      ],
+      "pitfalls": [
+        "In an invitation, でも is not \"even\": reading お茶でも飲みませんか as \"Won't you even drink tea?\" ✗ → \"Would you like some tea or something?\" ✓.",
+        "After a verb, \"even if\" is the て-form + も, not the dictionary form + でも: 読むでも ✗ → 読んでも ✓ (lesson 23-1).",
+        "何でも goes with a positive verb. \"I don't eat anything\": 何でも食べません ✗ → 何も食べません ✓ (lesson 08-3)."
+      ],
+      "howToStudy": [
+        "Speaking: invite 3 imaginary friends to something with 〜でも, once politely and once casually: 映画でも見ませんか／映画でも見ない？ (then 散歩, お茶, ご飯…).",
+        "Say which one each is, then translate aloud: 初心者でも・日本でも・読んでも・でも、… (even N / で + も / even if / but).",
+        "Try it for real, DJT-style: pick a graded reader or an easy manga that feels just a little hard (初心者でも読める本) and read two pages today. If it's digital, look words up with a pop-up dictionary such as Yomitan, and mine one sentence."
+      ],
+      "flag": null
+    }
+  ],
+  "media": [
+    { "order": 1, "kind": "reading", "title": "JLPT Sensei: the pages on さえ, こそ and でも (\"even\"), with more example sentences", "where": "Website · JLPT Sensei (grammar lists by level)", "url": "", "search": "JLPT Sensei sae koso demo", "when": "After the grammar block. Read the example sentences aloud. If the site lists a point at another level, that's fine: unofficial lists vary." },
+    { "order": 2, "kind": "video", "title": "Japanese Ammo with Misa: さえ and こそ", "where": "YouTube · Japanese Ammo with Misa channel", "url": "", "search": "Japanese Ammo with Misa sae koso", "when": "After point c, as a second explanation. If there's no video covering both, search for each one separately." },
+    { "order": 3, "kind": "input", "title": "NHK NEWS WEB EASY: read one article and hunt for でも after a noun", "where": "Website · NHK NEWS WEB EASY", "url": "", "search": "NHK NEWS WEB EASY", "when": "On any day after the lesson. For each でも you find, decide: even N, N or something, で + も, or \"but\"?" }
+  ],
+  "homework": {
+    "intro": "Do it by hand in your notebook. Write with the kanji you already know and use kana for the rest. Only then open the answer key, item by item. Circle what you got wrong and redo it the next day.",
+    "tasks": [
+      {
+        "id": "h1",
+        "type": "fill",
+        "prompt": "Fill in さえ, こそ or でも.",
+        "items": [
+          { "q": "忙しくて、メールを読む時間＿＿なかった。", "a": { "jp": "忙しくて、メールを読む時間さえなかった。", "kana": "いそがしくて、メールをよむじかんさえなかった。", "romaji": "Isogashikute, mēru o yomu jikan sae nakatta." }, "note": "\"Not even\": さえ in a negative sentence." },
+          { "q": "去年は負けたけど、今年＿＿勝ちたい。", "a": { "jp": "去年は負けたけど、今年こそ勝ちたい。", "kana": "きょねんはまけたけど、ことしこそかちたい。", "romaji": "Kyonen wa maketa kedo, kotoshi koso kachitai." }, "note": "After a failure: \"this year for sure\" — こそ." },
+          { "q": "暑いですね。冷たいもの＿＿飲みませんか。", "a": { "jp": "暑いですね。冷たいものでも飲みませんか。", "kana": "あついですね。つめたいものでものみませんか。", "romaji": "Atsui desu ne. Tsumetai mono demo nomimasen ka." }, "note": "A soft invitation: でも = \"something cold or the like\"." },
+          { "q": "遅れてすみません。— いいえ、こちら＿＿、急に呼んでしまってすみません。", "a": { "jp": "遅れてすみません。— いいえ、こちらこそ、急に呼んでしまってすみません。", "kana": "おくれてすみません。— いいえ、こちらこそ、きゅうによんでしまってすみません。", "romaji": "Okurete sumimasen. — Iie, kochira koso, kyū ni yonde shimatte sumimasen." }, "note": "The reply to an apology: こちらこそ + your own apology." },
+          { "q": "この料理は簡単だから、料理が苦手な人＿＿作れますよ。", "a": { "jp": "この料理は簡単だから、料理が苦手な人でも作れますよ。", "kana": "このりょうりはかんたんだから、りょうりがにがてなひとでもつくれますよ。", "romaji": "Kono ryōri wa kantan dakara, ryōri ga nigate na hito demo tsukuremasu yo." }, "note": "\"Even N\" in an everyday sentence: でも. でさえ would also be correct, just stronger." },
+          { "q": "住所＿＿わかれば、一人でも行けます。", "a": { "jp": "住所さえわかれば、一人でも行けます。", "kana": "じゅうしょさえわかれば、ひとりでもいけます。", "romaji": "Jūsho sae wakareba, hitori demo ikemasu." }, "note": "さえ + ば: the address is the only thing you need. (一人でも = even on my own.)" }
+        ]
+      },
+      {
+        "id": "h2",
+        "type": "transform",
+        "prompt": "Rewrite each condition with さえ〜ば, so it means \"as long as…, that's all it takes\".",
+        "items": [
+          { "q": "天気がよければ、山に登れる。", "a": { "jp": "天気さえよければ、山に登れる。", "kana": "てんきさえよければ、やまにのぼれる。", "romaji": "Tenki sae yokereba, yama ni noboreru." }, "note": "Noun + さえ: the が disappears." },
+          { "q": "練習すれば、上手になる。", "a": { "jp": "練習しさえすれば、上手になる。", "kana": "れんしゅうしさえすれば、じょうずになる。", "romaji": "Renshū shi sae sureba, jōzu ni naru." }, "note": "With a verb: stem (練習し) + さえ + すれば." },
+          { "q": "時間があれば、もっと本を読みたい。", "a": { "jp": "時間さえあれば、もっと本を読みたい。", "kana": "じかんさえあれば、もっとほんをよみたい。", "romaji": "Jikan sae areba, motto hon o yomitai." }, "note": "Here さえ〜ば feels like \"if only\": time is the only thing missing." },
+          { "q": "薬を飲めば、治ります。", "a": { "jp": "薬を飲みさえすれば、治ります。", "kana": "くすりをのみさえすれば、なおります。", "romaji": "Kusuri o nomi sae sureba, naorimasu." }, "note": "The object keeps を here, because さえ attaches to the verb, not to the noun. 薬さえ飲めば is also correct." }
+        ]
+      },
+      {
+        "id": "h3",
+        "type": "translate",
+        "prompt": "Translate into Japanese.",
+        "items": [
+          { "q": "I didn't even know her name.", "a": { "jp": "彼女の名前さえ知らなかった。", "kana": "かのじょのなまえさえしらなかった。", "romaji": "Kanojo no namae sae shiranakatta." } },
+          { "q": "Even Japanese people get this kanji wrong.", "a": { "jp": "この漢字は、日本人でさえ間違える。", "kana": "このかんじは、にほんじんでさえまちがえる。", "romaji": "Kono kanji wa, nihonjin de sae machigaeru." }, "note": "でさえ for a person who does the action. 日本人でも is also correct, just softer." },
+          { "q": "This time for sure, I'll read this book to the end.", "a": { "jp": "今度こそ、この本を最後まで読む。", "kana": "こんどこそ、このほんをさいごまでよむ。", "romaji": "Kondo koso, kono hon o saigo made yomu." } },
+          { "q": "Shall we watch a movie or something this weekend?", "a": { "jp": "週末、映画でも見ませんか。", "kana": "しゅうまつ、えいがでもみませんか。", "romaji": "Shūmatsu, eiga demo mimasen ka." } },
+          { "q": "Anyone can take part.", "a": { "jp": "だれでも参加できます。", "kana": "だれでもさんかできます。", "romaji": "Dare demo sanka dekimasu." }, "note": "Question word + でも = any-, with a positive verb." },
+          { "q": "It's precisely because I love it that I can keep going every day.", "a": { "jp": "好きだからこそ、毎日続けられる。", "kana": "すきだからこそ、まいにちつづけられる。", "romaji": "Suki dakara koso, mainichi tsuzukerareru." } }
+        ]
+      },
+      {
+        "id": "h4",
+        "type": "produce",
+        "prompt": "Write 4 sentences about your Japanese study: one \"not even\" with さえ, one with さえ〜ば, one with 今度こそ or からこそ, and one casual invitation with 〜でも to a study buddy. Read them aloud and record yourself on your phone.",
+        "items": [
+          { "q": "Model (match its structure, not its words):", "a": { "jp": "始めたころは、ひらがなさえ読めなかった。でも、毎日少しずつ続けさえすれば、上手になると思う。今度こそ、日本語の本を一冊読みたい。週末、一緒に図書館にでも行かない？", "kana": "はじめたころは、ひらがなさえよめなかった。でも、まいにちすこしずつつづけさえすれば、じょうずになるとおもう。こんどこそ、にほんごのほんをいっさつよみたい。しゅうまつ、いっしょにとしょかんにでもいかない？", "romaji": "Hajimeta koro wa, hiragana sae yomenakatta. Demo, mainichi sukoshi zutsu tsuzuke sae sureba, jōzu ni naru to omou. Kondo koso, nihongo no hon o issatsu yomitai. Shūmatsu, issho ni toshokan ni demo ikanai?", "en": "When I started, I couldn't even read hiragana. But I think that as long as I keep at it a little every day, I'll get better. This time for sure, I want to read a whole book in Japanese. Want to go to the library or somewhere together this weekend?" }, "note": "Check: さえ replaces が／を but comes after に; a verb takes stem + さえすれば; でも also comes after に (図書館にでも); and the でも at the start of a sentence means \"but\"." }
+        ]
+      }
+    ],
+    "workbook": []
+  },
+  "practice": [
+    { "tool": "Wagotabi", "what": "Play in the game's N3 area. Hunt for さえ, こそ and でも after a noun in the dialogues. For each one, pause and say out loud what it stresses: the extreme case (さえ), the right one (こそ), or a vague example (でも). Log the session in Immersion → Games, paste one line into 🔬 Anatomy and save it with Mining (⛏).", "min": 15 },
+    { "tool": "NHK NEWS WEB EASY", "what": "Read one article with a pop-up dictionary such as Yomitan (hover over a word to see its reading and meaning) and listen to its audio. Copy every でも you find and label it: even N, N or something, で + も, or \"but\". さえ and こそ are rarer in the news, so if you find one, mine that sentence.", "min": 10 },
+    { "tool": "ヅオリンゴー · Journal", "what": "Write 5 sentences of your own: one each with さえ (not even), さえ〜ば, 今度こそ, 〜からこそ and an invitation with 〜でも. Use \"Anatomy of what I wrote\" and check that each さえ／こそ／でも block has lost its が／を, while に stays in front (にさえ, にでも).", "min": 10 },
+    { "tool": "Shadowing", "what": "Tap 🔊 on each example in this lesson and repeat along 3 times. Then practice the こちらこそ exchange from point c until the reply comes out without thinking.", "min": 5 },
+    { "tool": "Speaking", "what": "Record 30 seconds about something you failed once and will try again: what you couldn't even do (〜さえ〜なかった), what you need (〜さえ〜ば) and your promise (今度こそ〜). Listen back and check the particles.", "min": 5 }
+  ],
+  "culture": {
+    "title": "Martial arts and bowing (武道と礼)",
+    "titleJp": "ぶどう・れい",
+    "body": "**武道** (ぶどう) is the name for the Japanese martial arts, such as judo (柔道), kendo (剣道), karate (空手), kyudo (弓道, archery) and aikido (合気道). In all of them, **礼** (れい) — the bow, and the respect it stands for — is treated as part of the training itself, not as an extra. Practitioners usually bow when they enter and leave the training hall (道場, どうじょう), and to their partner before and after each practice or match. A well-known saying sums it up: 礼に始まり、礼に終わる (it begins with a bow and ends with a bow). In general, showing off or celebrating loudly after a win is seen as disrespectful to the opponent. Many Japanese people first meet budō at school: junior high school PE includes it, usually judo or kendo.",
+    "try": "Say the saying aloud with a small bow at each end: 礼に始まり、礼に終わる。 Then use this lesson's こそ in one sentence of your own, for example 強い人こそ、礼を大切にする。 (The truly strong are precisely the ones who value courtesy.)"
+  },
+  "checklist": [
+    "I can say \"not even X\" with 〜さえ (and でさえ for a person) without looking.",
+    "I can build 〜さえ〜ば with a noun (地図さえあれば) and with a verb (飲みさえすれば).",
+    "I can answer ありがとう, すみません and よろしくお願いします with こちらこそ without thinking.",
+    "I can use 今度こそ and 〜からこそ in sentences of my own.",
+    "I can make a soft invitation with 〜でも〜ませんか, and I know that this でも doesn't mean \"even\".",
+    "I can tell apart でも (even), で＋も, 〜ても (even if) and でも (but).",
+    "I did the homework, checked it against the answer key and redid what I got wrong."
+  ],
+  "credits": [
+    "Explanations adapted in part from Sakubi (public domain, CC0) — sakubi.neocities.org",
+    "Study method informed by the DJT Guide to Japanese — djtguide.neocities.org/guide"
+  ]
+}

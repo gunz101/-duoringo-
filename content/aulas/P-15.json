@@ -1,0 +1,215 @@
+{
+  "id": "P-15",
+  "unit": "P-N3",
+  "genki": null,
+  "title": "Tendencies",
+  "titleJp": "忘れがち・風邪気味・子どもっぽい",
+  "canDo": [
+    "I can describe how something looks or feels with 〜っぽい (黒っぽい, 大人っぽい, 忘れっぽい) and conjugate it like an い-adjective.",
+    "I can explain the difference between 子どもらしい and 子どもっぽい with an example.",
+    "I can say what someone tends to do — usually a bad habit — with 〜がち: 忘れがち, 〜になりがち.",
+    "I can say politely that I'm \"a bit\" tired or have a slight cold with 〜気味.",
+    "Given a verb like 忘れる or 遅れる, I can choose between っぽい, がち and 気味 and say why."
+  ],
+  "duration": {
+    "total": "60–75 min",
+    "blocks": [
+      { "t": "Warm-up: say aloud 3 things you often do with よく〜ます, then decide which of them are bad habits — point b is about those", "min": 5 },
+      { "t": "Vocabulary: tap 🔊 on each word and repeat it twice; save the words you don't know yet with Mining (⛏), each inside one sentence from this lesson, so they enter your SRS", "min": 10 },
+      { "t": "Grammar: the 3 points, with the examples read aloud and one 🔬 each; take your time with the three-way comparison at the end of point c", "min": 25 },
+      { "t": "Video and reading from block 6, pausing on the examples", "min": 10 },
+      { "t": "Notebook homework + checking it against the answer key", "min": 15 },
+      { "t": "Checklist (block 10) + write your questions in the lesson notebook", "min": 5 }
+    ]
+  },
+  "prereqs": {
+    "aulas": ["P-14"],
+    "skills": [
+      "Verb stems (the ます-form without ます: 忘れ, 休み, 遅れ): all three suffixes in this lesson attach to them.",
+      "い-adjective conjugation (〜くない, 〜かった, 〜く + verb): っぽい conjugates like any い-adjective.",
+      "〜らしい and 〜みたい from lesson P-04: point a contrasts らしい with っぽい.",
+      "〜やすい \"easy to\" (lesson 20-3): point b contrasts it with がち."
+    ],
+    "vocab": [
+      { "jp": "〜っぽい", "kana": "〜っぽい", "romaji": "-ppoi", "en": "-ish, -like, has the feel of; (very casual) seems" },
+      { "jp": "〜がち", "kana": "〜がち", "romaji": "-gachi", "en": "tend to (usually something unwanted)" },
+      { "jp": "〜気味", "kana": "〜ぎみ", "romaji": "-gimi", "en": "a touch of, slightly (a state, usually unwelcome)" },
+      { "jp": "子どもっぽい", "kana": "こどもっぽい", "romaji": "kodomoppoi", "en": "childish" },
+      { "jp": "大人っぽい", "kana": "おとなっぽい", "romaji": "otonappoi", "en": "grown-up looking, mature" },
+      { "jp": "子どもらしい", "kana": "こどもらしい", "romaji": "kodomorashii", "en": "childlike, just as a child should be (praise)" },
+      { "jp": "忘れっぽい", "kana": "わすれっぽい", "romaji": "wasureppoi", "en": "forgetful" },
+      { "jp": "飽きっぽい", "kana": "あきっぽい", "romaji": "akippoi", "en": "easily bored, quick to lose interest" },
+      { "jp": "黒っぽい", "kana": "くろっぽい", "romaji": "kuroppoi", "en": "darkish, blackish" },
+      { "jp": "風邪", "kana": "かぜ", "romaji": "kaze", "en": "a cold (風邪をひく = to catch a cold)" },
+      { "jp": "寝不足", "kana": "ねぶそく", "romaji": "nebusoku", "en": "lack of sleep" },
+      { "jp": "疲れる", "kana": "つかれる", "romaji": "tsukareru", "en": "to get tired" },
+      { "jp": "緊張する", "kana": "きんちょうする", "romaji": "kinchō suru", "en": "to be nervous, tense" },
+      { "jp": "運動不足", "kana": "うんどうぶそく", "romaji": "undōbusoku", "en": "lack of exercise" },
+      { "jp": "遅れる", "kana": "おくれる", "romaji": "okureru", "en": "to be late, to fall behind" },
+      { "jp": "病気がち", "kana": "びょうきがち", "romaji": "byōkigachi", "en": "sickly, often ill" },
+      { "jp": "傘", "kana": "かさ", "romaji": "kasa", "en": "umbrella" },
+      { "jp": "雲", "kana": "くも", "romaji": "kumo", "en": "cloud" },
+      { "jp": "発音", "kana": "はつおん", "romaji": "hatsuon", "en": "pronunciation" },
+      { "jp": "意外と", "kana": "いがいと", "romaji": "igai to", "en": "surprisingly, unexpectedly" },
+      { "jp": "試合", "kana": "しあい", "romaji": "shiai", "en": "match, game (sports)" },
+      { "jp": "抜く", "kana": "ぬく", "romaji": "nuku", "en": "to pull out; to skip (a meal)" },
+      { "jp": "衣替え", "kana": "ころもがえ", "romaji": "koromogae", "en": "the seasonal change of clothes" }
+    ]
+  },
+  "grammar": [
+    {
+      "id": "P-15-a",
+      "gc": null,
+      "title": "〜っぽい",
+      "gloss": "-ish · -like · (casual) seems",
+      "explanation": "っぽい turns a word into an **い-adjective meaning \"-ish, -like, has the feel of X\"**. It's a subjective impression from how something looks, sounds or behaves. Sakubi's summary: っぽい says something \"seems so\" from its appearance or properties, and it translates well as \"X-ish\" or \"X-like\". It's casual and very common in speech.\n• **Noun + っぽい** = looks or feels like X: 子どもっぽい (childish), 大人っぽい (grown-up, mature-looking), 秋っぽい (autumn-like), 冗談っぽい (sounds like a joke), 水っぽい (watery).\n• **Color + っぽい** = -ish: 白っぽい (whitish), 黒っぽい (darkish). With an い-adjective, drop the い: 安い → 安っぽい (cheap-looking).\n• **Verb stem + っぽい** = does it easily, as a **character trait**: 忘れっぽい (forgetful), 怒りっぽい (quick to get angry), 飽きっぽい (easily bored).\n• **Very casual \"seems\"**: in young people's speech, っぽい also follows a short form: 田中さん、今日は来ないっぽい (looks like Tanaka isn't coming today). Fine with friends; in writing and polite speech, use みたいです or ようです instead.\n• It conjugates like an い-adjective: 子どもっぽくない, 白っぽかった, 大人っぽく見える.\n\n**The sentence, block by block.** A 〜っぽい word is an adjective, so it's either the **PREDICATE** (この服、ちょっと子どもっぽいね) or it **DESCRIBES the next noun** (黒っぽい雲).\n\n**っぽい × らしい** (lesson P-04): after a noun, らしい means \"**typical of X, just as X should be**\" — usually praise. っぽい means \"**looks like X**\", often about something that isn't X. So 子どもらしい (a child acting like a child: natural, good) × 子どもっぽい (an adult acting like a child: childish). 春らしい天気 = real spring weather; 春っぽい服 = clothes with a spring feel.",
+      "structure": "[N] っぽい · [color / い-adj minus い] っぽい · [verb stem] っぽい (a trait) · (very casual) [short form] っぽい",
+      "examples": [
+        { "jp": "この服、ちょっと子どもっぽくない？— そう？かわいいと思うけど。", "kana": "このふく、ちょっとこどもっぽくない？— そう？かわいいとおもうけど。", "romaji": "Kono fuku, chotto kodomoppokunai? — Sō? Kawaii to omou kedo.", "en": "Isn't this outfit a bit childish? — Is it? I think it's cute.", "noAnat": true },
+        { "jp": "父は最近忘れっぽくて、よくめがねを探している。", "kana": "ちちはさいきんわすれっぽくて、よくめがねをさがしている。", "romaji": "Chichi wa saikin wasureppokute, yoku megane o sagashite iru.", "en": "My dad has gotten forgetful lately — he's often looking for his glasses." },
+        { "jp": "黒っぽい雲が出てきたね。雨が降りそう。", "kana": "くろっぽいくもがでてきたね。あめがふりそう。", "romaji": "Kuroppoi kumo ga dete kita ne. Ame ga furisō.", "en": "Some darkish clouds have come out. It looks like it's going to rain." }
+      ],
+      "pitfalls": [
+        "っぽい is an い-adjective: 子どもっぽいじゃない ✗ → 子どもっぽくない ✓; 子どもっぽいな人 ✗ → 子どもっぽい人 ✓.",
+        "Praising a child for being a real kid needs らしい: 子どもっぽくて、かわいいですね ✗ → 子どもらしくて、かわいいですね ✓. 子どもっぽい is what you say about an adult.",
+        "A verb stem + っぽい is a trait, so it doesn't take an object: 傘を忘れっぽい ✗ → 忘れっぽい ✓ (in general), or 傘を忘れがちだ ✓ (point b).",
+        "The casual \"seems\" っぽい isn't for polite speech. To your boss: 明日は雨っぽいです ✗ → 明日は雨みたいです ✓."
+      ],
+      "howToStudy": [
+        "Look around the room and describe 5 things aloud with a color or a noun + っぽい (白っぽい壁, 秋っぽい色のかばん…).",
+        "🔬 Anatomy → Analyze: paste example 2. 父は is the TOPIC, 最近 the TIME, 忘れっぽくて is …AND THEN (a trait, linked with くて), よく is HOW / HOW OFTEN, めがねを the OBJECT and 探している the PREDICATE. Notice that 忘れっぽくて takes no object: it describes 父, not what he forgets.",
+        "Picture two people and say each pair aloud: 子どもらしい (a kid being a kid) × 子どもっぽい (an adult acting like a kid); 春らしい天気 × 春っぽい服."
+      ],
+      "flag": null
+    },
+    {
+      "id": "P-15-b",
+      "gc": null,
+      "title": "〜がち",
+      "gloss": "tend to (and it's a problem)",
+      "explanation": "がち attaches to a **verb stem** or to a few nouns and says that something **happens often, as a pattern** — usually something **you'd rather didn't happen**. Sakubi puts it this way: がち marks a tendency, and the tendency is usually undesirable from an outside view.\n• **Verb stem + がち**: 忘れがち (tend to forget), 遅れがち (often late), 休みがち (often absent), 〜てしまいがち (tend to end up doing).\n• **Noun + がち**, a few set ones: 病気がち (sickly), 曇りがち (often cloudy), 留守がち (often away from home).\n• **Forms**: it works like a な-adjective: 忘れがちだ／です, 忘れがちな人, 休みがちになる.\n• **Two frames you'll meet often**: 〜になりがち (tends to become): 冬は運動不足になりがちだ. And 〜と思われがち (\"people tend to think…\", often wrongly): 日本語は難しいと思われがちだ.\n\n**The sentence, block by block.** 〜がちだ is the end of the **PREDICATE**, and the verb inside keeps its particles: [電車に][傘を][忘れがちだ] — 傘を is still the OBJECT of 忘れる.\n\n**がち × やすい** (lesson 20-3): やすい says something is **easy or likely** to happen — a property of the thing or the situation: 小さい傘は忘れやすい (small umbrellas are easy to forget). がち says it **really keeps happening**: 私は電車に傘を忘れがちだ (I keep leaving umbrellas on trains).\n**がち × よく**: よく〜する is a neutral \"often\"; がち adds \"…and that's a problem\".",
+      "structure": "[verb stem] がち だ／な N · [N] がち (病気がち, 曇りがち) · 〜に なりがち · 〜と 思われがち",
+      "examples": [
+        { "jp": "電車に傘を忘れがちなので、安いビニール傘しか買わない。", "kana": "でんしゃにかさをわすれがちなので、やすいビニールがさしかかわない。", "romaji": "Densha ni kasa o wasuregachi na node, yasui binīru-gasa shika kawanai.", "en": "I tend to leave my umbrella on the train, so I only buy cheap plastic ones." },
+        { "jp": "冬は寒くて、運動不足になりがちだ。", "kana": "ふゆはさむくて、うんどうぶそくになりがちだ。", "romaji": "Fuyu wa samukute, undōbusoku ni narigachi da.", "en": "Winter is cold, so we tend to get too little exercise. [lit. tends to become lack of exercise]" },
+        { "jp": "日本語は難しいと思われがちだが、発音は意外とやさしい。", "kana": "にほんごはむずかしいとおもわれがちだが、はつおんはいがいとやさしい。", "romaji": "Nihongo wa muzukashii to omowaregachi da ga, hatsuon wa igai to yasashii.", "en": "People tend to think Japanese is hard, but the pronunciation is surprisingly easy." }
+      ],
+      "pitfalls": [
+        "がち is for unwanted patterns. \"I tend to study every morning\" (a good habit): 毎朝勉強しがちです ✗ → 毎朝勉強することが多いです ✓.",
+        "It attaches to the stem: 忘れるがち ✗ → 忘れがち ✓; 休むがち ✗ → 休みがち ✓.",
+        "Before a noun it takes な: 遅れがち人 ✗ → 遅れがちな人 ✓."
+      ],
+      "howToStudy": [
+        "Confess 3 of your own bad habits aloud with 〜がちです (寝る前にスマホを見がちです, 復習を後回しにしがちです…).",
+        "🔬 Anatomy → Analyze: paste example 1. 電車に shows up as TARGET (where the umbrella gets left), 傘を as the OBJECT and 忘れがちなので as REASON; then 安い (DESCRIBES NEXT), ビニール傘しか (ONLY) and 買わない (PREDICATE). Read the predicate first: I only buy… → why? → I tend to forget them.",
+        "When two words seem to mean the same thing (がち × やすい), do what the DJT guide suggests: search Google for 「がち　やすい　違い」 (\"the difference between…\"). Japanese explanation pages are everywhere; read their example sentences even if you don't understand every word."
+      ],
+      "flag": null
+    },
+    {
+      "id": "P-15-c",
+      "gc": null,
+      "title": "〜気味 (and choosing among the three)",
+      "gloss": "a touch of · slightly (right now)",
+      "explanation": "気味 (read **ぎみ** as a suffix) attaches to a **noun or a verb stem** and means **\"a touch of, slightly, a bit\"**: a mild degree of a state you're in **now**, almost always an unwelcome one.\n• 風邪気味 (have a slight cold), 疲れ気味 (a bit tired), 寝不足気味 (a bit short on sleep), 太り気味 (putting on a little weight), 緊張気味 (a bit nervous), 遅れ気味 (running a little behind).\n• **Forms**: it works like a noun: 風邪気味だ／です, 風邪気味の人, 疲れ気味で… (…and), 最近ちょっと疲れ気味なんです.\n• It's softer than naming the thing directly, which makes it handy at work: 今日は少し風邪気味なので、早く帰ります.\n\n**The sentence, block by block.** 〜気味です is the end of the **PREDICATE**: [最近][ちょっと][寝不足気味です]. Words like 少し and ちょっと often come before it, to soften it even more.\n\n**Choosing among the three** — one idea, three angles:\n• **気味** = a slight state **now**: 工事が少し遅れ気味だ (the construction work is running a little late).\n• **がち** = a **pattern** over time: この路線のバスは遅れがちだ (the buses on this line are often late).\n• **っぽい** = an **impression** or a **trait**: 忘れっぽい (forgetful by nature), 風邪っぽい (it feels like a cold). 風邪っぽい and 風邪気味 overlap a lot; 風邪っぽい is more casual.\n• Don't confuse the suffix 気味 (ぎみ) with **気味が悪い** (きみがわるい, \"creepy\"), a different expression.",
+      "structure": "[N / verb stem] 気味 だ／です · [N] 気味 の N · 〜気味 で、…",
+      "examples": [
+        { "jp": "昨日から少し風邪気味なので、今日は早く帰ります。", "kana": "きのうからすこしかぜぎみなので、きょうははやくかえります。", "romaji": "Kinō kara sukoshi kazegimi na node, kyō wa hayaku kaerimasu.", "en": "I've had a slight cold since yesterday, so I'll go home early today." },
+        { "jp": "最近、仕事が忙しくて、ちょっと寝不足気味です。", "kana": "さいきん、しごとがいそがしくて、ちょっとねぶそくぎみです。", "romaji": "Saikin, shigoto ga isogashikute, chotto nebusokugimi desu.", "en": "Work has been busy lately, so I'm a little short on sleep." },
+        { "jp": "試合の前、ルーカスさんは緊張気味だった。", "kana": "しあいのまえ、ルーカスさんはきんちょうぎみだった。", "romaji": "Shiai no mae, Rūkasu-san wa kinchōgimi datta.", "en": "Before the match, Lucas was a bit nervous." }
+      ],
+      "pitfalls": [
+        "気味 only means \"slightly\". \"I have a terrible cold\": ひどい風邪気味です ✗ → ひどい風邪をひいています ✓.",
+        "As a suffix it's voiced: かぜきみ ✗ → かぜぎみ ✓ (風邪気味). きみ is the separate phrase 気味が悪い, \"creepy\".",
+        "気味 is a state now, not a habit. \"I'm often late\": 私は遅れ気味です ✗ → 私は遅れがちです ✓.",
+        "It's for unwelcome states: 元気気味です ✗ → 元気です ✓."
+      ],
+      "howToStudy": [
+        "Speaking: call in \"sick\" to an imaginary boss in two polite sentences: 〜気味なので、今日は〜ます。 Record it and check that 気味 sounds like ぎみ.",
+        "🔬 Anatomy → Analyze: paste example 1. 昨日から is FROM, 少し HOW / HOW OFTEN, 風邪気味なので REASON, 今日は the TOPIC, 早く HOW / HOW OFTEN and 帰ります the PREDICATE. Read from the end: I'll go home → how? early → why? a slight cold → since when? yesterday.",
+        "Make the three-way contrast yourself, in your notebook: 遅れる → 遅れ気味 (now) / 遅れがち (a pattern); 忘れる → 忘れっぽい (a trait) / 忘れがち (a pattern). Write one sentence for each, with an English translation."
+      ],
+      "flag": null
+    }
+  ],
+  "media": [
+    { "order": 1, "kind": "reading", "title": "JLPT Sensei: the pages on っぽい, がち and 気味, with more example sentences", "where": "Website · JLPT Sensei (grammar lists by level)", "url": "", "search": "JLPT Sensei ppoi gachi gimi", "when": "After the grammar block. Read the example sentences aloud. If the site lists a point at another level, that's fine: unofficial lists vary." },
+    { "order": 2, "kind": "video", "title": "Japanese Ammo with Misa: っぽい, がち and 気味", "where": "YouTube · Japanese Ammo with Misa channel", "url": "", "search": "Japanese Ammo with Misa ppoi gachi gimi", "when": "After point c, as a second explanation. If there's no single video, search for っぽい first: it's the one you'll hear most." },
+    { "order": 3, "kind": "input", "title": "EASY JAPANESE PODCAST (Masa & Asami): listen to one episode and note every っぽい, がち or 気味 you catch", "where": "YouTube · EASY JAPANESE PODCAST", "url": "", "search": "EASY JAPANESE PODCAST Masa Asami", "when": "On any day after the lesson. Listen for their neighbors too: よく (often) and ちょっと (a bit)." }
+  ],
+  "homework": {
+    "intro": "Do it by hand in your notebook. Write with the kanji you already know and use kana for the rest. Before each blank, ask yourself: is this an impression or a trait (っぽい), a pattern (がち) or a slight state right now (気味)? Only then open the answer key, item by item. Circle what you got wrong and redo it the next day.",
+    "tasks": [
+      {
+        "id": "h1",
+        "type": "fill",
+        "prompt": "Fill in っぽい, がち or 気味, in the right form (っぽく, がちな…).",
+        "items": [
+          { "q": "兄は飽き＿＿て、何を始めてもすぐやめてしまう。", "a": { "jp": "兄は飽きっぽくて、何を始めてもすぐやめてしまう。", "kana": "あにはあきっぽくて、なにをはじめてもすぐやめてしまう。", "romaji": "Ani wa akippokute, nani o hajimete mo sugu yamete shimau." }, "note": "A character trait: verb stem + っぽい (飽きっぽい), in its くて form." },
+          { "q": "最近寝るのが遅くて、少し寝不足＿＿です。", "a": { "jp": "最近寝るのが遅くて、少し寝不足気味です。", "kana": "さいきんねるのがおそくて、すこしねぶそくぎみです。", "romaji": "Saikin neru no ga osokute, sukoshi nebusokugimi desu." }, "note": "A slight state right now: 気味." },
+          { "q": "雨の日は、この路線の電車が遅れ＿＿だ。", "a": { "jp": "雨の日は、この路線の電車が遅れがちだ。", "kana": "あめのひは、このろせんのでんしゃがおくれがちだ。", "romaji": "Ame no hi wa, kono rosen no densha ga okuregachi da." }, "note": "A pattern that keeps happening (and a problem): がち." },
+          { "q": "このかばん、高いのに安＿＿見える。", "a": { "jp": "このかばん、高いのに安っぽく見える。", "kana": "このかばん、たかいのにやすっぽくみえる。", "romaji": "Kono kaban, takai noni yasuppoku mieru." }, "note": "い-adjective minus い + っぽい, in its く form before 見える." },
+          { "q": "熱はないけど、ちょっと風邪＿＿なんです。", "a": { "jp": "熱はないけど、ちょっと風邪気味なんです。", "kana": "ねつはないけど、ちょっとかぜぎみなんです。", "romaji": "Netsu wa nai kedo, chotto kazegimi nan desu." }, "note": "気味 is the standard choice here; 風邪っぽいんです is also natural, just more casual." },
+          { "q": "忙しいと、朝ご飯を抜き＿＿だ。", "a": { "jp": "忙しいと、朝ご飯を抜きがちだ。", "kana": "いそがしいと、あさごはんをぬきがちだ。", "romaji": "Isogashii to, asagohan o nukigachi da." }, "note": "A bad habit that repeats: がち. The verb inside keeps its object (朝ご飯を)." }
+        ]
+      },
+      {
+        "id": "h2",
+        "type": "fill",
+        "prompt": "らしい or っぽい? Choose and write it in the right form.",
+        "items": [
+          { "q": "今日は暖かくて、春＿＿天気ですね。", "a": { "jp": "今日は暖かくて、春らしい天気ですね。", "kana": "きょうはあたたかくて、はるらしいてんきですね。", "romaji": "Kyō wa atatakakute, harurashii tenki desu ne." }, "note": "Weather that is just what spring should be: らしい (praise). 春っぽい天気 is also heard in casual talk." },
+          { "q": "もう三十歳なのに、弟は考え方が子ども＿＿。", "a": { "jp": "もう三十歳なのに、弟は考え方が子どもっぽい。", "kana": "もうさんじゅっさいなのに、おとうとはかんがえかたがこどもっぽい。", "romaji": "Mō sanjussai na noni, otōto wa kangaekata ga kodomoppoi." }, "note": "An adult acting like a child: っぽい (criticism)." },
+          { "q": "あの子は外で元気に遊んでいて、とても子ども＿＿。", "a": { "jp": "あの子は外で元気に遊んでいて、とても子どもらしい。", "kana": "あのこはそとでげんきにあそんでいて、とてもこどもらしい。", "romaji": "Ano ko wa soto de genki ni asonde ite, totemo kodomorashii." }, "note": "A child being a real child: らしい." },
+          { "q": "その髪型、大人＿＿見えるね。", "a": { "jp": "その髪型、大人っぽく見えるね。", "kana": "そのかみがた、おとなっぽくみえるね。", "romaji": "Sono kamigata, otonappoku mieru ne." }, "note": "Looks grown-up (said to someone young): っぽく + 見える." }
+        ]
+      },
+      {
+        "id": "h3",
+        "type": "translate",
+        "prompt": "Translate into Japanese.",
+        "items": [
+          { "q": "My grandmother has been sickly since she was young.", "a": { "jp": "祖母は若いころから病気がちだ。", "kana": "そぼはわかいころからびょうきがちだ。", "romaji": "Sobo wa wakai koro kara byōkigachi da." } },
+          { "q": "I'm a bit tired lately.", "a": { "jp": "最近ちょっと疲れ気味です。", "kana": "さいきんちょっとつかれぎみです。", "romaji": "Saikin chotto tsukaregimi desu." } },
+          { "q": "I'm forgetful, so I write everything down.", "a": { "jp": "私は忘れっぽいので、何でもメモする。", "kana": "わたしはわすれっぽいので、なんでもメモする。", "romaji": "Watashi wa wasureppoi node, nandemo memo suru." }, "note": "何でも (anything) is from lesson P-14." },
+          { "q": "That whitish building is the station.", "a": { "jp": "あの白っぽい建物が駅です。", "kana": "あのしろっぽいたてものがえきです。", "romaji": "Ano shiroppoi tatemono ga eki desu." } },
+          { "q": "When I study alone, I tend to put off my reviews.", "a": { "jp": "一人で勉強していると、復習を後回しにしがちだ。", "kana": "ひとりでべんきょうしていると、ふくしゅうをあとまわしにしがちだ。", "romaji": "Hitori de benkyō shite iru to, fukushū o atomawashi ni shigachi da." }, "note": "後回しにする = to put off. It's exactly the habit to avoid with SRS: if the pile of reviews grows, add fewer new cards rather than skipping reviews." }
+        ]
+      },
+      {
+        "id": "h4",
+        "type": "produce",
+        "prompt": "Describe yourself in 4 sentences: one trait with 〜っぽい, one bad habit with 〜がち, one current state with 〜気味, and one sentence with 〜らしい. Read them aloud and record yourself on your phone.",
+        "items": [
+          { "q": "Model (match its structure, not its words):", "a": { "jp": "私は少し飽きっぽい。新しいことを始めても、途中でやめがちだ。最近は寝不足気味で、朝がつらい。でも、日本語の勉強は毎日続けていて、自分らしいペースで進んでいる。", "kana": "わたしはすこしあきっぽい。あたらしいことをはじめても、とちゅうでやめがちだ。さいきんはねぶそくぎみで、あさがつらい。でも、にほんごのべんきょうはまいにちつづけていて、じぶんらしいペースですすんでいる。", "romaji": "Watashi wa sukoshi akippoi. Atarashii koto o hajimete mo, tochū de yamegachi da. Saikin wa nebusokugimi de, asa ga tsurai. Demo, nihongo no benkyō wa mainichi tsuzukete ite, jibunrashii pēsu de susunde iru.", "en": "I get bored a little easily. Even when I start something new, I tend to quit halfway. Lately I'm a bit short on sleep, and mornings are hard. But I keep studying Japanese every day, moving forward at a pace that is truly my own." }, "note": "Check: っぽい conjugates like an い-adjective; がち and 気味 attach to the stem or the noun; 気味 is a state now and がち a pattern; らしい is praise." }
+        ]
+      }
+    ],
+    "workbook": []
+  },
+  "practice": [
+    { "tool": "Wagotabi", "what": "Play in the game's N3 area and hunt for っぽい, がち and 気味 in the dialogues — っぽい is the one you're most likely to meet. For each one, say aloud whether it's an impression or trait (っぽい), a pattern (がち) or a slight state (気味). Log the session in Immersion → Games, paste the line into 🔬 Anatomy and save it with Mining (⛏).", "min": 15 },
+    { "tool": "NHK NEWS WEB EASY", "what": "Read one article with a pop-up dictionary such as Yomitan and listen to its audio. If you find 〜がち or 〜気味 (they appear in articles about health, weather or prices), mine the sentence. If not, write one sentence of your own about the article's topic with 〜がち.", "min": 10 },
+    { "tool": "ヅオリンゴー · Journal", "what": "Write 5 sentences about yourself or your family: two with 〜っぽい (one color, one trait), one with 〜がち, one with 〜気味 and one with 〜らしい. Use \"Anatomy of what I wrote\" and check where each adjective sits: PREDICATE or DESCRIBES NEXT.", "min": 10 },
+    { "tool": "Shadowing", "what": "Tap 🔊 on each example in this lesson and repeat along 3 times. Pay attention to the small っ in っぽい (a real pause before ぽ) and to the voiced ぎ in 気味.", "min": 5 },
+    { "tool": "Speaking", "what": "Record 30 seconds describing a friend or family member: how they look (〜っぽい), one habit (〜がち) and how they are these days (〜気味). Keep it kind!", "min": 5 }
+  ],
+  "culture": {
+    "title": "The seasonal wardrobe change (衣替え)",
+    "titleJp": "ころもがえ",
+    "body": "**衣替え** (ころもがえ) is the seasonal change of wardrobe. For school uniforms and many work uniforms, it traditionally happens on set days: around **June 1** people switch to summer clothes, and around **October 1** back to winter ones — though the dates can differ by region and by school, for example in warm Okinawa. At home, many people spend a day moving clothes between the closet and storage boxes, since Japanese homes often have little storage space. The custom is usually traced back to the imperial court of the Heian period. Since the mid-2000s, many offices also follow **クールビズ** (Cool Biz), a government campaign for lighter clothes in summer — no tie, no jacket — to save energy on air conditioning.",
+    "try": "Write 3 sentences about your own wardrobe with this lesson: one with 〜っぽい (秋っぽい色の服が好きです), one with 〜がち (冬は黒っぽい服ばかり着がちです) and one with 〜気味 (今年は衣替えが遅れ気味です)."
+  },
+  "checklist": [
+    "I can describe colors, looks and traits with 〜っぽい and conjugate it (っぽくない, っぽかった, っぽく見える) without looking.",
+    "I can explain 子どもらしい × 子どもっぽい with one example of each.",
+    "I can talk about a bad habit with 〜がち and use 〜になりがち.",
+    "I can say politely that I'm a bit tired or have a slight cold with 〜気味.",
+    "Given 忘れる or 遅れる, I can make the がち／っぽい／気味 versions and say how they differ.",
+    "I did the homework, checked it against the answer key and redid what I got wrong."
+  ],
+  "credits": [
+    "Explanations adapted in part from Sakubi (public domain, CC0) — sakubi.neocities.org",
+    "Study method informed by the DJT Guide to Japanese — djtguide.neocities.org/guide"
+  ]
+}

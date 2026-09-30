@@ -1,0 +1,238 @@
+{
+  "id": "V-07",
+  "unit": "V",
+  "genki": null,
+  "title": "Pharmacy, health and emergencies",
+  "titleJp": "薬局・体調・緊急のとき",
+  "canDo": [
+    "I can say what is wrong: a headache, a stomachache, a sore throat, a fever, feeling unwell — and since when.",
+    "At a drugstore, I can ask for medicine for a specific problem (〜に効く薬はありますか) and understand the basic instructions for taking it.",
+    "In an emergency, I can shout for help and ask someone to call an ambulance or the police.",
+    "I know that 110 is the police and 119 is fire and ambulance, and I can answer the first question on each call."
+  ],
+  "duration": {
+    "total": "60–75 min",
+    "blocks": [
+      { "t": "Warm-up: point to your head, stomach and throat and name each one aloud (頭, お腹, 喉)", "min": 5 },
+      { "t": "Vocabulary: tap 🔊 on each word and repeat it twice", "min": 10 },
+      { "t": "Situations 4a–4d: read each dialogue aloud, doing both voices, plus one 🔬 per situation; say the emergency lines loudly", "min": 25 },
+      { "t": "Video (block 6): hear a pharmacy or clinic scene at real speed", "min": 10 },
+      { "t": "Notebook homework + checking it against the answer key", "min": 15 },
+      { "t": "Checklist (block 10) + write 110 and 119 on a card for your wallet", "min": 5 }
+    ]
+  },
+  "prereqs": {
+    "aulas": ["V-01", "06-4"],
+    "skills": [
+      "Asking whether something exists with 〜はありますか (lesson 04-1), and requests with 〜てください (lesson 06-2).",
+      "い-adjectives in the present (lesson 05-1): 痛い (\"painful\"), 悪い (\"bad\").",
+      "Giving a reason with 〜から (lesson 06-4).",
+      "Some patterns come later in Genki, so here they are ready-made blocks: [body part] が痛い (lesson 07-2), a verb describing a noun as in 頭痛に効く薬 (lesson 09-2), and 盗まれました (\"was stolen\", Genki II). Genki Lesson 12 has more illness vocabulary."
+    ],
+    "vocab": [
+      { "jp": "頭", "kana": "あたま", "romaji": "atama", "en": "head" },
+      { "jp": "お腹", "kana": "おなか", "romaji": "onaka", "en": "stomach, belly" },
+      { "jp": "喉", "kana": "のど", "romaji": "nodo", "en": "throat" },
+      { "jp": "痛い", "kana": "いたい", "romaji": "itai", "en": "painful, sore; (it) hurts" },
+      { "jp": "熱", "kana": "ねつ", "romaji": "netsu", "en": "fever" },
+      { "jp": "せき", "kana": "せき", "romaji": "seki", "en": "cough (せきが出ます = I have a cough)" },
+      { "jp": "気分が悪い", "kana": "きぶんがわるい", "romaji": "kibun ga warui", "en": "to feel unwell, to feel sick" },
+      { "jp": "風邪", "kana": "かぜ", "romaji": "kaze", "en": "a cold" },
+      { "jp": "頭痛", "kana": "ずつう", "romaji": "zutsū", "en": "headache" },
+      { "jp": "薬", "kana": "くすり", "romaji": "kusuri", "en": "medicine" },
+      { "jp": "薬局", "kana": "やっきょく", "romaji": "yakkyoku", "en": "pharmacy" },
+      { "jp": "ドラッグストア", "kana": "ドラッグストア", "romaji": "doraggusutoa", "en": "drugstore" },
+      { "jp": "薬剤師", "kana": "やくざいし", "romaji": "yakuzaishi", "en": "pharmacist" },
+      { "jp": "効く", "kana": "きく", "romaji": "kiku", "en": "to work, to be effective (for medicine)" },
+      { "jp": "飲む", "kana": "のむ", "romaji": "nomu", "en": "to take (medicine); to drink" },
+      { "jp": "痛み止め", "kana": "いたみどめ", "romaji": "itamidome", "en": "painkiller" },
+      { "jp": "アレルギー", "kana": "アレルギー", "romaji": "arerugī", "en": "allergy" },
+      { "jp": "病院", "kana": "びょういん", "romaji": "byōin", "en": "hospital, clinic" },
+      { "jp": "救急車", "kana": "きゅうきゅうしゃ", "romaji": "kyūkyūsha", "en": "ambulance" },
+      { "jp": "警察", "kana": "けいさつ", "romaji": "keisatsu", "en": "police" },
+      { "jp": "火事", "kana": "かじ", "romaji": "kaji", "en": "fire (a building on fire)" },
+      { "jp": "呼ぶ", "kana": "よぶ", "romaji": "yobu", "en": "to call (someone to come)" },
+      { "jp": "助けて", "kana": "たすけて", "romaji": "tasukete", "en": "Help! (lit. help me)" },
+      { "jp": "住所", "kana": "じゅうしょ", "romaji": "jūsho", "en": "address" }
+    ]
+  },
+  "grammar": [
+    {
+      "id": "V-07-a",
+      "gc": null,
+      "title": "Saying what's wrong: 頭が痛いです, 熱があります",
+      "gloss": "symptoms, and since when",
+      "explanation": "At a pharmacy, a clinic or your hotel's front desk, the first thing you'll hear is **どうしましたか。** (\"What's the matter?\") or the more polite どうされましたか。 Answer with the symptom — three patterns cover most of them:\n• **[body part] が 痛いです** — [part] hurts: 頭が痛いです (headache), お腹が痛いです (stomachache), 喉が痛いです (sore throat). が marks what hurts — the SUBJECT — and 痛いです is the PREDICATE, an い-adjective (\"painful\"). You'll study this が properly in lesson 07-2.\n• **[thing] が あります／出ます** — 熱があります (\"I have a fever\", lit. \"there is fever\"); せきが出ます (\"I have a cough\", lit. \"a cough comes out\").\n• **気分が悪いです** — \"I feel unwell / sick\". 気分 is how you feel in general.\n• Add **when it started** with から (\"from, since\"): 昨日から (since yesterday), 今朝から (けさから, since this morning). You'll often be asked いつからですか。 (\"Since when?\")\n• Several symptoms: just add sentences, with も for \"also\": 頭が痛いです。熱もあります。\n• Going further (Sakubi): ある is about existence, not ownership. Japanese says \"there is a fever\" where English says \"I have a fever\" — just as \"there's a desk\" can mean \"I have a desk\". It's only a different wording, not a different idea.",
+      "structure": "[body part] が 痛いです。 · 熱が あります。 · [time] から 気分が 悪いです。",
+      "examples": [
+        { "jp": "どうしましたか。— 頭が痛いです。熱もあります。", "kana": "どうしましたか。— あたまがいたいです。ねつもあります。", "romaji": "Dō shimashita ka. — Atama ga itai desu. Netsu mo arimasu.", "en": "What's the matter? — I have a headache. I have a fever too." },
+        { "jp": "お腹が痛いです。— いつからですか。— 昨日の夜からです。", "kana": "おなかがいたいです。— いつからですか。— きのうのよるからです。", "romaji": "Onaka ga itai desu. — Itsu kara desu ka. — Kinō no yoru kara desu.", "en": "My stomach hurts. — Since when? — Since last night." },
+        { "jp": "大丈夫ですか。— ちょっと気分が悪いです。— 座ってください。", "kana": "だいじょうぶですか。— ちょっときぶんがわるいです。— すわってください。", "romaji": "Daijōbu desu ka. — Chotto kibun ga warui desu. — Suwatte kudasai.", "en": "Are you all right? — I feel a little sick. — Please sit down." }
+      ],
+      "pitfalls": [
+        "Use the adjective 痛い (\"it hurts\"), not \"have a pain\": 頭の痛みを持っています ✗ → 頭が痛いです ✓.",
+        "A fever exists; you don't \"hold\" it: 熱を持っています ✗ → 熱があります ✓.",
+        "For feeling ill, 気持ちが悪いです can be unclear ✗ (it also means \"gross, disgusting\") → 気分が悪いです ✓ is safe. You will still hear 気持ち悪い for nausea."
+      ],
+      "howToStudy": [
+        "Point to 5 body parts and say the sentence aloud each time: 頭が痛いです, お腹が痛いです, 喉が痛いです… Then add a start time: 今朝から頭が痛いです。",
+        "Tap 🔬 on example 1: どう is HOW and しましたか the PREDICATE of the question; in the answer, [頭が] is the SUBJECT (what hurts) and 痛いです the PREDICATE, and in 熱もあります, [熱も] shows as ALSO — も replaced が — and あります is the PREDICATE.",
+        "In your notebook, describe the last time you were ill in 3 sentences: symptom, a second symptom with も, and since when."
+      ],
+      "flag": null
+    },
+    {
+      "id": "V-07-b",
+      "gc": null,
+      "title": "At the drugstore: 〜に効く薬はありますか",
+      "gloss": "asking for the right medicine",
+      "explanation": "Japanese drugstores (ドラッグストア) sell over-the-counter medicine, and many have a pharmacist (薬剤師) at a counter. The key phrase is:\n• **[problem] に効く薬はありますか。** (\"Do you have medicine that works for…?\"). 効く (きく) = to work, to be effective. The block [頭痛に効く] **describes** 薬: \"medicine that works on headaches\". You'll study verbs that describe nouns in lesson 09-2; for now, just swap the problem: 頭痛 (ずつう, headache), 風邪 (かぜ, a cold), 喉の痛み (のどのいたみ, a sore throat).\n• Simpler, if you know the kind: **痛み止めはありますか。** (\"Do you have painkillers?\"), 風邪薬 (かぜぐすり, cold medicine), 胃薬 (いぐすり, stomach medicine).\n• **What you'll hear:** 一日三回、食事の後で飲んでください。 (\"Take it three times a day, after meals.\") On the box, \"after meals\" is written 食後 (しょくご) and \"before meals\" 食前 (しょくぜん). Also 眠くなります (\"it makes you drowsy\") and アレルギーはありますか。 (\"Do you have any allergies?\").\n• Medicine is **飲む** — you \"drink\" it, even tablets.\n• Show what you already take: この薬を飲んでいます。 (\"I'm taking this medicine.\") — and show the box.\n• Some medicines are only sold after a pharmacist explains them, and prescription medicine needs a doctor's prescription (処方箋, しょほうせん). If you are really unwell, go to a clinic or hospital (病院) — or call 119 (situation 4d).",
+      "structure": "[problem] に 効く 薬は ありますか。 · [kind of medicine] は ありますか。",
+      "examples": [
+        { "jp": "すみません、頭痛に効く薬はありますか。— はい、こちらです。", "kana": "すみません、ずつうにきくくすりはありますか。— はい、こちらです。", "romaji": "Sumimasen, zutsū ni kiku kusuri wa arimasu ka. — Hai, kochira desu.", "en": "Excuse me, do you have medicine for headaches? — Yes, this one." },
+        { "jp": "風邪薬はありますか。— 熱はありますか。— いいえ、熱はありません。喉が痛いです。", "kana": "かぜぐすりはありますか。— ねつはありますか。— いいえ、ねつはありません。のどがいたいです。", "romaji": "Kazegusuri wa arimasu ka. — Netsu wa arimasu ka. — Iie, netsu wa arimasen. Nodo ga itai desu.", "en": "Do you have cold medicine? — Do you have a fever? — No, I don't have a fever. I have a sore throat." },
+        { "jp": "この薬は一日三回、食事の後で飲んでください。— わかりました。眠くなりますか。— 少し眠くなります。", "kana": "このくすりはいちにちさんかい、しょくじのあとでのんでください。— わかりました。ねむくなりますか。— すこしねむくなります。", "romaji": "Kono kusuri wa ichinichi sankai, shokuji no ato de nonde kudasai. — Wakarimashita. Nemuku narimasu ka. — Sukoshi nemuku narimasu.", "en": "Take this medicine three times a day, after meals. — I see. Does it make you drowsy? — It makes you a little drowsy." }
+      ],
+      "pitfalls": [
+        "Medicine is drunk, not eaten — even tablets: 薬を食べます ✗ → 薬を飲みます ✓.",
+        "The problem takes に before 効く: 頭痛を効く薬 ✗ → 頭痛に効く薬 ✓ (it works on headaches).",
+        "On the box, mixing up 食後 and 食前 ✗ → check the second kanji: 後 = after, 前 = before ✓."
+      ],
+      "howToStudy": [
+        "Build 3 requests aloud, swapping the problem — 頭痛に効く薬, 風邪に効く薬, 喉の痛みに効く薬 — then the short ones: 痛み止めはありますか, 風邪薬はありますか.",
+        "Tap 🔬 on example 1: すみません is an INTERJECTION, [頭痛に] shows as TARGET (what the medicine works on), [効く] is DESCRIBES NEXT — it describes 薬 — [薬は] is the TOPIC and [ありますか] the PREDICATE.",
+        "Take any medicine box you have at home and say its instruction aloud in Japanese, using the numbers on it: 一日〜回、食事の後で飲みます。"
+      ],
+      "flag": null
+    },
+    {
+      "id": "V-07-c",
+      "gc": null,
+      "title": "Emergency: 助けて！ and 救急車を呼んでください",
+      "gloss": "getting help fast",
+      "explanation": "In an emergency, forget levels of politeness: short, loud and clear is best.\n• **助けて！** (たすけて, \"Help!\") and **誰か、助けて！** (だれか, \"Somebody, help!\"). Going further (Sakubi): the て-form on its own works as an urgent request — think of it as a ください that was left out.\n• To get someone to call: **救急車を呼んでください！** (\"Please call an ambulance!\") and **警察を呼んでください！** (\"Please call the police!\"). [救急車を] is the OBJECT and 呼んでください the PREDICATE — lesson 06-2's request. Look at one person as you say it: a request to a whole crowd is easy for everyone to leave to someone else.\n• Other words you may shout or hear: **危ない！** (あぶない, \"Watch out!\"), **火事だ！** (かじだ, \"Fire!\"), **大丈夫ですか。** (\"Are you all right?\").\n• Say what happened in one short sentence: 友達が倒れました。 (\"My friend has collapsed.\"), けがをしました。 (\"I'm injured.\"), 財布を盗まれました。 (さいふをぬすまれました, \"My wallet has been stolen\" — a ready-made block).\n• The numbers: **110** (ひゃくとおばん) = police; **119** (ひゃくじゅうきゅうばん) = fire **and** ambulance. The next situation practices the call itself.",
+      "structure": "助けて！ · [救急車／警察] を 呼んでください！",
+      "examples": [
+        { "jp": "誰か、助けて！— 大丈夫ですか。", "kana": "だれか、たすけて！— だいじょうぶですか。", "romaji": "Dareka, tasukete! — Daijōbu desu ka.", "en": "Somebody, help! — Are you all right?" },
+        { "jp": "友達が倒れました。救急車を呼んでください！— はい、すぐ呼びます。", "kana": "ともだちがたおれました。きゅうきゅうしゃをよんでください！— はい、すぐよびます。", "romaji": "Tomodachi ga taoremashita. Kyūkyūsha o yonde kudasai! — Hai, sugu yobimasu.", "en": "My friend has collapsed. Please call an ambulance! — OK, I'll call right away." },
+        { "jp": "財布を盗まれました。警察を呼んでください。— 交番がすぐそこにありますよ。", "kana": "さいふをぬすまれました。けいさつをよんでください。— こうばんがすぐそこにありますよ。", "romaji": "Saifu o nusumaremashita. Keisatsu o yonde kudasai. — Kōban ga sugu soko ni arimasu yo.", "en": "My wallet has been stolen. Please call the police. — There's a police box right there." }
+      ],
+      "pitfalls": [
+        "You ask someone to call the ambulance: 救急車をください ✗ (\"give me an ambulance\") → 救急車を呼んでください ✓.",
+        "119 is fire and ambulance, 110 is police: calling 110 for an ambulance ✗ → 119 ✓.",
+        "助けて！ is for real danger. Shouting it when you're only lost ✗ (people will think it's an emergency) → すみません、ちょっといいですか ✓ (\"Excuse me, do you have a moment?\")."
+      ],
+      "howToStudy": [
+        "Say the emergency lines out loud — really loud — until they come out without thinking: 助けて！, 救急車を呼んでください！, 警察を呼んでください！ In a real emergency there is no time to build a sentence.",
+        "Tap 🔬 on example 2: [友達が] is the SUBJECT of the PREDICATE 倒れました; in the second sentence, [救急車を] is the OBJECT and 呼んでください the PREDICATE.",
+        "Write 110 = 警察 and 119 = 救急車・火事 on a card, and keep it in your wallet or phone case."
+      ],
+      "flag": null
+    },
+    {
+      "id": "V-07-d",
+      "gc": null,
+      "title": "Calling 110 or 119",
+      "gloss": "what they ask first, and what to say",
+      "explanation": "If you make the call yourself, the operator usually starts with one question that sorts the call:\n• **119:** 火事ですか、救急ですか。 (\"Is it a fire, or a medical emergency?\" — 救急 = emergency medical help). Answer with one word: **救急です。** or **火事です。**\n• **110:** 事件ですか、事故ですか。 (\"Is it a crime, or an accident?\"). Answer: **事件です。** (じけん, a crime such as a theft) or **事故です。** (じこ, an accident such as a traffic accident).\n• Then they ask **where**: 場所はどこですか。 or 住所はどこですか。 Give the address, a hotel name or a landmark: 〜ホテルの前です。 — the landmarks of lesson V-06 help here.\n• Then **what happened**, and your **name and phone number**: お名前は。／電話番号は。 Keep it short: 友達が倒れました。 (\"My friend has collapsed.\")\n• If your Japanese runs out: **英語は話せますか。** (\"Can you speak English?\" — a ready-made block). Some services can bring in an interpreter, but this depends on the area (see the note at the bottom of this point).\n• Stay on the line until the operator ends the call: they may still need your location.\n• Before your trip, save your hotel's name and address in Japanese on your phone: reading it aloud is much easier than building it under stress.",
+      "structure": "火事ですか、救急ですか。 → 救急です。 · 場所は [address／landmark] です。",
+      "examples": [
+        { "jp": "119番です。火事ですか、救急ですか。— 救急です。友達が倒れました。", "kana": "ひゃくじゅうきゅうばんです。かじですか、きゅうきゅうですか。— きゅうきゅうです。ともだちがたおれました。", "romaji": "Hyakujūkyū-ban desu. Kaji desu ka, kyūkyū desu ka. — Kyūkyū desu. Tomodachi ga taoremashita.", "en": "This is 119. Is it a fire, or a medical emergency? — A medical emergency. My friend has collapsed.", "noAnat": true },
+        { "jp": "110番です。事件ですか、事故ですか。— 事故です。車の事故です。", "kana": "ひゃくとおばんです。じけんですか、じこですか。— じこです。くるまのじこです。", "romaji": "Hyakutō-ban desu. Jiken desu ka, jiko desu ka. — Jiko desu. Kuruma no jiko desu.", "en": "This is 110. Is it a crime, or an accident? — An accident. A car accident.", "noAnat": true },
+        { "jp": "場所はどこですか。— 東京駅の近くの、さくらホテルの前です。", "kana": "ばしょはどこですか。— とうきょうえきのちかくの、さくらホテルのまえです。", "romaji": "Basho wa doko desu ka. — Tōkyō-eki no chikaku no, Sakura Hoteru no mae desu.", "en": "Where are you? [lit. where is the place?] — In front of the Sakura Hotel, near Tokyo Station." }
+      ],
+      "pitfalls": [
+        "Answer the sorting question with one word: a long explanation first ✗ (they're waiting for one word) → 救急です ✓, then the details.",
+        "事件 and 事故 sound alike: answering 事故です for a theft ✗ → 事件です ✓ (じけん = a crime, じこ = an accident).",
+        "Hanging up as soon as you've said the address ✗ → stay on the line until the operator ends the call ✓."
+      ],
+      "howToStudy": [
+        "Role-play both calls out loud, doing both voices: the operator's question → your one-word answer → the place → what happened. Once for 119, once for 110.",
+        "Tap 🔬 on example 3: [場所は] is the TOPIC and どこですか the PREDICATE; in the answer, 東京駅の, 近くの and さくらホテルの are all DESCRIBES NEXT, stacked before 前です — the PREDICATE. Read it backwards: in front of → which hotel? → the one near → Tokyo Station.",
+        "Write your hotel's address (or any real Japanese address) in your notebook and read it aloud three times, as you would on the phone."
+      ],
+      "flag": "110 (police) and 119 (fire and ambulance) are the nationwide numbers. The operators' first questions shown here are the standard ones, but the exact wording can vary, and whether an interpreter can join the call depends on the area and the service. Before your trip, check the current emergency information for visitors on the official JNTO website, which also lists a multilingual visitor hotline."
+    }
+  ],
+  "media": [
+    { "order": 1, "kind": "video", "title": "At a Japanese pharmacy or clinic: any video with the symptom phrases role-played", "where": "YouTube · a travel-Japanese channel (pick a video with a role-played scene)", "url": "", "search": "Japanese phrases pharmacy drugstore symptoms atama ga itai", "when": "After situations 4a and 4b: listen for どうしましたか, 痛い and 飲んでください" },
+    { "order": 2, "kind": "reading", "title": "Irodori (Japan Foundation) — free course: find a topic about health or feeling unwell in the table of contents and do its listening tasks", "where": "Irodori: Japanese for Life in Japan · the Japan Foundation's free course (search for it by name)", "url": "", "search": "Irodori Japanese for Life in Japan", "when": "After the homework" }
+  ],
+  "homework": {
+    "intro": "Do it by hand in your notebook. Write the Japanese with the kanji you know and kana for the rest; the answer key always gives the reading. Only then open the answer key, item by item. Circle what you got wrong and redo it the next day.",
+    "tasks": [
+      {
+        "id": "h1",
+        "type": "complete",
+        "prompt": "Complete your answer, following the instruction in brackets.",
+        "items": [
+          { "q": "どうしましたか。— ＿＿＿ (your throat hurts)", "a": { "jp": "喉が痛いです。", "kana": "のどがいたいです。", "romaji": "Nodo ga itai desu." } },
+          { "q": "どうしましたか。— ＿＿＿ (you have a fever)", "a": { "jp": "熱があります。", "kana": "ねつがあります。", "romaji": "Netsu ga arimasu." } },
+          { "q": "いつからですか。— ＿＿＿ (since this morning)", "a": { "jp": "今朝からです。", "kana": "けさからです。", "romaji": "Kesa kara desu." } },
+          { "q": "大丈夫ですか。— ＿＿＿ (you feel a little sick)", "a": { "jp": "ちょっと気分が悪いです。", "kana": "ちょっときぶんがわるいです。", "romaji": "Chotto kibun ga warui desu." } },
+          { "q": "119番です。火事ですか、救急ですか。— ＿＿＿ (you need an ambulance)", "a": { "jp": "救急です。", "kana": "きゅうきゅうです。", "romaji": "Kyūkyū desu." }, "note": "One word first; the details come after." }
+        ]
+      },
+      {
+        "id": "h2",
+        "type": "build",
+        "prompt": "Build the request: write what you would say in each situation.",
+        "items": [
+          { "q": "At a drugstore: you have a headache and want medicine for it.", "a": { "jp": "すみません、頭痛に効く薬はありますか。", "kana": "すみません、ずつうにきくくすりはありますか。", "romaji": "Sumimasen, zutsū ni kiku kusuri wa arimasu ka." }, "note": "痛み止めはありますか is also a good answer." },
+          { "q": "At a drugstore: you want cold medicine.", "a": { "jp": "風邪薬はありますか。", "kana": "かぜぐすりはありますか。", "romaji": "Kazegusuri wa arimasu ka." }, "note": "風邪に効く薬はありますか is also correct." },
+          { "q": "Someone has fallen down in the street. Ask a passer-by to call an ambulance.", "a": { "jp": "救急車を呼んでください！", "kana": "きゅうきゅうしゃをよんでください！", "romaji": "Kyūkyūsha o yonde kudasai!" } },
+          { "q": "Your bag has been stolen. Ask someone to call the police.", "a": { "jp": "警察を呼んでください。", "kana": "けいさつをよんでください。", "romaji": "Keisatsu o yonde kudasai." } },
+          { "q": "The operator's Japanese is too fast. Ask whether they speak English.", "a": { "jp": "英語は話せますか。", "kana": "えいごははなせますか。", "romaji": "Eigo wa hanasemasu ka." } }
+        ]
+      },
+      {
+        "id": "h3",
+        "type": "translate",
+        "prompt": "Translate into Japanese.",
+        "items": [
+          { "q": "My stomach hurts.", "a": { "jp": "お腹が痛いです。", "kana": "おなかがいたいです。", "romaji": "Onaka ga itai desu." } },
+          { "q": "I have a headache. I have a fever too.", "a": { "jp": "頭が痛いです。熱もあります。", "kana": "あたまがいたいです。ねつもあります。", "romaji": "Atama ga itai desu. Netsu mo arimasu." }, "note": "も replaces が: 熱もあります." },
+          { "q": "Take it twice a day, after meals. (what the pharmacist says)", "a": { "jp": "一日二回、食事の後で飲んでください。", "kana": "いちにちにかい、しょくじのあとでのんでください。", "romaji": "Ichinichi nikai, shokuji no ato de nonde kudasai." }, "note": "Also correct: 一日二回、食後に飲んでください。 (しょくごに)" },
+          { "q": "Help!", "a": { "jp": "助けて！", "kana": "たすけて！", "romaji": "Tasukete!" } },
+          { "q": "(On the phone to 110) It's an accident.", "a": { "jp": "事故です。", "kana": "じこです。", "romaji": "Jiko desu." } }
+        ]
+      },
+      {
+        "id": "h4",
+        "type": "produce",
+        "prompt": "Written role-play in two short scenes. Scene 1 (5–6 lines): at a drugstore, you describe two symptoms and since when, and ask for medicine; the pharmacist tells you how to take it. Scene 2 (4–6 lines): a 119 call — the sorting question, your answer, the place and what happened. Then read both aloud, doing both voices, and record them.",
+        "items": [
+          { "q": "Model for scene 1 (match its structure, not its words):", "a": { "jp": "どうしましたか。— 喉が痛いです。せきも出ます。— いつからですか。— 昨日からです。風邪に効く薬はありますか。— この薬はどうですか。一日三回、食事の後で飲んでください。— わかりました。ありがとうございます。", "kana": "どうしましたか。— のどがいたいです。せきもでます。— いつからですか。— きのうからです。かぜにきくくすりはありますか。— このくすりはどうですか。いちにちさんかい、しょくじのあとでのんでください。— わかりました。ありがとうございます。", "romaji": "Dō shimashita ka. — Nodo ga itai desu. Seki mo demasu. — Itsu kara desu ka. — Kinō kara desu. Kaze ni kiku kusuri wa arimasu ka. — Kono kusuri wa dō desu ka. Ichinichi sankai, shokuji no ato de nonde kudasai. — Wakarimashita. Arigatō gozaimasu.", "en": "What's the matter? — My throat hurts. I have a cough too. — Since when? — Since yesterday. Do you have medicine for a cold? — How about this one? Take it three times a day, after meals. — I see. Thank you." }, "note": "Check: が before 痛い, も for the second symptom, から for since when, に before 効く, and 飲んでください for medicine." },
+          { "q": "Model for scene 2:", "a": { "jp": "119番です。火事ですか、救急ですか。— 救急です。— 場所はどこですか。— さくらホテルの前です。— どうしましたか。— 友達が倒れました。", "kana": "ひゃくじゅうきゅうばんです。かじですか、きゅうきゅうですか。— きゅうきゅうです。— ばしょはどこですか。— さくらホテルのまえです。— どうしましたか。— ともだちがたおれました。", "romaji": "Hyakujūkyū-ban desu. Kaji desu ka, kyūkyū desu ka. — Kyūkyū desu. — Basho wa doko desu ka. — Sakura Hoteru no mae desu. — Dō shimashita ka. — Tomodachi ga taoremashita.", "en": "This is 119. Is it a fire, or a medical emergency? — A medical emergency. — Where are you? — In front of the Sakura Hotel. — What happened? — My friend has collapsed." }, "note": "Check: one-word answer first, then the place with a landmark, then what happened — each in one short sentence." }
+        ]
+      }
+    ],
+    "workbook": []
+  },
+  "practice": [
+    { "tool": "Role-play out loud", "what": "Three rounds, switching roles: a drugstore visit (4a + 4b), a street emergency (4c) and a 119 call (4d). As the pharmacist or operator, ask the real questions (どうしましたか, いつからですか, 火事ですか、救急ですか); as yourself, answer in short blocks.", "min": 10 },
+    { "tool": "Speaking · record yourself", "what": "Record both scenes of h4. Listen: did you answer the operator's question with one word first? Did you say 飲んでください, not 食べて? Record them again and compare.", "min": 5 },
+    { "tool": "Shadowing", "what": "Tap 🔊 on each example and repeat along 3 times. For 4c, shadow at full volume — the goal is that 救急車を呼んでください comes out automatically, even under stress.", "min": 5 },
+    { "tool": "ヅオリンゴー · Mining", "what": "Save 5 cards with Mining: the 3 symptom patterns (頭が痛い, 熱がある, 気分が悪い) and the 2 emergency requests. Review them in 🌊 All with your other cards. Learn the kanji inside these words — 痛, 熱, 薬 — rather than one by one: seeing them in real words is what makes them stick.", "min": 10 },
+    { "tool": "Real Japanese", "what": "Search online for a photo of a Japanese cold-medicine box (風邪薬). With a pop-up dictionary or jisho.org, find three things on it: what it's for (風邪, 頭痛…), how many times a day (1日3回…) and 食後 or 食前. Say the instruction aloud.", "min": 10 }
+  ],
+  "culture": {
+    "title": "Japanese drugstores",
+    "titleJp": "ドラッグストア",
+    "body": "Japanese **drugstores** (ドラッグストア) are everywhere in cities and sell much more than medicine: cosmetics, snacks, drinks and household goods. Medicine is usually grouped on the shelves by problem (風邪, 頭痛, 胃腸…), and many stores have a counter where a pharmacist (薬剤師) can advise you. Some medicines can only be sold after a pharmacist explains them, so they may be kept behind the counter or sold only while a pharmacist is on duty. Prescription medicine is handled at a pharmacy (薬局) with a doctor's prescription. Some medicines that are sold freely in other countries are restricted in Japan, so check the official rules before you pack your own.",
+    "try": "Next time you pass any pharmacy, say to yourself what you would ask there: すみません、頭痛に効く薬はありますか。 — and what you'd answer to いつからですか。"
+  },
+  "checklist": [
+    "I can say 3 symptoms without looking: 頭が痛いです, 熱があります, 気分が悪いです — and since when, with から.",
+    "I can ask for medicine with 〜に効く薬はありますか and understand 一日〜回、食事の後で飲んでください.",
+    "I know medicine is 飲む, not 食べる, and I can tell 食後 from 食前 on a box.",
+    "I can shout 助けて！ and ask 救急車を呼んでください！／警察を呼んでください！ without thinking.",
+    "I know 110 = police and 119 = fire and ambulance, and I can answer 火事ですか、救急ですか and 事件ですか、事故ですか with one word.",
+    "I did the homework, checked it against the answer key and redid what I got wrong.",
+    "I recorded both role-play scenes and listened to them."
+  ],
+  "credits": [
+    "Explanations adapted in part from Sakubi (public domain, CC0) — sakubi.neocities.org",
+    "Study method informed by the DJT Guide to Japanese — djtguide.neocities.org/guide"
+  ]
+}

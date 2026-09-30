@@ -1,0 +1,238 @@
+{
+  "id": "V-08",
+  "unit": "V",
+  "genki": null,
+  "title": "Temples, shrines and onsen",
+  "titleJp": "神社・お寺・温泉",
+  "canDo": [
+    "I can follow the usual steps at a shrine — purifying at the てみずや, making an offering, bowing and clapping — knowing that the details vary from shrine to shrine.",
+    "I can tell a shrine from a temple, and I know that at a temple you usually don't clap.",
+    "I can ask whether I may take photos or go in (〜てもいいですか) and understand a polite no and signs like ご遠慮ください and 禁止.",
+    "I can follow the basic onsen rules — wash first, keep the towel out of the water, stay quiet — and ask about tattoos politely."
+  ],
+  "duration": {
+    "total": "60–75 min",
+    "blocks": [
+      { "t": "Warm-up: say aloud 5 things you'd like to do on a trip with 〜てもいいですか (写真を撮る, 入る, 座る…)", "min": 5 },
+      { "t": "Vocabulary: tap 🔊 on each word and repeat it twice", "min": 10 },
+      { "t": "Situations 4a–4d: read each dialogue aloud, doing both voices; walk through the shrine steps with gestures; one 🔬 per situation", "min": 25 },
+      { "t": "Video (block 6): watch the shrine steps and the onsen rules being demonstrated", "min": 10 },
+      { "t": "Notebook homework + checking it against the answer key", "min": 15 },
+      { "t": "Checklist (block 10) + write your questions in the lesson notebook", "min": 5 }
+    ]
+  },
+  "prereqs": {
+    "aulas": ["V-01", "06-4"],
+    "skills": [
+      "Asking permission with 〜てもいいですか and understanding 〜てはいけません (lesson 06-3).",
+      "Requests with 〜てください and chains of actions with the て-form (lesson 06-2): instructions at shrines and baths are chains of て-forms.",
+      "Numbers (lesson 00-3): 回 (かい) counts \"times\" — 一回, 二回.",
+      "〜ないでください (\"please don't\", lesson 08-3) and 〜んですが (lesson 12-1) appear on signs and in one question. Here they are ready-made blocks: recognize them and repeat them."
+    ],
+    "vocab": [
+      { "jp": "神社", "kana": "じんじゃ", "romaji": "jinja", "en": "Shinto shrine" },
+      { "jp": "鳥居", "kana": "とりい", "romaji": "torii", "en": "torii, the gate of a shrine" },
+      { "jp": "手水舎", "kana": "てみずや", "romaji": "temizuya", "en": "purification basin at a shrine (also read ちょうずや)" },
+      { "jp": "お賽銭", "kana": "おさいせん", "romaji": "osaisen", "en": "coin offering" },
+      { "jp": "お参り", "kana": "おまいり", "romaji": "omairi", "en": "a visit to pray (at a shrine or temple)" },
+      { "jp": "おじぎ", "kana": "おじぎ", "romaji": "ojigi", "en": "a bow" },
+      { "jp": "手をたたく", "kana": "てをたたく", "romaji": "te o tataku", "en": "to clap (your hands)" },
+      { "jp": "お寺", "kana": "おてら", "romaji": "otera", "en": "Buddhist temple" },
+      { "jp": "お線香", "kana": "おせんこう", "romaji": "osenkō", "en": "incense stick" },
+      { "jp": "靴", "kana": "くつ", "romaji": "kutsu", "en": "shoes" },
+      { "jp": "脱ぐ", "kana": "ぬぐ", "romaji": "nugu", "en": "to take off (shoes, clothes)" },
+      { "jp": "写真を撮る", "kana": "しゃしんをとる", "romaji": "shashin o toru", "en": "to take a photo" },
+      { "jp": "撮影", "kana": "さつえい", "romaji": "satsuei", "en": "photography, filming (the word on signs)" },
+      { "jp": "禁止", "kana": "きんし", "romaji": "kinshi", "en": "prohibited, not allowed" },
+      { "jp": "ご遠慮ください", "kana": "ごえんりょください", "romaji": "go-enryo kudasai", "en": "please refrain (= please don't)" },
+      { "jp": "温泉", "kana": "おんせん", "romaji": "onsen", "en": "hot spring, hot-spring bath" },
+      { "jp": "お湯", "kana": "おゆ", "romaji": "oyu", "en": "hot water; (at a bath) the bath water" },
+      { "jp": "体", "kana": "からだ", "romaji": "karada", "en": "body" },
+      { "jp": "洗う", "kana": "あらう", "romaji": "arau", "en": "to wash" },
+      { "jp": "タオル", "kana": "タオル", "romaji": "taoru", "en": "towel" },
+      { "jp": "静かに", "kana": "しずかに", "romaji": "shizuka ni", "en": "quietly" },
+      { "jp": "男湯", "kana": "おとこゆ", "romaji": "otokoyu", "en": "men's bath" },
+      { "jp": "女湯", "kana": "おんなゆ", "romaji": "onnayu", "en": "women's bath" },
+      { "jp": "タトゥー", "kana": "タトゥー", "romaji": "tatū", "en": "tattoo (also 入れ墨, いれずみ)" }
+    ]
+  },
+  "grammar": [
+    {
+      "id": "V-08-a",
+      "gc": null,
+      "title": "At a shrine: てみずや, offering, bows and claps",
+      "gloss": "the usual steps of a shrine visit",
+      "explanation": "A **神社** (じんじゃ) is a Shinto shrine; you can recognize it by the **鳥居** (とりい), the gate at the entrance. A typical visit (お参り) goes like this — **usually**, because shrines differ, and many post their own instructions:\n• **At the 鳥居:** many people bow lightly before passing through. It is often said that the very center of the path is for the gods, so people tend to walk a little to the side.\n• **At the 手水舎** (てみずや, also read ちょうずや), purify your hands and mouth. The usual order: pour water over your left hand, then your right, then pour a little into your cupped left hand and rinse your mouth, and rinse your left hand again. Never drink from the ladle or touch it with your mouth. Some shrines now have running water or no ladles: follow what is there.\n• **At the hall:** drop a coin offering (お賽銭) gently into the box, ring the bell if there is one, and then the most common pattern: **two bows, two claps, one bow** (二礼二拍手一礼, にれいにはくしゅいちれい). Some shrines use a different number of claps — look for a sign.\n• **What you'll say:** mostly nothing — people pray silently. If you're unsure, ask: すみません、手水舎はどこですか。 or お参りの仕方を教えてください。 (\"Please tell me how to pray.\")\n• The language: instructions at a shrine are a chain of て-forms (lesson 06-2): おじぎをして、手をたたいて、… — read them in order, like directions (lesson V-06).",
+      "structure": "[step 1] て、[step 2] て、[last step] ます。 · 二礼二拍手一礼 (bow, bow, clap, clap, bow)",
+      "examples": [
+        { "jp": "すみません、手水舎はどこですか。— あの鳥居の右にありますよ。", "kana": "すみません、てみずやはどこですか。— あのとりいのみぎにありますよ。", "romaji": "Sumimasen, temizuya wa doko desu ka. — Ano torii no migi ni arimasu yo.", "en": "Excuse me, where is the purification basin? — It's to the right of that torii gate." },
+        { "jp": "お参りの仕方を教えてください。— まず二回おじぎをして、手を二回たたいて、もう一回おじぎをします。", "kana": "おまいりのしかたをおしえてください。— まずにかいおじぎをして、てをにかいたたいて、もういっかいおじぎをします。", "romaji": "Omairi no shikata o oshiete kudasai. — Mazu nikai ojigi o shite, te o nikai tataite, mō ikkai ojigi o shimasu.", "en": "Please tell me how to pray. — First you bow twice, then clap twice, and then bow once more." },
+        { "jp": "お賽銭はいくらですか。— いくらでもいいですよ。", "kana": "おさいせんはいくらですか。— いくらでもいいですよ。", "romaji": "Osaisen wa ikura desu ka. — Ikura demo ii desu yo.", "en": "How much is the offering? — Any amount is fine." }
+      ],
+      "pitfalls": [
+        "Drinking from the ladle or touching it with your mouth ✗ → pour the water into your cupped hand, then rinse your mouth ✓.",
+        "Treating 二礼二拍手一礼 as a rule for every shrine ✗ → it's the most common pattern; follow the shrine's own sign if there is one ✓.",
+        "Throwing the coin hard from a distance ✗ → step up and drop it gently into the box ✓."
+      ],
+      "howToStudy": [
+        "Walk through the steps at home with gestures, saying each one aloud: 鳥居でおじぎをします → 手を洗います → お賽銭を入れます → 二回おじぎをします → 手を二回たたきます → もう一回おじぎをします.",
+        "Tap 🔬 on example 1: すみません is an INTERJECTION, [手水舎は] the TOPIC and [どこですか] the PREDICATE; in the answer, あの and 鳥居の are DESCRIBES NEXT (they describe 右), [右に] is the LOCATION and ありますよ the PREDICATE.",
+        "Tap 🔬 on example 2 and follow the chain in the answer: して and たたいて show as …AND THEN — one step each — and the PREDICATE します is the last step. The QUANTITY blocks (二回, 一回) say how many times."
+      ],
+      "flag": null
+    },
+    {
+      "id": "V-08-b",
+      "gc": null,
+      "title": "At a temple: no clapping, shoes off, incense",
+      "gloss": "how a temple visit differs",
+      "explanation": "An **お寺** (おてら) is a Buddhist temple. Names often end in 〜寺 (read じ or でら), and there is usually a large gate (門, もん) instead of a 鳥居. Many things are like a shrine visit, with one big difference:\n• **Usually no clapping.** Put your hands together in front of your chest, bow, and pray quietly. Temples usually have an offering box too.\n• **Incense (お線香):** at some temples there is a large incense burner in front of the main hall. People light a stick, stand it in the burner and waft the smoke toward themselves — it is said to be good for your health. If you're not sure, watch what others do.\n• **Shoes off** when you go into a hall or any room with tatami: look for a step, shoe shelves, or a sign saying 土足禁止 (どそくきんし, \"no shoes\"). You'll hear: こちらで靴を脱いでください。\n• **Quiet** inside the halls, where photos are often not allowed (situation 4c).\n• **What you'll ask:** 靴はここで脱ぎますか。 (\"Do I take my shoes off here?\"), 中に入ってもいいですか。 (\"May I go in?\").",
+      "structure": "[thing] は ここで [verb]ますか。 · [place] で 靴を 脱いでください。",
+      "examples": [
+        { "jp": "すみません、靴はここで脱ぎますか。— はい、こちらで脱いでください。", "kana": "すみません、くつはここでぬぎますか。— はい、こちらでぬいでください。", "romaji": "Sumimasen, kutsu wa koko de nugimasu ka. — Hai, kochira de nuide kudasai.", "en": "Excuse me, do I take my shoes off here? — Yes, please take them off here." },
+        { "jp": "お寺でも手をたたきますか。— いいえ、お寺ではたたきません。手を合わせて、おじぎをします。", "kana": "おてらでもてをたたきますか。— いいえ、おてらではたたきません。てをあわせて、おじぎをします。", "romaji": "Otera de mo te o tatakimasu ka. — Iie, otera de wa tatakimasen. Te o awasete, ojigi o shimasu.", "en": "Do you clap at temples too? — No, you don't clap at temples. You put your hands together and bow." },
+        { "jp": "中に入ってもいいですか。— はい、どうぞ。中では静かにお願いします。", "kana": "なかにはいってもいいですか。— はい、どうぞ。なかではしずかにおねがいします。", "romaji": "Naka ni haitte mo ii desu ka. — Hai, dōzo. Naka de wa shizuka ni onegai shimasu.", "en": "May I go inside? — Yes, please do. Please be quiet inside." }
+      ],
+      "pitfalls": [
+        "Clapping at a temple as you would at a shrine ✗ → hands together, a bow, no claps ✓ (usually).",
+        "Walking onto tatami or into a hall with your shoes on ✗ → take them off where you see a step, shoe shelves or 土足禁止 ✓.",
+        "Mixing up the two ✗ → a 鳥居 means a shrine (神社); a big gate, incense and 〜寺 in the name usually mean a temple (お寺) ✓. Some sites have both side by side."
+      ],
+      "howToStudy": [
+        "Tap 🔬 on example 1: [靴は] is the TOPIC, [ここで] the PLACE and 脱ぎますか the PREDICATE; in the answer, [こちらで] is the PLACE and 脱いでください the PREDICATE.",
+        "Say the shrine steps and the temple steps side by side, out loud, and name the one big difference: お寺では手をたたきません。",
+        "Learn the kanji that tell you where you are inside whole words, not one by one: 神社, お寺 (and 〜寺 in names), 鳥居, 土足禁止. Recognizing them on a sign is enough — you don't need to write them."
+      ],
+      "flag": null
+    },
+    {
+      "id": "V-08-c",
+      "gc": null,
+      "title": "May I…? Photos, signs and a polite no",
+      "gloss": "〜てもいいですか, ご遠慮ください, 禁止",
+      "explanation": "At shrines, temples, museums and baths you'll often need to know what is allowed. The question is lesson 06-3's:\n• **[place] で [object] を 〜てもいいですか。** — ここで写真を撮ってもいいですか。 (\"May I take photos here?\") [ここで] is the PLACE, [写真を] the OBJECT and 撮ってもいいですか the PREDICATE.\n• **Yes:** はい、どうぞ。 ／ 大丈夫ですよ。\n• **No** — people rarely say a flat \"no\". You'll hear すみません、ちょっと…。 (trailing off, lesson 03-3), 撮影はご遠慮ください。 (\"Please refrain from taking photos\"), or だめです (\"not allowed\").\n• **Signs:** 〜禁止 (きんし, \"prohibited\") and 〜はご遠慮ください (\"please refrain from…\") mean the same thing in practice: **don't**. Common ones: 撮影禁止 (no photos), 立入禁止 (たちいりきんし, no entry), 土足禁止 (no shoes), 飲食禁止 (いんしょくきんし, no eating or drinking).\n• 撮影 (さつえい) is the formal word for taking photos or video — you'll see it on signs much more often than 写真を撮る.\n• Going further (Sakubi): いい just means \"good, fine\", so 〜てもいいですか asks \"is it fine even if I…?\" Its strong opposites, いけない and だめ, mean \"no good\" — that's why 〜てはいけません works as \"must not\".",
+      "structure": "[place] で [object] を [verb て] もいいですか。 · [N] は ご遠慮ください。 · [N] 禁止",
+      "examples": [
+        { "jp": "すみません、ここで写真を撮ってもいいですか。— はい、どうぞ。", "kana": "すみません、ここでしゃしんをとってもいいですか。— はい、どうぞ。", "romaji": "Sumimasen, koko de shashin o totte mo ii desu ka. — Hai, dōzo.", "en": "Excuse me, may I take photos here? — Yes, go ahead." },
+        { "jp": "中で写真を撮ってもいいですか。— すみません、中での撮影はご遠慮ください。", "kana": "なかでしゃしんをとってもいいですか。— すみません、なかでのさつえいはごえんりょください。", "romaji": "Naka de shashin o totte mo ii desu ka. — Sumimasen, naka de no satsuei wa go-enryo kudasai.", "en": "May I take photos inside? — I'm sorry, please refrain from taking photos inside." },
+        { "jp": "ここに座ってもいいですか。— あ、そこはちょっと…。", "kana": "ここにすわってもいいですか。— あ、そこはちょっと…。", "romaji": "Koko ni suwatte mo ii desu ka. — A, soko wa chotto…", "en": "May I sit here? — Oh, that spot is a little… [= please don't]" }
+      ],
+      "pitfalls": [
+        "Asking with ください instead of もいい: 写真を撮ってください ✗ (\"please take a photo\" — they'll reach for your camera!) → 写真を撮ってもいいですか ✓.",
+        "Waiting to hear いいえ ✗ → ちょっと…, ご遠慮ください and だめです all mean no ✓.",
+        "Reading ご遠慮ください on a sign as optional ✗ → it means \"don't\"; treat it like 禁止 ✓."
+      ],
+      "howToStudy": [
+        "Tap 🔬 on example 1: すみません is an INTERJECTION, [ここで] the PLACE, [写真を] the OBJECT and 撮ってもいいですか the PREDICATE — a permission question.",
+        "Ask 5 permission questions aloud for places on your trip, changing the place and the action: ここで食べてもいいですか, 中に入ってもいいですか, ここに座ってもいいですか…",
+        "In the ヅオリンゴー SRS (with Mining or in your notebook), make one card per sign — 撮影禁止, 立入禁止, 土足禁止, 飲食禁止, ご遠慮ください — with the sign on the front and the meaning on the back. Recognition is the skill you need here."
+      ],
+      "flag": null
+    },
+    {
+      "id": "V-08-d",
+      "gc": null,
+      "title": "At an onsen: wash first, towel out, quiet",
+      "gloss": "the basic bath rules",
+      "explanation": "A **温泉** (おんせん) is a hot-spring bath; a 銭湯 (せんとう) is a neighborhood public bath. The basic rules are much the same, and many baths post them, sometimes in English too:\n• **Men and women** usually bathe separately: 男湯 (おとこゆ, men) and 女湯 (おんなゆ, women). The curtains (のれん) are often blue for men and red for women, but colors vary — **read the kanji 男 and 女**. At some places the two baths swap sides at certain times, so check each time you go.\n• **Wash first.** Undress in the changing room; then, at the washing area, sit down, wash your whole body and rinse off all the soap **before** you get into the bath. You'll see まず体を洗ってください。 or かけ湯をしてください。 (かけゆ, \"pour bath water over yourself first\").\n• **The towel stays out of the water.** Take your small towel in with you, but don't put it in the bath: people keep it on their head or on the edge. Tie long hair up. Swimsuits are usually not worn.\n• **Quiet.** It's a place to relax: talk softly, and no swimming or splashing.\n• **Tattoos:** many baths don't allow them — see the culture note. Ask before you pay: タトゥーがあるんですが、入ってもいいですか。 (\"I have a tattoo — may I go in?\")\n• Going further (Sakubi): with a negative, ください attaches to ないで, not なくて: 入れないでください (\"please don't put it in\"). You'll learn 〜ないでください in lesson 08-3; on signs it simply means \"don't\".",
+      "structure": "まず [体] を 洗ってください。 · [タオル] は お湯に 入れないでください。 · [background] んですが、〜てもいいですか。",
+      "examples": [
+        { "jp": "男湯はどちらですか。— 右の青いのれんです。", "kana": "おとこゆはどちらですか。— みぎのあおいのれんです。", "romaji": "Otokoyu wa dochira desu ka. — Migi no aoi noren desu.", "en": "Which one is the men's bath? — The blue curtain on the right." },
+        { "jp": "まず体を洗ってください。タオルはお湯に入れないでください。— はい、わかりました。", "kana": "まずからだをあらってください。タオルはおゆにいれないでください。— はい、わかりました。", "romaji": "Mazu karada o aratte kudasai. Taoru wa oyu ni irenaide kudasai. — Hai, wakarimashita.", "en": "Please wash your body first. Please don't put your towel in the bath water. — OK, I understand." },
+        { "jp": "タトゥーがあるんですが、入ってもいいですか。— すみません、タトゥーはご遠慮ください。", "kana": "タトゥーがあるんですが、はいってもいいですか。— すみません、タトゥーはごえんりょください。", "romaji": "Tatū ga aru n desu ga, haitte mo ii desu ka. — Sumimasen, tatū wa go-enryo kudasai.", "en": "I have a tattoo — may I go in? — I'm sorry, no tattoos, please. [lit. please refrain from tattoos]" }
+      ],
+      "pitfalls": [
+        "Getting into the bath first and washing later ✗ → wash and rinse at the washing area first, then get in ✓.",
+        "Putting your towel in the water ✗ → on your head or on the edge of the bath ✓.",
+        "Going by curtain color alone ✗ → read the kanji: 男 = men, 女 = women ✓.",
+        "Asking about tattoos after you've paid and undressed ✗ → ask at the front desk first, or check the bath's website ✓."
+      ],
+      "howToStudy": [
+        "Tap 🔬 on example 3: [タトゥーが] is the SUBJECT, あるんですが shows as …BUT (the background: \"I have one, but…\") and 入ってもいいですか is the PREDICATE — a permission question. In the answer, [タトゥーは] is the TOPIC and ご遠慮ください the PREDICATE.",
+        "Say the onsen rules out loud as instructions to an imaginary friend: まず体を洗ってください。タオルはお湯に入れないでください。静かにしてください。",
+        "Write 男, 女 and 湯 on a card and read 男湯 / 女湯 until you recognize them instantly — they're what you'll see on the curtains."
+      ],
+      "flag": null
+    }
+  ],
+  "media": [
+    { "order": 1, "kind": "video", "title": "How to visit a shrine and how to use an onsen: any video that demonstrates the steps", "where": "YouTube · a Japan travel or culture channel (pick one that shows the steps, not just talks about them)", "url": "", "search": "how to pray at a Japanese shrine temizuya", "when": "After situation 4a; then search \"onsen etiquette for first timers\" for situation 4d" },
+    { "order": 2, "kind": "reading", "title": "Irodori (Japan Foundation) — free course: find a topic about free time or going out in the table of contents and do its listening tasks", "where": "Irodori: Japanese for Life in Japan · the Japan Foundation's free course (search for it by name)", "url": "", "search": "Irodori Japanese for Life in Japan", "when": "After the homework" }
+  ],
+  "homework": {
+    "intro": "Do it by hand in your notebook. Write the Japanese with the kanji you know and kana for the rest; the answer key always gives the reading. Only then open the answer key, item by item. Circle what you got wrong and redo it the next day.",
+    "tasks": [
+      {
+        "id": "h1",
+        "type": "complete",
+        "prompt": "Complete the dialogue: write the missing line, following the instruction in brackets.",
+        "items": [
+          { "q": "すみません、ここで＿＿＿。— はい、どうぞ。 (Ask whether you may take a photo.)", "a": { "jp": "写真を撮ってもいいですか。", "kana": "しゃしんをとってもいいですか。", "romaji": "Shashin o totte mo ii desu ka." } },
+          { "q": "＿＿＿ — はい、こちらで脱いでください。 (At a temple hall: ask whether you take your shoes off here.)", "a": { "jp": "靴はここで脱ぎますか。", "kana": "くつはここでぬぎますか。", "romaji": "Kutsu wa koko de nugimasu ka." } },
+          { "q": "お寺でも手をたたきますか。— ＿＿＿ (No: you don't clap at temples.)", "a": { "jp": "いいえ、お寺ではたたきません。", "kana": "いいえ、おてらではたたきません。", "romaji": "Iie, otera de wa tatakimasen." } },
+          { "q": "＿＿＿ — 左の赤いのれんです。 (Ask which one is the women's bath.)", "a": { "jp": "女湯はどちらですか。", "kana": "おんなゆはどちらですか。", "romaji": "Onnayu wa dochira desu ka." } },
+          { "q": "タトゥーがあるんですが、＿＿＿。— はい、大丈夫ですよ。 (Ask whether you may go in.)", "a": { "jp": "入ってもいいですか。", "kana": "はいってもいいですか。", "romaji": "Haitte mo ii desu ka." } }
+        ]
+      },
+      {
+        "id": "h2",
+        "type": "signs",
+        "prompt": "What does each sign or answer mean? Write it in English, and say what you should do.",
+        "items": [
+          { "q": "撮影禁止", "a": { "en": "No photography — put the camera away." } },
+          { "q": "土足禁止", "a": { "en": "No shoes — take them off here." } },
+          { "q": "立入禁止", "a": { "en": "No entry — don't go in." } },
+          { "q": "館内での飲食はご遠慮ください。", "a": { "en": "Please refrain from eating and drinking inside the building — don't eat or drink here." }, "note": "館内 (かんない) = inside the building; 飲食 (いんしょく) = eating and drinking. ご遠慮ください on a sign means \"don't\"." },
+          { "q": "(You asked 写真を撮ってもいいですか。) — すみません、ちょっと…。", "a": { "en": "A polite no — don't take the photo." } }
+        ]
+      },
+      {
+        "id": "h3",
+        "type": "translate",
+        "prompt": "Translate into Japanese.",
+        "items": [
+          { "q": "Excuse me, where is the purification basin?", "a": { "jp": "すみません、手水舎はどこですか。", "kana": "すみません、てみずやはどこですか。", "romaji": "Sumimasen, temizuya wa doko desu ka." }, "note": "ちょうずや is also a correct reading." },
+          { "q": "Bow twice, clap twice, and bow once more.", "a": { "jp": "二回おじぎをして、手を二回たたいて、もう一回おじぎをします。", "kana": "にかいおじぎをして、てをにかいたたいて、もういっかいおじぎをします。", "romaji": "Nikai ojigi o shite, te o nikai tataite, mō ikkai ojigi o shimasu." }, "note": "A chain of て-forms: only the last verb carries ます." },
+          { "q": "May I go inside?", "a": { "jp": "中に入ってもいいですか。", "kana": "なかにはいってもいいですか。", "romaji": "Naka ni haitte mo ii desu ka." } },
+          { "q": "Please wash your body first.", "a": { "jp": "まず体を洗ってください。", "kana": "まずからだをあらってください。", "romaji": "Mazu karada o aratte kudasai." } },
+          { "q": "Please don't put your towel in the water.", "a": { "jp": "タオルはお湯に入れないでください。", "kana": "タオルはおゆにいれないでください。", "romaji": "Taoru wa oyu ni irenaide kudasai." }, "note": "タオルをお湯に入れないでください is also correct." }
+        ]
+      },
+      {
+        "id": "h4",
+        "type": "produce",
+        "prompt": "Written role-play: write a 6–8-line scene at the front desk of an onsen. You ask which bath is yours, ask about your tattoo, and the staff explain two rules. Then read it aloud, doing both voices, and record it.",
+        "items": [
+          { "q": "Model (match its structure, not its words):", "a": { "jp": "すみません、男湯はどちらですか。— 右の青いのれんです。— タトゥーがあるんですが、入ってもいいですか。— 小さいタトゥーですか。— はい、小さいです。— では、このシールを使ってください。まず体を洗ってくださいね。タオルはお湯に入れないでください。— わかりました。ありがとうございます。", "kana": "すみません、おとこゆはどちらですか。— みぎのあおいのれんです。— タトゥーがあるんですが、はいってもいいですか。— ちいさいタトゥーですか。— はい、ちいさいです。— では、このシールをつかってください。まずからだをあらってくださいね。タオルはおゆにいれないでください。— わかりました。ありがとうございます。", "romaji": "Sumimasen, otokoyu wa dochira desu ka. — Migi no aoi noren desu. — Tatū ga aru n desu ga, haitte mo ii desu ka. — Chiisai tatū desu ka. — Hai, chiisai desu. — Dewa, kono shīru o tsukatte kudasai. Mazu karada o aratte kudasai ne. Taoru wa oyu ni irenaide kudasai. — Wakarimashita. Arigatō gozaimasu.", "en": "Excuse me, which one is the men's bath? — The blue curtain on the right. — I have a tattoo — may I go in? — Is it a small tattoo? — Yes, it's small. — Then please use this sticker. Please wash your body first. Please don't put your towel in the water. — I understand. Thank you." }, "note": "Check: 〜てもいいですか for permission, the background before んですが, and です/ます in all your lines. Rules really differ from bath to bath: this sticker is only one possible answer." }
+        ]
+      }
+    ],
+    "workbook": []
+  },
+  "practice": [
+    { "tool": "Role-play out loud", "what": "Three short scenes, switching roles: at a shrine (ask where the 手水舎 is and how to pray), at a temple hall (shoes and going in), at an onsen front desk (h4). As the local, also say no politely at least once (ちょっと…, ご遠慮ください).", "min": 10 },
+    { "tool": "Speaking · record yourself", "what": "Record the h4 scene in 60 seconds or less. Listen: did every permission question end in もいいですか? Did you say the background before んですが? Record it again and compare.", "min": 5 },
+    { "tool": "Shadowing", "what": "Tap 🔊 on each example and repeat along 3 times. For the shrine chain (4a, example 2), shadow until you can say the steps in one breath, in order.", "min": 5 },
+    { "tool": "ヅオリンゴー · Journal", "what": "In the Journal, write the shrine steps and the onsen rules as 5 sentences of your own. Open \"Anatomy of what I wrote\" and check that each て-form step shows as …AND THEN and the last verb as the PREDICATE.", "min": 10 },
+    { "tool": "Real Japanese", "what": "Open the Japanese website of a famous shrine, temple or onsen town and read its visitor rules with a pop-up dictionary (Yomitan in the browser) or jisho.org. Look for 禁止, ご遠慮ください, 撮影 and タトゥー／入れ墨. Save one real sentence with Mining so it comes back in your SRS.", "min": 10 }
+  ],
+  "culture": {
+    "title": "Tattoos and onsen",
+    "titleJp": "タトゥーと温泉",
+    "body": "Many onsen and public baths in Japan **don't allow people with tattoos**, a rule linked historically to the association of tattoos with organized crime. The rule usually applies to everyone, including visitors with small or fashionable tattoos. Attitudes are changing: some baths accept tattoos, some accept small ones covered with a special sticker, and many hotels and ryokan have private baths (貸切風呂, かしきりぶろ) that you can book for yourself. Rules really differ from place to place, so check the bath's website or ask at the front desk before you go.",
+    "try": "Practice the polite question and the three kinds of answer you might hear: タトゥーがあるんですが、入ってもいいですか。— はい、大丈夫ですよ。／ このシールを使ってください。／ すみません、ご遠慮ください。"
+  },
+  "checklist": [
+    "I can describe the usual shrine steps (手水舎, the offering, 二礼二拍手一礼) and I know they vary from shrine to shrine.",
+    "I know that at a temple you usually don't clap, and I can ask 靴はここで脱ぎますか.",
+    "I can ask permission with 〜てもいいですか and recognize a polite no (ちょっと…, ご遠慮ください, だめです).",
+    "I can read the signs 撮影禁止, 立入禁止, 土足禁止 and 男湯／女湯 without looking.",
+    "I can explain the onsen rules in Japanese: wash first, the towel stays out of the water, quiet.",
+    "I did the homework, checked it against the answer key and redid what I got wrong.",
+    "I recorded the onsen role-play and listened to it."
+  ],
+  "credits": [
+    "Explanations adapted in part from Sakubi (public domain, CC0) — sakubi.neocities.org",
+    "Study method informed by the DJT Guide to Japanese — djtguide.neocities.org/guide"
+  ]
+}

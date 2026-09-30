@@ -1,0 +1,240 @@
+{
+  "id": "V-03",
+  "unit": "V",
+  "genki": null,
+  "title": "Hotels and ryokan",
+  "titleJp": "ホテルと旅館",
+  "canDo": [
+    "I can check in: say that I have a reservation (予約した〜です) and understand when the staff asks for my passport.",
+    "I can ask what time check-in, breakfast or the bath starts or ends (何時からですか／何時までですか).",
+    "I can ask for one more of something (タオルをもう一枚お願いします), ask for the Wi-Fi password, and say that something doesn't work.",
+    "I can ask permission politely (〜てもいいですか) and follow the basic ryokan rules for meals, the bath and the room."
+  ],
+  "duration": {
+    "total": "60–75 min",
+    "blocks": [
+      { "t": "Warm-up: say clock times aloud from 1 to 12 (いちじ … じゅうにじ), then read this lesson's vocabulary (block 3) aloud", "min": 5 },
+      { "t": "Vocabulary: tap 🔊 on each word and repeat it twice; save the ryokan words with Mining (⛏)", "min": 10 },
+      { "t": "Situations: the 4 dialogues, read aloud in both roles, with one 🔬 per situation", "min": 20 },
+      { "t": "Block 6: the video, pausing to repeat the staff's lines", "min": 10 },
+      { "t": "Notebook homework + checking it against the answer key", "min": 15 },
+      { "t": "Role-play a ryokan check-in out loud + checklist (block 10)", "min": 10 }
+    ]
+  },
+  "prereqs": {
+    "aulas": ["V-01", "06-4"],
+    "skills": [
+      "〜てもいいですか and 〜てはいけません (lesson 06-3): the heart of hotel and ryokan rules.",
+      "Clock times with 〜じ and 〜じはん (lesson 01-2).",
+      "Counting things (ひとつ, ふたつ… and counters, lesson 05-3); this lesson adds 〜枚 for flat things.",
+      "〜てください (lesson 06-2), and the short noun + です answers of lesson V-01.",
+      "Every sentence comes with its full kana reading."
+    ],
+    "vocab": [
+      { "jp": "予約", "kana": "よやく", "romaji": "yoyaku", "en": "reservation, booking" },
+      { "jp": "チェックイン", "kana": "チェックイン", "romaji": "chekkuin", "en": "check-in" },
+      { "jp": "チェックアウト", "kana": "チェックアウト", "romaji": "chekkuauto", "en": "check-out" },
+      { "jp": "フロント", "kana": "フロント", "romaji": "furonto", "en": "front desk, reception" },
+      { "jp": "〜様", "kana": "〜さま", "romaji": "-sama", "en": "Mr./Ms. (a very polite 〜さん, used by staff; never for yourself)" },
+      { "jp": "荷物", "kana": "にもつ", "romaji": "nimotsu", "en": "luggage, bags" },
+      { "jp": "預けます", "kana": "あずけます", "romaji": "azukemasu", "en": "to leave (something) in someone's care" },
+      { "jp": "大丈夫", "kana": "だいじょうぶ", "romaji": "daijōbu", "en": "fine, OK, no problem" },
+      { "jp": "タオル", "kana": "タオル", "romaji": "taoru", "en": "towel" },
+      { "jp": "〜枚", "kana": "〜まい", "romaji": "-mai", "en": "counter for flat things (towels, sheets, tickets)" },
+      { "jp": "もう一枚", "kana": "もういちまい", "romaji": "mō ichimai", "en": "one more (flat thing)" },
+      { "jp": "パスワード", "kana": "パスワード", "romaji": "pasuwādo", "en": "password" },
+      { "jp": "教えてください", "kana": "おしえてください", "romaji": "oshiete kudasai", "en": "please tell me (教える = teach, tell)" },
+      { "jp": "エアコン", "kana": "エアコン", "romaji": "eakon", "en": "air conditioner" },
+      { "jp": "つきません", "kana": "つきません", "romaji": "tsukimasen", "en": "doesn't turn on (a light, the TV…)" },
+      { "jp": "旅館", "kana": "りょかん", "romaji": "ryokan", "en": "traditional Japanese inn" },
+      { "jp": "夕食", "kana": "ゆうしょく", "romaji": "yūshoku", "en": "dinner (the formal word)" },
+      { "jp": "朝食", "kana": "ちょうしょく", "romaji": "chōshoku", "en": "breakfast (the formal word)" },
+      { "jp": "お風呂", "kana": "おふろ", "romaji": "ofuro", "en": "bath" },
+      { "jp": "大浴場", "kana": "だいよくじょう", "romaji": "daiyokujō", "en": "large shared bath" },
+      { "jp": "男湯", "kana": "おとこゆ", "romaji": "otokoyu", "en": "the men's bath" },
+      { "jp": "女湯", "kana": "おんなゆ", "romaji": "onnayu", "en": "the women's bath" },
+      { "jp": "浴衣", "kana": "ゆかた", "romaji": "yukata", "en": "light cotton kimono (provided at inns)" },
+      { "jp": "かしこまりました", "kana": "かしこまりました", "romaji": "kashikomarimashita", "en": "certainly (the staff's very polite \"understood\")" },
+      { "jp": "少々お待ちください", "kana": "しょうしょうおまちください", "romaji": "shōshō omachi kudasai", "en": "one moment, please" }
+    ]
+  },
+  "grammar": [
+    {
+      "id": "V-03-a",
+      "gc": null,
+      "title": "Checking in",
+      "gloss": "予約した〜です · 何時からですか · 〜てもいいですか",
+      "explanation": "At the front desk (**フロント**), say that you want to check in, and give your name: チェックインをお願いします。予約した[name]です。 The staff will usually ask to see your **passport** — hotels in Japan normally have to record it for foreign guests who don't live in Japan — and may ask you to fill in a short form. Check-in often starts in the afternoon (around 3 p.m. is common), but it varies, so check your booking. Many hotels will keep your luggage if you arrive early.\n• **予約した[name]です** = \"I'm [name]; I have a reservation\" [lit. I am the booked [name]]. 予約した is the plain past of 予約する, and it **describes your name**, the way an adjective would: a verb describing a noun, which you will build yourself in lesson 09-2. For now, use it as a chunk.\n• **What you will hear:** シルバ様ですね。 (\"Mr./Ms. Silva, right?\" — staff use 〜様, a very polite 〜さん). パスポートをお願いします。 こちらにお名前をお願いします (\"your name here, please\").\n• **Times:** から = from, まで = until. チェックインは何時からですか。— 3時からです。 チェックアウトは何時までですか。— 10時までです。\n• **Leaving luggage:** 荷物を預けてもいいですか。 (\"May I leave my luggage (with you)?\") — the 〜てもいいですか of lesson 06-3. Going further (Sakubi): いい just means \"good, fine\", so 〜てもいいですか literally asks \"is it fine even if I…?\". And よかった means \"I'm glad\" — it is never used to give permission.",
+      "structure": "チェックインを お願いします。予約した [name] です。 · [thing] は 何時から／何時まで ですか。 · [object] を [verb て] も いいですか。",
+      "examples": [
+        { "jp": "チェックインをお願いします。予約したシルバです。— シルバ様ですね。パスポートをお願いします。", "kana": "チェックインをおねがいします。よやくしたシルバです。— シルバさまですね。パスポートをおねがいします。", "romaji": "Chekkuin o onegai shimasu. Yoyaku shita Shiruba desu. — Shiruba-sama desu ne. Pasupōto o onegai shimasu.", "en": "I'd like to check in. I'm Silva; I have a reservation. — Mr./Ms. Silva, right? Your passport, please. [lit. I'm the Silva who booked]" },
+        { "jp": "チェックインは何時からですか。— 3時からです。", "kana": "チェックインはなんじからですか。— さんじからです。", "romaji": "Chekkuin wa nanji kara desu ka. — Sanji kara desu.", "en": "What time does check-in start? — From 3 o'clock. [lit. check-in is from what time?]" },
+        { "jp": "荷物を預けてもいいですか。— はい、大丈夫です。", "kana": "にもつをあずけてもいいですか。— はい、だいじょうぶです。", "romaji": "Nimotsu o azukete mo ii desu ka. — Hai, daijōbu desu.", "en": "May I leave my luggage with you? — Yes, that's fine." }
+      ],
+      "pitfalls": [
+        "Never put 様 or さん on your own name: 予約したシルバ様です ✗ → 予約したシルバです ✓.",
+        "から is \"from\", まで is \"until\". To ask the latest time you can check out: チェックアウトは何時からですか ✗ → 何時までですか ✓.",
+        "予約 alone is just \"a reservation\": 予約です ✗ (\"it's a reservation\") → 予約したシルバです ✓."
+      ],
+      "howToStudy": [
+        "Say your own check-in line aloud 5 times, with your real name: チェックインをお願いします。予約した[your name]です。",
+        "Tap 🔬 on example 1: 予約した shows up as DESCRIBES NEXT, attached to your name, and シルバです is the PREDICATE. In the first and the last sentence, チェックインを and パスポートを are OBJECTs and お願いします is the PREDICATE.",
+        "Write 3 time questions with から or まで in your notebook (check-in, check-out, breakfast) and answer them with the times of a real hotel."
+      ],
+      "flag": null
+    },
+    {
+      "id": "V-03-b",
+      "gc": null,
+      "title": "Requests and problems in the room",
+      "gloss": "もう一枚お願いします · 教えてください · 〜がつきません",
+      "explanation": "Most requests have one of three shapes, and all of them start with すみません:\n• **Asking for more:** [thing]を もう[number] お願いします。 タオルをもう一枚お願いします。 (\"One more towel, please.\") もう + a number = \"… more\". Flat things — towels, sheets, tickets — are counted with **〜枚** (まい), with regular readings: 一枚, 二枚, 三枚.\n• **Asking for information:** [thing]を 教えてください。 ワイファイのパスワードを教えてください。 (\"Please tell me the Wi-Fi password.\") 教える means \"teach\", but also \"tell (someone information)\". On signs and cards it is written **Wi-Fi**; people say ワイファイ. The password is often printed on a card in the room.\n• **Saying something is wrong:** [thing]が + a negative verb. エアコンがつきません。 (\"The air conditioner won't turn on.\") お湯が出ません。 (\"There's no hot water.\" [lit. hot water doesn't come out]) The broken thing is the SUBJECT, with が.\n• **Asking whether they have something:** [thing]は ありませんか。 (\"Would you have …?\"). Going further (Sakubi): a question with ませんか is often not negative at all — it is a softer, more modest way to ask, like English \"You wouldn't have…?\". 歯ブラシはありませんか sounds gentler than 歯ブラシはありますか. Some hotels now keep toothbrushes and other items at the front desk or in the lobby instead of in the room.\n• **What you will hear:** かしこまりました (\"certainly\"), 少々お待ちください (\"one moment, please\"), 失礼しました or 申し訳ありません (\"we're sorry\"), すぐ確認します (\"we'll check right away\").",
+      "structure": "すみません、[thing] を もう [number] お願いします。 · [thing] を 教えてください。 · [thing] が [negative verb]。",
+      "examples": [
+        { "jp": "すみません、タオルをもう一枚お願いします。— かしこまりました。少々お待ちください。", "kana": "すみません、タオルをもういちまいおねがいします。— かしこまりました。しょうしょうおまちください。", "romaji": "Sumimasen, taoru o mō ichimai onegai shimasu. — Kashikomarimashita. Shōshō omachi kudasai.", "en": "Excuse me, one more towel, please. — Certainly. One moment, please." },
+        { "jp": "ワイファイのパスワードを教えてください。— はい、こちらです。", "kana": "ワイファイのパスワードをおしえてください。— はい、こちらです。", "romaji": "Waifai no pasuwādo o oshiete kudasai. — Hai, kochira desu.", "en": "Please tell me the Wi-Fi password. — Sure, here it is." },
+        { "jp": "すみません、エアコンがつきません。— 失礼しました。すぐ確認します。", "kana": "すみません、エアコンがつきません。— しつれいしました。すぐかくにんします。", "romaji": "Sumimasen, eakon ga tsukimasen. — Shitsurei shimashita. Sugu kakunin shimasu.", "en": "Excuse me, the air conditioner won't turn on. — We're sorry. We'll check it right away." }
+      ],
+      "pitfalls": [
+        "もう goes right before the number: タオルを一枚もう ✗ → タオルをもう一枚 ✓.",
+        "Flat things are counted with 枚; 本 is for long, thin things: タオルを一本 ✗ → タオルを一枚 ✓.",
+        "The broken thing takes が, because つく means \"come on\" by itself: エアコンをつきません ✗ → エアコンがつきません ✓."
+      ],
+      "howToStudy": [
+        "Walk around your room and make one request of each shape, out loud: もう一枚 (a towel), 教えてください (a password), 〜がつきません (the light, the TV).",
+        "Tap 🔬 on example 1: タオルを shows up as OBJECT, もう as HOW / HOW OFTEN, 一枚 as QUANTITY and お願いします as PREDICATE. Read from the end: please → what? a towel → how many? one more.",
+        "Tap 🔬 on example 3: エアコンが is the SUBJECT and つきません the PREDICATE — the broken thing is the subject, not you. Make two more in your notebook: テレビがつきません。 お湯が出ません。"
+      ],
+      "flag": null
+    },
+    {
+      "id": "V-03-c",
+      "gc": null,
+      "title": "At a ryokan: meals and times",
+      "gloss": "何時がよろしいですか · 〜時にお願いします",
+      "explanation": "A **旅館** (りょかん) is a traditional Japanese inn: tatami rooms, futon, a shared bath and, very often, dinner (**夕食**) and breakfast (**朝食**) included. Meals are usually served at set times, and at check-in the staff will ask you to choose one. Dinner may be served in your room or in a dining room (**食事処**, しょくじどころ); while you eat or bathe, staff may come in to lay out the futon.\n• **What you will hear:** 夕食は何時がよろしいですか。 (\"What time would you like dinner?\" [lit. as for dinner, what time is good?]). よろしい is a very polite いい (\"good\"). Staff may offer a choice: 6時と7時、どちらがよろしいですか。\n• **Your answer:** [time]にお願いします。 7時にお願いします。 (\"At 7, please.\") に marks the TIME, as in lesson 03-3. You will also hear 7時でお願いします — here で marks the option you pick.\n• **Asking:** 朝食は何時からですか。— 7時から9時までです。 夕食はどこで食べますか。 (\"Where do we eat dinner?\") — the で of the place of an action (lesson 03-2).\n• **Floors:** 一階 (いっかい) is the ground floor, 二階 (にかい) the one above it, and 地下一階 (ちかいっかい) the first floor below ground.\n• 夕食 and 朝食 are the formal words you will read on the inn's notices; at home people say 晩ご飯 and 朝ご飯.",
+      "structure": "[meal] は 何時が よろしいですか。— [time] に お願いします。 · [meal] は 何時から ですか。— [time] から [time] まで です。",
+      "examples": [
+        { "jp": "夕食は何時がよろしいですか。— 7時にお願いします。", "kana": "ゆうしょくはなんじがよろしいですか。— しちじにおねがいします。", "romaji": "Yūshoku wa nanji ga yoroshii desu ka. — Shichiji ni onegai shimasu.", "en": "What time would you like dinner? — At 7, please. [lit. as for dinner, what time is good?]" },
+        { "jp": "朝食は何時からですか。— 7時から9時までです。", "kana": "ちょうしょくはなんじからですか。— しちじからくじまでです。", "romaji": "Chōshoku wa nanji kara desu ka. — Shichiji kara kuji made desu.", "en": "What time does breakfast start? — It's from 7 to 9." },
+        { "jp": "夕食はどこで食べますか。— 一階の食事処です。", "kana": "ゆうしょくはどこでたべますか。— いっかいのしょくじどころです。", "romaji": "Yūshoku wa doko de tabemasu ka. — Ikkai no shokujidokoro desu.", "en": "Where do we eat dinner? — In the dining room on the ground floor." }
+      ],
+      "pitfalls": [
+        "The time you choose takes に: 7時をお願いします ✗ → 7時にお願いします ✓ (7時でお願いします ✓ is also common).",
+        "7時 is read しちじ, as in lesson 01-2: ななじ ✗ → しちじ ✓. Likewise 9時 is くじ, not きゅうじ.",
+        "何時 (なんじ) asks the clock time; 何時間 (なんじかん) asks how long: 夕食は何時間ですか ✗ (\"how many hours is dinner?\") → 夕食は何時ですか ✓."
+      ],
+      "howToStudy": [
+        "Role-play a ryokan check-in out loud: the staff asks 夕食は何時がよろしいですか, you choose a time with 〜にお願いします, then you ask 朝食は何時からですか.",
+        "Tap 🔬 on example 1: 夕食は shows up as TOPIC, 何時が as SUBJECT (what time is good) and よろしいですか as PREDICATE. In the answer, 7時に is TIME and お願いします the PREDICATE.",
+        "Open the Japanese page of a real ryokan with a pop-up dictionary (such as Yomitan), find its meal times, and copy them into your notebook as 〜から〜までです sentences."
+      ],
+      "flag": null
+    },
+    {
+      "id": "V-03-d",
+      "gc": null,
+      "title": "At a ryokan: the bath and house rules",
+      "gloss": "何時まで入れますか · 〜てもいいですか",
+      "explanation": "Ryokan and many hotels have a **大浴場** (だいよくじょう), a large shared bath, split into **男湯** (men's) and **女湯** (women's). The curtains at the entrance (のれん) are often blue for men and red for women, but that is only a habit: **read the kanji 男 and 女**, because some places swap the two baths between evening and morning. Take the small towel from your room, wash and rinse at the showers **before** you get into the water, and keep the towel out of the bath. The bath has opening hours — often it closes late at night and opens again early in the morning.\n• **Asking the hours:** お風呂は何時まで入れますか。 (\"Until what time can I use the bath?\"). 入れます is the \"can\" form of 入る (\"get in\"), from lesson 13-1; for now, 何時まで入れますか is a chunk for \"until when can I go in?\".\n• **Asking permission:** 〜てもいいですか (lesson 06-3). 浴衣を着てレストランに行ってもいいですか。 (\"May I go to the restaurant in my yukata?\"). The answer may be はい、大丈夫です — or, if not, すみません、ちょっと… (the polite \"no\" of lesson 03-3).\n• **Rules you may read:** 〜てください (please do), 〜ないでください (please don't — you will build it in lesson 08-3), and 〜禁止 (きんし, \"… not allowed\": 撮影禁止, さつえいきんし = no photos). Slippers come off before you step onto tatami.\n• **What you will hear:** 地下一階です (\"on the first basement floor\"), お部屋のタオルをお持ちください (\"please bring the towel from your room\" — お〜ください is an extra-polite ください, lesson 19-1).",
+      "structure": "[place] は 何時まで 入れますか。— [time] までです。 · [verb て] も いいですか。— はい、大丈夫です／すみません、ちょっと…",
+      "examples": [
+        { "jp": "お風呂は何時まで入れますか。— 夜11時までです。朝は6時からです。", "kana": "おふろはなんじまではいれますか。— よるじゅういちじまでです。あさはろくじからです。", "romaji": "Ofuro wa nanji made hairemasu ka. — Yoru jūichiji made desu. Asa wa rokuji kara desu.", "en": "Until what time can I use the bath? — Until 11 at night. In the morning, it opens at 6. [lit. the morning is from 6]" },
+        { "jp": "大浴場はどこですか。— 地下一階です。お部屋のタオルをお持ちください。", "kana": "だいよくじょうはどこですか。— ちかいっかいです。おへやのタオルをおもちください。", "romaji": "Daiyokujō wa doko desu ka. — Chika ikkai desu. Oheya no taoru o omochi kudasai.", "en": "Where is the large bath? — On the first basement floor. Please bring the towel from your room." },
+        { "jp": "浴衣を着てレストランに行ってもいいですか。— はい、大丈夫です。", "kana": "ゆかたをきてレストランにいってもいいですか。— はい、だいじょうぶです。", "romaji": "Yukata o kite resutoran ni itte mo ii desu ka. — Hai, daijōbu desu.", "en": "May I go to the restaurant in my yukata? — Yes, that's fine. [lit. may I put on the yukata and go to the restaurant?]" }
+      ],
+      "pitfalls": [
+        "Don't trust the curtain color: going in because the curtain is blue ✗ → reading 男 or 女 on it first ✓ — some places swap the baths.",
+        "Wash before you get in, not in the bath water: washing in the tub ✗ → washing and rinsing at the showers, then getting in ✓.",
+        "〜てもいいですか asks permission; 〜てください asks someone to do something: \"May I wear the yukata?\" → 浴衣を着てください ✗ (\"please wear the yukata\") → 浴衣を着てもいいですか ✓."
+      ],
+      "howToStudy": [
+        "Say the bath routine aloud as a chain of steps with the て form (lesson 06-2): 体を洗って、お風呂に入ります。 Then ask the hours: お風呂は何時まで入れますか。",
+        "Tap 🔬 on example 3: 浴衣を is OBJECT, 着て is …AND THEN (the first step), レストランに is DESTINATION and 行ってもいいですか the PREDICATE. Read from the end: may I go → where? to the restaurant → after doing what? putting on the yukata.",
+        "Kanji through vocabulary: add 男湯, 女湯, 大浴場 and 浴衣 to your SRS with Mining (⛏). 男 and 女 are the two kanji you must never mix up at a bath."
+      ],
+      "flag": null
+    }
+  ],
+  "media": [
+    { "order": 1, "kind": "video", "title": "JapanesePod101: Japanese phrases for checking in at a hotel", "where": "YouTube · JapanesePod101.com channel", "url": "", "search": "JapanesePod101 hotel check-in Japanese phrases", "when": "After situations a and b. Repeat each staff line aloud before the speaker translates it." },
+    { "order": 2, "kind": "reading", "title": "Irodori (Japan Foundation) — free course: a situational course for everyday life in Japan, with free audio. Look in its table of contents for the topics about where you live and daily routines; it is written for people living in Japan, so hotels are not its focus, but the requests and time questions are the same.", "where": "The Japan Foundation · Irodori: Japanese for Life in Japan (free textbooks and audio)", "url": "", "search": "Irodori Japanese for Life in Japan", "when": "Optional, whenever you want more short real-life exchanges to listen to." }
+  ],
+  "homework": {
+    "intro": "Do it by hand in your notebook, with the kanji you know and kana for the rest. Read every Japanese line aloud before you check it. Only then open the answer key, item by item. Circle what you got wrong and redo it the next day. The Travel Track has no Workbook pages.",
+    "tasks": [
+      {
+        "id": "h1",
+        "type": "complete",
+        "prompt": "Complete the dialogue: write the missing line in Japanese. The English in brackets tells you what to say.",
+        "items": [
+          { "q": "チェックインをお願いします。＿＿ (I'm Lucas; I have a reservation.)", "a": { "jp": "予約したルーカスです。", "kana": "よやくしたルーカスです。", "romaji": "Yoyaku shita Rūkasu desu." }, "note": "No 様 or さん on your own name." },
+          { "q": "チェックアウトは何時までですか。— ＿＿ (Until 11.)", "a": { "jp": "11時までです。", "kana": "じゅういちじまでです。", "romaji": "Jūichiji made desu." } },
+          { "q": "＿＿ — はい、大丈夫です。 (Ask whether you may leave your luggage.)", "a": { "jp": "荷物を預けてもいいですか。", "kana": "にもつをあずけてもいいですか。", "romaji": "Nimotsu o azukete mo ii desu ka." } },
+          { "q": "夕食は何時がよろしいですか。— ＿＿ (At 6:30, please.)", "a": { "jp": "6時半にお願いします。", "kana": "ろくじはんにおねがいします。", "romaji": "Rokuji han ni onegai shimasu." } },
+          { "q": "すみません、＿＿ (The TV won't turn on.)", "a": { "jp": "テレビがつきません。", "romaji": "Terebi ga tsukimasen." }, "note": "The broken thing takes が." }
+        ]
+      },
+      {
+        "id": "h2",
+        "type": "translate",
+        "prompt": "Translate into Japanese.",
+        "items": [
+          { "q": "Two more towels, please.", "a": { "jp": "タオルをもう二枚お願いします。", "kana": "タオルをもうにまいおねがいします。", "romaji": "Taoru o mō nimai onegai shimasu." } },
+          { "q": "Please tell me the Wi-Fi password.", "a": { "jp": "ワイファイのパスワードを教えてください。", "kana": "ワイファイのパスワードをおしえてください。", "romaji": "Waifai no pasuwādo o oshiete kudasai." }, "note": "On the card it will be written Wi-Fi; you say ワイファイ." },
+          { "q": "What time does breakfast start?", "a": { "jp": "朝食は何時からですか。", "kana": "ちょうしょくはなんじからですか。", "romaji": "Chōshoku wa nanji kara desu ka." } },
+          { "q": "Where is the women's bath?", "a": { "jp": "女湯はどこですか。", "kana": "おんなゆはどこですか。", "romaji": "Onnayu wa doko desu ka." }, "note": "どちらですか is a little more polite." },
+          { "q": "(Softly) Would you have a toothbrush?", "a": { "jp": "歯ブラシはありませんか。", "kana": "はブラシはありませんか。", "romaji": "Haburashi wa arimasen ka." }, "note": "The negative question is a modest way to ask, not a real negative." },
+          { "q": "May I take photos here?", "a": { "jp": "ここで写真を撮ってもいいですか。", "kana": "ここでしゃしんをとってもいいですか。", "romaji": "Koko de shashin o totte mo ii desu ka." } }
+        ]
+      },
+      {
+        "id": "h3",
+        "type": "comprehension",
+        "prompt": "You find these notices at a ryokan. What does each one say? Write it in English.",
+        "items": [
+          { "q": "大浴場：15時〜24時、6時〜10時", "a": { "en": "Large bath: open 3 p.m. to midnight, and 6 to 10 a.m." } },
+          { "q": "タオルをお湯に入れないでください。", "a": { "en": "Please don't put your towel in the bath water." }, "note": "〜ないでください = \"please don't…\" (lesson 08-3)." },
+          { "q": "撮影禁止", "a": { "en": "No photos." } },
+          { "q": "夕食は18時からです。一階の食事処へお越しください。", "a": { "en": "Dinner is from 6 p.m. Please come to the dining room on the ground floor." }, "note": "お越しください is a very polite \"please come\"." },
+          { "q": "お部屋ではスリッパをお脱ぎください。", "a": { "en": "Please take off your slippers in the room." } }
+        ]
+      },
+      {
+        "id": "h4",
+        "type": "produce",
+        "prompt": "Written role-play: you arrive at a ryokan. Write 8–10 lines with the staff: check-in, dinner time, the bath hours, one request and one permission question. Then read it aloud in two voices and record it.",
+        "items": [
+          { "q": "Model (match its structure, not its words):", "a": { "jp": "チェックインをお願いします。予約したルーカスです。— ルーカス様ですね。パスポートをお願いします。夕食は何時がよろしいですか。— 7時にお願いします。お風呂は何時まで入れますか。— 夜12時までです。すみません、タオルをもう一枚お願いします。— かしこまりました。浴衣を着て食事処に行ってもいいですか。— はい、大丈夫です。", "kana": "チェックインをおねがいします。よやくしたルーカスです。— ルーカスさまですね。パスポートをおねがいします。ゆうしょくはなんじがよろしいですか。— しちじにおねがいします。おふろはなんじまではいれますか。— よるじゅうにじまでです。すみません、タオルをもういちまいおねがいします。— かしこまりました。ゆかたをきてしょくじどころにいってもいいですか。— はい、だいじょうぶです。", "romaji": "Chekkuin o onegai shimasu. Yoyaku shita Rūkasu desu. — Rūkasu-sama desu ne. Pasupōto o onegai shimasu. Yūshoku wa nanji ga yoroshii desu ka. — Shichiji ni onegai shimasu. Ofuro wa nanji made hairemasu ka. — Yoru jūniji made desu. Sumimasen, taoru o mō ichimai onegai shimasu. — Kashikomarimashita. Yukata o kite shokujidokoro ni itte mo ii desu ka. — Hai, daijōbu desu.", "en": "I'd like to check in. I'm Lucas; I have a reservation. — Mr. Lucas, right? Your passport, please. What time would you like dinner? — At 7, please. Until what time can I use the bath? — Until midnight. Excuse me, one more towel, please. — Certainly. May I go to the dining room in my yukata? — Yes, that's fine." }, "note": "Check: no 様 on your own name, に after the time you choose, まで for the closing time, もう right before the number, and 〜てもいいですか for permission." }
+        ]
+      }
+    ],
+    "workbook": []
+  },
+  "practice": [
+    { "tool": "Role-play", "what": "Out loud, both roles: the front desk and the guest. Run the whole stay — check-in, a meal time, the bath hours, one request, one problem (〜がつきません), one permission question. If you study with someone, swap roles.", "min": 10 },
+    { "tool": "Speaking", "what": "Record your homework h4 in two voices. Listen back: did you say your name without 様? Is 7時 しちじ? Record it again in a few days and compare.", "min": 5 },
+    { "tool": "Shadowing", "what": "Tap 🔊 on each example and repeat along 3 times, copying the staff's polite rhythm: かしこまりました, 少々お待ちください, お持ちください. You don't need to say these yourself — you need to recognize them at once.", "min": 5 },
+    { "tool": "Reading real Japanese", "what": "Open the Japanese page of a ryokan you would like to stay at, with a pop-up dictionary such as Yomitan. Find チェックイン, 夕食, 朝食 and 大浴場 and their times. Save 2 new words with Mining (⛏), each inside a sentence from the page, so they come back in your SRS.", "min": 10 },
+    { "tool": "ヅオリンゴー · Journal", "what": "Write 5 requests of your own for a hotel (もう一枚, 教えてください, 〜がつきません, 〜はありませんか, 〜てもいいですか). Open \"Anatomy of what I wrote\" and check that each thing you ask for is an OBJECT (を) and each broken thing a SUBJECT (が).", "min": 10 }
+  ],
+  "culture": {
+    "title": "Wearing a yukata (left over right)",
+    "titleJp": "浴衣の着方",
+    "body": "At ryokan and onsen hotels, a cotton **浴衣** (ゆかた) is usually left in the room for you to wear after the bath, around the inn and to sleep in. Put it on with the **left side over the right**: the right panel goes against your body first, then the left panel covers it — for everyone, men and women alike. The opposite, right over left, is how the dead are dressed for a funeral, so it is the one mistake people will notice. Tie the sash (帯, おび) around your waist; men usually tie it lower, around the hips. In many onsen towns people also stroll outside in yukata, but some hotels ask guests not to wear it in the lobby or the restaurant, so check the house rules. When it is cold, a padded jacket (羽織, はおり, or 丹前, たんぜん) often goes on top.",
+    "try": "Practice the direction at home with a bathrobe or a jacket: right panel in, left panel over. Say it as you do it: 右を先に、左を上に。 Then ask the permission question of situation d aloud: 浴衣を着てレストランに行ってもいいですか。"
+  },
+  "checklist": [
+    "I can check in with チェックインをお願いします。予約した[my name]です。 without looking, and I never put 様 on my own name.",
+    "I can ask when things start and end with 何時から and 何時まで, and understand the answer.",
+    "I can ask for one more of something (もう一枚), for the Wi-Fi password (教えてください), and say that something doesn't work (〜がつきません).",
+    "I can choose a meal time at a ryokan (7時にお願いします) and I read 7時 as しちじ.",
+    "I can ask permission with 〜てもいいですか and understand both はい、大丈夫です and すみません、ちょっと…",
+    "I know the bath rules — wash first, towel out of the water, read 男 and 女 — and I wear a yukata left over right.",
+    "I did the homework, checked it against the answer key and redid what I got wrong."
+  ],
+  "credits": [
+    "Explanations adapted in part from Sakubi (public domain, CC0) — sakubi.neocities.org",
+    "Study method informed by the DJT Guide to Japanese — djtguide.neocities.org/guide"
+  ]
+}

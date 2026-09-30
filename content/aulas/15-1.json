@@ -17,7 +17,7 @@
       { "t": "Warm-up: say the dictionary form and the 〜ましょう form of 8 verbs out loud (lessons 05-3 and 08-1), naming the type of each one (る-verb, う-verb or irregular)", "min": 5 },
       { "t": "Vocabulary: tap 🔊 on each word and repeat it twice", "min": 10 },
       { "t": "Grammar: the 3 points, each with its examples read aloud and one 🔬", "min": 25 },
-      { "t": "Lesson 15 video (block 6), only the part on the volitional form", "min": 10 },
+      { "t": "Block 6: the Lesson 15 video (only the part on the volitional form) or the Sakubi sections, as a second explanation — read to understand, not to memorize", "min": 10 },
       { "t": "Notebook homework + checking it against the answer key", "min": 15 },
       { "t": "Checklist (block 10) + write your questions in the lesson notebook", "min": 5 }
     ]
@@ -63,7 +63,7 @@
       "gc": null,
       "title": "Forming it: 見よう, 飲もう, しよう, 来よう",
       "gloss": "the volitional form: casual \"let's…!\"",
-      "explanation": "The **volitional form** is the casual version of 〜ましょう (lesson 05-3): it is the \"let's…!\" you say to friends and family. The name comes from \"volition\", your will: it also expresses **your will to do something**, and that is why it will help you talk about plans in point c. Like almost every new form, it comes from the **dictionary form** (lesson 08-1), and the verb type decides the path.\n• **る-verbs**: drop る and add **よう**. 食べ|る → 食べ|よう; 見る → 見よう; 起きる → 起きよう.\n• **う-verbs**: change the final **u** to the **o** of the same kana row and add **う**. 行く (ik**u**) → 行こう (ik**ō**); 飲む → 飲もう; 話す → 話そう; 待つ → 待とう; 帰る → 帰ろう; およぐ → およごう; あそぶ → あそぼう. Verbs ending in う go to お: 買う → 買おう; 手伝う → 手伝おう.\n• **Irregular verbs**: **する → しよう** (勉強する → 勉強しよう) and **来る → 来よう**, read こよう, with こ.\n• **The final う is a long sound.** 行こう is read i-ko-o, three equal beats, and romaji marks it with a macron: ikō. It is the same long vowel as in ありがとう.\n• Quick clue: the volitional of an う-verb always ends in **-ō** (-kō, -mō, -rō…); the volitional of a る-verb always ends in **-yō**.\n• In the sentence, the volitional is the **PREDICATE**, at the end, in the same slot as ましょう. Nothing else changes: [when] [with whom] [where] [what] + volitional.",
+      "explanation": "The **volitional form** is the casual version of 〜ましょう (lesson 05-3): it is the \"let's…!\" you say to friends and family. The name comes from \"volition\", your will: it also expresses **your will to do something**, and that is why it will help you talk about plans in point c. Like almost every new form, it comes from the **dictionary form** (lesson 08-1), and the verb type decides the path.\n• **る-verbs**: drop る and add **よう**. 食べ|る → 食べ|よう; 見る → 見よう; 起きる → 起きよう.\n• **う-verbs**: change the final **u** to the **o** of the same kana row and add **う**. 行く (ik**u**) → 行こう (ik**ō**); 飲む → 飲もう; 話す → 話そう; 待つ → 待とう; 帰る → 帰ろう; およぐ → およごう; あそぶ → あそぼう. Verbs ending in う go to お: 買う → 買おう; 手伝う → 手伝おう.\n• **Why the vowel changes.** A る-verb is a \"one-form\" verb: the part before る never changes, and every ending is glued onto it (食べ|ない, 食べ|ます, 食べ|よう). An う-verb is a \"five-form\" verb: its last kana walks along the five vowels of its row — 行か(ない), 行き(ます), 行く, 行け(る) (lesson 13-1), 行こ(う). The volitional is the last stop: the **o** row.\n• **Irregular verbs**: **する → しよう** (勉強する → 勉強しよう) and **来る → 来よう**, read こよう, with こ.\n• **The final う is a long sound.** 行こう is read i-ko-o, three equal beats, and romaji marks it with a macron: ikō. It is one long ō, not お and う said separately — the same long vowel as in ありがとう.\n• Quick clue: the volitional of an う-verb always ends in **-ō** (-kō, -mō, -rō…); the volitional of a る-verb always ends in **-yō**.\n• In the sentence, the volitional is the **PREDICATE**, at the end, in the same slot as ましょう. Nothing else changes: [when] [with whom] [where] [what] + volitional.\n• Going further (Sakubi): です and だ have a volitional too — **でしょう** and **だろう** (lesson 12-3). With them, the form doesn't invite anyone; it guesses: あしたは雨でしょう = \"it will probably rain tomorrow\".",
       "structure": "る-verbs: [stem] + よう · う-verbs: u → o + う · する → しよう · 来る → 来よう (こよう)",
       "examples": [
         { "jp": "週末、いっしょに映画を見よう。", "kana": "しゅうまつ、いっしょにえいがをみよう。", "romaji": "Shūmatsu, issho ni eiga o miyō.", "en": "Let's watch a movie together this weekend." },
@@ -74,10 +74,10 @@
         "Don't add よう after a whole う-verb: 飲むよう ✗ → 飲もう ✓. よう belongs only to る-verbs; with う-verbs, the last syllable itself changes.",
         "帰る and 入る end in る, but they are う-verbs: 帰よう ✗ → 帰ろう ✓ (かえ|る → かえ|ろう); 入よう ✗ → 入ろう ✓.",
         "来る becomes こよう, with こ: きよう ✗, くよう ✗ → 来よう (こよう) ✓. And する becomes しよう: するよう ✗ → しよう ✓.",
-        "In writing, keep the long う: 行こ ✗ in your homework → 行こう ✓. In messages between friends you will see 行こ！ or 帰ろ！, without the う. That is very informal: recognize it, but don't copy it."
+        "Keep the long う, in writing and in speech: 行こ ✗ in your homework → 行こう ✓; and say one long ō: i-ko-u, with お and う apart ✗ → i-kō ✓. In messages between friends you will see 行こ！ or 帰ろ！, without the う. That is very informal: recognize it, but don't copy it."
       ],
       "howToStudy": [
-        "Make a table in your notebook with 12 verbs (4 る-verbs, 6 う-verbs, する and 来る) in three columns: dictionary form → 〜ましょう → volitional. Read it aloud, line by line: 飲む → 飲みましょう → 飲もう. Mark 帰る and 入る in color.",
+        "Make a table in your notebook with 12 verbs (4 る-verbs, 6 う-verbs, する and 来る) in three columns: dictionary form → 〜ましょう → volitional. Read it aloud, line by line: 飲む → 飲みましょう → 飲もう. Mark 帰る and 入る in color. Tomorrow, and again a few days later, cover the last column and redo it from memory.",
         "Tap 🔬 on example 2. The first sentence has its own ★ PREDICATE (九時だ); in the second, そろそろ shows up as HOW / HOW OFTEN and 帰ろう as ★ PREDICATE, of the invitation / suggestion kind — the same kind as 〜ましょう. The volitional simply took the place of ましょう.",
         "Say 6 invitations to a friend out loud, each with a different type of verb: 映画を見よう、コーヒーを飲もう、ゲームをしよう、公園であそぼう…"
       ],
@@ -97,9 +97,9 @@
       ],
       "pitfalls": [
         "The volitional is casual. With your teacher: 先生、いっしょに写真をとろう ✗ → 先生、いっしょに写真をとりましょう ✓ (or とりませんか).",
-        "The volitional includes you: it means \"let's\" or \"I'll\", never an order. 早くねよう = \"let's go to bed early\" (or \"I'll go to bed early\"). To ask a friend to do something, use the て-form, the casual version of 〜てください: 早くねて ✓.",
-        "〜ようよ pushes a little. With someone who may not be able to come, ask first: カラオケ、行かない？ (the casual version of 〜ませんか), and save 行こう for after the yes.",
-        "何を食べようか asks what we will do together, not what the other person wants. To ask what they want, use 〜たい (lesson 11-1): 何が食べたい？ ✓."
+        "The volitional includes you: it means \"let's\" or \"I'll\", never an order. (telling a friend to go to bed early) 早くねよう ✗ (that is \"let's go to bed early\" or \"I'll go to bed early\") → 早くねて ✓ (the て-form, the casual version of 〜てください).",
+        "〜ようよ pushes a little. (a first invitation to a friend who may be busy) カラオケに行こうよ ✗ (too pushy as a first question) → カラオケ、行かない？ ✓ (the casual version of 〜ませんか). Save 行こう for after the yes.",
+        "何を食べようか asks what we will do together, not what the other person wants. (you are treating a friend and want to know what THEY would like) 何を食べようか ✗ (a joint decision: \"what shall we eat?\") → 何が食べたい？ ✓ (〜たい, lesson 11-1)."
       ],
       "howToStudy": [
         "Say each example out loud in polite speech: 何を食べましょうか → ラーメンを食べに行きましょう; 持ちましょうか; カラオケに行きましょう. Then go back to the casual version and notice that only the ending changes.",
@@ -113,7 +113,7 @@
       "gc": null,
       "title": "Plans: 〜ようと思っています (vs. つもり)",
       "gloss": "I'm thinking of…, I plan to…",
-      "explanation": "To talk about a plan, attach **と思っています** to the volitional: 行こう + と思っています = \"I'm thinking of going\", \"I plan to go\". The logic is the one from lesson 08-2: と marks **what is thought**, and here the thought is \"I'll do X\".\n• **〜ようと思っています**: a plan you **have been thinking about** for a while. The ている shows that the idea is still in your head. It is the most common way to talk about plans: 来年、日本で働こうと思っています。\n• **〜ようと思います**, without ている: it sounds like a decision made **right now**, as you speak, like \"I think I'll…\": じゃあ、今日は早くねようと思います。\n• **Someone else's plan**: always use **〜ようと思っています**: マリアさんは、来月ひっこそうと思っています。 With 思います, the sentence can only talk about what you yourself think.\n• **The sentence stays polite.** The volitional sits inside the quote, and the ending decides the register: 思っています is polite; 思ってる is casual (ている → てる).\n\n**Three sentences that look alike:**\n• 行こうと思っています = \"I'm thinking of going\" (**my plan**).\n• 行くと思います = \"I think [he] will go\" (**an opinion**, lesson 08-2). The only difference is the verb form: volitional vs. dictionary form.\n• 行くつもりです = \"I intend to go\" (**an intention**, lesson 10-2). つもり comes after the dictionary form and usually sounds firmer, like a decision already made. 〜ようと思っています sounds more like \"I'm thinking of\", a plan that can still change. In practice, both work for talking about plans.\n• For **negative** plans (\"I plan not to…\"), use 〜ないつもりです: 今日は飲まないつもりです. The volitional has almost no negative in everyday speech.\n• In the sentence, 思っています is the ★ PREDICATE, and the volitional + と block is the **QUOTE**: the content of the plan. What comes before it (when, where, with whom) is part of the plan.",
+      "explanation": "To talk about a plan, attach **と思っています** to the volitional: 行こう + と思っています = \"I'm thinking of going\", \"I plan to go\". The logic is the one from lesson 08-2: と marks **what is thought**, and here the thought is \"I'll do X\". Literally, 行こうと思っています is \"I'm thinking 'I'll go!'\": you are quoting your own will, and that is why the quote has to be in the volitional.\n• **〜ようと思っています**: a plan you **have been thinking about** for a while. The ている shows that the idea is still in your head. It is the most common way to talk about plans: 来年、日本で働こうと思っています。\n• **〜ようと思います**, without ている: it sounds like a decision made **right now**, as you speak, like \"I think I'll…\" or \"I figure I should…\": じゃあ、今日は早くねようと思います。\n• **Someone else's plan**: always use **〜ようと思っています**: マリアさんは、来月ひっこそうと思っています。 With 思います, the sentence can only talk about what you yourself think.\n• **The sentence stays polite.** The volitional sits inside the quote, and the ending decides the register: 思っています is polite; 思ってる is casual (ている → てる).\n\n**Three sentences that look alike:**\n• 行こうと思っています = \"I'm thinking of going\" (**my plan**).\n• 行くと思います = \"I think [he] will go\" (**an opinion**, lesson 08-2). The only difference is the verb form: volitional vs. dictionary form.\n• 行くつもりです = \"I intend to go\" (**an intention**, lesson 10-2). つもり comes after the dictionary form and usually sounds firmer, like a decision already made. 〜ようと思っています sounds more like \"I'm thinking of\", a plan that can still change. In practice, both work for talking about plans.\n• For **negative** plans (\"I plan not to…\"), use 〜ないつもりです: 今日は飲まないつもりです. The volitional has almost no negative in everyday speech.\n• In the sentence, 思っています is the ★ PREDICATE, and the volitional + と block is the **QUOTE**: the content of the plan. What comes before it (when, where, with whom) is part of the plan.\n• Going further (Sakubi): Japanese does have a negative volitional, **まい**: 行くまい = \"I'm determined not to go\". It sounds formal or literary, so you will meet it mostly in writing; for your own negative plans, keep 〜ないつもりです.",
       "structure": "[volitional] と思っています (a plan I've been thinking about) · [volitional] と思います (a decision made now) · vs. [dictionary form] つもりです",
       "examples": [
         { "jp": "来年、日本で働こうと思っています。", "kana": "らいねん、にほんではたらこうとおもっています。", "romaji": "Rainen, Nihon de hatarakō to omotte imasu.", "en": "I'm thinking of working in Japan next year." },
@@ -192,9 +192,9 @@
     "workbook": []
   },
   "practice": [
-    { "tool": "Wagotabi", "what": "Play normally, preferably in an N4-level area if you have reached one. Hunt the dialogues for volitionals: endings in 〜おう / 〜よう (行こう, 見よう, しよう) and plans with 〜ようと思って. When you find one, say out loud the matching polite form (行きましょう) or, if it's a plan, what the character intends to do. Log the session in Immersion → Games and paste one of those lines into 🔬 Anatomy.", "min": 15 },
-    { "tool": "ヅオリンゴー", "what": "Drills → Conjugation: warm up with the dictionary form, the base of the volitional. Then Drills → 🔬 Anatomy → 🧱 Build from the end with example 1 of point c, starting from 思っています.", "min": 10 },
-    { "tool": "Journal", "what": "In the ヅオリンゴー Journal, write 3 true plans with 〜ようと思っています and 1 with 〜つもりです. Open \"Anatomy of what I wrote\" and check that the volitional + と block shows up as QUOTE.", "min": 10 },
+    { "tool": "Wagotabi", "what": "Play normally, preferably in an N4-level area if you have reached one. Hunt the dialogues for volitionals: endings in 〜おう / 〜よう (行こう, 見よう, しよう) and plans with 〜ようと思って. When you find one, say out loud the matching polite form (行きましょう) or, if it's a plan, what the character intends to do. Log the session in Immersion → Games, paste one of those lines into 🔬 Anatomy, then save it with ⛏ Mining (mark one new word and fill it in with the 📖 Dictionary button), so the sentence comes back in your reviews.", "min": 15 },
+    { "tool": "ヅオリンゴー", "what": "Reviews first: clear 🌊 All. Then add the block 3 words that are not in your deck yet (旅行, 計画, 留学する, 働く, ひっこす…) with ⛏ Mining — as whole words, so each kanji arrives with a reading and a meaning. If a kanji won't stick, split it into parts: 休 = 亻 (person) + 木 (tree), someone resting against a tree. Last, type one true plan into the Journal (〜ようと思っています) and check in \"Anatomy of what I wrote\" that the volitional + と block shows up as QUOTE.", "min": 10 },
+    { "tool": "Reading", "what": "Real Japanese, early: Resources tab → Tadoku's free graded readers, one level 1 or 2 story (or an easy manga you own, such as よつばと!). Read it once, for the story. Characters invite each other and make plans all the time: note every 〜おう / 〜よう ending you meet. Look up only the words that block the story.", "min": 10 },
     { "tool": "Shadowing", "what": "Tap 🔊 on each example in this lesson and repeat along 3 times. Hold the long sound at the end: か・え・ろ・う is 4 beats, and ろう must not shrink to ろ.", "min": 5 },
     { "tool": "Speaking", "what": "Record your answer to homework h4 in 30 seconds or less, like a voice message to your friend. Listen and check that the plans came out with the volitional (〜おう / 〜よう), not the dictionary form.", "min": 5 }
   ],
@@ -205,7 +205,7 @@
     "try": "Imagine you are in a はん in Kyoto, planning your free afternoon. Write 3 casual lines with the volitional (おてらに行こう！, お昼は何を食べようか。…) and 1 polite sentence telling the teacher what the group plans to do, with 〜ようと思っています."
   },
   "checklist": [
-    "I can make the volitional of any verb without looking: る → よう, う → o + う, する → しよう, 来る → 来よう.",
+    "I can make the volitional of any verb without looking (る → よう, う → o + う, する → しよう, 来る → 来よう) and say its final ō as one long sound.",
     "I remember that 帰る and 入る are う-verbs: 帰ろう, 入ろう.",
     "I can invite a friend with 〜よう(よ), ask with 〜ようか and offer to help (持とうか).",
     "I know the volitional is casual, and I switch to 〜ましょう with a teacher or a boss.",
@@ -213,5 +213,9 @@
     "I can tell apart 行こうと思っています (a plan), 行くと思います (an opinion) and 行くつもりです (an intention).",
     "I did the homework, checked it against the answer key and redid what I got wrong.",
     "If I have the Genki II Workbook: I did the exercises on the volitional form and on 〜ようと思っています."
+  ],
+  "credits": [
+    "Explanations adapted in part from Sakubi (public domain, CC0) — sakubi.neocities.org",
+    "Study method informed by the DJT Guide to Japanese — djtguide.neocities.org/guide"
   ]
 }

@@ -18,7 +18,7 @@
       { "t": "Vocabulary: tap 🔊 on each word and repeat it twice", "min": 10 },
       { "t": "Grammar 4a (〜ほうが いいです): the examples aloud + one 🔬", "min": 15 },
       { "t": "Grammar 4b (〜ので): the examples aloud + one 🔬", "min": 10 },
-      { "t": "Lesson 12 video (block 6), pausing on the examples", "min": 10 },
+      { "t": "Block 6: the Lesson 12 video or the Sakubi section, as a second explanation (read to understand, not to memorize)", "min": 10 },
       { "t": "Notebook homework + checking it against the answer key", "min": 15 },
       { "t": "Checklist (block 10) + write your questions in the lesson notebook", "min": 5 }
     ]
@@ -65,7 +65,7 @@
       "gc": "12-3",
       "title": "〜ほうが いいです",
       "gloss": "you'd better (do / not do)",
-      "explanation": "This is the standard way to **give advice**. ほう means \"side, alternative\", the same ほう as in the comparison 〜のほうが (lesson 10-1). Literally, the sentence says \"the side of [action] is good\".\n• **Positive advice**: the verb in the **short past (た)** + ほうが いいです. 休む → 休んだ ほうが いいです (\"you'd better rest\").\n• **Negative advice**: the verb in the **ない-form** + ほうが いいです. 飲む → 飲まない ほうが いいです (\"you'd better not drink\"). There is **no** past here: never なかった.\n• **Why the past in positive advice?** This た does not talk about yesterday; it is a convention of the expression. The most common explanation is that you picture the situation **with the action already done** (\"having rested is best\"), which makes the advice more concrete and direct. You will also hear the dictionary form (休む ほうが いい), but to advise someone the standard form, and the one Genki teaches, is た.\n• The blocks: [休んだ] describes ほう, as in the sentences that describe nouns (lesson 09-2). [休んだ ほうが] is the subject, with が, and **いいです is the predicate**. Read from the end: \"is good\" → what? → having rested.\n• To **ask for** advice, just make it a question: 〜た ほうが いいですか。\n• It is **strong, direct** advice, a lot like English \"you'd better\". Among friends it often comes with よ (〜ほうが いいですよ). With a teacher or a boss, soften it: 〜ほうが いいと 思います (lesson 08-2).",
+      "explanation": "This is the standard way to **give advice**. ほう means \"side, alternative\", the same ほう as in the comparison 〜のほうが (lesson 10-1). Literally, the sentence says \"the side of [action] is good\".\n• **Positive advice**: the verb in the **short past (た)** + ほうが いいです. 休む → 休んだ ほうが いいです (\"you'd better rest\").\n• **Negative advice**: the verb in the **ない-form** + ほうが いいです. 飲む → 飲まない ほうが いいです (\"you'd better not drink\"). There is **no** past here: never なかった.\n• **Why the past in positive advice?** This た does not talk about yesterday; it is a convention of the expression. The most common explanation is that you picture the situation **with the action already done** (\"having rested is best\"), which makes the advice more concrete and direct. You will also hear the dictionary form (休む ほうが いい), but to advise someone the standard form, and the one Genki teaches, is た.\n• The blocks: [休んだ] describes ほう, as in the sentences that describe nouns (lesson 09-2). [休んだ ほうが] is the subject, with が, and **いいです is the predicate**. Read from the end: \"is good\" → what? → having rested.\n• To **ask for** advice, just make it a question: 〜た ほうが いいですか。\n• It is **strong, direct** advice, a lot like English \"you'd better\". It often comes with よ, which makes it sound friendly and caring: 〜ほうが いいですよ; among friends, in short forms, 〜ほうが いいよ. With a teacher or a boss, soften it: 〜ほうが いいと 思います (lesson 08-2).",
       "structure": "[verb た] ほうが いいです · [verb ない] ほうが いいです",
       "examples": [
         { "jp": "ねつが ありますね。きょうは 早く 帰った ほうが いいですよ。", "kana": "ねつが ありますね。きょうは はやく かえった ほうが いいですよ。", "romaji": "Netsu ga arimasu ne. Kyō wa hayaku kaetta hō ga ii desu yo.", "en": "You have a fever, don't you? You'd better go home early today. [lit. as for today, the side of having gone home early is good]" },
@@ -90,7 +90,7 @@
       "gc": "12-4",
       "title": "〜ので",
       "gloss": "since…, so… (a soft reason)",
-      "explanation": "ので gives **the reason**, like から (lesson 06-4), and it sits in the same place: **reason first, result after**. [reason] ので、[result].\n• Formation: **short form + ので**. かぜを ひいた → ひいたので; 来なかった → 来なかったので; いたい → いたいので.\n• With **nouns and な-adjectives** in the present affirmative, だ becomes **な**, the same change as in 〜んです: テストなので, 好きなので. In the past there is no change: テストだったので.\n• **ので × から**: ので presents the reason as a fact, something that simply \"is so\", so it sounds **softer, more objective and more polite**. It is the natural choice when you apologize, ask for something, or explain something to a teacher or a boss. から sounds more personal and direct: it is fine among friends, but in a formal request it can sound insistent.\n• In very formal speech you will even hear 〜ますので. For now, use the short form.\n• The blocks: everything before ので is the **reason clause**, with its own predicate. The **main predicate is at the end**, after the comma. Read the end first (\"may I rest?\") and then the why.",
+      "explanation": "ので gives **the reason**, like から (lesson 06-4), and it sits in the same place: **reason first, result after**. [reason] ので、[result].\n• Formation: **short form + ので**. かぜを ひいた → ひいたので; 来なかった → 来なかったので; いたい → いたいので.\n• With **nouns and な-adjectives** in the present affirmative, だ becomes **な**, the same change as in 〜んです: テストなので, 好きなので. In the past there is no change: テストだったので.\n• **Why the same change?** ので is related to 〜んです (lesson 12-1): both contain the noun-like の. That is why both turn だ into な (病気なんです, 病気なので), and why both carry the feeling \"this is the background, the reason\".\n• **ので × から**: ので presents the reason as a fact, something that simply \"is so\", with less emphasis — it can just link two facts that happen to be cause and effect. So it sounds **softer, more objective and more polite**. It is the natural choice when you apologize, ask for something, or explain something to a teacher or a boss. から sounds more personal and direct: it is fine among friends, but in a formal request it can sound insistent.\n• In very formal speech you will even hear 〜ますので. For now, use the short form.\n• The blocks: everything before ので is the **reason clause**, with its own predicate. The **main predicate is at the end**, after the comma. Read the end first (\"may I rest?\") and then the why.\n• **Going further (Sakubi):** から can also open a sentence, as だから (plain) or ですから (polite): \"so, that's why\". ねつが あります。ですから、きょうは 休みます。 = \"I have a fever. So I'm taking today off.\"",
       "structure": "[reason · short form] ので、[result] · [N / な-adj] なので",
       "examples": [
         { "jp": "ペドロさんは サッカーが 好きなので、よく テレビで しあいを 見ます。", "kana": "ペドロさんは サッカーが すきなので、よく テレビで しあいを みます。", "romaji": "Pedoro-san wa sakkā ga suki na node, yoku terebi de shiai o mimasu.", "en": "Pedro likes soccer, so he often watches games on TV." },
@@ -100,6 +100,7 @@
       "pitfalls": [
         "With nouns and な-adjectives, use な, not だ: テストだので ✗ → テストなので ✓; 好きので ✗ → 好きなので ✓. With から it is the opposite: テストだから.",
         "ので does not close a sentence with です. To answer どうして, use から: かぜを ひいたのでです。 ✗ → かぜを ひいたからです。 ✓.",
+        "ので is glued to the end of the reason; it can't open a new sentence on its own. ねつが あります。ので、休みます。 ✗ → ねつが あるので、休みます。 ✓, or ねつが あります。ですから、休みます。 ✓.",
         "The order is reason → result, the reverse of English \"because\", which usually comes second. \"I went home by taxi because the bus didn't come\" starts with the bus in Japanese: バスが 来なかったので、タクシーで 帰りました。"
       ],
       "howToStudy": [
@@ -171,11 +172,11 @@
     ]
   },
   "practice": [
-    { "tool": "Wagotabi", "what": "Play normally and hunt for ので and から in the dialogues. When a character gives a reason, pause and say out loud which part is the reason and which is the result. If ほうが いい (or ほうが いいよ) shows up, copy that line into your notebook.", "min": 15 },
-    { "tool": "ヅオリンゴー", "what": "Lesson 12 vocabulary in the SRS and Practice L12. Then Drills → Conjugation with the た- and ない-forms, which are the base of advice.", "min": 10 },
+    { "tool": "Wagotabi", "what": "Play normally and hunt for ので and から in the dialogues. When a character gives a reason, pause and say out loud which part is the reason and which is the result. If ほうが いい (or ほうが いいよ) shows up, copy that line into your notebook and save it in Mining, with every word looked up.", "min": 15 },
+    { "tool": "ヅオリンゴー", "what": "Lesson 12 vocabulary in the SRS and Practice L12. Then Drills → Conjugation with the た- and ない-forms, which are the base of advice. Clear the day's reviews in 🌊 All before adding new cards.", "min": 10 },
     { "tool": "ヅオリンゴー · Journal", "what": "In the Journal, write 3 pieces of advice for yourself with ほうが いい, about studying or health, each with a reason in ので. Then open \"Anatomy of what I wrote\" and check where the predicate of each sentence is.", "min": 10 },
-    { "tool": "Shadowing", "what": "Tap 🔊 on each example in this lesson and repeat along 3 times. Notice the よ in 〜ほうが いいですよ: it is what makes the advice sound friendly.", "min": 5 },
-    { "tool": "Speaking", "what": "Record the homework advice (h4) as if it were a voice message to your Japanese friend, in 40 seconds or less.", "min": 5 }
+    { "tool": "Reading", "what": "Resources tab → Tadoku's free graded readers: read one level-1 or level-2 story for the gist. Hunt for ので and から: for each one, find the reason (before it) and the result (after it). Don't look up every word — follow the story.", "min": 10 },
+    { "tool": "Shadowing + speaking", "what": "Tap 🔊 on each example in this lesson and repeat along 3 times; notice the よ in 〜ほうが いいですよ, which makes the advice sound friendly. Then record the homework advice (h4) as if it were a voice message to your Japanese friend, in 40 seconds or less.", "min": 10 }
   ],
   "culture": {
     "title": "The evening bath (おふろ)",
@@ -188,9 +189,13 @@
     "I can explain why positive advice uses た, and I never say 〜なかった ほうが.",
     "I tell advice (バスで 行った ほうが いい) apart from comparison (バスの ほうが いい).",
     "I join a reason and a result with ので, always in the order reason → result.",
-    "I use なので with nouns and な-adjectives (しけんなので, 好きなので).",
+    "I use なので with nouns and な-adjectives (しけんなので, 好きなので) and can say why it is the same な as in 〜なんです.",
     "I know when ので sounds better than から (a request to a teacher), and I answer どうして with 〜からです.",
     "I did the homework, checked it against the answer key and redid what I got wrong.",
     "I did Workbook pages 113–114."
+  ],
+  "credits": [
+    "Explanations adapted in part from Sakubi (public domain, CC0) — sakubi.neocities.org",
+    "Study method informed by the DJT Guide to Japanese — djtguide.neocities.org/guide"
   ]
 }

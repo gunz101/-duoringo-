@@ -62,7 +62,7 @@
       "gc": "10-3",
       "title": "Adjective / noun + の",
       "gloss": "\"the red one\", \"yesterday's\"",
-      "explanation": "When the noun is already clear, from the conversation or because it is right in front of you, Japanese doesn't repeat it: it replaces it with **の**. It works like English **\"one\"** in \"the red one\" or \"a cheaper one\".\n• い-adjective + の: あかい くつ → **あかいの** (\"the red one\"); 高い かばん → **高いの** (\"the expensive one\").\n• な-adjective + **な** + の: きれいな シャツ → **きれいなの** (\"the pretty one\"). The な stays.\n• Noun + の: きのうの しんぶん → **きのうの** (\"yesterday's\"); マリアさんの かさ → **マリアさんの** (\"Maria's\"). The linking の (lesson 01-1) stays, and the second noun simply drops — just like English \"Maria's\" with no \"umbrella\" after it.\nAfter the の comes whatever particle the block needs, as if the noun were still there: あかいのを 買いました (OBJECT), あかいのが すきです (SUBJECT), あかいのは いくらですか (TOPIC). **The adjective + の block does the job of the noun that disappeared.**",
+      "explanation": "When the noun is already clear, from the conversation or because it is right in front of you, Japanese doesn't repeat it: it replaces it with **の**. It works like English **\"one\"** in \"the red one\" or \"a cheaper one\". This の is a tiny **placeholder noun**, so it attaches exactly the way a noun does:\n• い-adjective + の: あかい くつ → **あかいの** (\"the red one\"); 高い かばん → **高いの** (\"the expensive one\").\n• な-adjective + **な** + の: きれいな シャツ → **きれいなの** (\"the pretty one\"). The な stays, because a な-adjective always takes な before a noun (lesson 05-1), and this の counts as a noun.\n• Noun + の: きのうの しんぶん → **きのうの** (\"yesterday's\"); マリアさんの かさ → **マリアさんの** (\"Maria's\"). The linking の (lesson 01-1) stays, and the second noun simply drops — just like English \"Maria's\" with no \"umbrella\" after it.\nAfter the の comes whatever particle the block needs, as if the noun were still there: あかいのを 買いました (OBJECT), あかいのが すきです (SUBJECT), あかいのは いくらですか (TOPIC). **The adjective + の block does the job of the noun that disappeared.** Paste the first example into 🔬 and you can see it: あおい shows up as DESCRIBES NEXT and のは as the TOPIC — the の is the noun.\n• **Going further (Sakubi):** もの and こと are the full words for \"thing\": もの for things you can touch (つめたい もの, \"something cold\"), こと for intangible things such as actions and facts. The placeholder の can stand in for both kinds, which is why it is the same の as in みるのが すき (lesson 08-3): there it stands for an action (\"watching\"), here for a thing (\"the red one\").",
       "structure": "[い-adjective] の · [な-adjective] な の · [noun] の (in place of a noun already known)",
       "examples": [
         { "jp": "くろい かばんは 高いですね。あおいのは いくらですか。", "kana": "くろい かばんは たかいですね。あおいのは いくらですか。", "romaji": "Kuroi kaban wa takai desu ne. Aoi no wa ikura desu ka.", "en": "The black bag is expensive, isn't it? How much is the blue one?" },
@@ -72,8 +72,8 @@
       "pitfalls": [
         "With a な-adjective, the な stays: きれいの ✗ → きれいなの ✓.",
         "With a noun, it's a single の: きのうのの ✗ → きのうの ✓.",
-        "Use の only when the listener knows which thing you mean. Out of nowhere, あおいのを ください ✗ doesn't say WHAT you want; in a shop, pointing at the bags, あおいのを ください ✓ works.",
-        "Don't confuse it with the の of verb + のが すき (lesson 08-3). In みるのが すき, の turns an ACTION into a noun; in あかいの, it stands in for a THING already mentioned."
+        "Say the noun or the の, never both: あかいの くつ ✗ → あかい くつ ✓, or just あかいの ✓ when the shoes are already clear.",
+        "Use の only when the listener knows which thing you mean. Out of nowhere, あおいのを ください ✗ doesn't say WHAT you want; in a shop, pointing at the bags, あおいのを ください ✓ works."
       ],
       "howToStudy": [
         "Take objects at home that come in \"pairs\" (mugs, T-shirts, pens) and describe one pair without repeating the name: この カップは 大きいです。あの 小さいのは わたしのです。",
@@ -87,7 +87,7 @@
       "gc": "10-4",
       "title": "〜つもりです",
       "gloss": "I intend to…, I plan to…",
-      "explanation": "**つもり** means \"intention\". It comes after a verb in the **short present form** (lesson 08-1), and together they become the **predicate**: \"I intend to…\".\n• Affirmative: dictionary form + つもりです: 行く つもりです (\"I intend to go\").\n• Negative, \"I intend NOT to…\": ない-form + つもりです: 行かない つもりです.\n• In casual speech, つもりです becomes つもりだ or just つもり.\n• In the past, 〜つもりでした = \"I intended to…\", often implying that it didn't happen in the end.\nRead from the end: 〜つもりです is the predicate, and everything before it describes the plan (when, where, what). Inside, つもり is a noun, and the short-form verb describes it, as in the sentences of lesson 09-2 (きのう みた えいが): 行く つもり = \"the intention of going\".\n• The 〜ます form already works for the future (\"I will…\"). つもり adds the idea of **personal intention**: something you have decided to do.\n• よてい, the word in the title of Genki Lesson 10 (ふゆやすみの よてい), is the schedule, what is set on the calendar. つもり is your intention.\n• To ask about someone's plans: 〜は なにを する つもりですか。 To report another person's plan, it is common to quote what they said: 〜つもりだと 言っていました (lesson 08-2).",
+      "explanation": "**つもり** means \"intention\". It comes after a verb in the **short present form** (lesson 08-1), and together they become the **predicate**: \"I intend to…\".\n• Affirmative: dictionary form + つもりです: 行く つもりです (\"I intend to go\").\n• Negative, \"I intend NOT to…\": ない-form + つもりです: 行かない つもりです.\n• In casual speech, つもりです becomes つもりだ or just つもり.\n• In the past, 〜つもりでした = \"I intended to…\", often implying that it didn't happen in the end.\nRead from the end: 〜つもりです is the predicate, and everything before it describes the plan (when, where, what). Inside, つもり is a noun, and the short-form verb describes it, as in the sentences of lesson 09-2 (きのう みた えいが): 行く つもり = \"the intention of going\". That is also why the ます form can't go before it: a verb that describes a noun is always in the short form.\n• The 〜ます form already works for the future (\"I will…\"). つもり adds the idea of **personal intention**: something you have decided to do.\n• よてい, the word in the title of Genki Lesson 10 (ふゆやすみの よてい), is the schedule, what is set on the calendar. つもり is your intention.\n• To ask about someone's plans: 〜は なにを する つもりですか。 To report another person's plan, it is common to quote what they said: 〜つもりだと 言っていました (lesson 08-2).\n• **Going further (Sakubi):** the volitional form (行こう, \"let's go\" / \"I think I'll go\") is another way to talk about what you mean to do; Genki Lesson 15 turns it into 行こうと 思っています (\"I'm thinking of going\"). For now, つもり is all you need.",
       "structure": "[verb, dictionary form] つもりです · [verb, ない-form] つもりです",
       "examples": [
         { "jp": "来年 日本で はたらく つもりです。", "kana": "らいねん にほんで はたらく つもりです。", "romaji": "Rainen Nihon de hataraku tsumori desu.", "en": "I intend to work in Japan next year. [lit. next year, in Japan, (it is my) intention to work]" },
@@ -171,8 +171,8 @@
     { "tool": "Wagotabi", "what": "Play normally and hunt for two patterns: an adjective followed by の with no noun after it (〜いの, 〜なの), and つもり at the end of a line. When you find one, pause and say which noun the の stands for, or what the plan is. Log the session in Immersion → Games and paste the line into 🔬 Anatomy.", "min": 15 },
     { "tool": "ヅオリンゴー", "what": "Journal: write 3 of your plans with つもり (one of them negative) and open \"Anatomy of what I wrote\" to check that the PREDICATE came out as an intention.", "min": 10 },
     { "tool": "ヅオリンゴー", "what": "Lesson 10 vocabulary in the SRS and one round of Drills → Conjugation, paying attention to the ない-form: it is the form that goes before ない つもり.", "min": 10 },
-    { "tool": "Shadowing", "what": "Tap 🔊 on this lesson's examples and repeat along 3 times. In the bread example, make a clear pause between the two sentences.", "min": 5 },
-    { "tool": "Speaking", "what": "Imagine a shop with three identical T-shirts in different colors. Record a mini-dialogue in which you never repeat the word シャツ: 〜のは いくらですか, 〜のと 〜のと どちらが いいですか, 〜のを ください.", "min": 5 }
+    { "tool": "Reading", "what": "Reread the graded-reader story from lesson 10-1, now looking words up (on a computer, a pop-up dictionary such as Yomitan, in the Resources tab, shows a word's meaning when you hover over it). Watch for an adjective + の standing in for a noun. Pick one sentence you now understand and save it with ⛏ Mining, so it becomes an SRS card.", "min": 10 },
+    { "tool": "Speaking", "what": "First tap 🔊 on this lesson's examples and repeat along 3 times, with a clear pause between the two sentences of the bread example. Then imagine a shop with three identical T-shirts in different colors and record a mini-dialogue in which you never repeat the word シャツ: 〜のは いくらですか, 〜のと 〜のと どちらが いいですか, 〜のを ください.", "min": 10 }
   ],
   "culture": {
     "title": "New Year: おしょうがつ, はつもうで, ねんがじょう",
@@ -189,5 +189,9 @@
     "I can ask about someone's plans and report another person's plan with 〜つもりだと 言っていました.",
     "I did the homework, checked it against the answer key and redid what I got wrong.",
     "I did Workbook pages 98–99."
+  ],
+  "credits": [
+    "Explanations adapted in part from Sakubi (public domain, CC0) — sakubi.neocities.org",
+    "Study method informed by the DJT Guide to Japanese — djtguide.neocities.org/guide"
   ]
 }

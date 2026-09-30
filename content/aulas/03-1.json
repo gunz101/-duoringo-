@@ -62,7 +62,7 @@
       "gc": "3-1",
       "title": "The 3 verb groups",
       "gloss": "る-verbs, う-verbs and irregulars",
-      "explanation": "Every Japanese verb has a **dictionary form** — the one you see in vocabulary lists — and it always ends in a **u** sound: たべる, のむ, いく, はなす, する. The verb's **group** decides how it conjugates: the ます form in this lesson and, later on, the て form, the short negative and all the others. So **learn the group together with the meaning**.\n• **る-verbs** (called ichidan, 一段, in many sites and videos): they end in る, and the syllable before る has an **e** or **i** sound: たべる (ta-**be**-ru), みる (**mi**-ru), おきる (o-**ki**-ru), ねる (**ne**-ru).\n• **う-verbs** (godan, 五段): all the others. They end in う, く, す, つ, ぬ, ぶ, む, ぐ, or in る with an **a, u** or **o** sound before it (わかる, つくる). のむ, いく, はなす, よむ and きく are う-verbs.\n• **Irregulars**: only two, **する** (to do) and **くる** (to come). Many verbs are \"noun + する\" and conjugate the same way: べんきょうする (to study).\n• **The disguised ones:** some verbs end in -eru or -iru and are still **う-verbs**. Nothing in the word gives them away; you have to memorize them. The first two to remember: **かえる** (to go back home) and **はいる** (to enter). Others you will meet: はしる (to run), しる (to know).\n• **Rule of thumb:** does it not end in る, or end in -aru/-uru/-oru? Then it is **う**, for sure. Does it end in -eru/-iru? Then it is probably **る**, but check the vocabulary list, because it may be a disguised one.",
+      "explanation": "Every Japanese verb has a **dictionary form** — the one you see in vocabulary lists — and it always ends in a **u** sound: たべる, のむ, いく, はなす, する. The verb's **group** decides how it conjugates: the ます form in this lesson and, later on, the て form, the short negative and all the others. So **learn the group together with the meaning**. The good news: Japanese treats both big groups as **regular**. Once you know a verb's group, almost every form follows a rule. Only two verbs, する and くる, are fully irregular; a handful of others have one odd form each (you will meet いく → いって in lesson 06-1 and ある → ない in lesson 08-1).\n• **る-verbs** (called ichidan, 一段, in many sites and videos; Sakubi calls them **one-form** verbs): they end in る, and the syllable before る has an **e** or **i** sound: たべる (ta-**be**-ru), みる (**mi**-ru), おきる (o-**ki**-ru), ねる (**ne**-ru). Everything before る is a **fixed base** that never changes (たべ-る, たべ-ます): to conjugate, you only swap what comes after it.\n• **う-verbs** (godan, 五段, or **five-form** verbs): all the others. They end in う, く, す, つ, ぬ, ぶ, む, ぐ, or in る with an **a, u** or **o** sound before it (わかる, つくる). Here the **last syllable moves** along its row of the kana chart: in different forms, む can become ま, み, む, め or も, which is five vowels, hence \"five-form\". ます always takes the **i** one: のむ → のみます. のむ, いく, はなす, よむ and きく are う-verbs.\n• **Irregulars**: only two, **する** (to do) and **くる** (to come). Many verbs are \"noun + する\" and conjugate the same way: べんきょうする (to study).\n• **The disguised ones:** some verbs end in -eru or -iru and are still **う-verbs**. Nothing in the word gives them away; you have to memorize them. The first two to remember: **かえる** (to go back home) and **はいる** (to enter). Others you will meet: はしる (to run), しる (to know).\n• **Rule of thumb:** does it not end in る, or end in -aru/-uru/-oru? Then it is **う**, for sure. Does it end in -eru/-iru? Then it is probably **る**, but check the vocabulary list, because it may be a disguised one.\n• **Going further (Sakubi):** you will meet the five forms of のむ one at a time, and each one follows the same row: のま (のまない, lesson 08-1), のみ (のみます, now), のむ (the dictionary form), のめ and のも (Genki II). Don't memorize them now; just trust that the pattern is regular.",
       "structure": "る: [e/i] + る (たべる, みる) · う: everything else + the disguised ones (かえる, はいる) · irregular: する, くる",
       "examples": [
         { "jp": "マリアさんは パンを たべます。", "kana": "マリアさんは パンを たべます。", "romaji": "Maria-san wa pan o tabemasu.", "en": "Maria eats bread. [たべる is a る-verb: drop る, add ます]" },
@@ -76,7 +76,7 @@
         "In \"noun + する\" verbs, only する conjugates: べんきょうます ✗ → べんきょうします ✓."
       ],
       "howToStudy": [
-        "Make 3 columns in your notebook (る · う · irregular) and sort the 14 verbs from the vocabulary into them. Mark the disguised かえる and はいる with ★.",
+        "Make 3 columns in your notebook (る · う · irregular) and sort the 14 verbs from the vocabulary into them. Mark the disguised かえる and はいる with ★. From now on, whenever a verb comes up in your ヅオリンゴー reviews, say its group out loud before you flip the card: the SRS then reviews the group together with the meaning.",
         "Speaking: say each verb in its dictionary form and, without pausing, in its ます form (おきる → おきます, かえる → かえります…). Repeat until it comes out without hesitation.",
         "Tap 🔬 on the examples: the ★ PREDICATE block is always the ます verb at the end. Read each sentence starting from it."
       ],
@@ -87,7 +87,7 @@
       "gc": "3-2",
       "title": "〜ます / 〜ません",
       "gloss": "the polite present: affirmative and negative",
-      "explanation": "〜ます is the **polite** verb ending, at the same level as です: you use it with teachers, classmates and strangers. The negative is **〜ません**. Both attach to the **stem**, the part of the verb that comes before ます.\n• **る-verbs:** drop る → たべる → たべ**ます** / たべ**ません**.\n• **う-verbs:** the last syllable moves from its **u** sound to the **i** sound in the same kana row, and then ます is added: のむ → の**み**ます, いく → い**き**ます, はなす → はな**し**ます, かう → か**い**ます, まつ → ま**ち**ます, かえる → かえ**り**ます.\n• **Irregulars:** する → **します**, くる → **きます**. Negatives: しません, きません.\n• **To make it negative**, just swap ます for ません: のみます → のみません. Don't use じゃないです with a verb: that negative is for nouns (lesson 02-3).\n• **What the \"present\" covers:** habits (\"I drink coffee in the morning\") and the future (\"I'll come tomorrow\"). It does not cover an action in progress: たべます is \"I eat / I will eat\", never \"I'm eating right now\" (lesson 07-1). English \"I'm going tomorrow\" is a future plan, so あした いきます is right; only \"right now, in progress\" needs the other form.\n• **Questions:** put か at the end (みますか。). To answer, **repeat the verb**: はい、みます。/ いいえ、みません。 — where English says \"Yes, I do\", Japanese repeats the verb.\n• The stem (たべ, のみ, し, き) will come back many times, for example in 〜ませんか (lesson 03-3).",
+      "explanation": "〜ます is the **polite** verb ending, at the same level as です: you use it with teachers, classmates and strangers. The negative is **〜ません**. ます is a small **helper verb**: it can't stand alone, and it attaches to the **stem**, the part of the verb that comes before ます.\n• **る-verbs:** drop る → たべる → たべ**ます** / たべ**ません**.\n• **う-verbs:** the last syllable moves from its **u** sound to the **i** sound in the same kana row, and then ます is added: のむ → の**み**ます, いく → い**き**ます, はなす → はな**し**ます, かう → か**い**ます, まつ → ま**ち**ます, かえる → かえ**り**ます.\n• **Irregulars:** する → **します**, くる → **きます**. Negatives: しません, きません.\n• **To make it negative**, just swap ます for ません: のみます → のみません. Don't use じゃないです with a verb: that negative is for nouns (lesson 02-3).\n• **What the \"present\" covers:** habits (\"I drink coffee in the morning\") and the future (\"I'll come tomorrow\"). Japanese talks about the future with this same form, which is why many grammar guides call it the **non-past** rather than the present. It does not cover an action in progress: たべます is \"I eat / I will eat\", never \"I'm eating right now\" (lesson 07-1). English \"I'm going tomorrow\" is a future plan, so あした いきます is right; only \"right now, in progress\" needs the other form.\n• **Questions:** put か at the end (みますか。). To answer, **repeat the verb**: はい、みます。/ いいえ、みません。 — where English says \"Yes, I do\", Japanese repeats the verb.\n• The stem (たべ, のみ, し, き) will come back many times. Sakubi calls it the \"verb-sticky\" form, because so much sticks to it: ます now, 〜ませんか in lesson 03-3, 〜たい in lesson 11-1.\n• **Going further (Sakubi):** ません has no past form of its own. To say \"didn't\", Japanese adds でした, the past of です: のみませんでした (\"I didn't drink\", lesson 04-2).",
       "structure": "る: たべる → たべ + ます / ません · う: のむ → のみ + ます / ません (u → i) · する → します · くる → きます",
       "examples": [
         { "jp": "わたしは あさ コーヒーを のみます。", "kana": "わたしは あさ コーヒーを のみます。", "romaji": "Watashi wa asa kōhī o nomimasu.", "en": "I drink coffee in the morning. [a habit]" },
@@ -97,11 +97,11 @@
       "pitfalls": [
         "たべます is not \"I'm eating\": いま たべます means \"I'll eat now\". \"I'm eating (right now)\" uses a different form (lesson 07-1).",
         "With an う-verb, the last syllable changes to its i sound: かくます ✗ → かきます ✓; かうます ✗ → かいます ✓.",
-        "Verbs have their own negative: たべるじゃないです ✗ → たべません ✓.",
+        "ます / ません are only for verbs, and です / じゃないです only for nouns; don't mix them or stack them: たべるじゃないです ✗ → たべません ✓; がくせいます ✗ → がくせいです ✓.",
         "To answer, repeat the verb: みますか。— はい、そうです ✗ → はい、みます ✓. はい、そうです goes with questions about です (lesson 01-1) and is not the natural answer here."
       ],
       "howToStudy": [
-        "In your notebook, conjugate the 14 verbs from the vocabulary in two columns (ます / ません). Then cover the columns and redo them from memory.",
+        "In your notebook, conjugate the 14 verbs from the vocabulary in two columns (ます / ません) by applying the rule (る-verbs drop る · う-verbs move u → i · する → します, くる → きます), not by memorizing a table. Then cover the columns and redo them from memory.",
         "Speaking: ask yourself 5 questions with 〜ますか about your routine and answer them out loud, repeating the verb (はい、〜ます / いいえ、〜ません).",
         "ヅオリンゴー → Drills → Conjugation with the Lesson 3 verbs. Then 🔬 Anatomy → 🏷 Tag on 3 sentences from this lesson, finding the ★ PREDICATE first."
       ],
@@ -168,10 +168,10 @@
     ]
   },
   "practice": [
-    { "tool": "Wagotabi", "what": "Play normally. Hunt the dialogues for verbs ending in 〜ます or 〜ません: write 5 of them in your notebook and, next to each, its dictionary form and its group (る, う or irregular). If you don't know the dictionary form, put a ? and check the vocabulary list later.", "min": 15 },
-    { "tool": "ヅオリンゴー", "what": "Practice L3 → conjugation. Then the Lesson 3 vocabulary in the SRS.", "min": 10 },
+    { "tool": "Wagotabi", "what": "Play normally. Hunt the dialogues for verbs ending in 〜ます or 〜ません: write 5 of them in your notebook and, next to each, its dictionary form and its group (る, う or irregular). If you don't know the dictionary form, put a ? and check the vocabulary list later. Save the clearest line in Mining (⛏), with its translation, after looking up any word you don't know in a dictionary.", "min": 15 },
+    { "tool": "ヅオリンゴー", "what": "Practice L3 → conjugation. Then all of today's reviews in 🌊 All, which include the Lesson 3 vocabulary. Do every review that is due: if they start piling up, take fewer new words a day rather than skipping reviews.", "min": 10 },
     { "tool": "ヅオリンゴー", "what": "Journal: write 3 sentences with 〜ません about things you don't do, and use \"Anatomy of what I wrote\" to check that the verb ended up at the end.", "min": 5 },
-    { "tool": "Shadowing", "what": "Tap 🔊 on each example in this lesson and repeat along 3 times. Notice that the u in ます is often nearly silent: たべます sounds close to \"tabemas\".", "min": 5 },
+    { "tool": "Shadowing", "what": "Tap 🔊 on each example in this lesson and repeat along 3 times. Notice that the u in ます is often nearly silent: たべます sounds close to \"tabemas\". This is called devoicing: saying the u in full is not wrong, it just sounds a little unnatural.", "min": 5 },
     { "tool": "Speaking", "what": "Record 1 minute describing a typical day using only this lesson's verbs in 〜ます (おきます … たべます … いきます … かえります … ねます). Don't worry about the particles yet.", "min": 5 }
   ],
   "culture": {
@@ -183,10 +183,15 @@
   "checklist": [
     "I can give the group (る, う or irregular) of this lesson's verbs without looking, including the disguised かえる and はいる.",
     "I can put any verb from this lesson into 〜ます and 〜ません without hesitating.",
+    "I can show the u → i change of an う-verb on its kana row without looking (む → み, く → き, す → し, る → り).",
     "I know that たべます covers habits and the future, but not \"I'm eating right now\".",
     "I answer verb questions by repeating the verb: はい、〜ます / いいえ、〜ません。",
     "I can say 4 sentences about my routine with the verb at the end, without looking.",
     "I did the homework, checked it against the answer key and redid what I got wrong.",
     "I did Workbook page 32."
+  ],
+  "credits": [
+    "Explanations adapted in part from Sakubi (public domain, CC0) — sakubi.neocities.org",
+    "Study method informed by the DJT Guide to Japanese — djtguide.neocities.org/guide"
   ]
 }

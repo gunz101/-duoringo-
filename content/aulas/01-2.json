@@ -16,7 +16,7 @@
       { "t": "Warm-up: count from 0 to 20 out loud, then by tens up to 100 (lesson 00-3)", "min": 5 },
       { "t": "Vocabulary: tap 🔊 on each word and repeat it twice", "min": 10 },
       { "t": "Grammar: the 4 points, each with its examples read aloud and one 🔬", "min": 25 },
-      { "t": "Video (block 6), pausing to repeat the times and numbers", "min": 10 },
+      { "t": "Block 6: the video, pausing to repeat the times and numbers, or the Sakubi sections as a second explanation", "min": 10 },
       { "t": "Notebook homework + checking it against the answer key", "min": 15 },
       { "t": "Checklist (block 10) + write your questions in the lesson notebook", "min": 5 }
     ]
@@ -59,7 +59,7 @@
       "gc": null,
       "title": "〜じ · 〜じはん · いま なんじですか",
       "gloss": "telling and asking the time",
-      "explanation": "To tell the time, attach the number to **じ** (\"o'clock\"): さんじ = 3:00. For \"half past\", put **はん** right after it: さんじはん = 3:30. It's the same kind of sentence as in lesson 01-1: the time is the **PREDICATE**, with です at the end.\n• The question: いま なんじですか。 なんじ (\"what time\") sits exactly where the answer will go: いま くじです。 Time words like いま (\"now\") take **no particle** (more on this in lesson 03-3).\n• Three hours have special readings: **よじ** (4:00), **しちじ** (7:00) and **くじ** (9:00). The others follow the numbers you already know: いちじ, にじ, さんじ, ごじ, ろくじ, はちじ, じゅうじ, じゅういちじ, じゅうにじ.\n• A.m. and p.m. come **before** the time: ごぜん くじ (9 a.m.), ごご さんじ (3 p.m.). ごご covers everything after noon, including the evening. In conversation people usually use the 12-hour clock, adding ごぜん/ごご when it needs to be clear.",
+      "explanation": "To tell the time, attach the number to **じ** (\"o'clock\"): さんじ = 3:00. じ is a **counter**: to count or measure something, Japanese doesn't put a bare number next to a noun the way English does (\"five years\", \"it's three\"). The number attaches to a small counter word that says what is being counted — じ for clock hours, さい for years of age, ねんせい for school years. Counters can change the sound of some numbers, which is why this lesson has special readings. For \"half past\", put **はん** right after じ: さんじはん = 3:30. It's the same kind of sentence as in lesson 01-1: the time is the **PREDICATE**, with です at the end.\n• The question: いま なんじですか。 なんじ (\"what time\") sits exactly where the answer will go: いま くじです。 Time words like いま (\"now\") take **no particle** (more on this in lesson 03-3).\n• Three hours have special readings: **よじ** (4:00), **しちじ** (7:00) and **くじ** (9:00). The others follow the numbers you already know: いちじ, にじ, さんじ, ごじ, ろくじ, はちじ, じゅうじ, じゅういちじ, じゅうにじ.\n• A.m. and p.m. come **before** the time: ごぜん くじ (9 a.m.), ごご さんじ (3 p.m.). ごご covers everything after noon, including the evening. In conversation people usually use the 12-hour clock, adding ごぜん/ごご when it needs to be clear.\n• Going further (Sakubi): Japanese has two sets of numbers — the いち, に, さん set, borrowed from Chinese, and a native set (ひとつ, ふたつ, みっつ…, lesson 05-3). よん and なな come from the native set, which is why 4 and 7 have two readings. Each counter decides which reading it takes (よじ, but よんさい), so learn every counter together with its numbers.",
       "structure": "いま [number]じ(はん)です。 · いま なんじですか。 · ごぜん / ごご + [time]",
       "examples": [
         { "jp": "いま なんじですか。— くじはんです。", "kana": "いま なんじですか。— くじはんです。", "romaji": "Ima nanji desu ka. — Kuji han desu.", "en": "What time is it now? — It's 9:30." },
@@ -68,8 +68,8 @@
       ],
       "pitfalls": [
         "4:00 is よじ and 9:00 is くじ: よんじ ✗ → よじ ✓; きゅうじ ✗ → くじ ✓. 7:00 is しちじ (you'll sometimes hear ななじ, but the standard form, and Genki's, is しちじ).",
-        "はん comes right after じ: はんくじ ✗, くじと はん ✗ → くじはん ✓ (\"half past nine\").",
-        "ごぜん and ごご come before the time, the opposite of English \"3 p.m.\": さんじ ごご ✗ → ごご さんじ ✓.",
+        "Order: ごぜん/ごご go before the time and はん right after じ — the opposite of English \"9:30 a.m.\": くじはん ごぜん ✗, ごぜん はんくじ ✗ → ごぜん くじはん ✓.",
+        "English can drop \"o'clock\" (\"it's three\"); Japanese keeps the counter: いま さんです ✗ → いま さんじです ✓.",
         "じ is a time on the clock, not a length of time: にじ = \"2 o'clock\". \"For two hours\" is にじ ✗ → にじかん ✓ (lesson 04-3)."
       ],
       "howToStudy": [
@@ -84,7 +84,7 @@
       "gc": null,
       "title": "Phone numbers",
       "gloss": "digit by digit, with の between the groups",
-      "explanation": "A phone number is read **digit by digit**, never as one big number: 080 is ゼロはちゼロ, not \"eighty\". Where the hyphen is, between one group and the next, you say **の** (with a small pause). Zero is **ゼロ** or **れい**; in speech, ゼロ is more common.\n• To avoid confusion, use **よん** (4), **なな** (7) and **きゅう** (9), not し, しち, く: on the phone, し, しち and いち are easy to mix up.\n• In speech, many Japanese speakers stretch 2 and 5 (にい, ごお) to keep the rhythm even. It's optional: に and ご are correct.\n• The question follows the pattern from lesson 01-1: でんわばんごうは なんですか。 The answer is the PREDICATE: [number] です。\n• The same rule works for numbers from any country, like the Brazilian number in example 3.\n• In Japan, cell phone numbers usually start with 090, 080 or 070. In writing, people use digits; the kana readings in this lesson are there so you can practice the pronunciation.",
+      "explanation": "A phone number is read **digit by digit**, never as one big number: 080 is ゼロはちゼロ, not \"eighty\". Here you are naming digits, not counting anything, so there is no counter. Where the hyphen is, between one group and the next, you say **の** (with a small pause). Zero is **ゼロ** or **れい**; in speech, ゼロ is more common.\n• To avoid confusion, use **よん** (4), **なな** (7) and **きゅう** (9), not し, しち, く: on the phone, し, しち and いち are easy to mix up.\n• In speech, many Japanese speakers stretch 2 and 5 (にい, ごお) to keep the rhythm even. It's optional: に and ご are correct.\n• The question follows the pattern from lesson 01-1: でんわばんごうは なんですか。 The answer is the PREDICATE: [number] です。\n• The same rule works for numbers from any country, like the Brazilian number in example 3.\n• In Japan, cell phone numbers usually start with 090, 080 or 070. In writing, people use digits; the kana readings in this lesson are there so you can practice the pronunciation.",
       "structure": "[group] の [group] の [group] です。 · でんわばんごうは なんですか。",
       "examples": [
         { "jp": "でんわばんごうは なんですか。— ゼロはちゼロの よんろくいちにの さんななはちごです。", "kana": "でんわばんごうは なんですか。— ゼロはちゼロの よんろくいちにの さんななはちごです。", "romaji": "Denwa bangō wa nan desu ka. — Zero-hachi-zero no yon-roku-ichi-ni no san-nana-hachi-go desu.", "en": "What's your phone number? — It's 080-4612-3785." },
@@ -109,7 +109,7 @@
       "gc": null,
       "title": "〜さい · なんさい",
       "gloss": "… years old",
-      "explanation": "Age = number + **さい**, in an X は Y です sentence: すずきさんは にじゅうごさいです。 (\"Mr./Ms. Suzuki is 25.\") The age is the PREDICATE, with です at the end, and さい already means \"years old\". The question is **なんさいですか**, with なんさい exactly where the answer goes.\n• **Sound changes**: **いっさい** (1), **はっさい** (8), **じゅっさい** (10). They stay inside bigger numbers: じゅういっさい (11), じゅうはっさい (18), よんじゅういっさい (41). You may also hear じっさい for 10.\n• 20 has its own word: **はたち**, without さい. (にじゅっさい exists, but はたち is the usual word.) From 21 on, everything follows the pattern again: にじゅういっさい, にじゅうにさい….\n• The others are regular: よんさい (4), ななさい (7), きゅうさい (9).\n• With older people or in formal situations, the more polite question is おいくつですか。",
+      "explanation": "Age = number + **さい**, the counter for years of age, in an X は Y です sentence: すずきさんは にじゅうごさいです。 (\"Mr./Ms. Suzuki is 25.\") The age is the PREDICATE, with です at the end, and さい already means \"years old\". The question is **なんさいですか**, with なんさい exactly where the answer goes.\n• **Sound changes**: **いっさい** (1), **はっさい** (8), **じゅっさい** (10). They stay inside bigger numbers: じゅういっさい (11), じゅうはっさい (18), よんじゅういっさい (41). You may also hear じっさい for 10.\n• 20 has its own word: **はたち**, without さい. (にじゅっさい exists, but はたち is the usual word.) From 21 on, everything follows the pattern again: にじゅういっさい, にじゅうにさい….\n• The others are regular: よんさい (4), ななさい (7), きゅうさい (9).\n• With older people or in formal situations, the more polite question is おいくつですか。 Asking an adult's age can feel personal, so don't lead with it.",
       "structure": "[person] は [number] さいです。 · なんさいですか。",
       "examples": [
         { "jp": "ルーカスさんは なんさいですか。— じゅうはっさいです。", "kana": "ルーカスさんは なんさいですか。— じゅうはっさいです。", "romaji": "Rūkasu-san wa nansai desu ka. — Jūhassai desu.", "en": "How old is Lucas? — He's 18." },
@@ -120,7 +120,7 @@
         "English puts \"how old\" at the start of the question. In Japanese, なんさい stays where the answer will go, right before です: なんさい ルーカスさんは ですか ✗ → ルーカスさんは なんさいですか ✓.",
         "はたち is already the whole age: はたちさい ✗ → はたちです ✓.",
         "1, 8 and 10 change sound: いっさい, はっさい, じゅっさい (or じっさい). いちさい ✗ and じゅうさい ✗. You'll also hear はちさい in speech, but the standard form, and Genki's, is はっさい.",
-        "With older people, prefer おいくつですか to なんさいですか, and don't ask someone's age right away."
+        "With older people, なんさいですか ✗ (too direct) → おいくつですか ✓ — and don't ask someone's age right away."
       ],
       "howToStudy": [
         "Say out loud the ages of 5 friends or relatives: (name)さんは 〜さいです。 If you can, include someone who is 18, 20 or 21.",
@@ -134,7 +134,7 @@
       "gc": null,
       "title": "〜ねんせい · なんねんせい",
       "gloss": "a student in year …",
-      "explanation": "To say what year you're in at school or college, use number + **ねんせい**: にねんせい = a second-year student. The question: **なんねんせいですか**. There are no special words like \"freshman\" or \"sophomore\": you just count the year.\n• Watch the 4: **よねんせい**, not よんねんせい.\n• To say where, use the の from lesson 01-1: だいがくの さんねんせい (\"a third-year at college\"), こうこうの いちねんせい (\"a first-year in high school\", roughly a 10th grader in the US). The block with の **describes** the next one, and ねんせい is the core.\n• ねんせい is your **school year**, not your age. For age, use さい.\n• In Japan, college usually lasts 4 years and high school (こうこう) 3.",
+      "explanation": "To say what year you're in at school or college, use number + **ねんせい**, one more counter (literally \"year-student\"): にねんせい = a second-year student. The question: **なんねんせいですか**. There are no special words like \"freshman\" or \"sophomore\": you just count the year.\n• Watch the 4: **よねんせい**, not よんねんせい.\n• To say where, use the の from lesson 01-1: だいがくの さんねんせい (\"a third-year at college\"), こうこうの いちねんせい (\"a first-year in high school\", roughly a 10th grader in the US). The block with の **describes** the next one, and ねんせい is the core.\n• ねんせい is your **school year**, not your age. For age, use さい.\n• In Japan, college usually lasts 4 years and high school (こうこう) 3.",
       "structure": "[person] は ([school] の) [number] ねんせいです。 · なんねんせいですか。",
       "examples": [
         { "jp": "アナさんは なんねんせいですか。— よねんせいです。", "kana": "アナさんは なんねんせいですか。— よねんせいです。", "romaji": "Ana-san wa nannensei desu ka. — Yonensei desu.", "en": "What year is Ana in? — She's in her fourth year." },
@@ -215,8 +215,8 @@
     ]
   },
   "practice": [
-    { "tool": "Wagotabi", "what": "Play normally and hunt for numbers: whenever a number appears on screen or in a dialogue, read it aloud in Japanese. If a line of dialogue has なんじ, 〜じ, 〜さい or 〜ねんせい, pause and copy it into your notebook.", "min": 15 },
-    { "tool": "ヅオリンゴー", "what": "Drills → Numbers: 10 min. Then the Lesson 1 vocabulary in the SRS.", "min": 15 },
+    { "tool": "Wagotabi", "what": "Play normally and hunt for numbers: whenever a number appears on screen or in a dialogue, read it aloud in Japanese. If a line of dialogue has なんじ, 〜じ, 〜さい or 〜ねんせい, pause and copy it into your notebook; save the clearest one in the app's Mining, with every word looked up in a dictionary.", "min": 15 },
+    { "tool": "ヅオリンゴー", "what": "Drills → Numbers: 10 min — a few minutes every day fixes the special readings better than one long session. Then clear today's reviews and the Lesson 1 vocabulary in the SRS.", "min": 15 },
     { "tool": "ヅオリンゴー", "what": "Practice L1: listening and comprehension, to hear numbers and times inside sentences.", "min": 10 },
     { "tool": "Shadowing", "what": "Tap 🔊 on the phone and age examples and repeat along 3 times, pausing at each の.", "min": 5 },
     { "tool": "Speaking", "what": "Record yourself in 30 seconds or less: いま 〜じです。 + your age + your year (or what you do). Listen back and check the special readings.", "min": 5 }
@@ -228,12 +228,16 @@
     "try": "Think of two children born in the same year, one in March and one in May. Would they be in the same grade in Japan? (No: the one born in March starts school a year earlier.) Then say your own year out loud, the Japanese way: だいがくの 〜ねんせいです。, or, if you've already graduated, your age: 〜さいです。"
   },
   "checklist": [
-    "I can say the times from 1:00 to 12:00, with and without はん, without looking, getting よじ, しちじ and くじ right.",
+    "I can say the times from 1:00 to 12:00, with and without はん, without looking, getting よじ, しちじ and くじ right — and never dropping the counter じ.",
     "I can ask いま なんじですか。 and understand the answer, with ごぜん and ごご before the time.",
     "I can say my phone number in Japanese, digit by digit, with の between the groups.",
     "I can say my age and ask なんさいですか。 without mixing up いっさい, はっさい, じゅっさい and はたち.",
     "I can say what year I'm in (〜ねんせい) and I remember that the 4th is よねんせい.",
     "I did the homework, checked it against the answer key and redid what I got wrong.",
     "I did Workbook pages 19–21."
+  ],
+  "credits": [
+    "Explanations adapted in part from Sakubi (public domain, CC0) — sakubi.neocities.org",
+    "Study method informed by the DJT Guide to Japanese — djtguide.neocities.org/guide"
   ]
 }

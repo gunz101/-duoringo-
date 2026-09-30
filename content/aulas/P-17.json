@@ -1,0 +1,219 @@
+{
+  "id": "P-17",
+  "unit": "P-N3",
+  "genki": null,
+  "title": "Onomatopoeia",
+  "titleJp": "擬音語・擬態語",
+  "canDo": [
+    "I can tell a 擬音語 (a word that imitates a real sound: ワンワン, ザーザー) from a 擬態語 (a word that paints a state or a feeling, with no sound: ぴかぴか, のんびり).",
+    "I can put an onomatopoeia before a verb as an adverb (雨がザーザー降る) and I know when と is needed (ドアがバタンと閉まった).",
+    "I can turn states and feelings into verbs with する (いらいらする, のんびりする, ドキドキする) and describe people with 〜している (いつもにこにこしている).",
+    "I can use だ and の with the words that take them (日本語がぺらぺらだ, ぴかぴかの靴), and I know that ぐっすり and そろそろ only go before a verb.",
+    "I don't confuse そろそろ (it's about time) with もうすぐ (soon), or ぺらぺら (fluent) with ぺこぺこ (starving)."
+  ],
+  "duration": {
+    "total": "60–75 min",
+    "blocks": [
+      { "t": "Warm-up: name 5 sounds around you right now (rain, a door, a dog, your keyboard…) and guess how Japanese would say each one", "min": 5 },
+      { "t": "Vocabulary: tap 🔊 on each word and repeat it twice; save the words you don't know yet with Mining (⛏), each inside one sentence from this lesson, so they enter your SRS", "min": 10 },
+      { "t": "Grammar: points a (擬音語) and b (擬態語 + する), with the examples read aloud and one 🔬 each", "min": 20 },
+      { "t": "Grammar: point c, the ten common words and the pattern each one takes", "min": 10 },
+      { "t": "Video and reading from block 6, pausing on the examples", "min": 10 },
+      { "t": "Notebook homework + checking it against the answer key", "min": 15 },
+      { "t": "Checklist (block 10) + write your questions in the lesson notebook", "min": 5 }
+    ]
+  },
+  "prereqs": {
+    "aulas": ["P-16"],
+    "skills": [
+      "Adverbs before the verb (lesson 05-3: とても, ちょっと) and い-adjectives as adverbs with く (早く起きる). Most onomatopoeia work like adverbs.",
+      "Noun + する verbs (勉強する) and adjective + する (lesson 21-2): many onomatopoeia become verbs in the same way.",
+      "〜ている for states (lesson 07-1): にこにこしている and ふわふわしている describe how someone or something is right now.",
+      "Describing a noun with の (lesson 01-1) and な-adjectives with だ (lesson 05-1): some onomatopoeia take the same endings."
+    ],
+    "vocab": [
+      { "jp": "擬音語", "kana": "ぎおんご", "romaji": "giongo", "en": "a word that imitates a real sound (woof, bang)" },
+      { "jp": "擬態語", "kana": "ぎたいご", "romaji": "gitaigo", "en": "a word that paints a state, a manner or a feeling, with no real sound" },
+      { "jp": "ワンワン", "kana": "ワンワン", "romaji": "wanwan", "en": "woof woof (a dog barking)" },
+      { "jp": "ニャー", "kana": "ニャー", "romaji": "nyā", "en": "meow" },
+      { "jp": "ザーザー", "kana": "ザーザー", "romaji": "zāzā", "en": "the sound of pouring rain or rushing water" },
+      { "jp": "ドンドン", "kana": "ドンドン", "romaji": "dondon", "en": "bang bang (banging, pounding on something)" },
+      { "jp": "バタン", "kana": "バタン", "romaji": "batan", "en": "slam, thud (a door shutting, someone falling over)" },
+      { "jp": "ドキドキ", "kana": "ドキドキ", "romaji": "dokidoki", "en": "thump-thump; a pounding heart (nerves, fear, excitement)" },
+      { "jp": "ぴかぴか", "kana": "ぴかぴか", "romaji": "pikapika", "en": "shiny, sparkling clean" },
+      { "jp": "ふわふわ", "kana": "ふわふわ", "romaji": "fuwafuwa", "en": "soft and fluffy" },
+      { "jp": "ぐっすり", "kana": "ぐっすり", "romaji": "gussuri", "en": "(sleep) soundly, deeply" },
+      { "jp": "のんびり", "kana": "のんびり", "romaji": "nonbiri", "en": "relaxed, unhurried; のんびりする = to take it easy" },
+      { "jp": "にこにこ", "kana": "にこにこ", "romaji": "nikoniko", "en": "smiling happily; にこにこする = to smile" },
+      { "jp": "いらいら", "kana": "いらいら", "romaji": "iraira", "en": "irritated, on edge; いらいらする = to get irritated" },
+      { "jp": "ぺらぺら", "kana": "ぺらぺら", "romaji": "perapera", "en": "fluent (in a language); also: chattering on" },
+      { "jp": "ばらばら", "kana": "ばらばら", "romaji": "barabara", "en": "scattered, in pieces, all different" },
+      { "jp": "ぎりぎり", "kana": "ぎりぎり", "romaji": "girigiri", "en": "just barely; at the very last moment" },
+      { "jp": "そろそろ", "kana": "そろそろ", "romaji": "sorosoro", "en": "it's about time (to do something); any time now" },
+      { "jp": "ほえる", "kana": "ほえる", "romaji": "hoeru", "en": "to bark" },
+      { "jp": "眠る", "kana": "ねむる", "romaji": "nemuru", "en": "to sleep" },
+      { "jp": "胸", "kana": "むね", "romaji": "mune", "en": "chest; heart (as the place you feel things)" },
+      { "jp": "間に合う", "kana": "まにあう", "romaji": "maniau", "en": "to be in time, to make it" },
+      { "jp": "面接", "kana": "めんせつ", "romaji": "mensetsu", "en": "(job) interview" },
+      { "jp": "意見", "kana": "いけん", "romaji": "iken", "en": "opinion" },
+      { "jp": "過ごす", "kana": "すごす", "romaji": "sugosu", "en": "to spend (time)" }
+    ]
+  },
+  "grammar": [
+    {
+      "id": "P-17-a",
+      "gc": null,
+      "title": "擬音語 (sound words)",
+      "gloss": "words that imitate real sounds: woof, splash, bang, thump-thump",
+      "explanation": "**擬音語** (giongo) are words that **imitate a real sound**: a dog barking, rain, a knock, a heartbeat. English has some (woof, bang, splash), but mostly in comics and baby talk. Japanese uses them **everywhere** — in adult conversation, in the news, on food packaging, in instructions — and it has hundreds of them.\n• Animals: a dog says **ワンワン**, a cat **ニャー**.\n• Rain and water: 雨が**ザーザー**降る (it's pouring).\n• Knocks and bangs: ドアを**ドンドン**たたく (bang on the door), **コンコン** (a light knock), ドアが**バタン**と閉まる (the door slams).\n• The heart: 胸が**ドキドキ**する (my heart is pounding — from nerves, fear or excitement).\n\n**Spelling and shape.** Sound words are **often written in katakana**, and state words (point b) more often in hiragana — but that is a habit, not a rule: you'll see both. Many are **doubled** (ワンワン, ザーザー) for a repeated sound; a single sound is often a short form ending in **ン** or **ッ** (バタン, ドン, バタッ).\n\n**How they attach — as an adverb, with or without と.** An onomatopoeia usually sits **right before the verb** and tells you how the action sounded. The particle **と** after it marks it as an adverb (Sakubi calls these words **と-adverbs**):\n• Doubled forms: と is **optional** — 雨がザーザー降っている = 雨がザーザーと降っている.\n• Short one-shot forms ending in ン or ッ: と is **needed** — ドアがバタンと閉まった ✓.\nThis と is not \"with\" and not \"if\": it simply turns the sound into a description of the verb.\n• A few sound words also become verbs with **する**, like ドキドキする (point b shows this pattern).\n\n**The sentence, block by block.** The onomatopoeia is a **HOW** block: it answers \"how did it sound?\" and it describes the **PREDICATE** at the end. [外は][雨が][ザーザー][降っています] = TOPIC + SUBJECT + HOW + PREDICATE. Read the verb first (降っています, is falling), then ask how → ザーザー.\n\n**In English, don't translate the sound — translate the action.** ザーザー降る is \"pour\", ドンドンたたく is \"bang on\", バタンと閉まる is \"slam\". English often packs the sound into the verb; Japanese keeps it separate.\n\n**擬音語 × 擬態語** (point b): a 擬音語 copies a sound you could record; a 擬態語 paints something that makes **no sound** (ぴかぴか = shiny). Some words sit on the border: ドキドキ imitates a heartbeat, but people use it for the **feeling** of nerves or excitement, even when no one could hear anything.",
+      "structure": "[subject] が [sound word] (と) [verb] · one-shot sound (バタン, ドン) + と + [verb] · ドキドキ + する",
+      "examples": [
+        { "jp": "外は雨がザーザー降っています。", "kana": "そとはあめがザーザーふっています。", "romaji": "Soto wa ame ga zāzā futte imasu.", "en": "It's pouring outside. [lit. outside, the rain is falling zā-zā]" },
+        { "jp": "ドアがバタンと閉まった。", "kana": "ドアがバタンとしまった。", "romaji": "Doa ga batan to shimatta.", "en": "The door slammed shut.", "noAnat": true },
+        { "jp": "面接の前は、いつも胸がドキドキする。", "kana": "めんせつのまえは、いつもむねがドキドキする。", "romaji": "Mensetsu no mae wa, itsumo mune ga dokidoki suru.", "en": "Before an interview, my heart always pounds." }
+      ],
+      "pitfalls": [
+        "A one-shot sound needs と: ドアがバタン閉まった ✗ → ドアがバタンと閉まった ✓. With doubled forms it's optional: ザーザー降る ✓ = ザーザーと降る ✓.",
+        "Don't translate the sound word itself. 雨がザーザー降っている = \"the rain is falling with a zā-zā sound\" ✗ (clumsy) → \"it's pouring\" ✓; ドアをドンドンたたく = \"hits the door bang-bang\" ✗ → \"bangs on the door\" ✓.",
+        "Animal sounds are different in Japanese: a dog barking in a Japanese text is ウーフ ✗ → ワンワン ✓; a cat is ミャウ ✗ → ニャー ✓."
+      ],
+      "howToStudy": [
+        "Walk around your home and say 5 sounds out loud in Japanese, each inside a sentence with a verb: 雨がザーザー降っている, ドアがバタンと閉まった, 誰かがドアをコンコンとノックした…",
+        "🔬 Anatomy → Analyze: paste example 1. 外は is the TOPIC, 雨が the SUBJECT, ザーザー a HOW block and 降っています the PREDICATE. Read the predicate first (is falling), then ask \"how?\" → ザーザー.",
+        "Say example 3 twice, as ドキドキする and as ドキドキしている, and feel the difference: \"my heart (always) pounds\" × \"my heart is pounding right now\"."
+      ],
+      "flag": null
+    },
+    {
+      "id": "P-17-b",
+      "gc": null,
+      "title": "擬態語 (state and feeling words) + する",
+      "gloss": "no-sound words: sparkling, fluffy, relaxed, smiling, irritated",
+      "explanation": "**擬態語** (gitaigo) look like sound words, but they describe things that **make no sound**: how something looks, feels or moves, and even **how you feel inside**. ぴかぴか (shiny, sparkling clean), ふわふわ (soft and fluffy), にこにこ (smiling happily), のんびり (relaxed, taking it easy), いらいら (irritated, on edge). Words for feelings are sometimes called 擬情語, but most people simply call all of them 擬態語 — or オノマトペ, the everyday word for onomatopoeia of every kind.\n\n**The main pattern: + する.** Most 擬態語 become verbs with する, just like 勉強する. The する-verb means \"to be in that state\" or \"to feel that way\":\n• 電車が遅れて、いらいらした。 (The train was late, and I got irritated.)\n• 休みの日は家でのんびりしたい。 (I want to take it easy at home.)\n• With **〜ている**, it describes how someone or something is: 田中さんはいつもにこにこしている (is always smiling), このパンはふわふわしている (is fluffy).\n\n**Also as adverbs**, before another verb, with or without と: にこにこ(と)笑う (smile happily), のんびり(と)過ごす (spend time in a relaxed way).\n\nGoing further (Sakubi): Sakubi describes this する as something **undergoing an experience**: the word gives the sensation, and する says that it is happening. You'll also meet a short form + **っと + する**: **ほっとする** (to feel relieved: 無事だと聞いて、ほっとした). And other adverbs take する the same way: **しっかりする** (to be steady, reliable) — しっかりして！ = \"Pull yourself together!\"\n\n**The sound changes the meaning.** In many pairs, a voiced consonant (with ゛) makes the word **bigger, heavier or less pleasant**:\n• きらきら (twinkling, like stars) × ぎらぎら (glaring, like a harsh summer sun)\n• ころころ (a small, light thing rolling) × ごろごろ (something big and heavy rolling; also lazing around at home, or thunder rumbling)\n\n**The sentence, block by block.** With する, the onomatopoeia becomes part of the **PREDICATE**: [田中さんは][いつも][にこにこしている]. When it describes another verb, it is a **HOW** block in front of that verb.\n\n**擬態語 × 擬音語** (point a): ask yourself \"could I record this sound?\" Rain: yes → ザーザー (擬音語). A shiny floor: no → ぴかぴか (擬態語). An irritated person: no sound at all → いらいら (擬態語).",
+      "structure": "[onomatopoeia] + する / している · [onomatopoeia] (と) + [verb]",
+      "examples": [
+        { "jp": "電車が遅れて、いらいらした。", "kana": "でんしゃがおくれて、いらいらした。", "romaji": "Densha ga okurete, iraira shita.", "en": "The train was late, and I got irritated." },
+        { "jp": "休みの日は家でのんびりしたい。", "kana": "やすみのひはいえでのんびりしたい。", "romaji": "Yasumi no hi wa ie de nonbiri shitai.", "en": "On my days off, I want to take it easy at home." },
+        { "jp": "田中さんはいつもにこにこしている。", "kana": "たなかさんはいつもにこにこしている。", "romaji": "Tanaka-san wa itsumo nikoniko shite iru.", "en": "Tanaka is always smiling." }
+      ],
+      "pitfalls": [
+        "Not every onomatopoeia takes する. ぐっすり only goes before a sleep verb: 昨日はぐっすりした ✗ → 昨日はぐっすり眠った ✓.",
+        "にこにこ is a warm, happy smile; a sly or suspicious grin is にやにや. For a kind teacher: 先生がにやにやしている ✗ → 先生がにこにこしている ✓.",
+        "The person feels いらいら, not the thing that causes it: 電車がいらいらする ✗ → 電車が遅くて、いらいらする ✓ (or 遅い電車にいらいらする ✓)."
+      ],
+      "howToStudy": [
+        "Describe 3 people you know with 〜している, out loud: 〜さんはいつもにこにこしている, 〜さんはよくいらいらしている, 〜さんはいつものんびりしている.",
+        "🔬 Anatomy → Analyze: paste example 3 — にこにこしている comes out as one PREDICATE block. Then paste example 2: there the engine shows のんびり as a HOW block and したい as the PREDICATE. Both views make sense: the word says how, and する says it happens.",
+        "Say the voicing pairs aloud with a gesture: きらきら (fingers twinkling) × ぎらぎら (a hand shading your eyes from the sun); ころころ (a marble rolling) × ごろごろ (a heavy rock — or you on the sofa on Sunday)."
+      ],
+      "flag": null
+    },
+    {
+      "id": "P-17-c",
+      "gc": null,
+      "title": "Ten common ones and their patterns (と + verb, する, だ／の)",
+      "gloss": "learn each word with its usual partner",
+      "explanation": "Onomatopoeia don't all behave the same way. Some only go before a verb, some become する-verbs, and some act like nouns, with **だ** at the end and **の** before another noun. The safe way is to learn each word **with its usual partner** — the verb or ending it goes with — as one chunk.\n\n**With だ / の (like a noun):**\n• **ぴかぴか** — shiny, sparkling clean: ぴかぴかの靴 (shiny shoes), 床がぴかぴかだ. Also ぴかぴかしている.\n• **ふわふわ** — soft and fluffy: ふわふわのパン, ふわふわのタオル. Also ふわふわしている.\n• **ぺらぺら** — fluent (in a language): 日本語がぺらぺらだ. As an adverb, ぺらぺら話す means \"speak fluently\" — or \"chatter on too much\", depending on the tone.\n• **ばらばら** — scattered, in pieces, all different: みんなの意見がばらばらだった (everyone had a different opinion). Also ばらばらに: 家族がばらばらに住んでいる (the family lives apart).\n• **ぎりぎり** — just barely, at the very last moment: ぎりぎりだった (it was close), ぎりぎりの時間 (cutting it close). Also before a verb: 終電にぎりぎり間に合った (I just barely made the last train).\nBefore a noun, these words take **の**: ぴかぴかの靴 ✓.\n\n**Only before a verb:**\n• **ぐっすり** — (sleep) soundly: ぐっすり眠る／寝る.\n• **そろそろ** — it's about time (to do something): そろそろ帰ろうか (shall we get going?). It is also the polite way to end a visit or a meeting: そろそろ失礼します (I should be going).\n\n**As する-verbs** (point b): のんびりする, にこにこする, いらいらする, ドキドキする.\n\n**The sentence, block by block.** With だ, the word is the **PREDICATE**: [マリアさんは][日本語が][ぺらぺらだ]. With の, it **DESCRIBES NEXT**: [ぴかぴかの][靴を]. Before a verb, it is a **HOW** block: [ぐっすり][眠った].\n\n**そろそろ × もうすぐ**: both can be \"soon\", but そろそろ means \"**it's about time** (that we did it)\" and goes naturally with **your own next step or a suggestion**: そろそろ始めましょう. もうすぐ simply says **something will happen soon**, often something outside your control: もうすぐ電車が来る. (そろそろ電車が来る is also possible: \"the train should be coming any minute now\".)\n\n**ぺらぺら × ぺこぺこ**: one vowel apart. ぺらぺら = fluent; **ぺこぺこ** = starving (お腹がぺこぺこだ) — or bowing again and again.",
+      "structure": "[word] だ · [word] の + [noun] · [word] + [verb] (ぐっすり眠る · そろそろ帰る · ぎりぎり間に合う)",
+      "examples": [
+        { "jp": "マリアさんは日本語がぺらぺらだ。", "kana": "マリアさんはにほんごがぺらぺらだ。", "romaji": "Maria-san wa nihongo ga perapera da.", "en": "Maria speaks fluent Japanese. [lit. as for Maria, Japanese is pera-pera]" },
+        { "jp": "面接の日は、ぴかぴかの靴をはいて行った。", "kana": "めんせつのひは、ぴかぴかのくつをはいていった。", "romaji": "Mensetsu no hi wa, pikapika no kutsu o haite itta.", "en": "On the day of the interview, I wore my shiny shoes." },
+        { "jp": "みんなの意見がばらばらだった。", "kana": "みんなのいけんがばらばらだった。", "romaji": "Minna no iken ga barabara datta.", "en": "Everyone had a different opinion. [lit. everyone's opinions were scattered]" }
+      ],
+      "pitfalls": [
+        "Onomatopoeia are not い-adjectives: ふわふわいパン ✗ → ふわふわのパン ✓.",
+        "ぺらぺら is for languages (or chatter), not for other skills: 兄はサッカーがぺらぺらだ ✗ → 兄はサッカーが上手だ ✓.",
+        "ぎりぎり means \"just in time, only just\"; after a long wait, \"finally\" is やっと: 一時間待って、ぎりぎりバスが来た ✗ → 一時間待って、やっとバスが来た ✓."
+      ],
+      "howToStudy": [
+        "Make one card per word **with its partner** (ぐっすり＋眠る, ぴかぴか＋の靴, 日本語が＋ぺらぺら, ぎりぎり＋間に合う) and save each one inside a sentence with Mining (⛏): onomatopoeia stick best as chunks, not as single words.",
+        "🔬 Anatomy → Analyze: paste example 1 (日本語が is the SUBJECT, ぺらぺらだ the PREDICATE), then example 2 (ぴかぴかの is DESCRIBES NEXT, attached to 靴を, the OBJECT).",
+        "Speaking: for 60 seconds, describe your morning using at least four of the ten words (ぐっすり眠った、ぎりぎり間に合った、…). Record it and check each partner."
+      ],
+      "flag": null
+    }
+  ],
+  "media": [
+    { "order": 1, "kind": "video", "title": "Japanese Ammo with Misa: Japanese onomatopoeia (sound words and state words)", "where": "YouTube · Japanese Ammo with Misa channel", "url": "", "search": "Japanese Ammo with Misa onomatopoeia", "when": "After point b, as a second explanation. If her channel has no video on this topic, any clear video on Japanese onomatopoeia works." },
+    { "order": 2, "kind": "reading", "title": "A list of common Japanese onomatopoeia with example sentences (JLPT Sensei or another learner site)", "where": "Website · JLPT Sensei (or any learner site with an onomatopoeia list)", "url": "", "search": "JLPT Sensei Japanese onomatopoeia list", "when": "After the grammar block. Don't try to learn a whole list: pick the 5 words you meet most in your own reading and save them with Mining." },
+    { "order": 3, "kind": "input", "title": "Nihongo con Teppei: listen to one episode and note every onomatopoeia you catch", "where": "Podcast · Nihongo con Teppei", "url": "", "search": "Nihongo con Teppei podcast", "when": "On any day after the lesson. Relaxed spoken Japanese is full of them: for each one, guess whether it's a sound or a state." },
+    { "order": 4, "kind": "reading", "title": "Search in Japanese: 「(the word) とは」 or 「オノマトペ 一覧」 — Japanese pages that explain one onomatopoeia or list many", "where": "Web search · in Japanese", "url": "", "search": "オノマトペ 一覧", "when": "When a word from your reading isn't in your dictionary, or the English gloss doesn't fit. Read the example sentences first; if the explanation is still too hard, come back to it later." }
+  ],
+  "homework": {
+    "intro": "Do it by hand in your notebook. Write with the kanji you already know and use kana for the rest. Only then open the answer key, item by item. Circle what you got wrong and redo it the next day.",
+    "tasks": [
+      {
+        "id": "h1",
+        "type": "fill",
+        "prompt": "Fill in one word from the box, using each word once: ザーザー・ドンドン・ぐっすり・ぎりぎり・そろそろ・ぺらぺら.",
+        "items": [
+          { "q": "昨日は十時間も＿＿眠った。", "a": { "jp": "昨日は十時間もぐっすり眠った。", "kana": "きのうはじゅうじかんもぐっすりねむった。", "romaji": "Kinō wa jūjikan mo gussuri nemutta." }, "note": "ぐっすり goes with a sleep verb: \"I slept soundly for ten whole hours.\"" },
+          { "q": "雨が＿＿降っているから、タクシーで行こう。", "a": { "jp": "雨がザーザー降っているから、タクシーで行こう。", "kana": "あめがザーザーふっているから、タクシーでいこう。", "romaji": "Ame ga zāzā futte iru kara, takushī de ikō." }, "note": "The sound of pouring rain: a 擬音語." },
+          { "q": "もう十一時だ。＿＿帰ろうか。", "a": { "jp": "もう十一時だ。そろそろ帰ろうか。", "kana": "もうじゅういちじだ。そろそろかえろうか。", "romaji": "Mō jūichiji da. Sorosoro kaerō ka." }, "note": "\"It's about time\" + a suggestion about your own next step: そろそろ, not もうすぐ." },
+          { "q": "駅まで走って、電車に＿＿間に合った。", "a": { "jp": "駅まで走って、電車にぎりぎり間に合った。", "kana": "えきまではしって、でんしゃにぎりぎりまにあった。", "romaji": "Eki made hashitte, densha ni girigiri maniatta." }, "note": "Just barely in time: ぎりぎり + 間に合う." },
+          { "q": "誰かがドアを＿＿たたいている。", "a": { "jp": "誰かがドアをドンドンたたいている。", "kana": "だれかがドアをドンドンたたいている。", "romaji": "Dareka ga doa o dondon tataite iru." }, "note": "Someone is banging on the door. With a doubled form, と is optional (ドンドンとたたいている is also correct)." },
+          { "q": "ルーカスさんは五年も日本に住んでいたから、日本語が＿＿だ。", "a": { "jp": "ルーカスさんは五年も日本に住んでいたから、日本語がぺらぺらだ。", "kana": "ルーカスさんはごねんもにほんにすんでいたから、にほんごがぺらぺらだ。", "romaji": "Rūkasu-san wa gonen mo Nihon ni sunde ita kara, nihongo ga perapera da." }, "note": "A language + が + ぺらぺらだ = fluent." }
+        ]
+      },
+      {
+        "id": "h2",
+        "type": "transform",
+        "prompt": "Each sentence has one mistake. Rewrite it correctly.",
+        "items": [
+          { "q": "疲れて、ベッドにバタン倒れた。", "a": { "jp": "疲れて、ベッドにバタンと倒れた。", "kana": "つかれて、ベッドにバタンとたおれた。", "romaji": "Tsukarete, beddo ni batan to taoreta." }, "note": "A one-shot sound ending in ン needs と." },
+          { "q": "昨日はぐっすりした。", "a": { "jp": "昨日はぐっすり寝た。", "kana": "きのうはぐっすりねた。", "romaji": "Kinō wa gussuri neta." }, "note": "ぐっすり doesn't take する: it needs a sleep verb (寝る or 眠る)." },
+          { "q": "ふわふわいパンが好きだ。", "a": { "jp": "ふわふわのパンが好きだ。", "kana": "ふわふわのパンがすきだ。", "romaji": "Fuwafuwa no pan ga suki da." }, "note": "Before a noun: の." },
+          { "q": "兄はサッカーがぺらぺらだ。", "a": { "jp": "兄はサッカーが上手だ。", "kana": "あにはサッカーがじょうずだ。", "romaji": "Ani wa sakkā ga jōzu da." }, "note": "ぺらぺら is only for languages (or chatter)." },
+          { "q": "一時間待って、ぎりぎりバスが来た。", "a": { "jp": "一時間待って、やっとバスが来た。", "kana": "いちじかんまって、やっとバスがきた。", "romaji": "Ichijikan matte, yatto basu ga kita." }, "note": "After a long wait = やっと (finally). ぎりぎり is \"only just in time\"." }
+        ]
+      },
+      {
+        "id": "h3",
+        "type": "translate",
+        "prompt": "Translate into Japanese, using an onomatopoeia from this lesson in each sentence.",
+        "items": [
+          { "q": "I get irritated when the train is late.", "a": { "jp": "電車が遅れると、いらいらする。", "kana": "でんしゃがおくれると、いらいらする。", "romaji": "Densha ga okureru to, iraira suru." }, "note": "〜と = whenever (lesson 18-3); いらいら + する." },
+          { "q": "On Sunday I took it easy at home.", "a": { "jp": "日曜日は家でのんびりした。", "kana": "にちようびはいえでのんびりした。", "romaji": "Nichiyōbi wa ie de nonbiri shita." } },
+          { "q": "My heart was pounding before the test.", "a": { "jp": "テストの前、胸がドキドキしていた。", "kana": "テストのまえ、むねがドキドキしていた。", "romaji": "Tesuto no mae, mune ga dokidoki shite ita." }, "note": "〜していた: the state lasted for a while." },
+          { "q": "The kitchen is sparkling clean.", "a": { "jp": "台所がぴかぴかだ。", "kana": "だいどころがぴかぴかだ。", "romaji": "Daidokoro ga pikapika da." }, "note": "台所がぴかぴかしている is also correct." },
+          { "q": "The dog next door barks every morning.", "a": { "jp": "隣の犬が毎朝ワンワンほえる。", "kana": "となりのいぬがまいあさワンワンほえる。", "romaji": "Tonari no inu ga maiasa wanwan hoeru." } },
+          { "q": "It's about time we started the meeting.", "a": { "jp": "そろそろ会議を始めましょう。", "kana": "そろそろかいぎをはじめましょう。", "romaji": "Sorosoro kaigi o hajimemashō." } }
+        ]
+      },
+      {
+        "id": "h4",
+        "type": "produce",
+        "prompt": "Write a short diary entry (4–5 sentences) about yesterday with at least five onomatopoeia from this lesson, and at least one of each pattern: before a verb, with する, and with だ or の. Then read it aloud and record yourself on your phone.",
+        "items": [
+          { "q": "Model (match its structure, not its words):", "a": { "jp": "昨日の朝は雨がザーザー降っていた。電車が遅れて、いらいらした。会社にはぎりぎり間に合った。夜は家でのんびりして、ふわふわの布団でぐっすり眠った。", "kana": "きのうのあさはあめがザーザーふっていた。でんしゃがおくれて、いらいらした。かいしゃにはぎりぎりまにあった。よるはいえでのんびりして、ふわふわのふとんでぐっすりねむった。", "romaji": "Kinō no asa wa ame ga zāzā futte ita. Densha ga okurete, iraira shita. Kaisha ni wa girigiri maniatta. Yoru wa ie de nonbiri shite, fuwafuwa no futon de gussuri nemutta.", "en": "Yesterday morning it was pouring. The train was late, and I got irritated. I only just made it to work on time. In the evening I took it easy at home and slept soundly on my fluffy futon." }, "note": "Check: each word with its usual partner (ザーザー + 降る, いらいら + する, ぎりぎり + 間に合う, ふわふわ + の, ぐっすり + 眠る), と only where it's needed, and the whole diary in one style (plain だ／た)." }
+        ]
+      }
+    ],
+    "workbook": []
+  },
+  "practice": [
+    { "tool": "Wagotabi", "what": "Play in the game's N3 area. Hunt for onomatopoeia in the dialogues: doubled words (ドキドキ, にこにこ) or short ones ending in ッ or ン (バタン). For each one, pause and decide: a real sound (擬音語) or a state or feeling (擬態語)? And which pattern: before a verb, with する, or with だ／の? Log the session in Immersion → Games, paste one of those lines into 🔬 Anatomy and save it with Mining (⛏), so the word enters your SRS inside its whole sentence.", "min": 15 },
+    { "tool": "NHK NEWS WEB EASY", "what": "Read one article with a pop-up dictionary such as Yomitan (hover over a word to see its reading and meaning) and listen to its audio. News uses fewer onomatopoeia than conversation or manga, so if you find one, copy its sentence; if not, pick one scene from the article and describe it in your own sentence with an onomatopoeia (雨がザーザー…, みんなの意見がばらばら…).", "min": 10 },
+    { "tool": "ヅオリンゴー · Journal", "what": "Write 5 sentences of your own about your day, with 5 different onomatopoeia and all three patterns (before a verb, する, だ／の). Use \"Anatomy of what I wrote\" to check that each predicate sits at the end and that each onomatopoeia comes right before the verb or noun it describes.", "min": 10 },
+    { "tool": "Shadowing", "what": "Tap 🔊 on each example in this lesson and repeat along 3 times. Onomatopoeia have a bouncy, even rhythm: keep both halves the same length (ザー・ザー, ぴか・ぴか) and give っ its full beat in ぐっすり.", "min": 5 },
+    { "tool": "Speaking", "what": "Record 30–60 seconds describing a scene around you (the weather, the people, your room) with at least 5 onomatopoeia. Listen back: did you use each word with its usual partner?", "min": 5 }
+  ],
+  "culture": {
+    "title": "Onomatopoeia in manga",
+    "titleJp": "マンガのオノマトペ",
+    "body": "Open almost any Japanese manga and you'll see big, bold sound effects drawn right into the pictures: a door goes バタン, a heavy landing goes ドン. They are usually hand-drawn, most often in katakana, as part of the art itself. Manga also \"writes\" things that make no sound at all: シーン for an awkward silence, ジーッ for a long stare, キラキラ around a sparkling smile. Because the effects are part of the drawing, translated editions often leave them in Japanese and add a small translation next to them. Japanese has so many of these words that whole dictionaries of onomatopoeia exist.",
+    "try": "Read 3–5 pages of an easy manga (learner communities often suggest よつばと！ as a first manga, but any light, everyday story works) with a pop-up dictionary or a notebook at hand. List every sound effect you find, sort them into 擬音語 (a real sound) and 擬態語 (no sound), and look up the ones you don't know."
+  },
+  "checklist": [
+    "I can explain the difference between 擬音語 and 擬態語 and give two examples of each without looking.",
+    "I can put a sound word before a verb, and I know when と is needed (ドアがバタンと閉まった).",
+    "I can say how I feel with いらいらする, のんびりする and ドキドキする, and describe people with にこにこしている.",
+    "I know the usual partner of each of the ten common words (ぐっすり眠る, ぴかぴかの靴, 日本語がぺらぺらだ, そろそろ帰る, ぎりぎり間に合う…).",
+    "I don't mix up そろそろ and もうすぐ, or ぺらぺら and ぺこぺこ.",
+    "I did the homework, checked it against the answer key and redid what I got wrong."
+  ],
+  "credits": [
+    "Explanations adapted in part from Sakubi (public domain, CC0) — sakubi.neocities.org",
+    "Study method informed by the DJT Guide to Japanese — djtguide.neocities.org/guide"
+  ]
+}

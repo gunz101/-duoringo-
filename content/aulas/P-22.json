@@ -1,0 +1,220 @@
+{
+  "id": "P-22",
+  "unit": "P-N3",
+  "genki": null,
+  "title": "Natural pronunciation",
+  "titleJp": "自然な発音",
+  "canDo": [
+    "I can explain what pitch accent is (high and low, not loud and soft) and recognize the four Tokyo patterns: heiban, atamadaka, nakadaka and odaka.",
+    "I can hear and say the difference between 箸 and 橋 (はし) and between 雨 and 飴 (あめ), including what happens to the particle after them.",
+    "I can keep every beat at its full length: long vowels (おばさん × おばあさん), small っ (きて × きって) and a devoiced です.",
+    "I can make my voice rise for a question and fall for a statement or for そうですか meaning \"I see\", without changing a word.",
+    "I can run a full shadowing session, step by step, with a podcast or NHK Easy audio, and record myself to compare."
+  ],
+  "duration": {
+    "total": "70–90 min",
+    "blocks": [
+      { "t": "Warm-up: record yourself reading 3 sentences of self-introduction. Keep the file: you'll compare it at the end", "min": 5 },
+      { "t": "Vocabulary: tap 🔊 on each word and repeat it twice, always with a particle after it (はしが, あめが…)", "min": 10 },
+      { "t": "Point a (pitch accent), with the 5 はし／あめ words said aloud with a particle", "min": 20 },
+      { "t": "Point b (sentence intonation), with one 🔬", "min": 10 },
+      { "t": "Point c (advanced shadowing): the timing drill, then one full 8-step session. If you split the lesson into two sessions, start the second one here.", "min": 15 },
+      { "t": "Block 6: the Dogen video and OJAD／Kotu, then the podcast for your shadowing", "min": 10 },
+      { "t": "Notebook homework + checking it against the answer key", "min": 10 },
+      { "t": "Checklist (block 10) + record the warm-up sentences again and compare", "min": 5 }
+    ]
+  },
+  "prereqs": {
+    "aulas": ["P-21"],
+    "skills": [
+      "Reading kana fluently, and knowing that each kana is one beat (lesson 00-1, where you had a first look at pitch).",
+      "Questions with か, and casual questions with only a rising voice (lessons 01-1 and 08-1).",
+      "A phone or computer that can record your voice, and earphones."
+    ],
+    "vocab": [
+      { "jp": "発音", "kana": "はつおん", "romaji": "hatsuon", "en": "pronunciation" },
+      { "jp": "アクセント", "kana": "アクセント", "romaji": "akusento", "en": "accent; in Japanese, usually the pitch accent of a word" },
+      { "jp": "高い", "kana": "たかい", "romaji": "takai", "en": "high" },
+      { "jp": "低い", "kana": "ひくい", "romaji": "hikui", "en": "low" },
+      { "jp": "箸", "kana": "はし", "romaji": "hashi", "en": "chopsticks" },
+      { "jp": "橋", "kana": "はし", "romaji": "hashi", "en": "bridge" },
+      { "jp": "端", "kana": "はし", "romaji": "hashi", "en": "edge, end" },
+      { "jp": "雨", "kana": "あめ", "romaji": "ame", "en": "rain" },
+      { "jp": "飴", "kana": "あめ", "romaji": "ame", "en": "candy" },
+      { "jp": "平板", "kana": "へいばん", "romaji": "heiban", "en": "\"flat\" pattern: no fall at all" },
+      { "jp": "頭高", "kana": "あたまだか", "romaji": "atamadaka", "en": "\"head-high\" pattern: falls after the first beat" },
+      { "jp": "中高", "kana": "なかだか", "romaji": "nakadaka", "en": "\"middle-high\" pattern: falls inside the word" },
+      { "jp": "尾高", "kana": "おだか", "romaji": "odaka", "en": "\"tail-high\" pattern: falls on the particle" },
+      { "jp": "イントネーション", "kana": "イントネーション", "romaji": "intonēshon", "en": "intonation, the melody of a sentence" },
+      { "jp": "標準語", "kana": "ひょうじゅんご", "romaji": "hyōjungo", "en": "standard Japanese" },
+      { "jp": "方言", "kana": "ほうげん", "romaji": "hōgen", "en": "dialect" },
+      { "jp": "拍", "kana": "はく", "romaji": "haku", "en": "beat, mora (one kana = one beat)" },
+      { "jp": "切手", "kana": "きって", "romaji": "kitte", "en": "(postage) stamp" },
+      { "jp": "おばあさん", "kana": "おばあさん", "romaji": "obāsan", "en": "grandmother; an elderly woman" },
+      { "jp": "おばさん", "kana": "おばさん", "romaji": "obasan", "en": "aunt; a middle-aged woman" },
+      { "jp": "録音", "kana": "ろくおん", "romaji": "rokuon", "en": "recording; 録音する = to record" },
+      { "jp": "渡る", "kana": "わたる", "romaji": "wataru", "en": "to cross (a bridge, a street)" },
+      { "jp": "引っ越す", "kana": "ひっこす", "romaji": "hikkosu", "en": "to move (to a new home)" }
+    ]
+  },
+  "grammar": [
+    {
+      "id": "P-22-a",
+      "gc": null,
+      "title": "Pitch accent",
+      "gloss": "each beat is high or low, and every word has its own melody",
+      "explanation": "In Japanese, each beat (mora) of a word is said on a **high** or a **low** note. This is **pitch accent**. It's about melody, not about saying a syllable **louder or longer**, as with English stress — and it isn't the \"tones\" of Chinese either: each word has one simple shape. Kana don't show it (Sakubi), so you learn it by ear and from accent dictionaries.\n\n**The Tokyo rules, simplified:**\n• The first two beats are always different: high–low, or low–high.\n• Once the pitch **falls**, it stays low until the end of the word — and on the particle after it.\n• So what defines a word's melody is **where it falls**, or that it never falls. That gives four patterns (capital letters = high):\n• **平板 heiban** (flat): low, then high, and it never falls — even the particle stays high. 飴 (あめ): a-ME, あめが a-ME-GA.\n• **頭高 atamadaka** (head-high): high on the first beat, then low. 雨 (あめ): A-me, あめが A-me-ga. 箸 (はし): HA-shi.\n• **中高 nakadaka** (middle-high): it rises, then falls inside the word. 日本 (にほん): ni-HO-n.\n• **尾高 odaka** (tail-high): it rises and stays high to the end of the word, then falls on the particle. 橋 (はし): ha-SHI, はしが ha-SHI-ga.\n\n**Heiban × odaka: the particle tells them apart.** Alone, 端 (はし, edge — heiban) and 橋 (はし, bridge — odaka) both sound ha-SHI. Add a particle and the difference appears: 端が ha-SHI-GA stays up, 橋が ha-SHI-ga falls. That's why you should always learn and shadow a word **with a particle after it**.\n\n**How much does it matter?** Context usually saves you: at a dinner table, はし can only be chopsticks. But steady pitch makes you sound natural and easier to follow, and Sakubi is right that it becomes important once you want to speak. Remember Sakubi's other point too: Japanese is **not flat or robotic**. It has its own music, like every language.\n\n**Regions.** Pitch accent varies a lot across Japan. What you learn here is the **Tokyo-based standard (標準語)** used in national news and in accent dictionaries. In the Kansai region (lesson P-16) many words follow other patterns, and some regions hardly use word pitch at all. So if a native speaker from elsewhere says a word differently, they are not wrong.",
+      "structure": "heiban: L H H… (particle H) · atamadaka: H L L… (particle L) · nakadaka: L H… L (particle L) · odaka: L H… H (particle L)",
+      "examples": [
+        { "jp": "箸を取ってください。", "kana": "はしをとってください。", "romaji": "Hashi o totte kudasai.", "en": "Please pass me the chopsticks. [箸を = HA-shi-o: high, then low — atamadaka]" },
+        { "jp": "この橋を渡ってください。", "kana": "このはしをわたってください。", "romaji": "Kono hashi o watatte kudasai.", "en": "Please cross this bridge. [橋を = ha-SHI-o: the fall comes only on を — odaka]" },
+        { "jp": "「あめ」って、雨？飴？", "kana": "「あめ」って、あめ？あめ？", "romaji": "\"Ame\" tte, ame? ame?", "en": "When you say \"ame\", do you mean rain or candy? [雨 = A-me, high–low; 飴 = a-ME, low–high]", "noAnat": true }
+      ],
+      "pitfalls": [
+        "Making the high beat louder or longer, like English stress: \"HAAH-shi\" ✗ → the same volume and length, just a higher note on は ✓.",
+        "Learning words without a particle, so heiban and odaka sound the same: はし alone ✗ → はしが／はしを, where the particle shows the pattern ✓.",
+        "Going back up after the fall in the same word: 雨が as A-me-GA ✗ → A-me-ga ✓ — once it falls, it stays low.",
+        "Treating Tokyo pitch as the only correct one: \"that speaker from Osaka has the wrong accent\" ✗ → it's a regional pattern; Tokyo is simply the standard you're learning ✓."
+      ],
+      "howToStudy": [
+        "Say the 5 words slowly with a particle, drawing the melody in the air with your hand: 箸が (HA-shi-ga), 橋が (ha-SHI-ga), 端が (ha-SHI-GA), 雨が (A-me-ga), 飴が (a-ME-GA). Record them and listen.",
+        "In OJAD (Resources tab → Start here), paste examples 1 and 2 into Suzuki-kun, its prosody tutor, and compare its pitch line with your recording.",
+        "Kotu (Resources tab): 5 minutes of its minimal-pair listening test. Don't chase a score: listen for the drop."
+      ],
+      "flag": "Pitch accent varies by region. Every marking in this lesson is the standard Tokyo pattern, the one used in national broadcasts and in accent dictionaries such as OJAD. In Kansai and other regions many words follow different patterns, and some areas hardly use word pitch at all. はし (箸／橋／端) and あめ (雨／飴) are the classic textbook pairs; for 日本 (にほん, nakadaka) and any other word you want to drill, confirm the pattern in OJAD's Suzuki-kun or in Wiktionary first."
+    },
+    {
+      "id": "P-22-b",
+      "gc": null,
+      "title": "Sentence intonation",
+      "gloss": "the melody of the whole sentence: rise, fall, and where to pause",
+      "explanation": "Pitch accent belongs to the **word**: it's in the dictionary and it doesn't change. **Intonation** is the melody you lay over the **whole sentence**, mostly on its last beats — and **you choose it**. It tells the listener whether you're asking, answering, surprised or just acknowledging.\n• **Rising end ↗ = a question.** In casual speech the rise alone makes the question: 行く？ (Are you going?) × 行く。 (I'm going.) Polite questions with か usually rise too, even with a question word: どこに行きますか↗.\n• **Falling end ↘ = a statement or an answer.** そうですか with a falling voice means \"I see\"; with a rise it means \"Really?\" (lesson 01-1).\n• **え** alone, said with a quick rise (え↗), means \"Huh?\" or \"What?\".\n• **ね and よ** also change nuance with the melody (a short rising ね usually invites agreement), but speakers vary — copy what you hear rather than learning a rule.\n\n**Pitch accent × intonation.** A question's rise doesn't erase the word's accent: in 雨？ (\"Rain?\"), the word keeps its A-me shape and the rise comes on the very last beat.\n\n**One wave, not a row of bumps.** Each word keeps its own shape, but across a statement the voice generally drifts down: each new block tends to start a little lower, especially after a word with a fall. A word you want to stand out — new information, the answer to a question — starts higher. If you restart every word at the top, you sound as if you were reading a list.\n\n**Pauses belong at block edges.** When you need to breathe, pause **after** a whole block — after は, が, を, に, で, after a time word or a comma — never between a word and its particle. The blocks you've been tagging with 🔬 all course are exactly the units of Japanese rhythm.",
+      "structure": "[the words keep their pitch] + sentence end: ↗ question · ↘ statement, answer, \"I see\" · pauses only between blocks",
+      "examples": [
+        { "jp": "明日、行く？— うん、行く。", "kana": "あした、いく？— うん、いく。", "romaji": "Ashita, iku? — Un, iku.", "en": "Are you going tomorrow? — Yeah, I'm going. [the same 行く: a rise makes it a question, a fall makes it an answer]" },
+        { "jp": "来月、大阪へ引っ越します。— そうですか。さびしくなりますね。", "kana": "らいげつ、おおさかへひっこします。— そうですか。さびしくなりますね。", "romaji": "Raigetsu, Ōsaka e hikkoshimasu. — Sō desu ka. Sabishiku narimasu ne.", "en": "I'm moving to Osaka next month. — I see. We'll miss you. [そうですか with a fall = \"I see\"; さびしくなります, lit. it will get lonely]" },
+        { "jp": "え？今、何て言った？", "kana": "え？いま、なんていった？", "romaji": "E? Ima, nan te itta?", "en": "Huh? What did you just say? [え with a quick rise = \"huh?\"]", "noAnat": true }
+      ],
+      "pitfalls": [
+        "Ending a casual question with a fall: 行く↘, meant as a question ✗ (it sounds like \"I'm going\") → 行く↗ ✓.",
+        "A rising そうですか when you only mean \"I see\": そうですか↗ ✗ (it sounds like doubt: \"Really?\") → そうですか↘ ✓.",
+        "Pausing between a word and its particle: わたし… は、 ✗ → わたしは、… ✓ — pause after the whole block.",
+        "Starting every block on a high note, like a list: 来月、大阪へ、引っ越します with three equal peaks ✗ → one wave that drifts down towards the end ✓."
+      ],
+      "howToStudy": [
+        "Say 行く 3 ways and record them: a statement (行く↘), a question (行く↗) and surprise (行く！？). Only the melody changes — check that you can hear it on the recording.",
+        "🔬 Anatomy → Analyze: paste example 2. 来月 is TIME, 大阪へ is DESTINATION and 引っ越します is the PREDICATE. Read it aloud pausing only between those blocks, then answer with a falling そうですか.",
+        "In the block 6 podcast, pick 5 sentence endings and write ↗ or ↘ for each in your notebook."
+      ],
+      "flag": null
+    },
+    {
+      "id": "P-22-c",
+      "gc": null,
+      "title": "Advanced shadowing, step by step",
+      "gloss": "speaking along with a recording to copy its timing, pitch and melody",
+      "explanation": "**Shadowing** means speaking **along with** a recording, a fraction of a second behind it, like its shadow — copying not only the words but the **rhythm and the melody**. It's harder than it sounds, so it's worth doing properly.\n\n**Shadowing × repeating × reading aloud.** Repeating (listen, pause, say it) is easier and fine for single words and short phrases. Reading aloud with no model lets you practice your own mistakes. Shadowing leaves you no time to translate: you have to copy the sound directly.\n\n**What to copy — the timing points (Sakubi):**\n• **Every beat is roughly the same length**, and a long vowel **literally lasts longer**: one extra beat. おばさん (aunt, 4 beats) × おばあさん (grandmother, 5); ビル (building) × ビール (beer).\n• **Small っ is a silent beat**: the mouth gets ready for the next consonant and holds it before releasing. きて (come) × きって (stamp). Sakubi's drill: ka-ta, ka-a-ta, ka-t-ta — three different lengths.\n• **Long e and long o.** えい in 先生 (せんせい) is usually said as a long e (\"sensē\"); saying え-い is also correct, just stiffer. An おう that is a long o, as in 学校 (がっこう), is always said as a long o — but in verb endings like 思う (おもう), お and う are two separate sounds.\n• **Devoicing.** In です and でした the u and the i almost disappear: \"dess\", \"desh-ta\". Sakubi's advice: don't study devoicing rules yet — just copy what you hear.\n• **ん blends into the next sound**: it becomes m before p, b, m (さんぽ, \"sampo\") and ng before k, g (銀行, \"ging-kō\").\n• **Pitch and intonation**, from points a and b.\n\n**A full session, step by step** (15–20 minutes, with 30–60 seconds of audio that has a transcript, at your level or a little below):\n• 1. Listen 2–3 times without the text, for the gist.\n• 2. Read the transcript and look up what you don't know (Yomitan). Check the pitch of 2–3 key words in OJAD.\n• 3. Listen while reading, and mark the pauses (/) and the falls (↘) on the transcript.\n• 4. **Mumble** along quietly: only the rhythm and the melody, with the words half-said.\n• 5. Shadow **with** the text.\n• 6. Shadow **without** the text.\n• 7. Record one pass and compare it with the original, sentence by sentence: length, pitch, pauses. Pick **one** thing to fix next time.\n• 8. Come back to the same audio in later sessions until it feels easy, then move on. If it's too fast, slow the playback down (many players offer 0.75×).",
+      "structure": "listen → read and look up → mark pauses and falls → mumble → shadow with text → shadow without text → record and compare → repeat later",
+      "examples": [
+        { "jp": "おばあさんは、切手を買いに行きました。", "kana": "おばあさんは、きってをかいにいきました。", "romaji": "Obāsan wa, kitte o kai ni ikimashita.", "en": "Grandma went to buy stamps. [おばあさん: 5 beats, with a long あ; 切手 (きって): 3 beats, with a silent beat on っ]" },
+        { "jp": "先生は、東京の学校で教えています。", "kana": "せんせいは、とうきょうのがっこうでおしえています。", "romaji": "Sensei wa, Tōkyō no gakkō de oshiete imasu.", "en": "The teacher teaches at a school in Tokyo. [long vowels in せんせい, とうきょう and がっこう: each one is an extra beat]" },
+        { "jp": "ビールとビルは、長さが違います。", "kana": "ビールとビルは、ながさがちがいます。", "romaji": "Bīru to biru wa, nagasa ga chigaimasu.", "en": "ビール (beer) and ビル (building) differ in length." }
+      ],
+      "pitfalls": [
+        "Shadowing audio far above your level ✗ (you end up mumbling noise) → audio you mostly understand with the transcript ✓.",
+        "Cutting a long vowel short: おばあさん said as おばさん ✗ (your grandmother becomes your aunt) → keep the extra beat ✓.",
+        "Skipping the small っ, or pronouncing it: きって as \"kite\" or \"ki-tsu-te\" ✗ → \"ki-t-te\", with a short silent stop ✓.",
+        "Saying every u in full in normal speech: です as \"de-su\" ✗ (it sounds stiff) → \"dess\" ✓."
+      ],
+      "howToStudy": [
+        "Do the timing drill aloud and record it: ka-ta / ka-a-ta / ka-t-ta, then おばさん／おばあさん, きて／きって, ビル／ビール. Clap once per beat to check the lengths.",
+        "🔬 Anatomy → Analyze: paste example 2. 先生は is the TOPIC, 東京の shows up as DESCRIBES NEXT, 学校で as PLACE and 教えています as the PREDICATE. Shadow it breathing only after 先生は, and keep 東京の学校で together: a DESCRIBES NEXT block belongs to the block after it.",
+        "Do one full 8-step session with the block 6 podcast (or an NHK Easy article's audio), and write in your notebook the one thing you'll fix next time."
+      ],
+      "flag": null
+    }
+  ],
+  "media": [
+    { "order": 1, "kind": "reading", "title": "Tae Kim's Guide: the hiragana and katakana pages (small っ and long vowels)", "where": "Website · Tae Kim's Guide to Learning Japanese", "url": "", "search": "Tae Kim hiragana small tsu long vowel", "when": "Before point c, as a quick review of timing." },
+    { "order": 2, "kind": "video", "title": "Dogen: pitch accent explained (his free YouTube videos)", "where": "YouTube · Dogen channel", "url": "", "search": "Dogen Japanese pitch accent", "when": "After point a. His full Japanese Phonetics series is paid (Patreon, in the Resources tab); the free videos are enough to start." },
+    { "order": 3, "kind": "input", "title": "A podcast episode to shadow: 30–60 seconds, 8 steps", "where": "Podcast · e.g. EASY JAPANESE PODCAST or YUYUの日本語Podcast (both in the Resources tab)", "url": "", "search": "EASY JAPANESE PODCAST Masa Asami", "when": "For point c. Choose an episode with subtitles or a transcript, so you can do steps 2 and 3." },
+    { "order": 4, "kind": "app", "title": "OJAD (with its Suzuki-kun tutor) and Kotu: the pitch dictionary and ear training", "where": "Resources tab → Start here · OJAD + Kotu", "url": "", "when": "During points a and c, and then a few minutes a week." }
+  ],
+  "homework": {
+    "intro": "Do it by hand in your notebook, then say every answer aloud — this is a pronunciation lesson, so the voice is part of the homework. Only then open the answer key, item by item. Circle what you got wrong and redo it the next day.",
+    "tasks": [
+      {
+        "id": "h1",
+        "type": "classify",
+        "prompt": "Pitch detective: each line gives the melody of a word + が. Which word is it? Write it in kanji and name its pattern.",
+        "items": [
+          { "q": "はしが: high, low, low", "a": { "jp": "箸", "kana": "はし", "romaji": "hashi", "en": "chopsticks (atamadaka)" }, "note": "It falls right after the first beat and stays low on が." },
+          { "q": "はしが: low, high, low", "a": { "jp": "橋", "kana": "はし", "romaji": "hashi", "en": "bridge (odaka)" }, "note": "It rises, and falls only on the particle." },
+          { "q": "はしが: low, high, high", "a": { "jp": "端", "kana": "はし", "romaji": "hashi", "en": "edge (heiban)" }, "note": "No fall at all: が stays high." },
+          { "q": "あめが: high, low, low", "a": { "jp": "雨", "kana": "あめ", "romaji": "ame", "en": "rain (atamadaka)" } },
+          { "q": "あめが: low, high, high", "a": { "jp": "飴", "kana": "あめ", "romaji": "ame", "en": "candy (heiban)" } }
+        ]
+      },
+      {
+        "id": "h2",
+        "type": "classify",
+        "prompt": "Count the beats. Write each word and the number of beats it has, then clap them as you say it.",
+        "items": [
+          { "q": "おばさん (aunt)", "a": { "jp": "おばさん", "romaji": "obasan", "en": "4 beats: お・ば・さ・ん" } },
+          { "q": "おばあさん (grandmother)", "a": { "jp": "おばあさん", "romaji": "obāsan", "en": "5 beats: お・ば・あ・さ・ん" }, "note": "The long あ is a full extra beat." },
+          { "q": "きって (stamp)", "a": { "jp": "きって", "romaji": "kitte", "en": "3 beats: き・っ・て" }, "note": "っ is a silent beat, but it still counts." },
+          { "q": "ビール (beer)", "a": { "jp": "ビール", "romaji": "bīru", "en": "3 beats: ビ・ー・ル" } },
+          { "q": "がっこう (school)", "a": { "jp": "がっこう", "romaji": "gakkō", "en": "4 beats: が・っ・こ・う" }, "note": "The う here is the second half of a long o." },
+          { "q": "せんせい (teacher)", "a": { "jp": "せんせい", "romaji": "sensei", "en": "4 beats: せ・ん・せ・い" }, "note": "ん is a beat of its own." }
+        ]
+      },
+      {
+        "id": "h3",
+        "type": "choose",
+        "prompt": "Rise or fall? Decide ↗ or ↘ for the end of each line, then say it aloud.",
+        "items": [
+          { "q": "(You're asking a friend) 明日、来る", "a": { "jp": "明日、来る？", "kana": "あした、くる？", "romaji": "Ashita, kuru?", "en": "↗ rising — it's a question" } },
+          { "q": "(You're answering) うん、来る", "a": { "jp": "うん、来る。", "kana": "うん、くる。", "romaji": "Un, kuru.", "en": "↘ falling — it's an answer" } },
+          { "q": "(A colleague says she's changing jobs; you mean \"I see\") そうですか", "a": { "jp": "そうですか。", "romaji": "Sō desu ka.", "en": "↘ falling — \"I see\"" }, "note": "With a rise, it would sound like doubt: \"Really?\"" },
+          { "q": "(You didn't catch what someone said) え", "a": { "jp": "え？", "romaji": "E?", "en": "↗ a quick rise — \"Huh?\"" } },
+          { "q": "(You can't believe the news) 本当", "a": { "jp": "本当？", "kana": "ほんとう？", "romaji": "Hontō?", "en": "↗ rising — \"Really?\"" } }
+        ]
+      },
+      {
+        "id": "h4",
+        "type": "produce",
+        "prompt": "Write 3 sentences of your own with 箸, 橋, 雨 or 飴. Under each one, write the melody of the はし／あめ word + its particle in romaji, with capitals for the high beats. Read them aloud and record yourself.",
+        "items": [
+          { "q": "Model (match its structure, not its words):", "a": { "jp": "橋を渡っているとき、雨が降ってきました。箸を忘れたので、店でもらいました。飴をなめながら、日本語の本を読みました。", "kana": "はしをわたっているとき、あめがふってきました。はしをわすれたので、みせでもらいました。あめをなめながら、にほんごのほんをよみました。", "romaji": "Hashi o watatte iru toki, ame ga futte kimashita. Hashi o wasureta node, mise de moraimashita. Ame o namenagara, nihongo no hon o yomimashita.", "en": "While I was crossing the bridge, it started to rain. I forgot my chopsticks, so I got some at the shop. I read a Japanese book while sucking on a candy." }, "note": "Check the melodies: 橋を = ha-SHI-o (を drops), 雨が = A-me-ga, 箸を = HA-shi-o, 飴を = a-ME-O (を stays high). Confirm them in OJAD's Suzuki-kun before you record." }
+        ]
+      }
+    ],
+    "workbook": []
+  },
+  "practice": [
+    { "tool": "Wagotabi", "what": "Play in the game's N3 area and copy 2 lines of dialogue into your notebook. Paste them into OJAD's Suzuki-kun (Resources tab) to see their pitch, then read them aloud like an actor, with a clear ↗ or ↘ at the end and pauses only between blocks. Log the session in Immersion → Games.", "min": 15 },
+    { "tool": "NHK NEWS WEB EASY", "what": "Pick an article and use its audio for steps 1–7 of the shadowing session, on its first 3 sentences. Look up words with Yomitan, and save one sentence with Mining (⛏): mining from real Japanese, the DJT way, now with a sound you've practiced.", "min": 10 },
+    { "tool": "ヅオリンゴー · Journal", "what": "Write 5 sentences of your own — at least one question and its answer, and one with a はし or あめ word. Use \"Anatomy of what I wrote\" to see the blocks, then read the sentences aloud, pausing only between blocks, and record them.", "min": 10 },
+    { "tool": "Shadowing", "what": "Tap 🔊 on each example in this lesson and shadow it 3 times, then do a 60-second clip from the block 6 podcast. Focus on one thing per pass: first length (long vowels and っ), then pitch, then the sentence endings.", "min": 10 },
+    { "tool": "Speaking", "what": "Record the warm-up self-introduction again and compare it with the first recording: beats, pitch of 2–3 words, and the end of each sentence. A few times a week, add 5 minutes of Kotu ear training.", "min": 5 }
+  ],
+  "culture": {
+    "title": "Rakugo: one storyteller, many voices (らくご)",
+    "titleJp": "落語",
+    "body": "**落語** (らくご) is a traditional comic storytelling art that goes back several centuries. A single performer, the 落語家 (らくごか), kneels on a cushion (座布団, ざぶとん) and tells a long story, playing every character alone. The only props are a folding fan (扇子, せんす) and a hand towel (手ぬぐい, てぬぐい), which can become chopsticks, a pipe, a letter or a wallet. To switch characters, the performer turns the head slightly to one side or the other and changes voice, speed and intonation — so rakugo is a showcase of exactly the melody you practiced in this lesson. Stories usually end with a punchline called the オチ. You can see it in small theaters called 寄席 (よせ), and some performers even do rakugo in English.",
+    "try": "Do a mini rakugo: sit facing a mirror, turn your head a little to the right for one character and a little to the left for the other, and act out 「おーい、いるかい？」—「はい、いますよ。何ですか？」 with a different voice for each. Then use your pen as a fan turned into chopsticks and pretend to eat noodles."
+  },
+  "checklist": [
+    "I can say 箸が, 橋が, 端が, 雨が and 飴が with the right pitch, and explain what the particle shows.",
+    "I can name the four Tokyo patterns and say where each one falls.",
+    "I know that pitch varies by region and that what I'm learning is the Tokyo-based standard.",
+    "I keep long vowels and small っ at their full length (おばあさん, きって, ビール) without thinking about it.",
+    "I can ask a casual question with a rise and answer with a fall, and I use a falling そうですか for \"I see\".",
+    "I've done at least one full 8-step shadowing session and recorded myself.",
+    "I did the homework, checked it against the answer key and redid what I got wrong."
+  ],
+  "credits": [
+    "Explanations adapted in part from Sakubi (public domain, CC0) — sakubi.neocities.org",
+    "Study method informed by the DJT Guide to Japanese — djtguide.neocities.org/guide"
+  ]
+}

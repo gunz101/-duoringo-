@@ -18,7 +18,7 @@
       { "t": "Vocabulary: tap 🔊 on each word and repeat it twice", "min": 10 },
       { "t": "Session 1 · Grammar: the arrow map, あげる and くれる (points a and b), examples aloud and one 🔬 each", "min": 20 },
       { "t": "Session 2 · Grammar: もらう (point c) and the same gift told from both sides", "min": 15 },
-      { "t": "Video (block 6), only the part on あげる, くれる and もらう", "min": 10 },
+      { "t": "Block 6: the video or the Sakubi section, only the part on あげる, くれる and もらう, as a second explanation (read to understand, not to memorize)", "min": 10 },
       { "t": "Notebook homework + checking it against the answer key (it is long: you can split it across the two sessions)", "min": 20 },
       { "t": "Checklist (block 10) + write your questions in the lesson notebook", "min": 5 }
     ]
@@ -64,7 +64,7 @@
       "gc": null,
       "title": "あげる: giving, away from me",
       "gloss": "I (or my family) give to others; others give to others",
-      "explanation": "Japanese has **three verbs** for giving and receiving, and the choice depends on **direction**: does the thing move away from you, or toward you? \"You\" here means **you and your inside group** (うち, lesson 07-1), above all your family.\n\n**The map** (copy it and keep it in front of you for the whole lesson):\n• **あげる**: [me / my family] ──▶ [others], and also [others] ──▶ [others]\n• **くれる**: [others] ──▶ [me / my family]\n• **もらう**: [receiver] ◀── [giver], told from the receiver's side, and never with you as the giver\n\n**あげる = \"give\", away from you.** The **giver** is the topic (は), the **receiver** takes **に**, and the gift takes **を**: 私はマリアさんに花をあげました.\n• It also works when both people are outside your group: ジョンさんはエミリーさんにマフラーをあげました.\n• It is **never** used when the thing comes toward you or your family: that is くれる (point b).\n• When the receiver is a teacher or a boss, polite speech uses the humble さしあげる (humble language, lesson 20-1). When you tell a friend about it, あげる is fine for now.\n• In the sentence: giver = TOPIC, receiver + に = TARGET (\"to whom?\"), gift + を = OBJECT, あげました = PREDICATE.",
+      "explanation": "Japanese has **three verbs** for giving and receiving, and the choice depends on **direction**: does the thing move away from you, or toward you? \"You\" here means **you and your inside group** (うち, lesson 07-1), above all your family.\n\n**The map** (copy it and keep it in front of you for the whole lesson):\n• **あげる**: [me / my family] ──▶ [others], and also [others] ──▶ [others]\n• **くれる**: [others] ──▶ [me / my family]\n• **もらう**: [receiver] ◀── [giver], told from the receiver's side, and never with you as the giver\n\n**あげる = \"give\", away from you.** The **giver** is the topic (は), the **receiver** takes **に**, and the gift takes **を**: 私はマリアさんに花をあげました.\n• It also works when both people are outside your group: ジョンさんはエミリーさんにマフラーをあげました. Then you are telling it from the **giver's side**: the story is about what John did.\n• It is **never** used when the thing comes toward you or your family: that is くれる (point b).\n• **The verb tells you who is missing.** Japanese drops the giver or the receiver all the time. With no giver stated, あげました usually means **I** gave it (as in example 2), unless you are already talking about someone else — and it can **never** mean that someone gave it to you.\n• When the receiver is a teacher or a boss, polite speech uses the humble さしあげる (humble language, lesson 20-1). When you tell a friend about it, あげる is fine for now.\n• In the sentence: giver = TOPIC, receiver + に = TARGET (\"to whom?\"), gift + を = OBJECT, あげました = PREDICATE.\n• **Going further (Sakubi):** Sakubi's lesson on giving also covers a fourth verb, **やる**, a plainer, blunter \"give / do\". As a \"give\" verb, you will hear it mostly for giving food or water to animals and plants: 犬にえさをやる (\"to feed the dog\"). For people, stay with あげる.",
       "structure": "[giver] は [receiver] に [gift] を あげる — me / my family ──▶ others, or others ──▶ others",
       "examples": [
         { "jp": "私はマリアさんに花をあげました。", "kana": "わたしはマリアさんにはなをあげました。", "romaji": "Watashi wa Maria-san ni hana o agemashita.", "en": "I gave Maria flowers. [lit. as for me, to Maria, flowers, gave]" },
@@ -74,7 +74,8 @@
       "pitfalls": [
         "When something comes to you, あげる is wrong: 友だちは私にチョコをあげました ✗ → 友だちが（私に）チョコをくれました ✓.",
         "The receiver takes に. と means \"together with\": マリアさんと花をあげました ✗ (for \"I gave Maria flowers\"; it says \"Maria and I gave flowers\") → マリアさんに花をあげました ✓.",
-        "あげる is a る-verb: あげります ✗ → あげます ✓; あげりました ✗ → あげました ✓."
+        "あげる is a る-verb: あげります ✗ → あげます ✓; あげりました ✗ → あげました ✓.",
+        "Face to face with a teacher or a boss, これをあげます can sound as if you are doing them a favor: 先生、これをあげます ✗ → 先生、これ、どうぞ ✓."
       ],
       "howToStudy": [
         "Copy the map into your notebook, big, and write your own name in the \"me / my family\" box, with your family inside it. Keep it open during the whole lesson.",
@@ -88,7 +89,7 @@
       "gc": null,
       "title": "くれる: giving, toward me",
       "gloss": "others give to me or my family",
-      "explanation": "**くれる = \"give (to me)\"**: the arrow points **at you** or your family. The frame is the same as with あげる, but now someone else is the giver.\n• The **giver** usually takes **が**: 友だちが私にまんがをくれました. (It takes は when it is already the topic.)\n• When the receiver is you, **私に is usually dropped**, because くれる already says \"to me\": 友だちがまんがをくれました.\n• Your **family** counts as \"me\": 田中さんが妹におかしをくれました (\"Mr. Tanaka gave my little sister sweets\"). With あげました, it would sound as if you were telling it from Mr. Tanaka's side, as if your sister were a stranger to you.\n• In a question, the **listener** counts as \"inside\" too: そのネクタイ、だれがくれたんですか。 (\"Who gave you that tie?\")\n• くれる is a る-verb: くれます, くれました, くれませんでした.\n• When the giver is a teacher or a boss, polite speech uses くださる: 先生がくださいました (honorific language, lesson 19-1).\n• In the sentence: giver + が = SUBJECT, receiver + に = TARGET (often missing), gift + を = OBJECT, くれました = PREDICATE.",
+      "explanation": "**くれる = \"give (to me)\"**: the arrow points **at you** or your family. The frame is the same as with あげる, but now someone else is the giver.\n• The **giver** usually takes **が**: 友だちが私にまんがをくれました. (It takes は when it is already the topic.)\n• When the receiver is you, **私に is usually dropped**, because くれる already says \"to me\": 友だちがまんがをくれました.\n• **A bare くれる always points at you.** Since its receiver can only be you (or your group), you can even drop both people: チョコをくれました = \"(someone) gave me chocolate\". In example 3, 母がくれました names no receiver at all, and nobody wonders who got the tie.\n• Your **family** counts as \"me\": 田中さんが妹におかしをくれました (\"Mr. Tanaka gave my little sister sweets\"). With あげました, it would sound as if you were telling it from Mr. Tanaka's side, as if your sister were a stranger to you.\n• In a question, the **listener** counts as \"inside\" too: そのネクタイ、だれがくれたんですか。 (\"Who gave you that tie?\")\n• くれる is a る-verb: くれます, くれました, くれませんでした.\n• When the giver is a teacher or a boss, polite speech uses くださる: 先生がくださいました (honorific language, lesson 19-1).\n• In the sentence: giver + が = SUBJECT, receiver + に = TARGET (often missing), gift + を = OBJECT, くれました = PREDICATE.",
       "structure": "[giver] が （私に） [gift] を くれる — others ──▶ me / my family",
       "examples": [
         { "jp": "友だちが私にまんがをくれました。", "kana": "ともだちがわたしにまんがをくれました。", "romaji": "Tomodachi ga watashi ni manga o kuremashita.", "en": "A friend gave me a manga. [lit. a friend, to me, a manga, gave]" },
@@ -98,12 +99,13 @@
       "pitfalls": [
         "You are never the giver of くれる: 私は友だちに花をくれました ✗ → 私は友だちに花をあげました ✓.",
         "With くれる, the giver takes が (or は), not に: 友だちに私はまんがをくれました ✗ → 友だちが（私に）まんがをくれました ✓. A giver with に belongs to もらう (point c).",
-        "Remember that your family is \"inside\": 友だちが弟にゲームをあげました ✗ (from your point of view) → 友だちが弟にゲームをくれました ✓."
+        "Remember that your family is \"inside\": 友だちが弟にゲームをあげました ✗ (from your point of view) → 友だちが弟にゲームをくれました ✓.",
+        "Don't use くれる when neither person is you or your family: 友だちがマリアさんにチョコをくれました ✗ → 友だちはマリアさんにチョコをあげました ✓ (two outsiders: あげる)."
       ],
       "howToStudy": [
         "Tap 🔬 on example 1: 友だちが is the SUBJECT (the giver), 私に is the TARGET (you), まんがを is the OBJECT and くれました is the PREDICATE. Compare it with example 1 of point a: the same frame, but the arrow now points at you.",
         "Look around your room and find 4 things someone gave you. Say out loud who gave each one: このマグカップは、友だちがくれました。",
-        "On your map, add 2 arrows from outsiders to people in your family and say both sentences out loud: 〜が妹に〜をくれました。"
+        "On your map, add 2 arrows from outsiders to people in your family and say both sentences out loud: 〜が妹に〜をくれました。 Then say one of your gifts bare, with no people at all (おかしをくれました), and notice that it still means \"to me (or us)\"."
       ],
       "flag": null
     },
@@ -112,7 +114,7 @@
       "gc": null,
       "title": "もらう: receiving",
       "gloss": "receive from someone (に / から)",
-      "explanation": "**もらう = \"receive, get\"**. Now the story is told **from the receiver's side**: the receiver is the topic (は), and the giver is marked with **に** or **から** (\"from\").\n• 私は友だちにまんがをもらいました = I got a manga from a friend. **With もらう, に means \"from\"**: the に-person is where the thing came from, the other end of the arrow.\n• **から** also works with people, and it is the natural choice when the giver is a place or an organization: 大学からメールをもらいました.\n• **One gift, two sentences**: 友だちが私にまんがをくれました (told as the friend's action, toward me) = 私は友だちにまんがをもらいました (told as my receiving). The facts are the same; the point of view changes.\n• もらう also works between two outsiders: エミリーさんはジョンさんにセーターをもらいました.\n• The one arrow it can't tell: **you as the giver**. \"Maria got flowers from me\" is not マリアさんは私に花をもらいました; say 私はマリアさんに花をあげました.\n• もらう is an う-verb: もらいます, もらいました, もらって.\n• When the giver is a teacher or a boss, polite speech uses いただく: 先生にいただきました (humble language, lesson 20-1).\n\n**All three for one arrow** (A gives B a gift):\n• A は B に あげる — not when B is you (or your family, receiving from an outsider).\n• A が B に くれる — only when B is you or your family.\n• B は A に／から もらう — not when A is you.\n• In the sentence: receiver = TOPIC, giver + から = FROM (the giver + に does the same job), gift + を = OBJECT, もらいました = PREDICATE.",
+      "explanation": "**もらう = \"receive, get\"**. Now the story is told **from the receiver's side**: the receiver is the topic (は), and the giver is marked with **に** or **から** (\"from\"). A helpful way to see it (Sakubi's): もらう works almost like **\"be given\"**, so the receiver is the one the sentence is about, not the \"to whom\".\n• 私は友だちにまんがをもらいました = I got a manga from a friend. **With もらう, に means \"from\"**: the に-person is where the thing came from, the other end of the arrow.\n• **から** also works with people, and it is the natural choice when the giver is a place or an organization: 大学からメールをもらいました.\n• **One gift, two sentences**: 友だちが私にまんがをくれました (told as the friend's action, toward me) = 私は友だちにまんがをもらいました (told as my receiving). The facts are the same; the point of view changes.\n• もらう also works between two outsiders: エミリーさんはジョンさんにセーターをもらいました.\n• The one arrow it can't tell: **you as the giver**. \"Maria got flowers from me\" is not マリアさんは私に花をもらいました; say 私はマリアさんに花をあげました.\n• With no receiver stated, もらいました usually means **I** got it (examples 2 and 3), unless you are already talking about someone else.\n• もらう is an う-verb: もらいます, もらいました, もらって.\n• When the giver is a teacher or a boss, polite speech uses いただく: 先生にいただきました (humble language, lesson 20-1).\n\n**All three for one arrow** (A gives B a gift):\n• A は B に あげる — not when B is you (or your family, receiving from an outsider).\n• A が B に くれる — only when B is you or your family.\n• B は A に／から もらう — not when A is you.\n• **Quick check: 私に fits only くれる.** With あげる it would make you the receiver, and with もらう it would make you the giver — and neither verb allows that.\n• In the sentence: receiver = TOPIC, giver + から = FROM (the giver + に does the same job), gift + を = OBJECT, もらいました = PREDICATE.\n• **Going further (Sakubi):** all three verbs also work as helpers after the て-form — 〜てあげる, 〜てくれる, 〜てもらう, \"to do something for someone\" — with exactly the same arrows (lesson 16-1). Master the arrows now and that lesson will be easy.",
       "structure": "[receiver] は [giver] に／から [gift] を もらう — the receiver's side of the arrow",
       "examples": [
         { "jp": "私は友だちにまんがをもらいました。", "kana": "わたしはともだちにまんがをもらいました。", "romaji": "Watashi wa tomodachi ni manga o moraimashita.", "en": "I got a manga from a friend. [the same gift as point b, example 1, told from my side]", "noAnat": true },
@@ -161,7 +163,8 @@
           { "q": "私は母にとけいをもらいました。 → くれる", "a": { "jp": "母がとけいをくれました。", "kana": "ははがとけいをくれました。", "romaji": "Haha ga tokei o kuremashita." }, "note": "The giver takes が; 私に can stay, but it is usually dropped." },
           { "q": "妹は田中さんにおかしをもらいました。 → くれる", "a": { "jp": "田中さんが妹におかしをくれました。", "kana": "たなかさんがいもうとにおかしをくれました。", "romaji": "Tanaka-san ga imōto ni okashi o kuremashita." }, "note": "Your sister is in your family, so くれる works." },
           { "q": "ルーカスさんが私に花をくれました。 → もらう", "a": { "jp": "私はルーカスさんに花をもらいました。", "kana": "わたしはルーカスさんにはなをもらいました。", "romaji": "Watashi wa Rūkasu-san ni hana o moraimashita." } },
-          { "q": "私はマリアさんにチョコをあげました。 → Can you tell it with もらう, from Maria's side? If not, write the natural sentence.", "a": { "jp": "私はマリアさんにチョコをあげました。", "kana": "わたしはマリアさんにチョコをあげました。", "romaji": "Watashi wa Maria-san ni choko o agemashita." }, "note": "No: when you are the giver, もらう sounds wrong (マリアさんは私にチョコをもらいました ✗). Keep あげる." }
+          { "q": "私はマリアさんにチョコをあげました。 → Can you tell it with もらう, from Maria's side? If not, write the natural sentence.", "a": { "jp": "私はマリアさんにチョコをあげました。", "kana": "わたしはマリアさんにチョコをあげました。", "romaji": "Watashi wa Maria-san ni choko o agemashita." }, "note": "No: when you are the giver, もらう sounds wrong (マリアさんは私にチョコをもらいました ✗). Keep あげる." },
+          { "q": "チョコをくれました。 (No people are named. Who received it? Tell it with もらう, with 友だち as the giver.)", "a": { "jp": "私は友だちにチョコをもらいました。", "kana": "わたしはともだちにチョコをもらいました。", "romaji": "Watashi wa tomodachi ni choko o moraimashita." }, "note": "A bare くれました always points at you, so the receiver is 私. 友だちから also works." }
         ]
       },
       {
@@ -189,9 +192,9 @@
     "workbook": []
   },
   "practice": [
-    { "tool": "Wagotabi", "what": "Play in an N4-level area, if you have reached one. Hunt the dialogues for あげる, くれる and もらう, also in other forms (くれた, もらって, あげよう…). For each one, say out loud who gives, who receives and which way the arrow points. Log the session in Immersion → Games and paste one of those lines into 🔬 Anatomy.", "min": 15 },
-    { "tool": "ヅオリンゴー", "what": "Drills → 🔬 Anatomy → 🧱 Build from the end with example 1 of point b, starting from くれました; then with example 1 of point a, starting from あげました.", "min": 10 },
-    { "tool": "ヅオリンゴー · Journal", "what": "Write 6 sentences about real gifts, 2 with each verb. Use \"Anatomy of what I wrote\" and check that the giver of くれる is the SUBJECT (が) and the receiver of もらう is the TOPIC (は).", "min": 10 },
+    { "tool": "Wagotabi", "what": "Play in an N4-level area, if you have reached one. Hunt the dialogues for あげる, くれる and もらう, also in other forms (くれた, もらって, あげよう…). For each one, say out loud who gives, who receives and which way the arrow points. Log the session in Immersion → Games, paste one of those lines into 🔬 Anatomy, and save it with ⛏ Mining after looking up any word you didn't know.", "min": 15 },
+    { "tool": "Reading", "what": "Read real Japanese early: in the Resources tab, open Tadoku's free graded readers and read one level-1 story (level 0 if 1 feels hard). Stories drop people all the time, so for each あげる, くれる or もらう you find, say out loud who gave, who received and who was left unsaid — the verb alone tells you. Look up only the words that block the story (on a computer, the Yomitan pop-up dictionary in the Resources tab does it with a hover).", "min": 10 },
+    { "tool": "ヅオリンゴー", "what": "Drills → 🔬 Anatomy → 🧱 Build from the end with example 1 of point b, starting from くれました. Then write 6 sentences about real gifts in the Journal, 2 with each verb, and use \"Anatomy of what I wrote\" to check that the giver of くれる is the SUBJECT (が) and the receiver of もらう is the TOPIC (は). If a word from block 3 is not in your decks yet, add it with ⛏ Mining.", "min": 10 },
     { "tool": "Shadowing", "what": "Tap 🔊 on each example and repeat along 3 times with a gesture: your hand moves away from you on あげる and toward your chest on くれる and もらう.", "min": 5 },
     { "tool": "Speaking", "what": "Record your gift text (homework h4) in under a minute. Listen and check, sentence by sentence, that the verb matches the direction of the arrow.", "min": 5 }
   ],
@@ -207,8 +210,12 @@
     "I use くれる when the thing comes to me or my family, with the giver + が, and I usually drop 私に.",
     "I use もらう from the receiver's side, with the giver + に or から (から for a school or a company).",
     "I can tell the same gift with くれる and with もらう, without looking.",
-    "I never use くれる with me as the giver, and never もらう when I am the giver.",
+    "I know that 私に fits only くれる (I'm never the giver of くれる or もらう), and when the people are left out I can tell who they are from the verb alone: チョコをくれました = to me.",
     "I did the homework, checked it against the answer key and redid what I got wrong.",
     "If I have the Genki II Workbook: I did this lesson's exercises on あげる／くれる／もらう."
+  ],
+  "credits": [
+    "Explanations adapted in part from Sakubi (public domain, CC0) — sakubi.neocities.org",
+    "Study method informed by the DJT Guide to Japanese — djtguide.neocities.org/guide"
   ]
 }

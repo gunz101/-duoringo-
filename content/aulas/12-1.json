@@ -18,15 +18,16 @@
       { "t": "Vocabulary: tap 🔊 on each word and repeat it twice", "min": 10 },
       { "t": "Grammar 4a (〜んです): the examples aloud + one 🔬", "min": 15 },
       { "t": "Grammar 4b (〜すぎる): the examples aloud + one 🔬", "min": 10 },
-      { "t": "Lesson 12 video (block 6), pausing on the examples", "min": 10 },
+      { "t": "Block 6: the Lesson 12 video or the Sakubi sections, as a second explanation (read to understand, not to memorize)", "min": 10 },
       { "t": "Notebook homework + checking it against the answer key", "min": 15 },
       { "t": "Checklist (block 10) + write your questions in the lesson notebook", "min": 5 }
     ]
   },
   "prereqs": {
-    "aulas": ["05-1", "06-4", "08-1", "09-1", "11-2"],
+    "aulas": ["05-1", "06-4", "08-1", "08-3", "09-1", "11-2"],
     "skills": [
       "Short forms in the present and the past, affirmative and negative, of verbs, adjectives and nouns (lessons 08-1 and 09-1). 〜んです is built on them.",
+      "The の that turns a phrase into a noun, as in 〜のが 好きです (lesson 08-3): the ん of 〜んです is that same の.",
       "The verb stem, the part before ます (食べ, 飲み, し), and the difference between い-adjectives and な-adjectives (lessons 03-1 and 05-1).",
       "Asking \"why?\" with どうして (lesson 06-4).",
       "The kanji of Lessons 3–12 appear in the sentences (休, 気, 病, 働…), always with the kana next to them."
@@ -65,7 +66,7 @@
       "gc": "12-1",
       "title": "〜んです",
       "gloss": "the thing is… (giving or asking for an explanation)",
-      "explanation": "〜んです does not change the fact; it changes the **intent** of the sentence. It says \"the thing is…\", \"it's that…\", \"you see…\": you are **giving the background** to something the other person saw or asked about. In a question, 〜んですか **asks for** that background: \"what happened?\", \"why…?\".\n• Formation: **short form + んです**. 行く → 行くんです; 行った → 行ったんです; 行かない → 行かないんです; いたい → いたいんです.\n• With **nouns and な-adjectives** in the present affirmative, だ becomes **な**: 病気 → 病気なんです; しんぱい → しんぱいなんです. In the past and the negative there is no change: 病気だったんです, しんぱいじゃないんです.\n• The tense goes **in the short form**, before ん. The final です always stays です.\n• The two sentences you will use most: when you see someone looking unwell, どうしたんですか。 (\"What's wrong?\"); to explain, あたまが いたいんです。 (\"The thing is, I have a headache.\").\n• In writing and in very formal speech you will see 〜のです, which is the same thing. In casual speech it becomes 〜んだ, and the question becomes just 〜の？ (どうしたの？).\n• In the sentence, んです is **glued to the predicate**, at the end. Everything before it is the fact being explained.\n**When NOT to use it:** to state a plain fact, with no background, use the normal form: 七時に 起きます。 And be careful with questions: 〜んですか shows that you **noticed something and want the explanation**. Used in every question, or with どうして in an accusing tone (どうして 来なかったんですか。), it sounds pushy, as if you were demanding an account. If nobody asked and there is nothing to explain, stay with the usual です / ます.",
+      "explanation": "〜んです does not change the fact; it changes the **intent** of the sentence. It says \"the thing is…\", \"it's that…\", \"you see…\": you are **giving the background** to something the other person saw or asked about. In a question, 〜んですか **asks for** that background: \"what happened?\", \"why…?\".\n• Formation: **short form + んです**. 行く → 行くんです; 行った → 行ったんです; 行かない → 行かないんです; いたい → いたいんです.\n• With **nouns and な-adjectives** in the present affirmative, だ becomes **な**: 病気 → 病気なんです; しんぱい → しんぱいなんです. In the past and the negative there is no change: 病気だったんです, しんぱいじゃないんです.\n• **Why な?** The ん is a shortened **の** — the same の that turns a whole phrase into a noun, as in 日本語を 話すのが 好きです (lesson 08-3). So 〜んです literally says \"it is **the case** that…\": かぜを ひいたんです = \"it's a case of having caught a cold\". Before this の, the だ of nouns and な-adjectives turns into な. For な-adjectives it is the same な they take before any noun (しずかな 町, so しずかなんです), and nouns borrow it here (病気なんです).\n• The tense goes **in the short form**, before ん. The final です always stays です.\n• The two sentences you will use most: when you see someone looking unwell, どうしたんですか。 (\"What's wrong?\"); to explain, あたまが いたいんです。 (\"The thing is, I have a headache.\"). A question with 〜んですか is usually answered with 〜んです: the question asks for the background, and the answer gives it.\n• In writing and in very formal speech you will see 〜のです, which is the same thing. In casual speech it becomes 〜んだ, and the question becomes just 〜の？ (どうしたの？).\n• In the sentence, んです is **glued to the predicate**, at the end. Everything before it is the fact being explained.\n**When NOT to use it:** to state a plain fact, with no background, use the normal form: 七時に 起きます。 And be careful with questions: 〜んですか shows that you **noticed something and want the explanation**. Used in every question, or with どうして in an accusing tone (どうして 来なかったんですか。), it sounds pushy, as if you were demanding an account. If nobody asked and there is nothing to explain, stay with the usual です / ます.\n• **Going further (Sakubi):** in casual speech, 〜んだ is the neutral way to explain. A statement that ends in a bare の (おなかが いたいの。) often sounds soft or feminine, while the question 〜の？ (どうしたの？) is used by everyone.",
       "structure": "[short form] んです · [N / な-adj] なんです · どうして 〜んですか",
       "examples": [
         { "jp": "どうして 学校を 休んだんですか。— かぜを ひいたんです。", "kana": "どうして がっこうを やすんだんですか。— かぜを ひいたんです。", "romaji": "Dōshite gakkō o yasunda n desu ka. — Kaze o hiita n desu.", "en": "Why did you miss school? — The thing is, I caught a cold." },
@@ -73,7 +74,7 @@
         { "jp": "アナさん、もう 帰るんですか。— ええ、ちょっと 気分が わるいんです。", "kana": "アナさん、もう かえるんですか。— ええ、ちょっと きぶんが わるいんです。", "romaji": "Ana-san, mō kaeru n desu ka. — Ee, chotto kibun ga warui n desu.", "en": "Ana, are you leaving already? — Yes, I'm feeling a bit sick, you see." }
       ],
       "pitfalls": [
-        "With nouns and な-adjectives, don't forget the な: 病気んです ✗ → 病気なんです ✓; しずかだんです ✗ → しずかなんです ✓.",
+        "With nouns and な-adjectives, don't forget the な — ん is a noun-like の, and before it だ turns into な. 病気んです ✗ → 病気なんです ✓; しずかだんです ✗ → しずかなんです ✓.",
         "ん needs the short form, not the ます-form: 行きますんです ✗ → 行くんです ✓.",
         "The past goes before ん: かぜを ひくんでした ✗ (this does not mean \"I caught a cold\") → かぜを ひいたんです ✓.",
         "Don't put んです on every sentence. In a self-introduction, ブラジル人です。 is enough; ブラジル人なんです。 sounds as if you were justifying something."
@@ -90,7 +91,7 @@
       "gc": "12-2",
       "title": "〜すぎる",
       "gloss": "too…, too much (going past the limit)",
-      "explanation": "すぎる means \"to go past (a limit)\". Attached to a verb or an adjective, it says something went **beyond what it should**: eating too much, too expensive. That is why it almost always sounds like a **complaint** or a problem, just like English \"too\".\n• **Verb**: stem (the part before ます) + すぎる. 食べます → 食べすぎる; 飲みます → 飲みすぎる; 勉強します → 勉強しすぎる.\n• **い-adjective**: drop the い. 高い → 高すぎる; ねむい → ねむすぎる. Exception: いい → **よすぎる**.\n• **な-adjective**: drop the な. しずか → しずかすぎる; きれい → きれいすぎる.\n• すぎる **conjugates like a る-verb**: すぎます, すぎません, すぎました, すぎない, すぎた… (食べすぎました, 高すぎます).\n• The rest of the sentence does not change: the object keeps を (おさけを 飲みすぎました) and the topic keeps は (この へやは 小さすぎます).\n• In the sentence, 飲みすぎました is **a single predicate block**, and it is what you read first.\n• Online and in young people's speech, すぎる also shows up as exaggerated praise (おいしすぎる！), but the basic meaning is excess. For normal praise, use とても: とても おいしいです。",
+      "explanation": "すぎる is an ordinary verb that means \"to pass, to go past\": もう 十時を すぎました。 = \"It's already past ten.\" Attached to a verb or an adjective, it keeps that picture: the action or quality **goes past the limit**. So, it says something went **beyond what it should**: eating too much, too expensive. That is why it almost always sounds like a **complaint** or a problem, just like English \"too\".\n• **Verb**: stem (the part before ます) + すぎる. 食べます → 食べすぎる; 飲みます → 飲みすぎる; 勉強します → 勉強しすぎる.\n• **い-adjective**: drop the い. 高い → 高すぎる; ねむい → ねむすぎる. Exception: いい → **よすぎる**.\n• **な-adjective**: drop the な. しずか → しずかすぎる; きれい → きれいすぎる.\n• すぎる **conjugates like a る-verb**: すぎます, すぎません, すぎました, すぎない, すぎた… (食べすぎました, 高すぎます).\n• The rest of the sentence does not change: the object keeps を (おさけを 飲みすぎました) and the topic keeps は (この へやは 小さすぎます).\n• In the sentence, 飲みすぎました is **a single predicate block**, and it is what you read first.\n• Online and in young people's speech, すぎる also shows up as exaggerated praise (おいしすぎる！), but the basic meaning is excess. For normal praise, use とても: とても おいしいです。",
       "structure": "[verb stem] すぎる · [い-adj without い] すぎる · [な-adj without な] すぎる",
       "examples": [
         { "jp": "パーティーで おさけを 飲みすぎました。", "kana": "パーティーで おさけを のみすぎました。", "romaji": "Pātī de osake o nomisugimashita.", "en": "I drank too much at the party." },
@@ -173,11 +174,11 @@
     ]
   },
   "practice": [
-    { "tool": "Wagotabi", "what": "Play normally and hunt for 〜んです, 〜んだ and 〜の？ in the dialogues. Whenever a character explains something or asks \"what's wrong?\", pause and say out loud which fact is being explained. Copy 2 of those lines into your notebook; if 〜すぎる shows up, write it down too.", "min": 15 },
-    { "tool": "ヅオリンゴー", "what": "Lesson 12 vocabulary in the SRS. Then Practice L12, and Drills → Conjugation with the short forms, which are the base of 〜んです.", "min": 10 },
+    { "tool": "Wagotabi", "what": "Play normally and hunt for 〜んです, 〜んだ and 〜の？ in the dialogues. Whenever a character explains something or asks \"what's wrong?\", pause and say out loud which fact is being explained. Copy 2 of those lines into your notebook; if 〜すぎる shows up, write it down too. Save 1 of them in Mining, with every word looked up, so it becomes an SRS card.", "min": 15 },
+    { "tool": "ヅオリンゴー", "what": "Add the Lesson 12 vocabulary to your SRS and clear the day's reviews in 🌊 All (fewer new cards on a heavy day, never skipped reviews). Then Practice L12, and Drills → Conjugation with the short forms, which are the base of 〜んです.", "min": 10 },
     { "tool": "ヅオリンゴー · 🔬 Anatomy", "what": "Drills → 🔬 Anatomy → 🔬 Analyze: paste the 3 〜んです examples and find the fact being explained in each one. Then 🏷 Tag: 5 sentences.", "min": 10 },
-    { "tool": "Shadowing", "what": "Tap 🔊 on each example in this lesson and repeat along 3 times. The ん of んです is short, but it counts as a full beat: い-た-い-ん-で-す.", "min": 5 },
-    { "tool": "Speaking", "what": "Record the homework dialogue (h4), doing both voices, in 30 seconds or less.", "min": 5 }
+    { "tool": "Reading", "what": "Resources tab → Tadoku's free graded readers: read one level-1 story. Stories often use 〜のです／〜んです to explain why a character does something: each time you meet one, say out loud what it explains. Understand what you can and look up only the words that block the story.", "min": 10 },
+    { "tool": "Shadowing + speaking", "what": "Tap 🔊 on each example in this lesson and repeat along 3 times; the ん of んです is short, but it counts as a full beat: い-た-い-ん-で-す. Then record the homework dialogue (h4), doing both voices, in 30 seconds or less.", "min": 10 }
   ],
   "culture": {
     "title": "Wearing a mask when you have a cold",
@@ -187,12 +188,16 @@
   },
   "checklist": [
     "I build 〜んです from any short form (present, past, negative), without looking.",
-    "I put な in the right place (病気なんです, しんぱいなんです) and I know the past is だったんです.",
+    "I put な in the right place (病気なんです, しんぱいなんです), I can explain why (ん is a noun-like の), and I know the past is だったんです.",
     "I ask どうしたんですか。 and どうして 〜んですか。 and answer by explaining with 〜んです.",
     "I can give an example of when NOT to use 〜んです (a plain fact, with nothing to explain).",
     "I form 〜すぎる with verbs, い-adjectives and な-adjectives, including いい → よすぎる.",
     "I conjugate すぎる like a る-verb: 食べすぎました, 高すぎます, 働きすぎたんです.",
     "I did the homework, checked it against the answer key and redid what I got wrong.",
     "I did Workbook pages 111–112."
+  ],
+  "credits": [
+    "Explanations adapted in part from Sakubi (public domain, CC0) — sakubi.neocities.org",
+    "Study method informed by the DJT Guide to Japanese — djtguide.neocities.org/guide"
   ]
 }
