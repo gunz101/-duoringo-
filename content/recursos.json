@@ -1,0 +1,881 @@
+{
+  "intro": "Esta lista **não é para usar inteira**. Escolha **1 recurso por habilidade** (ouvir, ler, gramática, vocabulário, conversa) e troque quando cansar.\n• Os **10 que mais rendem** bastam até o fim do Genki I.\n• Os outros grupos são reserva: para quando algo não funcionar ou quando você chegar ao Genki II e além.\n• Links conferidos em setembro de 2026.",
+  "groups": [
+    {
+      "title": "Comece por aqui: os 10 que mais rendem para você",
+      "note": "Nesta ordem de prioridade. Até o fim do Genki I, isto basta.",
+      "items": [
+        {
+          "name": "ToKini Andy – GENKI Grammar Made Clear",
+          "url": "https://www.youtube.com/playlist?list=PLA_RcUI8km1NMhiEebcbqdlcHv_2ngbO2",
+          "type": "vídeo",
+          "level": "N5–N4",
+          "cost": "grátis",
+          "desc": "Playlist do YouTube, em inglês, com um vídeo por lição do Genki I (L1–L12), em versão editada das lives e alinhada à 3ª edição; para o Genki II (N4, L13–L23) existe a playlist irmã \"GENKI 2 Grammar Made Clear\", no mesmo canal.",
+          "how": "Depois de ler a gramática de cada lição do Genki, assista ao vídeo da mesma lição antes de fazer o workbook; ao chegar no Genki II, troque para a playlist N4."
+        },
+        {
+          "name": "OTO Navi (áudio oficial do Genki)",
+          "url": "https://play.google.com/store/apps/details?id=jp.co.japantimes.jtpaudioplayer",
+          "type": "app",
+          "level": "N5–N4",
+          "cost": "grátis",
+          "desc": "App oficial e gratuito da Japan Times (Android e iOS) que toca o áudio do livro e do workbook, com diálogos, vocabulário e exercícios de escuta, além de repetição e pulo de 3 segundos.",
+          "how": "Em toda lição, escaneie o código de barras do Genki e ouça o diálogo e o vocabulário, repetindo cada trecho até entender tudo."
+        },
+        {
+          "name": "GENKI Self-Study Room (oficial)",
+          "url": "https://genki3.japantimes.co.jp/en/student/",
+          "type": "site",
+          "level": "N5–N4",
+          "cost": "grátis",
+          "desc": "Página oficial e gratuita da 3ª edição com vídeos dos diálogos, clipes das notas culturais e sets de Quizlet por lição (vocabulário, conjugação, kanji e kana) de L1 a L23.",
+          "how": "Já na fase de kana, use os sets de kana; depois, em cada lição, assista ao vídeo do diálogo e faça os sets de Quizlet daquela lição."
+        },
+        {
+          "name": "Irodori em português (Fundação Japão SP)",
+          "url": "https://fjsp.org.br/irodori/",
+          "type": "curso",
+          "level": "N5–N4",
+          "cost": "grátis",
+          "desc": "O curso Irodori da Fundação Japão com explicações em português (Introdutório A1, com e sem romaji, Básico 1 e Básico 2 A2), grátis para baixar por capítulo e liberado para estudo pessoal, sem redistribuição nem uso comercial.",
+          "how": "Toda semana, faça as tarefas de escuta e fala do tema que combina com a sua lição: o Introdutório acompanha mais ou menos o Genki I, e o Básico 1–2, o Genki II."
+        },
+        {
+          "name": "Deck Anki Genki 1 (3ª ed., com áudio) → Kaishi 1.5k",
+          "url": "https://ankiweb.net/shared/info/1742947823",
+          "type": "SRS",
+          "level": "N5–N4",
+          "cost": "grátis",
+          "desc": "Deck gratuito com o vocabulário do Genki I em subdecks por lição e 778 áudios; o passo seguinte é o Kaishi 1.5k, deck de 1.501 palavras de alta frequência com áudio e pitch (exige Anki 2.1.50+).",
+          "how": "Ative o subdeck de cada lição ao começá-la no Genki, com cerca de 10 min de revisão por dia junto com o Mirage; depois do Genki I, procure o Kaishi 1.5k no AnkiWeb e siga com ele."
+        },
+        {
+          "name": "Nihongo con Teppei for Beginners + Japanese with Shun (podcast Genki)",
+          "url": "https://www.nihongoconteppei.com/",
+          "type": "podcast",
+          "level": "N5–N4",
+          "cost": "grátis",
+          "desc": "Episódios diários de 3 a 5 minutos em japonês lento (mais de 1.590, também no Spotify, Apple Podcasts e YouTube); o \"Genki Textbook based podcast\" do Shun, no YouTube, usa principalmente a gramática do Genki I e II.",
+          "how": "Ouça um episódio do Teppei por dia, repetindo o mesmo várias vezes, e o episódio do Shun que bate com a sua lição do Genki no trajeto ou nas tarefas de casa."
+        },
+        {
+          "name": "Tadoku – leitura graduada grátis",
+          "url": "https://tadoku.org/japanese/en/free-books-en/",
+          "type": "livro",
+          "level": "N5–N3",
+          "cost": "grátis",
+          "desc": "Livrinhos graduados gratuitos da NPO Tadoku Supporters, nos níveis Start e 0 a 5, em PDF para imprimir; alguns têm narração ou vídeo no YouTube.",
+          "how": "A partir da lição 6 do Genki I, leia um livro do nível Start ou 0 no bloco de Imersão da rotina e só suba de nível quando a leitura ficar confortável."
+        },
+        {
+          "name": "Natural Japanese + にほんごのじかん",
+          "url": "https://nijapanese.com/",
+          "type": "vídeo",
+          "level": "N5–N2",
+          "cost": "freemium",
+          "desc": "Vídeos de input compreensível filtrados por nível (o antigo Comprehensible Japanese, com mais de 1.500 vídeos, alguns só para membros); a Yuki, professora mais conhecida de lá, agora publica vídeos lentos com apoio de imagens no canal gratuito にほんごのじかん.",
+          "how": "Durante o Genki I, assista a 20–30 min por dia de vídeos marcados \"Complete Beginner\", alternando entre os dois canais."
+        },
+        {
+          "name": "OJAD + Kotu (pitch accent)",
+          "url": "https://www.gavo.t.u-tokyo.ac.jp/ojad/eng/pages/home",
+          "type": "dicionário",
+          "level": "N5–N1",
+          "cost": "grátis",
+          "desc": "Dicionário de acento da Universidade de Tóquio, com interface em português, que mostra o pitch de verbos e adjetivos em todas as conjugações, com áudio; o Kotu (kotu.io) é um teste de percepção com pares mínimos.",
+          "how": "Ao aprender verbos e adjetivos no Genki, confira o pitch no OJAD e cole as falas do diálogo no Suzuki-kun antes do shadowing; algumas vezes por semana, faça 5 min de treino de ouvido no Kotu."
+        },
+        {
+          "name": "EJLX – English-Japanese Language Exchange (Discord)",
+          "url": "https://discord.com/invite/japanese",
+          "type": "comunidade",
+          "level": "N5–N1",
+          "cost": "grátis",
+          "desc": "O maior servidor de intercâmbio inglês–japonês do Discord (85.878 membros em 29/09/2026), com canais para iniciantes, correções e salas de voz.",
+          "how": "Poste uma frase escrita por você por dia para correção, usando a gramática da lição atual do Genki: é o treino mais direto para aprender a montar frases."
+        }
+      ]
+    },
+    {
+      "title": "Genki: material oficial e alinhado ao livro",
+      "note": "Complementos do Genki I e II para quando os 10 principais não bastarem.",
+      "items": [
+        {
+          "name": "Game Gengo – Complete Genki 1: Grammar",
+          "url": "https://www.youtube.com/playlist?list=PLT12i1gB38HFJF2ySBVg_R6Bpc1EsX_9k",
+          "type": "vídeo",
+          "level": "N5",
+          "cost": "grátis",
+          "desc": "Uma segunda explicação de cada lição do Genki I, em inglês, com exemplos tirados de videogames.",
+          "how": "Quando o vídeo do ToKini Andy não fizer sentido, assista ao da mesma lição aqui; no Genki II, use as playlists JLPT N4, porque a de Genki II só tem 2 vídeos."
+        },
+        {
+          "name": "GENKI – vídeos dos padrões de frase (oficial)",
+          "url": "https://genki.japantimes.co.jp/site/video/en/",
+          "type": "vídeo",
+          "level": "N5–N4",
+          "cost": "grátis",
+          "desc": "Coleção oficial com 132 esquetes curtos em japonês, um para cada padrão gramatical do Genki.",
+          "how": "Depois de estudar cada ponto de gramática, veja o esquete dele para ouvir a estrutura em uso e então diga uma frase sua com o mesmo padrão."
+        },
+        {
+          "name": "ToKini Andy – The Complete JLPT N5 Kanji Course",
+          "url": "https://www.youtube.com/playlist?list=PLA_RcUI8km1ME3ewzc4pcJ-cA-cw0-nKa",
+          "type": "vídeo",
+          "level": "N5",
+          "cost": "grátis",
+          "desc": "Playlist com vídeos curtos de ordem dos traços e leituras dos kanji do N5.",
+          "how": "A partir da lição 3, quando o Genki começa a seção de kanji (Yomikaki), veja os vídeos dos kanji da lição antes de escrevê-los."
+        },
+        {
+          "name": "Deck Anki Genki 2 (3ª ed., com áudio)",
+          "url": "https://ankiweb.net/shared/info/969261095",
+          "type": "SRS",
+          "level": "N4",
+          "cost": "grátis",
+          "desc": "Continuação do deck do Genki I, com o vocabulário das lições 13 a 23 e 589 áudios.",
+          "how": "Ao passar para o Genki II, repita a rotina: ative o subdeck de cada lição quando começá-la."
+        },
+        {
+          "name": "Deck Anki Genki Japanese Vocabulary (frases + áudio + pitch)",
+          "url": "https://ankiweb.net/shared/info/1092723754",
+          "type": "SRS",
+          "level": "N5–N4",
+          "cost": "grátis",
+          "desc": "Alternativa mais completa aos decks por lição, com todo o vocabulário do Genki em frases de exemplo, 3.080 áudios e guia de pitch accent; o deck não diz qual edição segue.",
+          "how": "Use no lugar dos decks por lição se quiser ver cada palavra dentro de uma frase, o que ajuda a montar as suas."
+        },
+        {
+          "name": "Apps GENKI Vocab, GENKI Kanji e GENKI Conjugation Cards",
+          "url": "https://apps.apple.com/us/app/genki-vocab-for-3rd-ed/id1531679862",
+          "type": "app",
+          "level": "N5–N4",
+          "cost": "pago",
+          "desc": "Apps oficiais pagos, a US$ 6,99 cada na App Store dos EUA; o GENKI Kanji cobre os 317 kanji do livro com vídeos de ordem dos traços.",
+          "how": "Opcional: só compre se quiser tudo no celular, porque os decks gratuitos de Anki e os sets de Quizlet cobrem o mesmo conteúdo."
+        },
+        {
+          "name": "Assinatura ToKini Andy (tokiniandy.com)",
+          "url": "https://www.tokiniandy.com/",
+          "type": "curso",
+          "level": "N5–N4",
+          "cost": "pago",
+          "desc": "Plano pago opcional (US$ 10/mês ou US$ 120/ano, com teste grátis citado no site) com cursos de Genki 1 e 2, decks de vocabulário, kanji e histórias de imersão do Genki.",
+          "how": "Não precisa: a série gratuita do YouTube basta; considere só se quiser os extras reunidos num lugar."
+        }
+      ]
+    },
+    {
+      "title": "Em português",
+      "note": "Para quando a explicação em inglês não entrar.",
+      "items": [
+        {
+          "name": "Tae Kim – Guia de gramática japonesa (em português)",
+          "url": "https://www.guidetojapanese.org/portuguese/start.html",
+          "type": "site",
+          "level": "N5–N3",
+          "cost": "grátis",
+          "desc": "Tradução em português do guia de gramática do Tae Kim, no site oficial; não foi confirmado se está completa em relação à versão em inglês.",
+          "how": "Quando um ponto do Genki não ficar claro em inglês, leia a seção equivalente aqui."
+        },
+        {
+          "name": "NHK WORLD-JAPAN – Curso de Japonês (Easy Japanese)",
+          "url": "https://www3.nhk.or.jp/nhkworld/lesson/pt/",
+          "type": "curso",
+          "level": "N5",
+          "cost": "grátis",
+          "desc": "48 lições curtas em áudio com texto em PDF em português, com MP3 e PDF para baixar de graça.",
+          "how": "Durante o Genki I, ouça uma lição no trajeto e leia o PDF depois para conferir o que entendeu."
+        },
+        {
+          "name": "Erin's Challenge! (エリンが挑戦！にほんごできます。)",
+          "url": "https://www.erin.jpf.go.jp/en/",
+          "type": "vídeo",
+          "level": "N5–N4",
+          "cost": "grátis",
+          "desc": "25 lições em vídeo da Fundação Japão, em versões básica e avançada, com legendas em português (a interface do site é só em japonês e inglês).",
+          "how": "Assista a um esquete por semana com legenda em português e depois faça shadowing das frases-chave."
+        },
+        {
+          "name": "Curso Online de Japonês MARUGOTO (Fundação Japão)",
+          "url": "https://www.marugoto-online.jp/info/por/",
+          "type": "curso",
+          "level": "N5–N4",
+          "cost": "freemium",
+          "desc": "Curso A1 estruturado com explicações em português (o A2 só tem inglês, indonésio e espanhol), que exige cadastro no JF Minato e tem versão de teste; as versões com tutor podem ser pagas.",
+          "how": "Use para revisar ou mudar de ritmo quando o Genki cansar, sem trocar de livro principal."
+        },
+        {
+          "name": "JF Japanese e-Learning Minato",
+          "url": "https://minato-jf.jp/",
+          "type": "site",
+          "level": "N5–N4",
+          "cost": "freemium",
+          "desc": "Plataforma da Fundação Japão, com interface em português, que reúne os cursos online da JF (kana, kanji, Marugoto e Irodori online); muitos são grátis e alguns são pagos.",
+          "how": "Na fase de kana, experimente o curso de kana; depois, use a mesma conta para o Marugoto ou o Irodori online."
+        },
+        {
+          "name": "Fundação Japão em São Paulo (FJSP)",
+          "url": "https://fjsp.org.br/",
+          "type": "site",
+          "level": "N5–N3",
+          "cost": "grátis",
+          "desc": "Centro brasileiro da Fundação Japão, com chamadas para o curso online gratuito de Marugoto, materiais Irodori e Erin em português e eventos; as datas de inscrição mudam.",
+          "how": "Dê uma olhada no site a cada trimestre para não perder inscrições abertas."
+        },
+        {
+          "name": "Programa Japonês Online (YouTube)",
+          "url": "https://www.youtube.com/@aulasjapones",
+          "type": "vídeo",
+          "level": "N5–N4",
+          "cost": "grátis",
+          "desc": "Canal com aulas curtas para iniciantes, em que os vídeos em português são os mais antigos (os recentes têm título em inglês); a escola paga fica em programajaponesonline.com.br.",
+          "how": "Procure no canal o ponto do Genki que você está estudando para ouvir a explicação em português."
+        },
+        {
+          "name": "VideoAulas de Japonês – Iniciante Absoluto",
+          "url": "https://www.youtube.com/playlist?list=PLmEl-ZDmyZUs65276eNCYH-UAEJK-cb7c",
+          "type": "vídeo",
+          "level": "N5",
+          "cost": "grátis",
+          "desc": "Curso de 26 aulas para iniciante absoluto, em português; o canal não posta há cerca de 2 anos, mas as aulas continuam no ar.",
+          "how": "Nas primeiras semanas, use junto com as lições 1 a 3 do Genki como explicação extra em português."
+        },
+        {
+          "name": "Kultivi – Curso de Japonês Básico",
+          "url": "https://kultivi.com/curso/japones-basico",
+          "type": "curso",
+          "level": "N5",
+          "cost": "grátis",
+          "desc": "Curso gratuito em vídeo, em português, sobre os sistemas de escrita e o básico, com cerca de 30 horas e exercícios segundo resultados de busca (não foi revisado a fundo).",
+          "how": "Use no primeiro mês, na fase de kana, como explicação reserva em português."
+        },
+        {
+          "name": "JapaLab – Aprenda Japonês com o Hiru",
+          "url": "https://www.youtube.com/@JapaLab",
+          "type": "vídeo",
+          "level": "N5–N3",
+          "cost": "grátis",
+          "desc": "Séries de gramática do N4 e do N3 explicadas por um brasileiro que mora no Japão há mais de 25 anos; os títulos dos vídeos estão em inglês.",
+          "how": "Deixe para o Genki II em diante, quando quiser rever a gramática N4 ou N3 em português."
+        },
+        {
+          "name": "Kotobá Japonês Fluente (podcast)",
+          "url": "https://kotoba.com.br/project/kotobapodcast/",
+          "type": "podcast",
+          "level": "N4–N3",
+          "cost": "freemium",
+          "desc": "Episódios de conversa bilíngue japonês–português que terminam com uma revisão do vocabulário-chave; é uma escola, então também vende cursos pagos.",
+          "how": "A partir do Genki II, ouça um episódio por semana e leve as palavras da revisão final para o Mirage."
+        },
+        {
+          "name": "HAJIMARU – podcast da Fundação Japão em São Paulo",
+          "url": "https://podcasts.apple.com/us/podcast/hajimaru-o-podcast-da-funda%C3%A7%C3%A3o-jap%C3%A3o-em-s%C3%A3o-paulo/id1805150457",
+          "type": "podcast",
+          "level": "N5–N1",
+          "cost": "grátis",
+          "desc": "Conversas mensais em português sobre língua, cultura e pesquisa japonesas, desde março de 2025; o último episódio visto é de 26/06/2026, então pode estar em pausa.",
+          "how": "Ouça por motivação e contexto cultural, não como treino de escuta em japonês."
+        },
+        {
+          "name": "Discord Japonês Brasil",
+          "url": "https://disboard.org/server/676162532397940737",
+          "type": "comunidade",
+          "level": "N5–N3",
+          "cost": "grátis",
+          "desc": "Comunidade brasileira para trocar materiais e informações sobre JLPT e bolsas, com cerca de 2,6 mil membros na listagem do DISBOARD em 29/09/2026.",
+          "how": "Entre pelo botão do DISBOARD para tirar dúvidas em português e acompanhar avisos de JLPT e bolsas."
+        }
+      ]
+    },
+    {
+      "title": "Ouvir: input compreensível e podcasts",
+      "note": "Do mais fácil para o mais difícil. Um canal por vez basta.",
+      "items": [
+        {
+          "name": "Japanese with Shun (canal principal)",
+          "url": "https://www.youtube.com/@JapanesewithShun",
+          "type": "vídeo",
+          "level": "N5–N3",
+          "cost": "grátis",
+          "desc": "Vlogs fáceis e episódios de podcast N5–N4 em japonês claro, com as playlists \"Japanese with Shun (Podcast)\" e \"Oyasumi Japanese with Shun\".",
+          "how": "Quando o podcast baseado no Genki ficar fácil, passe para os vlogs e podcasts do canal no bloco de Imersão."
+        },
+        {
+          "name": "IRODORI Japanese Online Course",
+          "url": "https://www.irodori-online.jpf.go.jp/",
+          "type": "curso",
+          "level": "N5–N4",
+          "cost": "grátis",
+          "desc": "Versão online e interativa do Irodori (Starter e Elementary 1–2) na plataforma JF Minato; não foi confirmado se tem explicações em português.",
+          "how": "Nos dias longe do livro, faça aqui as tarefas de escuta e fala do tema atual do Irodori."
+        },
+        {
+          "name": "MARUGOTO Plus",
+          "url": "https://marugotoweb.jp/en/index.php",
+          "type": "site",
+          "level": "N5–N4",
+          "cost": "grátis",
+          "desc": "Site gratuito da Fundação Japão com vídeos de conversas e conteúdo cultural nos níveis A1 e A2, além do vocabulário MARUGOTO-NO-KOTOBA.",
+          "how": "Assista a um vídeo de conversa por lição do Genki como escuta extra."
+        },
+        {
+          "name": "Learn Japanese Pod (Alex & Ami)",
+          "url": "https://www.youtube.com/@Learnjapanesepod",
+          "type": "podcast",
+          "level": "N5–N4",
+          "cost": "freemium",
+          "desc": "Podcast de conversa para iniciantes absolutos explicado em inglês, portanto sem valor de imersão, e com pouca atividade (último vídeo há cerca de 8 meses).",
+          "how": "Deixe para os dias sem energia, como escuta leve."
+        },
+        {
+          "name": "Miku Real Japanese",
+          "url": "https://www.youtube.com/@mikurealjapanese",
+          "type": "vídeo",
+          "level": "N5–N2",
+          "cost": "grátis",
+          "desc": "Canal ativo, em japonês, com a playlist \"Grammar videos【N5/N4】\" (95 vídeos) e vídeos de escuta e conversa N3/N2; alguns podcasts são só para membros.",
+          "how": "Durante o Genki, use a playlist de gramática N5/N4 para rever os pontos da lição e deixe os vídeos N3/N2 para depois."
+        },
+        {
+          "name": "Speak Japanese Naturally",
+          "url": "https://www.youtube.com/@SpeakJapaneseNaturally",
+          "type": "vídeo",
+          "level": "N4–N3",
+          "cost": "grátis",
+          "desc": "Vídeos caminhando por paisagens, em japonês simples e alguns com PDF, num canal que se diz feito para iniciantes.",
+          "how": "A partir do fim do N4, use como escuta relaxada no bloco de Imersão."
+        },
+        {
+          "name": "Nihongo con Teppei (série principal) e Teppei Z",
+          "url": "https://podcasts.apple.com/us/podcast/nihongo-con-teppei/id1353032168",
+          "type": "podcast",
+          "level": "N3–N2",
+          "cost": "grátis",
+          "desc": "Série principal do Teppei, em nível intermediário baixo, que o Teppei Z continua no mesmo nível.",
+          "how": "Passe para cá ao chegar no N3, quando a série para iniciantes estiver fácil."
+        },
+        {
+          "name": "EASY JAPANESE PODCAST (Masa & Asami)",
+          "url": "https://www.youtube.com/@EASYJAPANESE",
+          "type": "podcast",
+          "level": "N3",
+          "cost": "grátis",
+          "desc": "Podcast de conversa sobre o dia a dia, quase todo no nível N3 segundo o próprio canal, com mais de 945 episódios e versões legendadas.",
+          "how": "No N3, ouça a versão legendada de um episódio e depois a sem legenda."
+        },
+        {
+          "name": "YUYUの日本語Podcast",
+          "url": "https://www.youtube.com/@yuyunihongopodcast",
+          "type": "podcast",
+          "level": "N3–N1",
+          "cost": "grátis",
+          "desc": "Conversas em velocidade natural, só em japonês, sobre cultura e aprendizado; não é para iniciantes.",
+          "how": "Guarde para a fase do N3 ao N1, quando quiser esticar a escuta."
+        }
+      ]
+    },
+    {
+      "title": "Ler: leitura graduada e notícias fáceis",
+      "note": "Do mais fácil para o mais difícil. O Tadoku já está em \"Comece por aqui\".",
+      "items": [
+        {
+          "name": "Hirogaru (ひろがる)",
+          "url": "https://hirogaru-nihongo.jp/en/",
+          "type": "site",
+          "level": "N5–N4",
+          "cost": "grátis",
+          "desc": "Artigos e vídeos por hobby (comida, esporte, anime e mais) no nível A1–A2, com listas de palavras difíceis na página em inglês; o certificado de segurança do site falhou numa verificação automática.",
+          "how": "Depois do Genki I, leia um artigo sobre um tema de que você gosta quando precisar de motivação."
+        },
+        {
+          "name": "NHK NEWS WEB EASY",
+          "url": "https://news.web.nhk/news/easy/",
+          "type": "site",
+          "level": "N4–N3",
+          "cost": "grátis",
+          "desc": "Notícias simplificadas com furigana e áudio; no primeiro acesso, o site pede para aceitar os termos e escolher a finalidade de uso.",
+          "how": "A partir do fim do N4, leia uma notícia por dia com o Yomitan instalado."
+        },
+        {
+          "name": "福娘童話集 (contos folclóricos)",
+          "url": "https://hukumusume.com/douwa/",
+          "type": "site",
+          "level": "N4–N3",
+          "cost": "grátis",
+          "desc": "Cerca de 3.200 contos curtos, muitos com narração em áudio e alguns com tradução em inglês, num site com anúncios.",
+          "how": "A partir do N4, leia e ouça um conto antes de dormir."
+        },
+        {
+          "name": "YomuJP (Kurosio)",
+          "url": "https://yomujp.com/",
+          "type": "site",
+          "level": "N5–N1",
+          "cost": "freemium",
+          "desc": "Artigos marcados por nível, do N6 (antes do N5) ao N1, sem áudio; os novos ficam grátis por 4 semanas e depois só para assinantes.",
+          "how": "Do N4 em diante, use como escada principal de leitura, subindo de nível quando ficar confortável."
+        },
+        {
+          "name": "Todaii Japanese",
+          "url": "https://japanese.todaiinews.com/",
+          "type": "app",
+          "level": "N4–N2",
+          "cost": "freemium",
+          "desc": "App de notícias graduadas (o antigo easyjapanese.net) com furigana, áudio e dicionário embutido, para iOS e Android, com plano premium.",
+          "how": "Use no celular como alternativa ao NHK Easy quando estiver longe do computador."
+        },
+        {
+          "name": "Satori Reader",
+          "url": "https://www.satorireader.com/",
+          "type": "site",
+          "level": "N4–N2",
+          "cost": "freemium",
+          "desc": "Histórias em capítulos com áudio, definição por toque e notas explicativas; alguns episódios são grátis e o plano Pro custa US$ 9/mês ou US$ 89/ano.",
+          "how": "Depois do Genki II, experimente os episódios grátis antes de pensar em assinar."
+        },
+        {
+          "name": "Aozora Bunko (青空文庫)",
+          "url": "https://www.aozora.gr.jp/",
+          "type": "site",
+          "level": "N2–N1",
+          "cost": "grátis",
+          "desc": "Biblioteca de obras literárias, na maioria em domínio público no Japão, em que a prosa clássica usa ortografia e vocabulário antigos.",
+          "how": "No N2–N1, comece pelos contos curtos da era moderna."
+        }
+      ]
+    },
+    {
+      "title": "Gramática: explicações e listas",
+      "note": "Segunda explicação e revisão por marco. O ToKini Andy já está em \"Comece por aqui\".",
+      "items": [
+        {
+          "name": "Japanese Ammo with Misa – gramática para iniciantes absolutos",
+          "url": "https://www.youtube.com/playlist?list=PLd5-Wp_4tLqYZxS5j3g6kbeOfVXlTkr3N",
+          "type": "vídeo",
+          "level": "N5",
+          "cost": "grátis",
+          "desc": "Aulas bem detalhadas, em inglês, sobre partículas e a estrutura básica da frase.",
+          "how": "Sempre que travar em は/が/に/で ao montar frases no Genki I, assista à aula da partícula e escreva três frases suas com ela."
+        },
+        {
+          "name": "Tae Kim's Guide to Learning Japanese",
+          "url": "https://guidetojapanese.org/learn/grammar",
+          "type": "site",
+          "level": "N5–N2",
+          "cost": "grátis",
+          "desc": "Guia de gramática escrito e gratuito, também em PDF, cujo servidor às vezes fica fora do ar e cuja licença (CC BY-NC-SA) proíbe qualquer uso comercial.",
+          "how": "Consulte a seção do ponto do Genki que você está estudando quando quiser uma explicação escrita."
+        },
+        {
+          "name": "JLPT Sensei – listas de gramática N5–N1",
+          "url": "https://jlptsensei.com/jlpt-n5-grammar-list/",
+          "type": "site",
+          "level": "N5–N1",
+          "cost": "grátis",
+          "desc": "Listas não oficiais de gramática por nível, com exemplos para cada ponto, num site com anúncios (troque \"n5\" na URL pelo nível desejado).",
+          "how": "Use como consulta rápida de um ponto e como checklist ao se aproximar de cada marco do JLPT."
+        },
+        {
+          "name": "tanos.co.uk – listas JLPT N5–N1",
+          "url": "http://www.tanos.co.uk/jlpt/",
+          "type": "site",
+          "level": "N5–N1",
+          "cost": "grátis",
+          "desc": "Listas abertas (CC BY) de vocabulário, kanji e gramática por nível, com downloads em .doc, .pdf e .anki; são estimativas baseadas nas listas anteriores a 2010, e o site não é atualizado desde novembro de 2010.",
+          "how": "Antes de fechar um marco, confira na lista do nível quais itens você ainda não viu."
+        },
+        {
+          "name": "Game Gengo – JLPT N5 Grammar",
+          "url": "https://www.youtube.com/playlist?list=PLT12i1gB38HG6fw27ioFJFVt-2wnPHEiF",
+          "type": "vídeo",
+          "level": "N5",
+          "cost": "grátis",
+          "desc": "Playlist com toda a gramática do N5, de um canal que também tem versões N4, N3 e N2+ e uma série de vocabulário N5.",
+          "how": "Perto do fim do Genki I, revise a playlist inteira antes do marco N5."
+        },
+        {
+          "name": "Japanese Ammo with Misa – iniciante avançado e intermediário baixo",
+          "url": "https://www.youtube.com/playlist?list=PLd5-Wp_4tLqauXSm_MtZVyLGquLAJzUsL",
+          "type": "vídeo",
+          "level": "N4–N3",
+          "cost": "grátis",
+          "desc": "Aulas de gramática para quem já passou do básico, de um canal que também tem a playlist do curso JLPT N3.",
+          "how": "Na fase do Genki II, use como segunda explicação dos pontos da lição."
+        },
+        {
+          "name": "Kaname Naito",
+          "url": "https://www.youtube.com/@kanamenaito",
+          "type": "vídeo",
+          "level": "N4–N2",
+          "cost": "grátis",
+          "desc": "Vídeos em inglês sobre nuances de uso de palavras, gramática e diálogos, com playlists de gramática, \"Word Usage\", \"Pronunciation\" e \"Dialogues\".",
+          "how": "A partir do Genki II, veja um vídeo por semana, principalmente quando duas expressões parecidas se confundirem."
+        },
+        {
+          "name": "Bunpro (SRS de gramática)",
+          "url": "https://bunpro.jp/",
+          "type": "SRS",
+          "level": "N5–N1",
+          "cost": "freemium",
+          "desc": "SRS de gramática cujo plano grátis só mostra as páginas de gramática e leituras; o premium custa US$ 5/mês ou US$ 150 vitalício, com 30 dias de teste sem cartão.",
+          "how": "Opcional a partir do Genki II, se quiser revisar gramática em repetição espaçada além do Mirage."
+        },
+        {
+          "name": "Game Gengo – JLPT N4 Grammar",
+          "url": "https://www.youtube.com/playlist?list=PLT12i1gB38HHO0BuzbFMI6v2ztwjeCLQk",
+          "type": "vídeo",
+          "level": "N4",
+          "cost": "grátis",
+          "desc": "Revisão da gramática do N4 em 5 vídeos longos.",
+          "how": "Assista depois do Genki II, como revisão para o marco N4."
+        },
+        {
+          "name": "日本語の森 (Nihongo no Mori)",
+          "url": "https://www.youtube.com/@nihongonomori2013",
+          "type": "vídeo",
+          "level": "N3–N1",
+          "cost": "grátis",
+          "desc": "Aulas voltadas ao JLPT, quase todas em japonês, no canal @nihongonomori2013 (não @nihongonomori).",
+          "how": "Use como principal fonte de vídeo na preparação para os marcos N3 a N1."
+        },
+        {
+          "name": "Game Gengo – JLPT N2 Grammar",
+          "url": "https://www.youtube.com/playlist?list=PLT12i1gB38HHts5t6GdEmN_USVsbpJZD_",
+          "type": "vídeo",
+          "level": "N2",
+          "cost": "grátis",
+          "desc": "Revisão da gramática do N2, de um canal que também tem a playlist \"Complete N2 Grammar\".",
+          "how": "Assista junto com o Sou Matome ou o Shin Kanzen Master N2."
+        },
+        {
+          "name": "Game Gengo – JLPT N1 Grammar",
+          "url": "https://www.youtube.com/playlist?list=PLT12i1gB38HH3SIVu_6-pQ_ksh65HVIqf",
+          "type": "vídeo",
+          "level": "N1",
+          "cost": "grátis",
+          "desc": "Panorama da gramática do N1 em 3 vídeos longos.",
+          "how": "Assista antes do marco final, o N1."
+        },
+        {
+          "name": "IMABI",
+          "url": "https://imabi.org/",
+          "type": "site",
+          "level": "N4–N1",
+          "cost": "grátis",
+          "desc": "Referência aprofundada e densa de gramática, do iniciante ao japonês clássico, que está passando por uma reformulação.",
+          "how": "Não use na primeira passada: a partir do N3, consulte quando precisar da nuance de um ponto."
+        }
+      ]
+    },
+    {
+      "title": "Vocabulário e kanji: SRS e dicionários",
+      "note": "Seu SRS principal é o Mirage; estes entram só quando algo faltar.",
+      "items": [
+        {
+          "name": "Jisho.org",
+          "url": "https://jisho.org/",
+          "type": "dicionário",
+          "level": "N5–N1",
+          "cost": "grátis",
+          "desc": "Dicionário online de palavras, kanji e frases de exemplo.",
+          "how": "Use como dicionário do dia a dia sempre que uma palavra nova aparecer no Genki ou no Wagotabi."
+        },
+        {
+          "name": "Tatoeba",
+          "url": "https://tatoeba.org/",
+          "type": "site",
+          "level": "N5–N1",
+          "cost": "grátis",
+          "desc": "Banco colaborativo de frases de exemplo, parte delas com tradução em português, de qualidade variável (prefira as de falantes nativos).",
+          "how": "Quando for montar uma frase com uma palavra nova, busque exemplos dela aqui e reaproveite a estrutura trocando as palavras."
+        },
+        {
+          "name": "Kanji alive",
+          "url": "https://kanjialive.com/",
+          "type": "site",
+          "level": "N5–N2",
+          "cost": "grátis",
+          "desc": "Dados de kanji com licença aberta (CC BY 4.0), animações de ordem dos traços e exemplos em áudio, com app web.",
+          "how": "Ao aprender os kanji de cada lição do Genki, veja a animação dos traços e ouça os exemplos."
+        },
+        {
+          "name": "Anki",
+          "url": "https://apps.ankiweb.net/",
+          "type": "SRS",
+          "level": "N5–N1",
+          "cost": "freemium",
+          "desc": "App de repetição espaçada que roda todos os decks desta lista, com sincronização por conta grátis do AnkiWeb; é grátis no computador e no Android (AnkiDroid), e o AnkiMobile para iOS custa US$ 24,99.",
+          "how": "Instale para usar os decks do Genki e o Kaishi; o resto do vocabulário pode ficar no Mirage."
+        },
+        {
+          "name": "renshuu",
+          "url": "https://www.renshuu.org/",
+          "type": "app",
+          "level": "N5–N1",
+          "cost": "freemium",
+          "desc": "Exercícios gamificados de vocabulário, kanji e gramática com pacotes prontos por lição do Genki, todos grátis e sem limites; o Pro só acrescenta conveniências.",
+          "how": "Se você preferir gamificação ao Anki, ative o pacote da lição atual do Genki."
+        },
+        {
+          "name": "JLPT Tango N5 (Anki)",
+          "url": "https://ankiweb.net/shared/info/90990052",
+          "type": "SRS",
+          "level": "N5–N4",
+          "cost": "grátis",
+          "desc": "Deck baseado em frases, com 1.186 notas e áudio, copiado do livro \"JLPT Tango\" (zona cinzenta legal); existe a versão N4 do mesmo autor.",
+          "how": "Opcional: use só para tapar buracos antes do marco N5, dando preferência ao Kaishi ou aos decks do Genki."
+        },
+        {
+          "name": "Yomitan",
+          "url": "https://yomitan.wiki/",
+          "type": "dicionário",
+          "level": "N4–N1",
+          "cost": "grátis",
+          "desc": "Extensão de navegador com dicionário pop-up: passe o mouse sobre um texto em japonês para ver a definição e crie cartões do Anki com um clique.",
+          "how": "Instale ao chegar no N4 para ler NHK Easy, Satori e sites em japonês."
+        },
+        {
+          "name": "Core 2k/6k Optimized (Anki)",
+          "url": "https://ankiweb.net/shared/info/1880390099",
+          "type": "SRS",
+          "level": "N5–N3",
+          "cost": "grátis",
+          "desc": "Deck clássico de frequência, com 2.000 notas e áudio na parte 1 (atualizada em 2017) e as partes 2 e 3 indo até 6 mil palavras.",
+          "how": "Depois do Genki, escolha este ou o Kaishi 1.5k para ampliar o vocabulário, nunca os dois."
+        },
+        {
+          "name": "jpdb.io",
+          "url": "https://jpdb.io/",
+          "type": "SRS",
+          "level": "N4–N1",
+          "cost": "grátis",
+          "desc": "Site grátis com mais de 21 mil decks de vocabulário por frequência para animes, romances e visual novels específicos, além de um leitor de texto; o Patreon opcional só dá pequenos extras.",
+          "how": "A partir do N4, estude o deck de um anime ou livro antes de assisti-lo ou lê-lo."
+        },
+        {
+          "name": "Ankidrone Essentials",
+          "url": "https://tatsumoto-ren.github.io/blog/ankidrone-essentials.html",
+          "type": "SRS",
+          "level": "N5–N1",
+          "cost": "grátis",
+          "desc": "Deck de cerca de 8.000 cartões com o JLPT Tango do N5 ao N1, feito a partir dos livros protegidos (mesma zona cinzenta legal) e com download hospedado fora do site.",
+          "how": "Do N3 em diante, considere como deck único de vocabulário de longo prazo."
+        },
+        {
+          "name": "WaniKani",
+          "url": "https://www.wanikani.com/",
+          "type": "SRS",
+          "level": "N5–N1",
+          "cost": "freemium",
+          "desc": "SRS de kanji e vocabulário (cerca de 2.000 kanji e 6.000 palavras) com os níveis 1 a 3 grátis e depois US$ 9/mês, US$ 89/ano ou US$ 299 vitalício, numa ordem de kanji diferente da do Genki.",
+          "how": "Opcional: teste os níveis grátis só se o ritmo de kanji do Genki parecer lento demais."
+        }
+      ]
+    },
+    {
+      "title": "Pronúncia e pitch accent",
+      "note": "OJAD e Kotu já estão em \"Comece por aqui\".",
+      "items": [
+        {
+          "name": "Wiktionary – pitch accent de Tóquio",
+          "url": "https://en.wiktionary.org/wiki/%E6%9D%B1%E4%BA%AC",
+          "type": "dicionário",
+          "level": "N5–N1",
+          "cost": "grátis",
+          "desc": "Verbetes em inglês que trazem o tipo de acento de Tóquio com IPA (por exemplo, 東京 = heiban [0]), com cobertura irregular para palavras raras.",
+          "how": "Consulte quando uma palavra não aparecer no OJAD."
+        },
+        {
+          "name": "WasedaX – Japanese Pronunciation for Communication (edX)",
+          "url": "https://www.edx.org/learn/japanese/waseda-university-japanese-pronunciation-for-communication",
+          "type": "curso",
+          "level": "N5–N4",
+          "cost": "freemium",
+          "desc": "Curso de 5 semanas para iniciantes sobre acento e entonação, dado em japonês, com acesso grátis como ouvinte e certificado pago de US$ 129.",
+          "how": "Perto do fim do Genki I, faça o curso como ouvinte (grátis)."
+        },
+        {
+          "name": "Dogen – Japanese Phonetics (Patreon)",
+          "url": "https://www.patreon.com/dogen",
+          "type": "curso",
+          "level": "N4–N1",
+          "cost": "pago",
+          "desc": "Curso sistemático de pitch accent no Patreon (nível de US$ 15 para a série Japanese Phonetics e aulas em grupo), com um canal gratuito no YouTube.",
+          "how": "Opcional: só assine quando decidir levar a pronúncia a sério; até lá, use o canal grátis para motivação."
+        }
+      ]
+    },
+    {
+      "title": "Conversar e ser corrigido",
+      "note": "Escrever frases e receber correção é o que mais ataca a sua maior dificuldade. O EJLX já está em \"Comece por aqui\".",
+      "items": [
+        {
+          "name": "HelloTalk",
+          "url": "https://www.hellotalk.com/",
+          "type": "app",
+          "level": "N5–N1",
+          "cost": "freemium",
+          "desc": "App de intercâmbio em que nativos corrigem seus posts (\"moments\") e você troca texto e voz com japoneses que aprendem português ou inglês; tem plano VIP pago.",
+          "how": "Escreva um post curto por dia com a gramática da lição atual do Genki e deixe os nativos corrigirem."
+        },
+        {
+          "name": "italki (professores pagos)",
+          "url": "https://www.italki.com/en/teachers/japanese",
+          "type": "site",
+          "level": "N5–N1",
+          "cost": "pago",
+          "desc": "Aulas particulares pagas por aula, sem assinatura, que custam cerca de US$ 4–40 em japonês (US$ 4–20 com community tutors) segundo o blog da italki de 2026, com aulas experimentais 30–50% mais baratas.",
+          "how": "Do meio do Genki I em diante, faça uma ou duas aulas de 30 min por semana para ensaiar o diálogo e os can-dos da lição, de preferência com um tutor que fale português."
+        },
+        {
+          "name": "Tandem",
+          "url": "https://www.tandem.net/",
+          "type": "app",
+          "level": "N4–N1",
+          "cost": "freemium",
+          "desc": "App de intercâmbio para achar parceiros de conversa, grátis para baixar e com plano Pro.",
+          "how": "Deixe para o fim do Genki II, quando já conseguir manter uma conversa básica."
+        },
+        {
+          "name": "VRC EN-JP Language Exchange (VRChat)",
+          "url": "https://vrchat.com/home/group/grp_c3c7da79-e9a8-421c-935d-456b3c202987",
+          "type": "comunidade",
+          "level": "N4–N1",
+          "cost": "grátis",
+          "desc": "Grupo do VRChat, com Discord próprio, que faz encontros ao vivo com nativos japoneses em headset VR ou no modo desktop; a agenda não foi reconferida.",
+          "how": "Quando já conseguir conversar o básico, participe de um encontro para falar sem pressão."
+        }
+      ]
+    },
+    {
+      "title": "Depois do Genki: livros e próximos passos",
+      "note": "Ordem sugerida: Quartet I → II ou Tobira; depois Sou Matome → Shin Kanzen Master para os marcos do JLPT. O TRY! serve de ponte entre o estilo do livro didático e o da prova.",
+      "items": [
+        {
+          "name": "QUARTET I e II (Japan Times)",
+          "url": "https://quartet.japantimes.co.jp/en/",
+          "type": "livro",
+          "level": "N3–N2",
+          "cost": "pago",
+          "desc": "Livros intermediários da mesma editora e estilo do Genki (2 livros e 2 workbooks), pensados para quem tem cerca de 250–300 horas de estudo, com gabaritos, listas de can-do e vídeos dos autores grátis no site e áudio no OTO Navi.",
+          "how": "Primeira escolha depois do Genki II: faça o Quartet I e depois o II."
+        },
+        {
+          "name": "ToKini Andy – Quartet 1",
+          "url": "https://www.youtube.com/playlist?list=PLA_RcUI8km1M5s3wym_WosknqVqaq03mL",
+          "type": "vídeo",
+          "level": "N3",
+          "cost": "grátis",
+          "desc": "Playlist com vídeos lição a lição do Quartet I, que o canal classifica como N3.",
+          "how": "Se escolher o Quartet, assista ao vídeo de cada lição depois de estudá-la, como fazia com o Genki."
+        },
+        {
+          "name": "ToKini Andy – Quartet 2",
+          "url": "https://www.youtube.com/playlist?list=PLA_RcUI8km1Pk59cMMlqnQknuYcgjJy9Z",
+          "type": "vídeo",
+          "level": "N2",
+          "cost": "grátis",
+          "desc": "Playlist de acompanhamento do Quartet II (N2), de um canal que também tem playlists de prática e lives do Quartet.",
+          "how": "Siga a mesma rotina ao passar para o Quartet II."
+        },
+        {
+          "name": "Tobira: Gateway to Advanced Japanese (Kurosio)",
+          "url": "https://tobiraweb.9640.jp/",
+          "type": "livro",
+          "level": "N3–N2",
+          "cost": "pago",
+          "desc": "Livro pago, alternativa ao Quartet, cujo site oferece de graça áudio, materiais de kanji, vocabulário e gramática e vídeos.",
+          "how": "Depois do Genki II, escolha este ou o Quartet, não os dois."
+        },
+        {
+          "name": "Tobira Study Resources",
+          "url": "https://sethclydesdale.github.io/tobira-study-resources/",
+          "type": "site",
+          "level": "N3–N2",
+          "cost": "grátis",
+          "desc": "Exercícios grátis de vocabulário, gramática e kanji para as 15 lições do Tobira, baseados no livro.",
+          "how": "Se escolher o Tobira, faça os exercícios de cada lição depois de estudá-la."
+        },
+        {
+          "name": "日本語総まとめ (Sou Matome) – ASK",
+          "url": "https://ask-books.com/somatome/",
+          "type": "livro",
+          "level": "N5–N1",
+          "cost": "pago",
+          "desc": "Livros leves de revisão, com uma página por dia durante 6–8 semanas, separados por habilidade do N3 ao N1 (33 títulos no total).",
+          "how": "Faça como primeira passada de preparação em cada marco do JLPT a partir do N3."
+        },
+        {
+          "name": "新完全マスター (Shin Kanzen Master) – 3A",
+          "url": "https://www.3anet.co.jp/np/list.html?series_id=4",
+          "type": "livro",
+          "level": "N3–N1",
+          "cost": "pago",
+          "desc": "Livros exigentes de exercícios para o JLPT, um por habilidade (gramática, leitura, escuta, vocabulário e kanji); o de gramática N3 custa ¥ 1.320 com impostos.",
+          "how": "Use como segunda passada, depois do Sou Matome, antes dos marcos N3, N2 e N1."
+        },
+        {
+          "name": "TRY! 日本語能力試験 (ASK)",
+          "url": "https://ask-books.com/jlpt-try/",
+          "type": "livro",
+          "level": "N5–N1",
+          "cost": "pago",
+          "desc": "Livros de JLPT que partem da gramática, com contextos de conversa e leitura, nos níveis START e N5–N1, e com versão e-learning (eTRY!).",
+          "how": "No N3 e no N2, use como ponte entre o estilo do livro didático e o da prova."
+        },
+        {
+          "name": "Irodori (edição em inglês)",
+          "url": "https://www.irodori.jpf.go.jp/en/",
+          "type": "curso",
+          "level": "N5–N3",
+          "cost": "grátis",
+          "desc": "Site original do Irodori, com o nível Pre-Intermediate (A2/B1, lançado em 31/03/2026) que ainda não tem versão em português, liberado para estudo pessoal, sem redistribuição nem uso comercial.",
+          "how": "Quando terminar o Básico 2 em português, continue no Pre-Intermediate daqui."
+        }
+      ]
+    },
+    {
+      "title": "Com ressalvas: descontinuados ou inativos",
+      "note": "Ainda estão no ar, mas pararam ou perderam conteúdo. Não monte o estudo em volta deles.",
+      "items": [
+        {
+          "name": "Genki Study Resources (esvaziado)",
+          "url": "https://sethclydesdale.github.io/genki-study-resources/",
+          "type": "site",
+          "level": "N5–N4",
+          "cost": "grátis",
+          "desc": "Site de exercícios do Genki que teve todos os exercícios removidos a pedido da Japan Times; só as páginas de ajuda, como a lista de decks de Anki, continuam funcionando.",
+          "how": "Não conte com ele: use só a página de decks de Anki e evite cópias que republicam os exercícios."
+        },
+        {
+          "name": "Watanoc (parado desde 2016)",
+          "url": "https://watanoc.com/",
+          "type": "site",
+          "level": "N5–N3",
+          "cost": "grátis",
+          "desc": "Revista web em japonês fácil, com artigos curtos marcados de N5 a N3, sem posts novos desde outubro de 2016, mas com o arquivo no ar.",
+          "how": "Use só de vez em quando, como leitura leve extra."
+        },
+        {
+          "name": "Onomappu (arquivo)",
+          "url": "https://www.youtube.com/@Onomappu",
+          "type": "vídeo",
+          "level": "N4–N3",
+          "cost": "grátis",
+          "desc": "Canal sobre onomatopeias e cotidiano que parou de postar (o último vídeo se chama \"My Last YouTube Video\"), mas mantém o acervo no ar.",
+          "how": "No N4–N3, assista por diversão para aprender onomatopeias."
+        },
+        {
+          "name": "Cure Dolly – Japanese from scratch (arquivo)",
+          "url": "https://www.youtube.com/playlist?list=PLg9uYxuZf8x_A-vcqqyOFZu06WlhnypWj",
+          "type": "vídeo",
+          "level": "N5–N4",
+          "cost": "grátis",
+          "desc": "Curso de cerca de 93 vídeos com uma visão alternativa de partículas e estrutura da frase que contraria de propósito a terminologia dos livros; a criadora faleceu em 2021, mas os vídeos continuam no ar.",
+          "how": "Use só como segunda perspectiva quando a estrutura da frase não fizer sentido, nunca como caminho principal."
+        }
+      ]
+    }
+  ]
+}

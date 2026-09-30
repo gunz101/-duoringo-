@@ -1,0 +1,201 @@
+{
+  "id": "12-3",
+  "unit": "G1-L12",
+  "genki": { "book": "Genki I", "lesson": 12, "points": ["〜なければいけません / 〜なきゃいけません", "〜でしょう"] },
+  "title": "Obrigação · provavelmente",
+  "titleJp": "行かなければいけません",
+  "canDo": [
+    "Dizer o que eu tenho que fazer com 〜なければいけません, no presente e no passado (〜なければいけませんでした).",
+    "Montar なければ a partir da forma ない de qualquer verbo, inclusive する, 来る e os verbos em う (使わなければ).",
+    "Reconhecer e usar com amigos as formas casuais 〜なきゃ e 〜なくちゃ.",
+    "Dizer que algo provavelmente vai acontecer com (たぶん) 〜でしょう, e fazer uma pergunta mais educada com 〜でしょうか.",
+    "Usar でしょう↗, com a voz subindo, para pedir confirmação (\"…né?\")."
+  ],
+  "duration": {
+    "total": "70–90 min",
+    "blocks": [
+      { "t": "Sessão 1 · Aquecimento: diga em voz alta a forma ない de 起きる, 働く, 使う, 飲む, 帰る, 待つ, する e 来る", "min": 5 },
+      { "t": "Vocabulário: ouvir 🔊 cada palavra e repetir 2 vezes", "min": 10 },
+      { "t": "Gramática 4a (〜なければいけません) e 4b (〜でしょう): exemplos em voz alta + um 🔬 em cada", "min": 25 },
+      { "t": "Vídeo da Lição 12 (bloco 6), pausando nos exemplos", "min": 10 },
+      { "t": "Lição de casa no caderno + conferir no gabarito", "min": 15 },
+      { "t": "Sessão 2 (pode ser em outro dia): Workbook pp. 117–118 (revisão e escuta da lição) e os kanji da Lição 12 nas pp. 151–152", "min": 20 },
+      { "t": "Checklist (bloco 10) + anotar dúvidas no caderno da aula", "min": 5 }
+    ]
+  },
+  "prereqs": {
+    "aulas": ["06-3", "08-1", "08-2", "12-1", "12-2"],
+    "skills": [
+      "Forma ない de todos os verbos, sem hesitar (Aula 08-1). なければ sai direto dela.",
+      "〜ては いけません, \"não pode\" (Aula 06-3). Você vai precisar diferenciar \"não pode\" de \"tem que\".",
+      "〜と 思います para dar opinião (Aula 08-2), para comparar com でしょう.",
+      "〜ので, 〜んです e 〜ほうが いいです (Aulas 12-1 e 12-2), que aparecem nos exemplos e na lição de casa.",
+      "Os kanji da Lição 12 (早, 起, 使, 働, 度…) aparecem nas frases, sempre com o kana ao lado."
+    ],
+    "vocab": [
+      { "jp": "起きる", "kana": "おきる", "romaji": "okiru", "pt": "acordar, levantar-se" },
+      { "jp": "働く", "kana": "はたらく", "romaji": "hataraku", "pt": "trabalhar" },
+      { "jp": "使う", "kana": "つかう", "romaji": "tsukau", "pt": "usar" },
+      { "jp": "毎朝", "kana": "まいあさ", "romaji": "maiasa", "pt": "toda manhã" },
+      { "jp": "〜度", "kana": "〜ど", "romaji": "-do", "pt": "graus (temperatura: 三十八度 = 38 graus)" },
+      { "jp": "ねつ", "kana": "ねつ", "romaji": "netsu", "pt": "febre" },
+      { "jp": "病院", "kana": "びょういん", "romaji": "byōin", "pt": "hospital, clínica" },
+      { "jp": "くすり", "kana": "くすり", "romaji": "kusuri", "pt": "remédio" },
+      { "jp": "仕事", "kana": "しごと", "romaji": "shigoto", "pt": "trabalho, serviço" },
+      { "jp": "電話する", "kana": "でんわする", "romaji": "denwa suru", "pt": "telefonar (〜に 電話する = ligar para alguém)" },
+      { "jp": "レポート", "kana": "レポート", "romaji": "repōto", "pt": "relatório; trabalho escrito" },
+      { "jp": "出す", "kana": "だす", "romaji": "dasu", "pt": "entregar (um trabalho); pôr para fora" },
+      { "jp": "しゅくだい", "kana": "しゅくだい", "romaji": "shukudai", "pt": "lição de casa" },
+      { "jp": "こたえ", "kana": "こたえ", "romaji": "kotae", "pt": "resposta" },
+      { "jp": "のる", "kana": "のる", "romaji": "noru", "pt": "pegar (trem, ônibus), embarcar (電車に のる)" },
+      { "jp": "午後", "kana": "ごご", "romaji": "gogo", "pt": "à tarde, depois do meio-dia" },
+      { "jp": "たぶん", "kana": "たぶん", "romaji": "tabun", "pt": "provavelmente, talvez" },
+      { "jp": "天気", "kana": "てんき", "romaji": "tenki", "pt": "tempo (clima)" },
+      { "jp": "くもり", "kana": "くもり", "romaji": "kumori", "pt": "tempo nublado" },
+      { "jp": "雨", "kana": "あめ", "romaji": "ame", "pt": "chuva" },
+      { "jp": "雪", "kana": "ゆき", "romaji": "yuki", "pt": "neve" },
+      { "jp": "さむい", "kana": "さむい", "romaji": "samui", "pt": "frio (tempo)" },
+      { "jp": "知っている", "kana": "しっている", "romaji": "shitte iru", "pt": "saber, conhecer" },
+      { "jp": "〜なきゃ", "kana": "〜なきゃ", "romaji": "-nakya", "pt": "(casual) tenho que…" }
+    ]
+  },
+  "grammar": [
+    {
+      "id": "12-3-a",
+      "gc": "12-5",
+      "title": "〜なければいけません / 〜なきゃ",
+      "gloss": "tenho que…, preciso…",
+      "explanation": "Para dizer que você **tem que** fazer algo, o japonês usa uma dupla negação: \"**se não** fizer, **não dá**\". なければ = \"se não…\"; いけません = \"não pode, não dá\", o mesmo いけません de 〜ては いけません (Aula 06-3). Juntando os dois: tem que.\n• Formação: pegue a **forma ない** e troque o い final por **ければ**. 行かない → 行かなければ; 食べない → 食べなければ; しない → しなければ; 来ない → 来なければ (こなければ). Depois acrescente いけません ou なりません.\n• Os verbos em う fazem o ない com わ: 使う → 使わない → 使わなければいけません.\n• **いけません × なりません**: o sentido é praticamente o mesmo. なりません soa um pouco mais formal e aparece mais em **regras** e textos escritos; na conversa, いけません é mais comum.\n• **Passado** (\"tive que\"): só o fim muda. 行かなければいけませんでした.\n• **Casual**: 〜なければいけない / 〜なければならない. Na fala do dia a dia entram as contrações **〜なきゃ** (de なければ) e **〜なくちゃ** (de 〜なくては, outra forma com o mesmo sentido): 行かなきゃ いけない, 行かなくちゃ. Muitas vezes o resto cai e a frase termina ali: 行かなきゃ。 (\"tenho que ir!\"). Use com amigos, não com o professor.\n• Na frase, 起きなければいけません é **um bloco só**, e é o predicado. A Anatomia do Mirage lê esse bloco como **PREDICADO de obrigação**. Ache-o no fim e leia primeiro: tenho que → o quê? → acordar → quando? → às seis.",
+      "structure": "[forma ない sem o い] + ければ いけません / なりません · casual: 〜なきゃ / 〜なくちゃ",
+      "examples": [
+        { "jp": "毎朝 六時に 起きなければいけません。", "kana": "まいあさ ろくじに おきなければいけません。", "romaji": "Maiasa rokuji ni okinakereba ikemasen.", "pt": "Toda manhã eu tenho que acordar às seis." },
+        { "jp": "レポートは 日本語で 書かなければなりません。", "kana": "レポートは にほんごで かかなければなりません。", "romaji": "Repōto wa nihongo de kakanakereba narimasen.", "pt": "O relatório tem que ser escrito em japonês." },
+        { "jp": "あ、もう 十時だ。母に 電話しなきゃ。", "kana": "あ、もう じゅうじだ。ははに でんわしなきゃ。", "romaji": "A, mō jūji da. Haha ni denwa shinakya.", "pt": "Ah, já são dez horas. Tenho que ligar para a minha mãe! (casual)" }
+      ],
+      "pitfalls": [
+        "Não confunda com a proibição da Aula 06-3: 行っては いけません = \"não pode ir\"; 行かなければいけません = \"tem que ir\".",
+        "A base é a forma ない, e não o radical do ます: ○ 行かなければ × 行きなければ.",
+        "Verbos em う usam わ: ○ 使わなければ × 使あなければ.",
+        "\"Não precisa\" não é a negativa disto. \"Não precisa fazer\" é 〜なくても いいです, que você vai ver na Aula 17-2."
+      ],
+      "howToStudy": [
+        "Aperte 🔬 no exemplo 1: a Anatomia lê 起きなければいけません como um bloco de PREDICADO de obrigação. Leia de trás pra frente: tenho que acordar → a que horas → toda manhã.",
+        "Conjugação em voz alta: 8 verbos (起きる, 働く, 使う, 飲む, 帰る, 待つ, する, 来る) → forma ない → なければいけません. Depois repita tudo na versão casual com なきゃ.",
+        "No caderno, liste 5 obrigações reais da sua rotina com 〜なければいけません e 2 que você já cumpriu com 〜なければいけませんでした."
+      ],
+      "flag": null
+    },
+    {
+      "id": "12-3-b",
+      "gc": "12-6",
+      "title": "〜でしょう",
+      "gloss": "provavelmente…; …né? (confirmar)",
+      "explanation": "でしょう indica **probabilidade**: \"provavelmente\", \"deve…\". É a forma educada de だろう. Muitas vezes vem com **たぶん** antes, reforçando a dúvida: たぶん 雨でしょう。\n• Formação: **forma curta + でしょう**. 来る → 来るでしょう; 来ない → 来ないでしょう; さむい → さむいでしょう; 帰った → 帰ったでしょう.\n• Com **substantivo e adjetivo な** no presente afirmativo, o だ **some**, e também não entra な: 雨でしょう, しずかでしょう. Repare na diferença: 〜んです e 〜ので trocam だ por な; でしょう só tira o だ.\n• É a linguagem típica da **previsão do tempo**. Na conversa, para dar a sua opinião, 〜と 思います (Aula 08-2) costuma ser mais comum; でしょう sozinho soa um pouco formal.\n• **〜でしょうか** é uma pergunta **mais educada e mais suave** que 〜ですか. Serve para perguntar com cuidado a um desconhecido ou a um superior, ou para pedir a opinião de alguém.\n• **でしょう↗**, com a voz subindo no fim, pede **confirmação**: \"…né?\", quando você acha que o outro sabe ou concorda. おいしいでしょう↗ = \"gostoso, né?\". Pode soar como cobrança: きのう 言ったでしょう↗ = \"eu falei ontem, não falei?\". Na fala casual vira でしょ↗ ou だろう↗.\n• Na frase, でしょう fica colado no **fim do predicado** e muda o tom da frase inteira: a afirmação vira suposição.",
+      "structure": "[forma curta] でしょう · [N / adj な] でしょう (sem だ) · 〜でしょうか (pergunta educada)",
+      "examples": [
+        { "jp": "あしたの リオは くもりでしょう。", "kana": "あしたの リオは くもりでしょう。", "romaji": "Ashita no Rio wa kumori deshō.", "pt": "Amanhã, no Rio, o tempo deve ficar nublado." },
+        { "jp": "ルーカスさんは かぜなので、たぶん 来ないでしょう。", "kana": "ルーカスさんは かぜなので、たぶん こないでしょう。", "romaji": "Rūkasu-san wa kaze na node, tabun konai deshō.", "pt": "Como o Lucas está resfriado, ele provavelmente não vem." },
+        { "jp": "先生、今 ちょっと いいでしょうか。", "kana": "せんせい、いま ちょっと いいでしょうか。", "romaji": "Sensei, ima chotto ii deshō ka.", "pt": "Professor(a), o(a) senhor(a) tem um minutinho agora?" }
+      ],
+      "pitfalls": [
+        "Com substantivo e adjetivo な, sem だ e sem な: ○ 雨でしょう × 雨だでしょう × 雨なでしょう.",
+        "でしょう não serve para os seus próprios planos, porque isso você sabe: ○ あした 行きます。 × あした 行くでしょう。",
+        "でしょう↘ (\"provavelmente\") e でしょう↗ (\"…né?\") se escrevem igual: a diferença está na entonação. Na escrita, o contexto (e às vezes um ？) mostra qual é.",
+        "Com professor ou chefe, não use でしょう↗ para confirmar, porque pode soar como cobrança. Prefira 〜ですよね。"
+      ],
+      "howToStudy": [
+        "Seja o apresentador da previsão do tempo: diga em voz alta a previsão de 4 cidades (サンパウロ, リオ, 東京, きょうと) com でしょう: 雨でしょう, さむいでしょう, 雪でしょう, くもりでしょう.",
+        "Aperte 🔬 no exemplo 2 e identifique os blocos: かぜなので é o MOTIVO, e たぶん 来ないでしょう é o PREDICADO, com でしょう no fim transformando a afirmação em suposição.",
+        "Fala com entonação: grave 3 frases com でしょう↘ (provavelmente) e as mesmas 3 com でしょう↗ (…né?). Ouça e confira se dá para perceber a diferença."
+      ],
+      "flag": null
+    }
+  ],
+  "media": [
+    { "order": 1, "kind": "leitura", "title": "Genki I · Lição 12: explicações de gramática 〜なければいけません / 〜なきゃいけません e 〜でしょう", "where": "Seu livro Genki I (3ª ed.)", "url": "", "when": "Antes desta aula ou logo depois do bloco de gramática" },
+    { "order": 2, "kind": "video", "title": "ToKini Andy: aula da Lição 12 do Genki I (parte de 〜なければいけません e 〜でしょう)", "where": "YouTube · canal ToKini Andy", "url": "", "search": "ToKini Andy Genki Lesson 12", "when": "Depois de estudar os 2 pontos: o vídeo confirma e dá mais exemplos" },
+    { "order": 3, "kind": "video", "title": "Game Gengo: 〜なければならない e as contrações なきゃ / なくちゃ", "where": "YouTube · canal Game Gengo", "url": "", "search": "Game Gengo なければならない", "when": "Opcional: para ouvir mais exemplos das formas casuais" },
+    { "order": 4, "kind": "app", "title": "genki-companion: Lição 12, pontos 5 e 6 (marque ✍️ quando terminar; com isso a Lição 12 fecha)", "where": "../genki-companion/index.html", "url": "../genki-companion/index.html", "when": "No fim, para revisar e marcar o progresso" }
+  ],
+  "homework": {
+    "intro": "Faça no caderno, à mão. Escreva o japonês com os kanji que você já conhece e kana no resto. Só depois abra o gabarito, item por item. Circule o que errou e refaça no dia seguinte.",
+    "tasks": [
+      {
+        "id": "h1",
+        "type": "transformar",
+        "prompt": "Transforme em obrigação com 〜なければいけません. Siga a indicação entre parênteses quando houver.",
+        "items": [
+          { "q": "くすりを 飲みます。", "a": { "jp": "くすりを 飲まなければいけません。", "kana": "くすりを のまなければいけません。", "romaji": "Kusuri o nomanakereba ikemasen." } },
+          { "q": "日本語を 使います。", "a": { "jp": "日本語を 使わなければいけません。", "kana": "にほんごを つかわなければいけません。", "romaji": "Nihongo o tsukawanakereba ikemasen." }, "note": "使う → 使わない: verbos em う fazem o ない com わ." },
+          { "q": "あした 病院に 来ます。", "a": { "jp": "あした 病院に 来なければいけません。", "kana": "あした びょういんに こなければいけません。", "romaji": "Ashita byōin ni konakereba ikemasen." }, "note": "来る → 来ない (こない) → 来なければ (こなければ)." },
+          { "q": "しゅくだいを します。", "a": { "jp": "しゅくだいを しなければいけません。", "romaji": "Shukudai o shinakereba ikemasen." } },
+          { "q": "きのう 早く 起きました。(passado: \"tive que\")", "a": { "jp": "きのう 早く 起きなければいけませんでした。", "kana": "きのう はやく おきなければいけませんでした。", "romaji": "Kinō hayaku okinakereba ikemasen deshita." }, "note": "No passado, só o fim muda: いけませんでした." },
+          { "q": "電車に のります。(casual, com なきゃ)", "a": { "jp": "電車に のらなきゃ。", "kana": "でんしゃに のらなきゃ。", "romaji": "Densha ni noranakya." }, "note": "のる é verbo う (のらない). なくちゃ também serve: 電車に のらなくちゃ。" }
+        ]
+      },
+      {
+        "id": "h2",
+        "type": "completar",
+        "prompt": "Complete com でしょう (ou でしょうか) na forma certa. Cuidado com o substantivo e o adjetivo な.",
+        "items": [
+          { "q": "あしたは ＿＿＿＿。(雪 · provavelmente)", "a": { "jp": "雪でしょう", "kana": "ゆきでしょう", "romaji": "yuki deshō" }, "note": "Substantivo: sem だ." },
+          { "q": "東京は ＿＿＿＿。(さむい · provavelmente)", "a": { "jp": "さむいでしょう", "romaji": "samui deshō" } },
+          { "q": "その 町は ＿＿＿＿。(しずか · provavelmente)", "a": { "jp": "しずかでしょう", "romaji": "shizuka deshō" }, "note": "Adjetivo な: sem な e sem だ." },
+          { "q": "田中さんは もう ＿＿＿＿。(帰った · provavelmente)", "a": { "jp": "帰ったでしょう", "kana": "かえったでしょう", "romaji": "kaetta deshō" }, "note": "\"O Sr. Tanaka provavelmente já foi embora.\"" },
+          { "q": "すみません、えきは ＿＿＿＿。(どこ · pergunta educada)", "a": { "jp": "どこでしょうか", "romaji": "doko deshō ka" }, "note": "でしょうか soa mais suave que どこですか." },
+          { "q": "この ケーキ、＿＿＿＿↗ (おいしい · pedindo confirmação ao amigo)", "a": { "jp": "おいしいでしょう？", "romaji": "oishii deshō?" }, "note": "Voz subindo no fim: \"gostoso, né?\". Entre amigos próximos, também でしょ？" }
+        ]
+      },
+      {
+        "id": "h3",
+        "type": "traduzir",
+        "prompt": "Traduza para o japonês. Alguns itens revisam as Aulas 12-1 e 12-2.",
+        "items": [
+          { "q": "Amanhã eu tenho que ir ao hospital.", "a": { "jp": "あした 病院に 行かなければいけません。", "kana": "あした びょういんに いかなければいけません。", "romaji": "Ashita byōin ni ikanakereba ikemasen." } },
+          { "q": "Como estou com 38 graus de febre, hoje tenho que faltar ao trabalho.", "a": { "jp": "ねつが 三十八度 あるので、きょうは 仕事を 休まなければいけません。", "kana": "ねつが さんじゅうはちど あるので、きょうは しごとを やすまなければいけません。", "romaji": "Netsu ga sanjūhachido aru node, kyō wa shigoto o yasumanakereba ikemasen." } },
+          { "q": "A Maria provavelmente sabe. — É, é melhor perguntar para ela.", "a": { "jp": "マリアさんは たぶん 知っているでしょう。— ええ、マリアさんに 聞いた ほうが いいですね。", "kana": "マリアさんは たぶん しっているでしょう。— ええ、マリアさんに きいた ほうが いいですね。", "romaji": "Maria-san wa tabun shitte iru deshō. — Ee, Maria-san ni kiita hō ga ii desu ne." } },
+          { "q": "Professor(a), esta resposta está boa? (do jeito mais educado)", "a": { "jp": "先生、この こたえで いいでしょうか。", "kana": "せんせい、この こたえで いいでしょうか。", "romaji": "Sensei, kono kotae de ii deshō ka." }, "note": "〜で いいですか = \"assim está bom?\". Com でしょうか, a pergunta fica mais cuidadosa." }
+        ]
+      },
+      {
+        "id": "h4",
+        "type": "produzir",
+        "prompt": "Você acordou com febre e não vai conseguir ir ao trabalho (ou à faculdade). Escreva, em 4–5 frases, a mensagem de 連絡 (veja a Cultura) para o seu chefe ou professor: explique com 〜ので ou 〜んです, diga o que você tem que fazer com 〜なければいけません e termine com um pedido educado em 〜でしょうか. Depois leia em voz alta como se fosse um telefonema.",
+        "items": [
+          { "q": "Modelo, que o seu texto deve seguir na estrutura e não nas palavras:", "a": { "jp": "おはようございます。ルーカスです。すみません、ねつが 三十八度 あるので、きょうは 休みます。午後 病院に 行かなければいけません。レポートは あした 出しても いいでしょうか。", "kana": "おはようございます。ルーカスです。すみません、ねつが さんじゅうはちど あるので、きょうは やすみます。ごご びょういんに いかなければいけません。レポートは あした だしても いいでしょうか。", "romaji": "Ohayō gozaimasu. Rūkasu desu. Sumimasen, netsu ga sanjūhachido aru node, kyō wa yasumimasu. Gogo byōin ni ikanakereba ikemasen. Repōto wa ashita dashite mo ii deshō ka.", "pt": "Bom dia. Aqui é o Lucas. Desculpe, estou com 38 graus de febre, então hoje vou faltar. À tarde tenho que ir ao médico. Posso entregar o relatório amanhã?" }, "note": "Confira: o motivo com ので (ou んです) vem antes do resultado; なければ sai da forma ない (行かない → 行かなければ); e o pedido termina em でしょうか, que soa mais suave que ですか." }
+        ]
+      }
+    ],
+    "workbook": [
+      { "p": 115, "t": "5 · ～なければいけません / ～なきゃいけません", "tip": "Faça depois do ponto 4a." },
+      { "p": 116, "t": "6 · ～でしょうか", "tip": "Faça depois do ponto 4b." },
+      { "p": 117, "t": "7 · 答えましょう (Questions)", "tip": "Revisão da Lição 12 inteira: faça na sessão 2, depois das Aulas 12-1 a 12-3." },
+      { "p": 118, "t": "8 · 聞く練習 (Listening Comprehension)", "tip": "Precisa do áudio do Workbook. Faça na sessão 2 e confira no Genki Answer Key oficial." },
+      { "p": 151, "t": "Kanji Practice", "tip": "Kanji da Lição 12. Antes, treine a ordem dos traços em Kanji → ✍️ Escrever no Mirage." },
+      { "p": 152, "t": "Using Kanji", "tip": "Faça depois da página 151 e confira no Genki Answer Key oficial." }
+    ]
+  },
+  "practice": [
+    { "tool": "Wagotabi", "what": "Jogue normalmente e cace obrigações e suposições nos diálogos: 〜なければ, 〜なきゃ, 〜なくちゃ, 〜でしょう, 〜だろう. Quando achar uma, pause e diga em voz alta se é \"tem que\" ou \"provavelmente\". Registre a sessão em Imersão → Jogos e cole uma dessas frases na 🔬 Anatomia.", "min": 15 },
+    { "tool": "Mirage", "what": "Vocabulário da Lição 12 no SRS (o baralho \"🌊 Tudo\" junta as revisões do dia) e Praticar L12, agora com a lição inteira. Depois, Treinos → 🔬 Anatomia → 🧱 Montar de trás pra frente: 5 frases, começando pelo bloco de obrigação ou pelo でしょう.", "min": 15 },
+    { "tool": "Mirage · Kanji", "what": "Kanji → ✍️ Escrever: os kanji da Lição 12 (昔, 神, 早, 起, 牛, 使, 働, 連, 別, 度, 赤, 青, 色), antes das páginas 151–152 do Workbook.", "min": 10 },
+    { "tool": "Shadowing", "what": "Toque 🔊 em cada exemplo desta aula e repita junto 3 vezes. Compare os exemplos de でしょう: em くもりでしょう a voz desce no fim (é só suposição); em いいでしょうか ela sobe de leve no か (é pergunta). Depois diga おいしいでしょう↗ subindo a voz, para sentir o \"…né?\".", "min": 5 },
+    { "tool": "Fala", "what": "Grave a mensagem de 連絡 (lição de casa h4) como se fosse um recado de voz para o chefe, em até 30 s.", "min": 5 }
+  ],
+  "culture": {
+    "title": "ほうれんそう no trabalho",
+    "titleJp": "ほうれんそう（報告・連絡・相談）",
+    "body": "Nas empresas japonesas, quase todo recém-contratado ouve falar de **ほうれんそう**. A palavra quer dizer \"espinafre\", mas aqui é um trocadilho com três hábitos: **報告** (ほうこく, relatar ao chefe como anda o trabalho), **連絡** (れんらく, avisar quem precisa saber de um fato, como um atraso ou uma mudança de horário) e **相談** (そうだん, consultar alguém antes de decidir quando se tem dúvida). A ideia é que a informação circule **cedo**, inclusive a notícia ruim, para ninguém ser pego de surpresa. Por isso, se o trem atrasar ou você acordar com febre, o esperado é avisar logo, em geral por telefone ou mensagem, antes do horário de entrada. Há quem critique o excesso de ほうれんそう como microgerenciamento, mas o termo continua muito usado em treinamentos.",
+    "try": "Depois de escrever a mensagem da lição de casa h4, leia-a em voz alta começando por おはようございます。(seu nome)です。 Em seguida, diga qual dos três (報告, 連絡 ou 相談) cada frase da sua mensagem representa."
+  },
+  "checklist": [
+    "Transformo qualquer verbo em 〜なければいけません (inclusive 使う → 使わなければ, する e 来る), sem olhar.",
+    "Digo \"tive que\" com 〜なければいけませんでした.",
+    "Reconheço 〜なきゃ e 〜なくちゃ na fala casual e sei que não devo usá-los com o professor.",
+    "Não confundo 〜なければいけません (tem que) com 〜ては いけません (não pode).",
+    "Faço suposições com (たぶん) 〜でしょう, tirando o だ de substantivos e adjetivos な (雨でしょう, しずかでしょう).",
+    "Faço perguntas educadas com 〜でしょうか e uso でしょう↗ para pedir confirmação.",
+    "Fiz a lição de casa e conferi o gabarito, e refiz o que errei.",
+    "Fiz as páginas 115–118 do Workbook e as de kanji, 151–152."
+  ]
+}

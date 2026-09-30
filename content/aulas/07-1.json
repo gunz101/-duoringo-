@@ -1,0 +1,197 @@
+{
+  "id": "07-1",
+  "unit": "G1-L07",
+  "genki": { "book": "Genki I", "lesson": 7, "points": ["～ている (Actions in Progress)", "～ている (Result of a Change)"] },
+  "title": "〜ている",
+  "titleJp": "今 べんきょうしています",
+  "canDo": [
+    "Dizer o que alguém está fazendo agora (今 〜ています) e perguntar o que a pessoa está fazendo.",
+    "Falar de uma rotina atual com 毎日 〜ています.",
+    "Dizer onde moro, se sou casado(a), onde trabalho e se uso óculos, com o ている de estado.",
+    "Responder \"não sei / não conheço\" do jeito certo: しりません, e não しっていません.",
+    "Falar da minha família e da família dos outros com as palavras certas (はは × おかあさん)."
+  ],
+  "duration": {
+    "total": "60–75 min",
+    "blocks": [
+      { "t": "Aquecimento: dizer em voz alta a forma て de 10 verbos da Aula 06-1 (たべる, のむ, よむ, およぐ, する…)", "min": 5 },
+      { "t": "Vocabulário: ouvir 🔊 cada palavra e repetir 2 vezes", "min": 10 },
+      { "t": "Gramática: os 2 pontos, cada um com os exemplos lidos em voz alta e um 🔬", "min": 20 },
+      { "t": "Vídeo da Lição 7 (bloco 6), pausando nos exemplos", "min": 10 },
+      { "t": "Lição de casa no caderno + conferir no gabarito", "min": 20 },
+      { "t": "Checklist (bloco 10) + anotar dúvidas no caderno da aula", "min": 5 }
+    ]
+  },
+  "prereqs": {
+    "aulas": ["04-1", "06-1", "06-2"],
+    "skills": [
+      "Fazer a forma て de qualquer verbo sem travar (Aula 06-1): たべて, よんで, およいで, して, きて, いって. Todo o ponto de hoje é forma て + います.",
+      "Conhecer います / いません da Aula 04-1: o ています desta aula é o mesmo verbo いる, agora grudado em outro verbo.",
+      "Ler hiragana com fluência. Os kanji das Lições 3–7 (今, 毎日, 父, 母, 会社…) aparecem nas frases, mas o kana vem sempre escrito embaixo."
+    ],
+    "vocab": [
+      { "jp": "今", "kana": "いま", "romaji": "ima", "pt": "agora" },
+      { "jp": "毎日", "kana": "まいにち", "romaji": "mainichi", "pt": "todo dia" },
+      { "jp": "かぞく", "kana": "かぞく", "romaji": "kazoku", "pt": "família" },
+      { "jp": "父", "kana": "ちち", "romaji": "chichi", "pt": "(meu) pai, ao falar dele com outras pessoas" },
+      { "jp": "母", "kana": "はは", "romaji": "haha", "pt": "(minha) mãe, ao falar dela com outras pessoas" },
+      { "jp": "お父さん", "kana": "おとうさん", "romaji": "otōsan", "pt": "pai (de outra pessoa; também para chamar o seu)" },
+      { "jp": "お母さん", "kana": "おかあさん", "romaji": "okāsan", "pt": "mãe (de outra pessoa; também para chamar a sua)" },
+      { "jp": "あに", "kana": "あに", "romaji": "ani", "pt": "(meu) irmão mais velho" },
+      { "jp": "あね", "kana": "あね", "romaji": "ane", "pt": "(minha) irmã mais velha" },
+      { "jp": "いもうと", "kana": "いもうと", "romaji": "imōto", "pt": "(minha) irmã mais nova; いもうとさん para a dos outros" },
+      { "jp": "おとうと", "kana": "おとうと", "romaji": "otōto", "pt": "(meu) irmão mais novo; おとうとさん para o dos outros" },
+      { "jp": "けっこんする", "kana": "けっこんする", "romaji": "kekkon suru", "pt": "casar-se → けっこんしている: ser casado(a)" },
+      { "jp": "すむ", "kana": "すむ", "romaji": "sumu", "pt": "passar a morar → すんでいる: morar (lugar + に)" },
+      { "jp": "しる", "kana": "しる", "romaji": "shiru", "pt": "ficar sabendo → しっている: saber, conhecer" },
+      { "jp": "つとめる", "kana": "つとめる", "romaji": "tsutomeru", "pt": "entrar numa empresa → つとめている: trabalhar para (empresa + に)" },
+      { "jp": "ふとる", "kana": "ふとる", "romaji": "futoru", "pt": "engordar → ふとっている: ser/estar gordo" },
+      { "jp": "やせる", "kana": "やせる", "romaji": "yaseru", "pt": "emagrecer → やせている: ser/estar magro" },
+      { "jp": "めがね", "kana": "めがね", "romaji": "megane", "pt": "óculos" },
+      { "jp": "かける", "kana": "かける", "romaji": "kakeru", "pt": "pôr (óculos): めがねを かける" },
+      { "jp": "きる", "kana": "きる", "romaji": "kiru", "pt": "vestir (roupa da cintura para cima)" },
+      { "jp": "うたう", "kana": "うたう", "romaji": "utau", "pt": "cantar" },
+      { "jp": "およぐ", "kana": "およぐ", "romaji": "oyogu", "pt": "nadar" },
+      { "jp": "ニュース", "kana": "ニュース", "romaji": "nyūsu", "pt": "notícias, noticiário" },
+      { "jp": "会社", "kana": "かいしゃ", "romaji": "kaisha", "pt": "empresa" }
+    ]
+  },
+  "grammar": [
+    {
+      "id": "07-1-a",
+      "gc": "7-1",
+      "title": "〜ています (ação em progresso)",
+      "gloss": "estar fazendo agora",
+      "explanation": "Forma て do verbo + **います** = uma ação que **está acontecendo**: já começou e ainda não terminou. É o mais perto do nosso \"estar + -ndo\": たべています = \"está comendo\".\n• O います aqui é o mesmo いる da Aula 04-1, agora como **verbo auxiliar**, grudado na forma て. Ele conjuga como qualquer verbo る: 〜ています (está fazendo), 〜ていません (não está fazendo), 〜ていました (estava fazendo), 〜ていませんでした (não estava fazendo).\n• O tempo e a negação ficam **só no います do fim**. A forma て na frente não muda nunca.\n• A frase continua com os mesmos blocos da Aula 03-2: [quem] は [lugar] で [objeto] を [verbo-て います]. Leia primeiro o PREDICADO (\"está estudando\") e depois veja onde e o quê.\n• Com 毎日 e outras palavras de frequência, ています vira **hábito atual**: 毎日 およいでいます = \"nado todo dia (é a minha rotina agora)\", como o nosso \"ando nadando\". O ます simples (毎日 およぎます) também está certo.\n• **Contraste com o português**: nem todo \"estar -ndo\" vira ています. \"Estou viajando amanhã\" é um plano, e plano em japonês é ます: あした リオに 行きます。 E com verbos de mudança (casar, morar, saber) o ています quer dizer outra coisa: é o ponto b.\n• Na fala casual, ている encolhe para てる (たべてる, 見てる). Você vai ouvir muito isso no Wagotabi. Por enquanto, escreva a forma completa.",
+      "structure": "[verbo-て] います · negativa [verbo-て] いません · passado [verbo-て] いました",
+      "examples": [
+        { "jp": "アナさんは 今 としょかんで べんきょうしています。", "kana": "アナさんは いま としょかんで べんきょうしています。", "romaji": "Ana-san wa ima toshokan de benkyō shite imasu.", "pt": "A Ana está estudando na biblioteca agora." },
+        { "jp": "マリアさんは どこですか。— あそこで およいでいますよ。", "kana": "マリアさんは どこですか。— あそこで およいでいますよ。", "romaji": "Maria-san wa doko desu ka. — Asoko de oyoide imasu yo.", "pt": "Cadê a Maria? — Está nadando ali, ó." },
+        { "jp": "ルーカスさんは 毎日 ラジオで ニュースを きいています。", "kana": "ルーカスさんは まいにち ラジオで ニュースを きいています。", "romaji": "Rūkasu-san wa mainichi rajio de nyūsu o kiite imasu.", "pt": "O Lucas escuta o noticiário no rádio todo dia (é o hábito dele agora)." }
+      ],
+      "pitfalls": [
+        "\"Estou viajando amanhã\" é um plano, e plano usa ます: あした リオに 行きます。 ✓ × あした リオに 行っています。 O ています fala do agora ou de um hábito atual, nunca do futuro.",
+        "\"Já estou indo!\" = 今 行きます！ ✓ × 今 行っています。 行っています quer dizer \"foi e está lá\" (ponto b), e não \"está a caminho\".",
+        "A forma て tem que estar certa antes do います: よんでいます ✓ × よみています; およいでいます ✓ × およぎています. Na dúvida, volte à tabela da Aula 06-1.",
+        "\"Estar\" + adjetivo (\"está frio\", \"estou feliz\") não usa ています: さむいです ✓ × さむいています. O ています só vem depois da forma て de um verbo."
+      ],
+      "howToStudy": [
+        "Olhe em volta e narre em voz alta 5 coisas que estão acontecendo agora, com 今 〜ています: 父は テレビを 見ています、ねこは ねています…",
+        "Aperte 🔬 no exemplo da Ana. べんきょうしています é o PREDICADO e o bloco com で é o LUGAR. Leia de trás para frente: \"está estudando ← na biblioteca ← agora ← a Ana\".",
+        "No caderno, escreva as 4 formas (〜ています / 〜ていません / 〜ていました / 〜ていませんでした) de 5 verbos: たべる, よむ, のむ, かく, する."
+      ],
+      "flag": null
+    },
+    {
+      "id": "07-1-b",
+      "gc": "7-2",
+      "title": "〜ています (estado resultante)",
+      "gloss": "o estado que ficou depois de uma mudança",
+      "explanation": "Alguns verbos descrevem uma **mudança que acontece num instante**: casar, passar a morar num lugar, ficar sabendo, engordar, pôr os óculos. Com esses verbos, ています **não** é \"estar -ndo\": é o **estado que ficou** depois da mudança, e que continua valendo agora.\n• けっこんしています = \"é casado(a)\": casou e continua casado. Compare: けっこんしました = \"casou\" (o evento) e けっこんします = \"vai casar\".\n• すんでいます = \"mora\". O lugar vem com **に**: サンパウロに すんでいます。\n• しっています = \"sei / conheço\". **Atenção: a negativa é しりません**, sem ている. Pergunta e respostas: しっていますか。— はい、しっています。/ いいえ、しりません。\n• つとめています = \"trabalha para (uma empresa)\", também com に: 会社に つとめています。\n• ふとっています = \"é / está gordo\"; やせています = \"é magro\". São o resultado de engordar e de emagrecer, e o japonês usa essa forma até para quem sempre foi magro.\n• めがねを かけています = \"usa óculos, está de óculos\". Roupa funciona igual, mas cada peça tem o seu verbo: シャツを きています (da cintura para cima), ズボンを はいています (da cintura para baixo, e sapatos), ぼうしを かぶっています (na cabeça).\n• 行っています e きています (de くる) também são deste tipo: \"foi e está lá\", \"veio e está aqui\".\n• **Resumo do contraste com o português**: se o verbo dura (comer, estudar, nadar), ています ≈ \"estar -ndo\". Se o verbo é uma mudança instantânea, ています ≈ o nosso presente simples ou \"ser/estar\" + adjetivo: \"mora\", \"é casado\", \"sabe\", \"está gordo\".",
+      "structure": "[verbo de mudança-て] います = estado · [lugar] に すんでいます · しっています ⇄ しりません",
+      "examples": [
+        { "jp": "すずき先生は けっこんしていますか。— いいえ、けっこんしていません。", "kana": "すずきせんせいは けっこんしていますか。— いいえ、けっこんしていません。", "romaji": "Suzuki-sensei wa kekkon shite imasu ka. — Iie, kekkon shite imasen.", "pt": "A professora Suzuki é casada? — Não, não é casada." },
+        { "jp": "父は リオに すんでいます。", "kana": "ちちは リオに すんでいます。", "romaji": "Chichi wa Rio ni sunde imasu.", "pt": "Meu pai mora no Rio." },
+        { "jp": "たなかさんの いもうとさんを しっていますか。— いいえ、しりません。", "kana": "たなかさんの いもうとさんを しっていますか。— いいえ、しりません。", "romaji": "Tanaka-san no imōto-san o shitte imasu ka. — Iie, shirimasen.", "pt": "Você conhece a irmã mais nova do Tanaka? — Não, não conheço." }
+      ],
+      "pitfalls": [
+        "\"Não sei / não conheço\" = しりません ✓ × しっていません. A afirmativa precisa do ている (しっています ✓), mas a negativa não.",
+        "\"Sou casado\" = けっこんしています ✓ × けっこんします, que é \"vou casar\". O evento \"casei\" é けっこんしました.",
+        "Morar usa に, não で: サンパウロに すんでいます ✓ × サンパウロで すんでいます.",
+        "\"Ele é gordo\" = ふとっています ✓ × ふといです. ふとい existe, mas é \"grosso\" (uma linha, um tronco), não se usa para descrever o corpo de alguém."
+      ],
+      "howToStudy": [
+        "Diga em voz alta 4 fatos verdadeiros sobre você com o ている de estado: onde mora (〜に すんでいます), se é casado(a), se usa óculos e uma pessoa famosa que você conhece (〜を しっています).",
+        "Treine o par que mais derruba: faça 6 perguntas com 〜を しっていますか e responda metade com はい、しっています e metade com いいえ、しりません, sem pensar.",
+        "Aperte 🔬 no exemplo do pai: o PREDICADO é すんでいます, um estado, não uma ação. Repare que o lugar vem com に, e não com o で de lugar de ação da Aula 03-2."
+      ],
+      "flag": null
+    }
+  ],
+  "media": [
+    { "order": 1, "kind": "leitura", "title": "Genki I · Lição 7: diálogo, vocabulário e a explicação de 〜ている (ação em progresso e resultado de uma mudança)", "where": "Seu livro Genki I (3ª ed.)", "url": "", "when": "Antes desta aula ou logo depois do bloco de gramática" },
+    { "order": 2, "kind": "video", "title": "ToKini Andy: aula da Lição 7 do Genki I (a parte do 〜ている)", "where": "YouTube · canal ToKini Andy", "url": "", "search": "ToKini Andy Genki Lesson 7", "when": "Depois dos 2 pontos: pause em cada exemplo e diga se é ação em progresso ou estado" },
+    { "order": 3, "kind": "video", "title": "Game Gengo: 〜ている, ação em progresso × estado", "where": "YouTube · canal Game Gengo", "url": "", "search": "Game Gengo ている", "when": "Opcional, se o ponto b ainda estiver confuso" },
+    { "order": 4, "kind": "app", "title": "genki-companion: Lição 7, pontos 1 e 2 (marque ✍️ quando terminar)", "where": "../genki-companion/index.html", "url": "../genki-companion/index.html", "when": "No fim, para revisar e marcar o progresso" }
+  ],
+  "homework": {
+    "intro": "Faça no caderno, à mão. Escreva o japonês em kana, ou com os kanji que você já conhece (今, 毎日, 父, 母, 会社). Só depois abra o gabarito, item por item. Circule o que errou e refaça no dia seguinte.",
+    "tasks": [
+      {
+        "id": "h1",
+        "type": "transformar",
+        "prompt": "Passe para a forma pedida com 〜ています e diga em voz alta o que a frase significa.",
+        "items": [
+          { "q": "ペドロさんは コーヒーを のみます。 (→ \"está tomando\")", "a": { "jp": "ペドロさんは コーヒーを のんでいます。", "romaji": "Pedoro-san wa kōhī o nonde imasu.", "pt": "O Pedro está tomando café." } },
+          { "q": "アナさんは カラオケで うたいます。 (→ \"está cantando\")", "a": { "jp": "アナさんは カラオケで うたっています。", "romaji": "Ana-san wa karaoke de utatte imasu.", "pt": "A Ana está cantando no karaokê." } },
+          { "q": "たなかさんは プールで およぎます。 (→ \"está nadando\")", "a": { "jp": "たなかさんは プールで およいでいます。", "romaji": "Tanaka-san wa pūru de oyoide imasu.", "pt": "O Tanaka está nadando na piscina." }, "note": "およぐ → およいで: os verbos em ぐ fazem いで." },
+          { "q": "私は 日本語の 本を よみます。 (→ \"estou lendo\")", "a": { "jp": "私は 日本語の 本を よんでいます。", "kana": "わたしは にほんごの ほんを よんでいます。", "romaji": "Watashi wa nihongo no hon o yonde imasu.", "pt": "Estou lendo um livro em japonês." } },
+          { "q": "父は テレビを 見ません。 (→ \"não está vendo\")", "a": { "jp": "父は テレビを 見ていません。", "kana": "ちちは テレビを みていません。", "romaji": "Chichi wa terebi o mite imasen.", "pt": "Meu pai não está vendo TV." }, "note": "A negação vai só no fim: 見て + いません." },
+          { "q": "マリアさんは しゅくだいを しました。 (→ \"estava fazendo\")", "a": { "jp": "マリアさんは しゅくだいを していました。", "romaji": "Maria-san wa shukudai o shite imashita.", "pt": "A Maria estava fazendo a lição de casa." }, "note": "O passado também vai só no fim: して + いました." }
+        ]
+      },
+      {
+        "id": "h2",
+        "type": "completar",
+        "prompt": "Complete com o verbo entre parênteses na forma certa: 〜ています, 〜ていません ou しりません. Pense antes: é um estado, um \"não\" ou um \"não sei\"?",
+        "items": [
+          { "q": "ルーカスさんは サンパウロに ＿＿＿。 (すむ → \"mora\")", "a": { "jp": "すんでいます", "romaji": "sunde imasu" }, "note": "すむ é verbo de mudança: \"morar\" é o estado すんでいます." },
+          { "q": "やまださんの でんわばんごうを しっていますか。— いいえ、＿＿＿。 (\"não sei\")", "a": { "jp": "しりません", "romaji": "shirimasen" }, "note": "A negativa de しっています é しりません, sem ている." },
+          { "q": "あには けっこん＿＿＿。 (\"é casado\")", "a": { "jp": "しています", "romaji": "shite imasu" }, "note": "けっこんしています = é casado. けっこんします seria \"vai casar\"." },
+          { "q": "いもうとは けっこん＿＿＿。 (\"não é casada\")", "a": { "jp": "していません", "romaji": "shite imasen" }, "note": "Aqui a negativa normal funciona: けっこんしていません. Quem foge da regra é só しる (しりません)." },
+          { "q": "あねは 日本の 会社に ＿＿＿。 (つとめる → \"trabalha para\")", "a": { "jp": "つとめています", "romaji": "tsutomete imasu" }, "note": "つとめる também vira estado com ている, e a empresa vem com に." },
+          { "q": "たなかさんの ねこは ＿＿＿。 (ふとる → \"é gordo\")", "a": { "jp": "ふとっています", "romaji": "futotte imasu" }, "note": "Resultado de engordar: ふとっています. ふとい seria \"grosso\"." }
+        ]
+      },
+      {
+        "id": "h3",
+        "type": "traduzir",
+        "prompt": "Traduza para o japonês. Use はは / ちち / あに… para a sua família e おかあさん / おとうさん… para a dos outros.",
+        "items": [
+          { "q": "Meu irmão mais novo está dormindo agora.", "a": { "jp": "おとうとは 今 ねています。", "kana": "おとうとは いま ねています。", "romaji": "Otōto wa ima nete imasu." } },
+          { "q": "Onde você mora? — Moro em Curitiba.", "a": { "jp": "どこに すんでいますか。— クリチバに すんでいます。", "romaji": "Doko ni sunde imasu ka. — Kurichiba ni sunde imasu." }, "note": "Tanto a pergunta quanto a resposta usam に." },
+          { "q": "Você conhece a Maria? — Não, não conheço.", "a": { "jp": "マリアさんを しっていますか。— いいえ、しりません。", "romaji": "Maria-san o shitte imasu ka. — Iie, shirimasen." } },
+          { "q": "O pai do Tanaka trabalha numa empresa de Tóquio.", "a": { "jp": "たなかさんの お父さんは 東京の 会社に つとめています。", "kana": "たなかさんの おとうさんは とうきょうの かいしゃに つとめています。", "romaji": "Tanaka-san no otōsan wa Tōkyō no kaisha ni tsutomete imasu." }, "note": "É o pai de outra pessoa: お父さん, e não 父." },
+          { "q": "Minha irmã mais velha é magra. Ela usa óculos.", "a": { "jp": "あねは やせています。めがねを かけています。", "romaji": "Ane wa yasete imasu. Megane o kakete imasu." }, "note": "\"Magro\" e \"usa óculos\" são estados: やせています, かけています. Na Aula 07-2 você vai aprender a juntar as duas frases numa só." },
+          { "q": "Todo dia eu estudo japonês (é a minha rotina agora).", "a": { "jp": "毎日 日本語を べんきょうしています。", "kana": "まいにち にほんごを べんきょうしています。", "romaji": "Mainichi nihongo o benkyō shite imasu." }, "note": "毎日 日本語を べんきょうします também está certo. ています destaca que é a rotina atual." }
+        ]
+      },
+      {
+        "id": "h4",
+        "type": "produzir",
+        "prompt": "Escreva 5 frases sobre a sua família (ou uma família inventada): onde cada um mora, se é casado, onde trabalha ou estuda e o que alguém está fazendo agora. Use as palavras humildes (ちち, はは, あに…). Depois leia em voz alta e grave no celular.",
+        "items": [
+          { "q": "Modelo, que o seu texto deve seguir na estrutura e não nas palavras:", "a": { "jp": "父は リオに すんでいます。会社に つとめています。あには けっこんしています。いもうとは 大学生です。今 としょかんで べんきょうしています。", "kana": "ちちは リオに すんでいます。かいしゃに つとめています。あには けっこんしています。いもうとは だいがくせいです。いま としょかんで べんきょうしています。", "romaji": "Chichi wa Rio ni sunde imasu. Kaisha ni tsutomete imasu. Ani wa kekkon shite imasu. Imōto wa daigakusei desu. Ima toshokan de benkyō shite imasu.", "pt": "Meu pai mora no Rio. Trabalha numa empresa. Meu irmão mais velho é casado. Minha irmã mais nova é universitária. Agora ela está estudando na biblioteca." }, "note": "Confira: すむ e つとめる com に, けっこん / すむ / つとめる com o ています de estado, a ação de agora com 今 〜ています, e palavras humildes (ちち, あに) para a sua família." }
+        ]
+      }
+    ],
+    "workbook": [
+      { "p": 69, "t": "1 · Te-form", "tip": "Faça antes do ponto 4a, como aquecimento: sem a forma て firme, o ている não sai." },
+      { "p": 70, "t": "2 · ～ている (Actions in Progress)", "tip": "Faça depois do ponto 4a." },
+      { "p": 71, "t": "3 · ～ている (Result of a Change)", "tip": "Faça depois do ponto 4b. Confira no Genki Answer Key oficial." }
+    ]
+  },
+  "practice": [
+    { "tool": "Wagotabi", "what": "Jogue normalmente e cace 〜ています (ou a forma casual 〜てる) nos diálogos. Para cada um, decida: é ação em progresso ou estado? Copie 2 dessas frases no caderno com a sua resposta ao lado.", "min": 15 },
+    { "tool": "Mirage", "what": "Vocabulário da Lição 7 no SRS. Depois, Treinos → Conjugação por 5 min, dizendo em voz alta também a forma て + います de cada verbo que aparecer.", "min": 10 },
+    { "tool": "Mirage", "what": "Praticar L7. Em seguida, Treinos → 🔬 Anatomia → 🧱 Montar de trás pra frente com 3 frases desta aula, começando pelo 〜ています.", "min": 10 },
+    { "tool": "Shadowing", "what": "Toque 🔊 nos 6 exemplos desta aula e repita junto 3 vezes. Repare que no fim de ています o u de す quase some.", "min": 5 },
+    { "tool": "Fala", "what": "Grave 30 s dizendo o que as pessoas da sua casa estão fazendo agora (今 〜ています) e onde cada uma mora.", "min": 5 }
+  ],
+  "culture": {
+    "title": "うち e そと: a família \"minha\" × a \"sua\"",
+    "titleJp": "うちと そと",
+    "body": "O japonês separa o grupo de dentro, **うち** (a sua família, a sua empresa), do grupo de fora, **そと** (os outros). Ao falar **da sua** família com outras pessoas, você usa palavras simples e humildes: はは (minha mãe), ちち (meu pai), あに, あね, いもうと, おとうと. Ao falar **da família dos outros**, usa as formas respeitosas: おかあさん, おとうさん, おにいさん, おねえさん, e いもうとさん, おとうとさん para os mais novos. Dentro de casa, para **chamar** a própria mãe ou o próprio pai, a pessoa diz おかあさん e おとうさん: はは e ちち aparecem quando você fala deles para alguém de fora. Na empresa a lógica costuma ser a mesma: falando com um cliente, o funcionário em geral não põe さん no nome do próprio chefe.",
+    "try": "Escreva no caderno 2 frases sobre a sua família (父は…、母は…) e 2 perguntas sobre a família de um amigo japonês imaginário (お父さんは どこに すんでいますか。). Leia em voz alta trocando a \"chave\": うち → はは, そと → おかあさん."
+  },
+  "checklist": [
+    "Digo o que alguém está fazendo agora com 今 〜ています, sem olhar.",
+    "Faço as 4 formas (〜ています / 〜ていません / 〜ていました / 〜ていませんでした) de qualquer verbo.",
+    "Sei quando ています é \"estar -ndo\" e quando é estado (mora, é casado, sabe), e que plano para amanhã usa ます.",
+    "Respondo \"não sei\" com しりません, sem hesitar.",
+    "Digo onde moro com 〜に すんでいます, com に.",
+    "Uso はは / ちち para a minha família e おかあさん / おとうさん para a dos outros.",
+    "Fiz a lição de casa e conferi o gabarito, e refiz o que errei.",
+    "Fiz as páginas 69–71 do Workbook."
+  ]
+}

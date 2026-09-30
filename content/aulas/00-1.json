@@ -1,0 +1,294 @@
+{
+  "id": "00-1",
+  "unit": "U0",
+  "genki": { "book": "Genki I", "lesson": 0, "points": ["Japanese Writing System: Hiragana"] },
+  "title": "Os sons do japonês e o hiragana",
+  "titleJp": "ひらがなと にほんごの おと",
+  "canDo": [
+    "Ler em voz alta as 46 letras básicas do hiragana, fileira por fileira (あ, か, さ…), mesmo que ainda devagar.",
+    "Contar as moras de uma palavra e falar no ritmo japonês, com cada mora durando o mesmo tempo (に・ほ・ん).",
+    "Ler e escrever palavras com ゛ e ゜ (が, ぱ), com combinações (きゃ, しょ) e com っ pequeno.",
+    "Diferenciar vogal curta e longa na fala e na escrita, como em おばさん (tia) × おばあさん (avó).",
+    "Explicar o que é pitch accent e reconhecer que あめ muda de sentido só pelo tom."
+  ],
+  "duration": {
+    "total": "70–90 min",
+    "blocks": [
+      { "t": "Aquecimento: ouvir 🔊 as 5 vogais (ponto 4a) e repetir, exagerando o movimento da boca", "min": 5 },
+      { "t": "Pontos 4a e 4b: mora, vogais e as 46 letras, lendo cada exemplo em voz alta", "min": 25 },
+      { "t": "Pontos 4c a 4f: ゛ e ゜, combinações, っ, vogais longas e pitch (se dividir em 2 sessões, a sessão 2 começa aqui)", "min": 20 },
+      { "t": "Vídeo de hiragana (bloco 6), pausando para repetir cada fileira", "min": 10 },
+      { "t": "Lição de casa no caderno + conferir no gabarito", "min": 15 },
+      { "t": "Trilha de Kana (primeira fileira) + checklist (bloco 10)", "min": 10 }
+    ]
+  },
+  "prereqs": {
+    "aulas": [],
+    "skills": [
+      "Nenhum conhecimento de japonês: esta é a primeira aula do curso.",
+      "Caderno e lápis à mão. Escrever as letras à mão ajuda muito a fixar, mais do que só olhar.",
+      "Fone de ouvido ou alto-falante para o 🔊: o som vem antes da escrita."
+    ],
+    "vocab": [
+      { "jp": "あおい", "kana": "あおい", "romaji": "aoi", "pt": "azul" },
+      { "jp": "いえ", "kana": "いえ", "romaji": "ie", "pt": "casa" },
+      { "jp": "にほん", "kana": "にほん", "romaji": "Nihon", "pt": "Japão" },
+      { "jp": "さくら", "kana": "さくら", "romaji": "sakura", "pt": "cerejeira" },
+      { "jp": "ねこ", "kana": "ねこ", "romaji": "neko", "pt": "gato" },
+      { "jp": "さかな", "kana": "さかな", "romaji": "sakana", "pt": "peixe" },
+      { "jp": "ふね", "kana": "ふね", "romaji": "fune", "pt": "barco, navio" },
+      { "jp": "ちかてつ", "kana": "ちかてつ", "romaji": "chikatetsu", "pt": "metrô" },
+      { "jp": "しんぶん", "kana": "しんぶん", "romaji": "shinbun", "pt": "jornal" },
+      { "jp": "きんえん", "kana": "きんえん", "romaji": "kin'en", "pt": "proibido fumar" },
+      { "jp": "かき", "kana": "かき", "romaji": "kaki", "pt": "caqui (a fruta)" },
+      { "jp": "かぎ", "kana": "かぎ", "romaji": "kagi", "pt": "chave" },
+      { "jp": "えんぴつ", "kana": "えんぴつ", "romaji": "enpitsu", "pt": "lápis" },
+      { "jp": "おちゃ", "kana": "おちゃ", "romaji": "ocha", "pt": "chá (em geral, o chá verde)" },
+      { "jp": "きょう", "kana": "きょう", "romaji": "kyō", "pt": "hoje" },
+      { "jp": "びょういん", "kana": "びょういん", "romaji": "byōin", "pt": "hospital" },
+      { "jp": "びよういん", "kana": "びよういん", "romaji": "biyōin", "pt": "salão de beleza" },
+      { "jp": "おばさん", "kana": "おばさん", "romaji": "obasan", "pt": "tia; senhora de meia-idade" },
+      { "jp": "おばあさん", "kana": "おばあさん", "romaji": "obāsan", "pt": "avó; senhora idosa" },
+      { "jp": "きって", "kana": "きって", "romaji": "kitte", "pt": "selo (de carta)" },
+      { "jp": "おっと", "kana": "おっと", "romaji": "otto", "pt": "marido" },
+      { "jp": "がっこう", "kana": "がっこう", "romaji": "gakkō", "pt": "escola" },
+      { "jp": "とうきょう", "kana": "とうきょう", "romaji": "Tōkyō", "pt": "Tóquio" },
+      { "jp": "あめ", "kana": "あめ", "romaji": "ame", "pt": "chuva (tom: alto → baixo)" },
+      { "jp": "あめ", "kana": "あめ", "romaji": "ame", "pt": "bala, doce (tom: baixo → alto)" }
+    ]
+  },
+  "grammar": [
+    {
+      "id": "00-1-a",
+      "title": "Mora e as 5 vogais",
+      "gloss": "o ritmo do japonês",
+      "explanation": "O japonês não conta sílabas como o português: conta **moras**, batidas de mesma duração. Quase toda letra do hiragana vale uma mora. Pense num metrônomo: に・ほ・ん são 3 batidas iguais.\n• **Não existe sílaba tônica forte** como em \"caFÉ\" ou \"CAsa\". Nenhuma mora fica mais longa nem mais forte que as outras.\n• São só **5 vogais**, e cada uma tem sempre o mesmo som: あ a · い i · う u · え e · お o.\n• え e お são médias: ficam entre o ê e o é, e entre o ô e o ó. O japonês não tem a diferença entre aberto e fechado do português.\n• う é mais fechado que o nosso \"u\": os lábios ficam relaxados, **sem fazer bico**.\n• A vogal final **não muda**. No Brasil, o \"o\" final de \"gato\" soa \"u\" e o \"e\" final de \"leite\" soa \"i\". Em japonês, não: ねこ termina em \"o\" mesmo.\n• Entre consoantes surdas, い e う costumam quase sumir na fala: です soa perto de \"dess\". Ouça isso no 🔊, mas não se preocupe em imitar agora.",
+      "structure": "1 letra = 1 mora (batida) · あ a · い i · う u · え e · お o",
+      "examples": [
+        { "jp": "あおい", "kana": "あおい", "romaji": "aoi", "pt": "azul · 3 moras (あ・お・い): cada vogal soa inteira", "noAnat": true },
+        { "jp": "いえ", "kana": "いえ", "romaji": "ie", "pt": "casa · 2 moras (い・え)", "noAnat": true },
+        { "jp": "にほん", "kana": "にほん", "romaji": "Nihon", "pt": "Japão · 3 moras (に・ほ・ん)", "noAnat": true }
+      ],
+      "pitfalls": [
+        "Reduzir a vogal final, como no português: ねこ é \"neko\", e não \"néku\"; さけ (saquê) é \"sake\", e não \"saki\".",
+        "Dar acento tônico: さくら não é \"saKUra\" com o \"ku\" mais forte e mais longo. São três batidas iguais: さ・く・ら.",
+        "Fazer bico no う, como no \"u\" de \"uva\". O う japonês é mais fechado e com os lábios relaxados.",
+        "Abrir demais o え e o お, como em \"pé\" e \"avó\". Eles ficam no meio do caminho entre ê/é e ô/ó."
+      ],
+      "howToStudy": [
+        "Toque 🔊 nos exemplos e bata palma a cada mora: あ・お・い (3), に・ほ・ん (3).",
+        "Fala: diga あ い う え お devagar, na frente do espelho. No う, confira que os lábios não fazem bico.",
+        "Pegue palavras japonesas que você já conhece (すし, からて, さくら) e conte as moras batendo na mesa."
+      ],
+      "flag": null
+    },
+    {
+      "id": "00-1-b",
+      "title": "As 46 letras básicas, fileira por fileira",
+      "gloss": "a tabela あいうえお",
+      "explanation": "O hiragana é organizado em uma tabela de **fileiras**. Cada fileira é uma consoante combinada com as 5 vogais, sempre na ordem a-i-u-e-o. Aprender pela tabela é bem mais fácil do que decorar letra por letra.\n• あ い う え お · か き く け こ · さ し す せ そ · た ち つ て と · な に ぬ ね の\n• は ひ ふ へ ほ · ま み む め も · や ゆ よ · ら り る れ ろ · わ を · ん\n• **Irregulares**: し = shi (soa \"xi\"), ち = chi (soa como o \"ti\" de \"tia\" na maior parte do Brasil), つ = tsu (o \"ts\" de \"tsunami\"), ふ = fu (um sopro, sem encostar os dentes no lábio).\n• **ら り る れ ろ**: o r japonês é sempre o \"r\" fraco de \"caro\", nunca o de \"rato\" ou \"carro\". Às vezes ele soa quase como um \"l\" ou um \"d\" bem rápido.\n• **さ** é sempre \"s\", mesmo entre vogais: あさ (manhã) soa \"asa\", nunca \"aza\" como em \"casa\".\n• **は** é um sopro leve, como o h do inglês \"hello\".\n• **て** é sempre \"te\": nunca vira \"tchi\", como o fim de \"leite\" no português.\n• **ん** é a única letra que é só consoante, e vale uma mora inteira. Antes de ば, ま e ぱ ela soa \"m\" (しんぶん). Antes de vogal, fica separada: きんえん é き・ん・え・ん.\n• **を** (o) só aparece como partícula. As partículas は e へ se leem \"wa\" e \"e\" (Aulas 01-1 e 03-2).",
+      "structure": "[consoante] + a · i · u · e · o → か き く け こ · さ し す せ そ…",
+      "examples": [
+        { "jp": "さくら", "kana": "さくら", "romaji": "sakura", "pt": "cerejeira · s sempre \"s\"; ら com o r de \"caro\"", "noAnat": true },
+        { "jp": "ちかてつ", "kana": "ちかてつ", "romaji": "chikatetsu", "pt": "metrô · ち soa \"tchi\" e つ soa \"tsu\"", "noAnat": true },
+        { "jp": "きんえん", "kana": "きんえん", "romaji": "kin'en", "pt": "proibido fumar · 4 moras (き・ん・え・ん): o ん não se junta ao え", "noAnat": true }
+      ],
+      "pitfalls": [
+        "Ler ら como o r de \"rato\" (\"rrá\"). Em さくら, o r é o fraco de \"caro\".",
+        "Ler し como \"si\": し soa \"xi\". Só ela muda na fileira: さ, す, せ e そ mantêm o \"s\".",
+        "Juntar ん com a vogal seguinte: きんえん (proibido fumar) tem 4 moras e não é きねん, que é outra palavra, de 3 moras.",
+        "Confundir letras parecidas: ぬ × め, ね × れ × わ, る × ろ, さ × ち, は × ほ. ぬ e る terminam com um laço; め e ろ, não."
+      ],
+      "howToStudy": [
+        "Mirage → Kana → Trilha de Kana: avance uma fileira por vez e só passe para a próxima quando ler a atual sem hesitar.",
+        "Escreva cada fileira à mão, 3 vezes, lendo em voz alta. Confira a ordem dos traços em Kana → Escrever.",
+        "Fala: recite a tabela na horizontal (あいうえお, かきくけこ…) e depois na vertical (あかさたな…), como um ritmo."
+      ],
+      "flag": null
+    },
+    {
+      "id": "00-1-c",
+      "title": "Dakuten ゛ e handakuten ゜",
+      "gloss": "as marquinhas que mudam o som",
+      "explanation": "Com duas marquinhas no canto superior direito da letra você ganha **25 sons novos** sem decorar nenhuma letra nova.\n• **Dakuten ゛** (os dois tracinhos, também chamados てんてん) deixa a consoante sonora: か→が (k→g), さ→ざ (s→z), た→だ (t→d), は→ば (h→b).\n• **Handakuten ゜** (a bolinha, まる) só aparece na fileira は: は→ぱ (h→p).\n• が ぎ ぐ げ ご: o g é **sempre duro**. ぎ soa \"gui\" (de \"guitarra\") e げ soa \"gue\" (de \"guerra\"), nunca \"ji\" nem \"je\".\n• じ soa como o \"di\" de \"dia\" na maior parte do Brasil. ず soa \"dzu\" ou \"zu\".\n• で é sempre \"de\", nunca \"dji\": です é \"desu\".\n• ぢ e づ soam igual a じ e ず e são raras. Aparecem em poucas palavras, como はなぢ (sangramento nasal) e つづく (continuar). Na dúvida, a grafia comum é じ e ず.",
+      "structure": "か さ た は + ゛ → が ざ だ ば · は + ゜ → ぱ",
+      "examples": [
+        { "jp": "かき", "kana": "かき", "romaji": "kaki", "pt": "caqui (a fruta)", "noAnat": true },
+        { "jp": "かぎ", "kana": "かぎ", "romaji": "kagi", "pt": "chave · só o ゛ mudou: き → ぎ", "noAnat": true },
+        { "jp": "えんぴつ", "kana": "えんぴつ", "romaji": "enpitsu", "pt": "lápis · ぴ tem a bolinha; o ん antes de ぴ soa \"m\"", "noAnat": true }
+      ],
+      "pitfalls": [
+        "Ler ぎ como \"ji\" e げ como \"je\", como em \"girafa\" e \"gente\". O g é sempre duro: かぎ soa \"ka-gui\".",
+        "Esquecer o ゛ ao escrever: かき (caqui) e かぎ (chave) são palavras diferentes. As marquinhas não são enfeite.",
+        "Ler で como \"dji\": です é \"desu\", não \"djisu\". Quem soa \"dji\" é じ.",
+        "Pôr a bolinha ゜ em outra fileira: na escrita comum, ela só existe em ぱ ぴ ぷ ぺ ぽ."
+      ],
+      "howToStudy": [
+        "Trilha de Kana: faça as fileiras com ゛ e ゜ depois de dominar as 46 letras básicas.",
+        "Fala: leia em voz alta か/が, さ/ざ, た/だ, は/ば/ぱ com a mão no pescoço. Nas sonoras (が, ざ, だ, ば), você sente a garganta vibrar.",
+        "No caderno, escreva 3 pares que só mudam pela marquinha e o sentido de cada um: かき/かぎ, てんき (tempo, clima)/でんき (luz, eletricidade), ふた (tampa)/ぶた (porco)."
+      ],
+      "flag": null
+    },
+    {
+      "id": "00-1-d",
+      "title": "Combinações: きゃ, しゅ, ちょ…",
+      "gloss": "letra em -i + ゃ・ゅ・ょ pequenos",
+      "explanation": "Pegue uma letra da coluna い (き, し, ち, に, ひ, み, り, e também ぎ, じ, び, ぴ) e acrescente um **ゃ, ゅ ou ょ pequeno**. As duas letras viram **uma mora só**: きゃ = kya, しゅ = shu, ちょ = cho.\n• **O tamanho importa.** A letrinha pequena se funde com a anterior; a grande é uma mora separada. Compare きょう (hoje, 2 moras: きょ・う) com きよう (habilidoso, 3 moras: き・よ・う).\n• Com し, ち e じ, o som fica \"xa, xu, xo\", \"tcha, tchu, tcho\" e \"dja, dju, djo\": しゃしん (foto), おちゃ (chá), じゅう (dez).\n• No hiragana comum, as combinações são sempre letra em -i + ゃ, ゅ ou ょ. O katakana cria outras, que você vê na Aula 00-2.\n• Ao escrever à mão, capriche na diferença de tamanho: a letrinha fica com mais ou menos metade do tamanho, encostada na anterior.",
+      "structure": "[letra em -i] + ゃ／ゅ／ょ pequeno = 1 mora · き + ゃ → きゃ",
+      "examples": [
+        { "jp": "おちゃ", "kana": "おちゃ", "romaji": "ocha", "pt": "chá · 2 moras (お・ちゃ)", "noAnat": true },
+        { "jp": "びょういん", "kana": "びょういん", "romaji": "byōin", "pt": "hospital · 4 moras (びょ・う・い・ん)", "noAnat": true },
+        { "jp": "びよういん", "kana": "びよういん", "romaji": "biyōin", "pt": "salão de beleza · 5 moras (び・よ・う・い・ん), com よ grande", "noAnat": true }
+      ],
+      "pitfalls": [
+        "Escrever o ゃ, ゅ ou ょ em tamanho normal: きよう (habilidoso) não é きょう (hoje). Na dúvida, conte as moras.",
+        "Ler きゃ como duas sílabas, \"ki-a\". É uma batida só: \"kya\".",
+        "Ler しゃ como \"sia\". しゃ soa \"xa\": しゃしん (foto) é \"xa-xin\"."
+      ],
+      "howToStudy": [
+        "Fala: diga びょういん e びよういん alternando e batendo palma a cada mora (4 × 5). Grave e ouça: dá para distinguir?",
+        "Trilha de Kana: faça as combinações depois das fileiras com ゛ e ゜.",
+        "No caderno, monte de memória a tabela das combinações (きゃ きゅ きょ, しゃ しゅ しょ…) e confira."
+      ],
+      "flag": null
+    },
+    {
+      "id": "00-1-e",
+      "title": "っ pequeno e vogais longas",
+      "gloss": "no japonês, o tempo também muda o sentido",
+      "explanation": "O japonês marca na escrita duas coisas que o português não marca: a **pausa** e a **duração**. As duas mudam o sentido da palavra.\n**っ pequeno** (um つ menor) é uma mora de silêncio: você prepara a consoante seguinte, segura um instante e solta. No romaji, a consoante aparece dobrada.\n• おと (som) × おっと (marido) · さか (ladeira) × さっか (escritor).\n• Antes de ち, o romaji fica \"tch\": まっちゃ (matcha).\n• No fim de uma fala, っ marca uma parada brusca: えっ？ (\"hã?!\").\n**Vogal longa** é a mesma vogal durando duas moras. No hiragana, ela se escreve com uma vogal a mais:\n• -a + あ: おかあさん (mãe) · -i + い: おにいさん (irmão mais velho) · -u + う: すうじ (número).\n• -e + い, quase sempre: せんせい (na fala comum, soa como um \"e\" longo). Às vezes, -e + え: おねえさん (irmã mais velha).\n• -o + う, quase sempre: おはよう, とうきょう. Às vezes, -o + お: おおきい (grande).\n• おばさん (tia) × おばあさん (avó) · おじさん (tio) × おじいさん (avô). Encurtar a vogal troca a pessoa!\n• No romaji deste curso, a vogal longa leva traço: とうきょう = Tōkyō, おばあさん = obāsan. えい continua \"ei\" (sensei) e いい continua \"ii\".",
+      "structure": "っ = 1 mora de pausa (consoante dobrada) · vogal longa = 2 moras (おばあさん, とうきょう)",
+      "examples": [
+        { "jp": "おばさん", "kana": "おばさん", "romaji": "obasan", "pt": "tia; senhora de meia-idade · 4 moras", "noAnat": true },
+        { "jp": "おばあさん", "kana": "おばあさん", "romaji": "obāsan", "pt": "avó; senhora idosa · 5 moras", "noAnat": true },
+        { "jp": "きって", "kana": "きって", "romaji": "kitte", "pt": "selo · 3 moras (き・っ・て), com a pausa no meio", "noAnat": true }
+      ],
+      "pitfalls": [
+        "Ignorar a vogal longa porque \"parece igual\": おばさん (tia) × おばあさん (avó). Segure a vogal durante duas batidas.",
+        "Ler っ como \"tsu\": きって é \"kitte\", com pausa, e não \"ki-tsu-te\". O っ pequeno não tem som próprio.",
+        "Escrever o o longo com お quando o normal é う: とうきょう, e não とおきょう. Só algumas palavras usam おお (おおきい); decore essas como exceção.",
+        "Falar \"TÓ-quio\", com acento no começo: とうきょう tem 4 moras de mesmo tempo, と・う・きょ・う."
+      ],
+      "howToStudy": [
+        "Fala: grave-se dizendo おばさん e おばあさん, おじさん e おじいさん. Ouça: dá para saber qual é qual só pelo áudio?",
+        "Bata palma a cada mora em きって (3), がっこう (4) e とうきょう (4).",
+        "No caderno, escreva 5 palavras com vogal longa desta aula e sublinhe a letra que só alonga."
+      ],
+      "flag": null
+    },
+    {
+      "id": "00-1-f",
+      "title": "Noção de pitch (tom)",
+      "gloss": "alto e baixo, não forte e fraco",
+      "explanation": "O português marca a sílaba tônica com **força e duração** (\"caFÉ\", \"CAsa\"). O japonês usa **altura**: cada mora é alta ou baixa, como as notas de uma melodia, e todas continuam com o mesmo tempo. Isso se chama **pitch accent** (アクセント).\n• No japonês padrão de Tóquio, あめ \"chuva\" começa alta e cai; あめ \"bala, doce\" começa baixa e sobe.\n• A escrita não mostra o tom: as duas palavras se escrevem あめ. O contexto quase sempre resolve.\n• O pitch muda de região para região (Osaka é diferente de Tóquio), e errar o tom raramente impede alguém de entender você. Por isso, aqui é só uma **noção**: ouça e imite. O estudo detalhado fica para a Aula P-22.\n• O 🔊 da aula é voz sintetizada pelo navegador, que nem sempre acerta o tom de palavras soltas. Para o pitch, confie mais em falantes reais, no vídeo e no áudio do Genki.",
+      "structure": "cada mora: alta ou baixa · あめ alta → baixa = chuva · あめ baixa → alta = bala",
+      "examples": [
+        { "jp": "あめ", "kana": "あめ", "romaji": "ame", "pt": "chuva · あ alto, め baixo", "noAnat": true },
+        { "jp": "あめ", "kana": "あめ", "romaji": "ame", "pt": "bala, doce · あ baixo, め alto", "noAnat": true }
+      ],
+      "pitfalls": [
+        "Confundir pitch com acento tônico: subir o tom não é falar mais forte nem mais longo. A duração das moras não muda.",
+        "Travar por medo de errar o tom. No começo, o ritmo (moras iguais) e as vogais longas pesam muito mais para você ser entendido.",
+        "Procurar o tom na escrita: o kana não mostra o pitch. Só alguns dicionários e sites especializados indicam."
+      ],
+      "howToStudy": [
+        "Fala: diga あめ dos dois jeitos, cantarolando as duas notas (alta-baixa e baixa-alta), como uma melodia.",
+        "No vídeo e no áudio do Genki, repare que a voz sobe e desce sem ficar mais forte.",
+        "Não decore tons agora: basta perceber que eles existem."
+      ],
+      "flag": null
+    }
+  ],
+  "media": [
+    { "order": 1, "kind": "leitura", "title": "Genki I · Japanese Writing System (introdução) e Leitura e Escrita da Lição 1: a tabela de hiragana", "where": "Seu livro Genki I (3ª ed.)", "url": "", "when": "Antes desta aula ou junto com o ponto 4b" },
+    { "order": 2, "kind": "video", "title": "ToKini Andy: hiragana e pronúncia, para quem vai começar o Genki", "where": "YouTube · canal ToKini Andy", "url": "", "search": "ToKini Andy hiragana", "when": "Depois dos pontos 4a e 4b, pausando para repetir cada fileira" },
+    { "order": 3, "kind": "app", "title": "Mirage · Kana → Trilha de Kana (hiragana, fileira por fileira) e Kana → Escrever (ordem dos traços)", "where": "Mirage · Kana", "url": "", "when": "Em toda sessão de estudo, até dominar as 46 letras e as combinações" },
+    { "order": 4, "kind": "app", "title": "kana-flow: treino adaptativo que insiste nas letras que você erra ou demora para ler", "where": "../kana-flow/index.html", "url": "../kana-flow/index.html", "when": "Depois da Trilha de Kana, para fixar o que você já viu" }
+  ],
+  "homework": {
+    "intro": "Faça no caderno, à mão, com calma. Escreva cada letra olhando a ordem dos traços em Kana → Escrever. Só depois abra o gabarito, item por item. Circule o que errou e refaça na sessão seguinte.",
+    "tasks": [
+      {
+        "id": "h1",
+        "type": "ler",
+        "prompt": "Leia em voz alta, mora por mora, e escreva o romaji ao lado. Depois confira no gabarito o som e o sentido.",
+        "items": [
+          { "q": "さくら", "a": { "jp": "さくら", "romaji": "sakura", "pt": "cerejeira" } },
+          { "q": "ねこ", "a": { "jp": "ねこ", "romaji": "neko", "pt": "gato" }, "note": "Termina em \"o\" mesmo, sem virar \"u\"." },
+          { "q": "さかな", "a": { "jp": "さかな", "romaji": "sakana", "pt": "peixe" } },
+          { "q": "ちかてつ", "a": { "jp": "ちかてつ", "romaji": "chikatetsu", "pt": "metrô" }, "note": "ち = \"tchi\", つ = \"tsu\"." },
+          { "q": "ふね", "a": { "jp": "ふね", "romaji": "fune", "pt": "barco, navio" }, "note": "ふ é um sopro, sem encostar os dentes no lábio." },
+          { "q": "しんぶん", "a": { "jp": "しんぶん", "romaji": "shinbun", "pt": "jornal" }, "note": "O ん antes de ぶ soa \"m\"." }
+        ]
+      },
+      {
+        "id": "h2",
+        "type": "completar",
+        "prompt": "Complete com a letra que falta (っ, ゃ, ゅ, ょ ou a vogal que alonga) para formar a palavra indicada.",
+        "items": [
+          { "q": "き＿て (selo)", "a": { "jp": "きって", "romaji": "kitte" }, "note": "っ: uma mora de pausa antes do て." },
+          { "q": "おば＿さん (avó)", "a": { "jp": "おばあさん", "romaji": "obāsan" }, "note": "Sem o あ, vira おばさん (tia)." },
+          { "q": "び＿ういん (hospital)", "a": { "jp": "びょういん", "romaji": "byōin" }, "note": "ょ pequeno: びょ é uma mora só. Com よ grande, vira びよういん (salão de beleza)." },
+          { "q": "おち＿ (chá)", "a": { "jp": "おちゃ", "romaji": "ocha" } },
+          { "q": "と＿きょう (Tóquio)", "a": { "jp": "とうきょう", "romaji": "Tōkyō" }, "note": "O o longo quase sempre se escreve com う." },
+          { "q": "が＿こう (escola)", "a": { "jp": "がっこう", "romaji": "gakkō" }, "note": "Duas coisas de tempo na mesma palavra: っ e o o longo." }
+        ]
+      },
+      {
+        "id": "h3",
+        "type": "escolher",
+        "prompt": "Qual das duas é a palavra pedida? Copie a certa e conte as moras.",
+        "items": [
+          { "q": "avó: おばさん ou おばあさん?", "a": { "jp": "おばあさん", "romaji": "obāsan", "pt": "5 moras: お・ば・あ・さ・ん" } },
+          { "q": "hoje: きょう ou きよう?", "a": { "jp": "きょう", "romaji": "kyō", "pt": "2 moras: きょ・う" }, "note": "きよう, com よ grande, é \"habilidoso\"." },
+          { "q": "chave: かき ou かぎ?", "a": { "jp": "かぎ", "romaji": "kagi", "pt": "2 moras: か・ぎ" } },
+          { "q": "marido: おと ou おっと?", "a": { "jp": "おっと", "romaji": "otto", "pt": "3 moras: お・っ・と" }, "note": "おと é \"som\"." },
+          { "q": "salão de beleza: びょういん ou びよういん?", "a": { "jp": "びよういん", "romaji": "biyōin", "pt": "5 moras: び・よ・う・い・ん" } }
+        ]
+      },
+      {
+        "id": "h4",
+        "type": "produzir",
+        "prompt": "De memória, escreva no caderno a tabela das 46 letras básicas, fileira por fileira. Depois escreva em hiragana 3 palavras japonesas que você já conhece (comida, esporte, anime…) e conte as moras.",
+        "items": [
+          { "q": "A tabela (confira letra por letra):", "a": { "jp": "あいうえお かきくけこ さしすせそ たちつてと なにぬねの はひふへほ まみむめも やゆよ らりるれろ わを ん", "romaji": "a i u e o / ka ki ku ke ko / sa shi su se so / ta chi tsu te to / na ni nu ne no / ha hi fu he ho / ma mi mu me mo / ya yu yo / ra ri ru re ro / wa o / n" }, "note": "Confira as irregulares し, ち, つ e ふ. を fica na fileira わ, e ん fica sozinho no fim." },
+          { "q": "Modelo de 3 palavras conhecidas:", "a": { "jp": "すし、からて、さくら", "romaji": "sushi, karate, sakura", "pt": "sushi (2 moras), caratê (3), cerejeira (3)" }, "note": "Qualquer palavra serve. Confira: uma letra = uma mora, e ゃ, ゅ, ょ pequenos não contam sozinhos." }
+        ]
+      }
+    ],
+    "workbook": [
+      { "p": 11, "t": "Japanese Writing System 1 — Hiragana", "tip": "Faça quando já ler o hiragana inteiro, mesmo devagar." },
+      { "p": 121, "t": "Hiragana あ–こ", "tip": "Depois de dominar as fileiras あ e か na Trilha de Kana." },
+      { "p": 122, "t": "Hiragana さ–と", "tip": "Depois das fileiras さ e た." },
+      { "p": 123, "t": "Hiragana な–ほ", "tip": "Depois das fileiras な e は." },
+      { "p": 124, "t": "Hiragana ま–よ", "tip": "Depois das fileiras ま e や." },
+      { "p": 125, "t": "Hiragana ら–ん", "tip": "Depois das fileiras ら e わ e do ん." },
+      { "p": 126, "t": "Hiragana dots/circles/small や・ゆ・よ", "tip": "Depois dos pontos 4c e 4d." },
+      { "p": 127, "t": "Hiragana double consonants / long vowels", "tip": "Depois do ponto 4e. Confira no Genki Answer Key oficial." }
+    ]
+  },
+  "practice": [
+    { "tool": "Kana", "what": "Mirage → Kana → Trilha de Kana: uma fileira nova por sessão, sempre revisando as anteriores. Só avance quando ler a fileira atual sem hesitar. Use Kana → Escrever para a ordem dos traços.", "min": 15 },
+    { "tool": "kana-flow", "what": "Treino adaptativo: ele insiste nas letras que você erra ou demora e, pela Caça-confusão, junta pares parecidos (ぬ/め, る/ろ). A introdução gradual libera letras novas conforme as antigas firmam. Quando já souber todas, use o kana-speed-trainer para ganhar velocidade.", "min": 10 },
+    { "tool": "Wagotabi", "what": "Jogue normalmente e, nos menus e diálogos, procure palavras escritas só em hiragana. Leia 5 delas em voz alta, mora por mora, e copie no caderno. Não precisa entender: o objetivo aqui é ler o som.", "min": 10 },
+    { "tool": "Shadowing", "what": "Toque 🔊 em cada exemplo da aula e repita junto 3 vezes, batendo palma a cada mora.", "min": 5 },
+    { "tool": "Fala", "what": "Grave-se lendo a tabela inteira (あいうえお … ん) e os pares おばさん/おばあさん e きょう/きよう. Ouça e marque onde hesitou.", "min": 5 }
+  ],
+  "culture": {
+    "title": "Por que o japonês tem três escritas",
+    "titleJp": "かんじ・ひらがな・カタカナ",
+    "body": "O japonês não tinha escrita própria e adotou os **kanji** da China há mais de mil anos. Como a gramática japonesa é muito diferente da chinesa, surgiram, a partir dos próprios kanji, dois silabários: o **hiragana**, de traços curvos, nascido da forma cursiva de kanji, e o **katakana**, de traços retos, feito com pedaços de kanji. Hoje os três convivem na mesma frase, cada um com um papel: o kanji escreve a ideia (substantivos e o começo de verbos e adjetivos), o hiragana escreve a gramática (partículas e terminações) e o katakana escreve, principalmente, palavras estrangeiras. Em わたしは ブラジル人です (\"sou brasileiro\"), 人 (\"pessoa\") é kanji, ブラジル é katakana e o resto é hiragana. Como os kanji mostram onde cada palavra começa, o japonês costuma ser escrito sem espaços; os espaços deste curso são só um apoio para o começo, no estilo do Genki.",
+    "try": "Pegue uma embalagem de produto japonês, um site japonês ou uma tela do Wagotabi e circule com três cores: kanji, hiragana e katakana. Qual das três aparece mais?"
+  },
+  "checklist": [
+    "Leio as 46 letras básicas do hiragana em qualquer ordem, sem olhar a tabela.",
+    "Escrevo de memória as fileiras de あ a ん, na ordem certa dos traços.",
+    "Leio が, ざ, だ, ば, ぱ e as combinações (きゃ, しゅ, ちょ…) sem confundir com as letras grandes.",
+    "Conto as moras de uma palavra: がっこう = 4, とうきょう = 4.",
+    "Distingo na fala e na escrita おばさん × おばあさん e おと × おっと.",
+    "Pronuncio ら com o r de \"caro\" e não reduzo a vogal final (ねこ, さけ).",
+    "Fiz a lição de casa e conferi o gabarito, e refiz o que errei.",
+    "Fiz as páginas 11 e 121–127 do Workbook."
+  ]
+}

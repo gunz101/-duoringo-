@@ -1,0 +1,239 @@
+{
+  "id": "01-2",
+  "unit": "G1-L01",
+  "genki": { "book": "Genki I", "lesson": 1, "points": ["Time (〜じ, 〜じはん)", "Telephone numbers", "Age (〜さい)", "Year in school (〜ねんせい)"] },
+  "title": "Horas, telefone e idade",
+  "titleJp": "いま なんじですか",
+  "canDo": [
+    "Perguntar e dizer que horas são (いま なんじですか。), com \"e meia\" e com manhã/tarde.",
+    "Dizer e entender um número de telefone em japonês, algarismo por algarismo.",
+    "Dizer a minha idade e perguntar a de alguém, sem errar いっさい, はっさい, じゅっさい e はたち.",
+    "Dizer em que ano da escola ou da faculdade eu estou (〜ねんせい) e perguntar なんねんせいですか。"
+  ],
+  "duration": {
+    "total": "60–75 min",
+    "blocks": [
+      { "t": "Aquecimento: contar de 0 a 20 em voz alta e depois de 10 em 10 até 100 (Aula 00-3)", "min": 5 },
+      { "t": "Vocabulário: ouvir 🔊 cada palavra e repetir 2 vezes", "min": 10 },
+      { "t": "Gramática: os 4 pontos, cada um com os exemplos lidos em voz alta e um 🔬", "min": 25 },
+      { "t": "Vídeo (bloco 6), pausando e repetindo as horas e os números", "min": 10 },
+      { "t": "Lição de casa no caderno + conferir no gabarito", "min": 15 },
+      { "t": "Checklist (bloco 10) + anotar dúvidas no caderno da aula", "min": 5 }
+    ]
+  },
+  "prereqs": {
+    "aulas": ["00-3", "01-1"],
+    "skills": [
+      "Contar de 0 a 100 sem olhar (Aula 00-3): esta aula usa esses números o tempo todo.",
+      "Montar X は Y です e perguntas com か e なんですか (Aula 01-1).",
+      "Ler hiragana com calma. ゼロ e os nomes estrangeiros vêm em katakana, sempre com a leitura."
+    ],
+    "vocab": [
+      { "jp": "いま", "kana": "いま", "romaji": "ima", "pt": "agora" },
+      { "jp": "なんじ", "kana": "なんじ", "romaji": "nanji", "pt": "que horas" },
+      { "jp": "〜じ", "kana": "〜じ", "romaji": "-ji", "pt": "… horas (hora do relógio)" },
+      { "jp": "〜はん", "kana": "〜はん", "romaji": "-han", "pt": "e meia (depois da hora)" },
+      { "jp": "ごぜん", "kana": "ごぜん", "romaji": "gozen", "pt": "da manhã, a.m. (antes da hora)" },
+      { "jp": "ごご", "kana": "ごご", "romaji": "gogo", "pt": "da tarde/noite, p.m. (antes da hora)" },
+      { "jp": "でんわ", "kana": "でんわ", "romaji": "denwa", "pt": "telefone" },
+      { "jp": "ばんごう", "kana": "ばんごう", "romaji": "bangō", "pt": "número (de identificação)" },
+      { "jp": "でんわばんごう", "kana": "でんわばんごう", "romaji": "denwa bangō", "pt": "número de telefone" },
+      { "jp": "ゼロ", "kana": "ゼロ", "romaji": "zero", "pt": "zero" },
+      { "jp": "れい", "kana": "れい", "romaji": "rei", "pt": "zero (outra forma)" },
+      { "jp": "〜さい", "kana": "〜さい", "romaji": "-sai", "pt": "… anos (de idade)" },
+      { "jp": "なんさい", "kana": "なんさい", "romaji": "nansai", "pt": "quantos anos (de idade)" },
+      { "jp": "はたち", "kana": "はたち", "romaji": "hatachi", "pt": "20 anos de idade" },
+      { "jp": "〜ねんせい", "kana": "〜ねんせい", "romaji": "-nensei", "pt": "aluno(a) do …º ano" },
+      { "jp": "なんねんせい", "kana": "なんねんせい", "romaji": "nannensei", "pt": "de que ano (na escola)" },
+      { "jp": "こうこう", "kana": "こうこう", "romaji": "kōkō", "pt": "ensino médio (a escola)" },
+      { "jp": "りゅうがくせい", "kana": "りゅうがくせい", "romaji": "ryūgakusei", "pt": "intercambista, estudante estrangeiro(a)" },
+      { "jp": "ともだち", "kana": "ともだち", "romaji": "tomodachi", "pt": "amigo(a)" },
+      { "jp": "ねこ", "kana": "ねこ", "romaji": "neko", "pt": "gato" },
+      { "jp": "とうきょう", "kana": "とうきょう", "romaji": "Tōkyō", "pt": "Tóquio" },
+      { "jp": "サンパウロ", "kana": "サンパウロ", "romaji": "Sanpauro", "pt": "São Paulo" }
+    ]
+  },
+  "grammar": [
+    {
+      "id": "01-2-a",
+      "gc": null,
+      "title": "〜じ · 〜じはん · いま なんじですか",
+      "gloss": "dizer e perguntar as horas",
+      "explanation": "Para dizer a hora, junte o número a **じ** (\"horas\", no relógio): さんじ = 3h. Para \"e meia\", ponha **はん** logo depois: さんじはん = 3h30. A frase é a mesma X は Y です da Aula 01-1: a hora é o **PREDICADO**, com です no fim.\n• Pergunta: いま なんじですか。 なんじ (\"que horas\") fica no lugar exato onde a resposta vai entrar: いま くじです。 Palavras de tempo como いま (\"agora\") entram **sem partícula** (mais sobre isso na Aula 03-3).\n• Três horas têm leitura especial: **よじ** (4h), **しちじ** (7h) e **くじ** (9h). As outras seguem os números que você já sabe: いちじ, にじ, さんじ, ごじ, ろくじ, はちじ, じゅうじ, じゅういちじ, じゅうにじ.\n• Manhã e tarde vêm **antes** da hora: ごぜん くじ (9h da manhã), ごご さんじ (3h da tarde). ごご cobre tudo depois do meio-dia, inclusive a noite. Na conversa, em geral se usa o relógio de 12 horas, com ごぜん/ごご quando é preciso deixar claro.",
+      "structure": "いま [número]じ(はん)です。 · いま なんじですか。 · ごぜん / ごご + [hora]",
+      "examples": [
+        { "jp": "いま なんじですか。— くじはんです。", "kana": "いま なんじですか。— くじはんです。", "romaji": "Ima nanji desu ka. — Kuji han desu.", "pt": "Que horas são? — São 9h30." },
+        { "jp": "サンパウロは いま ごご しちじです。とうきょうは ごぜん しちじです。", "kana": "サンパウロは いま ごご しちじです。とうきょうは ごぜん しちじです。", "romaji": "Sanpauro wa ima gogo shichiji desu. Tōkyō wa gozen shichiji desu.", "pt": "Em São Paulo agora são 7 da noite. Em Tóquio são 7 da manhã (são 12 horas de diferença)." },
+        { "jp": "いま よじですか。— いいえ、よじはんです。", "kana": "いま よじですか。— いいえ、よじはんです。", "romaji": "Ima yoji desu ka. — Iie, yoji han desu.", "pt": "Agora são 4h? — Não, são 4h30." }
+      ],
+      "pitfalls": [
+        "4h é よじ, não よんじ. 9h é くじ, não きゅうじ. 7h é しちじ (às vezes se ouve ななじ, mas a forma padrão, e a do Genki, é しちじ).",
+        "はん vem depois de じ: \"nove e meia\" é くじはん, não はんくじ nem くじと はん.",
+        "ごぜん e ごご vêm antes da hora: ごご さんじ está certo; さんじ ごご é a ordem do português (\"3 da tarde\") e está errado.",
+        "じ é a hora do relógio, não duração. にじ = \"2 horas (no relógio)\"; \"durante duas horas\" é にじかん, que você vê na Aula 04-3."
+      ],
+      "howToStudy": [
+        "Hoje, toda vez que olhar o relógio, diga a hora em voz alta, arredondando para a hora cheia ou a meia hora: いま にじはんです。",
+        "Aperte 🔬 no exemplo 2 e veja qual bloco é o TÓPICO (com は) e qual é o PREDICADO (com です). Depois diga a frase começando pelo predicado: \"são 7 da noite… agora… em São Paulo\".",
+        "No caderno, escreva de 1h a 12h em kana e circule as três especiais: よじ, しちじ, くじ."
+      ],
+      "flag": null
+    },
+    {
+      "id": "01-2-b",
+      "gc": null,
+      "title": "Números de telefone",
+      "gloss": "algarismo por algarismo, com の entre os grupos",
+      "explanation": "Telefone se lê **algarismo por algarismo**, nunca como um número grande: 080 é ゼロはちゼロ, e não \"oitenta\". No lugar do hífen, entre um grupo e outro, entra **の** (com uma pequena pausa). O zero é **ゼロ** ou **れい**; na fala, ゼロ é o mais comum.\n• Para não haver confusão, use **よん** (4), **なな** (7) e **きゅう** (9), e não し, しち, く: ao telefone, し, しち e いち se confundem com facilidade.\n• Na fala, muitos japoneses alongam o 2 e o 5 (にい, ごお) para manter o ritmo. Não é obrigatório: dizer に e ご está certo.\n• A pergunta segue o padrão da Aula 01-1: でんわばんごうは なんですか。 A resposta é o PREDICADO: [número] です。\n• No Japão, os celulares costumam começar com 090, 080 ou 070. Na escrita, usam-se algarismos; a leitura em kana desta aula é para você treinar a pronúncia.",
+      "structure": "[grupo] の [grupo] の [grupo] です。 · でんわばんごうは なんですか。",
+      "examples": [
+        { "jp": "でんわばんごうは なんですか。— ゼロはちゼロの よんろくいちにの さんななはちごです。", "kana": "でんわばんごうは なんですか。— ゼロはちゼロの よんろくいちにの さんななはちごです。", "romaji": "Denwa bangō wa nan desu ka. — Zero-hachi-zero no yon-roku-ichi-ni no san-nana-hachi-go desu.", "pt": "Qual é o seu telefone? — 080-4612-3785." },
+        { "jp": "だいがくの でんわばんごうは れいさんの ごにきゅうはちの いちななよんれいです。", "kana": "だいがくの でんわばんごうは れいさんの ごにきゅうはちの いちななよんれいです。", "romaji": "Daigaku no denwa bangō wa rei-san no go-ni-kyū-hachi no ichi-nana-yon-rei desu.", "pt": "O telefone da faculdade é 03-5298-1740." },
+        { "jp": "ルーカスさんの でんわばんごうは いちいちの きゅうごさんにいちの はちななろくよんです。", "kana": "ルーカスさんの でんわばんごうは いちいちの きゅうごさんにいちの はちななろくよんです。", "romaji": "Rūkasu-san no denwa bangō wa ichi-ichi no kyū-go-san-ni-ichi no hachi-nana-roku-yon desu.", "pt": "O telefone do Lucas é (11) 95321-8764. A regra vale para números brasileiros também." }
+      ],
+      "pitfalls": [
+        "Não leia os grupos como números grandes: 4612 é よんろくいちに, e não \"quatro mil seiscentos e doze\".",
+        "O hífen vira の: ゼロはちゼロの よんろくいちにの…. Não diga \"hífen\" nem cole os grupos sem o の.",
+        "Ao telefone, prefira よん, なな e きゅう. Dizer し (4) ou しち (7) num número é pedir para ser mal entendido.",
+        "\"Qual é o seu telefone?\" usa なん, como na Aula 01-1: でんわばんごうは なんですか。 Não traduza \"qual\" palavra por palavra."
+      ],
+      "howToStudy": [
+        "Diga o seu número de celular em japonês 3 vezes em voz alta, com o の entre os grupos. Depois diga o de 2 pessoas da sua agenda.",
+        "Toque 🔊 no exemplo 1 e repita junto, marcando a pausa em cada の.",
+        "Na rua ou na internet, leia em japonês 3 números que aparecerem (telefone de anúncio, placa de ônibus), algarismo por algarismo."
+      ],
+      "flag": null
+    },
+    {
+      "id": "01-2-c",
+      "gc": null,
+      "title": "〜さい · なんさい",
+      "gloss": "… anos de idade",
+      "explanation": "Idade = número + **さい**, numa frase X は Y です: すずきさんは にじゅうごさいです。 Não existe um verbo \"ter\" aqui: em japonês, você **é** 25 anos. A idade é o PREDICADO. A pergunta é **なんさいですか**, com なんさい no lugar da resposta.\n• **Mudanças de som**: **いっさい** (1), **はっさい** (8), **じゅっさい** (10). Elas continuam dentro de números maiores: じゅういっさい (11), じゅうはっさい (18), よんじゅういっさい (41). Você também pode ouvir じっさい para 10.\n• 20 anos tem palavra própria: **はたち**, sem さい. (にじゅっさい existe, mas はたち é o normal.) Dos 21 em diante, tudo volta ao padrão: にじゅういっさい, にじゅうにさい….\n• Os outros são regulares: よんさい (4), ななさい (7), きゅうさい (9).\n• Com gente mais velha ou em situação formal, a pergunta mais educada é おいくつですか。",
+      "structure": "[pessoa] は [número] さいです。 · なんさいですか。",
+      "examples": [
+        { "jp": "ルーカスさんは なんさいですか。— じゅうはっさいです。", "kana": "ルーカスさんは なんさいですか。— じゅうはっさいです。", "romaji": "Rūkasu-san wa nansai desu ka. — Jūhassai desu.", "pt": "Quantos anos o Lucas tem? — 18." },
+        { "jp": "わたしは はたちです。だいがくせいです。", "kana": "わたしは はたちです。だいがくせいです。", "romaji": "Watashi wa hatachi desu. Daigakusei desu.", "pt": "Tenho 20 anos. Sou universitário(a)." },
+        { "jp": "わたしの ねこは いっさいです。", "kana": "わたしの ねこは いっさいです。", "romaji": "Watashi no neko wa issai desu.", "pt": "Meu gato tem 1 ano." }
+      ],
+      "pitfalls": [
+        "\"Tenho 18 anos\" não tem verbo \"ter\": わたしは じゅうはっさいです。 Não procure um verbo.",
+        "はたち já é a idade completa: はたちです está certo; はたちさい está errado.",
+        "1, 8 e 10 mudam de som: いっさい, はっさい, じゅっさい. いちさい, はちさい e じゅうさい estão errados.",
+        "Com gente mais velha, prefira おいくつですか a なんさいですか, e evite perguntar a idade logo de cara."
+      ],
+      "howToStudy": [
+        "Diga em voz alta a idade de 5 amigos ou colegas: (nome)さんは 〜さいです。 Se puder, inclua alguém de 18, 20 ou 21.",
+        "Aperte 🔬 no exemplo 1: ルーカスさんは é o TÓPICO e じゅうはっさいです é o PREDICADO. なんさい está no mesmo lugar em que a resposta entra.",
+        "No caderno, escreva as idades de 1 a 10 em kana e circule as que mudam de som."
+      ],
+      "flag": null
+    },
+    {
+      "id": "01-2-d",
+      "gc": null,
+      "title": "〜ねんせい · なんねんせい",
+      "gloss": "aluno(a) do …º ano",
+      "explanation": "Para dizer em que ano você está na escola ou na faculdade, use número + **ねんせい**: にねんせい = aluno(a) do 2º ano. Pergunta: **なんねんせいですか**.\n• Atenção ao 4: **よねんせい**, não よんねんせい.\n• Para dizer de onde, use o の da Aula 01-1: だいがくの さんねんせい (\"do 3º ano da faculdade\"), こうこうの いちねんせい (\"do 1º ano do ensino médio\"). O bloco com の **descreve** o próximo, e ねんせい é o núcleo.\n• ねんせい é o ano **escolar**, não a idade. Para idade, use さい.\n• No Japão, a faculdade costuma durar 4 anos e o ensino médio (こうこう), 3.",
+      "structure": "[pessoa] は ([escola] の) [número] ねんせいです。 · なんねんせいですか。",
+      "examples": [
+        { "jp": "アナさんは なんねんせいですか。— よねんせいです。", "kana": "アナさんは なんねんせいですか。— よねんせいです。", "romaji": "Ana-san wa nannensei desu ka. — Yonensei desu.", "pt": "Em que ano a Ana está? — No 4º ano." },
+        { "jp": "わたしは だいがくの にねんせいです。", "kana": "わたしは だいがくの にねんせいです。", "romaji": "Watashi wa daigaku no ninensei desu.", "pt": "Estou no 2º ano da faculdade." },
+        { "jp": "やまださんは こうこうの さんねんせいです。じゅうはっさいです。", "kana": "やまださんは こうこうの さんねんせいです。じゅうはっさいです。", "romaji": "Yamada-san wa kōkō no sannensei desu. Jūhassai desu.", "pt": "O(A) Yamada está no 3º ano do ensino médio. Tem 18 anos." }
+      ],
+      "pitfalls": [
+        "4º ano é よねんせい. よんねんせい está errado.",
+        "A ordem é invertida em relação ao português: \"2º ano da faculdade\" é だいがくの にねんせい. にねんせいの だいがく seria \"a faculdade do 2º ano\".",
+        "ねんせい é só para estudantes. Quem já trabalha diz o que faz (かいしゃいんです) ou a idade.",
+        "Não confunda ano escolar com idade: \"tenho 2 anos\" é にさいです; にねんせいです é \"estou no 2º ano\"."
+      ],
+      "howToStudy": [
+        "Diga em voz alta em que ano você está, ou imagine-se estudando no Japão: だいがくの 〜ねんせいです。",
+        "Monte o exemplo 3 de trás pra frente, em voz alta: さんねんせいです → こうこうの さんねんせいです → やまださんは こうこうの さんねんせいです。",
+        "Junte a Aula 01-1 e esta numa apresentação de 30 s (nome → nacionalidade → idade → ano) e grave no celular."
+      ],
+      "flag": null
+    }
+  ],
+  "media": [
+    { "order": 1, "kind": "leitura", "title": "Genki I · Lição 1: vocabulário (じ, はん, ごぜん, ごご, さい, ねんせい) e a parte de números, horas e telefone", "where": "Seu livro Genki I (3ª ed.)", "url": "", "when": "Antes do bloco de gramática, para ver as tabelas de números" },
+    { "order": 2, "kind": "video", "title": "Vídeo sobre horas e números de telefone, no ritmo da Lição 1 do Genki I", "where": "YouTube · canal ToKini Andy", "url": "", "search": "ToKini Andy Genki Lesson 1 time telephone numbers", "when": "Depois dos pontos 4a e 4b: pause e repita cada hora e cada número" },
+    { "order": 3, "kind": "app", "title": "genki-companion: Lição 1, revisar os pontos 1 a 3 (esta aula não tem ponto novo lá)", "where": "../genki-companion/index.html", "url": "../genki-companion/index.html", "when": "No fim, como revisão da Aula 01-1" }
+  ],
+  "homework": {
+    "intro": "Faça no caderno, à mão, escrevendo o japonês em kana. Escreva os números por extenso, em kana, para treinar a leitura. Só depois abra o gabarito, item por item. Circule o que errou e refaça no dia seguinte.",
+    "tasks": [
+      {
+        "id": "h1",
+        "type": "transformar",
+        "prompt": "Escreva as horas em kana, do jeito que você falaria.",
+        "items": [
+          { "q": "4:00", "a": { "jp": "よじ", "romaji": "yoji" }, "note": "Especial: よじ, nunca よんじ." },
+          { "q": "7:30", "a": { "jp": "しちじはん", "romaji": "shichiji han" }, "note": "しちじ + はん." },
+          { "q": "9:00 da manhã", "a": { "jp": "ごぜん くじ", "romaji": "gozen kuji" }, "note": "ごぜん vem antes, e 9h é くじ." },
+          { "q": "12:30", "a": { "jp": "じゅうにじはん", "romaji": "jūniji han" } },
+          { "q": "3:00 da tarde", "a": { "jp": "ごご さんじ", "romaji": "gogo sanji" }, "note": "ごご antes da hora, ao contrário do português." },
+          { "q": "Que horas são agora? — 1h30.", "a": { "jp": "いま なんじですか。— いちじはんです。", "romaji": "Ima nanji desu ka. — Ichiji han desu." } }
+        ]
+      },
+      {
+        "id": "h2",
+        "type": "transformar",
+        "prompt": "Escreva em kana como se lê cada número de telefone, com の entre os grupos.",
+        "items": [
+          { "q": "090-2763-5184", "a": { "jp": "ゼロきゅうゼロの にななろくさんの ごいちはちよん", "romaji": "zero-kyū-zero no ni-nana-roku-san no go-ichi-hachi-yon" } },
+          { "q": "03-4829-1057", "a": { "jp": "ゼロさんの よんはちにきゅうの いちゼロごなな", "romaji": "zero-san no yon-hachi-ni-kyū no ichi-zero-go-nana" }, "note": "れい no lugar de ゼロ também está certo." },
+          { "q": "070-9316-4402", "a": { "jp": "ゼロななゼロの きゅうさんいちろくの よんよんゼロに", "romaji": "zero-nana-zero no kyū-san-ichi-roku no yon-yon-zero-ni" }, "note": "Ao telefone, 7 é なな e 4 é よん." }
+        ]
+      },
+      {
+        "id": "h3",
+        "type": "traduzir",
+        "prompt": "Traduza para o japonês.",
+        "items": [
+          { "q": "Tenho 20 anos.", "a": { "jp": "はたちです。", "romaji": "Hatachi desu." }, "note": "Sem さい. Com わたしは no começo também está certo." },
+          { "q": "O gato do Pedro tem 10 anos.", "a": { "jp": "ペドロさんの ねこは じゅっさいです。", "romaji": "Pedoro-san no neko wa jussai desu." }, "note": "10 anos = じゅっさい (ou じっさい)." },
+          { "q": "O Sr. Suzuki tem 41 anos.", "a": { "jp": "すずきさんは よんじゅういっさいです。", "romaji": "Suzuki-san wa yonjūissai desu." }, "note": "41 = よんじゅう + いっさい: a mudança do 1 continua valendo." },
+          { "q": "Quantos anos você tem? — 19.", "a": { "jp": "なんさいですか。— じゅうきゅうさいです。", "romaji": "Nansai desu ka. — Jūkyūsai desu." }, "note": "Sem あなた, como na Aula 01-1." },
+          { "q": "Estou no 1º ano da faculdade.", "a": { "jp": "だいがくの いちねんせいです。", "romaji": "Daigaku no ichinensei desu." } },
+          { "q": "Em que ano o Lucas está? — No 4º ano.", "a": { "jp": "ルーカスさんは なんねんせいですか。— よねんせいです。", "romaji": "Rūkasu-san wa nannensei desu ka. — Yonensei desu." }, "note": "よねんせい, sem ん." }
+        ]
+      },
+      {
+        "id": "h4",
+        "type": "produzir",
+        "prompt": "Escreva um mini-perfil seu em 5 frases: nome, idade, ano na escola ou na faculdade (ou o que você faz), um telefone inventado e que horas são agora. Depois leia em voz alta e grave no celular.",
+        "items": [
+          { "q": "Modelo, que o seu texto deve seguir na estrutura e não nas palavras:", "a": { "jp": "わたしの なまえは アナです。はたちです。だいがくの にねんせいです。でんわばんごうは ゼロはちゼロの いちにさんよんの ごろくななはちです。いま ごご さんじはんです。", "romaji": "Watashi no namae wa Ana desu. Hatachi desu. Daigaku no ninensei desu. Denwa bangō wa zero-hachi-zero no ichi-ni-san-yon no go-roku-nana-hachi desu. Ima gogo sanji han desu.", "pt": "Meu nome é Ana. Tenho 20 anos. Estou no 2º ano da faculdade. Meu telefone é 080-1234-5678. Agora são 3h30 da tarde." }, "note": "Confira: よじ/しちじ/くじ se aparecerem, はたち sem さい, いっさい/はっさい/じゅっさい, よねんせい, の entre os grupos do telefone e entre だいがく e ねんせい." }
+        ]
+      }
+    ],
+    "workbook": [
+      { "p": 19, "t": "4 · Time and Telephone Numbers", "tip": "Faça depois dos pontos 4a e 4b." },
+      { "p": 20, "t": "5 · こたえましょう (Questions)", "tip": "Faça no fim da aula: junta a Aula 01-1 e esta. Responda com frases completas." },
+      { "p": 21, "t": "6 · きくれんしゅう (Listening Comprehension)", "tip": "Precisa do áudio oficial do Genki. Faça por último e confira no Genki Answer Key oficial." }
+    ]
+  },
+  "practice": [
+    { "tool": "Wagotabi", "what": "Jogue normalmente e cace números: sempre que um número aparecer na tela ou num diálogo, leia em voz alta em japonês. Se um diálogo trouxer なんじ, 〜じ, 〜さい ou 〜ねんせい, pause e copie a frase no caderno.", "min": 15 },
+    { "tool": "Mirage", "what": "Treinos → Números: 10 min. Depois, Vocabulário da Lição 1 no SRS.", "min": 15 },
+    { "tool": "Mirage", "what": "Praticar L1: escuta e compreensão, para ouvir números e horas dentro de frases.", "min": 10 },
+    { "tool": "Shadowing", "what": "Toque 🔊 nos exemplos de telefone e de idade e repita junto 3 vezes, marcando a pausa em cada の.", "min": 5 },
+    { "tool": "Fala", "what": "Grave em até 30 s: いま 〜じです。 + a sua idade + o seu ano (ou o que você faz). Ouça e confira as leituras especiais.", "min": 5 }
+  ],
+  "culture": {
+    "title": "O ano letivo japonês começa em abril",
+    "titleJp": "にゅうがくしき",
+    "body": "No Japão, o ano letivo **começa em abril** e termina em março; no Brasil, costuma começar em fevereiro. As escolas abrem o ano com uma cerimônia de entrada, a にゅうがくしき, que em muitas regiões cai na época das cerejeiras em flor. Por isso, quem é いちねんせい em março passa a ser にねんせい em abril, e não em janeiro. As turmas são formadas pela data de nascimento, de 2 de abril a 1º de abril do ano seguinte: quem nasceu em março entra na escola junto com quem nasceu no ano anterior. O governo e muitas empresas também começam o ano fiscal em abril, e é comum os recém-contratados começarem a trabalhar nesse mês.",
+    "try": "Pense em duas pessoas nascidas no mesmo ano, uma em março e outra em maio. No Japão, elas estariam na mesma turma? (Não: a de março entra um ano antes.) Depois diga o seu ano em voz alta, do jeito japonês: だいがくの 〜ねんせいです。, ou, se já se formou, a sua idade: 〜さいです。"
+  },
+  "checklist": [
+    "Digo as horas de 1 a 12, com e sem はん, sem olhar, acertando よじ, しちじ e くじ.",
+    "Pergunto いま なんじですか。 e entendo a resposta, com ごぜん e ごご antes da hora.",
+    "Digo o meu telefone em japonês, algarismo por algarismo, com の entre os grupos.",
+    "Digo a minha idade e pergunto なんさいですか。 sem errar いっさい, はっさい, じゅっさい e はたち.",
+    "Digo em que ano estou (〜ねんせい) e lembro que o 4º é よねんせい.",
+    "Fiz a lição de casa e conferi o gabarito, e refiz o que errei.",
+    "Fiz as páginas 19–21 do Workbook."
+  ]
+}

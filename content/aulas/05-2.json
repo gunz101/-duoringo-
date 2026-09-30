@@ -1,0 +1,218 @@
+{
+  "id": "05-2",
+  "unit": "G1-L05",
+  "genki": { "book": "Genki I", "lesson": 5, "points": ["Adjectives (Past Tense)", "好き(な)／きらい(な)"] },
+  "title": "Adjetivos no passado · gostar",
+  "titleJp": "りょこうは たのしかったです",
+  "canDo": [
+    "Contar como uma coisa foi: たのしかったです, おいしくなかったです, しずかでした, きれいじゃなかったです.",
+    "Dizer \"foi bom\" e \"não foi bom\" com as formas irregulares よかったです e よくなかったです.",
+    "Perguntar \"como foi?\" com 〜は どうでしたか e responder com um adjetivo no passado.",
+    "Dizer do que gosto e do que não gosto com が: 〜が すきです / きらいです.",
+    "Graduar o gosto com だいすき e だいきらい, e perguntar なにが すきですか。"
+  ],
+  "duration": {
+    "total": "60–75 min",
+    "blocks": [
+      { "t": "Aquecimento: negar em voz alta 4 adjetivos い e 4 adjetivos な no presente (Aula 05-1)", "min": 5 },
+      { "t": "Vocabulário: ouvir 🔊 cada palavra e repetir 2 vezes, dizendo se o adjetivo é い ou な", "min": 10 },
+      { "t": "Gramática: os 3 pontos, montando a tabela das 4 formas no caderno e fazendo um 🔬 por ponto", "min": 25 },
+      { "t": "Vídeo da Lição 5 (bloco 6), na parte do passado e de すき / きらい", "min": 10 },
+      { "t": "Lição de casa no caderno + conferir no gabarito", "min": 15 },
+      { "t": "Checklist (bloco 10) + anotar dúvidas no caderno da aula", "min": 5 }
+    ]
+  },
+  "prereqs": {
+    "aulas": ["03-2", "04-2", "05-1"],
+    "skills": [
+      "Conjugar adjetivos い e な no presente, afirmativo e negativo (Aula 05-1): o passado sai dessas formas.",
+      "Usar でした e じゃなかったです com substantivos (Aula 04-2): os adjetivos な fazem igual.",
+      "Saber que を marca o objeto de um verbo (Aula 03-2), para não confundir com o が de すき."
+    ],
+    "vocab": [
+      { "jp": "たのしい", "kana": "たのしい", "romaji": "tanoshii", "pt": "divertido, agradável" },
+      { "jp": "おいしい", "kana": "おいしい", "romaji": "oishii", "pt": "gostoso, saboroso" },
+      { "jp": "むずかしい", "kana": "むずかしい", "romaji": "muzukashii", "pt": "difícil" },
+      { "jp": "やさしい", "kana": "やさしい", "romaji": "yasashii", "pt": "fácil; gentil (pessoa)" },
+      { "jp": "いそがしい", "kana": "いそがしい", "romaji": "isogashii", "pt": "ocupado, atarefado" },
+      { "jp": "さむい", "kana": "さむい", "romaji": "samui", "pt": "frio (tempo, clima)" },
+      { "jp": "いい", "kana": "いい", "romaji": "ii", "pt": "bom (passado irregular: よかったです)" },
+      { "jp": "ひま（な）", "kana": "ひま（な）", "romaji": "hima (na)", "pt": "livre, desocupado (com tempo sobrando)" },
+      { "jp": "にぎやか（な）", "kana": "にぎやか（な）", "romaji": "nigiyaka (na)", "pt": "animado, movimentado (lugar)" },
+      { "jp": "すき（な）", "kana": "すき（な）", "romaji": "suki (na)", "pt": "de que se gosta, favorito" },
+      { "jp": "きらい（な）", "kana": "きらい（な）", "romaji": "kirai (na)", "pt": "de que não se gosta (é な, apesar do い)" },
+      { "jp": "だいすき（な）", "kana": "だいすき（な）", "romaji": "daisuki (na)", "pt": "de que se gosta muito, adorado" },
+      { "jp": "だいきらい（な）", "kana": "だいきらい（な）", "romaji": "daikirai (na)", "pt": "odiado, detestado" },
+      { "jp": "どう", "kana": "どう", "romaji": "dō", "pt": "como (〜は どうでしたか = como foi…?)" },
+      { "jp": "りょこう", "kana": "りょこう", "romaji": "ryokō", "pt": "viagem" },
+      { "jp": "しゅうまつ", "kana": "しゅうまつ", "romaji": "shūmatsu", "pt": "fim de semana" },
+      { "jp": "テスト", "kana": "テスト", "romaji": "tesuto", "pt": "prova, teste" },
+      { "jp": "パーティー", "kana": "パーティー", "romaji": "pātī", "pt": "festa" },
+      { "jp": "たべもの", "kana": "たべもの", "romaji": "tabemono", "pt": "comida" },
+      { "jp": "やさい", "kana": "やさい", "romaji": "yasai", "pt": "verdura, legume" },
+      { "jp": "おんがく", "kana": "おんがく", "romaji": "ongaku", "pt": "música" },
+      { "jp": "スポーツ", "kana": "スポーツ", "romaji": "supōtsu", "pt": "esporte" },
+      { "jp": "うみ", "kana": "うみ", "romaji": "umi", "pt": "mar, praia" },
+      { "jp": "ホテル", "kana": "ホテル", "romaji": "hoteru", "pt": "hotel" }
+    ]
+  },
+  "grammar": [
+    {
+      "id": "05-2-a",
+      "gc": "5-3",
+      "title": "Adjetivos い no passado: 〜かったです / 〜くなかったです",
+      "gloss": "\"foi…\" / \"não foi…\" com adjetivos い",
+      "explanation": "O passado dos adjetivos い também acontece **dentro do próprio adjetivo**, como o negativo da Aula 05-1. Tire o い final e acrescente a terminação:\n• Passado afirmativo: たのし|い → たのし|**かったです** (\"foi divertido\").\n• Passado negativo: parta do negativo たのしくない e troque o い final por かった → たのしく**なかったです** (\"não foi divertido\").\n• Truque: a forma くない se comporta como um adjetivo い novo. O que você faz com たかい (たかい → たかかった), faz com たかくない (たかくない → たかくなかった).\n• O です continua no fim só para dar educação. O passado já está no かった, por isso たのしいでした está errado.\n• A exceção continua: **いい** conjuga a partir de よい. よかったです (\"foi bom\"), よくなかったです (\"não foi bom\"). Sozinho, よかったです！ também é um jeito comum de dizer \"que bom!\" quando alguém conta uma boa notícia.\n• Para perguntar \"como foi?\", use **〜は どうでしたか。** A resposta é um adjetivo no passado: たのしかったです。\n• Leia pelo predicado: o tempo da frase mora no fim. Viu かった ou でした, é passado.",
+      "structure": "[N] は [adj sem い]かったです。 · [N] は [adj sem い]くなかったです。",
+      "examples": [
+        { "jp": "しゅうまつの りょこうは たのしかったです。", "kana": "しゅうまつの りょこうは たのしかったです。", "romaji": "Shūmatsu no ryokō wa tanoshikatta desu.", "pt": "A viagem do fim de semana foi divertida." },
+        { "jp": "きのうの テストは むずかしくなかったです。", "kana": "きのうの テストは むずかしくなかったです。", "romaji": "Kinō no tesuto wa muzukashikunakatta desu.", "pt": "A prova de ontem não foi difícil." },
+        { "jp": "マリアさんの パーティーは どうでしたか。— よかったです。たべものも おいしかったです。", "kana": "マリアさんの パーティーは どうでしたか。— よかったです。たべものも おいしかったです。", "romaji": "Maria-san no pātī wa dō deshita ka. — Yokatta desu. Tabemono mo oishikatta desu.", "pt": "Como foi a festa da Maria? — Foi boa. A comida também estava gostosa." }
+      ],
+      "pitfalls": [
+        "Adjetivo い não usa でした: たのしいでした ✗ → たのしかったです ✓.",
+        "O negativo passado é uma forma só: たのしくないでした ✗ → たのしくなかったです ✓.",
+        "いい segue よい também no passado: いかったです ✗ → よかったです ✓; いくなかったです ✗ → よくなかったです ✓.",
+        "\"Estava gostoso\" e \"foi gostoso\" são a mesma forma: おいしかったです ✓. Não procure um verbo \"estar\"."
+      ],
+      "howToStudy": [
+        "Conjugue no caderno 6 adjetivos い nas 4 formas (たかいです / たかくないです / たかかったです / たかくなかったです). Inclua いい. Diga cada linha em voz alta, batendo o ritmo na mesa.",
+        "Aperte 🔬 no exemplo 1. しゅうまつの りょこうは é o TÓPICO (o que está sendo avaliado) e たのしかったです é o PREDICADO. Leia o final primeiro: o かった já diz que é passado.",
+        "Conte em voz alta como foi o seu dia de ontem com 3 adjetivos no passado: きのうは いそがしかったです。…"
+      ],
+      "flag": null
+    },
+    {
+      "id": "05-2-b",
+      "gc": null,
+      "title": "Adjetivos な no passado: 〜でした / 〜じゃなかったです",
+      "gloss": "\"foi…\" / \"não foi…\" com adjetivos な",
+      "explanation": "Os adjetivos な fazem o passado **igual aos substantivos** (Aula 04-2). O adjetivo não muda; muda só o que vem depois dele.\n• Passado afirmativo: しずか**でした** (\"era / estava tranquilo\").\n• Passado negativo: しずか**じゃなかったです** (\"não era tranquilo\"). しずかじゃありませんでした também existe, com o mesmo sentido.\n• Os な que terminam em い seguem a regra dos な: きれいでした, ゆうめいじゃなかったです. Nunca きれかったです.\n• As quatro formas lado a lado:\n• な: しずかです · しずかじゃないです · しずかでした · しずかじゃなかったです\n• い: たかいです · たかくないです · たかかったです · たかくなかったです\n• Para reconhecer ao ler: かった grudado no adjetivo (たのしかった) indica um adjetivo い; でした ou じゃなかった depois do adjetivo indica um adjetivo な (ou um substantivo).",
+      "structure": "[N] は [adj-な] でした。 · [N] は [adj-な] じゃなかったです。",
+      "examples": [
+        { "jp": "リオの カーニバルは にぎやかでした。", "kana": "リオの カーニバルは にぎやかでした。", "romaji": "Rio no kānibaru wa nigiyaka deshita.", "pt": "O carnaval do Rio estava animado." },
+        { "jp": "その ホテルは きれいじゃなかったです。", "kana": "その ホテルは きれいじゃなかったです。", "romaji": "Sono hoteru wa kirei ja nakatta desu.", "pt": "Aquele hotel não era limpo." },
+        { "jp": "しゅうまつは ひまでしたか。— いいえ、ひまじゃなかったです。いそがしかったです。", "kana": "しゅうまつは ひまでしたか。— いいえ、ひまじゃなかったです。いそがしかったです。", "romaji": "Shūmatsu wa hima deshita ka. — Iie, hima ja nakatta desu. Isogashikatta desu.", "pt": "Você estava livre no fim de semana? — Não, não estava. Estava ocupado." }
+      ],
+      "pitfalls": [
+        "Adjetivo な não usa かった: しずかかったです ✗ → しずかでした ✓.",
+        "きれい é な: きれかったです ✗ → きれいでした ✓; きれくなかったです ✗ → きれいじゃなかったです ✓.",
+        "O な não aparece no fim da frase, nem no passado: しずかなでした ✗ → しずかでした ✓."
+      ],
+      "howToStudy": [
+        "Copie no caderno a tabela das 4 formas com しずか e たかい. Depois cubra a tabela e faça as mesmas 4 formas com きれい e おいしい, sem olhar.",
+        "Treinos → 🔬 Anatomia → 🏷 Etiquetar no exemplo do carnaval: リオの カーニバルは é o TÓPICO, com リオの descrevendo o próximo (カーニバル); にぎやかでした é o PREDICADO.",
+        "Fale 3 frases sobre um passeio que você fez, misturando い e な: たのしかったです。ホテルは しずかでした。…"
+      ],
+      "flag": null
+    },
+    {
+      "id": "05-2-c",
+      "gc": "5-4",
+      "title": "すき(な) / きらい(な)",
+      "gloss": "gostar e não gostar",
+      "explanation": "Em japonês, \"gostar\" não é um verbo. **すき** é um adjetivo な que quer dizer algo como \"querido, preferido\". \"Eu gosto de sushi\" é, ao pé da letra, \"quanto a mim, sushi é querido\".\n• A coisa de que se gosta é marcada com **が**, não com を: すしが すきです。\n• Quem gosta, quando aparece, vai com は, como TÓPICO: わたしは すしが すきです。 Leia pelo predicado: すきです (\"é querido\") → o quê? すしが → para quem? わたしは.\n• **きらい(な)** é o contrário, \"não gostar\". É um な que termina em い (Aula 05-1): きらいじゃないです, きらいでした.\n• Intensidade: **だいすき** (\"adoro\") e **だいきらい** (\"odeio\"). Também são adjetivos な.\n• Antes de substantivo entra o な: すきな たべもの (\"comida favorita\"). Para perguntar: なにが すきですか。 / どんな おんがくが すきですか。\n• きらい, e mais ainda だいきらい, soam fortes. Para suavizar, é comum usar a negação: あまり すきじゃないです (\"não gosto muito\"). Você vai treinar esse あまり na Aula 05-3.",
+      "structure": "[pessoa] は [coisa] が すきです／きらいです。",
+      "examples": [
+        { "jp": "わたしは ブラジルの おんがくが だいすきです。", "kana": "わたしは ブラジルの おんがくが だいすきです。", "romaji": "Watashi wa Burajiru no ongaku ga daisuki desu.", "pt": "Eu adoro música brasileira." },
+        { "jp": "アナさんは やさいが きらいです。", "kana": "アナさんは やさいが きらいです。", "romaji": "Ana-san wa yasai ga kirai desu.", "pt": "A Ana não gosta de verdura." },
+        { "jp": "すきな たべものは なんですか。— シュラスコです。", "kana": "すきな たべものは なんですか。— シュラスコです。", "romaji": "Suki na tabemono wa nan desu ka. — Shurasuko desu.", "pt": "Qual é a sua comida favorita? — Churrasco." }
+      ],
+      "pitfalls": [
+        "を no lugar de が: すしを すきです ✗ → すしが すきです ✓. すき não é verbo.",
+        "すき e きらい são な: すきくないです ✗ → すきじゃないです ✓; きらくないです ✗ → きらいじゃないです ✓.",
+        "Para contar uma experiência, \"gostei do filme\" em geral não é すきでした, que costuma soar como \"eu gostava (antigamente)\". Use o adjetivo no passado: えいがは おもしろかったです ✓.",
+        "\"Gostar de fazer algo\" (gosto de nadar) usa outra estrutura, que vem na Aula 08-3. Por enquanto, use すき só com substantivos: スポーツが すきです ✓."
+      ],
+      "howToStudy": [
+        "Diga em voz alta 3 coisas de que você gosta, 1 que adora e 1 que odeia: 〜が すきです / だいすきです / だいきらいです.",
+        "Treinos → 🔬 Anatomia → 🧱 Montar de trás pra frente com o exemplo 1: comece por だいすきです, depois ブラジルの おんがくが, por fim わたしは. Repare: が marca O QUE é querido; は marca DE QUEM se fala.",
+        "Entreviste alguém, ou a si mesmo gravando: なにが すきですか。どんな スポーツが すきですか。 Responda com frases completas."
+      ],
+      "flag": null
+    }
+  ],
+  "media": [
+    { "order": 1, "kind": "leitura", "title": "Genki I · Lição 5: explicações de gramática sobre o passado dos adjetivos e すき(な)／きらい(な)", "where": "Seu livro Genki I (3ª ed.)", "url": "", "when": "Antes desta aula ou logo depois do bloco de gramática" },
+    { "order": 2, "kind": "video", "title": "ToKini Andy: aula da Lição 5 do Genki I (passado dos adjetivos, すき e きらい)", "where": "YouTube · canal ToKini Andy", "url": "", "search": "ToKini Andy Genki Lesson 5", "when": "Depois dos 3 pontos: o vídeo confirma e dá mais exemplos" },
+    { "order": 3, "kind": "app", "title": "genki-companion: Lição 5, pontos 3 e 4 (marque ✍️ quando terminar)", "where": "../genki-companion/index.html", "url": "../genki-companion/index.html", "when": "No fim, para revisar e marcar o progresso" },
+    { "order": 4, "kind": "video", "title": "Japanese Ammo with Misa: como dizer do que você gosta (reforço opcional)", "where": "YouTube · canal Japanese Ammo with Misa", "url": "", "search": "Japanese Ammo with Misa suki kirai", "when": "Opcional, se o が de すき ainda parecer estranho" }
+  ],
+  "homework": {
+    "intro": "Faça no caderno, à mão, com os adjetivos em kana. Só depois abra o gabarito, item por item. Circule o que errou e refaça no dia seguinte.",
+    "tasks": [
+      {
+        "id": "h1",
+        "type": "transformar",
+        "prompt": "Passe para o passado educado, mantendo afirmativo ou negativo. Antes de escrever, decida: é い ou な?",
+        "items": [
+          { "q": "おいしいです。", "a": { "jp": "おいしかったです。", "romaji": "Oishikatta desu." } },
+          { "q": "むずかしくないです。", "a": { "jp": "むずかしくなかったです。", "romaji": "Muzukashikunakatta desu." }, "note": "O い final de くない vira かった." },
+          { "q": "しずかです。", "a": { "jp": "しずかでした。", "romaji": "Shizuka deshita." } },
+          { "q": "いいです。", "a": { "jp": "よかったです。", "romaji": "Yokatta desu." }, "note": "Exceção: o passado sai de よい." },
+          { "q": "きれいじゃないです。", "a": { "jp": "きれいじゃなかったです。", "romaji": "Kirei ja nakatta desu." }, "note": "きれい é な: nada de かった nele." },
+          { "q": "さむいです。", "a": { "jp": "さむかったです。", "romaji": "Samukatta desu." } }
+        ]
+      },
+      {
+        "id": "h2",
+        "type": "completar",
+        "prompt": "Complete com は, が ou を.",
+        "items": [
+          { "q": "わたし＿ スポーツが すきです。", "a": { "jp": "は", "romaji": "wa" }, "note": "Quem gosta é o TÓPICO." },
+          { "q": "ペドロさんは ねこ＿ だいすきです。", "a": { "jp": "が", "romaji": "ga" }, "note": "O que é querido leva が." },
+          { "q": "まいにち コーヒー＿ 飲みます。", "a": { "jp": "を", "romaji": "o" }, "note": "飲みます é verbo de ação: o objeto leva を. Compare com すき, que não é verbo." },
+          { "q": "どんな たべもの＿ すきですか。", "a": { "jp": "が", "romaji": "ga" } },
+          { "q": "アナさんは さかな＿ きらいです。", "a": { "jp": "が", "romaji": "ga" }, "note": "きらい funciona igual a すき." }
+        ]
+      },
+      {
+        "id": "h3",
+        "type": "traduzir",
+        "prompt": "Traduza para o japonês.",
+        "items": [
+          { "q": "A prova de ontem foi fácil.", "a": { "jp": "きのうの テストは やさしかったです。", "romaji": "Kinō no tesuto wa yasashikatta desu." } },
+          { "q": "O hotel não era silencioso.", "a": { "jp": "ホテルは しずかじゃなかったです。", "romaji": "Hoteru wa shizuka ja nakatta desu." } },
+          { "q": "Eu adoro o Japão.", "a": { "jp": "わたしは 日本が だいすきです。", "kana": "わたしは にほんが だいすきです。", "romaji": "Watashi wa Nihon ga daisuki desu." } },
+          { "q": "De que tipo de música você gosta?", "a": { "jp": "どんな おんがくが すきですか。", "romaji": "Donna ongaku ga suki desu ka." }, "note": "どんな + substantivo; a coisa de que se gosta leva が." },
+          { "q": "Como foi a viagem? — Foi divertida.", "a": { "jp": "りょこうは どうでしたか。— たのしかったです。", "romaji": "Ryokō wa dō deshita ka. — Tanoshikatta desu." } }
+        ]
+      },
+      {
+        "id": "h4",
+        "type": "produzir",
+        "prompt": "Escreva 4–5 frases sobre um passeio ou uma viagem que você fez: como foram as coisas (use o passado de adjetivos い e な) e, no fim, uma frase sobre o que você gosta em geral (すき ou だいすき, no presente). Leia em voz alta e grave.",
+        "items": [
+          { "q": "Modelo, que o seu texto deve seguir na estrutura e não nas palavras:", "a": { "jp": "しゅうまつ、リオに 行きました。天気は よかったです。うみは きれいでした。ホテルは しずかじゃなかったです。わたしは リオが だいすきです。", "kana": "しゅうまつ、リオに いきました。てんきは よかったです。うみは きれいでした。ホテルは しずかじゃなかったです。わたしは リオが だいすきです。", "romaji": "Shūmatsu, Rio ni ikimashita. Tenki wa yokatta desu. Umi wa kirei deshita. Hoteru wa shizuka ja nakatta desu. Watashi wa Rio ga daisuki desu.", "pt": "No fim de semana fui ao Rio. O tempo estava bom. O mar estava bonito. O hotel não era silencioso. Eu adoro o Rio." }, "note": "Confira: adjetivo い no passado com かった (nunca いでした), な com でした / じゃなかったです, いい → よかった, e すき com が." }
+        ]
+      }
+    ],
+    "workbook": [
+      { "p": 52, "t": "3 · Adjective Conjugation (Present and Past)", "tip": "Faça depois dos pontos a e b: é a tabela das 4 formas." },
+      { "p": 53, "t": "4 · Adjectives (Past Tense)", "tip": "Faça depois do ponto b." },
+      { "p": 55, "t": "6 · 好き(な) / きらい(な)", "tip": "Faça depois do ponto c. Confira no Genki Answer Key oficial." }
+    ]
+  },
+  "practice": [
+    { "tool": "Wagotabi", "what": "Jogue normalmente e cace nos diálogos o passado dos adjetivos (〜かった, 〜でした) e as palavras すき / きらい. Copie 2 frases no caderno e marque o predicado e, se houver, o bloco com が. Depois, no Mirage, registre a sessão em Imersão → Jogos e cole uma dessas frases na 🔬 Anatomia.", "min": 15 },
+    { "tool": "Mirage", "what": "Vocabulário da Lição 5 no SRS. Depois, Praticar L5 → conjugação, agora com as formas do passado.", "min": 10 },
+    { "tool": "Mirage", "what": "No Diário, escreva 3 frases sobre o seu dia com adjetivos no passado e confira em \"Anatomia do que escrevi\" se o predicado ficou no fim.", "min": 10 },
+    { "tool": "Shadowing", "what": "Toque 🔊 em cada exemplo desta aula e repita junto 3 vezes. Capriche no っ de かった: segure um instante antes do た.", "min": 5 },
+    { "tool": "Fala", "what": "Grave o relato da lição de casa (h4) em até 40 s. Ouça e confira cada passado: かった nos い, でした nos な.", "min": 5 }
+  ],
+  "culture": {
+    "title": "いただきます／ごちそうさま",
+    "titleJp": "いただきます・ごちそうさまでした",
+    "body": "No Japão, as refeições costumam começar com **いただきます** e terminar com **ごちそうさまでした**, muitas vezes com as mãos juntas na frente do peito. いただきます vem do verbo いただく, um jeito humilde de dizer \"receber\", e expressa gratidão pela comida e por quem a preparou. ごちそうさまでした agradece depois de comer. Também é comum dizê-lo a quem cozinhou ou pagou a conta e, em restaurantes pequenos, aos funcionários na hora de sair. Nas escolas, as crianças em geral dizem as duas expressões juntas, em voz alta, no almoço.",
+    "try": "Por um dia inteiro, diga いただきます antes de cada refeição e, no fim, おいしかったです。ごちそうさまでした。 A primeira frase usa o passado desta aula."
+  },
+  "checklist": [
+    "Conjugo qualquer adjetivo い nas 4 formas (です / くないです / かったです / くなかったです) sem olhar.",
+    "Conjugo adjetivos な nas 4 formas, inclusive きれい e ゆうめい.",
+    "Digo よかったです e よくなかったです sem hesitar.",
+    "Pergunto 〜は どうでしたか e respondo com um adjetivo no passado.",
+    "Digo do que gosto e do que não gosto com が (〜が すきです / きらいです), e uso だいすき e だいきらい.",
+    "Fiz a lição de casa e conferi o gabarito, e refiz o que errei.",
+    "Fiz as páginas 52, 53 e 55 do Workbook."
+  ]
+}

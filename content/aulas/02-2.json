@@ -1,0 +1,214 @@
+{
+  "id": "02-2",
+  "unit": "G1-L02",
+  "genki": { "book": "Genki I", "lesson": 2, "points": ["Numbers (100–100,000)", "〜えん / いくら", "〜を ください", "〜を おねがいします"] },
+  "title": "Fazendo compras",
+  "titleJp": "いくらですか",
+  "canDo": [
+    "Dizer qualquer número de 100 a 100.000, acertando さんびゃく, ろっぴゃく, はっぴゃく, さんぜん e はっせん.",
+    "Perguntar quanto custa algo (〜は いくらですか) e entender o preço dito em えん.",
+    "Pedir uma coisa na loja com 〜を ください.",
+    "Pedir no restaurante com 〜を おねがいします: o prato, o cardápio, a conta."
+  ],
+  "duration": {
+    "total": "60–75 min",
+    "blocks": [
+      { "t": "Aquecimento: contar de 10 em 10 até 100 e dizer 3 números de telefone (Aulas 00-3 e 01-2)", "min": 5 },
+      { "t": "Vocabulário: ouvir 🔊 cada palavra e repetir 2 vezes", "min": 10 },
+      { "t": "Gramática: os 3 pontos, com calma nos números grandes, e um 🔬 por ponto", "min": 25 },
+      { "t": "Vídeo (bloco 6), pausando para repetir os preços", "min": 10 },
+      { "t": "Lição de casa no caderno + conferir no gabarito", "min": 15 },
+      { "t": "Checklist (bloco 10) + anotar dúvidas no caderno da aula", "min": 5 }
+    ]
+  },
+  "prereqs": {
+    "aulas": ["00-3", "01-2", "02-1"],
+    "skills": [
+      "Contar de 0 a 100 sem olhar (Aula 00-3).",
+      "Apontar coisas com この/その/あの + substantivo e com これ/それ/あれ (Aula 02-1).",
+      "Montar X は Y です e perguntas com か (Aula 01-1)."
+    ],
+    "vocab": [
+      { "jp": "ひゃく", "kana": "ひゃく", "romaji": "hyaku", "pt": "cem" },
+      { "jp": "せん", "kana": "せん", "romaji": "sen", "pt": "mil" },
+      { "jp": "まん", "kana": "まん", "romaji": "man", "pt": "dez mil (unidade de 10.000)" },
+      { "jp": "いちまん", "kana": "いちまん", "romaji": "ichiman", "pt": "dez mil (10.000)" },
+      { "jp": "〜えん", "kana": "〜えん", "romaji": "-en", "pt": "… ienes" },
+      { "jp": "いくら", "kana": "いくら", "romaji": "ikura", "pt": "quanto (custa)" },
+      { "jp": "〜を ください", "kana": "〜を ください", "romaji": "-o kudasai", "pt": "me dá …, por favor" },
+      { "jp": "〜を おねがいします", "kana": "〜を おねがいします", "romaji": "-o onegai shimasu", "pt": "…, por favor (pedido mais suave)" },
+      { "jp": "いらっしゃいませ", "kana": "いらっしゃいませ", "romaji": "irasshaimase", "pt": "seja bem-vindo(a) (dito pela loja)" },
+      { "jp": "じゃあ", "kana": "じゃあ", "romaji": "jā", "pt": "então (ao decidir)" },
+      { "jp": "どうぞ", "kana": "どうぞ", "romaji": "dōzo", "pt": "aqui está; por favor, fique à vontade" },
+      { "jp": "どうも", "kana": "どうも", "romaji": "dōmo", "pt": "obrigado(a) (curto)" },
+      { "jp": "すみません", "kana": "すみません", "romaji": "sumimasen", "pt": "com licença; desculpe" },
+      { "jp": "メニュー", "kana": "メニュー", "romaji": "menyū", "pt": "cardápio" },
+      { "jp": "とんかつ", "kana": "とんかつ", "romaji": "tonkatsu", "pt": "tonkatsu (costeleta de porco empanada)" },
+      { "jp": "おかいけい", "kana": "おかいけい", "romaji": "okaikei", "pt": "a conta (no restaurante)" },
+      { "jp": "かさ", "kana": "かさ", "romaji": "kasa", "pt": "guarda-chuva" },
+      { "jp": "かばん", "kana": "かばん", "romaji": "kaban", "pt": "bolsa, mochila, pasta" },
+      { "jp": "さいふ", "kana": "さいふ", "romaji": "saifu", "pt": "carteira" },
+      { "jp": "とけい", "kana": "とけい", "romaji": "tokei", "pt": "relógio" },
+      { "jp": "ぼうし", "kana": "ぼうし", "romaji": "bōshi", "pt": "chapéu, boné" },
+      { "jp": "くつ", "kana": "くつ", "romaji": "kutsu", "pt": "sapatos" },
+      { "jp": "じてんしゃ", "kana": "じてんしゃ", "romaji": "jitensha", "pt": "bicicleta" }
+    ]
+  },
+  "grammar": [
+    {
+      "id": "02-2-a",
+      "gc": null,
+      "title": "ひゃく・せん・まん (até 100.000)",
+      "gloss": "números grandes",
+      "explanation": "Os números grandes se montam como os que você já sabe: **[quantos] + [casa]**. ひゃく = 100, せん = 1.000, まん = 10.000. にひゃく = 200, ごせん = 5.000, よんまん = 40.000. Depois é só juntar, da maior casa para a menor: にせん + ごひゃく + じゅう = にせんごひゃくじゅう (2.510).\n• 100 é só ひゃく e 1.000 é só せん, sem いち. Mas 10.000 é **いちまん**: aqui o いち é obrigatório.\n• **Mudanças de som** (decore estas cinco): **さんびゃく** (300), **ろっぴゃく** (600), **はっぴゃく** (800), **さんぜん** (3.000), **はっせん** (8.000). O resto é regular: よんひゃく, ななひゃく, きゅうひゃく, ろくせん, よんせん, きゅうせん.\n• A pegadinha para brasileiros: o japonês conta em blocos de **10.000**, não de 1.000. 20.000 é にまん (2 × 10.000), 50.000 é ごまん e 100.000 é **じゅうまん** (10 × 10.000).\n• Macete: separe os 4 últimos algarismos. 36.500 → 3 | 6500 → さんまん + ろくせんごひゃく.",
+      "structure": "[quantos] + ひゃく / せん / まん, da maior casa para a menor: にまん + さんぜん + ごひゃく = 23.500",
+      "examples": [
+        { "jp": "とんかつは はっぴゃくえんです。", "kana": "とんかつは はっぴゃくえんです。", "romaji": "Tonkatsu wa happyaku en desu.", "pt": "O tonkatsu custa 800 ienes." },
+        { "jp": "この かさは さんぜんえんです。", "kana": "この かさは さんぜんえんです。", "romaji": "Kono kasa wa sanzen en desu.", "pt": "Este guarda-chuva custa 3.000 ienes." },
+        { "jp": "この じてんしゃは にまんろくせんえんです。", "kana": "この じてんしゃは にまんろくせんえんです。", "romaji": "Kono jitensha wa niman rokusen en desu.", "pt": "Esta bicicleta custa 26.000 ienes." }
+      ],
+      "pitfalls": [
+        "10.000 não é まん sozinho: diga いちまん. Já 100 e 1.000 são só ひゃく e せん; いちひゃく e いちせん estão errados.",
+        "Não conte em milhares: 20.000 é にまん, e não にじゅうせん. 100.000 é じゅうまん, e não ひゃくせん.",
+        "300 é さんびゃく (não さんひゃく) e 3.000 é さんぜん (não さんせん). 600 é ろっぴゃく, mas 6.000 é ろくせん, sem mudança.",
+        "400 é よんひゃく e 4.000 é よんせん, sempre com よん, nunca com し."
+      ],
+      "howToStudy": [
+        "Escreva as cinco mudanças de som num post-it (さんびゃく, ろっぴゃく, はっぴゃく, さんぜん, はっせん) e leia em voz alta 5 vezes.",
+        "Pegue 5 preços de um encarte de mercado ou de um site (só o número, sem pensar na moeda) e diga cada um em japonês, separando os 4 últimos algarismos.",
+        "Aperte 🔬 no exemplo 3: この じてんしゃは é o TÓPICO, e o número inteiro (にまんろくせんえん) fica dentro do PREDICADO, antes de です."
+      ],
+      "flag": null
+    },
+    {
+      "id": "02-2-b",
+      "gc": null,
+      "title": "〜えん · いくら",
+      "gloss": "ienes · quanto custa?",
+      "explanation": "O preço é o **PREDICADO** de uma frase X は Y です: [coisa] は [número]えんです。 Para perguntar, **いくら** (\"quanto\") entra no lugar exato do preço: この さいふは いくらですか。— よんせんごひゃくえんです。\n• O TÓPICO costuma ser a coisa apontada com この/その/あの ou これ/それ/あれ (Aula 02-1). Leia pelo fim: \"…4.500 ienes, esta carteira\".\n• えん é o iene. Em japonês não existe o \"y\" do inglês \"yen\": diga **en**.\n• Atenção ao 4: 4 ienes é **よえん** (parecido com よじ da Aula 01-2), mas 40 ienes é よんじゅうえん e 400 ienes é よんひゃくえん.\n• Você também pode ouvir なんえんですか (\"quantos ienes?\"); いくら é o mais comum.",
+      "structure": "[coisa] は いくらですか。— [número] えんです。",
+      "examples": [
+        { "jp": "すみません、この さいふは いくらですか。— よんせんごひゃくえんです。", "kana": "すみません、この さいふは いくらですか。— よんせんごひゃくえんです。", "romaji": "Sumimasen, kono saifu wa ikura desu ka. — Yonsen gohyaku en desu.", "pt": "Com licença, quanto custa esta carteira? — 4.500 ienes." },
+        { "jp": "あの とけいは いくらですか。— いちまんにせんえんです。", "kana": "あの とけいは いくらですか。— いちまんにせんえんです。", "romaji": "Ano tokei wa ikura desu ka. — Ichiman nisen en desu.", "pt": "Quanto custa aquele relógio? — 12.000 ienes." },
+        { "jp": "その ぼうしは にせんろっぴゃくえんです。", "kana": "その ぼうしは にせんろっぴゃくえんです。", "romaji": "Sono bōshi wa nisen roppyaku en desu.", "pt": "Esse boné (aí com você) custa 2.600 ienes." }
+      ],
+      "pitfalls": [
+        "いくら não leva は: いくらは está errado. A coisa vem com は, e いくら vai no fim: 〜は いくらですか。",
+        "\"Custa\" não é um verbo aqui: o preço é o predicado, com です. この かさは ごひゃくえんです = \"este guarda-chuva é 500 ienes\". Não procure um verbo \"custar\".",
+        "Diga えん (en), não \"yen\".",
+        "4 ienes é よえん, mas 4.000 ienes é よんせんえん: a leitura よ só vale quando o 4 vem colado em えん."
+      ],
+      "howToStudy": [
+        "Faça um diálogo sozinho, em voz alta, com 5 objetos da casa: pergunte 〜は いくらですか e responda com um preço inventado.",
+        "Aperte 🔬 no exemplo 1: この さいふは é o TÓPICO e いくらですか é o PREDICADO. Na resposta, o preço ocupa o mesmo lugar.",
+        "Toque 🔊 no exemplo 2 e repita junto até dizer いちまんにせんえん sem travar."
+      ],
+      "flag": null
+    },
+    {
+      "id": "02-2-c",
+      "gc": null,
+      "title": "〜を ください · 〜を おねがいします",
+      "gloss": "me dá…, por favor · …, por favor",
+      "explanation": "Para pedir uma coisa, diga **a coisa + を + ください**: この かさを ください (\"Me dá este guarda-chuva, por favor\", ou seja, \"vou levar este\"). **を** marca o **OBJETO**, a coisa que você quer receber, e se lê **o**. ください é o pedido e vai no fim, no lugar do predicado.\n• **おねがいします** funciona do mesmo jeito e soa **mais suave**: とんかつを おねがいします (\"Um tonkatsu, por favor\"). É muito usado no restaurante e serve também para serviços: メニューを おねがいします, おかいけい おねがいします (\"A conta, por favor\").\n• Na fala, o を costuma cair: とんかつ、おねがいします。\n• Ao receber algo, você vai ouvir **どうぞ** (\"aqui está\"). Ao entrar numa loja, você ouve **いらっしゃいませ** (\"seja bem-vindo\"); em geral o cliente não responde, e um aceno de cabeça basta.\n• Você vai estudar を com verbos na Aula 03-2.",
+      "structure": "[coisa] を ください。 · [coisa] を おねがいします。",
+      "examples": [
+        { "jp": "じゃあ、この かさを ください。", "kana": "じゃあ、この かさを ください。", "romaji": "Jā, kono kasa o kudasai.", "pt": "Então vou levar este guarda-chuva (me dá este, por favor)." },
+        { "jp": "すみません、とんかつを おねがいします。", "kana": "すみません、とんかつを おねがいします。", "romaji": "Sumimasen, tonkatsu o onegai shimasu.", "pt": "Com licença, um tonkatsu, por favor." },
+        { "jp": "メニューを おねがいします。— はい、どうぞ。", "kana": "メニューを おねがいします。— はい、どうぞ。", "romaji": "Menyū o onegai shimasu. — Hai, dōzo.", "pt": "O cardápio, por favor. — Sim, aqui está." }
+      ],
+      "pitfalls": [
+        "を se lê o, igual a お: とんかつを = tonkatsu o.",
+        "A coisa vem antes do pedido: この かさを ください. ください この かさ segue a ordem do português (\"me dá este guarda-chuva\") e está errado.",
+        "ください não é um \"por favor\" solto no começo da frase. Para chamar o garçom ou o atendente, use すみません.",
+        "\"Quero isto\" não precisa de um verbo \"querer\" (ele vem nas Aulas 11-1 e 14-1). Na loja, これを ください já diz tudo."
+      ],
+      "howToStudy": [
+        "Faça em voz alta 5 pedidos: 3 com ください (coisas de uma loja) e 2 com おねがいします (restaurante).",
+        "Monte de trás pra frente, em voz alta: ください → かさを ください → この かさを ください. Isso fixa a ordem japonesa.",
+        "Grave um diálogo de loja completo (いらっしゃいませ → 〜は いくらですか → 〜えんです → じゃあ、〜を ください), fazendo as duas vozes."
+      ],
+      "flag": null
+    }
+  ],
+  "media": [
+    { "order": 1, "kind": "leitura", "title": "Genki I · Lição 2: a tabela de números e as expressões de compra (いくら, 〜えん, ください, おねがいします) no diálogo e no vocabulário", "where": "Seu livro Genki I (3ª ed.)", "url": "", "when": "Antes do bloco de gramática, para ver a tabela de números" },
+    { "order": 2, "kind": "video", "title": "Vídeo sobre números grandes e preços, no ritmo da Lição 2 do Genki I", "where": "YouTube · canal ToKini Andy", "url": "", "search": "ToKini Andy Genki Lesson 2 numbers", "when": "Depois do ponto 4a: pause e repita cada número" },
+    { "order": 3, "kind": "app", "title": "genki-companion: Lição 2, revisar os pontos 1 a 4 (esta aula não tem ponto próprio lá, mas você usa これ/この o tempo todo na loja)", "where": "../genki-companion/index.html", "url": "../genki-companion/index.html", "when": "No fim, como revisão da Aula 02-1" }
+  ],
+  "homework": {
+    "intro": "Faça no caderno, à mão. Escreva os números por extenso, em kana, e só depois abra o gabarito, item por item. Circule o que errou e refaça no dia seguinte.",
+    "tasks": [
+      {
+        "id": "h1",
+        "type": "transformar",
+        "prompt": "Escreva os números em kana.",
+        "items": [
+          { "q": "300", "a": { "jp": "さんびゃく", "romaji": "sanbyaku" }, "note": "Mudança de som: びゃく." },
+          { "q": "680", "a": { "jp": "ろっぴゃくはちじゅう", "romaji": "roppyaku hachijū" } },
+          { "q": "1.800", "a": { "jp": "せんはっぴゃく", "romaji": "sen happyaku" }, "note": "1.000 é só せん, sem いち." },
+          { "q": "3.500", "a": { "jp": "さんぜんごひゃく", "romaji": "sanzen gohyaku" } },
+          { "q": "8.000", "a": { "jp": "はっせん", "romaji": "hassen" } },
+          { "q": "47.000", "a": { "jp": "よんまんななせん", "romaji": "yonman nanasen" }, "note": "Separe os 4 últimos: 4 | 7000 → よんまん + ななせん." }
+        ]
+      },
+      {
+        "id": "h2",
+        "type": "ler",
+        "prompt": "Leia os preços e escreva em algarismos.",
+        "items": [
+          { "q": "きゅうひゃくえん", "a": { "jp": "きゅうひゃくえん", "romaji": "kyūhyaku en", "pt": "900 ienes" } },
+          { "q": "いちまんえん", "a": { "jp": "いちまんえん", "romaji": "ichiman en", "pt": "10.000 ienes" } },
+          { "q": "ろくせんさんびゃくえん", "a": { "jp": "ろくせんさんびゃくえん", "romaji": "rokusen sanbyaku en", "pt": "6.300 ienes" } },
+          { "q": "じゅうまんえん", "a": { "jp": "じゅうまんえん", "romaji": "jūman en", "pt": "100.000 ienes" }, "note": "10 × 10.000." },
+          { "q": "にまんはっせんえん", "a": { "jp": "にまんはっせんえん", "romaji": "niman hassen en", "pt": "28.000 ienes" } }
+        ]
+      },
+      {
+        "id": "h3",
+        "type": "traduzir",
+        "prompt": "Traduza para o japonês.",
+        "items": [
+          { "q": "Quanto custa este chapéu? — 1.500 ienes.", "a": { "jp": "この ぼうしは いくらですか。— せんごひゃくえんです。", "romaji": "Kono bōshi wa ikura desu ka. — Sen gohyaku en desu." } },
+          { "q": "Aquela bicicleta custa 30.000 ienes.", "a": { "jp": "あの じてんしゃは さんまんえんです。", "romaji": "Ano jitensha wa sanman en desu." }, "note": "30.000 = 3 × 10.000 = さんまん." },
+          { "q": "Então, me dá esse relógio (aí com você), por favor.", "a": { "jp": "じゃあ、その とけいを ください。", "romaji": "Jā, sono tokei o kudasai." } },
+          { "q": "A conta, por favor.", "a": { "jp": "おかいけい おねがいします。", "romaji": "Okaikei onegai shimasu." }, "note": "Aqui o を quase sempre cai na fala. おかいけいを おねがいします também está certo." },
+          { "q": "Com licença, quanto custam estes sapatos? — 8.600 ienes.", "a": { "jp": "すみません、この くつは いくらですか。— はっせんろっぴゃくえんです。", "romaji": "Sumimasen, kono kutsu wa ikura desu ka. — Hassen roppyaku en desu." }, "note": "Duas mudanças de som no mesmo número: はっせん e ろっぴゃく." }
+        ]
+      },
+      {
+        "id": "h4",
+        "type": "produzir",
+        "prompt": "Escreva um diálogo de loja com 5 falas: o vendedor cumprimenta, você pergunta o preço de uma coisa, ele responde, você decide levar e ele entrega. Depois leia em voz alta, fazendo as duas vozes.",
+        "items": [
+          { "q": "Modelo, que o seu texto deve seguir na estrutura e não nas palavras:", "a": { "jp": "いらっしゃいませ。— すみません、この かばんは いくらですか。— さんぜんはっぴゃくえんです。— じゃあ、これを ください。— はい、どうぞ。", "romaji": "Irasshaimase. — Sumimasen, kono kaban wa ikura desu ka. — Sanzen happyaku en desu. — Jā, kore o kudasai. — Hai, dōzo.", "pt": "Seja bem-vindo. — Com licença, quanto custa esta bolsa? — 3.800 ienes. — Então vou levar esta. — Aqui está." }, "note": "Confira: いくら e o preço no mesmo lugar do predicado, as mudanças de som, e a coisa antes de を ください." }
+        ]
+      }
+    ],
+    "workbook": [
+      { "p": 25, "t": "1 · すうじ (Numbers)", "tip": "Faça depois do ponto 4a. Confira no Genki Answer Key oficial." }
+    ]
+  },
+  "practice": [
+    { "tool": "Wagotabi", "what": "Jogue normalmente e leia em voz alta, em japonês, todo número que aparecer na tela (dinheiro, itens, pontos). Se um diálogo trouxer いくら, 〜えん, ください ou おねがいします, pause e copie a frase no caderno.", "min": 15 },
+    { "tool": "Mirage", "what": "Treinos → Números: 10 min. Depois, Vocabulário da Lição 2 no SRS.", "min": 15 },
+    { "tool": "Mirage", "what": "Praticar L2: faça a parte de escuta, para entender números e preços ditos em voz alta.", "min": 10 },
+    { "tool": "Shadowing", "what": "Toque 🔊 nos exemplos desta aula e repita cada preço junto, 3 vezes.", "min": 5 },
+    { "tool": "Fala", "what": "No mercado, numa loja ou num site, diga baixinho em japonês o preço de 10 produtos: só o número + えん.", "min": 5 }
+  ],
+  "culture": {
+    "title": "Dinheiro: a bandejinha no caixa, sem gorjeta",
+    "titleJp": "おかねの トレー",
+    "body": "Em muitas lojas e restaurantes do Japão há uma **bandejinha** ao lado do caixa. Em vez de entregar o dinheiro na mão do atendente, você o coloca ali; o troco costuma voltar na sua mão ou na mesma bandeja, muitas vezes com as notas contadas à sua frente. **Gorjeta não faz parte do costume**: o atendimento já está incluído no preço, e deixar dinheiro na mesa pode fazer o funcionário achar que você esqueceu. Em muitos restaurantes simples, você paga no caixa, na saída, e não na mesa. As moedas vão de 1 a 500 えん, e as notas mais comuns são as de 1.000, 5.000 e 10.000 えん.",
+    "try": "Separe algumas moedas e um pratinho. Simule o caixa: diga o preço em japonês (せんにひゃくえんです。), ponha o dinheiro no prato em vez de entregá-lo na mão e diga どうも ao receber o troco."
+  },
+  "checklist": [
+    "Digo as cinco mudanças de som (さんびゃく, ろっぴゃく, はっぴゃく, さんぜん, はっせん) sem olhar.",
+    "Digo números até 100.000 contando em blocos de 10.000 (にまん, じゅうまん), sem esquecer o いち de いちまん.",
+    "Pergunto 〜は いくらですか。 e entendo um preço dito em voz alta.",
+    "Peço uma coisa na loja com 〜を ください.",
+    "Peço no restaurante com 〜を おねがいします (o prato, o cardápio, a conta).",
+    "Fiz a lição de casa e conferi o gabarito, e refiz o que errei.",
+    "Fiz a página 25 do Workbook."
+  ]
+}

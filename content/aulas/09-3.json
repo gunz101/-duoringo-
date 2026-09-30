@@ -1,0 +1,218 @@
+{
+  "id": "09-3",
+  "unit": "G1-L09",
+  "genki": { "book": "Genki I", "lesson": 9, "points": ["もう～ました and まだ～ていません", "～から"] },
+  "title": "Já / ainda não · porque",
+  "titleJp": "もう 食べた？— ううん、まだ。",
+  "canDo": [
+    "Dizer que já fiz algo (もう 〜ました) e perguntar se alguém já fez (もう 〜ましたか).",
+    "Dizer que ainda não fiz com まだ 〜ていません, sem cair no まだ 〜ませんでした, e responder curto: いいえ、まだです。",
+    "Dar o motivo com から depois de forma curta, na fala casual e no meio de frases educadas: 雨が ふっているから、でかけません。",
+    "Ler uma frase com から de trás pra frente: primeiro o que acontece, depois o porquê.",
+    "Escrever uma troca de mensagens casuais usando もう, まだ e から."
+  ],
+  "duration": {
+    "total": "60–75 min",
+    "blocks": [
+      { "t": "Aquecimento: 3 frases com 〜ている (Aula 07-1) e 3 com 〜から (Aula 06-4) em voz alta", "min": 5 },
+      { "t": "Vocabulário: ouvir 🔊 cada palavra e repetir 2 vezes", "min": 10 },
+      { "t": "Gramática 4a e 4b: もう e まだ, com os exemplos em voz alta e um 🔬", "min": 15 },
+      { "t": "Gramática 4c: から com forma curta, com um 🔬 em cada exemplo", "min": 10 },
+      { "t": "Vídeo da Lição 9 (bloco 6): a parte de もう / まだ e から", "min": 10 },
+      { "t": "Lição de casa no caderno + conferir no gabarito", "min": 15 },
+      { "t": "Checklist (bloco 10) + anotar dúvidas no caderno da aula", "min": 5 }
+    ]
+  },
+  "prereqs": {
+    "aulas": ["06-4", "07-1", "09-1", "09-2"],
+    "skills": [
+      "Formar 〜ている e 〜ていません e saber que 〜ている pode descrever um estado (Aula 07-1).",
+      "Usar 〜から (porque) depois de です／ます: 雨ですから… (Aula 06-4).",
+      "Formas curtas do presente e do passado, inclusive o だ / だった de substantivos e adjetivos な (Aulas 08-1 e 09-1).",
+      "Falar em registro casual com amigos: うん / ううん, pergunta sem か (Aula 09-1)."
+    ],
+    "vocab": [
+      { "jp": "もう", "kana": "もう", "romaji": "mō", "pt": "já" },
+      { "jp": "まだ", "kana": "まだ", "romaji": "mada", "pt": "ainda; (com negativo) ainda não" },
+      { "jp": "〜から", "kana": "〜から", "romaji": "kara", "pt": "porque, como (motivo)" },
+      { "jp": "どうして", "kana": "どうして", "romaji": "dōshite", "pt": "por quê" },
+      { "jp": "しゅくだい", "kana": "しゅくだい", "romaji": "shukudai", "pt": "lição de casa" },
+      { "jp": "出す", "kana": "だす", "romaji": "dasu", "pt": "entregar (uma tarefa), enviar" },
+      { "jp": "さくぶん", "kana": "さくぶん", "romaji": "sakubun", "pt": "redação" },
+      { "jp": "しけん", "kana": "しけん", "romaji": "shiken", "pt": "prova, exame" },
+      { "jp": "しあい", "kana": "しあい", "romaji": "shiai", "pt": "jogo, partida (esporte)" },
+      { "jp": "はじまる", "kana": "はじまる", "romaji": "hajimaru", "pt": "começar (algo começa): しあいが はじまる" },
+      { "jp": "おわる", "kana": "おわる", "romaji": "owaru", "pt": "terminar (algo termina)" },
+      { "jp": "メッセージ", "kana": "メッセージ", "romaji": "messēji", "pt": "mensagem" },
+      { "jp": "おきる", "kana": "おきる", "romaji": "okiru", "pt": "acordar, levantar-se" },
+      { "jp": "でかける", "kana": "でかける", "romaji": "dekakeru", "pt": "sair (de casa, para passear)" },
+      { "jp": "帰る", "kana": "かえる", "romaji": "kaeru", "pt": "voltar (para casa)" },
+      { "jp": "アルバイト", "kana": "アルバイト", "romaji": "arubaito", "pt": "trabalho de meio período, \"bico\"" },
+      { "jp": "ばんごはん", "kana": "ばんごはん", "romaji": "bangohan", "pt": "jantar" },
+      { "jp": "ひるごはん", "kana": "ひるごはん", "romaji": "hirugohan", "pt": "almoço" },
+      { "jp": "雨が ふる", "kana": "あめが ふる", "romaji": "ame ga furu", "pt": "chover (lit. \"a chuva cai\")" },
+      { "jp": "いそがしい", "kana": "いそがしい", "romaji": "isogashii", "pt": "ocupado(a)" },
+      { "jp": "さむい", "kana": "さむい", "romaji": "samui", "pt": "frio (tempo, clima)" }
+    ]
+  },
+  "grammar": [
+    {
+      "id": "09-3-a",
+      "gc": null,
+      "title": "もう 〜ました",
+      "gloss": "já fiz",
+      "explanation": "もう quer dizer **já**. Com o verbo **no passado**, diz que a ação **já aconteceu**, em geral uma ação que se esperava.\n• もう 名前を 書きました。 (Já escrevi o nome.)\n• Para perguntar \"já…?\": もう 〜ましたか。 Em fala casual: もう 〜た？\n• Resposta sim: はい、もう 〜ました。 Casual: うん、もう 〜た。\n• もう pode vir no começo da frase ou perto do verbo: もう しゅくだいを 出しました。 / しゅくだいは もう 出しました。 As duas são naturais.\n• Leia pelo fim: o ★ verbo no passado dá o \"fiz\"; o もう acrescenta o \"já\".",
+      "structure": "もう [verbo no passado]。 · もう [verbo]ましたか。 · (casual) もう [verbo]た？",
+      "examples": [
+        { "jp": "もう しゅくだいを 出しました。", "kana": "もう しゅくだいを だしました。", "romaji": "Mō shukudai o dashimashita.", "pt": "Já entreguei a lição de casa." },
+        { "jp": "しあいは もう はじまりましたか。— はい、もう はじまりました。", "kana": "しあいは もう はじまりましたか。— はい、もう はじまりました。", "romaji": "Shiai wa mō hajimarimashita ka. — Hai, mō hajimarimashita.", "pt": "O jogo já começou? — Sim, já começou." },
+        { "jp": "もう 家に 帰った？— うん、もう 帰った。", "kana": "もう いえに かえった？— うん、もう かえった。", "romaji": "Mō ie ni kaetta? — Un, mō kaetta.", "pt": "Já voltou pra casa? — Sim, já voltei." }
+      ],
+      "pitfalls": [
+        "もう com o verbo no presente não é \"já fiz\": もう 食べます soa como \"já vou comer (agora)\". Para \"já comi\": もう 食べました.",
+        "もう + negativo é \"não … mais\": もう 食べません = não vou comer mais. Para \"ainda não\", use まだ (ponto 4b)."
+      ],
+      "howToStudy": [
+        "Faça 5 perguntas もう 〜ましたか sobre o seu dia (ひるごはん, しゅくだい, o SRS do Mirage…) e responda com a verdade.",
+        "Aperte 🔬 no exemplo 2: o ★ PREDICADO はじまりました está no passado. É ele, junto com o もう, que dá o \"já começou\".",
+        "Fala: diga em voz alta a versão casual das suas 5 perguntas e respostas (もう 〜た？— うん、もう 〜た。)."
+      ],
+      "flag": null
+    },
+    {
+      "id": "09-3-b",
+      "gc": "9-5",
+      "title": "まだ 〜ていません",
+      "gloss": "ainda não fiz",
+      "explanation": "Para dizer **ainda não**, o japonês **não usa o passado negativo**. Usa **まだ + 〜ていません**, o negativo da forma ている.\n• Por quê? 〜ている pode descrever um **estado** (Aula 07-1). まだ 〜ていません = \"ainda não estou no estado de ter feito\": a ação ainda pode acontecer.\n• まだ 名前を 書いていません。 (Ainda não escrevi o nome.)\n• Resposta curta a もう 〜ましたか: いいえ、まだです。 Casual: ううん、まだ。\n• Casual completo: まだ 〜ていない (まだ 読んでいない).\n• Compare: 食べませんでした = \"não comi\", numa ocasião que já acabou (ontem, na festa). まだ 食べていません = \"ainda não comi\", e a chance continua aberta.\n• まだ com afirmativo é \"ainda\" no sentido de \"continua\": まだ 雨が ふっています。 (Ainda está chovendo.)",
+      "structure": "まだ [verbo て] いません。 · いいえ、まだです。 · (casual) まだ [verbo て] いない。 / ううん、まだ。",
+      "examples": [
+        { "jp": "アナさんは まだ 来ていません。", "kana": "アナさんは まだ きていません。", "romaji": "Ana-san wa mada kite imasen.", "pt": "A Ana ainda não chegou." },
+        { "jp": "もう さくぶんを 書きましたか。— いいえ、まだ 書いていません。", "kana": "もう さくぶんを かきましたか。— いいえ、まだ かいていません。", "romaji": "Mō sakubun o kakimashita ka. — Iie, mada kaite imasen.", "pt": "Você já escreveu a redação? — Não, ainda não escrevi." },
+        { "jp": "マリアさんの メッセージ、もう 読んだ？— ううん、まだ 読んでいない。", "kana": "マリアさんの メッセージ、もう よんだ？— ううん、まだ よんでいない。", "romaji": "Maria-san no messēji, mō yonda? — Uun, mada yonde inai.", "pt": "Já leu a mensagem da Maria? — Não, ainda não li." }
+      ],
+      "pitfalls": [
+        "まだ 〜ませんでした não é \"ainda não\": まだ 食べていません (certo) × まだ 食べませんでした (errado).",
+        "Com quem você trata por です／ます, não corte para só まだ: いいえ、まだです。 O ううん、まだ。 é para amigos.",
+        "Sem まだ, 〜ていません pode ser \"não estou fazendo agora\". O まだ deixa claro que é \"ainda não fiz\".",
+        "まだ + afirmativo é \"ainda (continua)\": まだ 雨が ふっています = ainda está chovendo, e não \"ainda não choveu\"."
+      ],
+      "howToStudy": [
+        "Liste 5 coisas que você planejou para hoje. Para cada uma, diga もう 〜ました ou まだ 〜ていません, conforme a verdade.",
+        "Aperte 🔬 no exemplo 1: o ★ PREDICADO 来ていません aparece como \"em andamento / estado\". É isso mesmo: まだ 〜ていません descreve um estado, não um fato encerrado.",
+        "Diga em voz alta os pares, com uma situação para cada: きのう 食べませんでした (não comi ontem) × まだ 食べていません (ainda não comi hoje)."
+      ],
+      "flag": null
+    },
+    {
+      "id": "09-3-c",
+      "gc": "9-6",
+      "title": "〜から com forma curta",
+      "gloss": "porque (na fala casual e dentro da frase)",
+      "explanation": "Na Aula 06-4, から vinha depois de です／ます: 雨ですから… Agora ele também vem depois de **forma curta**, que é o normal na fala casual e no meio de frases.\n• [motivo] から、[resultado]。 O motivo vem **antes**; o resultado, **no fim**. Ex.: 雨が ふっているから、でかけない。 (Como está chovendo, não vou sair.)\n• Numa conversa educada, é muito comum só o fim ficar em です／ます: 雨が ふっているから、でかけません。\n• Substantivo e adjetivo な levam **だ**: びょうきだから, ひまだから. Adjetivo い vai direto: 高いから.\n• O motivo pode estar no passado: 高かったから, 来なかったから.\n• Para responder a \"por quê?\" (どうして), basta o motivo + から: どうして 行かなかった？— いそがしかったから。\n• Leia pelo fim: primeiro o ★ o que acontece; depois o bloco com から (MOTIVO) responde \"por quê?\".",
+      "structure": "[motivo em forma curta] から、[resultado]。 · substantivo / adj な + だから · adj い + から",
+      "examples": [
+        { "jp": "あしたは しけんが あるから、きょうは はやく 帰る。", "kana": "あしたは しけんが あるから、きょうは はやく かえる。", "romaji": "Ashita wa shiken ga aru kara, kyō wa hayaku kaeru.", "pt": "Como amanhã tem prova, hoje vou pra casa cedo." },
+        { "jp": "チケットが 高かったから、コンサートに 行かなかった。", "kana": "チケットが たかかったから、コンサートに いかなかった。", "romaji": "Chiketto ga takakatta kara, konsāto ni ikanakatta.", "pt": "Como o ingresso estava caro, não fui ao show." },
+        { "jp": "父は びょうきだから、きょうは 私が ばんごはんを 作ります。", "kana": "ちちは びょうきだから、きょうは わたしが ばんごはんを つくります。", "romaji": "Chichi wa byōki da kara, kyō wa watashi ga bangohan o tsukurimasu.", "pt": "Como meu pai está doente, hoje sou eu que vou fazer o jantar." }
+      ],
+      "pitfalls": [
+        "A ordem é o inverso do \"porque\" do português: \"não fui porque estava caro\" = 高かったから、行かなかった. O motivo vem primeiro.",
+        "Substantivo e adjetivo な precisam de だ: びょうきだから (certo) × びょうきから (errado).",
+        "Adjetivo い não leva だ: 高いから (certo) × 高いだから (errado).",
+        "Não confunda com o から de origem: ブラジルから 来ました = vim DO Brasil. O de motivo vem depois de verbo, adjetivo ou だ; o de origem vem direto depois de um substantivo."
+      ],
+      "howToStudy": [
+        "Aperte 🔬 no exemplo 2: o bloco 高かったから aparece como MOTIVO. Leia primeiro o ★ PREDICADO (行かなかった) e só depois pergunte \"por quê?\".",
+        "Pegue 3 frases suas da Aula 06-4 (〜ですから / 〜ますから) e passe o motivo para a forma curta, mantendo o fim educado.",
+        "Fala: responda em voz alta a 3 どうして？ imaginários usando só o motivo + から (どうして 来なかった？— いそがしかったから。)."
+      ],
+      "flag": null
+    }
+  ],
+  "media": [
+    { "order": 1, "kind": "leitura", "title": "Genki I · Lição 9: as explicações de gramática sobre もう～ました / まだ～ていません e ～から, e uma releitura do diálogo inteiro", "where": "Seu livro Genki I (3ª ed.)", "url": "", "when": "Antes desta aula ou logo depois do bloco de gramática" },
+    { "order": 2, "kind": "video", "title": "ToKini Andy: aula da Lição 9 do Genki I (a parte de もう / まだ e から)", "where": "YouTube · canal ToKini Andy", "url": "", "search": "ToKini Andy Genki Lesson 9", "when": "Depois dos pontos 4a–4c" },
+    { "order": 3, "kind": "app", "title": "genki-companion: Lição 9, pontos 5 e 6 (marque ✍️ quando terminar)", "where": "../genki-companion/index.html", "url": "../genki-companion/index.html", "when": "No fim, para revisar e marcar o progresso da Lição 9 inteira" }
+  ],
+  "homework": {
+    "intro": "Faça no caderno, à mão. Só depois abra o gabarito, item por item. Circule o que errou e refaça no dia seguinte. Esta é a última aula da Lição 9: as páginas de kanji do Workbook também entram aqui.",
+    "tasks": [
+      {
+        "id": "h1",
+        "type": "responder",
+        "prompt": "Responda a cada pergunta duas vezes: uma com \"sim, já\" e outra com \"não, ainda não\".",
+        "items": [
+          { "q": "もう ばんごはんを 食べましたか。", "a": { "jp": "はい、もう 食べました。／いいえ、まだ 食べていません。", "kana": "はい、もう たべました。／いいえ、まだ たべていません。", "romaji": "Hai, mō tabemashita. / Iie, mada tabete imasen." } },
+          { "q": "もう しゅくだいを 出しましたか。", "a": { "jp": "はい、もう 出しました。／いいえ、まだ 出していません。", "kana": "はい、もう だしました。／いいえ、まだ だしていません。", "romaji": "Hai, mō dashimashita. / Iie, mada dashite imasen." } },
+          { "q": "しけんは もう おわりましたか。", "a": { "jp": "はい、もう おわりました。／いいえ、まだ おわっていません。", "romaji": "Hai, mō owarimashita. / Iie, mada owatte imasen." } },
+          { "q": "(casual) もう しあい、はじまった？", "a": { "jp": "うん、もう はじまった。／ううん、まだ はじまっていない。", "romaji": "Un, mō hajimatta. / Uun, mada hajimatte inai." }, "note": "No casual, 〜ていません vira 〜ていない." },
+          { "q": "Resposta curta, educada e casual: もう でかけましたか。 (ainda não)", "a": { "jp": "いいえ、まだです。／ううん、まだ。", "romaji": "Iie, mada desu. / Uun, mada." } }
+        ]
+      },
+      {
+        "id": "h2",
+        "type": "corrigir",
+        "prompt": "Cada frase tem um erro. Reescreva certo.",
+        "items": [
+          { "q": "まだ しゅくだいを しませんでした。 (quero dizer: ainda não fiz)", "a": { "jp": "まだ しゅくだいを していません。", "romaji": "Mada shukudai o shite imasen." }, "note": "\"Ainda não\" = まだ + 〜ていません." },
+          { "q": "びょうきから、きょうは 休みます。", "a": { "jp": "びょうきだから、きょうは 休みます。", "kana": "びょうきだから、きょうは やすみます。", "romaji": "Byōki da kara, kyō wa yasumimasu." }, "note": "Substantivo + だ + から." },
+          { "q": "おいしかっただから、また 食べた。", "a": { "jp": "おいしかったから、また 食べた。", "kana": "おいしかったから、また たべた。", "romaji": "Oishikatta kara, mata tabeta." }, "note": "Adjetivo い, no presente ou no passado, vai direto no から." },
+          { "q": "もう ひるごはんを 食べます。 (quero dizer: já almocei)", "a": { "jp": "もう ひるごはんを 食べました。", "kana": "もう ひるごはんを たべました。", "romaji": "Mō hirugohan o tabemashita." }, "note": "\"Já fiz\" pede o verbo no passado." },
+          { "q": "でかけないから、さむい。 (quero dizer: não vou sair porque está frio)", "a": { "jp": "さむいから、でかけない。", "romaji": "Samui kara, dekakenai." }, "note": "O motivo (さむい) vem antes de から; o resultado, no fim." }
+        ]
+      },
+      {
+        "id": "h3",
+        "type": "traduzir",
+        "prompt": "Traduza para o japonês casual, como numa conversa entre amigos.",
+        "items": [
+          { "q": "Já recebeu o ingresso? — Ainda não.", "a": { "jp": "もう チケット、もらった？— ううん、まだ。", "romaji": "Mō chiketto, moratta? — Uun, mada." } },
+          { "q": "Hoje tenho bico, então não vou sair.", "a": { "jp": "きょうは アルバイトが あるから、でかけない。", "romaji": "Kyō wa arubaito ga aru kara, dekakenai." } },
+          { "q": "Por que você não veio? — Porque estava doente.", "a": { "jp": "どうして 来なかった？— びょうきだったから。", "kana": "どうして こなかった？— びょうきだったから。", "romaji": "Dōshite konakatta? — Byōki datta kara." } },
+          { "q": "A Maria ainda não acordou.", "a": { "jp": "マリアさんは まだ おきていない。", "romaji": "Maria-san wa mada okite inai." } },
+          { "q": "Como choveu, o jogo terminou cedo.", "a": { "jp": "雨が ふったから、しあいは はやく おわった。", "kana": "あめが ふったから、しあいは はやく おわった。", "romaji": "Ame ga futta kara, shiai wa hayaku owatta." } }
+        ]
+      },
+      {
+        "id": "h4",
+        "type": "produzir",
+        "prompt": "Escreva uma troca de 6 mensagens, no estilo LINE, entre você e um amigo. Use もう, まだ e から pelo menos uma vez cada, tudo em forma curta. Depois leia em voz alta fazendo as duas vozes.",
+        "items": [
+          { "q": "Modelo, que o seu texto deve seguir na estrutura e não nas palavras:", "a": { "jp": "もう しゅくだい 出した？— ううん、まだ 出していない。— え、どうして？— きのう アルバイトが あったから。— そうか。がんばって！— ありがとう。きょう 書くから、だいじょうぶ！", "kana": "もう しゅくだい だした？— ううん、まだ だしていない。— え、どうして？— きのう アルバイトが あったから。— そうか。がんばって！— ありがとう。きょう かくから、だいじょうぶ！", "romaji": "Mō shukudai dashita? — Uun, mada dashite inai. — E, dōshite? — Kinō arubaito ga atta kara. — Sō ka. Ganbatte! — Arigatō. Kyō kaku kara, daijōbu!", "pt": "Já entregou a lição? — Não, ainda não entreguei. — Ué, por quê? — Porque ontem tive bico. — Entendi. Força! — Valeu. Vou escrever hoje, então tá tranquilo!" }, "note": "Confira: もう com passado, まだ com 〜ていない, o motivo antes de から e nenhum です／ます, porque é conversa entre amigos." }
+        ]
+      }
+    ],
+    "workbook": [
+      { "p": 92, "t": "6 · もう～ました / まだ～ていません", "tip": "Faça depois do ponto 4b." },
+      { "p": 93, "t": "7 · ～から", "tip": "Faça depois do ponto 4c." },
+      { "p": 94, "t": "8 · 答えましょう (Questions)", "tip": "Revisão da lição inteira: faça por último, respondendo com frases suas." },
+      { "p": 95, "t": "9 · 聞く練習 (Listening Comprehension)", "tip": "Precisa do áudio oficial do Workbook." },
+      { "p": 145, "t": "Kanji Practice", "tip": "Leitura e escrita: os kanji da Lição 9. Antes, treine a ordem dos traços em Mirage → Kanji → ✍️ Escrever." },
+      { "p": 146, "t": "Using Kanji", "tip": "Depois da p. 145. Confira no Genki Answer Key oficial." }
+    ]
+  },
+  "practice": [
+    { "tool": "Wagotabi", "what": "Jogue normalmente e cace nos diálogos もう, まだ e から. Para cada から, diga em voz alta qual é o motivo e qual é o resultado. Copie 2 frases no caderno.", "min": 15 },
+    { "tool": "Mirage", "what": "Vocabulário da Lição 9 no SRS. Depois, Praticar L9: compreensão e escuta.", "min": 10 },
+    { "tool": "Kanji", "what": "Mirage → Kanji → ✍️ Escrever: os 15 kanji da Lição 9 (午 後 前 名 白 雨 書 友 間 家 話 少 古 知 来), antes das pp. 145–146 do Workbook.", "min": 10 },
+    { "tool": "Mirage", "what": "Diário: escreva 3 frases sobre hoje, uma com もう, uma com まだ 〜ていない e uma com から. Abra \"Anatomia do que escrevi\" e confira se o bloco com から aparece como MOTIVO.", "min": 5 },
+    { "tool": "Fala", "what": "Leia em voz alta a sua troca de mensagens (lição de casa h4), fazendo as duas vozes, e grave.", "min": 5 }
+  ],
+  "culture": {
+    "title": "LINE e stickers (スタンプ)",
+    "titleJp": "LINEの スタンプ",
+    "body": "No Japão, o aplicativo de mensagens mais usado é o **LINE**, lançado em 2011. É por ele que conversam amigos, famílias, grupos de escola e de trabalho, e muitas lojas também têm conta nele. Uma marca do LINE são as **スタンプ** (sutampu): ilustrações grandes de personagens que fazem o papel de uma frase inteira, como um urso agradecendo ou alguém fazendo reverência. Há stickers grátis, pagos e criados por usuários, e muitos trazem frases prontas em japonês casual, como りょうかい (entendido) ou おつかれ (valeu pelo esforço). O LINE mostra **既読** (きどく, \"lido\") quando a mensagem é aberta; por isso, ler e demorar muito para responder (o 既読スルー) pode incomodar algumas pessoas. Entre amigos, as mensagens usam justamente as formas curtas desta lição: もう 帰った？— まだ。",
+    "try": "Escreva no caderno ou no Diário do Mirage 3 mensagens curtas que você mandaria a um amigo japonês: uma com もう, uma com まだ e uma com から. Se você usa LINE, abra a loja de スタンプ e repare nas frases escritas nos stickers."
+  },
+  "checklist": [
+    "Pergunto e respondo \"já…?\" com もう 〜ましたか / もう 〜ました, sem olhar.",
+    "Digo \"ainda não\" com まだ 〜ていません (e いいえ、まだです), nunca com まだ 〜ませんでした.",
+    "Sei que もう + negativo é \"não … mais\" e que まだ + afirmativo é \"ainda (continua)\".",
+    "Dou motivos com forma curta + から, lembrando do だ com substantivo e adjetivo な.",
+    "Leio frases com から pelo fim: primeiro o resultado, depois o MOTIVO.",
+    "Fiz a lição de casa e conferi o gabarito, e refiz o que errei.",
+    "Fiz as páginas 92–95 e as de kanji, 145–146, do Workbook.",
+    "Escrevo os 15 kanji da Lição 9 na ordem certa dos traços."
+  ]
+}

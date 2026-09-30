@@ -1,0 +1,250 @@
+{
+  "id": "10-3",
+  "unit": "G1-L10",
+  "genki": { "book": "Genki I", "lesson": 10, "points": ["Adjective + なる", "どこかに / どこにも", "で"] },
+  "title": "Mudar · algum lugar · meio",
+  "titleJp": "バスで 一時間 ぐらい かかります",
+  "canDo": [
+    "Dizer que algo mudou: むずかしく なりました, きれいに なりました, はたちに なります.",
+    "Perguntar se alguém foi a algum lugar (どこかに 行きましたか) e responder, inclusive \"não fui a lugar nenhum\" (どこにも 行きませんでした).",
+    "Dizer como vou aos lugares: バスで, 電車で, じてんしゃで, e a pé, あるいて.",
+    "Perguntar e dizer quanto tempo ou dinheiro leva um trajeto: 〜から 〜まで 〜で 〜ぐらい かかります.",
+    "Contar o meu trajeto do dia a dia em 4–5 frases."
+  ],
+  "duration": {
+    "total": "70–90 min",
+    "blocks": [
+      { "t": "Aquecimento: rever なにか / なにも (Aula 08-3) e ler o vocabulário em voz alta", "min": 5 },
+      { "t": "Vocabulário: ouvir 🔊 e repetir, separando transportes, tempo e adjetivos", "min": 10 },
+      { "t": "Sessão 1 · Gramática 4a e 4b (なる; どこかに / どこにも), com um 🔬 em cada", "min": 20 },
+      { "t": "Sessão 2 · Gramática 4c e 4d (で de meio; かかります), com um 🔬 em cada", "min": 15 },
+      { "t": "Vídeo da Lição 10 (bloco 6), a parte de なる, どこか e で", "min": 10 },
+      { "t": "Lição de casa no caderno + conferir no gabarito", "min": 20 },
+      { "t": "Checklist (bloco 10) + anotar dúvidas no caderno da aula", "min": 5 }
+    ]
+  },
+  "prereqs": {
+    "aulas": ["02-2", "03-2", "04-3", "05-2", "08-3", "10-1", "10-2"],
+    "skills": [
+      "Adjetivos い e な e seus passados (Aulas 05-1 e 05-2): なる usa a mesma troca de い por く que você já faz no negativo (さむくない).",
+      "なにか / なにも (Aula 08-3): どこか / どこにも segue a mesma lógica.",
+      "に de destino e で de lugar da ação (Aula 03-2); 〜時間 e ぐらい (Aula 04-3); números e 〜円 (Aula 02-2).",
+      "Esta aula é densa: se preferir, divida em duas sessões, com 4a–4b num dia e 4c–4d no outro."
+    ],
+    "vocab": [
+      { "jp": "なる", "kana": "なる", "romaji": "naru", "pt": "tornar-se, ficar (mudança)" },
+      { "jp": "かかる", "kana": "かかる", "romaji": "kakaru", "pt": "levar (tempo); custar, sair por (dinheiro)" },
+      { "jp": "あるいて", "kana": "あるいて", "romaji": "aruite", "pt": "a pé (forma て de あるく, andar)" },
+      { "jp": "じてんしゃ", "kana": "じてんしゃ", "romaji": "jitensha", "pt": "bicicleta" },
+      { "jp": "車", "kana": "くるま", "romaji": "kuruma", "pt": "carro" },
+      { "jp": "電車", "kana": "でんしゃ", "romaji": "densha", "pt": "trem" },
+      { "jp": "ちかてつ", "kana": "ちかてつ", "romaji": "chikatetsu", "pt": "metrô" },
+      { "jp": "どうやって", "kana": "どうやって", "romaji": "dō yatte", "pt": "como, de que jeito" },
+      { "jp": "どのぐらい", "kana": "どのぐらい", "romaji": "dono gurai", "pt": "quanto tempo; quanto" },
+      { "jp": "〜ぐらい", "kana": "〜ぐらい", "romaji": "gurai", "pt": "mais ou menos, cerca de" },
+      { "jp": "〜から", "kana": "〜から", "romaji": "kara", "pt": "de, desde (ponto de partida)" },
+      { "jp": "〜まで", "kana": "〜まで", "romaji": "made", "pt": "até (ponto de chegada)" },
+      { "jp": "〜時間", "kana": "〜じかん", "romaji": "jikan", "pt": "… hora(s) (duração)" },
+      { "jp": "〜分", "kana": "〜ふん・〜ぷん", "romaji": "fun, pun", "pt": "… minuto(s)" },
+      { "jp": "どこか", "kana": "どこか", "romaji": "dokoka", "pt": "algum lugar" },
+      { "jp": "どこにも", "kana": "どこにも", "romaji": "doko ni mo", "pt": "(a) lugar nenhum (com verbo negativo)" },
+      { "jp": "でかける", "kana": "でかける", "romaji": "dekakeru", "pt": "sair (de casa, para passear)" },
+      { "jp": "はたち", "kana": "はたち", "romaji": "hatachi", "pt": "vinte anos de idade" },
+      { "jp": "えき", "kana": "えき", "romaji": "eki", "pt": "estação" },
+      { "jp": "くうこう", "kana": "くうこう", "romaji": "kūkō", "pt": "aeroporto" },
+      { "jp": "そうじ", "kana": "そうじ", "romaji": "sōji", "pt": "faxina, limpeza (そうじを する)" },
+      { "jp": "むずかしい", "kana": "むずかしい", "romaji": "muzukashii", "pt": "difícil" },
+      { "jp": "きれい(な)", "kana": "きれい(な)", "romaji": "kirei (na)", "pt": "bonito; limpo (é adjetivo な!)" },
+      { "jp": "つめたい", "kana": "つめたい", "romaji": "tsumetai", "pt": "gelado (coisas, bebidas)" },
+      { "jp": "天気", "kana": "てんき", "romaji": "tenki", "pt": "o tempo (clima)" }
+    ]
+  },
+  "grammar": [
+    {
+      "id": "10-3-a",
+      "gc": "10-5",
+      "title": "〜く なる / 〜に なる",
+      "gloss": "ficar, tornar-se (mudança)",
+      "explanation": "**なる** = \"tornar-se, ficar\": indica uma **mudança** de estado. O que muda vem antes de なる, numa forma especial:\n• Adjetivo い: troque o い final por **く**: さむい → **さむく なる** (\"esfriar, ficar frio\"). Atenção: いい → **よく なる** (\"melhorar\").\n• Adjetivo な: tire o な e ponha **に**: きれい(な) → **きれいに なる** (\"ficar limpo, ficar bonito\").\n• Substantivo + **に**: 先生 → **先生に なる** (\"virar professor\"); はる → **はるに なる** (\"chegar a primavera\").\nNos blocos da frase: quem muda é o **SUJEITO**, com が (ou は, se for o tópico), e o bloco 〜く / 〜に + なる é o **PREDICADO**.\n• なる é um verbo う: なります, なりました, なりません, なって…\n• Em geral se fala de uma mudança que já aconteceu, então o passado 〜く なりました / 〜に なりました (\"ficou…\") é muito comum.\n• Junta bem com a Aula 10-1: 前より 〜く なりました (\"ficou mais… do que antes\").",
+      "structure": "[adjetivo い → く] なる · [adjetivo な → に] なる · [substantivo] に なる",
+      "examples": [
+        { "jp": "日本語の べんきょうは むずかしく なりましたが、おもしろいです。", "kana": "にほんごの べんきょうは むずかしく なりましたが、おもしろいです。", "romaji": "Nihongo no benkyō wa muzukashiku narimashita ga, omoshiroi desu.", "pt": "O estudo de japonês ficou mais difícil, mas é interessante." },
+        { "jp": "そうじを して、へやが きれいに なりました。", "kana": "そうじを して、へやが きれいに なりました。", "romaji": "Sōji o shite, heya ga kirei ni narimashita.", "pt": "Fiz faxina, e o quarto ficou limpo." },
+        { "jp": "おとうとは 来年 はたちに なります。", "kana": "おとうとは らいねん はたちに なります。", "romaji": "Otōto wa rainen hatachi ni narimasu.", "pt": "Meu irmão mais novo faz vinte anos no ano que vem." }
+      ],
+      "pitfalls": [
+        "Adjetivo な e substantivo usam に, não く: ✓ げんきに なる (✗ げんきく なる); ✓ 先生に なる (✗ 先生く なる).",
+        "いい vira よく: ✓ 天気が よく なりました (✗ いく なりました).",
+        "きれい é adjetivo な, apesar de terminar em い: ✓ きれいに なる (✗ きれく なる). O mesmo vale para ゆうめい: ゆうめいに なる.",
+        "\"Ficar\" em português tem vários sentidos. なる é só o \"ficar\" de mudar. \"Ficar em casa\" (permanecer) é ✓ うちに います (✗ うちに なります)."
+      ],
+      "howToStudy": [
+        "Pense em 5 mudanças da sua vida (o tempo, o seu japonês, a sua cidade, a sua idade, o seu quarto) e diga cada uma com なりました: pelo menos um adjetivo い, um な e um substantivo.",
+        "Aperte 🔬 em そうじを して、へやが きれいに なりました。: そうじを して aparece como LIGA (E…), へやが é o SUJEITO (o que mudou) e きれいに なりました é o PREDICADO.",
+        "No caderno, faça uma tabela com 3 colunas (い / な / substantivo) e escreva 4 palavras em cada, já na forma com なる."
+      ],
+      "flag": null
+    },
+    {
+      "id": "10-3-b",
+      "gc": "10-6",
+      "title": "どこかに / どこにも",
+      "gloss": "a algum lugar / a lugar nenhum",
+      "explanation": "Lembra de **なにか** (\"algo\") e **なにも** + negativa (\"nada\"), da Aula 08-3? Com どこ (\"onde\") a lógica é a mesma:\n• palavra interrogativa + **か** = \"algum\": なにか (algo), **どこか** (algum lugar), だれか (alguém).\n• palavra interrogativa + **も** + verbo **negativo** = \"nenhum\": なにも (nada), **どこにも** (lugar nenhum), だれも (ninguém).\nA diferença está na partícula:\n• を e が caem antes de も: なにを + も → なにも. Por isso você nunca viu なにをも.\n• に **não cai**: fica entre どこ e も → **どこにも** 行きません.\n• Com か, a partícula vem depois: **どこかに** 行きます, **どこかで** 食べます. Na fala, o に de どこかに às vezes cai: どこか 行きましたか。\nAtenção à pergunta: **どこかに 行きましたか。** é de **sim ou não** (\"foi a algum lugar?\"). Já **どこに 行きましたか。** pergunta **onde**. Responda a primeira com はい、〜に 行きました ou いいえ、どこにも 行きませんでした.",
+      "structure": "どこかに [verbo] · どこにも [verbo negativo]",
+      "examples": [
+        { "jp": "こんどの 土曜日、どこかに 行きませんか。", "kana": "こんどの どようび、どこかに いきませんか。", "romaji": "Kondo no doyōbi, dokoka ni ikimasen ka.", "pt": "Neste sábado, não quer ir a algum lugar?" },
+        { "jp": "日曜日は どこにも でかけませんでした。うちで 本を 読んでいました。", "kana": "にちようびは どこにも でかけませんでした。うちで ほんを よんでいました。", "romaji": "Nichiyōbi wa doko ni mo dekakemasen deshita. Uchi de hon o yonde imashita.", "pt": "No domingo não saí para lugar nenhum. Fiquei em casa lendo." },
+        { "jp": "あついですね。どこかで つめたい ものを 飲みましょう。", "kana": "あついですね。どこかで つめたい ものを のみましょう。", "romaji": "Atsui desu ne. Dokoka de tsumetai mono o nomimashō.", "pt": "Que calor, né? Vamos beber algo gelado em algum lugar." }
+      ],
+      "pitfalls": [
+        "どこにも exige verbo negativo: ✓ どこにも 行きません (✗ どこにも 行きます).",
+        "Não esqueça o に antes do も: ✓ どこにも 行きません. Sem ele, どこも costuma ter outro sentido: どこも 高いです = \"todo lugar é caro\".",
+        "Responda primeiro o sim ou o não: ✓ はい、リオに 行きました。 (✗ só リオです: isso responde a outra pergunta, どこに 行きましたか)."
+      ],
+      "howToStudy": [
+        "Faça em voz alta a série completa, com uma frase curta para cada: なにか / なにも, だれか / だれも, どこかに / どこにも.",
+        "Aperte 🔬 em 日曜日は どこにも でかけませんでした。: どこにも aparece como NADA / NINGUÉM. Confira que o PREDICADO está no negativo; sem isso, どこにも não funciona.",
+        "Fala: pergunte a si mesmo きのう どこかに 行きましたか。 e しゅうまつ どこかに 行きましたか。 e responda uma vez com はい e outra com いいえ、どこにも…"
+      ],
+      "flag": null
+    },
+    {
+      "id": "10-3-c",
+      "gc": "10-7",
+      "title": "で: meio de transporte",
+      "gloss": "de ônibus, de trem, a pé",
+      "explanation": "Você já conhece で como **lugar da ação** (Aula 03-2: としょかんで べんきょうします). Ele também marca o **meio**: \"com o quê, de que jeito\". Em português dizemos \"de ônibus\", \"de trem\"; em japonês, **バスで**, **電車で**.\n• Transporte: [meio] で [destino] に 行きます / 来ます / 帰ります: じてんしゃで 大学に 行きます。\n• Ferramenta e língua também: はしで 食べます (\"comer de hashi\"), 日本語で 話します (\"falar em japonês\").\n• **\"A pé\" é あるいて**, a forma て de あるく (\"andar\"), e vem **sem で**: えきまで あるいて 行きます. Não diga あしで: seria \"usando o pé\", como se ele fosse uma ferramenta.\n• Para perguntar \"como?\": **どうやって** 行きますか。 (\"de que jeito\"). Você pode ouvir 何で 行きますか, mas 何で também pode ser lido なんで, que na fala quer dizer \"por quê?\". どうやって é mais claro.\nNos blocos: o bloco com で é o **MEIO**, o bloco com に é o **DESTINO** e o verbo de movimento é o **PREDICADO**, no fim. Os blocos com partícula podem trocar de lugar; o verbo, não.",
+      "structure": "[meio] で [destino] に 行きます · あるいて 行きます (sem で)",
+      "examples": [
+        { "jp": "毎日 ちかてつで 会社に 行きます。", "kana": "まいにち ちかてつで かいしゃに いきます。", "romaji": "Mainichi chikatetsu de kaisha ni ikimasu.", "pt": "Todo dia vou para o trabalho de metrô." },
+        { "jp": "今日は 雨ですから、じてんしゃで 行きません。あるいて 行きます。", "kana": "きょうは あめですから、じてんしゃで いきません。あるいて いきます。", "romaji": "Kyō wa ame desu kara, jitensha de ikimasen. Aruite ikimasu.", "pt": "Hoje está chovendo, então não vou de bicicleta. Vou a pé." },
+        { "jp": "マリアさんは どうやって 大学に 来ますか。— バスで 来ます。", "kana": "マリアさんは どうやって だいがくに きますか。— バスで きます。", "romaji": "Maria-san wa dō yatte daigaku ni kimasu ka. — Basu de kimasu.", "pt": "Como a Maria vem para a faculdade? — Ela vem de ônibus." }
+      ],
+      "pitfalls": [
+        "A pé = あるいて, sem で: ✓ あるいて 行きます (✗ あしで 行きます, ✗ あるいてで 行きます).",
+        "Os dois で: ✓ 電車で 行きます (MEIO) × ✓ えきで まちます (LUGAR DA AÇÃO). Um trem é meio; uma estação é lugar. Quem decide é a palavra que vem antes do で.",
+        "Nem todo \"de\" do português é で: \"vim de São Paulo\" é ✓ サンパウロから 来ました (✗ サンパウロで 来ました). で é o meio; から é a origem.",
+        "Para perguntar o meio: ✓ どうやって 行きますか (✗ どこで 行きますか, que perguntaria \"em que lugar\")."
+      ],
+      "howToStudy": [
+        "Diga como você vai a 5 lugares da sua rotina (trabalho, faculdade, mercado, casa de um amigo, centro): 〜で 〜に 行きます, com pelo menos um あるいて.",
+        "Aperte 🔬 em 毎日 ちかてつで 会社に 行きます。: ちかてつで aparece como MEIO e 会社に como DESTINO. Depois cole としょかんで べんきょうします。 em 🔬 Analisar e veja o で virar LUGAR DA AÇÃO.",
+        "No caderno, desenhe o seu trajeto de casa até um lugar e escreva cada trecho em japonês: 〜まで あるいて, 〜から 〜まで 〜で…"
+      ],
+      "flag": null
+    },
+    {
+      "id": "10-3-d",
+      "title": "〜かかります",
+      "gloss": "leva (tempo) / custa (dinheiro)",
+      "explanation": "**かかる** quer dizer \"levar\" (tempo) ou \"custar, sair por\" (dinheiro), no sentido de \"é preciso\". A **quantidade** vem **logo antes do verbo, sem partícula**:\n[A] から [B] まで [meio] で [quantidade] (ぐらい) かかります。\n• **から** = \"de\" (ponto de partida); **まで** = \"até\" (ponto de chegada).\n• **ぐらい** = \"mais ou menos, cerca de\", logo depois da quantidade: 一時間 ぐらい (\"uma hora, mais ou menos\").\n• Tempo: 〜分 (ふん / ぷん, minutos), 〜時間 (じかん, horas). Dinheiro: 〜円.\n• Para perguntar: **どのぐらい** かかりますか (\"quanto tempo leva?\"); para dinheiro, **いくら** かかりますか.\n• Nos blocos: から = DE / DESDE, まで = ATÉ, で = MEIO, o número = QUANTIDADE e かかります = PREDICADO. Quem fica no fim é sempre かかります.\n• かかる é um verbo う: かかります, かかりました, かかりません.",
+      "structure": "[A] から [B] まで [meio] で [quantidade] ぐらい かかります。 · どのぐらい かかりますか。",
+      "examples": [
+        { "jp": "うちから 大学まで バスで 四十分 ぐらい かかります。", "kana": "うちから だいがくまで バスで よんじゅっぷん ぐらい かかります。", "romaji": "Uchi kara daigaku made basu de yonjuppun gurai kakarimasu.", "pt": "De casa até a faculdade, de ônibus, leva uns 40 minutos." },
+        { "jp": "東京から きょうとまで しんかんせんで どのぐらい かかりますか。— 二時間 ぐらい かかります。", "kana": "とうきょうから きょうとまで しんかんせんで どのぐらい かかりますか。— にじかん ぐらい かかります。", "romaji": "Tōkyō kara Kyōto made shinkansen de dono gurai kakarimasu ka. — Nijikan gurai kakarimasu.", "pt": "Quanto tempo leva de Tóquio a Kyoto de trem-bala? — Umas duas horas." },
+        { "jp": "タクシーで 行きましたから、三千円 かかりました。", "kana": "タクシーで いきましたから、さんぜんえん かかりました。", "romaji": "Takushī de ikimashita kara, sanzen'en kakarimashita.", "pt": "Fui de táxi, então saiu por 3.000 ienes." }
+      ],
+      "pitfalls": [
+        "A quantidade vai sem partícula, direto antes do verbo: ✓ 二時間 かかります (✗ 二時間を かかります, ✗ 二時間に かかります).",
+        "ぐらい vem depois do número: ✓ 三十分 ぐらい (✗ ぐらい 三十分).",
+        "O \"levar\" do português tem dois sentidos: levar tempo = ✓ 一時間 かかります; levar um objeto = ✓ かさを 持って 行きます (✗ かさを かかります).",
+        "Preço de produto na loja continua sendo 〜です: ✓ この シャツは 三千円です (✗ この シャツは 三千円 かかります, que soa estranho). かかります é para o custo de algo que se faz: o táxi, a viagem."
+      ],
+      "howToStudy": [
+        "Descreva 3 trajetos seus com a fórmula completa: 〜から 〜まで 〜で 〜ぐらい かかります。",
+        "🧱 Anatomia → Montar de trás pra frente com a pergunta de Tóquio a Kyoto: comece em かかりますか, ponha どのぐらい, depois しんかんせんで, きょうとまで e, por último, 東京から.",
+        "Fala: abra o mapa do celular, veja quanto tempo leva de trem entre duas estações de Tóquio e diga o resultado em voz alta, arredondando com ぐらい."
+      ],
+      "flag": null
+    }
+  ],
+  "media": [
+    { "order": 1, "kind": "leitura", "title": "Genki I · Lição 10: as explicações de gramática 5 a 7 (Adjective + なる; どこかに / どこにも; で) e o vocabulário de transportes", "where": "Seu livro Genki I (3ª ed.)", "url": "", "when": "Antes desta aula ou logo depois do bloco de gramática" },
+    { "order": 2, "kind": "video", "title": "ToKini Andy: aula da Lição 10 do Genki I (a parte de なる, どこか / どこにも e で)", "where": "YouTube · canal ToKini Andy", "url": "", "search": "ToKini Andy Genki Lesson 10", "when": "Depois da sessão 2, para rever os 4 pontos de uma vez" },
+    { "order": 3, "kind": "video", "title": "Game Gengo: explicação de 〜く なる / 〜に なる (nível N5)", "where": "YouTube · canal Game Gengo", "url": "", "search": "Game Gengo くなる になる JLPT N5", "when": "Opcional, se a troca い → く / な → に ainda travar" },
+    { "order": 4, "kind": "app", "title": "genki-companion: Lição 10, pontos 5 a 7 (marque ✍️ quando terminar)", "where": "../genki-companion/index.html", "url": "../genki-companion/index.html", "when": "No fim, para revisar e marcar o progresso" }
+  ],
+  "homework": {
+    "intro": "Faça no caderno, à mão. Escreva o japonês em kana (use kanji só nas palavras que você já sabe escrever). Só depois abra o gabarito, item por item. Circule o que errou e refaça no dia seguinte.",
+    "tasks": [
+      {
+        "id": "h1",
+        "type": "transformar",
+        "prompt": "Transforme em mudança no passado (\"ficou…\", \"virou…\") com なりました.",
+        "items": [
+          { "q": "あたたかい", "a": { "jp": "あたたかく なりました。", "romaji": "Atatakaku narimashita." } },
+          { "q": "しずか(な)", "a": { "jp": "しずかに なりました。", "romaji": "Shizuka ni narimashita." } },
+          { "q": "天気が いい", "a": { "jp": "天気が よく なりました。", "kana": "てんきが よく なりました。", "romaji": "Tenki ga yoku narimashita." }, "note": "いい → よく." },
+          { "q": "おとうとは + 大学生", "a": { "jp": "おとうとは 大学生に なりました。", "kana": "おとうとは だいがくせいに なりました。", "romaji": "Otōto wa daigakusei ni narimashita." }, "note": "Substantivo + に なる." },
+          { "q": "町が + きれい", "a": { "jp": "町が きれいに なりました。", "kana": "まちが きれいに なりました。", "romaji": "Machi ga kirei ni narimashita." }, "note": "きれい é adjetivo な: きれいに, nunca きれく." },
+          { "q": "かみが + 長い", "a": { "jp": "かみが 長く なりました。", "kana": "かみが ながく なりました。", "romaji": "Kami ga nagaku narimashita." }, "note": "長 é um kanji da Lição 10." }
+        ]
+      },
+      {
+        "id": "h2",
+        "type": "completar",
+        "prompt": "Complete com どこかに, どこにも, なにか, で ou あるいて.",
+        "items": [
+          { "q": "しゅうまつ、＿＿ 行きましたか。— はい、うみに 行きました。", "a": { "jp": "どこかに", "romaji": "dokoka ni" }, "note": "Pergunta de sim ou não: \"foi a algum lugar?\"" },
+          { "q": "きのうは いそがしかったですから、＿＿ 行きませんでした。", "a": { "jp": "どこにも", "romaji": "doko ni mo" }, "note": "Verbo negativo → どこにも." },
+          { "q": "パーティーで ＿＿ 食べましたか。— いいえ、なにも 食べませんでした。", "a": { "jp": "なにか", "romaji": "nanika" }, "note": "Mesma lógica: なにか na pergunta, なにも + negativa na resposta." },
+          { "q": "こんどの 休みは ＿＿ 行かない つもりです。うちで ゆっくり します。", "a": { "jp": "どこにも", "romaji": "doko ni mo" }, "note": "Junta com a Aula 10-2: 行かない つもり também é negativo, então どこにも funciona." },
+          { "q": "うちから えきまで ＿＿ 行きます。(a pé)", "a": { "jp": "あるいて", "romaji": "aruite" }, "note": "Sem で." },
+          { "q": "先生と 日本語＿ 話しました。", "a": { "jp": "で", "romaji": "de" }, "note": "で também marca a língua usada." }
+        ]
+      },
+      {
+        "id": "h3",
+        "type": "ordenar",
+        "prompt": "Ponha os blocos na ordem. Comece pelo fim: ache o verbo, que vai por último, e depois monte o resto.",
+        "items": [
+          { "q": "(Leva uns 15 minutos de bicicleta de casa até a estação.) かかります / じてんしゃで / うちから / 十五分 ぐらい / えきまで", "a": { "jp": "うちから えきまで じてんしゃで 十五分 ぐらい かかります。", "kana": "うちから えきまで じてんしゃで じゅうごふん ぐらい かかります。", "romaji": "Uchi kara eki made jitensha de jūgofun gurai kakarimasu." }, "note": "Ordem mais comum: de onde → até onde → meio → quantidade → かかります." },
+          { "q": "(Vou para o aeroporto de táxi.) 行きます / くうこうに / タクシーで", "a": { "jp": "タクシーで くうこうに 行きます。", "kana": "タクシーで くうこうに いきます。", "romaji": "Takushī de kūkō ni ikimasu." }, "note": "くうこうに タクシーで 行きます também está certo: os blocos com partícula podem trocar de lugar; o verbo, não." },
+          { "q": "(Quanto sai de táxi daqui até o hotel?) いくら / ホテルまで / かかりますか / ここから / タクシーで", "a": { "jp": "ここから ホテルまで タクシーで いくら かかりますか。", "romaji": "Koko kara hoteru made takushī de ikura kakarimasu ka." } },
+          { "q": "(Ontem não fui a lugar nenhum.) 行きませんでした / きのうは / どこにも", "a": { "jp": "きのうは どこにも 行きませんでした。", "kana": "きのうは どこにも いきませんでした。", "romaji": "Kinō wa doko ni mo ikimasen deshita." } },
+          { "q": "(A Ana sarou.) なりました / アナさんは / げんきに", "a": { "jp": "アナさんは げんきに なりました。", "romaji": "Ana-san wa genki ni narimashita." }, "note": "げんき é adjetivo な: げんきに なる = ficar bem, sarar." }
+        ]
+      },
+      {
+        "id": "h4",
+        "type": "produzir",
+        "prompt": "Escreva 5–6 frases sobre o seu trajeto de casa até o trabalho ou a faculdade: como você vai (で / あるいて), de onde até onde (から / まで), quanto tempo leva (かかります), 1 frase com なりました e 1 com どこかに ou どこにも. Depois leia em voz alta e grave.",
+        "items": [
+          { "q": "Modelo, que o seu texto deve seguir na estrutura e não nas palavras:", "a": { "jp": "わたしは 毎日 大学に 行きます。うちから えきまで あるいて 行きます。五分 ぐらい かかります。えきから 大学まで 電車で 三十分 ぐらい かかります。日本語の べんきょうが たのしく なりました。でも、しゅうまつは しゅくだいが たくさん ありますから、どこにも 行きません。", "kana": "わたしは まいにち だいがくに いきます。うちから えきまで あるいて いきます。ごふん ぐらい かかります。えきから だいがくまで でんしゃで さんじゅっぷん ぐらい かかります。にほんごの べんきょうが たのしく なりました。でも、しゅうまつは しゅくだいが たくさん ありますから、どこにも いきません。", "romaji": "Watashi wa mainichi daigaku ni ikimasu. Uchi kara eki made aruite ikimasu. Gofun gurai kakarimasu. Eki kara daigaku made densha de sanjuppun gurai kakarimasu. Nihongo no benkyō ga tanoshiku narimashita. Demo, shūmatsu wa shukudai ga takusan arimasu kara, doko ni mo ikimasen.", "pt": "Vou à faculdade todo dia. De casa até a estação, vou a pé. Leva uns 5 minutos. Da estação até a faculdade, de trem, leva uns 30 minutos. O estudo de japonês ficou divertido. Mas, no fim de semana, como tenho muita lição, não vou a lugar nenhum." }, "note": "Confira: で no meio de transporte e あるいて sem で; a quantidade sem partícula antes de かかります; く ou に antes de なりました; どこにも só com verbo negativo." }
+        ]
+      }
+    ],
+    "workbook": [
+      { "p": 100, "t": "5 · Adjective + なる", "tip": "Faça depois do ponto 4a." },
+      { "p": 101, "t": "6 · どこかに / どこにも・～で行きます", "tip": "Faça depois dos pontos 4b e 4c." },
+      { "p": 102, "t": "7 · 答えましょう (Questions)", "tip": "Revisão da lição inteira: faça depois das 3 aulas da Lição 10." },
+      { "p": 103, "t": "8 · 聞く練習 (Listening Comprehension)", "tip": "Precisa do áudio do Workbook. Faça por último, quando o resto estiver seguro." },
+      { "p": 147, "t": "Kanji Practice", "tip": "Kanji da Lição 10: treine antes a ordem dos traços no Mirage (Kanji → ✍️ Escrever)." },
+      { "p": 148, "t": "Using Kanji", "tip": "Faça depois da p. 147. Confira no Genki Answer Key oficial." }
+    ]
+  },
+  "practice": [
+    { "tool": "Wagotabi", "what": "Jogue normalmente e cace três coisas nos diálogos: なる (〜く なりました, 〜に なりました), どこか / どこにも e um で depois de um meio de transporte ou de uma língua. Quando achar, pause e diga o que mudou, ou qual é o meio. Registre em Imersão → Jogos e cole a frase na Anatomia.", "min": 15 },
+    { "tool": "Mirage", "what": "Praticar L10: agora que você viu os 7 pontos da lição, faça uma rodada completa. Depois, SRS da Lição 10 (ou o baralho 🌊 Tudo).", "min": 10 },
+    { "tool": "Kanji", "what": "Mirage → Kanji → ✍️ Escrever: os kanji da Lição 10 (住 正 年 売 買 町 長 道 雪 立 自 夜 朝 持), antes das pp. 147–148 do Workbook.", "min": 10 },
+    { "tool": "Shadowing", "what": "Toque 🔊 nos exemplos de かかります e repita junto 3 vezes: é o tipo de frase que você mais vai ouvir numa estação.", "min": 5 },
+    { "tool": "Fala", "what": "Grave o seu trajeto (lição de casa h4) em até 45 s, sem ler. Ouça e confira os で, o あるいて e os かかります.", "min": 5 }
+  ],
+  "culture": {
+    "title": "Endereços japoneses (quarteirões numerados)",
+    "titleJp": "じゅうしょ",
+    "body": "No Brasil, o endereço é **rua + número**. No Japão, na maioria das cidades, ele não usa o nome da rua, e muitas ruas nem têm nome. O endereço vai **do maior para o menor**: província, cidade, bairro (町) e, dentro do bairro, três números: o **丁目** (ちょうめ, uma subdivisão do bairro), o **番** (ばん, que em geral corresponde a um quarteirão) e o **号** (ごう, o prédio dentro do quarteirão). Por isso um endereço como 2丁目5番3号 costuma aparecer escrito só como 2-5-3. Como a numeração nem sempre segue a ordem da rua, é comum usar o mapa do celular ou pedir ajuda num **こうばん** (交番), o posto policial de bairro, que tem mapas da região. Em Kyoto e em algumas outras cidades, nomes de ruas também costumam aparecer no endereço.",
+    "try": "Num mapa online, procure o endereço de uma estação ou de um hotel em Tóquio e ache o 丁目, o 番 e o 号. Depois diga como iria da estação mais próxima até lá: えきから あるいて 〜分 ぐらい かかります。"
+  },
+  "checklist": [
+    "Digo mudanças com なる, sem olhar: 〜く なりました (い, com いい → よく) e 〜に なりました (な e substantivo, com きれい → きれいに).",
+    "Uso どこかに em perguntas e afirmações, e どこにも só com verbo negativo.",
+    "Respondo a どこかに 〜か com はい ou いいえ primeiro.",
+    "Digo como vou aos lugares com 〜で, e a pé com あるいて, sem で.",
+    "Digo e pergunto quanto tempo ou dinheiro leva: 〜から 〜まで 〜ぐらい かかります / どのぐらい かかりますか.",
+    "Escrevo os kanji da Lição 10 na ordem certa dos traços.",
+    "Fiz a lição de casa e conferi o gabarito, e refiz o que errei.",
+    "Fiz as páginas 100–103 e 147–148 do Workbook."
+  ]
+}

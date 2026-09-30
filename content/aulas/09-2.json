@@ -1,0 +1,217 @@
+{
+  "id": "09-2",
+  "unit": "G1-L09",
+  "genki": { "book": "Genki I", "lesson": 9, "points": ["Qualifying Nouns with Verbs"] },
+  "title": "Frases que descrevem substantivos",
+  "titleJp": "ぼうしを かぶっている 人は だれ？",
+  "canDo": [
+    "Descrever uma pessoa pelo que ela está fazendo ou vestindo (あかい ぼうしを かぶっている 人) e perguntar quem é.",
+    "Falar de coisas e lugares pelo que aconteceu com eles: 母が 作った ケーキ, せんしゅう 行った レストラン.",
+    "Montar um substantivo descrito a partir do português: achar o núcleo, colocá-lo no fim e toda a descrição antes dele.",
+    "Desmontar uma frase japonesa longa: achar o ★ predicado, o núcleo e a descrição que vem colada nele.",
+    "Usar が (e não は) para o sujeito que fica dentro da descrição."
+  ],
+  "duration": {
+    "total": "70–90 min",
+    "blocks": [
+      { "t": "Aquecimento: 5 frases com 〜ている da Aula 07-1 em voz alta (ぼうしを かぶっています, 本を 読んでいます…)", "min": 5 },
+      { "t": "Vocabulário: ouvir 🔊 cada palavra e repetir 2 vezes", "min": 10 },
+      { "t": "Gramática 4a: a descrição vem antes do substantivo, com os exemplos em voz alta", "min": 15 },
+      { "t": "Gramática 4b: が dentro da descrição, com um 🔬 em cada exemplo", "min": 10 },
+      { "t": "Gramática 4c: montar e desmontar no caderno, passo a passo", "min": 15 },
+      { "t": "Vídeo (bloco 6): a parte das orações que descrevem substantivos", "min": 10 },
+      { "t": "Lição de casa no caderno + conferir no gabarito (se dividir a aula, 4a–4b + h1 numa sessão; 4c + h2–h4 na outra)", "min": 20 },
+      { "t": "Checklist (bloco 10) + anotar dúvidas no caderno da aula", "min": 5 }
+    ]
+  },
+  "prereqs": {
+    "aulas": ["01-1", "05-1", "07-1", "08-1", "09-1"],
+    "skills": [
+      "Formas curtas do presente e do passado (Aulas 08-1 e 09-1): só forma curta entra antes do substantivo.",
+      "〜ている para ação em andamento e para estado (Aula 07-1), inclusive roupas e acessórios: めがねを かけている, ぼうしを かぶっている.",
+      "Adjetivo + substantivo (Aula 05-1): 高い 本. A lógica desta aula é a mesma, só que o \"adjetivo\" agora é uma frase inteira.",
+      "N₁ の N₂ (Aula 01-1): o que descreve vem antes, e o núcleo fica no fim."
+    ],
+    "vocab": [
+      { "jp": "人", "kana": "ひと", "romaji": "hito", "pt": "pessoa" },
+      { "jp": "めがね", "kana": "めがね", "romaji": "megane", "pt": "óculos" },
+      { "jp": "かける", "kana": "かける", "romaji": "kakeru", "pt": "pôr (óculos): めがねを かける" },
+      { "jp": "ぼうし", "kana": "ぼうし", "romaji": "bōshi", "pt": "chapéu, boné" },
+      { "jp": "かぶる", "kana": "かぶる", "romaji": "kaburu", "pt": "pôr (algo na cabeça): ぼうしを かぶる" },
+      { "jp": "シャツ", "kana": "シャツ", "romaji": "shatsu", "pt": "camisa" },
+      { "jp": "きる", "kana": "きる", "romaji": "kiru", "pt": "vestir (roupa da cintura para cima)" },
+      { "jp": "くつ", "kana": "くつ", "romaji": "kutsu", "pt": "sapato" },
+      { "jp": "はく", "kana": "はく", "romaji": "haku", "pt": "calçar; vestir (da cintura para baixo)" },
+      { "jp": "あかい", "kana": "あかい", "romaji": "akai", "pt": "vermelho" },
+      { "jp": "白い", "kana": "しろい", "romaji": "shiroi", "pt": "branco" },
+      { "jp": "くろい", "kana": "くろい", "romaji": "kuroi", "pt": "preto" },
+      { "jp": "すむ", "kana": "すむ", "romaji": "sumu", "pt": "morar: 〜に すんでいる (moro em…)" },
+      { "jp": "まち", "kana": "まち", "romaji": "machi", "pt": "cidade, bairro" },
+      { "jp": "作る", "kana": "つくる", "romaji": "tsukuru", "pt": "fazer, preparar" },
+      { "jp": "もらう", "kana": "もらう", "romaji": "morau", "pt": "receber, ganhar (de alguém)" },
+      { "jp": "プレゼント", "kana": "プレゼント", "romaji": "purezento", "pt": "presente" },
+      { "jp": "さくぶん", "kana": "さくぶん", "romaji": "sakubun", "pt": "redação" },
+      { "jp": "はし", "kana": "はし", "romaji": "hashi", "pt": "ponte" },
+      { "jp": "わたる", "kana": "わたる", "romaji": "wataru", "pt": "atravessar (rua, ponte): はしを わたる" },
+      { "jp": "こうばん", "kana": "こうばん", "romaji": "kōban", "pt": "posto policial de bairro" },
+      { "jp": "こうさてん", "kana": "こうさてん", "romaji": "kōsaten", "pt": "cruzamento" },
+      { "jp": "ところ", "kana": "ところ", "romaji": "tokoro", "pt": "lugar, ponto" }
+    ]
+  },
+  "grammar": [
+    {
+      "id": "09-2-a",
+      "gc": "9-4",
+      "title": "Oração + substantivo",
+      "gloss": "a descrição inteira vem ANTES do substantivo",
+      "explanation": "Em português, a descrição vem **depois** do substantivo e começa com \"que\": \"o presente **que ganhei**\", \"a pessoa **que está de boné**\". Em japonês é o contrário: a descrição inteira vem **antes** do substantivo, e **não existe palavra para \"que\"**. O último verbo da descrição encosta direto no substantivo.\n• もらった + プレゼント → もらった プレゼント (o presente que ganhei)\n• ぼうしを かぶっている + 人 → ぼうしを かぶっている 人 (a pessoa que está de boné)\n• Dentro da descrição só entra **forma curta**: 見る, 見た, 見ない, 見なかった, 見ている.\n• É a mesma posição do adjetivo e do N の: 高い レストラン, サンパウロの レストラン, せんしゅう 行った レストラン. Tudo o que descreve fica à esquerda; o **núcleo** (a coisa de que se fala) fica no fim.\n• O bloco inteiro funciona como **um substantivo só**: pode levar は, を, に ou vir antes de です.\n• Para roupas e acessórios que a pessoa está usando, use 〜ている: めがねを かけている 人 é \"a pessoa de óculos\".",
+      "structure": "[descrição em forma curta] [núcleo] — o núcleo fica no FIM do bloco",
+      "examples": [
+        { "jp": "あかい ぼうしを かぶっている 人は だれですか。", "kana": "あかい ぼうしを かぶっている ひとは だれですか。", "romaji": "Akai bōshi o kabutte iru hito wa dare desu ka.", "pt": "Quem é a pessoa que está de boné vermelho?" },
+        { "jp": "これは たんじょうびに もらった プレゼントです。", "kana": "これは たんじょうびに もらった プレゼントです。", "romaji": "Kore wa tanjōbi ni moratta purezento desu.", "pt": "Isto é o presente que ganhei no aniversário." },
+        { "jp": "せんしゅう 行った レストランは 高かったです。", "kana": "せんしゅう いった レストランは たかかったです。", "romaji": "Senshū itta resutoran wa takakatta desu.", "pt": "O restaurante aonde fui semana passada era caro." }
+      ],
+      "pitfalls": [
+        "Nada de の entre o verbo e o substantivo: もらった プレゼント (certo) × もらったの プレゼント (errado). O の é só entre dois substantivos.",
+        "Não deixe a descrição depois do substantivo, como no português: ぼうしを かぶっている 人 (certo) × 人 ぼうしを かぶっている (errado).",
+        "Nada de です／ます dentro da descrição: もらった プレゼント (certo) × もらいました プレゼント (errado). です／ます só no fim da frase inteira.",
+        "Roupa no corpo pede 〜ている: めがねを かけている 人 é \"a pessoa de óculos\"; めがねを かける 人 seria \"a pessoa que (costuma ou vai) pôr óculos\"."
+      ],
+      "howToStudy": [
+        "Cubra o substantivo do fim de cada exemplo e pergunte \"qual?\". A resposta é tudo o que está à esquerda dele.",
+        "Aperte 🔬: o verbo colado no substantivo aparece como DESCREVE O PRÓXIMO, o mesmo rótulo de あかい e de N の. Os blocos com を ou に antes dele (ぼうしを, たんじょうびに) pertencem à descrição: no caderno, ponha colchetes do começo dela até esse verbo.",
+        "Fala: descreva em voz alta 5 pessoas ao seu redor ou numa foto: [roupa]を [verbo]ている 人が います。"
+      ],
+      "flag": null
+    },
+    {
+      "id": "09-2-b",
+      "gc": null,
+      "title": "Dentro da descrição, sujeito com が",
+      "gloss": "が fica dentro; は fica fora",
+      "explanation": "Quando a descrição tem um sujeito próprio (quem fez, quem mora), ele leva **が**, não は. O は marca o assunto da **frase inteira**; dentro de um bloco que só descreve um substantivo, o sujeito vai com が.\n• Frase inteira: 母**は** ケーキを 作りました。 (A mãe fez um bolo.)\n• Virando descrição de ケーキ: 母**が** 作った ケーキ (o bolo que a mãe fez). O は virou が, o ケーキ foi para o fim e o を dele sumiu.\n• A frase grande pode ter o seu próprio は, fora da descrição: 母が 作った ケーキ**は** おいしかったです。 Esse は marca o bloco inteiro: \"quanto ao bolo que a mãe fez…\".\n• Quando o sujeito é óbvio (você mesmo), ele pode sumir: もらった プレゼント.\n• Você vai ouvir às vezes の no lugar desse が (父の すんでいた 家). É normal, mas por enquanto use が.",
+      "structure": "[sujeito] が [verbo curto] [núcleo] は／を／です — が fica dentro, は fica fora",
+      "examples": [
+        { "jp": "これは 父が すんでいた 家です。", "kana": "これは ちちが すんでいた いえです。", "romaji": "Kore wa chichi ga sunde ita ie desu.", "pt": "Esta é a casa onde meu pai morava." },
+        { "jp": "母が 作った ケーキは おいしかったです。", "kana": "ははが つくった ケーキは おいしかったです。", "romaji": "Haha ga tsukutta kēki wa oishikatta desu.", "pt": "O bolo que minha mãe fez estava gostoso." },
+        { "jp": "マリアさんが 書いた さくぶんを 読みました。", "kana": "マリアさんが かいた さくぶんを よみました。", "romaji": "Maria-san ga kaita sakubun o yomimashita.", "pt": "Li a redação que a Maria escreveu." }
+      ],
+      "pitfalls": [
+        "O erro nº 1 é usar は dentro da descrição: 母が 作った ケーキ (certo) × 母は 作った ケーキ (errado).",
+        "Na mesma frase há dois papéis: em 母が 作った ケーキは おいしかったです, quem fez foi a mãe (が, dentro), mas o assunto é o bolo (は, fora). Pergunte: quem FEZ? O que ESTAVA gostoso?",
+        "Este が não é o \"mas\" da Aula 08-3. Aquele vem depois de uma frase completa (〜ですが、…); este vem logo depois de um substantivo (母が)."
+      ],
+      "howToStudy": [
+        "Transforme 3 frases com は em descrição. Ex.: 父は この 家に すんでいました → 父が すんでいた 家. Troque は por が, leve o núcleo para o fim e apague a partícula dele.",
+        "Aperte 🔬 no exemplo 2: 母が aparece como SUJEITO e 作った como DESCREVE O PRÓXIMO. Esse SUJEITO é da descrição; o TÓPICO da frase grande é ケーキは.",
+        "Fala: diga 3 frases sobre coisas da sua casa, no modelo [pessoa]が 作った / 書いた [coisa]です。"
+      ],
+      "flag": null
+    },
+    {
+      "id": "09-2-c",
+      "gc": null,
+      "title": "Montar e desmontar",
+      "gloss": "o passo a passo para a ordem japonesa",
+      "explanation": "A gramática é simples; o difícil é a **ordem**. Use sempre os mesmos passos.\n**Montar (português → japonês)**, por exemplo \"o livro que o professor escreveu\":\n• 1) Ache o **núcleo**, a coisa de que se fala: \"livro\" (本).\n• 2) Escreva a descrição como frase curta completa: 先生が 本を 書いた.\n• 3) Tire o núcleo de dentro dela. **A partícula dele vai junto**: 先生が 書いた.\n• 4) Encoste o núcleo no fim: 先生が 書いた 本.\n• 5) Use o bloco como um substantivo só: 先生が 書いた 本を 読みました。\n**Desmontar (japonês → português):**\n• 1) Leia o ★ predicado, no fim da frase.\n• 2) Procure um verbo em forma curta **colado num substantivo**: ali termina uma descrição, e esse substantivo é o núcleo.\n• 3) Volte para a esquerda: os blocos com が, を, に, で logo antes desse verbo costumam ser da descrição. Um bloco com は quase sempre fica fora, porque é da frase grande.\n• 4) Traduza começando pelo núcleo: núcleo + \"que\" (ou \"onde\", \"com quem\") + descrição.\n• No 🔬, o verbo que fecha a descrição aparece como **DESCREVE O PRÓXIMO**: é a sua marca de \"aqui termina uma descrição\".",
+      "structure": "montar: núcleo → frase curta → tira o núcleo e a partícula dele → encosta o núcleo no fim · desmontar: ★ → verbo curto + substantivo → volta até o começo da descrição",
+      "examples": [
+        { "jp": "こうばんの 前で 本を 読んでいる 人は 私の 父です。", "kana": "こうばんの まえで ほんを よんでいる ひとは わたしの ちちです。", "romaji": "Kōban no mae de hon o yonde iru hito wa watashi no chichi desu.", "pt": "A pessoa que está lendo um livro em frente ao posto policial é meu pai." },
+        { "jp": "あの 白い シャツを きている 男の人は、きのう 話した 先生です。", "kana": "あの しろい シャツを きている おとこのひとは、きのう はなした せんせいです。", "romaji": "Ano shiroi shatsu o kite iru otoko no hito wa, kinō hanashita sensei desu.", "pt": "Aquele homem de camisa branca é o professor com quem conversei ontem." },
+        { "jp": "はしを わたった ところに 小さい きっさてんが あります。", "kana": "はしを わたった ところに ちいさい きっさてんが あります。", "romaji": "Hashi o watatta tokoro ni chiisai kissaten ga arimasu.", "pt": "Logo depois da ponte (no lugar aonde se chega ao atravessá-la) há um café pequeno." }
+      ],
+      "pitfalls": [
+        "Não pare no primeiro substantivo: em こうばんの 前で 本を 読んでいる 人は…, o núcleo não é こうばん nem 本. É 人, o que vem colado no verbo.",
+        "Não repita o núcleo dentro da descrição: 先生が 書いた 本 (certo) × 先生が 本を 書いた 本 (errado).",
+        "O \"que\", o \"onde\" e o \"com quem\" do português não viram nada: きのう 話した 先生 = o professor com quem falei ontem; 父が すんでいた 家 = a casa onde meu pai morava. Não acrescente と nem に."
+      ],
+      "howToStudy": [
+        "No caderno, copie os 3 exemplos, sublinhe o ★ predicado, circule o núcleo e ponha colchetes na descrição: [こうばんの 前で 本を 読んでいる] 人.",
+        "Mirage → Treinos → 🔬 Anatomia → 🧱 Montar de trás pra frente: 5 frases. Quando aparecer um bloco DESCREVE O PRÓXIMO, diga em voz alta qual substantivo ele descreve.",
+        "Mirage → Treinos → 🔬 Anatomia → 🔬 Analisar: cole o exemplo 2 e ache os dois verbos marcados como DESCREVE O PRÓXIMO (きている → 男の人; 話した → 先生)."
+      ],
+      "flag": null
+    }
+  ],
+  "media": [
+    { "order": 1, "kind": "leitura", "title": "Genki I · Lição 9: a explicação de gramática sobre as orações que descrevem substantivos (Qualifying Nouns with Verbs)", "where": "Seu livro Genki I (3ª ed.)", "url": "", "when": "Antes desta aula ou logo depois do ponto 4a" },
+    { "order": 2, "kind": "video", "title": "ToKini Andy: aula da Lição 9 do Genki I (a parte de Qualifying Nouns with Verbs)", "where": "YouTube · canal ToKini Andy", "url": "", "search": "ToKini Andy Genki Lesson 9", "when": "Depois dos pontos 4a e 4b" },
+    { "order": 3, "kind": "video", "title": "Japanese Ammo with Misa: orações relativas (aprofundamento opcional, com muitos exemplos)", "where": "YouTube · canal Japanese Ammo with Misa", "url": "", "search": "Japanese Ammo with Misa relative clauses", "when": "Se a ordem ainda estiver confusa depois do ponto 4c" },
+    { "order": 4, "kind": "app", "title": "genki-companion: Lição 9, ponto 4 (marque ✍️ quando terminar)", "where": "../genki-companion/index.html", "url": "../genki-companion/index.html", "when": "No fim, para revisar e marcar o progresso" }
+  ],
+  "homework": {
+    "intro": "Faça no caderno, à mão. Aqui o treino é de ordem: antes de escrever cada item, ache o núcleo e escreva-o por último. Só depois abra o gabarito, item por item. Circule o que errou e refaça no dia seguinte.",
+    "tasks": [
+      {
+        "id": "h1",
+        "type": "montar",
+        "prompt": "Monte o bloco em japonês: só o substantivo descrito, sem です. Siga os passos do ponto 4c.",
+        "items": [
+          { "q": "a pessoa que está de boné preto", "a": { "jp": "くろい ぼうしを かぶっている 人", "kana": "くろい ぼうしを かぶっている ひと", "romaji": "kuroi bōshi o kabutte iru hito" } },
+          { "q": "a mulher que está de óculos", "a": { "jp": "めがねを かけている 女の人", "kana": "めがねを かけている おんなのひと", "romaji": "megane o kakete iru onna no hito" } },
+          { "q": "o bolo que eu fiz", "a": { "jp": "私が 作った ケーキ", "kana": "わたしが つくった ケーキ", "romaji": "watashi ga tsukutta kēki" }, "note": "Quando é você, 私が pode sumir: 作った ケーキ." },
+          { "q": "a cidade onde a Ana mora", "a": { "jp": "アナさんが すんでいる まち", "romaji": "Ana-san ga sunde iru machi" }, "note": "まちに すんでいる: quando まち vira núcleo, o に some." },
+          { "q": "o presente que ganhei do meu pai", "a": { "jp": "父に もらった プレゼント", "kana": "ちちに もらった プレゼント", "romaji": "chichi ni moratta purezento" }, "note": "Com もらう, quem dá leva に. Quem recebeu (eu) fica implícito." },
+          { "q": "o menino que está de sapatos brancos", "a": { "jp": "白い くつを はいている 男の子", "kana": "しろい くつを はいている おとこのこ", "romaji": "shiroi kutsu o haite iru otoko no ko" }, "note": "Sapato se \"veste\" com はく." }
+        ]
+      },
+      {
+        "id": "h2",
+        "type": "ordenar",
+        "prompt": "Ordene os blocos para formar a frase. Dica: comece pelo ★ predicado e pelo núcleo, e monte a descrição à esquerda do núcleo.",
+        "items": [
+          { "q": "【人は】【ギターを】【だれですか】【ひいている】", "a": { "jp": "ギターを ひいている 人は だれですか。", "kana": "ギターを ひいている ひとは だれですか。", "romaji": "Gitā o hiite iru hito wa dare desu ka.", "pt": "Quem é a pessoa que está tocando violão?" } },
+          { "q": "【ケーキです】【作った】【これは】【ルーカスさんが】", "a": { "jp": "これは ルーカスさんが 作った ケーキです。", "kana": "これは ルーカスさんが つくった ケーキです。", "romaji": "Kore wa Rūkasu-san ga tsukutta kēki desu.", "pt": "Este é o bolo que o Lucas fez." } },
+          { "q": "【しゃしんを】【見ました】【アナさんが】【とった】", "a": { "jp": "アナさんが とった しゃしんを 見ました。", "kana": "アナさんが とった しゃしんを みました。", "romaji": "Ana-san ga totta shashin o mimashita.", "pt": "Vi as fotos que a Ana tirou." } },
+          { "q": "【こうさてんを】【ところに】【わたった】【あります】【こうばんが】", "a": { "jp": "こうさてんを わたった ところに こうばんが あります。", "romaji": "Kōsaten o watatta tokoro ni kōban ga arimasu.", "pt": "Logo depois de atravessar o cruzamento há um posto policial." } },
+          { "q": "【かぶきは】【おもしろかったです】【せんげつ】【見た】", "a": { "jp": "せんげつ 見た かぶきは おもしろかったです。", "kana": "せんげつ みた かぶきは おもしろかったです。", "romaji": "Sengetsu mita kabuki wa omoshirokatta desu.", "pt": "O kabuki que vi no mês passado foi interessante." }, "note": "せんげつ fica dentro da descrição: foi no mês passado que eu VI." }
+        ]
+      },
+      {
+        "id": "h3",
+        "type": "desmontar",
+        "prompt": "Desmonte: escreva o núcleo com a descrição entre colchetes e traduza a frase para o português.",
+        "items": [
+          { "q": "あそこで 電話を している 女の人は だれですか。", "a": { "jp": "［あそこで 電話を している］ 女の人", "kana": "［あそこで でんわを している］ おんなのひと", "romaji": "[asoko de denwa o shite iru] onna no hito", "pt": "Quem é a mulher que está falando ao telefone ali?" }, "note": "Núcleo: 女の人, colado no verbo している." },
+          { "q": "友だちが 作った ブラジルりょうりを 食べました。", "a": { "jp": "［友だちが 作った］ ブラジルりょうり", "kana": "［ともだちが つくった］ ブラジルりょうり", "romaji": "[tomodachi ga tsukutta] burajiru ryōri", "pt": "Comi a comida brasileira que meu amigo fez." }, "note": "友だちが é o SUJEITO da descrição (quem fez). Quem comeu fui eu." },
+          { "q": "私が 行った ちゅうがっこうは とても 古かったです。", "a": { "jp": "［私が 行った］ ちゅうがっこう", "kana": "［わたしが いった］ ちゅうがっこう", "romaji": "[watashi ga itta] chūgakkō", "pt": "A escola em que eu fiz o ensino fundamental II era muito antiga." }, "note": "Aqui 行った é \"frequentei, estudei em\"." },
+          { "q": "きのう こうさてんで 会った 人は すずきさんの お母さんでした。", "a": { "jp": "［きのう こうさてんで 会った］ 人", "kana": "［きのう こうさてんで あった］ ひと", "romaji": "[kinō kōsaten de atta] hito", "pt": "A pessoa que encontrei ontem no cruzamento era a mãe da Suzuki." }, "note": "Os blocos de tempo (きのう) e de lugar (こうさてんで) antes do verbo são da descrição." }
+        ]
+      },
+      {
+        "id": "h4",
+        "type": "produzir",
+        "prompt": "Escreva 4 frases sobre o lugar onde você mora e as pessoas de lá. Use uma descrição antes do substantivo em pelo menos 3 frases, e が dentro de pelo menos uma delas. Depois leia em voz alta.",
+        "items": [
+          { "q": "Modelo, que o seu texto deve seguir na estrutura e não nas palavras:", "a": { "jp": "私の 家が ある まちには 古い はしが あります。はしの 前に 小さい こうばんが あります。こうばんの 前で いつも 新聞を 読んでいる おじいさんは 私の 友だちです。きのう 母が 作った ケーキを いっしょに 食べました。", "kana": "わたしの いえが ある まちには ふるい はしが あります。はしの まえに ちいさい こうばんが あります。こうばんの まえで いつも しんぶんを よんでいる おじいさんは わたしの ともだちです。きのう ははが つくった ケーキを いっしょに たべました。", "romaji": "Watashi no ie ga aru machi ni wa furui hashi ga arimasu. Hashi no mae ni chiisai kōban ga arimasu. Kōban no mae de itsumo shinbun o yonde iru ojiisan wa watashi no tomodachi desu. Kinō haha ga tsukutta kēki o issho ni tabemashita.", "pt": "Na cidade onde fica a minha casa há uma ponte antiga. Na frente da ponte há um pequeno posto policial. O senhor que está sempre lendo jornal em frente ao posto é meu amigo. Ontem comemos juntos o bolo que minha mãe fez." }, "note": "Confira: o núcleo no fim de cada bloco, nenhum です／ます dentro da descrição e o sujeito da descrição com が." }
+        ]
+      }
+    ],
+    "workbook": [
+      { "p": 91, "t": "5 · Qualifying Nouns with Verbs", "tip": "Faça depois dos pontos 4a–4c. Desmonte cada frase no caderno antes de responder. Confira no Genki Answer Key oficial." }
+    ]
+  },
+  "practice": [
+    { "tool": "Wagotabi", "what": "Jogue normalmente e cace nos diálogos um verbo em forma curta colado num substantivo (〜た 人, 〜ている もの…). Copie 2 no caderno, ponha colchetes na descrição e traduza. Depois registre a sessão em Imersão → Jogos e cole uma dessas frases na Anatomia.", "min": 15 },
+    { "tool": "Mirage", "what": "Treinos → 🔬 Anatomia → 🧱 Montar de trás pra frente: 5 frases. A cada bloco DESCREVE O PRÓXIMO, diga em voz alta qual é o núcleo.", "min": 10 },
+    { "tool": "Mirage", "what": "Diário: escreva as frases da lição de casa h4 e abra \"Anatomia do que escrevi\". O verbo antes de cada substantivo descrito deve aparecer como DESCREVE O PRÓXIMO; se não aparecer, revise a ordem.", "min": 10 },
+    { "tool": "Mirage", "what": "Vocabulário da Lição 9 no SRS (o baralho \"🌊 Tudo\" junta as revisões do dia).", "min": 5 },
+    { "tool": "Fala", "what": "Olhe uma foto com várias pessoas e descreva 5 delas em voz alta: [roupa]を [verbo]ている 人が います。Grave e ouça.", "min": 5 }
+  ],
+  "culture": {
+    "title": "Presentes e embrulhos",
+    "titleJp": "おくりもの（贈り物）",
+    "body": "No Japão, a **embalagem** faz parte do presente. Em lojas de departamento e em muitas lojas menores, é comum o vendedor perguntar se é para presente e embrulhar na hora, com papel e fita, em geral sem custo extra. Para presentes formais, como os de verão e de fim de ano (お中元 e お歳暮), costuma-se usar o papel **のし**, com cordões decorativos chamados **水引** (みずひき, mizuhiki). Outra tradição é a **ふろしき**, um pano quadrado que embrulha e carrega o presente e pode ser reaproveitado. Na hora de entregar, use **as duas mãos**; quem recebe muitas vezes pergunta あけても いいですか。 antes de abrir. Em geral, evita-se dar conjuntos de 4 ou 9 itens, porque し lembra \"morte\" e く lembra \"sofrimento\".",
+    "try": "Embrulhe um objeto num pano quadrado, à moda ふろしき (busque \"furoshiki otsukai tsutsumi\" para ver o nó básico). Depois treine a entrega em voz alta, com as duas mãos: これ、私が 作った ケーキです。どうぞ。"
+  },
+  "checklist": [
+    "Coloco a descrição inteira ANTES do substantivo, sem palavra para \"que\" e sem の.",
+    "Uso só forma curta dentro da descrição (見る, 見た, 見ている, 見なかった), nunca です／ます.",
+    "Uso が (não は) para o sujeito que está dentro da descrição.",
+    "Descrevo pessoas pela roupa com 〜ている (ぼうしを かぶっている 人) sem olhar.",
+    "Desmonto uma frase longa: acho o ★ predicado, circulo o núcleo e ponho colchetes na descrição.",
+    "Monto um bloco a partir do português seguindo os passos: núcleo → frase curta → tiro o núcleo → encosto no fim.",
+    "Fiz a lição de casa e conferi o gabarito, e refiz o que errei.",
+    "Fiz a página 91 do Workbook."
+  ]
+}

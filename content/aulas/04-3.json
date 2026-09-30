@@ -1,0 +1,268 @@
+{
+  "id": "04-3",
+  "unit": "G1-L04",
+  "genki": { "book": "Genki I", "lesson": 4, "points": ["と", "も", "〜時間", "たくさん"] },
+  "title": "E, com, também, muito",
+  "titleJp": "ともだちと にじかん はなしました",
+  "canDo": [
+    "Listar coisas e pessoas com と (パンと コーヒー) e dizer com quem fiz algo (ともだちと) ou que fiz sozinho (一人で).",
+    "Dizer \"também\" em qualquer bloco da frase: わたしも, コーヒーも, リオにも, うちでも.",
+    "Dizer quanto tempo durou uma atividade (にじかん べんきょうしました) e perguntar なんじかん.",
+    "Dizer que há muito de algo ou que fiz muito de algo com たくさん.",
+    "Contar um passeio combinando tudo: com quem, onde, por quanto tempo e o que mais fiz."
+  ],
+  "duration": {
+    "total": "70–90 min",
+    "blocks": [
+      { "t": "Sessão 1 · Aquecimento: contar em voz alta o que você fez ontem, em 3 frases no passado (Aula 04-2)", "min": 5 },
+      { "t": "Sessão 1 · Vocabulário: ouvir 🔊 cada palavra e repetir 2 vezes", "min": 10 },
+      { "t": "Sessão 1 · Gramática: と (4a e 4b) e も (4c), com os exemplos em voz alta e um 🔬", "min": 20 },
+      { "t": "Sessão 1 · Vídeo da Lição 4 (bloco 6), pausando nos exemplos", "min": 10 },
+      { "t": "Sessão 2 · Gramática: 〜じかん (4d) e たくさん (4e)", "min": 15 },
+      { "t": "Sessão 2 · Lição de casa no caderno + conferir no gabarito", "min": 20 },
+      { "t": "Sessão 2 · Kanji da Lição 4 (Workbook pp. 135–136) + checklist (bloco 10)", "min": 10 }
+    ]
+  },
+  "prereqs": {
+    "aulas": ["01-2", "02-3", "03-2", "04-1", "04-2"],
+    "skills": [
+      "Usar も no lugar do tópico (わたしも がくせいです), da Aula 02-3.",
+      "Conhecer as partículas を, に, へ, で (Aula 03-2) e が (Aula 04-1): hoje o も entra junto delas.",
+      "Passado educado 〜ました／〜ませんでした (Aula 04-2): quase todos os exemplos estão no passado.",
+      "Dizer as horas com 〜じ (Aula 01-2), para não confundir com a duração 〜じかん."
+    ],
+    "vocab": [
+      { "jp": "〜と", "kana": "〜と", "romaji": "-to", "pt": "e (entre substantivos); com (alguém)" },
+      { "jp": "ともだち", "kana": "ともだち", "romaji": "tomodachi", "pt": "amigo(a)" },
+      { "jp": "かぞく", "kana": "かぞく", "romaji": "kazoku", "pt": "família" },
+      { "jp": "はは", "kana": "はは", "romaji": "haha", "pt": "(minha) mãe" },
+      { "jp": "ちち", "kana": "ちち", "romaji": "chichi", "pt": "(meu) pai" },
+      { "jp": "きょうだい", "kana": "きょうだい", "romaji": "kyōdai", "pt": "irmãos" },
+      { "jp": "いっしょに", "kana": "いっしょに", "romaji": "isshoni", "pt": "juntos, junto (com)" },
+      { "jp": "一人で", "kana": "ひとりで", "romaji": "hitori de", "pt": "sozinho(a)" },
+      { "jp": "いちじかん", "kana": "いちじかん", "romaji": "ichi-jikan", "pt": "uma hora (de duração)" },
+      { "jp": "いちじかんはん", "kana": "いちじかんはん", "romaji": "ichi-jikan han", "pt": "uma hora e meia" },
+      { "jp": "なんじかん", "kana": "なんじかん", "romaji": "nan-jikan", "pt": "quantas horas (de duração)" },
+      { "jp": "〜ぐらい", "kana": "〜ぐらい", "romaji": "-gurai", "pt": "cerca de, mais ou menos (quantidade, duração)" },
+      { "jp": "たくさん", "kana": "たくさん", "romaji": "takusan", "pt": "muito(s), bastante (quantidade)" },
+      { "jp": "かいもの", "kana": "かいもの", "romaji": "kaimono", "pt": "compras (かいものを します = fazer compras)" },
+      { "jp": "デパート", "kana": "デパート", "romaji": "depāto", "pt": "loja de departamentos" },
+      { "jp": "パン", "kana": "パン", "romaji": "pan", "pt": "pão" },
+      { "jp": "水", "kana": "みず", "romaji": "mizu", "pt": "água" },
+      { "jp": "ゲーム", "kana": "ゲーム", "romaji": "gēmu", "pt": "jogo, videogame" },
+      { "jp": "はなします", "kana": "はなします", "romaji": "hanashimasu", "pt": "conversar, falar; dicionário: はなす" },
+      { "jp": "ねます", "kana": "ねます", "romaji": "nemasu", "pt": "dormir; dicionário: ねる" },
+      { "jp": "わりかん", "kana": "わりかん", "romaji": "warikan", "pt": "dividir a conta em partes iguais" }
+    ]
+  },
+  "grammar": [
+    {
+      "id": "04-3-a",
+      "gc": "4-5",
+      "title": "N と N (lista completa)",
+      "gloss": "e (entre substantivos)",
+      "explanation": "と liga substantivos como o nosso \"e\": パンと コーヒー (pão e café). A lista com と é **completa**: são exatamente essas coisas, nem mais nem menos.\n• A partícula do bloco (を, が, は, に…) vai **uma vez só, depois do último item**: パンと コーヒーを かいました。 O bloco inteiro パンと コーヒーを é o OBJETO.\n• Dá para listar mais de dois: ペドロさんと マリアさんと わたし.\n• と só liga **substantivos**. Não liga verbos nem frases: \"comi e dormi\" não usa と. Por enquanto, faça duas frases.\n• Para dar só exemplos (\"pão, café e outras coisas\"), existe や (Aula 11-2).\n• Você já usou esse と na Aula 04-1: A と B の あいだ.",
+      "structure": "[N] と [N] (と [N]) + partícula do bloco",
+      "examples": [
+        { "jp": "コンビニで パンと コーヒーを かいました。", "kana": "コンビニで パンと コーヒーを かいました。", "romaji": "Konbini de pan to kōhī o kaimashita.", "pt": "Comprei pão e café na loja de conveniência." },
+        { "jp": "ペドロさんと マリアさんは ブラジルじんです。", "kana": "ペドロさんと マリアさんは ブラジルじんです。", "romaji": "Pedoro-san to Maria-san wa burajirujin desu.", "pt": "O Pedro e a Maria são brasileiros." },
+        { "jp": "日曜日と 水曜日に テニスを します。", "kana": "にちようびと すいようびに テニスを します。", "romaji": "Nichiyōbi to suiyōbi ni tenisu o shimasu.", "pt": "Jogo tênis aos domingos e às quartas." }
+      ],
+      "pitfalls": [
+        "Não repita a partícula em cada item: パンを コーヒーを かいました ✗ → パンと コーヒーを かいました ✓.",
+        "と não liga verbos: たべましたと ねました ✗ → たべました。ねました。 ✓ (duas frases).",
+        "Lista com と é fechada. Se a ideia é \"coisas como pão e café\", o japonês usa や (Aula 11-2)."
+      ],
+      "howToStudy": [
+        "Abra a mochila ou a geladeira e diga em voz alta o que tem, com と: 〜と 〜と 〜が あります。",
+        "Aperte 🔬 no exemplo da コンビニ. パンと コーヒーを é UM bloco só, o OBJETO: o と fica dentro do bloco e a partícula (を) fica no fim.",
+        "No caderno, escreva 3 frases com listas de 2 ou 3 itens, cada uma com uma partícula diferente no fim do bloco: を, が, は."
+      ],
+      "flag": null
+    },
+    {
+      "id": "04-3-b",
+      "gc": "4-6",
+      "title": "N と (junto com alguém)",
+      "gloss": "com (companhia)",
+      "explanation": "O mesmo と, depois de uma pessoa, quer dizer **junto com**: ともだちと えいがを みました (vi um filme com um amigo). Aqui o bloco [pessoa] と é a COMPANHIA da ação; ele não faz parte do objeto.\n• Para reforçar, muita gente diz 〜と **いっしょに**: ははと いっしょに かいものを しました.\n• O contrário é **一人で** (ひとりで): sozinho(a). 一人で えいがを みました.\n• Pergunta: **だれと** 〜ましたか。 (Com quem…?)\n• Como saber qual と é? Pergunte: os dois substantivos têm a mesma função na frase? Então é lista (パンと コーヒーを = as duas coisas foram compradas). Se a pessoa só acompanha a ação, é companhia (ともだちと こうえんに いきました).",
+      "structure": "[pessoa] と (いっしょに) [verbo] · 一人で [verbo]",
+      "examples": [
+        { "jp": "日曜日に かぞくと レストランに いきました。", "kana": "にちようびに かぞくと レストランに いきました。", "romaji": "Nichiyōbi ni kazoku to resutoran ni ikimashita.", "pt": "No domingo fui a um restaurante com a família." },
+        { "jp": "せんしゅう ははと いっしょに かいものを しました。", "kana": "せんしゅう ははと いっしょに かいものを しました。", "romaji": "Senshū haha to isshoni kaimono o shimashita.", "pt": "Semana passada fiz compras com a minha mãe." },
+        { "jp": "だれと コンビニに いきましたか。— 一人で いきました。", "kana": "だれと コンビニに いきましたか。— ひとりで いきました。", "romaji": "Dare to konbini ni ikimashita ka. — Hitori de ikimashita.", "pt": "Com quem você foi à loja de conveniência? — Fui sozinho(a)." }
+      ],
+      "pitfalls": [
+        "\"Com\" de instrumento não é と: \"comer com hashi\" usa で (はしで たべます), um uso de で que você vai ver mais adiante. と é só companhia.",
+        "\"Sozinho\" é 一人で, com で: 一人と いきました ✗ → 一人で いきました ✓.",
+        "はは e ちち são a SUA mãe e o SEU pai. Para falar dos pais de outra pessoa existem outras palavras (Aula 07-1)."
+      ],
+      "howToStudy": [
+        "Diga 4 frases no passado sobre com quem você fez coisas recentemente: ともだちと…, かぞくと…, 一人で…",
+        "Releia os exemplos de 4a e 4b e, a cada と, diga em voz alta: LISTA ou COMPANHIA?",
+        "🔬 no exemplo do restaurante: diga a função de cada bloco (quando, com quem, para onde, o quê) e confira. O verbo いきました é o predicado."
+      ],
+      "flag": null
+    },
+    {
+      "id": "04-3-c",
+      "gc": null,
+      "title": "も depois de outras partículas",
+      "gloss": "também (com に, で, へ, と…)",
+      "explanation": "Na Aula 02-3 você usou も no lugar do は: わたしも がくせいです. Agora o も pode entrar em qualquer bloco da frase, e a regra depende da partícula que já estava ali:\n• **は, が, を → só も**: o も substitui a partícula. いぬが います → ねこ**も** います. パンを かいました → 水**も** かいました.\n• **に, で, へ, と → partícula + も**: o も vem depois. リオ**にも** いきました. うち**でも** べんきょうしました. きょうと**へも** いきました. ちち**とも** はなしました.\n• Palavra de tempo sem partícula (きのう, あした) recebe só o も: あしたも.\n• O も marca **o bloco que é \"também\"**. Mude o bloco e muda o sentido: わたしも パンを かいました (eu também comprei pão) × わたしは パンも かいました (eu comprei pão também).",
+      "structure": "は／が／を → も · に／で／へ／と → にも／でも／へも／とも",
+      "examples": [
+        { "jp": "ペドロさんは サンパウロに いきました。リオにも いきました。", "kana": "ペドロさんは サンパウロに いきました。リオにも いきました。", "romaji": "Pedoro-san wa Sanpauro ni ikimashita. Rio ni mo ikimashita.", "pt": "O Pedro foi a São Paulo. Foi ao Rio também." },
+        { "jp": "としょかんで べんきょうしました。うちでも べんきょうしました。", "kana": "としょかんで べんきょうしました。うちでも べんきょうしました。", "romaji": "Toshokan de benkyō shimashita. Uchi de mo benkyō shimashita.", "pt": "Estudei na biblioteca. Estudei em casa também." },
+        { "jp": "コンビニで パンを かいました。水も かいました。", "kana": "コンビニで パンを かいました。みずも かいました。", "romaji": "Konbini de pan o kaimashita. Mizu mo kaimashita.", "pt": "Comprei pão na loja de conveniência. Comprei água também." }
+      ],
+      "pitfalls": [
+        "Com を e が, o も entra no lugar: 水をも ✗ / ねこがも ✗ → 水も ✓ / ねこも ✓.",
+        "Com に e で, a partícula fica: リオにも ✓, うちでも ✓. Tirar o に ou o で deixa a frase ambígua.",
+        "でも depois de um substantivo (うちでも) é \"também em\". No começo da frase, でも é outra palavra: \"mas\".",
+        "Ponha o も no bloco que é a novidade: se a Ana também comprou, é アナさんも; se você comprou água também, é 水も."
+      ],
+      "howToStudy": [
+        "Diga pares de frases em voz alta, a segunda com も: ぎんこうに いきました → ゆうびんきょくにも いきました; うちで たべました → だいがくでも たべました.",
+        "Faça no caderno uma tabela: は, が, を, に, で, へ, と na coluna da esquerda e, na da direita, como cada uma fica com も.",
+        "Mirage → Treinos → Partículas, prestando atenção nos itens com も."
+      ],
+      "flag": null
+    },
+    {
+      "id": "04-3-d",
+      "gc": "4-8",
+      "title": "〜じかん (duração)",
+      "gloss": "por X horas",
+      "explanation": "〜じかん mede **quanto tempo** algo dura: にじかん = duas horas de duração. Não confunda com 〜じ, que é a **hora do relógio** (Aula 01-2): 二時 (にじ) = às duas horas.\n• A duração entra **sem に**, como um bloco sem partícula, em geral perto do verbo: にじかん べんきょうしました. A hora do relógio leva に: 二時に おきました.\n• Mais meia hora: いちじかんはん = uma hora e meia.\n• Atenção às leituras: 4 horas = **よ**じかん, 9 horas = **く**じかん, 7 horas = しちじかん (também se ouve ななじかん).\n• Pergunta: **なんじかん** 〜ましたか。 (Por quantas horas…?)\n• Para \"mais ou menos\", acrescente ぐらい: にじかんぐらい (cerca de duas horas).\n• Em kanji, じかん se escreve 時間. O segundo kanji (間) só é apresentado na Lição 9 do Genki, por isso neste curso a palavra fica em kana por enquanto.",
+      "structure": "[número] じかん (ぐらい) [verbo] · sem に",
+      "examples": [
+        { "jp": "きのう さんじかん ゲームを しました。", "kana": "きのう さんじかん ゲームを しました。", "romaji": "Kinō san-jikan gēmu o shimashita.", "pt": "Ontem joguei videogame por três horas." },
+        { "jp": "まいにち なんじかん ねますか。— しちじかんぐらい ねます。", "kana": "まいにち なんじかん ねますか。— しちじかんぐらい ねます。", "romaji": "Mainichi nan-jikan nemasu ka. — Shichi-jikan gurai nemasu.", "pt": "Quantas horas você dorme por dia? — Umas sete horas." },
+        { "jp": "ぎんこうで いちじかんはん まちました。", "kana": "ぎんこうで いちじかんはん まちました。", "romaji": "Ginkō de ichi-jikan han machimashita.", "pt": "Esperei uma hora e meia no banco." }
+      ],
+      "pitfalls": [
+        "A duração não leva に: にじかんに べんきょうしました ✗ → にじかん べんきょうしました ✓. O に é só para o horário: 二時に ✓.",
+        "二時 (にじ) ≠ にじかん: \"às duas\" × \"por duas horas\". Um かん a mais muda tudo.",
+        "4 horas de duração é よじかん, não よんじかん ✗. E 9 horas é くじかん."
+      ],
+      "howToStudy": [
+        "Conte em voz alta de いちじかん a じゅうじかん, prestando atenção em よじかん, しちじかん e くじかん.",
+        "Responda em voz alta, com frases completas: きのう なんじかん ねましたか。 なんじかん べんきょうしましたか。 なんじかん ゲームを しましたか。",
+        "🔬 no exemplo do videogame: さんじかん é um bloco SEM partícula, como きのう. Ele diz \"por quanto tempo\" e não é objeto nem lugar."
+      ],
+      "flag": null
+    },
+    {
+      "id": "04-3-e",
+      "gc": "4-7",
+      "title": "たくさん",
+      "gloss": "muito, muitos (quantidade)",
+      "explanation": "たくさん indica **grande quantidade**: muita coisa, muita gente, fazer muito de algo.\n• Costuma vir **logo antes do verbo**, depois do bloco com が ou を: しゃしんを たくさん とりました. 人が たくさん います.\n• Também pode vir antes de um substantivo, ligado por の: たくさんの 人 (muitas pessoas).\n• たくさん é só **quantidade**. Para intensidade (\"muito bom\", \"muito bonito\"), o japonês usa outra palavra, とても (Aula 05-3).\n• Para \"não… muito\", o mais natural é あまり + negativa, o あまり que você viu na Aula 03-3: あまり たべませんでした.",
+      "structure": "[N] が／を たくさん [verbo] · たくさんの [N]",
+      "examples": [
+        { "jp": "リベルダーデに 日本りょうりの レストランが たくさん あります。", "kana": "リベルダーデに にほんりょうりの レストランが たくさん あります。", "romaji": "Riberudāde ni Nihon ryōri no resutoran ga takusan arimasu.", "pt": "Na Liberdade (bairro de São Paulo) tem muitos restaurantes de comida japonesa." },
+        { "jp": "きのう しゃしんを たくさん とりました。", "kana": "きのう しゃしんを たくさん とりました。", "romaji": "Kinō shashin o takusan torimashita.", "pt": "Ontem tirei muitas fotos." },
+        { "jp": "しゅうまつは しゅくだいが たくさん ありました。", "kana": "しゅうまつは しゅくだいが たくさん ありました。", "romaji": "Shūmatsu wa shukudai ga takusan arimashita.", "pt": "No fim de semana tive muita lição de casa." }
+      ],
+      "pitfalls": [
+        "たくさん não é \"muito\" de intensidade: たくさん いいです ✗ → とても いいです ✓ (Aula 05-3).",
+        "Antes de substantivo precisa de の: たくさん 人 ✗ → たくさんの 人 ✓. Mas o mais comum é deixar たくさん perto do verbo: 人が たくさん います ✓.",
+        "A partícula fica colada no substantivo, e たくさん vem depois: しゃしんたくさんを ✗ → しゃしんを たくさん ✓."
+      ],
+      "howToStudy": [
+        "Diga 3 frases sobre lugares que você conhece: 〜に 〜が たくさん あります／います。",
+        "Pegue 3 frases da lição de casa da Aula 04-2 e acrescente たくさん logo antes do verbo, onde fizer sentido.",
+        "Fala: grave 20 s dizendo o que você fez muito recentemente (たくさん ねました, しゃしんを たくさん とりました…)."
+      ],
+      "flag": null
+    }
+  ],
+  "media": [
+    { "order": 1, "kind": "leitura", "title": "Genki I · Lição 4: as explicações de gramática も, 〜時間, たくさん e と, e a parte de Leitura e Escrita com os kanji da lição", "where": "Seu livro Genki I (3ª ed.)", "url": "", "when": "Antes desta aula ou entre as duas sessões" },
+    { "order": 2, "kind": "video", "title": "ToKini Andy: aula da Lição 4 do Genki I (と, も, duração e たくさん)", "where": "YouTube · canal ToKini Andy", "url": "", "search": "ToKini Andy Genki Lesson 4", "when": "No fim da sessão 1: o vídeo confirma e dá mais exemplos" },
+    { "order": 3, "kind": "app", "title": "genki-companion: Lição 4, pontos 5 a 8 (marque ✍️ quando terminar)", "where": "../genki-companion/index.html", "url": "../genki-companion/index.html", "when": "No fim, para revisar e marcar o progresso" }
+  ],
+  "homework": {
+    "intro": "Faça no caderno, à mão, em kana (use 本, 人, 水, 一人 e os dias da semana em kanji se já conseguir). Só depois abra o gabarito, item por item. Circule o que errou e refaça no dia seguinte.",
+    "tasks": [
+      {
+        "id": "h1",
+        "type": "completar",
+        "prompt": "Complete com と, も, にも ou でも.",
+        "items": [
+          { "q": "ペドロさん＿ マリアさんは ブラジルじんです。", "a": { "jp": "と", "romaji": "to" }, "note": "Lista: o Pedro E a Maria." },
+          { "q": "ぎんこうに いきました。ゆうびんきょく＿ いきました。", "a": { "jp": "にも", "romaji": "ni mo" }, "note": "に fica, e o も vem depois." },
+          { "q": "コーヒーを のみました。水＿ のみました。", "a": { "jp": "も", "romaji": "mo" }, "note": "O を some: só も." },
+          { "q": "うちで べんきょうしました。としょかん＿ べんきょうしました。", "a": { "jp": "でも", "romaji": "de mo" }, "note": "Lugar da ação (で) + も." },
+          { "q": "日曜日に ともだち＿ こうえんに いきました。", "a": { "jp": "と", "romaji": "to" }, "note": "Companhia: fui com um amigo. ともだちも também é gramatical, mas muda o sentido: \"o amigo também foi\"." },
+          { "q": "わたしは がくせいです。アナさん＿ がくせいです。", "a": { "jp": "も", "romaji": "mo" }, "note": "O は some: só も (Aula 02-3)." }
+        ]
+      },
+      {
+        "id": "h2",
+        "type": "traduzir",
+        "prompt": "Traduza para o japonês.",
+        "items": [
+          { "q": "Comprei um guarda-chuva e uma carteira na loja de departamentos.", "a": { "jp": "デパートで かさと さいふを かいました。", "romaji": "Depāto de kasa to saifu o kaimashita." }, "note": "を só depois do último item." },
+          { "q": "Estudei na biblioteca por duas horas.", "a": { "jp": "としょかんで にじかん べんきょうしました。", "romaji": "Toshokan de ni-jikan benkyō shimashita." }, "note": "Duração sem に." },
+          { "q": "Com quem você foi ao Rio? — Fui com a minha família.", "a": { "jp": "だれと リオに いきましたか。— かぞくと いきました。", "romaji": "Dare to Rio ni ikimashita ka. — Kazoku to ikimashita." } },
+          { "q": "Tem muita gente no parque.", "a": { "jp": "こうえんに 人が たくさん います。", "kana": "こうえんに ひとが たくさん います。", "romaji": "Kōen ni hito ga takusan imasu." } },
+          { "q": "Ontem vi um filme sozinho(a).", "a": { "jp": "きのう 一人で えいがを みました。", "kana": "きのう ひとりで えいがを みました。", "romaji": "Kinō hitori de eiga o mimashita." } },
+          { "q": "Às três fui ao banco e esperei uma hora.", "a": { "jp": "三時に ぎんこうに いきました。いちじかん まちました。", "kana": "さんじに ぎんこうに いきました。いちじかん まちました。", "romaji": "Sanji ni ginkō ni ikimashita. Ichi-jikan machimashita." }, "note": "三時に (horário, com に) × いちじかん (duração, sem に)." }
+        ]
+      },
+      {
+        "id": "h3",
+        "type": "ordenar",
+        "prompt": "Ordene os blocos e escreva a frase. Comece pelo predicado e monte de trás pra frente.",
+        "items": [
+          { "q": "[いきました] [ともだちと] [日曜日に] [こうえんに]", "a": { "jp": "日曜日に ともだちと こうえんに いきました。", "kana": "にちようびに ともだちと こうえんに いきました。", "romaji": "Nichiyōbi ni tomodachi to kōen ni ikimashita." }, "note": "O verbo fica sempre no fim; os outros blocos podem trocar um pouco de lugar." },
+          { "q": "[かいました] [たくさん] [パンを] [コンビニで]", "a": { "jp": "コンビニで パンを たくさん かいました。", "romaji": "Konbini de pan o takusan kaimashita." }, "note": "たくさん logo antes do verbo." },
+          { "q": "[ねました] [はちじかん] [きのう]", "a": { "jp": "きのう はちじかん ねました。", "romaji": "Kinō hachi-jikan nemashita." } },
+          { "q": "[あります] [テーブルの 上に] [パンと 水が]", "a": { "jp": "テーブルの 上に パンと 水が あります。", "kana": "テーブルの うえに パンと みずが あります。", "romaji": "Tēburu no ue ni pan to mizu ga arimasu." } },
+          { "q": "[います] [ねこも] [うちに]", "a": { "jp": "うちに ねこも います。", "romaji": "Uchi ni neko mo imasu." }, "note": "が virou も: \"em casa tem gato também\"." }
+        ]
+      },
+      {
+        "id": "h4",
+        "type": "produzir",
+        "prompt": "Conte um passeio, real ou inventado, em 5 frases: com quem foi (と), onde (に／で), por quanto tempo (〜じかん), o que tinha muito ou o que você fez muito (たくさん) e algo que fez \"também\" (も). Depois leia em voz alta e grave.",
+        "items": [
+          { "q": "Modelo, que o seu texto deve seguir na estrutura e não nas palavras:", "a": { "jp": "土曜日に ともだちと リベルダーデに いきました。レストランで ラーメンを たべました。レストランに 日本人が たくさん いました。さんじかん はなしました。コンビニにも いきました。", "kana": "どようびに ともだちと リベルダーデに いきました。レストランで ラーメンを たべました。レストランに にほんじんが たくさん いました。さんじかん はなしました。コンビニにも いきました。", "romaji": "Doyōbi ni tomodachi to Riberudāde ni ikimashita. Resutoran de rāmen o tabemashita. Resutoran ni nihonjin ga takusan imashita. San-jikan hanashimashita. Konbini ni mo ikimashita.", "pt": "No sábado fui à Liberdade com um amigo. Comemos lámen num restaurante. No restaurante tinha muitos japoneses. Conversamos por três horas. Fomos à loja de conveniência também." }, "note": "Confira: と de companhia antes do resto; 〜じかん sem に; たくさん logo antes do verbo; に mantido antes do も (コンビニにも); tudo no passado." }
+        ]
+      }
+    ],
+    "workbook": [
+      { "p": 46, "t": "6 · も", "tip": "Faça depois do ponto 4c." },
+      { "p": 47, "t": "7 · ～時間・Particles", "tip": "Faça depois do ponto 4d. Revisa também as partículas da lição inteira." },
+      { "p": 48, "t": "8 · 答えましょう (Questions)", "tip": "Faça no fim da sessão 2: mistura os pontos da Lição 4." },
+      { "p": 49, "t": "9 · 聞く練習 (Listening Comprehension)", "tip": "Faça com o áudio do Workbook, depois de revisar as Aulas 04-1 a 04-3." },
+      { "p": 135, "t": "Kanji Practice", "tip": "Leitura e escrita (rw): os 14 kanji da Lição 4. Faça junto com Kanji → ✍️ Escrever no Mirage." },
+      { "p": 136, "t": "Using Kanji", "tip": "Faça depois da p. 135. Confira no Genki Answer Key oficial." }
+    ]
+  },
+  "practice": [
+    { "tool": "Wagotabi", "what": "Jogue normalmente. Cace と e も nos diálogos: para cada と, decida se é lista ou companhia; para cada も, diga qual partícula ele substituiu ou acompanhou. Copie 2 frases no caderno. Depois, em Imersão → Jogos, registre a sessão e cole uma delas na Anatomia.", "min": 15 },
+    { "tool": "Mirage", "what": "Kanji → ✍️ Escrever: os 14 kanji da Lição 4 (日 本 人 月 火 水 木 金 土 曜 上 下 中 半), com a ordem dos traços.", "min": 15 },
+    { "tool": "Mirage", "what": "Praticar L4, revisando a lição inteira. Depois, o SRS com o baralho \"🌊 Tudo\".", "min": 10 },
+    { "tool": "Shadowing", "what": "Toque 🔊 em cada exemplo desta aula e repita junto 3 vezes. Capriche no ritmo de さんじかん e いちじかんはん: cada sílaba tem a mesma duração.", "min": 5 },
+    { "tool": "Fala", "what": "Grave em até 40 s o relato do passeio (lição de casa h4). Ouça e confira os と, os も e as durações.", "min": 5 }
+  ],
+  "culture": {
+    "title": "Dividir a conta: わりかん",
+    "titleJp": "わりかん",
+    "body": "Entre amigos, no Japão, é comum dividir a conta em partes iguais: isso se chama **わりかん**. Em muitos restaurantes o pagamento é feito no caixa, na saída, e não na mesa. Também dá para pedir contas separadas dizendo べつべつで おねがいします, mas em grupos grandes, como num izakaya, em geral se paga tudo junto e depois cada um acerta a sua parte. Em situações de trabalho costuma ser diferente: o chefe ou a pessoa mais velha às vezes paga uma parte maior, ou tudo. Na dúvida, observe o que o grupo faz.",
+    "try": "Faça a conta em voz alta, em japonês: você, a Maria e o Pedro jantaram juntos e a conta deu 4.500 ienes. ぜんぶで 四千五百円です。一人 千五百円です。 Depois repita com outros valores (6.000 ienes para 4 pessoas, 10.000 ienes para 5…)."
+  },
+  "checklist": [
+    "Listo 2 ou 3 coisas com と, com a partícula uma vez só, no fim do bloco.",
+    "Digo com quem fiz algo (〜と) ou que fiz sozinho (一人で), sem olhar.",
+    "Ponho も no bloco certo: no lugar de は／が／を, e depois de に／で／へ／と (にも, でも…).",
+    "Diferencio 二時 (às duas) de にじかん (por duas horas) e leio よじかん e くじかん sem errar.",
+    "Uso たくさん antes do verbo (しゃしんを たくさん とりました) e sei que não é \"muito\" de intensidade.",
+    "Leio e escrevo os 14 kanji da Lição 4.",
+    "Fiz a lição de casa e conferi o gabarito, e refiz o que errei.",
+    "Fiz as páginas 46–49 e 135–136 do Workbook."
+  ]
+}

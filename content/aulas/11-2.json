@@ -1,0 +1,194 @@
+{
+  "id": "11-2",
+  "unit": "G1-L11",
+  "genki": { "book": "Genki I", "lesson": 11, "points": ["〜ことがある", "Noun A や Noun B"] },
+  "title": "Experiência e listas",
+  "titleJp": "カラオケに 行ったことが ありますか",
+  "canDo": [
+    "Contar experiências de vida com 〜たことが あります (\"já fiz alguma vez\") e dizer o que nunca fiz com 〜たことが ありません.",
+    "Perguntar se alguém já fez algo (〜たことが ありますか) e responder はい、あります／いいえ、ありません.",
+    "Separar três ideias que o português mistura: experiência (〜たことが あります), fato com data (〜ました) e \"já terminei\" (もう 〜ました).",
+    "Dar exemplos de coisas com A や B (など), e saber quando a lista é completa e pede と."
+  ],
+  "duration": {
+    "total": "60–75 min",
+    "blocks": [
+      { "t": "Aquecimento: diga em voz alta 3 frases com 〜たい e 2 com 〜たり da Aula 11-1", "min": 5 },
+      { "t": "Vocabulário: ouvir 🔊 cada palavra e repetir 2 vezes", "min": 10 },
+      { "t": "Gramática 4a: 〜たことが ある × passado simples × もう, com um 🔬", "min": 15 },
+      { "t": "Gramática 4b: A や B × A と B", "min": 10 },
+      { "t": "Vídeo da Lição 11 (bloco 6), pausando nos exemplos", "min": 10 },
+      { "t": "Lição de casa no caderno + conferir no gabarito", "min": 15 },
+      { "t": "Checklist (bloco 10) + anotar dúvidas no caderno da aula", "min": 5 }
+    ]
+  },
+  "prereqs": {
+    "aulas": ["04-3", "09-1", "09-3", "11-1"],
+    "skills": [
+      "Fazer a forma た, o passado curto, de qualquer verbo (Aula 09-1): 行った, 食べた, 見た, 飲んだ, した. O 〜ことが ある é montado em cima dela.",
+      "Usar もう 〜ました, \"já fiz\" no sentido de \"já terminei\" (Aula 09-3). Nesta aula você separa esse \"já\" do \"já fiz alguma vez\".",
+      "Ligar substantivos com と, \"A e B\" (Aula 04-3).",
+      "Os pontos da Aula 11-1 (〜たい e 〜たり): eles voltam nos exemplos e na lição de casa. O や desta aula é o \"primo\" do たり."
+    ],
+    "vocab": [
+      { "jp": "カラオケ", "kana": "カラオケ", "romaji": "karaoke", "pt": "karaokê" },
+      { "jp": "歌う", "kana": "うたう", "romaji": "utau", "pt": "cantar" },
+      { "jp": "歌手", "kana": "かしゅ", "romaji": "kashu", "pt": "cantor(a)" },
+      { "jp": "有名", "kana": "ゆうめい", "romaji": "yūmei", "pt": "famoso(a) (adjetivo な: 有名な 歌手)" },
+      { "jp": "会う", "kana": "あう", "romaji": "au", "pt": "encontrar(-se com) alguém (〜に 会う)" },
+      { "jp": "雪", "kana": "ゆき", "romaji": "yuki", "pt": "neve" },
+      { "jp": "ひこうき", "kana": "ひこうき", "romaji": "hikōki", "pt": "avião" },
+      { "jp": "のる", "kana": "のる", "romaji": "noru", "pt": "andar de, embarcar em (〜に のる)" },
+      { "jp": "しんかんせん", "kana": "しんかんせん", "romaji": "shinkansen", "pt": "trem-bala" },
+      { "jp": "きもの", "kana": "きもの", "romaji": "kimono", "pt": "quimono" },
+      { "jp": "きる", "kana": "きる", "romaji": "kiru", "pt": "vestir (camisa, casaco, quimono)" },
+      { "jp": "おさけ", "kana": "おさけ", "romaji": "osake", "pt": "bebida alcoólica; saquê" },
+      { "jp": "手紙", "kana": "てがみ", "romaji": "tegami", "pt": "carta" },
+      { "jp": "書く", "kana": "かく", "romaji": "kaku", "pt": "escrever" },
+      { "jp": "外国", "kana": "がいこく", "romaji": "gaikoku", "pt": "país estrangeiro, exterior" },
+      { "jp": "住む", "kana": "すむ", "romaji": "sumu", "pt": "morar (〜に 住む)" },
+      { "jp": "やさい", "kana": "やさい", "romaji": "yasai", "pt": "legumes e verduras" },
+      { "jp": "くだもの", "kana": "くだもの", "romaji": "kudamono", "pt": "fruta" },
+      { "jp": "にく", "kana": "にく", "romaji": "niku", "pt": "carne" },
+      { "jp": "さかな", "kana": "さかな", "romaji": "sakana", "pt": "peixe" },
+      { "jp": "スーパー", "kana": "スーパー", "romaji": "sūpā", "pt": "supermercado" },
+      { "jp": "町", "kana": "まち", "romaji": "machi", "pt": "cidade, bairro" },
+      { "jp": "など", "kana": "など", "romaji": "nado", "pt": "etc., entre outros (no fim de uma lista)" }
+    ]
+  },
+  "grammar": [
+    {
+      "id": "11-2-a",
+      "gc": "11-3",
+      "title": "〜たことが ある (experiência)",
+      "gloss": "já fiz (alguma vez na vida)",
+      "explanation": "〜たことが ある conta uma **experiência de vida**: algo que você já fez **pelo menos uma vez**, sem dizer quando. Monte com a **forma た** (Aula 09-1) + ことが あります: 行った**ことが あります** (já fui), 食べた**ことが あります** (já comi).\n• Ao pé da letra: \"existe (あります) o fato (こと) de eu ter ido\". こと transforma a ação num **fato**, e あります diz que esse fato existe na sua vida.\n• Negativa: 〜たことが **ありません** = \"nunca fiz\". Pergunta: 〜たことが **ありますか** = \"você já fez alguma vez?\". Resposta curta: はい、あります。／いいえ、ありません。\n• A ação fica **sempre na forma た**. Quem muda (afirmativa, negativa, pergunta) é só o あります do fim.\n• O resto da frase não muda: [lugar] に 行ったことが, [objeto] を 食べたことが, [pessoa] に 会ったことが.\n**Três frases que o português mistura:**\n• きのう ラーメンを 食べました。 = \"Comi lámen ontem\": um fato, num momento concreto → passado simples 〜ました.\n• もう ひるごはんを 食べました。 = \"Já almocei\", no sentido de \"já terminei\" → もう 〜ました (Aula 09-3).\n• 日本の ラーメンを 食べたことが あります。 = \"Já comi lámen japonês\", alguma vez na vida → 〜たことが あります, sem data.",
+      "structure": "[ação na forma た] ことが あります／ありません／ありますか",
+      "examples": [
+        { "jp": "わたしは 雪を 見たことが ありません。", "kana": "わたしは ゆきを みたことが ありません。", "romaji": "Watashi wa yuki o mita koto ga arimasen.", "pt": "Eu nunca vi neve." },
+        { "jp": "ルーカスさんは 日本の おさけを 飲んだことが ありますか。— はい、あります。", "kana": "ルーカスさんは にほんの おさけを のんだことが ありますか。— はい、あります。", "romaji": "Rūkasu-san wa Nihon no osake o nonda koto ga arimasu ka. — Hai, arimasu.", "pt": "Lucas, você já tomou saquê japonês? — Sim, já." },
+        { "jp": "すずきさんは ブラジルりょうりを 食べたことが ありますか。— はい、先月 サンパウロで 食べました。", "kana": "すずきさんは ブラジルりょうりを たべたことが ありますか。— はい、せんげつ サンパウロで たべました。", "romaji": "Suzuki-san wa Burajiru ryōri o tabeta koto ga arimasu ka. — Hai, sengetsu Sanpauro de tabemashita.", "pt": "Sr(a). Suzuki, já comeu comida brasileira? — Sim, comi no mês passado, em São Paulo." }
+      ],
+      "pitfalls": [
+        "A ação vai na forma た: 行ったことが あります (certo) × 行きましたことが あります (errado). Com a forma de dicionário (行くことが ある) a expressão muda de sentido (\"às vezes acontece\"), e esse uso fica para mais tarde.",
+        "Experiência não tem data. Com data, use o passado simples: きのう 映画を 見ました (certo) × きのう 映画を 見たことが あります (errado).",
+        "O \"já\" de \"já terminei\" é もう: もう ひるごはんを 食べました = \"já almocei\" (certo) × ひるごはんを 食べたことが あります (isso seria \"já almocei alguma vez na vida\").",
+        "Use para coisas que contam como experiência: viagens, comidas diferentes, encontros. 日本の おさけを 飲んだことが ありますか (natural) × 水を 飲んだことが ありますか (estranho: todo mundo já bebeu água)."
+      ],
+      "howToStudy": [
+        "Aperte 🔬 no exemplo da neve. A Anatomia lê 見たことが ありません como um bloco só: o PREDICADO de experiência. 雪を é o OBJETO. Leia pelo fim: \"nunca aconteceu\" → o quê? → ver neve.",
+        "Faça duas listas em voz alta: 5 experiências suas (〜たことが あります) e 5 coisas que você nunca fez (〜たことが ありません).",
+        "Treine a troca experiência → fato com data. Pergunte e responda sozinho, 3 vezes: 〜たことが ありますか。— はい、あります。[quando] 〜ました。"
+      ],
+      "flag": null
+    },
+    {
+      "id": "11-2-b",
+      "gc": "11-4",
+      "title": "A や B (lista de exemplos)",
+      "gloss": "A, B e outras coisas",
+      "explanation": "や liga **substantivos** numa lista de **exemplos**: você cita alguns e deixa claro que há mais. É o primo do たり da Aula 11-1: たり dá exemplos de **ações**, や dá exemplos de **coisas**.\n• と (Aula 04-3) é a lista **completa**: パンと ぎゅうにゅうを 買いました = comprei pão e leite (e só isso).\n• や é a lista **aberta**: パンや ぎゅうにゅうを 買いました = comprei pão, leite… (e outras coisas).\n• Pode reforçar com **など** (\"etc.\") depois do último item: パンや ぎゅうにゅう**など**を 買いました.\n• A partícula vem **uma vez só, depois do último item**, e vale para a lista inteira: を, が, に… Na 🔬, o primeiro item aparece como E (LISTA), pendurado no seguinte, e o último leva a função da partícula (OBJETO, SUJEITO…).\n• Leia pelo fim: 買いました (comprei) → o quê? → pão, leite e outras coisas.",
+      "structure": "[N₁] や [N₂] (など) + partícula",
+      "examples": [
+        { "jp": "スーパーで やさいや くだものを 買いました。", "kana": "スーパーで やさいや くだものを かいました。", "romaji": "Sūpā de yasai ya kudamono o kaimashita.", "pt": "No supermercado, comprei legumes, frutas e outras coisas." },
+        { "jp": "カラオケで アニメソングや サンバを 歌いました。", "kana": "カラオケで アニメソングや サンバを うたいました。", "romaji": "Karaoke de anime songu ya sanba o utaimashita.", "pt": "No karaokê, cantei música de anime, samba e mais." },
+        { "jp": "リオには きれいな うみや 山などが あります。", "kana": "リオには きれいな うみや やまなどが あります。", "romaji": "Rio ni wa kirei na umi ya yama nado ga arimasu.", "pt": "No Rio há mar bonito, montanhas etc." }
+      ],
+      "pitfalls": [
+        "や só liga substantivos. Para ações, use たり (Aula 11-1): 映画を 見たり、歌を 歌ったり します (certo) × 映画を 見るや 歌を 歌います (errado).",
+        "A partícula vem uma vez, no fim da lista: パンや ぎゅうにゅうを 買いました (certo) × パンを や ぎゅうにゅうを 買いました (errado).",
+        "Se a lista é completa, use と: きょうだいは あにと いもうとです (certo, são só esses dois) × きょうだいは あにや いもうとです (errado: dá a entender que há mais irmãos)."
+      ],
+      "howToStudy": [
+        "Olhe em volta e descreva, em voz alta, 3 lugares com や: a sua mesa, a sua cozinha e o seu quarto (〜に 〜や 〜が あります).",
+        "Aperte 🔬 no exemplo do karaokê: アニメソングや aparece como E (LISTA) e サンバを como OBJETO. O を do fim vale para os dois. O PREDICADO é 歌いました.",
+        "Diga a mesma frase duas vezes, uma com と e outra com や, e explique em voz alta, em português, a diferença: lista fechada × exemplos."
+      ],
+      "flag": null
+    }
+  ],
+  "media": [
+    { "order": 1, "kind": "leitura", "title": "Genki I · Lição 11: as explicações de gramática (〜ことがある, Noun A や Noun B) e a parte de Leitura e Escrita da lição (kanji novos)", "where": "Seu livro Genki I (3ª ed.)", "url": "", "when": "Antes desta aula ou logo depois do bloco de gramática" },
+    { "order": 2, "kind": "video", "title": "ToKini Andy: aula da Lição 11 do Genki I (a parte de 〜ことがある e や)", "where": "YouTube · canal ToKini Andy", "url": "", "search": "ToKini Andy Genki Lesson 11", "when": "Depois de estudar os 2 pontos: o vídeo confirma e dá mais exemplos" },
+    { "order": 3, "kind": "app", "title": "genki-companion: Lição 11, pontos 3 e 4 (marque ✍️ quando terminar)", "where": "../genki-companion/index.html", "url": "../genki-companion/index.html", "when": "No fim, para revisar e marcar o progresso" }
+  ],
+  "homework": {
+    "intro": "Faça no caderno, à mão. Escreva o japonês com os kanji que você já conhece e kana no resto. Só depois abra o gabarito, item por item. Circule o que errou e refaça no dia seguinte.",
+    "tasks": [
+      {
+        "id": "h1",
+        "type": "transformar",
+        "prompt": "Transforme o fato (〜ました) em experiência, na forma pedida: já fiz, nunca fiz ou pergunta.",
+        "items": [
+          { "q": "ひこうきに のりました。 → já fiz", "a": { "jp": "ひこうきに のったことが あります。", "romaji": "Hikōki ni notta koto ga arimasu." } },
+          { "q": "きものを きました。 → já fiz", "a": { "jp": "きものを きたことが あります。", "romaji": "Kimono o kita koto ga arimasu." }, "note": "きる (vestir) é verbo る: きた. Não confunda com 来た (vir), que se lê igual." },
+          { "q": "日本語で 手紙を 書きました。 → já fiz", "a": { "jp": "日本語で 手紙を 書いたことが あります。", "kana": "にほんごで てがみを かいたことが あります。", "romaji": "Nihongo de tegami o kaita koto ga arimasu." } },
+          { "q": "ふじさんに のぼりました。 → nunca fiz", "a": { "jp": "ふじさんに のぼったことが ありません。", "romaji": "Fujisan ni nobotta koto ga arimasen." } },
+          { "q": "カラオケで 歌いました。 → pergunta", "a": { "jp": "カラオケで 歌ったことが ありますか。", "kana": "カラオケで うたったことが ありますか。", "romaji": "Karaoke de utatta koto ga arimasu ka." } }
+        ]
+      },
+      {
+        "id": "h2",
+        "type": "ordenar",
+        "prompt": "Ordene os blocos e escreva a frase. Monte de trás pra frente: primeiro o predicado, que vai no fim.",
+        "items": [
+          { "q": "ありますか ／ 会ったことが ／ 有名な 歌手に", "a": { "jp": "有名な 歌手に 会ったことが ありますか。", "kana": "ゆうめいな かしゅに あったことが ありますか。", "romaji": "Yūmei na kashu ni atta koto ga arimasu ka." }, "note": "\"Você já encontrou um cantor famoso?\" A pessoa que você encontra leva に." },
+          { "q": "ありません ／ 父は ／ 食べたことが ／ すしを", "a": { "jp": "父は すしを 食べたことが ありません。", "kana": "ちちは すしを たべたことが ありません。", "romaji": "Chichi wa sushi o tabeta koto ga arimasen." }, "note": "\"Meu pai nunca comeu sushi.\" Tópico no começo, predicado no fim." },
+          { "q": "食べました ／ パーティーで ／ ピザや すしを", "a": { "jp": "パーティーで ピザや すしを 食べました。", "kana": "パーティーで ピザや すしを たべました。", "romaji": "Pātī de piza ya sushi o tabemashita." }, "note": "\"Na festa, comi pizza, sushi e outras coisas.\" O bloco com や fica inteiro, com o を no fim." },
+          { "q": "あります ／ 見たことが ／ えいがかんで ／ 日本の 映画を", "a": { "jp": "えいがかんで 日本の 映画を 見たことが あります。", "kana": "えいがかんで にほんの えいがを みたことが あります。", "romaji": "Eigakan de Nihon no eiga o mita koto ga arimasu." }, "note": "\"Já vi filme japonês no cinema.\" Lugar da ação com で." }
+        ]
+      },
+      {
+        "id": "h3",
+        "type": "traduzir",
+        "prompt": "Traduza para o japonês. Antes de escrever, decida: é experiência, fato com data ou \"já terminei\"? A lista é completa ou são só exemplos?",
+        "items": [
+          { "q": "Você já foi a um karaokê? — Não, nunca fui.", "a": { "jp": "カラオケに 行ったことが ありますか。— いいえ、ありません。", "kana": "カラオケに いったことが ありますか。— いいえ、ありません。", "romaji": "Karaoke ni itta koto ga arimasu ka. — Iie, arimasen." } },
+          { "q": "Minha mãe nunca andou de avião.", "a": { "jp": "母は ひこうきに のったことが ありません。", "kana": "ははは ひこうきに のったことが ありません。", "romaji": "Haha wa hikōki ni notta koto ga arimasen." }, "note": "母 (はは) é a sua mãe; a mãe dos outros é おかあさん." },
+          { "q": "Ontem eu vi um filme japonês.", "a": { "jp": "きのう 日本の 映画を 見ました。", "kana": "きのう にほんの えいがを みました。", "romaji": "Kinō Nihon no eiga o mimashita." }, "note": "Tem data (きのう): passado simples, não 〜たことが." },
+          { "q": "Você já almoçou? — Sim, já almocei.", "a": { "jp": "もう ひるごはんを 食べましたか。— はい、もう 食べました。", "kana": "もう ひるごはんを たべましたか。— はい、もう たべました。", "romaji": "Mō hirugohan o tabemashita ka. — Hai, mō tabemashita." }, "note": "\"Já\" de \"já terminei\": もう 〜ました (Aula 09-3), não 〜たことが." },
+          { "q": "Comprei carne e peixe (só isso).", "a": { "jp": "にくと さかなを 買いました。", "kana": "にくと さかなを かいました。", "romaji": "Niku to sakana o kaimashita." }, "note": "Lista completa: と." },
+          { "q": "No meu bairro tem supermercado, hospital etc.", "a": { "jp": "わたしの 町には スーパーや 病院などが あります。", "kana": "わたしの まちには スーパーや びょういんなどが あります。", "romaji": "Watashi no machi ni wa sūpā ya byōin nado ga arimasu." }, "note": "Lista de exemplos: や, e など reforça o \"etc.\". O が vem uma vez, no fim." }
+        ]
+      },
+      {
+        "id": "h4",
+        "type": "produzir",
+        "prompt": "Entreviste a si mesmo: escreva 3 perguntas com 〜たことが ありますか e as suas respostas (em uma delas diga quando foi, com 〜ました), e mais 1 frase com や sobre a sua casa ou o seu bairro. Depois leia em voz alta e grave no celular.",
+        "items": [
+          { "q": "Modelo, que o seu texto deve seguir na estrutura e não nas palavras:", "a": { "jp": "ふじさんに のぼったことが ありますか。— いいえ、ありません。でも、のぼりたいです。日本の 歌を 歌ったことが ありますか。— はい、あります。先月 カラオケで 歌いました。外国に 住んだことが ありますか。— いいえ、ありません。わたしの へやには ギターや マンガなどが あります。", "kana": "ふじさんに のぼったことが ありますか。— いいえ、ありません。でも、のぼりたいです。にほんの うたを うたったことが ありますか。— はい、あります。せんげつ カラオケで うたいました。がいこくに すんだことが ありますか。— いいえ、ありません。わたしの へやには ギターや マンガなどが あります。", "romaji": "Fujisan ni nobotta koto ga arimasu ka. — Iie, arimasen. Demo, noboritai desu. Nihon no uta o utatta koto ga arimasu ka. — Hai, arimasu. Sengetsu karaoke de utaimashita. Gaikoku ni sunda koto ga arimasu ka. — Iie, arimasen. Watashi no heya ni wa gitā ya manga nado ga arimasu.", "pt": "Já subiu o monte Fuji? — Não, nunca. Mas quero subir. Já cantou música japonesa? — Sim, já. Cantei no karaokê no mês passado. Já morou no exterior? — Não, nunca. No meu quarto tem violão, mangá e outras coisas." }, "note": "Confira: forma た + ことが; data só no passado simples (先月 〜ました); ありません para \"nunca\"; e, no や, a partícula uma vez só, no fim da lista." }
+        ]
+      }
+    ],
+    "workbook": [
+      { "p": 107, "t": "3 · ～ことがある", "tip": "Faça depois do ponto 4a." },
+      { "p": 108, "t": "4 · Noun A や Noun B", "tip": "Faça depois do ponto 4b." },
+      { "p": 109, "t": "5 · 答えましょう (Questions)", "tip": "Revisão da Lição 11 inteira: faça depois das Aulas 11-1 e 11-2." },
+      { "p": 110, "t": "6 · 聞く練習 (Listening Comprehension)", "tip": "Com o áudio oficial do Workbook. Faça por último, e ouça mais de uma vez antes de responder." },
+      { "p": 149, "t": "Kanji Practice", "tip": "Leitura e escrita: os kanji da Lição 11. Antes, treine a ordem dos traços em Kanji → ✍️ Escrever, no Mirage." },
+      { "p": 150, "t": "Using Kanji", "tip": "Depois da p. 149. Confira tudo no Genki Answer Key oficial." }
+    ]
+  },
+  "practice": [
+    { "tool": "Wagotabi", "what": "Jogue normalmente e cace 〜ことが ある (na fala casual também aparece ことが ない, a negativa curta) e listas com や ou など. Copie 2 frases no caderno, marque o PREDICADO e diga se é experiência ou fato com data. Registre a sessão em Imersão → Jogos e cole uma das frases na 🔬 Anatomia.", "min": 15 },
+    { "tool": "Mirage", "what": "Praticar L11: escuta e compreensão. Depois, Treinos → 🔬 Anatomia → 🧱 Montar de trás pra frente: 5 frases, começando pelo あります／ありません do fim.", "min": 10 },
+    { "tool": "Kanji", "what": "Kanji → ✍️ Escrever: os kanji da Lição 11 (手, 紙, 好, 近, 明, 病, 院, 映, 画, 歌, 市, 所, 勉, 強, 有, 旅), antes das páginas 149–150 do Workbook.", "min": 10 },
+    { "tool": "Shadowing", "what": "Toque 🔊 em cada exemplo desta aula e repita junto 3 vezes. Em 見たことが ありません, não pare entre こと e が: é um bloco só.", "min": 5 },
+    { "tool": "Fala", "what": "Grave uma entrevista de 1 minuto consigo mesmo: 3 perguntas 〜たことが ありますか com resposta. Em uma delas, conte quando foi com 〜ました.", "min": 5 }
+  ],
+  "culture": {
+    "title": "Karaokê (カラオケ)",
+    "titleJp": "カラオケ",
+    "body": "A palavra カラオケ junta から (空, \"vazio\") com オケ, abreviação de オーケストラ: \"orquestra vazia\", ou seja, a música sem a voz. O karaokê surgiu no Japão no começo dos anos 1970 e de lá se espalhou pelo mundo. No Japão, o mais comum não é cantar num palco para o bar inteiro, e sim alugar uma **salinha fechada** (カラオケボックス) por hora, só com o seu grupo. Muitas casas oferecem pacotes de bebida à vontade (のみほうだい), e as músicas se escolhem num tablet ou controle. É um programa comum entre amigos e colegas de trabalho, e muita gente também vai **sozinha** para treinar (ひとカラ). Em geral, ninguém espera que você cante bem: o clima costuma ser de brincadeira.",
+    "try": "Escolha uma música japonesa lenta de que você goste, leia o título em voz alta e procure 2 palavras que você já conhece. Depois diga em voz alta: カラオケに 行ったことが あります。(ou ありません。) カラオケで 日本の 歌を 歌いたいです。"
+  },
+  "checklist": [
+    "Monto 〜たことが あります a partir da forma た de qualquer verbo, sem olhar.",
+    "Digo o que nunca fiz com 〜たことが ありません e pergunto com 〜たことが ありますか.",
+    "Separo experiência (〜たことが あります), fato com data (〜ました) e \"já terminei\" (もう 〜ました).",
+    "Uso や para exemplos e と para listas completas, com a partícula uma vez só, no fim.",
+    "Explico por que や (coisas) e たり (ações) são \"primos\".",
+    "Fiz a lição de casa e conferi o gabarito, e refiz o que errei.",
+    "Fiz as páginas 107–110 e 149–150 do Workbook."
+  ]
+}

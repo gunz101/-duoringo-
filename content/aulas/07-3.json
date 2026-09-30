@@ -1,0 +1,197 @@
+{
+  "id": "07-3",
+  "unit": "G1-L07",
+  "genki": { "book": "Genki I", "lesson": 7, "points": ["Verb Stem + に行く / 来る / 帰る", "Counting People"] },
+  "title": "Ir fazer · contar pessoas",
+  "titleJp": "二人で あそびに 行きます",
+  "canDo": [
+    "Dizer para onde vou e para fazer o quê: デパートへ かいものに 行きます.",
+    "Usar radical + に com 行く, くる e 帰る (たべに 行く, あそびに くる, ひるごはんを 食べに 帰る).",
+    "Contar pessoas de 1 a 10 (ひとり, ふたり, さんにん, よにん…) e perguntar なんにん.",
+    "Dizer quantos irmãos tenho e quantas pessoas há num lugar (〜が 三人 います).",
+    "Entrar e sair da casa de alguém com おじゃまします e おじゃましました."
+  ],
+  "duration": {
+    "total": "70–90 min",
+    "blocks": [
+      { "t": "Aquecimento: contar de 1 a 10 em voz alta e dizer a forma ます de 5 verbos. Aula longa: se quiser, divida em 2 sessões e pare depois do vídeo", "min": 5 },
+      { "t": "Vocabulário: ouvir 🔊 cada palavra e repetir 2 vezes", "min": 10 },
+      { "t": "Gramática: os 2 pontos, cada um com os exemplos lidos em voz alta e um 🔬", "min": 20 },
+      { "t": "Vídeo da Lição 7 (bloco 6), pausando nos exemplos", "min": 10 },
+      { "t": "Lição de casa no caderno + conferir no gabarito", "min": 20 },
+      { "t": "Kanji da Lição 7: Mirage → Kanji → ✍️ Escrever e depois as páginas de kanji do Workbook", "min": 15 },
+      { "t": "Checklist (bloco 10) + reler o diálogo da Lição 7 no Genki para fechar a lição", "min": 5 }
+    ]
+  },
+  "prereqs": {
+    "aulas": ["03-2", "04-1", "05-3", "07-2"],
+    "skills": [
+      "Tirar o radical de qualquer verbo: é a forma ます sem o ます (たべます → たべ, かいます → かい, します → し, きます → き).",
+      "Usar に / へ para destino (Aula 03-2) e います para pessoas (Aula 04-1).",
+      "Contar de 1 a 10 e conhecer os contadores de coisas (ひとつ, ふたつ…) da Aula 05-3, para não misturar com os de pessoas."
+    ],
+    "vocab": [
+      { "jp": "行く", "kana": "いく", "romaji": "iku", "pt": "ir" },
+      { "jp": "くる", "kana": "くる", "romaji": "kuru", "pt": "vir (irregular: きます, きて)" },
+      { "jp": "帰る", "kana": "かえる", "romaji": "kaeru", "pt": "voltar (para casa, para o seu país)" },
+      { "jp": "かいもの", "kana": "かいもの", "romaji": "kaimono", "pt": "compras → かいものに 行く: ir fazer compras" },
+      { "jp": "あそぶ", "kana": "あそぶ", "romaji": "asobu", "pt": "divertir-se, sair com amigos → あそびに くる: vir visitar" },
+      { "jp": "ひるごはん", "kana": "ひるごはん", "romaji": "hirugohan", "pt": "almoço" },
+      { "jp": "デパート", "kana": "デパート", "romaji": "depāto", "pt": "loja de departamento" },
+      { "jp": "プール", "kana": "プール", "romaji": "pūru", "pt": "piscina" },
+      { "jp": "カラオケ", "kana": "カラオケ", "romaji": "karaoke", "pt": "karaokê" },
+      { "jp": "土曜日", "kana": "どようび", "romaji": "doyōbi", "pt": "sábado" },
+      { "jp": "日曜日", "kana": "にちようび", "romaji": "nichiyōbi", "pt": "domingo" },
+      { "jp": "一人", "kana": "ひとり", "romaji": "hitori", "pt": "uma pessoa; 一人で: sozinho(a)" },
+      { "jp": "二人", "kana": "ふたり", "romaji": "futari", "pt": "duas pessoas; 二人で: a dois, nós dois" },
+      { "jp": "三人", "kana": "さんにん", "romaji": "sannin", "pt": "três pessoas" },
+      { "jp": "四人", "kana": "よにん", "romaji": "yonin", "pt": "quatro pessoas" },
+      { "jp": "〜人", "kana": "〜にん", "romaji": "-nin", "pt": "contador de pessoas (a partir de 3)" },
+      { "jp": "なんにん", "kana": "なんにん", "romaji": "nannin", "pt": "quantas pessoas" },
+      { "jp": "きょうだい", "kana": "きょうだい", "romaji": "kyōdai", "pt": "irmãos (de modo geral)" },
+      { "jp": "クラス", "kana": "クラス", "romaji": "kurasu", "pt": "turma" },
+      { "jp": "本", "kana": "ほん", "romaji": "hon", "pt": "livro" },
+      { "jp": "おじゃまします", "kana": "おじゃまします", "romaji": "ojama shimasu", "pt": "com licença (ao entrar na casa de alguém)" },
+      { "jp": "おみやげ", "kana": "おみやげ", "romaji": "omiyage", "pt": "lembrancinha, presentinho" }
+    ]
+  },
+  "grammar": [
+    {
+      "id": "07-3-a",
+      "gc": "7-5",
+      "title": "radical + に 行く / くる / 帰る",
+      "gloss": "ir / vir / voltar PARA fazer algo",
+      "explanation": "Para dizer **o objetivo de um deslocamento** (\"vou à loja **para** comprar\"), o japonês pega o **radical** do verbo, que é a forma ます sem o ます, e junta に + um verbo de movimento: 行く, くる ou 帰る.\n• たべます → たべ + に 行きます = \"vou comer (em algum lugar)\".\n• かいます → かい + に 行きます = \"vou comprar\".\n• あそびます → あそび + に きます = \"vem se divertir, vem visitar\".\n• A frase pode ter **dois に** com funções diferentes: [lugar] に = para onde (o DESTINO) e [radical] に = para quê (o OBJETIVO). Para não se perder, use へ no destino: デパートへ くつを かいに 行きます。\n• O objeto do verbo do meio continua com を: ひるごはんを 食べに 帰ります。\n• Com substantivos de atividade, dá para usar o próprio substantivo + に: かいものに 行く (\"ir fazer compras\"), りょこうに 行く (\"ir viajar\"). É o mesmo que かいものを しに 行く.\n• O tempo e a negação ficam no verbo de movimento do fim: 行きました (fui fazer), 行きません (não vou fazer), 行きませんか (vamos?, da Aula 03-3).\n• Leia pelo predicado: 行きます (vou) ← かいものに (para quê? fazer compras) ← デパートへ (para onde? à loja).",
+      "structure": "[lugar] へ ([objeto] を) [radical] に 行きます / きます / 帰ります",
+      "examples": [
+        { "jp": "土曜日に デパートへ かいものに 行きます。", "kana": "どようびに デパートへ かいものに いきます。", "romaji": "Doyōbi ni depāto e kaimono ni ikimasu.", "pt": "No sábado vou à loja de departamento fazer compras." },
+        { "jp": "ルーカスさんは 毎日 うちへ ひるごはんを 食べに 帰ります。", "kana": "ルーカスさんは まいにち うちへ ひるごはんを たべに かえります。", "romaji": "Rūkasu-san wa mainichi uchi e hirugohan o tabe ni kaerimasu.", "pt": "O Lucas volta para casa todo dia para almoçar." },
+        { "jp": "日曜日に うちへ あそびに きませんか。", "kana": "にちようびに うちへ あそびに きませんか。", "romaji": "Nichiyōbi ni uchi e asobi ni kimasen ka.", "pt": "Não quer vir me visitar em casa no domingo?" }
+      ],
+      "pitfalls": [
+        "Use o radical, não a forma de dicionário: たべに 行きます ✓ × たべるに 行きます. Com する, o radical é し: テニスを しに 行きます ✓ × テニスを するに 行きます.",
+        "\"Vou estudar\" sem sair do lugar é só べんきょうします. べんきょうしに 行きます é \"vou (a algum lugar) estudar\": precisa haver deslocamento. Não use 〜に 行きます como o nosso \"vou + verbo\" de futuro.",
+        "O destino não é o objetivo: デパートへ くつを かいに 行きます ✓ × デパートを かいに 行きます, que seria \"ir comprar a loja\"."
+      ],
+      "howToStudy": [
+        "Aperte 🔬 no exemplo do sábado. São três blocos com に / へ, cada um com uma função: 土曜日に = QUANDO, デパートへ = DESTINO, かいものに = OBJETIVO. O PREDICADO é 行きます: leia de trás para frente.",
+        "Diga em voz alta 5 planos verdadeiros para o seu fim de semana com [lugar] へ [radical] に 行きます (スーパーへ, こうえんへ, カフェへ…).",
+        "Transforme rápido, em voz alta, 6 verbos em radical + に: のむ → のみに, 見る → 見に, およぐ → およぎに, する → しに, あそぶ → あそびに, うたう → うたいに."
+      ],
+      "flag": null
+    },
+    {
+      "id": "07-3-b",
+      "gc": "7-6",
+      "title": "ひとり, ふたり, 〜にん (contar pessoas)",
+      "gloss": "quantas pessoas",
+      "explanation": "Pessoas têm contador próprio. **1 e 2 são irregulares** e, a partir de 3, é número + **にん** (人):\n• 1 ひとり (一人) · 2 ふたり (二人) · 3 さんにん · 4 **よにん** · 5 ごにん · 6 ろくにん · 7 しちにん ou ななにん · 8 はちにん · 9 **きゅうにん** · 10 じゅうにん.\n• A pergunta é **なんにん**: なんにん いますか (\"quantas pessoas há?\"), かぞくは なんにんですか (\"quantas pessoas tem a sua família?\").\n• Onde entra o número: em geral **logo antes do verbo**, depois do substantivo com a partícula: 学生が 三人 います (\"há três estudantes\"). O número não leva partícula nenhuma.\n• 一人で = \"sozinho(a)\"; 二人で = \"a dois, nós dois\". Aqui o で diz **com quantas pessoas** a ação é feita.\n• Contando a família, em geral a pessoa se inclui: quem diz かぞくは 五人です está contando a si mesmo junto. Já em きょうだいが 二人 います, são dois irmãos além de você.\n• Não misture com os contadores de coisas da Aula 05-3: ふたつ = 2 coisas, ふたり = 2 pessoas.",
+      "structure": "ひとり · ふたり · [número] にん · なんにん — [pessoa] が [número] います。",
+      "examples": [
+        { "jp": "ルーカスさんは きょうだいが なんにん いますか。— 二人 います。あにと いもうとです。", "kana": "ルーカスさんは きょうだいが なんにん いますか。— ふたり います。あにと いもうとです。", "romaji": "Rūkasu-san wa kyōdai ga nannin imasu ka. — Futari imasu. Ani to imōto desu.", "pt": "Lucas, quantos irmãos você tem? — Tenho dois: um irmão mais velho e uma irmã mais nova." },
+        { "jp": "クラスに ブラジル人が 三人 います。", "kana": "クラスに ブラジルじんが さんにん います。", "romaji": "Kurasu ni burajirujin ga sannin imasu.", "pt": "Há três brasileiros na turma." },
+        { "jp": "日曜日は 一人で カフェへ 本を よみに 行きます。", "kana": "にちようびは ひとりで カフェへ ほんを よみに いきます。", "romaji": "Nichiyōbi wa hitori de kafe e hon o yomi ni ikimasu.", "pt": "Aos domingos vou sozinho(a) a um café para ler." }
+      ],
+      "pitfalls": [
+        "1 e 2 pessoas não usam にん: ひとり, ふたり ✓ × いちにん, ににん.",
+        "4 pessoas é よにん ✓ × よんにん, しにん. E 9 costuma ser きゅうにん.",
+        "O número vem antes do verbo e sem partícula: 学生が 三人 います ✓ × 学生が 三人が います.",
+        "ふたり (pessoas) × ふたつ (coisas): いもうとが ふたり います ✓ × いもうとが ふたつ います."
+      ],
+      "howToStudy": [
+        "Conte em voz alta de 1 a 10 pessoas, 3 vezes, batendo na mesa a cada número: ひとり、ふたり、さんにん、よにん… Na terceira vez, de trás para frente.",
+        "Responda em voz alta, sobre a sua vida: かぞくは なんにんですか。 きょうだいが なんにん いますか。 日本語の クラスに 学生が なんにん いますか。",
+        "Aperte 🔬 no exemplo da turma: 三人 não tem partícula e fica colado no PREDICADO います. No exemplo do café, repare que os dois pontos da aula aparecem juntos: 一人で + よみに 行きます."
+      ],
+      "flag": null
+    }
+  ],
+  "media": [
+    { "order": 1, "kind": "leitura", "title": "Genki I · Lição 7: as explicações de radical + に 行く / くる / 帰る e de como contar pessoas; releia também o diálogo da lição inteira", "where": "Seu livro Genki I (3ª ed.)", "url": "", "when": "Antes desta aula ou logo depois do bloco de gramática" },
+    { "order": 2, "kind": "video", "title": "ToKini Andy: aula da Lição 7 do Genki I (a parte de radical + に 行く e de contar pessoas)", "where": "YouTube · canal ToKini Andy", "url": "", "search": "ToKini Andy Genki Lesson 7", "when": "Depois dos 2 pontos, pausando nos exemplos" },
+    { "order": 3, "kind": "video", "title": "Game Gengo: radical + に 行く (ir fazer algo)", "where": "YouTube · canal Game Gengo", "url": "", "search": "Game Gengo に行く", "when": "Opcional, se o ponto a ainda estiver confuso" },
+    { "order": 4, "kind": "app", "title": "genki-companion: Lição 7, pontos 5 e 6 (marque ✍️ quando terminar)", "where": "../genki-companion/index.html", "url": "../genki-companion/index.html", "when": "No fim, para revisar e marcar o progresso da lição inteira" }
+  ],
+  "homework": {
+    "intro": "Faça no caderno, à mão. Escreva o japonês em kana, ou com os kanji que você já conhece (行, 帰, 人, 日曜日, 土曜日). Só depois abra o gabarito, item por item. Circule o que errou e refaça no dia seguinte.",
+    "tasks": [
+      {
+        "id": "h1",
+        "type": "transformar",
+        "prompt": "Junte as duas ideias numa frase só com radical + に 行きます / きます / 帰ります.",
+        "items": [
+          { "q": "スーパーへ 行きます。+ やさいを かいます。", "a": { "jp": "スーパーへ やさいを かいに 行きます。", "kana": "スーパーへ やさいを かいに いきます。", "romaji": "Sūpā e yasai o kai ni ikimasu.", "pt": "Vou ao supermercado comprar verduras." } },
+          { "q": "プールへ 行きました。+ およぎました。", "a": { "jp": "プールへ およぎに 行きました。", "kana": "プールへ およぎに いきました。", "romaji": "Pūru e oyogi ni ikimashita.", "pt": "Fui à piscina nadar." }, "note": "O passado fica só no 行きました; およぎに não muda." },
+          { "q": "うちへ 帰ります。+ シャワーを あびます。", "a": { "jp": "うちへ シャワーを あびに 帰ります。", "kana": "うちへ シャワーを あびに かえります。", "romaji": "Uchi e shawā o abi ni kaerimasu.", "pt": "Vou voltar para casa para tomar banho." } },
+          { "q": "ともだちが うちへ きました。+ あそびました。", "a": { "jp": "ともだちが うちへ あそびに きました。", "romaji": "Tomodachi ga uchi e asobi ni kimashita.", "pt": "Uns amigos vieram me visitar em casa." } },
+          { "q": "カラオケへ 行きませんか。+ うたいます。", "a": { "jp": "カラオケへ うたいに 行きませんか。", "kana": "カラオケへ うたいに いきませんか。", "romaji": "Karaoke e utai ni ikimasen ka.", "pt": "Não quer ir cantar no karaokê?" } },
+          { "q": "大学へ 行きます。+ 先生に あいます。", "a": { "jp": "大学へ 先生に あいに 行きます。", "kana": "だいがくへ せんせいに あいに いきます。", "romaji": "Daigaku e sensei ni ai ni ikimasu.", "pt": "Vou à faculdade falar com o professor." }, "note": "先生に = com quem (あう usa に); あいに = para quê; 大学へ = para onde." }
+        ]
+      },
+      {
+        "id": "h2",
+        "type": "completar",
+        "prompt": "Escreva em kana quantas pessoas são.",
+        "items": [
+          { "q": "3 pessoas", "a": { "jp": "さんにん", "romaji": "sannin" } },
+          { "q": "1 pessoa", "a": { "jp": "ひとり", "romaji": "hitori" }, "note": "Irregular." },
+          { "q": "4 pessoas", "a": { "jp": "よにん", "romaji": "yonin" }, "note": "Não é よんにん nem しにん." },
+          { "q": "2 pessoas", "a": { "jp": "ふたり", "romaji": "futari" }, "note": "Irregular. ふたつ seria \"2 coisas\"." },
+          { "q": "9 pessoas", "a": { "jp": "きゅうにん", "romaji": "kyūnin" } },
+          { "q": "Quantas pessoas?", "a": { "jp": "なんにん", "romaji": "nannin" } }
+        ]
+      },
+      {
+        "id": "h3",
+        "type": "traduzir",
+        "prompt": "Traduza para o japonês.",
+        "items": [
+          { "q": "Quantas pessoas tem a sua família? — Somos cinco.", "a": { "jp": "ごかぞくは なんにんですか。— 五人です。", "kana": "ごかぞくは なんにんですか。— ごにんです。", "romaji": "Gokazoku wa nannin desu ka. — Gonin desu." }, "note": "ご + かぞく = a família do outro, com respeito (うち e そと, Aula 07-1). Na resposta, sobre a sua própria família, fica só かぞく, ou nada." },
+          { "q": "Tenho uma irmã mais velha.", "a": { "jp": "あねが 一人 います。", "kana": "あねが ひとり います。", "romaji": "Ane ga hitori imasu." } },
+          { "q": "Há dez estudantes na sala de aula.", "a": { "jp": "きょうしつに 学生が 十人 います。", "kana": "きょうしつに がくせいが じゅうにん います。", "romaji": "Kyōshitsu ni gakusei ga jūnin imasu." }, "note": "O número vem logo antes do verbo, sem partícula." },
+          { "q": "No sábado nós três vamos comer pizza (fora).", "a": { "jp": "土曜日に 三人で ピザを 食べに 行きます。", "kana": "どようびに さんにんで ピザを たべに いきます。", "romaji": "Doyōbi ni sannin de piza o tabe ni ikimasu." }, "note": "三人で = com quantas pessoas; 食べに = para quê." },
+          { "q": "O Pedro voltou ao Brasil para ver a família.", "a": { "jp": "ペドロさんは ブラジルへ かぞくに あいに 帰りました。", "kana": "ペドロさんは ブラジルへ かぞくに あいに かえりました。", "romaji": "Pedoro-san wa Burajiru e kazoku ni ai ni kaerimashita." }, "note": "ブラジルへ = destino; かぞくに = com quem; あいに = objetivo. O passado fica só no 帰りました." }
+        ]
+      },
+      {
+        "id": "h4",
+        "type": "produzir",
+        "prompt": "Escreva 4–5 frases sobre a sua família e o seu fim de semana: quantas pessoas são, onde alguém mora e 2 planos com 〜に 行きます / 〜に きます. Leia em voz alta e grave no celular.",
+        "items": [
+          { "q": "Modelo, que o seu texto deve seguir na estrutura e não nas palavras:", "a": { "jp": "かぞくは 五人です。父と 母と あにと いもうとと 私です。あには 東京に すんでいます。土曜日に 母と 二人で デパートへ かいものに 行きます。日曜日は ともだちが うちへ あそびに きます。", "kana": "かぞくは ごにんです。ちちと ははと あにと いもうとと わたしです。あには とうきょうに すんでいます。どようびに ははと ふたりで デパートへ かいものに いきます。にちようびは ともだちが うちへ あそびに きます。", "romaji": "Kazoku wa gonin desu. Chichi to haha to ani to imōto to watashi desu. Ani wa Tōkyō ni sunde imasu. Doyōbi ni haha to futari de depāto e kaimono ni ikimasu. Nichiyōbi wa tomodachi ga uchi e asobi ni kimasu.", "pt": "Somos cinco na família: meu pai, minha mãe, meu irmão mais velho, minha irmã mais nova e eu. Meu irmão mora em Tóquio. No sábado vou fazer compras na loja de departamento só com a minha mãe. No domingo uns amigos vêm me visitar em casa." }, "note": "Confira: ひとり / ふたり irregulares, よにん e não よんにん, número antes do verbo sem partícula, radical + に e o verbo de movimento no fim, e palavras humildes (ちち, はは) para a sua família." }
+        ]
+      }
+    ],
+    "workbook": [
+      { "p": 74, "t": "6 · Verb Stem + に行く / 来る / 帰る", "tip": "Faça depois do ponto 4a." },
+      { "p": 75, "t": "7 · Counting People", "tip": "Faça depois do ponto 4b." },
+      { "p": 76, "t": "8 · 答えましょう (Questions)", "tip": "Fecha a lição inteira: responda sobre você e a sua família usando os pontos das Aulas 07-1 a 07-3." },
+      { "p": 77, "t": "9 · 聞く練習 (Listening Comprehension)", "tip": "Use os áudios oficiais que acompanham o seu Genki. Ouça tudo uma vez antes de responder." },
+      { "p": 141, "t": "Kanji Practice", "tip": "Kanji da Lição 7 (京 子 小 会 社 父 母 高 校 毎 語 文 帰 入). Faça depois de Mirage → Kanji → ✍️ Escrever." },
+      { "p": 142, "t": "Using Kanji", "tip": "Faça por último, no fim da lição. Confira no Genki Answer Key oficial." }
+    ]
+  },
+  "practice": [
+    { "tool": "Wagotabi", "what": "Jogue normalmente e cace duas coisas nos diálogos: alguém indo ou vindo fazer algo (〜に 行く, 〜に きた) e números de pessoas (ひとり, ふたり, 〜にん). Copie 2 frases no caderno e diga em voz alta qual bloco é o DESTINO e qual é o OBJETIVO.", "min": 15 },
+    { "tool": "Mirage", "what": "Vocabulário da Lição 7 no SRS. Depois, Treinos → Números: para cada número de 1 a 10 que aparecer, diga também em voz alta a versão para pessoas (ひとり, ふたり, さんにん…).", "min": 10 },
+    { "tool": "Mirage", "what": "Kanji → ✍️ Escrever: os 14 kanji da Lição 7 (京 子 小 会 社 父 母 高 校 毎 語 文 帰 入), com a ordem dos traços, antes das páginas 141–142 do Workbook.", "min": 15 },
+    { "tool": "Mirage", "what": "Praticar L7 para fechar a lição inteira: ている, descrições, radical + に 行く e contar pessoas.", "min": 10 },
+    { "tool": "Fala", "what": "Grave 1 minuto sobre a sua família e o seu fim de semana (lição de casa h4). É a gravação de fechamento da Lição 7: compare com a que você fez na Aula 07-1.", "min": 5 }
+  ],
+  "culture": {
+    "title": "Visitar a casa de alguém",
+    "titleJp": "おじゃまします",
+    "body": "No Brasil é comum chamar os amigos para casa. No Japão, em geral, as pessoas se encontram mais fora, em restaurantes e cafés, e um convite para a casa de alguém costuma ser sinal de proximidade. Ao entrar, diga **おじゃまします** (ojama shimasu, algo como \"com licença, vou incomodar\") e tire os sapatos no げんかん, como você viu na Aula 03-2. Costuma-se levar uma lembrancinha (おみやげ), em geral doces ou frutas, entregue com as duas mãos depois dos cumprimentos. Ao ir embora, a frase é **おじゃましました** (ojama shimashita). O convite, aliás, costuma usar o ponto desta aula: あそびに きて ください (\"venha me visitar\").",
+    "try": "Encene a visita em voz alta, fazendo as duas partes: (você, na porta) おじゃまします。— (anfitrião) どうぞ。— (você, entregando o presente com as duas mãos) これ、どうぞ。— … — (na saída) おじゃましました。"
+  },
+  "checklist": [
+    "Digo para onde vou e para quê com [lugar] へ [radical] に 行きます, sem olhar.",
+    "Faço o radical de qualquer verbo (たべ, かい, し, き, あそび) e uso com 行く, くる e 帰る.",
+    "Sei que \"vou estudar\" sem sair do lugar é べんきょうします, e não べんきょうしに 行きます.",
+    "Conto pessoas de 1 a 10 sem errar ひとり, ふたり, よにん e きゅうにん.",
+    "Pergunto e respondo com なんにん, pondo o número logo antes do verbo.",
+    "Digo おじゃまします ao entrar e おじゃましました ao sair.",
+    "Fiz a lição de casa e conferi o gabarito, e refiz o que errei.",
+    "Fiz as páginas 74–77 e 141–142 do Workbook."
+  ]
+}

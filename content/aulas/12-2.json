@@ -1,0 +1,196 @@
+{
+  "id": "12-2",
+  "unit": "G1-L12",
+  "genki": { "book": "Genki I", "lesson": 12, "points": ["〜ほうがいいです", "〜ので"] },
+  "title": "Conselho · porque",
+  "titleJp": "休んだ ほうが いいですよ",
+  "canDo": [
+    "Dar um conselho afirmativo com 〜た ほうが いいです: \"é melhor você descansar\".",
+    "Dar um conselho negativo com 〜ない ほうが いいです: \"é melhor não beber\".",
+    "Explicar por que o conselho afirmativo usa a forma た, e nunca dizer 〜なかった ほうが.",
+    "Dar um motivo de forma suave com 〜ので, inclusive com substantivo e adjetivo な (テストなので, 好きなので).",
+    "Escolher entre ので e から conforme a situação: pedir algo ao professor × conversar com um amigo."
+  ],
+  "duration": {
+    "total": "60–75 min",
+    "blocks": [
+      { "t": "Aquecimento: diga em voz alta as formas た e ない de 休む, 飲む, 行く, 食べる, 帰る e する", "min": 5 },
+      { "t": "Vocabulário: ouvir 🔊 cada palavra e repetir 2 vezes", "min": 10 },
+      { "t": "Gramática 4a (〜ほうが いいです): exemplos em voz alta + um 🔬", "min": 15 },
+      { "t": "Gramática 4b (〜ので): exemplos em voz alta + um 🔬", "min": 10 },
+      { "t": "Vídeo da Lição 12 (bloco 6), pausando nos exemplos", "min": 10 },
+      { "t": "Lição de casa no caderno + conferir no gabarito", "min": 15 },
+      { "t": "Checklist (bloco 10) + anotar dúvidas no caderno da aula", "min": 5 }
+    ]
+  },
+  "prereqs": {
+    "aulas": ["06-3", "06-4", "08-1", "09-1", "09-2", "10-1", "12-1"],
+    "skills": [
+      "Formas た e ない de qualquer verbo, sem hesitar (Aulas 08-1 e 09-1). O conselho é montado em cima delas.",
+      "Dar motivo com 〜から (Aula 06-4). 〜ので funciona na mesma ordem: motivo primeiro.",
+      "Frases que descrevem substantivos (Aula 09-2) e a comparação com 〜のほうが (Aula 10-1): o ほう do conselho é o mesmo \"lado\".",
+      "Pedir permissão com 〜ても いいですか (Aula 06-3) e a troca だ → な do 〜んです (Aula 12-1), que aparecem nos exemplos."
+    ],
+    "vocab": [
+      { "jp": "ねつ", "kana": "ねつ", "romaji": "netsu", "pt": "febre (ねつが ある = estar com febre)" },
+      { "jp": "せき", "kana": "せき", "romaji": "seki", "pt": "tosse (せきが 出る = estar tossindo)" },
+      { "jp": "くすり", "kana": "くすり", "romaji": "kusuri", "pt": "remédio (くすりを 飲む = tomar remédio)" },
+      { "jp": "病院", "kana": "びょういん", "romaji": "byōin", "pt": "hospital, clínica (病院に 行く = ir ao médico)" },
+      { "jp": "マスク", "kana": "マスク", "romaji": "masuku", "pt": "máscara (マスクを する = usar máscara)" },
+      { "jp": "気分が わるい", "kana": "きぶんが わるい", "romaji": "kibun ga warui", "pt": "sentir-se mal, estar indisposto" },
+      { "jp": "早く", "kana": "はやく", "romaji": "hayaku", "pt": "cedo; depressa" },
+      { "jp": "帰る", "kana": "かえる", "romaji": "kaeru", "pt": "voltar (para casa), ir embora" },
+      { "jp": "出かける", "kana": "でかける", "romaji": "dekakeru", "pt": "sair (de casa)" },
+      { "jp": "聞く", "kana": "きく", "romaji": "kiku", "pt": "perguntar; ouvir" },
+      { "jp": "〜ほうが いい", "kana": "〜ほうが いい", "romaji": "-hō ga ii", "pt": "é melhor (fazer / não fazer)…" },
+      { "jp": "〜ので", "kana": "〜ので", "romaji": "-node", "pt": "como…, porque… (motivo suave)" },
+      { "jp": "しけん", "kana": "しけん", "romaji": "shiken", "pt": "exame, prova" },
+      { "jp": "さむい", "kana": "さむい", "romaji": "samui", "pt": "frio (tempo)" },
+      { "jp": "あつい", "kana": "あつい", "romaji": "atsui", "pt": "quente (tempo)" },
+      { "jp": "好き(な)", "kana": "すき(な)", "romaji": "suki (na)", "pt": "de que se gosta (〜が 好き = gostar de…)" },
+      { "jp": "サッカー", "kana": "サッカー", "romaji": "sakkā", "pt": "futebol" },
+      { "jp": "しあい", "kana": "しあい", "romaji": "shiai", "pt": "jogo, partida" },
+      { "jp": "よく", "kana": "よく", "romaji": "yoku", "pt": "com frequência; bem" },
+      { "jp": "タクシー", "kana": "タクシー", "romaji": "takushī", "pt": "táxi" },
+      { "jp": "かさ", "kana": "かさ", "romaji": "kasa", "pt": "guarda-chuva" },
+      { "jp": "あぶない", "kana": "あぶない", "romaji": "abunai", "pt": "perigoso" },
+      { "jp": "おふろ", "kana": "おふろ", "romaji": "ofuro", "pt": "banho de banheira, ofurô (おふろに 入る = tomar banho de ofurô)" },
+      { "jp": "あらう", "kana": "あらう", "romaji": "arau", "pt": "lavar" },
+      { "jp": "からだ", "kana": "からだ", "romaji": "karada", "pt": "corpo" }
+    ]
+  },
+  "grammar": [
+    {
+      "id": "12-2-a",
+      "gc": "12-3",
+      "title": "〜ほうが いいです",
+      "gloss": "é melhor (fazer / não fazer)",
+      "explanation": "É o jeito padrão de **dar conselho**. ほう quer dizer \"lado, alternativa\", o mesmo ほう da comparação 〜のほうが (Aula 10-1). Ao pé da letra, a frase diz \"o lado de [ação] é bom\".\n• **Conselho afirmativo**: verbo no **passado curto (た)** + ほうが いいです. 休む → 休んだ ほうが いいです (\"é melhor descansar\").\n• **Conselho negativo**: verbo na **forma ない** + ほうが いいです. 飲む → 飲まない ほうが いいです (\"é melhor não beber\"). Aqui **não** se usa passado: nada de なかった.\n• **Por que o passado no afirmativo?** O た aqui não fala de ontem; é uma convenção da expressão. A explicação mais comum é que você imagina a situação **com a ação já feita** (\"ter descansado é o melhor\"), e isso deixa o conselho mais concreto e direto. Você também vai ouvir a forma de dicionário (休む ほうが いい), mas para aconselhar alguém o padrão, e o que o Genki ensina, é o た.\n• Os blocos: [休んだ] descreve ほう, como nas frases que descrevem substantivos (Aula 09-2). [休んだ ほうが] é o sujeito, com が, e **いいです é o predicado**. Leia pelo fim: \"é bom\" → o quê? → ter descansado.\n• Para **pedir** conselho, basta a pergunta: 〜た ほうが いいですか。\n• É um conselho **forte e direto**. Entre amigos, costuma vir com よ (〜ほうが いいですよ). Com professor ou chefe, suavize: 〜ほうが いいと 思います (Aula 08-2).",
+      "structure": "[verbo た] ほうが いいです · [verbo ない] ほうが いいです",
+      "examples": [
+        { "jp": "ねつが ありますね。きょうは 早く 帰った ほうが いいですよ。", "kana": "ねつが ありますね。きょうは はやく かえった ほうが いいですよ。", "romaji": "Netsu ga arimasu ne. Kyō wa hayaku kaetta hō ga ii desu yo.", "pt": "Você está com febre, né? Hoje é melhor ir para casa cedo." },
+        { "jp": "くすりを 飲みましたから、おさけを 飲まない ほうが いいです。", "kana": "くすりを のみましたから、おさけを のまない ほうが いいです。", "romaji": "Kusuri o nomimashita kara, osake o nomanai hō ga ii desu.", "pt": "Como você tomou remédio, é melhor não beber álcool." },
+        { "jp": "病院に 行った ほうが いいですか。— ええ、行った ほうが いいですよ。", "kana": "びょういんに いった ほうが いいですか。— ええ、いった ほうが いいですよ。", "romaji": "Byōin ni itta hō ga ii desu ka. — Ee, itta hō ga ii desu yo.", "pt": "É melhor eu ir ao médico? — Sim, é melhor ir." }
+      ],
+      "pitfalls": [
+        "O conselho negativo não vai para o passado: ○ 飲まない ほうが いいです × 飲まなかった ほうが いいです.",
+        "No afirmativo, fique com o た: ○ 休んだ ほうが いいです. A forma 休む ほうが いい existe, mas o padrão para aconselhar é o た.",
+        "Não confunda com a comparação da Aula 10-1. バスの ほうが いいです = \"o ônibus é melhor\" (escolha entre coisas); バスで 行った ほうが いいです = \"é melhor você ir de ônibus\" (conselho sobre uma ação).",
+        "Cuidado com o tom: com professor ou chefe, 〜ほうが いいです pode soar como ordem. Suavize com 〜ほうが いいと 思います."
+      ],
+      "howToStudy": [
+        "Conselheiro em voz alta: para cada problema, dê 1 conselho afirmativo e 1 negativo. ねつが あります → 休んだ ほうが いいです / 学校に 行かない ほうが いいです. Faça com 5 problemas (のどが いたい, ねむい, あした しけんが ある…).",
+        "Aperte 🔬 no exemplo 1 e confira onde a Anatomia põe o predicado: いいです, no fim. Depois leia de trás pra frente: é bom → o quê → ter voltado para casa cedo → quando → hoje.",
+        "No caderno, monte uma tabela com 6 verbos (休む, 飲む, 行く, 食べる, 出かける, する) e duas colunas: 〜た ほうが いい e 〜ない ほうが いい."
+      ],
+      "flag": null
+    },
+    {
+      "id": "12-2-b",
+      "gc": "12-4",
+      "title": "〜ので",
+      "gloss": "como…, porque… (motivo suave)",
+      "explanation": "ので dá **o motivo**, como から (Aula 06-4), e fica no mesmo lugar: **motivo primeiro, resultado depois**. [motivo] ので、[resultado].\n• Formação: **forma curta + ので**. かぜを ひいた → ひいたので; 来なかった → 来なかったので; いたい → いたいので.\n• Com **substantivo e adjetivo な** no presente afirmativo, o だ vira **な**, a mesma troca do 〜んです: テストなので, 好きなので. No passado não há troca: テストだったので.\n• **ので × から**: ので apresenta o motivo como um fato, algo que \"acontece\", e por isso soa **mais suave, objetivo e educado**. É a escolha natural para se desculpar, pedir algo ou explicar alguma coisa a um professor ou chefe. から soa mais pessoal e direto: é ótimo entre amigos, mas num pedido formal pode soar insistente.\n• Na fala bem formal você vai ouvir até 〜ますので. Por enquanto, use a forma curta.\n• Os blocos: tudo o que vem antes de ので é a **oração de motivo**, com o seu próprio predicado. O **predicado principal está no fim**, depois da vírgula. Leia primeiro o fim (\"posso descansar?\") e depois o porquê.",
+      "structure": "[motivo · forma curta] ので、[resultado] · [N / adj な] なので",
+      "examples": [
+        { "jp": "ペドロさんは サッカーが 好きなので、よく テレビで しあいを 見ます。", "kana": "ペドロさんは サッカーが すきなので、よく テレビで しあいを みます。", "romaji": "Pedoro-san wa sakkā ga suki na node, yoku terebi de shiai o mimasu.", "pt": "Como o Pedro gosta de futebol, ele assiste aos jogos na TV com frequência." },
+        { "jp": "バスが 来なかったので、タクシーで 行きました。", "kana": "バスが こなかったので、タクシーで いきました。", "romaji": "Basu ga konakatta node, takushī de ikimashita.", "pt": "Como o ônibus não veio, fui de táxi." },
+        { "jp": "すみません、気分が わるいので、少し 休んでも いいですか。", "kana": "すみません、きぶんが わるいので、すこし やすんでも いいですか。", "romaji": "Sumimasen, kibun ga warui node, sukoshi yasunde mo ii desu ka.", "pt": "Com licença, como estou me sentindo mal, posso descansar um pouco?" }
+      ],
+      "pitfalls": [
+        "Com substantivo e adjetivo な, entra な, e não だ: ○ テストなので × テストだので; ○ 好きなので × 好きので. Com から é o contrário: テストだから.",
+        "ので não fecha frase com です. Para responder a どうして, use から: ○ かぜを ひいたからです。 × かぜを ひいたのでです。",
+        "A ordem é motivo → resultado, ao contrário do \"porque\" que o português põe depois. \"Fui de táxi porque o ônibus não veio\" começa pelo ônibus: バスが 来なかったので、タクシーで 行きました。"
+      ],
+      "howToStudy": [
+        "Pegue 4 frases com から das Aulas 06-4 e 09-3 e diga-as em voz alta trocando から por ので. Atenção ao substantivo e ao adjetivo な: だから → なので.",
+        "Aperte 🔬 no exemplo 3 e identifique os blocos: o que termina em ので é o MOTIVO, e o predicado principal é 休んでも いいですか, no fim. Leia do fim para o começo.",
+        "Fala: invente 3 pedidos educados para o professor no molde 〜ので、〜ても いいですか。 e grave."
+      ],
+      "flag": null
+    }
+  ],
+  "media": [
+    { "order": 1, "kind": "leitura", "title": "Genki I · Lição 12: explicações de gramática 〜ほうがいいです e 〜ので", "where": "Seu livro Genki I (3ª ed.)", "url": "", "when": "Antes desta aula ou logo depois do bloco de gramática" },
+    { "order": 2, "kind": "video", "title": "ToKini Andy: aula da Lição 12 do Genki I (parte de 〜ほうがいいです e 〜ので)", "where": "YouTube · canal ToKini Andy", "url": "", "search": "ToKini Andy Genki Lesson 12", "when": "Depois de estudar os 2 pontos: o vídeo confirma e dá mais exemplos" },
+    { "order": 3, "kind": "video", "title": "Game Gengo: ので × から", "where": "YouTube · canal Game Gengo", "url": "", "search": "Game Gengo ので から", "when": "Opcional: para ver mais exemplos da diferença entre ので e から" },
+    { "order": 4, "kind": "app", "title": "genki-companion: Lição 12, pontos 3 e 4 (marque ✍️ quando terminar)", "where": "../genki-companion/index.html", "url": "../genki-companion/index.html", "when": "No fim, para revisar e marcar o progresso" }
+  ],
+  "homework": {
+    "intro": "Faça no caderno, à mão. Escreva o japonês com os kanji que você já conhece e kana no resto. Só depois abra o gabarito, item por item. Circule o que errou e refaça no dia seguinte.",
+    "tasks": [
+      {
+        "id": "h1",
+        "type": "transformar",
+        "prompt": "Dê o conselho. Nos itens (+), use 〜た ほうが いいです; nos itens (−), use 〜ない ほうが いいです.",
+        "items": [
+          { "q": "(+) 休む", "a": { "jp": "休んだ ほうが いいです。", "kana": "やすんだ ほうが いいです。", "romaji": "Yasunda hō ga ii desu." } },
+          { "q": "(−) コーヒーを 飲む", "a": { "jp": "コーヒーを 飲まない ほうが いいです。", "kana": "コーヒーを のまない ほうが いいです。", "romaji": "Kōhī o nomanai hō ga ii desu." } },
+          { "q": "(+) マスクを する", "a": { "jp": "マスクを した ほうが いいです。", "romaji": "Masuku o shita hō ga ii desu." } },
+          { "q": "(−) テレビを 見すぎる", "a": { "jp": "テレビを 見すぎない ほうが いいです。", "kana": "テレビを みすぎない ほうが いいです。", "romaji": "Terebi o misuginai hō ga ii desu." }, "note": "Revisão da Aula 12-1: すぎる é verbo る, então a forma ない é すぎない." },
+          { "q": "(+) 先生に 聞く", "a": { "jp": "先生に 聞いた ほうが いいです。", "kana": "せんせいに きいた ほうが いいです。", "romaji": "Sensei ni kiita hō ga ii desu." } },
+          { "q": "(−) 学校に 来る", "a": { "jp": "学校に 来ない ほうが いいです。", "kana": "がっこうに こない ほうが いいです。", "romaji": "Gakkō ni konai hō ga ii desu." }, "note": "来る → 来ない (こない). É o conselho que se dá a um colega com febre." }
+        ]
+      },
+      {
+        "id": "h2",
+        "type": "juntar",
+        "prompt": "Una as duas frases com ので: a primeira é o motivo e a segunda, o resultado. Cuidado com o な.",
+        "items": [
+          { "q": "あしたは しけんです。/ こんばん 勉強します。", "a": { "jp": "あしたは しけんなので、こんばん 勉強します。", "kana": "あしたは しけんなので、こんばん べんきょうします。", "romaji": "Ashita wa shiken na node, konban benkyō shimasu." }, "note": "Substantivo: です → なので." },
+          { "q": "この 町は しずかです。/ 好きです。", "a": { "jp": "この 町は しずかなので、好きです。", "kana": "この まちは しずかなので、すきです。", "romaji": "Kono machi wa shizuka na node, suki desu." }, "note": "Adjetivo な: な + ので." },
+          { "q": "のどが いたいです。/ きょうは 歌いません。", "a": { "jp": "のどが いたいので、きょうは 歌いません。", "kana": "のどが いたいので、きょうは うたいません。", "romaji": "Nodo ga itai node, kyō wa utaimasen." } },
+          { "q": "きのう ねませんでした。/ ねむいです。", "a": { "jp": "きのう ねなかったので、ねむいです。", "romaji": "Kinō nenakatta node, nemui desu." }, "note": "ませんでした → forma curta なかった." },
+          { "q": "田中さんは 日本人です。/ 日本の 歌を よく 知っています。", "a": { "jp": "田中さんは 日本人なので、日本の 歌を よく 知っています。", "kana": "たなかさんは にほんじんなので、にほんの うたを よく しっています。", "romaji": "Tanaka-san wa nihonjin na node, Nihon no uta o yoku shitte imasu." } }
+        ]
+      },
+      {
+        "id": "h3",
+        "type": "traduzir",
+        "prompt": "Traduza para o japonês. Use 〜ので e 〜ほうが いいです (às vezes os dois).",
+        "items": [
+          { "q": "Como estou com tosse, é melhor eu usar máscara?", "a": { "jp": "せきが 出るので、マスクを した ほうが いいですか。", "kana": "せきが でるので、マスクを した ほうが いいですか。", "romaji": "Seki ga deru node, masuku o shita hō ga ii desu ka." } },
+          { "q": "Como hoje está frio, é melhor você não sair.", "a": { "jp": "きょうは さむいので、出かけない ほうが いいです。", "kana": "きょうは さむいので、でかけない ほうが いいです。", "romaji": "Kyō wa samui node, dekakenai hō ga ii desu." } },
+          { "q": "Professor(a), como estou com febre, posso faltar amanhã?", "a": { "jp": "先生、ねつが あるので、あした 休んでも いいですか。", "kana": "せんせい、ねつが あるので、あした やすんでも いいですか。", "romaji": "Sensei, netsu ga aru node, ashita yasunde mo ii desu ka." }, "note": "Pedido ao professor: ので soa mais educado que から." },
+          { "q": "Por que você não foi? — Porque eu estava doente.", "a": { "jp": "どうして 行かなかったんですか。— 病気だったからです。", "kana": "どうして いかなかったんですか。— びょうきだったからです。", "romaji": "Dōshite ikanakatta n desu ka. — Byōki datta kara desu." }, "note": "A resposta termina em です, então tem que ser から: 病気だったのでです não existe." },
+          { "q": "Como a Maria é gentil, é melhor perguntar para ela.", "a": { "jp": "マリアさんは やさしいので、マリアさんに 聞いた ほうが いいです。", "kana": "マリアさんは やさしいので、マリアさんに きいた ほうが いいです。", "romaji": "Maria-san wa yasashii node, Maria-san ni kiita hō ga ii desu." } }
+        ]
+      },
+      {
+        "id": "h4",
+        "type": "produzir",
+        "prompt": "Um amigo japonês vai visitar o Brasil no verão. Escreva 4 conselhos para ele: 2 com 〜た ほうが いいです e 2 com 〜ない ほうが いいです, cada um com um motivo em 〜ので. Depois leia em voz alta.",
+        "items": [
+          { "q": "Modelo, que o seu texto deve seguir na estrutura e não nas palavras:", "a": { "jp": "ブラジルの なつは とても あついので、水を たくさん 飲んだ ほうが いいです。サンパウロは 雨が よく ふるので、かさを 持っていった ほうが いいです。夜は あぶないので、一人で あるかない ほうが いいです。ビーチは 人が おおいので、高い ものを 持っていかない ほうが いいです。", "kana": "ブラジルの なつは とても あついので、みずを たくさん のんだ ほうが いいです。サンパウロは あめが よく ふるので、かさを もっていった ほうが いいです。よるは あぶないので、ひとりで あるかない ほうが いいです。ビーチは ひとが おおいので、たかい ものを もっていかない ほうが いいです。", "romaji": "Burajiru no natsu wa totemo atsui node, mizu o takusan nonda hō ga ii desu. Sanpauro wa ame ga yoku furu node, kasa o motte itta hō ga ii desu. Yoru wa abunai node, hitori de arukanai hō ga ii desu. Bīchi wa hito ga ōi node, takai mono o motte ikanai hō ga ii desu.", "pt": "O verão no Brasil é muito quente, então é melhor beber bastante água. Em São Paulo chove muito, então é melhor levar guarda-chuva. À noite é perigoso, então é melhor não andar sozinho. A praia fica cheia de gente, então é melhor não levar coisas caras." }, "note": "Confira: た ほうが no afirmativo e ない ほうが no negativo (nunca なかった), ので depois da forma curta, e な antes de ので com substantivo ou adjetivo な." }
+        ]
+      }
+    ],
+    "workbook": [
+      { "p": 113, "t": "3 · ～ほうがいいです", "tip": "Faça depois do ponto 4a." },
+      { "p": 114, "t": "4 · ～ので", "tip": "Faça depois do ponto 4b. Confira no Genki Answer Key oficial." }
+    ]
+  },
+  "practice": [
+    { "tool": "Wagotabi", "what": "Jogue normalmente e cace ので e から nos diálogos. Quando um personagem der um motivo, pause e diga em voz alta qual é o motivo e qual é o resultado. Se aparecer ほうが いい (ou ほうが いいよ), copie a frase no caderno.", "min": 15 },
+    { "tool": "Mirage", "what": "Vocabulário da Lição 12 no SRS e Praticar L12. Depois, Treinos → Conjugação com as formas た e ない, que são a base do conselho.", "min": 10 },
+    { "tool": "Mirage · Diário", "what": "No Diário, escreva 3 conselhos com ほうが いい para você mesmo(a), sobre estudo ou saúde, cada um com um motivo em ので. Depois abra \"Anatomia do que escrevi\" e confira onde ficou o predicado de cada frase.", "min": 10 },
+    { "tool": "Shadowing", "what": "Toque 🔊 em cada exemplo desta aula e repita junto 3 vezes. Repare no よ de 〜ほうが いいですよ: é ele que deixa o conselho amigável.", "min": 5 },
+    { "tool": "Fala", "what": "Grave os conselhos da lição de casa (h4) como se fosse um áudio para o amigo japonês, em até 40 s.", "min": 5 }
+  ],
+  "culture": {
+    "title": "O banho de ofurô à noite",
+    "titleJp": "おふろ",
+    "body": "No Japão, muita gente toma banho **à noite**, antes de dormir, e não de manhã. O costume é primeiro se **lavar e enxaguar fora da banheira**, sentado num banquinho com o chuveiro, e só depois entrar na água quente (em geral por volta de 40 °C) para relaxar. A banheira serve para esquentar o corpo e descansar, e não para se lavar. Por isso a água fica limpa e, em muitas famílias, é usada por todos da casa, um depois do outro. Muitos japoneses dizem que o ofurô ajuda a tirar o cansaço do dia e a dormir bem. Quando alguém está resfriado, antigamente era comum ouvir que era melhor evitar o ofurô; hoje muita gente diz que um banho rápido não faz mal se não houver febre alta.",
+    "try": "Diga em voz alta 2 conselhos para um amigo brasileiro que vai se hospedar numa casa japonesa: からだは おふろの 外で あらった ほうが いいですよ。 e おふろの 中で シャンプーを しない ほうが いいですよ。"
+  },
+  "checklist": [
+    "Dou conselho afirmativo com 〜た ほうが いいです e negativo com 〜ない ほうが いいです, sem olhar.",
+    "Sei explicar por que o afirmativo usa た, e nunca digo 〜なかった ほうが.",
+    "Diferencio conselho (バスで 行った ほうが いい) de comparação (バスの ほうが いい).",
+    "Uno motivo e resultado com ので, sempre na ordem motivo → resultado.",
+    "Uso なので com substantivo e adjetivo な (しけんなので, 好きなので).",
+    "Sei quando ので soa melhor que から (um pedido ao professor) e respondo a どうして com 〜からです.",
+    "Fiz a lição de casa e conferi o gabarito, e refiz o que errei.",
+    "Fiz as páginas 113–114 do Workbook."
+  ]
+}

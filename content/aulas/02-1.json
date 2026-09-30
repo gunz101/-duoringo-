@@ -1,0 +1,238 @@
+{
+  "id": "02-1",
+  "unit": "G1-L02",
+  "genki": { "book": "Genki I", "lesson": 2, "points": ["Demonstratives (これ・それ・あれ・どれ)", "この・その・あの・どの + Noun", "ここ・そこ・あそこ・どこ", "だれの Noun"] },
+  "title": "Isto, esse, aquele",
+  "titleJp": "これ・それ・あれ",
+  "canDo": [
+    "Apontar uma coisa perto de mim, perto de quem ouve ou longe dos dois, e perguntar o que é (これは / それは / あれは なんですか).",
+    "Dizer \"este dicionário\", \"aquela pessoa\" com この / その / あの + substantivo, e perguntar \"qual?\" com どれ e どの.",
+    "Perguntar onde fica um lugar (〜は どこですか) e entender ここ / そこ / あそこ na resposta.",
+    "Perguntar de quem é uma coisa (だれの) e responder \"é meu\", \"é da Maria\"."
+  ],
+  "duration": {
+    "total": "60–75 min",
+    "blocks": [
+      { "t": "Aquecimento: pegar 3 objetos da casa e dizer em voz alta o nome de cada um em japonês", "min": 5 },
+      { "t": "Vocabulário: ouvir 🔊 cada palavra e repetir 2 vezes", "min": 10 },
+      { "t": "Gramática: os 4 pontos, apontando objetos de verdade enquanto lê os exemplos, e um 🔬 por ponto", "min": 25 },
+      { "t": "Vídeo da Lição 2 (bloco 6), pausando nos exemplos", "min": 10 },
+      { "t": "Lição de casa no caderno + conferir no gabarito", "min": 15 },
+      { "t": "Checklist (bloco 10) + anotar dúvidas no caderno da aula", "min": 5 }
+    ]
+  },
+  "prereqs": {
+    "aulas": ["00-2", "01-1", "01-2"],
+    "skills": [
+      "Montar X は Y です, perguntas com か e com なんですか (Aula 01-1).",
+      "Ligar dois substantivos com の: わたしの なまえ (Aula 01-1).",
+      "Ler katakana básico para os nomes (マリア, ルーカス); o kana vem sempre escrito."
+    ],
+    "vocab": [
+      { "jp": "これ", "kana": "これ", "romaji": "kore", "pt": "isto (perto de quem fala)" },
+      { "jp": "それ", "kana": "それ", "romaji": "sore", "pt": "isso (perto de quem ouve)" },
+      { "jp": "あれ", "kana": "あれ", "romaji": "are", "pt": "aquilo (longe dos dois)" },
+      { "jp": "どれ", "kana": "どれ", "romaji": "dore", "pt": "qual (entre três ou mais)" },
+      { "jp": "この", "kana": "この", "romaji": "kono", "pt": "este ~ (+ substantivo)" },
+      { "jp": "その", "kana": "その", "romaji": "sono", "pt": "esse ~ (+ substantivo)" },
+      { "jp": "あの", "kana": "あの", "romaji": "ano", "pt": "aquele ~ (+ substantivo)" },
+      { "jp": "どの", "kana": "どの", "romaji": "dono", "pt": "qual ~ (+ substantivo)" },
+      { "jp": "ここ", "kana": "ここ", "romaji": "koko", "pt": "aqui" },
+      { "jp": "そこ", "kana": "そこ", "romaji": "soko", "pt": "aí (perto de quem ouve)" },
+      { "jp": "あそこ", "kana": "あそこ", "romaji": "asoko", "pt": "ali, lá (longe dos dois)" },
+      { "jp": "どこ", "kana": "どこ", "romaji": "doko", "pt": "onde" },
+      { "jp": "だれ", "kana": "だれ", "romaji": "dare", "pt": "quem" },
+      { "jp": "ひと", "kana": "ひと", "romaji": "hito", "pt": "pessoa" },
+      { "jp": "ほん", "kana": "ほん", "romaji": "hon", "pt": "livro" },
+      { "jp": "かさ", "kana": "かさ", "romaji": "kasa", "pt": "guarda-chuva" },
+      { "jp": "かばん", "kana": "かばん", "romaji": "kaban", "pt": "bolsa, mochila, pasta" },
+      { "jp": "さいふ", "kana": "さいふ", "romaji": "saifu", "pt": "carteira" },
+      { "jp": "じしょ", "kana": "じしょ", "romaji": "jisho", "pt": "dicionário" },
+      { "jp": "とけい", "kana": "とけい", "romaji": "tokei", "pt": "relógio" },
+      { "jp": "じてんしゃ", "kana": "じてんしゃ", "romaji": "jitensha", "pt": "bicicleta" },
+      { "jp": "としょかん", "kana": "としょかん", "romaji": "toshokan", "pt": "biblioteca" },
+      { "jp": "ゆうびんきょく", "kana": "ゆうびんきょく", "romaji": "yūbinkyoku", "pt": "correio (agência)" },
+      { "jp": "きっさてん", "kana": "きっさてん", "romaji": "kissaten", "pt": "café (o lugar)" }
+    ]
+  },
+  "grammar": [
+    {
+      "id": "02-1-a",
+      "gc": "2-1",
+      "title": "これ・それ・あれ・どれ",
+      "gloss": "isto, isso, aquilo, qual",
+      "explanation": "Essas quatro palavras **apontam para coisas** e ficam **sozinhas**, no lugar de um substantivo. Por isso ocupam na frase os mesmos lugares de qualquer substantivo: podem ser o TÓPICO (これは…) ou o PREDICADO (…あれです).\n• **これ**: perto de **quem fala** (na minha mão, na minha frente).\n• **それ**: perto de **quem ouve** (na mão da outra pessoa, do lado dela).\n• **あれ**: **longe dos dois** (do outro lado da rua, lá no fundo).\n• **どれ**: \"qual?\", para escolher entre três ou mais coisas. (Para escolher entre duas, existe outra palavra, na Aula 10-1.)\nO japonês decide pela **distância em relação às pessoas**. Em português, \"isso\" serve para quase tudo; em japonês, se a coisa está na sua mão, é これ.",
+      "structure": "これ / それ / あれ は [N] です。 · [N] は どれですか。",
+      "examples": [
+        { "jp": "これは わたしの さいふです。", "kana": "これは わたしの さいふです。", "romaji": "Kore wa watashi no saifu desu.", "pt": "Isto é a minha carteira." },
+        { "jp": "それは なんですか。— じしょです。", "kana": "それは なんですか。— じしょです。", "romaji": "Sore wa nan desu ka. — Jisho desu.", "pt": "O que é isso (aí com você)? — É um dicionário." },
+        { "jp": "マリアさんの かばんは どれですか。— あれです。", "kana": "マリアさんの かばんは どれですか。— あれです。", "romaji": "Maria-san no kaban wa dore desu ka. — Are desu.", "pt": "Qual é a bolsa da Maria? — É aquela (lá)." }
+      ],
+      "pitfalls": [
+        "これ não vem antes de substantivo: \"este livro\" é この ほん (ponto 4b), e não これ ほん.",
+        "Palavra interrogativa não leva は: どれは está errado. A coisa procurada leva は, e どれ vai no lugar da resposta: 〜は どれですか。",
+        "O ponto de vista muda na resposta. Se alguém aponta o que está na SUA mão e pergunta それは なんですか, você responde これは…, e não それは….",
+        "Não traduza o \"isso\" do português sempre por それ. Pense em onde a coisa está: comigo → これ; com você → それ; longe dos dois → あれ."
+      ],
+      "howToStudy": [
+        "Ponha um objeto na sua mão, outro numa cadeira (que faz o papel de \"quem ouve\") e outro do outro lado da sala. Aponte cada um e diga em voz alta これは…, それは…, あれは….",
+        "Aperte 🔬 no exemplo 3: マリアさんの かばんは é o TÓPICO (o の DESCREVE かばん) e どれですか é o PREDICADO. A resposta あれです ocupa o mesmo lugar.",
+        "No caderno, escreva 3 frases com これ, それ e あれ sobre coisas da sua casa."
+      ],
+      "flag": null
+    },
+    {
+      "id": "02-1-b",
+      "gc": "2-2",
+      "title": "この・その・あの・どの + N",
+      "gloss": "este ~, esse ~, aquele ~, qual ~",
+      "explanation": "É a mesma família de distâncias, mas agora a palavra vem **presa a um substantivo** e o descreve: この ほん = \"este livro\". この sozinho não existe: sempre precisa de um substantivo depois.\n• この: perto de quem fala · その: perto de quem ouve · あの: longe dos dois · どの: \"qual ~?\".\n• O bloco この ほん funciona como **um substantivo só**: pode ser TÓPICO (この ほんは…) ou PREDICADO (…この ほんです).\n• Macete: as formas em **-re** (これ) ficam sozinhas; as formas em **-no** (この) pedem um substantivo depois, como o の da Aula 01-1.\n• あの ひと (\"aquela pessoa\") é o jeito comum de falar de alguém que está ali.",
+      "structure": "この / その / あの [N] は 〜です。 · どの [N] ですか。",
+      "examples": [
+        { "jp": "この じしょは にほんごの じしょです。", "kana": "この じしょは にほんごの じしょです。", "romaji": "Kono jisho wa nihongo no jisho desu.", "pt": "Este dicionário é um dicionário de japonês." },
+        { "jp": "あの ひとは りゅうがくせいです。", "kana": "あの ひとは りゅうがくせいです。", "romaji": "Ano hito wa ryūgakusei desu.", "pt": "Aquela pessoa é intercambista." },
+        { "jp": "どの かさですか。— その かさです。", "kana": "どの かさですか。— その かさです。", "romaji": "Dono kasa desu ka. — Sono kasa desu.", "pt": "Qual guarda-chuva? — Esse aí (perto de você)." }
+      ],
+      "pitfalls": [
+        "この não fica sozinho: この です está errado. Diga これです, ou この かさです.",
+        "あの (\"aquele\") não é あのう (\"hum…\", para hesitar ou chamar a atenção): あの ひと × あのう、すみません。",
+        "\"Este livro\" é この ほん. これの ほん está errado."
+      ],
+      "howToStudy": [
+        "Troque em voz alta as palavras do ponto 4a por この/その/あの + substantivo: これ → この さいふ; それ → その とけい; あれ → あの じてんしゃ.",
+        "Aperte 🔬 no exemplo 1: この じしょは é um TÓPICO de dois pedaços, e この DESCREVE o próximo bloco (じしょ).",
+        "Olhe pela janela e faça 3 perguntas com あの: あの ひとは せんせいですか。, あの じてんしゃは…."
+      ],
+      "flag": null
+    },
+    {
+      "id": "02-1-c",
+      "gc": "2-3",
+      "title": "ここ・そこ・あそこ・どこ",
+      "gloss": "aqui, aí, ali/lá, onde",
+      "explanation": "A mesma família, agora para **lugares**: **ここ** (aqui, onde eu estou), **そこ** (aí, perto de você), **あそこ** (ali/lá, longe dos dois), **どこ** (onde?). Para perguntar onde fica algo, o lugar procurado é o TÓPICO e どこ entra no PREDICADO: ゆうびんきょくは どこですか。 A resposta troca どこ pela informação: ゆうびんきょくは あそこです。\n• Repare na forma: あそこ tem uma sílaba a mais (não é \"あこ\").\n• ここ também pode ser o tópico: ここは としょかんです (\"aqui é a biblioteca\").\n• Nessas frases, です faz o papel de \"fica\": X は あそこです = \"X fica ali\". O verbo próprio para \"estar num lugar\" vem na Aula 04-1.",
+      "structure": "[lugar/coisa] は どこですか。— ここ / そこ / あそこ です。 · ここは [lugar] です。",
+      "examples": [
+        { "jp": "すみません、ゆうびんきょくは どこですか。— あそこです。", "kana": "すみません、ゆうびんきょくは どこですか。— あそこです。", "romaji": "Sumimasen, yūbinkyoku wa doko desu ka. — Asoko desu.", "pt": "Com licença, onde fica o correio? — Fica ali." },
+        { "jp": "ここは だいがくの としょかんです。", "kana": "ここは だいがくの としょかんです。", "romaji": "Koko wa daigaku no toshokan desu.", "pt": "Aqui é a biblioteca da faculdade." },
+        { "jp": "ルーカスさんの だいがくは どこですか。— サンパウロです。", "kana": "ルーカスさんの だいがくは どこですか。— サンパウロです。", "romaji": "Rūkasu-san no daigaku wa doko desu ka. — Sanpauro desu.", "pt": "Onde fica a faculdade do Lucas? — Em São Paulo." }
+      ],
+      "pitfalls": [
+        "ここ é lugar e これ é coisa: ここは なんですか pergunta \"que lugar é este?\"; これは なんですか pergunta \"o que é isto?\".",
+        "どこ nunca é o tópico: どこは está errado. O lugar procurado vem com は, e どこ vai no fim: きっさてんは どこですか。",
+        "O \"lá\" do português, quando é longe dos dois, é あそこ, e não そこ. そこ é \"aí\", perto de quem ouve."
+      ],
+      "howToStudy": [
+        "Imagine que está no campus e faça o diálogo em voz alta, trocando o lugar 4 vezes: としょかんは どこですか。— あそこです。 (ゆうびんきょく, きっさてん…)",
+        "Aperte 🔬 no exemplo 1: ゆうびんきょくは é o TÓPICO e どこですか é o PREDICADO. Na resposta, só o predicado muda.",
+        "Desenhe no caderno um mapinha com 4 lugares e escreva uma pergunta e uma resposta para cada um."
+      ],
+      "flag": null
+    },
+    {
+      "id": "02-1-d",
+      "gc": "2-4",
+      "title": "だれの N",
+      "gloss": "de quem",
+      "explanation": "だれ = \"quem\". Com o の da Aula 01-1, **だれの** vira \"de quem\": だれの かばん = \"a bolsa de quem\". Como sempre, a pergunta entra no lugar da resposta: それは **だれの** かばんですか。— **マリアさんの** かばんです。\n• Quando o substantivo é óbvio, ele pode sumir, e o の fica sozinho: マリアさんのです (\"é da Maria\"), わたしのです (\"é meu\"). Esse の vale por \"o/a de…\".\n• A pergunta também pode ficar curta: その かさは だれのですか。\n• Com gente mais velha ou em situação formal, você vai ouvir **どなた**, a forma mais educada de だれ.",
+      "structure": "[coisa] は だれの [N] ですか。— [pessoa] の ([N]) です。",
+      "examples": [
+        { "jp": "それは だれの じしょですか。— すずきさんの じしょです。", "kana": "それは だれの じしょですか。— すずきさんの じしょです。", "romaji": "Sore wa dare no jisho desu ka. — Suzuki-san no jisho desu.", "pt": "De quem é esse dicionário? — É do(a) Sr(a). Suzuki." },
+        { "jp": "あの じてんしゃは だれのですか。— ルーカスさんのです。", "kana": "あの じてんしゃは だれのですか。— ルーカスさんのです。", "romaji": "Ano jitensha wa dare no desu ka. — Rūkasu-san no desu.", "pt": "De quem é aquela bicicleta? — É do Lucas." },
+        { "jp": "この とけいは わたしのです。", "kana": "この とけいは わたしのです。", "romaji": "Kono tokei wa watashi no desu.", "pt": "Este relógio é meu." }
+      ],
+      "pitfalls": [
+        "Não esqueça o の na resposta. ルーカスさんです diria que a bicicleta \"é o Lucas\"; o certo é ルーカスさんのです.",
+        "だれですか pergunta \"quem é?\" (uma pessoa). だれのですか pergunta \"de quem é?\" (uma coisa).",
+        "\"Meu\" sozinho é わたしの: この とけいは わたしのです. この とけいは わたしです quer dizer \"este relógio sou eu\"."
+      ],
+      "howToStudy": [
+        "Pegue 4 objetos da casa e pergunte em voz alta, com a distância certa: これは だれの 〜ですか。 Responda você mesmo: 〜さんのです / わたしのです.",
+        "Aperte 🔬 no exemplo 2 e veja que だれの e ルーカスさんの ocupam o mesmo lugar, dentro do PREDICADO.",
+        "No caderno, escreva 3 pares de pergunta e resposta com だれの, um deles sem o substantivo na resposta."
+      ],
+      "flag": null
+    }
+  ],
+  "media": [
+    { "order": 1, "kind": "leitura", "title": "Genki I · Lição 2: diálogo, vocabulário e as explicações de gramática (Demonstratives, この/その/あの/どの + noun, ここ/そこ/あそこ/どこ, だれの)", "where": "Seu livro Genki I (3ª ed.)", "url": "", "when": "Antes desta aula ou logo depois do bloco de gramática" },
+    { "order": 2, "kind": "video", "title": "ToKini Andy: aula da Lição 2 do Genki I (gramática)", "where": "YouTube · canal ToKini Andy", "url": "", "search": "ToKini Andy Genki Lesson 2", "when": "Depois de estudar os 4 pontos: o vídeo confirma e dá mais exemplos" },
+    { "order": 3, "kind": "app", "title": "genki-companion: Lição 2, pontos 1 a 4 (marque ✍️ quando terminar)", "where": "../genki-companion/index.html", "url": "../genki-companion/index.html", "when": "No fim, para revisar e marcar o progresso" }
+  ],
+  "homework": {
+    "intro": "Faça no caderno, à mão, escrevendo o japonês em kana. Nas situações, desenhe um bonequinho para \"quem fala\" e outro para \"quem ouve\" se ajudar. Só depois abra o gabarito, item por item. Circule o que errou e refaça no dia seguinte.",
+    "tasks": [
+      {
+        "id": "h1",
+        "type": "escolher",
+        "prompt": "Escolha これ, それ ou あれ pela distância e escreva a frase.",
+        "items": [
+          { "q": "O dicionário está na sua mão. Diga: \"Isto é o meu dicionário.\"", "a": { "jp": "これは わたしの じしょです。", "romaji": "Kore wa watashi no jisho desu." } },
+          { "q": "A Ana está segurando uma bolsa. Pergunte se é dela.", "a": { "jp": "それは アナさんの かばんですか。", "romaji": "Sore wa Ana-san no kaban desu ka." }, "note": "Perto de quem ouve: それ. \"Dela\" = アナさんの, sem \"você\"." },
+          { "q": "Há uma bicicleta do outro lado da rua. Pergunte de quem é.", "a": { "jp": "あれは だれの じてんしゃですか。", "romaji": "Are wa dare no jitensha desu ka." } },
+          { "q": "Você está com um guarda-chuva na mão e alguém pergunta それは なんですか。 Responda: \"Isto é um guarda-chuva.\"", "a": { "jp": "これは かさです。", "romaji": "Kore wa kasa desu." }, "note": "Está na sua mão: これ, mesmo que a pergunta tenha usado それ." }
+        ]
+      },
+      {
+        "id": "h2",
+        "type": "completar",
+        "prompt": "Complete com a palavra certa: この/その/あの/どの (com substantivo depois) ou これ/それ/あれ/どれ (sozinhas).",
+        "items": [
+          { "q": "＿ かばんは わたしのです。 (a bolsa está com você)", "a": { "jp": "この", "romaji": "kono" }, "note": "Tem substantivo depois: forma em -no." },
+          { "q": "＿は なんですか。 (a coisa está com quem ouve)", "a": { "jp": "それ", "romaji": "sore" }, "note": "Sozinha, antes de は: forma em -re." },
+          { "q": "＿ ひとは せんせいですか。 (a pessoa está longe dos dois)", "a": { "jp": "あの", "romaji": "ano" } },
+          { "q": "マリアさんの かさは ＿ですか。 (\"qual?\")", "a": { "jp": "どれ", "romaji": "dore" } },
+          { "q": "＿ じしょですか。— その じしょです。 (\"qual dicionário?\")", "a": { "jp": "どの", "romaji": "dono" }, "note": "Tem じしょ depois: どの." }
+        ]
+      },
+      {
+        "id": "h3",
+        "type": "traduzir",
+        "prompt": "Traduza para o japonês.",
+        "items": [
+          { "q": "Onde fica a biblioteca? — Fica ali.", "a": { "jp": "としょかんは どこですか。— あそこです。", "romaji": "Toshokan wa doko desu ka. — Asoko desu." } },
+          { "q": "Aqui é um café.", "a": { "jp": "ここは きっさてんです。", "romaji": "Koko wa kissaten desu." } },
+          { "q": "De quem é este relógio? — É da Maria.", "a": { "jp": "この とけいは だれのですか。— マリアさんのです。", "romaji": "Kono tokei wa dare no desu ka. — Maria-san no desu." }, "note": "これは だれの とけいですか。 também está certo." },
+          { "q": "Aquela pessoa é o professor Tanaka.", "a": { "jp": "あの ひとは たなかせんせいです。", "romaji": "Ano hito wa Tanaka-sensei desu." }, "note": "せんせい pode vir depois do nome, no lugar de さん." },
+          { "q": "Onde fica o correio? — Fica aí (perto de você).", "a": { "jp": "ゆうびんきょくは どこですか。— そこです。", "romaji": "Yūbinkyoku wa doko desu ka. — Soko desu." } },
+          { "q": "Esta carteira é minha.", "a": { "jp": "この さいふは わたしのです。", "romaji": "Kono saifu wa watashi no desu." } }
+        ]
+      },
+      {
+        "id": "h4",
+        "type": "produzir",
+        "prompt": "Olhe o lugar onde você está e escreva 4 frases: uma com これ, uma com あの + substantivo, uma com ここは e uma pergunta com だれの. Depois leia em voz alta, apontando.",
+        "items": [
+          { "q": "Modelo, que o seu texto deve seguir na estrutura e não nas palavras:", "a": { "jp": "これは わたしの とけいです。あの じてんしゃは ペドロさんのです。ここは わたしの だいがくです。その かばんは だれのですか。", "romaji": "Kore wa watashi no tokei desu. Ano jitensha wa Pedoro-san no desu. Koko wa watashi no daigaku desu. Sono kaban wa dare no desu ka.", "pt": "Isto é o meu relógio. Aquela bicicleta é do Pedro. Aqui é a minha faculdade. De quem é essa bolsa?" }, "note": "Confira: これ e ここ sozinhos, この/その/あの sempre com substantivo, e o の na resposta de だれの." }
+        ]
+      }
+    ],
+    "workbook": [
+      { "p": 26, "t": "2 · これ / それ / あれ", "tip": "Faça depois do ponto 4a." },
+      { "p": 27, "t": "3 · この / その / あの", "tip": "Faça depois do ponto 4b." },
+      { "p": 28, "t": "4 · ここ / そこ / あそこ・だれの", "tip": "Faça depois dos pontos 4c e 4d. Confira no Genki Answer Key oficial." }
+    ]
+  },
+  "practice": [
+    { "tool": "Wagotabi", "what": "Jogue normalmente e cace これ, それ, あれ, この, その, あの, ここ, そこ, あそこ e どこ nos diálogos. A cada um, pause e pense: perto de quem está a coisa ou o lugar? Copie 2 dessas frases no caderno.", "min": 15 },
+    { "tool": "Mirage", "what": "Vocabulário da Lição 2 no SRS. Depois, Treinos → 🔬 Anatomia → 🧱 Montar de trás pra frente: 5 frases.", "min": 10 },
+    { "tool": "Mirage", "what": "Praticar L2: faça a parte de compreensão, prestando atenção em quem está perto de quê.", "min": 10 },
+    { "tool": "Shadowing", "what": "Toque 🔊 em cada exemplo desta aula e repita junto 3 vezes, apontando para um objeto de verdade enquanto fala.", "min": 5 },
+    { "tool": "Fala", "what": "Tour pela casa: ande pelos cômodos por 3 minutos dizendo em voz alta ここは…, これは…, あれは… e uma pergunta com だれの. Grave e ouça.", "min": 5 }
+  ],
+  "culture": {
+    "title": "A troca de cartões de visita",
+    "titleJp": "めいし",
+    "body": "No mundo do trabalho japonês, a apresentação costuma vir com a troca de **cartões de visita**, os めいし. O cartão é entregue com as **duas mãos**, virado para que a outra pessoa consiga ler o seu nome, junto com はじめまして。…よろしく おねがいします。 Quem recebe também usa as duas mãos, lê o cartão com atenção e, numa reunião, costuma deixá-lo sobre a mesa à sua frente até o fim da conversa. Guardar o cartão no bolso da calça na mesma hora, ou escrever nele na frente da pessoa, costuma ser visto como falta de cuidado. Quando os dois entregam ao mesmo tempo, é comum a pessoa de posição mais baixa segurar o seu cartão um pouco abaixo do cartão do outro.",
+    "try": "Escreva o seu nome em katakana num papel do tamanho de um cartão. Treine a entrega com as duas mãos, com o texto virado para fora, dizendo: はじめまして。(seu nome)です。よろしく おねがいします。 Depois treine receber: segure com as duas mãos e leia o nome em voz alta."
+  },
+  "checklist": [
+    "Escolho これ, それ ou あれ pela distância certa, sem pensar no \"isso\" do português.",
+    "Uso この/その/あの sempre com um substantivo depois, e これ/それ/あれ sempre sozinhos.",
+    "Pergunto onde fica um lugar (〜は どこですか) e respondo com ここ, そこ ou あそこ.",
+    "Pergunto de quem é uma coisa (だれの) e respondo 〜のです sem esquecer o の.",
+    "Sei que palavra interrogativa (どれ, どこ) não leva は.",
+    "Fiz a lição de casa e conferi o gabarito, e refiz o que errei.",
+    "Fiz as páginas 26–28 do Workbook."
+  ]
+}

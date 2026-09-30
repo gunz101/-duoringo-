@@ -1,0 +1,246 @@
+{
+  "id": "08-3",
+  "unit": "G1-L08",
+  "genki": { "book": "Genki I", "lesson": 8, "points": ["〜ないでください", "Verb のが好きです", "が (subject particle)", "何か and 何も"] },
+  "title": "Não faça · gosto de fazer · algo/nada",
+  "titleJp": "何も 言わないでください",
+  "canDo": [
+    "Pedir com educação para alguém NÃO fazer algo (〜ないでください).",
+    "Dizer do que gosto, o que detesto e no que sou bom ou ruim de FAZER (verbo + のが すき / きらい / じょうず / へた).",
+    "Perguntar quem ou o que faz algo com だれが / 何が (nunca だれは) e responder mantendo o が: マリアさんが 作りました。",
+    "Perguntar \"algo?\" e responder \"nada\" com 何か e 何も + negativo, e fazer o mesmo com pessoas (だれか / だれも)."
+  ],
+  "duration": {
+    "total": "70–90 min",
+    "blocks": [
+      { "t": "Aquecimento: dizer a forma ない de 10 verbos em voz alta (Aula 08-1)", "min": 5 },
+      { "t": "Vocabulário: ouvir 🔊 cada palavra e repetir 2 vezes", "min": 10 },
+      { "t": "Gramática: os 4 pontos, com os exemplos em voz alta e um 🔬 em cada. Aula densa: se preferir, divida em 2 sessões (4a–4b numa, 4c–4d na outra)", "min": 35 },
+      { "t": "Vídeo da Lição 8 (bloco 6), pausando nos exemplos", "min": 10 },
+      { "t": "Lição de casa no caderno + conferir no gabarito", "min": 20 },
+      { "t": "Checklist (bloco 10) + anotar dúvidas no caderno da aula", "min": 5 }
+    ]
+  },
+  "prereqs": {
+    "aulas": ["05-2", "06-2", "08-1", "08-2"],
+    "skills": [
+      "Formar a forma ない de qualquer verbo (Aula 08-1).",
+      "Pedir algo com 〜てください (Aula 06-2) e dizer que gosta de algo com Xが すきです / きらいです (Aula 05-2).",
+      "Saber que a palavra interrogativa (何, だれ) entra no lugar onde a resposta vai ficar (Aula 01-1)."
+    ],
+    "vocab": [
+      { "jp": "じょうず(な)", "kana": "じょうず(な)", "romaji": "jōzu (na)", "pt": "habilidoso, bom em (costuma ser usado para elogiar os outros) · adjetivo な" },
+      { "jp": "へた(な)", "kana": "へた(な)", "romaji": "heta (na)", "pt": "ruim em, sem jeito · adjetivo な" },
+      { "jp": "きらい(な)", "kana": "きらい(な)", "romaji": "kirai (na)", "pt": "que se detesta · adjetivo な (Xが きらい = não gostar de X)" },
+      { "jp": "何か", "kana": "なにか", "romaji": "nanika", "pt": "alguma coisa" },
+      { "jp": "何も", "kana": "なにも", "romaji": "nanimo", "pt": "nada (com verbo negativo)" },
+      { "jp": "だれか", "kana": "だれか", "romaji": "dareka", "pt": "alguém" },
+      { "jp": "だれも", "kana": "だれも", "romaji": "daremo", "pt": "ninguém (com verbo negativo)" },
+      { "jp": "いる", "kana": "いる", "romaji": "iru", "pt": "precisar de · verbo う (いらない, いりません); não confundir com いる, existir" },
+      { "jp": "すてる", "kana": "すてる", "romaji": "suteru", "pt": "jogar fora · verbo る" },
+      { "jp": "ごみ", "kana": "ごみ", "romaji": "gomi", "pt": "lixo" },
+      { "jp": "わすれる", "kana": "わすれる", "romaji": "wasureru", "pt": "esquecer · verbo る" },
+      { "jp": "でんわ", "kana": "でんわ", "romaji": "denwa", "pt": "telefone; ligação (でんわを する = telefonar)" },
+      { "jp": "つかう", "kana": "つかう", "romaji": "tsukau", "pt": "usar · verbo う (つかわない)" },
+      { "jp": "電気", "kana": "でんき", "romaji": "denki", "pt": "luz (elétrica), eletricidade" },
+      { "jp": "けす", "kana": "けす", "romaji": "kesu", "pt": "apagar, desligar · verbo う" },
+      { "jp": "すう", "kana": "すう", "romaji": "suu", "pt": "fumar; aspirar · verbo う (すわない)" },
+      { "jp": "たばこ", "kana": "たばこ", "romaji": "tabako", "pt": "cigarro" },
+      { "jp": "うたう", "kana": "うたう", "romaji": "utau", "pt": "cantar · verbo う" },
+      { "jp": "およぐ", "kana": "およぐ", "romaji": "oyogu", "pt": "nadar · verbo う" },
+      { "jp": "せんたく(する)", "kana": "せんたく(する)", "romaji": "sentaku (suru)", "pt": "lavar roupa" },
+      { "jp": "ビール", "kana": "ビール", "romaji": "bīru", "pt": "cerveja" },
+      { "jp": "バーベキュー", "kana": "バーベキュー", "romaji": "bābekyū", "pt": "churrasco (ao ar livre)" },
+      { "jp": "かんぱい", "kana": "かんぱい", "romaji": "kanpai", "pt": "saúde! (no brinde)" }
+    ]
+  },
+  "grammar": [
+    {
+      "id": "08-3-a",
+      "gc": "8-5",
+      "title": "〜ないでください",
+      "gloss": "por favor, não faça…",
+      "explanation": "Você já pede para alguém **fazer** algo com 〜てください (Aula 06-2). Para pedir que **não faça**, pegue a **forma ない** (Aula 08-1) e acrescente **でください**.\n• 飲まない → 飲まない**でください** (\"por favor, não beba\").\n• 見ない → 見ないでください; しない → しないでください; こない → こないでください.\n• O bloco inteiro é o **predicado**, e o tipo dele é **pedido**. Os outros blocos continuam com as partículas de sempre: [lugar] で, [objeto] を.\n• É educado, mas direto. Com desconhecidos, é comum abrir com すみませんが、… (\"desculpe, mas…\").\n• Entre amigos, a versão casual é só 〜ないで: 行かないで！ (\"não vai!\").\n• Não confunda com 〜ては いけません (Aula 06-3): ないでください é um **pedido** a alguém; てはいけません diz que algo **é proibido**.",
+      "structure": "[verbo na forma ない] でください",
+      "examples": [
+        { "jp": "ここに ごみを すてないでください。", "kana": "ここに ごみを すてないでください。", "romaji": "Koko ni gomi o sutenaide kudasai.", "pt": "Por favor, não jogue lixo aqui." },
+        { "jp": "電車の 中で でんわを しないでください。", "kana": "でんしゃの なかで でんわを しないでください。", "romaji": "Densha no naka de denwa o shinaide kudasai.", "pt": "Por favor, não fale ao telefone dentro do trem." },
+        { "jp": "あしたの テストを わすれないでください。", "kana": "あしたの テストを わすれないでください。", "romaji": "Ashita no tesuto o wasurenaide kudasai.", "pt": "Por favor, não esqueça a prova de amanhã." }
+      ],
+      "pitfalls": [
+        "Montar a partir da forma ます: 飲みませんでください ✗ → 飲まないでください ✓. A base é sempre a forma ない.",
+        "Verbos terminados em う ganham わ: つかわないでください ✓, つかあないでください ✗.",
+        "Esquecer o で: 飲まないください ✗ → 飲まないでください ✓.",
+        "Para uma regra (\"é proibido fumar aqui\"), o japonês usa 〜ては いけません: ここで たばこを すっては いけません ✓. 〜ないでください é um pedido a alguém."
+      ],
+      "howToStudy": [
+        "Pense em 5 avisos que você veria num lugar público no Brasil (não fume, não coma aqui, não corra…) e diga cada um em japonês com 〜ないでください.",
+        "Pegue 5 pedidos que você já sabe fazer com 〜てください e diga em voz alta o pedido contrário: 見てください → 見ないでください; きてください → こないでください.",
+        "Aperte 🔬 no exemplo do trem: 中で é o LUGAR DA AÇÃO (com 電車の descrevendo), でんわを é o OBJETO, e o PREDICADO no fim é um pedido."
+      ],
+      "flag": null
+    },
+    {
+      "id": "08-3-b",
+      "gc": "8-6",
+      "title": "Verbo + のが すき / じょうず / へた",
+      "gloss": "gostar de fazer, ser bom ou ruim em fazer",
+      "explanation": "すき, きらい, じょうず e へた pedem um **substantivo** antes do が: ビールが すきです. Para falar de uma **ação** (nadar, cantar, ler), transforme o verbo em substantivo com **の**: [verbo na forma de dicionário] + の.\n• およぐ → およぐ**の** (\"o nadar\") → およぐのが すきです (\"gosto de nadar\").\n• O verbo pode levar os seus complementos junto: 本を 読む**の**が すきです. O conjunto [本を 読む] vira o \"substantivo\", e é ele o **sujeito** de すき, marcado por が.\n• **Não gostar**: 読むのが すきじゃないです, ou mais forte, 読むのが きらいです. Para \"não gosto muito\": あまり すきじゃないです.\n• **じょうず / へた** falam de habilidade: うたうのが じょうずです (\"canta bem\"). じょうず costuma ser usado para **elogiar os outros**; sobre você mesmo, soa como se gabar. Para você, prefira へたです ou あまり じょうずじゃないです.\nLeia pelo fim: すきです → gosta de quê? → do bloco com のが.",
+      "structure": "[verbo (forma de dicionário)] のが すき / きらい / じょうず / へた です",
+      "examples": [
+        { "jp": "私は 電車で 本を 読むのが すきです。", "kana": "わたしは でんしゃで ほんを よむのが すきです。", "romaji": "Watashi wa densha de hon o yomu no ga suki desu.", "pt": "Eu gosto de ler livros no trem." },
+        { "jp": "マリアさんは 日本の うたを うたうのが じょうずです。", "kana": "マリアさんは にほんの うたを うたうのが じょうずです。", "romaji": "Maria-san wa Nihon no uta o utau no ga jōzu desu.", "pt": "A Maria canta bem músicas japonesas." },
+        { "jp": "私は およぐのが へたです。", "kana": "わたしは およぐのが へたです。", "romaji": "Watashi wa oyogu no ga heta desu.", "pt": "Eu nado mal." }
+      ],
+      "pitfalls": [
+        "Usar a forma ます antes do の: 読みますのが すきです ✗ → 読むのが すきです ✓.",
+        "Esquecer o の: 読むが すきです ✗ → 読むのが すきです ✓.",
+        "Trocar が por を: 読むのを すきです ✗ → 読むのが すきです ✓. すき, きらい, じょうず e へた pedem が.",
+        "Elogiar a si mesmo: 私は うたうのが じょうずです soa como se gabar. Sobre você: うたうのが へたです ou あまり じょうずじゃないです ✓."
+      ],
+      "howToStudy": [
+        "Faça duas listas no caderno: 3 ações que você gosta de fazer e 3 que detesta. Diga cada uma em voz alta com 〜のが すきです / 〜のが きらいです.",
+        "Aperte 🔬 no exemplo do trem: 読むのが aparece como SUJEITO de すきです, o PREDICADO. 電車で (MEIO) e 本を (OBJETO) pertencem a 読む, não a すき: dizem onde e o que você lê.",
+        "Elogie em voz alta 3 pessoas que você conhece com 〜のが じょうずです e diga 1 coisa sobre você com 〜のが へたです."
+      ],
+      "flag": null
+    },
+    {
+      "id": "08-3-c",
+      "gc": "8-7",
+      "title": "が (partícula de sujeito)",
+      "gloss": "quem? — é X que…",
+      "explanation": "が marca o **sujeito**: quem faz a ação, ou a coisa de que se diz algo. Você já viu が com すき, com ある / いる e em N は X が Adj (Aula 07-2). O foco agora é a **palavra interrogativa como sujeito**.\n• Quando だれ, 何 ou どれ são o sujeito, eles levam **が, nunca は**: だれが きますか。 (だれは ✗).\n• Por quê: は marca o **tópico**, algo já conhecido, o assunto sobre o qual se vai falar. A palavra interrogativa é justamente o que **não se sabe**, então não pode ser tópico. が marca a **informação nova**, o foco da pergunta.\n• **A resposta mantém o が**, porque é ela que preenche a lacuna: だれが きますか。— ルーカスさんが きます。 Responder ルーカスさんは きます costuma soar como contraste (\"o Lucas, pelo menos, vem\") e não responde direito.\n• Na resposta curta, basta [X]です: マリアさんです。\n• Os dois juntos: この レストランは 何が おいしいですか。 A レストラン é o **tópico** (は, já conhecido); o que se pergunta é o **sujeito** (何が, novo). A resposta: カレーが おいしいです。\n• Resumindo: **Xは** = \"quanto a X…\" (assunto conhecido); **Xが** = \"é X que…\" (informação nova, em foco).\n• **Outro uso, não confunda**: depois de です / ます, が liga duas frases e quer dizer **\"mas\"**: 高いですが、おいしいです。 Esse が vem depois de um predicado, não de um substantivo, e não marca sujeito.",
+      "structure": "[だれ / 何] が [predicado]か。— [X] が [predicado]。 · [tópico] は [interrogativa] が [predicado]か。",
+      "examples": [
+        { "jp": "だれが この ケーキを 作りましたか。— マリアさんが 作りました。", "kana": "だれが この ケーキを つくりましたか。— マリアさんが つくりました。", "romaji": "Dare ga kono kēki o tsukurimashita ka. — Maria-san ga tsukurimashita.", "pt": "Quem fez este bolo? — Foi a Maria que fez." },
+        { "jp": "この レストランは 何が おいしいですか。— カレーが おいしいです。", "kana": "この レストランは なにが おいしいですか。— カレーが おいしいです。", "romaji": "Kono resutoran wa nani ga oishii desu ka. — Karē ga oishii desu.", "pt": "O que é gostoso neste restaurante? — O curry é gostoso." },
+        { "jp": "だれが バーベキューに きますか。— ルーカスさんと アナさんが きます。", "kana": "だれが バーベキューに きますか。— ルーカスさんと アナさんが きます。", "romaji": "Dare ga bābekyū ni kimasu ka. — Rūkasu-san to Ana-san ga kimasu.", "pt": "Quem vem ao churrasco? — O Lucas e a Ana." }
+      ],
+      "pitfalls": [
+        "Palavra interrogativa como sujeito com は: だれは きますか ✗ → だれが きますか ✓. O mesmo com 何: 何は おいしいですか ✗ → 何が おいしいですか ✓.",
+        "Responder com は: だれが 作りましたか。— マリアさんは 作りました ✗ (soa como contraste) → マリアさんが 作りました ✓.",
+        "Resposta curta com が: マリアさんがです ✗ → マリアさんです ✓.",
+        "Confundir com o が \"mas\": em 高いですが、おいしいです, o が vem depois de です e liga duas frases. Não é sujeito: 高いですが ✓ é \"é caro, mas…\"."
+      ],
+      "howToStudy": [
+        "Faça 5 perguntas com だれが / 何が sobre a sua casa ou o trabalho (だれが りょうりを 作りますか…) e responda cada uma em voz alta com [pessoa]が.",
+        "Aperte 🔬 no exemplo do bolo: だれが e マリアさんが aparecem como SUJEITO. No exemplo do restaurante, compare: レストランは é TÓPICO, e 何が / カレーが são SUJEITO.",
+        "Diga em voz alta o par ペドロさんは 行きます (\"quanto ao Pedro, ele vai\") × ペドロさんが 行きます (\"é o Pedro que vai\") e invente mais 2 pares."
+      ],
+      "flag": null
+    },
+    {
+      "id": "08-3-d",
+      "gc": "8-8",
+      "title": "何か / 何も",
+      "gloss": "algo / nada (e alguém / ninguém)",
+      "explanation": "Junte uma **palavra interrogativa** com **か** e ela vira \"algum\"; junte com **も** + **verbo negativo** e ela vira \"nenhum\".\n• 何**か** = alguma coisa: 何か 食べますか (\"vai comer alguma coisa?\"). A resposta é はい / いいえ.\n• 何**も** + negativo = nada: 何も 食べません (\"não como nada\"). O **verbo precisa ficar no negativo**, como no \"não… nada\" do português.\n• だれ**か** = alguém; だれ**も** + negativo = ninguém: だれも いません.\n• 何か / 何も / だれか / だれも ocupam o lugar do **objeto** ou do **sujeito**, e o を e o が **costumam sumir**: 何か 飲みますか, だれも いません.\n• Ao ler, quando aparecer 何も ou だれも, **pule para o fim** e confirme que o verbo está no negativo.\n• Com lugar, a lógica é a mesma, mas a partícula fica: どこかに 行きます / どこにも 行きません (Aula 10-3).",
+      "structure": "何か / だれか [verbo]ますか · 何も / だれも [verbo negativo]",
+      "examples": [
+        { "jp": "何か 飲みますか。— いいえ、何も いりません。", "kana": "なにか のみますか。— いいえ、なにも いりません。", "romaji": "Nanika nomimasu ka. — Iie, nanimo irimasen.", "pt": "Vai beber alguma coisa? — Não, não preciso de nada." },
+        { "jp": "何か 作る？— ううん、今日は 何も 作らない。", "kana": "なにか つくる？— ううん、きょうは なにも つくらない。", "romaji": "Nanika tsukuru? — Uun, kyō wa nanimo tsukuranai.", "pt": "Vai fazer alguma coisa (para comer)? — Não, hoje não vou fazer nada." },
+        { "jp": "へやに だれか いますか。— いいえ、だれも いません。", "kana": "へやに だれか いますか。— いいえ、だれも いません。", "romaji": "Heya ni dareka imasu ka. — Iie, daremo imasen.", "pt": "Tem alguém no quarto? — Não, não tem ninguém." }
+      ],
+      "pitfalls": [
+        "何も com verbo afirmativo: 何も 食べます ✗ → 何も 食べません ✓.",
+        "Deixar a partícula junto: 何もを 食べません ✗ → 何も 食べません ✓.",
+        "Confundir 何か com 何を: 何を 飲みますか = \"o que você vai beber?\" (a resposta é a bebida); 何か 飲みますか = \"vai beber algo?\" (a resposta é はい / いいえ).",
+        "だれか e だれも são para pessoas, 何か e 何も para coisas: へやに 何も いません ✗ → へやに だれも いません ✓."
+      ],
+      "howToStudy": [
+        "Faça 5 perguntas com 何か / だれか e responda cada uma no negativo com 何も / だれも: 何か 食べますか。— いいえ、何も 食べません。",
+        "Aperte 🔬 no exemplo do quarto: だれか aparece como ALGO / ALGUÉM e だれも como NADA / NINGUÉM. Confirme que o PREDICADO depois de だれも está no negativo.",
+        "Diga em voz alta o par 何を 飲みますか × 何か 飲みますか e responda cada um do jeito certo (コーヒーを 飲みます × はい、おねがいします)."
+      ],
+      "flag": null
+    }
+  ],
+  "media": [
+    { "order": 1, "kind": "leitura", "title": "Genki I · Lição 8: as explicações de 〜ないでください, Verb のが好きです, が e 何か / 何も", "where": "Seu livro Genki I (3ª ed.)", "url": "", "when": "Antes desta aula ou logo depois do bloco de gramática" },
+    { "order": 2, "kind": "video", "title": "ToKini Andy: aula da Lição 8 do Genki I (〜ないでください, のが好き, 何か / 何も)", "where": "YouTube · canal ToKini Andy", "url": "", "search": "ToKini Andy Genki Lesson 8", "when": "Depois de estudar os 4 pontos: o vídeo confirma e dá mais exemplos" },
+    { "order": 3, "kind": "app", "title": "genki-companion: Lição 8, pontos 5 a 8 (marque ✍️ quando terminar)", "where": "../genki-companion/index.html", "url": "../genki-companion/index.html", "when": "No fim, para revisar e marcar o progresso" }
+  ],
+  "homework": {
+    "intro": "Faça no caderno, à mão. Escreva os kanji que você já conhece e o resto em kana. Só depois abra o gabarito, item por item. Circule o que errou e refaça no dia seguinte.",
+    "tasks": [
+      {
+        "id": "h1",
+        "type": "transformar",
+        "prompt": "Transforme o pedido em pedido negativo, com 〜ないでください.",
+        "items": [
+          { "q": "ここで 食べてください。", "a": { "jp": "ここで 食べないでください。", "kana": "ここで たべないでください。", "romaji": "Koko de tabenaide kudasai." }, "note": "Verbo る: 食べる → 食べない." },
+          { "q": "この でんわを つかってください。", "a": { "jp": "この でんわを つかわないでください。", "romaji": "Kono denwa o tsukawanaide kudasai." }, "note": "つかう termina em う: つかわない." },
+          { "q": "あした 大学に きてください。", "a": { "jp": "あした 大学に こないでください。", "kana": "あした だいがくに こないでください。", "romaji": "Ashita daigaku ni konaide kudasai." }, "note": "くる → こない → こないでください." },
+          { "q": "電気を けしてください。", "a": { "jp": "電気を けさないでください。", "kana": "でんきを けさないでください。", "romaji": "Denki o kesanaide kudasai." }, "note": "けす → けさない (す → さ)." },
+          { "q": "その 新聞を すててください。", "a": { "jp": "その 新聞を すてないでください。", "kana": "その しんぶんを すてないでください。", "romaji": "Sono shinbun o sutenaide kudasai." }, "note": "すてる é verbo る." }
+        ]
+      },
+      {
+        "id": "h2",
+        "type": "traduzir",
+        "prompt": "Traduza para o japonês, usando verbo + のが….",
+        "items": [
+          { "q": "Eu gosto de fazer bolo.", "a": { "jp": "私は ケーキを 作るのが すきです。", "kana": "わたしは ケーキを つくるのが すきです。", "romaji": "Watashi wa kēki o tsukuru no ga suki desu." } },
+          { "q": "A Ana nada bem.", "a": { "jp": "アナさんは およぐのが じょうずです。", "romaji": "Ana-san wa oyogu no ga jōzu desu." } },
+          { "q": "Eu não gosto de lavar roupa.", "a": { "jp": "私は せんたくするのが すきじゃないです。", "kana": "わたしは せんたくするのが すきじゃないです。", "romaji": "Watashi wa sentaku suru no ga suki ja nai desu." }, "note": "きらいです também está certo, mas é mais forte (\"detesto\")." },
+          { "q": "O Pedro canta mal.", "a": { "jp": "ペドロさんは うたうのが へたです。", "romaji": "Pedoro-san wa utau no ga heta desu." }, "note": "Dizer isso na frente do Pedro pode soar grosseiro; aqui é só treino." },
+          { "q": "Você gosta de ler jornal?", "a": { "jp": "新聞を 読むのが すきですか。", "kana": "しんぶんを よむのが すきですか。", "romaji": "Shinbun o yomu no ga suki desu ka." } }
+        ]
+      },
+      {
+        "id": "h3",
+        "type": "completar",
+        "prompt": "Complete com か, も ou が.",
+        "items": [
+          { "q": "何＿ 飲みますか。— はい、おちゃを おねがいします。", "a": { "jp": "か", "romaji": "ka" }, "note": "A resposta começa com はい, então a pergunta era \"algo?\" (何か)." },
+          { "q": "へやに だれ＿ いません。", "a": { "jp": "も", "romaji": "mo" }, "note": "Verbo negativo: だれも = ninguém." },
+          { "q": "だれが この 新聞を 読みましたか。— 父＿ 読みました。", "a": { "jp": "が", "romaji": "ga" }, "note": "A resposta mantém o が: é ela que diz quem leu." },
+          { "q": "きのうは 何＿ 食べませんでした。", "a": { "jp": "も", "romaji": "mo" }, "note": "\"Ontem não comi nada.\"" },
+          { "q": "だれ＿ バーベキューに 行きますか。— やまださんと すずきさんです。", "a": { "jp": "が", "romaji": "ga" }, "note": "Palavra interrogativa como sujeito leva が, nunca は." },
+          { "q": "この 大学は 何＿ ゆうめいですか。— 日本語の クラスが ゆうめいです。", "a": { "jp": "が", "romaji": "ga" }, "note": "O 大学 é o tópico (は); o que se pergunta, 何, é o sujeito (が)." }
+        ]
+      },
+      {
+        "id": "h4",
+        "type": "produzir",
+        "prompt": "Escreva 5 frases sobre você: 2 coisas que você gosta ou detesta fazer, 1 coisa em que é ruim, 1 frase dizendo quem faz algo na sua casa (うちでは [pessoa]が …) e 1 pedido com 〜ないでください (por exemplo, para quem mora com você). Depois leia em voz alta.",
+        "items": [
+          { "q": "Modelo, que o seu texto deve seguir na estrutura e não nas palavras:", "a": { "jp": "私は ブラジルりょうりを 作るのが すきです。せんたくするのが きらいです。うたうのが へたです。うちでは 私が りょうりを 作ります。私の ケーキを 食べないでください。", "kana": "わたしは ブラジルりょうりを つくるのが すきです。せんたくするのが きらいです。うたうのが へたです。うちでは わたしが りょうりを つくります。わたしの ケーキを たべないでください。", "romaji": "Watashi wa burajiru ryōri o tsukuru no ga suki desu. Sentaku suru no ga kirai desu. Utau no ga heta desu. Uchi de wa watashi ga ryōri o tsukurimasu. Watashi no kēki o tabenaide kudasai.", "pt": "Gosto de fazer comida brasileira. Detesto lavar roupa. Canto mal. Em casa, sou eu que cozinho. Por favor, não coma o meu bolo." }, "note": "Confira: forma de dicionário + のが; が de sujeito para dizer quem faz (私が); ないでください a partir da forma ない; じょうず só para os outros." }
+        ]
+      }
+    ],
+    "workbook": [
+      { "p": 82, "t": "5 · ～ないでください", "tip": "Faça depois do ponto 4a." },
+      { "p": 83, "t": "6 · Verb のが好きです / 上手です", "tip": "Faça depois do ponto 4b." },
+      { "p": 84, "t": "7 · が・何か and 何も", "tip": "Faça depois dos pontos 4c e 4d." },
+      { "p": 85, "t": "8 · 答えましょう (Questions)", "tip": "Revisão da Lição 8 inteira, com perguntas pessoais: faça depois das Aulas 08-1 a 08-3." },
+      { "p": 86, "t": "9 · 聞く練習 (Listening Comprehension)", "tip": "Precisa do áudio do Workbook. Faça por último, depois das três aulas." },
+      { "p": 143, "t": "Kanji Practice", "tip": "Os 14 kanji da Lição 8 (員新聞作仕事電車休言読思次何). Treine antes no ✍️ Escrever do Mirage." },
+      { "p": 144, "t": "Using Kanji", "tip": "Depois da página 143. Confira no Genki Answer Key oficial." }
+    ]
+  },
+  "practice": [
+    { "tool": "Wagotabi", "what": "Jogue normalmente e cace 何か, 何も, だれか, だれも ou uma pergunta com だれが / 何が. Quando achar um 何も ou だれも, confira se o verbo do fim está no negativo. Registre a sessão em Imersão → Jogos no Mirage e cole uma dessas frases na Anatomia.", "min": 15 },
+    { "tool": "Mirage", "what": "Vocabulário/SRS da Lição 8 e Praticar L8. Depois, Treinos → 🔬 Anatomia → 🧱 Montar de trás pra frente com 3 frases desta aula.", "min": 15 },
+    { "tool": "Kanji", "what": "Mirage → Kanji → ✍️ Escrever: os 14 kanji da Lição 8 (員新聞作仕事電車休言読思次何), com a ordem dos traços, antes das páginas 143–144 do Workbook.", "min": 10 },
+    { "tool": "Shadowing", "what": "Toque 🔊 nos diálogos do ponto 4d e repita pergunta e resposta 3 vezes cada, imitando o ritmo.", "min": 5 },
+    { "tool": "Fala", "what": "Grave 30 s falando do que você gosta e não gosta de fazer, usando a lição de casa h4 como roteiro.", "min": 5 }
+  ],
+  "culture": {
+    "title": "Brindar e servir o outro (かんぱい)",
+    "titleJp": "かんぱい",
+    "body": "Num jantar ou numa festa com bebidas, o costume é esperar todos estarem servidos e começar junto, com um **かんぱい！** (\"saúde!\"). Em grupo, em geral ninguém enche o próprio copo: você serve os outros, e alguém serve você. Quando alguém vai servir, costuma-se segurar e levantar um pouco o copo, muitas vezes com as duas mãos. Um copo vazio costuma ser lido como \"quero mais\"; se não quiser, deixe um pouco de bebida nele. Quem não bebe álcool pode brindar com chá ou refrigerante, sem problema nenhum.",
+    "try": "Na próxima refeição com família ou amigos, sirva o copo dos outros antes do seu e puxe um かんぱい！ Treine também, em voz alta, uma recusa gentil: すみませんが、もう 飲みません。"
+  },
+  "checklist": [
+    "Peço para alguém não fazer algo com 〜ないでください, partindo da forma ない, sem olhar.",
+    "Digo do que gosto e do que não gosto de fazer com [verbo]のが すき / きらい です.",
+    "Uso じょうず para elogiar os outros e へた (ou あまり じょうずじゃない) para mim.",
+    "Pergunto com だれが / 何が (nunca だれは) e respondo mantendo o が: マリアさんが 作りました。",
+    "Diferencio 何か 飲みますか (algo?) de 何を 飲みますか (o quê?) e respondo \"nada\" com 何も + negativo.",
+    "Uso だれか / だれも (alguém / ninguém) com o verbo certo.",
+    "Fiz a lição de casa e conferi o gabarito, e refiz o que errei.",
+    "Fiz as páginas 82–86 e 143–144 do Workbook."
+  ]
+}

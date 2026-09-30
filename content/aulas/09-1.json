@@ -1,0 +1,220 @@
+{
+  "id": "09-1",
+  "unit": "G1-L09",
+  "genki": { "book": "Genki I", "lesson": 9, "points": ["Past Tense Short Forms", "Past tense short forms in informal speech", "Past tense short forms in quotations (～と思います / ～と言っていました)"] },
+  "title": "Formas curtas (passado)",
+  "titleJp": "しゅうまつ、何を した？",
+  "canDo": [
+    "Passar qualquer verbo para o passado curto partindo da forma て (たべて → たべた, いって → いった) e da forma ない (たべない → たべなかった).",
+    "Passar adjetivos い e な e substantivos para o passado curto, afirmativo e negativo: たかかった / たかくなかった, しずかだった, がくせいじゃなかった.",
+    "Perguntar e responder, entre amigos, o que alguém fez: しゅうまつ、何を した？— ギターを ひいた。",
+    "Dar a minha opinião sobre algo que já aconteceu (〜たと 思います) e contar o que outra pessoa disse (〜と 言っていました), sem errar o tempo verbal."
+  ],
+  "duration": {
+    "total": "70–90 min",
+    "blocks": [
+      { "t": "Aquecimento: dizer em voz alta a forma て de 10 verbos (たべて, のんで, いって, して…), porque o passado curto sai dela", "min": 5 },
+      { "t": "Vocabulário: ouvir 🔊 cada palavra, repetir 2 vezes e dizer o passado curto dos verbos", "min": 10 },
+      { "t": "Gramática 4a: a tabela do passado curto (verbos, adjetivos, substantivos), com os exemplos lidos em voz alta", "min": 20 },
+      { "t": "Gramática 4b e 4c: fala casual e citações, com um 🔬 em cada exemplo", "min": 15 },
+      { "t": "Vídeo da Lição 9 (bloco 6), pausando nas tabelas", "min": 10 },
+      { "t": "Lição de casa no caderno + conferir no gabarito (se dividir a aula, h1–h2 numa sessão e h3–h4 na outra)", "min": 20 },
+      { "t": "Checklist (bloco 10) + anotar dúvidas no caderno da aula", "min": 5 }
+    ]
+  },
+  "prereqs": {
+    "aulas": ["04-2", "05-2", "06-1", "08-1", "08-2"],
+    "skills": [
+      "Formar a forma て de qualquer verbo sem tabela (Aula 06-1). O passado curto afirmativo sai direto dela.",
+      "Conhecer as formas curtas do presente: forma de dicionário, forma ない, だ / じゃない (Aula 08-1).",
+      "Saber o passado educado: 〜ました / 〜ませんでした, たかかったです, しずかでした (Aulas 04-2 e 05-2).",
+      "Usar 〜と 思います e 〜と 言っていました com o presente (Aula 08-2)."
+    ],
+    "vocab": [
+      { "jp": "かぶき", "kana": "かぶき", "romaji": "kabuki", "pt": "kabuki (teatro tradicional japonês)" },
+      { "jp": "コンサート", "kana": "コンサート", "romaji": "konsāto", "pt": "show, concerto" },
+      { "jp": "チケット", "kana": "チケット", "romaji": "chiketto", "pt": "ingresso" },
+      { "jp": "ギター", "kana": "ギター", "romaji": "gitā", "pt": "violão, guitarra" },
+      { "jp": "ひく", "kana": "ひく", "romaji": "hiku", "pt": "tocar (instrumento de corda ou teclado): ギターを ひく" },
+      { "jp": "おどる", "kana": "おどる", "romaji": "odoru", "pt": "dançar" },
+      { "jp": "くすり", "kana": "くすり", "romaji": "kusuri", "pt": "remédio (くすりを 飲む = tomar remédio)" },
+      { "jp": "飲む", "kana": "のむ", "romaji": "nomu", "pt": "beber; tomar (remédio)" },
+      { "jp": "びょうき", "kana": "びょうき", "romaji": "byōki", "pt": "doença; doente (びょうきだ = está doente)" },
+      { "jp": "さびしい", "kana": "さびしい", "romaji": "sabishii", "pt": "sentir-se sozinho(a), sentir falta de alguém" },
+      { "jp": "たのしい", "kana": "たのしい", "romaji": "tanoshii", "pt": "divertido, agradável" },
+      { "jp": "むずかしい", "kana": "むずかしい", "romaji": "muzukashii", "pt": "difícil" },
+      { "jp": "いそがしい", "kana": "いそがしい", "romaji": "isogashii", "pt": "ocupado(a)" },
+      { "jp": "むかし", "kana": "むかし", "romaji": "mukashi", "pt": "antigamente, há muito tempo" },
+      { "jp": "せんしゅう", "kana": "せんしゅう", "romaji": "senshū", "pt": "semana passada" },
+      { "jp": "せんげつ", "kana": "せんげつ", "romaji": "sengetsu", "pt": "mês passado" },
+      { "jp": "しゅうまつ", "kana": "しゅうまつ", "romaji": "shūmatsu", "pt": "fim de semana" },
+      { "jp": "行く", "kana": "いく", "romaji": "iku", "pt": "ir (passado curto: いった, com a exceção da forma て)" },
+      { "jp": "来る", "kana": "くる", "romaji": "kuru", "pt": "vir (passado curto: きた / こなかった)" },
+      { "jp": "思う", "kana": "おもう", "romaji": "omou", "pt": "achar, pensar" },
+      { "jp": "言う", "kana": "いう", "romaji": "iu", "pt": "dizer" },
+      { "jp": "うん", "kana": "うん", "romaji": "un", "pt": "sim (casual)" },
+      { "jp": "ううん", "kana": "ううん", "romaji": "uun", "pt": "não (casual)" }
+    ]
+  },
+  "grammar": [
+    {
+      "id": "09-1-a",
+      "gc": "9-1",
+      "title": "た / なかった",
+      "gloss": "passado curto de verbos, adjetivos e substantivos",
+      "explanation": "O passado curto é o **par informal** de 〜ました / 〜ませんでした. Serve para falar com amigos e, principalmente, para entrar **dentro** de frases maiores: antes de と 思います (ponto 4c) e antes de um substantivo (Aula 09-2). A boa notícia é que você já sabe formá-lo.\n• **Verbo afirmativo**: pegue a forma て e troque て por た (ou で por だ). たべて → たべた; のんで → のんだ; かいて → かいた; いって (行く) → いった; して → した; きて → きた.\n• **Verbo negativo**: pegue a forma ない e troque o い final por **かった**. たべない → たべなかった; 行かない → 行かなかった; しない → しなかった; こない → こなかった. O negativo de ある é ない, então o passado é なかった.\n• **Adjetivo い**: troque い por かった. たかい → たかかった; negativo: たかくない → たかくなかった. **いい é irregular**: よかった / よくなかった.\n• **Adjetivo な e substantivo**: だ vira **だった** e じゃない vira **じゃなかった**. しずかだった / しずかじゃなかった; がくせいだった / がくせいじゃなかった.\n• Para comparar com o educado, basta tirar o です quando ele existe: たかかったです → たかかった. Nos verbos, 〜ました vira 〜た e 〜ませんでした vira 〜なかった.\n• Regra de bolso: **todo negativo curto termina em ない e se conjuga como um adjetivo い**. Por isso todo negativo no passado termina em なかった.",
+      "structure": "verbo: forma て (て→た, で→だ) · forma ない (ない→なかった) · adj い: 〜かった / 〜くなかった · adj な e N: 〜だった / 〜じゃなかった",
+      "examples": [
+        { "jp": "せんしゅう 友だちと かぶきを 見た。", "kana": "せんしゅう ともだちと かぶきを みた。", "romaji": "Senshū tomodachi to kabuki o mita.", "pt": "Na semana passada vi kabuki com um amigo." },
+        { "jp": "ペドロさんは くすりを 飲まなかった。", "kana": "ペドロさんは くすりを のまなかった。", "romaji": "Pedoro-san wa kusuri o nomanakatta.", "pt": "O Pedro não tomou o remédio." },
+        { "jp": "むかし、この まちは しずかだった。", "kana": "むかし、この まちは しずかだった。", "romaji": "Mukashi, kono machi wa shizuka datta.", "pt": "Antigamente, esta cidade era tranquila." }
+      ],
+      "pitfalls": [
+        "いい é irregular: よかった / よくなかった (certo) × いかった / いくなかった (errado).",
+        "行く segue a exceção da forma て: いって → いった (certo) × いいた (errado).",
+        "きれい e きらい parecem adjetivos い, mas são な: きれいだった (certo) × きれかった (errado).",
+        "来る muda a vogal no negativo: こなかった (certo) × きなかった (errado)."
+      ],
+      "howToStudy": [
+        "Pegue 10 verbos que você já conhece e diga em voz alta a cadeia completa: たべて → たべた → たべない → たべなかった. Comece pelos verbos う de forma て mais difícil (いって, のんで, かいて, はなして).",
+        "Aperte 🔬 nos exemplos. Só o ★ PREDICADO, no fim, muda de tempo. Leia esse bloco primeiro e diga se ele está no presente ou no passado, no afirmativo ou no negativo.",
+        "Mirage → Treinos → Conjugação: a cada resposta educada (〜ました / 〜ませんでした), diga também a forma curta (〜た / 〜なかった)."
+      ],
+      "flag": null
+    },
+    {
+      "id": "09-1-b",
+      "gc": "9-2",
+      "title": "Fala casual no passado",
+      "gloss": "contar e perguntar o que aconteceu, entre amigos",
+      "explanation": "Entre amigos, família e colegas da mesma idade (lembre de せんぱい／こうはい, Aula 08-1), a conversa sobre o passado usa **só formas curtas**: 〜た, 〜なかった, 〜だった.\n• **Pergunta**: não se usa か. Basta **subir a voz** no fim: 見た？ (Viu?)\n• **Resposta**: うん (sim) ou ううん (não), mais a forma curta: うん、見た。 / ううん、見なかった。\n• **は e を costumam cair**: えいが、見た？ As partículas que carregam sentido, como と (com quem), で (onde) e から, quase sempre ficam.\n• Com adjetivo な e substantivo, a pergunta no passado **mantém o だった**: テスト、どうだった？ No presente, lembre, o だ cai na pergunta (げんき？); no passado ele fica.\n• Com quem você trata por です／ます (professor, desconhecido), continue no educado: 見ましたか。",
+      "structure": "[forma curta no passado] ↗？ — うん、[forma curta]。 / ううん、[forma curta negativa]。",
+      "examples": [
+        { "jp": "しゅうまつ、何を した？— ギターを ひいた。", "kana": "しゅうまつ、なにを した？— ギターを ひいた。", "romaji": "Shūmatsu, nani o shita? — Gitā o hiita.", "pt": "O que você fez no fim de semana? — Toquei violão." },
+        { "jp": "きのうの テスト、どうだった？— ちょっと むずかしかった。", "kana": "きのうの テスト、どうだった？— ちょっと むずかしかった。", "romaji": "Kinō no tesuto, dō datta? — Chotto muzukashikatta.", "pt": "Como foi a prova de ontem? — Foi meio difícil." },
+        { "jp": "マリアさん、パーティーに 来た？— ううん、来なかった。", "kana": "マリアさん、パーティーに きた？— ううん、こなかった。", "romaji": "Maria-san, pātī ni kita? — Uun, konakatta.", "pt": "A Maria veio à festa? — Não, não veio." }
+      ],
+      "pitfalls": [
+        "Na pergunta casual não se usa か: 見た？ (certo) × 見たか？ (soa bruto, como uma cobrança).",
+        "うん é \"sim\"; ううん, com uma sílaba a mais, é \"não\". Pronuncie as duas bem diferentes para não confundir quem ouve.",
+        "Na dúvida, mantenha a partícula. は e を podem cair, mas mantê-las nunca é erro; derrubar と ou で pode deixar a frase sem sentido.",
+        "O casual é para amigos, família e quem tem a sua idade ou é mais novo. Com professor ou desconhecido, 見ましたか。 continua sendo o certo."
+      ],
+      "howToStudy": [
+        "Leia os 3 diálogos em voz alta, com a voz subindo no fim da pergunta e descendo na resposta.",
+        "Pegue 5 perguntas educadas do seu caderno (〜ましたか) e diga a versão casual (〜た？), respondendo com うん ou ううん.",
+        "Fala: grave um mini-diálogo de 4 falas com um amigo imaginário sobre o fim de semana, só em forma curta."
+      ],
+      "flag": null
+    },
+    {
+      "id": "09-1-c",
+      "gc": "9-3",
+      "title": "〜と 思う / 〜と 言っていた com passado",
+      "gloss": "\"acho que foi…\", \"disse que…\"",
+      "explanation": "Na Aula 08-2 você viu que **o trecho antes de と fica sempre na forma curta**. Agora esse trecho pode estar no passado.\n• **Opinião sobre algo que já aconteceu**: [passado curto] と 思います. Ex.: むずかしかったと 思います。 (Acho que foi difícil.) Em fala casual: 〜と 思う.\n• **Relatar o que alguém disse**: [quem] は [forma curta] と 言っていました. Em fala casual: 〜と 言っていた.\n• **Regra de ouro do tempo**: o trecho antes de と mantém **o tempo que a pessoa usou quando falou**. Se a Maria disse 「びょうきです」 (estou doente), relate びょうきだと 言っていました. Se ela disse 「びょうきでした」 (estive doente), relate びょうきだったと 言っていました. O português recua o tempo (\"disse que estava doente\"); o japonês não recua.\n• Leia de trás pra frente: primeiro o ★ 思います / 言っていました, depois o que foi pensado ou dito (o bloco com と), e por fim quem (は).",
+      "structure": "[quem] は [frase curta, presente ou passado] と 思います / 言っていました。",
+      "examples": [
+        { "jp": "アナさんは きのう 学校に 来なかったと 思います。", "kana": "アナさんは きのう がっこうに こなかったと おもいます。", "romaji": "Ana-san wa kinō gakkō ni konakatta to omoimasu.", "pt": "Acho que a Ana não veio à escola ontem." },
+        { "jp": "すずきさんは かぶきを 見たと 言っていました。", "kana": "すずきさんは かぶきを みたと いっていました。", "romaji": "Suzuki-san wa kabuki o mita to itte imashita.", "pt": "O(A) Suzuki disse que viu kabuki." },
+        { "jp": "ペドロさんは 今 いそがしいと 言っていました。", "kana": "ペドロさんは いま いそがしいと いっていました。", "romaji": "Pedoro-san wa ima isogashii to itte imashita.", "pt": "O Pedro disse que está ocupado agora. (Ele falou no presente: 「今 いそがしいです」.)" }
+      ],
+      "pitfalls": [
+        "Antes de と vai forma curta: 見たと 思います (certo) × 見ましたと 思います (errado).",
+        "Não recue o tempo como no português. Se o Pedro disse 「びょうきです」, relate びょうきだと 言っていました. びょうきだったと mudaria o sentido para \"esteve doente antes\".",
+        "Com substantivo e adjetivo な, o だ / だった não pode sumir: びょうきだったと (certo) × びょうきと (errado).",
+        "思います é a SUA opinião. Para contar o que outra pessoa acha, relate o que ela disse: 〜と 言っていました."
+      ],
+      "howToStudy": [
+        "Aperte 🔬 nos exemplos: o bloco que termina em と aparece como CITAÇÃO. Leia o ★ PREDICADO (思います / 言っていました), depois a CITAÇÃO e por fim o TÓPICO (quem).",
+        "Conte em voz alta 3 coisas que alguém da sua casa disse hoje ou ontem, com 〜と 言っていました, mantendo o tempo que a pessoa usou.",
+        "Escreva no caderno 3 opiniões sobre coisas que já passaram (um filme, uma aula, um jogo) com 〜たと 思います."
+      ],
+      "flag": null
+    }
+  ],
+  "media": [
+    { "order": 1, "kind": "leitura", "title": "Genki I · Lição 9: diálogo, vocabulário e as explicações de gramática sobre as formas curtas do passado (na fala casual e nas citações)", "where": "Seu livro Genki I (3ª ed.)", "url": "", "when": "Antes desta aula ou logo depois do bloco de gramática" },
+    { "order": 2, "kind": "video", "title": "ToKini Andy: aula da Lição 9 do Genki I (formas curtas do passado)", "where": "YouTube · canal ToKini Andy", "url": "", "search": "ToKini Andy Genki Lesson 9", "when": "Depois do ponto 4a: o vídeo confirma a tabela e dá mais exemplos" },
+    { "order": 3, "kind": "app", "title": "genki-companion: Lição 9, pontos 1 a 3 (marque ✍️ quando terminar)", "where": "../genki-companion/index.html", "url": "../genki-companion/index.html", "when": "No fim, para revisar e marcar o progresso" }
+  ],
+  "homework": {
+    "intro": "Faça no caderno, à mão. A aula é densa: se preferir, faça h1 e h2 numa sessão e h3 e h4 em outra. Só depois abra o gabarito, item por item. Circule o que errou e refaça no dia seguinte.",
+    "tasks": [
+      {
+        "id": "h1",
+        "type": "transformar",
+        "prompt": "Escreva o passado curto de cada palavra, no afirmativo e no negativo.",
+        "items": [
+          { "q": "行く", "a": { "jp": "行った / 行かなかった", "kana": "いった / いかなかった", "romaji": "itta / ikanakatta" }, "note": "行く é a exceção da forma て: いって → いった." },
+          { "q": "飲む", "a": { "jp": "飲んだ / 飲まなかった", "kana": "のんだ / のまなかった", "romaji": "nonda / nomanakatta" }, "note": "のんで → のんだ: o で vira だ." },
+          { "q": "来る", "a": { "jp": "来た / 来なかった", "kana": "きた / こなかった", "romaji": "kita / konakatta" }, "note": "No negativo a vogal muda: こない → こなかった." },
+          { "q": "いい", "a": { "jp": "よかった / よくなかった", "romaji": "yokatta / yokunakatta" }, "note": "いい é irregular: tudo sai de よい." },
+          { "q": "きれい(な)", "a": { "jp": "きれいだった / きれいじゃなかった", "romaji": "kirei datta / kirei ja nakatta" }, "note": "きれい é adjetivo な, apesar do い no fim." },
+          { "q": "がくせい", "a": { "jp": "がくせいだった / がくせいじゃなかった", "romaji": "gakusei datta / gakusei ja nakatta" } }
+        ]
+      },
+      {
+        "id": "h2",
+        "type": "traduzir",
+        "prompt": "Escreva o diálogo em japonês casual, como entre amigos. Pode deixar cair は e を.",
+        "items": [
+          { "q": "Você viu o kabuki? — Vi, sim.", "a": { "jp": "かぶき、見た？— うん、見た。", "kana": "かぶき、みた？— うん、みた。", "romaji": "Kabuki, mita? — Un, mita." } },
+          { "q": "Você dançou na festa? — Dancei!", "a": { "jp": "パーティーで おどった？— うん、おどった！", "romaji": "Pātī de odotta? — Un, odotta!" }, "note": "で (lugar da ação) fica: sem ele a frase perde o \"onde\"." },
+          { "q": "Tomou o remédio? — Não, não tomei.", "a": { "jp": "くすり、飲んだ？— ううん、飲まなかった。", "kana": "くすり、のんだ？— ううん、のまなかった。", "romaji": "Kusuri, nonda? — Uun, nomanakatta." } },
+          { "q": "Como foi o show? — Foi divertido!", "a": { "jp": "コンサート、どうだった？— たのしかった！", "romaji": "Konsāto, dō datta? — Tanoshikatta!" }, "note": "No passado, o だった fica na pergunta." },
+          { "q": "O restaurante era tranquilo? — Não, não era.", "a": { "jp": "レストラン、しずかだった？— ううん、しずかじゃなかった。", "romaji": "Resutoran, shizuka datta? — Uun, shizuka ja nakatta." } }
+        ]
+      },
+      {
+        "id": "h3",
+        "type": "citar",
+        "prompt": "Escreva em japonês educado, usando 〜と 思います (a sua opinião) ou 〜と 言っていました (o que a pessoa disse).",
+        "items": [
+          { "q": "Sua opinião: a prova de ontem foi difícil.", "a": { "jp": "きのうの テストは むずかしかったと 思います。", "kana": "きのうの テストは むずかしかったと おもいます。", "romaji": "Kinō no tesuto wa muzukashikatta to omoimasu." } },
+          { "q": "A Ana disse: 「きのう かぶきを 見ました。」", "a": { "jp": "アナさんは きのう かぶきを 見たと 言っていました。", "kana": "アナさんは きのう かぶきを みたと いっていました。", "romaji": "Ana-san wa kinō kabuki o mita to itte imashita." }, "note": "見ました vira 見た: antes de と, forma curta." },
+          { "q": "O Pedro disse: 「今 びょうきです。」", "a": { "jp": "ペドロさんは 今 びょうきだと 言っていました。", "kana": "ペドロさんは いま びょうきだと いっていました。", "romaji": "Pedoro-san wa ima byōki da to itte imashita." }, "note": "Ele falou no presente, então fica びょうきだ, mesmo que o português diga \"disse que estava doente\"." },
+          { "q": "Sua opinião: o Tanaka não veio à festa.", "a": { "jp": "たなかさんは パーティーに 来なかったと 思います。", "kana": "たなかさんは パーティーに こなかったと おもいます。", "romaji": "Tanaka-san wa pātī ni konakatta to omoimasu." } },
+          { "q": "A Maria disse: 「せんげつは ちょっと さびしかったです。」", "a": { "jp": "マリアさんは せんげつは ちょっと さびしかったと 言っていました。", "kana": "マリアさんは せんげつは ちょっと さびしかったと いっていました。", "romaji": "Maria-san wa sengetsu wa chotto sabishikatta to itte imashita." }, "note": "さびしかったです → さびしかった: é só tirar o です." }
+        ]
+      },
+      {
+        "id": "h4",
+        "type": "produzir",
+        "prompt": "Escreva 4–5 frases sobre o seu último fim de semana, em forma curta, como numa mensagem para um amigo. Termine com uma opinião (〜と 思う). Depois leia em voz alta e grave.",
+        "items": [
+          { "q": "Modelo, que o seu texto deve seguir na estrutura e não nas palavras:", "a": { "jp": "土曜日に 友だちと コンサートに 行った。チケットは 高かった。でも、とても たのしかった。日曜日は 家で 休んだ。いい しゅうまつだったと 思う。", "kana": "どようびに ともだちと コンサートに いった。チケットは たかかった。でも、とても たのしかった。にちようびは いえで やすんだ。いい しゅうまつだったと おもう。", "romaji": "Doyōbi ni tomodachi to konsāto ni itta. Chiketto wa takakatta. Demo, totemo tanoshikatta. Nichiyōbi wa ie de yasunda. Ii shūmatsu datta to omou.", "pt": "No sábado fui a um show com amigos. O ingresso era caro. Mas foi muito divertido. No domingo descansei em casa. Acho que foi um bom fim de semana." }, "note": "Confira: verbos em 〜た / 〜なかった, adjetivos い em 〜かった, nenhum です／ます no texto, e forma curta antes de と 思う." }
+        ]
+      }
+    ],
+    "workbook": [
+      { "p": 87, "t": "1 · Past Tense Short Forms", "tip": "Faça depois do ponto 4a." },
+      { "p": 88, "t": "2 · Past Tense Short Forms (Informal Speech)", "tip": "Faça depois do ponto 4b." },
+      { "p": 89, "t": "3 · Quotations (～と思います)", "tip": "Faça depois do ponto 4c." },
+      { "p": 90, "t": "4 · Quotations (～と言っていました)", "tip": "Faça depois do ponto 4c. Confira no Genki Answer Key oficial." }
+    ]
+  },
+  "practice": [
+    { "tool": "Wagotabi", "what": "Jogue normalmente. Cace nos diálogos verbos terminados em 〜た ou 〜なかった, que aparecem muito na fala casual dos personagens. Para cada um, diga em voz alta a forma educada equivalente (見た → 見ました). Copie 3 no caderno.", "min": 15 },
+    { "tool": "Mirage", "what": "Vocabulário da Lição 9 no SRS. Depois, Praticar L9: conjugação e escuta.", "min": 10 },
+    { "tool": "Mirage", "what": "Treinos → Conjugação: 10 verbos. Para cada um, diga também o passado curto afirmativo e negativo antes de passar para o próximo.", "min": 10 },
+    { "tool": "Shadowing", "what": "Toque 🔊 nos diálogos do ponto 4b e repita junto 3 vezes, imitando a voz que sobe na pergunta sem か.", "min": 5 },
+    { "tool": "Fala", "what": "Grave 30 s contando o seu dia de ontem em forma curta (a lição de casa h4 serve de roteiro). Ouça e marque os verbos que saíram no educado sem querer.", "min": 5 }
+  ],
+  "culture": {
+    "title": "Teatro tradicional: kabuki",
+    "titleJp": "歌舞伎（かぶき）",
+    "body": "O **kabuki** é um teatro que junta música, dança e drama. Ele surgiu no começo do século XVII, no início do período Edo, e hoje é reconhecido pela UNESCO como patrimônio cultural imaterial. No kabuki profissional atual, **todos os papéis são feitos por homens**; os atores especializados em personagens femininas se chamam **女形** (おんながた, onnagata) e estudam a vida inteira a voz, o andar e os gestos dessas personagens. Em muitas peças, heróis e vilões usam o **隈取** (くまどり, kumadori), uma maquiagem de linhas coloridas sobre a base branca; em geral, o vermelho indica força e coragem, e o azul indica vilania. Os teatros de kabuki costumam ter o **花道** (はなみち, hanamichi), uma passarela que atravessa a plateia até o palco, usada para entradas e saídas marcantes, bem perto do público.",
+    "try": "Procure no YouTube \"kabuki hanamichi\" e assista a uma entrada pela passarela. Depois escreva 2 frases no passado curto sobre o que viu, por exemplo: かぶきを 見た。おもしろかった。"
+  },
+  "checklist": [
+    "Passo qualquer verbo para 〜た / 〜なかった partindo da forma て e da forma ない, sem tabela.",
+    "Lembro das exceções sem olhar: いった (行く), こなかった (来る), よかった (いい), きれいだった.",
+    "Passo adjetivos い e な e substantivos para o passado curto, no afirmativo e no negativo.",
+    "Pergunto e respondo sobre o passado em fala casual (見た？— うん、見た。), sem usar か.",
+    "Dou opinião sobre algo que passou com 〜たと 思います.",
+    "Relato falas com 〜と 言っていました mantendo o tempo que a pessoa usou.",
+    "Fiz a lição de casa e conferi o gabarito, e refiz o que errei.",
+    "Fiz as páginas 87–90 do Workbook."
+  ]
+}

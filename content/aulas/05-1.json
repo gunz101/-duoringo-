@@ -1,0 +1,219 @@
+{
+  "id": "05-1",
+  "unit": "G1-L05",
+  "genki": { "book": "Genki I", "lesson": 5, "points": ["Adjectives (Present Tense)", "Adjectives (Noun Modification)"] },
+  "title": "Adjetivos い e な",
+  "titleJp": "たかい 山、しずかな まち",
+  "canDo": [
+    "Descrever coisas, lugares e pessoas com adjetivos い e な no presente: この まちは しずかです。",
+    "Negar um adjetivo do jeito certo para o tipo dele: たかくないです (い) e しずかじゃないです (な).",
+    "Dizer \"não é bom\" com a forma irregular よくないです.",
+    "Reconhecer os adjetivos な que terminam em い (きれい, ゆうめい, きらい) e não conjugá-los como い.",
+    "Colocar o adjetivo antes do substantivo (たかい 山, しずかな まち) e perguntar どんな 〜ですか。"
+  ],
+  "duration": {
+    "total": "60–75 min",
+    "blocks": [
+      { "t": "Aquecimento: negar 3 substantivos com じゃないです (Aula 02-3) e ler em voz alta o vocabulário da aula (bloco 3)", "min": 5 },
+      { "t": "Vocabulário: ouvir 🔊 cada adjetivo, repetir 2 vezes e copiar no caderno em duas colunas (い / な)", "min": 10 },
+      { "t": "Gramática: os 3 pontos, cada um com os exemplos lidos em voz alta e um 🔬", "min": 25 },
+      { "t": "Vídeo da Lição 5 (bloco 6), só a parte do presente e do adjetivo antes do substantivo", "min": 10 },
+      { "t": "Lição de casa no caderno + conferir no gabarito", "min": 15 },
+      { "t": "Checklist (bloco 10) + anotar dúvidas no caderno da aula", "min": 5 }
+    ]
+  },
+  "prereqs": {
+    "aulas": ["02-1", "02-3", "M-1"],
+    "skills": [
+      "Negar substantivos com じゃないです (Aula 02-3): os adjetivos な negam do mesmo jeito.",
+      "Usar この / その / あの + substantivo (Aula 02-1), que aparece em quase todos os exemplos.",
+      "Ler hiragana com fluência. Os adjetivos ficam em kana nesta aula, porque os kanji deles só chegam nas próximas lições do Genki."
+    ],
+    "vocab": [
+      { "jp": "おおきい", "kana": "おおきい", "romaji": "ōkii", "pt": "grande" },
+      { "jp": "ちいさい", "kana": "ちいさい", "romaji": "chiisai", "pt": "pequeno" },
+      { "jp": "たかい", "kana": "たかい", "romaji": "takai", "pt": "caro; alto (montanha, prédio)" },
+      { "jp": "やすい", "kana": "やすい", "romaji": "yasui", "pt": "barato" },
+      { "jp": "あたらしい", "kana": "あたらしい", "romaji": "atarashii", "pt": "novo" },
+      { "jp": "ふるい", "kana": "ふるい", "romaji": "furui", "pt": "velho, antigo (coisas, não pessoas)" },
+      { "jp": "おもしろい", "kana": "おもしろい", "romaji": "omoshiroi", "pt": "interessante; engraçado" },
+      { "jp": "つまらない", "kana": "つまらない", "romaji": "tsumaranai", "pt": "chato, sem graça" },
+      { "jp": "むずかしい", "kana": "むずかしい", "romaji": "muzukashii", "pt": "difícil" },
+      { "jp": "いい", "kana": "いい", "romaji": "ii", "pt": "bom (negativo irregular: よくないです)" },
+      { "jp": "あつい", "kana": "あつい", "romaji": "atsui", "pt": "quente (tempo, clima)" },
+      { "jp": "さむい", "kana": "さむい", "romaji": "samui", "pt": "frio (tempo, clima)" },
+      { "jp": "しずか（な）", "kana": "しずか（な）", "romaji": "shizuka (na)", "pt": "tranquilo, silencioso" },
+      { "jp": "にぎやか（な）", "kana": "にぎやか（な）", "romaji": "nigiyaka (na)", "pt": "animado, movimentado (lugar)" },
+      { "jp": "きれい（な）", "kana": "きれい（な）", "romaji": "kirei (na)", "pt": "bonito; limpo (é な, apesar do い)" },
+      { "jp": "ゆうめい（な）", "kana": "ゆうめい（な）", "romaji": "yūmei (na)", "pt": "famoso (é な, apesar do い)" },
+      { "jp": "元気（な）", "kana": "げんき（な）", "romaji": "genki (na)", "pt": "bem de saúde, animado, cheio de energia" },
+      { "jp": "どんな", "kana": "どんな", "romaji": "donna", "pt": "que tipo de… (sempre antes de um substantivo)" },
+      { "jp": "山", "kana": "やま", "romaji": "yama", "pt": "montanha" },
+      { "jp": "川", "kana": "かわ", "romaji": "kawa", "pt": "rio" },
+      { "jp": "まち", "kana": "まち", "romaji": "machi", "pt": "cidade, bairro" },
+      { "jp": "天気", "kana": "てんき", "romaji": "tenki", "pt": "tempo (clima do dia)" },
+      { "jp": "へや", "kana": "へや", "romaji": "heya", "pt": "quarto, cômodo" }
+    ]
+  },
+  "grammar": [
+    {
+      "id": "05-1-a",
+      "gc": "5-1",
+      "title": "Adjetivos い: 〜いです / 〜くないです",
+      "gloss": "adjetivos que terminam em い",
+      "explanation": "Adjetivo é a palavra que diz **como** uma coisa é: cara, nova, divertida. O japonês tem dois tipos, e o tipo decide como o adjetivo muda. O primeiro tipo termina em **い** (たかい, おもしろい, あたらしい) e **conjuga sozinho**: é o próprio adjetivo que vira negativo.\n• Afirmativo: adjetivo + です → たかいです (\"é caro\").\n• Negativo: tire o い final e coloque **くないです** → たか|い → たか|くないです (\"não é caro\"). Você também vai ouvir たかくありません, com o mesmo sentido e um tom um pouco mais formal.\n• Com adjetivo い, o です só deixa a frase educada: o sentido de \"é\" já está no adjetivo. Por isso quem nega é o adjetivo, e o です fica como está.\n• Na frase, adjetivo + です é o **PREDICADO**: fica no fim, e é por ele que você começa a ler. O bloco com は é o TÓPICO, a coisa descrita: この とけいは | たかいです。\n• Exceção importante: **いい** (bom). O afirmativo é いいです, mas o negativo sai de よい, outra forma da mesma palavra: **よくないです**. Nunca いくないです.",
+      "structure": "[N] は [adj-い]です。 · [N] は [adj sem い]くないです。",
+      "examples": [
+        { "jp": "にほんごの しゅくだいは むずかしいです。", "kana": "にほんごの しゅくだいは むずかしいです。", "romaji": "Nihongo no shukudai wa muzukashii desu.", "pt": "O dever de casa de japonês é difícil." },
+        { "jp": "マリアさんの へやは あたらしいですか。— いいえ、あたらしくないです。", "kana": "マリアさんの へやは あたらしいですか。— いいえ、あたらしくないです。", "romaji": "Maria-san no heya wa atarashii desu ka. — Iie, atarashikunai desu.", "pt": "O quarto da Maria é novo? — Não, não é novo." },
+        { "jp": "きょうの 天気は よくないです。", "kana": "きょうの てんきは よくないです。", "romaji": "Kyō no tenki wa yokunai desu.", "pt": "O tempo hoje não está bom." }
+      ],
+      "pitfalls": [
+        "Adjetivo い não usa じゃないです: たかいじゃないです ✗ → たかくないです ✓. Quem nega é o próprio adjetivo.",
+        "Tire o い antes de pôr くない: たかいくないです ✗ → たかくないです ✓.",
+        "いい é irregular no negativo: いくないです ✗ → よくないです ✓.",
+        "\"Hoje está frio\" usa a mesma estrutura: きょうは さむいです ✓. Não procure um verbo \"estar\": ser e estar viram o mesmo adjetivo + です."
+      ],
+      "howToStudy": [
+        "Faça uma tabela no caderno com 8 adjetivos い: na coluna 1, 〜いです; na coluna 2, 〜くないです. Leia as duas colunas em voz alta, e inclua いい → よくないです.",
+        "Aperte 🔬 no exemplo 2. マリアさんの へやは é o TÓPICO (a coisa descrita) e あたらしくないです é o PREDICADO. Leia primeiro o predicado (\"não é novo\") e depois pergunte: o quê?",
+        "Descreva em voz alta 5 objetos da sua casa com uma frase afirmativa e uma negativa: この とけいは ふるいです。たかくないです。"
+      ],
+      "flag": null
+    },
+    {
+      "id": "05-1-b",
+      "gc": "5-2",
+      "title": "Adjetivos な: 〜です / 〜じゃないです",
+      "gloss": "adjetivos que funcionam como substantivos no fim da frase",
+      "explanation": "O segundo tipo são os adjetivos **な** (しずか, にぎやか, 元気, ゆうめい). No fim da frase, eles se comportam **como substantivos**: o adjetivo fica parado e quem muda é o です.\n• Afirmativo: しずかです (\"é tranquilo\").\n• Negativo: しずか**じゃないです** (\"não é tranquilo\"), igual a がくせいじゃないです da Aula 02-3. しずかじゃありません também existe, com o mesmo sentido.\n• No fim da frase **não há な**: しずかです. O な só aparece quando o adjetivo vem antes de um substantivo (ponto c).\n\n**Os な que terminam em い.** Alguns adjetivos な terminam em い por acaso: **きれい** (bonito, limpo), **ゆうめい** (famoso) e **きらい** (que a gente não gosta, Aula 05-2). Esse い faz parte da palavra; não é a terminação dos adjetivos い. Por isso a negativa é きれいじゃないです, nunca きれくないです.\n• Pista: se a palavra termina em **-ei** (きれい = kirei, ゆうめい = yūmei), é な. Os adjetivos い deste nível terminam em -ai, -ii, -ui ou -oi (たかい, おおきい, ふるい, おもしろい).\n• きらい termina em -ai, como たかい, então a pista não ajuda. Esse você memoriza.\n• No vocabulário desta aula e nas listas do Genki, os adjetivos な vêm marcados com (な): きれい(な). Aprenda cada adjetivo já junto com o tipo dele.",
+      "structure": "[N] は [adj-な] です。 · [N] は [adj-な] じゃないです。",
+      "examples": [
+        { "jp": "リオは にぎやかです。", "kana": "リオは にぎやかです。", "romaji": "Rio wa nigiyaka desu.", "pt": "O Rio é movimentado." },
+        { "jp": "この 川は きれいじゃないです。", "kana": "この かわは きれいじゃないです。", "romaji": "Kono kawa wa kirei ja nai desu.", "pt": "Este rio não é limpo." },
+        { "jp": "その レストランは ゆうめいですか。— いいえ、ゆうめいじゃないです。", "kana": "その レストランは ゆうめいですか。— いいえ、ゆうめいじゃないです。", "romaji": "Sono resutoran wa yūmei desu ka. — Iie, yūmei ja nai desu.", "pt": "Esse restaurante é famoso? — Não, não é famoso." }
+      ],
+      "pitfalls": [
+        "きれい e ゆうめい são な: きれくないです ✗ → きれいじゃないです ✓; ゆうめくないです ✗ → ゆうめいじゃないです ✓.",
+        "No fim da frase não entra な: しずかなです ✗ → しずかです ✓.",
+        "Não misture os sistemas: にぎやかくないです ✗ → にぎやかじゃないです ✓. Adjetivo な nunca ganha く.",
+        "元気 não é só \"saudável\". Com pessoas, 元気です = \"estou bem\" ou \"é animado\", conforme o contexto: 元気な 人 = \"pessoa cheia de energia\"."
+      ],
+      "howToStudy": [
+        "Separe todo o vocabulário da aula em duas colunas, い e な. Marque com cor きれい e ゆうめい: terminam em -ei e são な.",
+        "Aperte 🔬 no exemplo do rio. この 川は é o TÓPICO; きれいじゃないです é o PREDICADO. Repare que きれい não mudou: só o です virou じゃないです.",
+        "Fale em voz alta 4 frases sobre a sua cidade, 2 afirmativas e 2 negativas, com しずか, にぎやか, きれい e ゆうめい."
+      ],
+      "flag": null
+    },
+    {
+      "id": "05-1-c",
+      "gc": null,
+      "title": "Adjetivo + substantivo: たかい 山, しずかな まち",
+      "gloss": "o adjetivo descrevendo um substantivo",
+      "explanation": "Para descrever um substantivo dentro da frase, o adjetivo vem **antes** dele, ao contrário do português: \"montanha alta\" → たかい 山.\n• Adjetivo い: entra direto, sem nada no meio. おもしろい えいが, あたらしい とけい.\n• Adjetivo な: aqui aparece o **な**. しずかな まち, きれいな 川, ゆうめいな 人. É desse な que vem o nome \"adjetivo な\".\n• Não use の entre adjetivo e substantivo. の liga substantivo a substantivo (Aula 01-1): にほんごの せんせい, mas おもしろい せんせい.\n• O bloco [adjetivo + substantivo] funciona como **um substantivo só**. Ele pode ser tópico, objeto, lugar ou vir antes de です. Em サンパウロは おおきい まちです。, o predicado é おおきい まちです, e おおきい só DESCREVE O PRÓXIMO (まち).\n• Para perguntar \"que tipo de…?\", use **どんな** + substantivo: どんな まちですか。 A resposta coloca um adjetivo no lugar de どんな: しずかな まちです。",
+      "structure": "[adj-い] [N] · [adj-な] な [N] · どんな [N] ですか。",
+      "examples": [
+        { "jp": "サンパウロは おおきい まちです。", "kana": "サンパウロは おおきい まちです。", "romaji": "Sanpauro wa ōkii machi desu.", "pt": "São Paulo é uma cidade grande." },
+        { "jp": "ふじさんは どんな 山ですか。— たかい 山です。", "kana": "ふじさんは どんな やまですか。— たかい やまです。", "romaji": "Fujisan wa donna yama desu ka. — Takai yama desu.", "pt": "Que tipo de montanha é o monte Fuji? — É uma montanha alta." },
+        { "jp": "きのう、にぎやかな レストランで ばんごはんを 食べました。", "kana": "きのう、にぎやかな レストランで ばんごはんを たべました。", "romaji": "Kinō, nigiyaka na resutoran de bangohan o tabemashita.", "pt": "Ontem jantei num restaurante animado." }
+      ],
+      "pitfalls": [
+        "A ordem é o inverso do português: まち おおきい ✗ → おおきい まち ✓.",
+        "Adjetivo な precisa do な antes do substantivo: しずか まち ✗ → しずかな まち ✓. E adjetivo い não leva な: たかいな 山 ✗ → たかい 山 ✓.",
+        "Não use の com adjetivo: おもしろいの えいが ✗ → おもしろい えいが ✓.",
+        "Os な terminados em い também levam な: きれい 川 ✗ → きれいな 川 ✓; ゆうめい 人 ✗ → ゆうめいな 人 ✓."
+      ],
+      "howToStudy": [
+        "Treinos → 🔬 Anatomia → 🧱 Montar de trás pra frente com o exemplo 3: comece por 食べました, depois ばんごはんを, depois にぎやかな レストランで, e por fim きのう. Repare que にぎやかな fica preso a レストラン.",
+        "Escreva no caderno 6 pares reais (3 com い, 3 com な) sobre coisas suas: あたらしい スマホ, しずかな へや, ふるい とけい…",
+        "Pergunte em voz alta どんな まちですか sobre 3 lugares que você conhece e responda com adjetivo + substantivo."
+      ],
+      "flag": null
+    }
+  ],
+  "media": [
+    { "order": 1, "kind": "leitura", "title": "Genki I · Lição 5: diálogo, vocabulário e as explicações de gramática sobre adjetivos no presente e antes do substantivo", "where": "Seu livro Genki I (3ª ed.)", "url": "", "when": "Antes desta aula ou logo depois do bloco de gramática. O passado fica para a Aula 05-2." },
+    { "order": 2, "kind": "video", "title": "ToKini Andy: aula da Lição 5 do Genki I (adjetivos い e な)", "where": "YouTube · canal ToKini Andy", "url": "", "search": "ToKini Andy Genki Lesson 5", "when": "Depois dos 3 pontos. Se o vídeo cobrir a lição toda, pare quando começar o passado: ele volta na Aula 05-2." },
+    { "order": 3, "kind": "app", "title": "genki-companion: Lição 5, pontos 1 e 2 (marque ✍️ quando terminar)", "where": "../genki-companion/index.html", "url": "../genki-companion/index.html", "when": "No fim, para revisar e marcar o progresso" },
+    { "order": 4, "kind": "video", "title": "Game Gengo: adjetivos い e な (reforço opcional)", "where": "YouTube · canal Game Gengo", "url": "", "search": "Game Gengo i-adjectives na-adjectives", "when": "Opcional, se ainda confundir os dois tipos" }
+  ],
+  "homework": {
+    "intro": "Faça no caderno, à mão. Escreva os adjetivos em kana; use kanji só nos que já apareceram na aula (山, 川, 天気, 元気, 人…). Só depois abra o gabarito, item por item. Circule o que errou e refaça no dia seguinte.",
+    "tasks": [
+      {
+        "id": "h1",
+        "type": "transformar",
+        "prompt": "Passe para a negativa educada. Antes de escrever, decida: é い ou な?",
+        "items": [
+          { "q": "たかいです。", "a": { "jp": "たかくないです。", "romaji": "Takakunai desu." }, "note": "い: tira o い e põe くないです." },
+          { "q": "しずかです。", "a": { "jp": "しずかじゃないです。", "romaji": "Shizuka ja nai desu." }, "note": "な: o adjetivo fica parado; só です vira じゃないです." },
+          { "q": "おもしろいです。", "a": { "jp": "おもしろくないです。", "romaji": "Omoshirokunai desu." } },
+          { "q": "いいです。", "a": { "jp": "よくないです。", "romaji": "Yokunai desu." }, "note": "Exceção: o negativo sai de よい." },
+          { "q": "きれいです。", "a": { "jp": "きれいじゃないです。", "romaji": "Kirei ja nai desu." }, "note": "きれい é な: termina em -ei." },
+          { "q": "元気です。", "a": { "jp": "元気じゃないです。", "kana": "げんきじゃないです。", "romaji": "Genki ja nai desu." } }
+        ]
+      },
+      {
+        "id": "h2",
+        "type": "completar",
+        "prompt": "Ligue o adjetivo ao substantivo. Coloque な quando precisar; quando não precisar, escreva os dois lado a lado.",
+        "items": [
+          { "q": "しずか＿ まち", "a": { "jp": "しずかな まち", "romaji": "shizuka na machi" }, "note": "Adjetivo な: precisa do な." },
+          { "q": "おおきい＿ いぬ", "a": { "jp": "おおきい いぬ", "romaji": "ōkii inu" }, "note": "Adjetivo い: entra direto, sem nada no meio." },
+          { "q": "ゆうめい＿ レストラン", "a": { "jp": "ゆうめいな レストラン", "romaji": "yūmei na resutoran" }, "note": "Termina em -ei: é な." },
+          { "q": "あたらしい＿ とけい", "a": { "jp": "あたらしい とけい", "romaji": "atarashii tokei" } },
+          { "q": "きれい＿ 川", "a": { "jp": "きれいな 川", "kana": "きれいな かわ", "romaji": "kirei na kawa" }, "note": "きれい é な, mesmo terminando em い." },
+          { "q": "つまらない＿ えいが", "a": { "jp": "つまらない えいが", "romaji": "tsumaranai eiga" } }
+        ]
+      },
+      {
+        "id": "h3",
+        "type": "traduzir",
+        "prompt": "Traduza para o japonês.",
+        "items": [
+          { "q": "Esta montanha não é alta.", "a": { "jp": "この 山は たかくないです。", "kana": "この やまは たかくないです。", "romaji": "Kono yama wa takakunai desu." } },
+          { "q": "Hoje não está frio.", "a": { "jp": "きょうは さむくないです。", "romaji": "Kyō wa samukunai desu." }, "note": "\"Estar\" frio usa o mesmo adjetivo + です." },
+          { "q": "Este livro não é interessante.", "a": { "jp": "この ほんは おもしろくないです。", "romaji": "Kono hon wa omoshirokunai desu." } },
+          { "q": "A Maria é uma pessoa famosa?", "a": { "jp": "マリアさんは ゆうめいな 人ですか。", "kana": "マリアさんは ゆうめいな ひとですか。", "romaji": "Maria-san wa yūmei na hito desu ka." }, "note": "Adjetivo + substantivo antes de です; o な é obrigatório." },
+          { "q": "Que tipo de pessoa é o professor Yamada? — É uma pessoa cheia de energia.", "a": { "jp": "山田せんせいは どんな 人ですか。— 元気な 人です。", "kana": "やまだせんせいは どんな ひとですか。— げんきな ひとです。", "romaji": "Yamada-sensei wa donna hito desu ka. — Genki na hito desu." }, "note": "A resposta põe o adjetivo no lugar de どんな." }
+        ]
+      },
+      {
+        "id": "h4",
+        "type": "produzir",
+        "prompt": "Descreva a sua cidade (ou o seu bairro) em 4 frases: 2 com o adjetivo no fim (uma afirmativa e uma negativa) e 2 com adjetivo + substantivo. Depois leia em voz alta e grave no celular.",
+        "items": [
+          { "q": "Modelo, que o seu texto deve seguir na estrutura e não nas palavras:", "a": { "jp": "わたしの まちは ちいさいです。にぎやかじゃないです。しずかな まちです。きれいな 川が あります。", "kana": "わたしの まちは ちいさいです。にぎやかじゃないです。しずかな まちです。きれいな かわが あります。", "romaji": "Watashi no machi wa chiisai desu. Nigiyaka ja nai desu. Shizuka na machi desu. Kirei na kawa ga arimasu.", "pt": "Minha cidade é pequena. Não é movimentada. É uma cidade tranquila. Tem um rio bonito." }, "note": "Confira: adjetivo い negado com くないです, な negado com じゃないです, な só antes de substantivo e o predicado sempre no fim." }
+        ]
+      }
+    ],
+    "workbook": [
+      { "p": 50, "t": "1 · Adjective Conjugation (Present Tense)", "tip": "Faça depois dos pontos a e b: é a tabela de conjugação do presente." },
+      { "p": 51, "t": "2 · Adjectives (Present Tense)", "tip": "Faça depois do ponto b." },
+      { "p": 54, "t": "5 · Adjectives + Noun", "tip": "Faça depois do ponto c. Se algum item pedir o passado, deixe-o para depois da Aula 05-2. Confira no Genki Answer Key oficial." }
+    ]
+  },
+  "practice": [
+    { "tool": "Wagotabi", "what": "Jogue normalmente. Sempre que um diálogo tiver um adjetivo (〜いです, 〜くないです ou um adjetivo antes de substantivo), pause e diga em voz alta se ele é い ou な. Copie 2 dessas frases no caderno e sublinhe o predicado.", "min": 15 },
+    { "tool": "Mirage", "what": "Vocabulário da Lição 5 no SRS. Depois, Praticar L5 → conjugação, só com as formas do presente por enquanto.", "min": 10 },
+    { "tool": "Mirage", "what": "Treinos → 🔬 Anatomia → 🏷 Etiquetar: 5 frases com adjetivo. Confira se você acerta onde está o PREDICADO e qual bloco descreve o próximo.", "min": 5 },
+    { "tool": "Shadowing", "what": "Toque 🔊 em cada exemplo desta aula e repita junto 3 vezes. Nos negativos, mantenha o ritmo igual: た・か・く・な・い・で・す são 7 batidas do mesmo tamanho.", "min": 5 },
+    { "tool": "Fala", "what": "Grave a descrição da sua cidade (lição de casa h4) em até 30 s. Ouça e confira se cada negativa saiu com a forma do tipo certo.", "min": 5 }
+  ],
+  "culture": {
+    "title": "O senso de estação: はなみ e comidas da época",
+    "titleJp": "はなみ と しゅん",
+    "body": "O Japão dá muita atenção à passagem das estações, e isso aparece no dia a dia. Na primavera, a florada das cerejeiras (さくら) dura poucas semanas, e muita gente faz **はなみ**: um piquenique debaixo das árvores com amigos, família ou colegas de trabalho. A previsão do tempo costuma mostrar quando as flores devem abrir em cada região, porque a florada em geral começa pelo sul e vai subindo para o norte. A comida acompanha o calendário: cada ingrediente tem a sua **しゅん**, a época em que está mais saboroso, e lojas e restaurantes costumam lançar produtos de edição limitada da estação (きせつげんてい). O outono, por exemplo, costuma lembrar castanha e batata-doce, e o inverno lembra みかん e pratos quentes de panela (なべ).",
+    "try": "Descreva a estação de agora onde você mora em 3 frases com adjetivos desta aula (いまは あついです。…). Depois pense numa fruta da época no Brasil e diga como ela é: 〜は おおきいです / やすいです…"
+  },
+  "checklist": [
+    "Separo os adjetivos da aula em い e な sem olhar, inclusive きれい e ゆうめい (な).",
+    "Faço a negativa dos adjetivos い com 〜くないです e dos な com 〜じゃないです.",
+    "Digo よくないです (e não いくないです) para \"não é bom\".",
+    "Coloco o adjetivo antes do substantivo, com な só nos adjetivos な: たかい 山, しずかな まち.",
+    "Pergunto どんな 〜ですか e respondo com adjetivo + substantivo.",
+    "Fiz a lição de casa e conferi o gabarito, e refiz o que errei.",
+    "Fiz as páginas 50, 51 e 54 do Workbook."
+  ]
+}

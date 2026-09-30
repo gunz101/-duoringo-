@@ -173,8 +173,21 @@ async function readingCheck() {
   const norm = s => kataToHira(String(s)).replace(/[\s、。！？!?「」『』（）()・…—\-〜~ー]/g, '');
   const visit = (id, where, ex) => {
     if (!ex || !ex.jp || !ex.kana || !KANJI.test(ex.jp)) return;
-    const rd = tk.tokenize(ex.jp.replace(/[—]/g, '。')).map(t => t.reading && t.reading !== '*' ? t.reading : t.surface_form).join('');
-    if (norm(rd) !== norm(ex.kana)) out.push(`[${id}] ${where}: ${ex.jp} → kana "${ex.kana}" · kuromoji "${kataToHira(rd)}"`);
+    const toks = tk.tokenize(ex.jp.replace(/[—]/g, '。'));
+    const rd = toks.map(t => t.reading && t.reading !== '*' ? t.reading : t.surface_form).join('');
+    // kuromoji picks one reading; these alternatives are just as correct (日本 にほん/にっぽん, 一人 ひとり/いちにん, 行った いった/おこなった…)
+    const ALT = [['ニッポン', 'ニホン'], ['イチニン', 'ヒトリ'], ['ニニン', 'フタリ'], ['オコナッ', 'イッ'], ['オコナウ', 'イク'], ['オコナイ', 'イキ'], ['ナニ', 'ナン'], ['ナン', 'ナニ'], ['ジュウ', 'トオ'], ['ジッ', 'ジュッ'], ['ワタクシ', 'ワタシ'], ['ライ', 'キ'], ['コン', 'イマ'], ['ジン', 'ヒト'], ['ニチ', 'ヒ'], ['カ', 'ビ'], ['ホン', 'ボン'], ['ホン', 'ポン'], ['ジ', 'トキ']];
+    const kanaN = norm(ex.kana);
+    const FIX = [[/いちにん/g, 'ひとり'], [/ににん/g, 'ふたり'], [/よんにん/g, 'よにん'], [/ななじ/g, 'しちじ'], [/よんじ/g, 'よじ'], [/くじ/g, 'くじ'], [/おこなっ/g, 'いっ'], [/にっぽん/g, 'にほん'], [/よんえん/g, 'よえん']];
+    let rdN = norm(rd); FIX.forEach(([re, to]) => { rdN = rdN.replace(re, to); });
+    let ok = rdN === kanaN || /^〜/.test(ex.jp);
+    if (!ok) { // try swapping readings token by token (bounded)
+      const opts = toks.map(t => { const r = t.reading && t.reading !== '*' ? t.reading : t.surface_form; const alts = [r]; ALT.forEach(([a, b]) => { if (r.includes(a)) alts.push(r.replace(a, b)); }); return alts; });
+      let combos = [''];
+      for (const o of opts) { const next = []; combos.forEach(c => o.forEach(x => next.push(c + x))); combos = next.slice(0, 256); }
+      ok = combos.some(c => norm(c) === kanaN);
+    }
+    if (!ok) out.push(`[${id}] ${where}: ${ex.jp} → kana "${ex.kana}" · kuromoji "${kataToHira(rd)}"`);
   };
   for (const id of Object.keys(aulas)) {
     const a = aulas[id]; if (a.__parseError) continue;

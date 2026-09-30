@@ -53,6 +53,20 @@ async function anatomyEngine() {
   const ordered = {};
   curso.units.forEach(u => u.aulas.forEach(a => { if (aulas[a.id] && !aulas[a.id].__parseError) ordered[a.id] = aulas[a.id]; }));
 
+  // verified videos (content/videos.json) replace the writers' "search" placeholders in block 6
+  const vp = path.join(ROOT, 'content', 'videos.json');
+  const videos = fs.existsSync(vp) ? JSON.parse(fs.readFileSync(vp, 'utf8')).aulas : {};
+  let nVid = 0;
+  Object.keys(ordered).forEach(id => {
+    const v = videos[id]; if (!v || !v.length) return;
+    const a = ordered[id], media = a.media || [];
+    const firstRead = media.filter(m => m.kind === 'leitura').slice(0, 1);
+    const rest = media.filter(m => m.kind !== 'video' && firstRead.indexOf(m) < 0);
+    a.media = firstRead.concat(v.map(x => Object.assign({}, x)), rest).map((m, i) => Object.assign({}, m, { order: i + 1 }));
+    nVid++;
+  });
+  if (nVid) console.log(`  vídeos verificados aplicados em ${nVid} aulas`);
+
   const eng = await anatomyEngine();
   let nAnat = 0, nEx = 0;
   if (eng) {

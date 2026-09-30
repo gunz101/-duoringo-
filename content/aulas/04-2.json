@@ -1,0 +1,188 @@
+{
+  "id": "04-2",
+  "unit": "G1-L04",
+  "genki": { "book": "Genki I", "lesson": 4, "points": ["Past Tense of です", "Past Tense of Verbs"] },
+  "title": "O passado educado",
+  "titleJp": "きのう なにを しましたか",
+  "canDo": [
+    "Dizer o que algo era no passado com でした e じゃなかったです (\"ontem foi domingo\", \"não era feriado\").",
+    "Passar qualquer verbo 〜ます para o passado: 〜ました e 〜ませんでした.",
+    "Contar o que eu fiz (e o que não fiz) ontem ou no fim de semana, em 4–5 frases.",
+    "Perguntar a alguém o que fez (なにを しましたか) e responder com はい／いいえ na forma certa."
+  ],
+  "duration": {
+    "total": "60–75 min",
+    "blocks": [
+      { "t": "Aquecimento: dizer em voz alta 10 verbos em 〜ます (Aula 03-1), o mais rápido que conseguir", "min": 5 },
+      { "t": "Vocabulário: as palavras de tempo passado (きのう, けさ, せんしゅう…) com 🔊, repetindo 2 vezes", "min": 10 },
+      { "t": "Gramática: os 2 pontos, com a conjugação falada em voz alta e um 🔬 em cada", "min": 20 },
+      { "t": "Vídeo da Lição 4 (bloco 6), pausando nos exemplos", "min": 10 },
+      { "t": "Lição de casa no caderno + conferir no gabarito", "min": 20 },
+      { "t": "Checklist (bloco 10) + anotar dúvidas no caderno da aula", "min": 5 }
+    ]
+  },
+  "prereqs": {
+    "aulas": ["02-3", "03-1", "03-3", "04-1"],
+    "skills": [
+      "Negar substantivos com じゃないです／じゃありません (Aula 02-3): hoje eles ganham passado.",
+      "Conjugar verbos em 〜ます／〜ません, inclusive os irregulares します e きます (Aula 03-1).",
+      "Saber quando uma palavra de tempo leva に (日曜日に, 十時に) e quando não leva (きのう, あした), Aula 03-3."
+    ],
+    "vocab": [
+      { "jp": "きのう", "kana": "きのう", "romaji": "kinō", "pt": "ontem" },
+      { "jp": "けさ", "kana": "けさ", "romaji": "kesa", "pt": "hoje de manhã" },
+      { "jp": "せんしゅう", "kana": "せんしゅう", "romaji": "senshū", "pt": "semana passada" },
+      { "jp": "せんげつ", "kana": "せんげつ", "romaji": "sengetsu", "pt": "mês passado" },
+      { "jp": "きょねん", "kana": "きょねん", "romaji": "kyonen", "pt": "ano passado" },
+      { "jp": "しゅうまつ", "kana": "しゅうまつ", "romaji": "shūmatsu", "pt": "fim de semana" },
+      { "jp": "やすみ", "kana": "やすみ", "romaji": "yasumi", "pt": "folga, feriado, férias" },
+      { "jp": "土曜日", "kana": "どようび", "romaji": "doyōbi", "pt": "sábado" },
+      { "jp": "日曜日", "kana": "にちようび", "romaji": "nichiyōbi", "pt": "domingo" },
+      { "jp": "ごご", "kana": "ごご", "romaji": "gogo", "pt": "à tarde, p.m." },
+      { "jp": "しゃしん", "kana": "しゃしん", "romaji": "shashin", "pt": "foto" },
+      { "jp": "とります", "kana": "とります", "romaji": "torimasu", "pt": "tirar (foto); dicionário: とる" },
+      { "jp": "かいます", "kana": "かいます", "romaji": "kaimasu", "pt": "comprar; dicionário: かう" },
+      { "jp": "まちます", "kana": "まちます", "romaji": "machimasu", "pt": "esperar (alguém/algo を); dicionário: まつ" },
+      { "jp": "かきます", "kana": "かきます", "romaji": "kakimasu", "pt": "escrever; dicionário: かく" },
+      { "jp": "メール", "kana": "メール", "romaji": "mēru", "pt": "e-mail, mensagem" },
+      { "jp": "テスト", "kana": "テスト", "romaji": "tesuto", "pt": "prova, teste" },
+      { "jp": "パーティー", "kana": "パーティー", "romaji": "pātī", "pt": "festa" },
+      { "jp": "わかりました", "kana": "わかりました", "romaji": "wakarimashita", "pt": "entendi; certo (passado de わかります)" }
+    ]
+  },
+  "grammar": [
+    {
+      "id": "04-2-a",
+      "gc": "4-3",
+      "title": "でした / じゃなかったです",
+      "gloss": "era, foi · não era, não foi",
+      "explanation": "です também tem passado. É a frase X は Y です da Aula 01-1, só que falando de antes:\n• **でした**: era, foi. きのうは 日曜日でした。\n• **じゃなかったです**: não era, não foi. É o passado de じゃないです (Aula 02-3).\n• **じゃありませんでした**: mesmo sentido, um pouco mais formal. É o passado de じゃありません. As duas estão certas: escolha uma para falar e reconheça a outra.\nComo montar a negativa sem se perder: じゃない vira じゃ**なかった** (なかった é o passado de ない), e o です no fim só deixa educado. Guarde esse なかった, porque ele volta nos adjetivos (Aula 05-2).\nOs blocos da frase não mudam: tópico com は e predicado no fim. **Só o fim da frase carrega o tempo**, presente ou passado. Por isso, leia pelo predicado: é ele que diz se é agora ou antes.",
+      "structure": "[X] は [N] でした。 · [X] は [N] じゃなかったです／じゃありませんでした。",
+      "examples": [
+        { "jp": "きのうは 日曜日でした。", "kana": "きのうは にちようびでした。", "romaji": "Kinō wa nichiyōbi deshita.", "pt": "Ontem foi domingo." },
+        { "jp": "テストは きのうじゃなかったです。きょうでした。", "kana": "テストは きのうじゃなかったです。きょうでした。", "romaji": "Tesuto wa kinō ja nakatta desu. Kyō deshita.", "pt": "A prova não foi ontem. Foi hoje." },
+        { "jp": "マリアさんは きょねん がくせいでしたか。— いいえ、がくせいじゃありませんでした。せんせいでした。", "kana": "マリアさんは きょねん がくせいでしたか。— いいえ、がくせいじゃありませんでした。せんせいでした。", "romaji": "Maria-san wa kyonen gakusei deshita ka. — Iie, gakusei ja arimasen deshita. Sensei deshita.", "pt": "A Maria era estudante no ano passado? — Não, não era. Era professora." }
+      ],
+      "pitfalls": [
+        "じゃないでした ✗ não existe. O passado negativo é じゃなかったです ✓ ou じゃありませんでした ✓.",
+        "でした não vai depois de verbo: いきましたでした ✗. でした é para substantivos (e, na Lição 5, adjetivos); os verbos têm o próprio passado (ponto 4b).",
+        "O tempo fica no fim da frase: きのうは 日曜日です ✗ → きのうは 日曜日でした ✓. Com きのう, o predicado tem de estar no passado.",
+        "でした é a forma educada. Na fala casual entre amigos existe outra (だった), que aparece na Aula 09-1."
+      ],
+      "howToStudy": [
+        "Fale 3 frases verdadeiras sobre ontem: きのうは (dia da semana) でした。 きのうは やすみでした／やすみじゃなかったです。",
+        "Diga em voz alta a escadinha 4 vezes, cada vez mais rápido: がくせいです → がくせいじゃないです → がくせいでした → がくせいじゃなかったです.",
+        "Aperte 🔬 no exemplo da prova. きのう está DENTRO do predicado (きのうじゃなかったです): é ele que está sendo negado, não a prova."
+      ],
+      "flag": null
+    },
+    {
+      "id": "04-2-b",
+      "gc": "4-4",
+      "title": "〜ました / 〜ませんでした",
+      "gloss": "fiz · não fiz",
+      "explanation": "O passado dos verbos educados é fácil, porque você já sabe fazer o 〜ます (Aula 03-1). Basta trocar o final:\n• 〜ます → **〜ました** (fiz): たべます → たべました.\n• 〜ません → **〜ませんでした** (não fiz): たべません → たべませんでした. É ません + でした.\n• Vale para os três grupos, inclusive os irregulares: します → しました, きます → きました. Não há exceção.\n• あります → ありました, います → いました: \"tinha, havia, estava\".\nNa frase, nada mais muda: tópico (は), tempo (きのう, 日曜日に), lugar (で), objeto (を) e, no fim, o verbo no passado. Continue lendo pelo predicado: é ele que diz se aconteceu ou não.\n• Pergunta: 〜ましたか。 Resposta: はい、〜ました。 / いいえ、〜ませんでした。\n• Palavras que pedem passado: きのう, けさ, せんしゅう, せんげつ, きょねん. Elas entram sem に (Aula 03-3); dias da semana e horas levam に (日曜日に, 十時に).\n• Um passado que você vai usar muito: わかりました (\"entendi\", \"certo\").",
+      "structure": "[tempo] [lugar] で [objeto] を [verbo]ました／ませんでした。",
+      "examples": [
+        { "jp": "けさ コーヒーを のみました。", "kana": "けさ コーヒーを のみました。", "romaji": "Kesa kōhī o nomimashita.", "pt": "Hoje de manhã tomei café." },
+        { "jp": "日曜日に こうえんで しゃしんを とりました。", "kana": "にちようびに こうえんで しゃしんを とりました。", "romaji": "Nichiyōbi ni kōen de shashin o torimashita.", "pt": "No domingo tirei fotos no parque." },
+        { "jp": "きのう しゅくだいを しましたか。— いいえ、しませんでした。", "kana": "きのう しゅくだいを しましたか。— いいえ、しませんでした。", "romaji": "Kinō shukudai o shimashita ka. — Iie, shimasen deshita.", "pt": "Você fez a lição de casa ontem? — Não, não fiz." }
+      ],
+      "pitfalls": [
+        "Pergunta no passado pede resposta no passado: いきましたか。— いいえ、いきません ✗ (isso é \"não vou\") → いいえ、いきませんでした ✓.",
+        "Não esqueça o でした da negativa: たべません (não como / não vou comer) ≠ たべませんでした (não comi).",
+        "Palavra de tempo passado sem に: きのうに いきました ✗ → きのう いきました ✓.",
+        "\"Ainda não fiz\" não é 〜ませんでした. たべませんでした é \"não comi\" (naquela ocasião). Para \"ainda não\", o japonês tem outra estrutura (Aula 09-3)."
+      ],
+      "howToStudy": [
+        "Mirage → Treinos → Conjugação, no passado educado: 10 verbos, dizendo a forma em voz alta antes de responder.",
+        "Conte em voz alta 5 coisas que você fez ontem, em ordem (おきました → たべました → いきました…), e depois 2 que não fez (〜ませんでした).",
+        "🔬 Anatomia → 🧱 Montar de trás pra frente com o exemplo do parque: comece por とりました, depois しゃしんを, こうえんで e 日曜日に."
+      ],
+      "flag": null
+    }
+  ],
+  "media": [
+    { "order": 1, "kind": "leitura", "title": "Genki I · Lição 4: as explicações de gramática Past Tense of です e Past Tense of Verbs, e o diálogo da lição", "where": "Seu livro Genki I (3ª ed.)", "url": "", "when": "Antes desta aula ou logo depois do bloco de gramática" },
+    { "order": 2, "kind": "video", "title": "ToKini Andy: aula da Lição 4 do Genki I (passado de です e dos verbos)", "where": "YouTube · canal ToKini Andy", "url": "", "search": "ToKini Andy Genki Lesson 4 past tense", "when": "Depois dos 2 pontos: o vídeo confirma e dá mais exemplos" },
+    { "order": 3, "kind": "app", "title": "genki-companion: Lição 4, pontos 3 e 4 (marque ✍️ quando terminar)", "where": "../genki-companion/index.html", "url": "../genki-companion/index.html", "when": "No fim, para revisar e marcar o progresso" }
+  ],
+  "homework": {
+    "intro": "Faça no caderno, à mão, em kana (use 日曜日, 土曜日 e 本 em kanji se já conseguir). Só depois abra o gabarito, item por item. Circule o que errou e refaça no dia seguinte.",
+    "tasks": [
+      {
+        "id": "h1",
+        "type": "transformar",
+        "prompt": "Passe para o passado, mantendo a frase afirmativa ou negativa.",
+        "items": [
+          { "q": "やすみです。", "a": { "jp": "やすみでした。", "romaji": "Yasumi deshita." } },
+          { "q": "がくせいじゃないです。", "a": { "jp": "がくせいじゃなかったです。", "romaji": "Gakusei ja nakatta desu." }, "note": "Também certo: がくせいじゃありませんでした。" },
+          { "q": "テレビを みます。", "a": { "jp": "テレビを みました。", "romaji": "Terebi o mimashita." } },
+          { "q": "コーヒーを のみません。", "a": { "jp": "コーヒーを のみませんでした。", "romaji": "Kōhī o nomimasen deshita." }, "note": "ません + でした." },
+          { "q": "うちに かえります。", "a": { "jp": "うちに かえりました。", "romaji": "Uchi ni kaerimashita." }, "note": "かえる é verbo う (かえります), mas no passado educado tanto faz: é sempre ます → ました." },
+          { "q": "しゅくだいを しません。", "a": { "jp": "しゅくだいを しませんでした。", "romaji": "Shukudai o shimasen deshita." } }
+        ]
+      },
+      {
+        "id": "h2",
+        "type": "completar",
+        "prompt": "Complete com a forma educada do verbo entre parênteses. Olhe a palavra de tempo para decidir entre presente e passado.",
+        "items": [
+          { "q": "きのう 本を (よむ) ＿。", "a": { "jp": "よみました", "romaji": "yomimashita" } },
+          { "q": "あした ぎんこうに (いく) ＿。", "a": { "jp": "いきます", "romaji": "ikimasu" }, "note": "あした é futuro: o 〜ます serve para o futuro (Aula 03-1)." },
+          { "q": "けさ あさごはんを (たべる, negativa) ＿。", "a": { "jp": "たべませんでした", "romaji": "tabemasen deshita" } },
+          { "q": "せんしゅう コンビニで かさを (かう) ＿。", "a": { "jp": "かいました", "romaji": "kaimashita" } },
+          { "q": "きのう ルーカスさんは がっこうに (くる, negativa) ＿。", "a": { "jp": "きませんでした", "romaji": "kimasen deshita" }, "note": "Irregular: きます → きませんでした." }
+        ]
+      },
+      {
+        "id": "h3",
+        "type": "traduzir",
+        "prompt": "Traduza para o japonês.",
+        "items": [
+          { "q": "Ontem foi sábado.", "a": { "jp": "きのうは 土曜日でした。", "kana": "きのうは どようびでした。", "romaji": "Kinō wa doyōbi deshita." } },
+          { "q": "A festa não foi no sábado.", "a": { "jp": "パーティーは 土曜日じゃなかったです。", "kana": "パーティーは どようびじゃなかったです。", "romaji": "Pātī wa doyōbi ja nakatta desu." }, "note": "Também certo: 〜じゃありませんでした。" },
+          { "q": "Hoje de manhã esperei a Ana na frente da loja de conveniência.", "a": { "jp": "けさ コンビニの まえで アナさんを まちました。", "romaji": "Kesa konbini no mae de Ana-san o machimashita." }, "note": "Esperar é ação: で (não に). Quem é esperado leva を." },
+          { "q": "Você comprou o livro? — Não, não comprei.", "a": { "jp": "本を かいましたか。— いいえ、かいませんでした。", "kana": "ほんを かいましたか。— いいえ、かいませんでした。", "romaji": "Hon o kaimashita ka. — Iie, kaimasen deshita." } },
+          { "q": "No domingo escrevi um e-mail.", "a": { "jp": "日曜日に メールを かきました。", "kana": "にちようびに メールを かきました。", "romaji": "Nichiyōbi ni mēru o kakimashita." } },
+          { "q": "Semana passada eu não estudei.", "a": { "jp": "せんしゅう べんきょうしませんでした。", "romaji": "Senshū benkyō shimasen deshita." }, "note": "せんしゅう sem に." }
+        ]
+      },
+      {
+        "id": "h4",
+        "type": "produzir",
+        "prompt": "Escreva 5 frases sobre o seu último fim de semana: 1 com でした ou じゃなかったです, 3 com 〜ました e 1 com 〜ませんでした. Depois leia em voz alta e grave no celular.",
+        "items": [
+          { "q": "Modelo, que o seu texto deve seguir na estrutura e não nas palavras:", "a": { "jp": "せんしゅうの 土曜日は やすみでした。あさ 十時に おきました。ごご こうえんで しゃしんを とりました。ばんごはんに すしを たべました。日曜日は べんきょうしませんでした。", "kana": "せんしゅうの どようびは やすみでした。あさ じゅうじに おきました。ごご こうえんで しゃしんを とりました。ばんごはんに すしを たべました。にちようびは べんきょうしませんでした。", "romaji": "Senshū no doyōbi wa yasumi deshita. Asa jūji ni okimashita. Gogo kōen de shashin o torimashita. Bangohan ni sushi o tabemashita. Nichiyōbi wa benkyō shimasen deshita.", "pt": "O sábado passado foi de folga. Acordei às dez da manhã. À tarde tirei fotos no parque. No jantar comi sushi. No domingo não estudei." }, "note": "Confira: toda frase termina no passado; せんしゅう, あさ e ごご sem に; horas com に; でした só depois de substantivo." }
+        ]
+      }
+    ],
+    "workbook": [
+      { "p": 43, "t": "3 · Past Tense (Nouns)", "tip": "Faça depois do ponto 4a." },
+      { "p": 44, "t": "4 · Verb Conjugation (Past Tense)", "tip": "Faça depois do ponto 4b. É só conjugação: bom aquecimento para a p. 45." },
+      { "p": 45, "t": "5 · Past Tense (Verbs)", "tip": "Faça depois da p. 44. Confira no Genki Answer Key oficial." }
+    ]
+  },
+  "practice": [
+    { "tool": "Wagotabi", "what": "Jogue normalmente. Cace verbos terminados em 〜ました ou 〜ませんでした e frases com でした. Para cada um, diga em voz alta a forma do presente (いきました → いきます). Copie 2 dessas frases no caderno.", "min": 15 },
+    { "tool": "Mirage", "what": "Treinos → Conjugação, no passado educado: 15 verbos. Depois, Praticar L4.", "min": 10 },
+    { "tool": "Mirage", "what": "Diário: escreva 3 frases sobre o que você fez hoje, no passado, e confira os blocos com \"Anatomia do que escrevi\".", "min": 10 },
+    { "tool": "Shadowing", "what": "Toque 🔊 em cada exemplo desta aula e repita junto 3 vezes. Repare que em ました e でした o i de し e o u de す costumam quase sumir.", "min": 5 },
+    { "tool": "Fala", "what": "Grave em até 30 s o relato do seu fim de semana (lição de casa h4). Ouça e confira se todos os verbos saíram no passado.", "min": 5 }
+  ],
+  "culture": {
+    "title": "Feriados longos: Golden Week e お盆",
+    "titleJp": "ゴールデンウィークと おぼん",
+    "body": "O Japão tem duas épocas em que muita gente viaja ao mesmo tempo. A **Golden Week** (ゴールデンウィーク) junta vários feriados nacionais entre o fim de abril e o começo de maio, como o Dia das Crianças (こどもの日), em 5 de maio. Somados ao fim de semana, eles costumam render alguns dias seguidos de folga. Em meados de agosto, na maior parte do país, vem o **お盆 (おぼん)**, período de origem budista dedicado aos antepassados: muitas famílias voltam à cidade natal e visitam os túmulos. O お盆 não é feriado nacional oficial, mas muitas empresas dão alguns dias de folga. Nas duas épocas, trens, estradas e aeroportos costumam lotar e as passagens ficam mais caras, por isso quem vai ao Japão como turista em geral evita esses períodos.",
+    "try": "Pense no seu último feriado prolongado (o Carnaval, por exemplo) e escreva 3 frases no passado, respondendo a どこに いきましたか。 e なにを しましたか。 Ex.: カーニバルは やすみでした。うちで えいがを みました。"
+  },
+  "checklist": [
+    "Digo o passado de です nas duas direções, でした e じゃなかったです, e reconheço じゃありませんでした.",
+    "Passo qualquer verbo 〜ます para 〜ました e 〜ませんでした, inclusive します e きます, sem olhar.",
+    "Respondo いいえ、〜ませんでした a perguntas no passado (e não 〜ません).",
+    "Uso きのう, けさ, せんしゅう e きょねん sem に, e 日曜日に e 十時に com に.",
+    "Conto o meu fim de semana em 4–5 frases no passado.",
+    "Fiz a lição de casa e conferi o gabarito, e refiz o que errei.",
+    "Fiz as páginas 43–45 do Workbook."
+  ]
+}

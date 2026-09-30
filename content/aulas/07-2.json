@@ -1,0 +1,193 @@
+{
+  "id": "07-2",
+  "unit": "G1-L07",
+  "genki": { "book": "Genki I", "lesson": 7, "points": ["Describing People", "Adjective/Noun Te-forms"] },
+  "title": "Descrevendo pessoas",
+  "titleJp": "せが 高くて、やさしいです",
+  "canDo": [
+    "Descrever a aparência de alguém com N は X が Adj: cabelo, olhos, altura.",
+    "Dizer que alguém é alto, baixo ou inteligente (せが 高い, せが ひくい, あたまが いい), também na negativa.",
+    "Juntar duas características numa frase só com くて / で (やさしくて おもしろい, しずかで きれい).",
+    "Juntar \"é X (substantivo) e…\" com で: 日本人で、先生です.",
+    "Responder a um elogio com modéstia (いえいえ、まだまだです)."
+  ],
+  "duration": {
+    "total": "60–75 min",
+    "blocks": [
+      { "t": "Aquecimento: dizer em voz alta 10 adjetivos da Aula 05-1 na afirmativa e na negativa (たかい → たかくない, しずか → しずかじゃない…)", "min": 5 },
+      { "t": "Vocabulário: ouvir 🔊 cada palavra e repetir 2 vezes", "min": 10 },
+      { "t": "Gramática: os 2 pontos, cada um com os exemplos lidos em voz alta e um 🔬", "min": 20 },
+      { "t": "Vídeo da Lição 7 (bloco 6), pausando nos exemplos", "min": 10 },
+      { "t": "Lição de casa no caderno + conferir no gabarito", "min": 20 },
+      { "t": "Checklist (bloco 10) + anotar dúvidas no caderno da aula", "min": 5 }
+    ]
+  },
+  "prereqs": {
+    "aulas": ["05-1", "05-2", "07-1"],
+    "skills": [
+      "Conjugar adjetivos い e な no presente e no passado, afirmativa e negativa (Aulas 05-1 e 05-2): たかい → たかくないです, しずか → しずかじゃないです, いい → よくないです.",
+      "Saber se um adjetivo é い ou な. Cuidado com きれい: é な, apesar do い no fim.",
+      "Usar o 〜ています de estado da Aula 07-1 para めがねを かけています e やせています."
+    ],
+    "vocab": [
+      { "jp": "かみ", "kana": "かみ", "romaji": "kami", "pt": "cabelo" },
+      { "jp": "め", "kana": "め", "romaji": "me", "pt": "olho" },
+      { "jp": "口", "kana": "くち", "romaji": "kuchi", "pt": "boca" },
+      { "jp": "あたま", "kana": "あたま", "romaji": "atama", "pt": "cabeça" },
+      { "jp": "せ", "kana": "せ", "romaji": "se", "pt": "estatura, altura do corpo (também \"costas\")" },
+      { "jp": "ながい", "kana": "ながい", "romaji": "nagai", "pt": "comprido, longo" },
+      { "jp": "みじかい", "kana": "みじかい", "romaji": "mijikai", "pt": "curto" },
+      { "jp": "高い", "kana": "たかい", "romaji": "takai", "pt": "alto; caro → せが 高い: ser alto (pessoa)" },
+      { "jp": "ひくい", "kana": "ひくい", "romaji": "hikui", "pt": "baixo → せが ひくい: ser baixo (pessoa)" },
+      { "jp": "大きい", "kana": "おおきい", "romaji": "ōkii", "pt": "grande" },
+      { "jp": "小さい", "kana": "ちいさい", "romaji": "chiisai", "pt": "pequeno" },
+      { "jp": "あたまが いい", "kana": "あたまが いい", "romaji": "atama ga ii", "pt": "inteligente (\"a cabeça é boa\")" },
+      { "jp": "やさしい", "kana": "やさしい", "romaji": "yasashii", "pt": "gentil, bondoso(a)" },
+      { "jp": "しんせつ(な)", "kana": "しんせつ(な)", "romaji": "shinsetsu (na)", "pt": "prestativo(a), atencioso(a)" },
+      { "jp": "おもしろい", "kana": "おもしろい", "romaji": "omoshiroi", "pt": "divertido(a), engraçado(a), interessante" },
+      { "jp": "かわいい", "kana": "かわいい", "romaji": "kawaii", "pt": "fofo(a), bonitinho(a)" },
+      { "jp": "かっこいい", "kana": "かっこいい", "romaji": "kakkoii", "pt": "bonito(a), estiloso(a), \"que tem estilo\"" },
+      { "jp": "きれい(な)", "kana": "きれい(な)", "romaji": "kirei (na)", "pt": "bonito(a); limpo(a)" },
+      { "jp": "しずか(な)", "kana": "しずか(な)", "romaji": "shizuka (na)", "pt": "quieto(a), silencioso(a)" },
+      { "jp": "元気(な)", "kana": "げんき(な)", "romaji": "genki (na)", "pt": "animado(a), cheio(a) de energia" },
+      { "jp": "じょうず(な)", "kana": "じょうず(な)", "romaji": "jōzu (na)", "pt": "bom (em algo), habilidoso(a)" },
+      { "jp": "高校", "kana": "こうこう", "romaji": "kōkō", "pt": "escola de ensino médio" },
+      { "jp": "へや", "kana": "へや", "romaji": "heya", "pt": "quarto, cômodo" }
+    ]
+  },
+  "grammar": [
+    {
+      "id": "07-2-a",
+      "gc": "7-3",
+      "title": "N は X が Adj",
+      "gloss": "descrever alguém por uma parte: \"tem cabelo comprido\"",
+      "explanation": "Para descrever uma pessoa, o japonês monta uma frase de **dois níveis**:\n• **N は** = a pessoa de quem se fala. É o TÓPICO: \"quanto à Maria…\".\n• **X が** = a parte ou o aspecto dessa pessoa (cabelo, olhos, altura, cabeça). É o SUJEITO do adjetivo.\n• **Adjetivo + です** = o que se diz dessa parte. É o PREDICADO.\nマリアさんは かみが ながいです。 é, ao pé da letra, \"Quanto à Maria, o cabelo é comprido\". Em português dizemos que a Maria **tem** cabelo comprido, mas em japonês não entra verbo de \"ter\": quem faz o trabalho todo é o adjetivo.\n• Leia pelo predicado: ながいです (é comprido) ← かみが (o quê? o cabelo) ← マリアさんは (de quem? da Maria).\n• Expressões fixas deste tipo: せが 高い (é alto), せが ひくい (é baixo), あたまが いい (é inteligente), めが 大きい (tem olhos grandes).\n• A negativa e o passado são os do próprio adjetivo (Aulas 05-1 e 05-2): せが 高くないです, かみが ながかったです. Lembre que いい vira よ: あたまが よくないです.\n• Traços que são resultado de uma mudança usam o ている da Aula 07-1, com を para o objeto: めがねを かけています, Tシャツを きています, やせています.",
+      "structure": "[pessoa] は [parte] が [adjetivo] です。",
+      "examples": [
+        { "jp": "ルーカスさんは せが 高いですね。", "kana": "ルーカスさんは せが たかいですね。", "romaji": "Rūkasu-san wa se ga takai desu ne.", "pt": "O Lucas é alto, né?" },
+        { "jp": "たなかさんの おとうとさんは あたまが いいです。", "kana": "たなかさんの おとうとさんは あたまが いいです。", "romaji": "Tanaka-san no otōto-san wa atama ga ii desu.", "pt": "O irmão mais novo do Tanaka é inteligente." },
+        { "jp": "ペドロさんは かみが みじかいです。めがねを かけています。", "kana": "ペドロさんは かみが みじかいです。めがねを かけています。", "romaji": "Pedoro-san wa kami ga mijikai desu. Megane o kakete imasu.", "pt": "O Pedro tem cabelo curto. E usa óculos." }
+      ],
+      "pitfalls": [
+        "\"Ele é alto\" = せが 高いです ✓ × 高いです sozinho. Para uma pessoa isso soa estranho, porque 高い sozinho é \"caro\", ou \"alto\" para prédios e montanhas.",
+        "Não traduza o \"ter\": かみが ながいです ✓ × ながい かみが あります. O adjetivo já diz tudo.",
+        "A pessoa leva は e a parte leva が: マリアさんは かみが ながいです ✓ × マリアさんが かみは ながいです (os níveis ficam trocados e a frase soa estranha). マリアさんの かみは ながいです também está certo, mas aí o assunto é o cabelo, e não a Maria.",
+        "あたまが いい na negativa e no passado usa よ: あたまが よくないです ✓ × あたまが いくないです."
+      ],
+      "howToStudy": [
+        "Aperte 🔬 no exemplo do Lucas: o bloco com は é o TÓPICO e o bloco com が é o SUJEITO do adjetivo. Depois monte de trás para frente, em voz alta: 高いです → せが 高いです → ルーカスさんは せが 高いです.",
+        "Pense em 3 pessoas que você conhece e diga 2 frases sobre cada uma: uma com X が Adj e uma com 〜ています (óculos, roupa).",
+        "Jogo de adivinhação: descreva em voz alta um personagem do Wagotabi ou de um anime só com este padrão, sem dizer o nome."
+      ],
+      "flag": null
+    },
+    {
+      "id": "07-2-b",
+      "gc": "7-4",
+      "title": "〜くて / 〜で (unir descrições)",
+      "gloss": "o \"e\" entre adjetivos e substantivos",
+      "explanation": "Para dizer duas coisas de alguém numa frase só (\"é gentil **e** divertido\"), a **primeira** característica vai para a forma て, e só a **última** leva です. É a mesma ideia da forma て dos verbos (Aula 06-2), agora com adjetivos e substantivos.\n• Adjetivo い: tire o い e ponha **くて**: やさしい → やさしくて, ながい → ながくて. A exceção de sempre: いい → **よくて**.\n• Adjetivo な: ponha **で**: しずか → しずかで, きれい → きれいで, しんせつ → しんせつで.\n• Substantivo: ponha **で**: がくせい → がくせいで, 日本人 → 日本人で.\n• O **tempo e a educação ficam no fim**. \"Era gentil e divertido\" = やさしくて、おもしろかったです. O やさしくて não muda.\n• Funciona também com o padrão do ponto a: かみが ながくて、めが 大きいです (tem cabelo comprido e olhos grandes).\n• Leia pelo predicado: o bloco com くて / で ainda não fecha a frase. Continue até o です do fim.\n• Em geral, くて / で junta características que vão na **mesma direção** (duas qualidades boas, ou duas ruins). Para contraste (\"barato, **mas** ruim\"), o japonês prefere が, que vem na Aula 08-3.",
+      "structure": "[adj い − い] くて · [adj な] で · [substantivo] で + … [última característica] です。",
+      "examples": [
+        { "jp": "父は やさしくて、おもしろいです。", "kana": "ちちは やさしくて、おもしろいです。", "romaji": "Chichi wa yasashikute, omoshiroi desu.", "pt": "Meu pai é gentil e divertido." },
+        { "jp": "すずき先生は しんせつで、あたまが いいです。", "kana": "すずきせんせいは しんせつで、あたまが いいです。", "romaji": "Suzuki-sensei wa shinsetsu de, atama ga ii desu.", "pt": "A professora Suzuki é atenciosa e inteligente." },
+        { "jp": "たなかさんは 日本人で、高校の 先生です。", "kana": "たなかさんは にほんじんで、こうこうの せんせいです。", "romaji": "Tanaka-san wa nihonjin de, kōkō no sensei desu.", "pt": "O Tanaka é japonês e é professor de ensino médio." }
+      ],
+      "pitfalls": [
+        "いい vira よくて: あたまが よくて ✓ × あたまが いくて.",
+        "きれい é adjetivo な, apesar do い no fim: きれいで ✓ × きれくて. O mesmo vale para ゆうめい (famoso) e きらい.",
+        "Não ponha です no meio: やさしくて、おもしろいです ✓ × やさしいですくて. Só a última característica leva です, e o passado também só vai no fim: 〜くて、〜かったです.",
+        "O で daqui não é o で de lugar da Aula 03-2. がくせいで、〜 = \"é estudante e…\"; としょかんで べんきょうします = \"estuda na biblioteca\". Se depois do で vem outra característica, é o \"e\"; se vem uma ação, é o lugar."
+      ],
+      "howToStudy": [
+        "Faça a \"escadinha\" em voz alta, 3 vezes: たかい → たかくて, いい → よくて, しずか → しずかで, きれい → きれいで, がくせい → がくせいで, 元気 → 元気で.",
+        "Aperte 🔬 no exemplo da professora Suzuki: só あたまが いいです é o PREDICADO. しんせつで é uma característica pendurada, que ainda não fecha a frase.",
+        "Descreva 3 pessoas da sua vida com 2 características cada, numa frase só (〜くて / 〜で 〜です). Escreva no caderno e leia em voz alta."
+      ],
+      "flag": null
+    }
+  ],
+  "media": [
+    { "order": 1, "kind": "leitura", "title": "Genki I · Lição 7: as explicações de Describing People (N は X が Adj) e de como unir frases com a forma て de adjetivos e substantivos", "where": "Seu livro Genki I (3ª ed.)", "url": "", "when": "Antes desta aula ou logo depois do bloco de gramática" },
+    { "order": 2, "kind": "video", "title": "ToKini Andy: aula da Lição 7 do Genki I (a parte de descrever pessoas e da forma て de adjetivos)", "where": "YouTube · canal ToKini Andy", "url": "", "search": "ToKini Andy Genki Lesson 7", "when": "Depois dos 2 pontos, pausando nos exemplos" },
+    { "order": 3, "kind": "video", "title": "Japanese Ammo with Misa: forma て de adjetivos e substantivos (くて / で)", "where": "YouTube · canal Japanese Ammo with Misa", "url": "", "search": "Japanese Ammo with Misa te form adjectives nouns", "when": "Opcional, se o ponto b ainda estiver confuso" },
+    { "order": 4, "kind": "app", "title": "genki-companion: Lição 7, pontos 3 e 4 (marque ✍️ quando terminar)", "where": "../genki-companion/index.html", "url": "../genki-companion/index.html", "when": "No fim, para revisar e marcar o progresso" }
+  ],
+  "homework": {
+    "intro": "Faça no caderno, à mão. Escreva o japonês em kana, ou com os kanji que você já conhece (高い, 大きい, 小さい, 元気, 先生). Só depois abra o gabarito, item por item. Circule o que errou e refaça no dia seguinte.",
+    "tasks": [
+      {
+        "id": "h1",
+        "type": "transformar",
+        "prompt": "Junte as duas frases numa só com 〜くて / 〜で.",
+        "items": [
+          { "q": "アナさんは やさしいです。アナさんは かわいいです。", "a": { "jp": "アナさんは やさしくて、かわいいです。", "romaji": "Ana-san wa yasashikute, kawaii desu.", "pt": "A Ana é gentil e fofa." } },
+          { "q": "この へやは しずかです。この へやは きれいです。", "a": { "jp": "この へやは しずかで、きれいです。", "romaji": "Kono heya wa shizuka de, kirei desu.", "pt": "Este quarto é silencioso e limpo." }, "note": "しずか é adjetivo な: vira で." },
+          { "q": "ペドロさんは ブラジル人です。ペドロさんは 大学生です。", "a": { "jp": "ペドロさんは ブラジル人で、大学生です。", "kana": "ペドロさんは ブラジルじんで、だいがくせいです。", "romaji": "Pedoro-san wa burajirujin de, daigakusei desu.", "pt": "O Pedro é brasileiro e universitário." }, "note": "Substantivo + で." },
+          { "q": "すずきさんは あたまが いいです。すずきさんは おもしろいです。", "a": { "jp": "すずきさんは あたまが よくて、おもしろいです。", "romaji": "Suzuki-san wa atama ga yokute, omoshiroi desu.", "pt": "A Suzuki é inteligente e divertida." }, "note": "いい → よくて." },
+          { "q": "ルーカスさんは 元気です。ルーカスさんは かっこいいです。", "a": { "jp": "ルーカスさんは 元気で、かっこいいです。", "kana": "ルーカスさんは げんきで、かっこいいです。", "romaji": "Rūkasu-san wa genki de, kakkoii desu.", "pt": "O Lucas é animado e estiloso." } },
+          { "q": "きのうの パーティーは にぎやかでした。たのしかったです。", "a": { "jp": "きのうの パーティーは にぎやかで、たのしかったです。", "romaji": "Kinō no pātī wa nigiyaka de, tanoshikatta desu.", "pt": "A festa de ontem foi animada e divertida." }, "note": "O passado fica só no fim: にぎやかで não muda." }
+        ]
+      },
+      {
+        "id": "h2",
+        "type": "completar",
+        "prompt": "Complete com は, が ou を. Escreva a frase inteira.",
+        "items": [
+          { "q": "アナさん＿ め＿ 大きいです。", "a": { "jp": "アナさんは めが 大きいです。", "kana": "アナさんは めが おおきいです。", "romaji": "Ana-san wa me ga ōkii desu." }, "note": "A pessoa com は, a parte com が." },
+          { "q": "父＿ せ＿ ひくいです。", "a": { "jp": "父は せが ひくいです。", "kana": "ちちは せが ひくいです。", "romaji": "Chichi wa se ga hikui desu." } },
+          { "q": "やまださん＿ あたま＿ いいです。", "a": { "jp": "やまださんは あたまが いいです。", "romaji": "Yamada-san wa atama ga ii desu." } },
+          { "q": "たなかさん＿ めがね＿ かけています。", "a": { "jp": "たなかさんは めがねを かけています。", "romaji": "Tanaka-san wa megane o kakete imasu." }, "note": "Pegadinha: めがね é o objeto de かける, então leva を, e não が." },
+          { "q": "いもうと＿ かみ＿ みじかくて、せ＿ 高いです。", "a": { "jp": "いもうとは かみが みじかくて、せが 高いです。", "kana": "いもうとは かみが みじかくて、せが たかいです。", "romaji": "Imōto wa kami ga mijikakute, se ga takai desu." }, "note": "Duas partes, dois が; a pessoa aparece uma vez só, com は." }
+        ]
+      },
+      {
+        "id": "h3",
+        "type": "traduzir",
+        "prompt": "Traduza para o japonês.",
+        "items": [
+          { "q": "O Tanaka é alto e gentil.", "a": { "jp": "たなかさんは せが 高くて、やさしいです。", "kana": "たなかさんは せが たかくて、やさしいです。", "romaji": "Tanaka-san wa se ga takakute, yasashii desu." } },
+          { "q": "Minha irmã mais velha tem cabelo comprido e usa óculos.", "a": { "jp": "あねは かみが ながくて、めがねを かけています。", "romaji": "Ane wa kami ga nagakute, megane o kakete imasu." }, "note": "O くて também liga um adjetivo a uma frase com verbo." },
+          { "q": "A Sra. Yamada é japonesa e é professora de português.", "a": { "jp": "やまださんは 日本人で、ポルトガル語の 先生です。", "kana": "やまださんは にほんじんで、ポルトガルごの せんせいです。", "romaji": "Yamada-san wa nihonjin de, porutogarugo no sensei desu." } },
+          { "q": "O cachorro do Pedro é pequeno e fofo.", "a": { "jp": "ペドロさんの いぬは 小さくて、かわいいです。", "kana": "ペドロさんの いぬは ちいさくて、かわいいです。", "romaji": "Pedoro-san no inu wa chiisakute, kawaii desu." } },
+          { "q": "Meu pai não é alto.", "a": { "jp": "父は せが 高くないです。", "kana": "ちちは せが たかくないです。", "romaji": "Chichi wa se ga takakunai desu." }, "note": "A negativa é a do adjetivo: 高い → 高くない." }
+        ]
+      },
+      {
+        "id": "h4",
+        "type": "produzir",
+        "prompt": "Descreva 2 pessoas (alguém da sua família e um amigo) em 2–3 frases cada: aparência com X が Adj, algo com 〜ています (óculos, roupa) e pelo menos uma frase com 〜くて / 〜で. Leia em voz alta e grave no celular.",
+        "items": [
+          { "q": "Modelo, que o seu texto deve seguir na estrutura e não nas palavras:", "a": { "jp": "あには せが 高くて、かみが みじかいです。めがねを かけています。やさしくて、おもしろいです。マリアさんは ブラジル人で、大学生です。かみが ながくて、とても 元気です。", "kana": "あには せが たかくて、かみが みじかいです。めがねを かけています。やさしくて、おもしろいです。マリアさんは ブラジルじんで、だいがくせいです。かみが ながくて、とても げんきです。", "romaji": "Ani wa se ga takakute, kami ga mijikai desu. Megane o kakete imasu. Yasashikute, omoshiroi desu. Maria-san wa burajirujin de, daigakusei desu. Kami ga nagakute, totemo genki desu.", "pt": "Meu irmão mais velho é alto e tem cabelo curto. Usa óculos. É gentil e divertido. A Maria é brasileira e universitária. Tem cabelo comprido e é muito animada." }, "note": "Confira: a pessoa com は e a parte com が; めがね com を; いい → よくて; adjetivo な e substantivo com で; です e passado só no fim." }
+        ]
+      }
+    ],
+    "workbook": [
+      { "p": 72, "t": "4 · Describing People", "tip": "Faça depois do ponto 4a." },
+      { "p": 73, "t": "5 · Adjective/Noun Te-forms", "tip": "Faça depois do ponto 4b. Confira no Genki Answer Key oficial." }
+    ]
+  },
+  "practice": [
+    { "tool": "Wagotabi", "what": "Jogue normalmente e cace descrições de personagens ou de lugares: frases com 〜が + adjetivo ou com 〜くて / 〜で. Copie 2 no caderno e marque qual bloco é o TÓPICO (は) e qual é o SUJEITO do adjetivo (が).", "min": 15 },
+    { "tool": "Mirage", "what": "Vocabulário da Lição 7 no SRS. Depois, Praticar L7 (conjugação, escuta e formatos no estilo do workbook).", "min": 10 },
+    { "tool": "Mirage", "what": "Diário: escreva 3 frases descrevendo alguém e abra \"Anatomia do que escrevi\" para ver se は e が ficaram nos blocos certos.", "min": 10 },
+    { "tool": "Shadowing", "what": "Toque 🔊 em cada exemplo desta aula e repita junto 3 vezes. Nas frases com 〜くて / 〜で, faça uma pausa curtinha na vírgula, sem baixar a voz: a frase ainda não acabou.", "min": 5 },
+    { "tool": "Fala", "what": "Grave 30 s descrevendo uma foto de família (sua ou de uma revista), pessoa por pessoa.", "min": 5 }
+  ],
+  "culture": {
+    "title": "Responder a elogios com modéstia",
+    "titleJp": "いえいえ、まだまだです",
+    "body": "No Japão, costuma soar mais educado **não aceitar um elogio de cara**. Se alguém diz 日本語が じょうずですね (\"seu japonês é bom, hein!\"), a resposta clássica é いえいえ、まだまだです (ie ie, mada mada desu: \"que nada, ainda falta muito\") ou そんな ことないです (sonna koto nai desu: \"imagina\"). A mesma modéstia vale para a sua família, que é うち (Aula 07-1): se elogiam o seu irmão, em geral você diminui um pouco em vez de concordar. Estrangeiros costumam ouvir じょうずですね depois de poucas palavras em japonês: é gentileza, não uma avaliação. Hoje em dia, sobretudo com estrangeiros, um simples ありがとうございます também é bem recebido, e muita gente junta as duas coisas: agradece e diminui.",
+    "try": "Treine os dois roteiros em voz alta até sair automático. A: 日本語が じょうずですね。— B: いえいえ、まだまだです。 E a versão que junta as duas coisas: ありがとうございます。でも、まだまだです。"
+  },
+  "checklist": [
+    "Descrevo a aparência de alguém com N は X が Adj, sem olhar.",
+    "Digo \"é alto / baixo\" com せが 高い / せが ひくい e \"é inteligente\" com あたまが いい, também na negativa (あたまが よくないです).",
+    "Faço a forma て de qualquer adjetivo ou substantivo: くて (い), で (な e substantivo), いい → よくて.",
+    "Junto duas características numa frase e deixo o tempo só no fim (〜くて、〜かったです).",
+    "Sei que めがね leva を (めがねを かけています), e não が.",
+    "Respondo a um elogio com いえいえ、まだまだです.",
+    "Fiz a lição de casa e conferi o gabarito, e refiz o que errei.",
+    "Fiz as páginas 72–73 do Workbook."
+  ]
+}

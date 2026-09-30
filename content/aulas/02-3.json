@@ -1,0 +1,207 @@
+{
+  "id": "02-3",
+  "unit": "G1-L02",
+  "genki": { "book": "Genki I", "lesson": 2, "points": ["Noun も", "Noun じゃないです", "〜ね / 〜よ"] },
+  "title": "Também, não é, né?",
+  "titleJp": "わたしも ブラジルじんですよ",
+  "canDo": [
+    "Dizer que algo também vale para outra pessoa ou coisa, trocando は por も.",
+    "Negar uma frase com substantivo (〜じゃないです) e responder いいえ com a frase negativa e a informação certa.",
+    "Reconhecer じゃありません como a variante mais formal da negação.",
+    "Usar ね para buscar concordância (\"né?\") e よ para dar uma informação nova (\"viu?\")."
+  ],
+  "duration": {
+    "total": "60–75 min",
+    "blocks": [
+      { "t": "Aquecimento: apontar 3 objetos e dizer o que são e quanto custam (Aulas 02-1 e 02-2)", "min": 5 },
+      { "t": "Vocabulário: ouvir 🔊 cada palavra e repetir 2 vezes", "min": 10 },
+      { "t": "Gramática: os 3 pontos, cada um com os exemplos lidos em voz alta e um 🔬", "min": 20 },
+      { "t": "Vídeo da Lição 2 (bloco 6), pausando nos finais de frase", "min": 10 },
+      { "t": "Lição de casa no caderno + conferir no gabarito", "min": 15 },
+      { "t": "Checklist (bloco 10) + anotar dúvidas no caderno da aula", "min": 5 }
+    ]
+  },
+  "prereqs": {
+    "aulas": ["01-1", "02-1", "02-2"],
+    "skills": [
+      "Montar X は Y です e responder はい、そうです。 (Aula 01-1).",
+      "Apontar coisas e lugares com これ/この/ここ (Aula 02-1).",
+      "Dizer preços com 〜えん (Aula 02-2)."
+    ],
+    "vocab": [
+      { "jp": "〜も", "kana": "〜も", "romaji": "-mo", "pt": "também (no lugar de は)" },
+      { "jp": "〜じゃないです", "kana": "〜じゃないです", "romaji": "-ja nai desu", "pt": "não é / não sou" },
+      { "jp": "〜じゃありません", "kana": "〜じゃありません", "romaji": "-ja arimasen", "pt": "não é / não sou (mais formal)" },
+      { "jp": "〜ね", "kana": "〜ね", "romaji": "-ne", "pt": "…, né? (buscando concordância)" },
+      { "jp": "〜よ", "kana": "〜よ", "romaji": "-yo", "pt": "…, viu? (informação nova)" },
+      { "jp": "ええ", "kana": "ええ", "romaji": "ē", "pt": "é, sim (mais leve que はい)" },
+      { "jp": "そうですか", "kana": "そうですか", "romaji": "sō desu ka", "pt": "ah, é? / entendi" },
+      { "jp": "そうですね", "kana": "そうですね", "romaji": "sō desu ne", "pt": "é mesmo; deixa eu ver…" },
+      { "jp": "そうじゃないです", "kana": "そうじゃないです", "romaji": "sō ja nai desu", "pt": "não é isso, não é assim" },
+      { "jp": "おいしい", "kana": "おいしい", "romaji": "oishii", "pt": "gostoso(a)" },
+      { "jp": "たかい", "kana": "たかい", "romaji": "takai", "pt": "caro(a)" },
+      { "jp": "かいしゃいん", "kana": "かいしゃいん", "romaji": "kaishain", "pt": "funcionário(a) de empresa" },
+      { "jp": "いしゃ", "kana": "いしゃ", "romaji": "isha", "pt": "médico(a)" },
+      { "jp": "ともだち", "kana": "ともだち", "romaji": "tomodachi", "pt": "amigo(a)" },
+      { "jp": "かばん", "kana": "かばん", "romaji": "kaban", "pt": "bolsa, mochila, pasta" },
+      { "jp": "ぼうし", "kana": "ぼうし", "romaji": "bōshi", "pt": "chapéu, boné" },
+      { "jp": "としょかん", "kana": "としょかん", "romaji": "toshokan", "pt": "biblioteca" },
+      { "jp": "へえ", "kana": "へえ", "romaji": "hē", "pt": "nossa!, é mesmo? (surpresa)" }
+    ]
+  },
+  "grammar": [
+    {
+      "id": "02-3-a",
+      "gc": "2-5",
+      "title": "N も",
+      "gloss": "também",
+      "explanation": "も significa **\"também\"** e **ocupa o lugar do は**: a frase fica igual, só o は vira も. マリアさんは ブラジルじんです。 → ルーカスさんも ブラジルじんです。 (\"O Lucas também é brasileiro.\")\n• も fica **preso ao bloco que é \"também\"**, e não no fim da frase como no português. O PREDICADO (…です) é o mesmo da frase anterior; é justamente por isso que se usa も.\n• は e も nunca andam juntos: わたしはも está errado.\n• Na pergunta: すずきさんも いしゃですか。 (\"O Sr. Suzuki também é médico?\")\n• Se o predicado muda, volte para は: ペドロさんは がくせいです。アナさんは かいしゃいんです。\n• Com a negativa (ponto 4b), も vira \"também não\".",
+      "structure": "[A] は X です。 [B] も X です。",
+      "examples": [
+        { "jp": "マリアさんは ブラジルじんです。ルーカスさんも ブラジルじんです。", "kana": "マリアさんは ブラジルじんです。ルーカスさんも ブラジルじんです。", "romaji": "Maria-san wa burajirujin desu. Rūkasu-san mo burajirujin desu.", "pt": "A Maria é brasileira. O Lucas também é brasileiro." },
+        { "jp": "たなかさんは いしゃです。すずきさんも いしゃですか。", "kana": "たなかさんは いしゃです。すずきさんも いしゃですか。", "romaji": "Tanaka-san wa isha desu. Suzuki-san mo isha desu ka.", "pt": "O(A) Sr(a). Tanaka é médico(a). O(A) Sr(a). Suzuki também é médico(a)?" },
+        { "jp": "この とけいは いちまんえんです。その とけいも いちまんえんです。", "kana": "この とけいは いちまんえんです。その とけいも いちまんえんです。", "romaji": "Kono tokei wa ichiman en desu. Sono tokei mo ichiman en desu.", "pt": "Este relógio custa 10.000 ienes. Esse aí também custa 10.000." }
+      ],
+      "pitfalls": [
+        "は e も não se juntam: わたしも está certo; わたしはも está errado. も substitui o は.",
+        "も vai logo depois da coisa que é \"também\", não no fim da frase: \"eu também sou brasileiro\" é わたしも ブラジルじんです, e não わたしは ブラジルじんですも.",
+        "Só use も quando o PREDICADO se repete. Se ele muda, é は: アナさんは がくせいです。ペドロさんは かいしゃいんです。"
+      ],
+      "howToStudy": [
+        "Diga em voz alta 3 pares de frases sobre você e outra pessoa: わたしは 〜です。(nome)さんも 〜です。",
+        "Aperte 🔬 no exemplo 1: nas duas frases o PREDICADO é o mesmo (ブラジルじんです); só o TÓPICO muda, e o は vira も.",
+        "No caderno, escreva 3 frases com は e, embaixo de cada uma, a versão com も para outra pessoa ou coisa."
+      ],
+      "flag": null
+    },
+    {
+      "id": "02-3-b",
+      "gc": "2-6",
+      "title": "N じゃないです",
+      "gloss": "não é / não sou",
+      "explanation": "Para negar uma frase com substantivo, troque **です** por **じゃないです**: がくせいです → がくせいじゃないです (\"não sou estudante\"). O resto não muda: o TÓPICO continua com は, e a negação fica **no fim**, dentro do PREDICADO. É por isso que é tão importante ler a frase até o fim: só no último bloco você descobre se é sim ou não.\n• **じゃありません** quer dizer a mesma coisa e é a variante **mais formal**. Na escrita formal, você ainda vai ver ではありません (じゃ é a forma falada de では).\n• Agora dá para responder \"não\" por completo, como prometido na Aula 01-1: いいえ、にほんじんじゃないです。ブラジルじんです。\n• Resposta curta: いいえ、そうじゃないです。 (\"Não, não é.\")\n• Com も, fica \"também não\": ペドロさんも にほんじんじゃないです。\n• Por enquanto, じゃないです é para substantivos. Verbos e adjetivos い negam de outro jeito (Aulas 03-1 e 05-1).",
+      "structure": "[X] は [N] じゃないです。 · mais formal: [X] は [N] じゃありません。",
+      "examples": [
+        { "jp": "ルーカスさんは にほんじんじゃないです。ブラジルじんです。", "kana": "ルーカスさんは にほんじんじゃないです。ブラジルじんです。", "romaji": "Rūkasu-san wa nihonjin ja nai desu. Burajirujin desu.", "pt": "O Lucas não é japonês. É brasileiro." },
+        { "jp": "それは わたしの かさじゃないです。", "kana": "それは わたしの かさじゃないです。", "romaji": "Sore wa watashi no kasa ja nai desu.", "pt": "Esse não é o meu guarda-chuva." },
+        { "jp": "やまださんは がくせいですか。— いいえ、がくせいじゃありません。かいしゃいんです。", "kana": "やまださんは がくせいですか。— いいえ、がくせいじゃありません。かいしゃいんです。", "romaji": "Yamada-san wa gakusei desu ka. — Iie, gakusei ja arimasen. Kaishain desu.", "pt": "O(A) Yamada é estudante? — Não, não é. É funcionário(a) de empresa." }
+      ],
+      "pitfalls": [
+        "A negação está no fim. Em がくせい…じゃないです, não decida o sentido antes de ler o último bloco.",
+        "いいえ não é o \"não\" de dentro da frase. いいえ、がくせいです não quer dizer \"não sou estudante\"; o certo é がくせいじゃないです.",
+        "じゃないです toma o lugar do です inteiro: がくせいじゃないです está certo; がくせいですじゃない está errado.",
+        "Por enquanto, pergunte na afirmativa (がくせいですか。). Perguntas na negativa (〜じゃないですか) têm outro sentido e ficam para depois."
+      ],
+      "howToStudy": [
+        "Diga em voz alta 5 coisas que você NÃO é (にほんじんじゃないです。せんせいじゃないです。…) e, depois de cada uma, o que você é.",
+        "Aperte 🔬 no exemplo 3 e compare o PREDICADO da pergunta (がくせいですか) com o da resposta (がくせいじゃありません).",
+        "No caderno, passe para a negativa as frases da lição de casa da Aula 01-1, primeiro com じゃないです e depois com じゃありません."
+      ],
+      "flag": null
+    },
+    {
+      "id": "02-3-c",
+      "gc": "2-7",
+      "title": "〜ね / 〜よ",
+      "gloss": "né? / viu!",
+      "explanation": "ね e よ vêm **depois do です**, bem no fim, e não mudam o conteúdo da frase: mudam **o tom**, mostrando o que você acha que o outro já sabe.\n• **ね** = \"né?\", \"não é?\": você espera que o outro **concorde** ou confirme algo que vocês dois veem ou sabem. Com os dois comendo: この とんかつは おいしいですね。\n• **よ** = \"viu?\", \"sabia?\", \"olha\": você passa uma **informação nova**, que o outro não sabe.\n• そうですね = \"é mesmo\", concordando. Também serve para ganhar tempo, como o nosso \"deixa eu ver…\".\n• Você vai ouvir muito **よね** junto, conferindo algo que você acha que sabe (\"…, não é mesmo?\").\n• おいしい (\"gostoso\") e たかい (\"caro\") são adjetivos; eles vêm na Aula 05-1, mas おいしいです e たかいです você já pode usar.",
+      "structure": "[frase] ね。 (busca concordância) · [frase] よ。 (informação nova)",
+      "examples": [
+        { "jp": "ペドロさんは ブラジルじんですね。— ええ、そうです。", "kana": "ペドロさんは ブラジルじんですね。— ええ、そうです。", "romaji": "Pedoro-san wa burajirujin desu ne. — Ē, sō desu.", "pt": "Você é brasileiro, né, Pedro? — Sou, sim." },
+        { "jp": "あの ひとは やまだせんせいですよ。", "kana": "あの ひとは やまだせんせいですよ。", "romaji": "Ano hito wa Yamada-sensei desu yo.", "pt": "Aquela pessoa é o(a) professor(a) Yamada, viu?" },
+        { "jp": "この かばんは たかいですね。— ええ、にまんえんですよ。", "kana": "この かばんは たかいですね。— ええ、にまんえんですよ。", "romaji": "Kono kaban wa takai desu ne. — Ē, niman en desu yo.", "pt": "Esta bolsa é cara, né? — É, custa 20.000 ienes, viu?" }
+      ],
+      "pitfalls": [
+        "Não use ね para contar algo que o outro não tem como saber. わたしの なまえは ペドロですね soa como se ele já devesse saber. Numa apresentação, não vai nada: わたしの なまえは ペドロです。",
+        "よ em excesso soa insistente, como se você corrigisse o outro o tempo todo. Com professores e chefes, use com moderação.",
+        "ね não é partícula de pergunta. Para perguntar, use か: ブラジルじんですか。 ですかね existe, mas tem outro tom."
+      ],
+      "howToStudy": [
+        "Olhe fotos no celular e comente em voz alta com ね, como se alguém estivesse vendo junto: 〜さんですね。, おいしいですね。",
+        "Invente 3 \"dicas\" para um amigo com よ: あの きっさてんは たかいですよ。",
+        "Toque 🔊 nos exemplos e repita imitando o tom de cada final. Aperte 🔬 no exemplo 3 e veja que ね e よ ficam depois do PREDICADO, sem mudar o que ele diz."
+      ],
+      "flag": null
+    }
+  ],
+  "media": [
+    { "order": 1, "kind": "leitura", "title": "Genki I · Lição 2: o diálogo e as explicações de gramática (Noun も, Noun じゃないです, 〜ね / 〜よ)", "where": "Seu livro Genki I (3ª ed.)", "url": "", "when": "Antes desta aula ou logo depois do bloco de gramática" },
+    { "order": 2, "kind": "video", "title": "ToKini Andy: aula da Lição 2 do Genki I (gramática)", "where": "YouTube · canal ToKini Andy", "url": "", "search": "ToKini Andy Genki Lesson 2", "when": "Depois de estudar os 3 pontos: procure no vídeo os trechos de も, じゃないです e ね / よ" },
+    { "order": 3, "kind": "app", "title": "genki-companion: Lição 2, pontos 5 a 7 (marque ✍️ quando terminar)", "where": "../genki-companion/index.html", "url": "../genki-companion/index.html", "when": "No fim, para revisar e marcar o progresso" }
+  ],
+  "homework": {
+    "intro": "Faça no caderno, à mão, escrevendo o japonês em kana. Só depois abra o gabarito, item por item. Circule o que errou e refaça no dia seguinte.",
+    "tasks": [
+      {
+        "id": "h1",
+        "type": "transformar",
+        "prompt": "Passe para a negativa com じゃないです. Depois leia cada frase em voz alta de novo, agora com じゃありません.",
+        "items": [
+          { "q": "わたしは にほんじんです。", "a": { "jp": "わたしは にほんじんじゃないです。", "romaji": "Watashi wa nihonjin ja nai desu." }, "note": "Mais formal: わたしは にほんじんじゃありません。" },
+          { "q": "これは わたしの ぼうしです。", "a": { "jp": "これは わたしの ぼうしじゃないです。", "romaji": "Kore wa watashi no bōshi ja nai desu." } },
+          { "q": "ここは としょかんです。", "a": { "jp": "ここは としょかんじゃないです。", "romaji": "Koko wa toshokan ja nai desu." } },
+          { "q": "アナさんは かいしゃいんです。", "a": { "jp": "アナさんは かいしゃいんじゃないです。", "romaji": "Ana-san wa kaishain ja nai desu." } },
+          { "q": "その かさは ごひゃくえんです。", "a": { "jp": "その かさは ごひゃくえんじゃないです。", "romaji": "Sono kasa wa gohyaku en ja nai desu." }, "note": "O preço também é um substantivo: a negação é a mesma." }
+        ]
+      },
+      {
+        "id": "h2",
+        "type": "completar",
+        "prompt": "Complete com は ou も.",
+        "items": [
+          { "q": "マリアさんは がくせいです。アナさん＿ がくせいです。", "a": { "jp": "も", "romaji": "mo" }, "note": "Predicado igual: も." },
+          { "q": "たなかさんは にほんじんです。ルーカスさん＿ ブラジルじんです。", "a": { "jp": "は", "romaji": "wa" }, "note": "Predicado diferente: は." },
+          { "q": "この じしょは にせんえんです。その じしょ＿ にせんえんです。", "a": { "jp": "も", "romaji": "mo" } },
+          { "q": "わたしは いしゃじゃないです。ペドロさん＿ いしゃじゃないです。", "a": { "jp": "も", "romaji": "mo" }, "note": "も com negativa = \"também não\"." },
+          { "q": "ここは としょかんです。あそこ＿ ゆうびんきょくです。", "a": { "jp": "は", "romaji": "wa" }, "note": "Os lugares são diferentes: は." }
+        ]
+      },
+      {
+        "id": "h3",
+        "type": "escolher",
+        "prompt": "ね ou よ? Escolha e diga para você mesmo por quê.",
+        "items": [
+          { "q": "Vocês dois estão comendo e a comida está ótima: おいしいです＿。", "a": { "jp": "ね", "romaji": "ne" }, "note": "Os dois sabem: busca concordância." },
+          { "q": "Seu amigo não sabe quem é aquela pessoa, e você sabe: あの ひとは すずきさんです＿。", "a": { "jp": "よ", "romaji": "yo" }, "note": "Informação nova para ele." },
+          { "q": "Você acha que o seu colega é brasileiro e quer confirmar: ブラジルじんです＿。", "a": { "jp": "ね", "romaji": "ne" }, "note": "Confirmação: ね." },
+          { "q": "Seu amigo acha que o relógio é barato, mas você sabe que é caro: たかいです＿。", "a": { "jp": "よ", "romaji": "yo" }, "note": "Você está informando algo que ele não sabe." }
+        ]
+      },
+      {
+        "id": "h4",
+        "type": "produzir",
+        "prompt": "Escreva 5 ou 6 frases comparando você com um amigo: pelo menos 2 com も, 2 com じゃないです e 1 com ね ou よ. Depois leia em voz alta.",
+        "items": [
+          { "q": "Modelo, que o seu texto deve seguir na estrutura e não nas palavras:", "a": { "jp": "わたしは ブラジルじんです。ともだちの ルーカスさんも ブラジルじんです。わたしは せんせいじゃないです。かいしゃいんです。ルーカスさんも せんせいじゃないです。いしゃですよ。", "romaji": "Watashi wa burajirujin desu. Tomodachi no Rūkasu-san mo burajirujin desu. Watashi wa sensei ja nai desu. Kaishain desu. Rūkasu-san mo sensei ja nai desu. Isha desu yo.", "pt": "Sou brasileiro(a). Meu amigo Lucas também é brasileiro. Não sou professor(a). Sou funcionário(a) de empresa. O Lucas também não é professor. Ele é médico, viu?" }, "note": "Confira: も no lugar de は quando o predicado se repete, じゃないです no fim, e よ só para informação nova." }
+        ]
+      }
+    ],
+    "workbook": [
+      { "p": 29, "t": "5 · Noun も・Noun じゃないです", "tip": "Faça depois dos pontos 4a e 4b." },
+      { "p": 30, "t": "6 · こたえましょう (Questions)", "tip": "Faça no fim da aula: junta toda a Lição 2. Responda com frases completas." },
+      { "p": 31, "t": "7 · きくれんしゅう (Listening Comprehension)", "tip": "Precisa do áudio oficial do Genki. Faça por último e confira no Genki Answer Key oficial." }
+    ]
+  },
+  "practice": [
+    { "tool": "Wagotabi", "what": "Jogue normalmente e cace os finais de frase: ね, よ e as negações (no jogo pode aparecer a forma casual じゃない, sem です), além de も no meio da frase. A cada um, diga em voz alta o que ele faz: concordância, informação nova, negação ou \"também\". Copie 2 dessas frases no caderno.", "min": 15 },
+    { "tool": "Mirage", "what": "Treinos → Partículas: 10 min, prestando atenção em は × も. Depois, Vocabulário da Lição 2 no SRS.", "min": 15 },
+    { "tool": "Mirage", "what": "Diário: escreva 3 frases sobre você e um amigo com も e じゃないです e abra \"Anatomia do que escrevi\".", "min": 10 },
+    { "tool": "Shadowing", "what": "Toque 🔊 em cada exemplo desta aula e repita junto 3 vezes, imitando o tom do ね e do よ.", "min": 5 },
+    { "tool": "Fala", "what": "Grave 1 minuto falando de você e de um amigo com も, じゃないです, ね e よ (use a lição de casa h4 como roteiro).", "min": 5 }
+  ],
+  "culture": {
+    "title": "あいづち: sinais de que você está ouvindo",
+    "titleJp": "あいづち",
+    "body": "Em japonês, quem escuta costuma dar **sinais curtos e frequentes** enquanto o outro fala: はい, ええ, うん (entre amigos), そうですか, そうですね, へえ (surpresa), muitas vezes com um leve aceno de cabeça. Esses sinais se chamam あいづち e, em geral, querem dizer \"estou acompanhando\", **não necessariamente \"concordo\"**: um はい no meio da fala do outro não é um \"sim\". Ficar em silêncio total pode dar a impressão de que você não está prestando atenção, principalmente ao telefone. Para um brasileiro, a ideia lembra o nosso \"ahã\", \"sei\", \"é mesmo?\", só que as あいづち costumam vir com mais frequência, nas pequenas pausas de quem fala.",
+    "try": "Assista a 2 minutos de uma entrevista ou vlog em japonês e conte quantas あいづち você ouve. Depois repita o trecho e diga você mesmo はい, ええ ou そうですか nas pausas."
+  },
+  "checklist": [
+    "Troco は por も quando o predicado se repete, e nunca junto はも.",
+    "Nego qualquer frase com substantivo usando じゃないです, e sei que じゃありません é a variante mais formal.",
+    "Respondo いいえ com a frase negativa completa e depois a informação certa.",
+    "Escolho ね (concordância) ou よ (informação nova) conforme o que o outro já sabe.",
+    "Leio a frase até o fim antes de decidir se é afirmativa ou negativa.",
+    "Fiz a lição de casa e conferi o gabarito, e refiz o que errei.",
+    "Fiz as páginas 29–31 do Workbook."
+  ]
+}

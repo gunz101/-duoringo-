@@ -216,7 +216,7 @@
   if ('speechSynthesis' in window) { pickVoice(); speechSynthesis.onvoiceschanged = pickVoice; }
   function speak(text) {
     if (!('speechSynthesis' in window)) return toast('Sem síntese de voz neste navegador');
-    try { speechSynthesis.cancel(); var u = new SpeechSynthesisUtterance(String(text).replace(/[—]/g, '。')); u.lang = 'ja-JP'; if (jaVoice) u.voice = jaVoice; u.rate = 0.9; speechSynthesis.speak(u); if (!jaVoice) toast('Dica: instale a voz japonesa do Windows para ouvir melhor'); } catch (e) {}
+    try { speechSynthesis.cancel(); var u = new SpeechSynthesisUtterance(String(text).replace(/[—]/g, '。').replace(/[→⇒＞>]/g, '、').replace(/[✓✗○×＿_]/g, '')); u.lang = 'ja-JP'; if (jaVoice) u.voice = jaVoice; u.rate = 0.9; speechSynthesis.speak(u); if (!jaVoice) toast('Dica: instale a voz japonesa do Windows para ouvir melhor'); } catch (e) {}
   }
 
   // ---------- progress bar ----------
@@ -332,7 +332,8 @@
     // 6
     h += blk(6, '<div class="media">' + a.media.map(function (m) {
       var link = m.url ? '<a href="' + esc(m.url) + '" target="_blank" rel="noopener">' + esc(m.title) + '</a>' : esc(m.title);
-      return '<div class="med"><div class="o">' + m.order + '</div><div><div class="k">' + esc(m.kind) + ' · ' + esc(m.where) + '</div><div>' + link + '</div>' + (m.search ? '<div class="small muted">Buscar por: <span class="jp">' + esc(m.search) + '</span></div>' : '') + (m.when ? '<div class="small muted">Quando: ' + esc(m.when) + '</div>' : '') + '</div></div>';
+      var sub = (m.links && m.links.length) ? '<div class="small" style="margin-top:4px;display:flex;flex-wrap:wrap;gap:4px 10px">' + m.links.map(function (l) { return '<a class="jp" href="' + esc(l.url) + '" target="_blank" rel="noopener">▶ ' + esc(l.t) + '</a>'; }).join('') + '</div>' : '';
+      return '<div class="med"><div class="o">' + m.order + '</div><div><div class="k">' + esc(m.kind) + ' · ' + esc(m.where) + '</div><div>' + link + '</div>' + sub + (m.search && !m.url ?'<div class="small muted">Buscar por: <span class="jp">' + esc(m.search) + '</span></div>' : '') + (m.when ? '<div class="small muted">Quando: ' + esc(m.when) + '</div>' : '') + '</div></div>';
     }).join('') + '</div>');
     // 7
     var hw = a.homework, hwDone = !!(S.hw[id] && S.hw[id].done);

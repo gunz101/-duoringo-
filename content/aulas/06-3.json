@@ -1,0 +1,189 @@
+{
+  "id": "06-3",
+  "unit": "G1-L06",
+  "genki": { "book": "Genki I", "lesson": 6, "points": ["〜てもいいです", "〜てはいけません"] },
+  "title": "Pode / não pode",
+  "titleJp": "ここに すわってもいいですか",
+  "canDo": [
+    "Pedir permissão com 〜てもいいですか (\"posso…?\") em situações do dia a dia.",
+    "Responder a um pedido de permissão: ええ、いいですよ (pode) ou すみません、ちょっと… (não, com jeito).",
+    "Dizer o que é proibido com 〜てはいけません e entender as regras simples de um lugar.",
+    "Lendo só o fim da frase, dizer se ela é pedido, permissão ou proibição."
+  ],
+  "duration": {
+    "total": "60–75 min",
+    "blocks": [
+      { "t": "Aquecimento: fazer 5 pedidos com 〜てください (Aula 06-2) em voz alta", "min": 5 },
+      { "t": "Vocabulário: ouvir 🔊 cada palavra e repetir 2 vezes", "min": 10 },
+      { "t": "Gramática: os 2 pontos, com os exemplos lidos em voz alta e um 🔬 em cada", "min": 20 },
+      { "t": "Vídeo (bloco 6), pausando nos exemplos", "min": 10 },
+      { "t": "Lição de casa no caderno + conferir no gabarito", "min": 15 },
+      { "t": "Checklist (bloco 10) + anotar dúvidas no caderno da aula", "min": 5 }
+    ]
+  },
+  "prereqs": {
+    "aulas": ["03-2", "03-3", "06-1", "06-2"],
+    "skills": [
+      "Fazer a forma て sem olhar a tabela (Aula 06-1).",
+      "Usar 〜てください e saber que nele quem age é o outro (Aula 06-2).",
+      "Recusar com ちょっと… (cultura da Aula 03-3) e marcar com で o lugar da ação (Aula 03-2)."
+    ],
+    "vocab": [
+      { "jp": "ここ", "kana": "ここ", "romaji": "koko", "pt": "aqui" },
+      { "jp": "すわる", "kana": "すわる", "romaji": "suwaru", "pt": "sentar-se (verbo う)" },
+      { "jp": "たつ", "kana": "たつ", "romaji": "tatsu", "pt": "levantar-se, ficar de pé" },
+      { "jp": "つかう", "kana": "つかう", "romaji": "tsukau", "pt": "usar" },
+      { "jp": "トイレ", "kana": "トイレ", "romaji": "toire", "pt": "banheiro" },
+      { "jp": "かりる", "kana": "かりる", "romaji": "kariru", "pt": "pegar emprestado (verbo る)" },
+      { "jp": "本", "kana": "ほん", "romaji": "hon", "pt": "livro" },
+      { "jp": "じしょ", "kana": "じしょ", "romaji": "jisho", "pt": "dicionário" },
+      { "jp": "テスト", "kana": "テスト", "romaji": "tesuto", "pt": "prova" },
+      { "jp": "でんわを かける", "kana": "でんわを かける", "romaji": "denwa o kakeru", "pt": "telefonar, fazer uma ligação" },
+      { "jp": "としょかん", "kana": "としょかん", "romaji": "toshokan", "pt": "biblioteca" },
+      { "jp": "たばこを すう", "kana": "たばこを すう", "romaji": "tabako o suu", "pt": "fumar" },
+      { "jp": "へや", "kana": "へや", "romaji": "heya", "pt": "quarto, sala (cômodo)" },
+      { "jp": "りょうり", "kana": "りょうり", "romaji": "ryōri", "pt": "comida, culinária (りょうりを する = cozinhar)" },
+      { "jp": "くつ", "kana": "くつ", "romaji": "kutsu", "pt": "sapato" },
+      { "jp": "ぬぐ", "kana": "ぬぐ", "romaji": "nugu", "pt": "tirar (roupa, sapato)" },
+      { "jp": "およぐ", "kana": "およぐ", "romaji": "oyogu", "pt": "nadar" },
+      { "jp": "プール", "kana": "プール", "romaji": "pūru", "pt": "piscina" },
+      { "jp": "おふろに はいる", "kana": "おふろに はいる", "romaji": "ofuro ni hairu", "pt": "tomar banho de ofurô" },
+      { "jp": "いい", "kana": "いい", "romaji": "ii", "pt": "bom; tudo bem" },
+      { "jp": "どうぞ", "kana": "どうぞ", "romaji": "dōzo", "pt": "fique à vontade, pode (ao oferecer ou permitir)" },
+      { "jp": "だめ", "kana": "だめ", "romaji": "dame", "pt": "não pode, não dá (bem direto)" }
+    ]
+  },
+  "grammar": [
+    {
+      "id": "06-3-a",
+      "gc": "6-3",
+      "title": "〜てもいいです(か)",
+      "gloss": "pode / posso…?",
+      "explanation": "Forma て + **もいいです** = \"pode fazer\", \"tudo bem fazer\". Ao pé da letra: \"mesmo que faça X, está bom\". Com **か** no fim, vira um pedido de permissão: \"**posso…?**\"\n• O predicado é o bloco inteiro do fim, 〜てもいいですか. O que vem antes diz o quê e onde: [ここに] + [すわってもいいですか] = \"aqui\" + \"posso sentar?\".\n• Quem faz a ação é **você mesmo**. Em 〜てください (Aula 06-2), era o outro.\n• Para responder **sim**: **ええ、いいですよ。** ou **はい、どうぞ。** O よ dá o tom de \"pode, sim!\".\n• Para responder **não** com jeito: **すみません、ちょっと…。** É o mesmo ちょっと… da Aula 03-3: a frase fica no ar, e o \"não\" fica subentendido.\n• Sem か, a frase **dá** permissão: この ペンを つかってもいいですよ。 (\"Pode usar esta caneta.\")\n• A Anatomia do Mirage marca esse fim como **PERMISSÃO**.",
+      "structure": "[verbo-て] もいいですか。 — ええ、いいですよ。 ／ すみません、ちょっと…。",
+      "examples": [
+        { "jp": "ここに すわってもいいですか。— ええ、いいですよ。", "kana": "ここに すわってもいいですか。— ええ、いいですよ。", "romaji": "Koko ni suwatte mo ii desu ka. — Ee, ii desu yo.", "pt": "Posso me sentar aqui? — Pode, sim." },
+        { "jp": "トイレを つかってもいいですか。— はい、どうぞ。", "kana": "トイレを つかってもいいですか。— はい、どうぞ。", "romaji": "Toire o tsukatte mo ii desu ka. — Hai, dōzo.", "pt": "Posso usar o banheiro? — Claro, fique à vontade." },
+        { "jp": "この 本を かりてもいいですか。— すみません、ちょっと…。", "kana": "この ほんを かりてもいいですか。— すみません、ちょっと…。", "romaji": "Kono hon o karite mo ii desu ka. — Sumimasen, chotto...", "pt": "Posso pegar este livro emprestado? — Desculpe, é que…" }
+      ],
+      "pitfalls": [
+        "Permissão × pedido: まどを あけてもいいですか = \"posso abrir a janela?\" (eu abro). まどを あけてください = \"abra a janela\" (você abre). Veja quem faz a ação.",
+        "Não esqueça o も: すわってもいいですか ✓. Na conversa casual você vai ouvir すわっていいですか, sem も; em aula, use a forma completa.",
+        "Para dizer não, いいえ、だめです existe, mas é bem direto. Com desconhecidos, すみません、ちょっと… soa muito mais gentil.",
+        "Na resposta, não precisa repetir o verbo: ええ、いいですよ basta. ええ、すわってもいいです não está errado, só fica pesado."
+      ],
+      "howToStudy": [
+        "Fala: peça permissão para 5 coisas que você faria na casa de um amigo japonês (トイレを つかう, まどを あける, テレビを 見る, しゃしんを とる, ここに すわる). Responda cada pedido das duas maneiras: ええ、いいですよ / すみません、ちょっと…",
+        "Aperte 🔬 no exemplo 1: o fim aparece como PERMISSÃO. Compare com um exemplo de てください da Aula 06-2, que aparece como PEDIDO.",
+        "No caderno, escreva 3 perguntas de permissão para usar na aula ou no trabalho (トイレに 行く, この ペンを つかう, まどを しめる)."
+      ],
+      "flag": null
+    },
+    {
+      "id": "06-3-b",
+      "gc": "6-4",
+      "title": "〜てはいけません",
+      "gloss": "não pode (proibição)",
+      "explanation": "Forma て + **はいけません** = \"não pode\", \"é proibido\". Ao pé da letra: \"fazendo X, não dá\". É o oposto de 〜てもいいです, e a Anatomia do Mirage marca esse fim como **PROIBIÇÃO**.\n• O は aqui é partícula e se lê **wa**: 〜te wa ikemasen.\n• Soa como **regra**: placas, regulamentos, o professor falando com a turma, pais falando com os filhos. O bloco com で costuma dizer **onde** a regra vale: [としょかんで] [でんわを] [かけてはいけません].\n• Para responder \"não\" a um 〜てもいいですか com uma **regra**, use いいえ、〜てはいけません。 Se não for regra, e sim um \"prefiro que não\", fique com すみません、ちょっと….\n• Na fala casual você vai ouvir versões encurtadas (〜ちゃだめ, 〜ちゃいけない). Por enquanto, basta reconhecer.",
+      "structure": "[lugar] で [objeto] を [verbo-て] はいけません。",
+      "examples": [
+        { "jp": "としょかんで でんわを かけてはいけません。", "kana": "としょかんで でんわを かけてはいけません。", "romaji": "Toshokan de denwa o kakete wa ikemasen.", "pt": "Não pode fazer ligações na biblioteca." },
+        { "jp": "へやで りょうりを してはいけません。", "kana": "へやで りょうりを してはいけません。", "romaji": "Heya de ryōri o shite wa ikemasen.", "pt": "Não pode cozinhar no quarto." },
+        { "jp": "テストで じしょを つかってもいいですか。— いいえ、つかってはいけません。", "kana": "テストで じしょを つかってもいいですか。— いいえ、つかってはいけません。", "romaji": "Tesuto de jisho o tsukatte mo ii desu ka. — Iie, tsukatte wa ikemasen.", "pt": "Posso usar dicionário na prova? — Não, não pode." }
+      ],
+      "pitfalls": [
+        "は se lê wa: \"te wa ikemasen\", nunca \"te ha\".",
+        "Não misture os pares: 〜てもいいです (pode) leva も; 〜てはいけません (não pode) leva は. 〜てはいいです ✗, 〜てもいけません ✗.",
+        "Com um amigo que pede um favor, 〜てはいけません soa como bronca. Guarde-o para regras; para recusar com jeito, use すみません、ちょっと…",
+        "Proibição ≠ pedido para não fazer. \"Por favor, não faça\" é 〜ないでください (Lição 8), mais suave. 〜てはいけません é a regra."
+      ],
+      "howToStudy": [
+        "Escreva no caderno 5 regras de um lugar que você conhece (sua casa, o trabalho, a academia) com 〜てはいけません, cada uma com o lugar em で.",
+        "Aperte 🔬 no exemplo da biblioteca: o fim aparece como PROIBIÇÃO e としょかんで como LUGAR DA AÇÃO.",
+        "Fala: faça pares de pergunta → proibição em voz alta, trocando o verbo 5 vezes: ここで 食べてもいいですか。— いいえ、食べてはいけません。"
+      ],
+      "flag": null
+    }
+  ],
+  "media": [
+    { "order": 1, "kind": "leitura", "title": "Genki I · Lição 6: as explicações de gramática 〜てもいいです e 〜てはいけません", "where": "Seu livro Genki I (3ª ed.)", "url": "", "when": "Antes desta aula ou logo depois do bloco de gramática" },
+    { "order": 2, "kind": "video", "title": "ToKini Andy: 〜てもいいです e 〜てはいけません (Lição 6 do Genki I)", "where": "YouTube · canal ToKini Andy", "url": "", "search": "ToKini Andy Genki Lesson 6 te mo ii desu", "when": "Depois dos 2 pontos: o vídeo confirma e dá mais exemplos" },
+    { "order": 3, "kind": "app", "title": "genki-companion: Lição 6, pontos 3 e 4 (marque ✍️ quando terminar)", "where": "../genki-companion/index.html", "url": "../genki-companion/index.html", "when": "No fim, para revisar e marcar o progresso" }
+  ],
+  "homework": {
+    "intro": "Faça no caderno, à mão, com os kanji que você já conhece e o resto em kana. Só depois abra o gabarito, item por item. Circule o que errou e refaça no dia seguinte.",
+    "tasks": [
+      {
+        "id": "h1",
+        "type": "traduzir",
+        "prompt": "Traduza para o japonês.",
+        "items": [
+          { "q": "Posso abrir a janela? — Pode, sim.", "a": { "jp": "まどを あけてもいいですか。— ええ、いいですよ。", "romaji": "Mado o akete mo ii desu ka. — Ee, ii desu yo." } },
+          { "q": "Posso ir ao banheiro?", "a": { "jp": "トイレに 行ってもいいですか。", "kana": "トイレに いってもいいですか。", "romaji": "Toire ni itte mo ii desu ka." }, "note": "いく → いって, a exceção." },
+          { "q": "Posso usar este computador? — Desculpe, é que…", "a": { "jp": "この コンピューターを つかってもいいですか。— すみません、ちょっと…。", "romaji": "Kono konpyūtā o tsukatte mo ii desu ka. — Sumimasen, chotto..." } },
+          { "q": "Não pode fumar no quarto.", "a": { "jp": "へやで たばこを すってはいけません。", "romaji": "Heya de tabako o sutte wa ikemasen." }, "note": "すう → すって (う → って)." },
+          { "q": "Na aula, não pode falar em inglês.", "a": { "jp": "クラスで えいごを はなしてはいけません。", "romaji": "Kurasu de eigo o hanashite wa ikemasen." } },
+          { "q": "Pode tirar os sapatos aqui.", "a": { "jp": "ここで くつを ぬいでもいいですよ。", "romaji": "Koko de kutsu o nuide mo ii desu yo." }, "note": "ぬぐ → ぬいで (ぐ → いで). Sem か, a frase dá a permissão." }
+        ]
+      },
+      {
+        "id": "h2",
+        "type": "responder",
+        "prompt": "Responda como indicado: ✓ = pode; ✗ = não, com jeito; ⛔ = é regra.",
+        "items": [
+          { "q": "しゃしんを 見てもいいですか。（✓）", "a": { "jp": "ええ、いいですよ。", "romaji": "Ee, ii desu yo." }, "note": "はい、どうぞ。 também serve." },
+          { "q": "この ペンを かりてもいいですか。（✗）", "a": { "jp": "すみません、ちょっと…。", "romaji": "Sumimasen, chotto..." } },
+          { "q": "ここで 食べてもいいですか。（⛔）", "a": { "jp": "いいえ、食べてはいけません。", "kana": "いいえ、たべてはいけません。", "romaji": "Iie, tabete wa ikemasen." } },
+          { "q": "テレビを つけてもいいですか。（✓）", "a": { "jp": "はい、どうぞ。", "romaji": "Hai, dōzo." }, "note": "ええ、いいですよ。 também serve." },
+          { "q": "この へやで ねてもいいですか。（⛔）", "a": { "jp": "いいえ、ねてはいけません。", "romaji": "Iie, nete wa ikemasen." } }
+        ]
+      },
+      {
+        "id": "h3",
+        "type": "transformar",
+        "prompt": "Transforme: permissão vira proibição, e proibição vira permissão.",
+        "items": [
+          { "q": "でんきを けしてもいいです。", "a": { "jp": "でんきを けしてはいけません。", "romaji": "Denki o keshite wa ikemasen." } },
+          { "q": "プールで およいではいけません。", "a": { "jp": "プールで およいでもいいです。", "romaji": "Pūru de oyoide mo ii desu." }, "note": "Só troca は por も e いけません por いいです. A forma て (およいで) não muda." },
+          { "q": "まどを あけてもいいです。", "a": { "jp": "まどを あけてはいけません。", "romaji": "Mado o akete wa ikemasen." } },
+          { "q": "おふろに はいってはいけません。", "a": { "jp": "おふろに はいってもいいです。", "romaji": "Ofuro ni haitte mo ii desu." }, "note": "はいる é verbo う: はいって." },
+          { "q": "ここで あそんでもいいです。", "a": { "jp": "ここで あそんではいけません。", "romaji": "Koko de asonde wa ikemasen." } }
+        ]
+      },
+      {
+        "id": "h4",
+        "type": "produzir",
+        "prompt": "Você vai receber um hóspede. Escreva as regras da casa: 3 coisas que ele pode fazer (〜てもいいです) e 3 que não pode (〜てはいけません). Depois escreva 1 pedido de permissão que o hóspede faria, com a sua resposta. Leia em voz alta.",
+        "items": [
+          { "q": "Modelo, que o seu texto deve seguir na estrutura e não nas palavras:", "a": { "jp": "だいどころを つかってもいいです。テレビを 見てもいいです。へやで ゆっくり やすんでもいいです。へやで たばこを すってはいけません。くつで へやに はいってはいけません。ねこに ごはんを あげてはいけません。— シャワーを あびてもいいですか。— ええ、いいですよ。", "kana": "だいどころを つかってもいいです。テレビを みてもいいです。へやで ゆっくり やすんでもいいです。へやで たばこを すってはいけません。くつで へやに はいってはいけません。ねこに ごはんを あげてはいけません。— シャワーを あびてもいいですか。— ええ、いいですよ。", "romaji": "Daidokoro o tsukatte mo ii desu. Terebi o mite mo ii desu. Heya de yukkuri yasunde mo ii desu. Heya de tabako o sutte wa ikemasen. Kutsu de heya ni haitte wa ikemasen. Neko ni gohan o agete wa ikemasen. — Shawā o abite mo ii desu ka. — Ee, ii desu yo.", "pt": "Pode usar a cozinha. Pode ver TV. Pode descansar à vontade no quarto. Não pode fumar no quarto. Não pode entrar no quarto de sapatos. Não pode dar comida para o gato. — Posso tomar banho? — Pode, sim." }, "note": "Confira: cada forma て segue a tabela (やすんで, すって, はいって); も para \"pode\" e は (wa) para \"não pode\"; a pergunta do hóspede termina em か." }
+        ]
+      }
+    ],
+    "workbook": [
+      { "p": 64, "t": "5 · ～てもいいです", "tip": "Faça depois do ponto 4a." },
+      { "p": 65, "t": "6 · ～てはいけません", "tip": "Faça depois do ponto 4b. Confira no Genki Answer Key oficial." }
+    ]
+  },
+  "practice": [
+    { "tool": "Wagotabi", "what": "Jogue normalmente e cace frases que terminam em いいです(か) ou いけません. Anote quem pede, quem permite e o que é proibido. Se o trecho do jogo não tiver nenhuma, invente em voz alta 2 regras para o lugar onde o seu personagem está (〜てはいけません).", "min": 15 },
+    { "tool": "Mirage", "what": "Vocabulário da Lição 6 no SRS. Depois, Treinos → 🔬 Anatomia → 🏷 Etiquetar: 5 frases desta aula, dizendo antes de conferir se o fim é PEDIDO, PERMISSÃO ou PROIBIÇÃO.", "min": 10 },
+    { "tool": "Mineração", "what": "Guarde na Mineração do Mirage 2 frases reais com 〜てもいい ou 〜てはいけません que você encontrar no jogo ou num vídeo, para virarem cartões.", "min": 5 },
+    { "tool": "Fala", "what": "Role-play sozinho: você é o dono da casa e o hóspede. Grave 4 trocas de pergunta e resposta, usando as duas respostas (いいですよ / ちょっと…).", "min": 5 },
+    { "tool": "Shadowing", "what": "Toque 🔊 nos exemplos e repita junto 3 vezes. Repare que ちょっと… termina com a voz sumindo: imite isso.", "min": 5 }
+  ],
+  "culture": {
+    "title": "Separação do lixo",
+    "titleJp": "ごみの ぶんべつ",
+    "body": "No Japão, jogar o lixo fora tem regras, e cada cidade define as suas. Em geral há o lixo **queimável** (もえる ごみ), o **não queimável** (もえない ごみ), os **recicláveis** (garrafas PET, latas, vidros, papel) e o lixo **grande**, como móveis, que costuma exigir agendamento e o pagamento de uma taxa. Cada tipo tem o seu dia de coleta, e a prefeitura costuma distribuir um calendário para os moradores; muitas cidades também exigem sacos próprios. O lixo vai para o ponto de coleta na manhã do dia certo, e um saco fora da regra pode ficar para trás com um adesivo de aviso. Lixeiras na rua são raras, então muita gente leva o próprio lixo de volta para casa. Os cartazes dos pontos de coleta costumam trazer pedidos terminados em 〜ください.",
+    "try": "Escreva 3 regras de lixo para a sua casa, em japonês: げつようびに ごみを 出してもいいです。/ よる ごみを 出してはいけません。/ ペットボトルを あらってください。 Cole o papel na porta da geladeira."
+  },
+  "checklist": [
+    "Peço permissão com 〜てもいいですか em 5 situações, sem olhar.",
+    "Respondo das duas formas: ええ、いいですよ / すみません、ちょっと…。",
+    "Digo regras com 〜てはいけません, lendo o は como \"wa\".",
+    "Não confundo 〜てもいいですか (eu faço) com 〜てください (o outro faz).",
+    "Lendo o fim da frase, digo se ela é pedido, permissão ou proibição.",
+    "Fiz a lição de casa e conferi o gabarito, e refiz o que errei.",
+    "Fiz as páginas 64–65 do Workbook."
+  ]
+}
