@@ -2,83 +2,83 @@
   "id": "03-1",
   "unit": "G1-L03",
   "genki": { "book": "Genki I", "lesson": 3, "points": ["Verb Conjugation", "Verb Types and the \"Present Tense\""] },
-  "title": "Verbos: presente educado",
+  "title": "Verbs: the polite present",
   "titleJp": "たべます・のみます・します",
   "canDo": [
-    "Dizer a que grupo pertence um verbo (る, う ou irregular), olhando a forma de dicionário e desconfiando dos う disfarçados (かえる, はいる).",
-    "Passar qualquer verbo da lição para 〜ます (afirmativo) e 〜ません (negativo).",
-    "Falar da minha rotina e dos meus planos com o verbo no fim: あさ コーヒーを のみます, あした きます.",
-    "Responder a uma pergunta com verbo repetindo o verbo: はい、〜ます / いいえ、〜ません."
+    "I can tell which group a verb belongs to (る, う or irregular) from its dictionary form, and I watch out for the disguised う-verbs (かえる, はいる).",
+    "I can put any verb from this lesson into 〜ます (affirmative) and 〜ません (negative).",
+    "I can talk about my routine and my plans with the verb at the end: あさ コーヒーを のみます, あした きます.",
+    "I can answer a question that has a verb by repeating the verb: はい、〜ます / いいえ、〜ません."
   ],
   "duration": {
     "total": "60–75 min",
     "blocks": [
-      { "t": "Aquecimento: ler em voz alta o vocabulário da aula (bloco 3), dizendo o grupo de cada verbo", "min": 5 },
-      { "t": "Vocabulário: ouvir 🔊 cada palavra e repetir 2 vezes; verbos na forma de dicionário e na forma ます", "min": 10 },
-      { "t": "Gramática: os 2 pontos, com os exemplos lidos em voz alta e um 🔬 em cada", "min": 25 },
-      { "t": "Vídeo da Lição 3 (bloco 6), pausando nas tabelas de conjugação", "min": 10 },
-      { "t": "Lição de casa no caderno + conferir no gabarito", "min": 15 },
-      { "t": "Checklist (bloco 10) + anotar dúvidas no caderno da aula", "min": 5 }
+      { "t": "Warm-up: read this lesson's vocabulary (block 3) aloud, saying the group of each verb", "min": 5 },
+      { "t": "Vocabulary: tap 🔊 on each word and repeat it twice; say each verb in its dictionary form and its ます form", "min": 10 },
+      { "t": "Grammar: the 2 points, each with its examples read aloud and one 🔬", "min": 25 },
+      { "t": "Lesson 3 video (block 6), pausing on the conjugation tables", "min": 10 },
+      { "t": "Notebook homework + checking it against the answer key", "min": 15 },
+      { "t": "Checklist (block 10) + write your questions in the lesson notebook", "min": 5 }
     ]
   },
   "prereqs": {
     "aulas": ["01-1", "02-3"],
     "skills": [
-      "Ler hiragana com alguma fluência e katakana básico (コーヒー, テレビ, テニス).",
-      "Frases com です e a negativa じゃないです (Aula 02-3). Aqui você vai ver que o verbo tem a sua própria negativa, ません.",
-      "Nos exemplos aparecem を e に. Por enquanto basta saber que を marca o que é comido, bebido ou visto, e に marca para onde se vai. A Aula 03-2 explica cada partícula a fundo: nesta aula, olhe para o verbo, no fim."
+      "Reading hiragana with some fluency, plus basic katakana (コーヒー, テレビ, テニス).",
+      "Sentences with です and the negative じゃないです (lesson 02-3). Here you will see that verbs have their own negative, ません.",
+      "The examples use を and に. For now it is enough to know that を marks what is eaten, drunk or watched, and に marks where someone goes. Lesson 03-2 explains each particle in depth: in this lesson, keep your eyes on the verb at the end."
     ],
     "vocab": [
-      { "jp": "たべる", "kana": "たべる", "romaji": "taberu", "pt": "comer (verbo る)" },
-      { "jp": "みる", "kana": "みる", "romaji": "miru", "pt": "ver, assistir (verbo る)" },
-      { "jp": "おきる", "kana": "おきる", "romaji": "okiru", "pt": "acordar, levantar-se (verbo る)" },
-      { "jp": "ねる", "kana": "ねる", "romaji": "neru", "pt": "dormir, ir deitar (verbo る)" },
-      { "jp": "いく", "kana": "いく", "romaji": "iku", "pt": "ir (verbo う)" },
-      { "jp": "かえる", "kana": "かえる", "romaji": "kaeru", "pt": "voltar para casa (verbo う, disfarçado de る)" },
-      { "jp": "はいる", "kana": "はいる", "romaji": "hairu", "pt": "entrar (verbo う, disfarçado de る)" },
-      { "jp": "きく", "kana": "きく", "romaji": "kiku", "pt": "ouvir; perguntar (verbo う)" },
-      { "jp": "のむ", "kana": "のむ", "romaji": "nomu", "pt": "beber (verbo う)" },
-      { "jp": "はなす", "kana": "はなす", "romaji": "hanasu", "pt": "falar (verbo う)" },
-      { "jp": "よむ", "kana": "よむ", "romaji": "yomu", "pt": "ler (verbo う)" },
-      { "jp": "する", "kana": "する", "romaji": "suru", "pt": "fazer (irregular)" },
-      { "jp": "くる", "kana": "くる", "romaji": "kuru", "pt": "vir (irregular)" },
-      { "jp": "べんきょうする", "kana": "べんきょうする", "romaji": "benkyō suru", "pt": "estudar (irregular: べんきょう + する)" },
-      { "jp": "コーヒー", "kana": "コーヒー", "romaji": "kōhī", "pt": "café (a bebida)" },
-      { "jp": "パン", "kana": "パン", "romaji": "pan", "pt": "pão" },
-      { "jp": "テレビ", "kana": "テレビ", "romaji": "terebi", "pt": "televisão" },
-      { "jp": "えいが", "kana": "えいが", "romaji": "eiga", "pt": "filme" },
-      { "jp": "おんがく", "kana": "おんがく", "romaji": "ongaku", "pt": "música" },
-      { "jp": "ほん", "kana": "ほん", "romaji": "hon", "pt": "livro" },
-      { "jp": "テニス", "kana": "テニス", "romaji": "tenisu", "pt": "tênis (o esporte)" },
-      { "jp": "うち", "kana": "うち", "romaji": "uchi", "pt": "casa, lar (a minha casa)" },
-      { "jp": "がっこう", "kana": "がっこう", "romaji": "gakkō", "pt": "escola" },
-      { "jp": "あさ", "kana": "あさ", "romaji": "asa", "pt": "manhã; de manhã" },
-      { "jp": "あした", "kana": "あした", "romaji": "ashita", "pt": "amanhã" }
+      { "jp": "たべる", "kana": "たべる", "romaji": "taberu", "en": "to eat (る-verb)" },
+      { "jp": "みる", "kana": "みる", "romaji": "miru", "en": "to see, to watch (る-verb)" },
+      { "jp": "おきる", "kana": "おきる", "romaji": "okiru", "en": "to wake up, to get up (る-verb)" },
+      { "jp": "ねる", "kana": "ねる", "romaji": "neru", "en": "to sleep, to go to bed (る-verb)" },
+      { "jp": "いく", "kana": "いく", "romaji": "iku", "en": "to go (う-verb)" },
+      { "jp": "かえる", "kana": "かえる", "romaji": "kaeru", "en": "to go back home, to return (う-verb disguised as a る-verb)" },
+      { "jp": "はいる", "kana": "はいる", "romaji": "hairu", "en": "to enter (う-verb disguised as a る-verb)" },
+      { "jp": "きく", "kana": "きく", "romaji": "kiku", "en": "to listen, to hear; to ask (う-verb)" },
+      { "jp": "のむ", "kana": "のむ", "romaji": "nomu", "en": "to drink (う-verb)" },
+      { "jp": "はなす", "kana": "はなす", "romaji": "hanasu", "en": "to speak, to talk (う-verb)" },
+      { "jp": "よむ", "kana": "よむ", "romaji": "yomu", "en": "to read (う-verb)" },
+      { "jp": "する", "kana": "する", "romaji": "suru", "en": "to do (irregular)" },
+      { "jp": "くる", "kana": "くる", "romaji": "kuru", "en": "to come (irregular)" },
+      { "jp": "べんきょうする", "kana": "べんきょうする", "romaji": "benkyō suru", "en": "to study (irregular: べんきょう + する)" },
+      { "jp": "コーヒー", "kana": "コーヒー", "romaji": "kōhī", "en": "coffee" },
+      { "jp": "パン", "kana": "パン", "romaji": "pan", "en": "bread" },
+      { "jp": "テレビ", "kana": "テレビ", "romaji": "terebi", "en": "TV, television" },
+      { "jp": "えいが", "kana": "えいが", "romaji": "eiga", "en": "movie" },
+      { "jp": "おんがく", "kana": "おんがく", "romaji": "ongaku", "en": "music" },
+      { "jp": "ほん", "kana": "ほん", "romaji": "hon", "en": "book" },
+      { "jp": "テニス", "kana": "テニス", "romaji": "tenisu", "en": "tennis" },
+      { "jp": "うち", "kana": "うち", "romaji": "uchi", "en": "home, house (my home)" },
+      { "jp": "がっこう", "kana": "がっこう", "romaji": "gakkō", "en": "school" },
+      { "jp": "あさ", "kana": "あさ", "romaji": "asa", "en": "morning; in the morning" },
+      { "jp": "あした", "kana": "あした", "romaji": "ashita", "en": "tomorrow" }
     ]
   },
   "grammar": [
     {
       "id": "03-1-a",
       "gc": "3-1",
-      "title": "Os 3 grupos de verbos",
-      "gloss": "verbos る, verbos う e irregulares",
-      "explanation": "Todo verbo japonês tem uma **forma de dicionário**, a que aparece no vocabulário, e ela sempre termina num som de **u**: たべる, のむ, いく, はなす, する. O **grupo** do verbo decide como ele conjuga: a forma ます desta aula e, mais adiante, a forma て, a negativa curta e todas as outras. Por isso, **aprenda o grupo junto com o significado**.\n• **Verbos る** (em sites e vídeos: ichidan, 一段): terminam em る, e a sílaba antes do る tem som de **e** ou de **i**: たべる (ta-**be**-ru), みる (**mi**-ru), おきる (o-**ki**-ru), ねる (**ne**-ru).\n• **Verbos う** (godan, 五段): todos os outros. Terminam em う, く, す, つ, ぬ, ぶ, む, ぐ, ou em る com som de **a, u, o** antes (わかる, つくる). のむ, いく, はなす, よむ, きく são verbos う.\n• **Irregulares**: só dois, **する** (fazer) e **くる** (vir). Muitos verbos são \"substantivo + する\" e conjugam igual: べんきょうする (estudar).\n• **Os disfarçados:** alguns verbos terminam em -eru ou -iru e mesmo assim são **う**. Não há regra que os denuncie; é preciso decorar. Os dois primeiros para guardar: **かえる** (voltar para casa) e **はいる** (entrar). Outros que você vai encontrar: はしる (correr), しる (saber).\n• **Regra prática:** não termina em る, ou termina em -aru/-uru/-oru? É **う**, com certeza. Termina em -eru/-iru? Provavelmente **る**, mas confira no vocabulário, porque pode ser um disfarçado.",
-      "structure": "る: [e/i] + る (たべる, みる) · う: todo o resto + os disfarçados (かえる, はいる) · irregulares: する, くる",
+      "title": "The 3 verb groups",
+      "gloss": "る-verbs, う-verbs and irregulars",
+      "explanation": "Every Japanese verb has a **dictionary form** — the one you see in vocabulary lists — and it always ends in a **u** sound: たべる, のむ, いく, はなす, する. The verb's **group** decides how it conjugates: the ます form in this lesson and, later on, the て form, the short negative and all the others. So **learn the group together with the meaning**.\n• **る-verbs** (called ichidan, 一段, in many sites and videos): they end in る, and the syllable before る has an **e** or **i** sound: たべる (ta-**be**-ru), みる (**mi**-ru), おきる (o-**ki**-ru), ねる (**ne**-ru).\n• **う-verbs** (godan, 五段): all the others. They end in う, く, す, つ, ぬ, ぶ, む, ぐ, or in る with an **a, u** or **o** sound before it (わかる, つくる). のむ, いく, はなす, よむ and きく are う-verbs.\n• **Irregulars**: only two, **する** (to do) and **くる** (to come). Many verbs are \"noun + する\" and conjugate the same way: べんきょうする (to study).\n• **The disguised ones:** some verbs end in -eru or -iru and are still **う-verbs**. Nothing in the word gives them away; you have to memorize them. The first two to remember: **かえる** (to go back home) and **はいる** (to enter). Others you will meet: はしる (to run), しる (to know).\n• **Rule of thumb:** does it not end in る, or end in -aru/-uru/-oru? Then it is **う**, for sure. Does it end in -eru/-iru? Then it is probably **る**, but check the vocabulary list, because it may be a disguised one.",
+      "structure": "る: [e/i] + る (たべる, みる) · う: everything else + the disguised ones (かえる, はいる) · irregular: する, くる",
       "examples": [
-        { "jp": "マリアさんは パンを たべます。", "kana": "マリアさんは パンを たべます。", "romaji": "Maria-san wa pan o tabemasu.", "pt": "A Maria come pão. (たべる é る: sai o る, entra ます)" },
-        { "jp": "ルーカスさんは うちに かえります。", "kana": "ルーカスさんは うちに かえります。", "romaji": "Rūkasu-san wa uchi ni kaerimasu.", "pt": "O Lucas volta para casa. (かえる parece る, mas é う: かえります)" },
-        { "jp": "やまださんは あした きます。", "kana": "やまださんは あした きます。", "romaji": "Yamada-san wa ashita kimasu.", "pt": "O(A) Sr(a). Yamada vem amanhã. (くる é irregular: きます)" }
+        { "jp": "マリアさんは パンを たべます。", "kana": "マリアさんは パンを たべます。", "romaji": "Maria-san wa pan o tabemasu.", "en": "Maria eats bread. [たべる is a る-verb: drop る, add ます]" },
+        { "jp": "ルーカスさんは うちに かえります。", "kana": "ルーカスさんは うちに かえります。", "romaji": "Rūkasu-san wa uchi ni kaerimasu.", "en": "Lucas goes home. [かえる looks like a る-verb, but it is an う-verb: かえります]" },
+        { "jp": "やまださんは あした きます。", "kana": "やまださんは あした きます。", "romaji": "Yamada-san wa ashita kimasu.", "en": "Mr./Ms. Yamada is coming tomorrow. [くる is irregular: きます]" }
       ],
       "pitfalls": [
-        "かえる e はいる são verbos う disfarçados: かえります ✓ × かえます ✗; はいります ✓ × はいます ✗.",
-        "No verbo る sai o る inteiro: みる → みます ✓ × みります ✗.",
-        "くる muda a vogal: くる → きます ✓ × くります ✗.",
-        "Nos verbos \"substantivo + する\", quem conjuga é o する: べんきょうします ✓ × べんきょうます ✗."
+        "かえる and はいる are disguised う-verbs: かえます ✗ → かえります ✓; はいます ✗ → はいります ✓.",
+        "With a る-verb, the whole る goes: みります ✗ → みます ✓.",
+        "くる changes its vowel: くります ✗ → きます ✓.",
+        "In \"noun + する\" verbs, only する conjugates: べんきょうます ✗ → べんきょうします ✓."
       ],
       "howToStudy": [
-        "Faça 3 colunas no caderno (る · う · irregular) e distribua os 14 verbos do vocabulário. Marque com ★ os disfarçados かえる e はいる.",
-        "Fala: diga cada verbo na forma de dicionário e, sem pausa, na forma ます (おきる → おきます, かえる → かえります…). Repita até sair sem hesitar.",
-        "Aperte 🔬 nos exemplos: o bloco ★ PREDICADO é sempre o verbo em ます, no fim. Leia cada frase começando por ele."
+        "Make 3 columns in your notebook (る · う · irregular) and sort the 14 verbs from the vocabulary into them. Mark the disguised かえる and はいる with ★.",
+        "Speaking: say each verb in its dictionary form and, without pausing, in its ます form (おきる → おきます, かえる → かえります…). Repeat until it comes out without hesitation.",
+        "Tap 🔬 on the examples: the ★ PREDICATE block is always the ます verb at the end. Read each sentence starting from it."
       ],
       "flag": null
     },
@@ -86,107 +86,107 @@
       "id": "03-1-b",
       "gc": "3-2",
       "title": "〜ます / 〜ません",
-      "gloss": "presente educado: afirmativo e negativo",
-      "explanation": "〜ます é a terminação **educada** do verbo, do mesmo nível de です: serve com professores, colegas e desconhecidos. A negativa é **〜ません**. As duas se prendem ao **radical**, a parte do verbo que vem antes de ます.\n• **Verbos る:** tire o る → たべる → たべ**ます** / たべ**ません**.\n• **Verbos う:** a última sílaba passa do som de **u** para o som de **i** na mesma fileira do kana, e aí entra ます: のむ → の**み**ます, いく → い**き**ます, はなす → はな**し**ます, かう → か**い**ます, まつ → ま**ち**ます, かえる → かえ**り**ます.\n• **Irregulares:** する → **します**, くる → **きます**. Negativas: しません, きません.\n• **Para negar**, troque só ます por ません: のみます → のみません. Não use じゃないです com verbo: essa negativa é de substantivo (Aula 02-3).\n• **O que o \"presente\" cobre:** hábito (\"de manhã eu tomo café\") e futuro (\"amanhã eu venho\"). Não cobre ação em andamento: たべます é \"como / vou comer\", nunca \"estou comendo agora\" (Aula 07-1).\n• **Perguntas:** ponha か no fim (みますか。). Para responder, **repita o verbo**: はい、みます。/ いいえ、みません。\n• O radical (たべ, のみ, し, き) vai voltar muitas vezes, por exemplo em 〜ませんか (Aula 03-3).",
+      "gloss": "the polite present: affirmative and negative",
+      "explanation": "〜ます is the **polite** verb ending, at the same level as です: you use it with teachers, classmates and strangers. The negative is **〜ません**. Both attach to the **stem**, the part of the verb that comes before ます.\n• **る-verbs:** drop る → たべる → たべ**ます** / たべ**ません**.\n• **う-verbs:** the last syllable moves from its **u** sound to the **i** sound in the same kana row, and then ます is added: のむ → の**み**ます, いく → い**き**ます, はなす → はな**し**ます, かう → か**い**ます, まつ → ま**ち**ます, かえる → かえ**り**ます.\n• **Irregulars:** する → **します**, くる → **きます**. Negatives: しません, きません.\n• **To make it negative**, just swap ます for ません: のみます → のみません. Don't use じゃないです with a verb: that negative is for nouns (lesson 02-3).\n• **What the \"present\" covers:** habits (\"I drink coffee in the morning\") and the future (\"I'll come tomorrow\"). It does not cover an action in progress: たべます is \"I eat / I will eat\", never \"I'm eating right now\" (lesson 07-1). English \"I'm going tomorrow\" is a future plan, so あした いきます is right; only \"right now, in progress\" needs the other form.\n• **Questions:** put か at the end (みますか。). To answer, **repeat the verb**: はい、みます。/ いいえ、みません。 — where English says \"Yes, I do\", Japanese repeats the verb.\n• The stem (たべ, のみ, し, き) will come back many times, for example in 〜ませんか (lesson 03-3).",
       "structure": "る: たべる → たべ + ます / ません · う: のむ → のみ + ます / ません (u → i) · する → します · くる → きます",
       "examples": [
-        { "jp": "わたしは あさ コーヒーを のみます。", "kana": "わたしは あさ コーヒーを のみます。", "romaji": "Watashi wa asa kōhī o nomimasu.", "pt": "Eu tomo café de manhã. (hábito)" },
-        { "jp": "ペドロさんは あした えいがを みません。", "kana": "ペドロさんは あした えいがを みません。", "romaji": "Pedoro-san wa ashita eiga o mimasen.", "pt": "O Pedro não vai ver o filme amanhã. (futuro, negativo)" },
-        { "jp": "しゅうまつ テニスを しますか。— はい、します。", "kana": "しゅうまつ テニスを しますか。— はい、します。", "romaji": "Shūmatsu tenisu o shimasu ka. — Hai, shimasu.", "pt": "Você joga tênis no fim de semana? — Sim, jogo." }
+        { "jp": "わたしは あさ コーヒーを のみます。", "kana": "わたしは あさ コーヒーを のみます。", "romaji": "Watashi wa asa kōhī o nomimasu.", "en": "I drink coffee in the morning. [a habit]" },
+        { "jp": "ペドロさんは あした えいがを みません。", "kana": "ペドロさんは あした えいがを みません。", "romaji": "Pedoro-san wa ashita eiga o mimasen.", "en": "Pedro won't watch a movie tomorrow. [future, negative]" },
+        { "jp": "しゅうまつ テニスを しますか。— はい、します。", "kana": "しゅうまつ テニスを しますか。— はい、します。", "romaji": "Shūmatsu tenisu o shimasu ka. — Hai, shimasu.", "en": "Do you play tennis on weekends? — Yes, I do." }
       ],
       "pitfalls": [
-        "たべます não é \"estou comendo\": いま たべます quer dizer \"vou comer agora\". \"Estou comendo\" usa outra forma (Aula 07-1).",
-        "No verbo う, a sílaba muda para o som de i: かく → かきます ✓ × かくます ✗; かう → かいます ✓ × かうます ✗.",
-        "Verbo tem a sua própria negativa: たべません ✓ × たべるじゃないです ✗.",
-        "Para responder, repita o verbo: みますか。— はい、みます ✓. はい、そうです combina com perguntas com です (Aula 01-1) e não é o jeito natural aqui."
+        "たべます is not \"I'm eating\": いま たべます means \"I'll eat now\". \"I'm eating (right now)\" uses a different form (lesson 07-1).",
+        "With an う-verb, the last syllable changes to its i sound: かくます ✗ → かきます ✓; かうます ✗ → かいます ✓.",
+        "Verbs have their own negative: たべるじゃないです ✗ → たべません ✓.",
+        "To answer, repeat the verb: みますか。— はい、そうです ✗ → はい、みます ✓. はい、そうです goes with questions about です (lesson 01-1) and is not the natural answer here."
       ],
       "howToStudy": [
-        "No caderno, conjugue os 14 verbos do vocabulário em duas colunas (ます / ません). Depois cubra as colunas e refaça de memória.",
-        "Fala: faça a você mesmo 5 perguntas com 〜ますか sobre a sua rotina e responda em voz alta, repetindo o verbo (はい、〜ます / いいえ、〜ません).",
-        "ヅオリンゴー → Treinos → Conjugação com os verbos da Lição 3. Depois, 🔬 Anatomia → 🏷 Etiquetar em 3 frases desta aula, achando primeiro o ★ PREDICADO."
+        "In your notebook, conjugate the 14 verbs from the vocabulary in two columns (ます / ません). Then cover the columns and redo them from memory.",
+        "Speaking: ask yourself 5 questions with 〜ますか about your routine and answer them out loud, repeating the verb (はい、〜ます / いいえ、〜ません).",
+        "ヅオリンゴー → Drills → Conjugation with the Lesson 3 verbs. Then 🔬 Anatomy → 🏷 Tag on 3 sentences from this lesson, finding the ★ PREDICATE first."
       ],
       "flag": null
     }
   ],
   "media": [
-    { "order": 1, "kind": "leitura", "title": "Genki I · Lição 3: vocabulário (repare como o livro indica o grupo de cada verbo) e as explicações Verb Conjugation e Verb Types and the \"Present Tense\"", "where": "Seu livro Genki I (3ª ed.)", "url": "", "when": "Antes desta aula ou logo depois do bloco de gramática" },
-    { "order": 2, "kind": "video", "title": "ToKini Andy: aula da Lição 3 do Genki I (grupos de verbos e forma ます)", "where": "YouTube · canal ToKini Andy", "url": "", "search": "ToKini Andy Genki Lesson 3", "when": "Depois dos 2 pontos: o vídeo confirma as regras e dá mais exemplos" },
-    { "order": 3, "kind": "app", "title": "genki-companion: Lição 3, pontos 1 e 2 (marque ✍️ quando terminar)", "where": "../genki-companion/index.html", "url": "../genki-companion/index.html", "when": "No fim, para revisar e marcar o progresso" }
+    { "order": 1, "kind": "reading", "title": "Genki I · Lesson 3: the vocabulary (notice how the book marks the group of each verb) and the grammar notes Verb Conjugation and Verb Types and the \"Present Tense\"", "where": "Your Genki I textbook (3rd ed.)", "url": "", "when": "Before this lesson or right after the grammar block" },
+    { "order": 2, "kind": "video", "title": "Japanese Ammo with Misa: verb groups and the polite ます form", "where": "YouTube · Japanese Ammo with Misa channel", "url": "", "search": "Japanese Ammo with Misa verb groups masu form", "when": "After the 2 points, if you want a third explanation with more examples" },
+    { "order": 3, "kind": "app", "title": "genki-companion: Lesson 3, points 1 and 2 (tick ✍️ when you finish)", "where": "../genki-companion/index.html", "url": "../genki-companion/index.html", "when": "At the end, to review and mark your progress" }
   ],
   "homework": {
-    "intro": "Faça no caderno, à mão, escrevendo o japonês em kana. Só depois abra o gabarito, item por item. Circule o que errou e refaça no dia seguinte.",
+    "intro": "Do it by hand in your notebook, writing the Japanese in kana. Only then open the answer key, item by item. Circle what you got wrong and redo it the next day.",
     "tasks": [
       {
         "id": "h1",
-        "type": "classificar",
-        "prompt": "Diga o grupo de cada verbo (る, う ou irregular) e escreva a forma 〜ます.",
+        "type": "classify",
+        "prompt": "Give the group of each verb (る, う or irregular) and write its 〜ます form.",
         "items": [
-          { "q": "おきる", "a": { "jp": "おきます", "romaji": "okimasu", "pt": "grupo る" }, "note": "き tem som de i antes do る, e おきる é mesmo um verbo る: sai o る, entra ます." },
-          { "q": "はなす", "a": { "jp": "はなします", "romaji": "hanashimasu", "pt": "grupo う" }, "note": "Não termina em る: é う com certeza. す → し." },
-          { "q": "かえる", "a": { "jp": "かえります", "romaji": "kaerimasu", "pt": "grupo う (disfarçado)" }, "note": "Parece る (e + る), mas é う. ✗ かえます." },
-          { "q": "くる", "a": { "jp": "きます", "romaji": "kimasu", "pt": "irregular" }, "note": "A vogal muda: く → き." },
-          { "q": "よむ", "a": { "jp": "よみます", "romaji": "yomimasu", "pt": "grupo う" }, "note": "む → み." },
-          { "q": "はいる", "a": { "jp": "はいります", "romaji": "hairimasu", "pt": "grupo う (disfarçado)" }, "note": "Outro disfarçado: i + る, mas é う. ✗ はいます." }
+          { "q": "おきる", "a": { "jp": "おきます", "romaji": "okimasu", "en": "る-verb" }, "note": "き has an i sound before る, and おきる really is a る-verb: drop る, add ます." },
+          { "q": "はなす", "a": { "jp": "はなします", "romaji": "hanashimasu", "en": "う-verb" }, "note": "It doesn't end in る, so it is definitely an う-verb. す → し." },
+          { "q": "かえる", "a": { "jp": "かえります", "romaji": "kaerimasu", "en": "う-verb (disguised)" }, "note": "It looks like a る-verb (e + る), but it is an う-verb. ✗ かえます." },
+          { "q": "くる", "a": { "jp": "きます", "romaji": "kimasu", "en": "irregular" }, "note": "The vowel changes: く → き." },
+          { "q": "よむ", "a": { "jp": "よみます", "romaji": "yomimasu", "en": "う-verb" }, "note": "む → み." },
+          { "q": "はいる", "a": { "jp": "はいります", "romaji": "hairimasu", "en": "う-verb (disguised)" }, "note": "Another disguised one: i + る, but it is an う-verb. ✗ はいます." }
         ]
       },
       {
         "id": "h2",
-        "type": "transformar",
-        "prompt": "Passe para a negativa (〜ません).",
+        "type": "transform",
+        "prompt": "Make each sentence negative (〜ません).",
         "items": [
           { "q": "わたしは おちゃを のみます。", "a": { "jp": "わたしは おちゃを のみません。", "romaji": "Watashi wa ocha o nomimasen." } },
           { "q": "すずきさんは テレビを みます。", "a": { "jp": "すずきさんは テレビを みません。", "romaji": "Suzuki-san wa terebi o mimasen." } },
           { "q": "アナさんは あした きます。", "a": { "jp": "アナさんは あした きません。", "romaji": "Ana-san wa ashita kimasen." }, "note": "くる → きます → きません." },
           { "q": "わたしは しゅうまつ べんきょうします。", "a": { "jp": "わたしは しゅうまつ べんきょうしません。", "romaji": "Watashi wa shūmatsu benkyō shimasen." } },
-          { "q": "たなかさんは うちに かえります。", "a": { "jp": "たなかさんは うちに かえりません。", "romaji": "Tanaka-san wa uchi ni kaerimasen." }, "note": "Troque só ます por ません: o り fica." }
+          { "q": "たなかさんは うちに かえります。", "a": { "jp": "たなかさんは うちに かえりません。", "romaji": "Tanaka-san wa uchi ni kaerimasen." }, "note": "Swap only ます for ません: the り stays." }
         ]
       },
       {
         "id": "h3",
-        "type": "traduzir",
-        "prompt": "Traduza para o japonês. O verbo vai sempre no fim.",
+        "type": "translate",
+        "prompt": "Translate into Japanese. The verb always goes at the end.",
         "items": [
-          { "q": "Eu leio livros.", "a": { "jp": "わたしは ほんを よみます。", "romaji": "Watashi wa hon o yomimasu." } },
-          { "q": "O Lucas não bebe café.", "a": { "jp": "ルーカスさんは コーヒーを のみません。", "romaji": "Rūkasu-san wa kōhī o nomimasen." } },
-          { "q": "A Maria vem amanhã.", "a": { "jp": "マリアさんは あした きます。", "romaji": "Maria-san wa ashita kimasu." } },
-          { "q": "Você ouve música? — Sim, ouço.", "a": { "jp": "おんがくを ききますか。— はい、ききます。", "romaji": "Ongaku o kikimasu ka. — Hai, kikimasu." }, "note": "Responda repetindo o verbo." },
-          { "q": "Você joga tênis? — Não, não jogo.", "a": { "jp": "テニスを しますか。— いいえ、しません。", "romaji": "Tenisu o shimasu ka. — Iie, shimasen." }, "note": "\"Jogar tênis\" em japonês é \"fazer tênis\": テニスを します." },
-          { "q": "Eu volto para casa.", "a": { "jp": "わたしは うちに かえります。", "romaji": "Watashi wa uchi ni kaerimasu." }, "note": "かえる é う: かえります." }
+          { "q": "I read books.", "a": { "jp": "わたしは ほんを よみます。", "romaji": "Watashi wa hon o yomimasu." } },
+          { "q": "Lucas doesn't drink coffee.", "a": { "jp": "ルーカスさんは コーヒーを のみません。", "romaji": "Rūkasu-san wa kōhī o nomimasen." } },
+          { "q": "Maria is coming tomorrow.", "a": { "jp": "マリアさんは あした きます。", "romaji": "Maria-san wa ashita kimasu." } },
+          { "q": "Do you listen to music? — Yes, I do.", "a": { "jp": "おんがくを ききますか。— はい、ききます。", "romaji": "Ongaku o kikimasu ka. — Hai, kikimasu." }, "note": "Answer by repeating the verb, not with そうです." },
+          { "q": "Do you play tennis? — No, I don't.", "a": { "jp": "テニスを しますか。— いいえ、しません。", "romaji": "Tenisu o shimasu ka. — Iie, shimasen." }, "note": "\"Play tennis\" in Japanese is \"do tennis\": テニスを します." },
+          { "q": "I go home.", "a": { "jp": "わたしは うちに かえります。", "romaji": "Watashi wa uchi ni kaerimasu." }, "note": "かえる is an う-verb: かえります." }
         ]
       },
       {
         "id": "h4",
-        "type": "produzir",
-        "prompt": "Escreva 4 frases sobre você: 2 com coisas que você faz (〜ます) e 2 com coisas que você não faz (〜ません). Use pelo menos um verbo de cada grupo. Depois leia em voz alta.",
+        "type": "produce",
+        "prompt": "Write 4 sentences about yourself: 2 about things you do (〜ます) and 2 about things you don't do (〜ません). Use at least one verb from each group. Then read them aloud.",
         "items": [
-          { "q": "Modelo, que o seu texto deve seguir na estrutura e não nas palavras:", "a": { "jp": "わたしは あさ パンを たべます。にほんごを べんきょうします。テニスを しません。あした がっこうに いきません。", "romaji": "Watashi wa asa pan o tabemasu. Nihongo o benkyō shimasu. Tenisu o shimasen. Ashita gakkō ni ikimasen.", "pt": "De manhã eu como pão. Estudo japonês. Não jogo tênis. Amanhã não vou à escola." }, "note": "Confira: verbo no fim de cada frase; um verbo る (たべる), um う (いく) e um irregular (する); ません para negar, e não じゃないです; わたしは só na primeira frase." }
+          { "q": "Model (match its structure, not its words):", "a": { "jp": "わたしは あさ パンを たべます。にほんごを べんきょうします。テニスを しません。あした がっこうに いきません。", "romaji": "Watashi wa asa pan o tabemasu. Nihongo o benkyō shimasu. Tenisu o shimasen. Ashita gakkō ni ikimasen.", "en": "I eat bread in the morning. I study Japanese. I don't play tennis. I'm not going to school tomorrow." }, "note": "Check: the verb is at the end of every sentence; there is one る-verb (たべる), one う-verb (いく) and one irregular (する); the negative is ません, not じゃないです; わたしは appears only in the first sentence." }
         ]
       }
     ],
     "workbook": [
-      { "p": 32, "t": "1 · Verb Conjugation", "tip": "Faça depois dos pontos 4a e 4b. Confira no Genki Answer Key oficial." }
+      { "p": 32, "t": "1 · Verb Conjugation", "tip": "Do it after points 4a and 4b; check it with the official Genki Answer Key." }
     ]
   },
   "practice": [
-    { "tool": "Wagotabi", "what": "Jogue normalmente. Cace nos diálogos verbos terminados em 〜ます ou 〜ません: anote 5 no caderno e escreva ao lado a forma de dicionário e o grupo (る, う ou irregular). Se não souber a forma de dicionário, deixe um ? e confira depois no vocabulário.", "min": 15 },
-    { "tool": "ヅオリンゴー", "what": "Praticar L3 → conjugação. Depois, Vocabulário/SRS com as palavras da Lição 3.", "min": 10 },
-    { "tool": "ヅオリンゴー", "what": "Diário: escreva 3 frases com 〜ません sobre coisas que você não faz e use \"Anatomia do que escrevi\" para ver se o verbo ficou no fim.", "min": 5 },
-    { "tool": "Shadowing", "what": "Toque 🔊 em cada exemplo desta aula e repita junto 3 vezes. Repare que o u de ます costuma soar quase mudo: たべます soa perto de \"tabemas\".", "min": 5 },
-    { "tool": "Fala", "what": "Grave 1 minuto contando um dia típico só com verbos da aula em 〜ます (おきます … たべます … いきます … かえります … ねます). Não se preocupe com as partículas ainda.", "min": 5 }
+    { "tool": "Wagotabi", "what": "Play normally. Hunt the dialogues for verbs ending in 〜ます or 〜ません: write 5 of them in your notebook and, next to each, its dictionary form and its group (る, う or irregular). If you don't know the dictionary form, put a ? and check the vocabulary list later.", "min": 15 },
+    { "tool": "ヅオリンゴー", "what": "Practice L3 → conjugation. Then the Lesson 3 vocabulary in the SRS.", "min": 10 },
+    { "tool": "ヅオリンゴー", "what": "Journal: write 3 sentences with 〜ません about things you don't do, and use \"Anatomy of what I wrote\" to check that the verb ended up at the end.", "min": 5 },
+    { "tool": "Shadowing", "what": "Tap 🔊 on each example in this lesson and repeat along 3 times. Notice that the u in ます is often nearly silent: たべます sounds close to \"tabemas\".", "min": 5 },
+    { "tool": "Speaking", "what": "Record 1 minute describing a typical day using only this lesson's verbs in 〜ます (おきます … たべます … いきます … かえります … ねます). Don't worry about the particles yet.", "min": 5 }
   ],
   "culture": {
-    "title": "Pontualidade: trens no horário e chegar antes",
+    "title": "Punctuality: trains on time and arriving early",
     "titleJp": "じかんを まもる",
-    "body": "No Japão, **chegar na hora** costuma significar chegar alguns minutos antes. Em entrevistas, reuniões e aulas, o comum é estar no local uns 5 a 10 minutos antes do horário marcado. Os trens são conhecidos pela pontualidade: os horários são seguidos à risca, e um atraso de poucos minutos costuma vir com um pedido de desculpas no alto-falante. Quando o atraso é grande, muitas companhias entregam um comprovante (ちえんしょうめいしょ) que o passageiro mostra na escola ou no trabalho. E, se você vai se atrasar, o esperado é **avisar antes**, e não só pedir desculpas ao chegar.",
-    "try": "No seu próximo compromisso, chegue 5 minutos antes. Enquanto espera, diga em voz alta, em japonês, 3 coisas que você vai fazer depois, com verbos da aula (うちに かえります、ばんごはんを たべます…)."
+    "body": "In Japan, **being on time** usually means arriving a few minutes early. For interviews, meetings and classes, people normally arrive about 5 to 10 minutes before the scheduled time. Trains are known for their punctuality: timetables are followed closely, and a delay of just a few minutes often comes with an apology over the loudspeaker. When the delay is long, many railway companies hand out a delay certificate (ちえんしょうめいしょ) that passengers can show at school or work. And if you are going to be late, you are expected to **let people know beforehand**, not just apologize when you arrive.",
+    "try": "For your next appointment, arrive 5 minutes early. While you wait, say out loud, in Japanese, 3 things you will do afterwards, using this lesson's verbs (うちに かえります、ばんごはんを たべます…)."
   },
   "checklist": [
-    "Digo o grupo (る, う ou irregular) dos verbos desta aula sem olhar, incluindo os disfarçados かえる e はいる.",
-    "Passo qualquer verbo da lição para 〜ます e 〜ません, sem hesitar.",
-    "Sei que たべます vale para hábito e futuro, e não para \"estou comendo agora\".",
-    "Respondo perguntas com verbo repetindo o verbo: はい、〜ます / いいえ、〜ません。",
-    "Falo 4 frases sobre a minha rotina com o verbo no fim, sem olhar.",
-    "Fiz a lição de casa e conferi o gabarito, e refiz o que errei.",
-    "Fiz a página 32 do Workbook."
+    "I can give the group (る, う or irregular) of this lesson's verbs without looking, including the disguised かえる and はいる.",
+    "I can put any verb from this lesson into 〜ます and 〜ません without hesitating.",
+    "I know that たべます covers habits and the future, but not \"I'm eating right now\".",
+    "I answer verb questions by repeating the verb: はい、〜ます / いいえ、〜ません。",
+    "I can say 4 sentences about my routine with the verb at the end, without looking.",
+    "I did the homework, checked it against the answer key and redid what I got wrong.",
+    "I did Workbook page 32."
   ]
 }

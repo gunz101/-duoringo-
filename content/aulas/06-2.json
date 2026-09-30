@@ -2,56 +2,56 @@
   "id": "06-2",
   "unit": "G1-L06",
   "genki": { "book": "Genki I", "lesson": 6, "points": ["〜てください", "Describing Two Activities"] },
-  "title": "Pedir e encadear ações",
+  "title": "Requests and chaining actions",
   "titleJp": "ゆっくり はなしてください",
   "canDo": [
-    "Fazer um pedido educado com 〜てください: fechar a porta, falar devagar, emprestar a caneta.",
-    "Diferenciar o pedido de uma coisa (みずを ください) do pedido de uma ação (みずを 飲んでください).",
-    "Contar a minha rotina ligando 2–3 ações numa frase só, com て.",
-    "Colocar o tempo verbal só no último verbo e descobrir, lendo o fim, se a frase está no passado."
+    "I can make a polite request with 〜てください: close the door, speak slowly, lend me a pen.",
+    "I can tell asking for a thing (みずを ください) from asking for an action (みずを 飲んでください).",
+    "I can describe my routine by linking 2–3 actions in one sentence with て.",
+    "I can put the tense on the last verb only, and tell from the end whether a sentence is in the past."
   ],
   "duration": {
     "total": "60–75 min",
     "blocks": [
-      { "t": "Aquecimento: recitar a tabela da forma て (Aula 06-1) em voz alta, 2 vezes", "min": 5 },
-      { "t": "Vocabulário: ouvir 🔊 cada palavra e repetir 2 vezes", "min": 10 },
-      { "t": "Gramática: os 2 pontos, com os exemplos lidos em voz alta e um 🔬 em cada", "min": 20 },
-      { "t": "Vídeo (bloco 6), pausando nos exemplos", "min": 10 },
-      { "t": "Lição de casa no caderno + conferir no gabarito", "min": 15 },
-      { "t": "Checklist (bloco 10) + anotar dúvidas no caderno da aula", "min": 5 }
+      { "t": "Warm-up: recite the て-form table (lesson 06-1) out loud, twice", "min": 5 },
+      { "t": "Vocabulary: tap 🔊 on each word and repeat it twice", "min": 10 },
+      { "t": "Grammar: the 2 points, with the examples read aloud and one 🔬 each", "min": 20 },
+      { "t": "Video (block 6), pausing on the examples", "min": 10 },
+      { "t": "Notebook homework + checking it against the answer key", "min": 15 },
+      { "t": "Checklist (block 10) + write your questions in the lesson notebook", "min": 5 }
     ]
   },
   "prereqs": {
     "aulas": ["02-2", "03-2", "04-2", "06-1"],
     "skills": [
-      "Fazer a forma て de qualquer verbo da aula (Aula 06-1). Se ainda trava, revise a tabela antes de começar.",
-      "Usar o passado educado 〜ました (Aula 04-2).",
-      "Saber as partículas を, に e で das ações (Aula 03-2) e o 〜を ください de pedir coisas (Aula 02-2)."
+      "Making the て-form of any verb in this lesson (lesson 06-1). If you still get stuck, review the table before you start.",
+      "Using the polite past 〜ました (lesson 04-2).",
+      "Knowing the action particles を, に and で (lesson 03-2) and 〜を ください for asking for things (lesson 02-2)."
     ],
     "vocab": [
-      { "jp": "まど", "kana": "まど", "romaji": "mado", "pt": "janela" },
-      { "jp": "ドア", "kana": "ドア", "romaji": "doa", "pt": "porta" },
-      { "jp": "あける", "kana": "あける", "romaji": "akeru", "pt": "abrir" },
-      { "jp": "しめる", "kana": "しめる", "romaji": "shimeru", "pt": "fechar" },
-      { "jp": "でんき", "kana": "でんき", "romaji": "denki", "pt": "luz (elétrica)" },
-      { "jp": "つける", "kana": "つける", "romaji": "tsukeru", "pt": "ligar, acender" },
-      { "jp": "けす", "kana": "けす", "romaji": "kesu", "pt": "apagar, desligar" },
-      { "jp": "ゆっくり", "kana": "ゆっくり", "romaji": "yukkuri", "pt": "devagar, com calma" },
-      { "jp": "すぐ", "kana": "すぐ", "romaji": "sugu", "pt": "logo, já, imediatamente" },
-      { "jp": "かす", "kana": "かす", "romaji": "kasu", "pt": "emprestar (para alguém)" },
-      { "jp": "みせる", "kana": "みせる", "romaji": "miseru", "pt": "mostrar" },
-      { "jp": "しゃしん", "kana": "しゃしん", "romaji": "shashin", "pt": "foto" },
-      { "jp": "シャワーを あびる", "kana": "シャワーを あびる", "romaji": "shawā o abiru", "pt": "tomar banho de chuveiro" },
-      { "jp": "かえる", "kana": "かえる", "romaji": "kaeru", "pt": "voltar (para casa) (verbo う)" },
-      { "jp": "デパート", "kana": "デパート", "romaji": "depāto", "pt": "loja de departamentos" },
-      { "jp": "プレゼント", "kana": "プレゼント", "romaji": "purezento", "pt": "presente" },
-      { "jp": "しゅくだい", "kana": "しゅくだい", "romaji": "shukudai", "pt": "lição de casa" },
-      { "jp": "出す", "kana": "だす", "romaji": "dasu", "pt": "entregar (um trabalho), pôr para fora" },
-      { "jp": "先生", "kana": "せんせい", "romaji": "sensei", "pt": "professor(a)" },
-      { "jp": "でんしゃ", "kana": "でんしゃ", "romaji": "densha", "pt": "trem" },
-      { "jp": "おりる", "kana": "おりる", "romaji": "oriru", "pt": "descer (do trem, do ônibus)" },
-      { "jp": "あう", "kana": "あう", "romaji": "au", "pt": "encontrar (alguém): ともだちに あう" },
-      { "jp": "ともだち", "kana": "ともだち", "romaji": "tomodachi", "pt": "amigo(a)" }
+      { "jp": "まど", "kana": "まど", "romaji": "mado", "en": "window" },
+      { "jp": "ドア", "kana": "ドア", "romaji": "doa", "en": "door" },
+      { "jp": "あける", "kana": "あける", "romaji": "akeru", "en": "to open (something)" },
+      { "jp": "しめる", "kana": "しめる", "romaji": "shimeru", "en": "to close (something)" },
+      { "jp": "でんき", "kana": "でんき", "romaji": "denki", "en": "(electric) light" },
+      { "jp": "つける", "kana": "つける", "romaji": "tsukeru", "en": "to turn on" },
+      { "jp": "けす", "kana": "けす", "romaji": "kesu", "en": "to turn off" },
+      { "jp": "ゆっくり", "kana": "ゆっくり", "romaji": "yukkuri", "en": "slowly, taking your time" },
+      { "jp": "すぐ", "kana": "すぐ", "romaji": "sugu", "en": "right away, immediately" },
+      { "jp": "かす", "kana": "かす", "romaji": "kasu", "en": "to lend (to someone)" },
+      { "jp": "みせる", "kana": "みせる", "romaji": "miseru", "en": "to show" },
+      { "jp": "しゃしん", "kana": "しゃしん", "romaji": "shashin", "en": "photo" },
+      { "jp": "シャワーを あびる", "kana": "シャワーを あびる", "romaji": "shawā o abiru", "en": "to take a shower" },
+      { "jp": "かえる", "kana": "かえる", "romaji": "kaeru", "en": "to go back home (う-verb)" },
+      { "jp": "デパート", "kana": "デパート", "romaji": "depāto", "en": "department store" },
+      { "jp": "プレゼント", "kana": "プレゼント", "romaji": "purezento", "en": "present, gift" },
+      { "jp": "しゅくだい", "kana": "しゅくだい", "romaji": "shukudai", "en": "homework" },
+      { "jp": "出す", "kana": "だす", "romaji": "dasu", "en": "to hand in (homework); to take out" },
+      { "jp": "先生", "kana": "せんせい", "romaji": "sensei", "en": "teacher" },
+      { "jp": "でんしゃ", "kana": "でんしゃ", "romaji": "densha", "en": "train" },
+      { "jp": "おりる", "kana": "おりる", "romaji": "oriru", "en": "to get off (a train, a bus)" },
+      { "jp": "あう", "kana": "あう", "romaji": "au", "en": "to meet (someone): ともだちに あう" },
+      { "jp": "ともだち", "kana": "ともだち", "romaji": "tomodachi", "en": "friend" }
     ]
   },
   "grammar": [
@@ -59,131 +59,131 @@
       "id": "06-2-a",
       "gc": "6-2",
       "title": "〜てください",
-      "gloss": "por favor, faça…",
-      "explanation": "Forma て + **ください** = **pedido educado**: \"por favor, faça X\". O verbo em て diz **qual ação** você pede. ください, no fim, é o **predicado**: é ele que transforma a frase em pedido.\n• O resto da frase segue as regras de sempre: o objeto leva を, o lugar leva に ou で. でんきを けしてください。 = [objeto] でんきを + [pedido] けしてください.\n• **Coisa × ação:** na Aula 02-2, **N を ください** pedia uma **coisa** (\"me dá um café\"). Agora, **V-て ください** pede uma **ação** (\"abra a janela\").\n• Para soar mais gentil, comece com **すみません、** (\"com licença\"). Com desconhecidos e professores, すみません + 〜てください funciona bem.\n• Quem faz a ação é **o outro**. Para perguntar \"eu posso fazer?\", a forma é outra (〜てもいいですか, Aula 06-3).",
-      "structure": "(すみません、) [objeto] を [verbo-て] ください。",
+      "gloss": "please do…",
+      "explanation": "て-form + **ください** = a **polite request**: \"please do X\". The verb in て says **which action** you are asking for. ください, at the end, is the **predicate**: it is what turns the sentence into a request.\n• The rest of the sentence follows the usual rules: the object takes を, the place takes に or で. でんきを けしてください。 = [object] でんきを + [request] けしてください.\n• **Thing × action:** in lesson 02-2, **N を ください** asked for a **thing** (\"a coffee, please\"). Now **V-て ください** asks for an **action** (\"please open the window\"). English uses \"please\" for both; Japanese uses two different patterns.\n• To sound gentler, start with **すみません、** (\"excuse me\"). With strangers and teachers, すみません + 〜てください works well.\n• The person who does the action is **the other person**. To ask \"may I do it?\", you need a different form (〜てもいいですか, lesson 06-3).",
+      "structure": "(すみません、) [object] を [verb-て] ください。",
       "examples": [
-        { "jp": "すみません、ゆっくり はなしてください。", "kana": "すみません、ゆっくり はなしてください。", "romaji": "Sumimasen, yukkuri hanashite kudasai.", "pt": "Com licença, fale devagar, por favor." },
-        { "jp": "でんきを けしてください。", "kana": "でんきを けしてください。", "romaji": "Denki o keshite kudasai.", "pt": "Apague a luz, por favor." },
-        { "jp": "ペンを かしてください。", "kana": "ペンを かしてください。", "romaji": "Pen o kashite kudasai.", "pt": "Me empresta a caneta, por favor." }
+        { "jp": "すみません、ゆっくり はなしてください。", "kana": "すみません、ゆっくり はなしてください。", "romaji": "Sumimasen, yukkuri hanashite kudasai.", "en": "Excuse me, please speak slowly." },
+        { "jp": "でんきを けしてください。", "kana": "でんきを けしてください。", "romaji": "Denki o keshite kudasai.", "en": "Please turn off the light." },
+        { "jp": "ペンを かしてください。", "kana": "ペンを かしてください。", "romaji": "Pen o kashite kudasai.", "en": "Please lend me a pen." }
       ],
       "pitfalls": [
-        "Não use a forma ます: たべますください ✗ → たべてください ✓.",
-        "Coisa × ação: \"me dá água\" é みずを ください; \"beba água\" é みずを 飲んでください. E ペンを ください (me dá a caneta, fica com você) ≠ ペンを かしてください (me empresta).",
-        "Confira o grupo do verbo: かえってください = \"volte para casa, por favor\". かえてください também existe, mas é de outro verbo (かえる \"trocar\", verbo る).",
-        "〜てください é pedido, não convite. \"Vamos comer?\" é 食べませんか ou 食べましょうか (Aulas 03-3 e 05-3), não 食べてください."
+        "Don't use the ます-form: たべますください ✗ → たべてください ✓.",
+        "Thing × action: \"give me water\" is みずを ください; \"please drink water\" is みずを 飲んでください. And ペンを ください (give me the pen — you keep it) ≠ ペンを かしてください (lend me the pen).",
+        "Check the verb's group: かえってください = \"please go home\". かえてください also exists, but it comes from a different verb (かえる \"to change\", a る-verb).",
+        "〜てください is a request, not an invitation. \"Won't you eat with me?\" is 食べませんか and \"Shall we eat?\" is 食べましょうか (lessons 03-3 and 05-3), not 食べてください."
       ],
       "howToStudy": [
-        "Fala: faça 5 pedidos de verdade para alguém da casa (ou para o espelho), cada um com um verbo diferente: まどを あけてください、でんきを つけてください…",
-        "Aperte 🔬 no exemplo 1: o bloco com てください é o PREDICADO, marcado como pedido, e ゆっくり aparece como COMO, o jeito da ação.",
-        "No caderno, escreva 3 pedidos que um professor faz na sala e 3 que você faria a um japonês que fala rápido demais."
+        "Speaking: make 5 real requests to someone at home (or to the mirror), each with a different verb: まどを あけてください、でんきを つけてください…",
+        "Tap 🔬 on example 1: the block with てください is the PREDICATE, labeled request; すみません is an INTERJECTION, and ゆっくり shows up as HOW / HOW OFTEN — the way the action is done.",
+        "In your notebook, write 3 requests a teacher makes in class and 3 you would make to a Japanese person who speaks too fast."
       ],
       "flag": null
     },
     {
       "id": "06-2-b",
       "gc": "6-5",
-      "title": "Ação て ação",
-      "gloss": "faço X e depois Y",
-      "explanation": "A forma て também **encadeia ações** na ordem em que acontecem: \"faço X e (depois) faço Y\". Quem decide o **tempo** da frase, presente ou passado, é **só o último verbo**, o predicado, lá no fim. Os verbos em て do meio não têm tempo próprio: eles \"pegam emprestado\" o tempo do final.\n• Presente/futuro: うちに かえって、シャワーを あびます。 (\"Volto para casa e tomo banho.\")\n• Passado: mude só o último verbo. うちに かえって、シャワーを あびました。 (\"Voltei para casa e tomei banho.\")\n• Cada ação leva os seus próprios blocos: [えきで でんしゃを おりて]、[ともだちに あいました]. Leia em pedaços: cada pedaço termina num て, e a vírgula ajuda a ver onde ele acaba.\n• A ordem é a do **tempo**: o que está em て acontece **antes** do que vem depois.\n• O último verbo pode ser um pedido: 本を あけて、よんでください。 (\"Abra o livro e leia, por favor.\") Aí a frase inteira vira pedido.\n• Duas ou três ações por frase soam naturais. Mais que isso, divida em duas frases.",
-      "structure": "[ação 1]-て、[ação 2]-て、[ação final]ます／ました／てください。",
+      "title": "Action て action",
+      "gloss": "I do X and then Y",
+      "explanation": "The て-form also **chains actions** in the order they happen: \"I do X and (then) Y\". Only **the last verb** — the predicate, at the very end — decides the **tense** of the sentence, present or past. The て verbs in the middle have no tense of their own: they \"borrow\" the tense of the ending. English puts the tense on every verb (\"went… and bought\"); Japanese puts it only at the end.\n• Present/future: うちに かえって、シャワーを あびます。 (\"I go home and take a shower.\")\n• Past: change only the last verb. うちに かえって、シャワーを あびました。 (\"I went home and took a shower.\")\n• Each action keeps its own blocks: [えきで でんしゃを おりて]、[ともだちに あいました]. Read in chunks: each chunk ends with a て, and the comma helps you see where it ends.\n• The order is **time order**: what is in て happens **before** what comes after it.\n• The last verb can be a request: 本を あけて、よんでください。 (\"Please open the book and read it.\") Then the whole sentence becomes a request.\n• Two or three actions per sentence sound natural. With more than that, split it into two sentences.",
+      "structure": "[action 1]-て、[action 2]-て、[final action]ます／ました／てください。",
       "examples": [
-        { "jp": "あさ シャワーを あびて、コーヒーを 飲みます。", "kana": "あさ シャワーを あびて、コーヒーを のみます。", "romaji": "Asa shawā o abite, kōhī o nomimasu.", "pt": "De manhã eu tomo banho e (depois) bebo café." },
-        { "jp": "きのう アナさんは デパートに 行って、プレゼントを かいました。", "kana": "きのう アナさんは デパートに いって、プレゼントを かいました。", "romaji": "Kinō Ana-san wa depāto ni itte, purezento o kaimashita.", "pt": "Ontem a Ana foi à loja de departamentos e comprou um presente." },
-        { "jp": "しゅくだいを して、先生に 出してください。", "kana": "しゅくだいを して、せんせいに だしてください。", "romaji": "Shukudai o shite, sensei ni dashite kudasai.", "pt": "Faça a lição de casa e entregue ao(à) professor(a), por favor." }
+        { "jp": "あさ シャワーを あびて、コーヒーを 飲みます。", "kana": "あさ シャワーを あびて、コーヒーを のみます。", "romaji": "Asa shawā o abite, kōhī o nomimasu.", "en": "In the morning I take a shower and (then) drink coffee." },
+        { "jp": "きのう アナさんは デパートに 行って、プレゼントを かいました。", "kana": "きのう アナさんは デパートに いって、プレゼントを かいました。", "romaji": "Kinō Ana-san wa depāto ni itte, purezento o kaimashita.", "en": "Yesterday Ana went to the department store and bought a present. [lit. going to the department store, (she) bought a present]" },
+        { "jp": "しゅくだいを して、先生に 出してください。", "kana": "しゅくだいを して、せんせいに だしてください。", "romaji": "Shukudai o shite, sensei ni dashite kudasai.", "en": "Please do your homework and hand it in to the teacher." }
       ],
       "pitfalls": [
-        "Não conjugue cada verbo como uma frase separada: デパートに 行きました、プレゼントを かいました ✗ (duas frases coladas com vírgula). Ponha o primeiro em て: 行って、…かいました ✓.",
-        "Só o fim diz o tempo: うちに かえって、ねます = \"volto e durmo\"; うちに かえって、ねました = \"voltei e dormi\". O かえって é igual nas duas.",
-        "A ordem importa: シャワーを あびて、ねます (banho, depois cama) ≠ ねて、シャワーを あびます (dorme, depois banho).",
-        "Dentro da mesma frase, não precisa de そして (\"e então\") entre as ações: o て já faz esse papel. そして liga frases separadas."
+        "Don't conjugate each verb as a separate sentence: デパートに 行きました、プレゼントを かいました ✗ (two sentences glued together with a comma). Put the first one in て: 行って、…かいました ✓.",
+        "Only the end gives the tense: うちに かえって、ねます = \"I go home and sleep\"; うちに かえって、ねました = \"I went home and slept\". かえって is the same in both.",
+        "Order matters: シャワーを あびて、ねます (shower, then bed) ≠ ねて、シャワーを あびます (sleep, then shower).",
+        "Within one sentence you don't need そして (\"and then\") between the actions: て already does that job. そして links separate sentences."
       ],
       "howToStudy": [
-        "Fala: descreva a sua manhã de hoje numa frase com 3 ações (おきて、…て、…ました). Depois diga a de amanhã, mudando só o último verbo para ます.",
-        "Aperte 🔬 no exemplo da Ana: 行って aparece como LIGA (E…) e só かいました é o PREDICADO. Leia primeiro o predicado, depois volte ao começo.",
-        "ヅオリンゴー → Treinos → 🔬 Anatomia → 🧱 Montar de trás pra frente: monte 3 frases, começando pelo último verbo."
+        "Speaking: describe this morning in one sentence with 3 actions (おきて、…て、…ました). Then describe tomorrow morning, changing only the last verb to ます.",
+        "Tap 🔬 on the Ana example: 行って shows up as …AND THEN, and only かいました is the PREDICATE. Read the predicate first, then go back to the start.",
+        "ヅオリンゴー → Drills → 🔬 Anatomy → 🧱 Build from the end: build 3 sentences, starting from the last verb."
       ],
       "flag": null
     }
   ],
   "media": [
-    { "order": 1, "kind": "leitura", "title": "Genki I · Lição 6: as explicações de gramática 〜てください e Describing Two Activities", "where": "Seu livro Genki I (3ª ed.)", "url": "", "when": "Antes desta aula ou logo depois do bloco de gramática" },
-    { "order": 2, "kind": "video", "title": "ToKini Andy: 〜てください e ações em sequência (Lição 6 do Genki I)", "where": "YouTube · canal ToKini Andy", "url": "", "search": "ToKini Andy Genki Lesson 6 te kudasai", "when": "Depois dos 2 pontos: o vídeo confirma e dá mais exemplos" },
-    { "order": 3, "kind": "app", "title": "genki-companion: Lição 6, pontos 2 e 5 (marque ✍️ quando terminar)", "where": "../genki-companion/index.html", "url": "../genki-companion/index.html", "when": "No fim, para revisar e marcar o progresso" }
+    { "order": 1, "kind": "reading", "title": "Genki I · Lesson 6: the grammar notes 〜てください and Describing Two Activities", "where": "Your Genki I textbook (3rd ed.)", "url": "", "when": "Before this lesson or right after the grammar block" },
+    { "order": 2, "kind": "video", "title": "Japanese Ammo with Misa: 〜てください and linking actions with て", "where": "YouTube · Japanese Ammo with Misa channel", "url": "", "search": "Japanese Ammo with Misa te kudasai", "when": "After the 2 points: the video confirms them and gives more examples" },
+    { "order": 3, "kind": "app", "title": "genki-companion: Lesson 6, points 2 and 5 (tick ✍️ when you finish)", "where": "../genki-companion/index.html", "url": "../genki-companion/index.html", "when": "At the end, to review and mark your progress" }
   ],
   "homework": {
-    "intro": "Faça no caderno, à mão, com os kanji que você já conhece e o resto em kana. Só depois abra o gabarito, item por item. Circule o que errou e refaça no dia seguinte.",
+    "intro": "Do it by hand in your notebook, using the kanji you already know and kana for the rest. Only then open the answer key, item by item. Circle what you got wrong and redo it the next day.",
     "tasks": [
       {
         "id": "h1",
-        "type": "traduzir",
-        "prompt": "Traduza para o japonês.",
+        "type": "translate",
+        "prompt": "Translate into Japanese.",
         "items": [
-          { "q": "Feche a porta, por favor.", "a": { "jp": "ドアを しめてください。", "romaji": "Doa o shimete kudasai." } },
-          { "q": "Acenda a luz, por favor.", "a": { "jp": "でんきを つけてください。", "romaji": "Denki o tsukete kudasai." } },
-          { "q": "Espere aqui, por favor.", "a": { "jp": "ここで まってください。", "romaji": "Koko de matte kudasai." }, "note": "ここで: o lugar onde a ação (esperar) acontece. まつ → まって." },
-          { "q": "Mostre a foto, por favor.", "a": { "jp": "しゃしんを みせてください。", "romaji": "Shashin o misete kudasai." } },
-          { "q": "Venha amanhã, por favor.", "a": { "jp": "あした きてください。", "romaji": "Ashita kite kudasai." }, "note": "くる → きて (irregular)." },
-          { "q": "Me dá um café, por favor.", "a": { "jp": "コーヒーを ください。", "romaji": "Kōhī o kudasai." }, "note": "Pegadinha: você pede uma coisa, não uma ação. Sem forma て." }
+          { "q": "Please close the door.", "a": { "jp": "ドアを しめてください。", "romaji": "Doa o shimete kudasai." } },
+          { "q": "Please turn on the light.", "a": { "jp": "でんきを つけてください。", "romaji": "Denki o tsukete kudasai." } },
+          { "q": "Please wait here.", "a": { "jp": "ここで まってください。", "romaji": "Koko de matte kudasai." }, "note": "ここで: the place where the action (waiting) happens. まつ → まって." },
+          { "q": "Please show me the photo.", "a": { "jp": "しゃしんを みせてください。", "romaji": "Shashin o misete kudasai." } },
+          { "q": "Please come tomorrow.", "a": { "jp": "あした きてください。", "romaji": "Ashita kite kudasai." }, "note": "くる → きて (irregular)." },
+          { "q": "A coffee, please.", "a": { "jp": "コーヒーを ください。", "romaji": "Kōhī o kudasai." }, "note": "Trap: you're asking for a thing, not an action. No て-form." }
         ]
       },
       {
         "id": "h2",
-        "type": "juntar",
-        "prompt": "Junte as duas frases em uma só, com a forma て. O tempo fica só no último verbo.",
+        "type": "combine",
+        "prompt": "Join the two sentences into one with the て-form. The tense stays on the last verb only.",
         "items": [
-          { "q": "うちに かえりました。／ シャワーを あびました。", "a": { "jp": "うちに かえって、シャワーを あびました。", "romaji": "Uchi ni kaette, shawā o abimashita." }, "note": "かえる é verbo う: かえって." },
-          { "q": "コンビニに 行きます。／ みずを かいます。", "a": { "jp": "コンビニに 行って、みずを かいます。", "kana": "コンビニに いって、みずを かいます。", "romaji": "Konbini ni itte, mizu o kaimasu." }, "note": "A exceção: いく → いって." },
+          { "q": "うちに かえりました。／ シャワーを あびました。", "a": { "jp": "うちに かえって、シャワーを あびました。", "romaji": "Uchi ni kaette, shawā o abimashita." }, "note": "かえる is a う-verb: かえって." },
+          { "q": "コンビニに 行きます。／ みずを かいます。", "a": { "jp": "コンビニに 行って、みずを かいます。", "kana": "コンビニに いって、みずを かいます。", "romaji": "Konbini ni itte, mizu o kaimasu." }, "note": "The exception: いく → いって." },
           { "q": "テレビを 見ました。／ ねました。", "a": { "jp": "テレビを 見て、ねました。", "kana": "テレビを みて、ねました。", "romaji": "Terebi o mite, nemashita." } },
-          { "q": "でんしゃを おります。／ ともだちに あいます。", "a": { "jp": "でんしゃを おりて、ともだちに あいます。", "romaji": "Densha o orite, tomodachi ni aimasu." }, "note": "おりる é verbo る: おりて." },
+          { "q": "でんしゃを おります。／ ともだちに あいます。", "a": { "jp": "でんしゃを おりて、ともだちに あいます。", "romaji": "Densha o orite, tomodachi ni aimasu." }, "note": "おりる is a る-verb: おりて." },
           { "q": "にほんごを べんきょうしました。／ ゲームを しました。", "a": { "jp": "にほんごを べんきょうして、ゲームを しました。", "romaji": "Nihongo o benkyō shite, gēmu o shimashita." } }
         ]
       },
       {
         "id": "h3",
-        "type": "ordenar",
-        "prompt": "Ordene os blocos e escreva a frase. Comece pelo predicado, que é o último bloco.",
+        "type": "order",
+        "prompt": "Put the blocks in order and write the sentence. Start from the predicate, which is the last block.",
         "items": [
-          { "q": "［ください］［ゆっくり］［食べて］", "a": { "jp": "ゆっくり 食べてください。", "kana": "ゆっくり たべてください。", "romaji": "Yukkuri tabete kudasai.", "pt": "Coma com calma, por favor." } },
-          { "q": "［ねます］［シャワーを］［あびて、］", "a": { "jp": "シャワーを あびて、ねます。", "romaji": "Shawā o abite, nemasu.", "pt": "Tomo banho e durmo." } },
-          { "q": "［あけてください］［すみません、］［まどを］", "a": { "jp": "すみません、まどを あけてください。", "romaji": "Sumimasen, mado o akete kudasai.", "pt": "Com licença, abra a janela, por favor." } },
-          { "q": "［あそびました］［こうえんで］［ともだちに あって、］", "a": { "jp": "ともだちに あって、こうえんで あそびました。", "romaji": "Tomodachi ni atte, kōen de asobimashita.", "pt": "Encontrei meus amigos e nos divertimos no parque." }, "note": "Primeiro o encontro (あって), depois a diversão: a ordem do tempo." }
+          { "q": "［ください］［ゆっくり］［食べて］", "a": { "jp": "ゆっくり 食べてください。", "kana": "ゆっくり たべてください。", "romaji": "Yukkuri tabete kudasai.", "en": "Please take your time eating." } },
+          { "q": "［ねます］［シャワーを］［あびて、］", "a": { "jp": "シャワーを あびて、ねます。", "romaji": "Shawā o abite, nemasu.", "en": "I take a shower and go to bed." } },
+          { "q": "［あけてください］［すみません、］［まどを］", "a": { "jp": "すみません、まどを あけてください。", "romaji": "Sumimasen, mado o akete kudasai.", "en": "Excuse me, please open the window." } },
+          { "q": "［あそびました］［こうえんで］［ともだちに あって、］", "a": { "jp": "ともだちに あって、こうえんで あそびました。", "romaji": "Tomodachi ni atte, kōen de asobimashita.", "en": "I met up with my friend and we hung out at the park." }, "note": "First the meeting (あって), then the fun: time order." }
         ]
       },
       {
         "id": "h4",
-        "type": "produzir",
-        "prompt": "Escreva no caderno como foi o seu dia de ontem em 3 frases, cada uma com 2–3 ações ligadas por て. Depois escreva 2 pedidos que você faria a alguém da sua casa. Leia em voz alta e grave no celular.",
+        "type": "produce",
+        "prompt": "In your notebook, write how your day went yesterday in 3 sentences, each with 2–3 actions linked by て. Then write 2 requests you would make to someone at home. Read it aloud and record it on your phone.",
         "items": [
-          { "q": "Modelo, que o seu texto deve seguir na estrutura e não nas palavras:", "a": { "jp": "きのうは 七時に おきて、コーヒーを 飲みました。大学に 行って、にほんごを べんきょうしました。うちに かえって、ばんごはんを 食べて、ねました。— マリアさん、でんきを けしてください。まどを しめてください。", "kana": "きのうは しちじに おきて、コーヒーを のみました。だいがくに いって、にほんごを べんきょうしました。うちに かえって、ばんごはんを たべて、ねました。— マリアさん、でんきを けしてください。まどを しめてください。", "romaji": "Kinō wa shichiji ni okite, kōhī o nomimashita. Daigaku ni itte, nihongo o benkyō shimashita. Uchi ni kaette, bangohan o tabete, nemashita. — Maria-san, denki o keshite kudasai. Mado o shimete kudasai.", "pt": "Ontem acordei às 7 e tomei café. Fui à faculdade e estudei japonês. Voltei para casa, jantei e dormi. — Maria, apague a luz, por favor. Feche a janela, por favor." }, "note": "Confira: em cada frase, só o último verbo está em 〜ました; cada て segue a tabela da Aula 06-1 (かえって, 行って); os pedidos terminam em 〜てください." }
+          { "q": "Model (match its structure, not its words):", "a": { "jp": "きのうは 七時に おきて、コーヒーを 飲みました。大学に 行って、にほんごを べんきょうしました。うちに かえって、ばんごはんを 食べて、ねました。— マリアさん、でんきを けしてください。まどを しめてください。", "kana": "きのうは しちじに おきて、コーヒーを のみました。だいがくに いって、にほんごを べんきょうしました。うちに かえって、ばんごはんを たべて、ねました。— マリアさん、でんきを けしてください。まどを しめてください。", "romaji": "Kinō wa shichiji ni okite, kōhī o nomimashita. Daigaku ni itte, nihongo o benkyō shimashita. Uchi ni kaette, bangohan o tabete, nemashita. — Maria-san, denki o keshite kudasai. Mado o shimete kudasai.", "en": "Yesterday I got up at 7 and drank coffee. I went to college and studied Japanese. I went home, had dinner and went to bed. — Maria, please turn off the light. Please close the window." }, "note": "Check: in each sentence only the last verb is in 〜ました; every て follows the table from lesson 06-1 (かえって, 行って); the requests end in 〜てください." }
         ]
       }
     ],
     "workbook": [
-      { "p": 62, "t": "3 · ～てください", "tip": "Faça depois do ponto 4a." },
-      { "p": 63, "t": "4 · Describing Two Activities", "tip": "Faça depois do ponto 4b. Confira no Genki Answer Key oficial." }
+      { "p": 62, "t": "3 · ～てください", "tip": "Do it after point 4a." },
+      { "p": 63, "t": "4 · Describing Two Activities", "tip": "Do it after point 4b. Check it with the official Genki Answer Key." }
     ]
   },
   "practice": [
-    { "tool": "Wagotabi", "what": "Jogue normalmente e cace pedidos: falas que terminam em てください (ou só em て, na fala casual). Para cada uma, diga em voz alta o que foi pedido e quem vai fazer a ação. Anote 2 no caderno.", "min": 15 },
-    { "tool": "ヅオリンゴー", "what": "Vocabulário da Lição 6 no SRS. Depois, Treinos → 🔬 Anatomia → 🧱 Montar de trás pra frente: 5 frases, reparando que a montagem começa pelo predicado.", "min": 10 },
-    { "tool": "Diário", "what": "Escreva no Diário do ヅオリンゴー 2 frases sobre o seu dia, com ações encadeadas por て, e aperte \"Anatomia do que escrevi\": só o último verbo deve aparecer como PREDICADO.", "min": 10 },
-    { "tool": "Shadowing", "what": "Toque 🔊 nos exemplos desta aula e repita junto 3 vezes. Faça uma pausa curta na vírgula depois de cada て, como quem respira entre uma ação e outra.", "min": 5 },
-    { "tool": "Fala", "what": "Grave 30 s contando a sua rotina da manhã com て (おきて、…て、…ます). Ouça e confira se só o fim tem ます.", "min": 5 }
+    { "tool": "Wagotabi", "what": "Play normally and hunt for requests: lines ending in てください (or just て, in casual speech). For each one, say out loud what was asked and who will do the action. Write 2 of them in your notebook.", "min": 15 },
+    { "tool": "ヅオリンゴー", "what": "Lesson 6 vocabulary in the SRS. Then Drills → 🔬 Anatomy → 🧱 Build from the end: 5 sentences, noticing that you always start building from the predicate.", "min": 10 },
+    { "tool": "Journal", "what": "In the ヅオリンゴー Journal, write 2 sentences about your day with actions chained by て, and tap \"Anatomy of what I wrote\": only the last verb should show up as PREDICATE.", "min": 10 },
+    { "tool": "Shadowing", "what": "Tap 🔊 on this lesson's examples and repeat along 3 times. Pause briefly at the comma after each て, as if taking a breath between one action and the next.", "min": 5 },
+    { "tool": "Speaking", "what": "Record 30 seconds describing your morning routine with て (おきて、…て、…ます). Listen and check that only the end has ます.", "min": 5 }
   ],
   "culture": {
-    "title": "Etiqueta no trem (celular, assento prioritário)",
+    "title": "Train etiquette (phones, priority seats)",
     "titleJp": "でんしゃの マナー",
-    "body": "Nos trens urbanos do Japão, o ambiente costuma ser silencioso. Falar ao celular dentro do vagão é malvisto: os avisos pedem para deixar o aparelho no modo silencioso, que lá se chama **マナーモード** (\"modo boas maneiras\"), e para não fazer ligações. Perto dos **assentos prioritários** (ゆうせんせき), reservados a idosos, gestantes, pessoas com deficiência e quem está com crianças pequenas, muitas linhas pedem para desligar o celular quando o trem está cheio. Conversar baixinho é normal. Já comer costuma ser evitado nos trens do dia a dia, embora no trem-bala seja comum. Os avisos das estações e dos trens estão cheios de pedidos educados, e muitos terminam em 〜ください.",
-    "try": "Treine um pedido no estilo dos avisos: しずかに してください (\"fique em silêncio, por favor\"). E, no seu próximo trajeto de ônibus ou metrô, faça como no Japão: celular no silencioso e nenhuma ligação até descer."
+    "body": "On Japanese city trains, the atmosphere is usually quiet. Talking on the phone inside the car is frowned upon: announcements ask you to put your phone on silent — called **マナーモード** (\"manner mode\") in Japan — and not to make calls. Near the **priority seats** (ゆうせんせき), reserved for older people, pregnant women, people with disabilities and people with small children, many lines ask you to turn your phone off when the train is crowded. Talking quietly is normal. Eating, on the other hand, is usually avoided on everyday commuter trains, although it's common on the Shinkansen. Station and train announcements are full of polite requests, and many of them end in 〜ください.",
+    "try": "Practice a request in the style of the announcements: しずかに してください (\"please be quiet\"). And on your next bus or subway ride, do as people do in Japan: phone on silent and no calls until you get off."
   },
   "checklist": [
-    "Faço pedidos educados com 〜てください para 5 ações diferentes, sem olhar.",
-    "Sei a diferença entre みずを ください (me dá água) e みずを 飲んでください (beba água).",
-    "Ligo 2–3 ações numa frase com て, na ordem em que acontecem.",
-    "Ponho o passado só no último verbo e digo o tempo de qualquer frase lendo o fim.",
-    "Conto a minha manhã de hoje em uma frase, em voz alta, sem travar.",
-    "Fiz a lição de casa e conferi o gabarito, e refiz o que errei.",
-    "Fiz as páginas 62–63 do Workbook."
+    "I can make polite requests with 〜てください for 5 different actions, without looking.",
+    "I know the difference between みずを ください (give me water) and みずを 飲んでください (please drink water).",
+    "I can link 2–3 actions in one sentence with て, in the order they happen.",
+    "I put the past on the last verb only, and I can tell the tense of any sentence by reading the end.",
+    "I can describe this morning in one sentence, out loud, without getting stuck.",
+    "I did the homework, checked it against the answer key and redid what I got wrong.",
+    "I did Workbook pages 62–63."
   ]
 }

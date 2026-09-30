@@ -1,0 +1,190 @@
+{
+  "id": "P-01",
+  "unit": "P-N3",
+  "genki": null,
+  "title": "Coming to be able to · making an effort to",
+  "titleJp": "話せるようになった・毎日話すようにしている",
+  "canDo": [
+    "I can describe a new ability with potential + ようになりました: 漢字が読めるようになりました (before I couldn't, now I can).",
+    "I can describe a new habit with dictionary form + ようになりました, and something that stopped with 〜なくなりました (本を読まなくなりました).",
+    "I can say what I make a point of doing, or make sure not to do, with 〜ようにしています / 〜ないようにしています.",
+    "I can ask someone to make sure to do something with 〜ようにしてください.",
+    "Given a sentence, I can tell whether it reports a change that happened (ようになる) or an effort someone makes (ようにする)."
+  ],
+  "duration": {
+    "total": "60–75 min",
+    "blocks": [
+      { "t": "Warm-up: say aloud the potential form and the ない form of 話す, 読む, 食べる, 来る and する — this lesson is built on them", "min": 5 },
+      { "t": "Vocabulary: tap 🔊 on each word and repeat it twice", "min": 10 },
+      { "t": "Grammar: the 2 points, with the examples read aloud and one 🔬 each; in point b, take your time with the なる × する contrast", "min": 25 },
+      { "t": "Video and reading (block 6), pausing on the examples", "min": 10 },
+      { "t": "Notebook homework + checking it against the answer key", "min": 15 },
+      { "t": "Checklist (block 10) + write your questions in the lesson notebook", "min": 5 }
+    ]
+  },
+  "prereqs": {
+    "aulas": ["M-5"],
+    "skills": [
+      "The potential form (lesson 13-1): 話せる, 読める, 食べられる, 来られる, できる. It is the base of point a.",
+      "The dictionary form and the ない form of any verb, without hesitating (lesson 08-1).",
+      "〜くなる / 〜になる with adjectives and nouns (lesson 10-3): today なる meets verbs.",
+      "〜てみる (lesson 13-3) and 〜ないで (lesson 20-2), which appear in the pitfalls and examples.",
+      "Reading N4 kanji calmly. Every sentence comes with its full kana reading."
+    ],
+    "vocab": [
+      { "jp": "〜ようになる", "kana": "〜ようになる", "romaji": "-yō ni naru", "en": "to come to (do); to get to where you can…" },
+      { "jp": "〜ようにする", "kana": "〜ようにする", "romaji": "-yō ni suru", "en": "to make sure to…, to make a point of…" },
+      { "jp": "〜なくなる", "kana": "〜なくなる", "romaji": "-naku naru", "en": "to no longer (do); to stop being able to…" },
+      { "jp": "最近", "kana": "さいきん", "romaji": "saikin", "en": "recently, lately" },
+      { "jp": "やっと", "kana": "やっと", "romaji": "yatto", "en": "finally, at last (after effort or waiting)" },
+      { "jp": "全然", "kana": "ぜんぜん", "romaji": "zenzen", "en": "(not) at all — with a negative" },
+      { "jp": "練習する", "kana": "れんしゅうする", "romaji": "renshū suru", "en": "to practice" },
+      { "jp": "自転車", "kana": "じてんしゃ", "romaji": "jitensha", "en": "bicycle" },
+      { "jp": "乗る", "kana": "のる", "romaji": "noru", "en": "to ride, to get on (〜に乗る)" },
+      { "jp": "娘", "kana": "むすめ", "romaji": "musume", "en": "(my) daughter" },
+      { "jp": "飼う", "kana": "かう", "romaji": "kau", "en": "to keep (a pet)" },
+      { "jp": "階段", "kana": "かいだん", "romaji": "kaidan", "en": "stairs" },
+      { "jp": "上る", "kana": "のぼる", "romaji": "noboru", "en": "to go up, to climb (階段を上る)" },
+      { "jp": "野菜", "kana": "やさい", "romaji": "yasai", "en": "vegetables" },
+      { "jp": "眠る", "kana": "ねむる", "romaji": "nemuru", "en": "to sleep, to fall asleep (眠れない = can't sleep)" },
+      { "jp": "面接", "kana": "めんせつ", "romaji": "mensetsu", "en": "(job) interview" },
+      { "jp": "遅れる", "kana": "おくれる", "romaji": "okureru", "en": "to be late (〜に遅れる)" },
+      { "jp": "聞き取る", "kana": "ききとる", "romaji": "kikitoru", "en": "to catch (by ear), to make out what is said" },
+      { "jp": "散歩する", "kana": "さんぽする", "romaji": "sanpo suru", "en": "to take a walk" },
+      { "jp": "甘い物", "kana": "あまいもの", "romaji": "amai mono", "en": "sweets, sweet things" },
+      { "jp": "日記", "kana": "にっき", "romaji": "nikki", "en": "diary, journal" },
+      { "jp": "続ける", "kana": "つづける", "romaji": "tsuzukeru", "en": "to continue, to keep (doing)" },
+      { "jp": "体操", "kana": "たいそう", "romaji": "taisō", "en": "calisthenics, exercises (ラジオ体操)" }
+    ]
+  },
+  "grammar": [
+    {
+      "id": "P-01-a",
+      "gc": null,
+      "title": "〜ようになる (and 〜なくなる)",
+      "gloss": "to come to…, to get to where you can… · no longer…",
+      "explanation": "よう means **\"the way things are, a state\"**, and ように means **\"into that state\"**. Add なる (\"become\") and you get **〜ようになる: \"come to…\", \"get to the point where…\"** — a change that happened, usually **gradually**, in what you **can do** or what you **usually do**.\n• **Ability: potential + ようになる.** 泳げる → 泳げるようになった; 読める → 読めるようになった. The message is **\"before I couldn't, now I can\"**.\n• Verbs that already mean \"can\" or \"happens by itself\" work the same way: 分かる, 見える, 聞こえる, できる → 日本語のニュースが分かるようになった.\n• **Habit: dictionary form + ようになる.** 毎朝走る → 毎朝走るようになった (\"I've started running every morning\"). It reports that the habit **came about**, often with no clear starting day.\n• **The opposite, \"no longer\": 〜なくなる.** Take the ない form, change い to く and add なる: 読まない → 読まなくなった (\"I don't read anymore\"); 泳げない → 泳げなくなった (\"I can't swim anymore\"). This is the everyday form for \"stopped doing / can't anymore\". You may occasionally meet 〜ないようになる, but 〜なくなる is what people normally say, so use that.\n• You already know なる with adjectives and nouns (lesson 10-3): 上手になる, 寒くなる. With a **verb**, なる needs ように in between: 話せるようになる, never 話せるになる.\n• You usually report the change in the past: ようになりました / ようになった. ようになってきました adds \"little by little, up to now\". ようになります is for a change still to come: 練習すれば、できるようになりますよ.\n• In the sentence, [change]ように + なりました is the **PREDICATE**. Read it from the end: \"it became so\" → what did? → the part before ように → since when? → often a から block or 最近.",
+      "structure": "[potential] ようになる (now I can) · [dictionary form] ようになる (now I usually do) · [ない → なく] なる (no longer)",
+      "examples": [
+        { "jp": "前は日本語のニュースが全然分からなかったけど、最近少し分かるようになりました。", "kana": "まえはにほんごのニュースがぜんぜんわからなかったけど、さいきんすこしわかるようになりました。", "romaji": "Mae wa nihongo no nyūsu ga zenzen wakaranakatta kedo, saikin sukoshi wakaru yō ni narimashita.", "en": "Before, I couldn't understand the news in Japanese at all, but lately I've started to understand a little." },
+        { "jp": "娘は毎日練習して、やっと自転車に乗れるようになりました。", "kana": "むすめはまいにちれんしゅうして、やっとじてんしゃにのれるようになりました。", "romaji": "Musume wa mainichi renshū shite, yatto jitensha ni noreru yō ni narimashita.", "en": "My daughter practiced every day, and now she can finally ride a bike. [lit. has finally come to be able to ride]" },
+        { "jp": "スマホを買ってから、あまり本を読まなくなりました。", "kana": "スマホをかってから、あまりほんをよまなくなりました。", "romaji": "Sumaho o katte kara, amari hon o yomanaku narimashita.", "en": "Since I got a smartphone, I don't read books much anymore." }
+      ],
+      "pitfalls": [
+        "With a verb, なる needs ように: 日本語が話せるになりました ✗ → 日本語が話せるようになりました ✓. Adjectives and nouns attach directly (上手になりました, lesson 10-3).",
+        "\"Can't anymore\" is なくなる, not a failed ようになる: \"I can't swim anymore\" → 泳げるようになりませんでした ✗ (= I never learned) → 泳げなくなりました ✓.",
+        "If nothing changed, don't use ようになる / なくなる — they always tell a before and an after: \"Penguins can't fly\" → ペンギンは飛べなくなります ✗ → ペンギンは飛べません ✓.",
+        "No ます form before ように: 読めますようになりました ✗ → 読めるようになりました ✓."
+      ],
+      "howToStudy": [
+        "Before and after: in your notebook, write 3 things you couldn't do a year ago and can do now, and 1 thing you used to do and don't anymore. Say each one aloud: 前は〜けど、今は〜ようになりました。",
+        "Tap 🔬 on example 1: 分からなかったけど shows up as …BUT, 最近 as TIME and 分かるように as TARGET — the engine's general label for a block ending in に; here, read it as \"into the state of understanding\". The PREDICATE is なりました. Read from the end: became → what? → able to understand a little → when? → lately.",
+        "Tap 🔬 on example 3: 🔬 splits 読まなく (NO PARTICLE) from なりました (PREDICATE). Read the two together as one change, \"came to not read\". 買ってから is AFTER DOING: the moment the change started."
+      ],
+      "flag": null
+    },
+    {
+      "id": "P-01-b",
+      "gc": null,
+      "title": "〜ようにする (and the contrast with 〜ようになる)",
+      "gloss": "to make sure to…, to make a point of… (a conscious effort)",
+      "explanation": "Change なる (\"become\") to する (\"make\") and the meaning moves from a change that happened to **an effort you make**: **〜ようにする = \"make sure to…\", \"make a point of…\"** — you act so that things turn out a certain way.\n• Form: **dictionary form** or **ない form** + ようにする. 食べる → 食べるようにする; 飲まない → 飲まないようにする (\"make sure not to drink\").\n• **ようにしている / ようにしています**: an ongoing effort, a habit you keep working at: 毎日野菜を食べるようにしています (\"I make a point of eating vegetables every day\").\n• **ようにします**: a resolution, from now on: これからは早く寝るようにします.\n• **ようにしてください**: \"please make sure to / not to…\" — a soft request about care or habits, common from teachers, doctors and bosses: 遅れないようにしてください. For a simple action right now, just use てください: 座ってください.\n• ようにする is **effort, not a guarantee**: it says you try, not that you always succeed.\n\n**ようになる × ようにする — the key contrast:**\n• ようになる = **it became** that way (a result; you notice the change).\n• ようにする = **you make** it that way (an effort; your will).\n• 犬を飼い始めてから、毎朝早く起きるようになりました — since I got a dog, I've started getting up early (the dog changed my routine; it just happened).\n• 朝の時間を使いたいので、毎朝早く起きるようにしています — I want to use my mornings, so I make a point of getting up early (my decision, my effort).\n• Test: ask **\"Is this a result I noticed, or something I'm working at?\"** Result → なる. Effort → する.\n• Don't confuse it with 〜てみる (lesson 13-3): てみる is trying something once to see how it goes; ようにする is a steady effort.\n• In the sentence, [effort]ように + しています is the **PREDICATE**, at the end.",
+      "structure": "[dictionary form / ない form] ようにする · ようにしています (ongoing effort) · ようにしてください (please make sure to…)",
+      "examples": [
+        { "jp": "最近、エレベーターを使わないで、階段を上るようにしています。", "kana": "さいきん、エレベーターをつかわないで、かいだんをのぼるようにしています。", "romaji": "Saikin, erebētā o tsukawanai de, kaidan o noboru yō ni shite imasu.", "en": "Lately I've been making a point of taking the stairs instead of the elevator. [lit. not using the elevator, I make sure to climb the stairs]" },
+        { "jp": "眠れなくなるので、夜はコーヒーを飲まないようにしています。", "kana": "ねむれなくなるので、よるはコーヒーをのまないようにしています。", "romaji": "Nemurenaku naru node, yoru wa kōhī o nomanai yō ni shite imasu.", "en": "Coffee keeps me awake, so I make sure not to drink it at night. [lit. because I become unable to sleep…]" },
+        { "jp": "明日の面接には遅れないようにしてください。", "kana": "あしたのめんせつにはおくれないようにしてください。", "romaji": "Ashita no mensetsu ni wa okurenai yō ni shite kudasai.", "en": "Please make sure you're not late for tomorrow's interview." }
+      ],
+      "pitfalls": [
+        "Effort ≠ change: \"I've come to understand the news\" is a result, not an effort: ニュースが分かるようにしました ✗ → ニュースが分かるようになりました ✓.",
+        "\"Make sure NOT to\" puts the negative before ように: コーヒーを飲むようにしません ✗ → コーヒーを飲まないようにしています ✓.",
+        "\"I make a point of…\" is not てみる: 毎日野菜を食べてみています ✗ → 毎日野菜を食べるようにしています ✓. てみる = try once and see (lesson 13-3).",
+        "For a one-off action right now, ようにしてください sounds odd: \"Please sit down\" → 座るようにしてください ✗ → 座ってください ✓. Keep ようにしてください for habits and care: 毎日薬を飲むようにしてください."
+      ],
+      "howToStudy": [
+        "Minimal pairs aloud: say each pair and tell yourself in English what the difference is: 早く起きるようになりました ⇄ 早く起きるようにしています; 野菜を食べるようになりました ⇄ 野菜を食べるようにしています.",
+        "Tap 🔬 on example 2: 眠れなく (NO PARTICLE) + なるので (REASON) together give the reason; 夜は is the TOPIC, コーヒーを the OBJECT, 飲まないように is tagged TARGET (read it as \"so as not to drink\") and しています is the PREDICATE. Read from the end: I make sure → of what? → not drinking coffee → when? → at night → why? → I can't sleep.",
+        "Speaking: say 3 efforts you are making for your Japanese with 〜ようにしています, and 1 thing you make sure not to do with 〜ないようにしています."
+      ],
+      "flag": null
+    }
+  ],
+  "media": [
+    { "order": 1, "kind": "video", "title": "Japanese Ammo with Misa: 〜ようになる and 〜ようにする", "where": "YouTube · Japanese Ammo with Misa channel", "url": "", "search": "Japanese Ammo with Misa you ni naru you ni suru", "when": "After point b, as a second explanation. If you can't find one video with both, search for each point separately." },
+    { "order": 2, "kind": "reading", "title": "JLPT Sensei: the grammar pages for 〜ようになる and 〜ようにする, with more example sentences", "where": "Website · JLPT Sensei (grammar lists by level)", "url": "", "search": "JLPT Sensei you ni naru", "when": "After the grammar block. Unofficial JLPT lists vary: if the site files these points under N4, that's fine — this lesson goes further." },
+    { "order": 3, "kind": "input", "title": "Nihongo con Teppei: listen to one episode and note every 〜ようになった or 〜ようにしている you catch", "where": "Podcast · Nihongo con Teppei", "url": "", "search": "Nihongo con Teppei podcast", "when": "Any day after the lesson. You don't need to understand everything: just listen for ように and the verb after it." }
+  ],
+  "homework": {
+    "intro": "Do it by hand in your notebook, with the kanji you know and kana for the rest. Before each ようになる / ようにする item, ask yourself: is this a change that happened, or an effort? Only then open the answer key, item by item. Circle what you got wrong and redo it the next day.",
+    "tasks": [
+      {
+        "id": "h1",
+        "type": "transform",
+        "prompt": "Describe the change with 〜ようになりました or 〜なくなりました. The brackets tell you what was true before and what is true now.",
+        "items": [
+          { "q": "(Before: couldn't read kanji. Now: can.) 漢字が読める", "a": { "jp": "漢字が読めるようになりました。", "kana": "かんじがよめるようになりました。", "romaji": "Kanji ga yomeru yō ni narimashita." }, "note": "A new ability: potential + ようになる." },
+          { "q": "(Before: took the bus. Since moving: goes to work by bike.) 自転車で会社に行く", "a": { "jp": "自転車で会社に行くようになりました。", "kana": "じてんしゃでかいしゃにいくようになりました。", "romaji": "Jitensha de kaisha ni iku yō ni narimashita." }, "note": "A new habit: dictionary form + ようになる." },
+          { "q": "(Before: watched TV every night. Now: doesn't.) テレビを見る", "a": { "jp": "テレビを見なくなりました。", "kana": "テレビをみなくなりました。", "romaji": "Terebi o minaku narimashita." }, "note": "Something that stopped: 見ない → 見なく + なる." },
+          { "q": "(Before: could eat spicy food. Now: can't.) 辛い物が食べられる", "a": { "jp": "辛い物が食べられなくなりました。", "kana": "からいものがたべられなくなりました。", "romaji": "Karai mono ga taberarenaku narimashita." }, "note": "An ability you lost: potential in the ない form (食べられない) → なく + なる." },
+          { "q": "(Before: song lyrics were just noise. Now: catches some words.) 歌の言葉が少し聞き取れる", "a": { "jp": "歌の言葉が少し聞き取れるようになりました。", "kana": "うたのことばがすこしききとれるようになりました。", "romaji": "Uta no kotoba ga sukoshi kikitoreru yō ni narimashita." } },
+          { "q": "(Before: couldn't cook. Now: makes simple dishes.) 簡単な料理が作れる", "a": { "jp": "簡単な料理が作れるようになりました。", "kana": "かんたんなりょうりがつくれるようになりました。", "romaji": "Kantan na ryōri ga tsukureru yō ni narimashita." } }
+        ]
+      },
+      {
+        "id": "h2",
+        "type": "choose",
+        "prompt": "Choose the right form for the situation and write the whole sentence. In the last item both are correct: say what each one means.",
+        "items": [
+          { "q": "(You decided to do it and you work at it.) 毎日十五分、日本語で日記を（書くようにしています／書くようになりました）。", "a": { "jp": "毎日十五分、日本語で日記を書くようにしています。", "kana": "まいにちじゅうごふん、にほんごでにっきをかくようにしています。", "romaji": "Mainichi jūgofun, nihongo de nikki o kaku yō ni shite imasu." }, "note": "Your own effort: する." },
+          { "q": "(It just happened after you moved next to a park.) 公園の近くに引っ越してから、よく（散歩するようにしています／散歩するようになりました）。", "a": { "jp": "公園の近くに引っ越してから、よく散歩するようになりました。", "kana": "こうえんのちかくにひっこしてから、よくさんぽするようになりました。", "romaji": "Kōen no chikaku ni hikkoshite kara, yoku sanpo suru yō ni narimashita." }, "note": "A change you noticed: なる." },
+          { "q": "(The teacher, to the class.) 宿題を（忘れないようにしてください／忘れないようになってください）。", "a": { "jp": "宿題を忘れないようにしてください。", "kana": "しゅくだいをわすれないようにしてください。", "romaji": "Shukudai o wasurenai yō ni shite kudasai." }, "note": "A request for care and effort: ようにしてください." },
+          { "q": "(After half a year of listening, with no special effort.) ニュースが少し（分かるようにしました／分かるようになりました）。", "a": { "jp": "ニュースが少し分かるようになりました。", "kana": "ニュースがすこしわかるようになりました。", "romaji": "Nyūsu ga sukoshi wakaru yō ni narimashita." }, "note": "分かる isn't something you do on purpose: it's a change, so なる." },
+          { "q": "(A resolution for the new year.) これからは、夜十二時までに（寝るようにします／寝るようになります）。", "a": { "jp": "これからは、夜十二時までに寝るようにします。", "kana": "これからは、よるじゅうにじまでにねるようにします。", "romaji": "Kore kara wa, yoru jūni-ji made ni neru yō ni shimasu." }, "note": "A decision about your own effort: する." },
+          { "q": "(About your friend Maria.) マリアさんは最近、甘い物を（食べなくなりました／食べないようにしています）。 Both are correct: what is the difference?", "a": { "jp": "食べなくなりました／食べないようにしています", "kana": "たべなくなりました／たべないようにしています", "romaji": "Tabenaku narimashita / tabenai yō ni shite imasu", "en": "She doesn't eat sweets anymore (a change) / She makes sure not to eat sweets (an effort)." }, "note": "なくなりました just reports the change. ないようにしています says she is working at it — maybe she is cutting down on sugar." }
+        ]
+      },
+      {
+        "id": "h3",
+        "type": "translate",
+        "prompt": "Translate into Japanese.",
+        "items": [
+          { "q": "I've gotten to where I can read hiragana quickly.", "a": { "jp": "ひらがなが速く読めるようになりました。", "kana": "ひらがながはやくよめるようになりました。", "romaji": "Hiragana ga hayaku yomeru yō ni narimashita." } },
+          { "q": "Lately I make a point of walking to the station.", "a": { "jp": "最近、駅まで歩くようにしています。", "kana": "さいきん、えきまであるくようにしています。", "romaji": "Saikin, eki made aruku yō ni shite imasu." } },
+          { "q": "Since I started working, I don't play games anymore.", "a": { "jp": "働き始めてから、ゲームをしなくなりました。", "kana": "はたらきはじめてから、ゲームをしなくなりました。", "romaji": "Hatarakihajimete kara, gēmu o shinaku narimashita." }, "note": "する → しない → しなく + なる." },
+          { "q": "Please make sure you don't forget your passport.", "a": { "jp": "パスポートを忘れないようにしてください。", "kana": "パスポートをわすれないようにしてください。", "romaji": "Pasupōto o wasurenai yō ni shite kudasai." } },
+          { "q": "I make sure not to look at my phone before bed.", "a": { "jp": "寝る前に、スマホを見ないようにしています。", "kana": "ねるまえに、スマホをみないようにしています。", "romaji": "Neru mae ni, sumaho o minai yō ni shite imasu." } }
+        ]
+      },
+      {
+        "id": "h4",
+        "type": "produce",
+        "prompt": "Write 5 true sentences about your life since you started Japanese: 2 new abilities or habits with ようになりました, 1 thing you stopped with なくなりました, and 2 efforts with ようにしています / ようにします. Read them aloud and record yourself on your phone.",
+        "items": [
+          { "q": "Model (match its structure, not its words):", "a": { "jp": "日本語の勉強を始めてから、ひらがなとカタカナが読めるようになりました。アニメの言葉も少し聞き取れるようになりました。前はよくゲームをしていましたが、あまりしなくなりました。今は、毎日三十分、単語を覚えるようにしています。これからは、週に一回、日本語で話すようにします。", "kana": "にほんごのべんきょうをはじめてから、ひらがなとカタカナがよめるようになりました。アニメのことばもすこしききとれるようになりました。まえはよくゲームをしていましたが、あまりしなくなりました。いまは、まいにちさんじゅっぷん、たんごをおぼえるようにしています。これからは、しゅうにいっかい、にほんごではなすようにします。", "romaji": "Nihongo no benkyō o hajimete kara, hiragana to katakana ga yomeru yō ni narimashita. Anime no kotoba mo sukoshi kikitoreru yō ni narimashita. Mae wa yoku gēmu o shite imashita ga, amari shinaku narimashita. Ima wa, mainichi sanjuppun, tango o oboeru yō ni shite imasu. Kore kara wa, shū ni ikkai, nihongo de hanasu yō ni shimasu.", "en": "Since I started studying Japanese, I've become able to read hiragana and katakana. I can also catch some of the words in anime now. I used to play games a lot, but I don't play much anymore. Now I make a point of memorizing words for thirty minutes every day. From now on, I'll make sure to speak Japanese once a week." }, "note": "Check: ability → potential + ようになる; habit → dictionary form + ようになる; stopped → なくなる; effort → ようにする; and the predicate at the end of every sentence." }
+        ]
+      }
+    ],
+    "workbook": []
+  },
+  "practice": [
+    { "tool": "Wagotabi", "what": "Play in the game's N3 areas. Hunt for 〜ようになる, 〜ようにする and 〜なくなる in the dialogues. Each time, pause and ask: is this a change that happened (なる) or an effort someone makes (する)? Log the session in Immersion → Games and paste one of those lines into 🔬 Anatomy.", "min": 15 },
+    { "tool": "NHK NEWS WEB EASY", "what": "Read one article and listen to its audio. News often reports changes with 〜ようになります / 〜ようになりました (\"from now on, you will be able to…\") and 〜なくなりました. Copy one such sentence into your notebook and write what changed, before → after. If you find none, copy a sentence with a potential verb and turn it into a ようになりました sentence.", "min": 10 },
+    { "tool": "ヅオリンゴー · Journal", "what": "Write 5 sentences of your own (homework h4): 3 changes and 2 efforts. Open \"Anatomy of what I wrote\" and check that each ように block (tagged TARGET) sits right before なりました or しています.", "min": 10 },
+    { "tool": "Shadowing", "what": "Tap 🔊 on each example and repeat along 3 times. Stress the last word — なりました or しています — because that one word flips the meaning between change and effort.", "min": 5 },
+    { "tool": "Speaking", "what": "Record a 40-second \"before and after\" about your life since you started Japanese: 2 changes with ようになりました, 1 with なくなりました, 2 efforts with ようにしています. Listen back and check each なる and する.", "min": 5 }
+  ],
+  "culture": {
+    "title": "ラジオたいそう: radio calisthenics",
+    "titleJp": "ラジオ体操",
+    "body": "**ラジオ体操** (radio calisthenics) is a short routine of stretches and light exercises done to piano music, with a voice on the radio calling out each move. It began in 1928, and NHK still broadcasts it every morning, so many people in Japan know the music and the moves by heart from childhood. During the summer holidays, many neighborhoods hold early-morning sessions in a park, and children often bring a card to get a stamp for each day they attend. Some companies and factories do it together before work, and many older people do it every day as a health habit. One session takes only a few minutes.",
+    "try": "Search for ラジオ体操第一 and follow along once. Then write two sentences in your notebook: one effort with ようにする (毎朝ラジオ体操をするようにしています) and one change with ようになる about your body (手が床につくようになりました — \"my hands can reach the floor now\")."
+  },
+  "checklist": [
+    "I can describe a new ability with potential + ようになりました (漢字が読めるようになりました) without looking.",
+    "I can describe a new habit with dictionary form + ようになりました, and something that stopped with 〜なくなりました.",
+    "I can say what I make a point of doing with 〜ようにしています, and what I make sure not to do with 〜ないようにしています.",
+    "I can ask someone to make sure to do something with 〜ようにしてください, and I know when a plain てください is better.",
+    "Given any sentence with ように + なる or する, I can say whether it is a change that happened or an effort.",
+    "I did the homework, checked it against the answer key and redid what I got wrong."
+  ]
+}

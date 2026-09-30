@@ -2,268 +2,267 @@
   "id": "03-2",
   "unit": "G1-L03",
   "genki": { "book": "Genki I", "lesson": 3, "points": ["Particles (を, で, に, へ)", "The Topic Particle は", "Word Order"] },
-  "title": "Partículas de ação",
+  "title": "Action particles",
   "titleJp": "どこで なにを しますか",
   "canDo": [
-    "Dizer o que eu faço, onde faço e para onde vou, com を, で e に / へ no lugar certo.",
-    "Olhar uma frase e dizer a função de cada bloco (tópico, tempo, lugar, destino, objeto, predicado) só pela partícula.",
-    "Escolher entre で e に perguntando: a pessoa faz algo lá ou vai até lá?",
-    "Fazer contraste com は: \"café eu bebo; bebida alcoólica, não\".",
-    "Montar uma frase a partir de blocos soltos: verbo no fim, tópico e tempo no começo."
+    "I can say what I do, where I do it and where I go, with を, で and に / へ in the right place.",
+    "I can look at a sentence and name the job of each block (topic, time, place, destination, object, predicate) just from its particle.",
+    "I can choose between で and に by asking: does the person do something there, or go there?",
+    "I can contrast things with は: \"Coffee, I drink; alcohol, I don't\".",
+    "I can build a sentence from loose blocks: verb at the end, topic and time at the start."
   ],
   "duration": {
     "total": "70–90 min",
     "blocks": [
-      { "t": "Aquecimento: conjugar em voz alta 8 verbos da Aula 03-1 (ます / ません)", "min": 5 },
-      { "t": "Vocabulário: ouvir 🔊 e repetir, separando lugares, coisas e palavras de tempo", "min": 10 },
-      { "t": "Sessão 1 · Gramática: を, で, に / へ (pontos 4a–4c), com os exemplos em voz alta e 🔬", "min": 20 },
-      { "t": "Sessão 2 · Gramática: は e a ordem da frase (pontos 4d–4e), com 🧱 Montar de trás pra frente", "min": 20 },
-      { "t": "Vídeos da Lição 3 (bloco 6), pausando nos exemplos com partículas", "min": 10 },
-      { "t": "Lição de casa no caderno + conferir no gabarito", "min": 20 },
-      { "t": "Checklist (bloco 10) + anotar dúvidas no caderno da aula", "min": 5 }
+      { "t": "Warm-up: conjugate 8 verbs from lesson 03-1 out loud (ます / ません)", "min": 5 },
+      { "t": "Vocabulary: tap 🔊 and repeat, sorting the words into places, things and time words", "min": 10 },
+      { "t": "Session 1 · Grammar: を, で, に / へ (points 4a–4c), with the examples read aloud and 🔬", "min": 20 },
+      { "t": "Session 2 · Grammar: は and word order (points 4d–4e), with 🧱 Build from the end", "min": 20 },
+      { "t": "Lesson 3 videos (block 6), pausing on the examples with particles", "min": 10 },
+      { "t": "Notebook homework + checking it against the answer key", "min": 20 },
+      { "t": "Checklist (block 10) + write your questions in the lesson notebook", "min": 5 }
     ]
   },
   "prereqs": {
     "aulas": ["01-1", "03-1"],
     "skills": [
-      "Conjugar os verbos da Lição 3 em 〜ます / 〜ません (Aula 03-1).",
-      "Saber que は marca o tópico e se lê wa (Aula 01-1).",
-      "Aula densa: faça em 2 sessões. A 1ª vai até o ponto 4c; a 2ª começa no 4d e inclui a lição de casa."
+      "Conjugating the Lesson 3 verbs into 〜ます / 〜ません (lesson 03-1).",
+      "Knowing that は marks the topic and is read wa (lesson 01-1).",
+      "A dense lesson: do it in 2 sessions. Session 1 goes up to point 4c; session 2 starts at 4d and includes the homework."
     ],
     "vocab": [
-      { "jp": "がっこう", "kana": "がっこう", "romaji": "gakkō", "pt": "escola" },
-      { "jp": "だいがく", "kana": "だいがく", "romaji": "daigaku", "pt": "universidade, faculdade" },
-      { "jp": "としょかん", "kana": "としょかん", "romaji": "toshokan", "pt": "biblioteca" },
-      { "jp": "うち", "kana": "うち", "romaji": "uchi", "pt": "casa, lar (a minha casa)" },
-      { "jp": "ざっし", "kana": "ざっし", "romaji": "zasshi", "pt": "revista" },
-      { "jp": "ほん", "kana": "ほん", "romaji": "hon", "pt": "livro" },
-      { "jp": "おんがく", "kana": "おんがく", "romaji": "ongaku", "pt": "música" },
-      { "jp": "えいが", "kana": "えいが", "romaji": "eiga", "pt": "filme" },
-      { "jp": "テレビ", "kana": "テレビ", "romaji": "terebi", "pt": "televisão" },
-      { "jp": "テニス", "kana": "テニス", "romaji": "tenisu", "pt": "tênis (o esporte)" },
-      { "jp": "おちゃ", "kana": "おちゃ", "romaji": "ocha", "pt": "chá (em geral, chá verde)" },
-      { "jp": "コーヒー", "kana": "コーヒー", "romaji": "kōhī", "pt": "café (a bebida)" },
-      { "jp": "おさけ", "kana": "おさけ", "romaji": "osake", "pt": "bebida alcoólica; saquê" },
-      { "jp": "にく", "kana": "にく", "romaji": "niku", "pt": "carne" },
-      { "jp": "さかな", "kana": "さかな", "romaji": "sakana", "pt": "peixe" },
-      { "jp": "すし", "kana": "すし", "romaji": "sushi", "pt": "sushi" },
-      { "jp": "ひるごはん", "kana": "ひるごはん", "romaji": "hirugohan", "pt": "almoço" },
-      { "jp": "ばんごはん", "kana": "ばんごはん", "romaji": "bangohan", "pt": "jantar" },
-      { "jp": "どこ", "kana": "どこ", "romaji": "doko", "pt": "onde" },
-      { "jp": "なに", "kana": "なに", "romaji": "nani", "pt": "o quê (antes de を: なにを)" },
-      { "jp": "でも", "kana": "でも", "romaji": "demo", "pt": "mas, porém (no começo da frase)" },
-      { "jp": "きょう", "kana": "きょう", "romaji": "kyō", "pt": "hoje" },
-      { "jp": "こんばん", "kana": "こんばん", "romaji": "konban", "pt": "hoje à noite" },
-      { "jp": "しゅうまつ", "kana": "しゅうまつ", "romaji": "shūmatsu", "pt": "fim de semana" },
-      { "jp": "よる", "kana": "よる", "romaji": "yoru", "pt": "noite; à noite" }
+      { "jp": "がっこう", "kana": "がっこう", "romaji": "gakkō", "en": "school" },
+      { "jp": "だいがく", "kana": "だいがく", "romaji": "daigaku", "en": "university, college" },
+      { "jp": "としょかん", "kana": "としょかん", "romaji": "toshokan", "en": "library" },
+      { "jp": "うち", "kana": "うち", "romaji": "uchi", "en": "home, house (my home)" },
+      { "jp": "ざっし", "kana": "ざっし", "romaji": "zasshi", "en": "magazine" },
+      { "jp": "ほん", "kana": "ほん", "romaji": "hon", "en": "book" },
+      { "jp": "おんがく", "kana": "おんがく", "romaji": "ongaku", "en": "music" },
+      { "jp": "えいが", "kana": "えいが", "romaji": "eiga", "en": "movie" },
+      { "jp": "テレビ", "kana": "テレビ", "romaji": "terebi", "en": "TV, television" },
+      { "jp": "テニス", "kana": "テニス", "romaji": "tenisu", "en": "tennis" },
+      { "jp": "おちゃ", "kana": "おちゃ", "romaji": "ocha", "en": "tea (usually green tea)" },
+      { "jp": "コーヒー", "kana": "コーヒー", "romaji": "kōhī", "en": "coffee" },
+      { "jp": "おさけ", "kana": "おさけ", "romaji": "osake", "en": "alcohol, alcoholic drinks; sake" },
+      { "jp": "にく", "kana": "にく", "romaji": "niku", "en": "meat" },
+      { "jp": "さかな", "kana": "さかな", "romaji": "sakana", "en": "fish" },
+      { "jp": "すし", "kana": "すし", "romaji": "sushi", "en": "sushi" },
+      { "jp": "ひるごはん", "kana": "ひるごはん", "romaji": "hirugohan", "en": "lunch" },
+      { "jp": "ばんごはん", "kana": "ばんごはん", "romaji": "bangohan", "en": "dinner" },
+      { "jp": "どこ", "kana": "どこ", "romaji": "doko", "en": "where" },
+      { "jp": "なに", "kana": "なに", "romaji": "nani", "en": "what (the form used before を: なにを)" },
+      { "jp": "でも", "kana": "でも", "romaji": "demo", "en": "but, however (at the start of a sentence)" },
+      { "jp": "きょう", "kana": "きょう", "romaji": "kyō", "en": "today" },
+      { "jp": "こんばん", "kana": "こんばん", "romaji": "konban", "en": "tonight, this evening" },
+      { "jp": "しゅうまつ", "kana": "しゅうまつ", "romaji": "shūmatsu", "en": "weekend" },
+      { "jp": "よる", "kana": "よる", "romaji": "yoru", "en": "night; at night" }
     ]
   },
   "grammar": [
     {
       "id": "03-2-a",
       "gc": "3-3",
-      "title": "を: o objeto",
-      "gloss": "responde \"o quê?\"",
-      "explanation": "Uma frase com verbo é uma fila de **blocos**, e cada bloco é [palavra + partícula]. A partícula é a **etiqueta** que diz qual é a função daquele bloco. A primeira etiqueta desta aula é **を** (lê-se **o**).\n• を vai **depois** da coisa que recebe a ação: o que se come, bebe, vê, lê, ouve ou faz. O bloco [coisa + を] é o **OBJETO** e responde à pergunta **\"o quê?\"** feita ao verbo do fim.\n• コーヒーを のみます: \"bebo o quê?\" → café.\n• A etiqueta fica **atrás** da palavra. O português diz \"bebo café\"; o japonês diz \"café-を bebo\".\n• Com する, o objeto costuma ser uma atividade: テニスを します (\"jogo tênis\", literalmente \"faço tênis\").\n• Pergunta: troque a coisa por **なに** e mantenha o を: なにを たべますか。 (\"o que você come?\")\n• Verbos de movimento (いく, くる, かえる) **não** levam を para dizer aonde se vai: o destino tem outra etiqueta (ponto 4c).",
-      "structure": "[coisa] を [verbo]  → responde \"o quê?\"",
+      "title": "を: the object",
+      "gloss": "answers \"what?\"",
+      "explanation": "A sentence with a verb is a row of **blocks**, and each block is [word + particle]. The particle is the **label** that says what job that block does. The first label in this lesson is **を** (read **o**).\n• を goes **after** the thing that receives the action: what is eaten, drunk, watched, read, listened to or done. The block [thing + を] is the **OBJECT**, and it answers the question **\"what?\"** asked of the verb at the end.\n• コーヒーを のみます: \"I drink what?\" → coffee.\n• The label goes **after** the word. English says \"I drink coffee\"; Japanese says \"coffee-を drink\".\n• With する, the object is often an activity: テニスを します (\"I play tennis\", literally \"I do tennis\").\n• Questions: replace the thing with **なに** and keep を: なにを たべますか。 (\"What do you eat?\")\n• Verbs of movement (いく, くる, かえる) do **not** take を to say where someone goes: the destination has a different label (point 4c).",
+      "structure": "[thing] を [verb]  → answers \"what?\"",
       "examples": [
-        { "jp": "アナさんは ざっしを よみます。", "kana": "アナさんは ざっしを よみます。", "romaji": "Ana-san wa zasshi o yomimasu.", "pt": "A Ana lê revistas." },
-        { "jp": "ルーカスさんは よる おんがくを ききます。", "kana": "ルーカスさんは よる おんがくを ききます。", "romaji": "Rūkasu-san wa yoru ongaku o kikimasu.", "pt": "O Lucas ouve música à noite." },
-        { "jp": "なにを たべますか。— すしを たべます。", "kana": "なにを たべますか。— すしを たべます。", "romaji": "Nani o tabemasu ka. — Sushi o tabemasu.", "pt": "O que você vai comer? — Vou comer sushi." }
+        { "jp": "アナさんは ざっしを よみます。", "kana": "アナさんは ざっしを よみます。", "romaji": "Ana-san wa zasshi o yomimasu.", "en": "Ana reads magazines." },
+        { "jp": "ルーカスさんは よる おんがくを ききます。", "kana": "ルーカスさんは よる おんがくを ききます。", "romaji": "Rūkasu-san wa yoru ongaku o kikimasu.", "en": "Lucas listens to music at night." },
+        { "jp": "なにを たべますか。— すしを たべます。", "kana": "なにを たべますか。— すしを たべます。", "romaji": "Nani o tabemasu ka. — Sushi o tabemasu.", "en": "What will you eat? — I'll eat sushi." }
       ],
       "pitfalls": [
-        "を se lê \"o\", mas se escreve sempre com を: コーヒーを ✓ × コーヒーお ✗.",
-        "Destino não é objeto: だいがくに いきます ✓ × だいがくを いきます ✗.",
-        "\"O que\" antes de を é なに: なにを のみますか ✓ × なんを のみますか ✗."
+        "を is read \"o\", but it is always written with を: コーヒーお ✗ → コーヒーを ✓.",
+        "A destination is not an object: だいがくを いきます ✗ → だいがくに いきます ✓.",
+        "\"What\" before を is なに: なんを のみますか ✗ → なにを のみますか ✓."
       ],
       "howToStudy": [
-        "Para cada verbo da Lição 3, diga em voz alta uma coisa + を: ほんを よみます, おちゃを のみます, テレビを みます…",
-        "Aperte 🔬 nos exemplos: o bloco com を aparece como OBJETO. Faça a pergunta \"o quê?\" ao ★ PREDICADO e confira se a resposta é esse bloco.",
-        "No caderno, escreva 3 frases \"eu faço X\" e 3 \"eu não faço X\" (〜を 〜ません)."
+        "For each Lesson 3 verb, say out loud one thing + を: ほんを よみます, おちゃを のみます, テレビを みます…",
+        "Tap 🔬 on the examples: the block with を shows up as OBJECT. Ask the ★ PREDICATE \"what?\" and check that the answer is that block.",
+        "In your notebook, write 3 sentences \"I do X\" and 3 \"I don't do X\" (〜を 〜ません)."
       ],
       "flag": null
     },
     {
       "id": "03-2-b",
       "gc": null,
-      "title": "で: onde a ação acontece",
-      "gloss": "o palco da ação",
-      "explanation": "で marca **o lugar onde a ação acontece**: o palco em que alguém come, estuda, assiste, joga. O bloco [lugar + で] é o **LUGAR DA AÇÃO** e responde a **\"onde (acontece)?\"**.\n• としょかんで べんきょうします: estudo onde? → na biblioteca.\n• Use で com verbos de **atividade**: たべる, のむ, みる, よむ, きく, する, べんきょうする…\n• O português usa \"em\" para tudo (\"em casa\", \"na biblioteca\"). O japonês separa: o \"em\" de **atividade** é で; o \"para\" de **destino** é に / へ (próximo ponto). A pergunta que decide é: **a pessoa faz algo lá (で) ou vai até lá (に)?**\n• Pergunta: どこで 〜ますか。 (\"onde você…?\")\n• Dizer onde uma coisa **está** (existe) é outra estrutura, com に e outro verbo (Aula 04-1).\n• で tem mais um uso, o **meio** (\"de ônibus\"), que fica para a Aula 10-3. Nesta aula, で = lugar da ação.",
-      "structure": "[lugar] で [objeto] を [verbo]  → で responde \"onde acontece?\"",
+      "title": "で: where the action happens",
+      "gloss": "the stage of the action",
+      "explanation": "で marks **the place where an action happens**: the stage where someone eats, studies, watches or plays. The block [place + で] is the **PLACE** of the action, and it answers **\"where does it happen?\"**.\n• としょかんで べんきょうします: I study where? → at the library.\n• Use で with **activity** verbs: たべる, のむ, みる, よむ, きく, する, べんきょうする…\n• English helps here: \"**at / in** the library\" for where you do something is で; \"**to** the library\" for where you go is に / へ (next point). The question that decides it is: **does the person do something there (で) or go there (に)?**\n• Questions: どこで 〜ますか。 (\"Where do you…?\")\n• Saying where a thing **is** (exists) is a different structure, with に and another verb (lesson 04-1).\n• で has one more use, the **means** (\"by bus\"), which waits until lesson 10-3. In this lesson, で = the place of the action.",
+      "structure": "[place] で [object] を [verb]  → で answers \"where does it happen?\"",
       "examples": [
-        { "jp": "わたしは としょかんで ほんを よみます。", "kana": "わたしは としょかんで ほんを よみます。", "romaji": "Watashi wa toshokan de hon o yomimasu.", "pt": "Eu leio livros na biblioteca." },
-        { "jp": "すずきさんは だいがくで テニスを します。", "kana": "すずきさんは だいがくで テニスを します。", "romaji": "Suzuki-san wa daigaku de tenisu o shimasu.", "pt": "A Suzuki joga tênis na faculdade." },
-        { "jp": "どこで ひるごはんを たべますか。— がっこうで たべます。", "kana": "どこで ひるごはんを たべますか。— がっこうで たべます。", "romaji": "Doko de hirugohan o tabemasu ka. — Gakkō de tabemasu.", "pt": "Onde você almoça? — Almoço na escola." }
+        { "jp": "わたしは としょかんで ほんを よみます。", "kana": "わたしは としょかんで ほんを よみます。", "romaji": "Watashi wa toshokan de hon o yomimasu.", "en": "I read books at the library." },
+        { "jp": "すずきさんは だいがくで テニスを します。", "kana": "すずきさんは だいがくで テニスを します。", "romaji": "Suzuki-san wa daigaku de tenisu o shimasu.", "en": "Mr./Ms. Suzuki plays tennis at the university." },
+        { "jp": "どこで ひるごはんを たべますか。— がっこうで たべます。", "kana": "どこで ひるごはんを たべますか。— がっこうで たべます。", "romaji": "Doko de hirugohan o tabemasu ka. — Gakkō de tabemasu.", "en": "Where do you eat lunch? — I eat at school." }
       ],
       "pitfalls": [
-        "Lugar de atividade é で: としょかんで べんきょうします ✓ × としょかんに べんきょうします ✗.",
-        "Lugar para onde se vai não é で: リオに いきます ✓ × リオで いきます ✗.",
-        "O \"de\" de \"ir de ônibus\" também não é の: バスで ✓ × バスの ✗. Esse で (meio) volta na Aula 10-3."
+        "A place of activity takes で: としょかんに べんきょうします ✗ → としょかんで べんきょうします ✓.",
+        "A place you go to does not take で: リオで いきます ✗ → リオに いきます ✓.",
+        "English uses \"in / at\" both for where you do something and for where something is. Japanese splits them: で is only for where an **action** happens; where something simply **is** uses に and another verb (lesson 04-1)."
       ],
       "howToStudy": [
-        "Pense em 3 lugares da sua rotina (うち, だいがく, としょかん…) e diga em voz alta o que você faz em cada um: うちで 〜を 〜ます。",
-        "Teste da pergunta: antes de escolher で ou に, pergunte \"FAZ algo lá ou VAI até lá?\". Faça isso em voz alta com cada frase da lição de casa.",
-        "Aperte 🔬 nos exemplos: o bloco com で aparece como LUGAR DA AÇÃO. Leia o ★ PREDICADO e pergunte \"onde?\"."
+        "Think of 3 places in your routine (うち, だいがく, としょかん…) and say out loud what you do in each one: うちで 〜を 〜ます。",
+        "The question test: before choosing で or に, ask \"do they DO something there, or GO there?\". Do this out loud with every sentence in the homework.",
+        "Tap 🔬 on the examples: the block with で shows up as PLACE. Read the ★ PREDICATE and ask it \"where?\"."
       ],
       "flag": null
     },
     {
       "id": "03-2-c",
       "gc": null,
-      "title": "に / へ: para onde (destino)",
-      "gloss": "a seta do movimento",
-      "explanation": "に e へ marcam o **destino** dos verbos de movimento: いく (ir), くる (vir), かえる (voltar para casa). O bloco [lugar + に / へ] é o **DESTINO** e responde a **\"para onde?\"**.\n• だいがくに いきます = だいがくへ いきます: \"vou para a faculdade\".\n• へ, como partícula, se lê **e**, e não \"he\", do mesmo jeito que は se lê wa.\n• Para destino, os dois são praticamente intercambiáveis. へ põe um pouco mais de peso na **direção** (\"rumo a\"); に, no **ponto de chegada**. Na dúvida, use に.\n• に tem outros usos que へ não tem, como o horário (しちじに, Aula 03-3). Por isso, **へ serve só para direção**.\n• かえる é \"voltar para a sua base\": うちに かえります (volto pra casa), ブラジルに かえります (volto para o Brasil).\n• Pergunta: どこに いきますか。 / どこへ いきますか。",
-      "structure": "[destino] に / へ [いく・くる・かえる]  → responde \"para onde?\"",
+      "title": "に / へ: where to (destination)",
+      "gloss": "the arrow of movement",
+      "explanation": "に and へ mark the **destination** of verbs of movement: いく (to go), くる (to come), かえる (to go back home). The block [place + に / へ] is the **DESTINATION**, and it answers **\"where to?\"**.\n• だいがくに いきます = だいがくへ いきます: \"I go to the university\".\n• As a particle, へ is read **e**, not \"he\" — just as は is read wa.\n• For destinations the two are practically interchangeable. へ puts a little more weight on the **direction** (\"toward\"); に, on the **point of arrival**. When in doubt, use に.\n• に has other uses that へ doesn't, such as clock times (しちじに, lesson 03-3). So **へ is only for direction**.\n• かえる means going back to your base: うちに かえります (I go home), ブラジルに かえります (I go back to Brazil).\n• Questions: どこに いきますか。 / どこへ いきますか。",
+      "structure": "[destination] に / へ [いく・くる・かえる]  → answers \"where to?\"",
       "examples": [
-        { "jp": "マリアさんは あした リオに いきます。", "kana": "マリアさんは あした リオに いきます。", "romaji": "Maria-san wa ashita Rio ni ikimasu.", "pt": "A Maria vai para o Rio amanhã." },
-        { "jp": "たなかさんは にほんへ かえります。", "kana": "たなかさんは にほんへ かえります。", "romaji": "Tanaka-san wa Nihon e kaerimasu.", "pt": "O Sr. Tanaka volta para o Japão." },
-        { "jp": "どこへ いきますか。— としょかんに いきます。", "kana": "どこへ いきますか。— としょかんに いきます。", "romaji": "Doko e ikimasu ka. — Toshokan ni ikimasu.", "pt": "Aonde você vai? — Vou à biblioteca." }
+        { "jp": "マリアさんは あした リオに いきます。", "kana": "マリアさんは あした リオに いきます。", "romaji": "Maria-san wa ashita Rio ni ikimasu.", "en": "Maria is going to Rio tomorrow." },
+        { "jp": "たなかさんは にほんへ かえります。", "kana": "たなかさんは にほんへ かえります。", "romaji": "Tanaka-san wa Nihon e kaerimasu.", "en": "Mr./Ms. Tanaka is going back to Japan." },
+        { "jp": "どこへ いきますか。— としょかんに いきます。", "kana": "どこへ いきますか。— としょかんに いきます。", "romaji": "Doko e ikimasu ka. — Toshokan ni ikimasu.", "en": "Where are you going? — I'm going to the library." }
       ],
       "pitfalls": [
-        "へ como partícula se lê \"e\": にほんへ = \"Nihon e\" ✓ × \"Nihon he\" ✗.",
-        "Destino de movimento não leva を nem で: うちに かえります ✓ × うちを かえります ✗ × うちで かえります ✗.",
-        "へ não marca horário: しちじに おきます ✓ × しちじへ おきます ✗.",
-        "かえる é voltar para casa (ou para o país ou a cidade onde você mora). Voltar à faculdade depois do almoço não é かえる: だいがくに かえります ✗, a não ser que você more lá. Para \"retornar\" a um lugar qualquer, o japonês usa outro verbo (もどる), que não é desta lição."
+        "へ as a particle is read \"e\": にほんへ = \"Nihon he\" ✗ → \"Nihon e\" ✓.",
+        "English \"go home\" has no \"to\", but Japanese still needs the destination particle — and it is never を or で: うち かえります ✗ / うちを かえります ✗ / うちで かえります ✗ → うちに かえります ✓.",
+        "へ does not mark clock times: しちじへ おきます ✗ → しちじに おきます ✓.",
+        "かえる means going back home (or to the country or city where you live). Going back to the university after lunch is not かえる: だいがくに かえります ✗, unless you live there. To \"go back\" to any other place, Japanese uses another verb (もどる), which is not in this lesson."
       ],
       "howToStudy": [
-        "Diga em voz alta 3 lugares aonde você vai sempre e 1 aonde você não vai: 〜に いきます / 〜に いきません.",
-        "Leia em voz alta 5 destinos com へ, cuidando para dizer \"e\": にほんへ, うちへ, がっこうへ, リオへ, だいがくへ.",
-        "No caderno, faça 3 pares com lugares diferentes: \"vou à biblioteca\" (としょかんに いきます) × \"estudo na biblioteca\" (としょかんで べんきょうします)."
+        "Say out loud 3 places you always go to and 1 place you don't: 〜に いきます / 〜に いきません.",
+        "Read out loud 5 destinations with へ, making sure you say \"e\": にほんへ, うちへ, がっこうへ, リオへ, だいがくへ.",
+        "In your notebook, write 3 pairs with different places: \"I go to the library\" (としょかんに いきます) × \"I study at the library\" (としょかんで べんきょうします)."
       ],
       "flag": null
     },
     {
       "id": "03-2-d",
       "gc": "3-4",
-      "title": "は: tópico e contraste",
-      "gloss": "\"quanto a…\"",
-      "explanation": "Você conhece は da Aula 01-1: ele marca o **TÓPICO**, o assunto de que a frase vai falar (\"quanto a X…\"). Com verbos, o tópico costuma ser a pessoa: わたしは おちゃを のみます (\"quanto a mim, bebo chá\").\n• は é o **cabeçalho** da frase, não uma etiqueta de \"quem faz\". Muitas vezes o tópico é quem faz a ação (わたしは), mas várias coisas podem virar tópico: a pessoa, o objeto, o lugar, o tempo.\n• **Contraste:** は também coloca uma coisa em oposição a outra, dita ou só subentendida. コーヒーは のみます。おさけは のみません。 = \"Café eu bebo; bebida alcoólica, não.\"\n• Quando o objeto vira tópico, **は substitui を**: おさけを → おさけは.\n• Com で e に, **は entra depois** e a partícula fica: うちでは (\"em casa, …\"), がっこうには (\"para a escola, …\").\n• Numa frase negativa, は costuma soar como contraste: \"isso não (mas outra coisa, sim)\".\n• Se o tópico já está claro, ele some: não precisa repetir わたしは em toda frase.",
-      "structure": "[tópico] は …  ·  contraste: A は 〜ます。B は 〜ません。",
+      "title": "は: topic and contrast",
+      "gloss": "\"as for…\"",
+      "explanation": "You know は from lesson 01-1: it marks the **TOPIC**, what the sentence is going to talk about (\"as for X…\"). With verbs, the topic is usually the person: わたしは おちゃを のみます (\"as for me, I drink tea\").\n• は is the sentence's **heading**, not a \"who does it\" label. Often the topic is the one doing the action (わたしは), but many things can become the topic: the person, the object, the place, the time.\n• **Contrast:** は also sets one thing against another, whether the other is said or only implied. コーヒーは のみます。おさけは のみません。 = \"Coffee, I drink. Alcohol, I don't.\" English does something similar when it moves the object to the front and stresses it.\n• When the object becomes the topic, **は replaces を**: おさけを → おさけは.\n• With で and に, **は comes after** and the particle stays: うちでは (\"at home, …\"), がっこうには (\"to school, …\").\n• In a negative sentence, は often sounds like contrast: \"not this (but something else, yes)\".\n• If the topic is already clear, it disappears: you don't need to repeat わたしは in every sentence.",
+      "structure": "[topic] は …  ·  contrast: A は 〜ます。B は 〜ません。",
       "examples": [
-        { "jp": "コーヒーは のみます。おさけは のみません。", "kana": "コーヒーは のみます。おさけは のみません。", "romaji": "Kōhī wa nomimasu. Osake wa nomimasen.", "pt": "Café eu bebo. Bebida alcoólica, não." },
-        { "jp": "うちでは べんきょうしません。としょかんで べんきょうします。", "kana": "うちでは べんきょうしません。としょかんで べんきょうします。", "romaji": "Uchi de wa benkyō shimasen. Toshokan de benkyō shimasu.", "pt": "Em casa eu não estudo. Estudo na biblioteca." },
-        { "jp": "たなかさんは テレビを みます。すずきさんは みません。", "kana": "たなかさんは テレビを みます。すずきさんは みません。", "romaji": "Tanaka-san wa terebi o mimasu. Suzuki-san wa mimasen.", "pt": "O Tanaka vê TV. A Suzuki, não." }
+        { "jp": "コーヒーは のみます。おさけは のみません。", "kana": "コーヒーは のみます。おさけは のみません。", "romaji": "Kōhī wa nomimasu. Osake wa nomimasen.", "en": "Coffee, I drink. Alcohol, I don't. [lit. as for coffee, (I) drink; as for alcohol, (I) don't drink]" },
+        { "jp": "うちでは べんきょうしません。としょかんで べんきょうします。", "kana": "うちでは べんきょうしません。としょかんで べんきょうします。", "romaji": "Uchi de wa benkyō shimasen. Toshokan de benkyō shimasu.", "en": "At home, I don't study. I study at the library." },
+        { "jp": "たなかさんは テレビを みます。すずきさんは みません。", "kana": "たなかさんは テレビを みます。すずきさんは みません。", "romaji": "Tanaka-san wa terebi o mimasu. Suzuki-san wa mimasen.", "en": "Mr./Ms. Tanaka watches TV. Mr./Ms. Suzuki doesn't." }
       ],
       "pitfalls": [
-        "は e を não andam juntos: おさけは のみません ✓ × おさけをは のみません ✗.",
-        "では se escreve com は e se lê \"de wa\": うちでは ✓ × うちでわ ✗.",
-        "O tópico nem sempre é quem faz a ação: おさけは のみません = \"bebida alcoólica, (eu) não bebo\" ✓ × \"a bebida não bebe\" ✗."
+        "は and を don't go together: おさけをは のみません ✗ → おさけは のみません ✓.",
+        "では is written with は and read \"de wa\": うちでわ ✗ → うちでは ✓.",
+        "The topic is not always the one doing the action. おさけは のみません: \"the alcohol doesn't drink\" ✗ → \"alcohol, (I) don't drink (it)\" ✓."
       ],
       "howToStudy": [
-        "Fala: faça 3 pares de contraste verdadeiros sobre você (comidas, bebidas, lugares): 〜は 〜ます。〜は 〜ません。",
-        "Aperte 🔬 no exemplo do café: os blocos com は aparecem como TÓPICO, mesmo sendo coisas. Compare com a mesma frase com を (コーヒーを のみます).",
-        "Pegue 3 frases com を da lição de casa e transforme o objeto em contraste (を → は), acrescentando uma segunda frase com o oposto."
+        "Speaking: make 3 true contrast pairs about yourself (food, drinks, places): 〜は 〜ます。〜は 〜ません。",
+        "Tap 🔬 on the coffee example: the blocks with は show up as TOPIC, even though they are things. Compare it with the same sentence using を (コーヒーを のみます), where the block is an OBJECT.",
+        "Take 3 sentences with を from the homework and turn the object into a contrast (を → は), adding a second sentence with the opposite."
       ],
       "flag": null
     },
     {
       "id": "03-2-e",
       "gc": "3-8",
-      "title": "A ordem da frase: montando os blocos",
-      "gloss": "verbo no fim; tópico e tempo no começo",
-      "explanation": "Agora junte tudo. Uma frase japonesa é uma **fila de blocos** com etiquetas, e o **PREDICADO** (o verbo em ます) fecha a fila. A ordem mais comum é esta:\n• 1º **TÓPICO** [〜は]: de quem ou de que se fala.\n• 2º **TEMPO** [きょう, あした, こんばん…]: quando. Essas palavras vêm sem partícula; os horários levam に (Aula 03-3).\n• 3º **LUGAR DA AÇÃO** [〜で] ou **DESTINO** [〜に / へ]: onde acontece, ou para onde se vai.\n• 4º **OBJETO** [〜を]: o quê.\n• 5º **PREDICADO** [〜ます / 〜ません]: o que acontece. **Sempre no fim.**\n**Duas regras fixas:** o predicado fica no fim, e cada partícula fica **grudada atrás** da sua palavra.\n**Uma regra flexível:** os blocos do meio podem trocar de lugar, porque as etiquetas dizem quem é quem. わたしは としょかんで ほんを よみます e わたしは ほんを としょかんで よみます dizem a mesma coisa (a primeira é a mais comum). Tempo e tópico também podem trocar entre si no começo: こんばん、わたしは…\n**Como LER:** vá direto ao fim, ache o ★ predicado (よみます, \"leio\") e faça perguntas a ele: o quê? → ほんを. Onde? → としょかんで. Quem? → わたしは.\n**Como MONTAR:** faça o caminho inverso do português. Escolha o verbo e escreva-o no fim da linha; depois preencha da direita para a esquerda: objeto → lugar ou destino → tempo → tópico.\n**Pergunta:** troque o bloco pela palavra interrogativa, no mesmo lugar, e ponha か no fim: どこで ほんを よみますか。 / なにを よみますか。",
-      "structure": "[tópico] は + [tempo] + [lugar] で / [destino] に + [objeto] を + [verbo]ます",
+      "title": "Word order: putting the blocks together",
+      "gloss": "verb at the end; topic and time at the start",
+      "explanation": "Now put it all together. A Japanese sentence is a **row of labeled blocks**, and the **PREDICATE** (the verb in ます) closes the row. The most common order is this:\n• 1st **TOPIC** [〜は]: who or what the sentence is about.\n• 2nd **TIME** [きょう, あした, こんばん…]: when. These words take no particle; clock times take に (lesson 03-3).\n• 3rd **PLACE** [〜で] or **DESTINATION** [〜に / へ]: where it happens, or where someone goes.\n• 4th **OBJECT** [〜を]: what.\n• 5th **PREDICATE** [〜ます / 〜ません]: what happens. **Always at the end.**\n**Two fixed rules:** the predicate stays at the end, and each particle stays **stuck right after** its word.\n**One flexible rule:** the blocks in the middle can swap places, because the labels say which is which. わたしは としょかんで ほんを よみます and わたしは ほんを としょかんで よみます mean the same thing (the first is more common). Time and topic can also swap at the start: こんばん、わたしは…\n**How to READ:** go straight to the end, find the ★ predicate (よみます, \"read\") and ask it questions: what? → ほんを. Where? → としょかんで. Who? → わたしは.\n**How to BUILD:** after the topic, Japanese is roughly English in a mirror: \"(I) read books at the library today\" → きょう · としょかんで · ほんを · よみます. So choose the verb and write it at the end of the line; then fill in from right to left: object → place or destination → time → topic.\n**Questions:** replace the block with the question word, in the same place, and put か at the end: どこで ほんを よみますか。 / なにを よみますか。",
+      "structure": "[topic] は + [time] + [place] で / [destination] に + [object] を + [verb]ます",
       "examples": [
-        { "jp": "アナさんは きょう だいがくで にほんごを べんきょうします。", "kana": "アナさんは きょう だいがくで にほんごを べんきょうします。", "romaji": "Ana-san wa kyō daigaku de nihongo o benkyō shimasu.", "pt": "Hoje a Ana estuda japonês na faculdade. (tópico · tempo · lugar · objeto · predicado)" },
-        { "jp": "ペドロさんは しゅうまつ サンパウロに いきます。", "kana": "ペドロさんは しゅうまつ サンパウロに いきます。", "romaji": "Pedoro-san wa shūmatsu Sanpauro ni ikimasu.", "pt": "No fim de semana o Pedro vai a São Paulo. (tópico · tempo · destino · predicado)" },
-        { "jp": "こんばん、わたしは うちで えいがを みます。", "kana": "こんばん、わたしは うちで えいがを みます。", "romaji": "Konban, watashi wa uchi de eiga o mimasu.", "pt": "Hoje à noite eu vou ver um filme em casa. (tempo · tópico · lugar · objeto · predicado)" }
+        { "jp": "アナさんは きょう だいがくで にほんごを べんきょうします。", "kana": "アナさんは きょう だいがくで にほんごを べんきょうします。", "romaji": "Ana-san wa kyō daigaku de nihongo o benkyō shimasu.", "en": "Today Ana will study Japanese at the university. [topic · time · place · object · predicate]" },
+        { "jp": "ペドロさんは しゅうまつ サンパウロに いきます。", "kana": "ペドロさんは しゅうまつ サンパウロに いきます。", "romaji": "Pedoro-san wa shūmatsu Sanpauro ni ikimasu.", "en": "Pedro is going to São Paulo on the weekend. [topic · time · destination · predicate]" },
+        { "jp": "こんばん、わたしは うちで えいがを みます。", "kana": "こんばん、わたしは うちで えいがを みます。", "romaji": "Konban, watashi wa uchi de eiga o mimasu.", "en": "Tonight I'm going to watch a movie at home. [time · topic · place · object · predicate]" }
       ],
       "pitfalls": [
-        "O verbo não vai no meio, como em português: わたしは おちゃを のみます ✓ × わたしは のみます おちゃを ✗.",
-        "A partícula vem depois da palavra, nunca antes: うちで ✓ × でうち ✗ (o \"em casa\" do português engana).",
-        "Traduzir na ordem do português dá frase torta. \"O Pedro vai para o Rio amanhã\": ペドロさんは あした リオに いきます ✓ × ペドロさんは いきます リオに あした ✗.",
-        "Não esqueça a etiqueta dos blocos do meio: うちで おんがくを ききます ✓ × うち おんがく ききます ✗. Na conversa casual algumas partículas caem, mas no registro educado, e enquanto aprende, escreva todas."
+        "The verb doesn't go in the middle, as it does in English: わたしは のみます おちゃを ✗ → わたしは おちゃを のみます ✓.",
+        "English prepositions come before the noun (\"at home\"); Japanese particles always come after it: でうち ✗ → うちで ✓.",
+        "Translating in English order gives a broken sentence. \"Pedro is going to Rio tomorrow\": ペドロさんは いきます リオに あした ✗ → ペドロさんは あした リオに いきます ✓.",
+        "Don't forget the labels on the middle blocks: うち おんがく ききます ✗ → うちで おんがくを ききます ✓. In casual conversation some particles drop, but in polite speech — and while you are learning — write all of them."
       ],
       "howToStudy": [
-        "ヅオリンゴー → Treinos → 🔬 Anatomia → 🧱 Montar de trás pra frente: 5 frases. Comece sempre pelo ★ PREDICADO e vá para a esquerda.",
-        "Com papel: escreva cada bloco do primeiro exemplo (アナさんは / きょう / だいがくで / にほんごを / べんきょうします) num pedacinho, embaralhe e remonte em voz alta. Depois troque うちで e えいがを de lugar no terceiro exemplo e veja que o sentido não muda.",
-        "Leitura pelo fim: pegue 3 frases desta aula (ou de Wagotabi), leia primeiro o verbo e faça em voz alta as perguntas: o quê? onde? para onde? quando? quem?"
+        "ヅオリンゴー → Drills → 🔬 Anatomy → 🧱 Build from the end: 5 sentences. Always start with the ★ PREDICATE and work to the left.",
+        "On paper: write each block of the first example (アナさんは / きょう / だいがくで / にほんごを / べんきょうします) on a small slip, shuffle them and rebuild the sentence out loud. Then swap うちで and えいがを in the third example and notice that the meaning doesn't change.",
+        "Reading from the end: take 3 sentences from this lesson (or from Wagotabi), read the verb first and ask the questions out loud: what? where? where to? when? who?"
       ],
       "flag": null
     }
   ],
   "media": [
-    { "order": 1, "kind": "leitura", "title": "Genki I · Lição 3: as explicações de Particles (を, で, に, へ), The Topic Particle は e Word Order", "where": "Seu livro Genki I (3ª ed.)", "url": "", "when": "Antes desta aula ou entre a sessão 1 e a sessão 2" },
-    { "order": 2, "kind": "video", "title": "ToKini Andy: aula da Lição 3 do Genki I (partículas e ordem da frase)", "where": "YouTube · canal ToKini Andy", "url": "", "search": "ToKini Andy Genki Lesson 3 particles", "when": "Depois dos pontos 4a–4c" },
-    { "order": 3, "kind": "video", "title": "Japanese Ammo with Misa: as partículas を, で, に e へ", "where": "YouTube · canal Japanese Ammo with Misa", "url": "", "search": "Japanese Ammo with Misa particles を で に へ", "when": "Na sessão 2, se ainda confundir で e に" },
-    { "order": 4, "kind": "app", "title": "genki-companion: Lição 3, pontos 3, 4 e 8 (marque ✍️ quando terminar)", "where": "../genki-companion/index.html", "url": "../genki-companion/index.html", "when": "No fim, para revisar e marcar o progresso" }
+    { "order": 1, "kind": "reading", "title": "Genki I · Lesson 3: the grammar notes Particles (を, で, に, へ), The Topic Particle は and Word Order", "where": "Your Genki I textbook (3rd ed.)", "url": "", "when": "Before this lesson or between session 1 and session 2" },
+    { "order": 2, "kind": "video", "title": "Japanese Ammo with Misa: the particles を, で, に and へ", "where": "YouTube · Japanese Ammo with Misa channel", "url": "", "search": "Japanese Ammo with Misa particles を で に へ", "when": "In session 2, if you still mix up で and に" },
+    { "order": 3, "kind": "app", "title": "genki-companion: Lesson 3, points 3, 4 and 8 (tick ✍️ when you finish)", "where": "../genki-companion/index.html", "url": "../genki-companion/index.html", "when": "At the end, to review and mark your progress" }
   ],
   "homework": {
-    "intro": "Faça no caderno, à mão, escrevendo o japonês em kana. Nas tarefas de montar, escreva primeiro o verbo, no fim da linha, e preencha para a esquerda. Só depois abra o gabarito, item por item. Circule o que errou e refaça no dia seguinte.",
+    "intro": "Do it by hand in your notebook, writing the Japanese in kana. In the building tasks, write the verb first, at the end of the line, and fill in toward the left. Only then open the answer key, item by item. Circle what you got wrong and redo it the next day.",
     "tasks": [
       {
         "id": "h1",
-        "type": "completar",
-        "prompt": "Complete com を, で, に / へ ou は.",
+        "type": "fill",
+        "prompt": "Fill in を, で, に / へ or は.",
         "items": [
-          { "q": "わたしは まいにち コーヒー＿ のみます。", "a": { "jp": "を", "romaji": "o" }, "note": "\"Bebo o quê?\" → café: objeto." },
-          { "q": "マリアさんは としょかん＿ べんきょうします。", "a": { "jp": "で", "romaji": "de" }, "note": "Ela FAZ algo lá: lugar da ação." },
-          { "q": "ルーカスさんは あした リオ＿ いきます。", "a": { "jp": "に", "romaji": "ni", "pt": "(へ também está certo)" }, "note": "Ele VAI até lá: destino." },
-          { "q": "コーヒーは のみます。でも、おちゃ＿ のみません。", "a": { "jp": "は", "romaji": "wa" }, "note": "Contraste: おちゃ vira tópico, e o は substitui o を." },
-          { "q": "がっこう＿ ひるごはんを たべます。", "a": { "jp": "で", "romaji": "de" }, "note": "Comer é atividade: o lugar leva で." },
-          { "q": "たなかさんは にほん＿ かえります。", "a": { "jp": "に", "romaji": "ni", "pt": "(へ também está certo)" }, "note": "かえる é movimento: destino com に / へ." }
+          { "q": "わたしは まいにち コーヒー＿ のみます。", "a": { "jp": "を", "romaji": "o" }, "note": "\"I drink what?\" → coffee: the object." },
+          { "q": "マリアさんは としょかん＿ べんきょうします。", "a": { "jp": "で", "romaji": "de" }, "note": "She DOES something there: the place of the action." },
+          { "q": "ルーカスさんは あした リオ＿ いきます。", "a": { "jp": "に", "romaji": "ni", "en": "(へ is also correct)" }, "note": "He GOES there: the destination." },
+          { "q": "コーヒーは のみます。でも、おちゃ＿ のみません。", "a": { "jp": "は", "romaji": "wa" }, "note": "Contrast: おちゃ becomes a topic, and は replaces を." },
+          { "q": "がっこう＿ ひるごはんを たべます。", "a": { "jp": "で", "romaji": "de" }, "note": "Eating is an activity: the place takes で." },
+          { "q": "たなかさんは にほん＿ かえります。", "a": { "jp": "に", "romaji": "ni", "en": "(へ is also correct)" }, "note": "かえる is movement: a destination with に / へ." }
         ]
       },
       {
         "id": "h2",
-        "type": "ordenar",
-        "prompt": "Ordene os blocos e escreva a frase. Depois escreva, em cima de cada bloco, a função dele (tópico, tempo, lugar, destino, objeto, predicado). Dica: ache primeiro o verbo (vai para o fim) e o tópico (vai para o começo).",
+        "type": "order",
+        "prompt": "Put the blocks in order and write the sentence. Then write the job of each block above it (topic, time, place, destination, object, predicate). Tip: find the verb first (it goes at the end) and the topic (it goes at the start).",
         "items": [
-          { "q": "のみます ／ わたしは ／ おちゃを", "a": { "jp": "わたしは おちゃを のみます。", "romaji": "Watashi wa ocha o nomimasu.", "pt": "tópico · objeto · ★ predicado. \"Eu bebo chá.\"" } },
-          { "q": "よみます ／ としょかんで ／ アナさんは ／ ざっしを", "a": { "jp": "アナさんは としょかんで ざっしを よみます。", "romaji": "Ana-san wa toshokan de zasshi o yomimasu.", "pt": "tópico · lugar · objeto · ★ predicado. \"A Ana lê revistas na biblioteca.\"" } },
-          { "q": "かえりません ／ こんばん ／ やまださんは ／ うちに", "a": { "jp": "やまださんは こんばん うちに かえりません。", "romaji": "Yamada-san wa konban uchi ni kaerimasen.", "pt": "tópico · tempo · destino · ★ predicado. \"O(A) Sr(a). Yamada não volta para casa hoje à noite.\"" }, "note": "こんばん、やまださんは… também está certo: tempo e tópico podem trocar no começo." },
-          { "q": "みます ／ しゅうまつ ／ うちで ／ わたしは ／ えいがを", "a": { "jp": "わたしは しゅうまつ うちで えいがを みます。", "romaji": "Watashi wa shūmatsu uchi de eiga o mimasu.", "pt": "tópico · tempo · lugar · objeto · ★ predicado. \"No fim de semana eu vejo filmes em casa.\"" }, "note": "えいがを うちで みます também está certo: as etiquetas mantêm a função de cada bloco." },
-          { "q": "たべます ／ だいがくで ／ ひるごはんを ／ ルーカスさんは ／ きょう", "a": { "jp": "ルーカスさんは きょう だいがくで ひるごはんを たべます。", "romaji": "Rūkasu-san wa kyō daigaku de hirugohan o tabemasu.", "pt": "tópico · tempo · lugar · objeto · ★ predicado. \"Hoje o Lucas almoça na faculdade.\"" } },
-          { "q": "いきますか ／ どこに ／ あした ／ マリアさんは", "a": { "jp": "マリアさんは あした どこに いきますか。", "romaji": "Maria-san wa ashita doko ni ikimasu ka.", "pt": "tópico · tempo · destino (pergunta) · ★ predicado. \"Aonde a Maria vai amanhã?\"" }, "note": "A palavra interrogativa fica no lugar do bloco da resposta: どこに = \"para onde?\"." }
+          { "q": "のみます ／ わたしは ／ おちゃを", "a": { "jp": "わたしは おちゃを のみます。", "romaji": "Watashi wa ocha o nomimasu.", "en": "topic · object · ★ predicate. \"I drink tea.\"" } },
+          { "q": "よみます ／ としょかんで ／ アナさんは ／ ざっしを", "a": { "jp": "アナさんは としょかんで ざっしを よみます。", "romaji": "Ana-san wa toshokan de zasshi o yomimasu.", "en": "topic · place · object · ★ predicate. \"Ana reads magazines at the library.\"" } },
+          { "q": "かえりません ／ こんばん ／ やまださんは ／ うちに", "a": { "jp": "やまださんは こんばん うちに かえりません。", "romaji": "Yamada-san wa konban uchi ni kaerimasen.", "en": "topic · time · destination · ★ predicate. \"Mr./Ms. Yamada isn't going home tonight.\"" }, "note": "こんばん、やまださんは… is also correct: time and topic can swap at the start." },
+          { "q": "みます ／ しゅうまつ ／ うちで ／ わたしは ／ えいがを", "a": { "jp": "わたしは しゅうまつ うちで えいがを みます。", "romaji": "Watashi wa shūmatsu uchi de eiga o mimasu.", "en": "topic · time · place · object · ★ predicate. \"On weekends I watch movies at home.\"" }, "note": "えいがを うちで みます is also correct: the labels keep each block's job." },
+          { "q": "たべます ／ だいがくで ／ ひるごはんを ／ ルーカスさんは ／ きょう", "a": { "jp": "ルーカスさんは きょう だいがくで ひるごはんを たべます。", "romaji": "Rūkasu-san wa kyō daigaku de hirugohan o tabemasu.", "en": "topic · time · place · object · ★ predicate. \"Today Lucas will eat lunch at the university.\"" } },
+          { "q": "いきますか ／ どこに ／ あした ／ マリアさんは", "a": { "jp": "マリアさんは あした どこに いきますか。", "romaji": "Maria-san wa ashita doko ni ikimasu ka.", "en": "topic · time · destination (question) · ★ predicate. \"Where is Maria going tomorrow?\"" }, "note": "The question word sits where the answer block will go: どこに = \"where to?\"." }
         ]
       },
       {
         "id": "h3",
-        "type": "traduzir",
-        "prompt": "Traduza para o japonês montando de trás pra frente: escreva primeiro o verbo, no fim da linha, e vá preenchendo para a esquerda (objeto → lugar ou destino → tempo → tópico).",
+        "type": "translate",
+        "prompt": "Translate into Japanese, building from the end: write the verb first, at the end of the line, and fill in toward the left (object → place or destination → time → topic).",
         "items": [
-          { "q": "Eu ouço música em casa.", "a": { "jp": "わたしは うちで おんがくを ききます。", "romaji": "Watashi wa uchi de ongaku o kikimasu." } },
-          { "q": "A Ana vai à faculdade amanhã.", "a": { "jp": "アナさんは あした だいがくに いきます。", "romaji": "Ana-san wa ashita daigaku ni ikimasu." }, "note": "だいがくへ também serve." },
-          { "q": "Hoje à noite o Pedro estuda em casa.", "a": { "jp": "ペドロさんは こんばん うちで べんきょうします。", "romaji": "Pedoro-san wa konban uchi de benkyō shimasu." } },
-          { "q": "Carne eu como. Peixe, não.", "a": { "jp": "にくは たべます。でも、さかなは たべません。", "romaji": "Niku wa tabemasu. Demo, sakana wa tabemasen." }, "note": "Contraste: os dois objetos viram tópico com は, e o を some. でも (mas) é opcional." },
-          { "q": "Aonde você vai no fim de semana? — Vou para o Rio.", "a": { "jp": "しゅうまつ どこに いきますか。— リオに いきます。", "romaji": "Shūmatsu doko ni ikimasu ka. — Rio ni ikimasu." } },
-          { "q": "O Sr. Yamada volta para o Japão.", "a": { "jp": "やまださんは にほんに かえります。", "romaji": "Yamada-san wa Nihon ni kaerimasu." } }
+          { "q": "I listen to music at home.", "a": { "jp": "わたしは うちで おんがくを ききます。", "romaji": "Watashi wa uchi de ongaku o kikimasu." } },
+          { "q": "Ana is going to the university tomorrow.", "a": { "jp": "アナさんは あした だいがくに いきます。", "romaji": "Ana-san wa ashita daigaku ni ikimasu." }, "note": "だいがくへ works too." },
+          { "q": "Tonight Pedro will study at home.", "a": { "jp": "ペドロさんは こんばん うちで べんきょうします。", "romaji": "Pedoro-san wa konban uchi de benkyō shimasu." } },
+          { "q": "Meat, I eat. But fish, I don't.", "a": { "jp": "にくは たべます。でも、さかなは たべません。", "romaji": "Niku wa tabemasu. Demo, sakana wa tabemasen." }, "note": "Contrast: both objects become topics with は, and を disappears. でも (but) is optional." },
+          { "q": "Where are you going on the weekend? — I'm going to Rio.", "a": { "jp": "しゅうまつ どこに いきますか。— リオに いきます。", "romaji": "Shūmatsu doko ni ikimasu ka. — Rio ni ikimasu." } },
+          { "q": "Mr. Yamada is going back to Japan.", "a": { "jp": "やまださんは にほんに かえります。", "romaji": "Yamada-san wa Nihon ni kaerimasu." } }
         ]
       },
       {
         "id": "h4",
-        "type": "produzir",
-        "prompt": "Escreva 4 frases sobre um dia seu com a ordem completa (tópico, tempo, lugar ou destino, objeto, verbo) e 1 par de contraste com は. Depois sublinhe cada bloco com uma cor por função (uma para tópico, outra para lugar…).",
+        "type": "produce",
+        "prompt": "Write 4 sentences about a day of yours with the full order (topic, time, place or destination, object, verb) and 1 contrast pair with は. Then underline each block with one color per job (one for the topic, another for the place…).",
         "items": [
-          { "q": "Modelo, que o seu texto deve seguir na estrutura e não nas palavras:", "a": { "jp": "わたしは きょう だいがくに いきます。だいがくで にほんごを べんきょうします。としょかんで ざっしを よみます。こんばん うちで ばんごはんを たべます。コーヒーは のみます。でも、おさけは のみません。", "romaji": "Watashi wa kyō daigaku ni ikimasu. Daigaku de nihongo o benkyō shimasu. Toshokan de zasshi o yomimasu. Konban uchi de bangohan o tabemasu. Kōhī wa nomimasu. Demo, osake wa nomimasen.", "pt": "Hoje eu vou à faculdade. Na faculdade, estudo japonês. Na biblioteca, leio revistas. Hoje à noite janto em casa. Café eu bebo. Mas bebida alcoólica, não." }, "note": "Confira: verbo no fim de cada frase; で onde você FAZ algo, に para onde você VAI; わたしは só na primeira frase; no contraste, は no lugar de を." }
+          { "q": "Model (match its structure, not its words):", "a": { "jp": "わたしは きょう だいがくに いきます。だいがくで にほんごを べんきょうします。としょかんで ざっしを よみます。こんばん うちで ばんごはんを たべます。コーヒーは のみます。でも、おさけは のみません。", "romaji": "Watashi wa kyō daigaku ni ikimasu. Daigaku de nihongo o benkyō shimasu. Toshokan de zasshi o yomimasu. Konban uchi de bangohan o tabemasu. Kōhī wa nomimasu. Demo, osake wa nomimasen.", "en": "Today I'm going to the university. At the university, I study Japanese. At the library, I read magazines. Tonight I'll eat dinner at home. Coffee, I drink. But alcohol, I don't." }, "note": "Check: the verb is at the end of every sentence; で where you DO something, に where you GO; わたしは only in the first sentence; in the contrast, は in place of を." }
         ]
       }
     ],
     "workbook": [
-      { "p": 33, "t": "2 · Noun を Verb", "tip": "Faça depois do ponto 4a. Confira no Genki Answer Key oficial." },
-      { "p": 34, "t": "3 · Verbs with Places", "tip": "Faça depois dos pontos 4b e 4c: é o treino de で × に." }
+      { "p": 33, "t": "2 · Noun を Verb", "tip": "Do it after point 4a; check it with the official Genki Answer Key." },
+      { "p": 34, "t": "3 · Verbs with Places", "tip": "Do it after points 4b and 4c: it is the で × に drill." }
     ]
   },
   "practice": [
-    { "tool": "Wagotabi", "what": "Jogue e, a cada fala terminada em 〜ます ou 〜ません, pause: ache o verbo no fim e cace os blocos com を, で, に / へ e は. Copie 3 frases no caderno e escreva a função em cima de cada bloco. Depois registre a sessão em Imersão → Jogos e cole uma delas na 🔬 Anatomia para conferir.", "min": 20 },
-    { "tool": "ヅオリンゴー", "what": "Treinos → Partículas (を, で, に, へ, は). Depois, 🔬 Anatomia → 🧱 Montar de trás pra frente: 5 frases.", "min": 15 },
-    { "tool": "ヅオリンゴー", "what": "Diário: escreva 3 frases sobre o que você faz hoje, cada uma com um lugar (で) ou um destino (に). Use \"Anatomia do que escrevi\" para ver se cada bloco ficou com a função que você queria.", "min": 10 },
-    { "tool": "Shadowing", "what": "Toque 🔊 nos exemplos e repita, fazendo uma micro-pausa depois de cada partícula: アナさんは | きょう | だいがくで | にほんごを | べんきょうします. Isso treina o ouvido a separar os blocos.", "min": 5 },
-    { "tool": "Fala", "what": "Descreva em voz alta 3 lugares da sua casa ou da sua cidade e o que você faz em cada um (〜で 〜を 〜ます), e mais 2 lugares aonde você vai (〜に いきます). Grave e ouça: o verbo ficou sempre no fim?", "min": 5 }
+    { "tool": "Wagotabi", "what": "Play, and at every line ending in 〜ます or 〜ません, pause: find the verb at the end and hunt for the blocks with を, で, に / へ and は. Copy 3 sentences into your notebook and write the job above each block. Then log the session in Immersion → Games and paste one of them into 🔬 Anatomy to check.", "min": 20 },
+    { "tool": "ヅオリンゴー", "what": "Drills → Particles (を, で, に, へ, は). Then 🔬 Anatomy → 🧱 Build from the end: 5 sentences.", "min": 15 },
+    { "tool": "ヅオリンゴー", "what": "Journal: write 3 sentences about your plans for today, each with a place (で) or a destination (に). Use \"Anatomy of what I wrote\" to see whether each block got the job you wanted.", "min": 10 },
+    { "tool": "Shadowing", "what": "Tap 🔊 on the examples and repeat them, making a tiny pause after each particle: アナさんは | きょう | だいがくで | にほんごを | べんきょうします. This trains your ear to separate the blocks.", "min": 5 },
+    { "tool": "Speaking", "what": "Describe out loud 3 places in your home or your city and what you do in each one (〜で 〜を 〜ます), plus 2 places you go to (〜に いきます). Record yourself and listen: was the verb always at the end?", "min": 5 }
   ],
   "culture": {
-    "title": "Tirar os sapatos: o げんかん e os chinelos",
+    "title": "Taking off your shoes: the げんかん and slippers",
     "titleJp": "げんかん",
-    "body": "Nas casas japonesas, logo depois da porta há um espaço chamado **げんかん**, em geral um degrau abaixo do piso da casa. É ali que você **tira os sapatos** antes de subir, e o costume é deixá-los virados para a porta. Muitas casas oferecem chinelos (スリッパ) para usar dentro, mas eles saem antes de pisar no たたみ, o piso de palha trançada. No banheiro costuma haver um par de chinelos só para ali: lembre de trocar de volta ao sair. O mesmo vale em alguns restaurantes tradicionais, templos, escolas e consultórios, que têm sapateiras ou armarinhos na entrada.",
-    "try": "Crie um mini-げんかん na sua porta: sapatos fora, virados para a rua. Cada vez que entrar em casa, diga ただいま (Aula 00-3) e uma frase da aula sobre o que vai fazer agora, com で: うちで ばんごはんを たべます。"
+    "body": "In Japanese homes, right inside the door there is an area called the **げんかん**, usually one step lower than the rest of the floor. That is where you **take off your shoes** before stepping up, and it is customary to leave them pointing toward the door. Many homes offer slippers (スリッパ) to wear inside, but they come off before you step onto たたみ, the woven straw mats. The toilet often has its own pair of slippers just for that room: remember to switch back when you leave. The same goes for some traditional restaurants, temples, schools and clinics, which have shoe racks or small lockers at the entrance.",
+    "try": "Set up a mini-げんかん at your door: shoes off, pointing toward the street. Every time you come home, say ただいま (lesson 00-3) and one sentence from this lesson about what you are going to do now, with で: うちで ばんごはんを たべます。"
   },
   "checklist": [
-    "Escolho entre で e に / へ perguntando \"faz algo lá ou vai até lá?\", sem hesitar.",
-    "Leio qualquer frase desta aula começando pelo predicado e digo a função de cada bloco.",
-    "Monto uma frase de 4 a 5 blocos na ordem tópico → tempo → lugar ou destino → objeto → verbo, sem olhar.",
-    "Faço contraste com は (〜は 〜ます。〜は 〜ません。) e sei que は substitui を.",
-    "Leio へ como \"e\" e を como \"o\" quando são partículas.",
-    "Fiz a lição de casa e conferi o gabarito, e refiz o que errei.",
-    "Fiz as páginas 33–34 do Workbook."
+    "I choose between で and に / へ by asking \"do they do something there, or go there?\", without hesitating.",
+    "I can read any sentence in this lesson starting from the predicate and name the job of each block.",
+    "I can build a sentence of 4–5 blocks in the order topic → time → place or destination → object → verb, without looking.",
+    "I can make a contrast with は (〜は 〜ます。〜は 〜ません。) and I know that は replaces を.",
+    "I read へ as \"e\" and を as \"o\" when they are particles.",
+    "I did the homework, checked it against the answer key and redid what I got wrong.",
+    "I did Workbook pages 33–34."
   ]
 }

@@ -1,0 +1,183 @@
+{
+  "id": "18-2",
+  "unit": "G2-L18",
+  "genki": { "book": "Genki II", "lesson": 18, "points": ["〜てしまう"] },
+  "title": "Ending up doing",
+  "titleJp": "かさをわすれてしまいました",
+  "canDo": [
+    "I can say that I finished something completely with 〜てしまいました / 〜てしまいます: 宿題を全部してしまいました.",
+    "I can tell about an accident, a mistake or something I regret with 〜てしまいました: さいふをおとしてしまいました.",
+    "I can tell from the context whether 〜てしまう means \"done completely\" or \"oh no, it happened\".",
+    "I can say the same things casually with 〜ちゃう / 〜じゃう and 〜ちゃった / 〜じゃった, and I know when not to use them."
+  ],
+  "duration": {
+    "total": "60–75 min",
+    "blocks": [
+      { "t": "Warm-up: say the て-form of 10 verbs aloud: 食べる, 飲む, 行く, 読む, 書く, わすれる, こわす, おとす, する, 来る", "min": 5 },
+      { "t": "Vocabulary: tap 🔊 on each word and repeat it twice", "min": 10 },
+      { "t": "Grammar: the 2 points, with the examples read aloud twice: once proud (done!) and once sorry (oh no…)", "min": 25 },
+      { "t": "Video (block 6): only the part on 〜てしまう and 〜ちゃう", "min": 10 },
+      { "t": "Notebook homework + checking it against the answer key", "min": 15 },
+      { "t": "Checklist (block 10) + write your questions in the lesson notebook", "min": 5 }
+    ]
+  },
+  "prereqs": {
+    "aulas": ["18-1"],
+    "skills": [
+      "The て-form, including the sound changes of う-verbs (lesson 06-1): しまう attaches to it, and ちゃう / じゃう depend on whether it ends in て or で.",
+      "Short forms and casual speech in the present and past (lessons 08-1 and 09-1), for 〜ちゃう / 〜ちゃった.",
+      "The intransitive verbs of lesson 18-1 (こわれる, おちる, 出る, きえる…): they combine very often with 〜てしまう."
+    ],
+    "vocab": [
+      { "jp": "〜てしまう", "kana": "〜てしまう", "romaji": "-te shimau", "en": "to do completely; to end up doing (unfortunately)" },
+      { "jp": "〜ちゃう", "kana": "〜ちゃう", "romaji": "-chau", "en": "casual form of 〜てしまう (〜じゃう after a て-form in で)" },
+      { "jp": "しまった", "kana": "しまった", "romaji": "shimatta", "en": "Oh no! Darn! (said when you realize a mistake)" },
+      { "jp": "ごめん", "kana": "ごめん", "romaji": "gomen", "en": "sorry (casual)" },
+      { "jp": "わすれる", "kana": "わすれる", "romaji": "wasureru", "en": "to forget; to leave (something) behind" },
+      { "jp": "なくす", "kana": "なくす", "romaji": "nakusu", "en": "to lose (something)" },
+      { "jp": "まちがえる", "kana": "まちがえる", "romaji": "machigaeru", "en": "to make a mistake, to get (something) wrong" },
+      { "jp": "おくれる", "kana": "おくれる", "romaji": "okureru", "en": "to be late (for: に)" },
+      { "jp": "乗りおくれる", "kana": "のりおくれる", "romaji": "noriokureru", "en": "to miss (a train, a bus: に)" },
+      { "jp": "ねぼうする", "kana": "ねぼうする", "romaji": "nebō suru", "en": "to oversleep" },
+      { "jp": "急ぐ", "kana": "いそぐ", "romaji": "isogu", "en": "to hurry" },
+      { "jp": "けんかする", "kana": "けんかする", "romaji": "kenka suru", "en": "to argue, to have a fight (with: と)" },
+      { "jp": "終電", "kana": "しゅうでん", "romaji": "shūden", "en": "the last train (of the night)" },
+      { "jp": "かさ", "kana": "かさ", "romaji": "kasa", "en": "umbrella" },
+      { "jp": "レポート", "kana": "レポート", "romaji": "repōto", "en": "report, paper (for school or work)" },
+      { "jp": "全部", "kana": "ぜんぶ", "romaji": "zenbu", "en": "all, the whole thing" },
+      { "jp": "今日中に", "kana": "きょうじゅうに", "romaji": "kyōjū ni", "en": "within today, before the day is over" },
+      { "jp": "先に", "kana": "さきに", "romaji": "saki ni", "en": "ahead, first (before the others)" },
+      { "jp": "つかれる", "kana": "つかれる", "romaji": "tsukareru", "en": "to get tired" }
+    ]
+  },
+  "grammar": [
+    {
+      "id": "18-2-a",
+      "gc": null,
+      "title": "〜てしまう (done completely · ended up)",
+      "gloss": "to finish doing…; to (accidentally) do…, unfortunately",
+      "explanation": "〜てしまう is a helper verb: **て-form + しまう**. It conjugates like any う-verb: しまいます, しまいました, しまう, しまった. It has two meanings, and the context tells you which one.\n\n**(1) Completion: doing something completely, getting it done.** 宿題をしてしまいました = \"I've finished my homework\" (it's done, out of the way). It often goes with もう (already) or 全部 (all). In the non-past it means you will get it done: この本はあしたまでに読んでしまいます = \"I'll finish reading this book by tomorrow.\"\n\n**(2) Regret: something happened that you did not want.** An accident, a mistake, or something you did and now feel bad about. さいふをおとしてしまいました = \"I dropped my wallet\", with the feeling \"oh no\". English uses \"accidentally\", \"ended up…\" or just a sad tone of voice; Japanese builds the feeling into the verb.\n• It is very common with the intransitive verbs of lesson 18-1: パソコンがこわれてしまいました = \"My computer broke (unfortunately).\" 終電が出てしまいました = \"The last train has left.\"\n• One sentence can carry both meanings: ケーキを全部食べてしまいました = \"I finished off the whole cake\" or \"I ate the whole cake (oops)\". The context and your tone decide.\n• The tense goes on しまう: 〜てしまいました = it has happened; 〜てしまいます = it will happen, or I'll get it done.\n• The exclamation **しまった！** (\"Oh no!\", \"Darn!\") is the same verb, alone, in the short past.\n\n**In the sentence.** The 🔬 keeps 〜てしまいました inside the **PREDICATE** block together with its verb: しまう is not a second action, it only adds \"completely\" or \"unfortunately\". The engine shows the kind \"action\"; the feeling is for you to read from the context.",
+      "structure": "[verb て-form] しまいます / しまいました (done completely · unfortunately)",
+      "examples": [
+        { "jp": "この本はあしたまでに読んでしまいます。", "kana": "このほんはあしたまでによんでしまいます。", "romaji": "Kono hon wa ashita made ni yonde shimaimasu.", "en": "I'll finish reading this book by tomorrow. [completion]" },
+        { "jp": "きのう、友だちのかさをこわしてしまいました。", "kana": "きのう、ともだちのかさをこわしてしまいました。", "romaji": "Kinō, tomodachi no kasa o kowashite shimaimashita.", "en": "Yesterday I (accidentally) broke my friend's umbrella. [regret]" },
+        { "jp": "急いだけど、終電はもう出てしまいました。", "kana": "いそいだけど、しゅうでんはもうでてしまいました。", "romaji": "Isoida kedo, shūden wa mō dete shimaimashita.", "en": "I hurried, but the last train had already left. [regret, with an intransitive verb]" }
+      ],
+      "pitfalls": [
+        "しまう needs the て-form: 食べるしまいました ✗ → 食べてしまいました ✓; 読みてしまいました ✗ → 読んでしまいました ✓.",
+        "Something that already happened needs the past: きのう、さいふをおとしてしまいます ✗ → きのう、さいふをおとしてしまいました ✓.",
+        "Careful with good news: しけんにごうかくしてしまいました ✗ (it sounds as if passing the exam were bad luck) → しけんにごうかくしました ✓ (I passed the exam)."
+      ],
+      "howToStudy": [
+        "Tell 3 small disasters of your own out loud with 〜てしまいました (something you lost, broke, forgot or were late for), with a suitably sad face: かさをわすれてしまいました…",
+        "Tap 🔬 on example 3: 急いだけど shows as …BUT, 終電は as the TOPIC, もう as HOW / HOW OFTEN, and 出てしまいました as one single PREDICATE block. しまう is part of the predicate, not a second action.",
+        "Say ケーキを全部食べてしまいました twice: first proud (\"done!\"), then guilty (\"oops…\"). Same words, two meanings: only the context and your voice change."
+      ],
+      "flag": null
+    },
+    {
+      "id": "18-2-b",
+      "gc": null,
+      "title": "〜ちゃう / 〜じゃう (casual)",
+      "gloss": "the casual contraction of 〜てしまう",
+      "explanation": "In casual speech, 〜てしまう is almost always shortened:\n• **てしまう → ちゃう**: 食べてしまう → 食べちゃう; わすれてしまう → わすれちゃう; 行ってしまう → 行っちゃう.\n• **でしまう → じゃう**, for verbs whose て-form ends in で: 飲んでしまう → 飲んじゃう; 読んでしまう → 読んじゃう; あそんでしまう → あそんじゃう.\n• ちゃう conjugates like an う-verb, so the past is **ちゃった / じゃった**: 食べちゃった, 飲んじゃった. This past form is the one you will hear most.\n• Both meanings stay: レポートは今日中に書いちゃうね = \"I'll get the report written today\" (completion); かさ、わすれちゃった = \"I left my umbrella behind (oops)\" (regret).\n• Casual speech often drops を and は: ケーキ（を）食べちゃった. The 🔬 shows such a noun as **NO PARTICLE**; the verb tells you it is the object.\n\n**When to use it.** With friends and family, and in casual messages. With a teacher, a boss or a stranger, use 〜てしまいました. You will also hear 〜ちゃいました in friendly polite speech: it is softer and more casual than 〜てしまいました.\n\n**Don't confuse** ちゃう with **ちゃ** alone. ちゃ is the short form of ては: 食べちゃだめ = 食べてはだめ, \"you mustn't eat it\" (lesson 06-3). So ちゃう / ちゃった = てしまう, but ちゃ + だめ / いけない = ては.",
+      "structure": "[verb て-form] しまう → 〜ちゃう · [verb で-form] しまう → 〜じゃう · past: 〜ちゃった / 〜じゃった",
+      "examples": [
+        { "jp": "ごめん、ケーキ、食べちゃった。", "kana": "ごめん、ケーキ、たべちゃった。", "romaji": "Gomen, kēki, tabechatta.", "en": "Sorry, I ate the cake. [casual: the を is dropped]" },
+        { "jp": "ジョンさんのジュース、飲んじゃった。", "kana": "ジョンさんのジュース、のんじゃった。", "romaji": "Jon-san no jūsu, nonjatta.", "en": "I drank John's juice (oops). [飲んで → 飲んじゃった]" },
+        { "jp": "レポートは今日中に書いちゃうね。", "kana": "レポートはきょうじゅうにかいちゃうね。", "romaji": "Repōto wa kyōjū ni kaichau ne.", "en": "I'll get the report written today, OK? [completion]" }
+      ],
+      "pitfalls": [
+        "で-form verbs take じゃう: 飲んちゃった ✗ → 飲んじゃった ✓; 読んちゃう ✗ → 読んじゃう ✓.",
+        "ちゃう is an う-verb, so its past is ちゃった: 食べちゃうた ✗ → 食べちゃった ✓.",
+        "Too casual for a teacher or a boss: 先生、宿題わすれちゃった ✗ → 先生、宿題をわすれてしまいました ✓.",
+        "ちゃう ≠ ちゃ: for \"I ate it by mistake\", 食べちゃだめ ✗ → 食べちゃった ✓. 食べちゃだめ means \"you mustn't eat it\"."
+      ],
+      "howToStudy": [
+        "Convert out loud, polite → casual, mixing て and で verbs: わすれてしまいました → わすれちゃった; 飲んでしまいました → 飲んじゃった. Do it with 8 verbs: 食べる, 行く, 読む, あそぶ, 見る, 言う, 書く, する.",
+        "Tap 🔬 on example 1: ごめん is an INTERJECTION, ケーキ shows as NO PARTICLE (the を was dropped, as friends do), and 食べちゃった is the PREDICATE.",
+        "Shadow the three examples in a relaxed, casual voice. Then say each one politely, as if to your teacher: 先生、ケーキを食べてしまいました。"
+      ],
+      "flag": null
+    }
+  ],
+  "media": [
+    { "order": 1, "kind": "reading", "title": "Genki II · Lesson 18: the grammar note on 〜てしまう", "where": "Your Genki II textbook (3rd ed.)", "url": "", "when": "Before this lesson or right after the grammar block" },
+    { "order": 2, "kind": "video", "title": "Japanese Ammo with Misa: 〜てしまう and its casual form 〜ちゃう", "where": "YouTube · Japanese Ammo with Misa channel", "url": "", "search": "Japanese Ammo with Misa てしまう ちゃう", "when": "After the 2 points, if the two meanings still feel mixed up" }
+  ],
+  "homework": {
+    "intro": "Do it by hand in your notebook, with kanji where you know them and kana for the rest. For each sentence, first write the て-form of the verb, then add しまいました. Only then open the answer key, item by item. Circle what you got wrong and redo it the next day. If you have the Genki II Workbook, do this lesson's exercises too.",
+    "tasks": [
+      {
+        "id": "h1",
+        "type": "transform",
+        "prompt": "Completion: rewrite each sentence with 〜てしまいました / 〜てしまいます, adding the word in brackets, to show that the action is (or will be) completely done.",
+        "items": [
+          { "q": "宿題をしました。（もう）", "a": { "jp": "もう宿題をしてしまいました。", "kana": "もうしゅくだいをしてしまいました。", "romaji": "Mō shukudai o shite shimaimashita." } },
+          { "q": "この本を読みました。（全部）", "a": { "jp": "この本を全部読んでしまいました。", "kana": "このほんをぜんぶよんでしまいました。", "romaji": "Kono hon o zenbu yonde shimaimashita." } },
+          { "q": "レポートを書きます。（今日中に）", "a": { "jp": "レポートを今日中に書いてしまいます。", "kana": "レポートをきょうじゅうにかいてしまいます。", "romaji": "Repōto o kyōjū ni kaite shimaimasu." }, "note": "Non-past: \"I'll get it done today.\"" },
+          { "q": "ビールを飲みました。（全部）", "a": { "jp": "ビールを全部飲んでしまいました。", "kana": "ビールをぜんぶのんでしまいました。", "romaji": "Bīru o zenbu nonde shimaimashita." }, "note": "Could be completion or regret: the context would decide." }
+        ]
+      },
+      {
+        "id": "h2",
+        "type": "transform",
+        "prompt": "Regret: something bad happened. Rewrite with 〜てしまいました to add the feeling \"unfortunately / by accident\".",
+        "items": [
+          { "q": "電車にかさをわすれました。", "a": { "jp": "電車にかさをわすれてしまいました。", "kana": "でんしゃにかさをわすれてしまいました。", "romaji": "Densha ni kasa o wasurete shimaimashita." } },
+          { "q": "友だちのカメラをこわしました。", "a": { "jp": "友だちのカメラをこわしてしまいました。", "kana": "ともだちのカメラをこわしてしまいました。", "romaji": "Tomodachi no kamera o kowashite shimaimashita." } },
+          { "q": "授業におくれました。", "a": { "jp": "授業におくれてしまいました。", "kana": "じゅぎょうにおくれてしまいました。", "romaji": "Jugyō ni okurete shimaimashita." } },
+          { "q": "さいふをなくしました。", "a": { "jp": "さいふをなくしてしまいました。", "romaji": "Saifu o nakushite shimaimashita." } },
+          { "q": "パソコンがこわれました。", "a": { "jp": "パソコンがこわれてしまいました。", "romaji": "Pasokon ga kowarete shimaimashita." }, "note": "An intransitive verb: nobody broke it, it just broke. It is still bad news, so てしまう fits." },
+          { "q": "友だちの名前をまちがえました。", "a": { "jp": "友だちの名前をまちがえてしまいました。", "kana": "ともだちのなまえをまちがえてしまいました。", "romaji": "Tomodachi no namae o machigaete shimaimashita." } }
+        ]
+      },
+      {
+        "id": "h3",
+        "type": "transform",
+        "prompt": "Rewrite in casual speech with 〜ちゃった / 〜じゃった, as if you were texting a friend.",
+        "items": [
+          { "q": "さいふをおとしてしまいました。", "a": { "jp": "さいふをおとしちゃった。", "romaji": "Saifu o otoshichatta." }, "note": "Dropping を is also fine among friends: さいふ、おとしちゃった。" },
+          { "q": "ビールを飲んでしまいました。", "a": { "jp": "ビールを飲んじゃった。", "kana": "ビールをのんじゃった。", "romaji": "Bīru o nonjatta." }, "note": "飲んで → 飲んじゃった: で becomes じゃ." },
+          { "q": "終電に乗りおくれてしまいました。", "a": { "jp": "終電に乗りおくれちゃった。", "kana": "しゅうでんにのりおくれちゃった。", "romaji": "Shūden ni noriokurechatta." } },
+          { "q": "マンガを全部読んでしまいました。", "a": { "jp": "マンガを全部読んじゃった。", "kana": "マンガをぜんぶよんじゃった。", "romaji": "Manga o zenbu yonjatta." } },
+          { "q": "友だちとけんかしてしまいました。", "a": { "jp": "友だちとけんかしちゃった。", "kana": "ともだちとけんかしちゃった。", "romaji": "Tomodachi to kenka shichatta." } },
+          { "q": "ルーカスさんは先に行ってしまいました。", "a": { "jp": "ルーカスさんは先に行っちゃった。", "kana": "ルーカスさんはさきにいっちゃった。", "romaji": "Rūkasu-san wa saki ni itchatta." }, "note": "行って → 行っちゃった." }
+        ]
+      },
+      {
+        "id": "h4",
+        "type": "produce",
+        "prompt": "Write a short \"bad day\" story in 4–5 sentences: at least 3 things that went wrong with 〜てしまいました (use at least one intransitive verb from lesson 18-1) and one thing you finished with 〜てしまいました (completion). Then write a 2-sentence casual message to a friend about it with ちゃった / じゃった. Read both aloud and record them.",
+        "items": [
+          { "q": "Model for the story (match its structure, not its words):", "a": { "jp": "けさ、ねぼうしてしまいました。急いで家を出ましたが、電車にかさをわすれてしまいました。会社では、パソコンがこわれてしまいました。でも、夜までにレポートを全部書いてしまいました。", "kana": "けさ、ねぼうしてしまいました。いそいでいえをでましたが、でんしゃにかさをわすれてしまいました。かいしゃでは、パソコンがこわれてしまいました。でも、よるまでにレポートをぜんぶかいてしまいました。", "romaji": "Kesa, nebō shite shimaimashita. Isoide ie o demashita ga, densha ni kasa o wasurete shimaimashita. Kaisha de wa, pasokon ga kowarete shimaimashita. Demo, yoru made ni repōto o zenbu kaite shimaimashita.", "en": "This morning I overslept. I hurried out of the house, but I left my umbrella on the train. At the office, my computer broke. But I got the whole report written by the evening." }, "note": "Check: every てしまいました is built on a correct て-form; the intransitive verb (こわれる) takes が; the last sentence is completion, not regret." },
+          { "q": "Model for the casual message:", "a": { "jp": "レポート、全部書いちゃった！でも、つかれちゃった。", "kana": "レポート、ぜんぶかいちゃった！でも、つかれちゃった。", "romaji": "Repōto, zenbu kaichatta! Demo, tsukarechatta.", "en": "I got the whole report written! But I'm worn out." }, "note": "Check: て → ちゃ, で → じゃ, past ちゃった / じゃった; を can drop. つかれちゃった is a very common way to say \"I'm exhausted\"." }
+        ]
+      }
+    ],
+    "workbook": []
+  },
+  "practice": [
+    { "tool": "Wagotabi", "what": "Play in the N4 areas and hunt for しまった, 〜てしまう, 〜ちゃった and 〜じゃった in the dialogues. For each one, decide: done completely, or \"oh no\"? Log the session in Immersion → Games and paste one of the lines into 🔬 Anatomy: the しまう part should stay inside the PREDICATE block.", "min": 15 },
+    { "tool": "ヅオリンゴー · Drills", "what": "Drills → Conjugation: one round focused on the て-form, because しまう and ちゃう / じゃう depend on it (て → ちゃう, で → じゃう).", "min": 10 },
+    { "tool": "ヅオリンゴー · Journal", "what": "Write your bad-day story (homework h4) in the Journal and open \"Anatomy of what I wrote\": each 〜てしまいました should appear inside a single PREDICATE block.", "min": 10 },
+    { "tool": "Shadowing", "what": "Tap 🔊 on each example and repeat along 3 times. For 〜ちゃった, copy the relaxed, spoken rhythm; for 〜てしまいました, copy the polite one.", "min": 5 },
+    { "tool": "Speaking", "what": "Record a 30-second casual voice message to a friend about something that went wrong today, with at least 2 ちゃった / じゃった. Then record the same story politely, as if telling your teacher.", "min": 5 }
+  ],
+  "culture": {
+    "title": "The last train (しゅうでん)",
+    "titleJp": "終電",
+    "body": "In Tokyo and other big cities, most train lines **stop running around midnight** or a little after, and start again at about 5 a.m. The last train of the night is the 終電 (しゅうでん), and the first train of the morning is the 始発 (しはつ). On Friday nights the last trains are often packed, and people at a party or a drinking session usually keep an eye on the time so they can catch theirs. Missing it (終電に乗りおくれる) usually means an expensive taxi, often with a late-night surcharge, or waiting for the first train in a manga café, a karaoke box or a 24-hour restaurant. It is a very typical small disaster, exactly the kind of thing people tell with 〜てしまいました.",
+    "try": "Pick a Tokyo train line and look up the time of its last train on a route-search site or app. Say it aloud: 終電は（time）です。 Then act out missing it, first to a friend: 終電に乗りおくれちゃった！どうしよう… and then to a coworker: 終電に乗りおくれてしまいました。"
+  },
+  "checklist": [
+    "I can build 〜てしまいました and 〜てしまいます from any verb's て-form without looking.",
+    "I can say I finished something completely: 宿題を全部してしまいました.",
+    "I can tell about an accident or a regret with 〜てしまいました, including with intransitive verbs: パソコンがこわれてしまいました.",
+    "I can turn てしまった into ちゃった and でしまった into じゃった instantly.",
+    "I use ちゃう with friends and 〜てしまいました with teachers and bosses.",
+    "I don't confuse 食べちゃった (I ended up eating it) with 食べちゃだめ (you mustn't eat it).",
+    "I did the homework, checked it against the answer key and redid what I got wrong.",
+    "If I have the Genki II Workbook, I did the Lesson 18 exercises on 〜てしまう."
+  ]
+}

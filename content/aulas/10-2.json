@@ -2,83 +2,83 @@
   "id": "10-2",
   "unit": "G1-L10",
   "genki": { "book": "Genki I", "lesson": 10, "points": ["Adjective/Noun + の", "〜つもりだ"] },
-  "title": "O que + intenção",
+  "title": "The one that… · intention",
   "titleJp": "新しいのを 買う つもりです",
   "canDo": [
-    "Não repetir um substantivo que já apareceu, trocando-o por の: あかいの (\"o vermelho\"), 高いの (\"o caro\"), きのうの (\"o de ontem\").",
-    "Escolher e perguntar numa loja sem repetir o nome do produto: 〜のは いくらですか, 〜のと 〜のと どちらが いいですか.",
-    "Dizer o que pretendo fazer com forma de dicionário + つもりです, e o que pretendo NÃO fazer com forma ない + つもりです.",
-    "Perguntar dos planos de alguém (〜は なにを する つもりですか) e contar o plano de outra pessoa com 〜つもりだと 言っていました."
+    "I can avoid repeating a noun that has already come up by replacing it with の: あかいの (\"the red one\"), 高いの (\"the expensive one\"), きのうの (\"yesterday's\").",
+    "I can choose and ask in a shop without repeating the product's name: 〜のは いくらですか, 〜のと 〜のと どちらが いいですか.",
+    "I can say what I intend to do with the dictionary form + つもりです, and what I intend NOT to do with the ない-form + つもりです.",
+    "I can ask about someone's plans (〜は なにを する つもりですか) and report another person's plan with 〜つもりだと 言っていました."
   ],
   "duration": {
     "total": "60–75 min",
     "blocks": [
-      { "t": "Aquecimento: dizer em voz alta a forma de dicionário e a forma ない de 6 verbos (Aula 08-1)", "min": 5 },
-      { "t": "Vocabulário: ouvir 🔊 cada palavra e repetir 2 vezes; as cores e os objetos juntos", "min": 10 },
-      { "t": "Gramática: os 2 pontos, cada um com os exemplos lidos em voz alta e um 🔬", "min": 20 },
-      { "t": "Vídeo da Lição 10 (bloco 6), a parte de の e de つもり, pausando nos exemplos", "min": 10 },
-      { "t": "Lição de casa no caderno + conferir no gabarito", "min": 15 },
-      { "t": "Checklist (bloco 10) + anotar dúvidas no caderno da aula", "min": 5 }
+      { "t": "Warm-up: say the dictionary form and the ない-form of 6 verbs out loud (lesson 08-1)", "min": 5 },
+      { "t": "Vocabulary: tap 🔊 on each word and repeat it twice; colors and objects together", "min": 10 },
+      { "t": "Grammar: the 2 points, each with its examples read aloud and one 🔬", "min": 20 },
+      { "t": "Lesson 10 video (block 6), the part on の and つもり, pausing on the examples", "min": 10 },
+      { "t": "Notebook homework + checking it against the answer key", "min": 15 },
+      { "t": "Checklist (block 10) + write your questions in the lesson notebook", "min": 5 }
     ]
   },
   "prereqs": {
     "aulas": ["01-1", "02-1", "05-1", "08-1", "08-2", "10-1"],
     "skills": [
-      "Montar a forma de dicionário e a forma ない dos verbos (Aula 08-1): つもり se liga nelas.",
-      "Pôr adjetivos い e な antes de substantivo (Aula 05-1): あかい くつ, きれいな 町.",
-      "N₁ の N₂ (Aula 01-1) e わたしの / だれの (Aula 02-1): o の desta aula é parente desses.",
-      "Comparar com どちら e の ほうが (Aula 10-1): você vai combinar isso com o の desta aula."
+      "Making the dictionary form and the ない-form of verbs (lesson 08-1): つもり attaches to them.",
+      "Putting い- and な-adjectives before a noun (lesson 05-1): あかい くつ, きれいな 町.",
+      "N₁ の N₂ (lesson 01-1) and わたしの / だれの (lesson 02-1): the の in this lesson is a close relative of those.",
+      "Comparing with どちら and の ほうが (lesson 10-1): you will combine that with this lesson's の."
     ],
     "vocab": [
-      { "jp": "〜の", "kana": "〜の", "romaji": "no", "pt": "o/a… (no lugar de um substantivo já dito): あかいの = o vermelho" },
-      { "jp": "つもり", "kana": "つもり", "romaji": "tsumori", "pt": "intenção (〜つもりです = pretendo…)" },
-      { "jp": "よてい", "kana": "よてい", "romaji": "yotei", "pt": "plano, programação" },
-      { "jp": "ふゆやすみ", "kana": "ふゆやすみ", "romaji": "fuyuyasumi", "pt": "férias de inverno" },
-      { "jp": "来年", "kana": "らいねん", "romaji": "rainen", "pt": "ano que vem" },
-      { "jp": "今夜", "kana": "こんや", "romaji": "kon'ya", "pt": "hoje à noite" },
-      { "jp": "けっこんする", "kana": "けっこんする", "romaji": "kekkon suru", "pt": "casar-se" },
-      { "jp": "帰る", "kana": "かえる", "romaji": "kaeru", "pt": "voltar (para casa, para o seu país)" },
-      { "jp": "住む", "kana": "すむ", "romaji": "sumu", "pt": "morar (〜に すんでいます = moro em…)" },
-      { "jp": "買う", "kana": "かう", "romaji": "kau", "pt": "comprar" },
-      { "jp": "かばん", "kana": "かばん", "romaji": "kaban", "pt": "bolsa, mochila" },
-      { "jp": "かさ", "kana": "かさ", "romaji": "kasa", "pt": "guarda-chuva" },
-      { "jp": "くつ", "kana": "くつ", "romaji": "kutsu", "pt": "sapato(s)" },
-      { "jp": "シャツ", "kana": "シャツ", "romaji": "shatsu", "pt": "camisa, camiseta" },
-      { "jp": "パソコン", "kana": "パソコン", "romaji": "pasokon", "pt": "computador" },
-      { "jp": "あかい", "kana": "あかい", "romaji": "akai", "pt": "vermelho" },
-      { "jp": "あおい", "kana": "あおい", "romaji": "aoi", "pt": "azul" },
-      { "jp": "くろい", "kana": "くろい", "romaji": "kuroi", "pt": "preto" },
-      { "jp": "白い", "kana": "しろい", "romaji": "shiroi", "pt": "branco" },
-      { "jp": "新しい", "kana": "あたらしい", "romaji": "atarashii", "pt": "novo" },
-      { "jp": "古い", "kana": "ふるい", "romaji": "furui", "pt": "velho (coisa, não pessoa)" },
-      { "jp": "じょうぶ(な)", "kana": "じょうぶ(な)", "romaji": "jōbu (na)", "pt": "resistente, durável; saudável" },
-      { "jp": "おみやげ", "kana": "おみやげ", "romaji": "omiyage", "pt": "lembrancinha de viagem" },
-      { "jp": "はたらく", "kana": "はたらく", "romaji": "hataraku", "pt": "trabalhar" }
+      { "jp": "〜の", "kana": "〜の", "romaji": "no", "en": "the … one (standing in for a noun already mentioned): あかいの = the red one" },
+      { "jp": "つもり", "kana": "つもり", "romaji": "tsumori", "en": "intention (〜つもりです = I intend to…)" },
+      { "jp": "よてい", "kana": "よてい", "romaji": "yotei", "en": "plan, schedule" },
+      { "jp": "ふゆやすみ", "kana": "ふゆやすみ", "romaji": "fuyuyasumi", "en": "winter break, winter vacation" },
+      { "jp": "来年", "kana": "らいねん", "romaji": "rainen", "en": "next year" },
+      { "jp": "今夜", "kana": "こんや", "romaji": "kon'ya", "en": "tonight" },
+      { "jp": "けっこんする", "kana": "けっこんする", "romaji": "kekkon suru", "en": "to get married" },
+      { "jp": "帰る", "kana": "かえる", "romaji": "kaeru", "en": "to go back, to return (home, to your country)" },
+      { "jp": "住む", "kana": "すむ", "romaji": "sumu", "en": "to live (〜に すんでいます = I live in…)" },
+      { "jp": "買う", "kana": "かう", "romaji": "kau", "en": "to buy" },
+      { "jp": "かばん", "kana": "かばん", "romaji": "kaban", "en": "bag" },
+      { "jp": "かさ", "kana": "かさ", "romaji": "kasa", "en": "umbrella" },
+      { "jp": "くつ", "kana": "くつ", "romaji": "kutsu", "en": "shoes" },
+      { "jp": "シャツ", "kana": "シャツ", "romaji": "shatsu", "en": "shirt, T-shirt" },
+      { "jp": "パソコン", "kana": "パソコン", "romaji": "pasokon", "en": "computer (PC)" },
+      { "jp": "あかい", "kana": "あかい", "romaji": "akai", "en": "red" },
+      { "jp": "あおい", "kana": "あおい", "romaji": "aoi", "en": "blue" },
+      { "jp": "くろい", "kana": "くろい", "romaji": "kuroi", "en": "black" },
+      { "jp": "白い", "kana": "しろい", "romaji": "shiroi", "en": "white" },
+      { "jp": "新しい", "kana": "あたらしい", "romaji": "atarashii", "en": "new" },
+      { "jp": "古い", "kana": "ふるい", "romaji": "furui", "en": "old (things, not people)" },
+      { "jp": "じょうぶ(な)", "kana": "じょうぶ(な)", "romaji": "jōbu (na)", "en": "sturdy, durable; healthy" },
+      { "jp": "おみやげ", "kana": "おみやげ", "romaji": "omiyage", "en": "souvenir (a gift brought back from a trip)" },
+      { "jp": "はたらく", "kana": "はたらく", "romaji": "hataraku", "en": "to work" }
     ]
   },
   "grammar": [
     {
       "id": "10-2-a",
       "gc": "10-3",
-      "title": "Adjetivo / substantivo + の",
-      "gloss": "\"o vermelho\", \"o de ontem\"",
-      "explanation": "Quando o substantivo já está claro, pela conversa ou porque está na sua frente, o japonês não o repete: troca-o por **の**. Ele funciona como o \"o/a\" de \"o vermelho\" ou o \"um/uma\" de \"um mais barato\".\n• Adjetivo い + の: あかい くつ → **あかいの** (\"o vermelho\"); 高い かばん → **高いの** (\"a cara\").\n• Adjetivo な + **な** + の: きれいな シャツ → **きれいなの** (\"a bonita\"). O な continua lá.\n• Substantivo + の: きのうの しんぶん → **きのうの** (\"o de ontem\"); マリアさんの かさ → **マリアさんの** (\"o da Maria\"). O の de ligação (Aula 01-1) fica, e o segundo substantivo simplesmente cai.\nDepois do の vem a partícula de que o bloco precisar, como se o substantivo ainda estivesse ali: あかいのを 買いました (OBJETO), あかいのが すきです (SUJEITO), あかいのは いくらですか (TÓPICO). **O bloco adjetivo + の faz o papel do substantivo que sumiu.**",
-      "structure": "[adjetivo い] の · [adjetivo な] な の · [substantivo] の (no lugar de um substantivo já conhecido)",
+      "title": "Adjective / noun + の",
+      "gloss": "\"the red one\", \"yesterday's\"",
+      "explanation": "When the noun is already clear, from the conversation or because it is right in front of you, Japanese doesn't repeat it: it replaces it with **の**. It works like English **\"one\"** in \"the red one\" or \"a cheaper one\".\n• い-adjective + の: あかい くつ → **あかいの** (\"the red one\"); 高い かばん → **高いの** (\"the expensive one\").\n• な-adjective + **な** + の: きれいな シャツ → **きれいなの** (\"the pretty one\"). The な stays.\n• Noun + の: きのうの しんぶん → **きのうの** (\"yesterday's\"); マリアさんの かさ → **マリアさんの** (\"Maria's\"). The linking の (lesson 01-1) stays, and the second noun simply drops — just like English \"Maria's\" with no \"umbrella\" after it.\nAfter the の comes whatever particle the block needs, as if the noun were still there: あかいのを 買いました (OBJECT), あかいのが すきです (SUBJECT), あかいのは いくらですか (TOPIC). **The adjective + の block does the job of the noun that disappeared.**",
+      "structure": "[い-adjective] の · [な-adjective] な の · [noun] の (in place of a noun already known)",
       "examples": [
-        { "jp": "くろい かばんは 高いですね。あおいのは いくらですか。", "kana": "くろい かばんは たかいですね。あおいのは いくらですか。", "romaji": "Kuroi kaban wa takai desu ne. Aoi no wa ikura desu ka.", "pt": "A bolsa preta é cara, né. E a azul, quanto custa?" },
-        { "jp": "この パンは きのうのです。今日のは あそこに あります。", "kana": "この パンは きのうのです。きょうのは あそこに あります。", "romaji": "Kono pan wa kinō no desu. Kyō no wa asoko ni arimasu.", "pt": "Este pão é o de ontem. O de hoje está ali." },
-        { "jp": "ルーカスさんの かさは どれですか。— あの きれいなのです。", "kana": "ルーカスさんの かさは どれですか。— あの きれいなのです。", "romaji": "Rūkasu-san no kasa wa dore desu ka. — Ano kirei na no desu.", "pt": "Qual é o guarda-chuva do Lucas? — É aquele bonito." }
+        { "jp": "くろい かばんは 高いですね。あおいのは いくらですか。", "kana": "くろい かばんは たかいですね。あおいのは いくらですか。", "romaji": "Kuroi kaban wa takai desu ne. Aoi no wa ikura desu ka.", "en": "The black bag is expensive, isn't it? How much is the blue one?" },
+        { "jp": "この パンは きのうのです。今日のは あそこに あります。", "kana": "この パンは きのうのです。きょうのは あそこに あります。", "romaji": "Kono pan wa kinō no desu. Kyō no wa asoko ni arimasu.", "en": "This bread is yesterday's. Today's is over there. [lit. today's one is over there]" },
+        { "jp": "ルーカスさんの かさは どれですか。— あの きれいなのです。", "kana": "ルーカスさんの かさは どれですか。— あの きれいなのです。", "romaji": "Rūkasu-san no kasa wa dore desu ka. — Ano kirei na no desu.", "en": "Which one is Lucas's umbrella? — It's that pretty one over there." }
       ],
       "pitfalls": [
-        "Com adjetivo な, o な fica: ✓ きれいなの (✗ きれいの).",
-        "Com substantivo, é um の só: ✓ きのうの (✗ きのうのの).",
-        "Só use の quando o ouvinte sabe de que coisa você fala. Do nada, ✗ あおいのを ください não diz O QUÊ você quer; na loja, apontando para as bolsas, ✓ funciona.",
-        "Não confunda com o の de verbo + のが すき (Aula 08-3). Em みるのが すき, o の transforma uma AÇÃO em substantivo; em あかいの, ele substitui uma COISA já mencionada."
+        "With a な-adjective, the な stays: きれいの ✗ → きれいなの ✓.",
+        "With a noun, it's a single の: きのうのの ✗ → きのうの ✓.",
+        "Use の only when the listener knows which thing you mean. Out of nowhere, あおいのを ください ✗ doesn't say WHAT you want; in a shop, pointing at the bags, あおいのを ください ✓ works.",
+        "Don't confuse it with the の of verb + のが すき (lesson 08-3). In みるのが すき, の turns an ACTION into a noun; in あかいの, it stands in for a THING already mentioned."
       ],
       "howToStudy": [
-        "Pegue objetos da sua casa que têm \"irmãos\" (canecas, camisetas, canetas) e descreva um par sem repetir o nome: この カップは 大きいです。あの 小さいのは わたしのです。",
-        "Aperte 🔬 no exemplo do pão: 今日のは aparece como TÓPICO. O bloco 今日の está no lugar de 今日の パン, que não precisou ser repetido.",
-        "No caderno, reescreva 4 frases trocando o substantivo repetido por の: 高い かばん → 高いの; きれいな シャツ → きれいなの; きのうの しんぶん → きのうの."
+        "Take objects at home that come in \"pairs\" (mugs, T-shirts, pens) and describe one pair without repeating the name: この カップは 大きいです。あの 小さいのは わたしのです。",
+        "Tap 🔬 on the bread example: きのうのです is the PREDICATE of the first sentence, and 今日のは shows up as TOPIC of the second. The block 今日の stands for 今日の パン, which didn't need repeating.",
+        "In your notebook, rewrite 4 phrases, replacing the repeated noun with の: 高い かばん → 高いの; きれいな シャツ → きれいなの; きのうの しんぶん → きのうの."
       ],
       "flag": null
     },
@@ -86,109 +86,108 @@
       "id": "10-2-b",
       "gc": "10-4",
       "title": "〜つもりです",
-      "gloss": "pretendo…, tenho a intenção de…",
-      "explanation": "**つもり** quer dizer \"intenção\". Ele entra depois de um verbo na **forma curta do presente** (Aula 08-1), e o conjunto vira o **predicado**: \"pretendo…\".\n• Afirmativo: forma de dicionário + つもりです: 行く つもりです (\"pretendo ir\").\n• Negativo, \"pretendo NÃO…\": forma ない + つもりです: 行かない つもりです.\n• Na fala casual, つもりです vira つもりだ ou só つもり.\n• No passado, 〜つもりでした = \"eu pretendia…\", muitas vezes com a ideia de que acabou não acontecendo.\nLeia pelo fim: 〜つもりです é o predicado, e tudo o que vem antes descreve o plano (quando, onde, o quê). Por dentro, つもり é um substantivo, e o verbo na forma curta o descreve, como nas frases da Aula 09-2 (きのう みた えいが): 行く つもり = \"a intenção de ir\".\n• A forma 〜ます já serve para o futuro (\"vou…\"). つもり acrescenta a ideia de **intenção pessoal**: algo que você decidiu fazer.\n• よてい, a palavra do título da Lição 10 (ふゆやすみの よてい), é a programação, o que está marcado na agenda. つもり é a sua intenção.\n• Para perguntar dos planos de alguém: 〜は なにを する つもりですか。 Para contar o plano de outra pessoa, é comum citar o que ela disse: 〜つもりだと 言っていました (Aula 08-2).",
-      "structure": "[verbo na forma de dicionário] つもりです · [verbo na forma ない] つもりです",
+      "gloss": "I intend to…, I plan to…",
+      "explanation": "**つもり** means \"intention\". It comes after a verb in the **short present form** (lesson 08-1), and together they become the **predicate**: \"I intend to…\".\n• Affirmative: dictionary form + つもりです: 行く つもりです (\"I intend to go\").\n• Negative, \"I intend NOT to…\": ない-form + つもりです: 行かない つもりです.\n• In casual speech, つもりです becomes つもりだ or just つもり.\n• In the past, 〜つもりでした = \"I intended to…\", often implying that it didn't happen in the end.\nRead from the end: 〜つもりです is the predicate, and everything before it describes the plan (when, where, what). Inside, つもり is a noun, and the short-form verb describes it, as in the sentences of lesson 09-2 (きのう みた えいが): 行く つもり = \"the intention of going\".\n• The 〜ます form already works for the future (\"I will…\"). つもり adds the idea of **personal intention**: something you have decided to do.\n• よてい, the word in the title of Genki Lesson 10 (ふゆやすみの よてい), is the schedule, what is set on the calendar. つもり is your intention.\n• To ask about someone's plans: 〜は なにを する つもりですか。 To report another person's plan, it is common to quote what they said: 〜つもりだと 言っていました (lesson 08-2).",
+      "structure": "[verb, dictionary form] つもりです · [verb, ない-form] つもりです",
       "examples": [
-        { "jp": "来年 日本で はたらく つもりです。", "kana": "らいねん にほんで はたらく つもりです。", "romaji": "Rainen Nihon de hataraku tsumori desu.", "pt": "Ano que vem, pretendo trabalhar no Japão." },
-        { "jp": "今夜は おさけを 飲まない つもりです。あした しけんが ありますから。", "kana": "こんやは おさけを のまない つもりです。あした しけんが ありますから。", "romaji": "Kon'ya wa osake o nomanai tsumori desu. Ashita shiken ga arimasu kara.", "pt": "Hoje à noite pretendo não beber. É que amanhã tenho prova." },
-        { "jp": "アナさん、ふゆやすみは 何を する つもり？— ブラジルに 帰る つもり。", "kana": "アナさん、ふゆやすみは なにを する つもり？— ブラジルに かえる つもり。", "romaji": "Ana-san, fuyuyasumi wa nani o suru tsumori? — Burajiru ni kaeru tsumori.", "pt": "Ana, o que você pretende fazer nas férias de inverno? — Pretendo voltar para o Brasil. (casual)" }
+        { "jp": "来年 日本で はたらく つもりです。", "kana": "らいねん にほんで はたらく つもりです。", "romaji": "Rainen Nihon de hataraku tsumori desu.", "en": "I intend to work in Japan next year. [lit. next year, in Japan, (it is my) intention to work]" },
+        { "jp": "今夜は おさけを 飲まない つもりです。あした しけんが ありますから。", "kana": "こんやは おさけを のまない つもりです。あした しけんが ありますから。", "romaji": "Kon'ya wa osake o nomanai tsumori desu. Ashita shiken ga arimasu kara.", "en": "Tonight I intend not to drink. It's because I have an exam tomorrow." },
+        { "jp": "アナさん、ふゆやすみは 何を する つもり？— ブラジルに 帰る つもり。", "kana": "アナさん、ふゆやすみは なにを する つもり？— ブラジルに かえる つもり。", "romaji": "Ana-san, fuyuyasumi wa nani o suru tsumori? — Burajiru ni kaeru tsumori.", "en": "Ana, what are you planning to do over winter break? — I'm planning to go back to Brazil. (casual)" }
       ],
       "pitfalls": [
-        "つもり vem depois da forma curta, nunca da forma ます: ✓ 行く つもりです (✗ 行きます つもりです).",
-        "Para \"pretendo não…\", negue o verbo na forma curta: ✓ 行かない つもりです (✗ 行きません つもりです). Já 行く つもりは ありません é uma negação forte: \"não tenho a menor intenção de ir\".",
-        "つもり é para ações que você controla. Chuva, trem e sorte não têm intenção: ✗ あした 雨が ふる つもりです → ✓ あした 雨が ふると おもいます (Aula 08-2).",
-        "Cuidado com os verbos う terminados em う na forma ない: ✓ すう → すわない, かう → かわない (✗ すあない, かあない)."
+        "つもり comes after the short form, never after the ます form: 行きます つもりです ✗ → 行く つもりです ✓.",
+        "For \"I intend not to…\", make the short-form verb negative: 行きません つもりです ✗ → 行かない つもりです ✓. By contrast, 行く つもりは ありません is a strong denial: \"I have no intention of going\".",
+        "つもり is for actions you control. Rain, trains and luck have no intentions: あした 雨が ふる つもりです ✗ → あした 雨が ふると おもいます ✓ (lesson 08-2).",
+        "う-verbs that end in う take わ in the ない-form: すう → すあない ✗ → すわない ✓; かう → かあない ✗ → かわない ✓."
       ],
       "howToStudy": [
-        "Liste no caderno 5 planos seus (férias, próximo ano, estudo de japonês): 3 com a forma de dicionário e 2 com ない つもりです.",
-        "Aperte 🔬 em 今夜は おさけを 飲まない つもりです。: つもりです aparece como PREDICADO, do tipo intenção, e 飲まない como DESCREVE O PRÓXIMO, porque o verbo descreve a つもり. おさけを é o OBJETO de 飲まない: tudo isso é o plano.",
-        "Fala: pergunte a si mesmo しゅうまつは なにを する つもりですか。 e 来年は なにを する つもりですか。 e responda em voz alta, gravando."
+        "In your notebook, list 5 of your plans (vacation, next year, your Japanese studies): 3 with the dictionary form and 2 with ない つもりです.",
+        "Tap 🔬 on 今夜は おさけを 飲まない つもりです。: 飲まない つもりです shows up as one PREDICATE block, of the intention (～つもり) kind. おさけを is the OBJECT and 今夜は the TOPIC: everything before the predicate describes the plan.",
+        "Speaking: ask yourself しゅうまつは なにを する つもりですか。 and 来年は なにを する つもりですか。 and answer out loud, recording yourself."
       ],
       "flag": null
     }
   ],
   "media": [
-    { "order": 1, "kind": "leitura", "title": "Genki I · Lição 10: as explicações de gramática 3 e 4 (Adjective/Noun + の; 〜つもりだ) e o diálogo da lição", "where": "Seu livro Genki I (3ª ed.)", "url": "", "when": "Antes desta aula ou logo depois do bloco de gramática" },
-    { "order": 2, "kind": "video", "title": "ToKini Andy: aula da Lição 10 do Genki I (a parte de の como pronome e de つもり)", "where": "YouTube · canal ToKini Andy", "url": "", "search": "ToKini Andy Genki Lesson 10", "when": "Depois de estudar os 2 pontos" },
-    { "order": 3, "kind": "video", "title": "Japanese Ammo with Misa: explicação de つもり (intenção e planos)", "where": "YouTube · canal Japanese Ammo with Misa", "url": "", "search": "Japanese Ammo with Misa つもり", "when": "Opcional, se ainda tiver dúvida sobre つもり × ます" },
-    { "order": 4, "kind": "app", "title": "genki-companion: Lição 10, pontos 3 e 4 (marque ✍️ quando terminar)", "where": "../genki-companion/index.html", "url": "../genki-companion/index.html", "when": "No fim, para revisar e marcar o progresso" }
+    { "order": 1, "kind": "reading", "title": "Genki I · Lesson 10: grammar notes 3 and 4 (Adjective/Noun + の; 〜つもりだ) and the lesson's dialogue", "where": "Your Genki I textbook (3rd ed.)", "url": "", "when": "Before this lesson or right after the grammar block" },
+    { "order": 2, "kind": "video", "title": "Japanese Ammo with Misa: つもり (intentions and plans)", "where": "YouTube · Japanese Ammo with Misa channel", "url": "", "search": "Japanese Ammo with Misa つもり", "when": "Optional, if you are still unsure about つもり vs ます" },
+    { "order": 3, "kind": "app", "title": "genki-companion: Lesson 10, points 3 and 4 (tick ✍️ when you finish)", "where": "../genki-companion/index.html", "url": "../genki-companion/index.html", "when": "At the end, to review and mark your progress" }
   ],
   "homework": {
-    "intro": "Faça no caderno, à mão. Escreva o japonês em kana (use kanji só nas palavras que você já sabe escrever). Só depois abra o gabarito, item por item. Circule o que errou e refaça no dia seguinte.",
+    "intro": "Do it by hand in your notebook. Write the Japanese in kana (use kanji only for words you can already write). Only then open the answer key, item by item. Circle what you got wrong and redo it the next day.",
     "tasks": [
       {
         "id": "h1",
-        "type": "transformar",
-        "prompt": "Reescreva trocando o substantivo repetido por の (quando houver duas frases, só a segunda).",
+        "type": "transform",
+        "prompt": "Rewrite, replacing the repeated noun with の (when there are two sentences, only the second one).",
         "items": [
           { "q": "この シャツは 小さいです。大きい シャツは ありますか。", "a": { "jp": "大きいのは ありますか。", "kana": "おおきいのは ありますか。", "romaji": "Ōkii no wa arimasu ka." } },
-          { "q": "わたしの かさは くろいです。マリアさんの かさは あかいです。", "a": { "jp": "マリアさんのは あかいです。", "romaji": "Maria-san no wa akai desu." }, "note": "Substantivo + の: um の só." },
-          { "q": "この かばんは かわいいですが、小さいです。大きくて じょうぶな かばんを 買いました。", "a": { "jp": "大きくて じょうぶなのを 買いました。", "kana": "おおきくて じょうぶなのを かいました。", "romaji": "Ōkikute jōbu na no o kaimashita." }, "note": "Adjetivo な: o な fica (じょうぶなの). A descrição inteira continua antes do の." },
+          { "q": "わたしの かさは くろいです。マリアさんの かさは あかいです。", "a": { "jp": "マリアさんのは あかいです。", "romaji": "Maria-san no wa akai desu." }, "note": "Noun + の: a single の." },
+          { "q": "この かばんは かわいいですが、小さいです。大きくて じょうぶな かばんを 買いました。", "a": { "jp": "大きくて じょうぶなのを 買いました。", "kana": "おおきくて じょうぶなのを かいました。", "romaji": "Ōkikute jōbu na no o kaimashita." }, "note": "な-adjective: the な stays (じょうぶなの). The whole description still comes before the の." },
           { "q": "今日の しんぶんは ここに あります。きのうの しんぶんは どこですか。", "a": { "jp": "きのうのは どこですか。", "romaji": "Kinō no wa doko desu ka." } },
-          { "q": "白い くつと くろい くつと どちらが いいですか。", "a": { "jp": "白いのと くろいのと どちらが いいですか。", "kana": "しろいのと くろいのと どちらが いいですか。", "romaji": "Shiroi no to kuroi no to dochira ga ii desu ka." }, "note": "Junta com a Aula 10-1: dá para comparar sem repetir くつ." }
+          { "q": "白い くつと くろい くつと どちらが いいですか。", "a": { "jp": "白いのと くろいのと どちらが いいですか。", "kana": "しろいのと くろいのと どちらが いいですか。", "romaji": "Shiroi no to kuroi no to dochira ga ii desu ka." }, "note": "This combines with lesson 10-1: you can compare without repeating くつ." }
         ]
       },
       {
         "id": "h2",
-        "type": "completar",
-        "prompt": "Complete com o verbo entre parênteses na forma certa para ficar antes de つもり.",
+        "type": "fill",
+        "prompt": "Fill in the verb in parentheses, in the right form to go before つもり.",
         "items": [
-          { "q": "来年から 東京に ＿＿ つもりです。(すむ)", "a": { "jp": "住む", "kana": "すむ", "romaji": "sumu" }, "note": "Forma de dicionário + つもり. 住 é um kanji da Lição 10." },
+          { "q": "来年から 東京に ＿＿ つもりです。(すむ)", "a": { "jp": "住む", "kana": "すむ", "romaji": "sumu" }, "note": "Dictionary form + つもり. 住 is a Lesson 10 kanji." },
           { "q": "しゅうまつは うちで ＿＿ つもりです。(ゆっくりする)", "a": { "jp": "ゆっくりする", "romaji": "yukkuri suru" } },
-          { "q": "もう タバコを ＿＿ つもりです。(すう · negativo)", "a": { "jp": "すわない", "romaji": "suwanai" }, "note": "Verbo う terminado em う: う → わない (Aula 08-1). A frase quer dizer \"pretendo não fumar mais\"." },
-          { "q": "ふゆやすみは アルバイトを ＿＿ つもりです。(する · negativo)", "a": { "jp": "しない", "romaji": "shinai" } },
+          { "q": "もう タバコを ＿＿ つもりです。(すう · negative)", "a": { "jp": "すわない", "romaji": "suwanai" }, "note": "う-verb ending in う: う → わない (lesson 08-1). The sentence means \"I intend not to smoke anymore\"." },
+          { "q": "ふゆやすみは アルバイトを ＿＿ つもりです。(する · negative)", "a": { "jp": "しない", "romaji": "shinai" } },
           { "q": "日本で しゃしんを たくさん ＿＿ つもりです。(とる)", "a": { "jp": "とる", "romaji": "toru" } },
-          { "q": "マリアさんは 来年 ＿＿ つもりだと 言っていました。(けっこんする)", "a": { "jp": "けっこんする", "romaji": "kekkon suru" }, "note": "O plano é de outra pessoa, então ele vem citado com 〜と 言っていました (Aula 08-2)." }
+          { "q": "マリアさんは 来年 ＿＿ つもりだと 言っていました。(けっこんする)", "a": { "jp": "けっこんする", "romaji": "kekkon suru" }, "note": "The plan is someone else's, so it is quoted with 〜と 言っていました (lesson 08-2)." }
         ]
       },
       {
         "id": "h3",
-        "type": "traduzir",
-        "prompt": "Traduza para o japonês.",
+        "type": "translate",
+        "prompt": "Translate into Japanese.",
         "items": [
-          { "q": "Pretendo comprar um computador novo.", "a": { "jp": "新しい パソコンを 買う つもりです。", "kana": "あたらしい パソコンを かう つもりです。", "romaji": "Atarashii pasokon o kau tsumori desu." } },
-          { "q": "(Falando de celulares) O preto é mais caro que o branco.", "a": { "jp": "くろいのは 白いのより 高いです。", "kana": "くろいのは しろいのより たかいです。", "romaji": "Kuroi no wa shiroi no yori takai desu." }, "note": "Também vale 白いのより くろいのの ほうが 高いです。 O のの é normal aqui: o primeiro の é \"o preto\", e o segundo liga a ほう." },
-          { "q": "Este guarda-chuva não é meu. O meu é azul.", "a": { "jp": "この かさは わたしのじゃないです。わたしのは あおいです。", "romaji": "Kono kasa wa watashi no ja nai desu. Watashi no wa aoi desu." } },
-          { "q": "Hoje à noite pretendo não ver TV.", "a": { "jp": "今夜は テレビを 見ない つもりです。", "kana": "こんやは テレビを みない つもりです。", "romaji": "Kon'ya wa terebi o minai tsumori desu." }, "note": "Negue o verbo (見ない), não o つもり." },
-          { "q": "Em Kyoto, pretendo comprar lembrancinhas para a minha família.", "a": { "jp": "きょうとで かぞくに おみやげを 買う つもりです。", "kana": "きょうとで かぞくに おみやげを かう つもりです。", "romaji": "Kyōto de kazoku ni omiyage o kau tsumori desu." } }
+          { "q": "I intend to buy a new computer.", "a": { "jp": "新しい パソコンを 買う つもりです。", "kana": "あたらしい パソコンを かう つもりです。", "romaji": "Atarashii pasokon o kau tsumori desu." } },
+          { "q": "(Talking about cell phones) The black one is more expensive than the white one.", "a": { "jp": "くろいのは 白いのより 高いです。", "kana": "くろいのは しろいのより たかいです。", "romaji": "Kuroi no wa shiroi no yori takai desu." }, "note": "白いのより くろいのの ほうが 高いです。 is also correct. The のの is normal here: the first の is \"the black one\", and the second links it to ほう." },
+          { "q": "This umbrella isn't mine. Mine is blue.", "a": { "jp": "この かさは わたしのじゃないです。わたしのは あおいです。", "romaji": "Kono kasa wa watashi no ja nai desu. Watashi no wa aoi desu." } },
+          { "q": "Tonight I intend not to watch TV.", "a": { "jp": "今夜は テレビを 見ない つもりです。", "kana": "こんやは テレビを みない つもりです。", "romaji": "Kon'ya wa terebi o minai tsumori desu." }, "note": "Make the verb negative (見ない), not つもり." },
+          { "q": "In Kyoto, I intend to buy souvenirs for my family.", "a": { "jp": "きょうとで かぞくに おみやげを 買う つもりです。", "kana": "きょうとで かぞくに おみやげを かう つもりです。", "romaji": "Kyōto de kazoku ni omiyage o kau tsumori desu." } }
         ]
       },
       {
         "id": "h4",
-        "type": "produzir",
-        "prompt": "Escreva 4–5 frases sobre os seus planos para as próximas férias: 3 com つもりです, 1 com ない つもりです e 1 com adjetivo ou substantivo + の. Depois leia em voz alta e grave.",
+        "type": "produce",
+        "prompt": "Write 4–5 sentences about your plans for your next vacation: 3 with つもりです, 1 with ない つもりです and 1 with an adjective or noun + の. Then read them aloud and record yourself.",
         "items": [
-          { "q": "Modelo, que o seu texto deve seguir na estrutura e não nas palavras:", "a": { "jp": "ふゆやすみは サンパウロに 帰る つもりです。かぞくと 友だちに 会う つもりです。アルバイトは しない つもりです。新しい くつを 買う つもりです。くろいのより 白いのが すきです。", "kana": "ふゆやすみは サンパウロに かえる つもりです。かぞくと ともだちに あう つもりです。アルバイトは しない つもりです。あたらしい くつを かう つもりです。くろいのより しろいのが すきです。", "romaji": "Fuyuyasumi wa Sanpauro ni kaeru tsumori desu. Kazoku to tomodachi ni au tsumori desu. Arubaito wa shinai tsumori desu. Atarashii kutsu o kau tsumori desu. Kuroi no yori shiroi no ga suki desu.", "pt": "Nas férias de inverno, pretendo voltar para São Paulo. Pretendo encontrar a família e os amigos. Não pretendo fazer bico. Pretendo comprar sapatos novos. Gosto mais dos brancos do que dos pretos." }, "note": "Confira: つもり depois da forma de dicionário ou da forma ない, nunca de ます; o の só no lugar de um substantivo que já apareceu (aqui, くつ); com adjetivo な, o な fica (きれいなの)." }
+          { "q": "Model (match its structure, not its words):", "a": { "jp": "ふゆやすみは サンパウロに 帰る つもりです。かぞくと 友だちに 会う つもりです。アルバイトは しない つもりです。新しい くつを 買う つもりです。くろいのより 白いのが すきです。", "kana": "ふゆやすみは サンパウロに かえる つもりです。かぞくと ともだちに あう つもりです。アルバイトは しない つもりです。あたらしい くつを かう つもりです。くろいのより しろいのが すきです。", "romaji": "Fuyuyasumi wa Sanpauro ni kaeru tsumori desu. Kazoku to tomodachi ni au tsumori desu. Arubaito wa shinai tsumori desu. Atarashii kutsu o kau tsumori desu. Kuroi no yori shiroi no ga suki desu.", "en": "Over winter break, I intend to go back to São Paulo. I intend to see my family and friends. I intend not to do any part-time work. I intend to buy new shoes. I like white ones better than black ones." }, "note": "Check: つもり after the dictionary form or the ない-form, never after ます; の only in place of a noun that has already come up (here, くつ); with a な-adjective, the な stays (きれいなの)." }
         ]
       }
     ],
     "workbook": [
-      { "p": 98, "t": "3 · Adjective/Noun + の", "tip": "Faça depois do ponto 4a." },
-      { "p": 99, "t": "4 · ～つもりだ", "tip": "Faça depois do ponto 4b. Confira no Genki Answer Key oficial." }
+      { "p": 98, "t": "3 · Adjective/Noun + の", "tip": "Do it after point 4a." },
+      { "p": 99, "t": "4 · ～つもりだ", "tip": "Do it after point 4b; check it with the official Genki Answer Key." }
     ]
   },
   "practice": [
-    { "tool": "Wagotabi", "what": "Jogue normalmente e cace dois padrões: um adjetivo seguido de の sem substantivo depois (〜いの, 〜なの) e つもり no fim de uma fala. Quando achar, pause e diga que substantivo o の está substituindo, ou qual é o plano. Registre em Imersão → Jogos e cole a frase na Anatomia.", "min": 15 },
-    { "tool": "ヅオリンゴー", "what": "Diário: escreva 3 planos seus com つもり (um deles negativo) e abra \"Anatomia do que escrevi\" para conferir se o PREDICADO saiu como intenção.", "min": 10 },
-    { "tool": "ヅオリンゴー", "what": "Vocabulário da Lição 10 no SRS e uma rodada de Treinos → Conjugação, com atenção à forma ない: é ela que vai antes de ない つもり.", "min": 10 },
-    { "tool": "Shadowing", "what": "Toque 🔊 nos exemplos desta aula e repita junto 3 vezes. No exemplo do pão, faça bem a pausa entre as duas frases.", "min": 5 },
-    { "tool": "Fala", "what": "Imagine uma loja com três camisetas iguais de cores diferentes. Grave um mini-diálogo em que você nunca repete a palavra シャツ: 〜のは いくらですか, 〜のと 〜のと どちらが いいですか, 〜のを ください.", "min": 5 }
+    { "tool": "Wagotabi", "what": "Play normally and hunt for two patterns: an adjective followed by の with no noun after it (〜いの, 〜なの), and つもり at the end of a line. When you find one, pause and say which noun the の stands for, or what the plan is. Log the session in Immersion → Games and paste the line into 🔬 Anatomy.", "min": 15 },
+    { "tool": "ヅオリンゴー", "what": "Journal: write 3 of your plans with つもり (one of them negative) and open \"Anatomy of what I wrote\" to check that the PREDICATE came out as an intention.", "min": 10 },
+    { "tool": "ヅオリンゴー", "what": "Lesson 10 vocabulary in the SRS and one round of Drills → Conjugation, paying attention to the ない-form: it is the form that goes before ない つもり.", "min": 10 },
+    { "tool": "Shadowing", "what": "Tap 🔊 on this lesson's examples and repeat along 3 times. In the bread example, make a clear pause between the two sentences.", "min": 5 },
+    { "tool": "Speaking", "what": "Imagine a shop with three identical T-shirts in different colors. Record a mini-dialogue in which you never repeat the word シャツ: 〜のは いくらですか, 〜のと 〜のと どちらが いいですか, 〜のを ください.", "min": 5 }
   ],
   "culture": {
-    "title": "Ano-novo: おしょうがつ, はつもうで, ねんがじょう",
+    "title": "New Year: おしょうがつ, はつもうで, ねんがじょう",
     "titleJp": "お正月",
-    "body": "Para os japoneses, o **ano-novo (お正月, おしょうがつ)** é a grande festa de família, mais ou menos como o Natal para muitos brasileiros. Muitas empresas fecham do fim de dezembro até os primeiros dias de janeiro, e muita gente viaja para a casa dos pais. Nos primeiros dias do ano, costuma-se fazer a **はつもうで** (初詣), a primeira visita do ano a um santuário xintoísta ou a um templo, para pedir um bom ano; os mais famosos recebem multidões. Também é tradição mandar **ねんがじょう** (年賀状), cartões-postais de ano-novo que, se postados com antecedência, o correio entrega no dia 1º de janeiro. Hoje muita gente troca mensagens pelo celular, mas os cartões continuam existindo. No primeiro encontro do ano, diz-se あけまして おめでとう ございます。 e ことしも よろしく おねがいします。",
-    "try": "Escreva um ねんがじょう no caderno: あけまして おめでとう ございます。ことしも よろしく おねがいします。 e acrescente um plano seu com つもり, por exemplo: 今年は 日本語を たくさん べんきょうする つもりです。"
+    "body": "For Japanese people, the **New Year (お正月, おしょうがつ)** is the big family holiday, a bit like Christmas in many Western countries. Many companies close from the end of December until the first days of January, and many people travel to their parents' home. In the first days of the year, people usually make **はつもうで** (初詣), the first visit of the year to a Shinto shrine or a Buddhist temple, to pray for a good year; the most famous ones draw huge crowds. It is also a tradition to send **ねんがじょう** (年賀状), New Year postcards that, if mailed early enough, the post office delivers on January 1. Today many people send messages by phone instead, but the cards are still around. The first time you meet someone in the new year, you say あけまして おめでとう ございます。 and ことしも よろしく おねがいします。",
+    "try": "Write a ねんがじょう in your notebook: あけまして おめでとう ございます。ことしも よろしく おねがいします。 and add one of your plans with つもり, for example: 今年は 日本語を たくさん べんきょうする つもりです。"
   },
   "checklist": [
-    "Troco um substantivo já mencionado por の, sem olhar: 高い かばん → 高いの; きのうの しんぶん → きのうの.",
-    "Lembro do な com adjetivos な: きれいなの.",
-    "Uso o bloco 〜の com qualquer partícula: 〜のは, 〜のを, 〜のが.",
-    "Digo meus planos com forma de dicionário + つもりです.",
-    "Digo o que pretendo NÃO fazer com forma ない + つもりです (nunca ません つもり).",
-    "Pergunto dos planos de alguém e conto o plano de outra pessoa com 〜つもりだと 言っていました.",
-    "Fiz a lição de casa e conferi o gabarito, e refiz o que errei.",
-    "Fiz as páginas 98–99 do Workbook."
+    "I can replace a noun already mentioned with の without looking: 高い かばん → 高いの; きのうの しんぶん → きのうの.",
+    "I remember the な with な-adjectives: きれいなの.",
+    "I can use the 〜の block with any particle: 〜のは, 〜のを, 〜のが.",
+    "I can state my plans with the dictionary form + つもりです.",
+    "I can say what I intend NOT to do with the ない-form + つもりです (never ません つもり).",
+    "I can ask about someone's plans and report another person's plan with 〜つもりだと 言っていました.",
+    "I did the homework, checked it against the answer key and redid what I got wrong.",
+    "I did Workbook pages 98–99."
   ]
 }

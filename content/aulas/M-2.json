@@ -1,0 +1,283 @@
+{
+  "id": "M-2",
+  "unit": "G1-L08",
+  "genki": null,
+  "title": "Milestone 2 · two thirds of Genki I",
+  "titleJp": "私の 一日",
+  "canDo": [
+    "I can describe things, places and people with adjectives in all 4 forms, before a noun and joined with くて / で: せが 高くて、やさしい 人です。",
+    "I can ask someone to do something (〜てください) or not to do it (〜ないでください), and offer help (〜ましょうか), giving a reason with から.",
+    "I can ask for permission (〜てもいいですか), give it or turn it down politely, and state a rule (〜てはいけません).",
+    "I can switch any sentence from です／ます to the short form and hold a short casual conversation with うん／ううん.",
+    "I can give my opinion with 〜と 思います and pass on what someone said with 〜と 言っていました."
+  ],
+  "duration": {
+    "total": "70–90 min",
+    "blocks": [
+      { "t": "Session 1 · Warm-up: read the 6 structures of block 4 aloud and say one sentence of your own for each", "min": 5 },
+      { "t": "Session 1 · Review: the 6 points (block 4), reading each example aloud and tapping 🔬", "min": 25 },
+      { "t": "Session 1 · Self-test (homework, task 1) in your notebook, without looking anything up; only then the answer key", "min": 20 },
+      { "t": "Session 2 · Review the lessons named in the 💡 notes of the items you got wrong (and the video in block 6, if the て-form was the problem), then redo those items", "min": 15 },
+      { "t": "Session 2 · Your day in casual speech + 3 polite requests (task 2): write, rehearse, record and compare with your earlier recordings", "min": 15 },
+      { "t": "Session 2 · Checklist (block 10) + write down in your notebook what still trips you up", "min": 5 }
+    ]
+  },
+  "prereqs": {
+    "aulas": ["08-3"],
+    "skills": [
+      "You have completed the checklists of lessons 05-1 to 08-3. If one is still open, finish it first: the milestone tests everything together.",
+      "You can make the て-form, the dictionary form and the ない-form of the verbs from Lessons 5 to 8, even if slowly.",
+      "You read the kanji of Lessons 5 to 8 (食, 飲, 見, 行, 高, 先生, 大学, 帰, 会社, 電車, 仕事, 読, 思, 言, 何…). Every example also shows the kana.",
+      "You have the recordings of your self-introduction from lesson 01-1 and Milestone 1 at hand: you will compare them with today's.",
+      "A notebook and a pen: the self-test is done by hand, without looking anything up."
+    ],
+    "vocab": [
+      { "jp": "にぎやか（な）", "kana": "にぎやか（な）", "romaji": "nigiyaka (na)", "en": "lively, bustling (lesson 05-1)" },
+      { "jp": "きれい（な）", "kana": "きれい（な）", "romaji": "kirei (na)", "en": "pretty; clean (a な-adjective, despite the final い · lesson 05-1)" },
+      { "jp": "たのしい", "kana": "たのしい", "romaji": "tanoshii", "en": "fun, enjoyable (lesson 05-2)" },
+      { "jp": "すき（な）", "kana": "すき（な）", "romaji": "suki (na)", "en": "liked (〜が すきです = I like… · lesson 05-2)" },
+      { "jp": "とても", "kana": "とても", "romaji": "totemo", "en": "very (with an affirmative · lesson 05-3)" },
+      { "jp": "三つ", "kana": "みっつ", "romaji": "mittsu", "en": "three (things) (lesson 05-3)" },
+      { "jp": "わすれる", "kana": "わすれる", "romaji": "wasureru", "en": "to forget (る-verb · lesson 06-1)" },
+      { "jp": "ゆっくり", "kana": "ゆっくり", "romaji": "yukkuri", "en": "slowly (lesson 06-2)" },
+      { "jp": "しゃしん", "kana": "しゃしん", "romaji": "shashin", "en": "photo (lesson 06-2)" },
+      { "jp": "すわる", "kana": "すわる", "romaji": "suwaru", "en": "to sit down (う-verb · lesson 06-3)" },
+      { "jp": "たばこを すう", "kana": "たばこを すう", "romaji": "tabako o suu", "en": "to smoke (lesson 06-3)" },
+      { "jp": "にもつ", "kana": "にもつ", "romaji": "nimotsu", "en": "luggage, bags (lesson 06-4)" },
+      { "jp": "もつ", "kana": "もつ", "romaji": "motsu", "en": "to hold, to carry (lesson 06-4)" },
+      { "jp": "すんでいる", "kana": "すんでいる", "romaji": "sunde iru", "en": "to live (place + に · lesson 07-1)" },
+      { "jp": "しっている", "kana": "しっている", "romaji": "shitte iru", "en": "to know (negative: しりません · lesson 07-1)" },
+      { "jp": "せが 高い", "kana": "せが たかい", "romaji": "se ga takai", "en": "tall (a person) (lesson 07-2)" },
+      { "jp": "二人で", "kana": "ふたりで", "romaji": "futari de", "en": "the two of us, as a pair (lesson 07-3)" },
+      { "jp": "ううん", "kana": "ううん", "romaji": "uun", "en": "nope, no (casual; うん = yeah · lesson 08-1)" },
+      { "jp": "思う", "kana": "おもう", "romaji": "omou", "en": "to think (う-verb · lesson 08-2)" },
+      { "jp": "言う", "kana": "いう", "romaji": "iu", "en": "to say (う-verb · lesson 08-2)" },
+      { "jp": "じょうず（な）", "kana": "じょうず（な）", "romaji": "jōzu (na)", "en": "good at (usually said to praise others · lesson 08-3)" },
+      { "jp": "何も", "kana": "なにも", "romaji": "nanimo", "en": "nothing, not anything (with a negative verb · lesson 08-3)" }
+    ]
+  },
+  "grammar": [
+    {
+      "id": "M-2-a",
+      "title": "Describing: い- and な-adjectives",
+      "gloss": "4 forms, before a noun, joined with くて / で",
+      "explanation": "An adjective sits either in the PREDICATE (この へやは しずかです) or right before a noun, describing it (しずかな へや). Its type decides everything (lessons 05-1 and 05-2):\n• **い-adjectives change themselves**: たかいです · たかくないです · たかかったです · たかくなかったです. です only adds politeness.\n• **な-adjectives behave like nouns**: しずかです · しずかじゃないです · しずかでした · しずかじゃなかったです.\n• **いい** conjugates from よい: よくないです, よかったです, よくなかったです. きれい, ゆうめい and きらい are な-adjectives despite the final い.\n• **Before a noun**: い-adjectives go straight in (たかい 山); な-adjectives take な (しずかな まち). Never の.\n• **Two descriptions in one sentence** (lesson 07-2): い → くて (やすくて), な-adjectives and nouns → で (しずかで, 学生で), いい → よくて. Only the last one carries です and the tense: やすくて、おいしかったです.\n• **People**: [person] は [part] が [adjective]: マリアさんは かみが ながいです (lesson 07-2).\n• **Likes**: [person] は [thing] が すきです／きらいです, with が: すき is an adjective, not a verb (lesson 05-2).\n• **Degree** (lesson 05-3): とても / ちょっと + affirmative; あまり / ぜんぜん + negative.",
+      "structure": "[N] は [い-adj]です／くないです／かったです／くなかったです · [な-adj]です／じゃないです／でした／じゃなかったです · [い-adj]くて／[な-adj・N]で、[adj]です",
+      "examples": [
+        { "jp": "きのうの パーティーは どうでしたか。— りょうりが おいしくて、とても たのしかったです。", "kana": "きのうの パーティーは どうでしたか。— りょうりが おいしくて、とても たのしかったです。", "romaji": "Kinō no pātī wa dō deshita ka. — Ryōri ga oishikute, totemo tanoshikatta desu.", "en": "How was the party yesterday? — The food was delicious, and it was a lot of fun. (どう, くて, とても, the past of an い-adjective)" },
+        { "jp": "マリアさんは せが 高くて、とても やさしい 人です。", "kana": "マリアさんは せが たかくて、とても やさしい ひとです。", "romaji": "Maria-san wa se ga takakute, totemo yasashii hito desu.", "en": "Maria is tall, and she's a very kind person. (N は X が Adj, くて, an adjective before a noun)" },
+        { "jp": "私は あまい ものが 大すきです。からい ものは あまり すきじゃないです。", "kana": "わたしは あまい ものが だいすきです。からい ものは あまり すきじゃないです。", "romaji": "Watashi wa amai mono ga daisuki desu. Karai mono wa amari suki ja nai desu.", "en": "I love sweet things. Spicy things, I don't like very much. (すき with が, adjectives before a noun, あまり + negative, は for contrast)" }
+      ],
+      "pitfalls": [
+        "い-adjectives don't take でした or じゃない: たのしいでした ✗ → たのしかったです ✓; たかいじゃないです ✗ → たかくないです ✓.",
+        "な-adjectives never take く or かった: きれくないです ✗ → きれいじゃないです ✓; しずかかったです ✗ → しずかでした ✓.",
+        "いい always goes through よ: いくない ✗, いかった ✗, いくて ✗ → よくない, よかった, よくて ✓.",
+        "\"Like\" is not a verb: すしを すきです ✗ → すしが すきです ✓. And \"he's tall\" is せが 高いです ✓: 高いです alone sounds like \"expensive\"."
+      ],
+      "howToStudy": [
+        "Pick 4 adjectives (たかい, いい, しずか, きれい) and say each one in the 4 forms aloud, without looking.",
+        "Tap 🔬 on example 2: 高くて shows up as …AND THEN (the first description, still open), やさしい as DESCRIBES NEXT, attached to 人, and only 人です as the PREDICATE.",
+        "Describe a friend aloud in two sentences: [name] は [part] が 〜くて、〜です。 Then say one thing they like with 〜が すきです."
+      ],
+      "flag": null
+    },
+    {
+      "id": "M-2-b",
+      "title": "The て-form and what it builds",
+      "gloss": "linking actions · 〜ています",
+      "explanation": "The て-form (lesson 06-1) has no tense of its own: it links to what comes after it, and the end of the sentence decides the meaning.\n• **Forming it**: る-verbs: たべる → たべて. う-verbs, by the last syllable: う・つ・る → って · む・ぶ・ぬ → んで · く → いて · ぐ → いで · す → して. Irregulars: する → して, くる → きて, and the one exception いく → いって.\n• **Linking actions** in the order they happen (lesson 06-2): おきて、シャワーを あびて、大学に 行きます. Only the **last verb** gives the tense: …行きました.\n• **〜ています, an action in progress** (lesson 07-1): 今 本を 読んでいます (\"I'm reading a book now\"). With 毎日, a current habit.\n• **〜ています, a resulting state**: けっこんしています (is married), 東京に すんでいます (lives in Tokyo), しっています (knows). But \"I don't know\" is しりません.\n• **Requests and permission** are built on it too: 〜てください, 〜てもいいですか, 〜てはいけません (point c).\n• English uses \"-ing\" for plans (\"I'm going tomorrow\"); Japanese uses plain ます for plans: あした 行きます, not 行っています.",
+      "structure": "[verb-て]、[verb-て]、[last verb]ます／ました · [verb-て] います／いません／いました",
+      "examples": [
+        { "jp": "今 何を していますか。— ともだちと 電車を まっています。", "kana": "いま なにを していますか。— ともだちと でんしゃを まっています。", "romaji": "Ima nani o shite imasu ka. — Tomodachi to densha o matte imasu.", "en": "What are you doing now? — I'm waiting for the train with a friend. (〜ている in progress, と, まつ → まって)" },
+        { "jp": "きのうは 大学で 先生に 会って、としょかんで 新聞を 読みました。", "kana": "きのうは だいがくで せんせいに あって、としょかんで しんぶんを よみました。", "romaji": "Kinō wa daigaku de sensei ni atte, toshokan de shinbun o yomimashita.", "en": "Yesterday I met the teacher at the university and read the newspaper at the library. (て linking two actions, the past only at the end, two places with で)" },
+        { "jp": "たなかさんを しっていますか。— はい、しっています。東京に すんでいますよ。", "kana": "たなかさんを しっていますか。— はい、しっています。とうきょうに すんでいますよ。", "romaji": "Tanaka-san o shitte imasu ka. — Hai, shitte imasu. Tōkyō ni sunde imasu yo.", "en": "Do you know Mr./Ms. Tanaka? — Yes, I do. They live in Tokyo. (しっている, すんでいる with に)" }
+      ],
+      "pitfalls": [
+        "いく is the only exception: いいて ✗ → いって ✓. And かえる and はいる are う-verbs: かえて ✗ → かえって ✓.",
+        "Only the last verb gives the tense: 会いました、読みました ✗ (two sentences glued with a comma) → 会って、読みました ✓.",
+        "Plans take ます, not ています: あした 東京に 行っています ✗ → あした 東京に 行きます ✓.",
+        "\"I don't know\" = しりません ✓, not しっていません ✗."
+      ],
+      "howToStudy": [
+        "Say the て-form song aloud once (う つ る って · む ぶ ぬ んで · く いて · ぐ いで · す して), then make the て-form of 10 verbs from Lessons 6–8 without looking.",
+        "Tap 🔬 on example 2: 会って shows up as …AND THEN and 読みました as the PREDICATE. Look at the end to know the tense of both actions.",
+        "Describe this morning aloud in one sentence of 3 actions linked with て; then say what you are doing right now with 今 〜ています."
+      ],
+      "flag": null
+    },
+    {
+      "id": "M-2-c",
+      "title": "Asking, allowing, forbidding, offering",
+      "gloss": "〜てください · 〜てもいいですか · 〜てはいけません · 〜ないでください · 〜ましょうか",
+      "explanation": "The end of the sentence tells you **what kind of sentence it is**. Look there first, then ask: **who does the action?**\n• **〜てください** = \"please do\": the other person acts (lesson 06-2). まどを あけてください.\n• **〜ないでください** = \"please don't\", built on the ない-form (lesson 08-3). わすれないでください.\n• **〜てもいいですか** = \"may I?\": I act (lesson 06-3). Yes: ええ、いいですよ。／どうぞ。 A gentle no: すみません、ちょっと…。\n• **〜てはいけません** = \"you must not\", a rule (lesson 06-3). The は is read wa.\n• **〜ましょうか** = \"shall I…?\", an offer: I act, for you (lesson 06-4). Accept: ええ、おねがいします。 Decline: いいえ、だいじょうぶです。ありがとうございます。\n• **〜ましょう / 〜ましょうか** can also be \"let's / shall we?\": we act together (lesson 05-3). Invite with 〜ませんか (lesson 03-3), then settle it with 〜ましょう.\n• **Giving a reason**: [reason] から、[request / offer] (lesson 06-4). The reason comes FIRST, the opposite of English \"because\": さむいですから、まどを しめてください.",
+      "structure": "([reason] から、) [verb-て] ください／もいいですか／はいけません · [verb-ない] でください · [stem] ましょうか",
+      "examples": [
+        { "jp": "すみません、ここで しゃしんを とってもいいですか。— いいえ、ここでは とってはいけません。", "kana": "すみません、ここで しゃしんを とってもいいですか。— いいえ、ここでは とってはいけません。", "romaji": "Sumimasen, koko de shashin o totte mo ii desu ka. — Iie, koko de wa totte wa ikemasen.", "en": "Excuse me, may I take pictures here? — No, taking pictures isn't allowed here. (permission × prohibition, で for the place, では for contrast)" },
+        { "jp": "あついですから、まどを あけましょうか。— ええ、おねがいします。", "kana": "あついですから、まどを あけましょうか。— ええ、おねがいします。", "romaji": "Atsui desu kara, mado o akemashō ka. — Ee, onegai shimasu.", "en": "It's hot, so shall I open the window? — Yes, please. (から + an offer with ましょうか)" },
+        { "jp": "あしたは テストですから、ペンを わすれないでください。", "kana": "あしたは テストですから、ペンを わすれないでください。", "romaji": "Ashita wa tesuto desu kara, pen o wasurenaide kudasai.", "en": "There's a test tomorrow, so please don't forget your pen. (から + ないでください)" }
+      ],
+      "pitfalls": [
+        "Who acts? まどを あけてください = you open it; まどを あけてもいいですか = may I open it?; まどを あけましょうか = shall I open it (for you)?",
+        "〜ないでください starts from the ない-form, not from ません: 飲みませんでください ✗ → 飲まないでください ✓.",
+        "Don't mix the pairs: 〜てもいいです takes も, 〜てはいけません takes は: 〜てはいいです ✗, 〜てもいけません ✗.",
+        "The reason goes first: 行きませんから、いそがしいです ✗ (\"since I'm not going, I'm busy\") → いそがしいですから、行きません ✓."
+      ],
+      "howToStudy": [
+        "Take one action (まどを あける) and say it aloud with 5 endings: てください → ないでください → てもいいですか → てはいけません → ましょうか. For each one, say who opens the window.",
+        "Tap 🔬 on the 3 examples: the PREDICATE is tagged permission, prohibition, invitation / suggestion or request, and あついですから shows up as REASON. An offer with ましょうか gets the same tag as \"let's\": the context tells you which one it is.",
+        "Act out a scene aloud: a friend comes to your home. Offer 2 things (〜ましょうか), ask for 2 permissions (〜てもいいですか) and make 1 request (〜てください), each with a reason."
+      ],
+      "flag": null
+    },
+    {
+      "id": "M-2-d",
+      "title": "Short forms and casual speech",
+      "gloss": "the dictionary form, ない, だ",
+      "explanation": "Every polite form has a **short form** (lesson 08-1). It has two jobs: talking casually with friends and family, and building grammar (〜と 思います, 〜のが すき, 〜ないでください).\n• **Verbs, affirmative = the dictionary form**: 食べます → 食べる, 飲みます → 飲む, します → する, きます → くる.\n• **Verbs, negative = the ない-form**: る-verbs drop る (食べない); う-verbs change -u to -a (飲まない, 帰らない); verbs in う take わ (かわない); する → しない, くる → こない, ある → ない.\n• **い-adjectives**: take off です: 高い / 高くない (いい → よくない).\n• **な-adjectives and nouns**: です becomes だ: しずかだ / しずかじゃない; 学生だ / 学生じゃない.\n• **Casual questions**: no か, the voice rises, and だ drops: 飲む？ ひま？ Yes / no: うん / ううん.\n• Particles like は and を often drop: この ケーキ、おいしい？ Work out the job of a bare block from the verb at the end.\n• When in doubt (a teacher, a boss, someone you just met), stay with です／ます.",
+      "structure": "[dictionary form] / [ない-form] · [い-adj] / [adj minus い]くない · [な-adj・N] だ / じゃない · casual question: [short form]？↗ — うん／ううん、[short form]。",
+      "examples": [
+        { "jp": "あした、ひま？— ううん、ひまじゃない。アルバイトが ある。", "kana": "あした、ひま？— ううん、ひまじゃない。アルバイトが ある。", "romaji": "Ashita, hima? — Uun, hima ja nai. Arubaito ga aru.", "en": "Are you free tomorrow? — Nope, I'm not. I have my part-time job. (no だ in the question, ううん, a な-adjective in the negative, ある)" },
+        { "jp": "この ケーキ、おいしい？— うん、とても おいしいよ。一つ 食べる？", "kana": "この ケーキ、おいしい？— うん、とても おいしいよ。ひとつ たべる？", "romaji": "Kono kēki, oishii? — Un, totemo oishii yo. Hitotsu taberu?", "en": "Is this cake good? — Yeah, it's really good! Will you have one? (は dropped, an い-adjective, a counter, a casual question with a verb)" },
+        { "jp": "あした 学校に くる？— ううん、こない。うちで 休む。", "kana": "あした がっこうに くる？— ううん、こない。うちで やすむ。", "romaji": "Ashita gakkō ni kuru? — Uun, konai. Uchi de yasumu.", "en": "Are you coming to school tomorrow? — No, I'm not. I'm going to rest at home. (くる → こない, the dictionary form for a plan)" }
+      ],
+      "pitfalls": [
+        "No だ after an い-adjective: 高いだ ✗ → 高い ✓. And no だ in a casual question: ひまだ？ ✗ → ひま？ ✓.",
+        "The special negatives: かう → かわない (かあない ✗), ある → ない (あらない ✗), くる → こない (くない ✗), かえる → かえらない (かえない ✗).",
+        "In a casual question, か usually drops: 行くか？ ✗ (it sounds rough) → 行く？ ✓.",
+        "Casual speech with the wrong person: with a teacher or someone you just met, stay with です／ます ✓. Casual is for friends, family and people close to you."
+      ],
+      "howToStudy": [
+        "Take 5 polite sentences from your Milestone 1 self-introduction and say them in the short form, aloud: 毎日 七時に おきます → 毎日 七時に おきる.",
+        "Tap 🔬 on example 2: この ケーキ shows up as NO PARTICLE (the は dropped), so you work out its job from the PREDICATE おいしい.",
+        "ヅオリンゴー → Drills → Conjugation: 5 min of dictionary forms and ない-forms only, including the special cases (かう, ある, くる, かえる)."
+      ],
+      "flag": null
+    },
+    {
+      "id": "M-2-e",
+      "title": "Opinions and passing on what people said",
+      "gloss": "〜と 思います · 〜と 言っていました",
+      "explanation": "Both patterns put a whole short sentence inside a bigger one (lesson 08-2). The block with **と** is the CONTENT (what you think, or what was said); the main PREDICATE, at the very end, is 思います or 言っていました. Read the end first: \"I think… what?\"\n• The content goes in the **short form**: 行くと 思います, 高くないと 思います.\n• **Nouns and な-adjectives need だ**: 学生だと 思います, かんたんだと 思います. い-adjectives never take だ.\n• \"I don't think…\": usually negate the content: 高くないと 思います. 高いと 思いません is stronger, like disagreeing with an idea.\n• \"I think so\" = そう 思います, with no と.\n• **思います is always YOUR opinion.** For someone else's, report what they said: [person] は 〜と 言っていました.\n• The reported content keeps **the tense the person used**: Ana said 「あした 行きます」 → アナさんは あした 行くと 言っていました. English shifts the tense back (\"she said she would go\"); Japanese doesn't.",
+      "structure": "[short form] と 思います · [N／な-adj] だと 思います · [person] は [short form] と 言っていました",
+      "examples": [
+        { "jp": "日本語の テストは むずかしいと 思いますか。— いいえ、むずかしくないと 思います。", "kana": "にほんごの テストは むずかしいと おもいますか。— いいえ、むずかしくないと おもいます。", "romaji": "Nihongo no tesuto wa muzukashii to omoimasu ka. — Iie, muzukashikunai to omoimasu.", "en": "Do you think the Japanese test is difficult? — No, I don't think it's difficult. [lit. I think it isn't difficult] (と 思います + an い-adjective in the short negative)" },
+        { "jp": "マリアさんは あした いそがしいと 言っていました。パーティーには 行かないと 思います。", "kana": "マリアさんは あした いそがしいと いっていました。パーティーには いかないと おもいます。", "romaji": "Maria-san wa ashita isogashii to itte imashita. Pātī ni wa ikanai to omoimasu.", "en": "Maria said she's busy tomorrow. I don't think she'll go to the party. [lit. I think she won't go] (と 言っていました, と 思います, には for contrast)" },
+        { "jp": "あの 人は いつも 大学の としょかんに いますから、学生だと 思います。", "kana": "あの ひとは いつも だいがくの としょかんに いますから、がくせいだと おもいます。", "romaji": "Ano hito wa itsumo daigaku no toshokan ni imasu kara, gakusei da to omoimasu.", "en": "That person is always at the university library, so I think they're a student. (から, だと 思います with a noun)" }
+      ],
+      "pitfalls": [
+        "Forgetting だ: 学生と 思います ✗ → 学生だと 思います ✓; かんたんと 思います ✗ → かんたんだと 思います ✓.",
+        "です／ます before と: 高いですと 思います ✗ → 高いと 思います ✓. The politeness lives only in 思います.",
+        "Someone else's opinion with 思います: マリアさんは いそがしいと 思います means \"I think Maria is busy\". To pass on her words: マリアさんは いそがしいと 言っていました ✓.",
+        "Keep the tense the person used: Ana said 「行きます」, so アナさんは 行くと 言っていました ✓, even though English says \"she said she would go\"."
+      ],
+      "howToStudy": [
+        "Give 5 opinions aloud about things around you, mixing the types: a verb, an い-adjective, a な-adjective and a noun (…だと 思います).",
+        "Tap 🔬 on example 2: the blocks that end in と show up as QUOTE, and the verb at the end as the PREDICATE. Read the predicate first, then ask \"said what? / think what?\".",
+        "Pass on 3 things a friend or a family member told you this week with 〜と 言っていました, keeping the tense they used."
+      ],
+      "flag": null
+    },
+    {
+      "id": "M-2-f",
+      "title": "More tools: purpose, counting, が, 何か／何も, のが すき",
+      "gloss": "the smaller points of Lessons 5–8",
+      "explanation": "Five smaller patterns that often show up together with the big ones:\n• **Going somewhere to do something**: [place] へ [stem] に 行く／くる／帰る (lesson 07-3). The stem is the ます-form without ます: デパートへ くつを かいに 行きます. With activity nouns: かいものに 行きます.\n• **Counting**: things with ひとつ … とお (lesson 05-3), people with ひとり, ふたり, 〜にん (lesson 07-3). The number comes right before the verb, with no particle: りんごを 三つ かいました, 学生が 三人 います. 二人で = the two of us.\n• **Actions as nouns**: [dictionary form] + の + が すき／きらい／じょうず／へた (lesson 08-3): およぐのが すきです. じょうず is for praising others; about yourself, say へた or あまり じょうずじゃない.\n• **が with a question word**: だれが, 何が, never だれは, and the answer keeps が (lesson 08-3): だれが 作りましたか。— ルーカスさんが 作りました.\n• **Something / nothing**: 何か (something) and 何も + a negative verb (nothing); だれか / だれも for people. を and が drop: 何か 飲みますか。— いいえ、何も 飲みません (lesson 08-3).",
+      "structure": "[place] へ [stem] に 行きます · [N] を [number] [verb] · [verb] のが すきです · だれが／何が 〜か · 何か 〜か。— 何も 〜ません",
+      "examples": [
+        { "jp": "だれが ケーキを 作りましたか。— ルーカスさんが 作りました。ルーカスさんは りょうりを するのが じょうずです。", "kana": "だれが ケーキを つくりましたか。— ルーカスさんが つくりました。ルーカスさんは りょうりを するのが じょうずです。", "romaji": "Dare ga kēki o tsukurimashita ka. — Rūkasu-san ga tsukurimashita. Rūkasu-san wa ryōri o suru no ga jōzu desu.", "en": "Who made the cake? — Lucas did. Lucas is good at cooking. (だれが and an answer with が, のが じょうず)" },
+        { "jp": "しゅうまつ、何か しましたか。— いいえ、何も しませんでした。うちで 休みました。", "kana": "しゅうまつ、なにか しましたか。— いいえ、なにも しませんでした。うちで やすみました。", "romaji": "Shūmatsu, nanika shimashita ka. — Iie, nanimo shimasen deshita. Uchi de yasumimashita.", "en": "Did you do anything on the weekend? — No, I didn't do anything. I rested at home. (何か, 何も + negative, the polite past)" },
+        { "jp": "ともだちと 二人で デパートへ くつを かいに 行きました。", "kana": "ともだちと ふたりで デパートへ くつを かいに いきました。", "romaji": "Tomodachi to futari de depāto e kutsu o kai ni ikimashita.", "en": "A friend and I went to the department store, just the two of us, to buy shoes. (と, 二人で, へ + stem + に 行く)" }
+      ],
+      "pitfalls": [
+        "The stem, not the dictionary form: かうに 行きます ✗ → かいに 行きます ✓. And only when you really move: \"I'm going to study\" at your desk is just べんきょうします.",
+        "People aren't counted with つ: いもうとが ふたつ います ✗ → いもうとが ふたり います ✓. And 4 people is よにん (よんにん ✗).",
+        "のが, not を, and never the ます-form: 読むのを すきです ✗, 読みますのが すきです ✗ → 読むのが すきです ✓.",
+        "何も needs a negative verb, like \"not… anything\": 何も 食べます ✗ → 何も 食べません ✓. And 何か 飲みますか (something?) ≠ 何を 飲みますか (what?)."
+      ],
+      "howToStudy": [
+        "Say aloud 3 places you go to and what for: [place] へ 〜に 行きます.",
+        "Tap 🔬 on example 3: デパートへ shows up as DESTINATION and かいに as PURPOSE, two blocks that answer \"where to?\" and \"what for?\".",
+        "Answer aloud, with true answers: 何が すきですか。何を するのが すきですか。きのう 何か かいましたか。"
+      ],
+      "flag": null
+    }
+  ],
+  "media": [
+    { "order": 1, "kind": "reading", "title": "Genki I · Lessons 5 to 8: reread the grammar notes only for the points you missed on the self-test", "where": "Your Genki I textbook (3rd ed.)", "url": "", "when": "Session 2, together with the lessons named in the 💡 notes" },
+    { "order": 2, "kind": "video", "title": "Japanese Ammo with Misa: the て-form and its uses (〜てください, 〜ている, 〜てもいい)", "where": "YouTube · Japanese Ammo with Misa channel", "url": "", "search": "Japanese Ammo with Misa te form", "when": "Session 2, if the て-form was where you made the most mistakes" },
+    { "order": 3, "kind": "app", "title": "genki-companion: Lessons 5 to 8, points 5-1 to 8-8. Check that all of them have ✍️; reread calmly the ones you miss on the self-test", "where": "../genki-companion/index.html", "url": "../genki-companion/index.html", "when": "Session 1, a quick pass before the self-test; session 2, only the points you missed" },
+    { "order": 4, "kind": "app", "title": "ヅオリンゴー · Practice L5, L6, L7 and L8 (conjugation, listening, comprehension and workbook-style exercises)", "where": "ヅオリンゴー", "url": "", "when": "Session 2, after reviewing the lessons: start with the lesson where you made the most mistakes" }
+  ],
+  "homework": {
+    "intro": "Two tasks, by hand in your notebook. Do task 1 (the self-test) without looking anything up: not the lessons, not the book, not the app. Only then open the answer key, item by item, and mark each item right or wrong. Next to each mistake, write down the lesson named in the 💡 note. The goal is at least 20 of the 25 items (80%). In session 2, review those lessons and redo the items you got wrong. Task 2 is written and then spoken: write it, rehearse it and record it.",
+    "tasks": [
+      {
+        "id": "h1",
+        "type": "self-test",
+        "prompt": "Self-test for Lessons 5 to 8 (25 items). Do all of it without looking anything up, and only then check.",
+        "items": [
+          { "q": "Make it negative · この へやは きれいです。", "a": { "jp": "この へやは きれいじゃないです。", "romaji": "Kono heya wa kirei ja nai desu." }, "note": "きれい is a な-adjective despite the final い: きれくないです ✗. Wrong? Review lesson 05-1 (4b)." },
+          { "q": "Fill in な or × (nothing goes there) · しずか＿ まち · たかい＿ 山", "a": { "jp": "しずかな まち · たかい 山", "kana": "しずかな まち · たかい やま", "romaji": "shizuka na machi · takai yama" }, "note": "Before a noun, な-adjectives take な and い-adjectives go straight in (たかいな 山 ✗). Wrong? Review lesson 05-1 (4c)." },
+          { "q": "Put it in the past negative · 天気は いいです。", "a": { "jp": "天気は よくなかったです。", "kana": "てんきは よくなかったです。", "romaji": "Tenki wa yokunakatta desu." }, "note": "いい goes through よ: よくなかったです (いくなかったです ✗, いいじゃなかったです ✗). Wrong? Review lesson 05-2 (4a)." },
+          { "q": "Particle · 私は やさい＿ きらいです。", "a": { "jp": "が", "romaji": "ga" }, "note": "すき and きらい take が, not を: they are adjectives, not verbs. Wrong? Review lesson 05-2 (4c)." },
+          { "q": "Choose とても or あまり · この カレーは ＿ からくないです。", "a": { "jp": "あまり", "romaji": "amari" }, "note": "あまり goes with a negative (\"not very\"); とても goes with an affirmative. Wrong? Review lesson 05-3 (4c)." },
+          { "q": "Translate · Three apples, please.", "a": { "jp": "りんごを 三つ ください。", "kana": "りんごを みっつ ください。", "romaji": "Ringo o mittsu kudasai." }, "note": "The general counter: みっつ, with っ; the number comes after the object, right before the verb. Wrong? Review lesson 05-3 (4b)." },
+          { "q": "て-form · 飲む · 行く · 帰る", "a": { "jp": "飲んで · 行って · 帰って", "kana": "のんで · いって · かえって", "romaji": "nonde · itte · kaette" }, "note": "む → んで; 行く is the exception (いって); 帰る is an う-verb, so る → って (帰て ✗). Wrong? Review lesson 06-1 (4b and 4c)." },
+          { "q": "Join them into one sentence with the て-form · うちに 帰りました。シャワーを あびました。", "a": { "jp": "うちに 帰って、シャワーを あびました。", "kana": "うちに かえって、シャワーを あびました。", "romaji": "Uchi ni kaette, shawā o abimashita." }, "note": "The first verb goes into the て-form; only the last one carries the past. Wrong? Review lesson 06-2 (4b)." },
+          { "q": "Translate · Please speak slowly.", "a": { "jp": "ゆっくり はなしてください。", "romaji": "Yukkuri hanashite kudasai." }, "note": "はなす → はなして + ください; ゆっくり goes before the verb. Wrong? Review lessons 06-2 (4a) and 06-1 (4b)." },
+          { "q": "Ask for permission · (You want to sit here.)", "a": { "jp": "ここに すわってもいいですか。", "romaji": "Koko ni suwatte mo ii desu ka." }, "note": "You act → 〜てもいいですか; すわる takes に for the place you sit. Wrong? Review lesson 06-3 (4a)." },
+          { "q": "State the rule · (Smoking is not allowed in this room.)", "a": { "jp": "この へやで たばこを すってはいけません。", "romaji": "Kono heya de tabako o sutte wa ikemasen." }, "note": "A rule → 〜てはいけません, with は read wa; すう → すって. Wrong? Review lesson 06-3 (4b)." },
+          { "q": "Offer to help · (Your teacher's bags are heavy.) にもつが おもいですね。＿", "a": { "jp": "もちましょうか。", "romaji": "Mochimashō ka." }, "note": "An offer = stem + ましょうか, with no て-form (もってましょうか ✗). Wrong? Review lesson 06-4 (4b)." },
+          { "q": "Join the two sentences with から · いそがしいです。パーティーに 行きません。", "a": { "jp": "いそがしいですから、パーティーに 行きません。", "kana": "いそがしいですから、パーティーに いきません。", "romaji": "Isogashii desu kara, pātī ni ikimasen." }, "note": "The reason comes first, with から at its end; the result is the predicate. Wrong? Review lesson 06-4 (4a)." },
+          { "q": "Translate · My younger sister lives in Tokyo.", "a": { "jp": "いもうとは 東京に すんでいます。", "kana": "いもうとは とうきょうに すんでいます。", "romaji": "Imōto wa Tōkyō ni sunde imasu." }, "note": "\"Lives\" = すんでいる (a state), and the place takes に, not で. Wrong? Review lesson 07-1 (4b)." },
+          { "q": "Answer in the negative · マリアさんの でんわばんごうを しっていますか。", "a": { "jp": "いいえ、しりません。", "romaji": "Iie, shirimasen." }, "note": "The negative of しっている is しりません (しっていません ✗). Wrong? Review lesson 07-1 (4b)." },
+          { "q": "Translate · Lucas is tall and kind.", "a": { "jp": "ルーカスさんは せが 高くて、やさしいです。", "kana": "ルーカスさんは せが たかくて、やさしいです。", "romaji": "Rūkasu-san wa se ga takakute, yasashii desu." }, "note": "A person's height is せが 高い; the first description goes into くて, and only the last one takes です. Wrong? Review lesson 07-2 (4a and 4b)." },
+          { "q": "Translate · I'm going to the library to read books.", "a": { "jp": "としょかんへ 本を 読みに 行きます。", "kana": "としょかんへ ほんを よみに いきます。", "romaji": "Toshokan e hon o yomi ni ikimasu." }, "note": "The purpose is the stem + に (読むに ✗); the destination takes へ (or に). Wrong? Review lesson 07-3 (4a)." },
+          { "q": "Translate · There are four students in the room.", "a": { "jp": "へやに 学生が 四人 います。", "kana": "へやに がくせいが よにん います。", "romaji": "Heya ni gakusei ga yonin imasu." }, "note": "4 people = よにん (よんにん ✗); the number comes right before the verb, with no particle. Wrong? Review lesson 07-3 (4b)." },
+          { "q": "Short form, negative · かう · くる", "a": { "jp": "かわない · こない", "romaji": "kawanai · konai" }, "note": "Verbs ending in う take わ (かあない ✗); くる changes its vowel (くない ✗). Wrong? Review lesson 08-1 (4a)." },
+          { "q": "Make it casual · あしたは ひまですか。— いいえ、ひまじゃないです。", "a": { "jp": "あしたは ひま？— ううん、ひまじゃない。", "romaji": "Ashita wa hima? — Uun, hima ja nai." }, "note": "No か and no だ in the question (ひまだ？ ✗); いいえ → ううん; じゃないです → じゃない. あした、ひま？ without は is also natural. Wrong? Review lesson 08-1 (4b and 4c)." },
+          { "q": "Translate · I think Mr. Tanaka is a teacher.", "a": { "jp": "たなかさんは 先生だと 思います。", "kana": "たなかさんは せんせいだと おもいます。", "romaji": "Tanaka-san wa sensei da to omoimasu." }, "note": "A noun before と needs だ (先生と 思います ✗). Wrong? Review lesson 08-2 (4a)." },
+          { "q": "Pass it on · (Ana told you: 「あした 行きません」)", "a": { "jp": "アナさんは あした 行かないと 言っていました。", "kana": "アナさんは あした いかないと いっていました。", "romaji": "Ana-san wa ashita ikanai to itte imashita." }, "note": "Her words go into the short form (行かない), in the tense she used, before と 言っていました. Wrong? Review lesson 08-2 (4b)." },
+          { "q": "Translate · Please don't forget your homework.", "a": { "jp": "しゅくだいを わすれないでください。", "romaji": "Shukudai o wasurenaide kudasai." }, "note": "ない-form + でください (わすれませんでください ✗). Wrong? Review lesson 08-3 (4a)." },
+          { "q": "Translate · I like swimming.", "a": { "jp": "およぐのが すきです。", "romaji": "Oyogu no ga suki desu." }, "note": "The dictionary form + の turns the action into a noun, and すき takes が. Starting with 私は is also correct. Wrong? Review lesson 08-3 (4b)." },
+          { "q": "Answer with the information in brackets · パーティーに だれか きましたか。(no one)", "a": { "jp": "いいえ、だれも きませんでした。", "romaji": "Iie, daremo kimasen deshita." }, "note": "だれも + a negative verb = no one; the が disappears. Wrong? Review lesson 08-3 (4d)." }
+        ]
+      },
+      {
+        "id": "h2",
+        "type": "produce",
+        "prompt": "Your day in casual speech + 3 polite requests. Part 1: write 8 to 10 sentences in the short form, as if you were telling a close friend about a normal day of yours (present tense only: the short past comes in Lesson 9). Include a clock time (に), a place (で), a て-link, a description with くて / で, something you like doing (のが すき) and one opinion with と 思う. Part 2: for each of the 3 situations, write one polite sentence with a reason (から). Rehearse everything aloud, record it, and compare it with your recordings from lesson 01-1 and Milestone 1.",
+        "items": [
+          { "q": "Part 1 · Model (match its structure, not its words):", "a": { "jp": "毎日 七時に おきる。あさごはんは あまり 食べない。八時に うちを 出て、大学に 行く。大学で 日本語を べんきょうする。日本語の 先生は とても おもしろくて、やさしい。ひるごはんは ともだちと 大学の カフェで 食べる。よる うちで 日本の ドラマを 見る。ドラマを 見るのが 大すき。ドラマの 日本語は ちょっと むずかしいと 思う。十二時に ねる。", "kana": "まいにち しちじに おきる。あさごはんは あまり たべない。はちじに うちを でて、だいがくに いく。だいがくで にほんごを べんきょうする。にほんごの せんせいは とても おもしろくて、やさしい。ひるごはんは ともだちと だいがくの カフェで たべる。よる うちで にほんの ドラマを みる。ドラマを みるのが だいすき。ドラマの にほんごは ちょっと むずかしいと おもう。じゅうにじに ねる。", "romaji": "Mainichi shichi-ji ni okiru. Asagohan wa amari tabenai. Hachi-ji ni uchi o dete, daigaku ni iku. Daigaku de nihongo o benkyō suru. Nihongo no sensei wa totemo omoshirokute, yasashii. Hirugohan wa tomodachi to daigaku no kafe de taberu. Yoru uchi de Nihon no dorama o miru. Dorama o miru no ga daisuki. Dorama no nihongo wa chotto muzukashii to omou. Jūni-ji ni neru.", "en": "I get up at seven every day. I don't eat much breakfast. At eight I leave home and go to the university. At the university I study Japanese. My Japanese teacher is really funny and kind. I have lunch with friends at the university café. At night I watch Japanese dramas at home. I love watching dramas. I think the Japanese in dramas is a bit hard. I go to bed at twelve." }, "note": "Check: every sentence ends in a short form (a dictionary form, a ない-form, an い-adjective, or a な-adjective with no です); no か; くて / で links two descriptions; のが すき; the part before と 思う is in the short form. Casual is only for close friends: for a teacher, this same text would go into です／ます." },
+          { "q": "Part 2 · Situation 1: your teacher is speaking too fast for you. (a request)", "a": { "jp": "すみません、よく わかりませんから、ゆっくり 言ってください。", "kana": "すみません、よく わかりませんから、ゆっくり いってください。", "romaji": "Sumimasen, yoku wakarimasen kara, yukkuri itte kudasai.", "en": "Excuse me, I don't understand very well, so please say it slowly." }, "note": "Check: the reason with から comes first; the request ends in 〜てください, and the other person is the one who acts." },
+          { "q": "Part 2 · Situation 2: a classmate is about to throw away a notebook that is yours. (\"please don't\")", "a": { "jp": "すみません、それは 私の ノートですから、すてないでください。", "kana": "すみません、それは わたしの ノートですから、すてないでください。", "romaji": "Sumimasen, sore wa watashi no nōto desu kara, sutenaide kudasai.", "en": "Excuse me, that's my notebook, so please don't throw it away." }, "note": "Check: the ない-form + でください (すてる → すてない)." },
+          { "q": "Part 2 · Situation 3: you are in someone's home, it's hot, and you want to open the window. (permission)", "a": { "jp": "すみません、あついですから、まどを あけてもいいですか。", "romaji": "Sumimasen, atsui desu kara, mado o akete mo ii desu ka.", "en": "Excuse me, it's hot, so may I open the window?" }, "note": "Check: you are the one who acts, so 〜てもいいですか. A likely answer: ええ、どうぞ。" }
+        ]
+      }
+    ],
+    "workbook": []
+  },
+  "practice": [
+    { "tool": "Wagotabi", "what": "A longer session than usual, hunting for this block's points: adjectives (〜くて, 〜かった, 〜くない), the て-form in its different jobs (〜てください, 〜ている, 〜てもいい), casual lines (うん, ううん, a sentence that ends in a dictionary form or a ない-form), and と 思う / と 言う. For each line you understand completely, say aloud the job of each block, starting from the predicate. Copy 5 lines into your notebook and mark which point each one shows. Then, in Immersion → Games, log the session and paste the longest line into Anatomy.", "min": 25 },
+    { "tool": "ヅオリンゴー", "what": "🌊 All: do all of today's reviews before you start the milestone. Then Practice L5, L6, L7 and L8, one lesson at a time, starting with the lesson where you made the most mistakes on the self-test.", "min": 20 },
+    { "tool": "ヅオリンゴー", "what": "Drills → 🔬 Anatomy → 🧱 Build from the end, with long sentences (5 blocks or more, with a て-link, a から reason or と 思います): 10 sentences. Then, in 🔬 Analyze, paste 3 sentences from task 2 and check that each block has the job you intended.", "min": 15 },
+    { "tool": "Speaking", "what": "Record task 2 without reading. Then listen to your recording from lesson 01-1, the one from Milestone 1 and today's, one after the other. Write down in your notebook 3 things you can say today that you couldn't before (describing, asking, casual speech, opinions) and 1 thing that still trips you up.", "min": 10 },
+    { "tool": "Shadowing", "what": "Tap 🔊 on the casual examples (point d) and repeat along 3 times, copying the rising voice of the questions and the clear difference between うん and ううん.", "min": 5 }
+  ],
+  "culture": {
+    "title": "まつり: summer festivals",
+    "titleJp": "なつまつり",
+    "body": "In summer, towns and neighborhoods all over Japan hold **まつり**, festivals that are usually connected to a local shrine or temple. In many of them, a portable shrine (みこし) is carried through the streets by a group of people chanting together. Around the time of お盆 (lesson 04-2), many neighborhoods hold **ぼんおどり**, where people dance in a circle to drums and music, and anyone can join in. A lot of people go in a light cotton kimono, the ゆかた. Some festivals, such as Kyoto's Gion Matsuri, are famous across the country, but most まつり are small local events where neighbors, families and friends get together.",
+    "try": "Imagine a friend invites you to a festival. Answer aloud in casual speech and then in polite speech: まつり、行く？— うん、行く！ / まつりに 行きませんか。— ええ、行きましょう。 Then describe it with a て-link: 人が たくさん いて、とても にぎやか。 Finally, ask someone politely to take your picture: すみません、しゃしんを とってください。"
+  },
+  "checklist": [
+    "I scored at least 80% on the self-test (20 of the 25 items) without looking anything up.",
+    "I did the homework, checked it against the answer key, reviewed the lessons named in the 💡 notes and redid the items I got wrong, this time correctly.",
+    "I can put any adjective in the 4 forms, including いい and きれい, and describe a person or a place in one sentence with くて / で, without looking.",
+    "I can make the て-form of any verb from Lessons 5–8 and use it to link actions and to say what is happening now (〜ています).",
+    "Reading only the end of a sentence, I can tell whether it is a request, a \"please don't\", a permission, a prohibition or an offer, and who does the action.",
+    "I can switch between です／ます and the short form, and I know with whom to use each one.",
+    "I can give my opinion with 〜と 思います and pass on someone's words with 〜と 言っていました, remembering だ with nouns and な-adjectives.",
+    "I recorded task 2 without reading and compared it with my recordings from lesson 01-1 and Milestone 1."
+  ]
+}

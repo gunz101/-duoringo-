@@ -2,213 +2,214 @@
   "id": "08-1",
   "unit": "G1-L08",
   "genki": { "book": "Genki I", "lesson": 8, "points": ["Short Forms", "Informal Speech"] },
-  "title": "Formas curtas (presente)",
+  "title": "Short forms (present)",
   "titleJp": "あした 何 する？",
   "canDo": [
-    "Passar qualquer verbo da forma ます para a forma de dicionário e para a forma ない (食べます → 食べる → 食べない), inclusive os casos especiais かう → かわない e ある → ない.",
-    "Dizer a forma curta de adjetivos い e な e de substantivos, no afirmativo e no negativo (高い / 高くない; しずかだ / しずかじゃない; 学生だ / 学生じゃない).",
-    "Conversar com um amigo em estilo casual: perguntar sem か e sem だ (ひま？) e responder com うん / ううん.",
-    "Reconhecer uma fala casual (num jogo, num anime) e dizer qual seria a versão educada com です / ます."
+    "I can turn any verb from the ます form into the dictionary form and the ない form (食べます → 食べる → 食べない), including the special cases かう → かわない and ある → ない.",
+    "I can say the short form of い-adjectives, な-adjectives and nouns, affirmative and negative (高い / 高くない; しずかだ / しずかじゃない; 学生だ / 学生じゃない).",
+    "I can chat with a friend in casual style: ask without か and without だ (ひま？) and answer with うん / ううん.",
+    "I can recognize a casual line (in a game, in an anime) and say what the polite version with です / ます would be."
   ],
   "duration": {
     "total": "60–75 min",
     "blocks": [
-      { "t": "Aquecimento: dizer em voz alta a forma ます de 10 verbos das Lições 3–7 (食べます, 飲みます, 行きます…)", "min": 5 },
-      { "t": "Vocabulário: ouvir 🔊 cada palavra e repetir 2 vezes", "min": 10 },
-      { "t": "Gramática: os 3 pontos, cada um com os exemplos lidos em voz alta e um 🔬", "min": 25 },
-      { "t": "Vídeo da Lição 8 (bloco 6), pausando nas tabelas de conjugação", "min": 10 },
-      { "t": "Lição de casa no caderno + conferir no gabarito", "min": 15 },
-      { "t": "Checklist (bloco 10) + anotar dúvidas no caderno da aula", "min": 5 }
+      { "t": "Warm-up: say the ます form of 10 verbs from Genki Lessons 3–7 out loud (食べます, 飲みます, 行きます…)", "min": 5 },
+      { "t": "Vocabulary: tap 🔊 on each word and repeat it twice", "min": 10 },
+      { "t": "Grammar: the 3 points, each with its examples read aloud and one 🔬", "min": 25 },
+      { "t": "Lesson 8 video (block 6), pausing on the conjugation tables", "min": 10 },
+      { "t": "Notebook homework + checking it against the answer key", "min": 15 },
+      { "t": "Checklist (block 10) + write your questions in the lesson notebook", "min": 5 }
     ]
   },
   "prereqs": {
     "aulas": ["03-1", "05-1", "06-1"],
     "skills": [
-      "Saber a forma ます dos verbos das Lições 3–7 e a qual grupo cada um pertence: る, う ou irregular (Aulas 03-1 e 06-1).",
-      "Conjugar adjetivos い e な no presente educado, afirmativo e negativo: 高いです / 高くないです; しずかです / しずかじゃないです (Aula 05-1).",
-      "Ler os kanji das Lições 3–8 que aparecem nos exemplos (食, 飲, 行, 休, 仕事, 会社員…). O kana vem sempre escrito ao lado."
+      "Knowing the ます form of the verbs from Genki Lessons 3–7 and which group each one belongs to: る-verb, う-verb or irregular (lessons 03-1 and 06-1).",
+      "Conjugating い- and な-adjectives in the polite present, affirmative and negative: 高いです / 高くないです; しずかです / しずかじゃないです (lesson 05-1).",
+      "Reading the Genki Lesson 3–8 kanji used in the examples (食, 飲, 行, 休, 仕事, 会社員…). The kana reading is always shown next to them."
     ],
     "vocab": [
-      { "jp": "うん", "kana": "うん", "romaji": "un", "pt": "sim (casual)" },
-      { "jp": "ううん", "kana": "ううん", "romaji": "uun", "pt": "não (casual)" },
-      { "jp": "作る", "kana": "つくる", "romaji": "tsukuru", "pt": "fazer, preparar (comida) · verbo う" },
-      { "jp": "休む", "kana": "やすむ", "romaji": "yasumu", "pt": "descansar; faltar (ao trabalho, à aula) · verbo う" },
-      { "jp": "帰る", "kana": "かえる", "romaji": "kaeru", "pt": "voltar (para casa) · verbo う, apesar do -eru" },
-      { "jp": "かう", "kana": "かう", "romaji": "kau", "pt": "comprar · verbo う (かわない)" },
-      { "jp": "まつ", "kana": "まつ", "romaji": "matsu", "pt": "esperar · verbo う" },
-      { "jp": "ある", "kana": "ある", "romaji": "aru", "pt": "haver, ter (coisas) · negativo: ない" },
-      { "jp": "くる", "kana": "くる", "romaji": "kuru", "pt": "vir · irregular (こない)" },
-      { "jp": "仕事", "kana": "しごと", "romaji": "shigoto", "pt": "trabalho, serviço" },
-      { "jp": "会社員", "kana": "かいしゃいん", "romaji": "kaishain", "pt": "funcionário(a) de empresa" },
-      { "jp": "うち", "kana": "うち", "romaji": "uchi", "pt": "casa, lar (a minha)" },
-      { "jp": "まち", "kana": "まち", "romaji": "machi", "pt": "cidade, bairro" },
-      { "jp": "しゅうまつ", "kana": "しゅうまつ", "romaji": "shūmatsu", "pt": "fim de semana" },
-      { "jp": "こんばん", "kana": "こんばん", "romaji": "konban", "pt": "hoje à noite" },
-      { "jp": "ひま(な)", "kana": "ひま(な)", "romaji": "hima (na)", "pt": "livre, desocupado · adjetivo な" },
-      { "jp": "しずか(な)", "kana": "しずか(な)", "romaji": "shizuka (na)", "pt": "tranquilo, silencioso · adjetivo な" },
-      { "jp": "あつい", "kana": "あつい", "romaji": "atsui", "pt": "quente (clima) · adjetivo い" },
-      { "jp": "おさけ", "kana": "おさけ", "romaji": "osake", "pt": "bebida alcoólica; saquê" },
-      { "jp": "カラオケ", "kana": "カラオケ", "romaji": "karaoke", "pt": "karaokê" },
-      { "jp": "いっしょに", "kana": "いっしょに", "romaji": "issho ni", "pt": "juntos, junto com" }
+      { "jp": "うん", "kana": "うん", "romaji": "un", "en": "yeah, yes (casual)" },
+      { "jp": "ううん", "kana": "ううん", "romaji": "uun", "en": "no, nope (casual)" },
+      { "jp": "作る", "kana": "つくる", "romaji": "tsukuru", "en": "to make, to cook · う-verb" },
+      { "jp": "休む", "kana": "やすむ", "romaji": "yasumu", "en": "to rest; to take a day off, to be absent (from work, class) · う-verb" },
+      { "jp": "帰る", "kana": "かえる", "romaji": "kaeru", "en": "to go back, to return (home) · う-verb, even though it ends in -eru" },
+      { "jp": "かう", "kana": "かう", "romaji": "kau", "en": "to buy · う-verb (かわない)" },
+      { "jp": "まつ", "kana": "まつ", "romaji": "matsu", "en": "to wait · う-verb" },
+      { "jp": "ある", "kana": "ある", "romaji": "aru", "en": "there is; to have (things) · negative: ない" },
+      { "jp": "くる", "kana": "くる", "romaji": "kuru", "en": "to come · irregular (こない)" },
+      { "jp": "仕事", "kana": "しごと", "romaji": "shigoto", "en": "job, work" },
+      { "jp": "会社員", "kana": "かいしゃいん", "romaji": "kaishain", "en": "office worker, company employee" },
+      { "jp": "お金", "kana": "おかね", "romaji": "okane", "en": "money" },
+      { "jp": "うち", "kana": "うち", "romaji": "uchi", "en": "home, house (my own)" },
+      { "jp": "まち", "kana": "まち", "romaji": "machi", "en": "town, city" },
+      { "jp": "しゅうまつ", "kana": "しゅうまつ", "romaji": "shūmatsu", "en": "weekend" },
+      { "jp": "こんばん", "kana": "こんばん", "romaji": "konban", "en": "tonight, this evening" },
+      { "jp": "ひま(な)", "kana": "ひま(な)", "romaji": "hima (na)", "en": "free, not busy · な-adjective" },
+      { "jp": "しずか(な)", "kana": "しずか(な)", "romaji": "shizuka (na)", "en": "quiet · な-adjective" },
+      { "jp": "あつい", "kana": "あつい", "romaji": "atsui", "en": "hot (weather) · い-adjective" },
+      { "jp": "おさけ", "kana": "おさけ", "romaji": "osake", "en": "alcohol, alcoholic drinks; sake" },
+      { "jp": "カラオケ", "kana": "カラオケ", "romaji": "karaoke", "en": "karaoke" },
+      { "jp": "いっしょに", "kana": "いっしょに", "romaji": "issho ni", "en": "together" }
     ]
   },
   "grammar": [
     {
       "id": "08-1-a",
       "gc": "8-1",
-      "title": "Verbos: forma de dicionário e ない",
-      "gloss": "a forma curta do presente",
-      "explanation": "Até aqui você falou tudo no estilo **educado**, com です e ます. Todo verbo tem também uma **forma curta** (o Genki chama de short form), que diz a mesma coisa sem a camada de educação. Ela serve para duas coisas: **conversar com amigos e família** (ponto 4c) e **montar gramática nova**. Na próxima aula, por exemplo, 〜と 思います só funciona com a forma curta.\n• **Afirmativo = forma de dicionário**, a que aparece no dicionário: 食べます → **食べる**, 飲みます → **飲む**, します → **する**. Nos verbos う, o som antes de ます (-i) vira -u: のみます → のむ, まちます → まつ, かいます → かう.\n• **Negativo = forma ない**, que substitui o ません.\n• **Verbos る**: tire o る e ponha ない: たべる → たべない, みる → みない.\n• **Verbos う**: troque o -u final por -a e ponha ない: のむ → のまない, かく → かかない, はなす → はなさない, まつ → またない, かえる → かえらない.\n• **Terminados em う**: o -a vira **わ**, não あ: かう → かわない, あう → あわない, いう → いわない.\n• **Irregulares**: する → しない, くる → **こない** (o く vira こ).\n• **ある → ない**: o negativo de ある é só ない.\nA função do bloco não muda: o verbo continua sendo o **predicado**, no fim da frase. Só o registro fica informal.",
-      "structure": "[verbo る] たべる → たべない · [verbo う] のむ → のまない (-u → -a + ない) · する → しない · くる → こない · ある → ない",
+      "title": "Verbs: dictionary form and ない",
+      "gloss": "the present short form",
+      "explanation": "So far you have said everything in the **polite** style, with です and ます. Every verb also has a **short form** (Genki's name for it), which says the same thing without the layer of politeness. It has two jobs: **talking with friends and family** (point 4c) and **building new grammar**. In the next lesson, for example, 〜と 思います only works with the short form.\n• **Affirmative = dictionary form**, the form you find in a dictionary: 食べます → **食べる**, 飲みます → **飲む**, します → **する**. In う-verbs, the sound before ます (-i) becomes -u: のみます → のむ, まちます → まつ, かいます → かう.\n• **Negative = ない form**, which replaces ません.\n• **る-verbs**: drop る and add ない: たべる → たべない, みる → みない.\n• **う-verbs**: change the final -u to -a and add ない: のむ → のまない, かく → かかない, はなす → はなさない, まつ → またない, かえる → かえらない.\n• **Verbs ending in う**: the -a becomes **わ**, not あ: かう → かわない, あう → あわない, いう → いわない.\n• **Irregulars**: する → しない, くる → **こない** (く becomes こ).\n• **ある → ない**: the negative of ある is just ない.\nThe block's job does not change: the verb is still the **predicate**, at the end of the sentence. Only the register becomes informal.",
+      "structure": "[る-verb] たべる → たべない · [う-verb] のむ → のまない (-u → -a + ない) · する → しない · くる → こない · ある → ない",
       "examples": [
-        { "jp": "今日は 仕事を 休む。", "kana": "きょうは しごとを やすむ。", "romaji": "Kyō wa shigoto o yasumu.", "pt": "Hoje vou faltar ao trabalho. (forma curta)" },
-        { "jp": "ペドロは おさけを 飲まない。", "kana": "ペドロは おさけを のまない。", "romaji": "Pedoro wa osake o nomanai.", "pt": "O Pedro não bebe álcool. (forma curta)" },
-        { "jp": "うちには テレビが ない。", "kana": "うちには テレビが ない。", "romaji": "Uchi ni wa terebi ga nai.", "pt": "Lá em casa não tem TV. (forma curta)" }
+        { "jp": "今日は 仕事を 休む。", "kana": "きょうは しごとを やすむ。", "romaji": "Kyō wa shigoto o yasumu.", "en": "I'm taking the day off work today." },
+        { "jp": "ペドロは おさけを 飲まない。", "kana": "ペドロは おさけを のまない。", "romaji": "Pedoro wa osake o nomanai.", "en": "Pedro doesn't drink alcohol." },
+        { "jp": "今 お金が ない。", "kana": "いま おかねが ない。", "romaji": "Ima okane ga nai.", "en": "I don't have any money right now. [lit. now, money doesn't exist]" }
       ],
       "pitfalls": [
-        "Verbo terminado em う ganha わ no negativo: かう → かわない ✓, かあない ✗. O mesmo vale para あう, いう, あらう.",
-        "O negativo de ある é ない ✓, não あらない ✗. Já いる (pessoas, animais) é regular: いない ✓.",
-        "かえる e はいる parecem verbos る, mas são う: かえらない ✓ (かえない ✗), はいらない ✓ (はいない ✗). Por isso vale decorar o grupo junto com a palavra.",
-        "くる vira こない ✓, não くない ✗."
+        "Verbs ending in う take わ in the negative: かう → かわない ✓, かあない ✗. The same goes for あう, いう, あらう.",
+        "The negative of ある is ない ✓, not あらない ✗. いる (people, animals), on the other hand, is regular: いない ✓.",
+        "かえる and はいる look like る-verbs, but they are う-verbs: かえらない ✓ (かえない ✗), はいらない ✓ (はいない ✗). That's why it pays to learn each verb's group together with the word.",
+        "くる becomes こない ✓, not くない ✗."
       ],
       "howToStudy": [
-        "Pegue 10 verbos das Lições 3–7 e diga em voz alta as três formas: ます → dicionário → ない (飲みます → 飲む → 飲まない). No caderno, separe em três colunas: る, う e irregular.",
-        "No ヅオリンゴー, faça Treinos → Conjugação com os verbos já vistos, prestando atenção aos que terminam em う (かう, あう, いう).",
-        "Aperte 🔬 no exemplo do Pedro: 飲まない continua sendo o PREDICADO, e おさけを continua sendo o OBJETO. Só a forma do verbo mudou."
+        "Take 10 verbs from Genki Lessons 3–7 and say the three forms out loud: ます → dictionary → ない (飲みます → 飲む → 飲まない). In your notebook, sort them into three columns: る, う and irregular.",
+        "In ヅオリンゴー, do Drills → Conjugation with the verbs you already know, paying attention to the ones ending in う (かう, あう, いう).",
+        "Tap 🔬 on the Pedro example: 飲まない is still the PREDICATE and おさけを is still the OBJECT. Only the verb form changed."
       ],
       "flag": null
     },
     {
       "id": "08-1-b",
       "gc": null,
-      "title": "Adjetivos e substantivos na forma curta",
+      "title": "Adjectives and nouns in the short form",
       "gloss": "高い · しずかだ · 学生だ",
-      "explanation": "Adjetivos e substantivos também têm forma curta. A regra prática é: **tire o です** e veja o que sobra.\n• **Adjetivo い**: 高いです → **高い**; 高くないです → **高くない**. Nada de だ depois do い.\n• **Adjetivo な**: しずかです → **しずかだ**; しずかじゃないです → **しずかじゃない**.\n• **Substantivo**: 学生です → **学生だ**; 学生じゃないです → **学生じゃない**.\n• **いい** continua irregular: いい → **よくない**.\nRepare no **だ**: ele é a versão curta de です e só aparece com **adjetivo な e substantivo**, nunca depois de adjetivo い. E todas as negativas terminam em ない, que se comporta como um adjetivo い.\nO bloco continua sendo o **predicado**: 高い sozinho no fim já é uma frase completa (\"é caro\").",
-      "structure": "[adj い] 高い / 高くない · [adj な] しずかだ / しずかじゃない · [substantivo] 学生だ / 学生じゃない",
+      "explanation": "Adjectives and nouns have short forms too. The practical rule: **take off です** and look at what is left.\n• **い-adjective**: 高いです → **高い**; 高くないです → **高くない**. No だ after the い.\n• **な-adjective**: しずかです → **しずかだ**; しずかじゃないです → **しずかじゃない**.\n• **Noun**: 学生です → **学生だ**; 学生じゃないです → **学生じゃない**.\n• **いい** is still irregular: いい → **よくない**.\nNotice the **だ**: it is the short version of です, and it only appears with **な-adjectives and nouns**, never after an い-adjective. And every negative ends in ない, which behaves like an い-adjective.\nThe block is still the **predicate**: 高い alone at the end is already a complete sentence (\"it's expensive\").",
+      "structure": "[い-adj] 高い / 高くない · [な-adj] しずかだ / しずかじゃない · [noun] 学生だ / 学生じゃない",
       "examples": [
-        { "jp": "今日は あつくない。", "kana": "きょうは あつくない。", "romaji": "Kyō wa atsukunai.", "pt": "Hoje não está quente. (forma curta)" },
-        { "jp": "私の まちは しずかじゃない。", "kana": "わたしの まちは しずかじゃない。", "romaji": "Watashi no machi wa shizuka ja nai.", "pt": "A minha cidade não é tranquila. (forma curta)", "noAnat": true },
-        { "jp": "ルーカスは 学生じゃない。会社員だ。", "kana": "ルーカスは がくせいじゃない。かいしゃいんだ。", "romaji": "Rūkasu wa gakusei ja nai. Kaishain da.", "pt": "O Lucas não é estudante. É funcionário de empresa. (forma curta)" }
+        { "jp": "今日は あつくない。", "kana": "きょうは あつくない。", "romaji": "Kyō wa atsukunai.", "en": "It isn't hot today." },
+        { "jp": "私の まちは しずかじゃない。", "kana": "わたしの まちは しずかじゃない。", "romaji": "Watashi no machi wa shizuka ja nai.", "en": "My town isn't quiet.", "noAnat": true },
+        { "jp": "ルーカスは 学生じゃない。会社員だ。", "kana": "ルーカスは がくせいじゃない。かいしゃいんだ。", "romaji": "Rūkasu wa gakusei ja nai. Kaishain da.", "en": "Lucas isn't a student. He's an office worker." }
       ],
       "pitfalls": [
-        "Não ponha だ depois de adjetivo い: 高いだ ✗ → 高い ✓.",
-        "O negativo de いい é よくない ✓, não いくない ✗.",
-        "きれい e きらい terminam em い, mas são adjetivos な: きれいじゃない ✓, きれくない ✗.",
-        "Não junte だ com ない: 高くないだ ✗ → 高くない ✓. A negativa já está completa."
+        "Don't put だ after an い-adjective: 高いだ ✗ → 高い ✓.",
+        "The negative of いい is よくない ✓, not いくない ✗.",
+        "きれい and きらい end in い, but they are な-adjectives: きれいじゃない ✓, きれくない ✗.",
+        "Don't add だ to ない: 高くないだ ✗ → 高くない ✓. The negative is already complete."
       ],
       "howToStudy": [
-        "No caderno, monte uma tabela de 4 colunas (educado afirmativo / educado negativo / curto afirmativo / curto negativo) com 3 adjetivos い, 3 adjetivos な e 2 substantivos. Inclua いい → よくない.",
-        "Diga em voz alta 5 frases curtas sobre a sua cidade e a sua casa, só com forma curta: サンパウロは 大きい。うちは しずかじゃない。…",
-        "Aperte 🔬 no exemplo do Lucas: são duas frases, e cada uma tem o seu PREDICADO no fim (学生じゃない e 会社員だ)."
+        "In your notebook, make a 4-column table (polite affirmative / polite negative / short affirmative / short negative) with 3 い-adjectives, 3 な-adjectives and 2 nouns. Include いい → よくない.",
+        "Say 5 short sentences about your town and your home out loud, using only short forms: サンパウロは 大きい。うちは しずかじゃない。…",
+        "Tap 🔬 on the Lucas example: these are two sentences, and each one has its own PREDICATE at the end (学生じゃない and 会社員だ)."
       ],
       "flag": null
     },
     {
       "id": "08-1-c",
       "gc": "8-2",
-      "title": "Fala casual",
-      "gloss": "entre amigos e família",
-      "explanation": "Com amigos, família e pessoas do seu grupo mais próximo, o japonês fecha a frase com a **forma curta** em vez de です / ます. O conteúdo é o mesmo; o que muda é a distância entre as pessoas.\n• **Perguntas**: o か costuma cair, e a pergunta fica só na **voz que sobe** no fim: 飲む？ (\"vai beber?\").\n• **O だ some nas perguntas**: 学生？ (\"você é estudante?\"), ひま？ (\"tá livre?\"). Não diga 学生だ？.\n• **Nas afirmações**, だ está certo, mas sozinho pode soar seco. Na conversa é comum responder só com o substantivo (うん、学生。) ou suavizar com よ (学生だよ).\n• **Sim / não**: はい e いいえ viram **うん** e **ううん**.\n• **Partículas somem**: は e を costumam cair na fala casual, e às vezes o に de destino também: カラオケ 行く？ Quando isso acontecer, descubra a função do bloco **pelo verbo** do fim.\nNa dúvida (professor, chefe, alguém que você acabou de conhecer), fique no です / ます. A cultura desta aula explica com quem vale a pena mudar.",
-      "structure": "[forma curta]？ (voz sobe) → うん、[forma curta]。 / ううん、[forma curta negativa]。",
+      "title": "Casual speech",
+      "gloss": "with friends and family",
+      "explanation": "With friends, family and the people closest to you, Japanese ends sentences with the **short form** instead of です / ます. The content is the same; what changes is the distance between the speakers.\n• **Questions**: か usually drops, and the question is carried only by your **voice rising** at the end: 飲む？ (\"are you going to drink?\").\n• **だ disappears in questions**: 学生？ (\"are you a student?\"), ひま？ (\"are you free?\"). Don't say 学生だ？.\n• **In statements**, だ is correct, but on its own it can sound blunt. In conversation people often answer with just the noun (うん、学生。) or soften it with よ (学生だよ).\n• **Yes / no**: はい and いいえ become **うん** and **ううん**.\n• **Particles drop**: は and を often disappear in casual speech, and sometimes the destination に does too: カラオケ 行く？ When that happens, work out the block's job **from the verb** at the end.\nWhen in doubt (a teacher, a boss, someone you just met), stay with です / ます. This lesson's culture note explains who you can switch with.",
+      "structure": "[short form]？ (voice rises) → うん、[short form]。 / ううん、[negative short form]。",
       "examples": [
-        { "jp": "しゅうまつ、ひま？— うん、ひま。", "kana": "しゅうまつ、ひま？— うん、ひま。", "romaji": "Shūmatsu, hima? — Un, hima.", "pt": "Tá livre no fim de semana? — Tô, sim." },
-        { "jp": "こんばん カラオケ 行く？— ううん、行かない。仕事が ある。", "kana": "こんばん カラオケ いく？— ううん、いかない。しごとが ある。", "romaji": "Konban karaoke iku? — Uun, ikanai. Shigoto ga aru.", "pt": "Vai no karaokê hoje à noite? — Não, não vou. Tenho trabalho." },
-        { "jp": "ルーカスの せんこう、れきし？— ううん、れきしじゃない。けいざい。", "kana": "ルーカスの せんこう、れきし？— ううん、れきしじゃない。けいざい。", "romaji": "Rūkasu no senkō, rekishi? — Uun, rekishi ja nai. Keizai.", "pt": "A área do Lucas é história? — Não, não é história. É economia.", "noAnat": true }
+        { "jp": "しゅうまつ、ひま？— うん、ひま。", "kana": "しゅうまつ、ひま？— うん、ひま。", "romaji": "Shūmatsu, hima? — Un, hima.", "en": "Free this weekend? — Yeah, I'm free." },
+        { "jp": "こんばん カラオケ 行く？— ううん、行かない。仕事が ある。", "kana": "こんばん カラオケ いく？— ううん、いかない。しごとが ある。", "romaji": "Konban karaoke iku? — Uun, ikanai. Shigoto ga aru.", "en": "Going to karaoke tonight? — No, I'm not going. I have work." },
+        { "jp": "ルーカスの せんこう、れきし？— ううん、れきしじゃない。けいざい。", "kana": "ルーカスの せんこう、れきし？— ううん、れきしじゃない。けいざい。", "romaji": "Rūkasu no senkō, rekishi? — Uun, rekishi ja nai. Keizai.", "en": "Is Lucas's major history? — No, it's not history. It's economics.", "noAnat": true }
       ],
       "pitfalls": [
-        "Não use fala casual com professor, chefe ou alguém mais velho que você acabou de conhecer. Na dúvida, です / ます ✓.",
-        "Pergunta casual com substantivo ou adjetivo な não leva だ: ひま？ ✓, ひまだ？ ✗.",
-        "Na pergunta casual, o か em geral cai: 行く？ ✓. 行くか？ existe, mas costuma soar brusco; por enquanto, evite ✗.",
-        "ううん (não) é mais longo que うん (sim). Se tiver medo de confundir, diga a frase inteira: ううん、行かない ✓, e não só um ううん solto."
+        "Don't use casual speech with a teacher, a boss or an older person you have just met. When in doubt, です / ます ✓.",
+        "A casual question with a noun or な-adjective takes no だ: ひま？ ✓, ひまだ？ ✗.",
+        "In a casual question, か usually drops: 行く？ ✓. 行くか？ exists, but it tends to sound rough; avoid it for now ✗.",
+        "ううん (no) is longer than うん (yes). If you are afraid of mixing them up, say the whole sentence: ううん、行かない ✓, not just a bare ううん."
       ],
       "howToStudy": [
-        "Converta em voz alta 5 perguntas educadas desta e de aulas anteriores para o casual: 行きますか → 行く？; ひまですか → ひま？; 学生ですか → 学生？",
-        "Aperte 🔬 no exemplo do karaokê: カラオケ aparece SEM PARTÍCULA. Pergunte ao verbo 行く qual partícula caiu (に, de destino).",
-        "Grave um minidiálogo de 4 falas (duas perguntas e duas respostas), fazendo as duas vozes. Ouça e confira se a voz sobe no fim das perguntas."
+        "Turn 5 polite questions from this and earlier lessons into casual ones, out loud: 行きますか → 行く？; ひまですか → ひま？; 学生ですか → 学生？",
+        "Tap 🔬 on the karaoke example: カラオケ shows up as NO PARTICLE. Ask the verb 行く which particle dropped (に, the destination).",
+        "Record a mini-dialogue of 4 lines (two questions and two answers), doing both voices. Listen and check that your voice rises at the end of the questions."
       ],
       "flag": null
     }
   ],
   "media": [
-    { "order": 1, "kind": "leitura", "title": "Genki I · Lição 8: diálogo, vocabulário e as explicações de gramática (Short Forms, Informal Speech)", "where": "Seu livro Genki I (3ª ed.)", "url": "", "when": "Antes desta aula ou logo depois do bloco de gramática" },
-    { "order": 2, "kind": "video", "title": "ToKini Andy: aula da Lição 8 do Genki I (formas curtas e fala casual)", "where": "YouTube · canal ToKini Andy", "url": "", "search": "ToKini Andy Genki Lesson 8", "when": "Depois de estudar os 3 pontos: o vídeo confirma as regras de conjugação" },
-    { "order": 3, "kind": "app", "title": "genki-companion: Lição 8, pontos 1 e 2 (marque ✍️ quando terminar)", "where": "../genki-companion/index.html", "url": "../genki-companion/index.html", "when": "No fim, para revisar e marcar o progresso" }
+    { "order": 1, "kind": "reading", "title": "Genki I · Lesson 8: the dialogue, vocabulary and grammar notes (Short Forms, Informal Speech)", "where": "Your Genki I textbook (3rd ed.)", "url": "", "when": "Before this lesson or right after the grammar block" },
+    { "order": 2, "kind": "video", "title": "Japanese Ammo with Misa: the plain (short) form and casual speech", "where": "YouTube · Japanese Ammo with Misa channel", "url": "", "search": "Japanese Ammo with Misa plain form casual speech", "when": "Optional, after the 3 points, if you want another explanation of the conjugation rules" },
+    { "order": 3, "kind": "app", "title": "genki-companion: Lesson 8, points 1 and 2 (tick ✍️ when you finish)", "where": "../genki-companion/index.html", "url": "../genki-companion/index.html", "when": "At the end, to review and mark your progress" }
   ],
   "homework": {
-    "intro": "Faça no caderno, à mão. Escreva os kanji que você já conhece e o resto em kana. Só depois abra o gabarito, item por item. Circule o que errou e refaça no dia seguinte.",
+    "intro": "Do it by hand in your notebook. Write the kanji you already know and the rest in kana. Only then open the answer key, item by item. Circle what you got wrong and redo it the next day.",
     "tasks": [
       {
         "id": "h1",
-        "type": "transformar",
-        "prompt": "Escreva a forma de dicionário e a forma ない de cada verbo.",
+        "type": "transform",
+        "prompt": "Write the dictionary form and the ない form of each verb.",
         "items": [
-          { "q": "食べます", "a": { "jp": "食べる／食べない", "kana": "たべる／たべない", "romaji": "taberu / tabenai" }, "note": "Verbo る: tire o る e ponha ない." },
-          { "q": "かいます (comprar)", "a": { "jp": "かう／かわない", "romaji": "kau / kawanai" }, "note": "Verbo terminado em う: o -a vira わ." },
-          { "q": "帰ります", "a": { "jp": "帰る／帰らない", "kana": "かえる／かえらない", "romaji": "kaeru / kaeranai" }, "note": "Parece verbo る, mas é う." },
+          { "q": "食べます", "a": { "jp": "食べる／食べない", "kana": "たべる／たべない", "romaji": "taberu / tabenai" }, "note": "る-verb: drop る and add ない." },
+          { "q": "かいます (to buy)", "a": { "jp": "かう／かわない", "romaji": "kau / kawanai" }, "note": "Verb ending in う: the -a becomes わ." },
+          { "q": "帰ります", "a": { "jp": "帰る／帰らない", "kana": "かえる／かえらない", "romaji": "kaeru / kaeranai" }, "note": "It looks like a る-verb, but it is an う-verb." },
           { "q": "まちます", "a": { "jp": "まつ／またない", "romaji": "matsu / matanai" }, "note": "つ → た + ない." },
-          { "q": "きます (vir)", "a": { "jp": "くる／こない", "romaji": "kuru / konai" }, "note": "Irregular: o く vira こ." },
-          { "q": "あります", "a": { "jp": "ある／ない", "romaji": "aru / nai" }, "note": "O negativo de ある é só ない." }
+          { "q": "きます (to come)", "a": { "jp": "くる／こない", "romaji": "kuru / konai" }, "note": "Irregular: く becomes こ." },
+          { "q": "あります", "a": { "jp": "ある／ない", "romaji": "aru / nai" }, "note": "The negative of ある is just ない." }
         ]
       },
       {
         "id": "h2",
-        "type": "transformar",
-        "prompt": "Passe para a forma curta, mantendo o afirmativo ou o negativo.",
+        "type": "transform",
+        "prompt": "Change each sentence into the short form, keeping it affirmative or negative.",
         "items": [
-          { "q": "高いです。", "a": { "jp": "高い。", "kana": "たかい。", "romaji": "Takai." }, "note": "Adjetivo い: só tire o です." },
+          { "q": "高いです。", "a": { "jp": "高い。", "kana": "たかい。", "romaji": "Takai." }, "note": "い-adjective: just take off です." },
           { "q": "しずかじゃないです。", "a": { "jp": "しずかじゃない。", "romaji": "Shizuka ja nai." } },
-          { "q": "学生です。", "a": { "jp": "学生だ。", "kana": "がくせいだ。", "romaji": "Gakusei da." }, "note": "Substantivo: です vira だ." },
-          { "q": "よくないです。", "a": { "jp": "よくない。", "romaji": "Yokunai." }, "note": "Negativo de いい." },
-          { "q": "きれいです。", "a": { "jp": "きれいだ。", "romaji": "Kirei da." }, "note": "きれい é adjetivo な, apesar do い no fim." },
+          { "q": "学生です。", "a": { "jp": "学生だ。", "kana": "がくせいだ。", "romaji": "Gakusei da." }, "note": "Noun: です becomes だ." },
+          { "q": "よくないです。", "a": { "jp": "よくない。", "romaji": "Yokunai." }, "note": "The negative of いい." },
+          { "q": "きれいです。", "a": { "jp": "きれいだ。", "romaji": "Kirei da." }, "note": "きれい is a な-adjective, even though it ends in い." },
           { "q": "おもしろくないです。", "a": { "jp": "おもしろくない。", "romaji": "Omoshirokunai." } }
         ]
       },
       {
         "id": "h3",
-        "type": "transformar",
-        "prompt": "Reescreva cada diálogo em estilo casual, como uma conversa entre amigos.",
+        "type": "transform",
+        "prompt": "Rewrite each dialogue in casual style, as a conversation between friends.",
         "items": [
-          { "q": "日曜日、ひまですか。— はい、ひまです。", "a": { "jp": "日曜日、ひま？— うん、ひま。", "kana": "にちようび、ひま？— うん、ひま。", "romaji": "Nichiyōbi, hima? — Un, hima." }, "note": "Pergunta sem か e sem だ; はい vira うん." },
-          { "q": "コーヒーを 飲みますか。— いいえ、飲みません。", "a": { "jp": "コーヒー 飲む？— ううん、飲まない。", "kana": "コーヒー のむ？— ううん、のまない。", "romaji": "Kōhī nomu? — Uun, nomanai." }, "note": "Na fala casual o を costuma cair, mas コーヒーを 飲む？ também está certo." },
-          { "q": "マリアさんは 日本人ですか。— いいえ、日本人じゃないです。ブラジル人です。", "a": { "jp": "マリアさん、日本人？— ううん、日本人じゃない。ブラジル人。", "kana": "マリアさん、にほんじん？— ううん、にほんじんじゃない。ブラジルじん。", "romaji": "Maria-san, nihonjin? — Uun, nihonjin ja nai. Burajirujin." }, "note": "Sem だ na pergunta. Na resposta, o substantivo sozinho (ブラジル人。) soa natural. Se vocês forem próximos, dá para tirar o さん." },
-          { "q": "その 本、おもしろいですか。— はい、とても おもしろいです。", "a": { "jp": "その 本、おもしろい？— うん、とても おもしろい。", "kana": "その ほん、おもしろい？— うん、とても おもしろい。", "romaji": "Sono hon, omoshiroi? — Un, totemo omoshiroi." }, "note": "Adjetivo い: só tire o です. Nada de だ." },
-          { "q": "あした 大学に 行きますか。— いいえ、行きません。うちで 休みます。", "a": { "jp": "あした 大学 行く？— ううん、行かない。うちで 休む。", "kana": "あした だいがく いく？— ううん、いかない。うちで やすむ。", "romaji": "Ashita daigaku iku? — Uun, ikanai. Uchi de yasumu." }, "note": "O に também pode cair na pergunta casual; 大学に 行く？ continua certo." }
+          { "q": "日曜日、ひまですか。— はい、ひまです。", "a": { "jp": "日曜日、ひま？— うん、ひま。", "kana": "にちようび、ひま？— うん、ひま。", "romaji": "Nichiyōbi, hima? — Un, hima." }, "note": "A question without か and without だ; はい becomes うん." },
+          { "q": "コーヒーを 飲みますか。— いいえ、飲みません。", "a": { "jp": "コーヒー 飲む？— ううん、飲まない。", "kana": "コーヒー のむ？— ううん、のまない。", "romaji": "Kōhī nomu? — Uun, nomanai." }, "note": "In casual speech を usually drops, but コーヒーを 飲む？ is also correct." },
+          { "q": "マリアさんは 日本人ですか。— いいえ、日本人じゃないです。ブラジル人です。", "a": { "jp": "マリアさん、日本人？— ううん、日本人じゃない。ブラジル人。", "kana": "マリアさん、にほんじん？— ううん、にほんじんじゃない。ブラジルじん。", "romaji": "Maria-san, nihonjin? — Uun, nihonjin ja nai. Burajirujin." }, "note": "No だ in the question. In the answer, the bare noun (ブラジル人。) sounds natural. If you are close friends, you can also drop the さん." },
+          { "q": "その 本、おもしろいですか。— はい、とても おもしろいです。", "a": { "jp": "その 本、おもしろい？— うん、とても おもしろい。", "kana": "その ほん、おもしろい？— うん、とても おもしろい。", "romaji": "Sono hon, omoshiroi? — Un, totemo omoshiroi." }, "note": "い-adjective: just take off です. No だ." },
+          { "q": "あした 大学に 行きますか。— いいえ、行きません。うちで 休みます。", "a": { "jp": "あした 大学 行く？— ううん、行かない。うちで 休む。", "kana": "あした だいがく いく？— ううん、いかない。うちで やすむ。", "romaji": "Ashita daigaku iku? — Uun, ikanai. Uchi de yasumu." }, "note": "に can also drop in a casual question; 大学に 行く？ is still correct." }
         ]
       },
       {
         "id": "h4",
-        "type": "produzir",
-        "prompt": "Escreva uma mensagem casual de 4–5 frases para um amigo: pergunte se ele está livre no fim de semana e conte o que você tem e o que não tem para fazer. Use só formas curtas. Depois leia em voz alta.",
+        "type": "produce",
+        "prompt": "Write a casual message of 4–5 sentences to a friend: ask if they are free this weekend and say what you do and don't have to do. Use only short forms. Then read it aloud.",
         "items": [
-          { "q": "Modelo, que o seu texto deve seguir na estrutura e não nas palavras:", "a": { "jp": "しゅうまつ、ひま？土曜日は 仕事が ある。でも、日曜日は 仕事が ない。うちで ブラジルりょうりを 作る。いっしょに 食べる？", "kana": "しゅうまつ、ひま？どようびは しごとが ある。でも、にちようびは しごとが ない。うちで ブラジルりょうりを つくる。いっしょに たべる？", "romaji": "Shūmatsu, hima? Doyōbi wa shigoto ga aru. Demo, nichiyōbi wa shigoto ga nai. Uchi de burajiru ryōri o tsukuru. Issho ni taberu?", "pt": "Tá livre no fim de semana? No sábado tenho trabalho. Mas no domingo não tenho. Vou fazer comida brasileira em casa. Vamos comer juntos?" }, "note": "Confira: nenhum です / ます; pergunta sem か e sem だ; negativo com ない (ある → ない); nada de だ depois de adjetivo い." }
+          { "q": "Model (match its structure, not its words):", "a": { "jp": "しゅうまつ、ひま？土曜日は 仕事が ある。でも、日曜日は 仕事が ない。うちで ブラジルりょうりを 作る。いっしょに 食べる？", "kana": "しゅうまつ、ひま？どようびは しごとが ある。でも、にちようびは しごとが ない。うちで ブラジルりょうりを つくる。いっしょに たべる？", "romaji": "Shūmatsu, hima? Doyōbi wa shigoto ga aru. Demo, nichiyōbi wa shigoto ga nai. Uchi de burajiru ryōri o tsukuru. Issho ni taberu?", "en": "Free this weekend? I have work on Saturday. But on Sunday I don't have work. I'm going to make Brazilian food at home. Want to eat together?" }, "note": "Check: no です / ます anywhere; questions without か and without だ; negatives with ない (ある → ない); no だ after an い-adjective." }
         ]
       }
     ],
     "workbook": [
-      { "p": 78, "t": "1 · Short Forms (Present Tense)", "tip": "Faça depois dos pontos 4a e 4b." },
-      { "p": 79, "t": "2 · Short Forms (Informal Speech)", "tip": "Faça depois do ponto 4c. Confira no Genki Answer Key oficial." }
+      { "p": 78, "t": "1 · Short Forms (Present Tense)", "tip": "Do it after points 4a and 4b." },
+      { "p": 79, "t": "2 · Short Forms (Informal Speech)", "tip": "Do it after point 4c; check it with the official Genki Answer Key." }
     ]
   },
   "practice": [
-    { "tool": "Wagotabi", "what": "Jogue normalmente e fique de olho nas falas que terminam sem です / ます (verbo no dicionário, ない, うん / ううん, pergunta sem か). Copie 2 delas no caderno e escreva ao lado a versão educada.", "min": 15 },
-    { "tool": "ヅオリンゴー", "what": "Praticar L8 (conjugação das formas curtas) e Treinos → Conjugação. Depois, Vocabulário/SRS da Lição 8.", "min": 15 },
-    { "tool": "Shadowing", "what": "Toque 🔊 nos diálogos do ponto 4c e repita junto 3 vezes, com a mesma entonação: a voz sobe no fim da pergunta, sem か.", "min": 5 },
-    { "tool": "Fala", "what": "Grave a mensagem da lição de casa (h4) como se fosse um áudio para um amigo, em até 30 s. Ouça e confira se não escapou nenhum です.", "min": 5 }
+    { "tool": "Wagotabi", "what": "Play normally and watch for lines that end without です / ます (a dictionary-form verb, ない, うん / ううん, a question without か). Copy 2 of them into your notebook and write the polite version next to each.", "min": 15 },
+    { "tool": "ヅオリンゴー", "what": "Practice L8 (short-form conjugation) and Drills → Conjugation. Then the Lesson 8 vocabulary in the SRS.", "min": 15 },
+    { "tool": "Shadowing", "what": "Tap 🔊 on the dialogues in point 4c and repeat along 3 times, with the same intonation: your voice rises at the end of the question, with no か.", "min": 5 },
+    { "tool": "Speaking", "what": "Record the homework message (h4) as if it were a voice message to a friend, in 30 seconds or less. Listen and check that no です slipped in.", "min": 5 }
   ],
   "culture": {
-    "title": "Veteranos e calouros (せんぱい／こうはい)",
+    "title": "Seniors and juniors (せんぱい／こうはい)",
     "titleJp": "せんぱい／こうはい",
-    "body": "Em escolas, clubes e empresas japonesas, as relações costumam se organizar por **quem entrou antes**: o veterano é **せんぱい** e quem chegou depois é **こうはい**, mesmo que a diferença seja de um ano só. Em geral, o こうはい fala com o せんぱい em です / ます, e o せんぱい pode responder na forma curta. Entre colegas da mesma turma ou da mesma idade, o casual costuma aparecer rápido. A mudança para o casual normalmente parte de quem está \"acima\", às vezes com uma frase como タメ口で いいよ (\"pode falar comigo de igual para igual\"). Com estrangeiros, muitos japoneses são flexíveis, mas começar no です / ます nunca é erro.",
-    "try": "Liste 5 pessoas da sua vida (chefe, colega de turma, irmão, professor, um amigo) e marque ao lado せんぱい, こうはい ou \"mesmo nível\". Depois faça a mesma pergunta para cada uma, no registro certo: しゅうまつ、ひまですか。 ou しゅうまつ、ひま？"
+    "body": "In Japanese schools, clubs and companies, relationships are usually organized by **who joined first**: the senior is the **せんぱい** and whoever came later is the **こうはい**, even if the difference is only one year. In general, the こうはい speaks to the せんぱい in です / ます, and the せんぱい may answer in the short form. Among classmates or people of the same age, casual speech tends to appear quickly. The switch to casual speech usually comes from the person \"above\", sometimes with a line like タメ口で いいよ (\"you can talk to me casually\"). Many Japanese people are flexible with foreigners, but starting with です / ます is never a mistake.",
+    "try": "List 5 people in your life (a boss, a classmate, a sibling, a teacher, a friend) and mark each one せんぱい, こうはい or \"same level\". Then ask each of them the same question in the right register: しゅうまつ、ひまですか。 or しゅうまつ、ひま？"
   },
   "checklist": [
-    "Passo qualquer verbo da forma ます para a forma de dicionário e para a forma ない, sem olhar.",
-    "Acerto os casos especiais: かう → かわない, ある → ない, くる → こない, かえる → かえらない.",
-    "Digo a forma curta de adjetivos い e な e de substantivos, no afirmativo e no negativo (e いい → よくない).",
-    "Não coloco だ depois de adjetivo い nem em pergunta casual.",
-    "Faço e respondo perguntas casuais com うん / ううん, com a voz subindo na pergunta.",
-    "Sei com quem posso falar casual e com quem fico no です / ます.",
-    "Fiz a lição de casa e conferi o gabarito, e refiz o que errei.",
-    "Fiz as páginas 78–79 do Workbook."
+    "I can turn any verb from the ます form into the dictionary form and the ない form without looking.",
+    "I get the special cases right: かう → かわない, ある → ない, くる → こない, かえる → かえらない.",
+    "I can say the short form of い-adjectives, な-adjectives and nouns, affirmative and negative (and いい → よくない).",
+    "I never put だ after an い-adjective or in a casual question.",
+    "I can ask and answer casual questions with うん / ううん, with my voice rising on the question.",
+    "I know who I can speak casually with and when to stay with です / ます.",
+    "I did the homework, checked it against the answer key and redid what I got wrong.",
+    "I did Workbook pages 78–79."
   ]
 }

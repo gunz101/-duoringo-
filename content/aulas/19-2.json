@@ -2,60 +2,60 @@
   "id": "19-2",
   "unit": "G2-L19",
   "genki": { "book": "Genki II", "lesson": 19, "points": ["〜てくれてありがとう", "〜てよかったです", "〜はずです"] },
-  "title": "Gratidão e expectativa",
+  "title": "Thanks and expectations",
   "titleJp": "むかえに来てくれて、ありがとう",
   "canDo": [
-    "Agradecer um favor específico com 〜てくれて、ありがとう (amigos) e 〜てくださって、ありがとうございました (professor, chefe, a família que me recebeu).",
-    "Dizer \"que bom que…\" / \"ainda bem que…\" com 〜てよかったです, inclusive no negativo (〜なくてよかったです) e com adjetivos (〜くて / 〜で).",
-    "Separar 〜てよかったです (fiz, e que bom) de 〜ばよかったです (não fiz, e me arrependo).",
-    "Dizer o que deve ser verdade pelos fatos com 〜はずです, e o que era para ter acontecido mas não aconteceu com 〜はずでしたが…",
-    "Não usar はず para obrigação (\"você deve…\") nem para os meus próprios planos (つもり)."
+    "I can thank someone for a specific favor with 〜てくれて、ありがとう (friends) and 〜てくださって、ありがとうございました (a teacher, a boss, a host family).",
+    "I can say \"I'm glad that…\" with 〜てよかったです, including the negative (〜なくてよかったです) and adjectives (〜くて / 〜で).",
+    "I can tell 〜てよかったです (I did it, and I'm glad) from 〜ばよかったです (I didn't, and I regret it).",
+    "I can say what should be true given the facts with 〜はずです, and what was supposed to happen but didn't with 〜はずでしたが…",
+    "I don't use はず for obligation or advice (\"you should…\") or for my own plans (つもり)."
   ],
   "duration": {
     "total": "60–75 min",
     "blocks": [
-      { "t": "Aquecimento: dizer em voz alta 3 frases com 〜てくれました (Aula 16-1) e 3 com 〜ばよかったです (Aula 18-3)", "min": 5 },
-      { "t": "Vocabulário: ouvir 🔊 cada palavra do bloco 3 e repetir 2 vezes", "min": 10 },
-      { "t": "Gramática: pontos a (agradecer) e b (que bom que…), com os exemplos lidos em voz alta e um 🔬 em cada", "min": 15 },
-      { "t": "Gramática: ponto c (はず / はずでした), com os exemplos em voz alta e um 🔬", "min": 10 },
-      { "t": "Vídeo da Lição 19 (bloco 6), só a parte destes três pontos", "min": 10 },
-      { "t": "Lição de casa no caderno + conferir no gabarito", "min": 15 },
-      { "t": "Checklist (bloco 10) + anotar dúvidas no caderno da aula", "min": 5 }
+      { "t": "Warm-up: say aloud 3 sentences with 〜てくれました (lesson 16-1) and 3 with 〜ばよかったです (lesson 18-3)", "min": 5 },
+      { "t": "Vocabulary: tap 🔊 on each word in block 3 and repeat it twice", "min": 10 },
+      { "t": "Grammar: points a (thanking) and b (I'm glad that…), with the examples read aloud and one 🔬 each", "min": 15 },
+      { "t": "Grammar: point c (はず / はずでした), with the examples aloud and one 🔬", "min": 10 },
+      { "t": "Lesson 19 video (block 6), only the part on these three points", "min": 10 },
+      { "t": "Notebook homework + checking it against the answer key", "min": 15 },
+      { "t": "Checklist (block 10) + write your questions in the lesson notebook", "min": 5 }
     ]
   },
   "prereqs": {
     "aulas": ["19-1"],
     "skills": [
-      "〜てくれる (Aula 16-1): quem faz o favor é o outro, e quem recebe sou eu (ou alguém do meu lado). É a base do 〜てくれてありがとう.",
-      "くださる, o honorífico de くれる (Aula 19-1). A forma て dele é regular: くださって.",
-      "〜ばよかったです (Aula 18-3), para contrastar com 〜てよかったです: parecem iguais, mas dizem o oposto.",
-      "Forma て de verbos e adjetivos (Aulas 06-1 e 07-2): 来て, 降らなくて, やさしくて, しずかで.",
-      "Forma comum (curta) de verbos, adjetivos e substantivos (Aulas 08-1 e 09-1) e frases que descrevem substantivos (Aula 09-2): はず se liga do mesmo jeito que um substantivo descrito."
+      "〜てくれる (lesson 16-1): the other person does the favor, and I (or someone on my side) receive it. It is the base of 〜てくれてありがとう.",
+      "くださる, the honorific of くれる (lesson 19-1). Its て-form is regular: くださって.",
+      "〜ばよかったです (lesson 18-3), to contrast with 〜てよかったです: they look alike but say the opposite.",
+      "The て-form of verbs and adjectives (lessons 06-1 and 07-2): 来て, 降らなくて, やさしくて, しずかで.",
+      "Short forms of verbs, adjectives and nouns (lessons 08-1 and 09-1) and clauses that describe nouns (lesson 09-2): はず attaches the same way a described noun does."
     ],
     "vocab": [
-      { "jp": "むかえに行く／来る", "kana": "むかえにいく／くる", "romaji": "mukae ni iku / kuru", "pt": "ir / vir buscar (alguém)" },
-      { "jp": "てつだう", "kana": "てつだう", "romaji": "tetsudau", "pt": "ajudar (numa tarefa, num trabalho)" },
-      { "jp": "空港", "kana": "くうこう", "romaji": "kūkō", "pt": "aeroporto" },
-      { "jp": "ひっこし", "kana": "ひっこし", "romaji": "hikkoshi", "pt": "mudança (de casa)" },
-      { "jp": "貸す", "kana": "かす", "romaji": "kasu", "pt": "emprestar (dar emprestado)" },
-      { "jp": "ていねいに", "kana": "ていねいに", "romaji": "teinei ni", "pt": "com cuidado, com atenção (explicar, escrever)" },
-      { "jp": "一年間", "kana": "いちねんかん", "romaji": "ichinenkan", "pt": "durante um ano" },
-      { "jp": "本当に", "kana": "ほんとうに", "romaji": "hontō ni", "pt": "de verdade; muito (reforça ありがとう)" },
-      { "jp": "かさ", "kana": "かさ", "romaji": "kasa", "pt": "guarda-chuva" },
-      { "jp": "試験", "kana": "しけん", "romaji": "shiken", "pt": "prova, exame" },
-      { "jp": "やさしい", "kana": "やさしい", "romaji": "yasashii", "pt": "fácil; gentil" },
-      { "jp": "家族", "kana": "かぞく", "romaji": "kazoku", "pt": "família" },
-      { "jp": "けが（をする）", "kana": "けが（をする）", "romaji": "kega (o suru)", "pt": "machucado; machucar-se" },
-      { "jp": "ごうかくする", "kana": "ごうかくする", "romaji": "gōkaku suru", "pt": "passar (numa prova, num exame)" },
-      { "jp": "間に合う", "kana": "まにあう", "romaji": "ma ni au", "pt": "chegar a tempo, dar tempo" },
-      { "jp": "着く", "kana": "つく", "romaji": "tsuku", "pt": "chegar (a um lugar)" },
-      { "jp": "もうすぐ", "kana": "もうすぐ", "romaji": "mō sugu", "pt": "já já, daqui a pouco" },
-      { "jp": "休み", "kana": "やすみ", "romaji": "yasumi", "pt": "folga, férias; dia em que a loja fecha" },
-      { "jp": "始まる", "kana": "はじまる", "romaji": "hajimaru", "pt": "começar (algo começa)" },
-      { "jp": "台風", "kana": "たいふう", "romaji": "taifū", "pt": "tufão" },
-      { "jp": "はず", "kana": "はず", "romaji": "hazu", "pt": "o que é de esperar: \"deve ser\", \"era para ser\"" },
-      { "jp": "おつかれさまです", "kana": "おつかれさまです", "romaji": "otsukaresama desu", "pt": "\"bom trabalho\"; cumprimento entre colegas (bloco 9)" },
-      { "jp": "おさきにしつれいします", "kana": "おさきにしつれいします", "romaji": "osaki ni shitsurei shimasu", "pt": "\"com licença, vou saindo antes\" (ao sair do trabalho)" }
+      { "jp": "むかえに行く／来る", "kana": "むかえにいく／くる", "romaji": "mukae ni iku / kuru", "en": "to go / come to pick someone up" },
+      { "jp": "てつだう", "kana": "てつだう", "romaji": "tetsudau", "en": "to help (with a task, a job)" },
+      { "jp": "空港", "kana": "くうこう", "romaji": "kūkō", "en": "airport" },
+      { "jp": "ひっこし", "kana": "ひっこし", "romaji": "hikkoshi", "en": "moving (to a new home)" },
+      { "jp": "貸す", "kana": "かす", "romaji": "kasu", "en": "to lend" },
+      { "jp": "ていねいに", "kana": "ていねいに", "romaji": "teinei ni", "en": "carefully, thoroughly (explain, write)" },
+      { "jp": "一年間", "kana": "いちねんかん", "romaji": "ichinenkan", "en": "for one year" },
+      { "jp": "本当に", "kana": "ほんとうに", "romaji": "hontō ni", "en": "really, truly (strengthens ありがとう)" },
+      { "jp": "かさ", "kana": "かさ", "romaji": "kasa", "en": "umbrella" },
+      { "jp": "試験", "kana": "しけん", "romaji": "shiken", "en": "exam, test" },
+      { "jp": "やさしい", "kana": "やさしい", "romaji": "yasashii", "en": "easy; kind" },
+      { "jp": "家族", "kana": "かぞく", "romaji": "kazoku", "en": "family" },
+      { "jp": "けが（をする）", "kana": "けが（をする）", "romaji": "kega (o suru)", "en": "injury; to get hurt" },
+      { "jp": "ごうかくする", "kana": "ごうかくする", "romaji": "gōkaku suru", "en": "to pass (an exam)" },
+      { "jp": "間に合う", "kana": "まにあう", "romaji": "ma ni au", "en": "to be in time, to make it" },
+      { "jp": "着く", "kana": "つく", "romaji": "tsuku", "en": "to arrive (at a place)" },
+      { "jp": "もうすぐ", "kana": "もうすぐ", "romaji": "mō sugu", "en": "soon, any minute now" },
+      { "jp": "休み", "kana": "やすみ", "romaji": "yasumi", "en": "day off, vacation; the day a shop is closed" },
+      { "jp": "始まる", "kana": "はじまる", "romaji": "hajimaru", "en": "(something) begins" },
+      { "jp": "台風", "kana": "たいふう", "romaji": "taifū", "en": "typhoon" },
+      { "jp": "はず", "kana": "はず", "romaji": "hazu", "en": "what is expected: \"should be\", \"is supposed to\"" },
+      { "jp": "おつかれさまです", "kana": "おつかれさまです", "romaji": "otsukaresama desu", "en": "\"thanks for your hard work\"; a greeting between colleagues (block 9)" },
+      { "jp": "おさきにしつれいします", "kana": "おさきにしつれいします", "romaji": "osaki ni shitsurei shimasu", "en": "\"excuse me for leaving before you\" (leaving work)" }
     ]
   },
   "grammar": [
@@ -63,24 +63,24 @@
       "id": "19-2-a",
       "gc": null,
       "title": "〜てくれて、ありがとう",
-      "gloss": "\"obrigado por (ter feito) …\"",
-      "explanation": "Na Aula 16-1 você viu 〜てくれる: alguém faz algo **por mim**. Para **agradecer esse favor específico**, use a forma て de くれる (**くれて**) antes de ありがとう. O くれて funciona como \"por ter…\": 来てくれて、ありがとう = \"obrigado por ter vindo\".\n• A ação vem antes, na forma て e com as partículas de sempre: 駅までむかえに来て | くれて、| ありがとう.\n• Na frase, o bloco 〜てくれて é o **MOTIVO** do agradecimento, e ありがとう é o **PREDICADO**, no fim. Quem fez o favor é quem ouve, e por isso quase nunca aparece. Se quiser, chame a pessoa pelo nome no começo: マリア、〜てくれて、ありがとう。\n• É o mesmo molde de 〜てすみませんでした (Aula 16-3): o bloco na forma て diz **por que** você agradece ou pede desculpas.\n\n**Com professor, chefe, cliente ou a família que te recebeu**, troque くれる pelo honorífico **くださる** (Aula 19-1) e use ありがとうございました: 〜て**くださって**、ありがとうございました.\n• A forma て de くださる é regular: **くださって**. O ます irregular (くださいます) não muda isso.\n• ありがとうございました, no passado, é o mais comum quando o favor **já terminou**: no fim de uma aula, de um evento, de uma estadia. ありがとうございます também aparece, sobretudo quando você agradece na hora.\n• Você também vai ouvir 〜ていただいて、ありがとうございました, com いただく (o mesmo de 〜ていただけませんか, Aula 16-2). O sentido é o mesmo, e o verbo humilde volta na Aula 20-1.\n\nPara agradecer uma **coisa**, e não uma ação, não precisa de verbo: おみやげ、ありがとう。/ プレゼントをありがとう。",
-      "structure": "[ação na forma て] くれて、ありがとう。 · (formal) [ação na forma て] くださって、ありがとうございました。",
+      "gloss": "\"thank you for (doing)…\"",
+      "explanation": "In lesson 16-1 you saw 〜てくれる: someone does something **for me**. To **thank them for that specific favor**, use the て-form of くれる (**くれて**) before ありがとう. くれて works like English \"for doing…\": 来てくれて、ありがとう = \"thanks for coming\".\n• The action comes first, in the て-form and with its usual particles: 駅までむかえに来て | くれて、| ありがとう.\n• In the sentence, the 〜てくれて block is the **REASON** for the thanks, and ありがとう is the **PREDICATE**, at the end. The person who did the favor is the listener, so they almost never appear. If you like, say their name at the start: マリア、〜てくれて、ありがとう。\n• It is the same mold as 〜てすみませんでした (lesson 16-3): the て-form block says **why** you thank or apologize.\n\n**With a teacher, a boss, a customer or a host family**, swap くれる for its honorific **くださる** (lesson 19-1) and use ありがとうございました: 〜て**くださって**、ありがとうございました.\n• The て-form of くださる is regular: **くださって**. The irregular ます (くださいます) doesn't change that.\n• ありがとうございました, in the past, is the most common choice when the favor **is over**: at the end of a class, an event, a stay. ありがとうございます is also used, especially when you thank someone on the spot.\n• You will also hear 〜ていただいて、ありがとうございました, with いただく (the same verb as in 〜ていただけませんか, lesson 16-2). The meaning is the same; this humble verb comes back in lesson 20-1.\n\nTo thank someone for a **thing** rather than an action, you don't need a verb: おみやげ、ありがとう。/ プレゼントをありがとう。",
+      "structure": "[action in て-form] くれて、ありがとう。 · (formal) [action in て-form] くださって、ありがとうございました。",
       "examples": [
-        { "jp": "空港までむかえに来てくれて、ありがとう。", "kana": "くうこうまでむかえにきてくれて、ありがとう。", "romaji": "Kūkō made mukae ni kite kurete, arigatō.", "pt": "Obrigado(a) por ter vindo me buscar no aeroporto. (a um amigo)" },
-        { "jp": "先生、一年間日本語を教えてくださって、ありがとうございました。", "kana": "せんせい、いちねんかんにほんごをおしえてくださって、ありがとうございました。", "romaji": "Sensei, ichinenkan nihongo o oshiete kudasatte, arigatō gozaimashita.", "pt": "Professor(a), obrigado(a) por ter me ensinado japonês durante este ano." },
-        { "jp": "きのうはひっこしをてつだってくれて、本当にありがとう。", "kana": "きのうはひっこしをてつだってくれて、ほんとうにありがとう。", "romaji": "Kinō wa hikkoshi o tetsudatte kurete, hontō ni arigatō.", "pt": "Muito obrigado(a) por ter me ajudado com a mudança ontem." }
+        { "jp": "空港までむかえに来てくれて、ありがとう。", "kana": "くうこうまでむかえにきてくれて、ありがとう。", "romaji": "Kūkō made mukae ni kite kurete, arigatō.", "en": "Thanks for coming to pick me up at the airport. (to a friend) [lit. coming as far as the airport to meet me]" },
+        { "jp": "先生、一年間日本語を教えてくださって、ありがとうございました。", "kana": "せんせい、いちねんかんにほんごをおしえてくださって、ありがとうございました。", "romaji": "Sensei, ichinenkan nihongo o oshiete kudasatte, arigatō gozaimashita.", "en": "Sensei, thank you for teaching me Japanese for a year." },
+        { "jp": "きのうはひっこしをてつだってくれて、本当にありがとう。", "kana": "きのうはひっこしをてつだってくれて、ほんとうにありがとう。", "romaji": "Kinō wa hikkoshi o tetsudatte kurete, hontō ni arigatō.", "en": "Thank you so much for helping me move yesterday." }
       ],
       "pitfalls": [
-        "A ação foi feita PARA você, então o verbo é くれる, não あげる: てつだってあげて、ありがとう ✗ → てつだってくれて、ありがとう ✓.",
-        "Com professor ou chefe, くれて soa íntimo demais: 先生、教えてくれて、ありがとう ✗ → 先生、教えてくださって、ありがとうございました ✓.",
-        "A forma て de くださる é くださって: 教えてくださいて ✗ → 教えてくださって ✓.",
-        "Antes de くれて vem a forma て do verbo, não a de dicionário nem a de ます: 来るくれて ✗ / 来ますくれて ✗ → 来てくれて ✓."
+        "The action was done FOR you, so the verb is くれる, not あげる: てつだってあげて、ありがとう ✗ → てつだってくれて、ありがとう ✓.",
+        "With a teacher or a boss, くれて sounds too familiar: 先生、教えてくれて、ありがとう ✗ → 先生、教えてくださって、ありがとうございました ✓.",
+        "The て-form of くださる is くださって: 教えてくださいて ✗ → 教えてくださって ✓.",
+        "English puts \"for + -ing\" after \"thank you\"; Japanese puts the favor first, in the て-form, and never the dictionary or ます form: 来るくれて ✗ / 来ますくれて ✗ → 来てくれて ✓."
       ],
       "howToStudy": [
-        "Liste no caderno 5 favores que alguém fez por você nesta semana. Agradeça cada um em voz alta duas vezes: para um amigo (〜てくれて、ありがとう) e para um professor (〜てくださって、ありがとうございました).",
-        "Aperte 🔬 no exemplo 1: 空港まで aparece como ATÉ, むかえに como FINALIDADE, 来てくれて como LIGA (E…) e ありがとう como PREDICADO. Leia de trás pra frente: \"obrigado\" → por quê? por ter vindo → para quê? para me buscar → até onde? o aeroporto.",
-        "Grave um áudio de 15 s agradecendo algo real a um amigo, como se fosse mandar no LINE. Diga o nome dele no começo e o favor inteiro antes do ありがとう."
+        "List in your notebook 5 favors someone did for you this week. Thank each one aloud twice: to a friend (〜てくれて、ありがとう) and to a teacher (〜てくださって、ありがとうございました).",
+        "Tap 🔬 on example 1: 空港まで shows up as UNTIL / TO, むかえに as PURPOSE, 来てくれて as …AND THEN (the label for a て-form link — here the link gives the reason) and ありがとう as the PREDICATE. Read it backwards: \"thanks\" → for what? for coming → to do what? to pick me up → as far as where? the airport.",
+        "Record a 15-second voice message thanking a friend for something real, as if you were sending it on LINE. Say their name at the start and the whole favor before ありがとう."
       ],
       "flag": null
     },
@@ -88,24 +88,24 @@
       "id": "19-2-b",
       "gc": null,
       "title": "〜てよかったです",
-      "gloss": "\"que bom que…\", \"ainda bem que…\"",
-      "explanation": "Para dizer **\"que bom que…\" / \"ainda bem que…\"** sobre algo que aconteceu, use a forma て + **よかったです**. よかった é o passado de いい: ao pé da letra, \"foi bom (que isso tenha acontecido)\".\n• Verbo: 日本に来て、よかったです。 (\"Que bom que eu vim ao Japão.\")\n• Verbo no negativo: forma ない → 〜**なくて**. 雨が降らなくて、よかったです。 (\"Ainda bem que não choveu.\")\n• Adjetivo い: 〜**くて**. テストがやさしくて、よかったです。 Negativo: むずかしくなくて、よかったです。 E いい vira **よくて**: 天気がよくて、よかったです。\n• Adjetivo な e substantivo: 〜**で**. 部屋がしずかで、よかったです。/ 家族がみんな元気で、よかったです。\n• Na frase, o bloco na forma て é o **MOTIVO** (o que aconteceu), e **よかったです é o PREDICADO** (a sua avaliação). よかった fica no passado porque avalia algo que já aconteceu ou que você já sabe.\n• Dentro do bloco, o sujeito costuma vir com **が**: ホテルがしずかで、よかったです。\n• Para comemorar com **outra pessoa**, acrescente ね: ごうかくできて、よかったですね！ (\"Que bom que você passou!\")\n\n**Não confunda com 〜ばよかったです (Aula 18-3)**. Os dois terminam em よかったです, mas dizem o oposto:\n• かさを持ってきて、よかったです。 → eu trouxe, e ainda bem.\n• かさを持ってくれば、よかったです。 → eu NÃO trouxe, e devia ter trazido.",
-      "structure": "[verbo て / 〜なくて / adj-い 〜くて / adj-な・N で]、よかったです。",
+      "gloss": "\"I'm glad that…\", \"good thing…\"",
+      "explanation": "To say **\"I'm glad that…\" / \"good thing…\"** about something that happened, use the て-form + **よかったです**. よかった is the past of いい: literally, \"it was good (that this happened)\".\n• Verb: 日本に来て、よかったです。 (\"I'm glad I came to Japan.\")\n• Negative verb: ない form → 〜**なくて**. 雨が降らなくて、よかったです。 (\"Good thing it didn't rain.\")\n• い-adjective: 〜**くて**. テストがやさしくて、よかったです。 Negative: むずかしくなくて、よかったです。 And いい becomes **よくて**: 天気がよくて、よかったです。\n• な-adjective and noun: 〜**で**. 部屋がしずかで、よかったです。/ 家族がみんな元気で、よかったです。\n• In the sentence, the て-form block is the **REASON** (what happened), and **よかったです is the PREDICATE** (your verdict on it). よかった stays in the past because it judges something that has already happened or that you already know.\n• Inside the block, the subject usually takes **が**: ホテルがしずかで、よかったです。\n• To celebrate with **someone else**, add ね: ごうかくできて、よかったですね！ (\"I'm so glad you passed!\")\n\n**Don't mix it up with 〜ばよかったです (lesson 18-3).** Both end in よかったです, but they say the opposite:\n• かさを持ってきて、よかったです。 → I brought one, and I'm glad I did.\n• かさを持ってくれば、よかったです。 → I did NOT bring one, and I should have.",
+      "structure": "[verb て / 〜なくて / い-adj 〜くて / な-adj・N で]、よかったです。",
       "examples": [
-        { "jp": "雨が降ってきました。かさを持ってきて、よかったです。", "kana": "あめがふってきました。かさをもってきて、よかったです。", "romaji": "Ame ga futte kimashita. Kasa o motte kite, yokatta desu.", "pt": "Começou a chover. Ainda bem que eu trouxe o guarda-chuva." },
-        { "jp": "試験がそんなにむずかしくなくて、よかったです。", "kana": "しけんがそんなにむずかしくなくて、よかったです。", "romaji": "Shiken ga sonna ni muzukashikunakute, yokatta desu.", "pt": "Ainda bem que a prova não foi tão difícil." },
-        { "jp": "家族がみんな元気で、よかったです。", "kana": "かぞくがみんなげんきで、よかったです。", "romaji": "Kazoku ga minna genki de, yokatta desu.", "pt": "Que bom que a família está toda bem." }
+        { "jp": "雨が降ってきました。かさを持ってきて、よかったです。", "kana": "あめがふってきました。かさをもってきて、よかったです。", "romaji": "Ame ga futte kimashita. Kasa o motte kite, yokatta desu.", "en": "It has started to rain. I'm glad I brought an umbrella." },
+        { "jp": "試験がそんなにむずかしくなくて、よかったです。", "kana": "しけんがそんなにむずかしくなくて、よかったです。", "romaji": "Shiken ga sonna ni muzukashikunakute, yokatta desu.", "en": "I'm glad the exam wasn't that difficult." },
+        { "jp": "家族がみんな元気で、よかったです。", "kana": "かぞくがみんなげんきで、よかったです。", "romaji": "Kazoku ga minna genki de, yokatta desu.", "en": "I'm glad everyone in the family is well." }
       ],
       "pitfalls": [
-        "Fez e deu certo? É てよかった. ばよかった é arrependimento: 来てよかったです = \"que bom que vim\" × 来ればよかったです = \"devia ter vindo\" (e não vim).",
-        "Não confunda com 〜てもいいです (Aula 06-3): 来てもいいです = \"pode vir\" (permissão); 来てよかったです = \"que bom que vim\".",
-        "Negativo com なくて: 降らないくて ✗ / 降らないて ✗ → 降らなくて ✓.",
-        "Cada tipo tem a sua forma て: しずかくて ✗ → しずかで ✓; いいくて ✗ → よくて ✓."
+        "Did it and it worked out? That's てよかった. ばよかった is regret: 来てよかったです = \"I'm glad I came\" × 来ればよかったです = \"I should have come\" (and I didn't).",
+        "Don't confuse it with 〜てもいいです (lesson 06-3): 来てもいいです = \"you may come\" (permission); 来てよかったです = \"I'm glad I came\".",
+        "Negative with なくて: 降らないくて ✗ / 降らないて ✗ → 降らなくて ✓.",
+        "Each word type has its own て-form: しずかくて ✗ → しずかで ✓; いいくて ✗ → よくて ✓."
       ],
       "howToStudy": [
-        "Pense em 3 coisas boas que aconteceram hoje e diga cada uma em voz alta com 〜て、よかったです: uma com verbo, uma negativa com 〜なくて e uma com adjetivo.",
-        "Aperte 🔬 no exemplo 1. Na segunda frase, かさを é o OBJETO, 持ってきて aparece como LIGA (E…) e よかったです é o PREDICADO. O bloco 持ってきて é o que aconteceu; よかったです é a sua avaliação.",
-        "Contraste em voz alta, com o mesmo verbo, e diga em português o que cada uma quer dizer: 行ってよかったです / 行けばよかったです; 買ってよかったです / 買えばよかったです."
+        "Think of 3 good things that happened today and say each one aloud with 〜て、よかったです: one with a verb, one negative with 〜なくて and one with an adjective.",
+        "Tap 🔬 on example 1. In the second sentence, かさを is the OBJECT, 持ってきて shows up as …AND THEN and よかったです is the PREDICATE. The block 持ってきて is what happened; よかったです is your verdict.",
+        "Contrast aloud, with the same verb, and say in English what each one means: 行ってよかったです / 行けばよかったです; 買ってよかったです / 買えばよかったです."
       ],
       "flag": null
     },
@@ -113,106 +113,106 @@
       "id": "19-2-c",
       "gc": null,
       "title": "〜はずです / 〜はずでした",
-      "gloss": "\"deve ser\" (pelos fatos) / \"era para ser, mas não foi\"",
-      "explanation": "**はず** quer dizer \"**deve ser / é de esperar**\", no sentido de uma expectativa lógica: pelo que você sabe (um horário, um plano, um costume), aquilo deve ser verdade. É uma certeza razoável, que vem de informação, e não de um palpite.\n\n**Como ligar:** はず é um substantivo. Por isso ele se liga como qualquer substantivo descrito (Aula 09-2):\n• Verbo e adjetivo い na forma comum: 着くはずです · 着いたはずです (\"já deve ter chegado\") · 来ないはずです (\"não deve vir\") · おいしいはずです\n• Adjetivo な + **な**: しずかなはずです\n• Substantivo + **の**: 休みのはずです\n\n**Na frase:** o bloco inteiro 〜はずです é o **PREDICADO**. Muitas vezes vem antes um **MOTIVO** com から, que mostra de onde vem a expectativa: 八時に出たから、もうすぐ着くはずです。\n\n**はずでした** (passado) = \"**era para ser, mas não foi**\". Você diz o que estava previsto e, em geral, conta logo depois o que deu errado, com が (\"mas\"): バスは十時に来るはずでしたが、まだ来ていません。\n\n**はず não é o \"dever\" de obrigação.** O \"deve\" do português tem dois sentidos:\n• \"O ônibus deve chegar às 10\" (expectativa) → 来るはずです ✓\n• \"Você deve estudar\" (obrigação ou conselho) → はず não serve: 勉強しなければいけません (Aula 12-3) ou 勉強したほうがいいです (Aula 12-2).\n\n**Nem é intenção.** Para um plano seu, use つもり (Aula 10-2): 来年日本に行くつもりです。\n• Compare também com でしょう (Aula 12-3): でしょう é um palpite (\"provavelmente\"); はず diz que os fatos apontam para aquilo.\n• Você ainda vai ver 〜はずがない (\"não tem como…\"), na Aula P-07.",
-      "structure": "[verbo / adj-い comum] はずです · [adj-な] なはずです · [N] のはずです · …はずでしたが、…",
+      "gloss": "\"should be\" (given the facts) / \"was supposed to, but didn't\"",
+      "explanation": "**はず** means \"**should be / is expected to be**\" in the sense of a logical expectation: from what you know (a schedule, a plan, a habit), it ought to be true. It is a reasonable certainty that comes from information, not a wild guess.\n\n**How to attach it:** はず is a noun, so it attaches like any described noun (lesson 09-2):\n• Verbs and い-adjectives in the short form: 着くはずです · 着いたはずです (\"should have arrived by now\") · 来ないはずです (\"isn't expected to come\") · おいしいはずです\n• な-adjective + **な**: しずかなはずです\n• Noun + **の**: 休みのはずです\n\n**In the sentence:** the whole 〜はずです block is the **PREDICATE**. Often a **REASON** with から comes first, showing where the expectation comes from: 八時に出たから、もうすぐ着くはずです。\n\n**はずでした** (past) = \"**was supposed to, but didn't**\". You say what was planned and usually tell right after what went wrong, with が (\"but\"): バスは十時に来るはずでしたが、まだ来ていません。\n\n**はず is not the \"should\" of advice or obligation.** English \"should\" has two meanings:\n• \"The bus should come at 10\" (expectation) → 来るはずです ✓\n• \"You should study\" (advice) → not はず: 勉強したほうがいいです (lesson 12-2). \"You must study\" (obligation) → 勉強しなければいけません (lesson 12-3).\n\n**Nor is it intention.** For a plan of your own, use つもり (lesson 10-2): 来年日本に行くつもりです。\n• Compare it with でしょう (lesson 12-3) too: でしょう is a guess (\"probably\"); はず says the facts point that way.\n• You will also see 〜はずがない (\"there's no way…\") in lesson P-07.",
+      "structure": "[verb / い-adj short form] はずです · [な-adj] なはずです · [N] のはずです · …はずでしたが、…",
       "examples": [
-        { "jp": "山田さんは八時に家を出たから、もうすぐ着くはずです。", "kana": "やまださんははちじにいえをでたから、もうすぐつくはずです。", "romaji": "Yamada-san wa hachiji ni ie o deta kara, mō sugu tsuku hazu desu.", "pt": "O Yamada saiu de casa às oito, então deve chegar daqui a pouco." },
-        { "jp": "あの店は月曜日は休みのはずですよ。", "kana": "あのみせはげつようびはやすみのはずですよ。", "romaji": "Ano mise wa getsuyōbi wa yasumi no hazu desu yo.", "pt": "Aquela loja deve fechar às segundas, viu? (pelo que eu sei)" },
-        { "jp": "バスは十時に来るはずでしたが、まだ来ていません。", "kana": "バスはじゅうじにくるはずでしたが、まだきていません。", "romaji": "Basu wa jūji ni kuru hazu deshita ga, mada kite imasen.", "pt": "O ônibus era para ter vindo às dez, mas ainda não veio." }
+        { "jp": "山田さんは八時に家を出たから、もうすぐ着くはずです。", "kana": "やまださんははちじにいえをでたから、もうすぐつくはずです。", "romaji": "Yamada-san wa hachiji ni ie o deta kara, mō sugu tsuku hazu desu.", "en": "Yamada left home at eight, so he should arrive any minute now." },
+        { "jp": "あの店は月曜日は休みのはずですよ。", "kana": "あのみせはげつようびはやすみのはずですよ。", "romaji": "Ano mise wa getsuyōbi wa yasumi no hazu desu yo.", "en": "That shop is supposed to be closed on Mondays, you know. (as far as I know)" },
+        { "jp": "バスは十時に来るはずでしたが、まだ来ていません。", "kana": "バスはじゅうじにくるはずでしたが、まだきていません。", "romaji": "Basu wa jūji ni kuru hazu deshita ga, mada kite imasen.", "en": "The bus was supposed to come at ten, but it hasn't come yet." }
       ],
       "pitfalls": [
-        "\"Deve\" de obrigação ou conselho não é はず. Para dizer \"você deve descansar\": 休むはずです ✗ → 休んだほうがいいです ✓.",
-        "Para um plano seu, use つもり: 来年日本に行くはずです ✗ (se a decisão é sua) → 来年日本に行くつもりです ✓.",
-        "はず se liga como substantivo: 休みはずです ✗ → 休みのはずです ✓; しずかはずです ✗ → しずかなはずです ✓.",
-        "はずでした dá a entender que NÃO aconteceu. Se você chegou mesmo às dez, 十時に着くはずでした ✗ soa como se não tivesse chegado → 十時に着きました ✓."
+        "\"Should\" as advice is not はず. For \"you should rest\": 休むはずです ✗ → 休んだほうがいいです ✓.",
+        "For a plan of your own, use つもり: 来年日本に行くはずです ✗ (if it is your decision) → 来年日本に行くつもりです ✓.",
+        "はず attaches like a noun: 休みはずです ✗ → 休みのはずです ✓; しずかはずです ✗ → しずかなはずです ✓.",
+        "はずでした implies it did NOT happen. If you really did arrive at ten, 十時に着くはずでした ✗ sounds as if you didn't → 十時に着きました ✓."
       ],
       "howToStudy": [
-        "Aperte 🔬 no exemplo 1: 出たから aparece como MOTIVO e 着くはずです como PREDICADO. O MOTIVO é a informação que você tem; o PREDICADO com はず é a conclusão que você tira dela.",
-        "Pense no dia de amanhã e diga em voz alta 3 frases com はずです sobre coisas que dependem dos fatos (a loja abre, o ônibus passa, o amigo chega) e 1 com つもりです sobre um plano seu.",
-        "Aperte 🔬 no exemplo 3: 来るはずでしたが aparece como MAS, e o PREDICADO é まだ来ていません. Depois conte em voz alta 2 planos seus que não deram certo, sempre com 〜はずでしたが、…"
+        "Tap 🔬 on example 1: 出たから shows up as REASON and 着くはずです as the PREDICATE. The REASON is the information you have; the PREDICATE with はず is the conclusion you draw from it.",
+        "Think about tomorrow and say aloud 3 sentences with はずです about things that depend on facts (the shop opens, the bus comes, a friend arrives) and 1 with つもりです about a plan of your own.",
+        "Tap 🔬 on example 3: 来るはずでしたが shows up as …BUT, まだ as HOW / HOW OFTEN and 来ていません as the PREDICATE. Then tell aloud 2 plans of yours that didn't work out, always with 〜はずでしたが、…"
       ],
       "flag": null
     }
   ],
   "media": [
-    { "order": 1, "kind": "leitura", "title": "Genki II · Lição 19: as explicações de gramática de 〜てくれてありがとう, 〜てよかったです e 〜はずです, e o diálogo relido com esses pontos", "where": "Seu livro Genki II", "url": "", "when": "Antes desta aula ou logo depois do bloco de gramática. Os honoríficos ficaram na Aula 19-1." },
-    { "order": 2, "kind": "video", "title": "Game Gengo: はず, a expectativa lógica (em inglês, reforço)", "where": "YouTube · canal Game Gengo", "url": "", "search": "Game Gengo hazu はず JLPT N4", "when": "Depois do ponto c. Se o vídeo também mostrar はずがない, veja como prévia da Aula P-07." }
+    { "order": 1, "kind": "reading", "title": "Genki II · Lesson 19: the grammar notes on 〜てくれてありがとう, 〜てよかったです and 〜はずです, and the dialogue reread with these points in mind", "where": "Your Genki II textbook", "url": "", "when": "Before this lesson or right after the grammar block. The honorifics were in lesson 19-1." },
+    { "order": 2, "kind": "video", "title": "Game Gengo: はず, the logical expectation (extra practice)", "where": "YouTube · Game Gengo channel", "url": "", "search": "Game Gengo hazu はず JLPT N4", "when": "After point c. If the video also shows はずがない, treat it as a preview of lesson P-07." }
   ],
   "homework": {
-    "intro": "Faça no caderno, à mão. Escreva o japonês com os kanji que você já conhece e kana no resto. Só depois abra o gabarito, item por item. Circule o que errou e refaça no dia seguinte. Se você tiver o Genki II Workbook, faça também os exercícios desta lição.",
+    "intro": "Do it by hand in your notebook. Write the Japanese with the kanji you already know and kana for the rest. Only then open the answer key, item by item. Circle what you got wrong and redo it the next day. If you have the Genki II Workbook, do this lesson's exercises too.",
     "tasks": [
       {
         "id": "h1",
-        "type": "produzir",
-        "prompt": "Agradeça cada favor. Com amigos, use 〜てくれて、ありがとう; com professor, chefe ou a família que te recebeu, use 〜てくださって、ありがとうございました.",
+        "type": "produce",
+        "prompt": "Thank each person for the favor. With friends, use 〜てくれて、ありがとう; with a teacher, a boss or a host family, use 〜てくださって、ありがとうございました.",
         "items": [
-          { "q": "(amigo) Ele te emprestou um guarda-chuva. · かさを貸す", "a": { "jp": "かさを貸してくれて、ありがとう。", "kana": "かさをかしてくれて、ありがとう。", "romaji": "Kasa o kashite kurete, arigatō." } },
-          { "q": "(amiga) Ela foi te buscar na estação. · 駅までむかえに来る", "a": { "jp": "駅までむかえに来てくれて、ありがとう。", "kana": "えきまでむかえにきてくれて、ありがとう。", "romaji": "Eki made mukae ni kite kurete, arigatō." } },
-          { "q": "(amigo) Ele te ligou quando você estava doente. · 病気のとき、電話する", "a": { "jp": "病気のとき、電話してくれて、ありがとう。", "kana": "びょうきのとき、でんわしてくれて、ありがとう。", "romaji": "Byōki no toki, denwa shite kurete, arigatō." }, "note": "する → して → してくれて." },
-          { "q": "(professor) Ele explicou a gramática com calma. · ぶんぽうをていねいに教える", "a": { "jp": "先生、ぶんぽうをていねいに教えてくださって、ありがとうございました。", "kana": "せんせい、ぶんぽうをていねいにおしえてくださって、ありがとうございました。", "romaji": "Sensei, bunpō o teinei ni oshiete kudasatte, arigatō gozaimashita." }, "note": "Professor: くださる, com a forma て くださって." },
-          { "q": "(chefe) Ele esperou você chegar. · 待つ", "a": { "jp": "待ってくださって、ありがとうございました。", "kana": "まってくださって、ありがとうございました。", "romaji": "Matte kudasatte, arigatō gozaimashita." } },
-          { "q": "(a mãe da família que te recebeu) Ela fez o jantar para você. · ばんごはんを作る", "a": { "jp": "ばんごはんを作ってくださって、ありがとうございました。", "kana": "ばんごはんをつくってくださって、ありがとうございました。", "romaji": "Bangohan o tsukutte kudasatte, arigatō gozaimashita." }, "note": "A família que te recebe é めうえ: くださる e ありがとうございました." }
+          { "q": "(a friend) He lent you an umbrella. · かさを貸す", "a": { "jp": "かさを貸してくれて、ありがとう。", "kana": "かさをかしてくれて、ありがとう。", "romaji": "Kasa o kashite kurete, arigatō." } },
+          { "q": "(a friend) She came to pick you up at the station. · 駅までむかえに来る", "a": { "jp": "駅までむかえに来てくれて、ありがとう。", "kana": "えきまでむかえにきてくれて、ありがとう。", "romaji": "Eki made mukae ni kite kurete, arigatō." } },
+          { "q": "(a friend) He called you when you were sick. · 病気のとき、電話する", "a": { "jp": "病気のとき、電話してくれて、ありがとう。", "kana": "びょうきのとき、でんわしてくれて、ありがとう。", "romaji": "Byōki no toki, denwa shite kurete, arigatō." }, "note": "する → して → してくれて." },
+          { "q": "(a teacher) She explained the grammar carefully. · ぶんぽうをていねいに教える", "a": { "jp": "先生、ぶんぽうをていねいに教えてくださって、ありがとうございました。", "kana": "せんせい、ぶんぽうをていねいにおしえてくださって、ありがとうございました。", "romaji": "Sensei, bunpō o teinei ni oshiete kudasatte, arigatō gozaimashita." }, "note": "A teacher: くださる, with the て-form くださって." },
+          { "q": "(your boss) He waited for you to arrive. · 待つ", "a": { "jp": "待ってくださって、ありがとうございました。", "kana": "まってくださって、ありがとうございました。", "romaji": "Matte kudasatte, arigatō gozaimashita." } },
+          { "q": "(the mother of your host family) She made dinner for you. · ばんごはんを作る", "a": { "jp": "ばんごはんを作ってくださって、ありがとうございました。", "kana": "ばんごはんをつくってくださって、ありがとうございました。", "romaji": "Bangohan o tsukutte kudasatte, arigatō gozaimashita." }, "note": "Your host family is めうえ: くださる and ありがとうございました." }
         ]
       },
       {
         "id": "h2",
-        "type": "transformar",
-        "prompt": "Você ficou aliviado ou contente com cada fato. Reescreva com 〜て、よかったです: verbo na forma て, 〜なくて (negativo), 〜くて (adjetivo い) ou 〜で (adjetivo な e substantivo).",
+        "type": "transform",
+        "prompt": "You felt relieved or happy about each fact. Rewrite it with 〜て、よかったです: verb in the て-form, 〜なくて (negative), 〜くて (い-adjective) or 〜で (な-adjective and noun).",
         "items": [
           { "q": "日本に来ました。", "a": { "jp": "日本に来て、よかったです。", "kana": "にほんにきて、よかったです。", "romaji": "Nihon ni kite, yokatta desu." } },
-          { "q": "雨が降りませんでした。", "a": { "jp": "雨が降らなくて、よかったです。", "kana": "あめがふらなくて、よかったです。", "romaji": "Ame ga furanakute, yokatta desu." }, "note": "Negativo: 降らない → 降らなくて." },
-          { "q": "テストはやさしかったです。", "a": { "jp": "テストがやさしくて、よかったです。", "romaji": "Tesuto ga yasashikute, yokatta desu." }, "note": "Adjetivo い: やさしい → やさしくて. Dentro do bloco, o sujeito costuma vir com が." },
-          { "q": "ホテルの部屋はしずかでした。", "a": { "jp": "ホテルの部屋がしずかで、よかったです。", "kana": "ホテルのへやがしずかで、よかったです。", "romaji": "Hoteru no heya ga shizuka de, yokatta desu." }, "note": "Adjetivo な: しずか → しずかで." },
-          { "q": "友だちに会えました。", "a": { "jp": "友だちに会えて、よかったです。", "kana": "ともだちにあえて、よかったです。", "romaji": "Tomodachi ni aete, yokatta desu." }, "note": "O potencial (Aula 13-1) também vai para a forma て: 会える → 会えて." },
-          { "q": "天気がよかったです。", "a": { "jp": "天気がよくて、よかったです。", "kana": "てんきがよくて、よかったです。", "romaji": "Tenki ga yokute, yokatta desu." }, "note": "いい → よくて, nunca いくて." }
+          { "q": "雨が降りませんでした。", "a": { "jp": "雨が降らなくて、よかったです。", "kana": "あめがふらなくて、よかったです。", "romaji": "Ame ga furanakute, yokatta desu." }, "note": "Negative: 降らない → 降らなくて." },
+          { "q": "テストはやさしかったです。", "a": { "jp": "テストがやさしくて、よかったです。", "romaji": "Tesuto ga yasashikute, yokatta desu." }, "note": "い-adjective: やさしい → やさしくて. Inside the block, the subject usually takes が." },
+          { "q": "ホテルの部屋はしずかでした。", "a": { "jp": "ホテルの部屋がしずかで、よかったです。", "kana": "ホテルのへやがしずかで、よかったです。", "romaji": "Hoteru no heya ga shizuka de, yokatta desu." }, "note": "な-adjective: しずか → しずかで." },
+          { "q": "友だちに会えました。", "a": { "jp": "友だちに会えて、よかったです。", "kana": "ともだちにあえて、よかったです。", "romaji": "Tomodachi ni aete, yokatta desu." }, "note": "The potential (lesson 13-1) takes the て-form too: 会える → 会えて." },
+          { "q": "天気がよかったです。", "a": { "jp": "天気がよくて、よかったです。", "kana": "てんきがよくて、よかったです。", "romaji": "Tenki ga yokute, yokatta desu." }, "note": "いい → よくて, never いくて." }
         ]
       },
       {
         "id": "h3",
-        "type": "completar",
-        "prompt": "Complete com はずです, はずでした ou つもりです. Leia o contexto entre parênteses antes de escolher.",
+        "type": "fill",
+        "prompt": "Fill in はずです, はずでした or つもりです. Read the context in brackets before you choose.",
         "items": [
-          { "q": "(ele acorda sempre às 7, e agora são 9) 田中さんはもう起きている＿。", "a": { "jp": "田中さんはもう起きているはずです。", "kana": "たなかさんはもうおきているはずです。", "romaji": "Tanaka-san wa mō okite iru hazu desu." }, "note": "Expectativa pelos fatos (o horário dele): はずです." },
-          { "q": "(é um plano seu) 来年、日本にりゅうがくする＿。", "a": { "jp": "来年、日本にりゅうがくするつもりです。", "kana": "らいねん、にほんにりゅうがくするつもりです。", "romaji": "Rainen, Nihon ni ryūgaku suru tsumori desu." }, "note": "A decisão é sua: つもり, e não はず." },
-          { "q": "(no fim, começou às 7) パーティーは六時に始まる＿が、七時に始まりました。", "a": { "jp": "パーティーは六時に始まるはずでしたが、七時に始まりました。", "kana": "パーティーはろくじにはじまるはずでしたが、しちじにはじまりました。", "romaji": "Pātī wa rokuji ni hajimaru hazu deshita ga, shichiji ni hajimarimashita." }, "note": "Era o previsto, mas não aconteceu: はずでした + が." },
-          { "q": "(hoje é domingo) 今日は日曜日だから、銀行は休み＿。", "a": { "jp": "今日は日曜日だから、銀行は休みのはずです。", "kana": "きょうはにちようびだから、ぎんこうはやすみのはずです。", "romaji": "Kyō wa nichiyōbi da kara, ginkō wa yasumi no hazu desu." }, "note": "Substantivo + の + はず." },
-          { "q": "(é um restaurante famoso) あのレストランは有名だから、おいしい＿。", "a": { "jp": "あのレストランは有名だから、おいしいはずです。", "kana": "あのレストランはゆうめいだから、おいしいはずです。", "romaji": "Ano resutoran wa yūmei da kara, oishii hazu desu." }, "note": "Adjetivo い entra direto: おいしいはずです." },
-          { "q": "(ela disse que hoje está ocupada) マリアさんは今日のパーティーに来ない＿。", "a": { "jp": "マリアさんは今日のパーティーに来ないはずです。", "kana": "マリアさんはきょうのパーティーにこないはずです。", "romaji": "Maria-san wa kyō no pātī ni konai hazu desu." }, "note": "O negativo fica dentro do bloco: 来ないはずです = \"não deve vir\"." }
+          { "q": "(he always gets up at 7, and it's 9 now) 田中さんはもう起きている＿。", "a": { "jp": "田中さんはもう起きているはずです。", "kana": "たなかさんはもうおきているはずです。", "romaji": "Tanaka-san wa mō okite iru hazu desu." }, "note": "An expectation based on facts (his schedule): はずです." },
+          { "q": "(it's your own plan) 来年、日本にりゅうがくする＿。", "a": { "jp": "来年、日本にりゅうがくするつもりです。", "kana": "らいねん、にほんにりゅうがくするつもりです。", "romaji": "Rainen, Nihon ni ryūgaku suru tsumori desu." }, "note": "It's your decision: つもり, not はず." },
+          { "q": "(in the end, it started at 7) パーティーは六時に始まる＿が、七時に始まりました。", "a": { "jp": "パーティーは六時に始まるはずでしたが、七時に始まりました。", "kana": "パーティーはろくじにはじまるはずでしたが、しちじにはじまりました。", "romaji": "Pātī wa rokuji ni hajimaru hazu deshita ga, shichiji ni hajimarimashita." }, "note": "It was planned but didn't happen: はずでした + が." },
+          { "q": "(today is Sunday) 今日は日曜日だから、銀行は休み＿。", "a": { "jp": "今日は日曜日だから、銀行は休みのはずです。", "kana": "きょうはにちようびだから、ぎんこうはやすみのはずです。", "romaji": "Kyō wa nichiyōbi da kara, ginkō wa yasumi no hazu desu." }, "note": "Noun + の + はず." },
+          { "q": "(it's a famous restaurant) あのレストランは有名だから、おいしい＿。", "a": { "jp": "あのレストランは有名だから、おいしいはずです。", "kana": "あのレストランはゆうめいだから、おいしいはずです。", "romaji": "Ano resutoran wa yūmei da kara, oishii hazu desu." }, "note": "An い-adjective goes straight in: おいしいはずです." },
+          { "q": "(she said she's busy today) マリアさんは今日のパーティーに来ない＿。", "a": { "jp": "マリアさんは今日のパーティーに来ないはずです。", "kana": "マリアさんはきょうのパーティーにこないはずです。", "romaji": "Maria-san wa kyō no pātī ni konai hazu desu." }, "note": "The negative stays inside the block: 来ないはずです = \"she isn't expected to come\"." }
         ]
       },
       {
         "id": "h4",
-        "type": "produzir",
-        "prompt": "Você passou uma semana na casa de uma família japonesa. Escreva uma mensagem de agradecimento em 4–5 frases: uma com 〜てくださって、ありがとうございました, uma com 〜てよかったです e uma com 〜はずでしたが. Depois leia em voz alta e grave no celular.",
+        "type": "produce",
+        "prompt": "You spent a week with a Japanese host family. Write a thank-you message in 4–5 sentences: one with 〜てくださって、ありがとうございました, one with 〜てよかったです and one with 〜はずでしたが. Then read it aloud and record yourself on your phone.",
         "items": [
-          { "q": "Modelo, que o seu texto deve seguir na estrutura e não nas palavras:", "a": { "jp": "一週間、本当にありがとうございました。空港までむかえに来てくださって、ありがとうございました。みなさんに会えて、本当によかったです。京都にも行くはずでしたが、台風で行けませんでした。また会いたいです。", "kana": "いっしゅうかん、ほんとうにありがとうございました。くうこうまでむかえにきてくださって、ありがとうございました。みなさんにあえて、ほんとうによかったです。きょうとにもいくはずでしたが、たいふうでいけませんでした。またあいたいです。", "romaji": "Isshūkan, hontō ni arigatō gozaimashita. Kūkō made mukae ni kite kudasatte, arigatō gozaimashita. Minasan ni aete, hontō ni yokatta desu. Kyōto ni mo iku hazu deshita ga, taifū de ikemasen deshita. Mata aitai desu.", "pt": "Muito obrigado(a) por esta semana. Obrigado(a) por terem ido me buscar no aeroporto. Foi muito bom conhecer vocês. Era para eu ir a Quioto também, mas não deu por causa do tufão. Quero ver vocês de novo." }, "note": "Confira: くださって (e não くれて) para a família, よかったです no passado, はずでした seguido de が e do que deu errado, e o predicado sempre no fim." }
+          { "q": "Model (match its structure, not its words):", "a": { "jp": "一週間、本当にありがとうございました。空港までむかえに来てくださって、ありがとうございました。みなさんに会えて、本当によかったです。京都にも行くはずでしたが、台風で行けませんでした。また会いたいです。", "kana": "いっしゅうかん、ほんとうにありがとうございました。くうこうまでむかえにきてくださって、ありがとうございました。みなさんにあえて、ほんとうによかったです。きょうとにもいくはずでしたが、たいふうでいけませんでした。またあいたいです。", "romaji": "Isshūkan, hontō ni arigatō gozaimashita. Kūkō made mukae ni kite kudasatte, arigatō gozaimashita. Minasan ni aete, hontō ni yokatta desu. Kyōto ni mo iku hazu deshita ga, taifū de ikemasen deshita. Mata aitai desu.", "en": "Thank you so much for this week. Thank you for coming to pick me up at the airport. I'm really glad I got to meet you all. I was supposed to go to Kyoto too, but I couldn't because of the typhoon. I'd like to see you again." }, "note": "Check: くださって (not くれて) for the family, よかったです in the past, はずでした followed by が and what went wrong, and the predicate always at the end." }
         ]
       }
     ],
     "workbook": []
   },
   "practice": [
-    { "tool": "Wagotabi", "what": "Jogue nas regiões e níveis N4 e cace nos diálogos 〜てくれて(ありがとう), 〜てよかった e はず. Quando achar um, pause e diga em voz alta: quem fez o favor? o que foi bom? o que era esperado? Registre a sessão em Imersão → Jogos e cole uma dessas frases na 🔬 Anatomia.", "min": 15 },
-    { "tool": "ヅオリンゴー · Diário", "what": "Escreva 3 frases sobre o seu dia: um agradecimento (〜てくれて、ありがとう), um alívio (〜て、よかったです) e um plano que não deu certo (〜はずでしたが、…). Use \"Anatomia do que escrevi\" para ver se ありがとう, よかったです e o verbo depois do が ficaram como PREDICADO, no fim.", "min": 10 },
-    { "tool": "ヅオリンゴー", "what": "Vocabulário/SRS: revise as palavras da aula no baralho \"🌊 Tudo\". Depois, em Mineração, guarde os 3 exemplos de はず desta aula.", "min": 10 },
-    { "tool": "Shadowing", "what": "Toque 🔊 em cada exemplo e repita junto 3 vezes. Em くださって, o っ vale uma batida inteira: く・だ・さ・っ・て.", "min": 5 },
-    { "tool": "Fala", "what": "Grave a mensagem de agradecimento (lição de casa h4) em até 40 s, como um áudio para a família que te recebeu. Ouça e confira se usou くださって, e não くれて.", "min": 5 }
+    { "tool": "Wagotabi", "what": "Play in the N4 areas and hunt in the dialogues for 〜てくれて(ありがとう), 〜てよかった and はず. When you find one, pause and say aloud: who did the favor? what turned out well? what was expected? Log the session in Immersion → Games and paste one of those lines into 🔬 Anatomy.", "min": 15 },
+    { "tool": "ヅオリンゴー · Journal", "what": "Write 3 sentences about your day: a thank-you (〜てくれて、ありがとう), a relief (〜て、よかったです) and a plan that didn't work out (〜はずでしたが、…). Use \"Anatomy of what I wrote\" to check that ありがとう, よかったです and the verb after が ended up as the PREDICATE, at the end.", "min": 10 },
+    { "tool": "ヅオリンゴー", "what": "Vocabulary/SRS: review this lesson's words in the 🌊 All deck. Then, in Mining, save the 3 はず examples from this lesson.", "min": 10 },
+    { "tool": "Shadowing", "what": "Tap 🔊 on each example and repeat along 3 times. In くださって, the っ takes a full beat: く・だ・さ・っ・て.", "min": 5 },
+    { "tool": "Speaking", "what": "Record the thank-you message (homework h4) in 40 seconds or less, like a voice message to your host family. Listen and check that you used くださって, not くれて.", "min": 5 }
   ],
   "culture": {
-    "title": "Bom trabalho: おつかれさまです",
+    "title": "Thanks for your hard work: おつかれさまです",
     "titleJp": "おつかれさまです",
-    "body": "**おつかれさまです** é uma das frases mais ouvidas em escritórios, escolas e grupos no Japão. Ao pé da letra, reconhece que o outro \"se cansou\" trabalhando; na prática, funciona como um \"bom trabalho\" e até como um \"oi\" entre colegas, ao cruzar alguém da empresa no corredor ou no começo de uma mensagem de trabalho. No fim do expediente, quem sai costuma dizer **おさきにしつれいします** (\"com licença, vou saindo antes\"), e quem fica responde **おつかれさまでした**. A frase também fecha esforços em grupo: o fim de um evento, de um treino do clube, de uma prova. Existe ainda **ごくろうさま**, parecida, mas muita gente acha que ela só deve ir de cima para baixo (do chefe para o funcionário); para um superior, o seguro é おつかれさまです. Entre amigos, a forma curta **おつかれ！** é comum.",
-    "try": "Treine a troca do fim do dia em voz alta, fazendo as duas partes: おさきにしつれいします。— おつかれさまでした。 Depois junte com esta aula: no fim de um trabalho em grupo, diga a um colega てつだってくれて、ありがとう。おつかれさま！"
+    "body": "**おつかれさまです** is one of the most common phrases in Japanese offices, schools and groups. Literally it acknowledges that the other person \"has tired themselves out\" working; in practice it works like \"thanks for your hard work\" and even as a \"hi\" between colleagues, when you pass someone from your company in the hallway or at the start of a work message. At the end of the day, the person leaving usually says **おさきにしつれいします** (\"excuse me for leaving before you\"), and those who stay answer **おつかれさまでした**. The phrase also closes group efforts: the end of an event, a club practice, an exam. There is also **ごくろうさま**, which is similar, but many people feel it should only go downward (from a boss to a staff member); toward a superior, the safe choice is おつかれさまです. Among friends, the short form **おつかれ！** is common.",
+    "try": "Practice the end-of-day exchange aloud, playing both parts: おさきにしつれいします。— おつかれさまでした。 Then combine it with this lesson: at the end of a group task, say to a classmate てつだってくれて、ありがとう。おつかれさま！"
   },
   "checklist": [
-    "Agradeço um favor com 〜てくれて、ありがとう (amigos) e 〜てくださって、ありがとうございました (professor, chefe), sem olhar.",
-    "Digo くださって, e não くださいて, na forma て de くださる.",
-    "Digo \"que bom que…\" com a forma certa de cada tipo: 来て, 降らなくて, やさしくて, しずかで + よかったです.",
-    "Separo 〜てよかったです (fiz, que bom) de 〜ばよかったです (não fiz, pena).",
-    "Uso はずです para o que os fatos indicam, com な (adjetivo な) e の (substantivo) nos lugares certos, e はずでしたが para o que era previsto e não aconteceu.",
-    "Não uso はず para obrigação (\"você deve…\") nem para planos meus (つもり).",
-    "Fiz a lição de casa e conferi o gabarito, e refiz o que errei.",
-    "Se tenho o Genki II Workbook, fiz os exercícios da Lição 19 sobre estes três pontos."
+    "I can thank someone for a favor with 〜てくれて、ありがとう (friends) and 〜てくださって、ありがとうございました (a teacher, a boss) without looking.",
+    "I say くださって, not くださいて, as the て-form of くださる.",
+    "I say \"I'm glad that…\" with the right form for each word type: 来て, 降らなくて, やさしくて, しずかで + よかったです.",
+    "I can tell 〜てよかったです (I did it, and I'm glad) from 〜ばよかったです (I didn't, and it's a pity).",
+    "I use はずです for what the facts point to, with な (な-adjectives) and の (nouns) in the right places, and はずでしたが for what was planned and didn't happen.",
+    "I don't use はず for advice or obligation (\"you should…\") or for my own plans (つもり).",
+    "I did the homework, checked it against the answer key and redid what I got wrong.",
+    "If I have the Genki II Workbook, I did the Lesson 19 exercises on these three points."
   ]
 }

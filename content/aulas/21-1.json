@@ -1,0 +1,216 @@
+{
+  "id": "21-1",
+  "unit": "G2-L21",
+  "genki": { "book": "Genki II", "lesson": 21, "points": ["Passive Sentences"] },
+  "title": "The passive voice",
+  "titleJp": "雨にふられました",
+  "canDo": [
+    "I can form the passive of any verb: る-verbs (ほめられる), う-verbs (読まれる, 笑われる), する (される) and くる (来られる).",
+    "I can say what someone did to me, with me as the topic (は) and the doer marked by に: 私は先生にほめられました。",
+    "I can complain about something done to my things with [my thing]を + passive: 弟にケーキを食べられました。",
+    "I can use the \"suffering\" passive with verbs like ふる, 来る and 立つ to say that something happened and it bothered me: 雨にふられました。",
+    "I can tell the passive 食べられる (be eaten) from the potential 食べられる (can eat) by looking at the particles and the context."
+  ],
+  "duration": {
+    "total": "60–75 min",
+    "blocks": [
+      { "t": "Warm-up: say the potential of 食べる, 読む, する and くる out loud (lesson 13-1) — you will need it to tell the passive apart", "min": 5 },
+      { "t": "Vocabulary: tap 🔊 on each word and repeat it twice", "min": 10 },
+      { "t": "Grammar 4a: forming the passive, with the conjugation table in your notebook and one 🔬", "min": 15 },
+      { "t": "Grammar 4b and 4c: who did what to whom, and the suffering passive, each with one 🔬", "min": 15 },
+      { "t": "Lesson 21 video (block 6), only the part on the passive", "min": 10 },
+      { "t": "Notebook homework + checking it against the answer key", "min": 15 },
+      { "t": "Checklist (block 10) + write your questions in the lesson notebook", "min": 5 }
+    ]
+  },
+  "prereqs": {
+    "aulas": ["20-3"],
+    "skills": [
+      "Knowing the three verb groups and the ない-form (lesson 08-1). The passive of an う-verb is built on the same a-sound as the ない-form: 読まない → 読まれる.",
+      "Knowing the potential form (lesson 13-1). For る-verbs it looks exactly like the passive (食べられる), so you need it to tell the two apart.",
+      "Knowing that に can mark the person something comes from, as in 友だちにもらいました (lesson 14-2). In the passive, に marks the doer in a similar way.",
+      "Conjugating a る-verb in the polite and short forms: every passive verb conjugates like one (〜られます, 〜られた, 〜られて)."
+    ],
+    "vocab": [
+      { "jp": "ほめる", "kana": "ほめる", "romaji": "homeru", "en": "to praise" },
+      { "jp": "しかる", "kana": "しかる", "romaji": "shikaru", "en": "to scold" },
+      { "jp": "注意（する）", "kana": "ちゅうい（する）", "romaji": "chūi (suru)", "en": "warning; to warn, to tell someone off" },
+      { "jp": "起こす", "kana": "おこす", "romaji": "okosu", "en": "to wake (someone) up" },
+      { "jp": "笑う", "kana": "わらう", "romaji": "warau", "en": "to laugh; to laugh at" },
+      { "jp": "なく", "kana": "なく", "romaji": "naku", "en": "to cry" },
+      { "jp": "かむ", "kana": "かむ", "romaji": "kamu", "en": "to bite" },
+      { "jp": "ふむ", "kana": "ふむ", "romaji": "fumu", "en": "to step on" },
+      { "jp": "足", "kana": "あし", "romaji": "ashi", "en": "foot; leg" },
+      { "jp": "ぬすむ", "kana": "ぬすむ", "romaji": "nusumu", "en": "to steal" },
+      { "jp": "とる", "kana": "とる", "romaji": "toru", "en": "to take; to steal (とられる = to have something taken)" },
+      { "jp": "どろぼう", "kana": "どろぼう", "romaji": "dorobō", "en": "thief" },
+      { "jp": "さいふ", "kana": "さいふ", "romaji": "saifu", "en": "wallet" },
+      { "jp": "自転車", "kana": "じてんしゃ", "romaji": "jitensha", "en": "bicycle" },
+      { "jp": "雨がふる", "kana": "あめがふる", "romaji": "ame ga furu", "en": "it rains [lit. rain falls]" },
+      { "jp": "立つ", "kana": "たつ", "romaji": "tatsu", "en": "to stand up" },
+      { "jp": "赤ちゃん", "kana": "あかちゃん", "romaji": "akachan", "en": "baby" },
+      { "jp": "夜中", "kana": "よなか", "romaji": "yonaka", "en": "the middle of the night" },
+      { "jp": "知らない人", "kana": "しらないひと", "romaji": "shiranai hito", "en": "a stranger [lit. a person I don't know]" },
+      { "jp": "ルームメイト", "kana": "ルームメイト", "romaji": "rūmumeito", "en": "roommate" },
+      { "jp": "店長", "kana": "てんちょう", "romaji": "tenchō", "en": "store manager" },
+      { "jp": "日記", "kana": "にっき", "romaji": "nikki", "en": "diary" },
+      { "jp": "多くの", "kana": "おおくの", "romaji": "ōku no", "en": "many (a little more formal than たくさんの)" },
+      { "jp": "こまる", "kana": "こまる", "romaji": "komaru", "en": "to be in trouble, to be at a loss" }
+    ]
+  },
+  "grammar": [
+    {
+      "id": "21-1-a",
+      "gc": null,
+      "title": "Forming the passive",
+      "gloss": "to be done (by someone)",
+      "explanation": "The passive tells an event from the side of **the one it happened to**. English does this with \"be + -ed\" (I was praised); Japanese changes the ending of the verb.\n\n**How to form it:**\n• **る-verbs:** drop る, add **られる** → ほめる → ほめ**られる**, 食べる → 食べ**られる**.\n• **う-verbs:** change the final u-sound to its **a-sound** and add **れる** → 読む → 読**まれる**, 書く → 書**かれる**, 待つ → 待**たれる**, 起こす → 起こ**される**. It is the same a-sound as in the ない-form (読まない). A verb ending in う takes **わ**: 笑う → 笑**われる**, 言う → 言**われる**.\n• **する → される** (注意する → 注意**される**). **くる → こられる** (来られる).\n\nEvery passive verb ends in 〜れる, so it **conjugates like a る-verb**: ほめられます, ほめられました, ほめられない, ほめられて.\n\n**The look-alike: passive or potential?** For る-verbs and for くる, the passive looks exactly like the potential of lesson 13-1: 食べられる can mean \"can eat\" or \"be eaten\", and 来られる can be \"can come\" or the passive of 来る. For う-verbs and する there is no problem: 読める (can read) ≠ 読まれる (be read); できる (can do) ≠ される (be done). To decide, look at the **particles and the context**:\n• A **doer with に** and something that happens to someone → passive: 弟にケーキを食べられました (my little brother ate my cake).\n• An ability, often with が, and no doer → potential: 私はさしみが食べられます (I can eat sashimi).\n• In casual speech many people drop the ら of the potential (食べれる). The passive always keeps its ら.",
+      "structure": "る-verb: 〜る → 〜られる · う-verb: u → a + れる (読む → 読まれる, 笑う → 笑われる) · する → される · くる → こられる",
+      "examples": [
+        { "jp": "私は先生にほめられました。", "kana": "わたしはせんせいにほめられました。", "romaji": "Watashi wa sensei ni homeraremashita.", "en": "I was praised by my teacher. [lit. as for me, (I) was praised by the teacher]" },
+        { "jp": "私はゆうべルームメイトに起こされました。", "kana": "わたしはゆうべルームメイトにおこされました。", "romaji": "Watashi wa yūbe rūmumeito ni okosaremashita.", "en": "Last night I was woken up by my roommate." },
+        { "jp": "ジョンさんは店長に注意されました。", "kana": "ジョンさんはてんちょうにちゅういされました。", "romaji": "Jon-san wa tenchō ni chūi saremashita.", "en": "John was told off by the store manager." }
+      ],
+      "pitfalls": [
+        "Verbs ending in う take わ, not あ: 笑あれる ✗ → 笑われる ✓; 言あれる ✗ → 言われる ✓ (the same わ as in 笑わない).",
+        "The passive of する is される: 注意しられました ✗ → 注意されました ✓.",
+        "くる becomes こられる, with こ: きられる ✗ → 来られる (こられる) ✓.",
+        "Don't use the potential of an う-verb when you mean the passive: 母に日記を読めました ✗ (読める means \"can read\") → 母に日記を読まれました ✓ (my mother read my diary, and I didn't like it)."
+      ],
+      "howToStudy": [
+        "In your notebook, make a table with 3 columns (dictionary form → ない-form → passive) for 8 verbs: 食べる, 見る, 読む, 書く, 笑う, 起こす, する, くる. For the う-verbs, circle the a-sound that the ない-form and the passive share.",
+        "Tap 🔬 on example 1: 私は shows up as TOPIC (the one it happened to), 先生に as TARGET and ほめられました as the PREDICATE. In a passive sentence, read the に-block as \"by whom\": the doer. Read from the end: was praised → by whom? the teacher → who was? me.",
+        "Say out loud, fast, the passive of 10 verbs while looking only at the dictionary form. Then, for 食べる, say one sentence with the passive (弟に食べられました) and one with the potential (さしみが食べられます)."
+      ],
+      "flag": "Check in your Genki II that this lesson has these points in this order."
+    },
+    {
+      "id": "21-1-b",
+      "gc": null,
+      "title": "[the one affected] は [the doer] に + passive",
+      "gloss": "who did what to whom",
+      "explanation": "A passive sentence has **three blocks** to keep apart:\n• **[the one affected] は** — the TOPIC: the person (or thing) the event happened to. Very often it is 私, and then it is usually dropped.\n• **[the doer] に** — who did it, like English \"by\". It can be left out when it doesn't matter or you don't know who it was.\n• **[the passive verb]** — the PREDICATE, at the end. Read it first.\n\nCompare the two points of view:\n• Active: 先生は私をほめました。 (The teacher praised me.) The doer is the topic, and I am the object.\n• Passive: 私は先生にほめられました。 (I was praised by the teacher.) Now I am the topic, and the doer moves to に.\n\n**When your THING is affected.** English says \"my cake was eaten\". Japanese usually tells it from **your** side: **you** had your cake eaten. [person]は [doer]に **[the thing]を** + passive. The thing keeps its を, and 私の disappears: the topic already says whose it is.\n• 私は弟にケーキを食べられました。 (My little brother ate my cake.)\n• This pattern almost always means **you were bothered**: something was done to you or to your things.\n\n**Things as the topic.** When the doer is \"people in general\" or doesn't matter, a thing can be the topic, with no complaint at all: この本は多くの人に読まれています (This book is read by many people). You'll see this style a lot in news and in writing.",
+      "structure": "[the one affected] は [the doer] に ([the thing] を) [passive]。",
+      "examples": [
+        { "jp": "私は弟にケーキを食べられました。", "kana": "わたしはおとうとにケーキをたべられました。", "romaji": "Watashi wa otōto ni kēki o taberaremashita.", "en": "My little brother ate my cake. [lit. I had my cake eaten by my little brother]" },
+        { "jp": "私は駅の前で自転車をぬすまれました。", "kana": "わたしはえきのまえでじてんしゃをぬすまれました。", "romaji": "Watashi wa eki no mae de jitensha o nusumaremashita.", "en": "My bicycle was stolen in front of the station. [lit. I had my bicycle stolen]" },
+        { "jp": "この本は多くの人に読まれています。", "kana": "このほんはおおくのひとによまれています。", "romaji": "Kono hon wa ōku no hito ni yomarete imasu.", "en": "This book is read by many people." }
+      ],
+      "pitfalls": [
+        "Don't swap the roles: 先生は私にほめられました ✗ says that YOU praised the teacher. The one affected takes は and the doer takes に: 私は先生にほめられました ✓.",
+        "The doer of a passive takes に, not が: 私は犬がかまれました ✗ → 私は犬にかまれました ✓ (I was bitten by a dog). With が, use the active verb: 犬が私をかみました ✓.",
+        "With the one affected as the topic and the doer in に, the verb must be passive: 私は弟にケーキを食べました ✗ → 私は弟にケーキを食べられました ✓."
+      ],
+      "howToStudy": [
+        "Flip 3 active sentences into the passive, out loud: 母は私をしかりました → 私は母にしかられました. For each pair, point at who moved to は and who moved to に.",
+        "Tap 🔬 on example 1: 私は = TOPIC (who it happened to), 弟に = TARGET (read it as \"by\": the doer), ケーキを = OBJECT (your thing), 食べられました = PREDICATE. Then tap 🔬 on example 2: there is no doer block at all — nobody knows who the thief was.",
+        "Write 3 true sentences about things done to you, good or bad: 〜にほめられました, 〜に〜をとられました, 〜にしかられました."
+      ],
+      "flag": null
+    },
+    {
+      "id": "21-1-c",
+      "gc": null,
+      "title": "The \"suffering\" passive",
+      "gloss": "something happened, and it bothered me",
+      "explanation": "Japanese can put into the passive even verbs that have **no object**, like ふる (rain falls), 来る, 立つ or なく (to cry). English can't do this — \"I was rained\" is impossible. In Japanese it means **\"this happened, and I suffered because of it\"**.\n• 雨にふられました。 — It rained on me (and I got wet, or my plans were ruined). [lit. I was rained on]\n• 友だちに来られました。 — A friend showed up (when I didn't want visitors). Compare 友だちが来ました: just \"a friend came\", with no feeling.\n\n**The blocks are the same as in 4b:** [the one who suffered]は | [the cause]に | [passive verb]. The one who suffered is almost always 私, so it is usually dropped. The に-block is the person or thing that caused the trouble: 雨に, 友だちに, 赤ちゃんに.\n• Often a て-clause or a second sentence says **what the damage was**: 前の人に立たれて、ステージが見えませんでした (the person in front of me stood up, and I couldn't see the stage).\n• The sentences with **your thing + を** in 4b (弟にケーキを食べられました) carry the same feeling of annoyance.\n• If nothing bothered you, don't use this passive: say what happened with the active verb (友だちが来ました).",
+      "structure": "([the one who suffered] は) [the cause] に [verb without an object, in the passive]。",
+      "examples": [
+        { "jp": "きのう、学校から帰る時に雨にふられました。", "kana": "きのう、がっこうからかえるときにあめにふられました。", "romaji": "Kinō, gakkō kara kaeru toki ni ame ni furaremashita.", "en": "Yesterday it rained on me on my way home from school. [lit. I was rained on]" },
+        { "jp": "コンサートで、前の人に立たれて、ステージが見えませんでした。", "kana": "コンサートで、まえのひとにたたれて、ステージがみえませんでした。", "romaji": "Konsāto de, mae no hito ni tatarete, sutēji ga miemasen deshita.", "en": "At the concert, the person in front of me stood up, and I couldn't see the stage." },
+        { "jp": "夜中に、となりの部屋の赤ちゃんになかれました。", "kana": "よなかに、となりのへやのあかちゃんになかれました。", "romaji": "Yonaka ni, tonari no heya no akachan ni nakaremashita.", "en": "In the middle of the night, the baby in the next room cried (and it kept me up)." }
+      ],
+      "pitfalls": [
+        "The cause of the trouble takes に, not が: 雨がふられました ✗ → 雨にふられました ✓.",
+        "Don't use it for happy events: パーティーに友だちに来られて、うれしかったです ✗ (the passive says you were bothered) → パーティーに友だちが来てくれて、うれしかったです ✓ (a favor, lesson 16-1).",
+        "The one who suffered is the topic (usually hidden), not the cause: 雨は私にふられました ✗ → (私は) 雨にふられました ✓."
+      ],
+      "howToStudy": [
+        "Tap 🔬 on example 1: 雨に shows up as TARGET — here it is the cause of the trouble — and ふられました as the PREDICATE. The one who got wet (私) is not in the sentence at all: ask yourself who it happened to.",
+        "Say 3 pairs out loud, neutral → suffering: 雨がふりました → 雨にふられました; 友だちが来ました → 友だちに来られました; 赤ちゃんがなきました → 赤ちゃんになかれました. Notice how が becomes に.",
+        "Tell a small bad day out loud in 3 sentences, with at least 2 passives (雨にふられて…, 〜をとられて…). Record it on your phone."
+      ],
+      "flag": null
+    }
+  ],
+  "media": [
+    { "order": 1, "kind": "reading", "title": "Genki II · Lesson 21: the dialogue, vocabulary and grammar notes on Passive Sentences", "where": "Your Genki II textbook", "url": "", "when": "Before this lesson or right after the grammar block. The other points of Lesson 21 are in lesson 21-2." },
+    { "order": 2, "kind": "video", "title": "Japanese Ammo with Misa: the passive form", "where": "YouTube · Japanese Ammo with Misa channel", "url": "", "search": "Japanese Ammo with Misa passive form", "when": "Optional, if you want a third explanation after the grammar block" }
+  ],
+  "homework": {
+    "intro": "Do it by hand in your notebook. Write the Japanese with the kanji you know and kana for the rest. Only then open the answer key, item by item. Circle what you got wrong and redo it the next day. If you have the Genki II Workbook, do this lesson's exercises too.",
+    "tasks": [
+      {
+        "id": "h1",
+        "type": "transform",
+        "prompt": "Write the passive: first the dictionary form, then the polite past.",
+        "items": [
+          { "q": "ほめる", "a": { "jp": "ほめられる → ほめられました", "romaji": "homerareru → homeraremashita" }, "note": "る-verb: drop る, add られる." },
+          { "q": "読む", "a": { "jp": "読まれる → 読まれました", "kana": "よまれる → よまれました", "romaji": "yomareru → yomaremashita" }, "note": "う-verb: む → ま + れる, the same a-sound as 読まない." },
+          { "q": "笑う", "a": { "jp": "笑われる → 笑われました", "kana": "わらわれる → わらわれました", "romaji": "warawareru → warawaremashita" }, "note": "Verbs in う take わ, as in 笑わない." },
+          { "q": "起こす", "a": { "jp": "起こされる → 起こされました", "kana": "おこされる → おこされました", "romaji": "okosareru → okosaremashita" } },
+          { "q": "注意する", "a": { "jp": "注意される → 注意されました", "kana": "ちゅういされる → ちゅういされました", "romaji": "chūi sareru → chūi saremashita" }, "note": "する → される." },
+          { "q": "来る", "a": { "jp": "来られる → 来られました", "kana": "こられる → こられました", "romaji": "korareru → koraremashita" }, "note": "Read 来 as こ here. It looks exactly like the potential of くる: only the context tells them apart." }
+        ]
+      },
+      {
+        "id": "h2",
+        "type": "transform",
+        "prompt": "Tell the same event from the side of the one affected: rewrite each sentence in the passive. The one affected goes to は, the doer to に, and a thing of yours keeps を.",
+        "items": [
+          { "q": "先生は私をほめました。", "a": { "jp": "私は先生にほめられました。", "kana": "わたしはせんせいにほめられました。", "romaji": "Watashi wa sensei ni homeraremashita." } },
+          { "q": "犬が弟をかみました。", "a": { "jp": "弟は犬にかまれました。", "kana": "おとうとはいぬにかまれました。", "romaji": "Otōto wa inu ni kamaremashita." } },
+          { "q": "母は私の日記を読みました。", "a": { "jp": "私は母に日記を読まれました。", "kana": "わたしはははににっきをよまれました。", "romaji": "Watashi wa haha ni nikki o yomaremashita." }, "note": "Your thing (日記) keeps を, and 私の disappears: the topic 私は already says whose diary it is." },
+          { "q": "知らない人が電車の中で私の足をふみました。", "a": { "jp": "私は電車の中で知らない人に足をふまれました。", "kana": "わたしはでんしゃのなかでしらないひとにあしをふまれました。", "romaji": "Watashi wa densha no naka de shiranai hito ni ashi o fumaremashita." } },
+          { "q": "どろぼうが私のさいふをとりました。", "a": { "jp": "私はどろぼうにさいふをとられました。", "kana": "わたしはどろぼうにさいふをとられました。", "romaji": "Watashi wa dorobō ni saifu o toraremashita." } },
+          { "q": "クラスのみんなが私を笑いました。", "a": { "jp": "私はクラスのみんなに笑われました。", "kana": "わたしはクラスのみんなにわらわれました。", "romaji": "Watashi wa kurasu no minna ni warawaremashita." }, "note": "笑う → 笑われる: remember the わ." }
+        ]
+      },
+      {
+        "id": "h3",
+        "type": "analyze",
+        "prompt": "Passive or potential? For each sentence, decide which one it is and translate it into English. Look at the particles and the context before you decide.",
+        "items": [
+          { "q": "私はさしみが食べられます。", "a": { "en": "Potential: \"I can eat sashimi.\"" }, "note": "An ability, with が and no doer." },
+          { "q": "私は弟にさしみを食べられました。", "a": { "en": "Passive: \"My little brother ate my sashimi (and I'm annoyed).\"" }, "note": "A doer with に and your thing with を." },
+          { "q": "朝六時に起きられますか。", "a": { "en": "Potential: \"Can you get up at six in the morning?\"" }, "note": "Nobody does anything to anyone here: it is a question about ability." },
+          { "q": "夜中に友だちに来られて、こまりました。", "a": { "en": "Passive (suffering): \"A friend showed up in the middle of the night, and it was a real problem for me.\"" }, "note": "The cause in に (友だちに) and こまりました (I was in trouble) point to the suffering passive." },
+          { "q": "このまんがは世界中で読まれています。", "a": { "en": "Passive: \"This manga is read all over the world.\"" }, "note": "An う-verb: its potential would be 読める, so 読まれる can only be the passive." },
+          { "q": "雨にふられて、服がぬれました。", "a": { "en": "Passive (suffering): \"It rained on me, and my clothes got wet.\"" }, "note": "雨に is the cause of the trouble; ぬれる = to get wet." }
+        ]
+      },
+      {
+        "id": "h4",
+        "type": "produce",
+        "prompt": "Write about a bad day in 4–5 sentences, with at least 3 passives: one where a person does something to you, one with a thing of yours + を, and one suffering passive (ふる, 来る, 立つ, なく…). Then read it aloud and record it on your phone.",
+        "items": [
+          { "q": "Model (match its structure, not its words):", "a": { "jp": "きのうは本当に悪い一日でした。朝、ルームメイトに六時に起こされました。駅に行く時に雨にふられて、服がぬれました。電車の中では、知らない人に足をふまれました。そして、会社で部長にしかられました。", "kana": "きのうはほんとうにわるいいちにちでした。あさ、ルームメイトにろくじにおこされました。えきにいくときにあめにふられて、ふくがぬれました。でんしゃのなかでは、しらないひとにあしをふまれました。そして、かいしゃでぶちょうにしかられました。", "romaji": "Kinō wa hontō ni warui ichinichi deshita. Asa, rūmumeito ni rokuji ni okosaremashita. Eki ni iku toki ni ame ni furarete, fuku ga nuremashita. Densha no naka de wa, shiranai hito ni ashi o fumaremashita. Soshite, kaisha de buchō ni shikararemashita.", "en": "Yesterday was a really bad day. In the morning, my roommate woke me up at six. On my way to the station it rained on me, and my clothes got wet. On the train, a stranger stepped on my foot. And at work, my manager scolded me." }, "note": "Check: the doer with に, your thing with を, a passive verb at the end of each event, and 私は left out once it is clear who the story is about." }
+        ]
+      }
+    ],
+    "workbook": []
+  },
+  "practice": [
+    { "tool": "Wagotabi", "what": "Play at the N4 level. Whenever a line of dialogue has a verb ending in 〜られる, 〜される or 〜a-sound + れる, pause and decide out loud: passive or potential? If it is a passive, say who it happened to and who did it (the に-block). Copy 2 of those lines into your notebook.", "min": 15 },
+    { "tool": "ヅオリンゴー", "what": "Drills → 🔬 Anatomy → 🔬 Analyze: paste the 3 examples of point 4b and check which block is the TOPIC (the one affected) and which に-block is the doer. Then paste the potential sentence 私はすしが食べられます and compare: TOPIC, SUBJECT (すしが) and PREDICATE, but no doer block with に.", "min": 10 },
+    { "tool": "ヅオリンゴー", "what": "Journal: write 3 true sentences with the passive (one good, like ほめられました, and two bad) and check them with \"Anatomy of what I wrote\".", "min": 10 },
+    { "tool": "Shadowing", "what": "Tap 🔊 on each example of this lesson and repeat along 3 times. ほめられました has 7 beats of the same length: ほ・め・ら・れ・ま・し・た.", "min": 5 },
+    { "tool": "Speaking", "what": "Record your bad day (homework h4) in 30–45 seconds. Listen and check the に of each doer and the ending of each passive.", "min": 5 }
+  ],
+  "culture": {
+    "title": "Bicycles: parking and rules",
+    "titleJp": "自転車",
+    "body": "Bicycles are everywhere in Japan: people ride them to the station, to school and to the supermarket, often on a simple city bike with a basket (ママチャリ). You usually **can't leave a bike just anywhere**: near stations there are bicycle parking lots (ちゅうりんじょう), often paid, and bikes left on the sidewalk may be taken away by the city, which then charges a fee to give them back. Most bicycles are registered against theft (ぼうはんとうろく), and the police sometimes stop riders to check that the bike really belongs to them. By law a bicycle counts as a vehicle: in general you ride on the left side of the road, and riding while holding an umbrella or looking at your phone is not allowed. The rules have become stricter in recent years, so check the local rules if you rent a bike.",
+    "try": "Say two passives about a bad bike day, out loud: 駅の前に自転車をとめたら、持って行かれました。 (I parked my bike in front of the station, and it got taken away.) and 自転車をぬすまれました。 (My bike was stolen.) Then say which one was probably the city and which one a thief."
+  },
+  "checklist": [
+    "I can form the passive of 食べる, 読む, 笑う, する and くる without looking.",
+    "I know that every passive verb conjugates like a る-verb (〜られます, 〜られました, 〜られて).",
+    "I put the one affected in は and the doer in に, and I don't swap them.",
+    "I can complain about something done to my things with [thing]を + passive.",
+    "I can use the suffering passive with ふる, 来る, 立つ or なく, and I don't use it for happy events.",
+    "I can tell 食べられる (passive) from 食べられる (potential) by the particles and the context.",
+    "I did the homework, checked it against the answer key and redid what I got wrong.",
+    "If I have the Genki II Workbook, I did its exercises on the passive in Lesson 21."
+  ]
+}

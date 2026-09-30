@@ -2,262 +2,266 @@
   "id": "00-3",
   "unit": "U0",
   "genki": { "book": "Genki I", "lesson": 0, "points": ["Greetings", "Numbers"] },
-  "title": "Cumprimentos e números 0–100",
+  "title": "Greetings and numbers 0–100",
   "titleJp": "あいさつと すうじ",
   "canDo": [
-    "Cumprimentar do jeito certo para a hora do dia: おはようございます, こんにちは, こんばんは.",
-    "Me despedir e dar boa-noite sem confundir さようなら, おやすみなさい e こんばんは.",
-    "Agradecer, pedir licença e me desculpar com ありがとうございます, どうも e すみません, e responder a um obrigado.",
-    "Me apresentar pela primeira vez com はじめまして。〜です。よろしく おねがいします。",
-    "Dizer e entender qualquer número de 0 a 100, incluindo as leituras duplas de 4, 7 e 9."
+    "I can greet people the right way for the time of day: おはようございます, こんにちは, こんばんは.",
+    "I can say goodbye and good night without mixing up さようなら, おやすみなさい and こんばんは.",
+    "I can thank someone, get someone's attention and apologize with ありがとうございます, どうも and すみません, and I can reply to a thank-you.",
+    "I can introduce myself for the first time with はじめまして。〜です。よろしく おねがいします。",
+    "I can say and understand any number from 0 to 100, including the double readings of 4, 7 and 9."
   ],
   "duration": {
     "total": "60–75 min",
     "blocks": [
-      { "t": "Aquecimento: ler em voz alta o vocabulário da aula (bloco 3), só pelo kana", "min": 5 },
-      { "t": "Pontos 4a a 4c: cumprimentos, agradecimentos e apresentação, com 🔊 e repetição", "min": 20 },
-      { "t": "Pontos 4d e 4e: números de 0 a 100, contando em voz alta", "min": 15 },
-      { "t": "Vídeo de cumprimentos e números (bloco 6), pausando para repetir", "min": 10 },
-      { "t": "Lição de casa no caderno + conferir no gabarito", "min": 15 },
-      { "t": "Checklist (bloco 10) + gravar a sua apresentação", "min": 5 }
+      { "t": "Warm-up: read this lesson's vocabulary (block 3) aloud, in kana only", "min": 5 },
+      { "t": "Points 4a to 4c: greetings, thanks and self-introduction, with 🔊 and repetition", "min": 20 },
+      { "t": "Points 4d and 4e: numbers from 0 to 100, counting aloud", "min": 15 },
+      { "t": "Greetings and numbers video (block 6), pausing to repeat", "min": 10 },
+      { "t": "Notebook homework + checking it against the answer key", "min": 15 },
+      { "t": "Checklist (block 10) + recording your self-introduction", "min": 5 }
     ]
   },
   "prereqs": {
-    "aulas": ["00-1"],
+    "aulas": ["00-1", "00-2"],
     "skills": [
-      "Ler hiragana, mesmo devagar: tudo nesta aula está em hiragana, fora ゼロ e alguns nomes.",
-      "Saber o que é vogal longa (Aula 00-1): おはよう, ありがとう, じゅう e きゅう dependem dela."
+      "Reading hiragana and katakana (lessons 00-1 and 00-2), even slowly: the names (マリア, ルーカス) and ゼロ are in katakana, and in the homework you write your own name in katakana.",
+      "Knowing what a long vowel is (lesson 00-1): おはよう, ありがとう, じゅう and きゅう depend on it."
     ],
     "vocab": [
-      { "jp": "おはようございます", "kana": "おはようございます", "romaji": "ohayō gozaimasu", "pt": "bom dia (educado; casual: おはよう)" },
-      { "jp": "こんにちは", "kana": "こんにちは", "romaji": "konnichiwa", "pt": "boa tarde; olá (durante o dia)" },
-      { "jp": "こんばんは", "kana": "こんばんは", "romaji": "konbanwa", "pt": "boa noite (ao chegar ou encontrar alguém)" },
-      { "jp": "さようなら", "kana": "さようなら", "romaji": "sayōnara", "pt": "tchau, adeus" },
-      { "jp": "おやすみなさい", "kana": "おやすみなさい", "romaji": "oyasuminasai", "pt": "boa noite (ao ir dormir; casual: おやすみ)" },
-      { "jp": "すみません", "kana": "すみません", "romaji": "sumimasen", "pt": "com licença; desculpe" },
-      { "jp": "どうも", "kana": "どうも", "romaji": "dōmo", "pt": "obrigado (curto); muito (como reforço)" },
-      { "jp": "ありがとう", "kana": "ありがとう", "romaji": "arigatō", "pt": "obrigado (casual)" },
-      { "jp": "ありがとうございます", "kana": "ありがとうございます", "romaji": "arigatō gozaimasu", "pt": "obrigado (educado)" },
-      { "jp": "いいえ", "kana": "いいえ", "romaji": "iie", "pt": "não; imagina, não foi nada (resposta a um obrigado)" },
-      { "jp": "はじめまして", "kana": "はじめまして", "romaji": "hajimemashite", "pt": "muito prazer (no primeiro encontro)" },
-      { "jp": "よろしく おねがいします", "kana": "よろしく おねがいします", "romaji": "yoroshiku onegaishimasu", "pt": "conto com você; prazer (fecha a apresentação)" },
-      { "jp": "ゼロ／れい", "kana": "ゼロ／れい", "romaji": "zero / rei", "pt": "0" },
-      { "jp": "いち", "kana": "いち", "romaji": "ichi", "pt": "1" },
-      { "jp": "に", "kana": "に", "romaji": "ni", "pt": "2" },
-      { "jp": "さん", "kana": "さん", "romaji": "san", "pt": "3" },
-      { "jp": "よん／し", "kana": "よん／し", "romaji": "yon / shi", "pt": "4" },
-      { "jp": "ご", "kana": "ご", "romaji": "go", "pt": "5" },
-      { "jp": "ろく", "kana": "ろく", "romaji": "roku", "pt": "6" },
-      { "jp": "なな／しち", "kana": "なな／しち", "romaji": "nana / shichi", "pt": "7" },
-      { "jp": "はち", "kana": "はち", "romaji": "hachi", "pt": "8" },
-      { "jp": "きゅう／く", "kana": "きゅう／く", "romaji": "kyū / ku", "pt": "9" },
-      { "jp": "じゅう", "kana": "じゅう", "romaji": "jū", "pt": "10" },
-      { "jp": "ひゃく", "kana": "ひゃく", "romaji": "hyaku", "pt": "100" }
+      { "jp": "おはようございます", "kana": "おはようございます", "romaji": "ohayō gozaimasu", "en": "good morning (polite; casual: おはよう)" },
+      { "jp": "こんにちは", "kana": "こんにちは", "romaji": "konnichiwa", "en": "hello; good afternoon (during the day)" },
+      { "jp": "こんばんは", "kana": "こんばんは", "romaji": "konbanwa", "en": "good evening (when arriving or meeting someone)" },
+      { "jp": "さようなら", "kana": "さようなら", "romaji": "sayōnara", "en": "goodbye" },
+      { "jp": "おやすみなさい", "kana": "おやすみなさい", "romaji": "oyasuminasai", "en": "good night (when going to bed; casual: おやすみ)" },
+      { "jp": "すみません", "kana": "すみません", "romaji": "sumimasen", "en": "excuse me; I'm sorry" },
+      { "jp": "どうも", "kana": "どうも", "romaji": "dōmo", "en": "thanks (short); very (as a booster)" },
+      { "jp": "ありがとう", "kana": "ありがとう", "romaji": "arigatō", "en": "thank you (casual)" },
+      { "jp": "ありがとうございます", "kana": "ありがとうございます", "romaji": "arigatō gozaimasu", "en": "thank you (polite)" },
+      { "jp": "いいえ", "kana": "いいえ", "romaji": "iie", "en": "no; not at all (reply to a thank-you)" },
+      { "jp": "はじめまして", "kana": "はじめまして", "romaji": "hajimemashite", "en": "how do you do? (only at a first meeting)" },
+      { "jp": "よろしく おねがいします", "kana": "よろしく おねがいします", "romaji": "yoroshiku onegaishimasu", "en": "nice to meet you; please treat me kindly (closes an introduction)" },
+      { "jp": "ゼロ／れい", "kana": "ゼロ／れい", "romaji": "zero / rei", "en": "0" },
+      { "jp": "いち", "kana": "いち", "romaji": "ichi", "en": "1" },
+      { "jp": "に", "kana": "に", "romaji": "ni", "en": "2" },
+      { "jp": "さん", "kana": "さん", "romaji": "san", "en": "3" },
+      { "jp": "よん／し", "kana": "よん／し", "romaji": "yon / shi", "en": "4" },
+      { "jp": "ご", "kana": "ご", "romaji": "go", "en": "5" },
+      { "jp": "ろく", "kana": "ろく", "romaji": "roku", "en": "6" },
+      { "jp": "なな／しち", "kana": "なな／しち", "romaji": "nana / shichi", "en": "7" },
+      { "jp": "はち", "kana": "はち", "romaji": "hachi", "en": "8" },
+      { "jp": "きゅう／く", "kana": "きゅう／く", "romaji": "kyū / ku", "en": "9" },
+      { "jp": "じゅう", "kana": "じゅう", "romaji": "jū", "en": "10" },
+      { "jp": "ひゃく", "kana": "ひゃく", "romaji": "hyaku", "en": "100" }
     ]
   },
   "grammar": [
     {
       "id": "00-3-a",
-      "title": "Cumprimentos do dia",
-      "gloss": "bom dia, boa tarde, boa noite, tchau",
-      "explanation": "O japonês escolhe o cumprimento pela **hora do dia** e pela **proximidade** com a pessoa. São fórmulas fixas: aprenda cada uma como um bloco só.\n• **おはようございます**: bom dia, de manhã. Com amigos e família, basta おはよう.\n• **こんにちは**: boa tarde ou \"olá\", mais ou menos do fim da manhã até o fim da tarde. Em geral, não se usa com a própria família.\n• **こんばんは**: boa noite, **ao chegar** ou ao encontrar alguém à noite.\n• **おやすみなさい**: boa noite, **ao ir dormir** ou ao se despedir tarde da noite. Com amigos e família, おやすみ.\n• **さようなら**: tchau, adeus. Pode soar como uma despedida mais longa; entre amigos, no dia a dia, é mais comum じゃあね ou また あした (\"até amanhã\").\n• Em こんにちは e こんばんは, o último は se lê **wa**. Na origem, ele era a partícula は, e a escrita ficou assim.",
-      "structure": "manhã: おはようございます · dia: こんにちは · noite (chegando): こんばんは · dormir: おやすみなさい · tchau: さようなら",
+      "gc": null,
+      "title": "Greetings for the time of day",
+      "gloss": "good morning, hello, good evening, goodbye",
+      "explanation": "Japanese chooses a greeting by the **time of day** and by how **close** you are to the person. These are fixed formulas: learn each one as a single block.\n• **おはようございます**: good morning, in the morning. With friends and family, just おはよう.\n• **こんにちは**: hello, good afternoon — roughly from late morning to late afternoon. In general, it isn't used with your own family.\n• **こんばんは**: good evening, **when arriving** or meeting someone in the evening.\n• **おやすみなさい**: good night, **when going to bed** or parting late at night. With friends and family, おやすみ. The split works like English \"good evening\" (a hello) × \"good night\" (a goodbye).\n• **さようなら**: goodbye. It can sound like a longer or more final farewell than English \"bye\"; among friends, day to day, じゃあね or また あした (\"see you tomorrow\") are more common. At school, though, it is the normal goodbye between students and their teacher.\n• In こんにちは and こんばんは, the last は is read **wa**. It was originally the particle は, and the spelling stayed.",
+      "structure": "morning: おはようございます · daytime: こんにちは · evening (arriving): こんばんは · bedtime: おやすみなさい · goodbye: さようなら",
       "examples": [
-        { "jp": "たなかせんせい、おはようございます。", "kana": "たなかせんせい、おはようございます。", "romaji": "Tanaka-sensei, ohayō gozaimasu.", "pt": "Bom dia, professor(a) Tanaka.", "noAnat": true },
-        { "jp": "マリアさん、こんばんは。", "kana": "マリアさん、こんばんは。", "romaji": "Maria-san, konbanwa.", "pt": "Boa noite, Maria. (ao encontrá-la à noite)", "noAnat": true },
-        { "jp": "おやすみなさい。— おやすみ。", "kana": "おやすみなさい。— おやすみ。", "romaji": "Oyasuminasai. — Oyasumi.", "pt": "Boa noite! (educado, indo dormir) — Boa noite! (resposta casual)", "noAnat": true }
+        { "jp": "たなかせんせい、おはようございます。", "kana": "たなかせんせい、おはようございます。", "romaji": "Tanaka-sensei, ohayō gozaimasu.", "en": "Good morning, Professor Tanaka.", "noAnat": true },
+        { "jp": "マリアさん、こんばんは。", "kana": "マリアさん、こんばんは。", "romaji": "Maria-san, konbanwa.", "en": "Good evening, Maria. (meeting her in the evening)", "noAnat": true },
+        { "jp": "おやすみなさい。— おやすみ。", "kana": "おやすみなさい。— おやすみ。", "romaji": "Oyasuminasai. — Oyasumi.", "en": "Good night. (a child going to bed) — Night! (the mother answers casually)", "noAnat": true }
       ],
       "pitfalls": [
-        "Usar こんばんは para se despedir, como o \"boa noite\" do português. Chegando: こんばんは. Indo dormir ou se despedindo tarde da noite: おやすみなさい.",
-        "Escrever こんにちわ ou こんばんわ. O certo é com は: こんにちは, こんばんは.",
-        "Dizer さようなら para colegas que você vai ver amanhã: pode soar como uma despedida longa. Entre amigos, じゃあね ou また あした.",
-        "Esquecer o ございます com professores e desconhecidos: おはよう sozinho é casual."
+        "Using こんにちは as an all-purpose \"hi\" at any hour: in the morning it's おはようございます, and in the evening こんばんは.",
+        "Writing こんにちわ or こんばんわ ✗. The correct spelling uses は: こんにちは, こんばんは ✓.",
+        "Saying さようなら to friends you will see tomorrow: it can sound distant. Among friends, じゃあね or また あした. (At school, however, students usually say さようなら to the teacher at the end of the day; the workplace has other set phrases, which come later.)",
+        "Leaving off ございます with teachers and strangers: おはよう on its own is casual."
       ],
       "howToStudy": [
-        "Fala: toque 🔊 em cada exemplo e repita 3 vezes, segurando as vogais longas de おはよう (お・は・よ・う).",
-        "Ao longo do dia, diga baixinho o cumprimento da hora: ao acordar, おはようございます; à tarde, こんにちは; à noite, こんばんは; antes de dormir, おやすみなさい.",
-        "No caderno, faça uma tabela de 2 colunas (educado × casual) com os cumprimentos desta aula."
+        "Speaking: tap 🔊 on each example and repeat it 3 times, holding the long vowel of おはよう (お・は・よ・う).",
+        "Throughout the day, quietly say the greeting for the time: when you wake up, おはようございます; in the afternoon, こんにちは; in the evening, こんばんは; before bed, おやすみなさい.",
+        "In your notebook, make a 2-column table (polite × casual) with this lesson's greetings."
       ],
       "flag": null
     },
     {
       "id": "00-3-b",
+      "gc": null,
       "title": "すみません, どうも, ありがとう",
-      "gloss": "agradecer, pedir licença, desculpar-se",
-      "explanation": "Três expressões que você vai usar o tempo todo, cada uma com mais de uma função:\n• **ありがとうございます**: obrigado(a), educado. **ありがとう** sozinho é casual, para amigos e família. Para agradecer algo que já terminou, como ao sair de uma loja, usa-se ありがとうございました.\n• **どうも**: um \"obrigado\" curtinho e muito comum no dia a dia, por exemplo ao receber o troco. Antes de ありがとうございます, ele reforça: どうも ありがとうございます é \"muito obrigado\".\n• **すみません**: \"com licença\", \"desculpe\" e, às vezes, \"obrigado pelo incômodo\". Serve para chamar o garçom, passar entre as pessoas ou pedir desculpas por algo pequeno.\n• Para responder a um obrigado, o mais simples é **いいえ** (\"imagina, não foi nada\"). どういたしまして também existe, mas é mais formal e aparece menos na fala do dia a dia.",
-      "structure": "obrigado: ありがとうございます (casual: ありがとう) · licença / desculpe: すみません · resposta a um obrigado: いいえ",
+      "gloss": "thanking, getting attention, apologizing",
+      "explanation": "Three expressions you will use all the time, each with more than one job:\n• **ありがとうございます**: thank you, polite. **ありがとう** alone is casual, for friends and family. To thank someone for something that is already over (at the end of a class, after someone has helped you), use ありがとうございました. It is also what the clerk says when you leave a shop.\n• **どうも**: a short, very common \"thanks\" in daily life, for example when you get your change. Before ありがとうございます it adds emphasis: どうも ありがとうございます is \"thank you very much\".\n• **すみません**: \"excuse me\", \"I'm sorry\" and sometimes \"thank you (sorry for the trouble)\". Use it to call a waiter, to squeeze past people, or to apologize for something small.\n• To reply to a thank-you, the simplest answer is **いいえ** (\"not at all\"). どういたしまして (\"you're welcome\") also exists, but it sounds a bit stiff and textbook-like and is less common in everyday speech than you might expect. いいえ (or いえいえ) is the safe choice.",
+      "structure": "thanks: ありがとうございます (casual: ありがとう) · excuse me / sorry: すみません · reply to a thank-you: いいえ",
       "examples": [
-        { "jp": "どうも ありがとうございます。— いいえ。", "kana": "どうも ありがとうございます。— いいえ。", "romaji": "Dōmo arigatō gozaimasu. — Iie.", "pt": "Muito obrigado(a). — Imagina.", "noAnat": true },
-        { "jp": "すみません！", "kana": "すみません！", "romaji": "Sumimasen!", "pt": "Com licença! (para chamar o garçom ou pedir passagem)", "noAnat": true },
-        { "jp": "ありがとう、アナ。", "kana": "ありがとう、アナ。", "romaji": "Arigatō, Ana.", "pt": "Valeu, Ana. (casual, entre amigos)", "noAnat": true }
+        { "jp": "どうも ありがとうございます。— いいえ。", "kana": "どうも ありがとうございます。— いいえ。", "romaji": "Dōmo arigatō gozaimasu. — Iie.", "en": "Thank you very much. — Not at all.", "noAnat": true },
+        { "jp": "すみません！", "kana": "すみません！", "romaji": "Sumimasen!", "en": "Excuse me! (to call a waiter or to get past someone)", "noAnat": true },
+        { "jp": "ありがとう、アナ。", "kana": "ありがとう、アナ。", "romaji": "Arigatō, Ana.", "en": "Thanks, Ana. (casual, between friends)", "noAnat": true }
       ],
       "pitfalls": [
-        "Usar só ありがとう com professor ou desconhecido: soa íntimo demais. Com eles, ありがとうございます.",
-        "Achar que すみません é só \"desculpe\". Ele também é o \"com licença\" para chamar alguém: dizer すみません！ no restaurante é normal e educado.",
-        "Achar que ありがとう vem de \"obrigado\". É coincidência (veja a cultura da Aula 00-2).",
-        "Ficar sem resposta a um obrigado: um いいえ curto já basta."
+        "Using just ありがとう with a teacher or a stranger: it sounds too familiar. With them, ありがとうございます.",
+        "Thinking すみません only means \"sorry\". It is also the \"excuse me\" for getting someone's attention: calling out すみません！ in a restaurant is normal and polite.",
+        "Translating \"you're welcome\" as どういたしまして every time: it can sound stiff. A short いいえ (or いえいえ) is the everyday reply."
       ],
       "howToStudy": [
-        "Fala: faça pares em voz alta. Diga どうも ありがとうございます e responda いいえ; depois diga すみません！ como se chamasse o garçom.",
-        "Hoje, a cada \"obrigado\" que disser em português, repita mentalmente ありがとうございます.",
-        "No caderno, escreva 3 situações suas (loja, aula, ônibus) e o que você diria em japonês em cada uma."
+        "Speaking: act out pairs aloud. Say どうも ありがとうございます and answer いいえ; then say すみません！ as if calling a waiter.",
+        "Today, every time you say \"thank you\" in English, repeat ありがとうございます in your head.",
+        "In your notebook, write 3 situations from your own life (a shop, a class, a bus) and what you would say in Japanese in each one."
       ],
       "flag": null
     },
     {
       "id": "00-3-c",
+      "gc": null,
       "title": "はじめまして・よろしく おねがいします",
-      "gloss": "a fórmula da primeira apresentação",
-      "explanation": "Para se apresentar pela primeira vez, o japonês usa uma fórmula de três partes, quase sempre nesta ordem:\n• **はじめまして。** \"Muito prazer.\" Literalmente, algo como \"é a primeira vez\". Só vale no primeiro encontro.\n• **(nome) です。** \"Sou (nome).\" Por enquanto, use 〜です como um bloco fixo. Na Aula 01-1 você entende a frase inteira (わたしは 〜です).\n• **よろしく おねがいします。** Não tem tradução direta: é algo como \"conto com você\" ou \"espero que nos demos bem\". Fecha a apresentação, em geral com uma leve reverência (Aula 01-1).\n• Entre amigos, dá para dizer só よろしく. Numa situação mais formal, どうぞ よろしく おねがいします é mais caprichado.\n• よろしく おねがいします também aparece fora das apresentações, ao pedir um favor ou ao começar um trabalho junto: é um \"conto com você\" geral.",
-      "structure": "はじめまして。 [nome] です。 よろしく おねがいします。",
+      "gloss": "the first-introduction formula",
+      "explanation": "To introduce yourself for the first time, Japanese uses a three-part formula, almost always in this order:\n• **はじめまして。** \"How do you do?\" Literally something like \"for the first time\". It is only for a first meeting.\n• **(name) です。** \"I'm (name).\" For now, use 〜です as a fixed block. In lesson 01-1 you will understand the full sentence (わたしは 〜です).\n• **よろしく おねがいします。** It has no direct translation: roughly \"please treat me kindly\" or \"I hope we get along\". In an introduction, English \"Nice to meet you\" is the closest. It closes the introduction, usually with a slight bow (lesson 01-1).\n• Among friends, just よろしく is fine. In a more formal situation, どうぞ よろしく おねがいします is more careful.\n• よろしく おねがいします also shows up outside introductions — when asking a favor or when starting to work together: a general \"I'm counting on you\".",
+      "structure": "はじめまして。 [name] です。 よろしく おねがいします。",
       "examples": [
-        { "jp": "はじめまして。ルーカスです。よろしく おねがいします。", "kana": "はじめまして。ルーカスです。よろしく おねがいします。", "romaji": "Hajimemashite. Rūkasu desu. Yoroshiku onegaishimasu.", "pt": "Muito prazer. Sou o Lucas. Conto com você." },
-        { "jp": "はじめまして。やまだです。どうぞ よろしく おねがいします。", "kana": "はじめまして。やまだです。どうぞ よろしく おねがいします。", "romaji": "Hajimemashite. Yamada desu. Dōzo yoroshiku onegaishimasu.", "pt": "Muito prazer. Sou Yamada. É um prazer conhecer você." },
-        { "jp": "アナです。よろしく！", "kana": "アナです。よろしく！", "romaji": "Ana desu. Yoroshiku!", "pt": "Sou a Ana. Prazer! (casual, entre colegas da mesma idade)" }
+        { "jp": "はじめまして。ルーカスです。よろしく おねがいします。", "kana": "はじめまして。ルーカスです。よろしく おねがいします。", "romaji": "Hajimemashite. Rūkasu desu. Yoroshiku onegaishimasu.", "en": "How do you do? I'm Lucas. Nice to meet you." },
+        { "jp": "はじめまして。すずきです。どうぞ よろしく おねがいします。", "kana": "はじめまして。すずきです。どうぞ よろしく おねがいします。", "romaji": "Hajimemashite. Suzuki desu. Dōzo yoroshiku onegaishimasu.", "en": "How do you do? I'm Suzuki. I'm very pleased to meet you. (more formal, with どうぞ)" },
+        { "jp": "アナです。よろしく！", "kana": "アナです。よろしく！", "romaji": "Ana desu. Yoroshiku!", "en": "I'm Ana. Nice to meet you! (casual, among classmates of the same age)" }
       ],
       "pitfalls": [
-        "Usar はじめまして com quem você já conhece: é só para o primeiro encontro.",
-        "Pôr さん no próprio nome: ルーカスさんです está errado. O さん é só para os outros (Aula 01-1).",
-        "Traduzir よろしく おねがいします palavra por palavra. Trate como fórmula: ela fecha a apresentação e mostra boa vontade.",
-        "Estranhar o sobrenome: em situações formais, os japoneses costumam se apresentar pelo sobrenome (やまだです)."
+        "Using はじめまして with someone you have already met: it is only for the first meeting.",
+        "Putting さん on your own name: ルーカスさんです ✗ → ルーカスです ✓. さん is only for other people (lesson 01-1).",
+        "Translating よろしく おねがいします word by word. Treat it as a formula: it closes the introduction and shows goodwill.",
+        "Being surprised by family names: in formal situations, Japanese people usually introduce themselves by their family name (すずきです)."
       ],
       "howToStudy": [
-        "Fala: grave a sua apresentação completa (はじめまして。〜です。よろしく おねがいします。) e ouça. Repita até sair sem pausas.",
-        "Na frente do espelho, faça uma leve reverência no よろしく.",
-        "ヅオリンゴー → Diário: escreva a sua apresentação e abra \"Anatomia do que escrevi\" para ver os blocos."
+        "Speaking: record your full introduction (はじめまして。〜です。よろしく おねがいします。) and listen to it. Repeat until it comes out with no pauses.",
+        "In front of a mirror, do a slight bow on よろしく.",
+        "ヅオリンゴー → Journal: write your introduction and open \"Anatomy of what I wrote\": はじめまして and よろしく おねがいします show up as set phrases (INTERJECTION), and 〜です as the PREDICATE."
       ],
       "flag": null
     },
     {
       "id": "00-3-d",
-      "title": "Números de 0 a 10",
-      "gloss": "e as leituras duplas de 4, 7 e 9",
-      "explanation": "Os números de 0 a 10 são a base de tudo: do 11 ao 100, você só combina estes.\n• 0 ゼロ (também れい) · 1 いち · 2 に · 3 さん · 4 よん／し · 5 ご\n• 6 ろく · 7 なな／しち · 8 はち · 9 きゅう／く · 10 じゅう\n• **4, 7 e 9 têm duas leituras.** Para o número solto e nas dezenas, prefira **よん, なな e きゅう**: são as mais seguras. し, しち e く aparecem em algumas contagens e palavras fixas. Nas horas (Aula 01-2), cada número tem a sua leitura preferida.\n• Costuma-se explicar que し é evitado porque soa igual a uma palavra que significa \"morte\", e く, a uma que significa \"sofrimento\".\n• Atenção às vogais longas: じゅう (10) e きゅう (9) têm う. Sem ele, じゅ e きゅ não são números.\n• ろく usa o r fraco de \"caro\", e não o de \"rato\".",
+      "gc": null,
+      "title": "Numbers from 0 to 10",
+      "gloss": "and the double readings of 4, 7 and 9",
+      "explanation": "The numbers from 0 to 10 are the base of everything: from 11 to 100, you just combine them.\n• 0 ゼロ (also れい) · 1 いち · 2 に · 3 さん · 4 よん／し · 5 ご\n• 6 ろく · 7 なな／しち · 8 はち · 9 きゅう／く · 10 じゅう\n• **4, 7 and 9 have two readings.** For the number on its own and in the tens, prefer **よん, なな and きゅう**: they are the safest. し, しち and く appear in some counters and fixed words. For clock times (lesson 01-2), each number has its preferred reading.\n• A common explanation is that し is avoided because it sounds the same as a word meaning \"death\", and く like one meaning \"suffering\".\n• Watch the long vowels: じゅう (10) and きゅう (9) have う. Without it, じゅ and きゅ are not numbers.\n• ろく uses the tapped r (like the \"tt\" in American \"butter\"), not an English r.",
       "structure": "0 ゼロ · 1 いち · 2 に · 3 さん · 4 よん／し · 5 ご · 6 ろく · 7 なな／しち · 8 はち · 9 きゅう／く · 10 じゅう",
       "examples": [
-        { "jp": "よん／し", "kana": "よん／し", "romaji": "yon / shi", "pt": "4 · prefira よん", "noAnat": true },
-        { "jp": "なな／しち", "kana": "なな／しち", "romaji": "nana / shichi", "pt": "7 · prefira なな", "noAnat": true },
-        { "jp": "きゅう／く", "kana": "きゅう／く", "romaji": "kyū / ku", "pt": "9 · prefira きゅう", "noAnat": true }
+        { "jp": "よん／し", "kana": "よん／し", "romaji": "yon / shi", "en": "4 · prefer よん", "noAnat": true },
+        { "jp": "なな／しち", "kana": "なな／しち", "romaji": "nana / shichi", "en": "7 · prefer なな", "noAnat": true },
+        { "jp": "きゅう／く", "kana": "きゅう／く", "romaji": "kyū / ku", "en": "9 · prefer きゅう", "noAnat": true }
       ],
       "pitfalls": [
-        "Esquecer o う longo: じゅう (10) e きゅう (9), e não じゅ e きゅ.",
-        "Usar し, しち e く nas dezenas: o padrão é よんじゅう (40), ななじゅう (70) e きゅうじゅう (90).",
-        "Confundir し (4) com しち (7) numa lista rápida: mais um motivo para preferir よん e なな.",
-        "Ler ろく com o r de \"rato\" (\"rrôku\"). É o r fraco de \"caro\"."
+        "Forgetting the long う: じゅ ✗ → じゅう ✓ (10), きゅ ✗ → きゅう ✓ (9).",
+        "Using し, しち and く in the tens: the standard forms are よんじゅう (40), ななじゅう (70) and きゅうじゅう (90).",
+        "Confusing し (4) and しち (7) in a fast list: one more reason to prefer よん and なな.",
+        "Reading ろく with an English r. It is the quick tap: \"ro-ku\"."
       ],
       "howToStudy": [
-        "Fala: conte de 0 a 10 e de volta, em voz alta, usando よん, なな e きゅう.",
-        "ヅオリンゴー → Treinos → Números: faça uma rodada e anote em que números você travou.",
-        "Diga em japonês os números de um só dígito que aparecerem no seu dia: andar do elevador, linha do ônibus, página do livro."
+        "Speaking: count from 0 to 10 and back, aloud, using よん, なな and きゅう.",
+        "ヅオリンゴー → Drills → Numbers: do one round and note which numbers made you stumble.",
+        "Say in Japanese the single-digit numbers you see during your day: the elevator floor, the bus line, the page of a book."
       ],
       "flag": null
     },
     {
       "id": "00-3-e",
-      "title": "De 11 a 100",
-      "gloss": "[dezenas] じゅう [unidades]",
-      "explanation": "Do 11 ao 99, o japonês é pura lógica: diga **quantas dezenas**, depois **じゅう** e depois **as unidades**.\n• 11 = じゅう + いち → じゅういち · 15 = じゅうご · 19 = じゅうきゅう\n• 20 = に + じゅう → にじゅう · 30 = さんじゅう · 40 = よんじゅう\n• 34 = さん + じゅう + よん → さんじゅうよん · 87 = はちじゅうなな\n• 10 é só じゅう, e não いちじゅう. 100 é só **ひゃく**, e não いちひゃく.\n• Monte na ordem em que você lê o número: 56 → \"5 dezenas e 6\" → ごじゅうろく.\n• Nas unidades, よん, なな e きゅう são sempre seguras, mas você também vai ouvir formas como じゅうしち (17).",
-      "structure": "[dezenas] じゅう [unidades] · 34 = さん・じゅう・よん · 100 = ひゃく",
+      "gc": null,
+      "title": "From 11 to 100",
+      "gloss": "[tens] じゅう [ones]",
+      "explanation": "From 11 to 99, Japanese is pure logic: say **how many tens**, then **じゅう**, then **the ones**. Unlike English, there are no special words like \"eleven\", \"twelve\" or \"-teen\": 11 is simply \"ten-one\".\n• 11 = じゅう + いち → じゅういち · 15 = じゅうご · 19 = じゅうきゅう\n• 20 = に + じゅう → にじゅう · 30 = さんじゅう · 40 = よんじゅう\n• 34 = さん + じゅう + よん → さんじゅうよん · 87 = はちじゅうなな\n• 10 is just じゅう, not いちじゅう. 100 is just **ひゃく**, not いちひゃく.\n• Build it in the order you read the number: 56 → \"5 tens and 6\" → ごじゅうろく.\n• In the ones place, よん, なな and きゅう are always safe, but you will also hear forms like じゅうしち (17).",
+      "structure": "[tens] じゅう [ones] · 34 = さん・じゅう・よん · 100 = ひゃく",
       "examples": [
-        { "jp": "じゅうはち", "kana": "じゅうはち", "romaji": "jūhachi", "pt": "18 (10 + 8)", "noAnat": true },
-        { "jp": "よんじゅうなな", "kana": "よんじゅうなな", "romaji": "yonjūnana", "pt": "47 (4 × 10 + 7)", "noAnat": true },
-        { "jp": "ひゃく", "kana": "ひゃく", "romaji": "hyaku", "pt": "100", "noAnat": true }
+        { "jp": "じゅうはち", "kana": "じゅうはち", "romaji": "jūhachi", "en": "18 (10 + 8)", "noAnat": true },
+        { "jp": "よんじゅうなな", "kana": "よんじゅうなな", "romaji": "yonjūnana", "en": "47 (4 × 10 + 7)", "noAnat": true },
+        { "jp": "ひゃく", "kana": "ひゃく", "romaji": "hyaku", "en": "100", "noAnat": true }
       ],
       "pitfalls": [
-        "Dizer いちじゅう para 10 ou いちひゃく para 100: é só じゅう e ひゃく.",
-        "Inverter a ordem: 47 é よんじゅうなな (4-10-7). ななじゅうよん é 74.",
-        "Encurtar o じゅう no meio do número: にじゅう (20), com o u longo, e não にじゅ."
+        "Saying いちじゅう for 10 or いちひゃく for 100 ✗: it is just じゅう and ひゃく ✓.",
+        "Reversing the order: 47 is よんじゅうなな (4-10-7). ななじゅうよん is 74.",
+        "Shortening じゅう in the middle of a number: にじゅ ✗ → にじゅう ✓ (20), with the long u."
       ],
       "howToStudy": [
-        "Fala: conte de 10 em 10 até 100 (じゅう, にじゅう … ひゃく) e depois de 5 em 5.",
-        "ヅオリンゴー → Treinos → Números: mais uma rodada, agora prestando atenção nas dezenas.",
-        "Leia em voz alta, em japonês, números até 100 que aparecerem no seu dia: placa de ônibus, página do livro, preço em reais."
+        "Speaking: count by tens up to 100 (じゅう, にじゅう … ひゃく), and then by fives.",
+        "ヅオリンゴー → Drills → Numbers: another round, now paying attention to the tens.",
+        "Read aloud, in Japanese, the numbers up to 100 that you see during your day: a bus number, a book page, a price."
       ],
       "flag": null
     }
   ],
   "media": [
-    { "order": 1, "kind": "leitura", "title": "Genki I · a parte de cumprimentos (あいさつ) e números (すうじ), antes da Lição 1", "where": "Seu livro Genki I (3ª ed.)", "url": "", "when": "Antes desta aula ou logo depois do bloco de gramática" },
-    { "order": 2, "kind": "video", "title": "ToKini Andy: cumprimentos e números do começo do Genki I", "where": "YouTube · canal ToKini Andy", "url": "", "search": "ToKini Andy Genki greetings numbers", "when": "Depois dos 5 pontos: o vídeo confirma a pronúncia e dá mais exemplos" },
-    { "order": 3, "kind": "app", "title": "ヅオリンゴー · Treinos → Números", "where": "ヅオリンゴー · Treinos", "url": "", "when": "No fim da aula e nas sessões seguintes, até contar até 100 sem travar" }
+    { "order": 1, "kind": "reading", "title": "Genki I · the Greetings (あいさつ) and Numbers (すうじ) sections", "where": "Your Genki I textbook (3rd ed.)", "url": "", "when": "Before this lesson or right after the grammar block" },
+    { "order": 2, "kind": "video", "title": "ToKini Andy: the greetings and numbers from the start of Genki I", "where": "YouTube · ToKini Andy channel", "url": "", "search": "ToKini Andy Genki greetings numbers", "when": "After the 5 points: the video confirms the pronunciation and adds examples" },
+    { "order": 3, "kind": "app", "title": "ヅオリンゴー · Drills → Numbers", "where": "ヅオリンゴー · Drills", "url": "", "when": "At the end of the lesson and in the next sessions, until you can count to 100 without stumbling" }
   ],
   "homework": {
-    "intro": "Faça no caderno, à mão, escrevendo o japonês em hiragana. Só depois abra o gabarito, item por item. Circule o que errou e refaça na sessão seguinte.",
+    "intro": "Do it by hand in your notebook, writing the Japanese in hiragana. Only then open the answer key, item by item. Circle what you got wrong and redo it in your next session.",
     "tasks": [
       {
         "id": "h1",
-        "type": "situação",
-        "prompt": "Escreva em hiragana o que você diria em cada situação.",
+        "type": "situation",
+        "prompt": "Write in hiragana what you would say in each situation.",
         "items": [
-          { "q": "Você chega à aula de japonês às 9h da manhã e encontra a professora.", "a": { "jp": "おはようございます。", "romaji": "Ohayō gozaimasu." }, "note": "Com professor, sempre com ございます." },
-          { "q": "Às 15h, você encontra a vizinha japonesa no elevador.", "a": { "jp": "こんにちは。", "romaji": "Konnichiwa." } },
-          { "q": "Às 20h, você chega para jantar na casa de um amigo japonês.", "a": { "jp": "こんばんは。", "romaji": "Konbanwa." }, "note": "Chegando à noite: こんばんは, e não おやすみなさい." },
-          { "q": "Na casa de uma família japonesa, você vai dormir.", "a": { "jp": "おやすみなさい。", "romaji": "Oyasuminasai." } },
-          { "q": "No restaurante, você quer chamar o garçom.", "a": { "jp": "すみません！", "romaji": "Sumimasen!" } },
-          { "q": "Um colega de trabalho te empresta uma caneta. Agradeça de forma educada.", "a": { "jp": "ありがとうございます。", "romaji": "Arigatō gozaimasu." }, "note": "どうも ありがとうございます também está ótimo." }
+          { "q": "You arrive at your Japanese class at 9 a.m. and meet your teacher.", "a": { "jp": "おはようございます。", "romaji": "Ohayō gozaimasu." }, "note": "With a teacher, always with ございます." },
+          { "q": "At 3 p.m., you meet your Japanese neighbor in the elevator.", "a": { "jp": "こんにちは。", "romaji": "Konnichiwa." } },
+          { "q": "At 8 p.m., you arrive for dinner at a Japanese friend's house.", "a": { "jp": "こんばんは。", "romaji": "Konbanwa." }, "note": "Arriving in the evening: こんばんは, not おやすみなさい." },
+          { "q": "You are staying with a Japanese family, and you are going to bed.", "a": { "jp": "おやすみなさい。", "romaji": "Oyasuminasai." } },
+          { "q": "At a restaurant, you want to call the waiter.", "a": { "jp": "すみません！", "romaji": "Sumimasen!" } },
+          { "q": "A coworker lends you a pen. Thank them politely.", "a": { "jp": "ありがとうございます。", "romaji": "Arigatō gozaimasu." }, "note": "どうも ありがとうございます is great too. すみません (\"sorry for the trouble\") is also very natural here." }
         ]
       },
       {
         "id": "h2",
-        "type": "escrever",
-        "prompt": "Escreva os números por extenso, em hiragana (o 0 vai em katakana).",
+        "type": "write",
+        "prompt": "Write the numbers out in hiragana (0 goes in katakana).",
         "items": [
-          { "q": "0", "a": { "jp": "ゼロ", "romaji": "zero" }, "note": "Também れい." },
-          { "q": "14", "a": { "jp": "じゅうよん", "romaji": "jūyon" }, "note": "Você também vai ouvir じゅうし." },
-          { "q": "27", "a": { "jp": "にじゅうなな", "romaji": "nijūnana" }, "note": "Também にじゅうしち." },
+          { "q": "0", "a": { "jp": "ゼロ", "romaji": "zero" }, "note": "Also れい." },
+          { "q": "14", "a": { "jp": "じゅうよん", "romaji": "jūyon" }, "note": "You will also hear じゅうし." },
+          { "q": "27", "a": { "jp": "にじゅうなな", "romaji": "nijūnana" }, "note": "Also にじゅうしち." },
           { "q": "39", "a": { "jp": "さんじゅうきゅう", "romaji": "sanjūkyū" } },
           { "q": "70", "a": { "jp": "ななじゅう", "romaji": "nanajū" } },
-          { "q": "100", "a": { "jp": "ひゃく", "romaji": "hyaku" }, "note": "Sem いち na frente." }
+          { "q": "100", "a": { "jp": "ひゃく", "romaji": "hyaku" }, "note": "No いち in front." }
         ]
       },
       {
         "id": "h3",
-        "type": "ler",
-        "prompt": "Leia em voz alta e escreva o número em algarismos.",
+        "type": "read",
+        "prompt": "Read aloud and write the number in digits.",
         "items": [
-          { "q": "ろくじゅうさん", "a": { "jp": "ろくじゅうさん", "romaji": "rokujūsan", "pt": "63" } },
-          { "q": "はちじゅうご", "a": { "jp": "はちじゅうご", "romaji": "hachijūgo", "pt": "85" } },
-          { "q": "きゅうじゅうよん", "a": { "jp": "きゅうじゅうよん", "romaji": "kyūjūyon", "pt": "94" } },
-          { "q": "よんじゅうろく", "a": { "jp": "よんじゅうろく", "romaji": "yonjūroku", "pt": "46" } },
-          { "q": "じゅうしち", "a": { "jp": "じゅうしち", "romaji": "jūshichi", "pt": "17" }, "note": "しち é a outra leitura de 7." },
-          { "q": "ごじゅう", "a": { "jp": "ごじゅう", "romaji": "gojū", "pt": "50" } }
+          { "q": "ろくじゅうさん", "a": { "jp": "ろくじゅうさん", "romaji": "rokujūsan", "en": "63" } },
+          { "q": "はちじゅうご", "a": { "jp": "はちじゅうご", "romaji": "hachijūgo", "en": "85" } },
+          { "q": "きゅうじゅうよん", "a": { "jp": "きゅうじゅうよん", "romaji": "kyūjūyon", "en": "94" } },
+          { "q": "よんじゅうろく", "a": { "jp": "よんじゅうろく", "romaji": "yonjūroku", "en": "46" } },
+          { "q": "じゅうしち", "a": { "jp": "じゅうしち", "romaji": "jūshichi", "en": "17" }, "note": "しち is the other reading of 7." },
+          { "q": "ごじゅう", "a": { "jp": "ごじゅう", "romaji": "gojū", "en": "50" } }
         ]
       },
       {
         "id": "h4",
-        "type": "produzir",
-        "prompt": "Escreva a sua primeira apresentação em 3 frases: はじめまして, o seu nome com です e よろしく おねがいします. Depois leia em voz alta e grave no celular.",
+        "type": "produce",
+        "prompt": "Write your first self-introduction in 3 sentences: はじめまして, your name with です, and よろしく おねがいします. Then read it aloud and record it on your phone.",
         "items": [
-          { "q": "Modelo, que o seu texto deve seguir na estrutura e não nas palavras:", "a": { "jp": "はじめまして。ペドロです。よろしく おねがいします。", "romaji": "Hajimemashite. Pedoro desu. Yoroshiku onegaishimasu.", "pt": "Muito prazer. Sou o Pedro. Conto com você." }, "note": "Confira: o seu nome em katakana e sem さん, です logo depois do nome, よろしく おねがいします completo e 。 no fim de cada frase." }
+          { "q": "Model (match its structure, not its words):", "a": { "jp": "はじめまして。ペドロです。よろしく おねがいします。", "romaji": "Hajimemashite. Pedoro desu. Yoroshiku onegaishimasu.", "en": "How do you do? I'm Pedro. Nice to meet you." }, "note": "Check: your name in katakana and without さん, です right after the name, the full よろしく おねがいします, and 。 at the end of each sentence." }
         ]
       }
     ],
     "workbook": [
-      { "p": 13, "t": "あいさつ Greetings", "tip": "Faça depois dos pontos 4a a 4c." },
-      { "p": 15, "t": "すうじ Numbers", "tip": "Faça depois dos pontos 4d e 4e. Confira no Genki Answer Key oficial." }
+      { "p": 13, "t": "あいさつ Greetings", "tip": "Do it after points 4a to 4c." },
+      { "p": 15, "t": "すうじ Numbers", "tip": "Do it after points 4d and 4e. Check it with the official Genki Answer Key." }
     ]
   },
   "practice": [
-    { "tool": "Wagotabi", "what": "Jogue normalmente. Sempre que aparecer um cumprimento ou agradecimento nas falas (こんにちは, ありがとう, すみません…), pause, leia em voz alta e anote no caderno em que situação o personagem usou.", "min": 10 },
-    { "tool": "ヅオリンゴー", "what": "Treinos → Números: 2 rodadas. Se ainda tropeçar em alguma letra, faça também Kana → Treino livre.", "min": 10 },
-    { "tool": "Shadowing", "what": "Toque 🔊 em cada cumprimento e repita junto 3 vezes, respeitando as vogais longas (おはよう, ありがとう, さようなら).", "min": 5 },
-    { "tool": "Fala", "what": "Grave a sua apresentação (lição de casa h4) em até 15 s. Ouça e confira se はじめまして e よろしく おねがいします saíram sem pausas.", "min": 5 },
-    { "tool": "Números no dia a dia", "what": "Conte em japonês o que aparecer: degraus da escada, passos até a esquina, itens da lista de compras. Vá até 100 quando der.", "min": 5 }
+    { "tool": "Wagotabi", "what": "Play normally. Whenever a greeting or a thank-you shows up in the dialogue (こんにちは, ありがとう, すみません…), pause, read it aloud and note in your notebook the situation in which the character used it.", "min": 10 },
+    { "tool": "ヅオリンゴー", "what": "Drills → Numbers: 2 rounds. If you still stumble on some letters, also do Kana → Free practice.", "min": 10 },
+    { "tool": "Shadowing", "what": "Tap 🔊 on each greeting and repeat along 3 times, keeping the long vowels (おはよう, ありがとう, さようなら).", "min": 5 },
+    { "tool": "Speaking", "what": "Record your self-introduction (homework h4) in 15 seconds or less. Listen and check that はじめまして and よろしく おねがいします came out without pauses.", "min": 5 },
+    { "tool": "Numbers in daily life", "what": "Count in Japanese whatever you come across: the stairs, your steps to the corner, the items on your shopping list. Go up to 100 when you can.", "min": 5 }
   ],
   "culture": {
-    "title": "Saindo e chegando em casa",
+    "title": "Leaving home and coming back",
     "titleJp": "いってきます／ただいま",
-    "body": "No Japão, sair e voltar para casa têm frases próprias, ditas quase todo dia. Quem sai diz **いってきます** (\"vou e já volto\"), e quem fica responde **いってらっしゃい** (\"vá e volte\"). Quem chega diz **ただいま** (\"cheguei\"; ao pé da letra, \"agora mesmo\"), e quem está em casa responde **おかえりなさい** (\"bem-vindo de volta\") ou só **おかえり**, mais casual. Tem gente que diz ただいま mesmo quando não há ninguém em casa, por puro hábito. As mesmas frases também costumam ser usadas no trabalho, ao sair para um compromisso e ao voltar.",
-    "try": "Adote as frases na sua casa: diga いってきます ao sair e ただいま ao chegar, mesmo que ninguém responda. Se mora com alguém, ensine as respostas: いってらっしゃい e おかえり."
+    "body": "In Japan, leaving home and coming back have their own phrases, said almost every day. The person leaving says **いってきます** (\"I'm off\"; literally \"I'll go and come back\"), and the person staying answers **いってらっしゃい** (\"see you later\"; literally \"go and come back\"). The person arriving says **ただいま** (\"I'm home\"; literally \"just now\"), and whoever is at home answers **おかえりなさい** (\"welcome back\") or just **おかえり**, which is more casual. Some people say ただいま even when no one is home, out of pure habit. The same phrases are also often used at work, when leaving for an appointment and coming back.",
+    "try": "Adopt these phrases at home: say いってきます when you leave and ただいま when you arrive, even if no one answers. If you live with someone, teach them the replies: いってらっしゃい and おかえり."
   },
   "checklist": [
-    "Escolho o cumprimento certo para manhã, tarde, noite e hora de dormir, sem olhar.",
-    "Uso ありがとうございます, どうも e すみません nas situações certas e respondo a um obrigado com いいえ.",
-    "Faço a minha apresentação completa (はじめまして … よろしく おねがいします) sem pausas.",
-    "Conto de 0 a 100, e de 10 em 10, em voz alta e sem travar.",
-    "Sei as duas leituras de 4, 7 e 9 e uso よん, なな e きゅう nas dezenas.",
-    "Escrevo qualquer número até 100 em hiragana, com o う longo de じゅう e きゅう.",
-    "Fiz a lição de casa e conferi o gabarito, e refiz o que errei.",
-    "Fiz as páginas 13 e 15 do Workbook."
+    "I can choose the right greeting for morning, afternoon, evening and bedtime without looking.",
+    "I use ありがとうございます, どうも and すみません in the right situations and reply to a thank-you with いいえ.",
+    "I can give my full self-introduction (はじめまして … よろしく おねがいします) without pauses.",
+    "I can count from 0 to 100, and by tens, aloud and without stumbling.",
+    "I know both readings of 4, 7 and 9 and use よん, なな and きゅう in the tens.",
+    "I can write any number up to 100 in hiragana, with the long う of じゅう and きゅう.",
+    "I did the homework, checked it against the answer key and redid what I got wrong.",
+    "I did Workbook pages 13 and 15."
   ]
 }

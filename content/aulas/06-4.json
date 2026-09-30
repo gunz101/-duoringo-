@@ -2,193 +2,193 @@
   "id": "06-4",
   "unit": "G1-L06",
   "genki": { "book": "Genki I", "lesson": 6, "points": ["〜から", "〜ましょうか (Offering Assistance)"] },
-  "title": "Porque · posso ajudar?",
+  "title": "Because · shall I help?",
   "titleJp": "おもいですから、もちましょうか",
   "canDo": [
-    "Explicar o motivo de algo com 〜から, com o motivo antes do resultado.",
-    "Responder a どうしてですか (\"por quê?\") só com o motivo + から。",
-    "Oferecer ajuda com 〜ましょうか (\"quer que eu…?\") em situações do dia a dia.",
-    "Aceitar (おねがいします) ou recusar (いいえ、だいじょうぶです) uma oferta com educação.",
-    "Escrever os 15 kanji da Lição 6 na ordem certa dos traços."
+    "I can give the reason for something with 〜から, putting the reason before the result.",
+    "I can answer どうしてですか (\"why?\") with just the reason + から。",
+    "I can offer help with 〜ましょうか (\"shall I…?\") in everyday situations.",
+    "I can accept (おねがいします) or decline (いいえ、だいじょうぶです) an offer politely.",
+    "I can write the 15 kanji of Genki Lesson 6 in the correct stroke order."
   ],
   "duration": {
     "total": "70–90 min",
     "blocks": [
-      { "t": "Aquecimento: dar 3 desculpas em PT e pensar qual é o MOTIVO e qual é o RESULTADO de cada uma", "min": 5 },
-      { "t": "Vocabulário: ouvir 🔊 cada palavra e repetir 2 vezes", "min": 10 },
-      { "t": "Gramática: os 2 pontos, com os exemplos lidos em voz alta e um 🔬 em cada", "min": 20 },
-      { "t": "Vídeo (bloco 6), pausando nos exemplos", "min": 10 },
-      { "t": "Lição de casa no caderno + conferir no gabarito", "min": 15 },
-      { "t": "Kanji da Lição 6 (Workbook pp. 139–140) com o ✍️ Escrever do ヅオリンゴー; se preferir, numa 2ª sessão", "min": 15 },
-      { "t": "Checklist (bloco 10) + anotar dúvidas no caderno da aula", "min": 5 }
+      { "t": "Warm-up: think of 3 excuses in English and, for each one, name the REASON and the RESULT", "min": 5 },
+      { "t": "Vocabulary: tap 🔊 on each word and repeat it twice", "min": 10 },
+      { "t": "Grammar: the 2 points, with the examples read aloud and one 🔬 each", "min": 20 },
+      { "t": "Video (block 6), pausing on the examples", "min": 10 },
+      { "t": "Notebook homework + checking it against the answer key", "min": 15 },
+      { "t": "Lesson 6 kanji (Workbook pp. 139–140) with ✍️ Write in ヅオリンゴー; if you prefer, in a second session", "min": 15 },
+      { "t": "Checklist (block 10) + write your questions in the lesson notebook", "min": 5 }
     ]
   },
   "prereqs": {
     "aulas": ["05-1", "05-2", "05-3", "06-2"],
     "skills": [
-      "Conhecer 〜ましょう / 〜ましょうか no sentido de \"vamos…?\" (Aula 05-3).",
-      "Usar os adjetivos い e な no presente e no passado educado (Aulas 05-1 e 05-2): eles entram antes de から.",
-      "Fazer a forma ます no afirmativo, no negativo e no passado (のみます, のみません, のみました)."
+      "Knowing 〜ましょう / 〜ましょうか in the sense of \"let's…\" / \"shall we…?\" (lesson 05-3).",
+      "Using い- and な-adjectives in the present and in the polite past (lessons 05-1 and 05-2): they go before から.",
+      "Making the ます-form in the affirmative, the negative and the past (のみます, のみません, のみました)."
     ],
     "vocab": [
-      { "jp": "どうして", "kana": "どうして", "romaji": "dōshite", "pt": "por quê" },
-      { "jp": "だから", "kana": "だから", "romaji": "dakara", "pt": "por isso, então (no começo da frase)" },
-      { "jp": "にもつ", "kana": "にもつ", "romaji": "nimotsu", "pt": "bagagem, volume, coisas para carregar" },
-      { "jp": "もつ", "kana": "もつ", "romaji": "motsu", "pt": "segurar, carregar" },
-      { "jp": "おもい", "kana": "おもい", "romaji": "omoi", "pt": "pesado" },
-      { "jp": "てつだう", "kana": "てつだう", "romaji": "tetsudau", "pt": "ajudar" },
-      { "jp": "だいじょうぶ", "kana": "だいじょうぶ", "romaji": "daijōbu", "pt": "tudo bem, sem problema (adjetivo な)" },
-      { "jp": "おねがいします", "kana": "おねがいします", "romaji": "onegai shimasu", "pt": "por favor (aceitando algo que oferecem)" },
-      { "jp": "いそがしい", "kana": "いそがしい", "romaji": "isogashii", "pt": "ocupado" },
-      { "jp": "ねむい", "kana": "ねむい", "romaji": "nemui", "pt": "com sono" },
-      { "jp": "あつい", "kana": "あつい", "romaji": "atsui", "pt": "quente (clima)" },
-      { "jp": "さむい", "kana": "さむい", "romaji": "samui", "pt": "frio (clima)" },
-      { "jp": "からい", "kana": "からい", "romaji": "karai", "pt": "apimentado" },
-      { "jp": "カレー", "kana": "カレー", "romaji": "karē", "pt": "curry" },
-      { "jp": "エアコン", "kana": "エアコン", "romaji": "eakon", "pt": "ar-condicionado" },
-      { "jp": "テスト", "kana": "テスト", "romaji": "tesuto", "pt": "prova" },
-      { "jp": "こんばん", "kana": "こんばん", "romaji": "konban", "pt": "hoje à noite" },
-      { "jp": "やすむ", "kana": "やすむ", "romaji": "yasumu", "pt": "faltar (à aula, ao trabalho); descansar" },
-      { "jp": "あたま", "kana": "あたま", "romaji": "atama", "pt": "cabeça" },
-      { "jp": "いたい", "kana": "いたい", "romaji": "itai", "pt": "dolorido, que dói" },
-      { "jp": "おさら", "kana": "おさら", "romaji": "osara", "pt": "prato" },
-      { "jp": "あらう", "kana": "あらう", "romaji": "arau", "pt": "lavar" },
-      { "jp": "かす", "kana": "かす", "romaji": "kasu", "pt": "emprestar (para alguém)" }
+      { "jp": "どうして", "kana": "どうして", "romaji": "dōshite", "en": "why" },
+      { "jp": "だから", "kana": "だから", "romaji": "dakara", "en": "so, that's why (at the start of a sentence)" },
+      { "jp": "にもつ", "kana": "にもつ", "romaji": "nimotsu", "en": "luggage, bags, things to carry" },
+      { "jp": "もつ", "kana": "もつ", "romaji": "motsu", "en": "to hold, to carry" },
+      { "jp": "おもい", "kana": "おもい", "romaji": "omoi", "en": "heavy" },
+      { "jp": "てつだう", "kana": "てつだう", "romaji": "tetsudau", "en": "to help" },
+      { "jp": "だいじょうぶ", "kana": "だいじょうぶ", "romaji": "daijōbu", "en": "all right, no problem (な-adjective)" },
+      { "jp": "おねがいします", "kana": "おねがいします", "romaji": "onegai shimasu", "en": "yes, please (accepting something offered)" },
+      { "jp": "いそがしい", "kana": "いそがしい", "romaji": "isogashii", "en": "busy" },
+      { "jp": "ねむい", "kana": "ねむい", "romaji": "nemui", "en": "sleepy" },
+      { "jp": "あつい", "kana": "あつい", "romaji": "atsui", "en": "hot (weather)" },
+      { "jp": "さむい", "kana": "さむい", "romaji": "samui", "en": "cold (weather)" },
+      { "jp": "からい", "kana": "からい", "romaji": "karai", "en": "spicy (hot)" },
+      { "jp": "カレー", "kana": "カレー", "romaji": "karē", "en": "curry" },
+      { "jp": "エアコン", "kana": "エアコン", "romaji": "eakon", "en": "air conditioner" },
+      { "jp": "テスト", "kana": "テスト", "romaji": "tesuto", "en": "test, exam" },
+      { "jp": "こんばん", "kana": "こんばん", "romaji": "konban", "en": "tonight, this evening" },
+      { "jp": "やすむ", "kana": "やすむ", "romaji": "yasumu", "en": "to be absent (from class, work); to rest" },
+      { "jp": "あたま", "kana": "あたま", "romaji": "atama", "en": "head" },
+      { "jp": "いたい", "kana": "いたい", "romaji": "itai", "en": "painful, sore (it hurts)" },
+      { "jp": "おさら", "kana": "おさら", "romaji": "osara", "en": "plate, dish" },
+      { "jp": "あらう", "kana": "あらう", "romaji": "arau", "en": "to wash" },
+      { "jp": "かす", "kana": "かす", "romaji": "kasu", "en": "to lend (to someone)" }
     ]
   },
   "grammar": [
     {
       "id": "06-4-a",
       "gc": "6-6",
-      "title": "〜から (porque)",
-      "gloss": "motivo → resultado",
-      "explanation": "から liga um **motivo** a um **resultado**, e a ordem é o **inverso do português**: primeiro vem o motivo, com から colado no fim dele; depois vem o resultado, que é o predicado da frase.\n• [motivo]から、[resultado]。: いそがしいですから、きょうは 行きません。 (\"Estou ocupado, por isso hoje não vou.\")\n• Leia pelo fim: o predicado (行きません) diz o que acontece; o bloco com から responde \"por quê?\". A Anatomia do ヅオリンゴー marca esse bloco como **MOTIVO**.\n• Nesta fase, antes de から use a forma educada: 〜ます, 〜ません, 〜ました, 〜です, 〜でした. A forma curta + から (いそがしいから) é da fala casual e vem na Lição 9.\n• **Só o motivo:** para responder どうしてですか (\"por quê?\"), basta o motivo + から. — どうしてですか。— いそがしいですから。 (\"Por quê? — Porque estou ocupado.\")\n• **だから** (\"por isso\") faz o mesmo trabalho entre duas frases: いそがしいです。だから、行きません。",
-      "structure": "[motivo] から、[resultado]。 · どうしてですか。— [motivo] から。",
+      "title": "〜から (because)",
+      "gloss": "reason → result",
+      "explanation": "から links a **reason** to a **result**. First comes the reason, with から attached to its end; then comes the result, which is the predicate of the sentence. That is the order of English \"…, so…\", and the **reverse** of an English \"because\" sentence, where the result usually comes first.\n• [reason]から、[result]。: いそがしいですから、きょうは 行きません。 (\"I'm busy, so I'm not going today.\")\n• Read from the end: the predicate (行きません) says what happens; the block with から answers \"why?\". The ヅオリンゴー Anatomy marks this block as **REASON**.\n• At this stage, use the polite form before から: 〜ます, 〜ません, 〜ました, 〜です, 〜でした. The short form + から (いそがしいから) belongs to casual speech and comes in lesson 09-3.\n• **Just the reason:** to answer どうしてですか (\"why?\"), the reason + から is enough. — どうしてですか。— いそがしいですから。 (\"Why? — Because I'm busy.\")\n• **だから** (\"so, that's why\") does the same job between two sentences: いそがしいです。だから、行きません。",
+      "structure": "[reason] から、[result]。 · どうしてですか。— [reason] から。",
       "examples": [
-        { "jp": "あしたは テストが ありますから、こんばん べんきょうします。", "kana": "あしたは テストが ありますから、こんばん べんきょうします。", "romaji": "Ashita wa tesuto ga arimasu kara, konban benkyō shimasu.", "pt": "Amanhã tem prova, então hoje à noite vou estudar." },
-        { "jp": "この カレーは からいですから、マリアさんは 食べません。", "kana": "この カレーは からいですから、マリアさんは たべません。", "romaji": "Kono karē wa karai desu kara, Maria-san wa tabemasen.", "pt": "Este curry é apimentado, então a Maria não come." },
-        { "jp": "きのう 大学を やすみました。— どうしてですか。— あたまが いたかったですから。", "kana": "きのう だいがくを やすみました。— どうしてですか。— あたまが いたかったですから。", "romaji": "Kinō daigaku o yasumimashita. — Dōshite desu ka. — Atama ga itakatta desu kara.", "pt": "Ontem faltei à faculdade. — Por quê? — Porque eu estava com dor de cabeça." }
+        { "jp": "あしたは テストが ありますから、こんばん べんきょうします。", "kana": "あしたは テストが ありますから、こんばん べんきょうします。", "romaji": "Ashita wa tesuto ga arimasu kara, konban benkyō shimasu.", "en": "I have a test tomorrow, so I'll study tonight. [lit. as for tomorrow, there is a test, so tonight (I) study]" },
+        { "jp": "この カレーは からいですから、マリアさんは 食べません。", "kana": "この カレーは からいですから、マリアさんは たべません。", "romaji": "Kono karē wa karai desu kara, Maria-san wa tabemasen.", "en": "This curry is spicy, so Maria won't eat it." },
+        { "jp": "きのう 大学を やすみました。— どうしてですか。— あたまが いたかったですから。", "kana": "きのう だいがくを やすみました。— どうしてですか。— あたまが いたかったですから。", "romaji": "Kinō daigaku o yasumimashita. — Dōshite desu ka. — Atama ga itakatta desu kara.", "en": "I missed college yesterday. — Why? — Because I had a headache." }
       ],
       "pitfalls": [
-        "A ordem é invertida: \"não vou porque estou ocupado\" = いそがしいですから、行きません ✓. 行きませんから、いそがしいです ✗ quer dizer \"como não vou, estou ocupado\".",
-        "から vai colado depois do motivo, nunca no começo, como o \"porque\" do português: から いそがしいです ✗.",
-        "Não confunda com o から de \"a partir de\" (九時から, \"a partir das 9\"). Depois de hora ou lugar, é \"de / desde\"; depois de verbo ou adjetivo, é \"porque\".",
-        "Antes de から, nesta fase, mantenha です/ます: からいですから ✓. からいから também existe, mas é casual (Lição 9)."
+        "The order is the reverse of English \"because\": \"I'm not going because I'm busy\" = いそがしいですから、行きません ✓. 行きませんから、いそがしいです ✗ means \"since I'm not going, I'm busy\".",
+        "から goes right after the reason, never at the start the way English \"because\" does: から いそがしいです ✗.",
+        "Don't confuse it with から meaning \"from\" (九時から, \"from 9 o'clock\"). After a time or a place it means \"from / since\"; after a verb or an adjective, it means \"because\".",
+        "Before から, at this stage, keep です/ます: からいですから ✓. からいから also exists, but it is casual (lesson 09-3)."
       ],
       "howToStudy": [
-        "Fala: dê 3 desculpas em japonês para não sair hoje, cada uma com 〜ですから ou 〜ますから (いそがしいですから, テストが ありますから, ねむいですから…).",
-        "Aperte 🔬 no exemplo da prova: ありますから aparece como MOTIVO e べんきょうします como PREDICADO. Leia do predicado para o começo.",
-        "No caderno, responda 3 どうしてですか sobre a sua vida real: por que você estuda japonês, por que gosta de um lugar, por que acordou cedo ou tarde."
+        "Speaking: give 3 excuses in Japanese for not going out today, each with 〜ですから or 〜ますから (いそがしいですから, テストが ありますから, ねむいですから…).",
+        "Tap 🔬 on the test example: ありますから shows up as REASON and べんきょうします as PREDICATE. Read from the predicate back to the start.",
+        "In your notebook, answer 3 どうしてですか questions about your real life: why you study Japanese, why you like a certain place, why you got up early or late."
       ],
       "flag": null
     },
     {
       "id": "06-4-b",
       "gc": "6-7",
-      "title": "〜ましょうか (oferecer ajuda)",
-      "gloss": "quer que eu…?",
-      "explanation": "Na Aula 05-3, 〜ましょうか era um convite: \"vamos…?\" (nós dois). Aqui, o mesmo 〜ましょうか serve para **oferecer ajuda**: \"**quer que eu…?**\". A diferença está em **quem age**: na oferta, só **eu** faço, e faço **por você**.\n• Forma: radical da forma ます + **ましょうか**. もちます → もちましょうか · かします → かしましょうか · つけます → つけましょうか. Aqui não entra a forma て.\n• Muitas vezes vem depois de um motivo com から: あついですから、エアコンを つけましょうか。\n• **Aceitar:** ええ、おねがいします。 ou ありがとうございます。おねがいします。\n• **Recusar com educação:** いいえ、だいじょうぶです。ありがとうございます。 Agradeça mesmo recusando.\n• Para deixar claro que é você quem vai fazer, dá para pôr わたしが: わたしが もちましょうか。 (\"Eu carrego?\")\n• A Anatomia do ヅオリンゴー marca esse fim como **convite / sugestão**, porque a forma é a mesma do \"vamos\". Quem decide se é convite ou oferta é o **contexto**.",
-      "structure": "([motivo] から、) [objeto] を [radical-ます] ましょうか。 — ええ、おねがいします。 ／ いいえ、だいじょうぶです。",
+      "title": "〜ましょうか (offering help)",
+      "gloss": "shall I…?",
+      "explanation": "In lesson 05-3, 〜ましょうか was an invitation: \"shall we…?\" (the two of us). Here the same 〜ましょうか is used to **offer help**: \"**shall I…?**\". The difference is **who acts**: in an offer, only **I** do it, and I do it **for you**. English marks this with \"we\" or \"I\"; Japanese usually leaves it to the context.\n• Form: ます-stem + **ましょうか**. もちます → もちましょうか · かします → かしましょうか · つけます → つけましょうか. The て-form is not used here.\n• It often comes after a reason with から: あついですから、エアコンを つけましょうか。\n• **Accepting:** ええ、おねがいします。, ありがとうございます。おねがいします。 or すみません。おねがいします。 (\"Sorry to trouble you. Yes, please.\")\n• **Declining politely:** いいえ、だいじょうぶです。ありがとうございます。 Say thank you even when you decline.\n• To make it clear that you are the one who will do it, you can add わたしが: わたしが もちましょうか。 (\"Shall **I** carry it?\")\n• The ヅオリンゴー Anatomy marks this ending as **★ PREDICATE · invitation / suggestion**, because the form is the same as for \"let's\". The **context** decides whether it is an invitation or an offer.",
+      "structure": "([reason] から、) [object] を [ます-stem] ましょうか。 — ええ、おねがいします。 ／ いいえ、だいじょうぶです。",
       "examples": [
-        { "jp": "おもいですね。わたしが もちましょうか。— ありがとうございます。おねがいします。", "kana": "おもいですね。わたしが もちましょうか。— ありがとうございます。おねがいします。", "romaji": "Omoi desu ne. Watashi ga mochimashō ka. — Arigatō gozaimasu. Onegai shimasu.", "pt": "(A mala) está pesada, né? Quer que eu carregue? — Obrigado(a). Por favor." },
-        { "jp": "あついですから、エアコンを つけましょうか。— ええ、おねがいします。", "kana": "あついですから、エアコンを つけましょうか。— ええ、おねがいします。", "romaji": "Atsui desu kara, eakon o tsukemashō ka. — Ee, onegai shimasu.", "pt": "Está calor. Quer que eu ligue o ar-condicionado? — Sim, por favor." },
-        { "jp": "しゅくだいを てつだいましょうか。— いいえ、だいじょうぶです。ありがとうございます。", "kana": "しゅくだいを てつだいましょうか。— いいえ、だいじょうぶです。ありがとうございます。", "romaji": "Shukudai o tetsudaimashō ka. — Iie, daijōbu desu. Arigatō gozaimasu.", "pt": "Quer que eu ajude com a lição de casa? — Não, está tudo bem. Obrigado(a)." }
+        { "jp": "おもいですね。わたしが もちましょうか。— ありがとうございます。おねがいします。", "kana": "おもいですね。わたしが もちましょうか。— ありがとうございます。おねがいします。", "romaji": "Omoi desu ne. Watashi ga mochimashō ka. — Arigatō gozaimasu. Onegai shimasu.", "en": "That's heavy, isn't it? Shall I carry it? — Thank you. Yes, please." },
+        { "jp": "あついですから、エアコンを つけましょうか。— すみません。おねがいします。", "kana": "あついですから、エアコンを つけましょうか。— すみません。おねがいします。", "romaji": "Atsui desu kara, eakon o tsukemashō ka. — Sumimasen. Onegai shimasu.", "en": "It's hot, so shall I turn on the air conditioner? — Sorry to trouble you. Yes, please." },
+        { "jp": "しゅくだいを てつだいましょうか。— いいえ、だいじょうぶです。ありがとうございます。", "kana": "しゅくだいを てつだいましょうか。— いいえ、だいじょうぶです。ありがとうございます。", "romaji": "Shukudai o tetsudaimashō ka. — Iie, daijōbu desu. Arigatō gozaimasu.", "en": "Shall I help you with your homework? — No, I'm fine. Thank you." }
       ],
       "pitfalls": [
-        "Oferta × pedido: てつだいましょうか = \"quer que eu ajude?\" (eu ajudo). てつだってください = \"me ajude, por favor\" (você ajuda).",
-        "A forma é radical + ましょうか, sem forma て: もってましょうか ✗ → もちましょうか ✓.",
-        "Não traduza palavra por palavra o \"você quer que eu…?\" do português. Em japonês basta 〜ましょうか, sem \"você\" e sem \"querer\".",
-        "Ao recusar, não diga só いいえ, que soa seco. Complete com だいじょうぶです e agradeça."
+        "Offer × request: てつだいましょうか = \"shall I help?\" (I help). てつだってください = \"please help me\" (you help).",
+        "The form is the ます-stem + ましょうか, with no て-form: もってましょうか ✗ → もちましょうか ✓.",
+        "Don't translate English \"Do you want me to…?\" word for word. In Japanese, 〜ましょうか is enough: no \"you\" and no \"want\".",
+        "When declining, don't say just いいえ: it sounds curt. Add だいじょうぶです and say thank you."
       ],
       "howToStudy": [
-        "Fala: ofereça ajuda em voz alta em cada situação: mala pesada (もつ), sala escura (でんきを つける), amigo sem caneta (ペンを かす), louça na pia (おさらを あらう).",
-        "Responda cada oferta das duas formas: ええ、おねがいします / いいえ、だいじょうぶです。ありがとうございます。",
-        "Aperte 🔬 no exemplo do ar-condicionado: há um bloco de MOTIVO (〜から) e o PREDICADO (つけましょうか). Monte uma frase sua igual, trocando o motivo e a ajuda."
+        "Speaking: offer help out loud in each situation: a heavy suitcase (もつ), a dark room (でんきを つける), a friend with no pen (ペンを かす), dishes in the sink (おさらを あらう).",
+        "Answer each offer both ways: ええ、おねがいします / いいえ、だいじょうぶです。ありがとうございます。",
+        "Tap 🔬 on the air-conditioner example: there is a REASON block (〜から) and the PREDICATE (つけましょうか). Build a sentence of your own the same way, changing the reason and the help."
       ],
       "flag": null
     }
   ],
   "media": [
-    { "order": 1, "kind": "leitura", "title": "Genki I · Lição 6: as explicações de gramática 〜から e 〜ましょうか (Offering Assistance), e a Lição 6 da parte de Leitura e Escrita (kanji)", "where": "Seu livro Genki I (3ª ed.)", "url": "", "when": "Antes desta aula ou logo depois do bloco de gramática" },
-    { "order": 2, "kind": "video", "title": "ToKini Andy: 〜から e 〜ましょうか (Lição 6 do Genki I)", "where": "YouTube · canal ToKini Andy", "url": "", "search": "ToKini Andy Genki Lesson 6 kara mashou ka", "when": "Depois dos 2 pontos: o vídeo confirma e dá mais exemplos" },
-    { "order": 3, "kind": "app", "title": "genki-companion: Lição 6, pontos 6 e 7 (marque ✍️; com eles, a Lição 6 fica completa)", "where": "../genki-companion/index.html", "url": "../genki-companion/index.html", "when": "No fim, para revisar e marcar o progresso" }
+    { "order": 1, "kind": "reading", "title": "Genki I · Lesson 6: the grammar notes 〜から and 〜ましょうか (Offering Assistance), and Lesson 6 of the Reading and Writing section (kanji)", "where": "Your Genki I textbook (3rd ed.)", "url": "", "when": "Before this lesson or right after the grammar block" },
+    { "order": 2, "kind": "video", "title": "Japanese Ammo with Misa: 〜から (because) and offering help with 〜ましょうか", "where": "YouTube · Japanese Ammo with Misa channel", "url": "", "search": "Japanese Ammo with Misa kara because", "when": "After the 2 points: the video confirms them and gives more examples" },
+    { "order": 3, "kind": "app", "title": "genki-companion: Lesson 6, points 6 and 7 (tick ✍️; with these, Lesson 6 is complete)", "where": "../genki-companion/index.html", "url": "../genki-companion/index.html", "when": "At the end, to review and mark your progress" }
   ],
   "homework": {
-    "intro": "Faça no caderno, à mão, com os kanji que você já conhece e o resto em kana. Só depois abra o gabarito, item por item. Circule o que errou e refaça no dia seguinte.",
+    "intro": "Do it by hand in your notebook, using the kanji you already know and kana for the rest. Only then open the answer key, item by item. Circle what you got wrong and redo it the next day.",
     "tasks": [
       {
         "id": "h1",
-        "type": "juntar",
-        "prompt": "Junte as duas frases com から. O motivo vem primeiro.",
+        "type": "combine",
+        "prompt": "Join the two sentences with から. The reason comes first.",
         "items": [
           { "q": "おかねが ありません。／ 今日は かいものを しません。", "a": { "jp": "おかねが ありませんから、今日は かいものを しません。", "kana": "おかねが ありませんから、きょうは かいものを しません。", "romaji": "Okane ga arimasen kara, kyō wa kaimono o shimasen." } },
           { "q": "さむいです。／ まどを しめます。", "a": { "jp": "さむいですから、まどを しめます。", "romaji": "Samui desu kara, mado o shimemasu." } },
           { "q": "ねむいです。／ コーヒーを 飲みます。", "a": { "jp": "ねむいですから、コーヒーを 飲みます。", "kana": "ねむいですから、コーヒーを のみます。", "romaji": "Nemui desu kara, kōhī o nomimasu." } },
-          { "q": "きのうは ひまでした。／ えいがを 見ました。", "a": { "jp": "きのうは ひまでしたから、えいがを 見ました。", "kana": "きのうは ひまでしたから、えいがを みました。", "romaji": "Kinō wa hima deshita kara, eiga o mimashita." }, "note": "Adjetivo な no passado: ひまでした + から." },
+          { "q": "きのうは ひまでした。／ えいがを 見ました。", "a": { "jp": "きのうは ひまでしたから、えいがを 見ました。", "kana": "きのうは ひまでしたから、えいがを みました。", "romaji": "Kinō wa hima deshita kara, eiga o mimashita." }, "note": "A な-adjective in the past: ひまでした + から." },
           { "q": "この アパートは しずかです。／ すきです。", "a": { "jp": "この アパートは しずかですから、すきです。", "romaji": "Kono apāto wa shizuka desu kara, suki desu." } }
         ]
       },
       {
         "id": "h2",
-        "type": "responder",
-        "prompt": "Responda à pergunta どうしてですか só com o motivo + から, usando a pista.",
+        "type": "answer",
+        "prompt": "Answer the question どうしてですか with just the reason + から, using the hint.",
         "items": [
-          { "q": "A: 今日は パーティーに 行きません。 B: どうしてですか。 (pista: いそがしい)", "a": { "jp": "いそがしいですから。", "romaji": "Isogashii desu kara." } },
-          { "q": "A: コートを きます。 B: どうしてですか。 (pista: さむい)", "a": { "jp": "さむいですから。", "romaji": "Samui desu kara." } },
-          { "q": "A: まいにち にほんごを べんきょうします。 B: どうしてですか。 (pista: らいねん 日本に 行きます)", "a": { "jp": "らいねん 日本に 行きますから。", "kana": "らいねん にほんに いきますから。", "romaji": "Rainen Nihon ni ikimasu kara." } },
-          { "q": "A: きのう ねませんでした。 B: どうしてですか。 (pista: しゅくだいが たくさん ありました)", "a": { "jp": "しゅくだいが たくさん ありましたから。", "romaji": "Shukudai ga takusan arimashita kara." }, "note": "O motivo está no passado, então から vem depois de ありました." }
+          { "q": "A: 今日は パーティーに 行きません。 B: どうしてですか。 (hint: いそがしい)", "a": { "jp": "いそがしいですから。", "romaji": "Isogashii desu kara." } },
+          { "q": "A: コートを きます。 B: どうしてですか。 (hint: さむい)", "a": { "jp": "さむいですから。", "romaji": "Samui desu kara." } },
+          { "q": "A: まいにち にほんごを べんきょうします。 B: どうしてですか。 (hint: らいねん 日本に 行きます)", "a": { "jp": "らいねん 日本に 行きますから。", "kana": "らいねん にほんに いきますから。", "romaji": "Rainen Nihon ni ikimasu kara." } },
+          { "q": "A: きのう ねませんでした。 B: どうしてですか。 (hint: しゅくだいが たくさん ありました)", "a": { "jp": "しゅくだいが たくさん ありましたから。", "romaji": "Shukudai ga takusan arimashita kara." }, "note": "The reason is in the past, so から comes after ありました." }
         ]
       },
       {
         "id": "h3",
-        "type": "oferecer",
-        "prompt": "Ofereça ajuda com 〜ましょうか em cada situação.",
+        "type": "offer",
+        "prompt": "Offer help with 〜ましょうか in each situation.",
         "items": [
-          { "q": "Seu amigo está com uma bagagem pesada.", "a": { "jp": "にもつを もちましょうか。", "romaji": "Nimotsu o mochimashō ka." }, "note": "もつ → もちます → もちましょうか." },
-          { "q": "A sala está escura.", "a": { "jp": "でんきを つけましょうか。", "romaji": "Denki o tsukemashō ka." } },
-          { "q": "Sua colega esqueceu a caneta.", "a": { "jp": "ペンを かしましょうか。", "romaji": "Pen o kashimashō ka." }, "note": "かす (emprestar) → かします → かしましょうか." },
-          { "q": "Está frio e a janela está aberta.", "a": { "jp": "まどを しめましょうか。", "romaji": "Mado o shimemashō ka." } },
-          { "q": "Sobrou louça depois do jantar na casa de um amigo.", "a": { "jp": "おさらを あらいましょうか。", "romaji": "Osara o araimashō ka." } }
+          { "q": "Your friend is carrying heavy luggage.", "a": { "jp": "にもつを もちましょうか。", "romaji": "Nimotsu o mochimashō ka." }, "note": "もつ → もちます → もちましょうか." },
+          { "q": "The room is dark.", "a": { "jp": "でんきを つけましょうか。", "romaji": "Denki o tsukemashō ka." } },
+          { "q": "Your classmate forgot her pen.", "a": { "jp": "ペンを かしましょうか。", "romaji": "Pen o kashimashō ka." }, "note": "かす (to lend) → かします → かしましょうか." },
+          { "q": "It's cold and the window is open.", "a": { "jp": "まどを しめましょうか。", "romaji": "Mado o shimemashō ka." } },
+          { "q": "There are dirty dishes left after dinner at a friend's house.", "a": { "jp": "おさらを あらいましょうか。", "romaji": "Osara o araimashō ka." } }
         ]
       },
       {
         "id": "h4",
-        "type": "produzir",
-        "prompt": "Escreva um minidiálogo de 4 falas: alguém dá um motivo com から, o outro oferece ajuda com 〜ましょうか, e o primeiro aceita ou recusa com educação. Leia em voz alta fazendo as duas vozes e grave.",
+        "type": "produce",
+        "prompt": "Write a 4-line mini-dialogue: someone gives a reason with から, the other person offers help with 〜ましょうか, and the first person accepts or declines politely. Read it aloud doing both voices, and record it.",
         "items": [
-          { "q": "Modelo, que o seu texto deve seguir na estrutura e não nas palavras:", "a": { "jp": "ルーカス：あした ともだちが たくさん きますから、今日は りょうりを つくります。— アナ：たいへんですね。てつだいましょうか。— ルーカス：ありがとうございます。おねがいします。— アナ：じゃあ、四時に 行きますね。", "kana": "ルーカス：あした ともだちが たくさん きますから、きょうは りょうりを つくります。— アナ：たいへんですね。てつだいましょうか。— ルーカス：ありがとうございます。おねがいします。— アナ：じゃあ、よじに いきますね。", "romaji": "Rūkasu: Ashita tomodachi ga takusan kimasu kara, kyō wa ryōri o tsukurimasu. — Ana: Taihen desu ne. Tetsudaimashō ka. — Rūkasu: Arigatō gozaimasu. Onegai shimasu. — Ana: Jā, yoji ni ikimasu ne.", "pt": "Lucas: Amanhã vêm muitos amigos, então hoje vou cozinhar. — Ana: Que trabalheira, hein. Quer que eu ajude? — Lucas: Obrigado. Por favor. — Ana: Então eu vou às 4, tá?" }, "note": "Confira: o motivo com から vem antes do resultado; a oferta é radical + ましょうか (てつだいましょうか, e não てつだってましょうか); aceitar = おねがいします; recusar = いいえ、だいじょうぶです + agradecer." }
+          { "q": "Model (match its structure, not its words):", "a": { "jp": "ルーカス：あした ともだちが たくさん きますから、今日は りょうりを つくります。— アナ：たいへんですね。てつだいましょうか。— ルーカス：ありがとうございます。おねがいします。— アナ：じゃあ、四時に 行きますね。", "kana": "ルーカス：あした ともだちが たくさん きますから、きょうは りょうりを つくります。— アナ：たいへんですね。てつだいましょうか。— ルーカス：ありがとうございます。おねがいします。— アナ：じゃあ、よじに いきますね。", "romaji": "Rūkasu: Ashita tomodachi ga takusan kimasu kara, kyō wa ryōri o tsukurimasu. — Ana: Taihen desu ne. Tetsudaimashō ka. — Rūkasu: Arigatō gozaimasu. Onegai shimasu. — Ana: Jā, yoji ni ikimasu ne.", "en": "Lucas: A lot of friends are coming tomorrow, so today I'm going to cook. — Ana: That's a lot of work! Shall I help? — Lucas: Thank you. Yes, please. — Ana: OK then, I'll come over at four." }, "note": "Check: the reason with から comes before the result; the offer is the ます-stem + ましょうか (てつだいましょうか, not てつだってましょうか); accepting = おねがいします; declining = いいえ、だいじょうぶです + thank you." }
         ]
       }
     ],
     "workbook": [
-      { "p": 66, "t": "7 · ～から・～ましょうか", "tip": "Faça depois dos pontos 4a e 4b." },
-      { "p": 67, "t": "8 · 答えましょう (Questions)", "tip": "Faça por último, como revisão da Lição 6 inteira." },
-      { "p": 68, "t": "9 · 聞く練習 (Listening Comprehension)", "tip": "Precisa do áudio oficial do Genki (veja no seu livro como acessá-lo). Pode ficar para outra sessão." },
-      { "p": 139, "t": "Kanji Practice", "tip": "Os 15 kanji da Lição 6 (東 西 南 北 口 出 右 左 分 先 生 大 学 外 国). Confira a ordem dos traços no ✍️ Escrever do ヅオリンゴー." },
-      { "p": 140, "t": "Using Kanji", "tip": "Depois da página 139. Confira no Genki Answer Key oficial." }
+      { "p": 66, "t": "7 · ～から・～ましょうか", "tip": "Do it after points 4a and 4b." },
+      { "p": 67, "t": "8 · 答えましょう (Questions)", "tip": "Do it last, as a review of the whole of Lesson 6." },
+      { "p": 68, "t": "9 · 聞く練習 (Listening Comprehension)", "tip": "You need the official Genki audio (see your textbook for how to access it). It can wait for another session." },
+      { "p": 139, "t": "Kanji Practice", "tip": "The 15 kanji of Lesson 6 (東 西 南 北 口 出 右 左 分 先 生 大 学 外 国). Check the stroke order in ✍️ Write in ヅオリンゴー." },
+      { "p": 140, "t": "Using Kanji", "tip": "After page 139. Check it with the official Genki Answer Key." }
     ]
   },
   "practice": [
-    { "tool": "Wagotabi", "what": "Jogue normalmente e cace から e ましょうか nos diálogos. Quando alguém der um motivo, diga em PT o que é MOTIVO e o que é RESULTADO; quando alguém oferecer algo, diga quem vai agir. Registre a sessão em Imersão → Jogos e cole uma dessas frases na 🔬 Anatomia.", "min": 15 },
-    { "tool": "Kanji", "what": "ヅオリンゴー → Kanji → ✍️ Escrever: os 15 kanji da Lição 6, 5 por vez, junto com as páginas 139–140 do Workbook.", "min": 15 },
-    { "tool": "ヅオリンゴー", "what": "Vocabulário da Lição 6 no SRS. Depois, Praticar L6 completo (conjugação, escuta e compreensão), como revisão da lição inteira.", "min": 15 },
-    { "tool": "Diário", "what": "Escreva no Diário do ヅオリンゴー 3 frases verdadeiras com 〜から sobre o seu dia e confira com \"Anatomia do que escrevi\": o bloco com から deve aparecer como MOTIVO.", "min": 10 },
-    { "tool": "Fala", "what": "Grave o seu minidiálogo (lição de casa h4) fazendo as duas vozes. Ouça e confira se o motivo vem antes do resultado.", "min": 5 }
+    { "tool": "Wagotabi", "what": "Play normally and hunt for から and ましょうか in the dialogues. When someone gives a reason, say in English which part is the REASON and which is the RESULT; when someone offers something, say who will act. Log the session in Immersion → Games and paste one of those lines into 🔬 Anatomy.", "min": 15 },
+    { "tool": "Kanji", "what": "ヅオリンゴー → Kanji → ✍️ Write: the 15 kanji of Lesson 6, 5 at a time, together with Workbook pages 139–140.", "min": 15 },
+    { "tool": "ヅオリンゴー", "what": "Lesson 6 vocabulary in the SRS. Then the full Practice L6 (conjugation, listening and comprehension), as a review of the whole lesson.", "min": 15 },
+    { "tool": "Journal", "what": "In the ヅオリンゴー Journal, write 3 true sentences with 〜から about your day and check them with \"Anatomy of what I wrote\": the block with から should show up as REASON.", "min": 10 },
+    { "tool": "Speaking", "what": "Record your mini-dialogue (homework h4) doing both voices. Listen and check that the reason comes before the result.", "min": 5 }
   ],
   "culture": {
-    "title": "えんりょ: oferecer e aceitar ajuda",
+    "title": "えんりょ: offering and accepting help",
     "titleJp": "えんりょ",
-    "body": "**えんりょ** (遠慮) é a contenção de quem não quer dar trabalho aos outros: não aceitar de primeira, não se servir antes de ser convidado, não pedir demais. Por isso, quando você oferece ajuda com 〜ましょうか, é comum ouvir uma recusa educada na primeira vez (いいえ、だいじょうぶです), mesmo quando a pessoa precisa. Muita gente então oferece de novo, com leveza, e aí a ajuda costuma ser aceita. Quem oferece pode dizer えんりょしないでください (\"não faça cerimônia\"), uma expressão que você vai entender por completo na Lição 8. Entre amigos próximos e na família, a えんりょ diminui bastante.",
-    "try": "Treine o ciclo completo em voz alta: ofereça (にもつを もちましょうか), recuse uma vez (いいえ、だいじょうぶです), ofereça de novo (ほんとうに だいじょうぶですか) e aceite (じゃあ、すみません。おねがいします)."
+    "body": "**えんりょ** (遠慮) is the restraint of someone who doesn't want to trouble others: not accepting right away, not helping yourself before you are invited, not asking for too much. So when you offer help with 〜ましょうか, it's common to hear a polite refusal the first time (いいえ、だいじょうぶです), even when the person does need help. Many people then offer again, lightly, and the help is usually accepted. The person offering can say えんりょしないでください (\"please don't hold back\"), an expression you'll fully understand in lesson 08-3. Among close friends and family, えんりょ is much weaker.",
+    "try": "Practice the full cycle out loud: offer (にもつを もちましょうか), decline once (いいえ、だいじょうぶです), offer again (ほんとうに だいじょうぶですか) and accept (じゃあ、すみません。おねがいします)."
   },
   "checklist": [
-    "Dou motivos com 〜から, sempre com o motivo antes do resultado.",
-    "Respondo どうしてですか só com o motivo + から。",
-    "Ofereço ajuda com 〜ましょうか em 4 situações, sem olhar.",
-    "Aceito (おねがいします) e recuso (いいえ、だいじょうぶです) uma oferta, agradecendo.",
-    "Sei que てつだってください é pedido e てつだいましょうか é oferta.",
-    "Escrevo os 15 kanji da Lição 6 na ordem certa dos traços.",
-    "Fiz a lição de casa e conferi o gabarito, e refiz o que errei.",
-    "Fiz as páginas 66–68 e 139–140 do Workbook."
+    "I can give reasons with 〜から, always with the reason before the result.",
+    "I can answer どうしてですか with just the reason + から。",
+    "I can offer help with 〜ましょうか in 4 situations, without looking.",
+    "I can accept (おねがいします) and decline (いいえ、だいじょうぶです) an offer, saying thank you.",
+    "I know that てつだってください is a request and てつだいましょうか is an offer.",
+    "I can write the 15 kanji of Lesson 6 in the correct stroke order.",
+    "I did the homework, checked it against the answer key and redid what I got wrong.",
+    "I did Workbook pages 66–68 and 139–140."
   ]
 }

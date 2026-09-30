@@ -2,59 +2,61 @@
   "id": "05-3",
   "unit": "G1-L05",
   "genki": { "book": "Genki I", "lesson": 5, "points": ["～ましょう／～ましょうか", "Counting"] },
-  "title": "Vamos! · contando coisas",
+  "title": "Let's! · counting things",
   "titleJp": "いっしょに 行きましょう！",
   "canDo": [
-    "Sugerir fazer algo junto com 〜ましょう e pedir a opinião do outro com 〜ましょうか.",
-    "Convidar com 〜ませんか, aceitar e fechar o combinado com 〜ましょう.",
-    "Contar objetos de 1 a 10 com ひとつ … とお, perguntar いくつ e pedir quantidades: おにぎりを 二つ ください。",
-    "Graduar um adjetivo ou verbo com とても, ちょっと, あまり〜ない e ぜんぜん〜ない."
+    "I can suggest doing something together with 〜ましょう and ask the other person's opinion with 〜ましょうか.",
+    "I can invite with 〜ませんか, accept, and seal the plan with 〜ましょう.",
+    "I can count things from 1 to 10 with ひとつ … とお, ask いくつ, and order amounts: おにぎりを 二つ ください。",
+    "I can count flat things (stamps, T-shirts) with 〜まい: きってを 三まい ください。",
+    "I can grade adjectives with とても and ちょっと, and negative adjectives or verbs with あまり and ぜんぜん."
   ],
   "duration": {
     "total": "70–90 min",
     "blocks": [
-      { "t": "Aquecimento: dizer 5 verbos na forma 〜ます e contar いち〜じゅう em voz alta", "min": 5 },
-      { "t": "Vocabulário: ouvir 🔊 cada palavra e repetir 2 vezes, com atenção especial às leituras de ひとつ〜とお", "min": 10 },
-      { "t": "Gramática: os 3 pontos com um 🔬 cada. A aula é densa: se preferir, divida em 2 sessões (ましょう e graus numa, contagem e kanji na outra)", "min": 25 },
-      { "t": "Vídeo da Lição 5 (bloco 6), na parte de ましょう e da contagem", "min": 10 },
-      { "t": "Kanji da Lição 5: Kanji → ✍️ Escrever no ヅオリンゴー, depois as páginas 137–138 do Workbook", "min": 15 },
-      { "t": "Lição de casa no caderno + conferir no gabarito", "min": 15 },
-      { "t": "Checklist (bloco 10) + anotar dúvidas no caderno da aula", "min": 5 }
+      { "t": "Warm-up: say 5 verbs in the 〜ます form and count いち〜じゅう aloud", "min": 5 },
+      { "t": "Vocabulary: tap 🔊 on each word and repeat it twice, paying special attention to the readings of ひとつ〜とお", "min": 10 },
+      { "t": "Grammar: the 3 points, one 🔬 each. This lesson is dense: if you prefer, split it into 2 sessions (ましょう and degree words in one, counting and kanji in the other)", "min": 25 },
+      { "t": "Lesson 5 video (block 6): the part on ましょう and counting", "min": 10 },
+      { "t": "Lesson 5 kanji: Kanji → ✍️ Write in ヅオリンゴー, then Workbook pages 137–138", "min": 15 },
+      { "t": "Notebook homework + checking it against the answer key", "min": 15 },
+      { "t": "Checklist (block 10) + write your questions in the lesson notebook", "min": 5 }
     ]
   },
   "prereqs": {
-    "aulas": ["02-2", "03-3", "05-1", "05-2"],
+    "aulas": ["02-2", "03-1", "03-3", "05-1", "05-2"],
     "skills": [
-      "Formar o 〜ます de qualquer verbo (Aula 03-1): 〜ましょう sai direto dele.",
-      "Convidar com 〜ませんか (Aula 03-3).",
-      "Pedir com 〜を ください e contar いち, に, さん… (Aulas 00-3 e 02-2).",
-      "Negar adjetivos no presente e no passado (Aulas 05-1 e 05-2): あまり e ぜんぜん pedem a forma negativa."
+      "Making the 〜ます form of any verb (lesson 03-1): 〜ましょう comes straight from it.",
+      "Inviting with 〜ませんか, and using あまり / ぜんぜん with negative verbs (lesson 03-3).",
+      "Asking for things with 〜を ください and counting いち, に, さん… (lessons 00-3 and 02-2).",
+      "Making adjectives negative in the present and in the past (lessons 05-1 and 05-2): あまり and ぜんぜん need the negative form."
     ],
     "vocab": [
-      { "jp": "一つ", "kana": "ひとつ", "romaji": "hitotsu", "pt": "um (objeto)" },
-      { "jp": "二つ", "kana": "ふたつ", "romaji": "futatsu", "pt": "dois (objetos)" },
-      { "jp": "三つ", "kana": "みっつ", "romaji": "mittsu", "pt": "três (objetos)" },
-      { "jp": "四つ", "kana": "よっつ", "romaji": "yottsu", "pt": "quatro (objetos)" },
-      { "jp": "五つ", "kana": "いつつ", "romaji": "itsutsu", "pt": "cinco (objetos)" },
-      { "jp": "六つ", "kana": "むっつ", "romaji": "muttsu", "pt": "seis (objetos)" },
-      { "jp": "七つ", "kana": "ななつ", "romaji": "nanatsu", "pt": "sete (objetos)" },
-      { "jp": "八つ", "kana": "やっつ", "romaji": "yattsu", "pt": "oito (objetos)" },
-      { "jp": "九つ", "kana": "ここのつ", "romaji": "kokonotsu", "pt": "nove (objetos)" },
-      { "jp": "十", "kana": "とお", "romaji": "tō", "pt": "dez (objetos); sem つ" },
-      { "jp": "いくつ", "kana": "いくつ", "romaji": "ikutsu", "pt": "quantos? (objetos)" },
-      { "jp": "いっしょに", "kana": "いっしょに", "romaji": "issho ni", "pt": "juntos" },
-      { "jp": "とても", "kana": "とても", "romaji": "totemo", "pt": "muito (com afirmativo)" },
-      { "jp": "ちょっと", "kana": "ちょっと", "romaji": "chotto", "pt": "um pouco" },
-      { "jp": "あまり", "kana": "あまり", "romaji": "amari", "pt": "não muito (só com negativo)" },
-      { "jp": "ぜんぜん", "kana": "ぜんぜん", "romaji": "zenzen", "pt": "nem um pouco, nada (só com negativo)" },
-      { "jp": "こわい", "kana": "こわい", "romaji": "kowai", "pt": "assustador, que dá medo" },
-      { "jp": "およぐ", "kana": "およぐ", "romaji": "oyogu", "pt": "nadar (およぎます)" },
-      { "jp": "うみ", "kana": "うみ", "romaji": "umi", "pt": "mar, praia" },
-      { "jp": "おにぎり", "kana": "おにぎり", "romaji": "onigiri", "pt": "bolinho de arroz (onigiri)" },
-      { "jp": "みかん", "kana": "みかん", "romaji": "mikan", "pt": "tangerina, mexerica" },
-      { "jp": "りんご", "kana": "りんご", "romaji": "ringo", "pt": "maçã" },
-      { "jp": "ケーキ", "kana": "ケーキ", "romaji": "kēki", "pt": "bolo (de festa, de confeitaria)" },
-      { "jp": "みせ", "kana": "みせ", "romaji": "mise", "pt": "loja" }
+      { "jp": "一つ", "kana": "ひとつ", "romaji": "hitotsu", "en": "one (thing)" },
+      { "jp": "二つ", "kana": "ふたつ", "romaji": "futatsu", "en": "two (things)" },
+      { "jp": "三つ", "kana": "みっつ", "romaji": "mittsu", "en": "three (things)" },
+      { "jp": "四つ", "kana": "よっつ", "romaji": "yottsu", "en": "four (things)" },
+      { "jp": "五つ", "kana": "いつつ", "romaji": "itsutsu", "en": "five (things)" },
+      { "jp": "六つ", "kana": "むっつ", "romaji": "muttsu", "en": "six (things)" },
+      { "jp": "七つ", "kana": "ななつ", "romaji": "nanatsu", "en": "seven (things)" },
+      { "jp": "八つ", "kana": "やっつ", "romaji": "yattsu", "en": "eight (things)" },
+      { "jp": "九つ", "kana": "ここのつ", "romaji": "kokonotsu", "en": "nine (things)" },
+      { "jp": "十", "kana": "とお", "romaji": "tō", "en": "ten (things), with no つ. Careful: 十 on its own is normally read じゅう (十時, 十円); only when counting things does it become とお." },
+      { "jp": "いくつ", "kana": "いくつ", "romaji": "ikutsu", "en": "how many? (things)" },
+      { "jp": "〜まい", "kana": "〜まい", "romaji": "-mai", "en": "counter for flat things (paper, stamps, tickets, T-shirts): いちまい, にまい…" },
+      { "jp": "きって", "kana": "きって", "romaji": "kitte", "en": "postage stamp" },
+      { "jp": "いっしょに", "kana": "いっしょに", "romaji": "issho ni", "en": "together" },
+      { "jp": "とても", "kana": "とても", "romaji": "totemo", "en": "very (with an affirmative)" },
+      { "jp": "ちょっと", "kana": "ちょっと", "romaji": "chotto", "en": "a little, a bit" },
+      { "jp": "あまり", "kana": "あまり", "romaji": "amari", "en": "not very, not much (only with a negative)" },
+      { "jp": "ぜんぜん", "kana": "ぜんぜん", "romaji": "zenzen", "en": "not at all (only with a negative)" },
+      { "jp": "こわい", "kana": "こわい", "romaji": "kowai", "en": "scary, frightening" },
+      { "jp": "およぐ", "kana": "およぐ", "romaji": "oyogu", "en": "to swim (およぎます)" },
+      { "jp": "おにぎり", "kana": "おにぎり", "romaji": "onigiri", "en": "rice ball (onigiri)" },
+      { "jp": "みかん", "kana": "みかん", "romaji": "mikan", "en": "mandarin orange" },
+      { "jp": "りんご", "kana": "りんご", "romaji": "ringo", "en": "apple" },
+      { "jp": "ケーキ", "kana": "ケーキ", "romaji": "kēki", "en": "cake" },
+      { "jp": "みせ", "kana": "みせ", "romaji": "mise", "en": "shop, store" }
     ]
   },
   "grammar": [
@@ -62,160 +64,161 @@
       "id": "05-3-a",
       "gc": "5-5",
       "title": "〜ましょう / 〜ましょうか",
-      "gloss": "\"vamos…!\" / \"vamos…?\"",
-      "explanation": "Para **sugerir fazer algo juntos** (\"vamos…!\"), troque o ます do verbo por **ましょう**: 行きます → 行きましょう, 食べます → 食べましょう, します → しましょう.\n• 〜ましょう é uma proposta decidida: você já está chamando o outro para fazer com você.\n• 〜ましょうか acrescenta か e vira pergunta: \"vamos…?\", \"que tal…?\". Você propõe e deixa o outro decidir.\n• Com palavra interrogativa, 〜ましょうか pergunta o que fazer: なにを 食べましょうか (\"o que vamos comer?\"), どこに 行きましょうか (\"aonde vamos?\").\n• Compare com 〜ませんか (Aula 03-3): ませんか pergunta se o outro quer; ましょう já parte do princípio de que vocês vão fazer juntos. Por isso é comum convidar com 〜ませんか e, quando o outro aceita, continuar com 〜ましょう: いいですね。行きましょう。\n• A frase é montada como qualquer frase com verbo; só o fim muda: [quando] [lugar] に/で [objeto] を 〜ましょう. O PREDICADO é o verbo com ましょう.\n• Em outra situação, 〜ましょうか também serve para se oferecer a fazer algo pelo outro. Esse uso fica para a Aula 06-4.",
-      "structure": "[verbo sem ます] + ましょう。 · [verbo sem ます] + ましょうか。",
+      "gloss": "\"let's…!\" / \"shall we…?\"",
+      "explanation": "To **suggest doing something together** (\"let's…!\"), replace the ます of the verb with **ましょう**: 行きます → 行きましょう, 食べます → 食べましょう, します → しましょう.\n• 〜ましょう is a confident proposal: you are already calling the other person to do it with you.\n• 〜ましょうか adds か and becomes a question: \"shall we…?\", \"how about…?\". You propose and let the other person decide.\n• With a question word, 〜ましょうか asks what to do: なにを 食べましょうか (\"what shall we eat?\"), どこに 行きましょうか (\"where shall we go?\").\n• Compare with 〜ませんか (lesson 03-3): ませんか asks whether the other person wants to; ましょう takes it for granted that you'll do it together. So a common pattern is to invite with 〜ませんか and, once the other person accepts, carry on with 〜ましょう: いいですね。行きましょう。\n• The sentence is built like any verb sentence; only the ending changes: [when] [place] に/で [object] を 〜ましょう. The PREDICATE is the verb with ましょう.\n• In another situation, 〜ましょうか also offers to do something for the other person (\"shall I…?\"). That use comes in lesson 06-4.",
+      "structure": "[verb minus ます] + ましょう。 · [verb minus ます] + ましょうか。",
       "examples": [
-        { "jp": "いっしょに うみで およぎましょう。", "kana": "いっしょに うみで およぎましょう。", "romaji": "Issho ni umi de oyogimashō.", "pt": "Vamos nadar no mar juntos." },
-        { "jp": "ばんごはんは なにを 食べましょうか。— ブラジルりょうりを 食べましょう。", "kana": "ばんごはんは なにを たべましょうか。— ブラジルりょうりを たべましょう。", "romaji": "Bangohan wa nani o tabemashō ka. — Burajiru ryōri o tabemashō.", "pt": "O que vamos comer no jantar? — Vamos comer comida brasileira." },
-        { "jp": "こんばん えいがを 見ませんか。— いいですね。見ましょう。", "kana": "こんばん えいがを みませんか。— いいですね。みましょう。", "romaji": "Konban eiga o mimasen ka. — Ii desu ne. Mimashō.", "pt": "Que tal ver um filme hoje à noite? — Boa ideia. Vamos ver." }
+        { "jp": "いっしょに うみで およぎましょう。", "kana": "いっしょに うみで およぎましょう。", "romaji": "Issho ni umi de oyogimashō.", "en": "Let's swim in the sea together." },
+        { "jp": "ばんごはんは なにを 食べましょうか。— ブラジルりょうりを 食べましょう。", "kana": "ばんごはんは なにを たべましょうか。— ブラジルりょうりを たべましょう。", "romaji": "Bangohan wa nani o tabemashō ka. — Burajiru ryōri o tabemashō.", "en": "What shall we eat for dinner? — Let's eat Brazilian food." },
+        { "jp": "こんばん えいがを 見ませんか。— いいですね。見ましょう。", "kana": "こんばん えいがを みませんか。— いいですね。みましょう。", "romaji": "Konban eiga o mimasen ka. — Ii desu ne. Mimashō.", "en": "Would you like to see a movie tonight? — Sounds good. Let's see one." }
       ],
       "pitfalls": [
-        "ましょう sai do radical do ます, não da forma de dicionário: 行くましょう ✗ → 行きましょう ✓; 食べるましょう ✗ → 食べましょう ✓.",
-        "ましょう inclui você: é \"vamos\", não uma ordem para o outro. Para pedir que o outro faça algo, o japonês usa 〜てください (Aula 06-2).",
-        "Para chamar alguém que talvez não possa ou não queira, 〜ませんか deixa mais espaço para recusar. Guarde o 〜ましょう para depois do \"sim\"."
+        "ましょう comes from the ます form, not the dictionary form: 行くましょう ✗ → 行きましょう ✓; 食べるましょう ✗ → 食べましょう ✓.",
+        "ましょう includes you: it means \"let's\", not an order to the other person. To ask someone else to do something, Japanese uses 〜てください (lesson 06-2). One thing to know: in textbook instructions, on signs and in the classroom, 〜ましょう works as a gentle instruction that doesn't include the speaker — the Workbook title 答えましょう means \"Answer the questions\".",
+        "When you don't know whether the other person can or wants to, invite with 〜ませんか: it leaves more room to say no. 〜ましょう can open a proposal when the plan is already natural between you (いっしょに 行きましょう), and it always works to seal the plan after a \"yes\"."
       ],
       "howToStudy": [
-        "Transforme em voz alta 6 verbos que você já conhece (行きます, 食べます, 飲みます, 見ます, します, かいます) em 〜ましょう e em 〜ましょうか.",
-        "Aperte 🔬 no exemplo 2. ばんごはんは é o TÓPICO (o assunto: o jantar); なにを é o OBJETO; 食べましょうか é o PREDICADO. Na resposta, ブラジルりょうりを ocupa exatamente o lugar do なにを.",
-        "Faça um diálogo sozinho, em voz alta, com as duas vozes: convide com 〜ませんか, aceite com いいですね e feche com 〜ましょう."
+        "Turn 6 verbs you already know (行きます, 食べます, 飲みます, 見ます, します, かいます) into 〜ましょう and 〜ましょうか, aloud.",
+        "Tap 🔬 on example 2. ばんごはんは is the TOPIC (what the talk is about: dinner); なにを is the OBJECT; 食べましょうか is the PREDICATE. In the answer, ブラジルりょうりを (OBJECT) takes exactly the place of なにを.",
+        "Act out a dialogue alone, aloud, doing both voices: invite with 〜ませんか, accept with いいですね, and seal it with 〜ましょう."
       ],
       "flag": null
     },
     {
       "id": "05-3-b",
       "gc": "5-6",
-      "title": "Contar coisas: ひとつ … とお",
-      "gloss": "o contador geral 〜つ",
-      "explanation": "Para contar objetos, o japonês junta o número a um **contador**, uma terminação que muda conforme o tipo de coisa. O mais útil é o **contador geral**: ele serve para muitos objetos que não têm contador próprio (frutas, doces, bolinhos, pedidos no balcão) e usa números de origem japonesa, diferentes de いち, に, さん.\n• 1 ひとつ · 2 ふたつ · 3 みっつ · 4 よっつ · 5 いつつ\n• 6 むっつ · 7 ななつ · 8 やっつ · 9 ここのつ · 10 とお\n• Com kanji: 一つ, 二つ, 三つ… e 十 (とお), que não leva つ.\n• **Cuidado nas leituras:** 3, 4, 6 e 8 têm っ (みっつ, よっつ, むっつ, やっつ): segure o som um instante antes do つ. 4 é よっつ, nunca \"よんつ\". 9 é ここのつ, sem nenhuma relação com きゅう. 10 é só とお, com vogal longa.\n• Os números いち, に, さん continuam valendo para contar em sequência, para horas, preços e telefones. ひとつ, ふたつ servem para dizer **quantos objetos**.\n• Para perguntar \"quantos?\", use **いくつ**: ケーキは いくつ ありますか。\n• **Lugar do número na frase:** depois do objeto e da partícula, logo antes do verbo. O número não leva partícula; ele fica encostado no verbo: みかんを 八つ 食べました。 Ao pedir: おにぎりを 二つ ください。\n• Este sistema vai só até 10. De 11 em diante, em geral se usa outro contador ou o número comum; por enquanto, conte só até とお.",
-      "structure": "[N] を [número + つ] [verbo]。 · [N] を [número + つ] ください。 · [N] は いくつ ありますか。",
+      "title": "Counting things: ひとつ … とお and 〜まい",
+      "gloss": "the general counter 〜つ and the counter for flat things",
+      "explanation": "To count objects, Japanese attaches the number to a **counter**, an ending that changes with the kind of thing. It is a bit like English \"two *sheets* of paper\" or \"three *cups* of coffee\", but Japanese uses counters for almost everything. The most useful one is the **general counter**: it works for many objects that have no counter of their own (fruit, sweets, rice balls, orders at a counter) and uses native Japanese numbers, different from いち, に, さん.\n• 1 ひとつ · 2 ふたつ · 3 みっつ · 4 よっつ · 5 いつつ\n• 6 むっつ · 7 ななつ · 8 やっつ · 9 ここのつ · 10 とお\n• In kanji: 一つ, 二つ, 三つ… and 十 (とお), which takes no つ.\n• **Watch the readings:** 3, 4, 6 and 8 have っ (みっつ, よっつ, むっつ, やっつ): hold the sound for a moment before つ. 4 is よっつ, never \"よんつ\". 9 is ここのつ, nothing like きゅう. 10 is just とお, with a long vowel.\n• いち, に, さん are still what you use to count in sequence, and for clock times, prices and phone numbers. ひとつ, ふたつ say **how many things**.\n• To ask \"how many?\", use **いくつ**: ケーキは いくつ ありますか。\n• This system only goes up to 10. From 11 on, people generally use the ordinary numbers or another counter; for now, count only up to とお.\n\n**Flat things: 〜まい.** Thin, flat things (paper, stamps, tickets, T-shirts, plates) use the ordinary numbers + **まい**: いちまい, にまい, さんまい, よんまい, ごまい, ろくまい, ななまい, はちまい, きゅうまい, じゅうまい. There are no sound changes; just remember 4 = よん, 7 = なな, 9 = きゅう. To ask how many, use **なんまい**.\n\n**Where the number goes:** after the object and its particle, right before the verb. The number takes no particle; it sits right against the verb: みかんを 八つ 食べました。 When ordering: おにぎりを 二つ ください。 · きってを 三まい ください。",
+      "structure": "[N] を [number + counter] [verb]。 · [N] を [number + counter] ください。 · [N] は いくつ ありますか。",
       "examples": [
-        { "jp": "おにぎりを 二つ ください。", "kana": "おにぎりを ふたつ ください。", "romaji": "Onigiri o futatsu kudasai.", "pt": "Dois onigiri, por favor." },
-        { "jp": "ケーキは いくつ ありますか。— 六つ あります。", "kana": "ケーキは いくつ ありますか。— むっつ あります。", "romaji": "Kēki wa ikutsu arimasu ka. — Muttsu arimasu.", "pt": "Quantos bolos há? — Há seis." },
-        { "jp": "きのう、みかんを 八つ 食べました。", "kana": "きのう、みかんを やっつ たべました。", "romaji": "Kinō, mikan o yattsu tabemashita.", "pt": "Ontem comi oito tangerinas." }
+        { "jp": "おにぎりを 二つ ください。", "kana": "おにぎりを ふたつ ください。", "romaji": "Onigiri o futatsu kudasai.", "en": "Two onigiri, please." },
+        { "jp": "ケーキは いくつ ありますか。— 六つ あります。", "kana": "ケーキは いくつ ありますか。— むっつ あります。", "romaji": "Kēki wa ikutsu arimasu ka. — Muttsu arimasu.", "en": "How many cakes are there? — There are six." },
+        { "jp": "きのう、ゆうびんきょくで きってを 三まい かいました。", "kana": "きのう、ゆうびんきょくで きってを さんまい かいました。", "romaji": "Kinō, yūbinkyoku de kitte o sanmai kaimashita.", "en": "Yesterday I bought three stamps at the post office." }
       ],
       "pitfalls": [
-        "Com o contador geral, não use いち, に, さん: いちつ ✗, さんつ ✗ → ひとつ, みっつ ✓.",
-        "4 é よっつ, não よんつ ✗. 10 é とお, não とおつ ✗ nem じゅうつ ✗.",
-        "Não traduza palavra por palavra: \"três maçãs\" não é さん りんご ✗. O natural é りんごを 三つ かいます ✓, com o número depois do objeto.",
-        "ひとつ, ふたつ não servem para pessoas. Contar pessoas (ひとり, ふたり) vem na Aula 07-3."
+        "With the general counter, don't use いち, に, さん: いちつ ✗, さんつ ✗ → ひとつ, みっつ ✓. With まい it's the other way round: ひとまい ✗ → いちまい ✓.",
+        "4 is よっつ, not よんつ ✗. 10 is とお, not とおつ ✗ or じゅうつ ✗.",
+        "Don't translate word for word: \"three apples\" is not さん りんご ✗. The natural way is りんごを 三つ かいます ✓, with the number after the object.",
+        "ひとつ, ふたつ are not for people. Counting people (ひとり, ふたり) comes in lesson 07-3."
       ],
       "howToStudy": [
-        "Conte de ひとつ a とお em voz alta, dobrando um dedo a cada número (veja a cultura desta aula), e depois de trás pra frente. Repita até sair sem pausa.",
-        "Pegue frutas, ovos ou doces que você tiver em casa e diga quantos há: みかんが 三つ あります。",
-        "Aperte 🔬 no exemplo 3 e identifique os blocos: きのう (tempo), みかんを (objeto), 八つ (quantidade, sem partícula) e 食べました (predicado)."
+        "Count from ひとつ to とお aloud, folding one finger for each number (see this lesson's culture note), then count back down. Repeat until it comes out without pauses.",
+        "Take some fruit, eggs or sweets you have at home and say how many there are: みかんが 三つ あります。 Then count some sheets of paper with まい: いちまい, にまい, さんまい…",
+        "Tap 🔬 on example 3 and name the blocks: きのう (TIME), ゆうびんきょくで (PLACE), きってを (OBJECT), 三まい (QUANTITY, with no particle) and かいました (PREDICATE)."
       ],
-      "flag": "Não tenho certeza de quais contadores o Genki I (3ª ed.) apresenta nesta lição além do contador geral. Por segurança, esta aula ensina só ひとつ〜とお (〜つ). Se o seu livro trouxer outros contadores na Lição 5 (por exemplo, 〜まい, para objetos planos), estude-os direto pela explicação do livro."
+      "flag": "Check in your Genki I which counters Lesson 5 presents. This lesson teaches the general counter 〜つ (ひとつ〜とお) and 〜まい for flat things. If your book has other counters in this lesson, study them from its explanation; if it lists ひとつ〜とお only in a later lesson, learning them now does no harm."
     },
     {
       "id": "05-3-c",
       "gc": "5-7",
-      "title": "Graus: とても, ちょっと, あまり〜ない, ぜんぜん〜ない",
-      "gloss": "muito, um pouco, não muito, nada",
-      "explanation": "Estas palavras dizem **quanto**. Elas vêm antes do adjetivo (ou do verbo), e duas delas só funcionam com a forma **negativa**:\n• **とても** + afirmativo = \"muito\": とても おいしいです。\n• **ちょっと** + afirmativo = \"um pouco\". Costuma aparecer com coisas meio negativas: ちょっと たかいです (\"é um pouco caro\"). Sozinho, ちょっと também serve para recusar com jeito (Aula 03-3).\n• **あまり** + negativo = \"não muito\": あまり たかくないです (\"não é muito caro\").\n• **ぜんぜん** + negativo = \"nem um pouco, nada\": ぜんぜん むずかしくないです (\"não é nada difícil\").\n• Funcionam também com verbos negativos: あまり 見ません (\"não assisto muito\"), ぜんぜん 飲みません (\"não bebo nada\").\n• Escala: とても (+) → ちょっと (+) → あまり〜ない (−) → ぜんぜん〜ない (− −).\n• Leia pelo predicado: primeiro veja se o fim é afirmativo ou negativo. Só depois olhe o grau para saber \"quanto\".",
-      "structure": "とても / ちょっと + [afirmativo] · あまり / ぜんぜん + [negativo]",
+      "title": "Degree words: とても, ちょっと, あまり〜ない, ぜんぜん〜ない",
+      "gloss": "very, a little, not very, not at all",
+      "explanation": "These words say **how much**. They go right before the adjective, and two of them only work with the **negative** form:\n• **とても** + affirmative = \"very\": とても おいしいです。\n• **ちょっと** + affirmative = \"a little, a bit\". It often goes with slightly negative things: ちょっと たかいです (\"it's a bit expensive\"). On its own, ちょっと is also a soft way to say no (lesson 03-3).\n• **あまり** + negative = \"not very\": あまり たかくないです (\"it isn't very expensive\").\n• **ぜんぜん** + negative = \"not at all\": ぜんぜん むずかしくないです (\"it isn't difficult at all\").\n• You already used あまり and ぜんぜん with verbs in lesson 03-3 (あまり 見ません, ぜんぜん 飲みません). What's new here is using them with adjectives — always with the negative form.\n• The scale: とても (+) → ちょっと (+) → あまり〜ない (−) → ぜんぜん〜ない (− −).\n• Read from the predicate: first check whether the ending is affirmative or negative. Only then look at the degree word to know \"how much\".",
+      "structure": "とても / ちょっと + [affirmative] · あまり / ぜんぜん + [negative]",
       "examples": [
-        { "jp": "おきなわの うみは とても きれいでした。", "kana": "おきなわの うみは とても きれいでした。", "romaji": "Okinawa no umi wa totemo kirei deshita.", "pt": "O mar de Okinawa estava muito bonito." },
-        { "jp": "その レストランは たかいですか。— いいえ、あまり たかくないです。", "kana": "その レストランは たかいですか。— いいえ、あまり たかくないです。", "romaji": "Sono resutoran wa takai desu ka. — Iie, amari takakunai desu.", "pt": "Esse restaurante é caro? — Não, não é muito caro." },
-        { "jp": "この えいがは こわいですか。— いいえ、ぜんぜん こわくないです。", "kana": "この えいがは こわいですか。— いいえ、ぜんぜん こわくないです。", "romaji": "Kono eiga wa kowai desu ka. — Iie, zenzen kowakunai desu.", "pt": "Este filme dá medo? — Não, não dá medo nenhum." }
+        { "jp": "おきなわの うみは とても きれいでした。", "kana": "おきなわの うみは とても きれいでした。", "romaji": "Okinawa no umi wa totemo kirei deshita.", "en": "The sea in Okinawa was very beautiful." },
+        { "jp": "その レストランは たかいですか。— いいえ、あまり たかくないです。", "kana": "その レストランは たかいですか。— いいえ、あまり たかくないです。", "romaji": "Sono resutoran wa takai desu ka. — Iie, amari takakunai desu.", "en": "Is that restaurant expensive? — No, not very." },
+        { "jp": "この えいがは こわいですか。— いいえ、ぜんぜん こわくないです。", "kana": "この えいがは こわいですか。— いいえ、ぜんぜん こわくないです。", "romaji": "Kono eiga wa kowai desu ka. — Iie, zenzen kowakunai desu.", "en": "Is this movie scary? — No, it's not scary at all." }
       ],
       "pitfalls": [
-        "あまり com afirmativo: あまり たかいです ✗ → あまり たかくないです ✓.",
-        "ぜんぜん com afirmativo: ぜんぜん おいしいです ✗ → ぜんぜん おいしくないです ✓. Na fala informal você pode ouvir ぜんぜん com afirmativo (ぜんぜん だいじょうぶ, \"tudo bem, sem problema\"), mas no curso use sempre com negativo.",
-        "Para \"não muito\", não use とても: とても たかくないです ✗ → あまり たかくないです ✓.",
-        "O grau vem antes da palavra que ele gradua: たかい とても ✗ → とても たかい ✓."
+        "あまり with an affirmative: あまり たかいです ✗ → あまり たかくないです ✓.",
+        "ぜんぜん with an affirmative: ぜんぜん おいしいです ✗ → ぜんぜん おいしくないです ✓. In casual speech you may hear ぜんぜん with an affirmative (ぜんぜん だいじょうぶ, \"totally fine\"), but in this course always use it with a negative.",
+        "For \"not very\", don't use とても: とても たかくないです ✗ → あまり たかくないです ✓.",
+        "\"I study a lot\" is not とても べんきょうします ✗ → たくさん べんきょうします ✓ (amount, lesson 04-3) or よく べんきょうします ✓ (often, lesson 03-3). とても grades adjectives, not action verbs."
       ],
       "howToStudy": [
-        "Escolha 3 adjetivos (たかい, むずかしい, さむい) e diga cada um nos 4 graus: とても さむいです → ちょっと さむいです → あまり さむくないです → ぜんぜん さむくないです.",
-        "Leia os exemplos cobrindo o começo da frase e olhando só o fim: primeiro diga se o predicado é afirmativo ou negativo, depois descubra o grau.",
-        "Diga em voz alta 4 opiniões sinceras sobre coisas do seu dia (o celular, o café, o ônibus…), usando um grau diferente em cada uma."
+        "Pick 3 adjectives (たかい, むずかしい, さむい) and say each one at the 4 degrees: とても さむいです → ちょっと さむいです → あまり さむくないです → ぜんぜん さむくないです.",
+        "Tap 🔬 on example 2: あまり shows up as HOW / HOW OFTEN and たかくないです as the PREDICATE. Then read the other examples covering the start of the sentence and looking only at the end: first say whether the predicate is affirmative or negative, then find the degree.",
+        "Say 4 honest opinions aloud about things in your day (your phone, your coffee, the bus…), using a different degree word each time."
       ],
       "flag": null
     }
   ],
   "media": [
-    { "order": 1, "kind": "leitura", "title": "Genki I · Lição 5: explicações de gramática sobre 〜ましょう／〜ましょうか e a contagem (Counting); depois, os kanji da Lição 5 na parte de leitura e escrita", "where": "Seu livro Genki I (3ª ed.)", "url": "", "when": "Antes desta aula ou logo depois do bloco de gramática" },
-    { "order": 2, "kind": "video", "title": "ToKini Andy: aula da Lição 5 do Genki I (ましょう e contagem)", "where": "YouTube · canal ToKini Andy", "url": "", "search": "ToKini Andy Genki Lesson 5", "when": "Depois dos 3 pontos: o vídeo confirma e dá mais exemplos" },
-    { "order": 3, "kind": "app", "title": "genki-companion: Lição 5, pontos 5 a 7 (marque ✍️ quando terminar)", "where": "../genki-companion/index.html", "url": "../genki-companion/index.html", "when": "No fim, para revisar e marcar o progresso" },
-    { "order": 4, "kind": "video", "title": "Japanese Ammo with Misa: contar objetos com ひとつ, ふたつ (reforço opcional)", "where": "YouTube · canal Japanese Ammo with Misa", "url": "", "search": "Japanese Ammo with Misa counting things hitotsu futatsu", "when": "Opcional, se as leituras de ひとつ〜とお ainda embaralharem" }
+    { "order": 1, "kind": "reading", "title": "Genki I · Lesson 5: the grammar notes on 〜ましょう／〜ましょうか and Counting; then the Lesson 5 kanji in the reading and writing section", "where": "Your Genki I textbook (3rd ed.)", "url": "", "when": "Before this lesson or right after the grammar block" },
+    { "order": 2, "kind": "video", "title": "ToKini Andy: Genki I Lesson 5 (ましょう and counting)", "where": "YouTube · ToKini Andy channel", "url": "", "search": "ToKini Andy Genki Lesson 5", "when": "After the 3 points: the video confirms them and gives more examples" },
+    { "order": 3, "kind": "app", "title": "genki-companion: Lesson 5, points 5 to 7 (tick ✍️ when you finish)", "where": "../genki-companion/index.html", "url": "../genki-companion/index.html", "when": "At the end, to review and mark your progress" },
+    { "order": 4, "kind": "video", "title": "Japanese Ammo with Misa: counting things with ひとつ, ふたつ (optional extra)", "where": "YouTube · Japanese Ammo with Misa channel", "url": "", "search": "Japanese Ammo with Misa counting things hitotsu futatsu", "when": "Optional, if the readings of ひとつ〜とお still get mixed up" }
   ],
   "homework": {
-    "intro": "Faça no caderno, à mão. Escreva os números de objetos em kana (ひとつ, ふたつ…), mesmo que no gabarito apareça o kanji. Só depois abra o gabarito, item por item. Circule o que errou e refaça no dia seguinte.",
+    "intro": "Do it by hand in your notebook. Write the numbers of things in kana (ひとつ, ふたつ…, いちまい…), even where the answer key shows kanji. Only then open the answer key, item by item. Circle what you got wrong and redo it the next day.",
     "tasks": [
       {
         "id": "h1",
-        "type": "transformar",
-        "prompt": "Transforme em sugestão com 〜ましょう. Se a frase tiver palavra interrogativa, use 〜ましょうか.",
+        "type": "transform",
+        "prompt": "Turn each sentence into a suggestion with 〜ましょう. If it has a question word, use 〜ましょうか.",
         "items": [
           { "q": "いっしょに 行きます。", "a": { "jp": "いっしょに 行きましょう。", "kana": "いっしょに いきましょう。", "romaji": "Issho ni ikimashō." } },
           { "q": "カフェで コーヒーを 飲みます。", "a": { "jp": "カフェで コーヒーを 飲みましょう。", "kana": "カフェで コーヒーを のみましょう。", "romaji": "Kafe de kōhī o nomimashō." } },
-          { "q": "なにを 食べますか。", "a": { "jp": "なにを 食べましょうか。", "kana": "なにを たべましょうか。", "romaji": "Nani o tabemashō ka." }, "note": "Com なに, vira pergunta: ましょうか." },
+          { "q": "なにを 食べますか。", "a": { "jp": "なにを 食べましょうか。", "kana": "なにを たべましょうか。", "romaji": "Nani o tabemashō ka." }, "note": "With なに it becomes a question: ましょうか." },
           { "q": "なんじに 行きますか。", "a": { "jp": "なんじに 行きましょうか。", "kana": "なんじに いきましょうか。", "romaji": "Nanji ni ikimashō ka." } },
           { "q": "しゅくだいを します。", "a": { "jp": "しゅくだいを しましょう。", "romaji": "Shukudai o shimashō." } }
         ]
       },
       {
         "id": "h2",
-        "type": "completar",
-        "prompt": "Complete com o número de objetos (contador geral), em kana. Depois leia a frase inteira em voz alta.",
+        "type": "fill",
+        "prompt": "Fill in the number of things, in kana: 〜つ for most objects, 〜まい for flat ones. Then read the whole sentence aloud.",
         "items": [
-          { "q": "3 maçãs: りんごを ＿ かいました。", "a": { "jp": "みっつ", "romaji": "mittsu" }, "note": "Com っ." },
-          { "q": "4 onigiri: おにぎりを ＿ ください。", "a": { "jp": "よっつ", "romaji": "yottsu" }, "note": "Nunca よんつ." },
-          { "q": "2 cafés, no balcão: コーヒーを ＿ ください。", "a": { "jp": "ふたつ", "romaji": "futatsu" } },
-          { "q": "6 tangerinas: みかんが ＿ あります。", "a": { "jp": "むっつ", "romaji": "muttsu" } },
-          { "q": "9 doces: おかしを ＿ 食べました。", "a": { "jp": "ここのつ", "romaji": "kokonotsu" } },
-          { "q": "10 bolos: ケーキが ＿ あります。", "a": { "jp": "とお", "romaji": "tō" }, "note": "Sem つ." }
+          { "q": "3 apples: りんごを ＿ かいました。", "a": { "jp": "みっつ", "romaji": "mittsu" }, "note": "With っ." },
+          { "q": "4 onigiri: おにぎりを ＿ ください。", "a": { "jp": "よっつ", "romaji": "yottsu" }, "note": "Never よんつ." },
+          { "q": "9 sweets: おかしを ＿ 食べました。", "a": { "jp": "ここのつ", "romaji": "kokonotsu" } },
+          { "q": "10 cakes: ケーキが ＿ あります。", "a": { "jp": "とお", "romaji": "tō" }, "note": "No つ." },
+          { "q": "2 T-shirts: Tシャツを ＿ かいました。", "a": { "jp": "にまい", "romaji": "nimai" }, "note": "T-shirts are flat: ordinary number + まい." },
+          { "q": "4 stamps: きってを ＿ ください。", "a": { "jp": "よんまい", "romaji": "yonmai" }, "note": "With まい, 4 is よん." }
         ]
       },
       {
         "id": "h3",
-        "type": "traduzir",
-        "prompt": "Traduza para o japonês.",
+        "type": "translate",
+        "prompt": "Translate into Japanese.",
         "items": [
-          { "q": "Esta bolsa é um pouco cara.", "a": { "jp": "この かばんは ちょっと たかいです。", "romaji": "Kono kaban wa chotto takai desu." } },
-          { "q": "O teste não foi nada difícil.", "a": { "jp": "テストは ぜんぜん むずかしくなかったです。", "romaji": "Tesuto wa zenzen muzukashikunakatta desu." }, "note": "ぜんぜん pede negativo, e aqui é negativo passado." },
-          { "q": "Eu não gosto muito de carne.", "a": { "jp": "にくは あまり すきじゃないです。", "romaji": "Niku wa amari suki ja nai desu." }, "note": "Suavizar com あまり すきじゃないです soa mais educado do que きらいです." },
-          { "q": "Cinco onigiri, por favor.", "a": { "jp": "おにぎりを 五つ ください。", "kana": "おにぎりを いつつ ください。", "romaji": "Onigiri o itsutsu kudasai." } },
-          { "q": "Quantas maçãs há? — Há sete.", "a": { "jp": "りんごは いくつ ありますか。— 七つ あります。", "kana": "りんごは いくつ ありますか。— ななつ あります。", "romaji": "Ringo wa ikutsu arimasu ka. — Nanatsu arimasu." } }
+          { "q": "This bag is a little expensive.", "a": { "jp": "この かばんは ちょっと たかいです。", "romaji": "Kono kaban wa chotto takai desu." } },
+          { "q": "The test wasn't difficult at all.", "a": { "jp": "テストは ぜんぜん むずかしくなかったです。", "romaji": "Tesuto wa zenzen muzukashikunakatta desu." }, "note": "ぜんぜん needs a negative — here, the past negative." },
+          { "q": "I don't really like meat.", "a": { "jp": "にくは あまり すきじゃないです。", "romaji": "Niku wa amari suki ja nai desu." }, "note": "わたしは にくが あまり すきじゃないです。 is also correct: it's the structure from lesson 05-2. In negative sentences it is very common for the thing to become the topic with は (にくは), as in the key. Softening with あまり すきじゃないです sounds more polite than きらいです." },
+          { "q": "Five onigiri, please.", "a": { "jp": "おにぎりを 五つ ください。", "kana": "おにぎりを いつつ ください。", "romaji": "Onigiri o itsutsu kudasai." } },
+          { "q": "How many apples are there? — There are seven.", "a": { "jp": "りんごは いくつ ありますか。— 七つ あります。", "kana": "りんごは いくつ ありますか。— ななつ あります。", "romaji": "Ringo wa ikutsu arimasu ka. — Nanatsu arimasu." }, "note": "りんごが いくつ ありますか。 is also correct." }
         ]
       },
       {
         "id": "h4",
-        "type": "produzir",
-        "prompt": "Escreva um mini-diálogo de 4–6 falas: você convida um amigo (〜ませんか), ele aceita, vocês combinam com 〜ましょう / 〜ましょうか e decidem quantas coisas comprar (〜つ). Use pelo menos um grau (とても, あまり…). Leia em voz alta, fazendo as duas vozes.",
+        "type": "produce",
+        "prompt": "Write a mini-dialogue of 4–6 lines: you invite a friend (〜ませんか), they accept, you plan together with 〜ましょう / 〜ましょうか and decide how many things to buy (〜つ). Use at least one degree word (とても, あまり…). Read it aloud, doing both voices.",
         "items": [
-          { "q": "Modelo, que o seu texto deve seguir na estrutura e não nas palavras:", "a": { "jp": "あした、いっしょに うみに 行きませんか。— いいですね。行きましょう。— ひるごはんは なにを 食べましょうか。— おにぎりを 四つ かいましょう。とても おいしい みせが あります。— のみものも かいましょうか。— ええ、そうしましょう。", "kana": "あした、いっしょに うみに いきませんか。— いいですね。いきましょう。— ひるごはんは なにを たべましょうか。— おにぎりを よっつ かいましょう。とても おいしい みせが あります。— のみものも かいましょうか。— ええ、そうしましょう。", "romaji": "Ashita, issho ni umi ni ikimasen ka. — Ii desu ne. Ikimashō. — Hirugohan wa nani o tabemashō ka. — Onigiri o yottsu kaimashō. Totemo oishii mise ga arimasu. — Nomimono mo kaimashō ka. — Ē, sō shimashō.", "pt": "Amanhã, vamos juntos à praia? — Boa ideia. Vamos. — O que vamos comer no almoço? — Vamos comprar quatro onigiri. Tem uma loja com comida muito gostosa. — Compramos bebida também? — Sim, vamos fazer isso." }, "note": "Confira: ませんか para convidar, ましょう depois do sim, ましょうか para pedir a opinião, o número depois de を e sem partícula, e o grau antes do adjetivo." }
+          { "q": "Model (match its structure, not its words):", "a": { "jp": "あした、いっしょに うみに 行きませんか。— いいですね。行きましょう。— ひるごはんは なにを 食べましょうか。— おにぎりを 四つ かいましょう。とても おいしい みせが あります。— のみものも かいましょうか。— ええ、そうしましょう。", "kana": "あした、いっしょに うみに いきませんか。— いいですね。いきましょう。— ひるごはんは なにを たべましょうか。— おにぎりを よっつ かいましょう。とても おいしい みせが あります。— のみものも かいましょうか。— ええ、そうしましょう。", "romaji": "Ashita, issho ni umi ni ikimasen ka. — Ii desu ne. Ikimashō. — Hirugohan wa nani o tabemashō ka. — Onigiri o yottsu kaimashō. Totemo oishii mise ga arimasu. — Nomimono mo kaimashō ka. — Ē, sō shimashō.", "en": "Would you like to go to the beach together tomorrow? — Sounds good. Let's go. — What shall we eat for lunch? — Let's buy four onigiri. There's a shop with really delicious food. — Shall we buy drinks too? — Yes, let's do that." }, "note": "Check: ませんか to invite, ましょう after the yes, ましょうか to ask for an opinion, the number after を with no particle of its own, and the degree word before the adjective." }
         ]
       }
     ],
     "workbook": [
-      { "p": 56, "t": "7 · ～ましょう / ～ましょうか", "tip": "Faça depois do ponto a." },
-      { "p": 57, "t": "8 · 答えましょう (Questions)", "tip": "Revisão da lição toda: faça no fim desta aula, respondendo com frases completas e verdadeiras sobre você." },
-      { "p": 58, "t": "9 · 聞く練習 (Listening Comprehension)", "tip": "Precisa do áudio oficial do Workbook. Faça depois de todas as aulas da Lição 5." },
-      { "p": 137, "t": "Kanji Practice", "tip": "Kanji da Lição 5. Antes, treine a ordem dos traços no ヅオリンゴー (Kanji → ✍️ Escrever)." },
-      { "p": 138, "t": "Using Kanji", "tip": "Faça depois da página 137. Confira no Genki Answer Key oficial." }
+      { "p": 56, "t": "7 · ～ましょう / ～ましょうか", "tip": "Do it after point a." },
+      { "p": 57, "t": "8 · 答えましょう (Questions)", "tip": "A review of the whole Genki lesson: do it at the end of this lesson, answering in full, true sentences about yourself. The title 答えましょう is a gentle instruction: \"Answer the questions\"." },
+      { "p": 58, "t": "9 · 聞く練習 (Listening Comprehension)", "tip": "Needs the official Workbook audio. Do it once you have finished all of Genki Lesson 5 (lessons 05-1 to 05-3)." },
+      { "p": 137, "t": "Kanji Practice", "tip": "The Lesson 5 kanji. First practice the stroke order in ヅオリンゴー (Kanji → ✍️ Write)." },
+      { "p": 138, "t": "Using Kanji", "tip": "Do it after page 137. Check it with the official Genki Answer Key." }
     ]
   },
   "practice": [
-    { "tool": "Wagotabi", "what": "Jogue normalmente. Sempre que alguém propuser algo com 〜ましょう ou 〜ましょうか, ou usar とても, あまり ou ぜんぜん, pause e diga em voz alta se o predicado é afirmativo ou negativo. Copie 2 dessas frases no caderno.", "min": 15 },
-    { "tool": "ヅオリンゴー", "what": "Treinos → Números, para manter いち〜じゅう afiado. Logo depois, conte em voz alta ひとつ〜とお, para não misturar os dois sistemas.", "min": 5 },
-    { "tool": "ヅオリンゴー", "what": "Kanji → ✍️ Escrever: os kanji da Lição 5 (山, 川, 元, 気, 天, 私, 今, 田, 女, 男, 見, 行, 食, 飲), antes das páginas 137–138 do Workbook.", "min": 15 },
-    { "tool": "ヅオリンゴー", "what": "Vocabulário da Lição 5 no SRS (baralho 🌊 Tudo) e Praticar L5, para revisar a lição inteira.", "min": 10 },
-    { "tool": "Fala", "what": "Grave o mini-diálogo da lição de casa (h4), fazendo as duas vozes. Ouça e confira o っ de よっつ, みっつ, むっつ e やっつ.", "min": 5 }
+    { "tool": "Wagotabi", "what": "Play normally. Whenever someone suggests something with 〜ましょう or 〜ましょうか, or uses とても, あまり or ぜんぜん, pause and say aloud whether the predicate is affirmative or negative. Copy 2 of those lines into your notebook.", "min": 15 },
+    { "tool": "ヅオリンゴー", "what": "Drills → Numbers, to keep いち〜じゅう sharp. Right after, count ひとつ〜とお aloud, so the two systems don't get mixed up.", "min": 5 },
+    { "tool": "ヅオリンゴー", "what": "Kanji → ✍️ Write: the Lesson 5 kanji (山, 川, 元, 気, 天, 私, 今, 田, 女, 男, 見, 行, 食, 飲), before Workbook pages 137–138.", "min": 15 },
+    { "tool": "ヅオリンゴー", "what": "Lesson 5 vocabulary in the SRS (the 🌊 All deck) and Practice L5, to review the whole Genki lesson.", "min": 10 },
+    { "tool": "Speaking", "what": "Record the mini-dialogue from the homework (h4), doing both voices. Listen and check the っ in よっつ, みっつ, むっつ and やっつ.", "min": 5 }
   ],
   "culture": {
-    "title": "Contar nos dedos à moda japonesa",
+    "title": "Counting on your fingers, the Japanese way",
     "titleJp": "ゆびで かぞえる",
-    "body": "Para contar nos dedos, é comum os japoneses começarem com a **mão aberta** e irem **dobrando** os dedos, a partir do polegar: no 1 dobra o polegar, no 2 o indicador, e assim por diante, até a mão fechada no 5. Para continuar até 10, muita gente vai abrindo os dedos de novo, em geral começando pelo mindinho. Muitos brasileiros fazem o contrário: partem da mão fechada e vão levantando os dedos. Já para **mostrar** um número a outra pessoa, por exemplo quantas pessoas vão sentar num restaurante, o mais comum é levantar os dedos, de um jeito parecido com o do Brasil.",
-    "try": "Conte ひとつ、ふたつ… とお à moda japonesa: mão aberta, dobre um dedo a cada número e, a partir de むっつ, vá abrindo de novo a partir do mindinho. Depois conte de volta, de とお até ひとつ."
+    "body": "To count on their fingers, Japanese people usually start with an **open hand** and **fold** the fingers down one by one, beginning with the thumb: at 1 the thumb folds, at 2 the index finger, and so on, until the hand is closed at 5. To keep going up to 10, many people open the fingers again, usually starting with the little finger. Many English speakers do the opposite: they start from a closed fist and raise one finger at a time. To **show** a number to someone else, though — for example, how many people need a table at a restaurant — people in Japan usually hold up that many fingers, much as English speakers do.",
+    "try": "Count ひとつ、ふたつ… とお the Japanese way: open hand, fold one finger for each number and, from むっつ on, open them again starting with the little finger. Then count back down, from とお to ひとつ."
   },
   "checklist": [
-    "Transformo qualquer verbo em 〜ましょう e 〜ましょうか, e sei quando usar cada um.",
-    "Convido com 〜ませんか, aceito e fecho o combinado com 〜ましょう, sem olhar.",
-    "Conto de ひとつ a とお e de volta, sem pausa, com っ em みっつ, よっつ, むっつ e やっつ.",
-    "Peço quantidades com [coisa] を [número] ください e pergunto いくつ.",
-    "Uso とても e ちょっと com afirmativo, e あまり e ぜんぜん só com negativo.",
-    "Fiz a lição de casa e conferi o gabarito, e refiz o que errei.",
-    "Fiz as páginas 56–58 e 137–138 do Workbook."
+    "I can turn any verb into 〜ましょう and 〜ましょうか, and I know when to use each one.",
+    "I can invite with 〜ませんか, accept, and seal the plan with 〜ましょう, without looking.",
+    "I can count from ひとつ to とお and back without pausing, with っ in みっつ, よっつ, むっつ and やっつ.",
+    "I can count flat things with 〜まい (いちまい … じゅうまい), saying よんまい for 4.",
+    "I can order amounts with [thing] を [number] ください and ask いくつ.",
+    "I use とても and ちょっと with affirmatives, and あまり and ぜんぜん only with negatives.",
+    "I did the homework, checked it against the answer key and redid what I got wrong.",
+    "I did Workbook pages 56–58 and 137–138."
   ]
 }

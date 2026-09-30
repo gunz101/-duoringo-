@@ -2,241 +2,245 @@
   "id": "00-2",
   "unit": "U0",
   "genki": { "book": "Genki I", "lesson": 0, "points": ["Japanese Writing System: Katakana"] },
-  "title": "Katakana e palavras estrangeiras",
+  "title": "Katakana and foreign words",
   "titleJp": "カタカナと がいらいご",
   "canDo": [
-    "Ler as 46 letras básicas do katakana e as versões com ゛ e ゜.",
-    "Não confundir シ × ツ e ソ × ン, lendo pela direção do traço longo.",
-    "Ler palavras com ー e ッ, como コーヒー e サッカー, com a duração certa.",
-    "Reconhecer as combinações novas do katakana (ティ, ファ, ウィ…) em palavras como パーティー e カフェ.",
-    "Escrever meu nome e o da minha cidade em katakana, seguindo as tendências de adaptação."
+    "I can read the 46 basic katakana letters and their versions with ゛ and ゜.",
+    "I can tell シ × ツ and ソ × ン apart by the direction of the long stroke.",
+    "I can read words with ー and ッ, like コーヒー and サッカー, with the right length.",
+    "I can recognize katakana's new combinations (ティ, ファ, ウィ…) in words like パーティー and カフェ.",
+    "I can write my name and my city in katakana, following the usual adaptation patterns."
   ],
   "duration": {
     "total": "60–75 min",
     "blocks": [
-      { "t": "Aquecimento: ler em voz alta a tabela de hiragana da Aula 00-1, o mais rápido que conseguir", "min": 5 },
-      { "t": "Ponto 4a: a tabela do katakana e as letras traiçoeiras, lendo os exemplos em voz alta", "min": 20 },
-      { "t": "Pontos 4b a 4d: ー, ッ, combinações novas e como o português e o inglês viram katakana", "min": 20 },
-      { "t": "Vídeo de katakana (bloco 6), pausando para repetir", "min": 10 },
-      { "t": "Lição de casa no caderno + conferir no gabarito", "min": 15 },
-      { "t": "Checklist (bloco 10) + escrever o seu nome em katakana", "min": 5 }
+      { "t": "Warm-up: read the hiragana chart from lesson 00-1 aloud, as fast as you can", "min": 5 },
+      { "t": "Point 4a: the katakana chart and the tricky letters, reading the examples aloud", "min": 20 },
+      { "t": "Points 4b to 4d: ー, ッ, the new combinations and how foreign words become katakana", "min": 20 },
+      { "t": "Katakana video (block 6), pausing to repeat", "min": 10 },
+      { "t": "Notebook homework + checking it against the answer key", "min": 15 },
+      { "t": "Checklist (block 10) + writing your name in katakana", "min": 5 }
     ]
   },
   "prereqs": {
     "aulas": ["00-1"],
     "skills": [
-      "Ler o hiragana, mesmo devagar: o katakana tem os mesmos sons e a mesma tabela.",
-      "Entender mora, vogal longa e っ pequeno (Aula 00-1). Aqui eles voltam como ー e ッ."
+      "Reading hiragana, even slowly: katakana has the same sounds and the same chart.",
+      "Understanding mora, long vowels and small っ (lesson 00-1). They come back here as ー and ッ."
     ],
     "vocab": [
-      { "jp": "カメラ", "kana": "カメラ", "romaji": "kamera", "pt": "câmera (fotográfica)" },
-      { "jp": "テレビ", "kana": "テレビ", "romaji": "terebi", "pt": "televisão" },
-      { "jp": "ホテル", "kana": "ホテル", "romaji": "hoteru", "pt": "hotel" },
-      { "jp": "レストラン", "kana": "レストラン", "romaji": "resutoran", "pt": "restaurante" },
-      { "jp": "トイレ", "kana": "トイレ", "romaji": "toire", "pt": "banheiro" },
-      { "jp": "シャツ", "kana": "シャツ", "romaji": "shatsu", "pt": "camisa" },
-      { "jp": "ソファ", "kana": "ソファ", "romaji": "sofa", "pt": "sofá" },
-      { "jp": "コーヒー", "kana": "コーヒー", "romaji": "kōhī", "pt": "café (a bebida)" },
-      { "jp": "ビール", "kana": "ビール", "romaji": "bīru", "pt": "cerveja" },
-      { "jp": "ビル", "kana": "ビル", "romaji": "biru", "pt": "prédio (do inglês \"building\")" },
-      { "jp": "サッカー", "kana": "サッカー", "romaji": "sakkā", "pt": "futebol" },
-      { "jp": "ネット", "kana": "ネット", "romaji": "netto", "pt": "internet; rede" },
-      { "jp": "ベッド", "kana": "ベッド", "romaji": "beddo", "pt": "cama" },
-      { "jp": "パーティー", "kana": "パーティー", "romaji": "pātī", "pt": "festa" },
-      { "jp": "カフェ", "kana": "カフェ", "romaji": "kafe", "pt": "café, cafeteria (o lugar)" },
-      { "jp": "フォーク", "kana": "フォーク", "romaji": "fōku", "pt": "garfo" },
-      { "jp": "ハロウィン", "kana": "ハロウィン", "romaji": "harowin", "pt": "Halloween, Dia das Bruxas" },
-      { "jp": "ブラジル", "kana": "ブラジル", "romaji": "Burajiru", "pt": "Brasil" },
-      { "jp": "サンパウロ", "kana": "サンパウロ", "romaji": "Sanpauro", "pt": "São Paulo" },
-      { "jp": "パソコン", "kana": "パソコン", "romaji": "pasokon", "pt": "computador (pessoal)" },
-      { "jp": "コンビニ", "kana": "コンビニ", "romaji": "konbini", "pt": "loja de conveniência" },
-      { "jp": "パン", "kana": "パン", "romaji": "pan", "pt": "pão" }
+      { "jp": "カメラ", "kana": "カメラ", "romaji": "kamera", "en": "camera" },
+      { "jp": "テレビ", "kana": "テレビ", "romaji": "terebi", "en": "TV, television" },
+      { "jp": "ホテル", "kana": "ホテル", "romaji": "hoteru", "en": "hotel" },
+      { "jp": "レストラン", "kana": "レストラン", "romaji": "resutoran", "en": "restaurant" },
+      { "jp": "トイレ", "kana": "トイレ", "romaji": "toire", "en": "toilet, restroom" },
+      { "jp": "シャツ", "kana": "シャツ", "romaji": "shatsu", "en": "shirt" },
+      { "jp": "ソファ", "kana": "ソファ", "romaji": "sofa", "en": "sofa" },
+      { "jp": "コーヒー", "kana": "コーヒー", "romaji": "kōhī", "en": "coffee (the drink)" },
+      { "jp": "ビール", "kana": "ビール", "romaji": "bīru", "en": "beer" },
+      { "jp": "ビル", "kana": "ビル", "romaji": "biru", "en": "building (from English \"building\")" },
+      { "jp": "サッカー", "kana": "サッカー", "romaji": "sakkā", "en": "soccer, football" },
+      { "jp": "ネット", "kana": "ネット", "romaji": "netto", "en": "the internet; net" },
+      { "jp": "ベッド", "kana": "ベッド", "romaji": "beddo", "en": "bed" },
+      { "jp": "パーティー", "kana": "パーティー", "romaji": "pātī", "en": "party" },
+      { "jp": "カフェ", "kana": "カフェ", "romaji": "kafe", "en": "café (the place)" },
+      { "jp": "フォーク", "kana": "フォーク", "romaji": "fōku", "en": "fork" },
+      { "jp": "ハロウィン", "kana": "ハロウィン", "romaji": "harowin", "en": "Halloween" },
+      { "jp": "ブラジル", "kana": "ブラジル", "romaji": "Burajiru", "en": "Brazil" },
+      { "jp": "サンパウロ", "kana": "サンパウロ", "romaji": "Sanpauro", "en": "São Paulo" },
+      { "jp": "パソコン", "kana": "パソコン", "romaji": "pasokon", "en": "(personal) computer" },
+      { "jp": "コンビニ", "kana": "コンビニ", "romaji": "konbini", "en": "convenience store" },
+      { "jp": "パン", "kana": "パン", "romaji": "pan", "en": "bread" }
     ]
   },
   "grammar": [
     {
       "id": "00-2-a",
-      "title": "A tabela do katakana",
-      "gloss": "os mesmos sons, com traços retos",
-      "explanation": "O katakana tem **exatamente os mesmos sons** e a mesma tabela do hiragana: 46 letras básicas, as mesmas marquinhas ゛ e ゜ e as mesmas combinações com ャ, ュ e ョ pequenos (キャ, シュ, チョ…). Só muda o desenho, mais reto e anguloso.\n• ア イ ウ エ オ · カ キ ク ケ コ · サ シ ス セ ソ · タ チ ツ テ ト · ナ ニ ヌ ネ ノ\n• ハ ヒ フ ヘ ホ · マ ミ ム メ モ · ヤ ユ ヨ · ラ リ ル レ ロ · ワ ヲ · ン\n• Algumas lembram a letra correspondente do hiragana: カ/か, キ/き, セ/せ, ヘ/へ, モ/も, ヤ/や, リ/り. Use isso a seu favor. ヲ quase nunca aparece.\n• **Para que serve**: palavras estrangeiras (カメラ, テレビ), nomes de países e de pessoas de fora (ブラジル, マリア) e, às vezes, onomatopeias ou ênfase, como o itálico em português.\n• **As quatro traiçoeiras**: シ (shi) e ツ (tsu), ソ (so) e ン (n). Em シ e ン, o traço longo **sobe**, de baixo para cima. Em ツ e ソ, ele **desce**, de cima para baixo. Os tracinhos de シ ficam um em cima do outro, à esquerda; os de ツ ficam lado a lado, em cima.",
-      "structure": "mesma tabela do hiragana · か → カ · し → シ · ん → ン",
+      "gc": null,
+      "title": "The katakana chart",
+      "gloss": "the same sounds, with straight strokes",
+      "explanation": "Katakana has **exactly the same sounds** and the same chart as hiragana: 46 basic letters, the same marks ゛ and ゜, and the same combinations with small ャ, ュ and ョ (キャ, シュ, チョ…). Only the shapes change: they are straighter and more angular.\n• ア イ ウ エ オ · カ キ ク ケ コ · サ シ ス セ ソ · タ チ ツ テ ト · ナ ニ ヌ ネ ノ\n• ハ ヒ フ ヘ ホ · マ ミ ム メ モ · ヤ ユ ヨ · ラ リ ル レ ロ · ワ ヲ · ン\n• Some look like their hiragana partner: カ/か, キ/き, セ/せ, ヘ/へ, モ/も, ヤ/や, リ/り. Use that to your advantage. ヲ almost never appears.\n• **What it is for**: foreign words (カメラ, テレビ), most foreign place names and Western people's names (ブラジル, マリア) and, sometimes, sound effects or emphasis, a bit like italics in English.\n• **The four tricky ones**: シ (shi) and ツ (tsu), ソ (so) and ン (n). In シ and ン, the long stroke goes **up**, from bottom to top. In ツ and ソ, it goes **down**, from top to bottom. The short strokes of シ sit one above the other, on the left; those of ツ sit side by side, along the top.",
+      "structure": "same chart as hiragana · か → カ · し → シ · ん → ン",
       "examples": [
-        { "jp": "カメラ", "kana": "カメラ", "romaji": "kamera", "pt": "câmera (fotográfica)", "noAnat": true },
-        { "jp": "テレビ", "kana": "テレビ", "romaji": "terebi", "pt": "televisão · ビ tem o ゛, como no hiragana", "noAnat": true },
-        { "jp": "マリア", "kana": "マリア", "romaji": "Maria", "pt": "Maria · nome estrangeiro: sempre em katakana", "noAnat": true }
+        { "jp": "カメラ", "kana": "カメラ", "romaji": "kamera", "en": "camera", "noAnat": true },
+        { "jp": "テレビ", "kana": "テレビ", "romaji": "terebi", "en": "TV · ビ has the ゛, just as in hiragana", "noAnat": true },
+        { "jp": "マリア", "kana": "マリア", "romaji": "Maria", "en": "Maria · a Western name: written in katakana", "noAnat": true }
       ],
       "pitfalls": [
-        "Trocar シ (shi) por ツ (tsu): シャツ (camisa) começa com シ. Olhe o traço longo: em シ, ele sobe.",
-        "Trocar ソ (so) por ン (n): パソコン tem as duas. パ・ソ・コ・ン: primeiro a que desce (ソ), no fim a que sobe (ン).",
-        "Confundir ク (ku) com ワ (wa), e ス (su) com ヌ (nu). Em ワ, o primeiro traço é um tracinho em pé; em ク, é inclinado. Em ヌ, o segundo traço cruza a perna; em ス, ele só sai para a direita.",
-        "Escrever palavra estrangeira em hiragana: o certo é ブラジル, e não ぶらじる."
+        "Swapping シ (shi) and ツ (tsu): シャツ (shirt) starts with シ and ends with ツ. Look at the long stroke: in シ, it goes up.",
+        "Swapping ソ (so) and ン (n): パソコン has both. パ・ソ・コ・ン: first the one whose stroke goes down (ソ), at the end the one whose stroke goes up (ン).",
+        "Mixing up ク (ku) and ワ (wa), and ス (su) and ヌ (nu). In ワ, the first stroke is a short upright line; in ク, it slants. In ヌ, the second stroke crosses the leg; in ス, it only sticks out to the right.",
+        "Writing foreign words in hiragana: ぶらじる ✗ → ブラジル ✓."
       ],
       "howToStudy": [
-        "ヅオリンゴー → Kana → Trilha de Kana, agora no katakana, uma fileira por vez. Confira a ordem dos traços em Kana → Escrever.",
-        "No caderno, escreva シ ツ ソ ン quatro vezes cada, dizendo em voz alta a direção do traço longo: \"sobe\", \"desce\".",
-        "Fala: leia em voz alta as palavras do vocabulário da aula, primeiro devagar e depois no ritmo das moras."
+        "ヅオリンゴー → Kana → Kana Trail, now in katakana, one row at a time. Check the stroke order in Kana → Write.",
+        "In your notebook, write シ ツ ソ ン four times each, saying the direction of the long stroke aloud: \"up\", \"down\".",
+        "Speaking: read this lesson's vocabulary aloud, first slowly and then to the beat of the moras."
       ],
       "flag": null
     },
     {
       "id": "00-2-b",
-      "title": "ー e ッ",
-      "gloss": "vogal longa e pausa no katakana",
-      "explanation": "Os dois recursos de tempo que você viu no hiragana aparecem de um jeito próprio no katakana.\n• **ー (traço de vogal longa)** alonga a vogal anterior por mais uma mora. Em vez de repetir a vogal, como no hiragana (おかあさん), o katakana usa ー: コーヒー = コ・ー・ヒ・ー, 4 moras. Na escrita vertical, o traço fica em pé.\n• **ビル (prédio) × ビール (cerveja)**: o ー é a única diferença.\n• **ッ pequeno** funciona igual ao っ do hiragana: uma mora de pausa, com a consoante dobrada no romaji. サッカー (futebol), ネット (internet).\n• Nas palavras estrangeiras, ッ pode vir antes de sons que quase nunca dobram em palavras japonesas: ベッド (cama), バッグ (bolsa).\n• Não há regra 100% fixa, mas há tendências: o \"-er\" e o \"-or\" do inglês costumam virar ー (サッカー, コンピューター), e uma vogal curta antes de consoante final costuma ganhar ッ (ネット, ベッド).",
-      "structure": "ー = alonga a vogal anterior (コーヒー) · ッ = pausa, consoante dobrada (サッカー)",
+      "gc": null,
+      "title": "ー and ッ",
+      "gloss": "long vowels and pauses in katakana",
+      "explanation": "The two timing features you saw in hiragana appear in their own way in katakana.\n• **ー (the long-vowel bar)** stretches the vowel before it by one more mora. Instead of repeating the vowel, as hiragana does (おかあさん), katakana uses ー: コーヒー = コ・ー・ヒ・ー, 4 moras. In vertical writing, the bar stands upright.\n• **ビル (building) × ビール (beer)**: ー is the only difference.\n• **Small ッ** works just like hiragana っ: one mora of pause, with a doubled consonant in romaji. サッカー (soccer), ネット (internet).\n• In foreign words, ッ can come before sounds that almost never double in native Japanese words: ベッド (bed), バッグ (bag).\n• There is no 100% fixed rule, but there are patterns: English \"-er\" and \"-or\" at the end of a word usually become ー (サッカー, コンピューター), and a short vowel before a final t, k, p, d, g, ch or sh usually gains ッ (ネット, ベッド, バッグ). Before a final s, l, m or n there is usually no ッ: バス (bus), ホテル, ペン (pen).",
+      "structure": "ー = stretches the vowel before it (コーヒー) · ッ = pause, doubled consonant (サッカー)",
       "examples": [
-        { "jp": "コーヒー", "kana": "コーヒー", "romaji": "kōhī", "pt": "café (a bebida) · コ・ー・ヒ・ー, 4 moras", "noAnat": true },
-        { "jp": "ビール", "kana": "ビール", "romaji": "bīru", "pt": "cerveja · compare com ビル, prédio", "noAnat": true },
-        { "jp": "サッカー", "kana": "サッカー", "romaji": "sakkā", "pt": "futebol (do inglês \"soccer\") · ッ e ー na mesma palavra", "noAnat": true }
+        { "jp": "コーヒー", "kana": "コーヒー", "romaji": "kōhī", "en": "coffee · コ・ー・ヒ・ー, 4 moras", "noAnat": true },
+        { "jp": "ビール", "kana": "ビール", "romaji": "bīru", "en": "beer · compare ビル, building", "noAnat": true },
+        { "jp": "サッカー", "kana": "サッカー", "romaji": "sakkā", "en": "soccer · ッ and ー in the same word", "noAnat": true }
       ],
       "pitfalls": [
-        "Ignorar o ー: ビル (prédio) × ビール (cerveja). Pedir uma ビル no bar não vai dar certo.",
-        "Usar ー em palavras japonesas: na escrita padrão, a vogal longa do hiragana se escreve com letra (おかあさん, とうきょう). O ー é do katakana.",
-        "Ler ッ como \"tsu\": サッカー é \"sakkā\", com pausa, e não \"sa-tsu-kā\".",
-        "Esquecer o ッ ao escrever: ネト em vez de ネット."
+        "Ignoring the ー: ビル (building) × ビール (beer). Ask for a ビル at a bar and you are asking for a building.",
+        "Using ー in native Japanese words: in standard writing, a hiragana long vowel is written with a letter (おかあさん, とうきょう). ー belongs to katakana.",
+        "Reading ッ as \"tsu\": サッカー is \"sakkā\", with a pause, not \"sa-tsu-kā\".",
+        "Forgetting the ッ when writing: ネト ✗ → ネット ✓."
       ],
       "howToStudy": [
-        "Fala: diga ビル e ビール batendo palma a cada mora: 2 × 3.",
-        "Toque 🔊 em コーヒー e サッカー e imite, segurando o ー e a pausa do ッ por uma batida inteira.",
-        "No caderno, escreva 5 palavras com ー e 3 com ッ do vocabulário da aula."
+        "Speaking: say ビル and ビール, clapping on each mora: 2 × 3.",
+        "Tap 🔊 on コーヒー and サッカー and imitate them, holding the ー and the ッ pause for one full beat.",
+        "In your notebook, write 5 words with ー and 3 with ッ from this lesson's vocabulary."
       ],
       "flag": null
     },
     {
       "id": "00-2-c",
-      "title": "Combinações novas: ティ, ファ, ウィ…",
-      "gloss": "sons que o japonês não tinha",
-      "explanation": "Para imitar sons estrangeiros, o katakana cria combinações que o hiragana comum não usa. A regra é parecida com a de キャ: letra grande + **vogal pequena** (ァ ィ ゥ ェ ォ) = **uma mora**.\n• **ティ** (ti) e **ディ** (di): o \"ti\" e o \"di\" duros, sem o \"tchi\" e o \"dji\". パーティー (festa).\n• **ファ フィ フェ フォ**: o som de f com qualquer vogal. カフェ (cafeteria), フォーク (garfo).\n• **ウィ ウェ ウォ**: o \"w\" com i, e, o. ハロウィン (Halloween), ウェブ (web).\n• **シェ, ジェ, チェ**: \"xe\", \"dje\", \"tche\". チェック (checagem).\n• **ヴ** tenta imitar o \"v\", mas muitas palavras usam simplesmente a fileira バ: \"violino\" costuma aparecer como バイオリン. Na fala, os dois soam como b.\n• Nem toda palavra usa as combinações novas: palavras mais antigas ficaram com a adaptação velha. \"Ticket\" virou チケット, com チ, e não com ティ.",
-      "structure": "letra + ァ ィ ゥ ェ ォ pequena = 1 mora · テ + ィ → ティ · フ + ァ → ファ · ウ + ィ → ウィ",
+      "gc": null,
+      "title": "New combinations: ティ, ファ, ウィ…",
+      "gloss": "sounds Japanese didn't have",
+      "explanation": "To imitate foreign sounds, katakana creates combinations that ordinary hiragana doesn't use. The rule is like キャ: a full-size letter + a **small vowel** (ァ ィ ゥ ェ ォ) = **one mora**.\n• **ティ** (ti) and **ディ** (di): the \"tee\" and \"dee\" sounds, which basic Japanese lacks (it only has チ chi and ジ ji). パーティー (party).\n• **ファ フィ フェ フォ**: the breathy フ (no teeth on the lip, just as with ふ) with any vowel. It sounds close to an English f. カフェ (café), フォーク (fork).\n• **ウィ ウェ ウォ**: \"w\" with i, e and o. ハロウィン (Halloween), ウェブ (web).\n• **シェ, ジェ, チェ**: \"she\", \"je\" and \"che\". チェック (check).\n• **ヴ** tries to imitate the v, but many words simply use the バ row: \"violin\" usually appears as バイオリン, and sometimes as ヴァイオリン. In speech, both sound like b.\n• Not every word uses the new combinations: older words kept the older adaptation. \"Ticket\" became チケット, with チ, not ティ.",
+      "structure": "letter + small ァ ィ ゥ ェ ォ = 1 mora · テ + ィ → ティ · フ + ァ → ファ · ウ + ィ → ウィ",
       "examples": [
-        { "jp": "パーティー", "kana": "パーティー", "romaji": "pātī", "pt": "festa · ティ soa \"ti\", sem \"tchi\"", "noAnat": true },
-        { "jp": "カフェ", "kana": "カフェ", "romaji": "kafe", "pt": "café, cafeteria (o lugar)", "noAnat": true },
-        { "jp": "ハロウィン", "kana": "ハロウィン", "romaji": "harowin", "pt": "Halloween · ウィ é uma mora só", "noAnat": true }
+        { "jp": "パーティー", "kana": "パーティー", "romaji": "pātī", "en": "party · ティ is \"ti\", not \"chi\"", "noAnat": true },
+        { "jp": "カフェ", "kana": "カフェ", "romaji": "kafe", "en": "café (the place)", "noAnat": true },
+        { "jp": "ハロウィン", "kana": "ハロウィン", "romaji": "harowin", "en": "Halloween · ウィ is a single mora", "noAnat": true }
       ],
       "pitfalls": [
-        "Escrever ティ com イ grande: テイ são duas moras (te-i). A vogal tem de ser pequena: ティ.",
-        "Ler ティ como \"tchi\": パーティー é \"pātī\", com t duro. Quem soa \"tchi\" é チ.",
-        "Achar que todo \"ti\" estrangeiro vira ティ: チケット (ingresso) usa チ. Aprenda a grafia de cada palavra como ela é, sem inventar.",
-        "Confundir カフェ (a cafeteria) com コーヒー (a bebida)."
+        "Writing ティ with a full-size イ: テイ is two moras (te-i). The vowel must be small: ティ.",
+        "Mixing up ティ and チ: パーティー is \"pātī\", with a t. チ is \"chi\".",
+        "Assuming every foreign \"ti\" becomes ティ: チケット (ticket) uses チ. Learn each word's spelling as it is, without inventing.",
+        "Reading ファ as two beats, \"fu-a\": the small ァ merges with フ into one mora, \"fa\". カフェ is カ・フェ, 2 moras."
       ],
       "howToStudy": [
-        "Fala: leia em pares, sentindo a diferença: ティ/チ, ファ/ハ, ウィ/イ.",
-        "No caderno, copie as combinações novas (ティ ディ ファ フィ フェ フォ ウィ ウェ ウォ シェ ジェ チェ) e escreva ao lado os exemplos desta aula.",
-        "Toque 🔊 nos exemplos e repita 3 vezes cada um."
+        "Speaking: read these in pairs, feeling the difference: ティ/チ, ファ/ハ, ウィ/イ.",
+        "In your notebook, copy the new combinations (ティ ディ ファ フィ フェ フォ ウィ ウェ ウォ シェ ジェ チェ) and write this lesson's examples next to them.",
+        "Tap 🔊 on the examples and repeat each one 3 times."
       ],
       "flag": null
     },
     {
       "id": "00-2-d",
-      "title": "Do português e do inglês para o katakana",
-      "gloss": "como uma palavra estrangeira vira katakana",
-      "explanation": "O japonês quase só tem sílabas de consoante + vogal, terminadas em vogal (ou em ン). Por isso, ao entrar no katakana, uma palavra estrangeira é **remontada com moras japonesas**. As tendências principais:\n• **Consoante sem vogal ganha uma vogal**, em geral u: \"Brasil\" → ブ・ラ・ジ・ル. Depois de t e d, a vogal costuma ser o: \"test\" → テスト, \"bed\" → ベッド.\n• **l e r viram a fileira ラ**, porque o japonês não diferencia os dois: \"Lucas\" → ルーカス, \"Rio\" → リオ.\n• **O \"ão\" e outras nasais viram ン**: \"São Paulo\" → サンパウロ.\n• **Palavras compridas encolhem**, ficando com o começo de cada parte: \"personal computer\" → パソコン, \"convenience store\" → コンビニ, \"smartphone\" → スマホ.\n• Muitas palavras vêm do **inglês**, e não do português: futebol é サッカー, de \"soccer\".\n• **Nomes** não têm grafia oficial: o que vale é soar parecido com a pronúncia da pessoa (ペドロ, アナ, ジュリア). Entre nome e sobrenome estrangeiros usa-se o ponto ・: マリア・サントス.",
-      "structure": "palavra estrangeira → moras japonesas (ブ・ラ・ジ・ル) · l e r → fileira ラ · \"ão\" → ン · palavras longas encolhem (パソコン)",
+      "gc": null,
+      "title": "How English words become katakana",
+      "gloss": "rebuilding a foreign word with Japanese moras",
+      "explanation": "Japanese syllables are almost all consonant + vowel, ending in a vowel (or in ン). So when a foreign word comes into Japanese, it is **rebuilt out of Japanese moras**. The main patterns:\n• **A consonant with no vowel gets one**, usually u: \"Brazil\" → ブ・ラ・ジ・ル, \"golf\" → ゴルフ. After t and d, the added vowel is usually o: \"test\" → テスト, \"bed\" → ベッド.\n• **l and r both become the ラ row**, because Japanese doesn't tell them apart: \"lemon\" → レモン, \"radio\" → ラジオ.\n• **th usually becomes the サ row**: \"three\" → スリー. **v** usually becomes the バ row (point 4c).\n• **Long vowels often become ー**: \"cake\" → ケーキ, \"Lucas\" → ルーカス (you will also see ルカス). Not always: \"Pedro\" → ペドロ, \"Maria\" → マリア. The \"-er\" ending also becomes ー (point 4b).\n• **Long words shrink**, keeping the start of each part: \"personal computer\" → パソコン, \"convenience store\" → コンビニ, \"smartphone\" → スマホ.\n• **Not every katakana word is English**: パン (bread) comes from Portuguese, アルバイト (part-time job) from German, and コーヒー arrived through Dutch.\n• **Names** have no official spelling: what counts is sounding close to how the person says it (ペドロ, アナ, ジョン, エミリー). A ・ goes between a foreign first name and last name: マリア・サントス.",
+      "structure": "foreign word → Japanese moras (ブ・ラ・ジ・ル) · l and r → ラ row · long vowels → ー · long words shrink (パソコン)",
       "examples": [
-        { "jp": "ブラジル", "kana": "ブラジル", "romaji": "Burajiru", "pt": "Brasil · cada consoante ganhou vogal: ブ・ラ・ジ・ル", "noAnat": true },
-        { "jp": "サンパウロ", "kana": "サンパウロ", "romaji": "Sanpauro", "pt": "São Paulo · o \"ão\" virou ン", "noAnat": true },
-        { "jp": "パソコン", "kana": "パソコン", "romaji": "pasokon", "pt": "computador · encurtado de \"personal computer\"", "noAnat": true }
+        { "jp": "ブラジル", "kana": "ブラジル", "romaji": "Burajiru", "en": "Brazil · every consonant got a vowel: ブ・ラ・ジ・ル", "noAnat": true },
+        { "jp": "サンパウロ", "kana": "サンパウロ", "romaji": "Sanpauro", "en": "São Paulo · a place name rebuilt in moras: サ・ン・パ・ウ・ロ", "noAnat": true },
+        { "jp": "パソコン", "kana": "パソコン", "romaji": "pasokon", "en": "(personal) computer · shortened from \"personal computer\"", "noAnat": true }
       ],
       "pitfalls": [
-        "Inventar a grafia de palavras comuns: elas já têm forma fixa (ブラジル, サッカー, コーヒー). Adaptar livremente só vale para nomes próprios, como o seu.",
-        "Traduzir pelo português: futebol não é \"フテボル\", é サッカー. Computador pessoal não é \"コンプタドール\", é パソコン (ou コンピューター, do inglês).",
-        "Pronunciar com o r forte do português: ルーカス soa \"rū-ka-su\", com o r fraco de \"caro\".",
-        "Pôr sílaba tônica: ブラジル são 4 moras iguais, ブ・ラ・ジ・ル, e não \"bra-ZIL\"."
+        "Inventing spellings for common words: they already have a fixed form (ブラジル, サッカー, コーヒー). Free adaptation is only for proper names, like yours.",
+        "Saying the English word inside a Japanese sentence: コーヒー is \"kō-hī\", not \"coffee\", and ホテル is \"ho-te-ru\", not \"hotel\". A Japanese listener may not recognize the English pronunciation.",
+        "Assuming a katakana word means exactly what the English word means: マンション is an apartment in a building, not a mansion.",
+        "Stressing one syllable: ブラジル is 4 equal moras, ブ・ラ・ジ・ル, not \"bra-ZIL\"."
       ],
       "howToStudy": [
-        "Escreva em katakana o seu nome, o da sua cidade e o de 3 pessoas da família, seguindo as tendências. Depois compare com o modelo da lição de casa (h4).",
-        "Fala: leia ブラジル, サンパウロ e パソコン no ritmo das moras, sem sílaba tônica.",
-        "Brincadeira de adivinhar: pegue palavras em katakana do Wagotabi ou de embalagens e tente descobrir a palavra estrangeira por trás."
+        "Write in katakana your name, your city and the names of 3 family members, following the patterns. Then compare with the homework model (h4).",
+        "Speaking: read ブラジル, サンパウロ and パソコン to the beat of the moras, with no stressed syllable.",
+        "Guessing game: take katakana words from Wagotabi or from packaging and try to work out the foreign word behind each one."
       ],
       "flag": null
     }
   ],
   "media": [
-    { "order": 1, "kind": "leitura", "title": "Genki I · Japanese Writing System (introdução) e Leitura e Escrita da Lição 2: a tabela de katakana", "where": "Seu livro Genki I (3ª ed.)", "url": "", "when": "Antes desta aula ou junto com o ponto 4a" },
-    { "order": 2, "kind": "video", "title": "ToKini Andy: katakana, para quem está começando o Genki", "where": "YouTube · canal ToKini Andy", "url": "", "search": "ToKini Andy katakana", "when": "Depois do ponto 4a, pausando para repetir cada fileira" },
-    { "order": 3, "kind": "app", "title": "ヅオリンゴー · Kana → Trilha de Kana (katakana, fileira por fileira) e Kana → Escrever (ordem dos traços)", "where": "ヅオリンゴー · Kana", "url": "", "when": "Em toda sessão de estudo, até dominar o katakana" },
-    { "order": 4, "kind": "app", "title": "kana-flow: mistura hiragana e katakana e caça os pares que você confunde (シ/ツ, ソ/ン)", "where": "../kana-flow/index.html", "url": "../kana-flow/index.html", "when": "Depois da Trilha de Kana, para fixar os dois silabários juntos" }
+    { "order": 1, "kind": "reading", "title": "Genki I · Japanese Writing System (introduction) and the Lesson 2 Reading and Writing section: the katakana chart", "where": "Your Genki I textbook (3rd ed.)", "url": "", "when": "Before this lesson or together with point 4a" },
+    { "order": 2, "kind": "video", "title": "ToKini Andy: katakana, for Genki beginners", "where": "YouTube · ToKini Andy channel", "url": "", "search": "ToKini Andy katakana", "when": "After point 4a, pausing to repeat each row" },
+    { "order": 3, "kind": "app", "title": "ヅオリンゴー · Kana → Kana Trail (katakana, row by row) and Kana → Write (stroke order)", "where": "ヅオリンゴー · Kana", "url": "", "when": "In every study session, until you have mastered katakana" },
+    { "order": 4, "kind": "app", "title": "kana-flow: mixes hiragana and katakana and hunts down the pairs you confuse (シ/ツ, ソ/ン)", "where": "../kana-flow/index.html", "url": "../kana-flow/index.html", "when": "After the Kana Trail, to lock in both syllabaries together" }
   ],
   "homework": {
-    "intro": "Faça no caderno, à mão. Escreva o katakana com traços retos e confira a ordem em Kana → Escrever. Só depois abra o gabarito, item por item. Circule o que errou e refaça na sessão seguinte.",
+    "intro": "Do it by hand in your notebook. Write katakana with straight strokes and check the stroke order in Kana → Write. Only then open the answer key, item by item. Circle what you got wrong and redo it in your next session.",
     "tasks": [
       {
         "id": "h1",
-        "type": "ler",
-        "prompt": "Leia em voz alta, escreva o romaji ao lado e descubra a palavra estrangeira por trás.",
+        "type": "read",
+        "prompt": "Read each word aloud, write its romaji next to it, and work out the foreign word behind it.",
         "items": [
-          { "q": "ホテル", "a": { "jp": "ホテル", "romaji": "hoteru", "pt": "hotel" } },
-          { "q": "テレビ", "a": { "jp": "テレビ", "romaji": "terebi", "pt": "televisão" } },
-          { "q": "コーヒー", "a": { "jp": "コーヒー", "romaji": "kōhī", "pt": "café (a bebida)" }, "note": "Dois ー: コ・ー・ヒ・ー, 4 moras." },
-          { "q": "レストラン", "a": { "jp": "レストラン", "romaji": "resutoran", "pt": "restaurante" }, "note": "O s de \"restaurant\" ganhou vogal: ス." },
-          { "q": "トイレ", "a": { "jp": "トイレ", "romaji": "toire", "pt": "banheiro" } },
-          { "q": "フォーク", "a": { "jp": "フォーク", "romaji": "fōku", "pt": "garfo" }, "note": "フォ é uma mora só." }
+          { "q": "ホテル", "a": { "jp": "ホテル", "romaji": "hoteru", "en": "hotel" }, "note": "From English \"hotel\": the final l became ル." },
+          { "q": "テレビ", "a": { "jp": "テレビ", "romaji": "terebi", "en": "TV, television" }, "note": "Shortened from \"television\" (テレビジョン)." },
+          { "q": "コーヒー", "a": { "jp": "コーヒー", "romaji": "kōhī", "en": "coffee (the drink)" }, "note": "Two ー: コ・ー・ヒ・ー, 4 moras. It came from Dutch \"koffie\", close to English \"coffee\"." },
+          { "q": "レストラン", "a": { "jp": "レストラン", "romaji": "resutoran", "en": "restaurant" }, "note": "From \"restaurant\": the s got a vowel and became ス." },
+          { "q": "トイレ", "a": { "jp": "トイレ", "romaji": "toire", "en": "toilet, restroom" }, "note": "Shortened from \"toilet\" (トイレット)." },
+          { "q": "フォーク", "a": { "jp": "フォーク", "romaji": "fōku", "en": "fork" }, "note": "From \"fork\": フォ is a single mora, and the \"or\" became a long vowel." }
         ]
       },
       {
         "id": "h2",
-        "type": "completar",
-        "prompt": "シ, ツ, ソ ou ン? Complete com a letra certa (atenção: um dos itens é pegadinha).",
+        "type": "fill",
+        "prompt": "シ, ツ, ソ or ン? Fill in the right letter (careful: one item is a trick).",
         "items": [
-          { "q": "＿ャツ (camisa)", "a": { "jp": "シャツ", "romaji": "shatsu" }, "note": "シ no começo, ツ no fim: as duas na mesma palavra." },
-          { "q": "パ＿コン (computador)", "a": { "jp": "パソコン", "romaji": "pasokon" }, "note": "ソ, com o traço que desce." },
-          { "q": "サ＿パウロ (São Paulo)", "a": { "jp": "サンパウロ", "romaji": "Sanpauro" }, "note": "ン, com o traço que sobe." },
-          { "q": "サ＿カー (futebol)", "a": { "jp": "サッカー", "romaji": "sakkā" }, "note": "Pegadinha: é o ッ pequeno, de pausa, e não ツ grande nem シ." },
-          { "q": "＿ファ (sofá)", "a": { "jp": "ソファ", "romaji": "sofa" } }
+          { "q": "＿ャツ (shirt)", "a": { "jp": "シャツ", "romaji": "shatsu" }, "note": "シ at the start, ツ at the end: both in the same word." },
+          { "q": "パ＿コン (computer)", "a": { "jp": "パソコン", "romaji": "pasokon" }, "note": "ソ, whose long stroke goes down." },
+          { "q": "サ＿パウロ (São Paulo)", "a": { "jp": "サンパウロ", "romaji": "Sanpauro" }, "note": "ン, whose long stroke goes up." },
+          { "q": "サ＿カー (soccer)", "a": { "jp": "サッカー", "romaji": "sakkā" }, "note": "The trick: it's the small ッ, a pause — not a full-size ツ or シ." },
+          { "q": "＿ファ (sofa)", "a": { "jp": "ソファ", "romaji": "sofa" } }
         ]
       },
       {
         "id": "h3",
-        "type": "escrever",
-        "prompt": "Escreva em katakana. Todas as palavras estão no vocabulário da aula.",
+        "type": "write",
+        "prompt": "Write these in katakana. All the words are in this lesson's vocabulary.",
         "items": [
-          { "q": "Brasil", "a": { "jp": "ブラジル", "romaji": "Burajiru" } },
-          { "q": "cerveja", "a": { "jp": "ビール", "romaji": "bīru" }, "note": "Com ー. Sem ele, vira ビル (prédio)." },
-          { "q": "festa", "a": { "jp": "パーティー", "romaji": "pātī" }, "note": "ティ com ィ pequeno e dois ー." },
-          { "q": "cafeteria", "a": { "jp": "カフェ", "romaji": "kafe" } },
-          { "q": "futebol", "a": { "jp": "サッカー", "romaji": "sakkā" } },
-          { "q": "Halloween", "a": { "jp": "ハロウィン", "romaji": "harowin" }, "note": "Você também vai ver ハロウィーン, com ー." }
+          { "q": "Brazil", "a": { "jp": "ブラジル", "romaji": "Burajiru" } },
+          { "q": "beer", "a": { "jp": "ビール", "romaji": "bīru" }, "note": "With ー. Without it, it becomes ビル (building)." },
+          { "q": "party", "a": { "jp": "パーティー", "romaji": "pātī" }, "note": "ティ with a small ィ, and two ー. You will also see パーティ, without the last ー: that is also correct." },
+          { "q": "café", "a": { "jp": "カフェ", "romaji": "kafe" } },
+          { "q": "soccer", "a": { "jp": "サッカー", "romaji": "sakkā" } },
+          { "q": "Halloween", "a": { "jp": "ハロウィン", "romaji": "harowin" }, "note": "You will also see ハロウィーン, with ー." }
         ]
       },
       {
         "id": "h4",
-        "type": "produzir",
-        "prompt": "Escreva em katakana o seu nome completo e o nome da sua cidade. Depois leia em voz alta, no ritmo das moras, e grave.",
+        "type": "produce",
+        "prompt": "Write your full name and the name of your city in katakana. Then read them aloud, to the beat of the moras, and record yourself.",
         "items": [
-          { "q": "Modelo de nome (o seu vai ser diferente):", "a": { "jp": "ペドロ・サントス", "romaji": "Pedoro Santosu", "pt": "Pedro Santos" }, "note": "Confira: cada consoante tem vogal (ス no fim), o r virou ロ e há um ・ entre nome e sobrenome. Nomes não têm grafia oficial: se soar parecido, está certo." },
-          { "q": "Modelo de cidade:", "a": { "jp": "リオデジャネイロ", "romaji": "Riodejaneiro", "pt": "Rio de Janeiro" }, "note": "Confira: nomes de lugar costumam vir sem ・ entre as partes, e o \"de\" virou デ, com e mesmo." }
+          { "q": "Model name (yours will be different):", "a": { "jp": "ペドロ・サントス", "romaji": "Pedoro Santosu", "en": "Pedro Santos" }, "note": "Check: every consonant has a vowel (ス at the end), the r became ロ, and there is a ・ between the first and last name. Names have no official spelling: if it sounds close, it is right." },
+          { "q": "Model city:", "a": { "jp": "リオデジャネイロ", "romaji": "Riodejaneiro", "en": "Rio de Janeiro" }, "note": "Check: place names usually come without ・ between their parts, and every syllable keeps a full vowel: リ・オ・デ・ジャ・ネ・イ・ロ." }
         ]
       }
     ],
     "workbook": [
-      { "p": 23, "t": "Japanese Writing System 2 — Katakana", "tip": "Faça quando já ler o katakana inteiro, mesmo devagar." },
-      { "p": 128, "t": "Katakana ア–コ", "tip": "Depois de dominar as fileiras ア e カ na Trilha de Kana." },
-      { "p": 129, "t": "Katakana サ–ト", "tip": "Depois das fileiras サ e タ." },
-      { "p": 130, "t": "Katakana ナ–ホ", "tip": "Depois das fileiras ナ e ハ." },
-      { "p": 131, "t": "Katakana マ–ヨ", "tip": "Depois das fileiras マ e ヤ." },
-      { "p": 132, "t": "Katakana ラ–ン", "tip": "Depois das fileiras ラ e ワ e do ン. Confira no Genki Answer Key oficial." }
+      { "p": 23, "t": "Japanese Writing System 2 — Katakana", "tip": "Do it once you can read all of katakana, even slowly." },
+      { "p": 128, "t": "Katakana ア–コ", "tip": "After mastering the ア and カ rows on the Kana Trail." },
+      { "p": 129, "t": "Katakana サ–ト", "tip": "After the サ and タ rows." },
+      { "p": 130, "t": "Katakana ナ–ホ", "tip": "After the ナ and ハ rows." },
+      { "p": 131, "t": "Katakana マ–ヨ", "tip": "After the マ and ヤ rows." },
+      { "p": 132, "t": "Katakana ラ–ン", "tip": "After the ラ and ワ rows and ン. Check it with the official Genki Answer Key." }
     ]
   },
   "practice": [
-    { "tool": "Kana", "what": "ヅオリンゴー → Kana → Trilha de Kana, no katakana: uma fileira nova por sessão, revisando as anteriores. Use Kana → Escrever para a ordem dos traços de シ, ツ, ソ e ン.", "min": 15 },
-    { "tool": "kana-flow", "what": "O modo misto junta hiragana e katakana. Se você trocar シ por ツ, a Caça-confusão registra o par e traz o sósia logo em seguida; na aba Fraquezas, use \"Treinar par\".", "min": 10 },
-    { "tool": "Wagotabi", "what": "Jogue normalmente e procure palavras em katakana nos menus e diálogos. Leia 5 em voz alta, tente adivinhar a palavra estrangeira por trás e anote no caderno.", "min": 10 },
-    { "tool": "Shadowing", "what": "Toque 🔊 em cada exemplo da aula e repita junto 3 vezes, segurando o ー e a pausa do ッ.", "min": 5 },
-    { "tool": "Fala", "what": "Diga o seu nome em katakana no ritmo das moras (ペ・ド・ロ) e grave. Ouça: ficou sem sílaba tônica?", "min": 5 }
+    { "tool": "Kana", "what": "ヅオリンゴー → Kana → Kana Trail, in katakana: one new row per session, reviewing the earlier ones. Use Kana → Write for the stroke order of シ, ツ, ソ and ン.", "min": 15 },
+    { "tool": "kana-flow", "what": "Its mixed mode combines hiragana and katakana. If you swap シ and ツ, its confusion hunt records the pair and brings the look-alike back soon after; in its weaknesses tab you can drill that exact pair.", "min": 10 },
+    { "tool": "Wagotabi", "what": "Play normally and look for katakana words in the menus and dialogues. Read 5 of them aloud, try to guess the foreign word behind each one, and note them in your notebook.", "min": 10 },
+    { "tool": "Shadowing", "what": "Tap 🔊 on each example in this lesson and repeat along 3 times, holding the ー and the ッ pause.", "min": 5 },
+    { "tool": "Speaking", "what": "Say your name in katakana to the beat of the moras (ペ・ド・ロ) and record it. Listen: did it come out with no stressed syllable?", "min": 5 }
   ],
   "culture": {
-    "title": "Palavras que o japonês pegou do português",
+    "title": "Words Japanese borrowed from Portuguese",
     "titleJp": "ポルトガルごから きた ことば",
-    "body": "Os portugueses foram os primeiros europeus a chegar ao Japão, em meados do século XVI (por volta de 1543), e trouxeram produtos e palavras novas. Algumas ficaram até hoje: **パン** (pão), **カステラ** (um bolo parecido com o pão de ló, cujo nome vem de \"Castela\"), **タバコ** (tabaco, cigarro), **ボタン** (botão) e **カッパ** (capa de chuva). A **てんぷら** também tem origem portuguesa amplamente aceita, embora ainda se discuta de qual palavra exata ela vem. Algumas são tão antigas que nem parecem estrangeiras para os japoneses: てんぷら, por exemplo, costuma ser escrita com kanji e hiragana, e não em katakana. Cuidado com um mito famoso: ありがとう **não** vem de \"obrigado\". É uma palavra japonesa antiga, e a semelhança é coincidência.",
-    "try": "Leia em voz alta, no ritmo das moras: パ・ン, カ・ス・テ・ラ, タ・バ・コ, ボ・タ・ン, カ・ッ・パ. Depois de cada uma, diga a palavra portuguesa de origem."
+    "body": "The Portuguese were the first Europeans to reach Japan, around 1543, and they brought new products and new words. Some are still used today: **パン** (bread), **カステラ** (a sponge cake whose name comes from *Castela*, Portuguese for Castile), **タバコ** (tobacco, cigarettes; Portuguese *tabaco*), **ボタン** (button) and **カッパ** (a raincoat; Portuguese *capa*, \"cape\"). **てんぷら** is also widely thought to come from Portuguese, although the exact source word is still debated. Some of these words are so old that they no longer feel foreign: てんぷら, for example, is usually written with a kanji and hiragana (天ぷら), not in katakana. Beware of a famous myth: ありがとう does **not** come from the Portuguese word for \"thank you\". It is an old Japanese word, and the resemblance is a coincidence.",
+    "try": "Read these aloud, mora by mora: パ・ン, カ・ス・テ・ラ, タ・バ・コ, ボ・タ・ン, カ・ッ・パ. After each one, say what it means in English."
   },
   "checklist": [
-    "Leio as 46 letras básicas do katakana, com ゛ e ゜, sem olhar a tabela.",
-    "Diferencio シ/ツ e ソ/ン pela direção do traço longo, lendo e escrevendo.",
-    "Leio ー e ッ com a duração certa: ビル × ビール, サッカー.",
-    "Leio as combinações novas (ティ, ファ, フォ, ウィ…) em palavras como パーティー e カフェ.",
-    "Escrevo o meu nome e o da minha cidade em katakana, sem olhar as regras.",
-    "Fiz a lição de casa e conferi o gabarito, e refiz o que errei.",
-    "Fiz as páginas 23 e 128–132 do Workbook."
+    "I can read the 46 basic katakana letters, with ゛ and ゜, without looking at the chart.",
+    "I can tell シ/ツ and ソ/ン apart by the direction of the long stroke, when reading and when writing.",
+    "I can read ー and ッ with the right length: ビル × ビール, サッカー.",
+    "I can read the new combinations (ティ, ファ, フォ, ウィ…) in words like パーティー and カフェ.",
+    "I can write my name and my city in katakana without looking at the patterns.",
+    "I did the homework, checked it against the answer key and redid what I got wrong.",
+    "I did Workbook pages 23 and 128–132."
   ]
 }

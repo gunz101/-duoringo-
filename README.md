@@ -51,7 +51,15 @@
 
 ## Status
 
-The lessons are being converted to English and completed in batches. Each batch goes through the automatic checker (`tools/check.js`) and an independent linguistic review before it is published.
+**74 of 102 lessons published.** Every published lesson passes the automatic checker (`tools/check.js`: structure, romaji × kana, answer keys, no dates, kanji per lesson, no Portuguese). The rest is being written.
+
+| Part | Lessons | |
+|---|---|---|
+| Unit 0 · kana | 3 / 3 | ✅ complete |
+| Genki I (N5) + Milestones 1–3 | 38 / 38 | ✅ complete |
+| Genki II (N4) + Milestones 4–5 | 28 / 30 | 🟡 in progress |
+| N3 Bridge + Milestone 6 | 5 / 23 | 🟡 in progress |
+| Travel Track | 0 / 8 | ⏳ next |
 
 ## For contributors
 

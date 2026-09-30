@@ -2,185 +2,185 @@
   "id": "17-2",
   "unit": "G2-L17",
   "genki": { "book": "Genki II", "lesson": 17, "points": ["〜たら", "〜なくてもいいです"] },
-  "title": "Se/quando · não precisa",
+  "title": "If/when · don't have to",
   "titleJp": "雨だったら、来なくてもいいです",
   "canDo": [
-    "Dizer uma condição com 〜たら (passado curto + ら), com o resultado depois dela: 雨がふったら、うちで映画を見ます。",
-    "Usar 〜たら para \"quando X acontecer\", com coisas que vão acontecer com certeza: 駅に着いたら、電話してください。",
-    "Contar uma descoberta no passado com 〜たら: カーテンを開けたら、雪がふっていました (quando abri, vi que…).",
-    "Dizer que algo não é necessário com 〜なくてもいいです e responder いいえ、〜なくてもいいです a uma pergunta com 〜なければいけませんか。"
+    "I can state a condition with 〜たら (short past + ら), with the result after it: 雨がふったら、うちで映画を見ます。",
+    "I can use 〜たら for \"when X happens\", with things that are sure to happen: 駅に着いたら、電話してください。",
+    "I can tell about a discovery in the past with 〜たら: カーテンを開けたら、雪がふっていました (when I opened them, I found that…).",
+    "I can say something isn't necessary with 〜なくてもいいです and answer いいえ、〜なくてもいいです to a question with 〜なければいけませんか。"
   ],
   "duration": {
     "total": "60–75 min",
     "blocks": [
-      { "t": "Aquecimento: diga em voz alta o passado curto (た) e a forma ない de 行く, 食べる, する, 来る, 安い e ひま", "min": 5 },
-      { "t": "Vocabulário: ouvir 🔊 cada palavra e repetir 2 vezes", "min": 10 },
-      { "t": "Gramática: os 2 pontos, com os exemplos lidos em voz alta e um 🔬 em cada. No ponto a, separe bem os três usos (se, quando, descoberta)", "min": 25 },
-      { "t": "Vídeo da Lição 17 (bloco 6), só a parte de 〜たら e 〜なくてもいいです", "min": 10 },
-      { "t": "Lição de casa no caderno + conferir no gabarito", "min": 15 },
-      { "t": "Checklist (bloco 10) + anotar dúvidas no caderno da aula", "min": 5 }
+      { "t": "Warm-up: say aloud the short past (た) and the ない form of 行く, 食べる, する, 来る, 安い and ひま", "min": 5 },
+      { "t": "Vocabulary: tap 🔊 on each word and repeat it twice", "min": 10 },
+      { "t": "Grammar: the 2 points, with the examples read aloud and one 🔬 for each. In point a, keep the three uses (if, when, discovery) clearly apart", "min": 25 },
+      { "t": "Lesson 17 video (block 6), only the part on 〜たら and 〜なくてもいいです", "min": 10 },
+      { "t": "Notebook homework + checking it against the answer key", "min": 15 },
+      { "t": "Checklist (block 10) + write your questions in the lesson notebook", "min": 5 }
     ]
   },
   "prereqs": {
     "aulas": ["17-1"],
     "skills": [
-      "Passado curto (た / なかった) de verbos, adjetivos e substantivos (Aula 09-1). O 〜たら é esse passado + ら: quem sabe o た já sabe o たら.",
-      "Forma ない (Aula 08-1), que é a base de 〜なくてもいいです.",
-      "〜てもいいです (permissão, Aula 06-3) e 〜なければいけません (obrigação, Aula 12-3). O 〜なくてもいいです desta aula é o contrário da obrigação.",
-      "〜たらどうですか (Aula 14-3), que já usava a forma たら para dar sugestão."
+      "The short past (た / なかった) of verbs, adjectives and nouns (lesson 09-1). 〜たら is that past + ら: if you know た, you already know たら.",
+      "The ない form (lesson 08-1), which is the base of 〜なくてもいいです.",
+      "〜てもいいです (permission, lesson 06-3) and 〜なければいけません (obligation, lesson 12-3). This lesson's 〜なくてもいいです is the opposite of obligation.",
+      "〜たらどうですか (lesson 14-3), which already used the たら form to make suggestions."
     ],
     "vocab": [
-      { "jp": "〜たら", "kana": "〜たら", "romaji": "-tara", "pt": "se…, quando… (condição)" },
-      { "jp": "もし", "kana": "もし", "romaji": "moshi", "pt": "se (reforça que é só uma hipótese)" },
-      { "jp": "よかったら", "kana": "よかったら", "romaji": "yokattara", "pt": "se quiser, se não for incômodo (convite gentil)" },
-      { "jp": "着く", "kana": "つく", "romaji": "tsuku", "pt": "chegar (駅に着く = chegar na estação)" },
-      { "jp": "開ける", "kana": "あける", "romaji": "akeru", "pt": "abrir (porta, janela, cortina)" },
-      { "jp": "カーテン", "kana": "カーテン", "romaji": "kāten", "pt": "cortina" },
-      { "jp": "終わる", "kana": "おわる", "romaji": "owaru", "pt": "terminar, acabar (仕事が終わる)" },
-      { "jp": "そつぎょうする", "kana": "そつぎょうする", "romaji": "sotsugyō suru", "pt": "formar-se, concluir o curso (大学をそつぎょうする)" },
-      { "jp": "ひま（な）", "kana": "ひま（な）", "romaji": "hima (na)", "pt": "livre, desocupado, com tempo" },
-      { "jp": "お金", "kana": "おかね", "romaji": "okane", "pt": "dinheiro" },
-      { "jp": "メール", "kana": "メール", "romaji": "mēru", "pt": "e-mail; mensagem (メールする = mandar mensagem)" },
-      { "jp": "〜なくてもいいです", "kana": "〜なくてもいいです", "romaji": "-nakute mo ii desu", "pt": "não precisa…" },
-      { "jp": "ぬぐ", "kana": "ぬぐ", "romaji": "nugu", "pt": "tirar (sapatos, roupa)" },
-      { "jp": "くつ", "kana": "くつ", "romaji": "kutsu", "pt": "sapato" },
-      { "jp": "早く", "kana": "はやく", "romaji": "hayaku", "pt": "cedo; rápido" },
-      { "jp": "見せる", "kana": "みせる", "romaji": "miseru", "pt": "mostrar" },
-      { "jp": "パスポート", "kana": "パスポート", "romaji": "pasupōto", "pt": "passaporte" },
-      { "jp": "よやくする", "kana": "よやくする", "romaji": "yoyaku suru", "pt": "reservar, fazer reserva" },
-      { "jp": "くすり", "kana": "くすり", "romaji": "kusuri", "pt": "remédio (くすりを飲む = tomar remédio)" },
-      { "jp": "レポート", "kana": "レポート", "romaji": "repōto", "pt": "trabalho escrito, relatório" },
-      { "jp": "しんぱいする", "kana": "しんぱいする", "romaji": "shinpai suru", "pt": "preocupar-se" },
-      { "jp": "じしん", "kana": "じしん", "romaji": "jishin", "pt": "terremoto" }
+      { "jp": "〜たら", "kana": "〜たら", "romaji": "-tara", "en": "if…, when… (condition)" },
+      { "jp": "もし", "kana": "もし", "romaji": "moshi", "en": "if (stresses that it's only a hypothesis)" },
+      { "jp": "よかったら", "kana": "よかったら", "romaji": "yokattara", "en": "if you like, if it's OK with you (a polite invitation)" },
+      { "jp": "着く", "kana": "つく", "romaji": "tsuku", "en": "to arrive (駅に着く = to arrive at the station)" },
+      { "jp": "開ける", "kana": "あける", "romaji": "akeru", "en": "to open (a door, a window, the curtains)" },
+      { "jp": "カーテン", "kana": "カーテン", "romaji": "kāten", "en": "curtain(s)" },
+      { "jp": "終わる", "kana": "おわる", "romaji": "owaru", "en": "to end, to finish (仕事が終わる = work ends)" },
+      { "jp": "そつぎょうする", "kana": "そつぎょうする", "romaji": "sotsugyō suru", "en": "to graduate (大学をそつぎょうする = to graduate from college)" },
+      { "jp": "ひま（な）", "kana": "ひま（な）", "romaji": "hima (na)", "en": "free, not busy" },
+      { "jp": "お金", "kana": "おかね", "romaji": "okane", "en": "money" },
+      { "jp": "メール", "kana": "メール", "romaji": "mēru", "en": "e-mail; (text) message (メールする = to send a message)" },
+      { "jp": "〜なくてもいいです", "kana": "〜なくてもいいです", "romaji": "-nakute mo ii desu", "en": "don't have to…" },
+      { "jp": "ぬぐ", "kana": "ぬぐ", "romaji": "nugu", "en": "to take off (shoes, clothes)" },
+      { "jp": "くつ", "kana": "くつ", "romaji": "kutsu", "en": "shoes" },
+      { "jp": "早く", "kana": "はやく", "romaji": "hayaku", "en": "early; quickly" },
+      { "jp": "見せる", "kana": "みせる", "romaji": "miseru", "en": "to show" },
+      { "jp": "パスポート", "kana": "パスポート", "romaji": "pasupōto", "en": "passport" },
+      { "jp": "よやくする", "kana": "よやくする", "romaji": "yoyaku suru", "en": "to reserve, to book" },
+      { "jp": "くすり", "kana": "くすり", "romaji": "kusuri", "en": "medicine (くすりを飲む = to take medicine)" },
+      { "jp": "レポート", "kana": "レポート", "romaji": "repōto", "en": "report, paper (a written assignment)" },
+      { "jp": "しんぱいする", "kana": "しんぱいする", "romaji": "shinpai suru", "en": "to worry" },
+      { "jp": "じしん", "kana": "じしん", "romaji": "jishin", "en": "earthquake" }
     ]
   },
   "grammar": [
     {
       "id": "17-2-a",
       "gc": null,
-      "title": "〜たら (se / quando)",
-      "gloss": "se…, quando… (condição e resultado)",
-      "explanation": "**〜たら** liga duas partes: a **condição** (A) e o **resultado** (B). \"Se/quando A acontecer, B.\" A formação é fácil: pegue o **passado curto** e acrescente **ら**. É a mesma forma de 〜たらどうですか (Aula 14-3).\n• Verbo: 行った → 行ったら; 食べた → 食べたら; した → したら; 来た → 来たら (きたら). Negativo: 行かなかった → 行かなかったら (\"se não for\").\n• Adjetivo い: 安かった → 安かったら. Cuidado com いい: よかった → **よかったら** (\"se for bom\"). Sozinho, よかったら também quer dizer \"se você quiser\": よかったら、いっしょに行きませんか。\n• Substantivo e adjetivo な: だった → **だったら**. 雨だったら (\"se estiver chovendo\"); ひまだったら (\"se estiver livre\").\n• O ら **não é passado**. A forma parece passado, mas quem decide o tempo da frase é o **predicado no fim**: あした雨がふったら… fala de amanhã.\n• **A vem sempre antes de B.** O resultado só acontece depois que a condição se cumpre: 日本に行ったら、カメラを買います = \"vou comprar a câmera lá, depois de chegar no Japão\".\n\n**Os três usos de 〜たら:**\n• **Se (hipótese):** A pode acontecer ou não. もし, no começo, reforça a dúvida: もしお金があったら、日本に住みたいです。\n• **Quando (certeza):** A vai acontecer, e B vem depois. 駅に着いたら、電話してください。 (\"Quando chegar na estação, me ligue.\") 大学をそつぎょうしたら… (\"Quando eu me formar…\").\n• **Descoberta (B no passado):** \"quando fiz A, (vi que) B\". B é algo que você **encontrou** ou que aconteceu sem depender de você: カーテンを開けたら、雪がふっていました。\n• Na frase, o bloco com たら é a **CONDIÇÃO**, e o **PREDICADO** continua no fim. Leia pelo fim: \"me ligue\" → em que condição? → quando chegar → aonde? → na estação.",
-      "structure": "[A: passado curto]ら、[B: resultado] · もし [A]たら、[B] (hipótese)",
+      "title": "〜たら (if / when)",
+      "gloss": "if…, when… (condition and result)",
+      "explanation": "**〜たら** links two parts: the **condition** (A) and the **result** (B). \"If/when A happens, B.\" Making it is easy: take the **short past** and add **ら**. It's the same form as in 〜たらどうですか (lesson 14-3).\n• Verb: 行った → 行ったら; 食べた → 食べたら; した → したら; 来た → 来たら (きたら). Negative: 行かなかった → 行かなかったら (\"if I don't go\").\n• い-adjective: 安かった → 安かったら. Careful with いい: よかった → **よかったら** (\"if it's good\"). On its own, よかったら also means \"if you like\": よかったら、いっしょに行きませんか。\n• Noun and な-adjective: だった → **だったら**. 雨だったら (\"if it's rainy\"); ひまだったら (\"if you're free\").\n• The ら is **not past**. The form looks like the past, but the tense of the sentence is decided by the **predicate at the end**: あした雨がふったら… is about tomorrow.\n• **A always comes before B.** The result only happens after the condition is met: 日本に行ったら、カメラを買います = \"I'll buy the camera there, once I'm in Japan\".\n\n**The three uses of 〜たら:**\n• **If (hypothesis):** A may or may not happen. もし at the start stresses the doubt: もしお金があったら、日本に住みたいです。\n• **When (certainty):** A is sure to happen, and B comes after it. 駅に着いたら、電話してください。 (\"When you get to the station, please call me.\") 大学をそつぎょうしたら… (\"When I graduate from college…\").\n• **Discovery (B in the past):** \"when I did A, (I found that) B\". B is something you **found**, or something that happened without depending on you: カーテンを開けたら、雪がふっていました。\n• In the sentence, the block with たら is the **CONDITION** (🔬 labels it IF / WHEN), and the **PREDICATE** is still at the end. Read from the end: \"please call me\" → on what condition? → when you arrive → where? → at the station.",
+      "structure": "[A: short past]ら、[B: result] · もし [A]たら、[B] (hypothesis)",
       "examples": [
-        { "jp": "もしお金があったら、日本に住みたいです。", "kana": "もしおかねがあったら、にほんにすみたいです。", "romaji": "Moshi okane ga attara, Nihon ni sumitai desu.", "pt": "Se eu tivesse dinheiro, queria morar no Japão." },
-        { "jp": "駅に着いたら、電話してください。", "kana": "えきについたら、でんわしてください。", "romaji": "Eki ni tsuitara, denwa shite kudasai.", "pt": "Quando chegar na estação, me ligue." },
-        { "jp": "朝、カーテンを開けたら、雪がふっていました。", "kana": "あさ、カーテンをあけたら、ゆきがふっていました。", "romaji": "Asa, kāten o aketara, yuki ga futte imashita.", "pt": "De manhã, quando abri a cortina, estava nevando." }
+        { "jp": "もしお金があったら、日本に住みたいです。", "kana": "もしおかねがあったら、にほんにすみたいです。", "romaji": "Moshi okane ga attara, Nihon ni sumitai desu.", "en": "If I had money, I'd want to live in Japan." },
+        { "jp": "駅に着いたら、電話してください。", "kana": "えきについたら、でんわしてください。", "romaji": "Eki ni tsuitara, denwa shite kudasai.", "en": "When you get to the station, please call me." },
+        { "jp": "朝、カーテンを開けたら、雪がふっていました。", "kana": "あさ、カーテンをあけたら、ゆきがふっていました。", "romaji": "Asa, kāten o aketara, yuki ga futte imashita.", "en": "In the morning, when I opened the curtains, it was snowing." }
       ],
       "pitfalls": [
-        "A forma parece passado, mas o sentido não é: ○ あした雨がふったら、行きません (se chover amanhã) × あした雨がふるら. O ら entra sempre depois do passado curto.",
-        "Substantivo e adjetivo な pedem だったら, e いい vira よかったら: ○ ひまだったら × ひまたら; ○ 天気がよかったら × 天気がいいたら.",
-        "B acontece depois de A: ○ 日本に行ったら、お寺を見ます (lá no Japão). Para o que você faz antes de ir, use 〜前に (Aula 17-3): ○ 日本に行く前に、カメラを買います × 日本に行ったら、カメラを買います, se a ideia for comprar ainda no Brasil.",
-        "Para contar uma sequência das suas próprias ações no passado, 〜たら costuma soar estranho, porque sugere uma descoberta: ○ 家に帰ってから、しゅくだいをしました (Aula 17-3) × 家に帰ったら、しゅくだいをしました."
+        "The form looks past, but the meaning isn't: あした雨がふるら ✗ → あした雨がふったら、行きません ✓ (if it rains tomorrow, I won't go). ら always comes after the short past.",
+        "Nouns and な-adjectives need だったら, and いい becomes よかったら: ひまたら ✗ → ひまだったら ✓; 天気がいいたら ✗ → 天気がよかったら ✓.",
+        "B happens after A: 日本に行ったら、お寺を見ます ✓ (there, in Japan). For something you do before you go, use 〜前に (lesson 17-3). If you mean buying it before the trip: 日本に行ったら、カメラを買います ✗ → 日本に行く前に、カメラを買います ✓.",
+        "To tell a sequence of your own actions in the past, 〜たら usually sounds odd, because it suggests a discovery: 家に帰ったら、しゅくだいをしました ✗ → 家に帰ってから、しゅくだいをしました ✓ (lesson 17-3)."
       ],
       "howToStudy": [
-        "Conjugação em voz alta: para 行く, 食べる, する, 来る, 安い, いい, ひま e 雨, diga o passado curto e logo depois o たら (行った → 行ったら…). Se o た sai sem pensar, o たら também sai.",
-        "Aperte 🔬 no exemplo 2. O bloco 着いたら aparece como CONDIÇÃO, 駅に como DESTINO e 電話してください como PREDICADO (pedido). Leia pelo fim: me ligue → em que condição? → quando chegar → aonde? → na estação.",
-        "Fala: diga 3 frases verdadeiras, uma de cada uso: uma hipótese (もし…たら), um \"quando\" (仕事が終わったら…) e uma descoberta de ontem (…たら、…ました)."
+        "Conjugate out loud: for 行く, 食べる, する, 来る, 安い, いい, ひま and 雨, say the short past and right after it the たら form (行った → 行ったら…). If the た form comes out without thinking, the たら form will too.",
+        "Tap 🔬 on example 2. 着いたら shows up as IF / WHEN, 駅に as DESTINATION and 電話してください as the PREDICATE (request). Read from the end: please call me → on what condition? → when you arrive → where? → at the station.",
+        "Speaking: say 3 true sentences, one for each use: a hypothesis (もし…たら), a \"when\" (仕事が終わったら…) and a discovery from yesterday (…たら、…ました)."
       ],
       "flag": null
     },
     {
       "id": "17-2-b",
       "gc": null,
-      "title": "〜なくてもいいです (não precisa)",
-      "gloss": "não precisa…, não é necessário…",
-      "explanation": "Para dizer que **não precisa** fazer algo, pegue a **forma ない**, troque o い final por **くても** e acrescente **いいです**. Ao pé da letra: \"mesmo não fazendo, está bom\".\n• 行かない → 行か**なくても**いいです; 食べない → 食べなくてもいいです; しない → しなくてもいいです; 来ない → 来なくてもいいです (こなくても).\n• É o 〜てもいいです da permissão (Aula 06-3) aplicado ao negativo: 行ってもいいです = \"pode ir\"; 行かなくてもいいです = \"não precisa ir\".\n• É o **oposto de 〜なければいけません** (Aula 12-3). Quando alguém pergunta \"tenho que…?\", a resposta \"não\" usa esta forma: くつをぬがなければいけませんか。— いいえ、ぬがなくてもいいです。\n• Também funciona com adjetivo e substantivo: 長くなくてもいいです (\"não precisa ser longo\"); 日本人じゃなくてもいいです (\"não precisa ser japonês\").\n• Casual: 行かなくてもいい, e muitas vezes sem o も: 行かなくていい.\n• Na frase, 〜なくてもいいです é **um bloco só**, o PREDICADO. O 🔬 o mostra como PREDICADO de **permissão**, da mesma família de 〜てもいいです.\n\n**Os quatro no mesmo verbo** (vale copiar no caderno):\n• 行ってもいいです = pode ir (permissão)\n• 行ってはいけません = não pode ir (proibição)\n• 行かなければいけません = tem que ir (obrigação)\n• 行かなくてもいいです = não precisa ir (sem obrigação)",
-      "structure": "[forma ない sem o い] + くてもいいです · 〜なければいけませんか。— いいえ、〜なくてもいいです。",
+      "title": "〜なくてもいいです (don't have to)",
+      "gloss": "you don't have to…, there's no need to…",
+      "explanation": "To say you **don't have to** do something, take the **ない form**, change the final い to **くても** and add **いいです**. Literally: \"even not doing it, it's fine\".\n• 行かない → 行か**なくても**いいです; 食べない → 食べなくてもいいです; しない → しなくてもいいです; 来ない → 来なくてもいいです (こなくても).\n• It's the 〜てもいいです of permission (lesson 06-3) applied to the negative: 行ってもいいです = \"you may go\"; 行かなくてもいいです = \"you don't have to go\".\n• It's the **opposite of 〜なければいけません** (lesson 12-3). When someone asks \"do I have to…?\", the \"no\" answer uses this form: くつをぬがなければいけませんか。— いいえ、ぬがなくてもいいです。\n• It also works with adjectives and nouns: 長くなくてもいいです (\"it doesn't have to be long\"); 日本人じゃなくてもいいです (\"you don't have to be Japanese\").\n• Casual: 行かなくてもいい, and often without も: 行かなくていい.\n• In the sentence, 〜なくてもいいです is **a single block**, the PREDICATE. 🔬 shows it as a PREDICATE of **permission**, the same family as 〜てもいいです.\n\n**All four on the same verb** (worth copying into your notebook):\n• 行ってもいいです = you may go (permission)\n• 行ってはいけません = you must not go (prohibition)\n• 行かなければいけません = you have to go (obligation)\n• 行かなくてもいいです = you don't have to go (no obligation)",
+      "structure": "[ない form minus い] + くてもいいです · 〜なければいけませんか。— いいえ、〜なくてもいいです。",
       "examples": [
-        { "jp": "あしたは休みだから、早く起きなくてもいいです。", "kana": "あしたはやすみだから、はやくおきなくてもいいです。", "romaji": "Ashita wa yasumi da kara, hayaku okinakute mo ii desu.", "pt": "Amanhã é folga, então não preciso acordar cedo." },
-        { "jp": "くつをぬがなければいけませんか。— いいえ、ぬがなくてもいいですよ。", "kana": "くつをぬがなければいけませんか。— いいえ、ぬがなくてもいいですよ。", "romaji": "Kutsu o nuganakereba ikemasen ka. — Iie, nuganakute mo ii desu yo.", "pt": "Tenho que tirar os sapatos? — Não, não precisa." },
-        { "jp": "レポートは長くなくてもいいですよ。", "kana": "レポートはながくなくてもいいですよ。", "romaji": "Repōto wa nagakunakute mo ii desu yo.", "pt": "O trabalho não precisa ser longo." }
+        { "jp": "あしたは休みだから、早く起きなくてもいいです。", "kana": "あしたはやすみだから、はやくおきなくてもいいです。", "romaji": "Ashita wa yasumi da kara, hayaku okinakute mo ii desu.", "en": "Tomorrow is a day off, so I don't have to get up early." },
+        { "jp": "くつをぬがなければいけませんか。— いいえ、ぬがなくてもいいですよ。", "kana": "くつをぬがなければいけませんか。— いいえ、ぬがなくてもいいですよ。", "romaji": "Kutsu o nuganakereba ikemasen ka. — Iie, nuganakute mo ii desu yo.", "en": "Do I have to take off my shoes? — No, you don't have to." },
+        { "jp": "レポートは長くなくてもいいですよ。", "kana": "レポートはながくなくてもいいですよ。", "romaji": "Repōto wa nagakunakute mo ii desu yo.", "en": "The paper doesn't have to be long." }
       ],
       "pitfalls": [
-        "\"Não precisa\" não é \"não pode\": ○ 来なくてもいいです (não precisa vir) × 来てはいけません, que proíbe: \"você não pode vir\".",
-        "A base é a forma ない sem o い final: ○ 書かなくても × 書きなくても × 書かないくても.",
-        "\"Não preciso de\" + coisa é outra estrutura: ふくろはいりません (\"não preciso de sacola\"). Com ação, use esta forma: ○ 名前を書かなくてもいいです × 名前を書くはいりません."
+        "\"Don't have to\" is not \"must not\", in Japanese or in English: 来てはいけません ✗ (that forbids it: \"you must not come\") → 来なくてもいいです ✓ (you don't have to come).",
+        "The base is the ない form minus its final い: 書きなくても ✗, 書かないくても ✗ → 書かなくても ✓.",
+        "\"I don't need\" + a thing is a different structure: ふくろはいりません (\"I don't need a bag\"). With an action, use this form: 名前を書くはいりません ✗ → 名前を書かなくてもいいです ✓."
       ],
       "howToStudy": [
-        "No caderno, faça a tabela dos quatro (pode / não pode / tem que / não precisa) com 食べる, 行く e する. Leia em voz alta, linha por linha.",
-        "Aperte 🔬 no exemplo 2. Na pergunta, o PREDICADO ぬがなければいけませんか aparece como obrigação; na resposta, ぬがなくてもいいですよ aparece como permissão. É a mesma ação, com a obrigação ligada e depois desligada.",
-        "Fala: faça 4 perguntas com 〜なければいけませんか sobre coisas reais (trabalho, estudo, casa) e responda cada uma com はい、〜なければいけません ou いいえ、〜なくてもいいです."
+        "In your notebook, make the table of the four (may / must not / have to / don't have to) with 食べる, 行く and する. Read it aloud, line by line.",
+        "Tap 🔬 on example 2. In the question, the PREDICATE ぬがなければいけませんか shows up as obligation; in the answer, ぬがなくてもいいですよ shows up as permission. Same action, with the obligation switched on and then off.",
+        "Speaking: ask 4 questions with 〜なければいけませんか about real things (work, study, home) and answer each one with はい、〜なければいけません or いいえ、〜なくてもいいです."
       ],
       "flag": null
     }
   ],
   "media": [
-    { "order": 1, "kind": "leitura", "title": "Genki II · Lição 17: as explicações de gramática 〜たら e 〜なくてもいいです", "where": "Seu livro Genki II", "url": "", "when": "Antes desta aula ou logo depois do bloco de gramática. 〜みたいです, 〜前に e 〜てから ficam para a Aula 17-3." },
-    { "order": 2, "kind": "video", "title": "Game Gengo: a condição 〜たら (em inglês)", "where": "YouTube · canal Game Gengo", "url": "", "search": "Game Gengo たら conditional JLPT N4", "when": "Depois do ponto a, para ver mais exemplos dos usos de たら" }
+    { "order": 1, "kind": "reading", "title": "Genki II · Lesson 17: the grammar notes on 〜たら and 〜なくてもいいです", "where": "Your Genki II textbook", "url": "", "when": "Before this lesson or right after the grammar block. 〜みたいです, 〜前に and 〜てから are left for lesson 17-3." },
+    { "order": 2, "kind": "video", "title": "Game Gengo: the 〜たら conditional", "where": "YouTube · Game Gengo channel", "url": "", "search": "Game Gengo たら conditional JLPT N4", "when": "After point a, to see more examples of the uses of たら" }
   ],
   "homework": {
-    "intro": "Faça no caderno, à mão, com kanji onde souber e kana no resto. Nas frases com たら, sublinhe a CONDIÇÃO e circule o PREDICADO no fim. Só depois abra o gabarito, item por item. Circule o que errou e refaça no dia seguinte. Se você tiver o Genki II Workbook, faça também os exercícios desta lição.",
+    "intro": "Do it by hand in your notebook, with kanji where you know them and kana for the rest. In the sentences with たら, underline the CONDITION and box the PREDICATE at the end. Only then open the answer key, item by item. Circle what you got wrong and redo it the next day. If you have the Genki II Workbook, do this lesson's exercises too.",
     "tasks": [
       {
         "id": "h1",
-        "type": "transformar",
-        "prompt": "Junte as duas frases com 〜たら: a primeira vira a condição e a segunda fica como resultado, no fim.",
+        "type": "combine",
+        "prompt": "Join the two sentences with 〜たら: the first becomes the condition, and the second stays as the result, at the end.",
         "items": [
-          { "q": "雨がふります。／出かけません。", "a": { "jp": "雨がふったら、出かけません。", "kana": "あめがふったら、でかけません。", "romaji": "Ame ga futtara, dekakemasen." }, "note": "Verbo: passado curto (ふった) + ら." },
-          { "q": "仕事が終わります。／ジムに行きます。", "a": { "jp": "仕事が終わったら、ジムに行きます。", "kana": "しごとがおわったら、ジムにいきます。", "romaji": "Shigoto ga owattara, jimu ni ikimasu." }, "note": "É um \"quando\": o trabalho vai terminar com certeza." },
-          { "q": "安いです。／買います。", "a": { "jp": "安かったら、買います。", "kana": "やすかったら、かいます。", "romaji": "Yasukattara, kaimasu." }, "note": "Adjetivo い: 安かった + ら." },
-          { "q": "ひまです。／あそびに来てください。", "a": { "jp": "ひまだったら、あそびに来てください。", "kana": "ひまだったら、あそびにきてください。", "romaji": "Hima dattara, asobi ni kite kudasai." }, "note": "Adjetivo な: だった + ら." },
-          { "q": "天気がいいです。／海に行きましょう。", "a": { "jp": "天気がよかったら、海に行きましょう。", "kana": "てんきがよかったら、うみにいきましょう。", "romaji": "Tenki ga yokattara, umi ni ikimashō." }, "note": "いい é irregular: よかったら." },
-          { "q": "日本に行きます。／お寺をたくさん見たいです。", "a": { "jp": "日本に行ったら、お寺をたくさん見たいです。", "kana": "にほんにいったら、おてらをたくさんみたいです。", "romaji": "Nihon ni ittara, otera o takusan mitai desu." }, "note": "B acontece lá no Japão, depois de chegar." }
+          { "q": "雨がふります。／出かけません。", "a": { "jp": "雨がふったら、出かけません。", "kana": "あめがふったら、でかけません。", "romaji": "Ame ga futtara, dekakemasen." }, "note": "Verb: short past (ふった) + ら." },
+          { "q": "仕事が終わります。／ジムに行きます。", "a": { "jp": "仕事が終わったら、ジムに行きます。", "kana": "しごとがおわったら、ジムにいきます。", "romaji": "Shigoto ga owattara, jimu ni ikimasu." }, "note": "It's a \"when\": work is sure to end." },
+          { "q": "安いです。／買います。", "a": { "jp": "安かったら、買います。", "kana": "やすかったら、かいます。", "romaji": "Yasukattara, kaimasu." }, "note": "い-adjective: 安かった + ら." },
+          { "q": "ひまです。／あそびに来てください。", "a": { "jp": "ひまだったら、あそびに来てください。", "kana": "ひまだったら、あそびにきてください。", "romaji": "Hima dattara, asobi ni kite kudasai." }, "note": "な-adjective: だった + ら." },
+          { "q": "天気がいいです。／海に行きましょう。", "a": { "jp": "天気がよかったら、海に行きましょう。", "kana": "てんきがよかったら、うみにいきましょう。", "romaji": "Tenki ga yokattara, umi ni ikimashō." }, "note": "いい is irregular: よかったら." },
+          { "q": "日本に行きます。／お寺をたくさん見たいです。", "a": { "jp": "日本に行ったら、お寺をたくさん見たいです。", "kana": "にほんにいったら、おてらをたくさんみたいです。", "romaji": "Nihon ni ittara, otera o takusan mitai desu." }, "note": "B happens there in Japan, after you arrive." }
         ]
       },
       {
         "id": "h2",
-        "type": "traduzir",
-        "prompt": "Traduza para o japonês com 〜たら. Antes de escrever, decida o uso: se (hipótese), quando (certeza) ou descoberta (B no passado).",
+        "type": "translate",
+        "prompt": "Translate into Japanese with 〜たら. Before writing, decide which use it is: if (hypothesis), when (certainty) or discovery (B in the past).",
         "items": [
-          { "q": "Se amanhã você tiver tempo, vamos ver um filme?", "a": { "jp": "あした時間があったら、映画を見ませんか。", "kana": "あしたじかんがあったら、えいがをみませんか。", "romaji": "Ashita jikan ga attara, eiga o mimasen ka." }, "note": "Hipótese: talvez a pessoa tenha tempo, talvez não." },
-          { "q": "Quando chegar em casa, me mande uma mensagem.", "a": { "jp": "家に着いたら、メールしてください。", "kana": "いえについたら、メールしてください。", "romaji": "Ie ni tsuitara, mēru shite kudasai." }, "note": "\"Quando\": a pessoa vai chegar com certeza." },
-          { "q": "Quando eu me formar na faculdade, quero trabalhar no Japão.", "a": { "jp": "大学をそつぎょうしたら、日本で働きたいです。", "kana": "だいがくをそつぎょうしたら、にほんではたらきたいです。", "romaji": "Daigaku o sotsugyō shitara, Nihon de hatarakitai desu." } },
-          { "q": "Quando fui à loja, ela estava fechada.", "a": { "jp": "店に行ったら、休みでした。", "kana": "みせにいったら、やすみでした。", "romaji": "Mise ni ittara, yasumi deshita." }, "note": "Descoberta: você foi e deu com a loja fechada." },
-          { "q": "Quando abri a porta, tinha um gato lá.", "a": { "jp": "ドアを開けたら、ねこがいました。", "kana": "ドアをあけたら、ねこがいました。", "romaji": "Doa o aketara, neko ga imashita." }, "note": "Descoberta: o gato estava lá, e isso não dependeu de você." }
+          { "q": "If you have time tomorrow, would you like to see a movie?", "a": { "jp": "あした時間があったら、映画を見ませんか。", "kana": "あしたじかんがあったら、えいがをみませんか。", "romaji": "Ashita jikan ga attara, eiga o mimasen ka." }, "note": "Hypothesis: maybe they'll have time, maybe not." },
+          { "q": "When you get home, send me a message.", "a": { "jp": "家に着いたら、メールしてください。", "kana": "いえについたら、メールしてください。", "romaji": "Ie ni tsuitara, mēru shite kudasai." }, "note": "\"When\": they are sure to get home." },
+          { "q": "When I graduate from college, I want to work in Japan.", "a": { "jp": "大学をそつぎょうしたら、日本で働きたいです。", "kana": "だいがくをそつぎょうしたら、にほんではたらきたいです。", "romaji": "Daigaku o sotsugyō shitara, Nihon de hatarakitai desu." } },
+          { "q": "When I went to the store, it was closed.", "a": { "jp": "店に行ったら、休みでした。", "kana": "みせにいったら、やすみでした。", "romaji": "Mise ni ittara, yasumi deshita." }, "note": "Discovery: you went and found the store closed." },
+          { "q": "When I opened the door, there was a cat there.", "a": { "jp": "ドアを開けたら、ねこがいました。", "kana": "ドアをあけたら、ねこがいました。", "romaji": "Doa o aketara, neko ga imashita." }, "note": "Discovery: the cat was there, and that didn't depend on you." }
         ]
       },
       {
         "id": "h3",
-        "type": "responder",
-        "prompt": "Responda às perguntas conforme a indicação: (sim) → はい、〜なければいけません。 (não) → いいえ、〜なくてもいいです。",
+        "type": "answer",
+        "prompt": "Answer the questions as indicated: (yes) → はい、〜なければいけません。 (no) → いいえ、〜なくてもいいです。",
         "items": [
-          { "q": "名前を書かなければいけませんか。(não)", "a": { "jp": "いいえ、書かなくてもいいです。", "kana": "いいえ、かかなくてもいいです。", "romaji": "Iie, kakanakute mo ii desu." } },
-          { "q": "パスポートを見せなければいけませんか。(sim)", "a": { "jp": "はい、見せなければいけません。", "kana": "はい、みせなければいけません。", "romaji": "Hai, misenakereba ikemasen." } },
-          { "q": "あしたも来なければいけませんか。(não)", "a": { "jp": "いいえ、来なくてもいいです。", "kana": "いいえ、こなくてもいいです。", "romaji": "Iie, konakute mo ii desu." }, "note": "来る: 来ない (こない) → 来なくても (こなくても)." },
-          { "q": "よやくしなければいけませんか。(não)", "a": { "jp": "いいえ、よやくしなくてもいいです。", "romaji": "Iie, yoyaku shinakute mo ii desu." } },
-          { "q": "毎日くすりを飲まなければいけませんか。(sim)", "a": { "jp": "はい、毎日飲まなければいけません。", "kana": "はい、まいにちのまなければいけません。", "romaji": "Hai, mainichi nomanakereba ikemasen." } },
-          { "q": "全部食べなければいけませんか。(não)", "a": { "jp": "いいえ、全部食べなくてもいいですよ。", "kana": "いいえ、ぜんぶたべなくてもいいですよ。", "romaji": "Iie, zenbu tabenakute mo ii desu yo." }, "note": "O よ no fim deixa a resposta mais simpática: \"pode deixar, não precisa\"." }
+          { "q": "名前を書かなければいけませんか。(no)", "a": { "jp": "いいえ、書かなくてもいいです。", "kana": "いいえ、かかなくてもいいです。", "romaji": "Iie, kakanakute mo ii desu." } },
+          { "q": "パスポートを見せなければいけませんか。(yes)", "a": { "jp": "はい、見せなければいけません。", "kana": "はい、みせなければいけません。", "romaji": "Hai, misenakereba ikemasen." } },
+          { "q": "あしたも来なければいけませんか。(no)", "a": { "jp": "いいえ、来なくてもいいです。", "kana": "いいえ、こなくてもいいです。", "romaji": "Iie, konakute mo ii desu." }, "note": "来る: 来ない (こない) → 来なくても (こなくても)." },
+          { "q": "よやくしなければいけませんか。(no)", "a": { "jp": "いいえ、よやくしなくてもいいです。", "romaji": "Iie, yoyaku shinakute mo ii desu." } },
+          { "q": "毎日くすりを飲まなければいけませんか。(yes)", "a": { "jp": "はい、毎日飲まなければいけません。", "kana": "はい、まいにちのまなければいけません。", "romaji": "Hai, mainichi nomanakereba ikemasen." } },
+          { "q": "全部食べなければいけませんか。(no)", "a": { "jp": "いいえ、全部食べなくてもいいですよ。", "kana": "いいえ、ぜんぶたべなくてもいいですよ。", "romaji": "Iie, zenbu tabenakute mo ii desu yo." }, "note": "The よ at the end makes the answer friendlier: \"it's fine, you don't have to\"." }
         ]
       },
       {
         "id": "h4",
-        "type": "produzir",
-        "prompt": "Escreva 5 frases sobre a sua próxima folga: 2 com 〜たら (um \"se\" e um \"quando\"), 1 descoberta com 〜たら de uma folga passada, 1 com 〜なくてもいいです e 1 com 〜なければいけません. Depois leia em voz alta e grave no celular.",
+        "type": "produce",
+        "prompt": "Write 5 sentences about your next day off: 2 with 〜たら (one \"if\" and one \"when\"), 1 discovery with 〜たら from a past day off, 1 with 〜なくてもいいです and 1 with 〜なければいけません. Then read them aloud and record yourself on your phone.",
         "items": [
-          { "q": "Modelo, que o seu texto deve seguir na estrutura e não nas palavras:", "a": { "jp": "今度の休みは、早く起きなくてもいいです。天気がよかったら、海に行きます。海に着いたら、アナさんに電話します。先月、海に行ったら、人がとても多かったです。でも、日曜日の夜は、レポートを書かなければいけません。", "kana": "こんどのやすみは、はやくおきなくてもいいです。てんきがよかったら、うみにいきます。うみについたら、アナさんにでんわします。せんげつ、うみにいったら、ひとがとてもおおかったです。でも、にちようびのよるは、レポートをかかなければいけません。", "romaji": "Kondo no yasumi wa, hayaku okinakute mo ii desu. Tenki ga yokattara, umi ni ikimasu. Umi ni tsuitara, Ana-san ni denwa shimasu. Sengetsu, umi ni ittara, hito ga totemo ōkatta desu. Demo, nichiyōbi no yoru wa, repōto o kakanakereba ikemasen.", "pt": "Na próxima folga, não preciso acordar cedo. Se o tempo estiver bom, vou à praia. Quando chegar lá, ligo para a Ana. No mês passado, quando fui à praia, tinha muita gente. Mas no domingo à noite eu tenho que escrever um trabalho." }, "note": "Confira: たら depois do passado curto (よかったら, 着いたら, 行ったら); na descoberta, B no passado; なくてもいい e なければいけません feitos a partir da forma ない; e o predicado sempre no fim." }
+          { "q": "Model (match its structure, not its words):", "a": { "jp": "今度の休みは、早く起きなくてもいいです。天気がよかったら、海に行きます。海に着いたら、アナさんに電話します。先月、海に行ったら、人がとても多かったです。でも、日曜日の夜は、レポートを書かなければいけません。", "kana": "こんどのやすみは、はやくおきなくてもいいです。てんきがよかったら、うみにいきます。うみについたら、アナさんにでんわします。せんげつ、うみにいったら、ひとがとてもおおかったです。でも、にちようびのよるは、レポートをかかなければいけません。", "romaji": "Kondo no yasumi wa, hayaku okinakute mo ii desu. Tenki ga yokattara, umi ni ikimasu. Umi ni tsuitara, Ana-san ni denwa shimasu. Sengetsu, umi ni ittara, hito ga totemo ōkatta desu. Demo, nichiyōbi no yoru wa, repōto o kakanakereba ikemasen.", "en": "On my next day off, I don't have to get up early. If the weather is nice, I'll go to the beach. When I get to the beach, I'll call Ana. Last month, when I went to the beach, there were a lot of people. But on Sunday night, I have to write a paper." }, "note": "Check: たら after the short past (よかったら, 着いたら, 行ったら); in the discovery, B in the past; なくてもいい and なければいけません built from the ない form; and the predicate always at the end." }
         ]
       }
     ],
     "workbook": []
   },
   "practice": [
-    { "tool": "Wagotabi", "what": "Jogue nas regiões e níveis N4 e cace 〜たら nos diálogos. Para cada um, decida: é \"se\", \"quando\" ou uma descoberta? Registre a sessão em Imersão → Jogos e cole uma dessas frases na 🔬 Anatomia para ver o bloco de CONDIÇÃO.", "min": 15 },
-    { "tool": "ヅオリンゴー", "what": "Treinos → Conjugação: passado curto (〜た) e negativo (〜ない) de 10 verbos. São as bases de 〜たら e de 〜なくてもいいです.", "min": 10 },
-    { "tool": "ヅオリンゴー · Diário", "what": "Escreva 3 frases suas: uma com もし〜たら, uma com 〜たら de \"quando\" e uma com 〜なくてもいいです. Depois abra \"Anatomia do que escrevi\" e confira se o bloco com たら aparece como CONDIÇÃO e se o predicado ficou no fim.", "min": 10 },
-    { "tool": "Shadowing", "what": "Toque 🔊 nos exemplos e repita junto 3 vezes. No exemplo 2 do ponto b, a pergunta e a resposta têm predicados longos (ぬ・が・な・け・れ・ば…): mantenha o ritmo igual até o fim.", "min": 5 },
-    { "tool": "Fala", "what": "Grave o plano da sua folga (lição de casa h4) em até 40 s. Ouça e confira se cada たら saiu colado no passado curto.", "min": 5 }
+    { "tool": "Wagotabi", "what": "Play in the N4 areas and levels and hunt for 〜たら in the dialogues. For each one, decide: is it \"if\", \"when\" or a discovery? Log the session in Immersion → Games and paste one of those lines into 🔬 Anatomy to see the IF / WHEN block.", "min": 15 },
+    { "tool": "ヅオリンゴー", "what": "Drills → Conjugation: the short past (〜た) and the negative (〜ない) of 10 verbs. They are the bases of 〜たら and 〜なくてもいいです.", "min": 10 },
+    { "tool": "ヅオリンゴー · Journal", "what": "Write 3 sentences of your own: one with もし〜たら, one with a \"when\" 〜たら and one with 〜なくてもいいです. Then open \"Anatomy of what I wrote\" and check that the block with たら shows up as IF / WHEN and that the predicate is at the end.", "min": 10 },
+    { "tool": "Shadowing", "what": "Tap 🔊 on the examples and repeat along 3 times. In example 2 of point b, the question and the answer have long predicates (ぬ・が・な・け・れ・ば…): keep the rhythm even all the way to the end.", "min": 5 },
+    { "tool": "Speaking", "what": "Record your day-off plan (homework h4) in 40 seconds or less. Listen and check that each たら came out attached to the short past.", "min": 5 }
   ],
   "culture": {
-    "title": "Terremotos e ぼうさい (preparação)",
+    "title": "Earthquakes and ぼうさい (preparedness)",
     "titleJp": "じしんとぼうさい",
-    "body": "O Japão fica numa região com muitos **terremotos** (じしん), e a maioria é fraca: em muitas regiões, sentir um tremor leve de vez em quando faz parte da vida. Por isso a **preparação**, ぼうさい, entra na rotina: escolas e empresas fazem treinos de evacuação (ひなんくんれん), e as crianças aprendem desde cedo a proteger a cabeça e a se abrigar debaixo da mesa. Muitas casas guardam uma mochila de emergência com água, comida, lanterna e remédios. Os celulares usados no Japão costumam receber um alerta automático de terremoto (きんきゅうじしんそくほう), que pode tocar alguns segundos antes de o tremor chegar. Cada bairro tem pontos de refúgio (ひなんじょ), em geral uma escola ou um parque, indicados por placas na rua.",
-    "try": "Monte o seu plano com 〜たら: escreva 3 frases sobre o que você faria num terremoto (じしんが起きたら、つくえの下に入ります。…) e diga em voz alta, como num treino."
+    "body": "Japan sits in a region with many **earthquakes** (じしん), and most of them are weak: in many areas, feeling a light tremor now and then is part of life. That's why **preparedness**, ぼうさい, is part of the routine: schools and companies hold evacuation drills (ひなんくんれん), and children learn early to protect their heads and take cover under a desk. Many homes keep an emergency backpack with water, food, a flashlight and medicine. Phones used in Japan usually receive an automatic earthquake early warning (きんきゅうじしんそくほう), which can go off a few seconds before the shaking arrives. Each neighborhood has evacuation sites (ひなんじょ), usually a school or a park, marked by signs on the street.",
+    "try": "Make your plan with 〜たら: write 3 sentences about what you would do in an earthquake (じしんが起きたら、つくえの下に入ります。…) and say them aloud, as if you were in a drill."
   },
   "checklist": [
-    "Formo o 〜たら de qualquer verbo, adjetivo ou substantivo a partir do passado curto, inclusive よかったら e だったら, sem olhar.",
-    "Uso 〜たら para \"se\" (com もし) e para \"quando\" (coisas que vão acontecer), com o resultado sempre no fim.",
-    "Conto uma descoberta com 〜たら e o resultado no passado: …たら、…ました。",
-    "Digo \"não precisa\" com 〜なくてもいいです e respondo いいえ、〜なくてもいいです a 〜なければいけませんか。",
-    "Diferencio os quatro: 〜てもいい, 〜てはいけない, 〜なければいけない e 〜なくてもいい.",
-    "Fiz a lição de casa e conferi o gabarito, e refiz o que errei.",
-    "Se tenho o Genki II Workbook, fiz os exercícios de 〜たら e 〜なくてもいいです da Lição 17."
+    "I can form 〜たら from the short past of any verb, adjective or noun, including よかったら and だったら, without looking.",
+    "I use 〜たら for \"if\" (with もし) and for \"when\" (things that will happen), with the result always at the end.",
+    "I can tell about a discovery with 〜たら and the result in the past: …たら、…ました。",
+    "I can say \"you don't have to\" with 〜なくてもいいです and answer いいえ、〜なくてもいいです to 〜なければいけませんか。",
+    "I can tell the four apart: 〜てもいい, 〜てはいけない, 〜なければいけない and 〜なくてもいい.",
+    "I did the homework, checked it against the answer key and redid what I got wrong.",
+    "If I have the Genki II Workbook, I did the Lesson 17 exercises on 〜たら and 〜なくてもいいです."
   ]
 }

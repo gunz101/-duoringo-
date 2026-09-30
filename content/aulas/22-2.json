@@ -1,0 +1,238 @@
+{
+  "id": "22-2",
+  "unit": "G2-L22",
+  "genki": { "book": "Genki II", "lesson": 22, "points": ["Verb Stem + なさい", "〜ば", "〜のに", "〜のような / 〜のように"] },
+  "title": "Commands · if · although · like",
+  "titleJp": "早くねなさい",
+  "canDo": [
+    "I can understand and give the commands parents and teachers use (verb stem + なさい), and I know not to use them with adults.",
+    "I can form the ば-conditional of verbs, い-adjectives, な-adjectives and nouns, and use it to say what result a condition brings.",
+    "I can choose between たら, ば, と and なら in simple sentences.",
+    "I can complain that something turned out differently from what I expected with 〜のに.",
+    "I can say that something is like something else with 〜のような + noun and 〜のように + verb or adjective."
+  ],
+  "duration": {
+    "total": "70–90 min",
+    "blocks": [
+      { "t": "Session 1 · Warm-up: say the ない-form and the たら-form of 5 verbs out loud (行く, 食べる, 飲む, する, くる)", "min": 5 },
+      { "t": "Session 1 · Vocabulary: tap 🔊 on each word and repeat it twice", "min": 10 },
+      { "t": "Session 1 · Grammar 4a (なさい) and 4b (〜ば, with the table of たら / ば / と / なら), with one 🔬 each", "min": 25 },
+      { "t": "Session 2 · Grammar 4c (〜のに) and 4d (〜のような / 〜のように), every example read aloud", "min": 15 },
+      { "t": "Session 2 · Lesson 22 video (block 6), the parts on these points", "min": 10 },
+      { "t": "Notebook homework + checking it against the answer key", "min": 15 },
+      { "t": "Checklist (block 10) + write your questions in the lesson notebook", "min": 5 }
+    ]
+  },
+  "prereqs": {
+    "aulas": ["22-1"],
+    "skills": [
+      "Taking the stem of a verb, the ます-form without ます (lesson 11-1): なさい attaches to it.",
+      "Using 〜たら (lesson 17-2), 〜と (lesson 18-3) and なら (lesson 13-3): this lesson puts them side by side with ば. You also met 〜ばよかったです in lesson 18-3.",
+      "Using the short forms of verbs, adjectives and nouns (lessons 08-1 and 09-1): 〜のに attaches to them.",
+      "Using 〜みたいです (lesson 17-3). 〜のような / 〜のように do a similar job in a more neutral style."
+    ],
+    "vocab": [
+      { "jp": "〜なさい", "kana": "〜なさい", "romaji": "-nasai", "en": "do…! (a command from a parent or a teacher)" },
+      { "jp": "早く", "kana": "はやく", "romaji": "hayaku", "en": "early; quickly" },
+      { "jp": "宿題", "kana": "しゅくだい", "romaji": "shukudai", "en": "homework" },
+      { "jp": "やめる", "kana": "やめる", "romaji": "yameru", "en": "to stop, to quit" },
+      { "jp": "次", "kana": "つぎ", "romaji": "tsugi", "en": "next, following" },
+      { "jp": "文", "kana": "ぶん", "romaji": "bun", "en": "sentence; text" },
+      { "jp": "質問", "kana": "しつもん", "romaji": "shitsumon", "en": "question" },
+      { "jp": "こたえる", "kana": "こたえる", "romaji": "kotaeru", "en": "to answer (〜にこたえる)" },
+      { "jp": "くすり", "kana": "くすり", "romaji": "kusuri", "en": "medicine (くすりを飲む = to take medicine)" },
+      { "jp": "道", "kana": "みち", "romaji": "michi", "en": "road, street; the way" },
+      { "jp": "まっすぐ", "kana": "まっすぐ", "romaji": "massugu", "en": "straight (ahead)" },
+      { "jp": "着く", "kana": "つく", "romaji": "tsuku", "en": "to arrive (〜に着く)" },
+      { "jp": "おす", "kana": "おす", "romaji": "osu", "en": "to push, to press" },
+      { "jp": "世界中", "kana": "せかいじゅう", "romaji": "sekaijū", "en": "all over the world" },
+      { "jp": "天気", "kana": "てんき", "romaji": "tenki", "en": "weather" },
+      { "jp": "やくそく（する）", "kana": "やくそく（する）", "romaji": "yakusoku (suru)", "en": "promise; to promise, to make plans" },
+      { "jp": "テスト", "kana": "テスト", "romaji": "tesuto", "en": "test" },
+      { "jp": "会社", "kana": "かいしゃ", "romaji": "kaisha", "en": "company; the office" },
+      { "jp": "あたたかい", "kana": "あたたかい", "romaji": "atatakai", "en": "warm" },
+      { "jp": "食べ物", "kana": "たべもの", "romaji": "tabemono", "en": "food" },
+      { "jp": "しずか（な）", "kana": "しずか（な）", "romaji": "shizuka (na)", "en": "quiet" },
+      { "jp": "おぼえる", "kana": "おぼえる", "romaji": "oboeru", "en": "to memorize, to remember" },
+      { "jp": "教える", "kana": "おしえる", "romaji": "oshieru", "en": "to teach" }
+    ]
+  },
+  "grammar": [
+    {
+      "id": "22-2-a",
+      "gc": null,
+      "title": "Verb stem + なさい",
+      "gloss": "do…! (a parent's or a teacher's command)",
+      "explanation": "Verb stem + なさい is a **command** — a firm but everyday one, used from **above to below**: parents to children, teachers to students.\n• Take the stem (the ます-form without ます) and add なさい: ねます → ね**なさい**, 食べます → 食べ**なさい**, します → し**なさい**, 来ます → 来**なさい** (きなさい).\n• もう十一時ですよ。早くねなさい。 (It's already eleven. Go to bed, now.)\n• You also see it in **written instructions** on tests and in textbooks: 次の文を読んで、質問にこたえなさい。 (Read the following text and answer the questions.)\n• You already know one fixed なさい: おやすみなさい.\n\n**Who can say it?** なさい puts the speaker above the listener. **Don't use it with adults** — not with friends, and never with your teacher, your boss or a stranger. To ask an adult, use 〜てください (lesson 06-2) or, with friends, just the て-form.\n• In the sentence, 〜なさい is the **PREDICATE**. The person being told is almost never said: it is the one listening.",
+      "structure": "[verb stem] なさい。 · 食べ + なさい · 行き + なさい · し + なさい · 来（き）+ なさい",
+      "examples": [
+        { "jp": "もう十一時ですよ。早くねなさい。", "kana": "もうじゅういちじですよ。はやくねなさい。", "romaji": "Mō jūichiji desu yo. Hayaku nenasai.", "en": "It's already eleven o'clock. Go to bed, now." },
+        { "jp": "ゲームをやめて、宿題をしなさい。", "kana": "ゲームをやめて、しゅくだいをしなさい。", "romaji": "Gēmu o yamete, shukudai o shinasai.", "en": "Stop playing games and do your homework." },
+        { "jp": "次の文を読んで、質問にこたえなさい。", "kana": "つぎのぶんをよんで、しつもんにこたえなさい。", "romaji": "Tsugi no bun o yonde, shitsumon ni kotaenasai.", "en": "Read the following text and answer the questions." }
+      ],
+      "pitfalls": [
+        "なさい attaches to the stem, not to the dictionary form: ねるなさい ✗ → ねなさい ✓; するなさい ✗ → しなさい ✓.",
+        "The stem of くる is き: こなさい ✗ → 来なさい (きなさい) ✓.",
+        "Don't use it with adults: (to a friend) ちょっと待ちなさい ✗ → ちょっと待って ✓; (to your teacher) これを見なさい ✗ → これを見てください ✓."
+      ],
+      "howToStudy": [
+        "Tap 🔬 on example 2: ゲームを is the OBJECT and やめて shows up as …AND THEN (the first order); 宿題を is the second OBJECT and しなさい is the PREDICATE. Two orders in one sentence.",
+        "Play parent, out loud: say 5 things a parent tells a child every day (早く起きなさい, 手をあらいなさい…). Then say the same 5 things to an adult friend with the て-form or 〜てください.",
+        "Next time you see a Japanese test (in Genki or online), find the なさい in the instructions and read them aloud."
+      ],
+      "flag": null
+    },
+    {
+      "id": "22-2-b",
+      "gc": null,
+      "title": "〜ば (if…, then…)",
+      "gloss": "if (this condition), then (this result)",
+      "explanation": "〜ば says **\"if X, then Y follows\"**. It puts the focus on **the condition**: what has to happen, or be true, for the result to come.\n\n**How to form it:**\n• **Verbs:** change the final u-sound to its **e-sound** and add **ば** → 行く → 行**けば**, 飲む → 飲**めば**, 話す → 話**せば**, 食べる → 食べ**れば**, する → **すれば**, くる → **くれば**. ある → あれば.\n• **Negative:** 〜ない → 〜な**ければ** (行かなければ).\n• **い-adjectives:** drop い, add **ければ** → 安い → 安**ければ**. いい → **よければ**.\n• **な-adjectives and nouns:** **なら** → ひま**なら**, 学生**なら**. In formal writing you also see **であれば** (ひまであれば).\n\n**The core use: condition → consequence.**\n• このくすりを飲めば、すぐ元気になりますよ。 (If you take this medicine, you'll get better soon.)\n• In 🔬, the ば-block shows up as **IF / WHEN**; the result is the PREDICATE at the end. Read the result first, then ask: under what condition?\n\n**One limit to remember:** after a ば-clause with an **action verb** (行く, 着く, 飲む…), the result usually can't be a request, an order, an invitation or your own plan: 駅に着けば、電話してください ✗ → 駅に着いたら、電話してください ✓. After adjectives, ある, いる and negatives it is fine: 天気がよければ、海に行きませんか ✓.\n\n**たら, ば, と, なら — a simple, honest table:**\n• **たら** (lesson 17-2): the most flexible. \"If / when X happens, then…\". Fine before requests, invitations and plans. **When in doubt, use たら.**\n• **ば** (this lesson): \"if X, then Y\" — the condition and its consequence. Very common in advice and in general truths.\n• **と** (lesson 18-3): \"whenever X, Y\" — it always, automatically happens: 春になると、さくらがさきます. Not before requests or wishes.\n• **なら** (lesson 13-3): \"if it's about X / if that's the case\" — often a reply to what someone just said: 日本に行くなら、京都がいいですよ.\nIn many sentences two or three of them are possible. The full differences are subtle and are **N3-level material**; for now, this table is enough to read and to speak safely.",
+      "structure": "[condition in the ば-form]、[result]。 · 行けば · 食べれば · すれば · くれば · 行かなければ · 安ければ · よければ · ひまなら · 学生なら",
+      "examples": [
+        { "jp": "このくすりを飲めば、すぐ元気になりますよ。", "kana": "このくすりをのめば、すぐげんきになりますよ。", "romaji": "Kono kusuri o nomeba, sugu genki ni narimasu yo.", "en": "If you take this medicine, you'll get better soon." },
+        { "jp": "この道をまっすぐ行けば、駅に着きます。", "kana": "このみちをまっすぐいけば、えきにつきます。", "romaji": "Kono michi o massugu ikeba, eki ni tsukimasu.", "en": "If you go straight down this street, you'll get to the station." },
+        { "jp": "お金があれば、世界中を旅行したいです。", "kana": "おかねがあれば、せかいじゅうをりょこうしたいです。", "romaji": "Okane ga areba, sekaijū o ryokō shitai desu.", "en": "If I had the money, I'd like to travel all over the world." }
+      ],
+      "pitfalls": [
+        "る-verbs keep れ: 食べば ✗ → 食べれば ✓.",
+        "い-adjectives use ければ: 安えば ✗ → 安ければ ✓. And いい becomes よければ: いければ ✗ → よければ ✓.",
+        "な-adjectives and nouns don't take ば: ひまれば ✗ → ひまなら ✓.",
+        "An action verb + ば, then a request: 駅に着けば、電話してください ✗ → 駅に着いたら、電話してください ✓."
+      ],
+      "howToStudy": [
+        "Tap 🔬 on example 1: この = DESCRIBES NEXT, くすりを = OBJECT, 飲めば = IF / WHEN (the condition), すぐ = HOW / HOW OFTEN, 元気に = HOW / HOW OFTEN (how you end up) and なりますよ = PREDICATE. Read the result first, then ask: under what condition?",
+        "Say the ば-form of 10 words out loud: 行く, 飲む, 話す, 食べる, する, くる, ある, 行かない, 安い, いい. Then 2 with なら: ひま, 学生.",
+        "Give 3 pieces of advice out loud to a friend who is starting Japanese, with ば: 毎日話せば、上手になりますよ。…"
+      ],
+      "flag": "The table of たら / ば / と / なら is a simplification. The full differences — for example, exactly when ば can be followed by an invitation or a wish — are N3-level material. When you are unsure in conversation, たら is the safest choice."
+    },
+    {
+      "id": "22-2-c",
+      "gc": null,
+      "title": "〜のに (although…, and yet…)",
+      "gloss": "even though (and I'm frustrated or surprised)",
+      "explanation": "〜のに joins two **real facts** where the second is **not what you'd expect** from the first, and it carries a feeling: **frustration, disappointment or surprise**. \"Even though X, Y\" — and you're not happy about it.\n• 毎日勉強したのに、テストはぜんぜんできませんでした。 (Even though I studied every day, I did really badly on the test.)\n\n**How to form it:** short form + のに.\n• Verbs and い-adjectives: 勉強した**のに**, 高い**のに**, 来ない**のに**.\n• な-adjectives and nouns in the present take **な**: しずか**なのに**, 日曜日**なのに** (not だのに). In the past: ひまだった**のに**, 日曜日だった**のに**.\n\n**The blocks:** [fact 1]のに、| [unexpected fact 2]. The PREDICATE at the end is the surprising or annoying part: read it first.\n\n**のに × が / けど × ので:**\n• が / けど is a neutral \"but\", with no feeling attached.\n• のに adds \"and that's frustrating / strange\".\n• ので (lesson 12-2) is \"because\": the result is the one you'd expect.\n• Because のに expresses a feeling about facts, the second part can't be a request or your own plan.\n• At the very end of a sentence, のに is a sigh of regret: 来ればよかったのに (you should have come — too bad). You met 〜ばよかった in lesson 18-3.\n• Later, in lesson 23-1, 〜ても (\"even if\") will cover conditions that may or may not happen; のに is only for facts.",
+      "structure": "[short form] のに、[unexpected result]。 · な-adjective／noun: 〜なのに",
+      "examples": [
+        { "jp": "毎日勉強したのに、テストはぜんぜんできませんでした。", "kana": "まいにちべんきょうしたのに、テストはぜんぜんできませんでした。", "romaji": "Mainichi benkyō shita noni, tesuto wa zenzen dekimasen deshita.", "en": "Even though I studied every day, I did really badly on the test.", "noAnat": true },
+        { "jp": "今日は日曜日なのに、会社に行かなければなりません。", "kana": "きょうはにちようびなのに、かいしゃにいかなければなりません。", "romaji": "Kyō wa nichiyōbi na noni, kaisha ni ikanakereba narimasen.", "en": "Even though today is Sunday, I have to go to the office.", "noAnat": true },
+        { "jp": "このレストランは高いのに、あまりおいしくないです。", "kana": "このレストランはたかいのに、あまりおいしくないです。", "romaji": "Kono resutoran wa takai noni, amari oishiku nai desu.", "en": "This restaurant is expensive, and yet the food isn't very good.", "noAnat": true }
+      ],
+      "pitfalls": [
+        "な-adjectives and nouns take な: 日曜日だのに ✗ → 日曜日なのに ✓.",
+        "The second part can't be a request or your own plan: 雨なのに、出かけましょう ✗ → 雨ですが、出かけましょう ✓.",
+        "When the result is the one you'd expect, use ので: 高いのに、買いませんでした ✗ → 高いので、買いませんでした ✓. When it is unexpected, のに fits: 高いのに、買いました ✓."
+      ],
+      "howToStudy": [
+        "For each example, point first at the PREDICATE — the unexpected part — and then at the のに-block: the fact that should have changed things. (The 🔬 engine has no label for のに yet, so these examples don't show 🔬; do the reading from the end yourself.)",
+        "Say out loud 3 real complaints from this week with のに: one with a verb, one with an い-adjective and one with a noun (〜なのに). Let your voice sound a little frustrated.",
+        "In your notebook, write the same two facts three ways: 〜が (neutral), 〜のに (frustrated) and 〜ので (expected result). Next to each, note the feeling in English."
+      ],
+      "flag": null
+    },
+    {
+      "id": "22-2-d",
+      "gc": null,
+      "title": "〜のような / 〜のように",
+      "gloss": "like…, such as…",
+      "explanation": "[Noun]のよう〜 means **\"like [noun]\"**. It has two forms, depending on what comes next — just like a な-adjective (きれいな人 × きれいに書く):\n• **Noun + のような + noun** — it describes a noun: 田中先生**のような**先生 (a teacher like Tanaka-sensei). In 🔬 this block shows up as DESCRIBES NEXT.\n• **Noun + のように + verb / adjective** — it describes an action or a quality: 日本人**のように**話す (speak like a Japanese person), 夏**のように**あつい (hot like summer).\n\n**Two meanings of のような:**\n• **Similar to:** 田中先生のような先生になりたいです (I want to be a teacher like Tanaka-sensei).\n• **Such as**, giving an example: ラーメンのようなあたたかい食べ物 (something warm, like ramen).\n\n**のよう × みたい (lesson 17-3).** みたいな / みたいに mean the same and are more casual: 田中先生みたいな先生. のような / のように sound more neutral, and they are the ones you see in writing.\n• You'll also meet ように after verbs: 先生が言ったように (as the teacher said).",
+      "structure": "[noun] のような [noun] · [noun] のように [verb / adjective]",
+      "examples": [
+        { "jp": "私は田中先生のような先生になりたいです。", "kana": "わたしはたなかせんせいのようなせんせいになりたいです。", "romaji": "Watashi wa Tanaka-sensei no yō na sensei ni naritai desu.", "en": "I want to become a teacher like Tanaka-sensei." },
+        { "jp": "ラーメンのようなあたたかい食べ物が食べたいです。", "kana": "ラーメンのようなあたたかいたべものがたべたいです。", "romaji": "Rāmen no yō na atatakai tabemono ga tabetai desu.", "en": "I want to eat something warm, like ramen." },
+        { "jp": "マリアさんは日本人のように日本語を話します。", "kana": "マリアさんはにほんじんのようににほんごをはなします。", "romaji": "Maria-san wa nihonjin no yō ni nihongo o hanashimasu.", "en": "Maria speaks Japanese like a Japanese person.", "noAnat": true }
+      ],
+      "pitfalls": [
+        "Before a noun it's のような; before a verb or an adjective it's のように: 日本人のような話します ✗ → 日本人のように話します ✓.",
+        "Don't forget the の after the noun: 夏ような ✗ → 夏のような ✓ (with みたい there is no の: 夏みたいな).",
+        "This \"like\" means \"similar to\", not \"enjoy\": 私はラーメンのようです ✗ (\"I am like ramen\") → 私はラーメンが好きです ✓."
+      ],
+      "howToStudy": [
+        "Tap 🔬 on example 1: 田中先生のような shows up as DESCRIBES NEXT, attached to 先生 — it tells you what kind of teacher. 先生に shows up as TARGET: with なる, read it as \"into what\", what you want to become. なりたいです is the PREDICATE.",
+        "Describe 3 people you know out loud with のように: 〜さんは〜のように〜。 (マリアさんは日本人のように…, 弟は子どものように…).",
+        "Say 2 wishes with のような + noun: 〜のような町に住みたいです。 / 〜のような人になりたいです。"
+      ],
+      "flag": null
+    }
+  ],
+  "media": [
+    { "order": 1, "kind": "reading", "title": "Genki II · Lesson 22: the grammar notes on Verb Stem + なさい, 〜ば, 〜のに and 〜のような / 〜のように", "where": "Your Genki II textbook", "url": "", "when": "Before this lesson or between the two sessions. The causative of Lesson 22 is in lesson 22-1." },
+    { "order": 2, "kind": "video", "title": "Japanese Ammo with Misa: conditionals (たら, ば, と, なら)", "where": "YouTube · Japanese Ammo with Misa channel", "url": "", "search": "Japanese Ammo with Misa conditionals tara ba to nara", "when": "Optional, after point 4b, to hear the four conditionals compared" }
+  ],
+  "homework": {
+    "intro": "Do it by hand in your notebook. Write the Japanese with the kanji you know and kana for the rest. Only then open the answer key, item by item. Circle what you got wrong and redo it the next day. If you have the Genki II Workbook, do this lesson's exercises too.",
+    "tasks": [
+      {
+        "id": "h1",
+        "type": "transform",
+        "prompt": "Write the ば-form (use なら for な-adjectives and nouns).",
+        "items": [
+          { "q": "飲む", "a": { "jp": "飲めば", "kana": "のめば", "romaji": "nomeba" }, "note": "う-verb: む → め + ば." },
+          { "q": "食べる", "a": { "jp": "食べれば", "kana": "たべれば", "romaji": "tabereba" }, "note": "る-verb: drop る, add れば." },
+          { "q": "来る", "a": { "jp": "来れば", "kana": "くれば", "romaji": "kureba" }, "note": "Read 来 as く here. する → すれば." },
+          { "q": "行かない", "a": { "jp": "行かなければ", "kana": "いかなければ", "romaji": "ikanakereba" }, "note": "Negative: 〜ない → 〜なければ, like an い-adjective. You know it from 〜なければいけません (lesson 12-3)." },
+          { "q": "いい", "a": { "jp": "よければ", "romaji": "yokereba" }, "note": "いい is irregular: よければ." },
+          { "q": "学生", "a": { "jp": "学生なら", "kana": "がくせいなら", "romaji": "gakusei nara" }, "note": "Noun: なら (in formal writing, 学生であれば)." }
+        ]
+      },
+      {
+        "id": "h2",
+        "type": "fill",
+        "prompt": "Complete with the right form: なさい, ば, のに (なのに), のような or のように.",
+        "items": [
+          { "q": "もう七時ですよ。早く（起きる）＿＿。 → a mother to her child", "a": { "jp": "もう七時ですよ。早く起きなさい。", "kana": "もうしちじですよ。はやくおきなさい。", "romaji": "Mō shichiji desu yo. Hayaku okinasai." }, "note": "Stem 起き + なさい." },
+          { "q": "このボタンを（おす）＿＿、ドアが開きます。", "a": { "jp": "このボタンをおせば、ドアが開きます。", "kana": "このボタンをおせば、ドアがあきます。", "romaji": "Kono botan o oseba, doa ga akimasu." }, "note": "Condition → result: ば." },
+          { "q": "（やくそくした）＿＿、ルーカスさんは来ませんでした。", "a": { "jp": "やくそくしたのに、ルーカスさんは来ませんでした。", "kana": "やくそくしたのに、ルーカスさんはきませんでした。", "romaji": "Yakusoku shita noni, Rūkasu-san wa kimasen deshita." }, "note": "A fact + a frustrating result: のに." },
+          { "q": "（日曜日）＿＿、父は会社に行きました。", "a": { "jp": "日曜日なのに、父は会社に行きました。", "kana": "にちようびなのに、ちちはかいしゃにいきました。", "romaji": "Nichiyōbi na noni, chichi wa kaisha ni ikimashita." }, "note": "Noun + なのに." },
+          { "q": "マリアさんは（日本人）＿＿日本語を話します。", "a": { "jp": "マリアさんは日本人のように日本語を話します。", "kana": "マリアさんはにほんじんのようににほんごをはなします。", "romaji": "Maria-san wa nihonjin no yō ni nihongo o hanashimasu." }, "note": "Before a verb (話します): のように." },
+          { "q": "（京都）＿＿しずかな町に住みたいです。", "a": { "jp": "京都のようなしずかな町に住みたいです。", "kana": "きょうとのようなしずかなまちにすみたいです。", "romaji": "Kyōto no yō na shizuka na machi ni sumitai desu." }, "note": "Before a noun (町): のような." }
+        ]
+      },
+      {
+        "id": "h3",
+        "type": "fill",
+        "prompt": "たら, ば, と or なら? Choose the most natural one for each sentence and write the whole sentence. Sometimes two are possible: the answer key says which.",
+        "items": [
+          { "q": "駅に（着く）＿＿、電話してください。", "a": { "jp": "駅に着いたら、電話してください。", "kana": "えきについたら、でんわしてください。", "romaji": "Eki ni tsuitara, denwa shite kudasai." }, "note": "A request after an action verb: たら. ば and と don't work here." },
+          { "q": "春に（なる）＿＿、さくらがさきます。", "a": { "jp": "春になると、さくらがさきます。", "kana": "はるになると、さくらがさきます。", "romaji": "Haru ni naru to, sakura ga sakimasu." }, "note": "Something that always happens: と is the most natural. たら and ば are also possible here." },
+          { "q": "A: 来月日本に行きます。— B: 日本に（行く）＿＿、京都がいいですよ。", "a": { "jp": "来月日本に行きます。— 日本に行くなら、京都がいいですよ。", "kana": "らいげつにほんにいきます。— にほんにいくなら、きょうとがいいですよ。", "romaji": "Raigetsu Nihon ni ikimasu. — Nihon ni iku nara, Kyōto ga ii desu yo." }, "note": "Advice about what the other person just said: なら (before the trip happens)." },
+          { "q": "毎日（話す）＿＿、上手になりますよ。", "a": { "jp": "毎日話せば、上手になりますよ。", "kana": "まいにちはなせば、じょうずになりますよ。", "romaji": "Mainichi hanaseba, jōzu ni narimasu yo." }, "note": "Condition → result, as advice: ば. たら is also fine." },
+          { "q": "（安い）＿＿、買いたいです。", "a": { "jp": "安ければ、買いたいです。", "kana": "やすければ、かいたいです。", "romaji": "Yasukereba, kaitai desu." }, "note": "After an adjective, a wish is fine with ば. 安かったら is just as natural." }
+        ]
+      },
+      {
+        "id": "h4",
+        "type": "produce",
+        "prompt": "Write 4 sentences about yourself: a command your parents or teachers often gave you (なさい), a piece of advice with ば, a complaint with のに, and a wish with のような or のように. Then read them aloud and record them.",
+        "items": [
+          { "q": "Model (match its structure, not its words):", "a": { "jp": "子どものとき、母によく「早くねなさい」と言われました。今は、毎日少しでも日本語を話せば、上手になると思います。でも、きのうは三時間も勉強したのに、漢字をぜんぜんおぼえられませんでした。いつか、田中先生のように日本語を教えたいです。", "kana": "こどものとき、ははによく「はやくねなさい」といわれました。いまは、まいにちすこしでもにほんごをはなせば、じょうずになるとおもいます。でも、きのうはさんじかんもべんきょうしたのに、かんじをぜんぜんおぼえられませんでした。いつか、たなかせんせいのようににほんごをおしえたいです。", "romaji": "Kodomo no toki, haha ni yoku \"Hayaku nenasai\" to iwaremashita. Ima wa, mainichi sukoshi demo nihongo o hanaseba, jōzu ni naru to omoimasu. Demo, kinō wa sanjikan mo benkyō shita noni, kanji o zenzen oboeraremasen deshita. Itsuka, Tanaka-sensei no yō ni nihongo o oshietai desu.", "en": "When I was a child, my mother often told me, \"Go to bed early.\" Now I think that if I speak even a little Japanese every day, I'll get good at it. But yesterday, even though I studied for three whole hours, I couldn't memorize the kanji at all. Someday I want to teach Japanese, like Tanaka-sensei." }, "note": "Check: なさい only inside what a parent or teacher says, the ば-form of the verb, のに with a real fact and a frustrating result, and のように before a verb. The first sentence also reuses the passive of lesson 21-1 (言われました)." }
+        ]
+      }
+    ],
+    "workbook": []
+  },
+  "practice": [
+    { "tool": "Wagotabi", "what": "Play at the N4 level and hunt the dialogues for 〜なさい (who says it, and to whom?), ば-forms (〜えば, 〜ければ) and のに. When you find one, pause and say its meaning out loud in English. Copy 2 lines into your notebook.", "min": 15 },
+    { "tool": "ヅオリンゴー", "what": "Drills → 🔬 Anatomy → 🔬 Analyze: paste the 3 examples of point 4b and find the IF / WHEN block in each. Then paste 天気がよければ、海に行きませんか and read it from the end.", "min": 10 },
+    { "tool": "ヅオリンゴー", "what": "Journal: write your 4 sentences of homework h4 and check them with \"Anatomy of what I wrote\".", "min": 10 },
+    { "tool": "Shadowing", "what": "Tap 🔊 on the examples of 4a and 4c and repeat along 3 times. Copy the tone: firm for なさい, a little frustrated for のに.", "min": 5 },
+    { "tool": "Speaking", "what": "Record homework h4 in 30–45 seconds. Listen and check the ば-form and the な of なのに.", "min": 5 }
+  ],
+  "culture": {
+    "title": "Students clean their own school",
+    "titleJp": "そうじの時間",
+    "body": "In most Japanese elementary and junior high schools there is a **cleaning time** (そうじの時間) almost every day, and the **students themselves** clean their classrooms, hallways and stairs — at many schools, even the toilets. They work in small groups, and the jobs rotate, so everyone takes a turn at each task. The daily cleaning is usually left to the students rather than to cleaning staff. The idea is that children learn to take care of shared spaces and to work together. Teachers often clean alongside them, and a call you might hear is 早くそうじを始めなさい！",
+    "try": "Imagine you are a teacher at cleaning time. Give 3 orders out loud with なさい: まどをふきなさい。ゆかをはきなさい。ごみをすてなさい。 (ふく = to wipe, はく = to sweep, すてる = to throw away.) Then say them again politely, as if to an adult: まどをふいてください…"
+  },
+  "checklist": [
+    "I can give 3 commands with verb stem + なさい, and I know who can say them (parents, teachers) and who can't (adults to adults).",
+    "I can form the ば-form of verbs (including する, くる and negatives), い-adjectives (with よければ), な-adjectives and nouns (なら) without looking.",
+    "I don't put a request right after an action verb + ば; I use たら there.",
+    "With the table, I can choose たら, ば, と or なら in simple sentences — and I know the full details are N3-level material.",
+    "I can complain about a real fact with 〜のに, using なのに after な-adjectives and nouns.",
+    "I use のような before nouns and のように before verbs and adjectives.",
+    "I did the homework, checked it against the answer key and redid what I got wrong.",
+    "If I have the Genki II Workbook, I did its exercises on these points of Lesson 22."
+  ]
+}

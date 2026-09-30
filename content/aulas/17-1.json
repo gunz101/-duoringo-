@@ -2,185 +2,185 @@
   "id": "17-1",
   "unit": "G2-L17",
   "genki": { "book": "Genki II", "lesson": 17, "points": ["〜そうです (I hear)", "〜って"] },
-  "title": "Ouvi dizer",
+  "title": "I heard that",
   "titleJp": "雨がふるそうです",
   "canDo": [
-    "Repassar uma informação que ouvi, li ou vi na TV com forma curta + そうです: あしたは雨がふるそうです。",
-    "Montar o そうです de boato com substantivo e adjetivo な usando だ (休みだそうです, 元気だそうです) e dizer a fonte com 〜によると.",
-    "Diferenciar, só pelo que vem antes do そう, ふりそうです (parece que vai chover, pelo que vejo) de ふるそうです (dizem que vai chover), e おいしそう de おいしいそう.",
-    "Contar uma novidade a um amigo com 〜って (来ないって, 休みだって) e perguntar sobre algo desconhecido com Nって何？"
+    "I can pass on something I heard, read or saw on TV with short form + そうです: あしたは雨がふるそうです。",
+    "I can build hearsay そうです with nouns and な-adjectives using だ (休みだそうです, 元気だそうです) and name the source with 〜によると.",
+    "I can tell ふりそうです (it looks like it's going to rain, from what I see) from ふるそうです (I hear it's going to rain), and おいしそう from おいしいそう, just by what comes before そう.",
+    "I can tell a friend a piece of news with 〜って (来ないって, 休みだって) and ask about something unfamiliar with Nって何？"
   ],
   "duration": {
     "total": "60–75 min",
     "blocks": [
-      { "t": "Aquecimento: diga em voz alta a forma curta (presente e passado, afirmativa e negativa) de ふる, 高い e 休み", "min": 5 },
-      { "t": "Vocabulário: ouvir 🔊 cada palavra e repetir 2 vezes", "min": 10 },
-      { "t": "Gramática: os 2 pontos, com os exemplos lidos em voz alta e um 🔬 em cada. Capriche nos pares ふりそう × ふるそう", "min": 25 },
-      { "t": "Vídeo da Lição 17 (bloco 6), só a parte de そうです e って", "min": 10 },
-      { "t": "Lição de casa no caderno + conferir no gabarito", "min": 15 },
-      { "t": "Checklist (bloco 10) + anotar dúvidas no caderno da aula", "min": 5 }
+      { "t": "Warm-up: say aloud the short forms (present and past, affirmative and negative) of ふる, 高い and 休み", "min": 5 },
+      { "t": "Vocabulary: tap 🔊 on each word and repeat it twice", "min": 10 },
+      { "t": "Grammar: the 2 points, with the examples read aloud and one 🔬 for each. Take extra care with the pairs ふりそう × ふるそう", "min": 25 },
+      { "t": "Lesson 17 video (block 6), only the part on そうです and って", "min": 10 },
+      { "t": "Notebook homework + checking it against the answer key", "min": 15 },
+      { "t": "Checklist (block 10) + write your questions in the lesson notebook", "min": 5 }
     ]
   },
   "prereqs": {
     "aulas": ["M-4"],
     "skills": [
-      "Formas curtas no presente e no passado, afirmativas e negativas, de verbos, adjetivos e substantivos (Aulas 08-1 e 09-1). O そうです de boato vem depois delas.",
-      "〜と言っていました (Aula 08-2), para citar o que alguém disse. O そうです e o って desta aula são parentes dele.",
-      "O そう de aparência (Aula 13-2): おいしそう, 元気そう. Você vai precisar dele para não confundir os dois.",
-      "Fala casual (Aula 08-1), porque o って só aparece nela."
+      "Short forms in the present and past, affirmative and negative, of verbs, adjectives and nouns (lessons 08-1 and 09-1). Hearsay そうです attaches to them.",
+      "〜と言っていました (lesson 08-2), for quoting what someone said. This lesson's そうです and って are close relatives of it.",
+      "The appearance そう (lesson 13-2): おいしそう, 元気そう. You'll need it so you don't mix up the two.",
+      "Casual speech (lesson 08-1), because って only shows up there."
     ],
     "vocab": [
-      { "jp": "うわさ", "kana": "うわさ", "romaji": "uwasa", "pt": "boato, fofoca" },
-      { "jp": "ニュース", "kana": "ニュース", "romaji": "nyūsu", "pt": "notícia; noticiário" },
-      { "jp": "天気予報", "kana": "てんきよほう", "romaji": "tenki yohō", "pt": "previsão do tempo" },
-      { "jp": "〜によると", "kana": "〜によると", "romaji": "-ni yoru to", "pt": "segundo…, de acordo com… (a fonte da informação)" },
-      { "jp": "話", "kana": "はなし", "romaji": "hanashi", "pt": "conversa; história; o que alguém contou" },
-      { "jp": "雨がふる", "kana": "あめがふる", "romaji": "ame ga furu", "pt": "chover" },
-      { "jp": "雪", "kana": "ゆき", "romaji": "yuki", "pt": "neve" },
-      { "jp": "結婚する", "kana": "けっこんする", "romaji": "kekkon suru", "pt": "casar-se (〜と結婚する = casar com alguém)" },
-      { "jp": "つきあう", "kana": "つきあう", "romaji": "tsukiau", "pt": "namorar; sair com alguém" },
-      { "jp": "ひっこす", "kana": "ひっこす", "romaji": "hikkosu", "pt": "mudar-se (de casa)" },
-      { "jp": "やめる", "kana": "やめる", "romaji": "yameru", "pt": "largar, parar; sair (do emprego)" },
-      { "jp": "たからくじ", "kana": "たからくじ", "romaji": "takarakuji", "pt": "loteria" },
-      { "jp": "当たる", "kana": "あたる", "romaji": "ataru", "pt": "ser sorteado; ganhar (たからくじに当たる = ganhar na loteria)" },
-      { "jp": "医者", "kana": "いしゃ", "romaji": "isha", "pt": "médico(a)" },
-      { "jp": "店長", "kana": "てんちょう", "romaji": "tenchō", "pt": "gerente da loja" },
-      { "jp": "休み", "kana": "やすみ", "romaji": "yasumi", "pt": "folga, férias; (loja) fechada" },
-      { "jp": "来月", "kana": "らいげつ", "romaji": "raigetsu", "pt": "mês que vem" },
-      { "jp": "写真", "kana": "しゃしん", "romaji": "shashin", "pt": "foto" },
-      { "jp": "うらやましい", "kana": "うらやましい", "romaji": "urayamashii", "pt": "que inveja! (invejável)" },
-      { "jp": "へえ", "kana": "へえ", "romaji": "hē", "pt": "nossa!, é mesmo? (surpresa)" },
-      { "jp": "〜って", "kana": "〜って", "romaji": "-tte", "pt": "(casual) disse que…; dizem que…; esse tal de…" }
+      { "jp": "うわさ", "kana": "うわさ", "romaji": "uwasa", "en": "rumor, gossip" },
+      { "jp": "ニュース", "kana": "ニュース", "romaji": "nyūsu", "en": "news; the news (program)" },
+      { "jp": "天気予報", "kana": "てんきよほう", "romaji": "tenki yohō", "en": "weather forecast" },
+      { "jp": "〜によると", "kana": "〜によると", "romaji": "-ni yoru to", "en": "according to… (the source of the information)" },
+      { "jp": "話", "kana": "はなし", "romaji": "hanashi", "en": "talk, conversation; story; what someone told you" },
+      { "jp": "雨がふる", "kana": "あめがふる", "romaji": "ame ga furu", "en": "to rain [lit. rain falls]" },
+      { "jp": "雪", "kana": "ゆき", "romaji": "yuki", "en": "snow" },
+      { "jp": "結婚する", "kana": "けっこんする", "romaji": "kekkon suru", "en": "to get married (〜と結婚する = to marry someone)" },
+      { "jp": "つきあう", "kana": "つきあう", "romaji": "tsukiau", "en": "to date, to go out with someone" },
+      { "jp": "ひっこす", "kana": "ひっこす", "romaji": "hikkosu", "en": "to move (to a new home)" },
+      { "jp": "やめる", "kana": "やめる", "romaji": "yameru", "en": "to quit, to stop; to leave (a job)" },
+      { "jp": "たからくじ", "kana": "たからくじ", "romaji": "takarakuji", "en": "lottery" },
+      { "jp": "当たる", "kana": "あたる", "romaji": "ataru", "en": "to be drawn, to win (たからくじに当たる = to win the lottery)" },
+      { "jp": "医者", "kana": "いしゃ", "romaji": "isha", "en": "doctor" },
+      { "jp": "店長", "kana": "てんちょう", "romaji": "tenchō", "en": "store manager" },
+      { "jp": "休み", "kana": "やすみ", "romaji": "yasumi", "en": "day off, vacation; (a store) closed" },
+      { "jp": "来月", "kana": "らいげつ", "romaji": "raigetsu", "en": "next month" },
+      { "jp": "写真", "kana": "しゃしん", "romaji": "shashin", "en": "photo" },
+      { "jp": "うらやましい", "kana": "うらやましい", "romaji": "urayamashii", "en": "I'm jealous! (enviable)" },
+      { "jp": "へえ", "kana": "へえ", "romaji": "hē", "en": "wow, really? (surprise)" },
+      { "jp": "〜って", "kana": "〜って", "romaji": "-tte", "en": "(casual) said that…; I hear…; this … (thing)" }
     ]
   },
   "grammar": [
     {
       "id": "17-1-a",
       "gc": null,
-      "title": "〜そうです (ouvi dizer)",
-      "gloss": "dizem que…, ouvi dizer que…",
-      "explanation": "Para repassar uma informação que você **ouviu, leu ou viu** (na TV, na internet, de um amigo), o japonês põe **そうです** depois da **forma curta**. É o nosso \"dizem que…\", \"ouvi dizer que…\": você não garante a informação, só passa adiante.\n• Verbo: forma curta + そうです. ふる → ふるそうです; ふらない → ふらないそうです; ふった → ふったそうです; ふらなかった → ふらなかったそうです.\n• Adjetivo い: direto. おいしい → おいしいそうです; 高くなかった → 高くなかったそうです.\n• Substantivo e adjetivo な: no presente afirmativo entra **だ**. 休みだそうです; 元気だそうです. Nas outras formas, é a forma curta normal: 休みじゃないそうです; 元気だったそうです.\n• O そうです **não conjuga**: o passado e a negação ficam na informação, antes dele. Com este sentido, não existe そうでした nem そうじゃないです.\n• A **fonte** vem no começo, com **〜によると** (\"segundo…\"): ニュースによると、… Quando a fonte é uma pessoa e você quer citá-la, 〜と言っていました (Aula 08-2) também serve.\n• Na frase, [informação] + そうです é o **PREDICADO**. Leia pelo fim: \"dizem\" → o quê? → tudo o que vem antes.\n\n**Boato × aparência (Aula 13-2).** São dois そう diferentes, e quem decide é **o que vem antes**:\n• Aparência: **radical do ます** ou **adjetivo sem い** + そう = \"parece…, pelo que eu vejo\". 雨がふりそうです (olho o céu escuro); おいしそうです (olho o bolo); 元気そうです (olho a cara da pessoa).\n• Boato: **forma curta completa** + そうです = \"dizem que…\". 雨がふるそうです (a previsão disse); おいしいそうです (me contaram); 元気だそうです (a mãe dele me disse).\n• Pista rápida: se antes do そう há uma forma que **poderia fechar uma frase sozinha** (ふる, おいしい, 元気だ), é boato. Se a palavra está **cortada** (ふり, おいし, 元気 sem だ), é aparência.",
-      "structure": "[fonte]によると、[forma curta] そうです · [N / adj な] だそうです",
+      "title": "〜そうです (I hear)",
+      "gloss": "I hear that…, they say…",
+      "explanation": "To pass on information you **heard, read or saw** (on TV, online, from a friend), Japanese puts **そうです** after the **short form**. It's English \"I hear that…\", \"they say…\": you don't vouch for the information, you just pass it on.\n• Verb: short form + そうです. ふる → ふるそうです; ふらない → ふらないそうです; ふった → ふったそうです; ふらなかった → ふらなかったそうです.\n• い-adjective: attaches directly. おいしい → おいしいそうです; 高くなかった → 高くなかったそうです.\n• Noun and な-adjective: in the present affirmative, add **だ**. 休みだそうです; 元気だそうです. In the other forms, use the normal short form: 休みじゃないそうです; 元気だったそうです.\n• This そうです **does not conjugate**: past and negative stay inside the information, before it. With this meaning there is no そうでした and no そうじゃないです.\n• The **source** goes at the start, with **〜によると** (\"according to…\"): ニュースによると、… When the source is a person and you want to quote them, 〜と言っていました (lesson 08-2) also works.\n• In the sentence, [information] + そうです is the **PREDICATE**. Read from the end: \"I hear\" → what? → everything that comes before it.\n\n**Hearsay × appearance (lesson 13-2).** These are two different そう, and **what comes before** decides which one you have:\n• Appearance: **ます-stem** or **い-adjective minus い** + そう = \"looks…, from what I can see\". 雨がふりそうです (I'm looking at the dark sky); おいしそうです (I'm looking at the cake); 元気そうです (I'm looking at the person's face).\n• Hearsay: **complete short form** + そうです = \"I hear…\". 雨がふるそうです (the forecast said so); おいしいそうです (someone told me); 元気だそうです (his mother told me).\n• Quick clue: if the form before そう **could end a sentence on its own** (ふる, おいしい, 元気だ), it's hearsay. If the word is **cut off** (ふり, おいし, 元気 without だ), it's appearance.",
+      "structure": "[source]によると、[short form] そうです · [N / な-adj] だそうです",
       "examples": [
-        { "jp": "天気予報によると、あしたは雨がふるそうです。", "kana": "てんきよほうによると、あしたはあめがふるそうです。", "romaji": "Tenki yohō ni yoru to, ashita wa ame ga furu sō desu.", "pt": "Segundo a previsão do tempo, amanhã vai chover." },
-        { "jp": "あのレストランは、日曜日は休みだそうです。", "kana": "あのレストランは、にちようびはやすみだそうです。", "romaji": "Ano resutoran wa, nichiyōbi wa yasumi da sō desu.", "pt": "Dizem que aquele restaurante fecha aos domingos." },
-        { "jp": "あの店のラーメンはおいしいそうです。— へえ、写真もおいしそうですね。", "kana": "あのみせのラーメンはおいしいそうです。— へえ、しゃしんもおいしそうですね。", "romaji": "Ano mise no rāmen wa oishii sō desu. — Hē, shashin mo oishisō desu ne.", "pt": "Dizem que o lámen daquela loja é gostoso. — Nossa, e pela foto também parece gostoso, né." }
+        { "jp": "天気予報によると、あしたは雨がふるそうです。", "kana": "てんきよほうによると、あしたはあめがふるそうです。", "romaji": "Tenki yohō ni yoru to, ashita wa ame ga furu sō desu.", "en": "According to the weather forecast, it's going to rain tomorrow.", "noAnat": true },
+        { "jp": "あのレストランは、日曜日は休みだそうです。", "kana": "あのレストランは、にちようびはやすみだそうです。", "romaji": "Ano resutoran wa, nichiyōbi wa yasumi da sō desu.", "en": "I hear that restaurant is closed on Sundays.", "noAnat": true },
+        { "jp": "あの店のラーメンはおいしいそうです。— へえ、写真もおいしそうですね。", "kana": "あのみせのラーメンはおいしいそうです。— へえ、しゃしんもおいしそうですね。", "romaji": "Ano mise no rāmen wa oishii sō desu. — Hē, shashin mo oishisō desu ne.", "en": "I hear the ramen at that place is delicious. — Really? It looks delicious in the photo, too." }
       ],
       "pitfalls": [
-        "Com substantivo e adjetivo な, não esqueça o だ: ○ 休みだそうです × 休みそうです. Sem o だ, a frase deixa de ser boato.",
-        "O passado vai na informação, não no そうです: ○ ふったそうです (dizem que choveu) × ふるそうでした.",
-        "Se você só ouviu falar, não use a aparência. いい e ない são as pegadinhas: na aparência viram よさそう / なさそう; no boato ficam いいそう / ないそう. ○ あのホテルはいいそうです (me disseram que é boa).",
-        "Não use o boato para o que você sabe em primeira mão: × わたしは来月ひっこすそうです. Para os seus planos, diga direto: 来月ひっこします。"
+        "With nouns and な-adjectives, don't forget だ: 休みそうです ✗ → 休みだそうです ✓. Without だ, the sentence is no longer hearsay.",
+        "The past goes in the information, not in そうです: ふるそうでした ✗ → ふったそうです ✓ (I hear it rained).",
+        "If you only heard about it, don't use the appearance form. いい and ない are the tricky ones: for appearance they become よさそう / なさそう; for hearsay they stay いいそう / ないそう. A friend told you the hotel is good: あのホテルはよさそうです ✗ (that's \"it looks good\") → あのホテルはいいそうです ✓.",
+        "Don't use hearsay for things you know firsthand: わたしは来月ひっこすそうです ✗ → 来月ひっこします ✓. For your own plans, just say them directly."
       ],
       "howToStudy": [
-        "Pares em voz alta, imaginando a cena de cada um (olhando × contando o que ouviu): ふりそうです / ふるそうです; おいしそうです / おいしいそうです; 元気そうです / 元気だそうです.",
-        "Aperte 🔬 no exemplo 1 e ache o PREDICADO no fim (ふるそうです). O bloco 天気予報によると, lá no começo, diz de onde veio a informação. Leia pelo fim: dizem que chove → quando? amanhã → quem diz? a previsão.",
-        "Abra a previsão do tempo ou um site de notícias (em português mesmo) e repasse 3 notícias em japonês, em voz alta, com 〜によると、〜そうです."
+        "Say the pairs out loud, picturing the scene for each one (looking × passing on what you heard): ふりそうです / ふるそうです; おいしそうです / おいしいそうです; 元気そうです / 元気だそうです.",
+        "Tap 🔬 on example 3: each half ends in one PREDICATE block (description), おいしいそうです and おいしそうですね. Anatomy gives both the same job; the difference is only in the form before そう (full おいしい = hearsay, cut-off おいし = appearance). Then read example 1 from the end, out loud: it's going to rain → when? tomorrow → who says so? the weather forecast.",
+        "Open a weather forecast or a news site (in English is fine) and pass on 3 news items in Japanese, out loud, with 〜によると、〜そうです."
       ],
-      "flag": "Confira no seu Genki II se a lição traz estes pontos nesta ordem."
+      "flag": "Check in your Genki II that this lesson has these points in this order."
     },
     {
       "id": "17-1-b",
       "gc": null,
-      "title": "〜って (citação casual)",
-      "gloss": "disse que…, dizem que…; esse tal de…",
-      "explanation": "Na fala casual, **って** é o coringa da citação. Ele aparece em três lugares:\n• **No lugar de と**, antes de 言う: 「行く」って言ってた = 「行く」と言っていました.\n• **No fim da frase**, como um そうです casual: forma curta + って. 雨がふるって。 = \"Disseram que vai chover.\" Com substantivo e adjetivo な, o だ fica: 休みだって。 Você também vai ouvir muito **〜んだって** (来ないんだって), com o mesmo sentido.\n• **Depois de um substantivo**, como tópico casual, para puxar um assunto ou perguntar sobre algo que você não conhece bem: 新しい先生って、どんな人？ (\"E esse professor novo, como ele é?\"); 「かいてんずし」って何？ (\"O que é esse tal de kaitenzushi?\").\n• Muitas vezes o 言ってた do fim cai, e você completa de cabeça: 田中さんは来ないって。 = \"O Tanaka (disse que) não vem.\"\n• って é **informal**: use com amigos e família. Com o professor ou o chefe, prefira 〜そうです e 〜と言っていました.\n• Na frase, tudo o que vem **antes do って** é o que foi dito, a **CITAÇÃO**. O predicado (言ってた) às vezes nem aparece.",
-      "structure": "「[fala]」って言ってた · [forma curta]って。(= そうです casual) · [N]って、〜？(tópico casual)",
+      "title": "〜って (casual quoting)",
+      "gloss": "said that…, I hear…; this … thing",
+      "explanation": "In casual speech, **って** is the all-purpose quoting word. It shows up in three places:\n• **Instead of と**, before 言う: 「行く」って言ってた = 「行く」と言っていました.\n• **At the end of the sentence**, as a casual そうです: short form + って. 雨がふるって。 = \"They say it's going to rain.\" With nouns and な-adjectives, だ stays: 休みだって。 You'll also hear **〜んだって** a lot (来ないんだって), with the same meaning.\n• **After a noun**, as a casual topic, to bring something up or to ask about something you don't know well: 新しい先生って、どんな人？ (\"So what's the new teacher like?\"); 「かいてんずし」って何？ (\"What's this 'kaitenzushi' thing?\").\n• Often the final 言ってた drops, and the listener fills it in: 田中さんは来ないって。 = \"Tanaka (says he) isn't coming.\"\n• って is **informal**: use it with friends and family. With your teacher or your boss, use 〜そうです and 〜と言っていました.\n• In the sentence, everything **before って** is what was said, the **QUOTE**. The predicate (言ってた) sometimes doesn't appear at all.",
+      "structure": "「[words]」って言ってた · [short form]って。(= casual そうです) · [N]って、〜？(casual topic)",
       "examples": [
-        { "jp": "ルーカスがたからくじに当たったって。— えっ、うらやましい！", "kana": "ルーカスがたからくじにあたったって。— えっ、うらやましい！", "romaji": "Rūkasu ga takarakuji ni atatta tte. — E, urayamashii!", "pt": "Disseram que o Lucas ganhou na loteria. — Quê? Que inveja!" },
-        { "jp": "田中さんが「あしたはひまだ」って言ってたよ。", "kana": "たなかさんが「あしたはひまだ」っていってたよ。", "romaji": "Tanaka-san ga \"ashita wa hima da\" tte itteta yo.", "pt": "O Tanaka disse que amanhã está livre." },
-        { "jp": "「かいてんずし」って何？— おすしがまわる店だよ。", "kana": "「かいてんずし」ってなに？— おすしがまわるみせだよ。", "romaji": "\"Kaitenzushi\" tte nani? — Osushi ga mawaru mise da yo.", "pt": "O que é esse tal de kaitenzushi? — É um restaurante em que o sushi passa girando numa esteira." }
+        { "jp": "ルーカスがたからくじに当たったって。— えっ、うらやましい！", "kana": "ルーカスがたからくじにあたったって。— えっ、うらやましい！", "romaji": "Rūkasu ga takarakuji ni atatta tte. — E, urayamashii!", "en": "I heard Lucas won the lottery. — What? I'm so jealous!", "noAnat": true },
+        { "jp": "田中さんが「あしたはひまだ」って言ってたよ。", "kana": "たなかさんが「あしたはひまだ」っていってたよ。", "romaji": "Tanaka-san ga \"ashita wa hima da\" tte itteta yo.", "en": "Mr./Ms. Tanaka said, \"I'm free tomorrow.\"" },
+        { "jp": "「かいてんずし」って何？— おすしがまわる店だよ。", "kana": "「かいてんずし」ってなに？— おすしがまわるみせだよ。", "romaji": "\"Kaitenzushi\" tte nani? — Osushi ga mawaru mise da yo.", "en": "What's \"kaitenzushi\"? — It's a restaurant where the sushi goes around." }
       ],
       "pitfalls": [
-        "って é casual. Com o professor: ○ 田中さんは来ないそうです × 田中さんは来ないって。",
-        "No boato, o だ fica: ○ 休みだって (disseram que é folga). Sem ele, 休みって vira o tópico \"sobre a folga…\", e a frase fica pela metade.",
-        "Em 「行く」って言ってた há dois \"tte\": o primeiro é a citação; o segundo é pedaço de 言って, a forma て de 言う. Não confunda os dois.",
-        "って no fim da frase é \"disse / dizem\", não opinião. Para \"eu acho\", use 〜と思う (Aula 08-2)."
+        "って is casual. With your teacher: 田中さんは来ないって。✗ → 田中さんは来ないそうです ✓.",
+        "In hearsay, だ stays: 休みって ✗ → 休みだって ✓ (they say it's a day off). Without it, 休みって becomes the topic \"about the day off…\", and the sentence is left hanging.",
+        "In 「行く」って言ってた there are two \"tte\": the first is the quote marker; the second is part of 言って, the て-form of 言う. Don't mix them up.",
+        "って at the end of a sentence means \"(someone) said / they say\", not your own opinion. For \"I think\", use 〜と思う (lesson 08-2): 雨がふるって ✗ (when you mean \"I think it'll rain\") → 雨がふると思う ✓."
       ],
       "howToStudy": [
-        "Passe 4 frases de um registro para o outro, em voz alta: 雨がふるそうです ⇄ 雨がふるって。; 休みだそうです ⇄ 休みだって。",
-        "Cole o exemplo 2 em 🔬 Anatomia → 🔬 Analisar e confira onde ficam a CITAÇÃO e o PREDICADO (言ってた). Se a Anatomia não separar o って, marque você no caderno: ele faz o papel do と.",
-        "Fala: conte a um amigo imaginário 3 novidades da sua semana com って (…って。 / …んだって。), como se fosse uma mensagem de voz."
+        "Switch 4 sentences from one register to the other, out loud: 雨がふるそうです ⇄ 雨がふるって。; 休みだそうです ⇄ 休みだって。",
+        "Tap 🔬 on example 2: 田中さんが is the SUBJECT and 言ってたよ is the PREDICATE at the end. The quoted part ends in ひまだって, which Anatomy tags NO PARTICLE because it doesn't read って as a quote marker. Correct it in your notebook: everything before って is the QUOTE, and って does the job of と.",
+        "Speaking: tell an imaginary friend 3 pieces of news from your week with って (…って。 / …んだって。), as if you were leaving a voice message."
       ],
       "flag": null
     }
   ],
   "media": [
-    { "order": 1, "kind": "leitura", "title": "Genki II · Lição 17: diálogo, vocabulário e as explicações de gramática 〜そうです (I hear) e 〜って", "where": "Seu livro Genki II (3ª ed.)", "url": "", "when": "Antes desta aula ou logo depois do bloco de gramática" },
-    { "order": 2, "kind": "video", "title": "Japanese Ammo with Misa: そうです de boato × そう de aparência", "where": "YouTube · canal Japanese Ammo with Misa", "url": "", "search": "Japanese Ammo with Misa sou desu hearsay", "when": "Depois dos 2 pontos, se ainda confundir os dois そう" }
+    { "order": 1, "kind": "reading", "title": "Genki II · Lesson 17: the dialogue, vocabulary and grammar notes on 〜そうです (I hear) and 〜って", "where": "Your Genki II textbook (3rd ed.)", "url": "", "when": "Before this lesson or right after the grammar block" },
+    { "order": 2, "kind": "video", "title": "Japanese Ammo with Misa: hearsay そうです vs. appearance そう", "where": "YouTube · Japanese Ammo with Misa channel", "url": "", "search": "Japanese Ammo with Misa sou desu hearsay", "when": "After the 2 points, if you still mix up the two そう" }
   ],
   "homework": {
-    "intro": "Faça no caderno, à mão, com kanji onde souber e kana no resto. Só depois abra o gabarito, item por item. Circule o que errou e refaça no dia seguinte. Se você tiver o Genki II Workbook, faça também os exercícios desta lição.",
+    "intro": "Do it by hand in your notebook, with kanji where you know them and kana for the rest. Only then open the answer key, item by item. Circle what you got wrong and redo it the next day. If you have the Genki II Workbook, do this lesson's exercises too.",
     "tasks": [
       {
         "id": "h1",
-        "type": "transformar",
-        "prompt": "Transforme em boato com そうです. Antes de escrever, veja se é verbo, adjetivo い ou substantivo/な: só os dois últimos pedem だ.",
+        "type": "transform",
+        "prompt": "Turn each sentence into hearsay with そうです. Before writing, check whether it's a verb, an い-adjective or a noun/な-adjective: only the last two need だ.",
         "items": [
-          { "q": "(fonte: 天気予報) あしたは雪がふります。", "a": { "jp": "天気予報によると、あしたは雪がふるそうです。", "kana": "てんきよほうによると、あしたはゆきがふるそうです。", "romaji": "Tenki yohō ni yoru to, ashita wa yuki ga furu sō desu." }, "note": "A fonte vai no começo, com によると." },
+          { "q": "(source: 天気予報) あしたは雪がふります。", "a": { "jp": "天気予報によると、あしたは雪がふるそうです。", "kana": "てんきよほうによると、あしたはゆきがふるそうです。", "romaji": "Tenki yohō ni yoru to, ashita wa yuki ga furu sō desu." }, "note": "The source goes at the start, with によると." },
           { "q": "あの店は安くないです。", "a": { "jp": "あの店は安くないそうです。", "kana": "あのみせはやすくないそうです。", "romaji": "Ano mise wa yasukunai sō desu." } },
-          { "q": "山田さんは会社をやめました。", "a": { "jp": "山田さんは会社をやめたそうです。", "kana": "やまださんはかいしゃをやめたそうです。", "romaji": "Yamada-san wa kaisha o yameta sō desu." }, "note": "O passado fica na informação (やめた); o そうです não muda." },
-          { "q": "アナさんのお父さんは医者です。", "a": { "jp": "アナさんのお父さんは医者だそうです。", "kana": "アナさんのおとうさんはいしゃだそうです。", "romaji": "Ana-san no otōsan wa isha da sō desu." }, "note": "Substantivo: entra だ." },
-          { "q": "新しいアパートはしずかです。", "a": { "jp": "新しいアパートはしずかだそうです。", "kana": "あたらしいアパートはしずかだそうです。", "romaji": "Atarashii apāto wa shizuka da sō desu." }, "note": "Adjetivo な: também entra だ." },
+          { "q": "山田さんは会社をやめました。", "a": { "jp": "山田さんは会社をやめたそうです。", "kana": "やまださんはかいしゃをやめたそうです。", "romaji": "Yamada-san wa kaisha o yameta sō desu." }, "note": "The past stays in the information (やめた); そうです doesn't change." },
+          { "q": "アナさんのお父さんは医者です。", "a": { "jp": "アナさんのお父さんは医者だそうです。", "kana": "アナさんのおとうさんはいしゃだそうです。", "romaji": "Ana-san no otōsan wa isha da sō desu." }, "note": "Noun: add だ." },
+          { "q": "新しいアパートはしずかです。", "a": { "jp": "新しいアパートはしずかだそうです。", "kana": "あたらしいアパートはしずかだそうです。", "romaji": "Atarashii apāto wa shizuka da sō desu." }, "note": "な-adjective: add だ here too." },
           { "q": "ルーカスさんはたからくじに当たりました。", "a": { "jp": "ルーカスさんはたからくじに当たったそうです。", "kana": "ルーカスさんはたからくじにあたったそうです。", "romaji": "Rūkasu-san wa takarakuji ni atatta sō desu." } }
         ]
       },
       {
         "id": "h2",
-        "type": "completar",
-        "prompt": "Escolha a forma certa pela situação: você está vendo (aparência) ou ouviu de alguém (boato)? Escreva a frase inteira.",
+        "type": "choose",
+        "prompt": "Choose the right form for the situation: are you seeing it (appearance) or did someone tell you (hearsay)? Write the whole sentence.",
         "items": [
-          { "q": "Você olha o céu escuro pela janela: 雨が（ふりそう／ふるそう）です。", "a": { "jp": "雨がふりそうです。", "kana": "あめがふりそうです。", "romaji": "Ame ga furisō desu." }, "note": "Você está vendo: aparência, radical + そう." },
-          { "q": "O rádio acabou de dar a previsão: 雨が（ふりそう／ふるそう）です。", "a": { "jp": "雨がふるそうです。", "kana": "あめがふるそうです。", "romaji": "Ame ga furu sō desu." }, "note": "Você ouviu: boato, forma curta completa + そうです." },
-          { "q": "Você vê a foto do bolo no cardápio: このケーキは（おいしそう／おいしいそう）です。", "a": { "jp": "このケーキはおいしそうです。", "romaji": "Kono kēki wa oishisō desu." } },
-          { "q": "Uma amiga que comeu esse bolo te contou: このケーキは（おいしそう／おいしいそう）です。", "a": { "jp": "このケーキはおいしいそうです。", "romaji": "Kono kēki wa oishii sō desu." } },
-          { "q": "O Tanaka chega sorrindo, com ótima cara: 田中さんは（元気そう／元気だそう）です。", "a": { "jp": "田中さんは元気そうです。", "kana": "たなかさんはげんきそうです。", "romaji": "Tanaka-san wa genkisō desu." } },
-          { "q": "A mãe do Tanaka te contou por telefone: 田中さんは（元気そう／元気だそう）です。", "a": { "jp": "田中さんは元気だそうです。", "kana": "たなかさんはげんきだそうです。", "romaji": "Tanaka-san wa genki da sō desu." }, "note": "Boato com adjetivo な: 元気だ + そうです." }
+          { "q": "You look out the window at the dark sky: 雨が（ふりそう／ふるそう）です。", "a": { "jp": "雨がふりそうです。", "kana": "あめがふりそうです。", "romaji": "Ame ga furisō desu." }, "note": "You're seeing it: appearance, stem + そう." },
+          { "q": "The radio just gave the weather forecast: 雨が（ふりそう／ふるそう）です。", "a": { "jp": "雨がふるそうです。", "kana": "あめがふるそうです。", "romaji": "Ame ga furu sō desu." }, "note": "You heard it: hearsay, complete short form + そうです." },
+          { "q": "You see the photo of the cake on the menu: このケーキは（おいしそう／おいしいそう）です。", "a": { "jp": "このケーキはおいしそうです。", "romaji": "Kono kēki wa oishisō desu." } },
+          { "q": "A friend who ate this cake told you: このケーキは（おいしそう／おいしいそう）です。", "a": { "jp": "このケーキはおいしいそうです。", "romaji": "Kono kēki wa oishii sō desu." } },
+          { "q": "Tanaka walks in smiling and looking great: 田中さんは（元気そう／元気だそう）です。", "a": { "jp": "田中さんは元気そうです。", "kana": "たなかさんはげんきそうです。", "romaji": "Tanaka-san wa genkisō desu." } },
+          { "q": "Tanaka's mother told you on the phone: 田中さんは（元気そう／元気だそう）です。", "a": { "jp": "田中さんは元気だそうです。", "kana": "たなかさんはげんきだそうです。", "romaji": "Tanaka-san wa genki da sō desu." }, "note": "Hearsay with a な-adjective: 元気だ + そうです." }
         ]
       },
       {
         "id": "h3",
-        "type": "transformar",
-        "prompt": "Passe para o casual com って, como se contasse a um amigo.",
+        "type": "transform",
+        "prompt": "Make each sentence casual with って, as if you were telling a friend.",
         "items": [
-          { "q": "ペドロさんは来月ひっこすそうです。", "a": { "jp": "ペドロは来月ひっこすって。", "kana": "ペドロはらいげつひっこすって。", "romaji": "Pedoro wa raigetsu hikkosu tte." }, "note": "Entre amigos próximos, o さん costuma cair." },
-          { "q": "あしたは休みだそうです。", "a": { "jp": "あしたは休みだって。", "kana": "あしたはやすみだって。", "romaji": "Ashita wa yasumi da tte." }, "note": "O だ fica. Sem ele, 休みって vira tópico." },
-          { "q": "マリアさんは「すしが好きです」と言っていました。", "a": { "jp": "マリアは「すしが好き」って言ってた。", "kana": "マリアは「すしがすき」っていってた。", "romaji": "Maria wa \"sushi ga suki\" tte itteta." }, "note": "って no lugar de と, e 言っていました vira 言ってた." },
-          { "q": "山田さんとアナさんはつきあっているそうです。", "a": { "jp": "山田さんとアナさんはつきあってるって。", "kana": "やまださんとアナさんはつきあってるって。", "romaji": "Yamada-san to Ana-san wa tsukiatteru tte." }, "note": "Na fala casual, 〜ている costuma virar 〜てる." },
-          { "q": "Pergunte a um amigo o que é おこのみやき, usando って.", "a": { "jp": "「おこのみやき」って何？", "kana": "「おこのみやき」ってなに？", "romaji": "\"Okonomiyaki\" tte nani?" }, "note": "Nって何？ = \"o que é esse tal de N?\"" }
+          { "q": "ペドロさんは来月ひっこすそうです。", "a": { "jp": "ペドロは来月ひっこすって。", "kana": "ペドロはらいげつひっこすって。", "romaji": "Pedoro wa raigetsu hikkosu tte." }, "note": "Between close friends, さん usually drops." },
+          { "q": "あしたは休みだそうです。", "a": { "jp": "あしたは休みだって。", "kana": "あしたはやすみだって。", "romaji": "Ashita wa yasumi da tte." }, "note": "だ stays. Without it, 休みって becomes a topic." },
+          { "q": "マリアさんは「すしが好きです」と言っていました。", "a": { "jp": "マリアは「すしが好き」って言ってた。", "kana": "マリアは「すしがすき」っていってた。", "romaji": "Maria wa \"sushi ga suki\" tte itteta." }, "note": "って replaces と, and 言っていました becomes 言ってた." },
+          { "q": "山田さんとアナさんはつきあっているそうです。", "a": { "jp": "山田さんとアナさんはつきあってるって。", "kana": "やまださんとアナさんはつきあってるって。", "romaji": "Yamada-san to Ana-san wa tsukiatteru tte." }, "note": "In casual speech, 〜ている often becomes 〜てる." },
+          { "q": "Ask a friend what おこのみやき is, using って.", "a": { "jp": "「おこのみやき」って何？", "kana": "「おこのみやき」ってなに？", "romaji": "\"Okonomiyaki\" tte nani?" }, "note": "Nって何？ = \"What's this N thing?\"" }
         ]
       },
       {
         "id": "h4",
-        "type": "produzir",
-        "prompt": "Você é o apresentador de um boletim de novidades: escreva 4–5 frases contando o que ouviu (de amigos, da TV, da internet). Use 〜によると pelo menos uma vez, uma frase com だそうです e termine com uma frase casual com って. Depois leia em voz alta como se estivesse na TV.",
+        "type": "produce",
+        "prompt": "You're the host of a news roundup: write 4–5 sentences about things you heard (from friends, on TV, online). Use 〜によると at least once, include one sentence with だそうです, and end with a casual sentence with って. Then read it aloud as if you were on TV.",
         "items": [
-          { "q": "Modelo, que o seu texto deve seguir na estrutura e não nas palavras:", "a": { "jp": "ニュースによると、来週はとてもあついそうです。友だちの話によると、駅の近くに新しいカフェができたそうです。そこのコーヒーは安くておいしいそうです。店長はブラジル人だそうです。あ、アナも行きたいって。", "kana": "ニュースによると、らいしゅうはとてもあついそうです。ともだちのはなしによると、えきのちかくにあたらしいカフェができたそうです。そこのコーヒーはやすくておいしいそうです。てんちょうはブラジルじんだそうです。あ、アナもいきたいって。", "romaji": "Nyūsu ni yoru to, raishū wa totemo atsui sō desu. Tomodachi no hanashi ni yoru to, eki no chikaku ni atarashii kafe ga dekita sō desu. Soko no kōhī wa yasukute oishii sō desu. Tenchō wa burajirujin da sō desu. A, Ana mo ikitai tte.", "pt": "Segundo o noticiário, na semana que vem vai fazer muito calor. Segundo um amigo, abriu um café novo perto da estação. Dizem que o café de lá é barato e gostoso. E que o gerente é brasileiro. Ah, a Ana disse que também quer ir." }, "note": "Confira: forma curta completa antes de そうです; だ depois de substantivo e な (ブラジル人だそうです); によると no começo; e って só na frase casual." }
+          { "q": "Model (match its structure, not its words):", "a": { "jp": "ニュースによると、来週はとてもあついそうです。友だちの話によると、駅の近くに新しいカフェができたそうです。そこのコーヒーは安くておいしいそうです。店長はブラジル人だそうです。あ、アナも行きたいって。", "kana": "ニュースによると、らいしゅうはとてもあついそうです。ともだちのはなしによると、えきのちかくにあたらしいカフェができたそうです。そこのコーヒーはやすくておいしいそうです。てんちょうはブラジルじんだそうです。あ、アナもいきたいって。", "romaji": "Nyūsu ni yoru to, raishū wa totemo atsui sō desu. Tomodachi no hanashi ni yoru to, eki no chikaku ni atarashii kafe ga dekita sō desu. Soko no kōhī wa yasukute oishii sō desu. Tenchō wa burajirujin da sō desu. A, Ana mo ikitai tte.", "en": "According to the news, it's going to be very hot next week. According to a friend, a new café has opened near the station. I hear the coffee there is cheap and good. I hear the manager is Brazilian. Oh, and Ana says she wants to go too." }, "note": "Check: the complete short form before そうです; だ after nouns and な-adjectives (ブラジル人だそうです); によると at the start; and って only in the casual sentence." }
         ]
       }
     ],
     "workbook": []
   },
   "practice": [
-    { "tool": "Wagotabi", "what": "Jogue nas regiões e níveis N4 e cace そう e って nos diálogos. Para cada そう, decida pelo que vem antes: forma completa (boato) ou palavra cortada (aparência). Registre a sessão em Imersão → Jogos e cole uma dessas frases na 🔬 Anatomia.", "min": 15 },
-    { "tool": "ヅオリンゴー · Mineração", "what": "Com o botão ⛏, guarde no SRS 5 palavras novas desta aula (うわさ, 天気予報, たからくじ, 当たる, ひっこす) e revise-as junto com o baralho \"🌊 Tudo\".", "min": 5 },
-    { "tool": "ヅオリンゴー", "what": "Treinos → 🔬 Anatomia → 🏷 Etiquetar: 5 frases. Depois cole em 🔬 Analisar uma frase sua com 〜によると、〜そうです e confira se o PREDICADO ficou no fim.", "min": 10 },
-    { "tool": "Shadowing", "what": "Toque 🔊 nos exemplos e repita junto 3 vezes. No exemplo 3, repare que おいしいそう e おいしそう diferem só em um い: diga os dois em sequência até a diferença sair clara.", "min": 5 },
-    { "tool": "Fala", "what": "Grave o seu boletim de novidades (lição de casa h4) em até 40 s, com voz de apresentador de TV.", "min": 5 }
+    { "tool": "Wagotabi", "what": "Play in the N4 areas and levels and hunt for そう and って in the dialogues. For each そう, decide by what comes before it: a complete form (hearsay) or a cut-off word (appearance). Log the session in Immersion → Games and paste one of those lines into 🔬 Anatomy. With a verb + そうです, Anatomy may tag the verb DESCRIBES NEXT and そうです alone as the PREDICATE: read the two together as the predicate.", "min": 15 },
+    { "tool": "ヅオリンゴー · Mining", "what": "Use Mining (⛏) to save 5 new words from this lesson to the SRS (うわさ, 天気予報, たからくじ, 当たる, ひっこす) and review them along with the \"🌊 All\" deck.", "min": 5 },
+    { "tool": "ヅオリンゴー", "what": "Drills → 🔬 Anatomy → 🏷 Tag: 5 sentences. Then paste a sentence of your own with an い-adjective + そうです (…はおもしろいそうです) into 🔬 Analyze and check that it shows up as a single PREDICATE at the end.", "min": 10 },
+    { "tool": "Shadowing", "what": "Tap 🔊 on the examples and repeat along 3 times. In example 3 of point a, notice that おいしいそう and おいしそう differ by just one い: say them back to back until the difference comes out clearly.", "min": 5 },
+    { "tool": "Speaking", "what": "Record your news roundup (homework h4) in 40 seconds or less, in a TV-host voice.", "min": 5 }
   ],
   "culture": {
-    "title": "Programas de variedades na TV",
+    "title": "TV variety shows",
     "titleJp": "バラエティばんぐみ",
-    "body": "A TV japonesa tem muitos **programas de variedades** (バラエティばんぐみ): um grupo de celebridades e comediantes assiste a vídeos, prova comidas, participa de quizzes e comenta tudo com reações bem expressivas. Muitas vezes aparece no canto da tela uma janelinha com o rosto de quem está reagindo, e a tela vive cheia de **テロップ**, legendas coloridas em japonês que repetem ou destacam o que acabou de ser dito. Muitos comediantes trabalham em dupla: um diz a bobagem (ボケ) e o outro corrige com uma bronca (ツッコミ), e esse ritmo aparece em muitos programas. De manhã e à tarde, as ワイドショー misturam notícias com fofocas de famosos, e dá para ouvir muito 〜そうです e 〜によると. Para quem estuda, as テロップ ajudam, porque você lê o que acabou de ouvir.",
-    "try": "Procure no YouTube um trecho curto de programa de variedades (busque バラエティ ou 食レポ) e assista 3 minutos. Pause em 3 テロップ, copie-as no caderno e procure alguma com そう ou って."
+    "body": "Japanese TV has a lot of **variety shows** (バラエティばんぐみ): a panel of celebrities and comedians watches video clips, tastes food, takes part in quizzes and comments on everything with very expressive reactions. A small window in a corner of the screen often shows the face of whoever is reacting, and the screen is full of **テロップ**, colorful Japanese captions that repeat or highlight what was just said. Many comedians work as a duo: one says something silly (ボケ) and the other corrects them with a sharp retort (ツッコミ), and that rhythm runs through many shows. In the morning and afternoon, ワイドショー mix news with celebrity gossip, so you hear a lot of 〜そうです and 〜によると. For learners, テロップ are a real help, because you read what you just heard.",
+    "try": "Look up a short clip of a variety show on YouTube (search for バラエティ or 食レポ) and watch 3 minutes. Pause on 3 テロップ, copy them into your notebook and look for one with そう or って."
   },
   "checklist": [
-    "Repasso uma informação que ouvi com forma curta + そうです, no presente, no passado e na negativa, sem olhar.",
-    "Coloco だ com substantivo e adjetivo な: 休みだそうです, 元気だそうです.",
-    "Digo a fonte com 〜によると no começo da frase.",
-    "Diferencio ふりそうです (aparência) de ふるそうです (boato), e おいしそう de おいしいそう, só pelo que vem antes do そう.",
-    "Uso って com amigos: no lugar de と (「…」って言ってた), no fim da frase (来ないって) e para puxar assunto (Nって何？).",
-    "Fiz a lição de casa e conferi o gabarito, e refiz o que errei.",
-    "Se tenho o Genki II Workbook, fiz os exercícios de そうです e って da Lição 17."
+    "I can pass on something I heard with short form + そうです, in the present, the past and the negative, without looking.",
+    "I put だ after nouns and な-adjectives: 休みだそうです, 元気だそうです.",
+    "I can name the source with 〜によると at the start of the sentence.",
+    "I can tell ふりそうです (appearance) from ふるそうです (hearsay), and おいしそう from おいしいそう, just by what comes before そう.",
+    "I use って with friends: instead of と (「…」って言ってた), at the end of a sentence (来ないって) and to bring up a topic (Nって何？).",
+    "I did the homework, checked it against the answer key and redid what I got wrong.",
+    "If I have the Genki II Workbook, I did the Lesson 17 exercises on そうです and って."
   ]
 }

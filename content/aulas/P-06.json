@@ -1,0 +1,215 @@
+{
+  "id": "P-06",
+  "unit": "P-N3",
+  "genki": null,
+  "title": "While still · during",
+  "titleJp": "若いうちに・休みの間に・会議の最中に",
+  "canDo": [
+    "I can say \"while I still can\" with 〜うちに (若いうちに, 熱いうちに, 学生のうちに) and \"before it happens\" with 〜ないうちに (暗くならないうちに).",
+    "I can tell about a change that happened little by little while I was doing something: 見ているうちに、好きになった。",
+    "I can choose between 〜間 (the whole period) and 〜間に (one moment inside it) by looking at the main verb.",
+    "I can say that something interrupted me right in the middle of an activity with 〜最中に (会議の最中に、スマホが鳴った).",
+    "I can explain in one sentence each how うちに, 間に, 前に and 最中に differ."
+  ],
+  "duration": {
+    "total": "70–90 min",
+    "blocks": [
+      { "t": "Warm-up: say aloud 3 things you did during your last vacation, with 〜ました", "min": 5 },
+      { "t": "Vocabulary: tap 🔊 on each word and repeat it twice", "min": 10 },
+      { "t": "Grammar: point a (〜うちに), with the examples read aloud. If you split the lesson into two sessions, stop here.", "min": 15 },
+      { "t": "Grammar: points b (〜間 × 〜間に) and c (〜最中に), with one 🔬 in point c", "min": 20 },
+      { "t": "Video and reading from block 6, pausing on the examples", "min": 10 },
+      { "t": "Notebook homework + checking it against the answer key", "min": 20 },
+      { "t": "Checklist (block 10) + write your questions in the lesson notebook", "min": 5 }
+    ]
+  },
+  "prereqs": {
+    "aulas": ["P-05"],
+    "skills": [
+      "Dictionary, ている and ない forms, and the short forms of adjectives and nouns (lessons 08-1 and 09-1): 〜うちに and 〜間 attach to all of them.",
+      "〜間に from lesson 21-2. This lesson revisits it and sets it against 〜間 without に.",
+      "〜前に (lesson 17-3), to compare with 〜ないうちに.",
+      "〜ながら (lesson 18-3) and 〜ているところ (lesson P-05), to compare with 〜間 and 〜最中に.",
+      "〜ようになる (lesson P-01) and 〜てしまう (lesson 18-2), which often end a 〜ているうちに sentence."
+    ],
+    "vocab": [
+      { "jp": "〜うちに", "kana": "〜うちに", "romaji": "-uchi ni", "en": "while (still)…; before (it changes)" },
+      { "jp": "間", "kana": "あいだ", "romaji": "aida", "en": "a stretch of time (or space) between; 〜間 = during, the whole time" },
+      { "jp": "最中", "kana": "さいちゅう", "romaji": "saichū", "en": "the very middle (of an activity in progress)" },
+      { "jp": "若い", "kana": "わかい", "romaji": "wakai", "en": "young" },
+      { "jp": "暗い", "kana": "くらい", "romaji": "kurai", "en": "dark" },
+      { "jp": "熱い", "kana": "あつい", "romaji": "atsui", "en": "hot (to the touch: food, a drink)" },
+      { "jp": "冷める", "kana": "さめる", "romaji": "sameru", "en": "to cool down, to get cold (food, a drink)" },
+      { "jp": "忘れる", "kana": "わすれる", "romaji": "wasureru", "en": "to forget" },
+      { "jp": "増える", "kana": "ふえる", "romaji": "fueru", "en": "to increase, to grow in number" },
+      { "jp": "聞き取る", "kana": "ききとる", "romaji": "kikitoru", "en": "to catch (by ear), to make out" },
+      { "jp": "仲良くなる", "kana": "なかよくなる", "romaji": "nakayoku naru", "en": "to become friends, to get close" },
+      { "jp": "祖母", "kana": "そぼ", "romaji": "sobo", "en": "(my) grandmother" },
+      { "jp": "運転免許", "kana": "うんてんめんきょ", "romaji": "unten menkyo", "en": "driver's license; 運転免許を取る = to get a driver's license" },
+      { "jp": "留守", "kana": "るす", "romaji": "rusu", "en": "being away from home, being out" },
+      { "jp": "発表", "kana": "はっぴょう", "romaji": "happyō", "en": "presentation; announcement" },
+      { "jp": "突然", "kana": "とつぜん", "romaji": "totsuzen", "en": "suddenly, all of a sudden" },
+      { "jp": "止まる", "kana": "とまる", "romaji": "tomaru", "en": "to stop; (a computer) to freeze" },
+      { "jp": "電池", "kana": "でんち", "romaji": "denchi", "en": "battery" },
+      { "jp": "切れる", "kana": "きれる", "romaji": "kireru", "en": "to run out (a battery); to be cut off (a call)" },
+      { "jp": "試合", "kana": "しあい", "romaji": "shiai", "en": "match, game (sports)" },
+      { "jp": "地震", "kana": "じしん", "romaji": "jishin", "en": "earthquake" },
+      { "jp": "停電", "kana": "ていでん", "romaji": "teiden", "en": "power outage" },
+      { "jp": "いつの間にか", "kana": "いつのまにか", "romaji": "itsu no ma ni ka", "en": "before I knew it, without noticing" },
+      { "jp": "ずっと", "kana": "ずっと", "romaji": "zutto", "en": "the whole time, all along" }
+    ]
+  },
+  "grammar": [
+    {
+      "id": "P-06-a",
+      "gc": null,
+      "title": "〜うちに",
+      "gloss": "while still… (before it changes) · while doing…, little by little",
+      "explanation": "うち here means \"inside (a period)\". 〜うちに marks a period that **is going to end or change**, and says: do it **inside** that period, **while you still can**.\n• **State + うちに** = while it is still X: 若いうちに (while I'm still young), 熱いうちに (while it's still hot), 学生のうちに (while I'm still a student), 元気なうちに (while I'm still healthy). The main clause is usually something you **decide, want or advise**: 熱いうちに食べてください.\n• **ない + うちに** = before X happens (and spoils things): 暗くならないうちに帰ろう (let's go home before it gets dark) [lit. while it hasn't gotten dark yet]. Compare 暗くなる前に: the meaning is almost the same, but ないうちに stresses \"**while we still have the chance**\".\n• **ている + うちに** has two readings, and the main clause tells you which. With a decision, it is \"while the state lasts\": 子どもが寝ているうちに、掃除しよう (while the kids are still asleep, let's clean). With a **change nobody planned**, it is \"while doing X, little by little and without noticing, Y happened\": 話しているうちに、仲良くなった. That second main clause often ends in 〜なる, 〜てくる or 〜てしまう.\n\n**The sentence, block by block.** [period + うちに] is a **time block**: it answers \"within which period?\". The main action is the PREDICATE at the end. Read it first, then ask: within which period?\n\n**Forms:** verb (dictionary / ている / ない) + うちに · い-adjective + うちに · な-adjective + な + うちに · noun + の + うちに.\n\n**うちに × 間に** (point b): 間に just names a stretch of time with a clear start and end. うちに adds the feeling that **the period will end, so do it now**. 日本にいる間に and 日本にいるうちに are both fine; the second one sounds like \"while I still have the chance\". With 若い, うちに is the usual choice.",
+      "structure": "[verb: dictionary / ている / ない] うちに · [い-adj] うちに · [な-adj] な うちに · [noun] の うちに + main action",
+      "examples": [
+        { "jp": "若いうちに、いろいろな国へ行ってみたいです。", "kana": "わかいうちに、いろいろなくにへいってみたいです。", "romaji": "Wakai uchi ni, iroiro na kuni e itte mitai desu.", "en": "While I'm still young, I want to try going to all sorts of countries.", "noAnat": true },
+        { "jp": "暗くならないうちに、家に帰りましょう。", "kana": "くらくならないうちに、いえにかえりましょう。", "romaji": "Kuraku naranai uchi ni, ie ni kaerimashō.", "en": "Let's go home before it gets dark. [lit. while it hasn't gotten dark yet]", "noAnat": true },
+        { "jp": "日本のドラマを見ているうちに、聞き取れる言葉が増えてきました。", "kana": "にほんのドラマをみているうちに、ききとれることばがふえてきました。", "romaji": "Nihon no dorama o mite iru uchi ni, kikitoreru kotoba ga fuete kimashita.", "en": "As I watched Japanese dramas, the words I can catch gradually grew in number.", "noAnat": true }
+      ],
+      "pitfalls": [
+        "A noun needs の and a な-adjective needs な before うちに: 学生うちに ✗ → 学生のうちに ✓; 元気うちに ✗ → 元気なうちに ✓.",
+        "\"Before it gets dark / before I forget\" uses the negative: 暗くなるうちに ✗ → 暗くならないうちに ✓; 忘れるうちに ✗ → 忘れないうちに ✓ (or 忘れる前に ✓).",
+        "English \"while\" is not always うちに. For two actions at the same time by the same person, use ながら: 音楽を聞くうちに勉強する ✗ → 音楽を聞きながら勉強する ✓.",
+        "The verb before うちに never takes the past form, even in a story about the past: 話したうちに、仲良くなった ✗ → 話しているうちに、仲良くなった ✓."
+      ],
+      "howToStudy": [
+        "Say aloud 3 things you want to do 〜うちに: one with a noun (学生のうちに／休みのうちに), one with an adjective (若いうちに／元気なうちに) and one with ない (忘れないうちに).",
+        "In your notebook, write one true sentence with 〜ているうちに about something that changed without you noticing (your Japanese, a hobby, a friendship). Check that the end is a change (〜なった, 〜てきた), not a plan.",
+        "Speaking: turn 3 sentences with 〜前に into 〜ないうちに out loud: 冷める前に → 冷めないうちに, 雨が降る前に → 雨が降らないうちに, 忘れる前に → 忘れないうちに."
+      ],
+      "flag": null
+    },
+    {
+      "id": "P-06-b",
+      "gc": null,
+      "title": "〜間 × 〜間に",
+      "gloss": "during the whole time × at some point during",
+      "explanation": "間 (あいだ) is a stretch of time. What matters is **whether に comes after it** — and the main verb tells you which one you need. English \"while\" and \"during\" cover both, so this is a choice English never makes for you.\n• **〜間、** (no に) = **the whole period**. The main clause lasts from the start of the period to its end: 夏休みの間、ずっと祖母の家にいました (I stayed at my grandmother's house the whole summer vacation). The main verb is usually continuous: 〜ている, いる, 待つ, 寝る, often with ずっと.\n• **〜間に** = **at some point inside** the period. The main clause is a single event that happens once, somewhere in it: 夏休みの間に、運転免許を取りました (I got my driver's license during summer vacation). You saw this in lesson 21-2.\n• Quick test: can you add ずっと (\"the whole time\")? Then 間. Is it one event that happens once? Then 間に.\n\n**Forms:** verb (usually ている, or a state verb like いる) + 間(に) · い-adjective + 間(に) · な-adjective + な + 間(に) · noun + の + 間(に). Set phrase: **いつの間にか** = \"before I knew it\".\n\n**The sentence, block by block.** [X 間] or [X 間に] is a **time block**. Inside it, a subject takes **が**, not は: **私が**買い物に行っている間に、弟がケーキを食べた. The は-topic belongs to the whole sentence, so it can't live inside the time block. That's how one sentence can hold two different subjects.\n\n**English \"while\" is three things in Japanese:**\n• the same person doing two actions at once → **ながら** (音楽を聞きながら勉強する, lesson 18-3);\n• the whole period, often with a different person → **間**;\n• one event inside the period → **間に**.",
+      "structure": "[period] 間、[action that lasts the whole time] · [period] 間に、[one event inside it]",
+      "examples": [
+        { "jp": "夏休みの間、ずっと祖母の家にいました。", "kana": "なつやすみのあいだ、ずっとそぼのいえにいました。", "romaji": "Natsuyasumi no aida, zutto sobo no ie ni imashita.", "en": "I stayed at my grandmother's house the whole summer vacation.", "noAnat": true },
+        { "jp": "夏休みの間に、運転免許を取りました。", "kana": "なつやすみのあいだに、うんてんめんきょをとりました。", "romaji": "Natsuyasumi no aida ni, unten menkyo o torimashita.", "en": "I got my driver's license during summer vacation.", "noAnat": true },
+        { "jp": "私が買い物に行っている間に、弟がケーキを全部食べてしまった。", "kana": "わたしがかいものにいっているあいだに、おとうとがケーキをぜんぶたべてしまった。", "romaji": "Watashi ga kaimono ni itte iru aida ni, otōto ga kēki o zenbu tabete shimatta.", "en": "While I was out shopping, my little brother ate the whole cake.", "noAnat": true }
+      ],
+      "pitfalls": [
+        "A one-time event needs に: 旅行の間、財布をなくしました ✗ → 旅行の間に、財布をなくしました ✓ (you lost it once, at some point).",
+        "Something that lasts the whole time doesn't take に: 待っている間に、ずっと本を読んでいた ✗ → 待っている間、ずっと本を読んでいた ✓.",
+        "No は inside the time block: 私は寝ている間に、… ✗ → 私が寝ている間に、… ✓.",
+        "ながら needs the same person for both actions: 母が料理しながら、私は掃除した ✗ → 母が料理している間、私は掃除した ✓."
+      ],
+      "howToStudy": [
+        "In your notebook, write the same period twice, once with each form: 電車に乗っている間、ずっと〜 / 電車に乗っている間に、〜. Say both aloud and add ずっと only where it fits.",
+        "Find the two subjects in example 3: 私が lives inside the time block (who was out shopping), 弟が goes with the PREDICATE 食べてしまった (who ate the cake). Read the predicate first, then its subject, then the time block.",
+        "Speaking: describe your last vacation in 30 seconds, with one sentence with 間 (what you did the whole time) and one with 間に (one thing that happened)."
+      ],
+      "flag": null
+    },
+    {
+      "id": "P-06-c",
+      "gc": null,
+      "title": "〜最中に",
+      "gloss": "right in the middle of… (and then something happened)",
+      "explanation": "最中 (さいちゅう) is **the very middle** of an activity — the moment when it is in full swing. 〜最中に almost always introduces something that **interrupts** or **happens unexpectedly** at that exact moment: 会議の最中に、スマホが鳴った (my phone rang right in the middle of the meeting). English says the same with \"right in the middle of\".\n• Forms: **verb-ている + 最中に** (話している最中に) or **noun + の + 最中に** (食事の最中に, 試合の最中に).\n• As a predicate, **〜最中だ／です** means \"I'm right in the middle of it (so I can't stop now)\": 今、レポートを書いている最中です.\n\n**The sentence, block by block.** [activity + 最中に] is a **TIME** block. The PREDICATE at the end is usually the interruption, and its subject is often a thing (a phone, the rain, a computer). Read it first: what happened? → when? → right in the middle of X.\n\n**最中に × 間に × ているところに**\n• **間に**: neutral — something happened at some point in the period, and nothing needs to be interrupted: 旅行の間に、写真を百枚とった.\n• **最中に**: at the peak of the activity, and the event **gets in the way**: 旅行の最中に、財布をなくした.\n• **ているところに** (lesson P-05) can also introduce an interruption, but it only marks the moment. 最中に stresses that the activity was **in full swing**, so the interruption feels bigger.\n• 最中 needs an activity with a beginning and an end (a meeting, a game, a meal, writing something). It doesn't work with states like 住んでいる or 知っている.",
+      "structure": "[verb-ている] 最中に · [noun] の 最中に + what interrupted · 〜最中だ (I'm right in the middle of it)",
+      "examples": [
+        { "jp": "発表の最中に、パソコンが突然止まってしまいました。", "kana": "はっぴょうのさいちゅうに、パソコンがとつぜんとまってしまいました。", "romaji": "Happyō no saichū ni, pasokon ga totsuzen tomatte shimaimashita.", "en": "Right in the middle of my presentation, my computer suddenly froze." },
+        { "jp": "友だちと電話で話している最中に、スマホの電池が切れてしまった。", "kana": "ともだちとでんわではなしているさいちゅうに、スマホのでんちがきれてしまった。", "romaji": "Tomodachi to denwa de hanashite iru saichū ni, sumaho no denchi ga kirete shimatta.", "en": "Right in the middle of a phone call with a friend, my phone's battery died." },
+        { "jp": "今、レポートを書いている最中だから、あとで話してもいい？", "kana": "いま、レポートをかいているさいちゅうだから、あとではなしてもいい？", "romaji": "Ima, repōto o kaite iru saichū dakara, ato de hanashite mo ii?", "en": "I'm right in the middle of writing a report — is it OK if we talk later?" }
+      ],
+      "pitfalls": [
+        "最中 needs an activity in progress, not a state or a long stage of life: 日本に住んでいる最中に ✗ → 日本に住んでいる間に ✓; 学生の最中に ✗ → 学生の間に ✓.",
+        "With a verb, use the ている form: 食べる最中に ✗ → 食べている最中に ✓.",
+        "The same kanji 最中 read もなか is a Japanese sweet (a wafer filled with bean paste). In this grammar it is always さいちゅう: 会議のもなかに ✗ → 会議のさいちゅうに ✓."
+      ],
+      "howToStudy": [
+        "Think of 3 real times you were interrupted (a call, the rain, a power outage…) and write them in your notebook with 〜最中に.",
+        "🔬 Anatomy → Analyze: paste example 2. 話している shows up as DESCRIBES NEXT (it describes 最中), 最中に as TIME, 電池が as SUBJECT and 切れてしまった as the PREDICATE. Read from the end: what died? → when? → right in the middle of the call.",
+        "Speaking: someone asks you to do something right now. Answer in 10 seconds with 〜最中だから, e.g. 今、〜ている最中だから、ちょっと待って。"
+      ],
+      "flag": null
+    }
+  ],
+  "media": [
+    { "order": 1, "kind": "reading", "title": "JLPT Sensei: the pages on 〜うちに, 〜間／〜間に and 〜最中に, with more examples", "where": "Website · JLPT Sensei (grammar lists by level)", "url": "", "search": "JLPT Sensei uchi ni aida ni saichuu ni", "when": "After the grammar block. If the site lists a point at another level, that's fine: unofficial lists vary." },
+    { "order": 2, "kind": "video", "title": "Japanese Ammo with Misa: うちに and 間に (a second explanation)", "where": "YouTube · Japanese Ammo with Misa channel", "url": "", "search": "Japanese Ammo with Misa uchi ni aida ni", "when": "After points a and b. If there's no video covering both, search for each one separately." },
+    { "order": 3, "kind": "input", "title": "NHK NEWS WEB EASY: read one article and hunt for 〜間, 〜間に, 〜うちに or 〜最中", "where": "Website · NHK NEWS WEB EASY", "url": "", "search": "NHK NEWS WEB EASY", "when": "On any day after the lesson. Read it once, then listen to the audio while reading along." }
+  ],
+  "homework": {
+    "intro": "Do it by hand in your notebook. Write with the kanji you already know and use kana for the rest. Only then open the answer key, item by item. Circle what you got wrong and redo it the next day.",
+    "tasks": [
+      {
+        "id": "h1",
+        "type": "fill",
+        "prompt": "Fill in うちに, 間, 間に or 最中に. Look at the main verb for the clue.",
+        "items": [
+          { "q": "熱い＿＿、どうぞ食べてください。", "a": { "jp": "熱いうちに、どうぞ食べてください。", "kana": "あついうちに、どうぞたべてください。", "romaji": "Atsui uchi ni, dōzo tabete kudasai." }, "note": "It's still hot, and it will cool down: うちに." },
+          { "q": "電車を待っている＿＿、ずっと音楽を聞いていました。", "a": { "jp": "電車を待っている間、ずっと音楽を聞いていました。", "kana": "でんしゃをまっているあいだ、ずっとおんがくをきいていました。", "romaji": "Densha o matte iru aida, zutto ongaku o kiite imashita." }, "note": "ずっと = the whole time: 間, without に." },
+          { "q": "留守の＿＿、となりの人が荷物を受け取ってくれました。", "a": { "jp": "留守の間に、となりの人が荷物を受け取ってくれました。", "kana": "るすのあいだに、となりのひとがにもつをうけとってくれました。", "romaji": "Rusu no aida ni, tonari no hito ga nimotsu o uketotte kuremashita." }, "note": "One event, at some point while you were out: 間に." },
+          { "q": "試合の＿＿、急に雨が降ってきた。", "a": { "jp": "試合の最中に、急に雨が降ってきた。", "kana": "しあいのさいちゅうに、きゅうにあめがふってきた。", "romaji": "Shiai no saichū ni, kyū ni ame ga futte kita." }, "note": "Right in the middle, and it interrupted the game: 最中に. 間に is also grammatical, but it loses the idea of an interruption." },
+          { "q": "忘れない＿＿、メモしておきます。", "a": { "jp": "忘れないうちに、メモしておきます。", "kana": "わすれないうちに、メモしておきます。", "romaji": "Wasurenai uchi ni, memo shite okimasu." }, "note": "ない + うちに = before I forget." },
+          { "q": "日本にいる＿＿、一度富士山に登りたい。", "a": { "jp": "日本にいるうちに、一度富士山に登りたい。", "kana": "にほんにいるうちに、いちどふじさんにのぼりたい。", "romaji": "Nihon ni iru uchi ni, ichido Fujisan ni noboritai." }, "note": "Both うちに and 間に work here. うちに adds \"while I still have the chance\"." }
+        ]
+      },
+      {
+        "id": "h2",
+        "type": "transform",
+        "prompt": "Rewrite each sentence with 〜ないうちに instead of 〜前に. The meaning stays almost the same; only the verb before うちに changes.",
+        "items": [
+          { "q": "雨が降る前に、洗濯物を入れましょう。", "a": { "jp": "雨が降らないうちに、洗濯物を入れましょう。", "kana": "あめがふらないうちに、せんたくものをいれましょう。", "romaji": "Ame ga furanai uchi ni, sentakumono o iremashō." }, "note": "降る → 降らない. The main clause doesn't change." },
+          { "q": "料理が冷める前に、食べてください。", "a": { "jp": "料理が冷めないうちに、食べてください。", "kana": "りょうりがさめないうちに、たべてください。", "romaji": "Ryōri ga samenai uchi ni, tabete kudasai." } },
+          { "q": "忘れる前に、電話番号を書いておこう。", "a": { "jp": "忘れないうちに、電話番号を書いておこう。", "kana": "わすれないうちに、でんわばんごうをかいておこう。", "romaji": "Wasurenai uchi ni, denwa bangō o kaite okō." } },
+          { "q": "子どもが起きる前に、朝ご飯を作っておく。", "a": { "jp": "子どもが起きないうちに、朝ご飯を作っておく。", "kana": "こどもがおきないうちに、あさごはんをつくっておく。", "romaji": "Kodomo ga okinai uchi ni, asagohan o tsukutte oku." }, "note": "The subject inside the time block keeps が." }
+        ]
+      },
+      {
+        "id": "h3",
+        "type": "translate",
+        "prompt": "Translate into Japanese.",
+        "items": [
+          { "q": "I want to study abroad while I'm still a student.", "a": { "jp": "学生のうちに、留学したいです。", "kana": "がくせいのうちに、りゅうがくしたいです。", "romaji": "Gakusei no uchi ni, ryūgaku shitai desu." }, "note": "Noun + の + うちに." },
+          { "q": "While I was in the bath, a friend called me.", "a": { "jp": "お風呂に入っている間に、友だちから電話がありました。", "kana": "おふろにはいっているあいだに、ともだちからでんわがありました。", "romaji": "Ofuro ni haitte iru aida ni, tomodachi kara denwa ga arimashita." }, "note": "One event inside the period: 間に." },
+          { "q": "I slept the whole time I was on the plane.", "a": { "jp": "飛行機に乗っている間、ずっと寝ていました。", "kana": "ひこうきにのっているあいだ、ずっとねていました。", "romaji": "Hikōki ni notte iru aida, zutto nete imashita." }, "note": "The whole period: 間, without に." },
+          { "q": "There was an earthquake right in the middle of the exam.", "a": { "jp": "試験の最中に、地震がありました。", "kana": "しけんのさいちゅうに、じしんがありました。", "romaji": "Shiken no saichū ni, jishin ga arimashita." } },
+          { "q": "As I kept talking with her, we gradually became friends.", "a": { "jp": "彼女と話しているうちに、だんだん仲良くなりました。", "kana": "かのじょとはなしているうちに、だんだんなかよくなりました。", "romaji": "Kanojo to hanashite iru uchi ni, dandan nakayoku narimashita." }, "note": "ている + うちに + a change nobody planned." }
+        ]
+      },
+      {
+        "id": "h4",
+        "type": "produce",
+        "prompt": "Write 4 true sentences about your life: one with 〜うちに (something you want to do while you still can), one with 〜ないうちに, one with 〜間 or 〜間に, and one with 〜最中に (a real interruption). Read them aloud and record yourself on your phone.",
+        "items": [
+          { "q": "Model (match its structure, not its words):", "a": { "jp": "若いうちに、日本を一人で旅行したいです。忘れないうちに、新しい単語をノートに書いておきます。去年の夏休みの間に、ひらがなとカタカナを覚えました。先週、オンライン授業の最中に、停電になってしまいました。", "kana": "わかいうちに、にほんをひとりでりょこうしたいです。わすれないうちに、あたらしいたんごをノートにかいておきます。きょねんのなつやすみのあいだに、ひらがなとカタカナをおぼえました。せんしゅう、オンラインじゅぎょうのさいちゅうに、ていでんになってしまいました。", "romaji": "Wakai uchi ni, Nihon o hitori de ryokō shitai desu. Wasurenai uchi ni, atarashii tango o nōto ni kaite okimasu. Kyonen no natsuyasumi no aida ni, hiragana to katakana o oboemashita. Senshū, onrain jugyō no saichū ni, teiden ni natte shimaimashita.", "en": "While I'm still young, I want to travel around Japan on my own. Before I forget them, I write new words down in my notebook. During last year's summer vacation, I learned hiragana and katakana. Last week, the power went out right in the middle of an online class." }, "note": "Check: の after a noun before うちに／間, a negative verb before ないうちに, 間に only for a one-time event, and the interruption as the PREDICATE after 最中に." }
+        ]
+      }
+    ],
+    "workbook": []
+  },
+  "practice": [
+    { "tool": "Wagotabi", "what": "Play in the game's N3 area. Hunt for 〜うちに, 〜間 / 〜間に and 〜最中 in the dialogues. When you find one, pause and say out loud which period it marks and whether the main verb lasts the whole time or happens once. Log the session in Immersion → Games and paste one of those lines into 🔬 Anatomy.", "min": 15 },
+    { "tool": "NHK NEWS WEB EASY", "what": "Read one article and listen to its audio. News often uses 間 for periods (\"during the holidays\") and also for places (\"between A and B\"). Copy one sentence with 間 and say which meaning it has and, for time, whether the main verb lasts the whole period or happens once.", "min": 10 },
+    { "tool": "ヅオリンゴー · Journal", "what": "Write 5 sentences of your own: 〜うちに, 〜ないうちに, 〜ているうちに (a change), 〜間 or 〜間に, and 〜最中に. Use \"Anatomy of what I wrote\" and check that the time block comes before the predicate, and that any subject inside it takes が.", "min": 10 },
+    { "tool": "Shadowing", "what": "Tap 🔊 on each example in this lesson and repeat along 3 times. Keep あいだ and あいだに clearly different: the に is short, but it must be heard.", "min": 5 },
+    { "tool": "Speaking", "what": "Record 30 seconds about your last trip or vacation: what you did the whole time (間), one thing that happened (間に) and one interruption (最中に). Listen and check the に.", "min": 5 }
+  ],
+  "culture": {
+    "title": "Fireworks festivals (はなびたいかい)",
+    "titleJp": "花火大会",
+    "body": "In summer, especially in July and August, towns all over Japan hold **花火大会** (はなびたいかい), fireworks festivals, often by a river, a lake or the sea. The big ones can draw hundreds of thousands of people, so trains and stations nearby get extremely crowded. Many people go in a **yukata** (ゆかた), and food stalls (屋台, やたい) line the streets. It's common to arrive hours early and spread a plastic sheet to save a good spot (場所取り, ばしょとり). You may hear people shout **たまや！** when a big firework bursts: it's the name of a fireworks maker from the Edo period. Shows can be postponed or cancelled because of bad weather, so people usually check the organizer's announcements on the day.",
+    "try": "Plan a fireworks night in Japanese, in your notebook: 暗くならないうちに、場所を取ろう。／花火を見ている間、ずっと〜。／花火の最中に雨が降ってきたら、どうする？ Then say たまや！ out loud — at the right moment."
+  },
+  "checklist": [
+    "I can say 3 things I want to do 〜うちに (with a noun, an adjective and ない) without looking.",
+    "I know that \"before I forget\" is 忘れないうちに (negative) or 忘れる前に.",
+    "I can tell about a gradual, unplanned change with 〜ているうちに.",
+    "I choose 間 (the whole time) or 間に (one event) by checking the main verb, and I use ずっと as a test.",
+    "I use が, not は, for a subject inside a 間 / 間に time block.",
+    "I can say what interrupted me with 〜最中に and explain how it differs from 間に.",
+    "I did the homework, checked it against the answer key and redid what I got wrong."
+  ]
+}

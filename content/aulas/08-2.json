@@ -2,54 +2,54 @@
   "id": "08-2",
   "unit": "G1-L08",
   "genki": { "book": "Genki I", "lesson": 8, "points": ["Quotations (〜と思います)", "Quotations (〜と言っていました)"] },
-  "title": "Citar e opinar",
+  "title": "Quoting and giving opinions",
   "titleJp": "日本語は おもしろいと 思います",
   "canDo": [
-    "Dar a minha opinião com 〜と 思います, colocando a ideia na forma curta antes do と.",
-    "Dizer \"acho que não…\" (〜ないと 思います) e \"não acho que…\" (〜と 思いません).",
-    "Lembrar do だ antes do と com substantivo e adjetivo な (学生だと 思います, かんたんだと 思います).",
-    "Repassar o que outra pessoa disse com [pessoa]は 〜と 言っていました."
+    "I can give my opinion with 〜と 思います, putting the idea in the short form before と.",
+    "I can say \"I don't think…\" the usual Japanese way (〜ないと 思います) and disagree with an idea (〜と 思いません).",
+    "I remember the だ before と with nouns and な-adjectives (学生だと 思います, かんたんだと 思います).",
+    "I can pass on what someone else said with [person]は 〜と 言っていました."
   ],
   "duration": {
     "total": "60–75 min",
     "blocks": [
-      { "t": "Aquecimento: passar 8 frases educadas para a forma curta, em voz alta (Aula 08-1)", "min": 5 },
-      { "t": "Vocabulário: ouvir 🔊 cada palavra e repetir 2 vezes", "min": 10 },
-      { "t": "Gramática: os 2 pontos, cada um com os exemplos lidos em voz alta e um 🔬", "min": 25 },
-      { "t": "Vídeo da Lição 8 (bloco 6), pausando nos exemplos com と", "min": 10 },
-      { "t": "Lição de casa no caderno + conferir no gabarito", "min": 15 },
-      { "t": "Checklist (bloco 10) + anotar dúvidas no caderno da aula", "min": 5 }
+      { "t": "Warm-up: turn 8 polite sentences into the short form, out loud (lesson 08-1)", "min": 5 },
+      { "t": "Vocabulary: tap 🔊 on each word and repeat it twice", "min": 10 },
+      { "t": "Grammar: the 2 points, each with its examples read aloud and one 🔬", "min": 25 },
+      { "t": "Lesson 8 video (block 6), pausing on the examples with と", "min": 10 },
+      { "t": "Notebook homework + checking it against the answer key", "min": 15 },
+      { "t": "Checklist (block 10) + write your questions in the lesson notebook", "min": 5 }
     ]
   },
   "prereqs": {
     "aulas": ["08-1"],
     "skills": [
-      "Formar a forma curta do presente de verbos, adjetivos い e な e substantivos, no afirmativo e no negativo (Aula 08-1).",
-      "Saber que だ só aparece com adjetivo な e substantivo, nunca depois de adjetivo い (Aula 08-1).",
-      "Conhecer a forma て de 言う (言って) e o 〜ている (Aulas 06-1 e 07-1)."
+      "Forming the present short form of verbs, い-adjectives, な-adjectives and nouns, affirmative and negative (lesson 08-1).",
+      "Knowing that だ only appears with な-adjectives and nouns, never after an い-adjective (lesson 08-1).",
+      "Knowing the て-form of 言う (言って) and 〜ている (lessons 06-1 and 07-1)."
     ],
     "vocab": [
-      { "jp": "思う", "kana": "おもう", "romaji": "omou", "pt": "pensar, achar · verbo う" },
-      { "jp": "言う", "kana": "いう", "romaji": "iu", "pt": "dizer · verbo う (言わない, 言って)" },
-      { "jp": "そう", "kana": "そう", "romaji": "sō", "pt": "assim, desse jeito (そう 思います = acho que sim)" },
-      { "jp": "お父さん", "kana": "おとうさん", "romaji": "otōsan", "pt": "pai (de outra pessoa)" },
-      { "jp": "母", "kana": "はは", "romaji": "haha", "pt": "(minha) mãe" },
-      { "jp": "パーティー", "kana": "パーティー", "romaji": "pātī", "pt": "festa" },
-      { "jp": "次", "kana": "つぎ", "romaji": "tsugi", "pt": "próximo, seguinte" },
-      { "jp": "休み", "kana": "やすみ", "romaji": "yasumi", "pt": "folga, feriado, férias" },
-      { "jp": "ドラマ", "kana": "ドラマ", "romaji": "dorama", "pt": "série, novela (de TV)" },
-      { "jp": "しゅくだい", "kana": "しゅくだい", "romaji": "shukudai", "pt": "lição de casa" },
-      { "jp": "テスト", "kana": "テスト", "romaji": "tesuto", "pt": "prova, teste" },
-      { "jp": "レストラン", "kana": "レストラン", "romaji": "resutoran", "pt": "restaurante" },
-      { "jp": "むずかしい", "kana": "むずかしい", "romaji": "muzukashii", "pt": "difícil · adjetivo い" },
-      { "jp": "かんたん(な)", "kana": "かんたん(な)", "romaji": "kantan (na)", "pt": "fácil, simples · adjetivo な" },
-      { "jp": "ゆうめい(な)", "kana": "ゆうめい(な)", "romaji": "yūmei (na)", "pt": "famoso · adjetivo な" },
-      { "jp": "べんり(な)", "kana": "べんり(な)", "romaji": "benri (na)", "pt": "prático, conveniente · adjetivo な" },
-      { "jp": "すき(な)", "kana": "すき(な)", "romaji": "suki (na)", "pt": "que se gosta · adjetivo な (Xが すき = gostar de X)" },
-      { "jp": "ひま(な)", "kana": "ひま(な)", "romaji": "hima (na)", "pt": "livre, desocupado · adjetivo な" },
-      { "jp": "電車", "kana": "でんしゃ", "romaji": "densha", "pt": "trem" },
-      { "jp": "カレー", "kana": "カレー", "romaji": "karē", "pt": "curry (prato)" },
-      { "jp": "こんばん", "kana": "こんばん", "romaji": "konban", "pt": "hoje à noite" }
+      { "jp": "思う", "kana": "おもう", "romaji": "omou", "en": "to think · う-verb" },
+      { "jp": "言う", "kana": "いう", "romaji": "iu", "en": "to say · う-verb (言わない, 言って)" },
+      { "jp": "そう", "kana": "そう", "romaji": "sō", "en": "so, that way (そう 思います = I think so)" },
+      { "jp": "お父さん", "kana": "おとうさん", "romaji": "otōsan", "en": "father (someone else's)" },
+      { "jp": "母", "kana": "はは", "romaji": "haha", "en": "(my) mother" },
+      { "jp": "パーティー", "kana": "パーティー", "romaji": "pātī", "en": "party" },
+      { "jp": "次", "kana": "つぎ", "romaji": "tsugi", "en": "next" },
+      { "jp": "休み", "kana": "やすみ", "romaji": "yasumi", "en": "day off, holiday, vacation, break" },
+      { "jp": "ドラマ", "kana": "ドラマ", "romaji": "dorama", "en": "TV drama, TV series" },
+      { "jp": "しゅくだい", "kana": "しゅくだい", "romaji": "shukudai", "en": "homework" },
+      { "jp": "テスト", "kana": "テスト", "romaji": "tesuto", "en": "test, exam" },
+      { "jp": "レストラン", "kana": "レストラン", "romaji": "resutoran", "en": "restaurant" },
+      { "jp": "むずかしい", "kana": "むずかしい", "romaji": "muzukashii", "en": "difficult · い-adjective" },
+      { "jp": "かんたん(な)", "kana": "かんたん(な)", "romaji": "kantan (na)", "en": "easy, simple · な-adjective" },
+      { "jp": "ゆうめい(な)", "kana": "ゆうめい(な)", "romaji": "yūmei (na)", "en": "famous · な-adjective" },
+      { "jp": "べんり(な)", "kana": "べんり(な)", "romaji": "benri (na)", "en": "convenient · な-adjective" },
+      { "jp": "すき(な)", "kana": "すき(な)", "romaji": "suki (na)", "en": "liked · な-adjective (Xが すき = to like X)" },
+      { "jp": "ひま(な)", "kana": "ひま(な)", "romaji": "hima (na)", "en": "free, not busy · な-adjective" },
+      { "jp": "電車", "kana": "でんしゃ", "romaji": "densha", "en": "train" },
+      { "jp": "カレー", "kana": "カレー", "romaji": "karē", "en": "curry (the dish)" },
+      { "jp": "こんばん", "kana": "こんばん", "romaji": "konban", "en": "tonight, this evening" }
     ]
   },
   "grammar": [
@@ -57,24 +57,24 @@
       "id": "08-2-a",
       "gc": "8-3",
       "title": "〜と 思います",
-      "gloss": "acho que…",
-      "explanation": "Para dar uma opinião ou um palpite, diga a ideia na **forma curta** e feche com **と 思います** (\"acho que…\"). A frase tem duas camadas:\n• o **conteúdo** (o que você acha), na forma curta, preso ao **と**, que funciona como aspas;\n• o **predicado principal**, 思います, no fim. É por ele que você começa a ler: \"acho… o quê? → [conteúdo]\".\n• **Verbo e adjetivo い** entram direto: くると 思います, 高いと 思います, 高くないと 思います.\n• **Substantivo e adjetivo な** precisam do **だ**: 学生**だ**と 思います, かんたん**だ**と 思います. Sem o だ, a frase fica errada.\n• **Negativo, dois jeitos**: (1) negar o conteúdo: 高くない**と 思います** (\"acho que não é caro\"), o jeito mais comum de dar uma opinião negativa; (2) negar o \"achar\": 高いと **思いません** (\"não acho que seja caro\"), que soa mais como discordar de alguém.\n• \"Acho que sim\" é **そう 思います**, sem と.\n• 思います, no fim da frase, é a opinião **de quem fala**. Para perguntar a do outro: どう 思いますか (\"o que você acha?\"). Para a opinião de outra pessoa, use o ponto 4b.\n• Entre amigos, a mesma frase termina em 思う: 高いと 思う。\nO presente da forma curta também serve para o futuro: ペドロさんは くると 思います (\"acho que o Pedro vem\").",
-      "structure": "[forma curta] と 思います · [substantivo / adj な] だと 思います",
+      "gloss": "I think (that)…",
+      "explanation": "To give an opinion or a guess, say the idea in the **short form** and close with **と 思います** (\"I think…\"). The sentence has two layers:\n• the **content** (what you think), in the short form, attached to **と**, which works like quotation marks;\n• the **main predicate**, 思います, at the end. That is where you start reading: \"I think… what? → [content]\".\n• **Verbs and い-adjectives** go in directly: くると 思います, 高いと 思います, 高くないと 思います.\n• **Nouns and な-adjectives** need **だ**: 学生**だ**と 思います, かんたん**だ**と 思います. Without the だ, the sentence is wrong.\n• **Negative, two ways**: (1) negate the content: 高くない**と 思います** (lit. \"I think it isn't expensive\"). This is the usual way to say what English says as \"I don't think it's expensive\". (2) Negate the thinking: 高いと **思いません** (\"I don't think it's expensive\"), which sounds more like disagreeing with an idea.\n• \"I think so\" is **そう 思います**, without と.\n• 思います at the end of a sentence is **the speaker's** opinion. To ask for someone else's: どう 思いますか (\"what do you think?\"). To report another person's opinion, use point 4b.\n• Among friends, the same sentence ends in 思う: 高いと 思う。\nThe present short form also covers the future: ペドロさんは くると 思います (\"I think Pedro will come\").",
+      "structure": "[short form] と 思います · [noun / な-adj] だと 思います",
       "examples": [
-        { "jp": "日本語は あまり むずかしくないと 思います。", "kana": "にほんごは あまり むずかしくないと おもいます。", "romaji": "Nihongo wa amari muzukashikunai to omoimasu.", "pt": "Acho que o japonês não é tão difícil." },
-        { "jp": "あの 人は ペドロさんの お父さんだと 思います。", "kana": "あの ひとは ペドロさんの おとうさんだと おもいます。", "romaji": "Ano hito wa Pedoro-san no otōsan da to omoimasu.", "pt": "Acho que aquele senhor é o pai do Pedro." },
-        { "jp": "マリアさんは 今日の パーティーに こないと 思います。", "kana": "マリアさんは きょうの パーティーに こないと おもいます。", "romaji": "Maria-san wa kyō no pātī ni konai to omoimasu.", "pt": "Acho que a Maria não vem à festa de hoje." }
+        { "jp": "日本語は あまり むずかしくないと 思います。", "kana": "にほんごは あまり むずかしくないと おもいます。", "romaji": "Nihongo wa amari muzukashikunai to omoimasu.", "en": "I think Japanese isn't that difficult. [lit. as for Japanese, not very difficult, I think]" },
+        { "jp": "あの 人は ペドロさんの お父さんだと 思います。", "kana": "あの ひとは ペドロさんの おとうさんだと おもいます。", "romaji": "Ano hito wa Pedoro-san no otōsan da to omoimasu.", "en": "I think that person is Pedro's father." },
+        { "jp": "マリアさんは 今日の パーティーに こないと 思います。", "kana": "マリアさんは きょうの パーティーに こないと おもいます。", "romaji": "Maria-san wa kyō no pātī ni konai to omoimasu.", "en": "I think Maria isn't coming to today's party." }
       ],
       "pitfalls": [
-        "Esquecer o だ: 学生と 思います ✗ → 学生だと 思います ✓. Com adjetivo な também: かんたんと 思います ✗ → かんたんだと 思います ✓.",
-        "Pôr です / ます antes do と: 高いですと 思います ✗ → 高いと 思います ✓. O conteúdo vai na forma curta; a educação fica só no 思います.",
-        "Pôr だ depois de adjetivo い: 高いだと 思います ✗ → 高いと 思います ✓.",
-        "\"Acho que sim\" não leva と: そうと 思います ✗ → そう 思います ✓."
+        "Forgetting だ: 学生と 思います ✗ → 学生だと 思います ✓. The same with な-adjectives: かんたんと 思います ✗ → かんたんだと 思います ✓.",
+        "Putting です / ます before と: 高いですと 思います ✗ → 高いと 思います ✓. The content goes in the short form; the politeness lives only in 思います.",
+        "Putting だ after an い-adjective: 高いだと 思います ✗ → 高いと 思います ✓.",
+        "\"I think so\" takes no と: そうと 思います ✗ → そう 思います ✓."
       ],
       "howToStudy": [
-        "Escolha 5 coisas (uma comida, uma cidade, um jogo, uma matéria, uma pessoa famosa) e dê uma opinião sobre cada uma em voz alta com 〜と 思います. Pelo menos 2 com substantivo ou adjetivo な, para treinar o だ.",
-        "Aperte 🔬 no exemplo do pai do Pedro: お父さんだと aparece como CITAÇÃO (com ペドロさんの descrevendo-o), e o PREDICADO é 思います. Leia assim: acho → o quê? → que é o pai do Pedro.",
-        "Pegue as frases da lição de casa da Aula 08-1 (h2) e acrescente と 思います a cada uma, sem mudar nada além disso: 高い → 高いと 思います; 学生だ → 学生だと 思います."
+        "Pick 5 things (a food, a city, a game, a school subject, a famous person) and give an opinion on each out loud with 〜と 思います. Make at least 2 of them with a noun or a な-adjective, to practice the だ.",
+        "Tap 🔬 on the Pedro's father example: お父さんだと shows up as QUOTE (with ペドロさんの as DESCRIBES NEXT), and the PREDICATE is 思います. Read it like this: I think → what? → that he is Pedro's father.",
+        "Take the sentences from lesson 08-1's homework (h2) and add と 思います to each one, changing nothing else: 高い → 高いと 思います; 学生だ → 学生だと 思います."
       ],
       "flag": null
     },
@@ -82,105 +82,105 @@
       "id": "08-2-b",
       "gc": "8-4",
       "title": "〜と 言っていました",
-      "gloss": "(alguém) disse que…",
-      "explanation": "Para contar o que outra pessoa disse, a estrutura é a mesma do ponto 4a: **conteúdo na forma curta + と**, e no fim **言っていました** (\"disse que…\").\n• [pessoa] **は** + [o que ela disse] **と** + 言っていました. O tópico (は) é **quem falou**; o bloco com と é **o que foi dito**; o predicado é 言っていました.\n• As regras de encaixe não mudam: verbo e adjetivo い entram direto; **substantivo e adjetivo な levam だ**: ひまだと 言っていました, 学生だと 言っていました.\n• Por que 言っていました (forma ている no passado) e não só 言いました? Na prática, 言っていました é o jeito mais comum de **repassar um recado** ou uma informação (\"ela comentou que…\"). 言いました também existe, mas soa mais como relatar o momento exato da fala. Por enquanto, use 言っていました.\n• O conteúdo fica **como a pessoa falou**. Se ela disse \"vou\", fica 行くと 言っていました; não é preciso passar o verbo para o passado, como fazemos em português (\"disse que ia\").\n• Leitura: 言う se escreve いう, mas costuma soar como \"yuu\". A forma て é **言って** (itte), com っ.",
-      "structure": "[pessoa] は [forma curta] と 言っていました。",
+      "gloss": "(someone) said that…",
+      "explanation": "To report what someone else said, the structure is the same as in point 4a: **content in the short form + と**, and at the end **言っていました** (\"said that…\").\n• [person] **は** + [what they said] **と** + 言っていました. The topic (は) is **who spoke**; the block with と is **what was said**; the predicate is 言っていました.\n• The rules for attaching the content don't change: verbs and い-adjectives go in directly; **nouns and な-adjectives take だ**: ひまだと 言っていました, 学生だと 言っていました.\n• Why 言っていました (the ている form in the past) and not just 言いました? In practice, 言っていました is the most common way to **pass on a message** or a piece of information (\"she mentioned that…\"). 言いました exists too, but it sounds more like reporting the exact moment someone spoke. For now, use 言っていました.\n• The content stays **the way the person said it**. English usually shifts the tense back (\"she said she would go\"); Japanese keeps the original: if she said \"I'll go\", it stays 行くと 言っていました.\n• Pronunciation: 言う is written いう but usually sounds like \"yuu\". Its て-form is **言って** (itte), with っ.",
+      "structure": "[person] は [short form] と 言っていました。",
       "examples": [
-        { "jp": "すずきさんは 次の 休みに 東京に 帰ると 言っていました。", "kana": "すずきさんは つぎの やすみに とうきょうに かえると いっていました。", "romaji": "Suzuki-san wa tsugi no yasumi ni Tōkyō ni kaeru to itte imashita.", "pt": "A Sra. Suzuki disse que vai voltar para Tóquio nas próximas férias." },
-        { "jp": "アナさんは 日本の ドラマが すきだと 言っていました。", "kana": "アナさんは にほんの ドラマが すきだと いっていました。", "romaji": "Ana-san wa Nihon no dorama ga suki da to itte imashita.", "pt": "A Ana disse que gosta de séries japonesas." },
-        { "jp": "先生は あしたは しゅくだいが ないと 言っていました。", "kana": "せんせいは あしたは しゅくだいが ないと いっていました。", "romaji": "Sensei wa ashita wa shukudai ga nai to itte imashita.", "pt": "O(A) professor(a) disse que amanhã não tem lição de casa." }
+        { "jp": "すずきさんは 次の 休みに 東京に 帰ると 言っていました。", "kana": "すずきさんは つぎの やすみに とうきょうに かえると いっていました。", "romaji": "Suzuki-san wa tsugi no yasumi ni Tōkyō ni kaeru to itte imashita.", "en": "Ms. Suzuki said she's going back to Tokyo on her next break." },
+        { "jp": "アナさんは 日本の ドラマが すきだと 言っていました。", "kana": "アナさんは にほんの ドラマが すきだと いっていました。", "romaji": "Ana-san wa Nihon no dorama ga suki da to itte imashita.", "en": "Ana said she likes Japanese TV dramas." },
+        { "jp": "先生は あしたは しゅくだいが ないと 言っていました。", "kana": "せんせいは あしたは しゅくだいが ないと いっていました。", "romaji": "Sensei wa ashita wa shukudai ga nai to itte imashita.", "en": "The teacher said there's no homework tomorrow." }
       ],
       "pitfalls": [
-        "Esquecer o だ: ひまと 言っていました ✗ → ひまだと 言っていました ✓.",
-        "Esquecer o っ: 言ていました ✗ / いてました ✗ → 言っていました (itte imashita) ✓.",
-        "Usar 思います para falar da opinião de outra pessoa. 思います, no fim, é sempre a opinião de quem fala. Para repassar o que o outro acha, conte o que ele disse: ペドロさんは 高いと 言っていました ✓.",
-        "Passar o conteúdo para o passado, à moda do português: se a Ana disse あした 行きます, repasse como あした 行くと 言っていました ✓, mantendo o 行く."
+        "Forgetting だ: ひまと 言っていました ✗ → ひまだと 言っていました ✓.",
+        "Forgetting っ: 言ていました ✗ / いてました ✗ → 言っていました (itte imashita) ✓.",
+        "Using 思います for someone else's opinion. 思います at the end is always the speaker's opinion. To pass on what another person thinks, report what they said: ペドロさんは 高いと 言っていました ✓.",
+        "Shifting the content into the past, the English way: if Ana said あした 行きます, pass it on as あした 行くと 言っていました ✓, keeping 行く."
       ],
       "howToStudy": [
-        "Pense em 3 coisas que alguém disse para você hoje (em casa, no trabalho, numa mensagem) e repasse cada uma em japonês: [pessoa]は 〜と 言っていました.",
-        "Aperte 🔬 no exemplo da Ana e diga a função de cada bloco antes de traduzir: TÓPICO (アナさんは, quem falou) → o conteúdo, que termina na CITAÇÃO (すきだと) → PREDICADO (言っていました).",
-        "Diga 言っていました em voz alta 5 vezes, marcando a pausa do っ: it-te i-ma-shi-ta. Depois, diga os 3 exemplos inteiros."
+        "Think of 3 things someone told you today (at home, at work, in a message) and pass each one on in Japanese: [person]は 〜と 言っていました.",
+        "Tap 🔬 on the Ana example and say each block's job before translating: TOPIC (アナさんは, who spoke) → the content, which ends in the QUOTE (すきだと) → PREDICATE (言っていました).",
+        "Say 言っていました out loud 5 times, marking the pause of the っ: it-te i-ma-shi-ta. Then say the 3 examples in full."
       ],
       "flag": null
     }
   ],
   "media": [
-    { "order": 1, "kind": "leitura", "title": "Genki I · Lição 8: as explicações de Quotations (〜と思います e 〜と言っていました)", "where": "Seu livro Genki I (3ª ed.)", "url": "", "when": "Antes desta aula ou logo depois do bloco de gramática" },
-    { "order": 2, "kind": "video", "title": "ToKini Andy: aula da Lição 8 do Genki I (〜と思います e 〜と言っていました)", "where": "YouTube · canal ToKini Andy", "url": "", "search": "ToKini Andy Genki Lesson 8 to omoimasu", "when": "Depois de estudar os 2 pontos: o vídeo confirma e dá mais exemplos" },
-    { "order": 3, "kind": "app", "title": "genki-companion: Lição 8, pontos 3 e 4 (marque ✍️ quando terminar)", "where": "../genki-companion/index.html", "url": "../genki-companion/index.html", "when": "No fim, para revisar e marcar o progresso" }
+    { "order": 1, "kind": "reading", "title": "Genki I · Lesson 8: the grammar notes on Quotations (〜と思います and 〜と言っていました)", "where": "Your Genki I textbook (3rd ed.)", "url": "", "when": "Before this lesson or right after the grammar block" },
+    { "order": 2, "kind": "video", "title": "Japanese Ammo with Misa: と 思います (I think) and quoting what someone said", "where": "YouTube · Japanese Ammo with Misa channel", "url": "", "search": "Japanese Ammo with Misa to omoimasu quotation", "when": "Optional, after the 2 points, if you want more examples" },
+    { "order": 3, "kind": "app", "title": "genki-companion: Lesson 8, points 3 and 4 (tick ✍️ when you finish)", "where": "../genki-companion/index.html", "url": "../genki-companion/index.html", "when": "At the end, to review and mark your progress" }
   ],
   "homework": {
-    "intro": "Faça no caderno, à mão. Escreva os kanji que você já conhece e o resto em kana. Só depois abra o gabarito, item por item. Circule o que errou e refaça no dia seguinte.",
+    "intro": "Do it by hand in your notebook. Write the kanji you already know and the rest in kana. Only then open the answer key, item by item. Circle what you got wrong and redo it the next day.",
     "tasks": [
       {
         "id": "h1",
-        "type": "transformar",
-        "prompt": "Transforme cada frase em uma opinião com 〜と 思います.",
+        "type": "transform",
+        "prompt": "Turn each sentence into an opinion with 〜と 思います.",
         "items": [
-          { "q": "この 本は 高いです。", "a": { "jp": "この 本は 高いと 思います。", "kana": "この ほんは たかいと おもいます。", "romaji": "Kono hon wa takai to omoimasu." }, "note": "Adjetivo い: tire o です e ponha と 思います." },
-          { "q": "たなかさんは 先生です。", "a": { "jp": "たなかさんは 先生だと 思います。", "kana": "たなかさんは せんせいだと おもいます。", "romaji": "Tanaka-san wa sensei da to omoimasu." }, "note": "Substantivo: です vira だ, e o だ fica." },
-          { "q": "この テストは かんたんです。", "a": { "jp": "この テストは かんたんだと 思います。", "kana": "この テストは かんたんだと おもいます。", "romaji": "Kono tesuto wa kantan da to omoimasu." }, "note": "Adjetivo な também leva だ." },
-          { "q": "ルーカスさんは 今日 大学に 行きません。", "a": { "jp": "ルーカスさんは 今日 大学に 行かないと 思います。", "kana": "ルーカスさんは きょう だいがくに いかないと おもいます。", "romaji": "Rūkasu-san wa kyō daigaku ni ikanai to omoimasu." }, "note": "行きません vira 行かない." },
-          { "q": "あの レストランは よくないです。", "a": { "jp": "あの レストランは よくないと 思います。", "kana": "あの レストランは よくないと おもいます。", "romaji": "Ano resutoran wa yokunai to omoimasu." }, "note": "Só tire o です: よくない." }
+          { "q": "この 本は 高いです。", "a": { "jp": "この 本は 高いと 思います。", "kana": "この ほんは たかいと おもいます。", "romaji": "Kono hon wa takai to omoimasu." }, "note": "い-adjective: take off です and add と 思います." },
+          { "q": "たなかさんは 先生です。", "a": { "jp": "たなかさんは 先生だと 思います。", "kana": "たなかさんは せんせいだと おもいます。", "romaji": "Tanaka-san wa sensei da to omoimasu." }, "note": "Noun: です becomes だ, and the だ stays." },
+          { "q": "この テストは かんたんです。", "a": { "jp": "この テストは かんたんだと 思います。", "kana": "この テストは かんたんだと おもいます。", "romaji": "Kono tesuto wa kantan da to omoimasu." }, "note": "な-adjectives take だ too." },
+          { "q": "ルーカスさんは 今日 大学に 行きません。", "a": { "jp": "ルーカスさんは 今日 大学に 行かないと 思います。", "kana": "ルーカスさんは きょう だいがくに いかないと おもいます。", "romaji": "Rūkasu-san wa kyō daigaku ni ikanai to omoimasu." }, "note": "行きません becomes 行かない." },
+          { "q": "あの レストランは よくないです。", "a": { "jp": "あの レストランは よくないと 思います。", "kana": "あの レストランは よくないと おもいます。", "romaji": "Ano resutoran wa yokunai to omoimasu." }, "note": "Just take off です: よくない." }
         ]
       },
       {
         "id": "h2",
-        "type": "traduzir",
-        "prompt": "Traduza para o japonês.",
+        "type": "translate",
+        "prompt": "Translate into Japanese.",
         "items": [
-          { "q": "Acho que o japonês é interessante.", "a": { "jp": "日本語は おもしろいと 思います。", "kana": "にほんごは おもしろいと おもいます。", "romaji": "Nihongo wa omoshiroi to omoimasu." } },
-          { "q": "Acho que o Pedro não bebe café.", "a": { "jp": "ペドロさんは コーヒーを 飲まないと 思います。", "kana": "ペドロさんは コーヒーを のまないと おもいます。", "romaji": "Pedoro-san wa kōhī o nomanai to omoimasu." } },
-          { "q": "Não acho que aquele restaurante seja famoso.", "a": { "jp": "あの レストランは ゆうめいだと 思いません。", "kana": "あの レストランは ゆうめいだと おもいません。", "romaji": "Ano resutoran wa yūmei da to omoimasen." }, "note": "Aqui se nega o 思う. Também está certo ゆうめいじゃないと 思います (\"acho que não é famoso\"), o jeito mais comum de dar opinião." },
-          { "q": "Acho que sim.", "a": { "jp": "そう 思います。", "kana": "そう おもいます。", "romaji": "Sō omoimasu." }, "note": "Sem と." },
-          { "q": "O Lucas disse que não vem amanhã.", "a": { "jp": "ルーカスさんは あした こないと 言っていました。", "kana": "ルーカスさんは あした こないと いっていました。", "romaji": "Rūkasu-san wa ashita konai to itte imashita." }, "note": "くる → こない." },
-          { "q": "A professora disse que a prova de amanhã é fácil.", "a": { "jp": "先生は あしたの テストは かんたんだと 言っていました。", "kana": "せんせいは あしたの テストは かんたんだと いっていました。", "romaji": "Sensei wa ashita no tesuto wa kantan da to itte imashita." }, "note": "かんたん é adjetivo な: leva だ antes do と." }
+          { "q": "I think Japanese is interesting.", "a": { "jp": "日本語は おもしろいと 思います。", "kana": "にほんごは おもしろいと おもいます。", "romaji": "Nihongo wa omoshiroi to omoimasu." } },
+          { "q": "I don't think Pedro drinks coffee.", "a": { "jp": "ペドロさんは コーヒーを 飲まないと 思います。", "kana": "ペドロさんは コーヒーを のまないと おもいます。", "romaji": "Pedoro-san wa kōhī o nomanai to omoimasu." }, "note": "English negates \"think\"; Japanese usually negates the content: 飲まないと 思います (lit. I think he doesn't drink)." },
+          { "q": "I don't think that restaurant is famous. (This time, negate 思います.)", "a": { "jp": "あの レストランは ゆうめいだと 思いません。", "kana": "あの レストランは ゆうめいだと おもいません。", "romaji": "Ano resutoran wa yūmei da to omoimasen." }, "note": "Here the thinking itself is negated, which sounds like disagreeing. In everyday speech, ゆうめいじゃないと 思います is the more common way to give this opinion." },
+          { "q": "I think so.", "a": { "jp": "そう 思います。", "kana": "そう おもいます。", "romaji": "Sō omoimasu." }, "note": "No と." },
+          { "q": "Lucas said he isn't coming tomorrow.", "a": { "jp": "ルーカスさんは あした こないと 言っていました。", "kana": "ルーカスさんは あした こないと いっていました。", "romaji": "Rūkasu-san wa ashita konai to itte imashita." }, "note": "くる → こない." },
+          { "q": "The teacher said tomorrow's test is easy.", "a": { "jp": "先生は あしたの テストは かんたんだと 言っていました。", "kana": "せんせいは あしたの テストは かんたんだと いっていました。", "romaji": "Sensei wa ashita no tesuto wa kantan da to itte imashita." }, "note": "かんたん is a な-adjective: it takes だ before と." }
         ]
       },
       {
         "id": "h3",
-        "type": "transformar",
-        "prompt": "Cada pessoa disse a frase entre 「」. Repasse o recado com 〜と 言っていました.",
+        "type": "transform",
+        "prompt": "Each person said the sentence in 「」. Pass on the message with 〜と 言っていました.",
         "items": [
-          { "q": "すずき：「あした 仕事を 休みます。」", "a": { "jp": "すずきさんは あした 仕事を 休むと 言っていました。", "kana": "すずきさんは あした しごとを やすむと いっていました。", "romaji": "Suzuki-san wa ashita shigoto o yasumu to itte imashita." }, "note": "休みます vira 休む. Ao repassar, ponha さん no nome." },
-          { "q": "アナ：「私は ねこが すきです。」", "a": { "jp": "アナさんは ねこが すきだと 言っていました。", "kana": "アナさんは ねこが すきだと いっていました。", "romaji": "Ana-san wa neko ga suki da to itte imashita." }, "note": "O 私は some: agora quem fala é você. すき é adjetivo な: すきだと." },
-          { "q": "やまだ：「今日は ひまじゃないです。」", "a": { "jp": "やまださんは 今日は ひまじゃないと 言っていました。", "kana": "やまださんは きょうは ひまじゃないと いっていました。", "romaji": "Yamada-san wa kyō wa hima ja nai to itte imashita." }, "note": "ひまじゃないです → ひまじゃない. Não precisa de だ: a negativa já termina em ない." },
+          { "q": "すずき：「あした 仕事を 休みます。」", "a": { "jp": "すずきさんは あした 仕事を 休むと 言っていました。", "kana": "すずきさんは あした しごとを やすむと いっていました。", "romaji": "Suzuki-san wa ashita shigoto o yasumu to itte imashita." }, "note": "休みます becomes 休む. When you pass it on, add さん to the name." },
+          { "q": "アナ：「私は ねこが すきです。」", "a": { "jp": "アナさんは ねこが すきだと 言っていました。", "kana": "アナさんは ねこが すきだと いっていました。", "romaji": "Ana-san wa neko ga suki da to itte imashita." }, "note": "私は disappears: now you are the one speaking. すき is a な-adjective: すきだと." },
+          { "q": "やまだ：「今日は ひまじゃないです。」", "a": { "jp": "やまださんは 今日は ひまじゃないと 言っていました。", "kana": "やまださんは きょうは ひまじゃないと いっていました。", "romaji": "Yamada-san wa kyō wa hima ja nai to itte imashita." }, "note": "ひまじゃないです → ひまじゃない. No だ needed: the negative already ends in ない." },
           { "q": "ルーカス：「ブラジルの コーヒーは おいしいです。」", "a": { "jp": "ルーカスさんは ブラジルの コーヒーは おいしいと 言っていました。", "kana": "ルーカスさんは ブラジルの コーヒーは おいしいと いっていました。", "romaji": "Rūkasu-san wa Burajiru no kōhī wa oishii to itte imashita." } }
         ]
       },
       {
         "id": "h4",
-        "type": "produzir",
-        "prompt": "Escreva 4 frases: 2 opiniões suas (uma delas com substantivo ou adjetivo な) e 2 coisas que alguém da sua casa ou do trabalho disse. Depois leia em voz alta.",
+        "type": "produce",
+        "prompt": "Write 4 sentences: 2 opinions of your own (one of them with a noun or a な-adjective) and 2 things someone at home or at work said. Then read them aloud.",
         "items": [
-          { "q": "Modelo, que o seu texto deve seguir na estrutura e não nas palavras:", "a": { "jp": "サンパウロの 電車は べんりだと 思います。日本語は むずかしくないと 思います。母は こんばん カレーを 作ると 言っていました。ペドロさんは あした 仕事が ないと 言っていました。", "kana": "サンパウロの でんしゃは べんりだと おもいます。にほんごは むずかしくないと おもいます。ははは こんばん カレーを つくると いっていました。ペドロさんは あした しごとが ないと いっていました。", "romaji": "Sanpauro no densha wa benri da to omoimasu. Nihongo wa muzukashikunai to omoimasu. Haha wa konban karē o tsukuru to itte imashita. Pedoro-san wa ashita shigoto ga nai to itte imashita.", "pt": "Acho que o trem de São Paulo é prático. Acho que o japonês não é difícil. Minha mãe disse que vai fazer curry hoje à noite. O Pedro disse que amanhã não tem trabalho." }, "note": "Confira: forma curta antes do と; だ depois de substantivo e adjetivo な; 思います só para a sua opinião; 言っていました com っ." }
+          { "q": "Model (match its structure, not its words):", "a": { "jp": "サンパウロの 電車は べんりだと 思います。日本語は むずかしくないと 思います。母は こんばん カレーを 作ると 言っていました。ペドロさんは あした 仕事が ないと 言っていました。", "kana": "サンパウロの でんしゃは べんりだと おもいます。にほんごは むずかしくないと おもいます。ははは こんばん カレーを つくると いっていました。ペドロさんは あした しごとが ないと いっていました。", "romaji": "Sanpauro no densha wa benri da to omoimasu. Nihongo wa muzukashikunai to omoimasu. Haha wa konban karē o tsukuru to itte imashita. Pedoro-san wa ashita shigoto ga nai to itte imashita.", "en": "I think the trains in São Paulo are convenient. I think Japanese isn't difficult. My mother said she's making curry tonight. Pedro said he doesn't have work tomorrow." }, "note": "Check: short form before と; だ after nouns and な-adjectives; 思います only for your own opinion; 言っていました with っ." }
         ]
       }
     ],
     "workbook": [
-      { "p": 80, "t": "3 · Quotations (～と思います)", "tip": "Faça depois do ponto 4a." },
-      { "p": 81, "t": "4 · Quotations (～と言っていました)", "tip": "Faça depois do ponto 4b. Confira no Genki Answer Key oficial." }
+      { "p": 80, "t": "3 · Quotations (～と思います)", "tip": "Do it after point 4a." },
+      { "p": 81, "t": "4 · Quotations (～と言っていました)", "tip": "Do it after point 4b; check it with the official Genki Answer Key." }
     ]
   },
   "practice": [
-    { "tool": "Wagotabi", "what": "Jogue normalmente e cace falas com と 思う / と 思います ou com と 言っていた / と 言っていました. Quando achar, copie a fala no caderno e sublinhe o conteúdo (tudo o que vem antes do と).", "min": 15 },
-    { "tool": "ヅオリンゴー", "what": "Vocabulário/SRS da Lição 8 e Praticar L8. Depois, Treinos → 🔬 Anatomia → 🔬 Analisar: cole 3 frases suas com と 思います e confira se o bloco com と aparece como CITAÇÃO.", "min": 15 },
-    { "tool": "Diário", "what": "No Diário do ヅオリンゴー, escreva 3 opiniões sobre o seu dia com 〜と 思います e use \"Anatomia do que escrevi\" para conferir.", "min": 10 },
-    { "tool": "Fala", "what": "Grave um \"recado\" de 20 s para alguém, repassando 2 coisas que outra pessoa disse (〜と 言っていました).", "min": 5 }
+    { "tool": "Wagotabi", "what": "Play normally and hunt for lines with と 思う / と 思います or と 言っていた / と 言っていました. When you find one, copy it into your notebook and underline the content (everything before と).", "min": 15 },
+    { "tool": "ヅオリンゴー", "what": "Lesson 8 vocabulary in the SRS and Practice L8. Then Drills → 🔬 Anatomy → 🔬 Analyze: paste 3 of your own sentences with と 思います and check that the block with と shows up as QUOTE.", "min": 15 },
+    { "tool": "Journal", "what": "In the ヅオリンゴー Journal, write 3 opinions about your day with 〜と 思います and check them with \"Anatomy of what I wrote\".", "min": 10 },
+    { "tool": "Speaking", "what": "Record a 20-second \"message\" for someone, passing on 2 things another person said (〜と 言っていました).", "min": 5 }
   ],
   "culture": {
-    "title": "O que se mostra e o que se pensa (たてまえ／ほんね)",
+    "title": "What you show and what you think (たてまえ／ほんね)",
     "titleJp": "たてまえ／ほんね",
-    "body": "**ほんね** é o que a pessoa realmente pensa ou sente; **たてまえ** é a posição que ela mostra em público, ajustada ao grupo e à situação. Os dois termos são muito usados no Japão para falar de convivência, mas não querem dizer que os japoneses sejam falsos: em qualquer cultura, inclusive no Brasil, a gente elogia a comida da sogra ou diz \"vamos marcar\" sem marcar nada. No dia a dia japonês, é comum suavizar opiniões, principalmente com pessoas de fora do grupo ou em reuniões, e deixar a ほんね para amigos próximos ou ambientes informais. Por isso 〜と 思います aparece tanto: ele deixa a opinião mais leve do que uma afirmação seca. Como estrangeiro, você não precisa adivinhar nada: preste atenção ao contexto e, quando quiser uma opinião sincera, pergunte com calma e em particular.",
-    "try": "Escolha uma coisa (um restaurante, um filme) e escreva duas frases: uma educada e neutra, e uma opinião sincera suavizada com と 思います. Ex.: おいしいです。 × ちょっと 高いと 思います。 Repare como o と 思います deixa a crítica mais leve."
+    "body": "**ほんね** is what a person really thinks or feels; **たてまえ** is the position they show in public, adjusted to the group and the situation. Both words are used a lot in Japan to talk about getting along with others, but they don't mean that Japanese people are fake: in every culture people praise a host's cooking or say \"we should get together sometime\" without making plans. In everyday Japanese life, it is common to soften opinions, especially with people outside your group or in meetings, and to save your ほんね for close friends or informal settings. That is one reason 〜と 思います is so frequent: it makes an opinion sound lighter than a flat statement. As a foreigner, you don't have to guess anything: pay attention to the context and, when you want an honest opinion, ask calmly and in private.",
+    "try": "Pick something (a restaurant, a movie) and write two sentences: one polite and neutral, and one honest opinion softened with と 思います. For example: おいしいです。 × ちょっと 高いと 思います。 Notice how と 思います makes the criticism lighter."
   },
   "checklist": [
-    "Dou a minha opinião com 〜と 思います, com a forma curta antes do と, sem olhar.",
-    "Lembro do だ com substantivo e adjetivo な (学生だと 思います) e não ponho だ depois de adjetivo い.",
-    "Digo \"acho que não…\" (〜ないと 思います), \"não acho que…\" (〜と 思いません) e \"acho que sim\" (そう 思います).",
-    "Repasso o que alguém disse com [pessoa]は 〜と 言っていました, mantendo o tempo que a pessoa usou.",
-    "Leio uma frase com と começando pelo predicado: 思います / 言っていました → o que foi pensado ou dito.",
-    "Fiz a lição de casa e conferi o gabarito, e refiz o que errei.",
-    "Fiz as páginas 80–81 do Workbook."
+    "I can give my opinion with 〜と 思います, with the short form before と, without looking.",
+    "I remember the だ with nouns and な-adjectives (学生だと 思います) and never put だ after an い-adjective.",
+    "I can say \"I think it isn't…\" (〜ないと 思います), disagree with 〜と 思いません, and say \"I think so\" (そう 思います).",
+    "I can pass on what someone said with [person]は 〜と 言っていました, keeping the tense the person used.",
+    "I read a sentence with と starting from the predicate: 思います / 言っていました → what was thought or said.",
+    "I did the homework, checked it against the answer key and redid what I got wrong.",
+    "I did Workbook pages 80–81."
   ]
 }

@@ -2,224 +2,224 @@
   "id": "06-1",
   "unit": "G1-L06",
   "genki": { "book": "Genki I", "lesson": 6, "points": ["Te-form"] },
-  "title": "A forma て",
+  "title": "The て-form",
   "titleJp": "たべて・のんで・いって",
   "canDo": [
-    "Fazer a forma て de qualquer verbo る na hora: たべる → たべて, あける → あけて.",
-    "Fazer a forma て dos verbos う pela última sílaba, usando a tabela: かう → かって, のむ → のんで, かく → かいて, いそぐ → いそいで, はなす → はなして.",
-    "Não cair nas pegadinhas: いく → いって (e não いいて); かえる e はいる são verbos う (かえって, はいって).",
-    "Conjugar os irregulares する → して e くる → きて, inclusive nos compostos (べんきょうして).",
-    "Descobrir o grupo de um verbo a partir da forma ます que eu já conheço."
+    "I can make the て-form of any る-verb on the spot: たべる → たべて, あける → あけて.",
+    "I can make the て-form of う-verbs from their last syllable, using the table: かう → かって, のむ → のんで, かく → かいて, いそぐ → いそいで, はなす → はなして.",
+    "I can avoid the traps: いく → いって (not いいて); かえる and はいる are う-verbs (かえって, はいって).",
+    "I can conjugate the irregulars する → して and くる → きて, including compounds (べんきょうして).",
+    "I can work out a verb's group from the ます-form I already know."
   ],
   "duration": {
     "total": "60–75 min",
     "blocks": [
-      { "t": "Aquecimento: dizer em voz alta a forma ます de 10 verbos que você já conhece (たべます, のみます…)", "min": 5 },
-      { "t": "Vocabulário: ouvir 🔊 cada verbo e repetir 2 vezes, dizendo o grupo (る, う ou irregular)", "min": 10 },
-      { "t": "Gramática: os 3 pontos, recitando a tabela e dizendo cada exemplo em voz alta", "min": 25 },
-      { "t": "Vídeo da forma て (bloco 6), pausando para conjugar antes do professor", "min": 10 },
-      { "t": "Lição de casa no caderno + conferir no gabarito", "min": 15 },
-      { "t": "Checklist (bloco 10) + anotar no caderno os verbos em que você errou", "min": 5 }
+      { "t": "Warm-up: say out loud the ます-form of 10 verbs you already know (たべます, のみます…)", "min": 5 },
+      { "t": "Vocabulary: tap 🔊 on each verb and repeat it twice, saying its group (る, う or irregular)", "min": 10 },
+      { "t": "Grammar: the 3 points, reciting the table and saying each example out loud", "min": 25 },
+      { "t": "て-form video (block 6): pause and conjugate before the teacher does", "min": 10 },
+      { "t": "Notebook homework + checking it against the answer key", "min": 15 },
+      { "t": "Checklist (block 10) + write down in your notebook the verbs you got wrong", "min": 5 }
     ]
   },
   "prereqs": {
     "aulas": ["03-1", "04-2", "05-3"],
     "skills": [
-      "Conhecer a forma ます dos verbos (たべます, のみます, いきます…) e saber que existem três grupos: verbos る, verbos う e irregulares (Aula 03-1).",
-      "Ler hiragana com fluência: esta aula troca sílabas o tempo todo (む → んで, く → いて), e o っ pequeno faz diferença.",
-      "Esta aula é só de formação. O uso da forma て começa na Aula 06-2, então não se preocupe ainda em montar frases com ela."
+      "Knowing the ます-form of verbs (たべます, のみます, いきます…) and that there are three groups: る-verbs, う-verbs and irregulars (lesson 03-1).",
+      "Reading hiragana fluently: this lesson swaps syllables all the time (む → んで, く → いて), and the small っ makes a difference.",
+      "This lesson is only about forming the て-form. Using it starts in lesson 06-2, so don't worry yet about building sentences with it."
     ],
     "vocab": [
-      { "jp": "食べる", "kana": "たべる", "romaji": "taberu", "pt": "comer (verbo る)" },
-      { "jp": "見る", "kana": "みる", "romaji": "miru", "pt": "ver, assistir (verbo る)" },
-      { "jp": "おきる", "kana": "おきる", "romaji": "okiru", "pt": "acordar, levantar-se (verbo る)" },
-      { "jp": "あける", "kana": "あける", "romaji": "akeru", "pt": "abrir (verbo る)" },
-      { "jp": "しめる", "kana": "しめる", "romaji": "shimeru", "pt": "fechar (verbo る)" },
-      { "jp": "わすれる", "kana": "わすれる", "romaji": "wasureru", "pt": "esquecer (verbo る)" },
-      { "jp": "かう", "kana": "かう", "romaji": "kau", "pt": "comprar (verbo う)" },
-      { "jp": "まつ", "kana": "まつ", "romaji": "matsu", "pt": "esperar (verbo う)" },
-      { "jp": "かえる", "kana": "かえる", "romaji": "kaeru", "pt": "voltar (para casa) (verbo う, apesar do -eru)" },
-      { "jp": "はいる", "kana": "はいる", "romaji": "hairu", "pt": "entrar (verbo う, apesar do -iru)" },
-      { "jp": "飲む", "kana": "のむ", "romaji": "nomu", "pt": "beber (verbo う)" },
-      { "jp": "あそぶ", "kana": "あそぶ", "romaji": "asobu", "pt": "brincar, se divertir, sair com amigos (verbo う)" },
-      { "jp": "やすむ", "kana": "やすむ", "romaji": "yasumu", "pt": "descansar, faltar (verbo う)" },
-      { "jp": "かく", "kana": "かく", "romaji": "kaku", "pt": "escrever (verbo う)" },
-      { "jp": "いそぐ", "kana": "いそぐ", "romaji": "isogu", "pt": "ter pressa, apressar-se (verbo う)" },
-      { "jp": "はなす", "kana": "はなす", "romaji": "hanasu", "pt": "falar (verbo う)" },
-      { "jp": "けす", "kana": "けす", "romaji": "kesu", "pt": "apagar, desligar (verbo う)" },
-      { "jp": "行く", "kana": "いく", "romaji": "iku", "pt": "ir (verbo う, com exceção na forma て)" },
-      { "jp": "する", "kana": "する", "romaji": "suru", "pt": "fazer (irregular)" },
-      { "jp": "くる", "kana": "くる", "romaji": "kuru", "pt": "vir (irregular)" },
-      { "jp": "べんきょうする", "kana": "べんきょうする", "romaji": "benkyō suru", "pt": "estudar (irregular, com する)" },
-      { "jp": "でんき", "kana": "でんき", "romaji": "denki", "pt": "luz (elétrica), eletricidade" },
-      { "jp": "まど", "kana": "まど", "romaji": "mado", "pt": "janela" },
-      { "jp": "てがみ", "kana": "てがみ", "romaji": "tegami", "pt": "carta" }
+      { "jp": "食べる", "kana": "たべる", "romaji": "taberu", "en": "to eat (る-verb)" },
+      { "jp": "見る", "kana": "みる", "romaji": "miru", "en": "to see, to watch (る-verb)" },
+      { "jp": "おきる", "kana": "おきる", "romaji": "okiru", "en": "to get up, to wake up (る-verb)" },
+      { "jp": "あける", "kana": "あける", "romaji": "akeru", "en": "to open (something) (る-verb)" },
+      { "jp": "しめる", "kana": "しめる", "romaji": "shimeru", "en": "to close (something) (る-verb)" },
+      { "jp": "わすれる", "kana": "わすれる", "romaji": "wasureru", "en": "to forget (る-verb)" },
+      { "jp": "かう", "kana": "かう", "romaji": "kau", "en": "to buy (う-verb)" },
+      { "jp": "まつ", "kana": "まつ", "romaji": "matsu", "en": "to wait (う-verb)" },
+      { "jp": "かえる", "kana": "かえる", "romaji": "kaeru", "en": "to go back, to return home (う-verb, despite the -eru ending)" },
+      { "jp": "はいる", "kana": "はいる", "romaji": "hairu", "en": "to enter (う-verb, despite the -iru ending)" },
+      { "jp": "飲む", "kana": "のむ", "romaji": "nomu", "en": "to drink (う-verb)" },
+      { "jp": "あそぶ", "kana": "あそぶ", "romaji": "asobu", "en": "to play, to have fun, to hang out (う-verb)" },
+      { "jp": "やすむ", "kana": "やすむ", "romaji": "yasumu", "en": "to rest; to be absent (う-verb)" },
+      { "jp": "かく", "kana": "かく", "romaji": "kaku", "en": "to write (う-verb)" },
+      { "jp": "いそぐ", "kana": "いそぐ", "romaji": "isogu", "en": "to hurry (う-verb)" },
+      { "jp": "はなす", "kana": "はなす", "romaji": "hanasu", "en": "to speak, to talk (う-verb)" },
+      { "jp": "けす", "kana": "けす", "romaji": "kesu", "en": "to turn off, to erase (う-verb)" },
+      { "jp": "行く", "kana": "いく", "romaji": "iku", "en": "to go (う-verb, with an exception in the て-form)" },
+      { "jp": "する", "kana": "する", "romaji": "suru", "en": "to do (irregular)" },
+      { "jp": "くる", "kana": "くる", "romaji": "kuru", "en": "to come (irregular)" },
+      { "jp": "べんきょうする", "kana": "べんきょうする", "romaji": "benkyō suru", "en": "to study (irregular, with する)" },
+      { "jp": "でんき", "kana": "でんき", "romaji": "denki", "en": "(electric) light; electricity" },
+      { "jp": "まど", "kana": "まど", "romaji": "mado", "en": "window" },
+      { "jp": "てがみ", "kana": "てがみ", "romaji": "tegami", "en": "letter (that you mail)" }
     ]
   },
   "grammar": [
     {
       "id": "06-1-a",
       "gc": "6-1",
-      "title": "A forma て e os verbos る",
-      "gloss": "a peça de encaixe; る → て",
-      "explanation": "A forma て é uma **peça de encaixe**. Ela não tem tempo (presente ou passado) e não fecha uma frase sozinha: ela se prende a outra coisa, e é essa outra coisa, no fim da frase, que decide o sentido. Nesta lição ela vira pedido (〜てください), sequência de ações (Aula 06-2), permissão (〜てもいいです) e proibição (〜てはいけません, Aula 06-3). Por isso, hoje o foco é só **formar**. O uso vem nas próximas aulas.\n• **Verbos る: tire o る e ponha て.** たべる → たべて · みる → みて · おきる → おきて · あける → あけて · わすれる → わすれて.\n• **Atalho pela forma ます:** nos verbos る, basta trocar ます por て. たべます → たべて, しめます → しめて.\n• **Como saber se o verbo é る?** Todo verbo る termina em **-iru** ou **-eru** (みる, あける). O contrário não vale: かえる e はいる terminam assim e são verbos う (ponto 4b). Verbo que **não** termina em -iru/-eru nunca é verbo る: é verbo う ou irregular.\n• **Pista pela forma ます:** se antes do ます vem um som de **e** (たべます, あけます, ねます), o verbo é る com certeza. Se vem som de **i** (みます, のみます), pode ser dos dois grupos, e aí é preciso saber o verbo de dicionário.",
-      "structure": "[verbo る] − る + て   (たべる → たべて)",
+      "title": "The て-form and る-verbs",
+      "gloss": "the connector piece; る → て",
+      "explanation": "The て-form is a **connector piece**. It has no tense (present or past) and cannot end a sentence by itself: it attaches to something else, and that something, at the end of the sentence, decides the meaning. In Genki Lesson 6 it becomes a request (〜てください), a sequence of actions (lesson 06-2), permission (〜てもいいです) and prohibition (〜てはいけません, lesson 06-3). So today the focus is only on **forming** it. Using it comes in the next lessons.\n• **る-verbs: drop る and add て.** たべる → たべて · みる → みて · おきる → おきて · あける → あけて · わすれる → わすれて.\n• **Shortcut from the ます-form:** with る-verbs, just swap ます for て. たべます → たべて, しめます → しめて.\n• **How do you know a verb is a る-verb?** Every る-verb ends in **-iru** or **-eru** (みる, あける). The reverse is not true: かえる and はいる end that way and are う-verbs (point 4b). A verb that does **not** end in -iru/-eru is never a る-verb: it is a う-verb or an irregular.\n• **A clue from the ます-form:** if the sound before ます is an **e** sound (たべます, あけます, ねます), the verb is definitely a る-verb. If it is an **i** sound (みます, のみます), it could be either group, and you need to know the dictionary form.",
+      "structure": "[る-verb] − る + て   (たべる → たべて)",
       "examples": [
-        { "jp": "ごはんを 食べる → ごはんを 食べて", "kana": "ごはんを たべる → ごはんを たべて", "romaji": "gohan o taberu → gohan o tabete", "pt": "comer a refeição → forma て (algo como \"come e…\")", "noAnat": true },
-        { "jp": "まどを あける → まどを あけて", "kana": "まどを あける → まどを あけて", "romaji": "mado o akeru → mado o akete", "pt": "abrir a janela → forma て", "noAnat": true },
-        { "jp": "テレビを 見る → テレビを 見て", "kana": "テレビを みる → テレビを みて", "romaji": "terebi o miru → terebi o mite", "pt": "ver TV → forma て", "noAnat": true }
+        { "jp": "ごはんを 食べる → ごはんを 食べて", "kana": "ごはんを たべる → ごはんを たべて", "romaji": "gohan o taberu → gohan o tabete", "en": "to eat a meal → て-form (roughly \"eat a meal and…\")", "noAnat": true },
+        { "jp": "まどを あける → まどを あけて", "kana": "まどを あける → まどを あけて", "romaji": "mado o akeru → mado o akete", "en": "to open the window → て-form", "noAnat": true },
+        { "jp": "テレビを 見る → テレビを 見て", "kana": "テレビを みる → テレビを みて", "romaji": "terebi o miru → terebi o mite", "en": "to watch TV → て-form", "noAnat": true }
       ],
       "pitfalls": [
-        "Não cole て na forma ます inteira: たべますて ✗ → たべて ✓. O atalho é TROCAR ます por て, e só nos verbos る.",
-        "Nos verbos る o final é sempre て, nunca で: たべて ✓, たべで ✗. O で só aparece em alguns verbos う (4b).",
-        "かえる (voltar) e はいる (entrar) parecem verbos る, mas são う: かえって ✓, はいって ✓. かえて ✗, はいて ✗.",
-        "Sozinha, a forma て não fecha uma frase educada. たべて。 solto soa como um pedido casual (\"come!\"). Nesta fase, sempre complete: たべてください, たべてもいいです…"
+        "Don't stick て onto the whole ます-form: たべますて ✗ → たべて ✓. The shortcut is to SWAP ます for て, and it only works for る-verbs and the two irregulars (point 4c).",
+        "With る-verbs the ending is always て, never で: たべて ✓, たべで ✗. で only appears with some う-verbs (4b).",
+        "かえる (to go home) and はいる (to enter) look like る-verbs, but they are う-verbs: かえって ✓, はいって ✓. For these two verbs, かえて ✗ and はいて ✗.",
+        "On its own, the て-form doesn't end a polite sentence. A bare たべて。 sounds like a casual request (\"eat!\"). For now, always complete it: たべてください, たべてもいいです…"
       ],
       "howToStudy": [
-        "Fala: diga em ritmo, 3 rodadas seguidas: たべる-たべて, みる-みて, おきる-おきて, ねる-ねて, あける-あけて, しめる-しめて.",
-        "Pegue 5 formas ます que você já usa (たべます, みます, ねます…), cubra a resposta e troque ます por て em voz alta.",
-        "No caderno, divida o vocabulário da aula em 3 colunas: verbos る, verbos う e irregulares. Marque com ★ かえる e はいる."
+        "Speaking: say these pairs in rhythm, 3 rounds in a row: たべる-たべて, みる-みて, おきる-おきて, ねる-ねて, あける-あけて, しめる-しめて.",
+        "Take 5 ます-forms you already use (たべます, みます, ねます…), cover the answer and swap ます for て out loud.",
+        "In your notebook, split this lesson's vocabulary into 3 columns: る-verbs, う-verbs and irregulars. Mark かえる and はいる with ★."
       ],
       "flag": null
     },
     {
       "id": "06-1-b",
       "gc": null,
-      "title": "Verbos う: a tabela da forma て",
-      "gloss": "a última sílaba decide",
-      "explanation": "Nos verbos う, a forma て depende da **última sílaba** do verbo no dicionário. São cinco grupos. Esta é a tabela para decorar:\n• **う・つ・る → って**: かう → かって · まつ → まって · かえる → かえって\n• **む・ぶ・ぬ → んで**: のむ → のんで · あそぶ → あそんで · しぬ → しんで\n• **く → いて**: かく → かいて · きく → きいて\n• **ぐ → いで**: いそぐ → いそいで · およぐ → およいで\n• **す → して**: はなす → はなして · けす → けして\n**Macete 1: a musiquinha.** Repita em ritmo, como um refrão: \"う つ る って · む ぶ ぬ んで · く いて · ぐ いで · す して\". Existem versões cantadas no YouTube (busque \"te-form song\"); muita gente usa a melodia de \"Oh My Darling, Clementine\".\n**Macete 2: onde aparece で.** O で só aparece depois de quatro terminações: **む, ぶ, ぬ e ぐ**. ぶ e ぐ já têm o tracinho (゛) e o passam adiante (んで, いで); む e ぬ vão junto com ぶ no grupo んで. Todas as outras terminações dão て.\n**Macete 3: verbo em ぬ, só um.** É しぬ (morrer). Você quase não vai usá-lo, mas ele completa o grupo.",
+      "title": "う-verbs: the て-form table",
+      "gloss": "the last syllable decides",
+      "explanation": "With う-verbs, the て-form depends on the **last syllable** of the dictionary form. There are five groups. This is the table to memorize:\n• **う・つ・る → って**: かう → かって · まつ → まって · かえる → かえって\n• **む・ぶ・ぬ → んで**: のむ → のんで · あそぶ → あそんで · しぬ → しんで\n• **く → いて**: かく → かいて · きく → きいて\n• **ぐ → いで**: いそぐ → いそいで · およぐ → およいで\n• **す → して**: はなす → はなして · けす → けして\n**Trick 1: the song.** Repeat it in rhythm, like a chorus: \"う つ る って · む ぶ ぬ んで · く いて · ぐ いで · す して\". There are sung versions on YouTube (search \"te-form song\"); many people use the tune of \"Oh My Darling, Clementine\".\n**Trick 2: where で appears.** で only appears after four endings: **む, ぶ, ぬ and ぐ**. ぶ and ぐ already have the two little marks (゛) and pass them on (んで, いで); む and ぬ join ぶ in the んで group. Every other ending gives て.\n**Trick 3: only one common verb ends in ぬ.** It is しぬ (to die). You'll hardly ever use it, but it completes the group.",
       "structure": "う・つ・る → って · む・ぶ・ぬ → んで · く → いて · ぐ → いで · す → して",
       "examples": [
-        { "jp": "バスを まつ → バスを まって", "kana": "バスを まつ → バスを まって", "romaji": "basu o matsu → basu o matte", "pt": "esperar o ônibus → forma て (つ → って)", "noAnat": true },
-        { "jp": "おちゃを 飲む → おちゃを 飲んで", "kana": "おちゃを のむ → おちゃを のんで", "romaji": "ocha o nomu → ocha o nonde", "pt": "beber chá → forma て (む → んで)", "noAnat": true },
-        { "jp": "てがみを かく → てがみを かいて", "kana": "てがみを かく → てがみを かいて", "romaji": "tegami o kaku → tegami o kaite", "pt": "escrever uma carta → forma て (く → いて)", "noAnat": true },
-        { "jp": "でんきを けす → でんきを けして", "kana": "でんきを けす → でんきを けして", "romaji": "denki o kesu → denki o keshite", "pt": "apagar a luz → forma て (す → して)", "noAnat": true }
+        { "jp": "バスを まつ → バスを まって", "kana": "バスを まつ → バスを まって", "romaji": "basu o matsu → basu o matte", "en": "to wait for the bus → て-form (つ → って)", "noAnat": true },
+        { "jp": "おちゃを 飲む → おちゃを 飲んで", "kana": "おちゃを のむ → おちゃを のんで", "romaji": "ocha o nomu → ocha o nonde", "en": "to drink tea → て-form (む → んで)", "noAnat": true },
+        { "jp": "てがみを かく → てがみを かいて", "kana": "てがみを かく → てがみを かいて", "romaji": "tegami o kaku → tegami o kaite", "en": "to write a letter → て-form (く → いて)", "noAnat": true },
+        { "jp": "でんきを けす → でんきを けして", "kana": "でんきを けす → でんきを けして", "romaji": "denki o kesu → denki o keshite", "en": "to turn off the light → て-form (す → して)", "noAnat": true }
       ],
       "pitfalls": [
-        "O っ pequeno conta: まって (ma-t-te, com uma batida de pausa), não まて. Sem ele, まて vira outra forma: uma ordem seca, \"espera!\".",
-        "く vira いて, não くて: かいて ✓, かくて ✗. O くて existe, mas é dos adjetivos (Aula 07-2).",
-        "ぐ passa o tracinho adiante: いそいで ✓, いそいて ✗.",
-        "Existem dois きる: きる \"vestir\" é verbo る (きて); きる \"cortar\" é verbo う (きって). O som é o mesmo, mas a forma て muda."
+        "The small っ counts: まって (ma-t-te, with a one-beat pause), not まて. Without it, まて becomes a different form: a blunt order, \"wait!\".",
+        "く becomes いて, not くて: かいて ✓, かくて ✗. くて does exist, but it belongs to adjectives (lesson 07-2).",
+        "ぐ passes its two little marks on: いそいで ✓, いそいて ✗.",
+        "There are two きる: きる \"to wear\" is a る-verb (きて); きる \"to cut\" is a う-verb (きって). Same sound, different て-form."
       ],
       "howToStudy": [
-        "Fala: recite a tabela (う つ る って…) 5 vezes em voz alta. Depois escreva-a de memória no caderno e confira.",
-        "Cubra as respostas e diga a forma て destes verbos: かう, まつ, のむ, あそぶ, かく, いそぐ, はなす, かえる, やすむ, はいる. Anote no caderno cada erro junto com a terminação dele.",
-        "ヅオリンゴー → Praticar L6: faça uma rodada de conjugação. A cada erro, diga em voz alta a regra do verbo (ex.: \"む → んで\")."
+        "Speaking: recite the table (う つ る って…) out loud 5 times. Then write it from memory in your notebook and check it.",
+        "Cover the answers and say the て-form of these verbs: かう, まつ, のむ, あそぶ, かく, いそぐ, はなす, かえる, やすむ, はいる. In your notebook, write down every mistake together with the verb's ending.",
+        "ヅオリンゴー → Practice L6: do one round of conjugation. After each mistake, say the verb's rule out loud (e.g. \"む → んで\")."
       ],
       "flag": null
     },
     {
       "id": "06-1-c",
       "gc": null,
-      "title": "Irregulares して / きて e a exceção いって",
-      "gloss": "os três que fogem da regra",
-      "explanation": "Três verbos fogem da tabela. Justamente eles estão entre os mais usados, então vale decorar como se fossem vocabulário:\n• **する → して** (fazer). Vale para todo verbo com する: べんきょうする → べんきょうして · そうじする → そうじして · せんたくする → せんたくして.\n• **くる → きて** (vir). A vogal muda para **き**, a mesma da forma ます (きます).\n• **いく → いって** (ir). Pela tabela, く daria いて (いいて), mas いく é a **única exceção** entre os verbos う e fica いって, com っ.\n**Atalho para os irregulares:** a forma て é a forma ます com て no lugar de ます. します → して, きます → きて. Nos verbos う esse atalho não funciona: いきます não vira いきて.\n• Uma palavra que você vai encontrar: もってくる (\"trazer\"). Ela é, ao pé da letra, もって (\"segurando\", de もつ) + くる (\"vir\"). A forma て aparece até dentro de palavras.",
-      "structure": "する → して · くる → きて · いく → いって (exceção)",
+      "title": "Irregulars して / きて and the exception いって",
+      "gloss": "the three that break the rule",
+      "explanation": "Three verbs don't follow the table. They are among the most common verbs, so it's worth memorizing them like vocabulary:\n• **する → して** (to do). This applies to every verb with する: べんきょうする → べんきょうして · そうじする → そうじして · せんたくする → せんたくして.\n• **くる → きて** (to come). The vowel changes to **き**, the same as in the ます-form (きます).\n• **いく → いって** (to go). By the table, く would give いて (いいて), but いく is the **only exception** among う-verbs and becomes いって, with っ.\n**Shortcut for the irregulars:** the て-form is the ます-form with て in place of ます. します → して, きます → きて. With う-verbs this shortcut doesn't work: いきます does not become いきて.\n• A word you'll come across: もってくる (\"to bring\"). Literally it is もって (\"holding\", from もつ) + くる (\"to come\"). The て-form even shows up inside words.",
+      "structure": "する → して · くる → きて · いく → いって (exception)",
       "examples": [
-        { "jp": "にほんごを べんきょうする → にほんごを べんきょうして", "kana": "にほんごを べんきょうする → にほんごを べんきょうして", "romaji": "nihongo o benkyō suru → nihongo o benkyō shite", "pt": "estudar japonês → forma て", "noAnat": true },
-        { "jp": "うちに くる → うちに きて", "kana": "うちに くる → うちに きて", "romaji": "uchi ni kuru → uchi ni kite", "pt": "vir à minha casa → forma て", "noAnat": true },
-        { "jp": "大学に 行く → 大学に 行って", "kana": "だいがくに いく → だいがくに いって", "romaji": "daigaku ni iku → daigaku ni itte", "pt": "ir à faculdade → forma て (a exceção!)", "noAnat": true }
+        { "jp": "にほんごを べんきょうする → にほんごを べんきょうして", "kana": "にほんごを べんきょうする → にほんごを べんきょうして", "romaji": "nihongo o benkyō suru → nihongo o benkyō shite", "en": "to study Japanese → て-form", "noAnat": true },
+        { "jp": "うちに くる → うちに きて", "kana": "うちに くる → うちに きて", "romaji": "uchi ni kuru → uchi ni kite", "en": "to come to my house → て-form", "noAnat": true },
+        { "jp": "大学に 行く → 大学に 行って", "kana": "だいがくに いく → だいがくに いって", "romaji": "daigaku ni iku → daigaku ni itte", "en": "to go to college → て-form (the exception!)", "noAnat": true }
       ],
       "pitfalls": [
-        "いく → いいて ✗ → いって ✓. É a exceção que mais derruba: treine até sair sozinha.",
-        "くる → くって ✗ / くて ✗ → きて ✓. Pense na forma ます: き-ます → き-て.",
-        "する → すって ✗ → して ✓. Nos compostos, só o する muda: べんきょうして ✓.",
-        "O atalho \"troque ます por て\" só vale para verbos る e irregulares: のみます → のみて ✗ (o certo é のんで)."
+        "いく → いいて ✗ → いって ✓. This is the exception that trips people up most: drill it until it comes out on its own.",
+        "くる → くって ✗ / くて ✗ → きて ✓. Think of the ます-form: き-ます → き-て.",
+        "する → すって ✗ → して ✓. In compounds, only する changes: べんきょうして ✓.",
+        "The \"swap ます for て\" shortcut only works for る-verbs and the irregulars: のみます → のみて ✗ (the right form is のんで)."
       ],
       "howToStudy": [
-        "Fala: diga 10 vezes, alternando rápido: する-して, くる-きて, いく-いって.",
-        "Escolha 3 atividades suas com する (べんきょう, そうじ, せんたく…) e diga em voz alta a forma て de cada uma.",
-        "Fala: grave-se dizendo todos os verbos do vocabulário na forma て. A meta é menos de 1 minuto, sem travar. Guarde a gravação para comparar depois."
+        "Speaking: say these 10 times, switching fast: する-して, くる-きて, いく-いって.",
+        "Pick 3 of your own activities with する (べんきょう, そうじ, せんたく…) and say the て-form of each one out loud.",
+        "Speaking: record yourself saying every verb in the vocabulary list in the て-form. The goal is under 1 minute, without getting stuck. Keep the recording to compare later."
       ],
       "flag": null
     }
   ],
   "media": [
-    { "order": 1, "kind": "leitura", "title": "Genki I · Lição 6: diálogo, vocabulário e a explicação de gramática Te-form (com a tabela de formação)", "where": "Seu livro Genki I (3ª ed.)", "url": "", "when": "Antes desta aula ou logo depois do bloco de gramática" },
-    { "order": 2, "kind": "video", "title": "ToKini Andy: a forma て da Lição 6 do Genki I", "where": "YouTube · canal ToKini Andy", "url": "", "search": "ToKini Andy Genki Lesson 6 te-form", "when": "Depois dos 3 pontos: pause antes de cada resposta e conjugue você primeiro" },
-    { "order": 3, "kind": "app", "title": "genki-companion: Lição 6, ponto 1 (marque ✍️ quando terminar)", "where": "../genki-companion/index.html", "url": "../genki-companion/index.html", "when": "No fim, para revisar e marcar o progresso" }
+    { "order": 1, "kind": "reading", "title": "Genki I · Lesson 6: the dialogue, vocabulary and the grammar note Te-form (with the formation table)", "where": "Your Genki I textbook (3rd ed.)", "url": "", "when": "Before this lesson or right after the grammar block" },
+    { "order": 2, "kind": "video", "title": "Japanese Ammo with Misa: how to make the て-form", "where": "YouTube · Japanese Ammo with Misa channel", "url": "", "search": "Japanese Ammo with Misa te form conjugation", "when": "After the 3 points: pause before each answer and conjugate it yourself first" },
+    { "order": 3, "kind": "app", "title": "genki-companion: Lesson 6, point 1 (tick ✍️ when you finish)", "where": "../genki-companion/index.html", "url": "../genki-companion/index.html", "when": "At the end, to review and mark your progress" }
   ],
   "homework": {
-    "intro": "Faça no caderno, à mão, em kana. Diga cada forma em voz alta enquanto escreve. Só depois abra o gabarito, item por item. Circule o que errou e refaça no dia seguinte.",
+    "intro": "Do it by hand in your notebook, in kana. Say each form out loud as you write it. Only then open the answer key, item by item. Circle what you got wrong and redo it the next day.",
     "tasks": [
       {
         "id": "h1",
-        "type": "transformar",
-        "prompt": "Escreva a forma て destes verbos る e irregulares.",
+        "type": "transform",
+        "prompt": "Write the て-form of these る-verbs and irregulars.",
         "items": [
           { "q": "みる", "a": { "jp": "みて", "romaji": "mite" } },
           { "q": "あける", "a": { "jp": "あけて", "romaji": "akete" } },
           { "q": "わすれる", "a": { "jp": "わすれて", "romaji": "wasurete" } },
           { "q": "おきる", "a": { "jp": "おきて", "romaji": "okite" } },
-          { "q": "くる", "a": { "jp": "きて", "romaji": "kite" }, "note": "Irregular: a vogal muda para き, como em きます." },
-          { "q": "せんたくする", "a": { "jp": "せんたくして", "romaji": "sentaku shite" }, "note": "Só o する muda." }
+          { "q": "くる", "a": { "jp": "きて", "romaji": "kite" }, "note": "Irregular: the vowel changes to き, as in きます." },
+          { "q": "せんたくする", "a": { "jp": "せんたくして", "romaji": "sentaku shite" }, "note": "Only する changes." }
         ]
       },
       {
         "id": "h2",
-        "type": "transformar",
-        "prompt": "Escreva a forma て destes verbos う. Antes de escrever, diga a terminação e a regra (ex.: \"ぶ → んで\").",
+        "type": "transform",
+        "prompt": "Write the て-form of these う-verbs. Before writing, say the ending and the rule (e.g. \"ぶ → んで\").",
         "items": [
           { "q": "かう", "a": { "jp": "かって", "romaji": "katte" }, "note": "う → って." },
           { "q": "あそぶ", "a": { "jp": "あそんで", "romaji": "asonde" }, "note": "ぶ → んで." },
-          { "q": "かえる", "a": { "jp": "かえって", "romaji": "kaette" }, "note": "Parece verbo る, mas é う: る → って." },
-          { "q": "いそぐ", "a": { "jp": "いそいで", "romaji": "isoide" }, "note": "ぐ → いで: o tracinho passa adiante." },
+          { "q": "かえる", "a": { "jp": "かえって", "romaji": "kaette" }, "note": "It looks like a る-verb, but it's a う-verb: る → って." },
+          { "q": "いそぐ", "a": { "jp": "いそいで", "romaji": "isoide" }, "note": "ぐ → いで: the two little marks pass on." },
           { "q": "はなす", "a": { "jp": "はなして", "romaji": "hanashite" }, "note": "す → して." },
-          { "q": "行く (いく)", "a": { "jp": "行って", "kana": "いって", "romaji": "itte" }, "note": "A exceção: いいて ✗." }
+          { "q": "行く (いく)", "a": { "jp": "行って", "kana": "いって", "romaji": "itte" }, "note": "The exception: いいて ✗." }
         ]
       },
       {
         "id": "h3",
-        "type": "transformar",
-        "prompt": "Passe da forma ます para a forma て. Primeiro descubra o verbo de dicionário e o grupo dele.",
+        "type": "transform",
+        "prompt": "Go from the ます-form to the て-form. First work out the dictionary form and its group.",
         "items": [
-          { "q": "ねます", "a": { "jp": "ねて", "romaji": "nete" }, "note": "Som de e antes de ます → verbo る (ねる): troque ます por て." },
-          { "q": "飲みます (のみます)", "a": { "jp": "飲んで", "kana": "のんで", "romaji": "nonde" }, "note": "Dicionário: のむ, verbo う. む → んで." },
-          { "q": "まちます", "a": { "jp": "まって", "romaji": "matte" }, "note": "Dicionário: まつ. つ → って." },
-          { "q": "やすみます", "a": { "jp": "やすんで", "romaji": "yasunde" }, "note": "Dicionário: やすむ. む → んで." },
-          { "q": "かきます", "a": { "jp": "かいて", "romaji": "kaite" }, "note": "Dicionário: かく. く → いて." },
-          { "q": "きます (de くる, \"vir\")", "a": { "jp": "きて", "romaji": "kite" }, "note": "Irregular: troque ます por て." }
+          { "q": "ねます", "a": { "jp": "ねて", "romaji": "nete" }, "note": "An e sound before ます → る-verb (ねる): swap ます for て." },
+          { "q": "飲みます (のみます)", "a": { "jp": "飲んで", "kana": "のんで", "romaji": "nonde" }, "note": "Dictionary form: のむ, a う-verb. む → んで." },
+          { "q": "まちます", "a": { "jp": "まって", "romaji": "matte" }, "note": "Dictionary form: まつ. つ → って." },
+          { "q": "やすみます", "a": { "jp": "やすんで", "romaji": "yasunde" }, "note": "Dictionary form: やすむ. む → んで." },
+          { "q": "かきます", "a": { "jp": "かいて", "romaji": "kaite" }, "note": "Dictionary form: かく. く → いて." },
+          { "q": "きます (from くる, \"to come\")", "a": { "jp": "きて", "romaji": "kite" }, "note": "Irregular: swap ます for て." }
         ]
       },
       {
         "id": "h4",
-        "type": "corrigir",
-        "prompt": "Cada forma て abaixo tem um erro. Escreva a forma certa e diga o porquê.",
+        "type": "correct",
+        "prompt": "Each て-form below has a mistake. Write the correct form and say why.",
         "items": [
-          { "q": "いく → いいて", "a": { "jp": "いって", "romaji": "itte" }, "note": "A exceção: いく fica いって." },
-          { "q": "かえる → かえて", "a": { "jp": "かえって", "romaji": "kaette" }, "note": "かえる é verbo う: る → って." },
-          { "q": "のむ → のみて", "a": { "jp": "のんで", "romaji": "nonde" }, "note": "む → んで. O atalho ます → て não serve para verbos う." },
-          { "q": "まつ → まて", "a": { "jp": "まって", "romaji": "matte" }, "note": "Faltou o っ pequeno." },
+          { "q": "いく → いいて", "a": { "jp": "いって", "romaji": "itte" }, "note": "The exception: いく becomes いって." },
+          { "q": "かえる → かえて", "a": { "jp": "かえって", "romaji": "kaette" }, "note": "かえる is a う-verb: る → って." },
+          { "q": "のむ → のみて", "a": { "jp": "のんで", "romaji": "nonde" }, "note": "む → んで. The ます → て shortcut doesn't work for う-verbs." },
+          { "q": "まつ → まて", "a": { "jp": "まって", "romaji": "matte" }, "note": "The small っ is missing." },
           { "q": "する → すって", "a": { "jp": "して", "romaji": "shite" }, "note": "Irregular: する → して." },
-          { "q": "けす → けいて", "a": { "jp": "けして", "romaji": "keshite" }, "note": "す → して. O いて é só de く." }
+          { "q": "けす → けいて", "a": { "jp": "けして", "romaji": "keshite" }, "note": "す → して. いて is only for く." }
         ]
       }
     ],
     "workbook": [
-      { "p": 59, "t": "1 · Te-form — 1", "tip": "Faça depois do ponto 4b, com a tabela à vista na primeira passada." },
-      { "p": 61, "t": "2 · Te-form — 2", "tip": "Faça depois do ponto 4c, agora sem olhar a tabela. Confira no Genki Answer Key oficial." }
+      { "p": 59, "t": "1 · Te-form — 1", "tip": "Do it after point 4b, with the table in view on the first pass." },
+      { "p": 61, "t": "2 · Te-form — 2", "tip": "Do it after point 4c, this time without looking at the table. Check it with the official Genki Answer Key." }
     ]
   },
   "practice": [
-    { "tool": "Wagotabi", "what": "Jogue normalmente e cace formas て nos diálogos: palavras que terminam em …って, …んで, …いて, …いで ou …して logo depois do pedaço de um verbo. Anote 3 no caderno e, com a tabela, descubra o verbo de dicionário de cada uma. Se ainda não aparecer nenhuma, anote verbos em ます e faça você mesmo a forma て deles.", "min": 15 },
-    { "tool": "ヅオリンゴー", "what": "Vocabulário da Lição 6 no SRS. Depois, Praticar L6: uma rodada de conjugação, prestando atenção na forma て.", "min": 10 },
-    { "tool": "Fala", "what": "Cronômetro no celular: 1 minuto para dizer a forma て de 15 verbos da aula, em ordem embaralhada. Anote quantos acertou e tente bater a marca na próxima sessão.", "min": 5 },
-    { "tool": "Shadowing", "what": "Toque 🔊 em cada exemplo e repita junto 3 vezes. Exagere a pausa do っ (まって, いって) e o ん (のんで): em japonês, cada um vale uma batida inteira.", "min": 5 },
-    { "tool": "Kana", "what": "Se ainda confunde て/で ou っ/つ na leitura: 10 min no kana-flow ou na Trilha de Kana (ヅオリンゴー).", "min": 10 }
+    { "tool": "Wagotabi", "what": "Play normally and hunt for て-forms in the dialogues: words ending in …って, …んで, …いて, …いで or …して right after a piece of a verb. Write 3 of them in your notebook and use the table to work out each one's dictionary form. If none show up yet, write down verbs in ます and make their て-form yourself.", "min": 15 },
+    { "tool": "ヅオリンゴー", "what": "Lesson 6 vocabulary in the SRS. Then Practice L6: one round of conjugation, paying attention to the て-form.", "min": 10 },
+    { "tool": "Speaking", "what": "Phone timer: 1 minute to say the て-form of 15 verbs from this lesson, in random order. Write down how many you got right and try to beat that score next session.", "min": 5 },
+    { "tool": "Shadowing", "what": "Tap 🔊 on each example and repeat along 3 times. Exaggerate the pause of っ (まって, いって) and the ん (のんで): in Japanese, each one takes a full beat.", "min": 5 },
+    { "tool": "Kana", "what": "If you still mix up て/で or っ/つ when reading: 10 minutes in kana-flow or on the Kana Trail (ヅオリンゴー).", "min": 10 }
   ],
   "culture": {
-    "title": "Filas e ordem (ならぶ)",
+    "title": "Lines and order (ならぶ)",
     "titleJp": "ならぶ",
-    "body": "No Japão, fazer fila, **ならぶ** (\"enfileirar-se\"), é quase automático. Nas plataformas de trem costuma haver marcas no chão mostrando onde as portas vão abrir, e as pessoas esperam em fila ao lado delas, deixando quem desce sair primeiro. Uma fila comprida na porta de um restaurante costuma ser vista como sinal de que o lugar é bom, e muita gente entra nela de propósito. Furar fila, ou guardar lugar para quem ainda vai chegar, é malvisto. Nas escadas rolantes, em geral as pessoas ficam paradas de um lado só (em Tóquio costuma ser a esquerda; em Osaka, a direita), embora muitas estações hoje peçam para ninguém andar nelas. E a forma て de ならぶ aparece muito em avisos: **ならんで** (\"em fila\"), que segue a regra ぶ → んで.",
-    "try": "Diga a forma て de ならぶ e de まつ (ならんで, まって). Na próxima fila em que você estiver, repita baixinho ならんで、まって… e repare onde a fila começa e para que lado ela anda."
+    "body": "In Japan, lining up — **ならぶ** (\"to line up\") — is almost automatic. On train platforms there are usually marks on the floor showing where the doors will open, and people wait in line beside them, letting passengers get off first. A long line outside a restaurant is usually seen as a sign that the place is good, and many people join it on purpose. Cutting in line, or saving a spot for someone who hasn't arrived yet, is frowned upon. On escalators, people generally stand on one side only (usually the left in Tokyo and the right in Osaka), although many stations now ask people not to walk on them at all. And the て-form of ならぶ appears a lot on signs: **ならんで** (\"lining up\"), which follows the rule ぶ → んで.",
+    "try": "Say the て-form of ならぶ and まつ (ならんで, まって). Next time you're in a line, repeat ならんで、まって… under your breath and notice where the line starts and which way it moves."
   },
   "checklist": [
-    "Recito a tabela da forma て (う つ る って · む ぶ ぬ んで · く いて · ぐ いで · す して) sem olhar.",
-    "Faço a forma て de qualquer verbo る (たべて, みて, あけて) sem pensar.",
-    "Acerto a forma て dos verbos う pelas cinco terminações, incluindo いそいで e はなして.",
-    "Lembro que かえる e はいる são verbos う: かえって, はいって.",
-    "Não erro os três especiais: して, きて, いって.",
-    "Fiz a lição de casa e conferi o gabarito, e refiz o que errei.",
-    "Fiz as páginas 59 e 61 do Workbook."
+    "I can recite the て-form table (う つ る って · む ぶ ぬ んで · く いて · ぐ いで · す して) without looking.",
+    "I can make the て-form of any る-verb (たべて, みて, あけて) without thinking.",
+    "I get the て-form of う-verbs right for all five endings, including いそいで and はなして.",
+    "I remember that かえる and はいる are う-verbs: かえって, はいって.",
+    "I don't get the three special ones wrong: して, きて, いって.",
+    "I did the homework, checked it against the answer key and redid what I got wrong.",
+    "I did Workbook pages 59 and 61."
   ]
 }

@@ -1,0 +1,189 @@
+{
+  "id": "14-1",
+  "unit": "G2-L14",
+  "genki": { "book": "Genki II", "lesson": 14, "points": ["ほしい", "〜かもしれません"] },
+  "title": "Wanting things · maybe",
+  "titleJp": "新しいパソコンがほしいです",
+  "canDo": [
+    "I can say what I want (a thing, not an action) with 〜がほしいです, and what I wanted as a child with 〜がほしかったです.",
+    "I can choose between ほしい (for a thing) and 〜たい (for an action): 車がほしいです × 車を買いたいです.",
+    "I can say what someone else wants with 〜をほしがっています, without using ほしい for other people.",
+    "I can say that something might be true or might happen, with short form + かもしれません, dropping だ after nouns and な-adjectives: 雨かもしれません."
+  ],
+  "duration": {
+    "total": "60–75 min",
+    "blocks": [
+      { "t": "Warm-up: say aloud the short forms (dictionary, ない, た, なかった) of 5 verbs (lessons 08-1 and 09-1)", "min": 5 },
+      { "t": "Vocabulary: tap 🔊 on each word and repeat it twice, grouping the gifts (ゆびわ, さいふ, かばん…)", "min": 10 },
+      { "t": "Grammar: the 2 points, each with its examples read aloud, and one 🔬 on point a", "min": 20 },
+      { "t": "Video (block 6), only the parts on ほしい and かもしれない", "min": 10 },
+      { "t": "Notebook homework + checking it against the answer key", "min": 15 },
+      { "t": "Checklist (block 10) + write your questions in the lesson notebook", "min": 5 }
+    ]
+  },
+  "prereqs": {
+    "aulas": ["13-3"],
+    "skills": [
+      "Short forms of verbs, adjectives and nouns, present and past (lessons 08-1 and 09-1): かもしれません attaches to them.",
+      "Conjugating い-adjectives (lessons 05-1 and 05-2): ほしくない and ほしかった follow the same pattern as たかくない and たかかった.",
+      "〜たい (lesson 11-1), which you will contrast with ほしい.",
+      "〜ている (lesson 07-1) for ほしがっている, and 〜と言っていました (lesson 08-2) for reporting what others said.",
+      "でしょう (lesson 12-3), which you will compare with かもしれません."
+    ],
+    "vocab": [
+      { "jp": "ほしい", "kana": "ほしい", "romaji": "hoshii", "en": "wanted (a thing); I want… (the thing takes が)" },
+      { "jp": "ほしがる", "kana": "ほしがる", "romaji": "hoshigaru", "en": "(someone else) shows they want; usually ほしがっている" },
+      { "jp": "かもしれない", "kana": "かもしれない", "romaji": "kamoshirenai", "en": "might, may (polite: かもしれません)" },
+      { "jp": "もしかしたら", "kana": "もしかしたら", "romaji": "moshikashitara", "en": "possibly, perhaps" },
+      { "jp": "パソコン", "kana": "パソコン", "romaji": "pasokon", "en": "personal computer, laptop" },
+      { "jp": "ギター", "kana": "ギター", "romaji": "gitā", "en": "guitar" },
+      { "jp": "犬", "kana": "いぬ", "romaji": "inu", "en": "dog" },
+      { "jp": "さいふ", "kana": "さいふ", "romaji": "saifu", "en": "wallet" },
+      { "jp": "ゆびわ", "kana": "ゆびわ", "romaji": "yubiwa", "en": "ring (jewelry)" },
+      { "jp": "かばん", "kana": "かばん", "romaji": "kaban", "en": "bag" },
+      { "jp": "じてんしゃ", "kana": "じてんしゃ", "romaji": "jitensha", "en": "bicycle" },
+      { "jp": "彼", "kana": "かれ", "romaji": "kare", "en": "he; boyfriend" },
+      { "jp": "彼女", "kana": "かのじょ", "romaji": "kanojo", "en": "she; girlfriend" },
+      { "jp": "たんじょうび", "kana": "たんじょうび", "romaji": "tanjōbi", "en": "birthday" },
+      { "jp": "プレゼント", "kana": "プレゼント", "romaji": "purezento", "en": "present, gift" },
+      { "jp": "バレンタインデー", "kana": "バレンタインデー", "romaji": "barentaindē", "en": "Valentine's Day" },
+      { "jp": "チョコ", "kana": "チョコ", "romaji": "choko", "en": "chocolate (short for チョコレート)" },
+      { "jp": "クリスマス", "kana": "クリスマス", "romaji": "kurisumasu", "en": "Christmas" },
+      { "jp": "雪", "kana": "ゆき", "romaji": "yuki", "en": "snow" },
+      { "jp": "ふる", "kana": "ふる", "romaji": "furu", "en": "to fall (rain, snow): 雨がふる = it rains" },
+      { "jp": "かぜをひく", "kana": "かぜをひく", "romaji": "kaze o hiku", "en": "to catch a cold" },
+      { "jp": "子どものとき", "kana": "こどものとき", "romaji": "kodomo no toki", "en": "when I was a child" },
+      { "jp": "何も〜ない", "kana": "なにも〜ない", "romaji": "nani mo … nai", "en": "nothing, not anything" }
+    ]
+  },
+  "grammar": [
+    {
+      "id": "14-1-a",
+      "gc": null,
+      "title": "ほしい: I want (a thing)",
+      "gloss": "wanting an object",
+      "explanation": "ほしい means **\"I want (a thing)\"**. It is not a verb: it is an **い-adjective**, like たかい. So the thing you want is not the object of an action and does not take を. It is marked with **が**: [thing] が ほしいです, literally \"(the thing) is wanted\".\n• **Conjugation**: exactly like an い-adjective. ほしいです (want) · ほしくないです (don't want) · ほしかったです (wanted) · ほしくなかったです (didn't want).\n• **The person who wants** is the topic, with は, and it is usually dropped when it is you: (私は) 新しいパソコンがほしいです。\n• **ほしい × 〜たい**: ほしい is for **things** (nouns); 〜たい (lesson 11-1) is for **actions** (verbs). 車がほしいです = I want a car. 車を買いたいです = I want to buy a car.\n• **Only for yourself** (and, in a question, for the listener). ほしい describes a feeling inside you, and Japanese does not state someone else's feelings as a plain fact. For a third person, use **ほしがっている** (\"is showing that they want\"). ほしがる is an ordinary う-verb, so now the thing takes **を**: マリアさんは犬をほしがっています。 You can also report what they said: 犬がほしいと言っていました (lesson 08-2).\n• With friends, 何がほしいですか is fine. To a teacher or a boss, asking what they want is too direct: avoid it.\n• In the sentence, the block with が is the **SUBJECT** (the thing wanted) and ほしいです is the **PREDICATE**. Read from the end: \"is wanted\" → what? → a new computer → by whom? → me.",
+      "structure": "[person] は [thing] が ほしいです。 · third person: [person] は [thing] を ほしがっています。",
+      "examples": [
+        { "jp": "私は新しいパソコンがほしいです。", "kana": "わたしはあたらしいパソコンがほしいです。", "romaji": "Watashi wa atarashii pasokon ga hoshii desu.", "en": "I want a new computer. [lit. as for me, a new computer is wanted]" },
+        { "jp": "たんじょうびのプレゼントは何がほしいですか。— 今は何もほしくないです。", "kana": "たんじょうびのプレゼントはなにがほしいですか。— いまはなにもほしくないです。", "romaji": "Tanjōbi no purezento wa nani ga hoshii desu ka. — Ima wa nani mo hoshiku nai desu.", "en": "What do you want for your birthday? — Right now, I don't want anything." },
+        { "jp": "ルーカスさんは新しいギターをほしがっています。", "kana": "ルーカスさんはあたらしいギターをほしがっています。", "romaji": "Rūkasu-san wa atarashii gitā o hoshigatte imasu.", "en": "Lucas wants a new guitar. [lit. is showing that he wants]" }
+      ],
+      "pitfalls": [
+        "ほしい is an adjective, so the thing takes が, not を: パソコンをほしいです ✗ → パソコンがほしいです ✓. With ほしがっている it is the other way around: 犬をほしがっています ✓.",
+        "For an action, use 〜たい, not ほしい: 日本に行くがほしいです ✗ → 日本に行きたいです ✓.",
+        "Don't use ほしい for other people's wants: マリアさんは犬がほしいです ✗ → マリアさんは犬をほしがっています ✓ (or 犬がほしいと言っていました ✓).",
+        "Conjugate it like たかい: ほしいでした ✗ → ほしかったです ✓; ほしいじゃないです ✗ → ほしくないです ✓."
+      ],
+      "howToStudy": [
+        "Say 5 true sentences out loud: 3 things you want now (〜がほしいです) and 2 things you wanted as a child (子どものとき、〜がほしかったです).",
+        "Tap 🔬 on example 1: 私は is the TOPIC (who wants), パソコンが is the SUBJECT (the thing wanted, with 新しい as DESCRIBES NEXT) and ほしいです is the PREDICATE. Then tap it on example 3: ギターを turns into the OBJECT, because ほしがっています is a verb.",
+        "In your notebook, write 3 pairs for the same thing, one with ほしい and one with 〜たい: カメラがほしいです / カメラを買いたいです."
+      ],
+      "flag": "Check in your Genki II that this lesson has these points in this order."
+    },
+    {
+      "id": "14-1-b",
+      "gc": null,
+      "title": "〜かもしれません: maybe, might",
+      "gloss": "a guess you are not sure of",
+      "explanation": "かもしれません means **\"maybe / might / may\"**: you think something is possible, but you are **not sure**. It goes at the **end of the sentence**, after the **short form** (lessons 08-1 and 09-1).\n• **Verbs**: 来る → 来るかもしれません (might come); 来ない → 来ないかもしれません (might not come); 来た → 来たかもしれません (might have come).\n• **い-adjectives**: 高いかもしれません; 高かったかもしれません.\n• **Nouns and な-adjectives: no だ**. 学生だ → 学生かもしれません; ひまだ → ひまかもしれません. In the past, だった stays: 学生だったかもしれません.\n• The casual form is **かもしれない**, and in very casual speech just **かも**: 雨かも。\n• **かもしれません × でしょう** (lesson 12-3): でしょう is a fairly confident guess (\"probably\"); かもしれません is weaker (\"maybe\"). 明日は雨でしょう = it will probably rain. 明日は雨かもしれません = it might rain.\n• **もしかしたら** (\"possibly\") often opens the same sentence and shows the doubt from the start: もしかしたら、明日は雪かもしれません。\n• In the sentence, [short form + かもしれません] works as **one block, the PREDICATE**. Everything before it is a normal sentence. Read from the end: \"might not come\" → to what? → today's party → who? → Takeshi.",
+      "structure": "[short form] かもしれません。 · noun / な-adjective without だ: 学生かもしれません, ひまかもしれません",
+      "examples": [
+        { "jp": "明日は雪がふるかもしれません。", "kana": "あしたはゆきがふるかもしれません。", "romaji": "Ashita wa yuki ga furu kamoshiremasen.", "en": "It might snow tomorrow.", "noAnat": true },
+        { "jp": "たけしさんは今日のパーティーに来ないかもしれません。きのう、かぜをひいていましたから。", "kana": "たけしさんはきょうのパーティーにこないかもしれません。きのう、かぜをひいていましたから。", "romaji": "Takeshi-san wa kyō no pātī ni konai kamoshiremasen. Kinō, kaze o hiite imashita kara.", "en": "Takeshi might not come to the party today. He had a cold yesterday.", "noAnat": true },
+        { "jp": "あの人は、アナさんの彼かもしれませんね。", "kana": "あのひとは、アナさんのかれかもしれませんね。", "romaji": "Ano hito wa, Ana-san no kare kamoshiremasen ne.", "en": "That guy might be Ana's boyfriend.", "noAnat": true }
+      ],
+      "pitfalls": [
+        "No だ after nouns and な-adjectives: 学生だかもしれません ✗ → 学生かもしれません ✓; ひまだかもしれません ✗ → ひまかもしれません ✓.",
+        "Use the short form, not the ます form: 来ますかもしれません ✗ → 来るかもしれません ✓.",
+        "The past goes in the verb, not at the end: 帰るかもしれませんでした ✗ → 帰ったかもしれません ✓ (\"might have gone home\").",
+        "If you are fairly sure, かもしれません sounds too weak. For \"probably\", use でしょう or 〜と思います (lesson 08-2)."
+      ],
+      "howToStudy": [
+        "Say out loud the かもしれません version of these 5 short forms: ふる, ふらない, 高い, ひまだ, 学生だ. Check that だ disappears in the last two.",
+        "Read example 2 from the end, out loud, treating 来ないかもしれません as one PREDICATE block: might not come → to what? → today's party → who? → Takeshi. Then add もしかしたら at the start and say it again.",
+        "In your notebook, make 3 guesses about tomorrow (the weather, a friend, your study): one with a noun, one with an adjective and one with a verb."
+      ],
+      "flag": null
+    }
+  ],
+  "media": [
+    { "order": 1, "kind": "reading", "title": "Genki II · Lesson 14: the dialogue, the vocabulary and the grammar notes ほしい and 〜かもしれません", "where": "Your Genki II textbook (3rd ed.)", "url": "", "when": "Before this lesson or right after the grammar block" },
+    { "order": 2, "kind": "video", "title": "Japanese Ammo with Misa: \"I want\" in Japanese (ほしい, 〜たい, ほしがる)", "where": "YouTube · Japanese Ammo with Misa channel", "url": "", "search": "Japanese Ammo with Misa hoshii tai want", "when": "After point a, if you want another explanation. If the video goes into forms you haven't seen yet, keep only the part on ほしい and ほしがる." }
+  ],
+  "homework": {
+    "intro": "Do it by hand in your notebook. Write the kanji you already know and the rest in kana. Only then open the answer key, item by item. Circle what you got wrong and redo it the next day. If you have the Genki II Workbook, do this lesson's exercises too.",
+    "tasks": [
+      {
+        "id": "h1",
+        "type": "transform",
+        "prompt": "Write a sentence with ほしい in the form asked. Conjugate ほしい like an い-adjective, and use ほしがっている for other people.",
+        "items": [
+          { "q": "パソコン → I want", "a": { "jp": "パソコンがほしいです。", "romaji": "Pasokon ga hoshii desu." } },
+          { "q": "犬 → I wanted (when I was a child)", "a": { "jp": "子どものとき、犬がほしかったです。", "kana": "こどものとき、いぬがほしかったです。", "romaji": "Kodomo no toki, inu ga hoshikatta desu." }, "note": "ほしい → ほしかった, like たかい → たかかった." },
+          { "q": "車 → I don't want", "a": { "jp": "車はほしくないです。", "kana": "くるまはほしくないです。", "romaji": "Kuruma wa hoshiku nai desu." }, "note": "In negative sentences like this, は usually replaces が (\"a car, I don't want\")." },
+          { "q": "新しいさいふ → do you want? (to a friend)", "a": { "jp": "新しいさいふがほしいですか。", "kana": "あたらしいさいふがほしいですか。", "romaji": "Atarashii saifu ga hoshii desu ka." } },
+          { "q": "マリアさん / 新しいかばん → Maria wants", "a": { "jp": "マリアさんは新しいかばんをほしがっています。", "kana": "マリアさんはあたらしいかばんをほしがっています。", "romaji": "Maria-san wa atarashii kaban o hoshigatte imasu." }, "note": "Third person: ほしがっている, and the particle becomes を." }
+        ]
+      },
+      {
+        "id": "h2",
+        "type": "translate",
+        "prompt": "Translate into Japanese. First decide: is it a thing (ほしい) or an action (〜たい)? Is it me or someone else?",
+        "items": [
+          { "q": "I want a new bicycle.", "a": { "jp": "新しいじてんしゃがほしいです。", "kana": "あたらしいじてんしゃがほしいです。", "romaji": "Atarashii jitensha ga hoshii desu." } },
+          { "q": "I want to buy a new bicycle.", "a": { "jp": "新しいじてんしゃを買いたいです。", "kana": "あたらしいじてんしゃをかいたいです。", "romaji": "Atarashii jitensha o kaitai desu." }, "note": "Now there is an action (buy): 〜たい, and the thing is the object of 買う." },
+          { "q": "I want to go to Japan.", "a": { "jp": "日本に行きたいです。", "kana": "にほんにいきたいです。", "romaji": "Nihon ni ikitai desu." }, "note": "Only an action, no thing: 〜たい." },
+          { "q": "My younger sister wants a dog.", "a": { "jp": "妹は犬をほしがっています。", "kana": "いもうとはいぬをほしがっています。", "romaji": "Imōto wa inu o hoshigatte imasu." } },
+          { "q": "What do you want for Christmas? (to a friend)", "a": { "jp": "クリスマスのプレゼントは何がほしいですか。", "kana": "クリスマスのプレゼントはなにがほしいですか。", "romaji": "Kurisumasu no purezento wa nani ga hoshii desu ka." }, "note": "Asking the listener is fine with friends. Don't ask a teacher or a boss this way." }
+        ]
+      },
+      {
+        "id": "h3",
+        "type": "transform",
+        "prompt": "Turn each sentence into a guess with かもしれません. Use the short form, and drop だ after nouns and な-adjectives.",
+        "items": [
+          { "q": "明日は雨です。", "a": { "jp": "明日は雨かもしれません。", "kana": "あしたはあめかもしれません。", "romaji": "Ashita wa ame kamoshiremasen." }, "note": "雨だ → 雨: no だ." },
+          { "q": "ジョンさんはパーティーに来ません。", "a": { "jp": "ジョンさんはパーティーに来ないかもしれません。", "kana": "ジョンさんはパーティーにこないかもしれません。", "romaji": "Jon-san wa pātī ni konai kamoshiremasen." }, "note": "来ません → short form 来ない." },
+          { "q": "あのレストランは高いです。", "a": { "jp": "あのレストランは高いかもしれません。", "kana": "あのレストランはたかいかもしれません。", "romaji": "Ano resutoran wa takai kamoshiremasen." } },
+          { "q": "先生は今日ひまです。", "a": { "jp": "先生は今日ひまかもしれません。", "kana": "せんせいはきょうひまかもしれません。", "romaji": "Sensei wa kyō hima kamoshiremasen." }, "note": "ひまだ → ひま: no だ after a な-adjective." },
+          { "q": "エミリーさんはもう帰りました。", "a": { "jp": "エミリーさんはもう帰ったかもしれません。", "kana": "エミリーさんはもうかえったかもしれません。", "romaji": "Emirī-san wa mō kaetta kamoshiremasen." }, "note": "The past goes in the verb: 帰った + かもしれません." },
+          { "q": "この本はおもしろくないです。", "a": { "jp": "この本はおもしろくないかもしれません。", "kana": "このほんはおもしろくないかもしれません。", "romaji": "Kono hon wa omoshiroku nai kamoshiremasen." } }
+        ]
+      },
+      {
+        "id": "h4",
+        "type": "produce",
+        "prompt": "A Japanese friend asks about your next birthday. Write 5–6 sentences: 2 with ほしい (one negative or past), 1 about what someone in your family wants (ほしがっている) and 2 guesses with かもしれません (one with a noun). Then read it aloud and record it on your phone.",
+        "items": [
+          { "q": "Model (match its structure, not its words):", "a": { "jp": "私のたんじょうびは十二月です。今は新しいさいふがほしいです。でも、ゆびわはほしくないです。妹は私のパソコンをほしがっています。たんじょうびは雪かもしれません。友だちはいそがしいから、パーティーに来ないかもしれません。", "kana": "わたしのたんじょうびはじゅうにがつです。いまはあたらしいさいふがほしいです。でも、ゆびわはほしくないです。いもうとはわたしのパソコンをほしがっています。たんじょうびはゆきかもしれません。ともだちはいそがしいから、パーティーにこないかもしれません。", "romaji": "Watashi no tanjōbi wa jūnigatsu desu. Ima wa atarashii saifu ga hoshii desu. Demo, yubiwa wa hoshiku nai desu. Imōto wa watashi no pasokon o hoshigatte imasu. Tanjōbi wa yuki kamoshiremasen. Tomodachi wa isogashii kara, pātī ni konai kamoshiremasen.", "en": "My birthday is in December. Right now I want a new wallet. But I don't want a ring. My younger sister wants my computer. It might snow on my birthday. My friends are busy, so they might not come to the party." }, "note": "Check: が with ほしい for the things you want, を with ほしがっています for someone else, the short form before かもしれません, and no だ after a noun (雪かもしれません)." }
+        ]
+      }
+    ],
+    "workbook": []
+  },
+  "practice": [
+    { "tool": "Wagotabi", "what": "Play in an N4-level area, if you have reached one. Hunt the dialogues for ほしい, ほしがる and かもしれない (or just かも). For each one, say out loud who wants what, or what is only a guess. Log the session in Immersion → Games and paste one ほしい line into 🔬 Anatomy to find the block with が.", "min": 15 },
+    { "tool": "ヅオリンゴー", "what": "Drills → Conjugation: warm up the short forms (dictionary, ない, た, なかった), which かもしれません needs. Then Drills → 🔬 Anatomy → 🏷 Tag: 5 sentences.", "min": 10 },
+    { "tool": "ヅオリンゴー · Journal", "what": "Write 5 sentences of your own in the Journal: 3 things you want (or wanted) and 2 guesses with かもしれません. Use \"Anatomy of what I wrote\" on the ほしい sentences and check that the thing you want is the SUBJECT.", "min": 10 },
+    { "tool": "Shadowing", "what": "Tap 🔊 on each example and repeat along 3 times. かもしれません has 7 beats of the same length: か・も・し・れ・ま・せ・ん. Don't rush the middle.", "min": 5 },
+    { "tool": "Speaking", "what": "Record your birthday text (homework h4) in 45 seconds or less. Listen and check that you said が with ほしい and を with ほしがっています.", "min": 5 }
+  ],
+  "culture": {
+    "title": "Valentine's Day and White Day in Japan",
+    "titleJp": "バレンタインデーとホワイトデー",
+    "body": "In Japan, on **February 14**, it is traditionally **women who give chocolate to men**, and the classic gift is chocolate itself. Chocolate for someone you love is called 本命チョコ (ほんめいチョコ), while 義理チョコ (ぎりチョコ, \"obligation chocolate\") goes to coworkers or classmates as a courtesy; in recent years, some workplaces have stopped this custom. Among friends, especially girls, 友チョコ (ともチョコ, \"friend chocolate\") is common, and some people make 手作り (てづくり, homemade) chocolate. One month later, on **March 14**, comes **White Day** (ホワイトデー): men who received chocolate give something back, often cookies, candy or other sweets. Some people joke that the return gift should be worth three times as much (三倍返し, さんばいがえし).",
+    "try": "Imagine it is February 14. Say out loud what you want (チョコがほしいです, or 何もほしくないです). Then make a guess about who at your school or workplace will get the most chocolate: もしかしたら、〜さんかもしれません。"
+  },
+  "checklist": [
+    "I can say what I want, don't want and wanted with ほしい, conjugating it like an い-adjective, without looking.",
+    "I mark the thing I want with が: パソコンがほしいです。",
+    "I choose ほしい for things and 〜たい for actions.",
+    "For someone else, I use 〜をほしがっています, not ほしい.",
+    "I can make a guess with short form + かもしれません, dropping だ after nouns and な-adjectives.",
+    "I know that かもしれません is a weaker guess than でしょう.",
+    "I did the homework, checked it against the answer key and redid what I got wrong.",
+    "If I have the Genki II Workbook: I did this lesson's exercises on ほしい and かもしれません."
+  ]
+}

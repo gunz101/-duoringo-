@@ -1,0 +1,188 @@
+{
+  "id": "20-3",
+  "unit": "G2-L20",
+  "genki": { "book": "Genki II", "lesson": 20, "points": ["Name という Item", "〜やすい／〜にくい"] },
+  "title": "Called… · easy/hard to",
+  "titleJp": "このペンはとても書きやすいです",
+  "canDo": [
+    "I can bring up a name the listener may not know with [name] という N: 「ひまわり」というレストラン, 田中さんという人.",
+    "I can ask what something is called with 何という N ですか and understand the answer.",
+    "I can say that something is easy or hard to do with verb stem + やすい / にくい: 読みやすい, 食べにくい.",
+    "I can conjugate 〜やすい / 〜にくい like い-adjectives: 読みやすくない, 分かりやすかった, 使いやすいペン."
+  ],
+  "duration": {
+    "total": "60–75 min",
+    "blocks": [
+      { "t": "Warm-up: say aloud the stem (ます form without ます) of 読む, 書く, 使う, 分かる, 食べる, 歩く, する and 来る", "min": 5 },
+      { "t": "Vocabulary: tap 🔊 on each word in block 3 and repeat it twice", "min": 10 },
+      { "t": "Grammar: point a (〜という), with the examples read aloud and the questions and answers said in pairs", "min": 15 },
+      { "t": "Grammar: point b (〜やすい / 〜にくい), with the examples aloud, one 🔬 and the full conjugation", "min": 15 },
+      { "t": "Lesson 20 video (block 6), only the part on these two points", "min": 10 },
+      { "t": "Notebook homework + checking it against the answer key", "min": 15 },
+      { "t": "Checklist (block 10) + write your questions in the lesson notebook", "min": 5 }
+    ]
+  },
+  "prereqs": {
+    "aulas": ["20-2"],
+    "skills": [
+      "Verb stems (the ます form without ます): 読み, 書き, 使い, 分かり, 食べ, し, 来 (き). 〜やすい / 〜にくい attach to them, like the お〜になる of lesson 19-1.",
+      "Conjugating い-adjectives (lessons 05-1 and 05-2): 〜くない, 〜かった, 〜くなかった, and 〜くて (lesson 07-2). 〜やすい and 〜にくい follow exactly the same pattern.",
+      "Blocks that describe the noun after them (lesson 09-2): 〜という is one more block of that kind.",
+      "って (lesson 17-1), the casual version of と and という."
+    ],
+    "vocab": [
+      { "jp": "〜という", "kana": "〜という", "romaji": "-to iu", "en": "called…, named… (before a noun)" },
+      { "jp": "何という", "kana": "なんという", "romaji": "nan to iu", "en": "what… called? (何という花 = what flower / a flower called what?)" },
+      { "jp": "〜やすい", "kana": "〜やすい", "romaji": "-yasui", "en": "easy to… (after a verb stem)" },
+      { "jp": "〜にくい", "kana": "〜にくい", "romaji": "-nikui", "en": "hard to… (after a verb stem)" },
+      { "jp": "花", "kana": "はな", "romaji": "hana", "en": "flower" },
+      { "jp": "あじさい", "kana": "あじさい", "romaji": "ajisai", "en": "hydrangea" },
+      { "jp": "きっさてん", "kana": "きっさてん", "romaji": "kissaten", "en": "coffee shop, café" },
+      { "jp": "町", "kana": "まち", "romaji": "machi", "en": "town" },
+      { "jp": "歌", "kana": "うた", "romaji": "uta", "en": "song" },
+      { "jp": "料理", "kana": "りょうり", "romaji": "ryōri", "en": "dish; cooking" },
+      { "jp": "もの", "kana": "もの", "romaji": "mono", "en": "thing (〜というもの = a thing called…)" },
+      { "jp": "字", "kana": "じ", "romaji": "ji", "en": "(written) character; handwriting" },
+      { "jp": "説明", "kana": "せつめい", "romaji": "setsumei", "en": "explanation" },
+      { "jp": "軽い", "kana": "かるい", "romaji": "karui", "en": "light (not heavy)" },
+      { "jp": "くつ", "kana": "くつ", "romaji": "kutsu", "en": "shoes" },
+      { "jp": "はく", "kana": "はく", "romaji": "haku", "en": "to wear, to put on (shoes, pants)" },
+      { "jp": "薬", "kana": "くすり", "romaji": "kusuri", "en": "medicine; 薬を飲む = to take medicine" },
+      { "jp": "道", "kana": "みち", "romaji": "michi", "en": "road, street; the way" },
+      { "jp": "せまい", "kana": "せまい", "romaji": "semai", "en": "narrow; small (a room)" },
+      { "jp": "アプリ", "kana": "アプリ", "romaji": "apuri", "en": "app" },
+      { "jp": "かぜをひく", "kana": "かぜをひく", "romaji": "kaze o hiku", "en": "to catch a cold" },
+      { "jp": "百円ショップ", "kana": "ひゃくえんショップ", "romaji": "hyakuen shoppu", "en": "100-yen shop (casual: ひゃっきん, block 9)" },
+      { "jp": "見つける", "kana": "みつける", "romaji": "mitsukeru", "en": "to find" }
+    ]
+  },
+  "grammar": [
+    {
+      "id": "20-3-a",
+      "gc": null,
+      "title": "〜という N",
+      "gloss": "\"an N called…\"",
+      "explanation": "To mention a name the listener **may not know** — a shop, a person, a movie, a word — put the name + **という** before the category noun: 「ひまわり」というレストラン = \"a restaurant called Himawari\".\n• という is と (the quoting particle of lesson 08-2) + いう (\"to say\"): literally \"a restaurant (that people) call Himawari\".\n• The **name comes first and the category last** — the reverse of English \"a restaurant called Himawari\".\n\n**In the sentence:** the whole 〜という block **describes the noun right after it**, just like an adjective or a describing clause (lesson 09-2). The noun keeps its normal particle and its normal job: 「ひまわり」というレストラン**で** (PLACE) 昼ごはんを食べました。 / 田中さんという人**から** (FROM) 電話がありました。 Take the name block away and the sentence still works.\n• To ask what something is called: **何という + N ですか**: これは何という花ですか。 (\"What's this flower called?\") The answer can repeat the pattern — 「あじさい」という花です — or just give the name: あじさいです。\n• It is the natural way to bring up something new: a place in your country, a friend, a local dish. With a name everyone knows, という sounds as if you think the listener has never heard of it.\n• という never changes: no です or ます inside it. The politeness goes on the verb at the end.\n• In casual speech, という often becomes **って** (lesson 17-1): 「ひまわり」って店、知ってる？",
+      "structure": "[name] という [N] · 何という [N] ですか",
+      "examples": [
+        { "jp": "きのう、「ひまわり」というレストランで昼ごはんを食べました。", "kana": "きのう、「ひまわり」というレストランでひるごはんをたべました。", "romaji": "Kinō, Himawari to iu resutoran de hirugohan o tabemashita.", "en": "Yesterday I had lunch at a restaurant called Himawari.", "noAnat": true },
+        { "jp": "さっき、田中さんという人から電話がありましたよ。", "kana": "さっき、たなかさんというひとからでんわがありましたよ。", "romaji": "Sakki, Tanaka-san to iu hito kara denwa ga arimashita yo.", "en": "Someone called Tanaka phoned a little while ago. [lit. a moment ago, there was a call from a person called Tanaka]", "noAnat": true },
+        { "jp": "これは何という花ですか。— 「あじさい」という花です。", "kana": "これはなんというはなですか。— 「あじさい」というはなです。", "romaji": "Kore wa nan to iu hana desu ka. — Ajisai to iu hana desu.", "en": "What is this flower called? — It's a flower called ajisai.", "noAnat": true }
+      ],
+      "pitfalls": [
+        "Name first, category last (the reverse of English): レストランという「ひまわり」 ✗ → 「ひまわり」というレストラン ✓.",
+        "という doesn't take ます or です: 「ひまわり」といいますレストラン ✗ → 「ひまわり」というレストラン ✓.",
+        "Don't link the name with の: 田中さんの人 ✗ → 田中さんという人 ✓.",
+        "With a name everyone knows, leave という out: (to a Japanese friend) ふじさんという山にのぼりました ✗ (it sounds as if they had never heard of Mt. Fuji) → ふじさんにのぼりました ✓."
+      ],
+      "howToStudy": [
+        "Say aloud 5 sentences introducing things from your life that a Japanese friend wouldn't know: a street, a local dish, a band, a friend. 「…」という店が好きです。/ 「…」という友だちがいます。",
+        "Point at 3 objects around you whose Japanese name you know, and ask and answer aloud: これは何という〜ですか。— 「…」という〜です。 Then give the short answer too: 「…」です。",
+        "🔬 doesn't read 〜という correctly yet, so this point's examples have no 🔬. Drills → 🔬 Anatomy → 🔬 Analyze: paste きのう、レストランで昼ごはんを食べました。 and you get TIME, PLACE, OBJECT and PREDICATE. Now say it aloud with 「ひまわり」という in front of レストラン: the name block just describes the next noun, and nothing else changes."
+      ],
+      "flag": null
+    },
+    {
+      "id": "20-3-b",
+      "gc": null,
+      "title": "〜やすい / 〜にくい",
+      "gloss": "\"easy to…\" / \"hard to…\"",
+      "explanation": "**Verb stem + やすい** = \"**easy to** do\"; **verb stem + にくい** = \"**hard to** do\". The stem is the ます form without ます, the same one you used for お〜になる (lesson 19-1).\n• 読みます → 読み**やすい** (easy to read) · 読み**にくい** (hard to read)\n• 分かります → 分かりやすい (easy to understand) · 使います → 使いやすい (easy to use) · 食べます → 食べにくい (hard to eat) · 歩きます → 歩きにくい (hard to walk in) · します → しやすい · 来ます → 来やすい (きやすい)\n\n**The result is an い-adjective**, and it conjugates exactly like one:\n• negative: 読みやすく**ない** · past: 読みやすか**った** · past negative: 読みやすく**なかった** · て-form: 読みやすく**て** · before a noun: 読みやすい本\n\n**Who is who in the sentence:** the **thing** that is easy or hard is the topic or the subject (は/が), and 〜やすい／〜にくい is the **PREDICATE**: このペンは | 書きやすいです。 English adds a little word at the end — \"easy to write **with**\", \"hard to walk **in**\" — but Japanese needs nothing extra: the thing simply becomes the topic.\n• This やすい is not 安い (cheap): same sound, different word. After a stem it is written in kana.\n• 〜にくい describes difficulty that comes from **the thing or the situation**: small print, a heavy door, a crowded street. For a big challenge that depends on effort or talent (\"it's hard to become a doctor\"), Japanese usually says 〜のはむずかしいです instead.\n• 〜やすい can also mean \"**tends to**, easily\": 冬はかぜをひきやすいです。 (\"People catch colds easily in winter.\")",
+      "structure": "[verb stem] + やすい / にくい (→ conjugates like an い-adjective) · [thing] は [stem]やすいです。",
+      "examples": [
+        { "jp": "このペンは軽くて、とても書きやすいです。", "kana": "このペンはかるくて、とてもかきやすいです。", "romaji": "Kono pen wa karukute, totemo kakiyasui desu.", "en": "This pen is light and very easy to write with." },
+        { "jp": "先生の説明は分かりやすかったです。", "kana": "せんせいのせつめいはわかりやすかったです。", "romaji": "Sensei no setsumei wa wakariyasukatta desu.", "en": "The teacher's explanation was easy to understand." },
+        { "jp": "このくつは歩きにくいので、あまりはきません。", "kana": "このくつはあるきにくいので、あまりはきません。", "romaji": "Kono kutsu wa arukinikui node, amari hakimasen.", "en": "These shoes are hard to walk in, so I don't wear them much." }
+      ],
+      "pitfalls": [
+        "Attach it to the stem, not the dictionary form: 読むやすい ✗ → 読みやすい ✓; 分かるやすい ✗ → 分かりやすい ✓.",
+        "The thing takes は or が, not を: この本を読みやすいです ✗ → この本は読みやすいです ✓. (English \"easy to read this book\" tempts you to keep を.)",
+        "Conjugate it like an い-adjective: 読みやすいじゃないです ✗ → 読みやすくないです ✓; 分かりやすいでした ✗ → 分かりやすかったです ✓.",
+        "する and 来る use their stems too: するやすい ✗ → しやすい ✓; 来るやすい ✗ → 来やすい (きやすい) ✓."
+      ],
+      "howToStudy": [
+        "Pick 6 objects around you (your pen, your phone, your shoes, a book, a bag, a cup) and say one sentence aloud for each with 〜やすい or 〜にくい: このかばんは持ちやすいです。",
+        "Tap 🔬 on example 1: この (DESCRIBES NEXT), ペンは (TOPIC), 軽くて (…AND THEN), とても (HOW / HOW OFTEN) and 書きやすいです (PREDICATE). 🔬 tags the predicate's kind as \"action\" because it sees the verb 書く inside, but 書きやすい behaves like an い-adjective: 書きやすくない, 書きやすかった.",
+        "Conjugate aloud: take 分かりやすい and 食べにくい through every form — くない, かった, くなかった, くて — and put each one before a noun (分かりやすい説明, 食べにくい肉)."
+      ],
+      "flag": null
+    }
+  ],
+  "media": [
+    { "order": 1, "kind": "reading", "title": "Genki II · Lesson 20: the grammar notes on という and on 〜やすい／〜にくい", "where": "Your Genki II textbook", "url": "", "when": "Before this lesson or right after the grammar block. With this lesson you finish Genki II Lesson 20: reread the whole dialogue and check that you understand every point." },
+    { "order": 2, "kind": "video", "title": "Game Gengo: やすい and にくい (extra practice)", "where": "YouTube · Game Gengo channel", "url": "", "search": "Game Gengo yasui nikui JLPT N4", "when": "After point b" }
+  ],
+  "homework": {
+    "intro": "Do it by hand in your notebook. Write the Japanese with the kanji you already know and kana for the rest. Only then open the answer key, item by item. Circle what you got wrong and redo it the next day. If you have the Genki II Workbook, do this lesson's exercises too.",
+    "tasks": [
+      {
+        "id": "h1",
+        "type": "translate",
+        "prompt": "Translate into Japanese with 〜という. Put the names in 「」.",
+        "items": [
+          { "q": "I went to a café called Sakura.", "a": { "jp": "「さくら」というきっさてんに行きました。", "kana": "「さくら」というきっさてんにいきました。", "romaji": "Sakura to iu kissaten ni ikimashita." } },
+          { "q": "Do you know a song called \"Furusato\"?", "a": { "jp": "「ふるさと」という歌を知っていますか。", "kana": "「ふるさと」といううたをしっていますか。", "romaji": "Furusato to iu uta o shitte imasu ka." } },
+          { "q": "My family lives in a town called Campinas.", "a": { "jp": "家族は「カンピーナス」という町に住んでいます。", "kana": "かぞくは「カンピーナス」というまちにすんでいます。", "romaji": "Kazoku wa Kanpīnasu to iu machi ni sunde imasu." }, "note": "Talking about your own family to someone else: 家族, with no ご." },
+          { "q": "What is this dish called?", "a": { "jp": "これは何という料理ですか。", "kana": "これはなんというりょうりですか。", "romaji": "Kore wa nan to iu ryōri desu ka." }, "note": "何 is read なん before と." },
+          { "q": "Someone called Suzuki is waiting at the front desk.", "a": { "jp": "すずきさんという人がフロントで待っています。", "kana": "すずきさんというひとがフロントでまっています。", "romaji": "Suzuki-san to iu hito ga furonto de matte imasu." }, "note": "The noun (人) keeps its own particle: が." }
+        ]
+      },
+      {
+        "id": "h2",
+        "type": "transform",
+        "prompt": "Describe each thing with 〜やすい or 〜にくい, using the verb given. When there is a hint in brackets, join it with くて.",
+        "items": [
+          { "q": "このじしょ · 使う (easy)", "a": { "jp": "このじしょは使いやすいです。", "kana": "このじしょはつかいやすいです。", "romaji": "Kono jisho wa tsukaiyasui desu." } },
+          { "q": "この肉 · 食べる (hard)", "a": { "jp": "この肉は食べにくいです。", "kana": "このにくはたべにくいです。", "romaji": "Kono niku wa tabenikui desu." } },
+          { "q": "先生の字 · 読む (easy)", "a": { "jp": "先生の字は読みやすいです。", "kana": "せんせいのじはよみやすいです。", "romaji": "Sensei no ji wa yomiyasui desu." } },
+          { "q": "この町 · 住む (easy)", "a": { "jp": "この町は住みやすいです。", "kana": "このまちはすみやすいです。", "romaji": "Kono machi wa sumiyasui desu." }, "note": "住みやすい = \"a nice, easy place to live\"." },
+          { "q": "この薬 · 飲む (hard)", "a": { "jp": "この薬は飲みにくいです。", "kana": "このくすりはのみにくいです。", "romaji": "Kono kusuri wa nominikui desu." }, "note": "Medicine is \"drunk\" in Japanese: 飲みにくい = hard to swallow." },
+          { "q": "この道 · 歩く (hard; hint: せまい)", "a": { "jp": "この道はせまくて、歩きにくいです。", "kana": "このみちはせまくて、あるきにくいです。", "romaji": "Kono michi wa semakute, arukinikui desu." }, "note": "The reason first (せまくて), the verdict at the end (歩きにくいです)." }
+        ]
+      },
+      {
+        "id": "h3",
+        "type": "transform",
+        "prompt": "Put 〜やすい / 〜にくい into the form in brackets. Remember: it conjugates like an い-adjective.",
+        "items": [
+          { "q": "このアプリは使いやすいです。(negative)", "a": { "jp": "このアプリは使いやすくないです。", "kana": "このアプリはつかいやすくないです。", "romaji": "Kono apuri wa tsukaiyasukunai desu." }, "note": "使いやすくありません is also correct." },
+          { "q": "きのうのテストは分かりやすいです。(past)", "a": { "jp": "きのうのテストは分かりやすかったです。", "kana": "きのうのテストはわかりやすかったです。", "romaji": "Kinō no tesuto wa wakariyasukatta desu." } },
+          { "q": "このくつは歩きやすいです。(past negative)", "a": { "jp": "このくつは歩きやすくなかったです。", "kana": "このくつはあるきやすくなかったです。", "romaji": "Kono kutsu wa arukiyasukunakatta desu." } },
+          { "q": "この本は字が大きいです。読みやすいです。(join the two with くて)", "a": { "jp": "この本は字が大きくて、読みやすいです。", "kana": "このほんはじがおおきくて、よみやすいです。", "romaji": "Kono hon wa ji ga ōkikute, yomiyasui desu." } },
+          { "q": "ペンがほしいです。+ 書きやすい (put it before the noun)", "a": { "jp": "書きやすいペンがほしいです。", "kana": "かきやすいペンがほしいです。", "romaji": "Kakiyasui pen ga hoshii desu." }, "note": "Before a noun, the plain form: 書きやすい + ペン." }
+        ]
+      },
+      {
+        "id": "h4",
+        "type": "produce",
+        "prompt": "Write 4 sentences about something useful you bought (at a 100-yen shop, for example): say what it is called with 〜という, and describe it with 〜やすい / 〜にくい, at least once in another form (negative, past, くて or くなる). Then read them aloud and record yourself on your phone.",
+        "items": [
+          { "q": "Model (match its structure, not its words):", "a": { "jp": "きのう、百円ショップで「スマホスタンド」というものを買いました。軽くて、持ちやすいです。スマホで動画が見やすくなりました。でも、色が少しくらくて、ほかのものの中で見つけにくいです。", "kana": "きのう、ひゃくえんショップで「スマホスタンド」というものをかいました。かるくて、もちやすいです。スマホでどうががみやすくなりました。でも、いろがすこしくらくて、ほかのもののなかでみつけにくいです。", "romaji": "Kinō, hyakuen shoppu de sumaho sutando to iu mono o kaimashita. Karukute, mochiyasui desu. Sumaho de dōga ga miyasuku narimashita. Demo, iro ga sukoshi kurakute, hoka no mono no naka de mitsukenikui desu.", "en": "Yesterday I bought a thing called a phone stand at a 100-yen shop. It's light and easy to carry. Videos on my phone have become easier to watch. But its color is a bit dark, so it's hard to find among other things." }, "note": "Check: the name before という and the category noun after it; the stem before やすい / にくい; やすい / にくい conjugated like い-adjectives (見やすくなりました, 見つけにくいです); and the verdict always at the end." }
+        ]
+      }
+    ],
+    "workbook": []
+  },
+  "practice": [
+    { "tool": "Wagotabi", "what": "Play normally and hunt for という (names of places, characters and items: 〜という村, 〜という人) and for 〜やすい / 〜にくい. For each one you find, say aloud what is being named or described. Copy 2 lines into your notebook and log the session in Immersion → Games.", "min": 15 },
+    { "tool": "ヅオリンゴー · Journal", "what": "Write 3 sentences about things you use every day with 〜やすい / 〜にくい, and 1 that introduces a place you like with 〜という. Use \"Anatomy of what I wrote\" to check that, in the やすい / にくい sentences, the thing is the TOPIC and 〜やすい / 〜にくい is the PREDICATE.", "min": 10 },
+    { "tool": "ヅオリンゴー", "what": "Vocabulary/SRS: review this lesson's words in the 🌊 All deck. Then Drills → Conjugation: practice the ます form, since the stem of 〜やすい / 〜にくい is that form without ます.", "min": 10 },
+    { "tool": "Shadowing", "what": "Tap 🔊 on the examples of point b and repeat along 3 times. Keep the stem and やすい / にくい together as one word: か・き・や・す・い, あ・る・き・に・く・い.", "min": 5 },
+    { "tool": "Speaking", "what": "Record 30 seconds \"reviewing\" something you own for a friend: what it is called (〜という), what is easy and what is hard about it (〜やすい / 〜にくい). Listen and check that the verdict comes at the end of each sentence.", "min": 5 }
+  ],
+  "culture": {
+    "title": "100-yen shops",
+    "titleJp": "百円ショップ・ひゃっきん",
+    "body": "Japan has many **100-yen shops** (百円ショップ, often shortened to **ひゃっきん**, from 百円均一, \"everything at 100 yen\"). Most items cost 100 yen plus consumption tax, although many shops now also sell some products at higher prices, which are marked on the shelf or the label. You can find a bit of everything: kitchen goods, stationery, snacks, cleaning supplies, storage boxes, travel items and seasonal decorations. For visitors, they are a popular place to buy small souvenirs and everyday things they forgot to pack. Product labels often praise how easy things are to use with this lesson's grammar: 使いやすい, 持ちやすい, 洗いやすい.",
+    "try": "Imagine you are in a ひゃっきん looking for something whose name the clerk might not expect. Ask aloud: 「…」というものはありますか。 Then give your verdict on something you own that came from a cheap shop: 使いやすいです／使いにくいです。"
+  },
+  "checklist": [
+    "I bring up a name the listener may not know with [name] という N, name first and category last, without looking.",
+    "I ask 何という N ですか and understand both kinds of answer (「…」という N です / 「…」です).",
+    "I attach やすい / にくい to the stem (読みやすい, 分かりやすい, しやすい), never to the dictionary form.",
+    "I conjugate 〜やすい / 〜にくい like い-adjectives: くない, かった, くなかった, くて, and before a noun.",
+    "In 〜やすい / 〜にくい sentences, the thing takes は or が, not を.",
+    "I did the homework, checked it against the answer key and redid what I got wrong.",
+    "If I have the Genki II Workbook, I did the Lesson 20 exercises on という and 〜やすい／〜にくい."
+  ]
+}

@@ -2,61 +2,61 @@
   "id": "12-1",
   "unit": "G1-L12",
   "genki": { "book": "Genki I", "lesson": 12, "points": ["〜んです", "〜すぎる"] },
-  "title": "Explicar · demais",
+  "title": "Explaining · too much",
   "titleJp": "食べすぎたんです",
   "canDo": [
-    "Explicar o motivo de uma situação com 〜んです: \"é que estou com febre\", \"é que peguei um resfriado\".",
-    "Pedir uma explicação quando noto algo diferente: どうしたんですか。 e どうして 〜んですか。",
-    "Montar 〜なんです com substantivo e adjetivo な (病気なんです, しんぱいなんです) sem esquecer o な.",
-    "Saber quando NÃO usar 〜んです, para não soar insistente.",
-    "Dizer que algo passou do ponto com 〜すぎる (comi demais, caro demais, quieto demais) e conjugar すぎる no passado e na negativa."
+    "I can explain the reason behind a situation with 〜んです: \"the thing is, I have a fever\", \"it's that I caught a cold\".",
+    "I can ask for an explanation when I notice something is off: どうしたんですか。 and どうして 〜んですか。",
+    "I can build 〜なんです with nouns and な-adjectives (病気なんです, しんぱいなんです) without forgetting the な.",
+    "I know when NOT to use 〜んです, so that I don't sound pushy.",
+    "I can say something went too far with 〜すぎる (I ate too much, too expensive, too quiet) and conjugate すぎる in the past and the negative."
   ],
   "duration": {
     "total": "60–75 min",
     "blocks": [
-      { "t": "Aquecimento: diga em voz alta as formas curtas (dicionário, ない, た, なかった) de 食べる, 行く, 休む, する e 来る", "min": 5 },
-      { "t": "Vocabulário: ouvir 🔊 cada palavra e repetir 2 vezes", "min": 10 },
-      { "t": "Gramática 4a (〜んです): exemplos em voz alta + um 🔬", "min": 15 },
-      { "t": "Gramática 4b (〜すぎる): exemplos em voz alta + um 🔬", "min": 10 },
-      { "t": "Vídeo da Lição 12 (bloco 6), pausando nos exemplos", "min": 10 },
-      { "t": "Lição de casa no caderno + conferir no gabarito", "min": 15 },
-      { "t": "Checklist (bloco 10) + anotar dúvidas no caderno da aula", "min": 5 }
+      { "t": "Warm-up: say the short forms (dictionary, ない, た, なかった) of 食べる, 行く, 休む, する and 来る out loud", "min": 5 },
+      { "t": "Vocabulary: tap 🔊 on each word and repeat it twice", "min": 10 },
+      { "t": "Grammar 4a (〜んです): the examples aloud + one 🔬", "min": 15 },
+      { "t": "Grammar 4b (〜すぎる): the examples aloud + one 🔬", "min": 10 },
+      { "t": "Lesson 12 video (block 6), pausing on the examples", "min": 10 },
+      { "t": "Notebook homework + checking it against the answer key", "min": 15 },
+      { "t": "Checklist (block 10) + write your questions in the lesson notebook", "min": 5 }
     ]
   },
   "prereqs": {
     "aulas": ["05-1", "06-4", "08-1", "09-1", "11-2"],
     "skills": [
-      "Formas curtas no presente e no passado, afirmativas e negativas, de verbos, adjetivos e substantivos (Aulas 08-1 e 09-1). 〜んです é montado em cima delas.",
-      "Radical do verbo, a parte antes de ます (食べ, 飲み, し), e a diferença entre adjetivos い e な (Aulas 03-1 e 05-1).",
-      "Perguntar \"por quê?\" com どうして (Aula 06-4).",
-      "Os kanji das Lições 3–12 aparecem nas frases (休, 気, 病, 働…), sempre com o kana ao lado."
+      "Short forms in the present and the past, affirmative and negative, of verbs, adjectives and nouns (lessons 08-1 and 09-1). 〜んです is built on them.",
+      "The verb stem, the part before ます (食べ, 飲み, し), and the difference between い-adjectives and な-adjectives (lessons 03-1 and 05-1).",
+      "Asking \"why?\" with どうして (lesson 06-4).",
+      "The kanji of Lessons 3–12 appear in the sentences (休, 気, 病, 働…), always with the kana next to them."
     ],
     "vocab": [
-      { "jp": "かぜ", "kana": "かぜ", "romaji": "kaze", "pt": "resfriado, gripe" },
-      { "jp": "かぜを ひく", "kana": "かぜを ひく", "romaji": "kaze o hiku", "pt": "pegar um resfriado" },
-      { "jp": "ねつ", "kana": "ねつ", "romaji": "netsu", "pt": "febre (ねつが ある = estar com febre)" },
-      { "jp": "のど", "kana": "のど", "romaji": "nodo", "pt": "garganta" },
-      { "jp": "おなか", "kana": "おなか", "romaji": "onaka", "pt": "barriga, estômago" },
-      { "jp": "あたま", "kana": "あたま", "romaji": "atama", "pt": "cabeça" },
-      { "jp": "いたい", "kana": "いたい", "romaji": "itai", "pt": "que dói (のどが いたい = estou com dor de garganta)" },
-      { "jp": "気分", "kana": "きぶん", "romaji": "kibun", "pt": "como a pessoa se sente (気分が わるい = sentir-se mal)" },
-      { "jp": "元気", "kana": "げんき", "romaji": "genki", "pt": "disposição, saúde (元気が ない = estar abatido)" },
-      { "jp": "病気", "kana": "びょうき", "romaji": "byōki", "pt": "doença; doente" },
-      { "jp": "しんぱい(な)", "kana": "しんぱい(な)", "romaji": "shinpai (na)", "pt": "preocupado(a); preocupação" },
-      { "jp": "どうして", "kana": "どうして", "romaji": "dōshite", "pt": "por quê" },
-      { "jp": "どうしたんですか", "kana": "どうしたんですか", "romaji": "dō shita n desu ka", "pt": "o que houve? (quando você nota algo diferente)" },
-      { "jp": "お大事に", "kana": "おだいじに", "romaji": "odaiji ni", "pt": "melhoras! (para quem está doente)" },
-      { "jp": "休む", "kana": "やすむ", "romaji": "yasumu", "pt": "descansar; faltar (à aula, ao trabalho)" },
-      { "jp": "テスト", "kana": "テスト", "romaji": "tesuto", "pt": "prova, teste" },
-      { "jp": "しけん", "kana": "しけん", "romaji": "shiken", "pt": "exame, prova" },
-      { "jp": "〜すぎる", "kana": "〜すぎる", "romaji": "-sugiru", "pt": "… demais (passar do ponto)" },
-      { "jp": "おさけ", "kana": "おさけ", "romaji": "osake", "pt": "bebida alcoólica; saquê" },
-      { "jp": "高い", "kana": "たかい", "romaji": "takai", "pt": "caro; alto" },
-      { "jp": "しずか(な)", "kana": "しずか(な)", "romaji": "shizuka (na)", "pt": "quieto, silencioso" },
-      { "jp": "あまい", "kana": "あまい", "romaji": "amai", "pt": "doce (sabor)" },
-      { "jp": "へや", "kana": "へや", "romaji": "heya", "pt": "quarto, cômodo" },
-      { "jp": "働く", "kana": "はたらく", "romaji": "hataraku", "pt": "trabalhar" },
-      { "jp": "パーティー", "kana": "パーティー", "romaji": "pātī", "pt": "festa" }
+      { "jp": "かぜ", "kana": "かぜ", "romaji": "kaze", "en": "a cold" },
+      { "jp": "かぜを ひく", "kana": "かぜを ひく", "romaji": "kaze o hiku", "en": "to catch a cold" },
+      { "jp": "ねつ", "kana": "ねつ", "romaji": "netsu", "en": "fever (ねつが ある = to have a fever)" },
+      { "jp": "のど", "kana": "のど", "romaji": "nodo", "en": "throat" },
+      { "jp": "おなか", "kana": "おなか", "romaji": "onaka", "en": "stomach, belly" },
+      { "jp": "あたま", "kana": "あたま", "romaji": "atama", "en": "head" },
+      { "jp": "いたい", "kana": "いたい", "romaji": "itai", "en": "painful, sore (のどが いたい = I have a sore throat)" },
+      { "jp": "気分", "kana": "きぶん", "romaji": "kibun", "en": "how you feel (気分が わるい = to feel sick)" },
+      { "jp": "元気", "kana": "げんき", "romaji": "genki", "en": "energy, good health (元気が ない = to look down, to lack energy)" },
+      { "jp": "病気", "kana": "びょうき", "romaji": "byōki", "en": "illness; sick" },
+      { "jp": "しんぱい(な)", "kana": "しんぱい(な)", "romaji": "shinpai (na)", "en": "worried; worry" },
+      { "jp": "どうして", "kana": "どうして", "romaji": "dōshite", "en": "why" },
+      { "jp": "どうしたんですか", "kana": "どうしたんですか", "romaji": "dō shita n desu ka", "en": "What's wrong? (when you notice something is off)" },
+      { "jp": "お大事に", "kana": "おだいじに", "romaji": "odaiji ni", "en": "Get well soon! (to someone who is sick)" },
+      { "jp": "休む", "kana": "やすむ", "romaji": "yasumu", "en": "to rest; to be absent (from class, from work)" },
+      { "jp": "テスト", "kana": "テスト", "romaji": "tesuto", "en": "test, quiz" },
+      { "jp": "しけん", "kana": "しけん", "romaji": "shiken", "en": "exam" },
+      { "jp": "〜すぎる", "kana": "〜すぎる", "romaji": "-sugiru", "en": "too…, too much (going past the limit)" },
+      { "jp": "おさけ", "kana": "おさけ", "romaji": "osake", "en": "alcoholic drink; sake" },
+      { "jp": "高い", "kana": "たかい", "romaji": "takai", "en": "expensive; tall, high" },
+      { "jp": "しずか(な)", "kana": "しずか(な)", "romaji": "shizuka (na)", "en": "quiet" },
+      { "jp": "あまい", "kana": "あまい", "romaji": "amai", "en": "sweet (taste)" },
+      { "jp": "へや", "kana": "へや", "romaji": "heya", "en": "room" },
+      { "jp": "働く", "kana": "はたらく", "romaji": "hataraku", "en": "to work" },
+      { "jp": "パーティー", "kana": "パーティー", "romaji": "pātī", "en": "party" }
     ]
   },
   "grammar": [
@@ -64,24 +64,24 @@
       "id": "12-1-a",
       "gc": "12-1",
       "title": "〜んです",
-      "gloss": "é que… (explicar ou pedir explicação)",
-      "explanation": "〜んです não muda o fato; muda a **intenção** da frase. Ele diz \"é que…\", \"acontece que…\": você está **dando o contexto** de algo que o outro viu ou perguntou. Numa pergunta, 〜んですか **pede** esse contexto: \"o que houve?\", \"por que…?\".\n• Formação: **forma curta + んです**. 行く → 行くんです; 行った → 行ったんです; 行かない → 行かないんです; いたい → いたいんです.\n• Com **substantivo e adjetivo な** no presente afirmativo, o だ vira **な**: 病気 → 病気なんです; しんぱい → しんぱいなんです. No passado e na negativa não há troca: 病気だったんです, しんぱいじゃないんです.\n• O tempo vai **na forma curta**, antes do ん. O です do fim fica sempre です.\n• As duas frases que você mais vai usar: ao ver alguém abatido, どうしたんですか。 (\"O que houve?\"); para explicar, あたまが いたいんです。 (\"É que estou com dor de cabeça.\").\n• Na escrita e na fala bem formal aparece 〜のです, que é a mesma coisa. Na fala casual vira 〜んだ, e a pergunta vira só 〜の？ (どうしたの？).\n• Na frase, んです fica **grudado no predicado**, no fim. Tudo o que vem antes dele é o fato que está sendo explicado.\n**Quando NÃO usar:** para informar um fato simples, sem contexto, use a forma normal: 七時に 起きます。 E cuidado com a pergunta: 〜んですか mostra que você **notou algo e quer a explicação**. Usado em toda pergunta, ou com どうして num tom de cobrança (どうして 来なかったんですか。), soa insistente, como se você exigisse satisfação. Se ninguém perguntou e não há nada a explicar, fique com o です / ます de sempre.",
-      "structure": "[forma curta] んです · [N / adj な] なんです · どうして 〜んですか",
+      "gloss": "the thing is… (giving or asking for an explanation)",
+      "explanation": "〜んです does not change the fact; it changes the **intent** of the sentence. It says \"the thing is…\", \"it's that…\", \"you see…\": you are **giving the background** to something the other person saw or asked about. In a question, 〜んですか **asks for** that background: \"what happened?\", \"why…?\".\n• Formation: **short form + んです**. 行く → 行くんです; 行った → 行ったんです; 行かない → 行かないんです; いたい → いたいんです.\n• With **nouns and な-adjectives** in the present affirmative, だ becomes **な**: 病気 → 病気なんです; しんぱい → しんぱいなんです. In the past and the negative there is no change: 病気だったんです, しんぱいじゃないんです.\n• The tense goes **in the short form**, before ん. The final です always stays です.\n• The two sentences you will use most: when you see someone looking unwell, どうしたんですか。 (\"What's wrong?\"); to explain, あたまが いたいんです。 (\"The thing is, I have a headache.\").\n• In writing and in very formal speech you will see 〜のです, which is the same thing. In casual speech it becomes 〜んだ, and the question becomes just 〜の？ (どうしたの？).\n• In the sentence, んです is **glued to the predicate**, at the end. Everything before it is the fact being explained.\n**When NOT to use it:** to state a plain fact, with no background, use the normal form: 七時に 起きます。 And be careful with questions: 〜んですか shows that you **noticed something and want the explanation**. Used in every question, or with どうして in an accusing tone (どうして 来なかったんですか。), it sounds pushy, as if you were demanding an account. If nobody asked and there is nothing to explain, stay with the usual です / ます.",
+      "structure": "[short form] んです · [N / な-adj] なんです · どうして 〜んですか",
       "examples": [
-        { "jp": "どうして 学校を 休んだんですか。— かぜを ひいたんです。", "kana": "どうして がっこうを やすんだんですか。— かぜを ひいたんです。", "romaji": "Dōshite gakkō o yasunda n desu ka. — Kaze o hiita n desu.", "pt": "Por que você faltou à aula? — É que peguei um resfriado." },
-        { "jp": "元気が ないですね。— あしたは テストなんです。", "kana": "げんきが ないですね。— あしたは テストなんです。", "romaji": "Genki ga nai desu ne. — Ashita wa tesuto na n desu.", "pt": "Você está abatido, né? — É que amanhã tem prova." },
-        { "jp": "アナさん、もう 帰るんですか。— ええ、ちょっと 気分が わるいんです。", "kana": "アナさん、もう かえるんですか。— ええ、ちょっと きぶんが わるいんです。", "romaji": "Ana-san, mō kaeru n desu ka. — Ee, chotto kibun ga warui n desu.", "pt": "Ana, você já vai embora? — Vou, é que estou me sentindo meio mal." }
+        { "jp": "どうして 学校を 休んだんですか。— かぜを ひいたんです。", "kana": "どうして がっこうを やすんだんですか。— かぜを ひいたんです。", "romaji": "Dōshite gakkō o yasunda n desu ka. — Kaze o hiita n desu.", "en": "Why did you miss school? — The thing is, I caught a cold." },
+        { "jp": "元気が ないですね。— あした テストが あるんです。", "kana": "げんきが ないですね。— あした テストが あるんです。", "romaji": "Genki ga nai desu ne. — Ashita tesuto ga aru n desu.", "en": "You seem down. — It's that I have a test tomorrow." },
+        { "jp": "アナさん、もう 帰るんですか。— ええ、ちょっと 気分が わるいんです。", "kana": "アナさん、もう かえるんですか。— ええ、ちょっと きぶんが わるいんです。", "romaji": "Ana-san, mō kaeru n desu ka. — Ee, chotto kibun ga warui n desu.", "en": "Ana, are you leaving already? — Yes, I'm feeling a bit sick, you see." }
       ],
       "pitfalls": [
-        "Com substantivo e adjetivo な, não esqueça o な: ○ 病気なんです × 病気んです; ○ しずかなんです × しずかだんです.",
-        "O ん pede a forma curta, não a forma ます: ○ 行くんです × 行きますんです.",
-        "O passado vai antes do ん: ○ かぜを ひいたんです × かぜを ひくんでした (isso não quer dizer \"peguei um resfriado\").",
-        "Não coloque んです em toda frase. Numa autoapresentação, ブラジル人です。 basta; ブラジル人なんです。 soa como se você estivesse se justificando de alguma coisa."
+        "With nouns and な-adjectives, don't forget the な: 病気んです ✗ → 病気なんです ✓; しずかだんです ✗ → しずかなんです ✓.",
+        "ん needs the short form, not the ます-form: 行きますんです ✗ → 行くんです ✓.",
+        "The past goes before ん: かぜを ひくんでした ✗ (this does not mean \"I caught a cold\") → かぜを ひいたんです ✓.",
+        "Don't put んです on every sentence. In a self-introduction, ブラジル人です。 is enough; ブラジル人なんです。 sounds as if you were justifying something."
       ],
       "howToStudy": [
-        "Aperte 🔬 no exemplo 1. A Anatomia do ヅオリンゴー lê 〜んです como EXPLICAÇÃO, grudado no predicado: o fato é かぜを ひいた, e o んです diz \"é esse o motivo\". Leia sempre a partir do fim.",
-        "Treino de reação, falando: imagine 4 situações (colega com sono, amigo que não comeu, alguém indo embora cedo, alguém com a mão na cabeça). Para cada uma, pergunte どうしたんですか。 e responda com um motivo + んです (ねむいんです, おなかが いたいんです…).",
-        "No caderno, faça uma tabela com 4 linhas (verbo, adjetivo い, adjetivo な, substantivo) e 2 colunas (presente, passado), tudo com + んです. Marque de vermelho as casas onde entra o な."
+        "Tap 🔬 on example 1. ヅオリンゴー's Anatomy reads 〜んです as a PREDICATE (explanation): the fact is かぜを ひいた, and んです says \"that's the reason\". Always read from the end.",
+        "Reaction drill, out loud: imagine 4 situations (a sleepy classmate, a friend who didn't eat, someone leaving early, someone holding their head). For each one, ask どうしたんですか。 and answer with a reason + んです (ねむいんです, おなかが いたいんです…).",
+        "In your notebook, make a table with 4 rows (verb, い-adjective, な-adjective, noun) and 2 columns (present, past), all with + んです. Mark in red the cells where な goes in."
       ],
       "flag": null
     },
@@ -89,110 +89,110 @@
       "id": "12-1-b",
       "gc": "12-2",
       "title": "〜すぎる",
-      "gloss": "… demais (passar do ponto)",
-      "explanation": "すぎる quer dizer \"passar do limite\". Grudado num verbo ou adjetivo, diz que algo foi **além do que devia**: comer demais, caro demais. Por isso quase sempre soa como **reclamação** ou problema.\n• **Verbo**: radical (a parte antes de ます) + すぎる. 食べます → 食べすぎる; 飲みます → 飲みすぎる; 勉強します → 勉強しすぎる.\n• **Adjetivo い**: tire o い. 高い → 高すぎる; ねむい → ねむすぎる. Exceção: いい → **よすぎる**.\n• **Adjetivo な**: tire o な. しずか → しずかすぎる; きれい → きれいすぎる.\n• すぎる **conjuga como verbo る**: すぎます, すぎません, すぎました, すぎない, すぎた… (食べすぎました, 高すぎます).\n• O resto da frase não muda: o objeto continua com を (おさけを 飲みすぎました) e o assunto continua com は (この へやは 小さすぎます).\n• Na frase, 飲みすぎました é **um bloco só de predicado**, e é ele que você lê primeiro.\n• Na internet e na fala jovem, すぎる aparece como elogio exagerado (おいしすぎる！), mas o sentido básico é excesso. Para elogiar do jeito normal, use とても: とても おいしいです。",
-      "structure": "[radical do verbo] すぎる · [adj い sem い] すぎる · [adj な sem な] すぎる",
+      "gloss": "too…, too much (going past the limit)",
+      "explanation": "すぎる means \"to go past (a limit)\". Attached to a verb or an adjective, it says something went **beyond what it should**: eating too much, too expensive. That is why it almost always sounds like a **complaint** or a problem, just like English \"too\".\n• **Verb**: stem (the part before ます) + すぎる. 食べます → 食べすぎる; 飲みます → 飲みすぎる; 勉強します → 勉強しすぎる.\n• **い-adjective**: drop the い. 高い → 高すぎる; ねむい → ねむすぎる. Exception: いい → **よすぎる**.\n• **な-adjective**: drop the な. しずか → しずかすぎる; きれい → きれいすぎる.\n• すぎる **conjugates like a る-verb**: すぎます, すぎません, すぎました, すぎない, すぎた… (食べすぎました, 高すぎます).\n• The rest of the sentence does not change: the object keeps を (おさけを 飲みすぎました) and the topic keeps は (この へやは 小さすぎます).\n• In the sentence, 飲みすぎました is **a single predicate block**, and it is what you read first.\n• Online and in young people's speech, すぎる also shows up as exaggerated praise (おいしすぎる！), but the basic meaning is excess. For normal praise, use とても: とても おいしいです。",
+      "structure": "[verb stem] すぎる · [い-adj without い] すぎる · [な-adj without な] すぎる",
       "examples": [
-        { "jp": "パーティーで おさけを 飲みすぎました。", "kana": "パーティーで おさけを のみすぎました。", "romaji": "Pātī de osake o nomisugimashita.", "pt": "Bebi demais na festa." },
-        { "jp": "サンパウロの アパートは 高すぎます。", "kana": "サンパウロの アパートは たかすぎます。", "romaji": "Sanpauro no apāto wa takasugimasu.", "pt": "Os apartamentos de São Paulo são caros demais." },
-        { "jp": "この 町は しずかすぎます。レストランも コンビニも ありません。", "kana": "この まちは しずかすぎます。レストランも コンビニも ありません。", "romaji": "Kono machi wa shizukasugimasu. Resutoran mo konbini mo arimasen.", "pt": "Esta cidade é quieta demais. Não tem nem restaurante nem loja de conveniência." }
+        { "jp": "パーティーで おさけを 飲みすぎました。", "kana": "パーティーで おさけを のみすぎました。", "romaji": "Pātī de osake o nomisugimashita.", "en": "I drank too much at the party." },
+        { "jp": "サンパウロの アパートは 高すぎます。", "kana": "サンパウロの アパートは たかすぎます。", "romaji": "Sanpauro no apāto wa takasugimasu.", "en": "Apartments in São Paulo are too expensive." },
+        { "jp": "この 町は しずかすぎます。レストランも コンビニも ありません。", "kana": "この まちは しずかすぎます。レストランも コンビニも ありません。", "romaji": "Kono machi wa shizukasugimasu. Resutoran mo konbini mo arimasen.", "en": "This town is too quiet. There are no restaurants or convenience stores. [lit. neither restaurants nor convenience stores exist]" }
       ],
       "pitfalls": [
-        "Com adjetivo い, o い sai: ○ 高すぎます × 高いすぎます.",
-        "きれい e きらい terminam em い, mas são adjetivos な, então o い fica: ○ きれいすぎる × きれすぎる.",
-        "いい é irregular: ○ よすぎる × いすぎる.",
-        "\"Muito\" não é \"demais\". Para elogiar, use とても: この レストランは とても いいです。 Com すぎる a frase vira problema: 高すぎます = caro demais (não dá para comprar)."
+        "With い-adjectives, the い goes away: 高いすぎます ✗ → 高すぎます ✓.",
+        "きれい and きらい end in い, but they are な-adjectives, so the い stays: きれすぎる ✗ → きれいすぎる ✓.",
+        "いい is irregular: いすぎる ✗ → よすぎる ✓.",
+        "\"Very\" is not \"too\". To praise, use とても: この レストランは よすぎます ✗ (if you just mean it's great) → この レストランは とても いいです ✓. With すぎる the sentence becomes a problem: 高すぎます = too expensive (you can't buy it)."
       ],
       "howToStudy": [
-        "Transformação oral rápida: diga 8 formas com すぎる, cada uma no ます e no ました. São 4 verbos (食べる, 飲む, 働く, 勉強する) e 4 adjetivos (高い, いい, しずか, あまい).",
-        "Aperte 🔬 no exemplo 1: repare que 飲みすぎました é UM bloco de predicado e que おさけを continua sendo o objeto. Depois faça 🧱 Montar de trás pra frente com a mesma frase.",
-        "Junte os dois pontos: escreva no caderno 3 queixas explicadas com 〜すぎた + んです (おなかが いたいんです。ケーキを 食べすぎたんです。)."
+        "Quick oral transformation: say 8 forms with すぎる, each in ます and in ました. That is 4 verbs (食べる, 飲む, 働く, 勉強する) and 4 adjectives (高い, いい, しずか, あまい).",
+        "Tap 🔬 on example 1: notice that 飲みすぎました is ONE PREDICATE block and that おさけを is still the OBJECT. Then do 🧱 Build from the end with the same sentence.",
+        "Combine the two points: in your notebook, write 3 complaints explained with 〜すぎた + んです (おなかが いたいんです。ケーキを 食べすぎたんです。)."
       ],
       "flag": null
     }
   ],
   "media": [
-    { "order": 1, "kind": "leitura", "title": "Genki I · Lição 12: diálogo, vocabulário e as explicações de gramática 〜んです e 〜すぎる", "where": "Seu livro Genki I (3ª ed.)", "url": "", "when": "Antes desta aula ou logo depois do bloco de gramática" },
-    { "order": 2, "kind": "video", "title": "ToKini Andy: aula da Lição 12 do Genki I (〜んです e 〜すぎる)", "where": "YouTube · canal ToKini Andy", "url": "", "search": "ToKini Andy Genki Lesson 12", "when": "Depois de estudar os 2 pontos: o vídeo confirma e dá mais exemplos" },
-    { "order": 3, "kind": "video", "title": "Japanese Ammo with Misa: a nuance de 〜のです / 〜んです", "where": "YouTube · canal Japanese Ammo with Misa", "url": "", "search": "Japanese Ammo with Misa のです んです", "when": "Opcional: se ainda não ficou claro quando usar e quando não usar 〜んです" },
-    { "order": 4, "kind": "app", "title": "genki-companion: Lição 12, pontos 1 e 2 (marque ✍️ quando terminar)", "where": "../genki-companion/index.html", "url": "../genki-companion/index.html", "when": "No fim, para revisar e marcar o progresso" }
+    { "order": 1, "kind": "reading", "title": "Genki I · Lesson 12: the dialogue, vocabulary and grammar notes on 〜んです and 〜すぎる", "where": "Your Genki I textbook (3rd ed.)", "url": "", "when": "Before this lesson or right after the grammar block" },
+    { "order": 2, "kind": "video", "title": "ToKini Andy: Genki I Lesson 12 lecture (〜んです and 〜すぎる)", "where": "YouTube · ToKini Andy channel", "url": "", "search": "ToKini Andy Genki Lesson 12", "when": "After studying the 2 points: the video confirms them and gives more examples" },
+    { "order": 3, "kind": "video", "title": "Japanese Ammo with Misa: the nuance of 〜のです / 〜んです", "where": "YouTube · Japanese Ammo with Misa channel", "url": "", "search": "Japanese Ammo with Misa のです んです", "when": "Optional: if it is still unclear when to use 〜んです and when not to" },
+    { "order": 4, "kind": "app", "title": "genki-companion: Lesson 12, points 1 and 2 (tick ✍️ when you finish)", "where": "../genki-companion/index.html", "url": "../genki-companion/index.html", "when": "At the end, to review and mark your progress" }
   ],
   "homework": {
-    "intro": "Faça no caderno, à mão. Escreva o japonês com os kanji que você já conhece e kana no resto. Só depois abra o gabarito, item por item. Circule o que errou e refaça no dia seguinte.",
+    "intro": "Do it by hand in your notebook. Write the Japanese with the kanji you already know and kana for the rest. Only then open the answer key, item by item. Circle what you got wrong and redo it the next day.",
     "tasks": [
       {
         "id": "h1",
-        "type": "transformar",
-        "prompt": "Transforme cada frase em explicação com 〜んです. Mantenha o tempo e a negativa.",
+        "type": "transform",
+        "prompt": "Turn each sentence into an explanation with 〜んです. Keep the tense and the negative.",
         "items": [
-          { "q": "のどが いたいです。", "a": { "jp": "のどが いたいんです。", "romaji": "Nodo ga itai n desu." }, "note": "Adjetivo い: forma curta いたい + んです." },
-          { "q": "きのう ねませんでした。", "a": { "jp": "きのう ねなかったんです。", "romaji": "Kinō nenakatta n desu." }, "note": "ませんでした → forma curta なかった, e depois んです." },
-          { "q": "あしたは しけんです。", "a": { "jp": "あしたは しけんなんです。", "romaji": "Ashita wa shiken na n desu." }, "note": "Substantivo no presente: です → なんです." },
-          { "q": "母は 病気でした。", "a": { "jp": "母は 病気だったんです。", "kana": "ははは びょうきだったんです。", "romaji": "Haha wa byōki datta n desu." }, "note": "No passado não entra な: だった + んです." },
-          { "q": "テストが しんぱいです。", "a": { "jp": "テストが しんぱいなんです。", "romaji": "Tesuto ga shinpai na n desu." }, "note": "しんぱい é adjetivo な: な + んです." },
+          { "q": "のどが いたいです。", "a": { "jp": "のどが いたいんです。", "romaji": "Nodo ga itai n desu." }, "note": "い-adjective: the short form いたい + んです." },
+          { "q": "きのう ねませんでした。", "a": { "jp": "きのう ねなかったんです。", "romaji": "Kinō nenakatta n desu." }, "note": "ませんでした → the short form なかった, then んです." },
+          { "q": "あしたは しけんです。", "a": { "jp": "あしたは しけんなんです。", "romaji": "Ashita wa shiken na n desu." }, "note": "A noun in the present: です → なんです." },
+          { "q": "母は 病気でした。", "a": { "jp": "母は 病気だったんです。", "kana": "ははは びょうきだったんです。", "romaji": "Haha wa byōki datta n desu." }, "note": "In the past, no な: だった + んです." },
+          { "q": "テストが しんぱいです。", "a": { "jp": "テストが しんぱいなんです。", "romaji": "Tesuto ga shinpai na n desu." }, "note": "しんぱい is a な-adjective: な + んです." },
           { "q": "パーティーに 行きません。", "a": { "jp": "パーティーに 行かないんです。", "kana": "パーティーに いかないんです。", "romaji": "Pātī ni ikanai n desu." } }
         ]
       },
       {
         "id": "h2",
-        "type": "completar",
-        "prompt": "Complete com a forma de 〜すぎる pedida entre parênteses.",
+        "type": "fill",
+        "prompt": "Fill in the form of 〜すぎる shown in brackets.",
         "items": [
-          { "q": "ケーキを ＿＿＿＿。(食べる · passado)", "a": { "jp": "食べすぎました", "kana": "たべすぎました", "romaji": "tabesugimashita" } },
-          { "q": "この くつは ＿＿＿＿。(大きい · presente)", "a": { "jp": "大きすぎます", "kana": "おおきすぎます", "romaji": "ōkisugimasu" }, "note": "Adjetivo い: tira o い e junta すぎます." },
-          { "q": "ペドロさんは ＿＿＿＿。(働く · presente)", "a": { "jp": "働きすぎます", "kana": "はたらきすぎます", "romaji": "hatarakisugimasu" }, "note": "Radical de 働きます: 働き." },
-          { "q": "この コーヒーは ＿＿＿＿。(あまい · presente)", "a": { "jp": "あますぎます", "romaji": "amasugimasu" } },
-          { "q": "この 町は ＿＿＿＿。(にぎやか · presente)", "a": { "jp": "にぎやかすぎます", "romaji": "nigiyakasugimasu" }, "note": "Adjetivo な: tira o な." },
-          { "q": "きのう テレビを ＿＿＿＿。(見る · passado)", "a": { "jp": "見すぎました", "kana": "みすぎました", "romaji": "misugimashita" }, "note": "見る é verbo る: o radical é só 見." }
+          { "q": "ケーキを ＿＿＿＿。(食べる · past)", "a": { "jp": "食べすぎました", "kana": "たべすぎました", "romaji": "tabesugimashita" } },
+          { "q": "この くつは ＿＿＿＿。(大きい · present)", "a": { "jp": "大きすぎます", "kana": "おおきすぎます", "romaji": "ōkisugimasu" }, "note": "い-adjective: drop the い and add すぎます." },
+          { "q": "ペドロさんは ＿＿＿＿。(働く · present)", "a": { "jp": "働きすぎます", "kana": "はたらきすぎます", "romaji": "hatarakisugimasu" }, "note": "The stem of 働きます is 働き." },
+          { "q": "この コーヒーは ＿＿＿＿。(あまい · present)", "a": { "jp": "あますぎます", "romaji": "amasugimasu" } },
+          { "q": "この 町は ＿＿＿＿。(にぎやか · present)", "a": { "jp": "にぎやかすぎます", "romaji": "nigiyakasugimasu" }, "note": "な-adjective: drop the な." },
+          { "q": "きのう テレビを ＿＿＿＿。(見る · past)", "a": { "jp": "見すぎました", "kana": "みすぎました", "romaji": "misugimashita" }, "note": "見る is a る-verb: its stem is just 見." }
         ]
       },
       {
         "id": "h3",
-        "type": "traduzir",
-        "prompt": "Traduza para o japonês. Use 〜んです, 〜すぎる ou os dois.",
+        "type": "translate",
+        "prompt": "Translate into Japanese. Use 〜んです, 〜すぎる or both.",
         "items": [
-          { "q": "O que houve? — É que estou com febre.", "a": { "jp": "どうしたんですか。— ねつが あるんです。", "romaji": "Dō shita n desu ka. — Netsu ga aru n desu." } },
-          { "q": "Por que você não comeu? — É que estou com dor de barriga.", "a": { "jp": "どうして 食べなかったんですか。— おなかが いたいんです。", "kana": "どうして たべなかったんですか。— おなかが いたいんです。", "romaji": "Dōshite tabenakatta n desu ka. — Onaka ga itai n desu." } },
-          { "q": "É que ontem eu trabalhei demais.", "a": { "jp": "きのう 働きすぎたんです。", "kana": "きのう はたらきすぎたんです。", "romaji": "Kinō hatarakisugita n desu." }, "note": "すぎる conjuga como verbo る: すぎた + んです." },
-          { "q": "Este quarto é pequeno demais.", "a": { "jp": "この へやは 小さすぎます。", "kana": "この へやは ちいさすぎます。", "romaji": "Kono heya wa chiisasugimasu." }, "note": "Aqui não há nada a explicar: é só uma queixa, então não precisa de んです." },
-          { "q": "A Ana está doente? — Está, é que ela pegou um resfriado.", "a": { "jp": "アナさんは 病気なんですか。— ええ、かぜを ひいたんです。", "kana": "アナさんは びょうきなんですか。— ええ、かぜを ひいたんです。", "romaji": "Ana-san wa byōki na n desu ka. — Ee, kaze o hiita n desu." }, "note": "A pergunta usa 〜なんですか porque você notou algo (ela faltou, está abatida) e quer a explicação." }
+          { "q": "What's wrong? — The thing is, I have a fever.", "a": { "jp": "どうしたんですか。— ねつが あるんです。", "romaji": "Dō shita n desu ka. — Netsu ga aru n desu." } },
+          { "q": "Why didn't you eat? — It's that I have a stomachache.", "a": { "jp": "どうして 食べなかったんですか。— おなかが いたいんです。", "kana": "どうして たべなかったんですか。— おなかが いたいんです。", "romaji": "Dōshite tabenakatta n desu ka. — Onaka ga itai n desu." } },
+          { "q": "The thing is, I worked too much yesterday.", "a": { "jp": "きのう 働きすぎたんです。", "kana": "きのう はたらきすぎたんです。", "romaji": "Kinō hatarakisugita n desu." }, "note": "すぎる conjugates like a る-verb: すぎた + んです." },
+          { "q": "This room is too small.", "a": { "jp": "この へやは 小さすぎます。", "kana": "この へやは ちいさすぎます。", "romaji": "Kono heya wa chiisasugimasu." }, "note": "There is nothing to explain here: it is just a complaint, so no んです is needed." },
+          { "q": "Is Ana sick? — Yes, it's that she caught a cold.", "a": { "jp": "アナさんは 病気なんですか。— ええ、かぜを ひいたんです。", "kana": "アナさんは びょうきなんですか。— ええ、かぜを ひいたんです。", "romaji": "Ana-san wa byōki na n desu ka. — Ee, kaze o hiita n desu." }, "note": "The question uses 〜なんですか because you noticed something (she was absent, she looks unwell) and want the explanation." }
         ]
       },
       {
         "id": "h4",
-        "type": "produzir",
-        "prompt": "Escreva um mini-diálogo de 3 falas: alguém nota que você está mal e pergunta (どうしたんですか), você explica com 〜んです e diz a causa com 〜すぎる, e a pessoa responde com お大事に. Depois leia em voz alta e grave no celular.",
+        "type": "produce",
+        "prompt": "Write a 3-line mini-dialogue: someone notices you don't look well and asks (どうしたんですか), you explain with 〜んです and give the cause with 〜すぎる, and the other person answers with お大事に. Then read it aloud and record it on your phone.",
         "items": [
-          { "q": "Modelo, que o seu diálogo deve seguir na estrutura e não nas palavras:", "a": { "jp": "元気が ないですね。どうしたんですか。— おなかが いたいんです。きのう ブラジルりょうりを 食べすぎたんです。— そうですか。お大事に。", "kana": "げんきが ないですね。どうしたんですか。— おなかが いたいんです。きのう ブラジルりょうりを たべすぎたんです。— そうですか。おだいじに。", "romaji": "Genki ga nai desu ne. Dō shita n desu ka. — Onaka ga itai n desu. Kinō burajiru ryōri o tabesugita n desu. — Sō desu ka. Odaiji ni.", "pt": "Você está abatido, né? O que houve? — É que estou com dor de barriga. Ontem comi comida brasileira demais. — Entendi. Melhoras!" }, "note": "Confira: forma curta antes de んです (いたい, 食べすぎた), すぎる grudado no radical (食べ + すぎた) e んです só nas falas que explicam alguma coisa." }
+          { "q": "Model (match its structure, not its words):", "a": { "jp": "元気が ないですね。どうしたんですか。— おなかが いたいんです。きのう ブラジルりょうりを 食べすぎたんです。— そうですか。お大事に。", "kana": "げんきが ないですね。どうしたんですか。— おなかが いたいんです。きのう ブラジルりょうりを たべすぎたんです。— そうですか。おだいじに。", "romaji": "Genki ga nai desu ne. Dō shita n desu ka. — Onaka ga itai n desu. Kinō burajiru ryōri o tabesugita n desu. — Sō desu ka. Odaiji ni.", "en": "You seem down. What's wrong? — The thing is, I have a stomachache. I ate too much Brazilian food yesterday. — I see. Get well soon." }, "note": "Check: the short form before んです (いたい, 食べすぎた), すぎる glued to the stem (食べ + すぎた), and んです only in the lines that explain something." }
         ]
       }
     ],
     "workbook": [
-      { "p": 111, "t": "1 · ～んです", "tip": "Faça depois do ponto 4a." },
-      { "p": 112, "t": "2 · ～すぎる", "tip": "Faça depois do ponto 4b. Confira no Genki Answer Key oficial." }
+      { "p": 111, "t": "1 · ～んです", "tip": "Do it after point 4a." },
+      { "p": 112, "t": "2 · ～すぎる", "tip": "Do it after point 4b. Check it with the official Genki Answer Key." }
     ]
   },
   "practice": [
-    { "tool": "Wagotabi", "what": "Jogue normalmente e cace 〜んです, 〜んだ e 〜の？ nos diálogos. Sempre que um personagem explicar algo ou perguntar \"o que houve?\", pause e diga em voz alta qual é o fato que está sendo explicado. Copie 2 dessas frases no caderno; se aparecer 〜すぎる, anote também.", "min": 15 },
-    { "tool": "ヅオリンゴー", "what": "Vocabulário da Lição 12 no SRS. Depois, Praticar L12 e Treinos → Conjugação com as formas curtas, que são a base do 〜んです.", "min": 10 },
-    { "tool": "ヅオリンゴー · 🔬 Anatomia", "what": "Treinos → 🔬 Anatomia → 🔬 Analisar: cole os 3 exemplos de 〜んです e ache o fato explicado em cada um. Depois, 🏷 Etiquetar: 5 frases.", "min": 10 },
-    { "tool": "Shadowing", "what": "Toque 🔊 em cada exemplo desta aula e repita junto 3 vezes. O ん de んです é curto, mas conta como uma sílaba inteira: い-た-い-ん-で-す.", "min": 5 },
-    { "tool": "Fala", "what": "Grave o diálogo da lição de casa (h4) fazendo as duas vozes, em até 30 s.", "min": 5 }
+    { "tool": "Wagotabi", "what": "Play normally and hunt for 〜んです, 〜んだ and 〜の？ in the dialogues. Whenever a character explains something or asks \"what's wrong?\", pause and say out loud which fact is being explained. Copy 2 of those lines into your notebook; if 〜すぎる shows up, write it down too.", "min": 15 },
+    { "tool": "ヅオリンゴー", "what": "Lesson 12 vocabulary in the SRS. Then Practice L12, and Drills → Conjugation with the short forms, which are the base of 〜んです.", "min": 10 },
+    { "tool": "ヅオリンゴー · 🔬 Anatomy", "what": "Drills → 🔬 Anatomy → 🔬 Analyze: paste the 3 〜んです examples and find the fact being explained in each one. Then 🏷 Tag: 5 sentences.", "min": 10 },
+    { "tool": "Shadowing", "what": "Tap 🔊 on each example in this lesson and repeat along 3 times. The ん of んです is short, but it counts as a full beat: い-た-い-ん-で-す.", "min": 5 },
+    { "tool": "Speaking", "what": "Record the homework dialogue (h4), doing both voices, in 30 seconds or less.", "min": 5 }
   ],
   "culture": {
-    "title": "Máscara quando se está resfriado",
+    "title": "Wearing a mask when you have a cold",
     "titleJp": "マスク",
-    "body": "No Japão, quem está resfriado costuma usar **máscara (マスク)** no trem, no trabalho e na escola. A ideia principal é não passar a doença para os outros, então a máscara é vista como **consideração**, e não como sinal de algo grave. Muita gente também usa na primavera, por causa da alergia a pólen (かふんしょう), e no inverno, por causa do ar seco. Depois da pandemia o hábito ficou ainda mais comum, e ninguém estranha uma pessoa de máscara na rua. Em japonês se diz マスクを する (\"usar máscara\"). Também é educado tossir cobrindo a boca e avisar os colegas que você está resfriado.",
-    "try": "Treine a desculpa com 〜んです, como se você entrasse de máscara na aula: すみません、かぜを ひいたんです。 Diga 3 vezes, com um 会釈 leve (Aula 01-1)."
+    "body": "In Japan, people with a cold usually wear a **mask (マスク)** on the train, at work and at school. The main idea is not to pass the illness on to others, so the mask is seen as **consideration**, not as a sign of something serious. Many people also wear one in spring because of pollen allergies (かふんしょう), and in winter because of the dry air. Since the pandemic the habit has become even more common, and nobody finds a person in a mask on the street strange. In Japanese you say マスクを する (\"to wear a mask\"). It is also polite to cover your mouth when you cough and to let your coworkers know you have a cold.",
+    "try": "Practice the apology with 〜んです, as if you were walking into class wearing a mask: すみません、かぜを ひいたんです。 Say it 3 times, with a slight 会釈 (lesson 01-1)."
   },
   "checklist": [
-    "Monto 〜んです a partir de qualquer forma curta (presente, passado, negativa), sem olhar.",
-    "Coloco o な no lugar certo (病気なんです, しんぱいなんです) e sei que no passado fica だったんです.",
-    "Pergunto どうしたんですか。 e どうして 〜んですか。 e respondo explicando com 〜んです.",
-    "Sei dar um exemplo de quando NÃO usar 〜んです (um fato simples, sem nada a explicar).",
-    "Formo 〜すぎる com verbo, adjetivo い e adjetivo な, incluindo いい → よすぎる.",
-    "Conjugo すぎる como verbo る: 食べすぎました, 高すぎます, 働きすぎたんです.",
-    "Fiz a lição de casa e conferi o gabarito, e refiz o que errei.",
-    "Fiz as páginas 111–112 do Workbook."
+    "I build 〜んです from any short form (present, past, negative), without looking.",
+    "I put な in the right place (病気なんです, しんぱいなんです) and I know the past is だったんです.",
+    "I ask どうしたんですか。 and どうして 〜んですか。 and answer by explaining with 〜んです.",
+    "I can give an example of when NOT to use 〜んです (a plain fact, with nothing to explain).",
+    "I form 〜すぎる with verbs, い-adjectives and な-adjectives, including いい → よすぎる.",
+    "I conjugate すぎる like a る-verb: 食べすぎました, 高すぎます, 働きすぎたんです.",
+    "I did the homework, checked it against the answer key and redid what I got wrong.",
+    "I did Workbook pages 111–112."
   ]
 }

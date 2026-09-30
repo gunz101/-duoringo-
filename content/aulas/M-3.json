@@ -1,0 +1,361 @@
+{
+  "id": "M-3",
+  "unit": "G1-L12",
+  "genki": null,
+  "title": "Milestone 3 · N5 (end of Genki I)",
+  "titleJp": "日本語で 三分 話しましょう",
+  "canDo": [
+    "I can hold a simple 3-minute conversation in です／ます about myself, a recent trip, my likes, my experiences, my plans and a small problem.",
+    "I can read a short text of 5–6 sentences in Genki I kanji, without kana, and answer questions about who, how, how long and why.",
+    "I can switch between polite and short forms, present and past, and use short forms inside bigger sentences: before a noun and before と 思う, から, ので, んです and でしょう.",
+    "I can compare things, describe a change, and say what I want (〜たい), plan (〜つもり), have done (〜たことが ある), have to do (〜なければいけません) and had better do (〜ほうが いい).",
+    "I can use the mock test to find which lesson of Genki I to review, and I get at least 80% of it right."
+  ],
+  "duration": {
+    "total": "80–100 min",
+    "blocks": [
+      { "t": "Session 1 · Warm-up: listen to your recordings from lesson 01-1, Milestone 1 and Milestone 2, one after the other", "min": 5 },
+      { "t": "Session 1 · Review: the 8 points (block 4), reading each example aloud and tapping 🔬", "min": 30 },
+      { "t": "Session 2 · Mock test (homework, tasks 1 to 5) in your notebook, timed, without looking anything up; only then the answer key", "min": 25 },
+      { "t": "Session 2 · Review the lessons named in the 💡 notes of the items you got wrong, then redo those items", "min": 15 },
+      { "t": "Session 3 · Script for a 3-minute conversation (task 6): write, rehearse, record and compare with all your earlier recordings", "min": 15 },
+      { "t": "Session 3 · Checklist (block 10) + write down in your notebook what you want to strengthen before Genki II", "min": 5 }
+    ]
+  },
+  "prereqs": {
+    "aulas": ["12-3"],
+    "skills": [
+      "You have completed the checklists of lessons 01-1 to 12-3 and of Milestones 1 and 2. If one is still open, finish it first: this milestone tests all of Genki I.",
+      "You can put any verb into the ます-form, the て-form, the dictionary form, the ない-form and the short past (た / なかった), even if slowly.",
+      "You read the kanji of Genki I Lessons 3 to 12. The reading in task 5 has no kana on purpose: that is part of the test.",
+      "You have your recordings from lesson 01-1 and Milestones 1 and 2 at hand.",
+      "A notebook, a pen and a timer: the mock test is done by hand, in about 25 minutes, without looking anything up."
+    ],
+    "vocab": [
+      { "jp": "もう", "kana": "もう", "romaji": "mō", "en": "already; (in questions) yet (+ past · lesson 09-3)" },
+      { "jp": "まだ", "kana": "まだ", "romaji": "mada", "en": "still; (+ 〜ていません) not yet (lesson 09-3)" },
+      { "jp": "雨が ふる", "kana": "あめが ふる", "romaji": "ame ga furu", "en": "to rain [lit. rain falls] (lesson 09-3)" },
+      { "jp": "どちら", "kana": "どちら", "romaji": "dochira", "en": "which (of the two) (lesson 10-1)" },
+      { "jp": "〜より", "kana": "〜より", "romaji": "-yori", "en": "than… (lesson 10-1)" },
+      { "jp": "いちばん", "kana": "いちばん", "romaji": "ichiban", "en": "the most…, number one (lesson 10-1)" },
+      { "jp": "しんかんせん", "kana": "しんかんせん", "romaji": "shinkansen", "en": "bullet train, Shinkansen (lesson 10-1)" },
+      { "jp": "つもり", "kana": "つもり", "romaji": "tsumori", "en": "intention (〜つもりです = I plan to… · lesson 10-2)" },
+      { "jp": "今夜", "kana": "こんや", "romaji": "kon'ya", "en": "tonight (lesson 10-2)" },
+      { "jp": "なる", "kana": "なる", "romaji": "naru", "en": "to become, to get (a change) (lesson 10-3)" },
+      { "jp": "かかる", "kana": "かかる", "romaji": "kakaru", "en": "to take (time); to cost (money) (lesson 10-3)" },
+      { "jp": "旅行", "kana": "りょこう", "romaji": "ryokō", "en": "trip, travel (旅行する = to travel · lesson 11-1)" },
+      { "jp": "のる", "kana": "のる", "romaji": "noru", "en": "to ride, to get on (a train, a bus: 〜に のる)" },
+      { "jp": "一度", "kana": "いちど", "romaji": "ichido", "en": "once, one time" },
+      { "jp": "神社", "kana": "じんじゃ", "romaji": "jinja", "en": "Shinto shrine" },
+      { "jp": "かぜを ひく", "kana": "かぜを ひく", "romaji": "kaze o hiku", "en": "to catch a cold (lesson 12-1)" },
+      { "jp": "ねつ", "kana": "ねつ", "romaji": "netsu", "en": "fever (ねつが ある = to have a fever · lesson 12-2)" },
+      { "jp": "病院", "kana": "びょういん", "romaji": "byōin", "en": "hospital, clinic (lesson 12-2)" },
+      { "jp": "たぶん", "kana": "たぶん", "romaji": "tabun", "en": "probably, maybe (lesson 12-3)" },
+      { "jp": "こんど", "kana": "こんど", "romaji": "kondo", "en": "next time; this coming (weekend, Saturday…)" }
+    ]
+  },
+  "grammar": [
+    {
+      "id": "M-3-a",
+      "title": "Particles: the job of every block",
+      "gloss": "all the particles of Genki I",
+      "explanation": "By the end of Genki I, each particle has one or more jobs. Read from the PREDICATE at the end and ask it questions: the particle tells you which question each block answers.\n• **は** TOPIC (and contrast) · **が** SUBJECT: what exists, what is liked, a question word, the subject inside a description (母が 作った ケーキ) · **を** OBJECT.\n• **に**: destination (東京に 行く), a point in time (七時に), where something is (つくえの 上に ある), the person you meet (先生に 会う), purpose (買いに 行く) and the result of a change (先生に なる).\n• **で**: where an action happens (としょかんで), the means (電車で, 日本語で) and how many people do it together (二人で).\n• **へ** destination · **と** with (友だちと), a complete list (A と B) and a quote (〜と 思う) · **や** an open list (A や B).\n• **から / まで**: from / until (うちから 大学まで). After a sentence, から means \"because\" (lessons 06-4 and 09-3).\n• **より** than · **の** links nouns, or stands in for a noun you already know (赤いの) · **も** also; a question word + も + a negative = \"no-\" (だれも, 何も, どこにも).\n• **か, ね, よ** at the very end: a question, agreement, new information.",
+      "structure": "[topic] は + [time] に + [with] と + [means] で + [from] から [to] まで／[destination] に + [object] を + [PREDICATE]",
+      "examples": [
+        { "jp": "日曜日に 友だちと 電車で きょうとへ 行って、古い 神社を 見ました。", "kana": "にちようびに ともだちと でんしゃで きょうとへ いって、ふるい じんじゃを みました。", "romaji": "Nichiyōbi ni tomodachi to densha de Kyōto e itte, furui jinja o mimashita.", "en": "On Sunday I went to Kyoto by train with a friend and saw an old shrine. (time に, と, means で, destination へ, a て-link, を)" },
+        { "jp": "うちから 大学まで じてんしゃで 二十分 ぐらい かかります。", "kana": "うちから だいがくまで じてんしゃで にじゅっぷん ぐらい かかります。", "romaji": "Uchi kara daigaku made jitensha de nijuppun gurai kakarimasu.", "en": "It takes about twenty minutes by bike from my home to the university. (から, まで, means で, a quantity with no particle)" },
+        { "jp": "つくえの 上に じしょや ノートが あります。私のは 赤い ノートです。", "kana": "つくえの うえに じしょや ノートが あります。わたしのは あかい ノートです。", "romaji": "Tsukue no ue ni jisho ya nōto ga arimasu. Watashi no wa akai nōto desu.", "en": "On the desk there are things like dictionaries and notebooks. Mine is the red notebook. (に for existence, や, の standing in for a noun)" }
+      ],
+      "pitfalls": [
+        "で × に: an action there → で; being there or going there → に: としょかんで 本を 読みます ✓ / としょかんに います ✓. And \"live in\" takes に: 東京で 住んでいます ✗ → 東京に 住んでいます ✓.",
+        "A question word never takes は: だれは ✗, 何は ✗ → だれが, 何が ✓. The answer keeps が.",
+        "や is an open list and と a complete one; the particle comes once, after the last item: パンを や たまごを ✗ → パンや たまごを ✓.",
+        "Not every English \"by / from\" is で: \"on foot\" is あるいて, with no で (あしで ✗); \"from Brazil\" is ブラジルから (ブラジルで 来ました ✗)."
+      ],
+      "howToStudy": [
+        "Tap 🔬 on example 1 and name every block aloud from the end: PREDICATE → OBJECT → DESCRIBES NEXT → …AND THEN → DESTINATION → MEANS → WITH → TIME.",
+        "ヅオリンゴー → Drills → Particles: 10 min. For each mistake, write down the question the block answers (where to? by what? from where? than what?).",
+        "Say aloud one true sentence with at least 6 blocks, each with a different particle, and check it in 🔬 Analyze."
+      ],
+      "flag": null
+    },
+    {
+      "id": "M-3-b",
+      "title": "Verbs: polite and short, present and past",
+      "gloss": "ます · て · dictionary / ない · た / なかった",
+      "explanation": "By now every verb has 5 key forms. Learn them as a set:\n• **The ます-form** (lessons 03-1 and 04-2): 食べます / 食べません / 食べました / 食べませんでした. The stem (食べ) also builds 〜たい, 〜に 行く, 〜すぎる and 〜ましょう.\n• **The て-form** (lesson 06-1): う・つ・る → って · む・ぶ・ぬ → んで · く → いて · ぐ → いで · す → して; 行く → 行って. It links actions and builds 〜ている, 〜てください, 〜てもいい and 〜てはいけません.\n• **The dictionary form and the ない-form** (lesson 08-1): 飲む / 飲まない, かう / かわない, する / しない, 来る / 来ない (こない), ある / ない.\n• **The short past** (lesson 09-1): from the て-form, て → た (飲んだ, 行った); from the ない-form, ない → なかった (飲まなかった).\n• **Where short forms go**: casual speech (飲んだ？— うん、飲んだ); right before a noun, with no word for \"that / who\" (きのう 見た 映画, lesson 09-2); and before と 思う, から, ので, んです, でしょう, つもり and ほうが いい.\n• **もう / まだ** (lesson 09-3): もう 〜ました = already; まだ 〜ていません = not yet.",
+      "structure": "[stem]ます · [て-form] · [dictionary form] / [ない-form] · [た] / [なかった] · [short form] + [noun]",
+      "examples": [
+        { "jp": "きのう 友だちと 見た 映画は とても おもしろかったです。", "kana": "きのう ともだちと みた えいがは とても おもしろかったです。", "romaji": "Kinō tomodachi to mita eiga wa totemo omoshirokatta desu.", "en": "The movie I saw with a friend yesterday was really interesting. (a description before a noun, the past of an い-adjective)" },
+        { "jp": "しゅうまつ、何 した？— かいものに 行って、夜は うちで 本を 読んだ。", "kana": "しゅうまつ、なに した？— かいものに いって、よるは うちで ほんを よんだ。", "romaji": "Shūmatsu, nani shita? — Kaimono ni itte, yoru wa uchi de hon o yonda.", "en": "What did you do on the weekend? — I went shopping, and at night I read a book at home. (the casual past, a て-link, に for purpose)" },
+        { "jp": "もう ひるごはんを 食べましたか。— いいえ、まだ 食べていません。", "kana": "もう ひるごはんを たべましたか。— いいえ、まだ たべていません。", "romaji": "Mō hirugohan o tabemashita ka. — Iie, mada tabete imasen.", "en": "Have you had lunch yet? — No, not yet. (もう + past, まだ + 〜ていません)" }
+      ],
+      "pitfalls": [
+        "Short forms go straight before a noun, with no の and no です: 見ましたの 映画 ✗ → 見た 映画 ✓.",
+        "The exceptions: 行く → 行った (行いた ✗); 来る → 来なかった, read こなかった (きなかった ✗); ある → ない → なかった.",
+        "\"Not yet\" = まだ 〜ていません: まだ 食べませんでした ✗ → まだ 食べていません ✓.",
+        "A casual question in the past keeps だった with nouns and な-adjectives: テスト、どう？ is the present; テスト、どうだった？ ✓ is the past."
+      ],
+      "howToStudy": [
+        "Pick 6 verbs (食べる, 飲む, 行く, 来る, する, 帰る) and say the 5 key forms of each aloud: ます → て → dictionary → ない → た.",
+        "Tap 🔬 on example 1: きのう (TIME) and 友だちと (WITH) belong to the description; 見た shows up as DESCRIBES NEXT, attached to 映画は, the TOPIC; the PREDICATE is おもしろかったです.",
+        "Tell your last weekend aloud in 4 casual sentences (〜た / 〜なかった), then in 4 polite ones (〜ました / 〜ませんでした)."
+      ],
+      "flag": null
+    },
+    {
+      "id": "M-3-c",
+      "title": "Adjectives: describing, liking, \"too much\"",
+      "gloss": "い／な · くて／で · の · すぎる",
+      "explanation": "• **Four polite forms** (lessons 05-1 and 05-2): い: 高いです · 高くないです · 高かったです · 高くなかったです. な: しずかです · しずかじゃないです · しずかでした · しずかじゃなかったです. いい → よくない, よかった.\n• **Four short forms** (lessons 08-1 and 09-1): い: 高い / 高くない / 高かった / 高くなかった. な-adjectives and nouns: しずかだ / しずかじゃない / しずかだった / しずかじゃなかった.\n• **Before a noun**: 高い 山, しずかな 町. **Standing in for a noun** you already know: 高いの, しずかなの (lesson 10-2).\n• **Joining descriptions**: 〜くて / 〜で, with the tense only at the end (lesson 07-2). **People**: せが 高い, あたまが いい.\n• **Likes and skills** take が: 〜が 好き／きらい／じょうず／へた; for actions, 〜のが 好き (lessons 05-2 and 08-3).\n• **Too much**: a verb stem, or an adjective minus い／な, + **すぎる**: 食べすぎる, 高すぎる, しずかすぎる; いい → よすぎる (lesson 12-1). It conjugates like a る-verb and usually sounds like a complaint.\n• **Degree**: とても / ちょっと + affirmative; あまり / ぜんぜん + negative (lesson 05-3).",
+      "structure": "[い-adj]くない／かった／くて · [な-adj] じゃない／だった／で · [adj]の · [stem／adj minus い・な] すぎる",
+      "examples": [
+        { "jp": "この 赤い シャツは 高すぎます。もう 少し やすいのは ありますか。", "kana": "この あかい シャツは たかすぎます。もう すこし やすいのは ありますか。", "romaji": "Kono akai shatsu wa takasugimasu. Mō sukoshi yasui no wa arimasu ka.", "en": "This red shirt is too expensive. Do you have a slightly cheaper one? (an adjective before a noun, すぎる, の standing in for a noun)" },
+        { "jp": "昔は やさいが きらいでした。今は 大好きです。", "kana": "むかしは やさいが きらいでした。いまは だいすきです。", "romaji": "Mukashi wa yasai ga kirai deshita. Ima wa daisuki desu.", "en": "I used to hate vegetables. Now I love them. (the past of a な-adjective, が with きらい, は for contrast)" },
+        { "jp": "きのうは 食べすぎました。今日は 何も 食べたくないです。", "kana": "きのうは たべすぎました。きょうは なにも たべたくないです。", "romaji": "Kinō wa tabesugimashita. Kyō wa nanimo tabetakunai desu.", "en": "I ate too much yesterday. Today I don't want to eat anything. (すぎる, 何も + negative, 〜たくない)" }
+      ],
+      "pitfalls": [
+        "きれい and きらい are な-adjectives: きれかった ✗ → きれいでした / きれいだった ✓; きれすぎる ✗ → きれいすぎる ✓.",
+        "すぎる drops the い of an い-adjective: 高いすぎます ✗ → 高すぎます ✓. And it complains: to praise something, use とても (とても いいです), not すぎる.",
+        "When の stands in for a noun, な stays: きれいの ✗ → きれいなの ✓.",
+        "Short forms: no だ after an い-adjective (高いだ ✗), but な-adjectives and nouns need it in the past: しずかった ✗ → しずかだった ✓."
+      ],
+      "howToStudy": [
+        "Say 3 adjectives (高い, いい, しずか) in all 8 forms aloud: the 4 polite ones, then the 4 short ones.",
+        "Tap 🔬 on example 1: 赤い shows up as DESCRIBES NEXT, 高すぎます as the PREDICATE (a description), and やすいのは as the TOPIC: the の stands in for シャツ.",
+        "Complain aloud about 3 things with すぎる (a price, a room, your homework), then praise 1 thing with とても."
+      ],
+      "flag": null
+    },
+    {
+      "id": "M-3-d",
+      "title": "Existence and location",
+      "gloss": "あります／います · location words · 〜ています",
+      "explanation": "• **あります** for things, plants and events; **います** for people and animals (lesson 04-1). Past: ありました / いました. Negative: ありません / いません. Short: ある / ない, いる / いない.\n• **What is there?** [place] に [X] が あります. **Where is X?** [X] は [place] に あります (or X は [place] です).\n• **Location words**: [reference] の 上 / 下 / 中 / 前 / うしろ / となり / 近く + に.\n• **Nobody / nothing**: だれも いません, 何も ありません (lesson 08-3).\n• **Living, working, knowing** use the state 〜ています (lesson 07-1): 東京に 住んでいます, 会社に つとめています, しっています (but しりません).\n• **に × で**: something IS there → に; something is DONE there → で. An event \"is held\", so it takes で: うちで パーティーが あります.\n• **Having**: おかねが ありません (I have no money), きょうだいが 二人 います (I have two siblings).",
+      "structure": "[place] に [X] が あります／います · [X] は [place] に あります／います · [place] に 住んでいます",
+      "examples": [
+        { "jp": "えきの 前に 新しい カフェが あります。いつも 学生が たくさん いますよ。", "kana": "えきの まえに あたらしい カフェが あります。いつも がくせいが たくさん いますよ。", "romaji": "Eki no mae ni atarashii kafe ga arimasu. Itsumo gakusei ga takusan imasu yo.", "en": "There's a new café in front of the station. There are always lots of students there. (の 前に, an adjective before a noun, います for people, たくさん)" },
+        { "jp": "ペドロさんは どこに 住んでいますか。— 大学の 近くに 住んでいます。", "kana": "ペドロさんは どこに すんでいますか。— だいがくの ちかくに すんでいます。", "romaji": "Pedoro-san wa doko ni sunde imasu ka. — Daigaku no chikaku ni sunde imasu.", "en": "Where does Pedro live? — He lives near the university. (住んでいる with に, の 近く)" },
+        { "jp": "へやに だれも いませんでした。テーブルの 上に 手紙が ありました。", "kana": "へやに だれも いませんでした。テーブルの うえに てがみが ありました。", "romaji": "Heya ni daremo imasen deshita. Tēburu no ue ni tegami ga arimashita.", "en": "There was nobody in the room. There was a letter on the table. (だれも + negative, the past of いる and ある)" }
+      ],
+      "pitfalls": [
+        "People and animals take います: 友だちが たくさん あります ✗ → 友だちが たくさん います ✓ (I have a lot of friends).",
+        "Existence takes に, not で: こうえんで ねこが います ✗ → こうえんに ねこが います ✓.",
+        "\"Live in\" is a state: 東京で 住みます ✗ → 東京に 住んでいます ✓.",
+        "The reference comes first: 上の テーブル ✗ (\"the upper table\") → テーブルの 上 ✓ (\"on the table\")."
+      ],
+      "howToStudy": [
+        "Describe your room aloud in 5 sentences with あります / います and 5 different location words.",
+        "Tap 🔬 on example 3: へやに and 上に show up as LOCATION, だれも as NOTHING / NOBODY, and both PREDICATES as existence (ある / いる).",
+        "Ask and answer aloud about 3 people you know: 〜さんは どこに 住んでいますか。— 〜に 住んでいます。"
+      ],
+      "flag": null
+    },
+    {
+      "id": "M-3-e",
+      "title": "Requests, permission, prohibition, obligation, advice",
+      "gloss": "〜てください · 〜てもいい · 〜てはいけません · 〜なければいけません · 〜ほうが いい",
+      "explanation": "All of these live in the **last block**. Read it first, then ask who acts and how strong it is:\n• **〜てください** please do · **〜ないでください** please don't (lessons 06-2 and 08-3).\n• **〜てもいいですか** may I? · **〜てはいけません** you must not, a rule (lesson 06-3).\n• **〜なければいけません / 〜なければなりません** you have to: the ない-form minus い + ければ (行かなければ, 使わなければ). Casual: 〜なきゃ (lesson 12-3).\n• **〜た ほうが いいです** you'd better; **〜ない ほうが いいです** you'd better not (lesson 12-2). Softer with 〜と 思います.\n• **〜ましょうか** shall I? (an offer) · **〜ましょう** let's · **〜ませんか** won't you? (lessons 03-3, 05-3 and 06-4).\n• A reason goes FIRST, with から or ので; ので sounds softer and more polite (lessons 06-4, 09-3 and 12-2).\n• Don't mix them up: 行っては いけません = you must not go; 行かなければいけません = you must go.",
+      "structure": "[て] ください／もいいですか／はいけません · [ない] でください · [ない minus い] ければいけません · [た／ない] ほうが いいです",
+      "examples": [
+        { "jp": "あした テストが あるから、今夜は 勉強しなければいけません。", "kana": "あした テストが あるから、こんやは べんきょうしなければいけません。", "romaji": "Ashita tesuto ga aru kara, kon'ya wa benkyō shinakereba ikemasen.", "en": "I have a test tomorrow, so tonight I have to study. (short form + から, 〜なければいけません)" },
+        { "jp": "げんかんで くつを ぬいでください。へやの 中で くつを はいては いけません。", "kana": "げんかんで くつを ぬいでください。へやの なかで くつを はいては いけません。", "romaji": "Genkan de kutsu o nuide kudasai. Heya no naka de kutsu o haite wa ikemasen.", "en": "Please take off your shoes in the entryway. You must not wear shoes inside the rooms. (〜てください, 〜てはいけません, で for the place)" },
+        { "jp": "あしたは 早く 起きなければいけないので、今夜は おさけを 飲まない ほうが いいですよ。", "kana": "あしたは はやく おきなければいけないので、こんやは おさけを のまない ほうが いいですよ。", "romaji": "Ashita wa hayaku okinakereba ikenai node, kon'ya wa osake o nomanai hō ga ii desu yo.", "en": "You have to get up early tomorrow, so you'd better not drink tonight. (〜なければいけない + ので, 〜ない ほうが いい)" }
+      ],
+      "pitfalls": [
+        "Must × must not: 行かなければいけません (you must go) ≠ 行っては いけません (you must not go).",
+        "The obligation starts from the ない-form: 行きなければ ✗ → 行かなければ ✓; 使あなければ ✗ → 使わなければ ✓.",
+        "Negative advice stays in the present: 飲まなかった ほうが いいです ✗ → 飲まない ほうが いいです ✓. Positive advice uses た: 休んだ ほうが いいです ✓.",
+        "With a teacher or a boss, 〜ほうが いいです can sound like an order: soften it with 〜ほうが いいと 思います."
+      ],
+      "howToStudy": [
+        "Take one action (本を 読む) and say it aloud with 6 endings: てください, ないでください, てもいいですか, てはいけません, なければいけません, た ほうが いいです. For each one, say who acts.",
+        "Tap 🔬 on example 3: 起きなければいけないので shows up as REASON, 飲まない as DESCRIBES NEXT (attached to ほうが), and いいですよ as the PREDICATE.",
+        "Give a friend aloud 2 pieces of advice and 2 obligations for the day before a test: 〜た ほうが いいですよ / 〜なければいけません."
+      ],
+      "flag": null
+    },
+    {
+      "id": "M-3-f",
+      "title": "Opinions, guesses and quoting",
+      "gloss": "〜と 思います · 〜と 言っていました · 〜でしょう",
+      "explanation": "• **〜と 思います** is your opinion, with a short form before と: 行くと, 行ったと, 高くないと, 学生だと; nouns and な-adjectives take だ (lessons 08-2 and 09-1).\n• **〜と 言っていました** is what someone else said, kept in the tense they used (lessons 08-2 and 09-1).\n• **〜でしょう** means \"probably\" (lesson 12-3): short form + でしょう, but nouns and な-adjectives drop the だ: 雨でしょう, しずかでしょう. たぶん often comes first. **〜でしょうか** is a polite question.\n• With nouns and な-adjectives, watch what happens to だ: before と 思う it **stays** (雨だと); before でしょう it **drops** (雨でしょう); before んです and ので it **becomes な** (雨なんです, 雨なので).\n• **Opinion + reason** is a strong N5 combination: [reason] から、〜と 思います.",
+      "structure": "[short form] と 思います · [person] は [short form] と 言っていました · (たぶん) [short form; N／な-adj with no だ] でしょう",
+      "examples": [
+        { "jp": "あしたは 雨が ふるでしょう。かさを 持って 行った ほうが いいと 思います。", "kana": "あしたは あめが ふるでしょう。かさを もって いった ほうが いいと おもいます。", "romaji": "Ashita wa ame ga furu deshō. Kasa o motte itta hō ga ii to omoimasu.", "en": "It will probably rain tomorrow. I think you'd better take an umbrella. (でしょう, 持って 行く, 〜た ほうが いい + と 思います)" },
+        { "jp": "ルーカスさんは かぜを ひいたと 言っていましたから、きのうの パーティーには 来なかったと 思います。", "kana": "ルーカスさんは かぜを ひいたと いっていましたから、きのうの パーティーには こなかったと おもいます。", "romaji": "Rūkasu-san wa kaze o hiita to itte imashita kara, kinō no pātī ni wa konakatta to omoimasu.", "en": "Lucas said he had caught a cold, so I don't think he came to the party yesterday. [lit. I think he didn't come] (と 言っていました, から, と 思います with the short past)" },
+        { "jp": "田中さんは 何時ごろ 来るでしょうか。— たぶん 七時ごろだと 思います。", "kana": "たなかさんは なんじごろ くるでしょうか。— たぶん しちじごろだと おもいます。", "romaji": "Tanaka-san wa nanji goro kuru deshō ka. — Tabun shichi-ji goro da to omoimasu.", "en": "About what time will Mr./Ms. Tanaka come, do you think? — Probably around seven, I think. (でしょうか, たぶん, だと 思います after a noun)" }
+      ],
+      "pitfalls": [
+        "Forgetting だ before と: 雨と 思います ✗ → 雨だと 思います ✓. But adding it before でしょう: 雨だでしょう ✗ → 雨でしょう ✓.",
+        "でしょう is for guesses, not for your own plans: あした 行くでしょう ✗ (about yourself) → あした 行きます ✓.",
+        "思います is always your opinion. For someone else's, report their words: アナさんは 〜と 言っていました ✓.",
+        "No です／ます before と: 行きましたと 思います ✗ → 行ったと 思います ✓."
+      ],
+      "howToStudy": [
+        "Give a weather forecast aloud for 3 cities: [city] は あした [雨／雪／いい 天気] でしょう。",
+        "Tap 🔬 on example 2: ひいたと and 来なかったと show up as QUOTE, 言っていましたから as REASON, and 思います as the PREDICATE. Read it backwards: I think → what? → he didn't come → why? → he said he had caught a cold.",
+        "Pass on a friend's news aloud in 3 sentences with 〜と 言っていました, then give your opinion on each with 〜と 思います."
+      ],
+      "flag": null
+    },
+    {
+      "id": "M-3-g",
+      "title": "Comparison and change",
+      "gloss": "より · の ほうが · どちら · いちばん · なる",
+      "explanation": "• **Two things**: A の ほうが B より [adjective] です. The winner takes の ほうが (が = the subject), the loser より (lesson 10-1). The adjective itself doesn't change: 大きい = big / bigger.\n• **Asking**: A と B と どちらが [adjective] ですか。— A の ほうが [adjective] です. Casual: どっち. Both: どちらも.\n• **Three or more**: [group] の なかで X が いちばん [adjective] です. Ask with 何が / だれが / どこが / いつが, always with が.\n• **Change with なる** (lesson 10-3): い → く なる (さむく なる; いい → よく なる); な-adjectives and nouns → に なる (じょうずに なる, 先生に なる).\n• A change often comes after its cause: 毎日 勉強していますから、じょうずに なりました.",
+      "structure": "[A] の ほうが [B] より [adj] · [A] と [B] と どちらが 〜か · [group] の なかで [X] が いちばん 〜 · [い-adj → く]／[な-adj・N → に] なる",
+      "examples": [
+        { "jp": "東京と おおさかと どちらが 好きですか。— おおさかの ほうが 好きです。人が やさしくて、食べものが おいしいです。", "kana": "とうきょうと おおさかと どちらが すきですか。— おおさかの ほうが すきです。ひとが やさしくて、たべものが おいしいです。", "romaji": "Tōkyō to Ōsaka to dochira ga suki desu ka. — Ōsaka no hō ga suki desu. Hito ga yasashikute, tabemono ga oishii desu.", "en": "Which do you like better, Tokyo or Osaka? — I like Osaka better. The people are kind, and the food is delicious. (どちら, の ほうが, くて)" },
+        { "jp": "かぞくの なかで だれが いちばん せが 高いですか。— 父です。おとうとは 父より せが ひくいです。", "kana": "かぞくの なかで だれが いちばん せが たかいですか。— ちちです。おとうとは ちちより せが ひくいです。", "romaji": "Kazoku no naka de dare ga ichiban se ga takai desu ka. — Chichi desu. Otōto wa chichi yori se ga hikui desu.", "en": "Who's the tallest in your family? — My father. My younger brother is shorter than my father. (の なかで いちばん, だれが, より, N は X が Adj)" },
+        { "jp": "毎日 勉強していますから、日本語が 少し じょうずに なりました。", "kana": "まいにち べんきょうしていますから、にほんごが すこし じょうずに なりました。", "romaji": "Mainichi benkyō shite imasu kara, nihongo ga sukoshi jōzu ni narimashita.", "en": "I study every day, so my Japanese has gotten a little better. (〜ている for a habit, から, a な-adjective + に なる)" }
+      ],
+      "pitfalls": [
+        "The winner takes の ほうが, the loser より: swap them and the meaning flips. And ほう needs の after a noun: 東京 ほうが ✗ → 東京の ほうが ✓.",
+        "どちら is only for two: with three or more, use 何が / だれが / どこが + いちばん (どちらが いちばん ✗).",
+        "な-adjectives and nouns take に, not く: じょうずく なる ✗ → じょうずに なる ✓; and いい → よく なる (いく なる ✗).",
+        "\"More\" is not たくさん: 東京より たくさん 大きい ✗ → 東京より 大きい ✓. より already means \"more… than\"."
+      ],
+      "howToStudy": [
+        "Compare aloud 3 pairs of things you know (two cities, two foods, two seasons), then ask the question for each pair with どちらが.",
+        "Tap 🔬 on example 2: なかで shows up as PLACE (the setting of the comparison, with かぞくの as DESCRIBES NEXT), だれが as SUBJECT, いちばん as HOW / HOW OFTEN, and 父より as COMPARED TO.",
+        "Say 4 changes in your life aloud with なりました: one い-adjective (く), one な-adjective (に), one noun (に) and いい (よく)."
+      ],
+      "flag": null
+    },
+    {
+      "id": "M-3-h",
+      "title": "Wants, plans, experience and explanation",
+      "gloss": "〜たい · 〜たり · 〜つもり · 〜たことが ある · 〜んです",
+      "explanation": "• **〜たい** = I want to (lesson 11-1): stem + たい, which conjugates like an い-adjective (たくない, たかった). を may become が. For someone else's wishes, report their words: 〜たいと 言っていました.\n• **〜たり 〜たり する** = things like A and B (lesson 11-1): built from the た-form, with する at the end carrying the tense: 見たり、読んだり しました.\n• **〜つもりです** = I plan to (lesson 10-2): dictionary form or ない-form + つもり.\n• **〜たことが あります** = I have done it (at least once in my life) (lesson 11-2). Never with a specific time.\n• **〜んです** = \"it's that…\", giving or asking for an explanation (lesson 12-1): short form + んです (nouns and な-adjectives: 〜なんです). どうしたんですか asks what happened; the answer explains with 〜んです.\n• **Side by side**: 行きたいです (a wish) · 行く つもりです (a plan) · 行ったことが あります (an experience) · 行ったんです (an explanation).",
+      "structure": "[stem] たいです · [た]り、[た]り します · [dictionary／ない] つもりです · [た] ことが あります · [short form] んです",
+      "examples": [
+        { "jp": "しんかんせんに のった ことが ありますか。— いいえ、ありません。一度 のりたいです。", "kana": "しんかんせんに のった ことが ありますか。— いいえ、ありません。いちど のりたいです。", "romaji": "Shinkansen ni notta koto ga arimasu ka. — Iie, arimasen. Ichido noritai desu.", "en": "Have you ever ridden the Shinkansen? — No, I haven't. I'd like to ride it once. (〜たことが ある, 〜たい)" },
+        { "jp": "どうして きのう 休んだんですか。— ねつが あったので、病院に 行ったんです。", "kana": "どうして きのう やすんだんですか。— ねつが あったので、びょういんに いったんです。", "romaji": "Dōshite kinō yasunda n desu ka. — Netsu ga atta node, byōin ni itta n desu.", "en": "Why were you absent yesterday? — I had a fever, so I went to the doctor. (〜んですか / 〜んです, ので)" },
+        { "jp": "なつやすみに 日本へ 旅行する つもりです。おんせんに 入ったり、ラーメンを 食べたり したいです。", "kana": "なつやすみに にほんへ りょこうする つもりです。おんせんに はいったり、ラーメンを たべたり したいです。", "romaji": "Natsuyasumi ni Nihon e ryokō suru tsumori desu. Onsen ni haittari, rāmen o tabetari shitai desu.", "en": "I plan to travel to Japan during summer vacation. I want to do things like going into hot springs and eating ramen. (つもり, 〜たり 〜たり + したい)" }
+      ],
+      "pitfalls": [
+        "〜たい changes like an い-adjective: 行きたいじゃないです ✗ → 行きたくないです ✓; 行きたいでした ✗ → 行きたかったです ✓.",
+        "An experience has no date: きのう すしを 食べたことが あります ✗ → きのう すしを 食べました ✓.",
+        "Don't forget the する at the end of たり: 見たり、読んだり。 ✗ → 見たり、読んだり します ✓.",
+        "〜んです with nouns and な-adjectives needs な: 病気んです ✗ → 病気なんです ✓. And don't put it on every sentence: you would sound as if you were always justifying yourself."
+      ],
+      "howToStudy": [
+        "About one place you'd like to visit, say aloud: a wish (〜たい), a plan (〜つもり), an experience or its absence (〜たことが ある／ない) and two things you'd do there (〜たり 〜たり).",
+        "Tap 🔬 on example 3: 旅行する つもりです shows up as the PREDICATE (intention), 入ったり and 食べたり as THINGS LIKE, and したいです as the PREDICATE (wish).",
+        "Ask yourself どうしたんですか and answer 3 times with 〜んです (a cold, a test, a late train)."
+      ],
+      "flag": null
+    }
+  ],
+  "media": [
+    { "order": 1, "kind": "reading", "title": "Genki I · Lessons 1 to 12: reread the grammar notes only for the points you missed on the mock test", "where": "Your Genki I textbook (3rd ed.)", "url": "", "when": "Session 2, after checking the mock test" },
+    { "order": 2, "kind": "video", "title": "A JLPT N5 grammar review video. If the search doesn't bring up a full review, watch videos only on the points you missed", "where": "YouTube · Japanese Ammo with Misa channel", "url": "", "search": "Japanese Ammo with Misa JLPT N5 grammar review", "when": "Session 2 or 3: only the parts about the points you missed" },
+    { "order": 3, "kind": "app", "title": "genki-companion: Lessons 1 to 12, all 77 points (1-1 to 12-6). Check that every point has ✍️; reread the ones you miss on the mock test", "where": "../genki-companion/index.html", "url": "../genki-companion/index.html", "when": "Session 2, only the points you missed; at the end, to confirm that Genki I is complete" },
+    { "order": 4, "kind": "reading", "title": "JLPT N5 sample questions (official site jlpt.jp)", "where": "jlpt.jp · the official JLPT site", "url": "", "search": "JLPT N5 sample questions jlpt.jp", "when": "Session 3, optional: to see the format of the real exam. Taking the JLPT is optional in this course" }
+  ],
+  "homework": {
+    "intro": "Six tasks, by hand in your notebook. Tasks 1 to 5 are the mock test (30 items): set a timer for about 25 minutes and do all of it without looking anything up. Only then open the answer key, item by item, and mark each item right or wrong. Next to each mistake, write down the lesson named in the 💡 note. The goal is at least 24 of the 30 items (80%). In session 2, review those lessons and redo the items you got wrong. Task 6 is the script for a 3-minute conversation: write it, rehearse it and record it.",
+    "tasks": [
+      {
+        "id": "h1",
+        "type": "mock-test",
+        "prompt": "Mock test · Part 1 · Particles (8 items). Fill in each blank with one particle.",
+        "items": [
+          { "q": "東京＿ きょうと＿ しんかんせんで 二時間 ぐらい かかります。", "a": { "jp": "から · まで", "romaji": "kara · made" }, "note": "から = the starting point, まで = the end point. Wrong? Review lesson 10-3 (4d)." },
+          { "q": "かぞく＿ なかで だれ＿ いちばん せが 高いですか。", "a": { "jp": "の · が", "romaji": "no · ga" }, "note": "の なかで = among; a question word as the subject takes が (だれは ✗). Wrong? Review lessons 10-1 (4c) and 08-3 (4c)." },
+          { "q": "毎日 バス＿ 学校＿ 行きます。", "a": { "jp": "で · に", "romaji": "de · ni" }, "note": "で = the means (by bus); に (or へ) = the destination. Wrong? Review lessons 10-3 (4c) and 03-2 (4c)." },
+          { "q": "アナさんは コーヒー＿ おちゃ＿ ほうが 好きです。", "a": { "jp": "より · の", "romaji": "yori · no" }, "note": "The loser takes より, the winner の ほうが. Wrong? Review lesson 10-1 (4a)." },
+          { "q": "へや＿ だれ＿ いませんでした。", "a": { "jp": "に · も", "romaji": "ni · mo" }, "note": "に = where someone is; だれも + a negative verb = no one. Wrong? Review lessons 04-1 (4a) and 08-3 (4d)." },
+          { "q": "スーパーで パン＿ たまご＿ 買いました。(and some other things too)", "a": { "jp": "や · を", "romaji": "ya · o" }, "note": "や = an open list; the object particle comes once, after the last item. Wrong? Review lesson 11-2 (4b)." },
+          { "q": "母＿ 作った ケーキ＿ とても おいしかったです。", "a": { "jp": "が · は", "romaji": "ga · wa" }, "note": "Inside a description, the subject takes が; the topic of the whole sentence takes は. Wrong? Review lesson 09-2 (4b)." },
+          { "q": "先生は あした テストが ある＿ 言っていました。", "a": { "jp": "と", "romaji": "to" }, "note": "と marks what was said or thought, right before 言う / 思う. Wrong? Review lesson 08-2 (4b)." }
+        ]
+      },
+      {
+        "id": "h2",
+        "type": "mock-test",
+        "prompt": "Mock test · Part 2 · Conjugation (8 items). Write the form asked for.",
+        "items": [
+          { "q": "行く → short past", "a": { "jp": "行った", "kana": "いった", "romaji": "itta" }, "note": "The exception of the て-form (行って) carries over: て → た (行いた ✗). Wrong? Review lesson 09-1 (4a)." },
+          { "q": "来る → short past negative", "a": { "jp": "来なかった", "kana": "こなかった", "romaji": "konakatta" }, "note": "From the ない-form こない: ない → なかった (きなかった ✗). Wrong? Review lesson 09-1 (4a)." },
+          { "q": "高い → polite past negative", "a": { "jp": "高くなかったです", "kana": "たかくなかったです", "romaji": "takakunakatta desu" }, "note": "The い-adjective changes itself (高くないでした ✗). Wrong? Review lesson 05-2 (4a)." },
+          { "q": "きれい → short past", "a": { "jp": "きれいだった", "romaji": "kirei datta" }, "note": "A な-adjective, despite the final い (きれかった ✗). Wrong? Review lesson 09-1 (4a)." },
+          { "q": "飲む → 〜たい, polite negative", "a": { "jp": "飲みたくないです", "kana": "のみたくないです", "romaji": "nomitakunai desu" }, "note": "〜たい conjugates like an い-adjective (飲みたいじゃないです ✗). Wrong? Review lesson 11-1 (4a)." },
+          { "q": "使う → \"have to\" (polite)", "a": { "jp": "使わなければいけません", "kana": "つかわなければいけません", "romaji": "tsukawanakereba ikemasen" }, "note": "From the ない-form 使わない (with わ): い → ければ + いけません. 使わなければなりません is also correct. Wrong? Review lesson 12-3 (4a)." },
+          { "q": "およぐ → て-form", "a": { "jp": "およいで", "romaji": "oyoide" }, "note": "ぐ → いで (およいて ✗). Wrong? Review lesson 06-1 (4b)." },
+          { "q": "帰る → ない-form", "a": { "jp": "帰らない", "kana": "かえらない", "romaji": "kaeranai" }, "note": "帰る is an う-verb: -u → -a + ない (帰ない ✗). Wrong? Review lesson 08-1 (4a)." }
+        ]
+      },
+      {
+        "id": "h3",
+        "type": "mock-test",
+        "prompt": "Mock test · Part 3 · Choose the form (6 items). Pick the right option in brackets.",
+        "items": [
+          { "q": "かぜですから、今日は (休んだ／休む) ほうが いいですよ。", "a": { "jp": "休んだ", "kana": "やすんだ", "romaji": "yasunda" }, "note": "Positive advice uses the short past: 〜た ほうが いい. Wrong? Review lesson 12-2 (4a)." },
+          { "q": "(病気な／病気だ) ので、学校を 休みました。", "a": { "jp": "病気なので", "kana": "びょうきなので", "romaji": "byōki na node" }, "note": "Before ので, a noun or a な-adjective takes な (病気だので ✗). Wrong? Review lesson 12-2 (4b)." },
+          { "q": "あしたは (雨でしょう／雨だでしょう)。", "a": { "jp": "雨でしょう", "kana": "あめでしょう", "romaji": "ame deshō" }, "note": "でしょう drops the だ of nouns and な-adjectives. Wrong? Review lesson 12-3 (4b)." },
+          { "q": "日本へ (行った／行く) ことが ありますか。", "a": { "jp": "行った", "kana": "いった", "romaji": "itta" }, "note": "An experience = the た-form + ことが ある. Wrong? Review lesson 11-2 (4a)." },
+          { "q": "来年 日本で (働く／働きます) つもりです。", "a": { "jp": "働く", "kana": "はたらく", "romaji": "hataraku" }, "note": "つもり comes after the short form, never after the ます-form. Wrong? Review lesson 10-2 (4b)." },
+          { "q": "まだ ひるごはんを (食べませんでした／食べていません)。", "a": { "jp": "食べていません", "kana": "たべていません", "romaji": "tabete imasen" }, "note": "\"Not yet\" = まだ 〜ていません. Wrong? Review lesson 09-3 (4b)." }
+        ]
+      },
+      {
+        "id": "h4",
+        "type": "mock-test",
+        "prompt": "Mock test · Part 4 · Translate into Japanese (5 items).",
+        "items": [
+          { "q": "The person wearing glasses is my teacher.", "a": { "jp": "めがねを かけている 人は 私の 先生です。", "kana": "めがねを かけている ひとは わたしの せんせいです。", "romaji": "Megane o kakete iru hito wa watashi no sensei desu." }, "note": "The whole description comes before 人, with no word for \"who\"; wearing glasses = めがねを かけている. Wrong? Review lessons 09-2 (4a) and 07-1 (4b)." },
+          { "q": "Which is bigger, Tokyo or Osaka? — Tokyo is bigger.", "a": { "jp": "東京と おおさかと どちらが 大きいですか。— 東京の ほうが 大きいです。", "kana": "とうきょうと おおさかと どちらが おおきいですか。— とうきょうの ほうが おおきいです。", "romaji": "Tōkyō to Ōsaka to dochira ga ōkii desu ka. — Tōkyō no hō ga ōkii desu." }, "note": "どちらが in the question, の ほうが in the answer; the adjective doesn't change. Wrong? Review lesson 10-1 (4a and 4b)." },
+          { "q": "I want to go to Japan next year.", "a": { "jp": "来年 日本に 行きたいです。", "kana": "らいねん にほんに いきたいです。", "romaji": "Rainen Nihon ni ikitai desu." }, "note": "Stem + たい; 来年 takes no に; 日本へ is also correct. Wrong? Review lesson 11-1 (4a)." },
+          { "q": "It has gotten cold, hasn't it?", "a": { "jp": "さむく なりましたね。", "romaji": "Samuku narimashita ne." }, "note": "い → く + なる; ね for agreement. Wrong? Review lesson 10-3 (4a)." },
+          { "q": "On my days off, I do things like reading books and watching movies.", "a": { "jp": "休みの 日は 本を 読んだり、映画を 見たり します。", "kana": "やすみの ひは ほんを よんだり、えいがを みたり します。", "romaji": "Yasumi no hi wa hon o yondari, eiga o mitari shimasu." }, "note": "たり comes from the た-form, and する at the end carries the tense. Wrong? Review lesson 11-1 (4b)." }
+        ]
+      },
+      {
+        "id": "h5",
+        "type": "mock-test",
+        "prompt": "Mock test · Part 5 · Reading (3 items). Read Maria's diary without kana, then answer the questions in Japanese. ── マリアさんの にっき: 先月、私は 友だちの ゆきさんと きょうとへ 旅行に 行きました。東京から しんかんせんで 二時間 ぐらい かかりました。きょうとには 古い 神社が たくさん あって、とても きれいでした。ゆきさんは 神社の 前で しゃしんを たくさん とりました。私は あまい ものが 好きなので、毎日 おかしを 食べすぎました。こんどは ふゆに 行って、雪の きょうとを 見たいです。",
+        "items": [
+          { "q": "マリアさんは だれと きょうとへ 行きましたか。", "a": { "jp": "友だちの ゆきさんと 行きました。", "kana": "ともだちの ゆきさんと いきました。", "romaji": "Tomodachi no Yuki-san to ikimashita." }, "note": "It's in the first sentence: 友だちの ゆきさんと. ゆきさんと 行きました is enough. Wrong? Reread the first sentence, and review lesson 04-3 (4b) for と." },
+          { "q": "東京から きょうとまで 何で 行きましたか。どのぐらい かかりましたか。", "a": { "jp": "しんかんせんで 行きました。二時間 ぐらい かかりました。", "kana": "しんかんせんで いきました。にじかん ぐらい かかりました。", "romaji": "Shinkansen de ikimashita. Ni-jikan gurai kakarimashita." }, "note": "何で asks for the means (で); どのぐらい asks how long it takes. Wrong? Review lesson 10-3 (4c and 4d)." },
+          { "q": "マリアさんは どうして おかしを 食べすぎましたか。", "a": { "jp": "あまい ものが 好きだからです。", "kana": "あまい ものが すきだからです。", "romaji": "Amai mono ga suki da kara desu." }, "note": "The diary gives the reason with ので (好きなので), but to answer どうして, use 〜からです (好きなのでです ✗). With a な-adjective: 好きだから, but 好きなので. Wrong? Review lessons 12-2 (4b) and 09-3 (4c). The whole diary in English: Last month I went on a trip to Kyoto with my friend Yuki. It took about two hours by Shinkansen from Tokyo. Kyoto had lots of old shrines, and it was very beautiful. Yuki took lots of pictures in front of the shrines. I like sweet things, so every day I ate too many sweets. Next time I want to go in winter and see Kyoto in the snow." }
+        ]
+      },
+      {
+        "id": "h6",
+        "type": "produce",
+        "prompt": "Script for a 3-minute conversation. Write a conversation between you and a Japanese acquaintance, in です／ます, in 3 parts of about 1 minute each: (1) you meet and talk about something you did recently (the past, a て-link, adjectives, a comparison with より, a reason with ので); (2) likes, experiences and plans (いちばん, 〜たことが ある, 〜たい, 〜つもり, 〜たり 〜たり); (3) a small problem, advice and an obligation (〜んです, 〜ほうが いい, 〜なければいけません), and a polite goodbye. The lines alternate: you, then the other person (each — starts a new turn). Rehearse it aloud playing both roles, record it, and compare it with all your earlier recordings (lesson 01-1, Milestones 1 and 2).",
+        "items": [
+          { "q": "Part 1 · Model (match its structure, not its words):", "a": { "jp": "たなかさん、こんにちは。おひさしぶりです。— あ、マリアさん！ おひさしぶりです。元気でしたか。— はい、元気でした。先月、友だちと きょうとへ 行ったんです。— いいですね。きょうとは どうでしたか。— 古い 神社が たくさん あって、とても きれいでした。東京より しずかでしたよ。— そうですか。何か おいしい ものを 食べましたか。— ええ。あまい ものが 好きなので、毎日 おかしを 食べました。ちょっと 食べすぎました。", "kana": "たなかさん、こんにちは。おひさしぶりです。— あ、マリアさん！ おひさしぶりです。げんきでしたか。— はい、げんきでした。せんげつ、ともだちと きょうとへ いったんです。— いいですね。きょうとは どうでしたか。— ふるい じんじゃが たくさん あって、とても きれいでした。とうきょうより しずかでしたよ。— そうですか。なにか おいしい ものを たべましたか。— ええ。あまい ものが すきなので、まいにち おかしを たべました。ちょっと たべすぎました。", "romaji": "Tanaka-san, konnichiwa. Ohisashiburi desu. — A, Maria-san! Ohisashiburi desu. Genki deshita ka. — Hai, genki deshita. Sengetsu, tomodachi to Kyōto e itta n desu. — Ii desu ne. Kyōto wa dō deshita ka. — Furui jinja ga takusan atte, totemo kirei deshita. Tōkyō yori shizuka deshita yo. — Sō desu ka. Nanika oishii mono o tabemashita ka. — Ee. Amai mono ga suki na node, mainichi okashi o tabemashita. Chotto tabesugimashita.", "en": "Hello, Mr./Ms. Tanaka. It's been a long time. — Oh, Maria! It's been a long time. How have you been? — I've been well. Last month I went to Kyoto with a friend, you see. — How nice. How was Kyoto? — There were lots of old shrines, and it was really beautiful. It was quieter than Tokyo. — Really? Did you eat anything good? — Yes. I like sweet things, so I ate sweets every day. I ate a bit too much." }, "note": "Check: the trip in the past; a て-link (あって); より for the comparison; ので + a reason; 〜んです to give context (行ったんです); すぎる." },
+          { "q": "Part 2 · Model:", "a": { "jp": "たなかさんは きょうとへ 行った ことが ありますか。— ええ、何度も ありますよ。マリアさんは 日本の 町の なかで どこが いちばん 好きですか。— きょうとが いちばん 好きです。こんどは ふゆに 行って、雪の きょうとを 見たいです。— 雪の きょうとは とても きれいですよ。ふゆやすみは 何を する つもりですか。— 友だちと おんせんに 入ったり、スキーを したり する つもりです。— わあ、いいですね。", "kana": "たなかさんは きょうとへ いった ことが ありますか。— ええ、なんども ありますよ。マリアさんは にほんの まちの なかで どこが いちばん すきですか。— きょうとが いちばん すきです。こんどは ふゆに いって、ゆきの きょうとを みたいです。— ゆきの きょうとは とても きれいですよ。ふゆやすみは なにを する つもりですか。— ともだちと おんせんに はいったり、スキーを したり する つもりです。— わあ、いいですね。", "romaji": "Tanaka-san wa Kyōto e itta koto ga arimasu ka. — Ee, nando mo arimasu yo. Maria-san wa Nihon no machi no naka de doko ga ichiban suki desu ka. — Kyōto ga ichiban suki desu. Kondo wa fuyu ni itte, yuki no Kyōto o mitai desu. — Yuki no Kyōto wa totemo kirei desu yo. Fuyuyasumi wa nani o suru tsumori desu ka. — Tomodachi to onsen ni haittari, sukī o shitari suru tsumori desu. — Wā, ii desu ne.", "en": "Have you ever been to Kyoto, Mr./Ms. Tanaka? — Yes, many times. Maria, which Japanese city do you like best? [lit. among Japanese towns, where do you like most?] — I like Kyoto best. Next time I want to go in winter and see Kyoto in the snow. — Kyoto in the snow is really beautiful. What are you planning to do during winter vacation? — I'm planning to do things like going to a hot spring and skiing with friends. — Wow, that sounds great." }, "note": "Check: 〜たことが ありますか; の なかで … いちばん with どこが; 〜たい; 〜つもり; 〜たり 〜たり する; a question in return, so the conversation keeps going." },
+          { "q": "Part 3 · Model:", "a": { "jp": "マリアさん、ちょっと 元気が ないですね。どうしたんですか。— きのうから あたまが いたいんです。— かぜでしょうか。病院に 行った ほうが いいですよ。— ええ。でも、今日は レポートを 書かなければいけないんです。— そうですか。じゃあ、今夜は 早く ねた ほうが いいですね。— はい、そう します。あ、もう 三時ですね。すみません、会社に 帰らなければいけません。— そうですか。じゃあ、また。おだいじに。— ありがとうございます。こんど きょうとの しゃしんを 見せますね。", "kana": "マリアさん、ちょっと げんきが ないですね。どうしたんですか。— きのうから あたまが いたいんです。— かぜでしょうか。びょういんに いった ほうが いいですよ。— ええ。でも、きょうは レポートを かかなければいけないんです。— そうですか。じゃあ、こんやは はやく ねた ほうが いいですね。— はい、そう します。あ、もう さんじですね。すみません、かいしゃに かえらなければいけません。— そうですか。じゃあ、また。おだいじに。— ありがとうございます。こんど きょうとの しゃしんを みせますね。", "romaji": "Maria-san, chotto genki ga nai desu ne. Dō shita n desu ka. — Kinō kara atama ga itai n desu. — Kaze deshō ka. Byōin ni itta hō ga ii desu yo. — Ee. Demo, kyō wa repōto o kakanakereba ikenai n desu. — Sō desu ka. Jā, kon'ya wa hayaku neta hō ga ii desu ne. — Hai, sō shimasu. A, mō san-ji desu ne. Sumimasen, kaisha ni kaeranakereba ikemasen. — Sō desu ka. Jā, mata. Odaiji ni. — Arigatō gozaimasu. Kondo Kyōto no shashin o misemasu ne.", "en": "Maria, you seem a bit down. What's wrong? — I've had a headache since yesterday. — Could it be a cold? You'd better go to the doctor. — Yes. But today I have to write a report, you see. — I see. Then you'd better go to bed early tonight. — Yes, I'll do that. Oh, it's already three o'clock. Sorry, I have to go back to the office. — I see. Well, see you. Take care of yourself. — Thank you. Next time I'll show you my pictures of Kyoto." }, "note": "Check: どうしたんですか / 〜んです; でしょうか; 〜た ほうが いい; 〜なければいけません (and 〜なければいけないんです); a polite goodbye. Read the whole script aloud with a timer: about 3 minutes. Extra: redo Part 1 in casual speech, as if talking with a close friend." }
+        ]
+      }
+    ],
+    "workbook": []
+  },
+  "practice": [
+    { "tool": "Wagotabi", "what": "A long session in the N5 area of the game, hunting for points from all of Genki I: a description before a noun, casual past lines (〜た, 〜なかった), comparisons (より, いちばん), なる, 〜たい, 〜たことが ある, 〜んです, 〜なければ, でしょう. For each line you understand completely, say the job of each block aloud, starting from the predicate. Copy 5 lines into your notebook and write next to each one which lesson's point it shows. Then, in Immersion → Games, log the session and paste the longest line into Anatomy.", "min": 25 },
+    { "tool": "ヅオリンゴー", "what": "🌊 All: do all of today's reviews first. Then Practice L9, L10, L11 and L12, plus any earlier lesson where you missed items on the mock test, starting with the one where you missed the most.", "min": 20 },
+    { "tool": "ヅオリンゴー", "what": "Drills → 🔬 Anatomy → 🧱 Build from the end, with the longest sentences you can find (6 blocks or more, with a description before a noun or a から / ので reason): 10 sentences. Then, in 🔬 Analyze, paste the Part 5 diary sentence by sentence and name the job of each block.", "min": 15 },
+    { "tool": "Speaking", "what": "Record the 3-minute conversation (task 6) without reading, playing both roles. Then listen to all your recordings in order: lesson 01-1, Milestone 1, Milestone 2 and today. Write down in your notebook 3 things that changed and 1 thing you want to strengthen in Genki II.", "min": 15 },
+    { "tool": "ヅオリンゴー", "what": "Journal: write 5 sentences about your week, each one with a different point from Lessons 9–12, and check them with \"Anatomy of what I wrote\".", "min": 10 }
+  ],
+  "culture": {
+    "title": "Thanking again afterwards: お礼 the next day",
+    "titleJp": "きのうは ありがとうございました",
+    "body": "In Japan, thanking someone once is often not the end of it. When someone has treated you to a meal, helped you or given you something, it is common to thank them **again the next time you meet**: きのうは ありがとうございました。, or この間は ごちそうさまでした。 after a meal. Many people also send a short message the same evening or the next day. If you forget this second thank-you, the other person will probably not say anything, but it can come across as a little cold. In general, a simple sentence that mentions what they did is enough; no gift is needed.",
+    "try": "Think of someone who did something for you recently (a meal, a favor, a ride, a gift). Say aloud, in two sentences, what you would tell them the next time you meet: きのうは ありがとうございました。とても たのしかったです。 After a meal: この間は ごちそうさまでした。とても おいしかったです。 Then add a thank-you like this to the end of your conversation script (task 6)."
+  },
+  "checklist": [
+    "I scored at least 80% on the mock test (24 of the 30 items) without looking anything up.",
+    "I did the homework, checked it against the answer key, reviewed the lessons named in the 💡 notes and redid the items I got wrong, this time correctly.",
+    "I read Maria's diary (Part 5) without kana and answered the 3 questions in Japanese.",
+    "I can say any Genki I verb in its 5 key forms (ます, て, dictionary, ない, た) without looking.",
+    "I can tell apart and use a wish (〜たい), a plan (〜つもり), an experience (〜たことが ある), an obligation (〜なければいけません) and a piece of advice (〜ほうが いい).",
+    "I can compare two things and three or more, and describe a change with なる.",
+    "I can hold the 3-minute conversation (task 6) without reading, and I recorded it.",
+    "I listened to all my recordings, from lesson 01-1 to today, and wrote down how far I've come and what I want to strengthen in Genki II."
+  ]
+}

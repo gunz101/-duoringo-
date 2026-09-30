@@ -1,0 +1,188 @@
+{
+  "id": "P-02",
+  "unit": "P-N3",
+  "genki": null,
+  "title": "It has been decided",
+  "titleJp": "大阪で働くことになりました",
+  "canDo": [
+    "I can announce a decision that someone else or the circumstances made with 〜ことになりました: 来月から大阪で働くことになりました.",
+    "I can describe rules, customs and fixed plans with 〜ことになっています: ごみは朝八時までに出すことになっています.",
+    "I can choose between ことにした (my decision) and ことになった (decided for me, or said modestly), and between ことにしている (my own rule) and ことになっている (an outside rule).",
+    "I can share my own big news modestly with 〜ことになりました, the way Japanese speakers often do."
+  ],
+  "duration": {
+    "total": "60–75 min",
+    "blocks": [
+      { "t": "Warm-up: say aloud 3 decisions you made recently with 〜ことにしました (lesson 23-2)", "min": 5 },
+      { "t": "Vocabulary: tap 🔊 on each word and repeat it twice", "min": 10 },
+      { "t": "Grammar: the 2 points, with the examples read aloud and one 🔬 each; draw the \"four boxes\" of point b in your notebook", "min": 25 },
+      { "t": "Video and reading (block 6), pausing on the examples", "min": 10 },
+      { "t": "Notebook homework + checking it against the answer key", "min": 15 },
+      { "t": "Checklist (block 10) + write your questions in the lesson notebook", "min": 5 }
+    ]
+  },
+  "prereqs": {
+    "aulas": ["P-01"],
+    "skills": [
+      "〜ことにする and 〜ことにしている (lesson 23-2). This lesson adds their なる twins.",
+      "The なる × する contrast of lesson P-01 (ようになる × ようにする): the same logic comes back today.",
+      "The dictionary form and the ない form of any verb (lesson 08-1).",
+      "Reading N4 kanji calmly. Every sentence comes with its full kana reading."
+    ],
+    "vocab": [
+      { "jp": "〜ことになる", "kana": "〜ことになる", "romaji": "-koto ni naru", "en": "it's been decided that…, it's been arranged that…" },
+      { "jp": "〜ことになっている", "kana": "〜ことになっている", "romaji": "-koto ni natte iru", "en": "is supposed to…, the rule is that…" },
+      { "jp": "〜ことにする", "kana": "〜ことにする", "romaji": "-koto ni suru", "en": "to decide to… (your own decision)" },
+      { "jp": "〜ことにしている", "kana": "〜ことにしている", "romaji": "-koto ni shite iru", "en": "to make it a rule to… (your own rule)" },
+      { "jp": "転勤する", "kana": "てんきんする", "romaji": "tenkin suru", "en": "to be transferred (to another office or city)" },
+      { "jp": "支店", "kana": "してん", "romaji": "shiten", "en": "branch (office)" },
+      { "jp": "本社", "kana": "ほんしゃ", "romaji": "honsha", "en": "head office" },
+      { "jp": "出張", "kana": "しゅっちょう", "romaji": "shutchō", "en": "business trip (出張する)" },
+      { "jp": "転職", "kana": "てんしょく", "romaji": "tenshoku", "en": "changing jobs (転職する)" },
+      { "jp": "やめる", "kana": "やめる", "romaji": "yameru", "en": "to quit (a job, a habit)" },
+      { "jp": "結婚する", "kana": "けっこんする", "romaji": "kekkon suru", "en": "to get married" },
+      { "jp": "留学する", "kana": "りゅうがくする", "romaji": "ryūgaku suru", "en": "to study abroad" },
+      { "jp": "合格する", "kana": "ごうかくする", "romaji": "gōkaku suru", "en": "to pass (an exam); to be accepted (〜に合格する)" },
+      { "jp": "実は", "kana": "じつは", "romaji": "jitsu wa", "en": "actually…, the thing is… (to bring up news)" },
+      { "jp": "話し合う", "kana": "はなしあう", "romaji": "hanashiau", "en": "to talk over, to discuss together" },
+      { "jp": "相談する", "kana": "そうだんする", "romaji": "sōdan suru", "en": "to talk something over with someone, to consult" },
+      { "jp": "返事", "kana": "へんじ", "romaji": "henji", "en": "reply, answer (返事をする)" },
+      { "jp": "以内", "kana": "いない", "romaji": "inai", "en": "within (一日以内 = within a day)" },
+      { "jp": "週末", "kana": "しゅうまつ", "romaji": "shūmatsu", "en": "weekend" },
+      { "jp": "平日", "kana": "へいじつ", "romaji": "heijitsu", "en": "weekday" },
+      { "jp": "靴を脱ぐ", "kana": "くつをぬぐ", "romaji": "kutsu o nugu", "en": "to take off your shoes" },
+      { "jp": "ごみを出す", "kana": "ごみをだす", "romaji": "gomi o dasu", "en": "to put out the garbage" },
+      { "jp": "朝礼", "kana": "ちょうれい", "romaji": "chōrei", "en": "morning meeting (at a workplace or school)" },
+      { "jp": "台風", "kana": "たいふう", "romaji": "taifū", "en": "typhoon" }
+    ]
+  },
+  "grammar": [
+    {
+      "id": "P-02-a",
+      "gc": null,
+      "title": "〜ことになる / 〜ことになっている",
+      "gloss": "it's been decided that… · the rule is that…, is supposed to…",
+      "explanation": "こと turns an action into a noun (\"the matter of…\"), and なる means \"become\". So [verb] ことになる = **\"it has come to be that…\"**: a decision or an arrangement that was **not simply your own choice**. The company, a school, a group or the circumstances decided it.\n• Form: **dictionary form** or **ない form** + ことになる. 働く → 働くことになる; 行かない → 行かないことになる.\n• **ことになりました / ことになった**: the decision has been made. This is the form you'll hear most: 来月から大阪で働くことになりました (\"It's been decided that I'll work in Osaka from next month\").\n• **Modest news.** Japanese speakers often announce **their own** big news this way, too: 結婚することになりました, 会社をやめることになりました. The decision may well be theirs, but ことになった presents it as something that came about, which sounds humbler than ことにしました (\"I decided\").\n• **ことになっている / ことになっています**: a decision that stays in force — **a rule, a custom or a fixed arrangement**. \"You're supposed to…\", \"the rule is…\": この寮では、夜十一時までに帰ることになっています (\"in this dorm, you're supposed to be back by 11 p.m.\"). It also covers plans that are already set: 明日、三時に田中さんと会うことになっています (\"I'm supposed to meet Tanaka at three tomorrow\").\n• **Don't mix it up with ようになる (lesson P-01).** ようになる = a gradual change in ability or habit; ことになる = a decision or an arrangement.\n• In the sentence, [verb]ことに + なりました is the **PREDICATE**. Read it from the end: \"it was decided\" → what? → the part before ことに → since when? where?\n\n**To recognize:** ことになる also means \"that works out to…\" in calculations and conclusions: 毎日二時間なら、一週間で十四時間勉強することになる (\"two hours a day works out to fourteen hours a week\").",
+      "structure": "[dictionary / ない form] ことになる (it's been decided) · [dictionary / ない form] ことになっている (it's the rule / it's arranged)",
+      "examples": [
+        { "jp": "来月から大阪の支店で働くことになりました。", "kana": "らいげつからおおさかのしてんではたらくことになりました。", "romaji": "Raigetsu kara Ōsaka no shiten de hataraku koto ni narimashita.", "en": "It's been decided that I'll work at the Osaka branch from next month." },
+        { "jp": "このアパートでは、ごみは朝八時までに出すことになっています。", "kana": "このアパートでは、ごみはあさはちじまでにだすことになっています。", "romaji": "Kono apāto de wa, gomi wa asa hachi-ji made ni dasu koto ni natte imasu.", "en": "In this apartment building, you're supposed to put the garbage out by 8 a.m. [it's the rule]" },
+        { "jp": "実は、六月に結婚することになりました。— わあ、おめでとうございます！", "kana": "じつは、ろくがつにけっこんすることになりました。— わあ、おめでとうございます！", "romaji": "Jitsu wa, rokugatsu ni kekkon suru koto ni narimashita. — Wā, omedetō gozaimasu!", "en": "Actually, I'm getting married in June. [lit. it has come about that I'll marry] — Wow, congratulations!" }
+      ],
+      "pitfalls": [
+        "こと can't be skipped: 大阪で働くになりました ✗ → 大阪で働くことになりました ✓.",
+        "No ます form before こと: 働きますことになりました ✗ → 働くことになりました ✓.",
+        "A standing rule is ことになっている, not ことになった: \"In this office, you're supposed to take off your shoes\" → 靴を脱ぐことになりました ✗ (that announces a new decision) → 靴を脱ぐことになっています ✓.",
+        "ことになる is a decision, not a gradual change: \"I've become able to speak Japanese\" → 日本語が話せることになりました ✗ → 日本語が話せるようになりました ✓ (lesson P-01)."
+      ],
+      "howToStudy": [
+        "Announce 3 pieces of news out loud as if you were at work, each one with ことになりました: a transfer, a new project, a meeting moved to Friday (来月から〜で働くことになりました…).",
+        "Tap 🔬 on example 2: アパートでは shows up as PLACE, ごみは as the TOPIC, 朝 and 八時までに as TIME, and 出すことに as TARGET — the engine's general label for a block ending in に; read it as \"what the rule says\". The PREDICATE is なっています (ongoing / state: the rule stays in force). Read from the end: it is the rule → what? → putting the garbage out → by when? → 8 a.m.",
+        "In your notebook, write 4 rules of a place you know (your home, your workplace, a gym) with 〜ことになっています."
+      ],
+      "flag": null
+    },
+    {
+      "id": "P-02-b",
+      "gc": null,
+      "title": "〜ことにする × 〜ことになる (the contrast)",
+      "gloss": "I decided × it was decided · my own rule × an outside rule",
+      "explanation": "You met ことにする in lesson 23-2: [verb] ことにする = **I decide** to…, and the decision is mine. The two forms share the same frame; only **する (I make it so)** × **なる (it became so)** changes — the same logic as ようにする × ようになる in lesson P-01.\n• **ことにした** — I chose: いろいろ考えて、留学することにしました.\n• **ことになった** — it was decided (by others, by circumstances), or I'm saying it modestly: プログラムに合格したので、留学することになりました.\n• **ことにしている** — my own rule, a habit I have set myself: 週末は仕事のメールを見ないことにしています.\n• **ことになっている** — a rule or arrangement set from outside: この会社では、一日以内に返事をすることになっています.\n\n**The four boxes** (who decided × a one-time decision or a standing rule):\n• I decided, once → **ことにした**\n• Someone else or the situation decided, once → **ことになった**\n• My own standing rule → **ことにしている**\n• An outside standing rule → **ことになっている**\n\n**Quick test:** ask **\"Who decided?\"** If the answer is \"I did\" and you want to show it was your choice, use する. If the answer is \"my boss, the school, the rules, the situation\" — or you'd rather not put yourself at the center — use なる.\n• ことにした sounds personal and firm (\"I made up my mind\"); ことになった sounds more neutral. That is why ことになりました is the usual way to share news such as a wedding or a new job.\n• Compare with lesson P-01: 夜はコーヒーを飲まないようにしています = I try not to (an effort); 夜はコーヒーを飲まないことにしています = I've made it a rule (a decision I keep).",
+      "structure": "ことにする (I decide) × ことになる (it's decided) · ことにしている (my rule) × ことになっている (the rule)",
+      "examples": [
+        { "jp": "いろいろ考えて、来年日本に留学することにしました。", "kana": "いろいろかんがえて、らいねんにほんにりゅうがくすることにしました。", "romaji": "Iroiro kangaete, rainen Nihon ni ryūgaku suru koto ni shimashita.", "en": "After a lot of thought, I've decided to study abroad in Japan next year." },
+        { "jp": "大学のプログラムに合格したので、来年日本に留学することになりました。", "kana": "だいがくのプログラムにごうかくしたので、らいねんにほんにりゅうがくすることになりました。", "romaji": "Daigaku no puroguramu ni gōkaku shita node, rainen Nihon ni ryūgaku suru koto ni narimashita.", "en": "I got into the university's program, so it's settled: I'm going to study in Japan next year." },
+        { "jp": "私は、週末は仕事のメールを見ないことにしています。", "kana": "わたしは、しゅうまつはしごとのメールをみないことにしています。", "romaji": "Watashi wa, shūmatsu wa shigoto no mēru o minai koto ni shite imasu.", "en": "I make it a rule not to check work email on weekends." }
+      ],
+      "pitfalls": [
+        "My own rule ≠ an outside rule: \"I make it a rule to run every morning\" → 毎朝走ることになっています ✗ (sounds like someone imposed it) → 毎朝走ることにしています ✓.",
+        "\"Decided NOT to\" puts the negative before こと: パーティーに行くことにしませんでした ✗ (= I didn't decide to go) → パーティーに行かないことにしました ✓.",
+        "A decision someone else made about you is not ことにした: \"The company is transferring me to Osaka\" → 大阪に転勤することにしました ✗ (sounds as if you chose it) → 大阪に転勤することになりました ✓."
+      ],
+      "howToStudy": [
+        "Draw the four boxes in your notebook (I / others × once / a standing rule) and write one true sentence of your own in each box.",
+        "Tap 🔬 on examples 1 and 2: after the first block (考えて, …AND THEN / 合格したので, REASON), the blocks are the same — 来年 TIME, 日本に TARGET, 留学することに TARGET — and only the PREDICATE changes: しました × なりました. Say both aloud and answer, for each one: who decided?",
+        "Speaking: tell a friend some news twice, first as your decision (〜ことにしました), then modestly (〜ことになりました). Notice how the second one takes you out of the center of the story."
+      ],
+      "flag": null
+    }
+  ],
+  "media": [
+    { "order": 1, "kind": "video", "title": "Game Gengo: 〜ことになる and 〜ことにする (JLPT grammar)", "where": "YouTube · Game Gengo channel", "url": "", "search": "Game Gengo koto ni naru koto ni suru", "when": "After point b, as a second explanation. If you can't find a video with both, search for ことになる alone." },
+    { "order": 2, "kind": "reading", "title": "Tae Kim's Guide to Learning Japanese: the page on using する and なる with the に particle (it includes ことになる and ようになる)", "where": "Website · Tae Kim's Guide to Learning Japanese", "url": "", "search": "Tae Kim using suru and naru with the ni particle", "when": "After the grammar block. It's short: read the part on verbs and compare his examples with the four boxes." },
+    { "order": 3, "kind": "input", "title": "YUYUの日本語Podcast: listen to one episode and note every 〜ことにした / 〜ことになった you catch, and who decided", "where": "Podcast · YUYUの日本語Podcast", "url": "", "search": "YUYUの日本語Podcast", "when": "Any day after the lesson. Pick an episode about her daily life or plans: those are the ones full of decisions." }
+  ],
+  "homework": {
+    "intro": "Do it by hand in your notebook, with the kanji you know and kana for the rest. Before each item, ask \"who decided?\" and \"once, or a standing rule?\". Only then open the answer key, item by item. Circle what you got wrong and redo it the next day.",
+    "tasks": [
+      {
+        "id": "h1",
+        "type": "choose",
+        "prompt": "Choose the right form for the situation and write the whole sentence. In item e both are natural: say what each one stresses.",
+        "items": [
+          { "q": "(Your boss told you this morning.) 来週、ソウルに出張する（ことにしました／ことになりました）。", "a": { "jp": "来週、ソウルに出張することになりました。", "kana": "らいしゅう、ソウルにしゅっちょうすることになりました。", "romaji": "Raishū, Souru ni shutchō suru koto ni narimashita." }, "note": "Someone else decided: なる." },
+          { "q": "(You thought about it for a month and chose.) 車を買わない（ことにしました／ことになりました）。", "a": { "jp": "車を買わないことにしました。", "kana": "くるまをかわないことにしました。", "romaji": "Kuruma o kawanai koto ni shimashita." }, "note": "Your own decision — and the negative goes before こと." },
+          { "q": "(A school rule.) この学校では、教室で帽子をとる（ことにしています／ことになっています）。", "a": { "jp": "この学校では、教室で帽子をとることになっています。", "kana": "このがっこうでは、きょうしつでぼうしをとることになっています。", "romaji": "Kono gakkō de wa, kyōshitsu de bōshi o toru koto ni natte imasu." }, "note": "An outside rule: ことになっている." },
+          { "q": "(Your own habit, set by yourself.) 私は、寝る前にスマホを見ない（ことにしています／ことになっています）。", "a": { "jp": "私は、寝る前にスマホを見ないことにしています。", "kana": "わたしは、ねるまえにスマホをみないことにしています。", "romaji": "Watashi wa, neru mae ni sumaho o minai koto ni shite imasu." }, "note": "Your own rule: ことにしている. Compare lesson P-01: 見ないようにしています would say you try not to — an effort rather than a rule." },
+          { "q": "(The team talked it over and agreed.) 話し合って、次の会議は金曜日にする（ことにしました／ことになりました）。", "a": { "jp": "話し合って、次の会議は金曜日にすることにしました／することになりました。", "kana": "はなしあって、つぎのかいぎはきんようびにすることにしました／することになりました。", "romaji": "Hanashiatte, tsugi no kaigi wa kin'yōbi ni suru koto ni shimashita / suru koto ni narimashita.", "en": "We talked it over and decided to hold the next meeting on Friday. / We talked it over, and it was settled that the next meeting will be on Friday." }, "note": "Both are natural. ことにしました stresses that we chose; ことになりました presents it as the outcome of the discussion." },
+          { "q": "(Your own wedding news, to your boss.) 実は、十月に結婚する（ことにしました／ことになりました）。", "a": { "jp": "実は、十月に結婚することになりました。", "kana": "じつは、じゅうがつにけっこんすることになりました。", "romaji": "Jitsu wa, jūgatsu ni kekkon suru koto ni narimashita." }, "note": "ことにしました isn't wrong, but it sounds like \"I made up my mind\". ことになりました is the usual, modest way to share this kind of news." }
+        ]
+      },
+      {
+        "id": "h2",
+        "type": "transform",
+        "prompt": "Turn each rule or fixed plan into a sentence with 〜ことになっています.",
+        "items": [
+          { "q": "(Office rule: take off your shoes at the entrance.)", "a": { "jp": "入り口で靴を脱ぐことになっています。", "kana": "いりぐちでくつをぬぐことになっています。", "romaji": "Iriguchi de kutsu o nugu koto ni natte imasu." } },
+          { "q": "(Dorm rule: no friends in your room from 10 p.m.)", "a": { "jp": "夜十時からは、友だちを部屋に入れないことになっています。", "kana": "よるじゅうじからは、ともだちをへやにいれないことになっています。", "romaji": "Yoru jū-ji kara wa, tomodachi o heya ni irenai koto ni natte imasu." }, "note": "A rule about NOT doing: ない form + ことになっている." },
+          { "q": "(A fixed plan: you meet a client at 3 tomorrow.)", "a": { "jp": "明日三時に、お客さんと会うことになっています。", "kana": "あしたさんじに、おきゃくさんとあうことになっています。", "romaji": "Ashita san-ji ni, okyakusan to au koto ni natte imasu." }, "note": "ことになっている also covers plans already arranged: \"I'm supposed to meet…\"." },
+          { "q": "(Class rule: you speak only Japanese.)", "a": { "jp": "この授業では、日本語だけで話すことになっています。", "kana": "このじゅぎょうでは、にほんごだけではなすことになっています。", "romaji": "Kono jugyō de wa, nihongo dake de hanasu koto ni natte imasu." } },
+          { "q": "(Building rule: plastic bottles go out on Wednesdays.)", "a": { "jp": "ペットボトルは水曜日に出すことになっています。", "kana": "ペットボトルはすいようびにだすことになっています。", "romaji": "Petto botoru wa suiyōbi ni dasu koto ni natte imasu." } }
+        ]
+      },
+      {
+        "id": "h3",
+        "type": "translate",
+        "prompt": "Translate into Japanese.",
+        "items": [
+          { "q": "It's been decided that I'll work at the head office from April.", "a": { "jp": "四月から本社で働くことになりました。", "kana": "しがつからほんしゃではたらくことになりました。", "romaji": "Shigatsu kara honsha de hataraku koto ni narimashita." } },
+          { "q": "I've decided to quit my part-time job.", "a": { "jp": "アルバイトをやめることにしました。", "romaji": "Arubaito o yameru koto ni shimashita." } },
+          { "q": "Because of the typhoon, it's been decided that we won't go on the trip.", "a": { "jp": "台風で、旅行に行かないことになりました。", "kana": "たいふうで、りょこうにいかないことになりました。", "romaji": "Taifū de, ryokō ni ikanai koto ni narimashita." }, "note": "The circumstances (the typhoon) decided: なる. The negative goes before こと." },
+          { "q": "At this company, you're supposed to reply within a day.", "a": { "jp": "この会社では、一日以内に返事をすることになっています。", "kana": "このかいしゃでは、いちにちいないにへんじをすることになっています。", "romaji": "Kono kaisha de wa, ichinichi inai ni henji o suru koto ni natte imasu." } },
+          { "q": "I make it a rule not to drink alcohol on weekdays.", "a": { "jp": "平日はお酒を飲まないことにしています。", "kana": "へいじつはおさけをのまないことにしています。", "romaji": "Heijitsu wa osake o nomanai koto ni shite imasu." } }
+        ]
+      },
+      {
+        "id": "h4",
+        "type": "produce",
+        "prompt": "Write a short announcement of real or imagined news in 4 sentences: one with ことになりました (the news), one with ことになっています (a rule or plan in the new situation), one with ことにしました (your own decision because of it) and one with ことにしています (a personal rule you keep). Read it aloud and record yourself.",
+        "items": [
+          { "q": "Model (match its structure, not its words):", "a": { "jp": "実は、来月から名古屋の支店で働くことになりました。新しい支店では、毎朝八時半に朝礼に出ることになっています。朝が早いので、会社の近くに引っ越すことにしました。忙しくなっても、週に二回はジムに行くことにしています。", "kana": "じつは、らいげつからなごやのしてんではたらくことになりました。あたらしいしてんでは、まいあさはちじはんにちょうれいにでることになっています。あさがはやいので、かいしゃのちかくにひっこすことにしました。いそがしくなっても、しゅうににかいはジムにいくことにしています。", "romaji": "Jitsu wa, raigetsu kara Nagoya no shiten de hataraku koto ni narimashita. Atarashii shiten de wa, maiasa hachi-ji han ni chōrei ni deru koto ni natte imasu. Asa ga hayai node, kaisha no chikaku ni hikkosu koto ni shimashita. Isogashiku natte mo, shū ni nikai wa jimu ni iku koto ni shite imasu.", "en": "Actually, it's been decided that I'll work at the Nagoya branch from next month. At the new branch, we're supposed to attend a morning meeting at 8:30 every day. Since my mornings will start early, I've decided to move near the office. Even when I get busy, I make it a rule to go to the gym twice a week." }, "note": "Check: each of the four forms matches its box (who decided? once or a rule?); the verb before こと is in the dictionary or ない form; the predicate is at the end." }
+        ]
+      }
+    ],
+    "workbook": []
+  },
+  "practice": [
+    { "tool": "Wagotabi", "what": "Play in the game's N3 areas and hunt for 〜ことになる and 〜ことにする in the dialogues. For each one, ask: who decided — the speaker, or someone or something else? Log the session in Immersion → Games and paste one of those lines into 🔬 Anatomy.", "min": 15 },
+    { "tool": "NHK NEWS WEB EASY", "what": "Read one article about a decision — a new rule, a price change, an event that was canceled — and listen to its audio. Such news often ends in 〜ことになりました (it was decided) or, when it names who decided, 〜ことにしました (会社は〜ことにしました). Copy one sentence and write who made the decision.", "min": 10 },
+    { "tool": "ヅオリンゴー · Journal", "what": "Write 5 sentences of your own: your announcement (homework h4) plus one more rule of a place you know, with ことになっています. Open \"Anatomy of what I wrote\" and check that the ことに block (tagged TARGET) comes right before なりました, しました, なっています or しています.", "min": 10 },
+    { "tool": "Shadowing", "what": "Tap 🔊 on each example and repeat along 3 times. Then say each example again, switching なりました ⇄ しました, and ask yourself how the story changes: who decided now?", "min": 5 },
+    { "tool": "Speaking", "what": "Role-play in 30 seconds: tell your boss some news (a move, a new course, a wedding — real or imagined) with 実は、〜ことになりました。 Then tell a friend the same news casually with 〜ことにしたんだ. Record both and compare.", "min": 5 }
+  ],
+  "culture": {
+    "title": "Jobs and てんしょく (changing jobs)",
+    "titleJp": "転職",
+    "body": "For a long time, the typical path at a large Japanese company was to be hired straight out of university, start work in **April** together with a whole group of new employees, and stay with the same company for decades — often called 終身雇用 (しゅうしんこよう, \"lifetime employment\"). Students usually job-hunt (就活, しゅうかつ) in their last years of university, often in very similar dark suits. Today **転職** (changing jobs) is much more common than it used to be, especially among younger workers, and there are many job-change websites and agencies. Large companies may also **transfer** employees to another office or city (転勤), and the employee often has little say, which is why you'll often hear 〜に転勤することになりました. When a transfer is far away, some people move alone while the family stays behind — a situation common enough to have its own name, 単身赴任 (たんしんふにん).",
+    "try": "Write the short speech you might give on your last day at a job (real or imagined), in 3 sentences: 実は、今月で会社をやめることになりました。…いろいろお世話になりました。 Then add one sentence about your next step with 〜ことにしました."
+  },
+  "checklist": [
+    "I can announce a decision made for me with 〜ことになりました (大阪で働くことになりました) without looking.",
+    "I can describe rules and fixed plans with 〜ことになっています.",
+    "I can choose among ことにした, ことになった, ことにしている and ことになっている by asking \"who decided?\" and \"once, or a standing rule?\".",
+    "I can share my own big news modestly with 〜ことになりました.",
+    "I put the negative before こと: 行かないことにしました / 行かないことになりました.",
+    "I don't confuse ことになる (a decision) with ようになる (a gradual change, lesson P-01).",
+    "I did the homework, checked it against the answer key and redid what I got wrong."
+  ]
+}

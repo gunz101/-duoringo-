@@ -1,0 +1,215 @@
+{
+  "id": "14-3",
+  "unit": "G2-L14",
+  "genki": { "book": "Genki II", "lesson": 14, "points": ["〜たらどうですか", "Number + も", "Number + しか + Negative"] },
+  "title": "Suggesting · amounts",
+  "titleJp": "チョコを一つしかもらいませんでした",
+  "canDo": [
+    "I can suggest an action to a friend with 〜たらどうですか (and 〜たら？ in casual speech), and I know not to use it with a teacher or a boss.",
+    "I can stress that a number is big with number + も: 一時間も待ちました.",
+    "I can say \"only\", with the feeling of \"too few\", using number + しか + a negative verb: 千円しかありません.",
+    "I can read 4 and 9 correctly with common counters (よにん, よじかん, くじ, きゅうこ)."
+  ],
+  "duration": {
+    "total": "60–75 min",
+    "blocks": [
+      { "t": "Warm-up: say aloud the た-form of 8 verbs (lesson 09-1), including 行く, する and 来る", "min": 5 },
+      { "t": "Vocabulary: tap 🔊 on each word and repeat it twice; read the counters aloud with 4 and 9 (よにん, よじかん, きゅうこ…)", "min": 10 },
+      { "t": "Grammar: the 3 points, each with its examples read aloud, and one 🔬 on points a and c", "min": 25 },
+      { "t": "Video (block 6), only the parts on this lesson's points", "min": 10 },
+      { "t": "Notebook homework + checking it against the answer key", "min": 15 },
+      { "t": "Checklist (block 10) + write your questions in the lesson notebook", "min": 5 }
+    ]
+  },
+  "prereqs": {
+    "aulas": ["14-2"],
+    "skills": [
+      "The short past (た-form) of every verb (lesson 09-1): 〜たらどうですか is built on it.",
+      "Numbers and counters: 〜えん (lesson 02-2), 〜じかん (lesson 04-3), ひとつ・ふたつ (lesson 05-3), ひとり・ふたり・〜にん (lesson 07-3).",
+      "The negative 〜ません / 〜ませんでした (lessons 03-1 and 04-2): しか always needs a negative verb.",
+      "も as \"also\" (lessons 02-3 and 04-3), so you can tell it apart from the も after a number.",
+      "〜ほうがいいです (lesson 12-2), another way to give advice, and あげる／くれる／もらう (lesson 14-2), used in several examples."
+    ],
+    "vocab": [
+      { "jp": "〜たらどうですか", "kana": "〜たらどうですか", "romaji": "-tara dō desu ka", "en": "why don't you…? (a suggestion)" },
+      { "jp": "上手（な）", "kana": "じょうず（な）", "romaji": "jōzu (na)", "en": "good at, skillful (上手になる = to get better at)" },
+      { "jp": "つかれる", "kana": "つかれる", "romaji": "tsukareru", "en": "to get tired (つかれている = to be tired)" },
+      { "jp": "休む", "kana": "やすむ", "romaji": "yasumu", "en": "to rest; to take a day off" },
+      { "jp": "くすり", "kana": "くすり", "romaji": "kusuri", "en": "medicine (くすりを飲む = to take medicine)" },
+      { "jp": "あたま", "kana": "あたま", "romaji": "atama", "en": "head (あたまがいたい = to have a headache)" },
+      { "jp": "待つ", "kana": "まつ", "romaji": "matsu", "en": "to wait (for): 友だちを待つ" },
+      { "jp": "〜分", "kana": "〜ふん／〜ぷん", "romaji": "-fun / -pun", "en": "… minutes (五分 ごふん, 十分 じゅっぷん)" },
+      { "jp": "〜時間", "kana": "〜じかん", "romaji": "-jikan", "en": "… hours" },
+      { "jp": "〜人", "kana": "〜にん", "romaji": "-nin", "en": "… people (一人 ひとり, 二人 ふたり, 四人 よにん)" },
+      { "jp": "〜円", "kana": "〜えん", "romaji": "-en", "en": "… yen" },
+      { "jp": "万", "kana": "まん", "romaji": "man", "en": "ten thousand (一万円 = 10,000 yen)" },
+      { "jp": "〜こ", "kana": "〜こ", "romaji": "-ko", "en": "counter for small objects (いっこ, にこ… じゅっこ)" },
+      { "jp": "〜さつ", "kana": "〜さつ", "romaji": "-satsu", "en": "counter for books (いっさつ, にさつ…)" },
+      { "jp": "〜も", "kana": "〜も", "romaji": "mo", "en": "(after a number) as many as, as much as, a whole…" },
+      { "jp": "〜しか〜ない", "kana": "〜しか〜ない", "romaji": "shika … nai", "en": "only… (and that's not enough)" },
+      { "jp": "〜だけ", "kana": "〜だけ", "romaji": "-dake", "en": "just, only (neutral)" },
+      { "jp": "ゆうべ", "kana": "ゆうべ", "romaji": "yūbe", "en": "last night" },
+      { "jp": "ねる", "kana": "ねる", "romaji": "neru", "en": "to sleep; to go to bed" },
+      { "jp": "クラス", "kana": "クラス", "romaji": "kurasu", "en": "class" },
+      { "jp": "いそぐ", "kana": "いそぐ", "romaji": "isogu", "en": "to hurry" },
+      { "jp": "四", "kana": "よん／し", "romaji": "yon / shi", "en": "four" },
+      { "jp": "九", "kana": "きゅう／く", "romaji": "kyū / ku", "en": "nine" }
+    ]
+  },
+  "grammar": [
+    {
+      "id": "14-3-a",
+      "gc": null,
+      "title": "〜たらどうですか: why don't you…?",
+      "gloss": "suggesting an action",
+      "explanation": "〜たらどうですか means **\"why don't you…?\" / \"how about …ing?\"**: you suggest an action to the other person. Build it from the **short past (た-form**, lesson 09-1**)** + **ら** + **どうですか**: 休んだ → 休んだらどうですか; 聞いた → 聞いたらどうですか; した → したらどうですか.\n• Literally it asks \"if you did X, how would it be?\". So this た does **not** mean past: it is only the base for ら.\n• Casual form, with friends: **〜たらどう？** or just **〜たら？**: 先生に聞いたら？\n• **Only for friends and people below you.** It tells the other person what to do, and to a teacher, a boss or an older person it can sound pushy, even like **criticism**. With them, it is safer not to use it.\n• **〜たらどうですか × 〜ほうがいいです** (lesson 12-2): ほうがいい is stronger advice (\"you had better\"); 〜たらどうですか is a lighter suggestion, one idea among others.\n• In the sentence, the block ending in 〜たら is the **IF / WHEN** part (\"if you did…\"), and どうですか is the **PREDICATE** (\"how would it be?\"). The object or the place of the action stays in the first half: 日本人の友だちを作ったら | どうですか.",
+      "structure": "[verb in た-form] ら どうですか。 · casual: 〜たら（どう）？",
+      "examples": [
+        { "jp": "日本語が上手になりたいんです。— 日本人の友だちを作ったらどうですか。", "kana": "にほんごがじょうずになりたいんです。— にほんじんのともだちをつくったらどうですか。", "romaji": "Nihongo ga jōzu ni naritai n desu. — Nihonjin no tomodachi o tsukuttara dō desu ka.", "en": "I want to get better at Japanese. — Why don't you make some Japanese friends? [lit. if you made Japanese friends, how would it be?]" },
+        { "jp": "つかれているんですね。今日は早く帰って、休んだらどうですか。", "kana": "つかれているんですね。きょうははやくかえって、やすんだらどうですか。", "romaji": "Tsukarete iru n desu ne. Kyō wa hayaku kaette, yasundara dō desu ka.", "en": "You're tired, aren't you? Why don't you go home early today and get some rest?" },
+        { "jp": "彼女のたんじょうびのプレゼント、何がいいかな。— 花をあげたらどう？", "kana": "かのじょのたんじょうびのプレゼント、なにがいいかな。— はなをあげたらどう？", "romaji": "Kanojo no tanjōbi no purezento, nani ga ii ka na. — Hana o agetara dō?", "en": "What would be a good birthday present for my girlfriend? — Why don't you give her flowers? (casual)" }
+      ],
+      "pitfalls": [
+        "Build it on the た-form: 休むらどうですか ✗ / 休みますらどうですか ✗ → 休んだらどうですか ✓.",
+        "Check the た-form of う-verbs: 聞きたらどうですか ✗ → 聞いたらどうですか ✓; 行いたらどうですか ✗ → 行ったらどうですか ✓ (行く is irregular: 行った).",
+        "Don't say it to a teacher or a boss: 先生、早く帰ったらどうですか ✗ (it sounds like criticism). To a friend or a younger person, it is fine ✓.",
+        "This た is not past: 休んだらどうですか is about now or later, not \"why didn't you rest?\"."
+      ],
+      "howToStudy": [
+        "Tap 🔬 on example 1: in the answer, 日本人の is DESCRIBES NEXT, 友だちを is the OBJECT, 作ったら is the IF / WHEN block and どうですか is the PREDICATE. Read it from the end: how would it be → if you made → what? → friends → what kind? → Japanese.",
+        "Imagine a friend tells you 5 problems (I'm tired, I have no money, I want to speak better Japanese, my room is dirty, I can't sleep). Answer each one out loud with a different 〜たらどうですか.",
+        "In your notebook, write the た-form of 6 verbs and then the suggestion: 聞く → 聞いた → 聞いたらどうですか."
+      ],
+      "flag": null
+    },
+    {
+      "id": "14-3-b",
+      "gc": null,
+      "title": "Number + も: as many as",
+      "gloss": "the number is bigger than expected",
+      "explanation": "After a **number + counter**, **も** does not mean \"also\". It means **\"as many as\", \"as much as\", \"as long as\"**: the speaker finds the amount **bigger than expected**, with surprise, admiration or complaint.\n• 一時間も待ちました = I waited **a whole hour** (that's a lot!).\n• も attaches **directly to the number + counter**: 百人も, 二万円も, 八時間も, 二十こも.\n• Use it with an **affirmative verb**, in the present or the past. (With a negative verb, number + も means \"not even\": 五分もかかりません = it doesn't even take five minutes. Just recognize it for now.)\n• For prices, the verb is often する (\"to cost\"): このセーターは二万円もしました.\n• Compare: チョコを十こもらいました is neutral (\"I got ten\"); チョコを十こももらいました adds \"— ten!\".\n• In the sentence, [number + counter + も] works as a **QUANTITY** block, usually right before the verb, with no case particle. Read from the end: waited → how long? → one hour, and that's a lot → for whom? → a friend.",
+      "structure": "[number + counter] も [affirmative verb] — \"as many as…, a whole…\"",
+      "examples": [
+        { "jp": "友だちを駅で一時間も待ちました。", "kana": "ともだちをえきでいちじかんもまちました。", "romaji": "Tomodachi o eki de ichijikan mo machimashita.", "en": "I waited for my friend at the station for a whole hour.", "noAnat": true },
+        { "jp": "たけしさんはバレンタインデーにチョコを二十こももらいました。", "kana": "たけしさんはバレンタインデーにチョコをにじゅっこももらいました。", "romaji": "Takeshi-san wa barentaindē ni choko o nijukko mo moraimashita.", "en": "On Valentine's Day, Takeshi got as many as twenty chocolates.", "noAnat": true },
+        { "jp": "このセーター、二万円もしたんです。", "kana": "このセーター、にまんえんもしたんです。", "romaji": "Kono sētā, niman'en mo shita n desu.", "en": "This sweater cost as much as 20,000 yen, you know.", "noAnat": true }
+      ],
+      "pitfalls": [
+        "After a number, も is not \"also\": 三時間も勉強しました is not \"I also studied three hours\" but \"I studied for three whole hours\".",
+        "も goes right after the number + counter: 二十もこ ✗ → 二十こも ✓; 一時間待ちましたも ✗ → 一時間も待ちました ✓.",
+        "With a negative verb, number + も means \"not even\", not \"only\": 千円もありません = \"I don't even have 1,000 yen\" (less than that). For \"I only have 1,000 yen\", use しか: 千円しかありません ✓."
+      ],
+      "howToStudy": [
+        "Say out loud 5 true things that took a lot of time, money or people, each with number + も: きのう、日本語を三時間も勉強しました。 Let your voice show that the number surprises you.",
+        "Read example 2 from the end, out loud, treating 二十こも as the QUANTITY block: got → how many? → twenty, a lot! → what? → chocolates → when? → on Valentine's Day → who? → Takeshi.",
+        "In your notebook, write 3 pairs, one neutral and one with も (十こもらいました / 十こももらいました), and write in English what changes."
+      ],
+      "flag": null
+    },
+    {
+      "id": "14-3-c",
+      "gc": null,
+      "title": "Number + しか + negative: only",
+      "gloss": "only, with a feeling of \"too few\"",
+      "explanation": "**しか + a negative verb** means **\"only\"**, with the feeling that the amount is **too small**: less than you'd like or expect. It is the mirror of the previous point: number + も says \"that's a lot\", しか〜ない says \"that's all\".\n• 千円しかありません = I only have 1,000 yen (and that's not much).\n• **The verb is always negative, but the meaning is not.** しか + negative works as one unit, \"nothing but\"; literally, \"apart from 1,000 yen, there isn't any\". So 三人しか来ませんでした means three people **did** come.\n• しか goes **right after the number + counter**: 三人しか, 一時間しか, 一つしか.\n• Past: 〜しか〜ませんでした: パーティーに三人しか来ませんでした.\n• **しか × だけ**: だけ (\"just, only\") is neutral and takes an **affirmative** verb: 千円だけあります. しか〜ない adds \"and that's not enough\". When you only want to state the fact, だけ is the safe choice.\n• しか also works after nouns (水しか飲みません, \"I drink nothing but water\"), but here you practice it with numbers.\n• In the sentence, [number + しか] is the **QUANTITY** block and the negative verb is the **PREDICATE**. Read from the end: didn't get → apart from how many? → one → what? → chocolate.",
+      "structure": "[number + counter] しか [negative verb] — \"only… (too few)\"",
+      "examples": [
+        { "jp": "今、お金が千円しかありません。", "kana": "いま、おかねがせんえんしかありません。", "romaji": "Ima, okane ga sen'en shika arimasen.", "en": "Right now I only have 1,000 yen." },
+        { "jp": "雨だったから、パーティーに三人しか来ませんでした。", "kana": "あめだったから、パーティーにさんにんしかきませんでした。", "romaji": "Ame datta kara, pātī ni sannin shika kimasen deshita.", "en": "It was raining, so only three people came to the party." },
+        { "jp": "私はチョコを一つしかもらいませんでした。", "kana": "わたしはチョコをひとつしかもらいませんでした。", "romaji": "Watashi wa choko o hitotsu shika moraimasen deshita.", "en": "I only got one chocolate. [lit. apart from one, I didn't get any]" }
+      ],
+      "pitfalls": [
+        "しか needs a negative verb: 千円しかあります ✗ → 千円しかありません ✓.",
+        "Don't read the negative as \"not\": 三人しか来ませんでした means three people DID come, only three.",
+        "Don't mix しか and だけ: 千円だけありません ✗ (for \"I only have 1,000 yen\") → 千円しかありません ✓ or 千円だけあります ✓.",
+        "Numbers with 4 and 9 are easy to misread: 四人 is よにん (しにん ✗), 四時間 is よじかん, 九時 is くじ. しか doesn't change them."
+      ],
+      "howToStudy": [
+        "Tap 🔬 on example 3: 私は is the TOPIC, チョコを is the OBJECT, 一つしか is the QUANTITY and もらいませんでした is the PREDICATE. Read it from the end, and notice that the negative verb and しか together mean \"only\".",
+        "Say each pair out loud, switching the feeling: 三時間もねました (a lot) / 三時間しかねませんでした (too little). Do it for time, money, people and chocolates.",
+        "Write 4 true sentences in your notebook about things you have too few of (money, free time, Japanese friends, books), each with しか."
+      ],
+      "flag": null
+    }
+  ],
+  "media": [
+    { "order": 1, "kind": "reading", "title": "Genki II · Lesson 14: the grammar notes 〜たらどうですか, Number + も and Number + しか + Negative, plus the dialogue of the whole lesson", "where": "Your Genki II textbook (3rd ed.)", "url": "", "when": "Before this lesson or right after the grammar block. This is the last lesson for Genki Lesson 14: at the end, reread the book's dialogue and check that you understand every sentence." },
+    { "order": 2, "kind": "video", "title": "Game Gengo: しか〜ない (\"only\")", "where": "YouTube · Game Gengo channel", "url": "", "search": "Game Gengo shika nai JLPT grammar", "when": "After point c. If the video also covers だけ, compare it with the しか × だけ note in point c." }
+  ],
+  "homework": {
+    "intro": "Do it by hand in your notebook. Write the kanji you already know and the rest in kana. Only then open the answer key, item by item. Circle what you got wrong and redo it the next day. If you have the Genki II Workbook, do this lesson's exercises too.",
+    "tasks": [
+      {
+        "id": "h1",
+        "type": "transform",
+        "prompt": "A friend tells you a problem. Suggest the action in brackets with 〜たらどうですか. First make the た-form.",
+        "items": [
+          { "q": "あたまがいたいんです。（くすりを飲む）", "a": { "jp": "くすりを飲んだらどうですか。", "kana": "くすりをのんだらどうですか。", "romaji": "Kusuri o nondara dō desu ka." }, "note": "飲む → 飲んだ." },
+          { "q": "日本語の本が読みたいんです。（としょかんに行く）", "a": { "jp": "としょかんに行ったらどうですか。", "kana": "としょかんにいったらどうですか。", "romaji": "Toshokan ni ittara dō desu ka." }, "note": "行く → 行った (the irregular one)." },
+          { "q": "ゆうべ、ねなかったんです。（今日は早くねる）", "a": { "jp": "今日は早くねたらどうですか。", "kana": "きょうははやくねたらどうですか。", "romaji": "Kyō wa hayaku netara dō desu ka." } },
+          { "q": "しゅくだいがわかりません。（先生に聞く）", "a": { "jp": "先生に聞いたらどうですか。", "kana": "せんせいにきいたらどうですか。", "romaji": "Sensei ni kiitara dō desu ka." }, "note": "聞く → 聞いた: く → いた." },
+          { "q": "彼女のたんじょうびのプレゼント、何がいいかな。（手作りのケーキをあげる）", "a": { "jp": "手作りのケーキをあげたらどうですか。", "kana": "てづくりのケーキをあげたらどうですか。", "romaji": "Tezukuri no kēki o agetara dō desu ka." } },
+          { "q": "(Casual, to a friend) おなかがすいた…。（何か食べる）", "a": { "jp": "何か食べたら？", "kana": "なにかたべたら？", "romaji": "Nanika tabetara?" }, "note": "Casual: 〜たら？ or 〜たらどう？" }
+        ]
+      },
+      {
+        "id": "h2",
+        "type": "fill",
+        "prompt": "Fill in も or しか. Then check the verb: しか needs a negative, and も after a number goes with an affirmative verb here.",
+        "items": [
+          { "q": "きのうは十時間＿勉強しました。つかれました。", "a": { "jp": "も", "romaji": "mo" }, "note": "A big number with an affirmative verb." },
+          { "q": "クラスに学生が三人＿いません。さびしいです。", "a": { "jp": "しか", "romaji": "shika" }, "note": "A negative verb and a feeling of too few." },
+          { "q": "このかばんは五万円＿しました。", "a": { "jp": "も", "romaji": "mo" }, "note": "Price + する (\"to cost\"), and it is a lot." },
+          { "q": "時間が五分＿ありません。いそぎましょう！", "a": { "jp": "しか", "romaji": "shika" } },
+          { "q": "パーティーに百人＿来ました！", "a": { "jp": "も", "romaji": "mo" } },
+          { "q": "日本語の本は一さつ＿持っていません。", "a": { "jp": "しか", "romaji": "shika" }, "note": "一さつ = いっさつ." }
+        ]
+      },
+      {
+        "id": "h3",
+        "type": "translate",
+        "prompt": "Translate into Japanese.",
+        "items": [
+          { "q": "Why don't you ask Ms. Suzuki? (to a friend, politely)", "a": { "jp": "すずきさんに聞いたらどうですか。", "kana": "すずきさんにきいたらどうですか。", "romaji": "Suzuki-san ni kiitara dō desu ka." } },
+          { "q": "I waited for the bus for as long as 40 minutes.", "a": { "jp": "バスを四十分も待ちました。", "kana": "バスをよんじゅっぷんもまちました。", "romaji": "Basu o yonjuppun mo machimashita." }, "note": "四十分 = よんじゅっぷん." },
+          { "q": "Only four people came to the class.", "a": { "jp": "クラスに四人しか来ませんでした。", "kana": "クラスによにんしかきませんでした。", "romaji": "Kurasu ni yonin shika kimasen deshita." }, "note": "四人 = よにん." },
+          { "q": "I only slept three hours last night.", "a": { "jp": "ゆうべは三時間しかねませんでした。", "kana": "ゆうべはさんじかんしかねませんでした。", "romaji": "Yūbe wa sanjikan shika nemasen deshita." } },
+          { "q": "I got as many as nine chocolates!", "a": { "jp": "チョコを九こももらいました！", "kana": "チョコをきゅうこももらいました！", "romaji": "Choko o kyūko mo moraimashita!" }, "note": "九こ = きゅうこ." },
+          { "q": "I only have 500 yen, so I can't buy it.", "a": { "jp": "五百円しかありませんから、買えません。", "kana": "ごひゃくえんしかありませんから、かえません。", "romaji": "Gohyaku en shika arimasen kara, kaemasen." }, "note": "買える is the potential of 買う (lesson 13-1)." }
+        ]
+      },
+      {
+        "id": "h4",
+        "type": "produce",
+        "prompt": "A friend writes to you: お金がないんです。 Write 5–6 sentences back: 1 with しか about your own money or time, 1 with も about something that cost or took a lot, and 3 suggestions with 〜たらどうですか. Then read it aloud and record it on your phone.",
+        "items": [
+          { "q": "Model (match its structure, not its words):", "a": { "jp": "私もです。今、さいふに二千円しかありません。先月、パソコンを買いました。十五万円もしたんです。アルバイトをしたらどうですか。お昼はおべんとうを作ったらどうですか。それから、ほしい物のリストを作ったらどうですか。", "kana": "わたしもです。いま、さいふににせんえんしかありません。せんげつ、パソコンをかいました。じゅうごまんえんもしたんです。アルバイトをしたらどうですか。おひるはおべんとうをつくったらどうですか。それから、ほしいもののリストをつくったらどうですか。", "romaji": "Watashi mo desu. Ima, saifu ni nisen'en shika arimasen. Sengetsu, pasokon o kaimashita. Jūgoman'en mo shita n desu. Arubaito o shitara dō desu ka. Ohiru wa obentō o tsukuttara dō desu ka. Sorekara, hoshii mono no risuto o tsukuttara dō desu ka.", "en": "Me too. Right now I only have 2,000 yen in my wallet. Last month I bought a computer. It cost as much as 150,000 yen. Why don't you get a part-time job? Why don't you make a boxed lunch for lunch? And why don't you make a list of the things you want?" }, "note": "Check: た-form + らどうですか in every suggestion, しか with a negative verb, and も right after the number + counter." }
+        ]
+      }
+    ],
+    "workbook": []
+  },
+  "practice": [
+    { "tool": "Wagotabi", "what": "Play in an N4-level area, if you have reached one. Hunt the dialogues for しか, a number + も and 〜たら(どう). For each しか, say out loud what there is \"only\" of; for each number + も, say what is \"a lot\". Log the session in Immersion → Games and paste a しか line into 🔬 Anatomy.", "min": 15 },
+    { "tool": "ヅオリンゴー", "what": "Drills → Numbers: warm up the readings, especially 4 and 9 (よん, よ, し / きゅう, く). Then Drills → Conjugation: the た-form, which 〜たらどうですか needs.", "min": 10 },
+    { "tool": "ヅオリンゴー", "what": "Drills → 🔬 Anatomy → 🧱 Build from the end with example 3 of point c, starting from もらいませんでした.", "min": 5 },
+    { "tool": "Shadowing", "what": "Tap 🔊 on each example and repeat along 3 times. Pay attention to the counters: いちじかん, にじゅっこ, にまんえん, せんえん, さんにん.", "min": 5 },
+    { "tool": "Speaking", "what": "Record your answer to the friend (homework h4) in under a minute. Listen and check that every しか came with a negative verb and every suggestion with the た-form.", "min": 5 }
+  ],
+  "culture": {
+    "title": "Unlucky numbers: 4 and 9",
+    "titleJp": "四と九",
+    "body": "In Japanese, 四 can be read し, which sounds like 死 (し, \"death\"), and 九 can be read く, which sounds like 苦 (く, \"suffering\"). Because of this, many people prefer the readings **よん** and **きゅう** in everyday counting, and the numbers are often avoided where they would feel unlucky. Some hospitals and hotels skip room numbers with 4 or 9, and gifts in sets of four (four plates, four flowers) are usually avoided. Not everyone takes it seriously, but you may notice missing 4s and 9s in room or parking-space numbers. Fixed words keep their readings, though: 四月 is しがつ and 九時 is くじ. On the lucky side, 八 is often seen as a good number, because the kanji widens toward the bottom, like a future that opens up (すえひろがり).",
+    "try": "Count out loud with the everyday readings: 四人 (よにん), 四時 (よじ), 四時間 (よじかん), 九人 (きゅうにん), 九時 (くじ). Then say one sentence with しか and one with も using those numbers: 四人しか来ませんでした。 / 九時間もねました。"
+  },
+  "checklist": [
+    "I can suggest an action with 〜たらどうですか, from the た-form of any verb, without looking.",
+    "I use 〜たらどうですか (or 〜たら？) only with friends and people below me, not with teachers or bosses.",
+    "I can stress a big number with number + も: 一時間も待ちました。",
+    "I can say \"only (too few)\" with number + しか + a negative verb, and I know the verb is negative but the meaning isn't.",
+    "I can tell しか + negative apart from だけ + affirmative.",
+    "I read 4 and 9 correctly with common counters (よにん, よじ, よんじゅっぷん, くじ, きゅうこ).",
+    "I did the homework, checked it against the answer key and redid what I got wrong.",
+    "If I have the Genki II Workbook: I did this lesson's exercises on 〜たらどうですか, number + も and number + しか + negative."
+  ]
+}

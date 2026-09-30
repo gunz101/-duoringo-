@@ -2,216 +2,216 @@
   "id": "19-1",
   "unit": "G2-L19",
   "genki": { "book": "Genki II", "lesson": 19, "points": ["Honorific Verbs", "Giving Respectful Advice"] },
-  "title": "Linguagem honorífica",
+  "title": "Honorific language",
   "titleJp": "先生、何をめしあがりますか",
   "canDo": [
-    "Trocar os verbos comuns pelos 8 honoríficos especiais (いらっしゃる, おっしゃる, めしあがる, ごらんになる, なさる, くださる, ごぞんじだ, お休みになる) ao falar das ações de um professor, chefe ou cliente.",
-    "Conjugar no ます, sem errar a forma irregular, いらっしゃいます, おっしゃいます, くださいます e なさいます.",
-    "Deixar honorífico qualquer outro verbo com お + radical + になる: 帰る → お帰りになる.",
-    "Fazer pedidos respeitosos com お〜ください e ご〜ください (お待ちください, ごれんらくください) e com as formas especiais (ごらんください).",
-    "Decidir quando usar 尊敬語 (clientes, superiores, desconhecidos mais velhos) e nunca usá-lo para falar de mim mesmo."
+    "I can swap everyday verbs for the 8 special honorifics (いらっしゃる, おっしゃる, めしあがる, ごらんになる, なさる, くださる, ごぞんじだ, お休みになる) when I talk about what a teacher, a boss or a customer does.",
+    "I can put them in the ます form without tripping on the irregular ones: いらっしゃいます, おっしゃいます, くださいます and なさいます.",
+    "I can make any other verb honorific with お + stem + になる: 帰る → お帰りになる.",
+    "I can make respectful requests with お〜ください and ご〜ください (お待ちください, ごれんらくください) and with the special forms (ごらんください).",
+    "I can decide when to use 尊敬語 (customers, superiors, older strangers) and I never use it about myself."
   ],
   "duration": {
     "total": "70–90 min",
     "blocks": [
-      { "t": "Sessão 1 · Aquecimento: diga em voz alta a forma ます de いる, 行く, 来る, 言う, 食べる, 見る, する e 寝る (são os verbos que ganham forma especial)", "min": 5 },
-      { "t": "Vocabulário: ouvir 🔊 cada palavra, repetir 2 vezes e copiar no caderno a tabela verbo comum → honorífico", "min": 10 },
-      { "t": "Gramática 4a (verbos especiais) e 4b (お〜になる): exemplos em voz alta + um 🔬 em cada", "min": 25 },
-      { "t": "Vídeo da Lição 19 (bloco 6), só a parte dos honoríficos", "min": 10 },
-      { "t": "Sessão 2 (pode ser em outro dia): recitar a tabela de cor + gramática 4c (お〜ください)", "min": 15 },
-      { "t": "Lição de casa no caderno + conferir no gabarito", "min": 15 },
-      { "t": "Checklist (bloco 10) + anotar dúvidas no caderno da aula", "min": 5 }
+      { "t": "Session 1 · Warm-up: say aloud the ます form of いる, 行く, 来る, 言う, 食べる, 見る, する and 寝る (these are the verbs that get a special form)", "min": 5 },
+      { "t": "Vocabulary: tap 🔊 on each word, repeat it twice and copy the plain verb → honorific table into your notebook", "min": 10 },
+      { "t": "Grammar 4a (special verbs) and 4b (お〜になる): examples read aloud + one 🔬 on point a", "min": 25 },
+      { "t": "Lesson 19 video (block 6), only the part on honorifics", "min": 10 },
+      { "t": "Session 2 (it can be another day): recite the table from memory + grammar 4c (お〜ください)", "min": 15 },
+      { "t": "Notebook homework + checking it against the answer key", "min": 15 },
+      { "t": "Checklist (block 10) + write your questions in the lesson notebook", "min": 5 }
     ]
   },
   "prereqs": {
     "aulas": ["18-3"],
     "skills": [
-      "Tirar o radical de qualquer verbo: é o que sobra sem o ます (待ちます → 待ち, 帰ります → 帰り, 読みます → 読み). お〜になる e お〜ください saem direto dele.",
-      "Forma て e 〜ている, sem hesitar: o honorífico de 〜ている é 〜ていらっしゃる.",
-      "くれる (Aula 14-2) e 〜てくれる (Aula 16-1): くださる é o honorífico de くれる.",
-      "Pedidos com 〜てください e 〜ていただけませんか (Aula 16-2), para comparar com お〜ください.",
-      "うち e そと (Aula 07-1) e せんぱい/こうはい (Aula 08-1): quem está acima e quem é \"de dentro\" decide quando usar 尊敬語."
+      "Taking the stem of any verb: it is what is left when you remove ます (待ちます → 待ち, 帰ります → 帰り, 読みます → 読み). お〜になる and お〜ください are built straight from it.",
+      "The て-form and 〜ている, without hesitating: the honorific of 〜ている is 〜ていらっしゃる.",
+      "くれる (lesson 14-2) and 〜てくれる (lesson 16-1): くださる is the honorific of くれる.",
+      "Requests with 〜てください and 〜ていただけませんか (lesson 16-2), to compare with お〜ください.",
+      "うち and そと (lesson 07-1) and せんぱい／こうはい (lesson 08-1): who is above you and who is \"inside\" your group decides when to use 尊敬語."
     ],
     "vocab": [
-      { "jp": "いらっしゃる", "kana": "いらっしゃる", "romaji": "irassharu", "pt": "estar; ir; vir (honorífico de いる, 行く e 来る). ます: いらっしゃいます" },
-      { "jp": "おっしゃる", "kana": "おっしゃる", "romaji": "ossharu", "pt": "dizer (honorífico de 言う). ます: おっしゃいます" },
-      { "jp": "めしあがる", "kana": "めしあがる", "romaji": "meshiagaru", "pt": "comer; beber (honorífico de 食べる e 飲む)" },
-      { "jp": "ごらんになる", "kana": "ごらんになる", "romaji": "goran ni naru", "pt": "ver, olhar (honorífico de 見る)" },
-      { "jp": "なさる", "kana": "なさる", "romaji": "nasaru", "pt": "fazer (honorífico de する). ます: なさいます" },
-      { "jp": "くださる", "kana": "くださる", "romaji": "kudasaru", "pt": "dar (a mim ou aos meus) (honorífico de くれる). ます: くださいます" },
-      { "jp": "ごぞんじです", "kana": "ごぞんじです", "romaji": "gozonji desu", "pt": "saber, conhecer (honorífico de 知っています)" },
-      { "jp": "お休みになる", "kana": "おやすみになる", "romaji": "oyasumi ni naru", "pt": "dormir; descansar (honorífico de 寝る e 休む)" },
-      { "jp": "社長", "kana": "しゃちょう", "romaji": "shachō", "pt": "presidente (de empresa)" },
-      { "jp": "おきゃくさま", "kana": "おきゃくさま", "romaji": "okyakusama", "pt": "cliente; visita (forma muito respeitosa)" },
-      { "jp": "研究室", "kana": "けんきゅうしつ", "romaji": "kenkyūshitsu", "pt": "sala do professor (na universidade); laboratório" },
-      { "jp": "少々", "kana": "しょうしょう", "romaji": "shōshō", "pt": "um pouco, um instante (formal)" },
-      { "jp": "かける", "kana": "かける", "romaji": "kakeru", "pt": "sentar-se (numa cadeira): いすにかける" },
-      { "jp": "使う", "kana": "つかう", "romaji": "tsukau", "pt": "usar" },
-      { "jp": "出かける", "kana": "でかける", "romaji": "dekakeru", "pt": "sair (de casa, do hotel)" },
-      { "jp": "れんらくする", "kana": "れんらくする", "romaji": "renraku suru", "pt": "entrar em contato, avisar" },
-      { "jp": "お飲み物", "kana": "おのみもの", "romaji": "onomimono", "pt": "bebida (forma educada)" },
-      { "jp": "新聞", "kana": "しんぶん", "romaji": "shinbun", "pt": "jornal" },
-      { "jp": "写真", "kana": "しゃしん", "romaji": "shashin", "pt": "foto" },
-      { "jp": "フロント", "kana": "フロント", "romaji": "furonto", "pt": "recepção (de hotel)" },
-      { "jp": "ゆっくり", "kana": "ゆっくり", "romaji": "yukkuri", "pt": "com calma, sem pressa" },
-      { "jp": "京都", "kana": "きょうと", "romaji": "Kyōto", "pt": "Quioto" }
+      { "jp": "いらっしゃる", "kana": "いらっしゃる", "romaji": "irassharu", "en": "to be; to go; to come (honorific of いる, 行く and 来る). ます form: いらっしゃいます" },
+      { "jp": "おっしゃる", "kana": "おっしゃる", "romaji": "ossharu", "en": "to say (honorific of 言う). ます form: おっしゃいます" },
+      { "jp": "めしあがる", "kana": "めしあがる", "romaji": "meshiagaru", "en": "to eat; to drink (honorific of 食べる and 飲む)" },
+      { "jp": "ごらんになる", "kana": "ごらんになる", "romaji": "goran ni naru", "en": "to see, to look at (honorific of 見る)" },
+      { "jp": "なさる", "kana": "なさる", "romaji": "nasaru", "en": "to do (honorific of する). ます form: なさいます" },
+      { "jp": "くださる", "kana": "くださる", "romaji": "kudasaru", "en": "to give (to me or my side) (honorific of くれる). ます form: くださいます" },
+      { "jp": "ごぞんじです", "kana": "ごぞんじです", "romaji": "gozonji desu", "en": "to know (honorific of 知っています)" },
+      { "jp": "お休みになる", "kana": "おやすみになる", "romaji": "oyasumi ni naru", "en": "to sleep; to rest (honorific of 寝る and 休む)" },
+      { "jp": "社長", "kana": "しゃちょう", "romaji": "shachō", "en": "company president" },
+      { "jp": "おきゃくさま", "kana": "おきゃくさま", "romaji": "okyakusama", "en": "customer; guest (very respectful)" },
+      { "jp": "研究室", "kana": "けんきゅうしつ", "romaji": "kenkyūshitsu", "en": "professor's office (at a university); lab" },
+      { "jp": "少々", "kana": "しょうしょう", "romaji": "shōshō", "en": "a little, a moment (formal)" },
+      { "jp": "かける", "kana": "かける", "romaji": "kakeru", "en": "to sit down (on a chair): いすにかける" },
+      { "jp": "使う", "kana": "つかう", "romaji": "tsukau", "en": "to use" },
+      { "jp": "出かける", "kana": "でかける", "romaji": "dekakeru", "en": "to go out (of the house, the hotel)" },
+      { "jp": "れんらくする", "kana": "れんらくする", "romaji": "renraku suru", "en": "to contact, to get in touch" },
+      { "jp": "お飲み物", "kana": "おのみもの", "romaji": "onomimono", "en": "drink, beverage (polite)" },
+      { "jp": "新聞", "kana": "しんぶん", "romaji": "shinbun", "en": "newspaper" },
+      { "jp": "写真", "kana": "しゃしん", "romaji": "shashin", "en": "photo" },
+      { "jp": "フロント", "kana": "フロント", "romaji": "furonto", "en": "front desk (of a hotel)" },
+      { "jp": "ゆっくり", "kana": "ゆっくり", "romaji": "yukkuri", "en": "slowly; taking your time, properly (rest)" },
+      { "jp": "京都", "kana": "きょうと", "romaji": "Kyōto", "en": "Kyoto" }
     ]
   },
   "grammar": [
     {
       "id": "19-1-a",
       "gc": null,
-      "title": "Verbos honoríficos especiais (尊敬語)",
-      "gloss": "verbos que elevam a pessoa de quem se fala",
-      "explanation": "O japonês tem um jeito de mostrar respeito **dentro do próprio verbo**. É o **尊敬語** (そんけいご, \"linguagem de respeito\"): você troca o verbo comum por uma forma que **eleva a pessoa que faz a ação**. Se o professor come, ele não 食べます: ele **めしあがります**.\n• 尊敬語 não é a mesma coisa que です/ます. O ます é educação com **quem ouve**; o 尊敬語 é respeito por **quem faz a ação**. Numa conversa formal, os dois andam juntos: 先生はめしあがります。\n\n**Os verbos especiais.** Os verbos mais usados têm uma palavra própria no 尊敬語:\n• いる / 行く / 来る → **いらっしゃる**\n• 言う → **おっしゃる**\n• 食べる / 飲む → **めしあがる**\n• 見る → **ごらんになる**\n• する → **なさる**\n• くれる → **くださる**\n• 知っている → **ごぞんじだ** (ごぞんじです)\n• 寝る → **お休みになる**\n\n**O ます irregular.** Em いらっしゃる, おっしゃる, くださる e なさる, o ます não entra depois de り, e sim de **い**: **いらっしゃいます, おっしゃいます, くださいます, なさいます**. O ください que você usa desde o Genki I vem justamente de くださる. As outras formas são regulares: いらっしゃった, おっしゃって, なさらない.\n• いらっしゃる vale por três verbos, e o contexto decide: 今、サンパウロにいらっしゃいます = \"está em São Paulo\"; 来週、サンパウロにいらっしゃいます = \"vem (ou vai) a São Paulo na semana que vem\".\n• 〜ている vira **〜ていらっしゃる**: 先生は新聞を読んでいらっしゃいます。\n• Em restaurantes você vai ouvir muito 何になさいますか: é o 〜にする (\"escolher\") com する trocado por なさる.\n\n**Quando usar.** Use 尊敬語 para falar das ações de:\n• **clientes**: é assim que a loja fala com você;\n• **superiores**: o chefe, o 社長, o professor;\n• **desconhecidos mais velhos** e pessoas com quem a relação é formal.\n**Nunca use 尊敬語 para si mesmo.** Sobre você, basta o verbo comum com ます: 私は家にいます。 Entre amigos, com colegas da mesma idade e com gente mais nova, 尊敬語 soa distante ou até irônico. E, falando com alguém de fora, não eleve a sua própria família (うち e そと, Aula 07-1).\n\n**Os três tipos de 敬語 (けいご):** 丁寧語 (ていねいご: です/ます, que você já usa), 尊敬語 (esta aula: eleva o outro) e 謙譲語 (けんじょうご: a linguagem humilde, que abaixa você, na Aula 20-1).",
-      "structure": "[pessoa respeitada] は [verbo honorífico]ます。 · いる/行く/来る → いらっしゃいます · 言う → おっしゃいます",
+      "title": "Special honorific verbs (尊敬語)",
+      "gloss": "verbs that raise the person you talk about",
+      "explanation": "Japanese can show respect **inside the verb itself**. This is **尊敬語** (そんけいご, \"respect language\"): you swap the everyday verb for a form that **raises the person who does the action**. If your teacher eats, he doesn't 食べます: he **めしあがります**.\n• 尊敬語 is not the same thing as です/ます. ます is politeness toward **the listener**; 尊敬語 is respect for **the person doing the action**. In formal speech the two go together: 先生はめしあがります。\n\n**The special verbs.** The most common verbs have their own honorific word:\n• いる / 行く / 来る → **いらっしゃる**\n• 言う → **おっしゃる**\n• 食べる / 飲む → **めしあがる**\n• 見る → **ごらんになる**\n• する → **なさる**\n• くれる → **くださる**\n• 知っている → **ごぞんじだ** (ごぞんじです)\n• 寝る → **お休みになる**\n\n**The irregular ます.** In いらっしゃる, おっしゃる, くださる and なさる, ます does not come after り but after **い**: **いらっしゃいます, おっしゃいます, くださいます, なさいます**. The ください you have used since Genki I comes from くださる. Their other forms are regular: いらっしゃった, おっしゃって, なさらない.\n• いらっしゃる stands for three verbs, and the context decides: 今、サンパウロにいらっしゃいます = \"is in São Paulo now\"; 来週、サンパウロにいらっしゃいます = \"is coming (or going) to São Paulo next week\".\n• 〜ている becomes **〜ていらっしゃる**: 先生は新聞を読んでいらっしゃいます。\n• In restaurants you will often hear 何になさいますか: it is 〜にする (\"to decide on, to have\") with する swapped for なさる.\n\n**When to use it.** Use 尊敬語 for the actions of:\n• **customers**: this is how shops talk to you;\n• **superiors**: your boss, the 社長, your teacher;\n• **older strangers** and people you have a formal relationship with.\n**Never use 尊敬語 about yourself.** For your own actions, the plain verb with ます is enough: 私は家にいます。 Among friends, with colleagues your age and with younger people, 尊敬語 sounds distant or even sarcastic. And when you talk to an outsider, don't raise your own family (うち and そと, lesson 07-1).\n\n**The three kinds of 敬語 (けいご):** 丁寧語 (ていねいご: です/ます, which you already use), 尊敬語 (this lesson: it raises the other person) and 謙譲語 (けんじょうご: humble language, which lowers you — lesson 20-1).",
+      "structure": "[respected person] は [honorific verb]ます。 · いる/行く/来る → いらっしゃいます · 言う → おっしゃいます",
       "examples": [
-        { "jp": "山田先生は今、研究室にいらっしゃいますか。— はい、いらっしゃいますよ。", "kana": "やまだせんせいはいま、けんきゅうしつにいらっしゃいますか。— はい、いらっしゃいますよ。", "romaji": "Yamada-sensei wa ima, kenkyūshitsu ni irasshaimasu ka. — Hai, irasshaimasu yo.", "pt": "O professor Yamada está na sala dele agora? — Está, sim." },
-        { "jp": "社長はもうこの写真をごらんになりましたか。", "kana": "しゃちょうはもうこのしゃしんをごらんになりましたか。", "romaji": "Shachō wa mō kono shashin o goran ni narimashita ka.", "pt": "O presidente já viu esta foto?" },
-        { "jp": "お飲み物は何になさいますか。", "kana": "おのみものはなんになさいますか。", "romaji": "Onomimono wa nan ni nasaimasu ka.", "pt": "E para beber, o que o(a) senhor(a) vai querer?" }
+        { "jp": "山田先生は今、研究室にいらっしゃいますか。— はい、いらっしゃいますよ。", "kana": "やまだせんせいはいま、けんきゅうしつにいらっしゃいますか。— はい、いらっしゃいますよ。", "romaji": "Yamada-sensei wa ima, kenkyūshitsu ni irasshaimasu ka. — Hai, irasshaimasu yo.", "en": "Is Professor Yamada in his office now? — Yes, he is.", "noAnat": true },
+        { "jp": "社長は来週京都へいらっしゃいます。", "kana": "しゃちょうはらいしゅうきょうとへいらっしゃいます。", "romaji": "Shachō wa raishū Kyōto e irasshaimasu.", "en": "The company president is going to Kyoto next week." },
+        { "jp": "お飲み物は何になさいますか。", "kana": "おのみものはなんになさいますか。", "romaji": "Onomimono wa nan ni nasaimasu ka.", "en": "What would you like to drink? [lit. as for the drink, what will you decide on?]" }
       ],
       "pitfalls": [
-        "Nunca para si mesmo: 私は研究室にいらっしゃいます ✗ → 私は研究室にいます ✓. O 尊敬語 eleva quem faz a ação; elevar a si mesmo soa arrogante (ou engraçado).",
-        "O ます de quatro deles é irregular: いらっしゃります ✗ → いらっしゃいます ✓. Vale também para おっしゃいます, くださいます e なさいます.",
-        "Ao responder sobre você, volte ao verbo comum: ごぞんじですか。— はい、ごぞんじです ✗ → はい、知っています ✓. E a negativa é 知りません, não 知っていません.",
-        "O honorífico vai no verbo da pessoa respeitada. Em 先生が本をくださいました, quem dá é o professor, então o verbo sobe. Se é você quem dá algo ao professor, o verbo é outro, humilde (さしあげる, Aula 20-1)."
+        "Never about yourself: 私は研究室にいらっしゃいます ✗ → 私は研究室にいます ✓. 尊敬語 raises the one doing the action; raising yourself sounds arrogant (or funny).",
+        "Four of them have an irregular ます: いらっしゃります ✗ → いらっしゃいます ✓. The same goes for おっしゃいます, くださいます and なさいます.",
+        "When you answer about yourself, go back to the plain verb: ごぞんじですか。— はい、ごぞんじです ✗ → はい、知っています ✓. And \"I don't know\" is 知りません, not 知っていません.",
+        "The honorific goes on the verb of the respected person. In 先生が本をくださいました the teacher is the giver, so the verb goes up. If you give something to your teacher, you need a different, humble verb (さしあげる, lesson 20-1)."
       ],
       "howToStudy": [
-        "Faça no caderno uma tabela de duas colunas: verbo comum → honorífico, com os 8 verbos. Cubra a coluna da direita e diga cada um em voz alta já com ます: いる → いらっしゃいます, 言う → おっしゃいます…",
-        "Aperte 🔬 no exemplo 1: 山田先生は é o TÓPICO, 研究室に diz ONDE ESTÁ e いらっしゃいますか é o PREDICADO. Leia pelo predicado (\"está?\") e depois pergunte: quem? onde?",
-        "Fala: imagine que o seu professor de japonês chegou para uma visita. Faça em voz alta 4 perguntas para ele, cada uma com um verbo especial diferente: 何をめしあがりますか。/ この映画をごらんになりましたか。…"
+        "In your notebook, make a two-column table: plain verb → honorific, with the 8 verbs. Cover the right column and say each one aloud, already with ます: いる → いらっしゃいます, 言う → おっしゃいます…",
+        "Tap 🔬 on example 2: 社長は is the TOPIC, 来週 the TIME, 京都へ the DESTINATION and いらっしゃいます the PREDICATE. Read from the predicate (\"is going\"), then ask: who? when? where to? Now look at example 1: the same いらっしゃいます means \"is (there)\" — the context decides.",
+        "Speaking: imagine your Japanese teacher has come to visit. Ask him 4 questions aloud, each with a different special verb: 何をめしあがりますか。/ この映画をごらんになりましたか。…"
       ],
-      "flag": "Confira no seu Genki II se a lição traz estes pontos nesta ordem."
+      "flag": "Check in your Genki II that this lesson has these points in this order."
     },
     {
       "id": "19-1-b",
       "gc": null,
-      "title": "お + radical + になる",
-      "gloss": "a fórmula honorífica para os outros verbos",
-      "explanation": "Os verbos que não têm forma especial ficam honoríficos com uma **fórmula**: **お + radical + になる**. O radical é o que sobra quando você tira o ます: 待ちます → 待ち; 帰ります → 帰り; 読みます → 読み.\n• 待つ → **お待ちになる**\n• 帰る → **お帰りになる**\n• 読む → **お読みになる**\n• 使う → **お使いになる**\n• 出かける → **お出かけになる**\n• O なる conjuga normalmente: お帰りになります (presente), お帰りになりました (passado), お帰りになりません (negativo).\n• Na frase, o bloco inteiro お〜になります é o **PREDICADO**. A pessoa respeitada é o tópico ou o sujeito (は/が), e muitas vezes nem aparece: quando você fala COM ela, 何時にお出かけになりますか já quer dizer \"a que horas o senhor vai sair?\".\n\n**Quando a fórmula NÃO serve:**\n• Verbo que tem forma especial usa a especial (ponto a): 見る → ごらんになる, e não お見になる.\n• Verbos com radical de uma sílaba só (見る → み, 寝る → ね, いる → い, 来る → き, する → し) em geral não aceitam a fórmula. É por isso mesmo que eles têm formas especiais.\n• Verbos com する (勉強する, 料理する): troque する por **なさる** → 勉強なさる, 料理なさる. Em anúncios você também vai ver ご + substantivo + になる (ごりようになる, \"utilizar\"), mas なさる resolve no dia a dia.",
-      "structure": "[pessoa respeitada] は お + [radical] + になります。 (待ちます → お待ちになります)",
+      "title": "お + stem + になる",
+      "gloss": "the honorific formula for all the other verbs",
+      "explanation": "Verbs without a special form become honorific with a **formula**: **お + stem + になる**. The stem is what is left when you remove ます: 待ちます → 待ち; 帰ります → 帰り; 読みます → 読み.\n• 待つ → **お待ちになる**\n• 帰る → **お帰りになる**\n• 読む → **お読みになる**\n• 使う → **お使いになる**\n• 出かける → **お出かけになる**\n• なる conjugates as usual: お帰りになります (present), お帰りになりました (past), お帰りになりません (negative).\n• In the sentence, the whole block お〜になります is the **PREDICATE**. The respected person is the topic or the subject (は/が), and often doesn't appear at all: when you talk TO that person, 何時にお出かけになりますか already means \"what time are you going out?\".\n\n**When the formula does NOT work:**\n• A verb with a special form uses the special form (point a): 見る → ごらんになる, not お見になる.\n• Verbs whose stem is a single syllable (見る → み, 寝る → ね, いる → い, 来る → き, する → し) generally don't take the formula. That is exactly why they have special forms.\n• する-verbs (勉強する, 料理する): swap する for **なさる** → 勉強なさる, 料理なさる. In announcements you will also see ご + noun + になる (ごりようになる, \"to use\"), but なさる covers everyday needs.",
+      "structure": "[respected person] は お + [stem] + になります。 (待ちます → お待ちになります)",
       "examples": [
-        { "jp": "先生はもうお帰りになりました。", "kana": "せんせいはもうおかえりになりました。", "romaji": "Sensei wa mō okaeri ni narimashita.", "pt": "O professor já foi embora." },
-        { "jp": "社長は毎朝、電車の中で新聞をお読みになります。", "kana": "しゃちょうはまいあさ、でんしゃのなかでしんぶんをおよみになります。", "romaji": "Shachō wa maiasa, densha no naka de shinbun o oyomi ni narimasu.", "pt": "Todas as manhãs, o presidente lê o jornal no trem." },
-        { "jp": "明日は何時ごろお出かけになりますか。", "kana": "あしたはなんじごろおでかけになりますか。", "romaji": "Ashita wa nanji goro odekake ni narimasu ka.", "pt": "Amanhã, por volta de que horas o(a) senhor(a) vai sair? (a recepção do hotel para o hóspede)" }
+        { "jp": "先生はもうお帰りになりました。", "kana": "せんせいはもうおかえりになりました。", "romaji": "Sensei wa mō okaeri ni narimashita.", "en": "The teacher has already gone home.", "noAnat": true },
+        { "jp": "社長は毎朝、電車の中で新聞をお読みになります。", "kana": "しゃちょうはまいあさ、でんしゃのなかでしんぶんをおよみになります。", "romaji": "Shachō wa maiasa, densha no naka de shinbun o oyomi ni narimasu.", "en": "Every morning, the company president reads the newspaper on the train.", "noAnat": true },
+        { "jp": "明日は何時ごろお出かけになりますか。", "kana": "あしたはなんじごろおでかけになりますか。", "romaji": "Ashita wa nanji goro odekake ni narimasu ka.", "en": "About what time will you be going out tomorrow? (the hotel front desk to a guest)", "noAnat": true }
       ],
       "pitfalls": [
-        "Use o radical, não a forma de dicionário nem a forma て: お帰るになる ✗ / お帰ってになる ✗ → お帰りになる ✓.",
-        "Verbo com forma especial não usa a fórmula: お見になる ✗ → ごらんになる ✓; お言いになる ✗ → おっしゃる ✓; お行きになる ✗ → いらっしゃる ✓.",
-        "する vira なさる, e não おしになる: 何をおしになりますか ✗ → 何をなさいますか ✓.",
-        "Não empilhe dois honoríficos: お帰りになられました ✗ → お帰りになりました ✓. Você vai ouvir formas assim, mas elas são consideradas exagero (二重敬語, にじゅうけいご, \"keigo duplo\")."
+        "Use the stem, not the dictionary form or the て-form: お帰るになる ✗ / お帰ってになる ✗ → お帰りになる ✓.",
+        "A verb with a special form doesn't use the formula: お見になる ✗ → ごらんになる ✓; お言いになる ✗ → おっしゃる ✓; お行きになる ✗ → いらっしゃる ✓.",
+        "する becomes なさる, not おしになる: 何をおしになりますか ✗ → 何をなさいますか ✓.",
+        "Don't stack two honorifics: お帰りになられました ✗ → お帰りになりました ✓. You will hear forms like this, but they are considered overdone (二重敬語, にじゅうけいご, \"double keigo\")."
       ],
       "howToStudy": [
-        "Pegue 8 verbos que você já conhece (待つ, 帰る, 読む, 書く, 使う, 出かける, 会う, 聞く) e diga em voz alta: radical → お〜になります. Depois diga 見る, 言う, 食べる e する e pare: esses pedem a forma especial.",
-        "Aperte 🔬 no exemplo 2 e ache os blocos: 社長は (TÓPICO), 毎朝 (TEMPO), 電車の中で (LUGAR DA AÇÃO), 新聞を (OBJETO) e お読みになります (PREDICADO). O respeito está todo no predicado.",
-        "Treinos → 🔬 Anatomia → 🔬 Analisar: cole o exemplo 3 e confira que ninguém aparece como sujeito. Quem sai é o ouvinte, e o お〜になります já deixa isso claro."
+        "Take 8 verbs you already know (待つ, 帰る, 読む, 書く, 使う, 出かける, 会う, 聞く) and say aloud: stem → お〜になります. Then say 見る, 言う, 食べる and する and stop: those need the special form.",
+        "Drills → 🔬 Anatomy → 🔬 Analyze: paste the plain sentence 社長は毎朝、電車の中で新聞を読みます。 You get 社長は (TOPIC), 毎朝 (TIME), 電車の中で (PLACE), 新聞を (OBJECT) and 読みます (PREDICATE). Now say it aloud with お読みになります: every block stays the same, only the predicate changes. (The analyzer splits お〜になる into two pieces, so this point's examples have no 🔬: お読みになります is one single predicate.)",
+        "Say example 3 aloud and notice that nobody appears as the subject. The listener is the one going out, and お出かけになりますか already makes that clear."
       ],
       "flag": null
     },
     {
       "id": "19-1-c",
       "gc": null,
-      "title": "お〜ください (pedido respeitoso)",
-      "gloss": "\"por favor, faça…\", com respeito",
-      "explanation": "Para pedir algo com respeito a um cliente, a uma visita ou a um superior, troque 〜てください por **お + radical + ください**. É o que você vai ouvir em lojas, hotéis, estações e ao telefone.\n• 待ってください → **お待ちください** (\"aguarde, por favor\")\n• 入ってください → **お入りください** (\"entre, por favor\")\n• 使ってください → **お使いください** (\"use à vontade\")\n• すわってください → **おかけください**: com visitas, \"sente-se\" costuma ser かける (sentar numa cadeira).\n• Substantivo + する usa **ご + substantivo + ください**: れんらくしてください → **ごれんらくください**; 注意してください → **ご注意ください** (é o 足元にご注意ください dos avisos: \"cuidado onde pisa\").\n• Verbo com forma especial usa a especial: 見る → **ごらんください**; 食べる/飲む → **めしあがってください**. Em embalagens você vai ver muito おめしあがりください: tecnicamente são dois honoríficos juntos, mas esse uso já é aceito.\n\nPense em お〜ください como um **convite ou uma orientação com respeito**: quem fala está oferecendo algo ao outro ou dizendo como proceder (entre, sente-se, aguarde, use). Para pedir um **favor** que dá trabalho à pessoa, 〜ていただけませんか (Aula 16-2) costuma soar mais gentil, porque é uma pergunta e deixa a decisão com ela.\n• Na frase, お〜ください é o **PREDICADO** e vem no fim. Quem vai fazer a ação é o ouvinte, que quase nunca aparece.",
-      "structure": "お + [radical] + ください · ご + [substantivo de する] + ください · ごらんください (especial)",
+      "title": "お〜ください (respectful requests)",
+      "gloss": "\"please do…\", respectfully",
+      "explanation": "To ask something respectfully of a customer, a guest or a superior, swap 〜てください for **お + stem + ください**. This is what you hear in shops, hotels, stations and on the phone.\n• 待ってください → **お待ちください** (\"please wait\")\n• 入ってください → **お入りください** (\"please come in\")\n• 使ってください → **お使いください** (\"please feel free to use it\")\n• すわってください → **おかけください**: with guests, \"have a seat\" is usually かける (to sit on a chair).\n• Noun + する verbs use **ご + noun + ください**: れんらくしてください → **ごれんらくください**; 注意してください → **ご注意ください** (the 足元にご注意ください of the signs: \"watch your step\"). A few nouns take お instead: 電話してください → **お電話ください**.\n• A verb with a special form uses the special form: 見る → **ごらんください**; 食べる/飲む → **めしあがってください**. On food packages you will often see おめしあがりください: strictly speaking it stacks two honorifics, but this use is accepted.\n\nThink of お〜ください as a **respectful invitation or instruction**: the speaker is offering something or explaining how to proceed (come in, sit down, wait, go ahead and use it). To ask for a **favor** that costs the other person effort, 〜ていただけませんか (lesson 16-2) usually sounds kinder, because it is a question and leaves the decision to them.\n• In the sentence, お〜ください is the **PREDICATE** and comes at the end. The person who will do the action is the listener, who almost never appears.",
+      "structure": "お + [stem] + ください · ご + [する-noun] + ください · ごらんください (special)",
       "examples": [
-        { "jp": "少々お待ちください。", "kana": "しょうしょうおまちください。", "romaji": "Shōshō omachi kudasai.", "pt": "Aguarde um instante, por favor. (na loja, ao telefone)" },
-        { "jp": "どうぞお入りください。こちらにおかけください。", "kana": "どうぞおはいりください。こちらにおかけください。", "romaji": "Dōzo ohairi kudasai. Kochira ni okake kudasai.", "pt": "Entre, por favor. Sente-se aqui, por favor." },
-        { "jp": "何かあったら、いつでもごれんらくください。", "kana": "なにかあったら、いつでもごれんらくください。", "romaji": "Nanika attara, itsudemo gorenraku kudasai.", "pt": "Se acontecer alguma coisa, entre em contato a qualquer hora." }
+        { "jp": "少々お待ちください。", "kana": "しょうしょうおまちください。", "romaji": "Shōshō omachi kudasai.", "en": "Please wait a moment. (in a shop, on the phone)" },
+        { "jp": "どうぞお入りください。こちらにおかけください。", "kana": "どうぞおはいりください。こちらにおかけください。", "romaji": "Dōzo ohairi kudasai. Kochira ni okake kudasai.", "en": "Please come in. Please have a seat here." },
+        { "jp": "何かあったら、お電話ください。", "kana": "なにかあったら、おでんわください。", "romaji": "Nanika attara, odenwa kudasai.", "en": "If anything comes up, please give me a call." }
       ],
       "pitfalls": [
-        "Use o radical, não a forma て: お待ってください ✗ → お待ちください ✓.",
-        "Verbo com forma especial não entra na fórmula: お見ください ✗ → ごらんください ✓.",
-        "É um pedido para a ação do OUTRO. Se quem vai esperar é você, diga 待っています, nunca お待ちください.",
-        "Entre amigos, お〜ください soa como atendente de loja. Com eles, basta 待って。 ou 入って。"
+        "Use the stem, not the て-form: お待ってください ✗ → お待ちください ✓.",
+        "A verb with a special form stays out of the formula: お見ください ✗ → ごらんください ✓.",
+        "It asks the OTHER person to act. If you are the one who will wait, say 待っています, never お待ちください.",
+        "Among friends, お〜ください sounds like a shop clerk. With them, just 待って。 or 入って。"
       ],
       "howToStudy": [
-        "Encene em voz alta a chegada de uma visita na sua casa: どうぞお入りください → こちらにおかけください → 少々お待ちください → お茶をどうぞ.",
-        "Transforme 6 pedidos com 〜てください que você já sabe (待って, 入って, 使って, 書いて, 読んで, 見て) em お〜ください. No 見て, lembre do especial: ごらんください.",
-        "Aperte 🔬 no exemplo 3: 何かあったら é a CONDIÇÃO (\"se…\"), いつでも diz COMO/QUANDO, e ごれんらくください é o PREDICADO."
+        "Act out a guest arriving at your home, aloud: どうぞお入りください → こちらにおかけください → 少々お待ちください → お茶をどうぞ.",
+        "Turn 6 requests with 〜てください that you already know (待って, 入って, 使って, 書いて, 読んで, 見て) into お〜ください. For 見て, remember the special form: ごらんください.",
+        "Tap 🔬 on example 3: 何か shows up as SOMETHING / SOMEONE, あったら as IF / WHEN and お電話ください as the PREDICATE (a request). Read it from the end: \"please call\" → when? if something happens."
       ],
       "flag": null
     }
   ],
   "media": [
-    { "order": 1, "kind": "leitura", "title": "Genki II · Lição 19: diálogo, vocabulário e as explicações de gramática sobre verbos honoríficos e お〜ください", "where": "Seu livro Genki II", "url": "", "when": "Antes desta aula ou logo depois do bloco de gramática. Os pontos 〜てくれてありがとう, 〜てよかったです e 〜はずです ficam para a Aula 19-2." },
-    { "order": 2, "kind": "video", "title": "Japanese Ammo with Misa: 尊敬語, os verbos honoríficos (em inglês)", "where": "YouTube · canal Japanese Ammo with Misa", "url": "", "search": "Japanese Ammo with Misa sonkeigo honorific verbs", "when": "Depois dos pontos a e b, para ouvir mais exemplos e a pronúncia de いらっしゃいます e おっしゃいます" }
+    { "order": 1, "kind": "reading", "title": "Genki II · Lesson 19: the dialogue, vocabulary and grammar notes on honorific verbs and お〜ください", "where": "Your Genki II textbook", "url": "", "when": "Before this lesson or right after the grammar block. The points 〜てくれてありがとう, 〜てよかったです and 〜はずです are in lesson 19-2." },
+    { "order": 2, "kind": "video", "title": "Japanese Ammo with Misa: 尊敬語, the honorific verbs", "where": "YouTube · Japanese Ammo with Misa channel", "url": "", "search": "Japanese Ammo with Misa sonkeigo honorific verbs", "when": "After points a and b, to hear more examples and the pronunciation of いらっしゃいます and おっしゃいます" }
   ],
   "homework": {
-    "intro": "Faça no caderno, à mão. Escreva o japonês com os kanji que você já conhece e kana no resto. Só depois abra o gabarito, item por item. Circule o que errou e refaça no dia seguinte. Se você tiver o Genki II Workbook, faça também os exercícios desta lição.",
+    "intro": "Do it by hand in your notebook. Write the Japanese with the kanji you already know and kana for the rest. Only then open the answer key, item by item. Circle what you got wrong and redo it the next day. If you have the Genki II Workbook, do this lesson's exercises too.",
     "tasks": [
       {
         "id": "h1",
-        "type": "transformar",
-        "prompt": "Passe para o 尊敬語 com os verbos especiais. Mantenha o ます e o tempo (presente ou passado).",
+        "type": "transform",
+        "prompt": "Rewrite in 尊敬語 with the special verbs. Keep ます and the tense (present or past).",
         "items": [
-          { "q": "社長は明日京都に行きます。", "a": { "jp": "社長は明日京都にいらっしゃいます。", "kana": "しゃちょうはあしたきょうとにいらっしゃいます。", "romaji": "Shachō wa ashita Kyōto ni irasshaimasu." }, "note": "行く → いらっしゃる, com o ます irregular: いらっしゃいます." },
-          { "q": "先生は何と言いましたか。", "a": { "jp": "先生は何とおっしゃいましたか。", "kana": "せんせいはなんとおっしゃいましたか。", "romaji": "Sensei wa nan to osshaimashita ka." }, "note": "言う → おっしゃる; no passado, おっしゃいました." },
-          { "q": "社長は毎日お茶を飲みます。", "a": { "jp": "社長は毎日お茶をめしあがります。", "kana": "しゃちょうはまいにちおちゃをめしあがります。", "romaji": "Shachō wa mainichi ocha o meshiagarimasu." }, "note": "めしあがる serve para comer e para beber." },
-          { "q": "先生はこのニュースを知っていますか。", "a": { "jp": "先生はこのニュースをごぞんじですか。", "kana": "せんせいはこのニュースをごぞんじですか。", "romaji": "Sensei wa kono nyūsu o gozonji desu ka." }, "note": "知っている inteiro vira ごぞんじです: não sobra ている." },
-          { "q": "先生が私に本をくれました。", "a": { "jp": "先生が私に本をくださいました。", "kana": "せんせいがわたしにほんをくださいました。", "romaji": "Sensei ga watashi ni hon o kudasaimashita." }, "note": "くれる → くださる; o ます é irregular: くださいます → くださいました." },
-          { "q": "山田さんのお父さんはもう寝ました。", "a": { "jp": "山田さんのお父さんはもうお休みになりました。", "kana": "やまださんのおとうさんはもうおやすみになりました。", "romaji": "Yamada-san no otōsan wa mō oyasumi ni narimashita." }, "note": "O pai de outra pessoa, mais velho: 尊敬語. 寝る → お休みになる." }
+          { "q": "社長は明日京都に行きます。", "a": { "jp": "社長は明日京都にいらっしゃいます。", "kana": "しゃちょうはあしたきょうとにいらっしゃいます。", "romaji": "Shachō wa ashita Kyōto ni irasshaimasu." }, "note": "行く → いらっしゃる, with the irregular ます: いらっしゃいます." },
+          { "q": "先生は何と言いましたか。", "a": { "jp": "先生は何とおっしゃいましたか。", "kana": "せんせいはなんとおっしゃいましたか。", "romaji": "Sensei wa nan to osshaimashita ka." }, "note": "言う → おっしゃる; in the past, おっしゃいました." },
+          { "q": "社長は毎日お茶を飲みます。", "a": { "jp": "社長は毎日お茶をめしあがります。", "kana": "しゃちょうはまいにちおちゃをめしあがります。", "romaji": "Shachō wa mainichi ocha o meshiagarimasu." }, "note": "めしあがる covers both eating and drinking." },
+          { "q": "先生はこのニュースを知っていますか。", "a": { "jp": "先生はこのニュースをごぞんじですか。", "kana": "せんせいはこのニュースをごぞんじですか。", "romaji": "Sensei wa kono nyūsu o gozonji desu ka." }, "note": "The whole 知っている becomes ごぞんじです: no ている is left." },
+          { "q": "先生が私に本をくれました。", "a": { "jp": "先生が私に本をくださいました。", "kana": "せんせいがわたしにほんをくださいました。", "romaji": "Sensei ga watashi ni hon o kudasaimashita." }, "note": "くれる → くださる; the ます is irregular: くださいます → くださいました." },
+          { "q": "山田さんのお父さんはもう寝ました。", "a": { "jp": "山田さんのお父さんはもうお休みになりました。", "kana": "やまださんのおとうさんはもうおやすみになりました。", "romaji": "Yamada-san no otōsan wa mō oyasumi ni narimashita." }, "note": "Someone else's father, an older person: 尊敬語. 寝る → お休みになる." }
         ]
       },
       {
         "id": "h2",
-        "type": "completar",
-        "prompt": "Complete com o verbo entre parênteses no 尊敬語: お〜になります/お〜になりました quando você fala de alguém, お〜ください/ご〜ください quando você pede.",
+        "type": "fill",
+        "prompt": "Fill in the verb in brackets in 尊敬語: お〜になります / お〜になりました when you talk about someone, お〜ください / ご〜ください when you ask.",
         "items": [
-          { "q": "社長は六時に＿。（帰る）", "a": { "jp": "社長は六時にお帰りになります。", "kana": "しゃちょうはろくじにおかえりになります。", "romaji": "Shachō wa rokuji ni okaeri ni narimasu." }, "note": "帰ります → radical 帰り → お帰りになります." },
-          { "q": "おきゃくさまはもう＿。（出かける · passado）", "a": { "jp": "おきゃくさまはもうお出かけになりました。", "kana": "おきゃくさまはもうおでかけになりました。", "romaji": "Okyakusama wa mō odekake ni narimashita." }, "note": "O passado fica no なる: お出かけになりました." },
-          { "q": "山田さんのお母さんはきのう手紙を＿。（書く · passado）", "a": { "jp": "山田さんのお母さんはきのう手紙をお書きになりました。", "kana": "やまださんのおかあさんはきのうてがみをおかきになりました。", "romaji": "Yamada-san no okāsan wa kinō tegami o okaki ni narimashita." } },
-          { "q": "（à cliente）こちらで少々＿。（待つ）", "a": { "jp": "こちらで少々お待ちください。", "kana": "こちらでしょうしょうおまちください。", "romaji": "Kochira de shōshō omachi kudasai." }, "note": "Pedido: お + radical + ください, e não お待ってください." },
-          { "q": "（ao hóspede）このタオルを＿。（使う）", "a": { "jp": "このタオルをお使いください。", "kana": "このタオルをおつかいください。", "romaji": "Kono taoru o otsukai kudasai." }, "note": "Compare: お使いになります (o senhor usa) × お使いください (use, por favor)." },
-          { "q": "（ao hóspede）明日の朝、フロントに＿。（れんらくする）", "a": { "jp": "明日の朝、フロントにごれんらくください。", "kana": "あしたのあさ、フロントにごれんらくください。", "romaji": "Ashita no asa, furonto ni gorenraku kudasai." }, "note": "Substantivo + する: ご + substantivo + ください." }
+          { "q": "社長は六時に＿。（帰る）", "a": { "jp": "社長は六時にお帰りになります。", "kana": "しゃちょうはろくじにおかえりになります。", "romaji": "Shachō wa rokuji ni okaeri ni narimasu." }, "note": "帰ります → stem 帰り → お帰りになります." },
+          { "q": "おきゃくさまはもう＿。（出かける · past）", "a": { "jp": "おきゃくさまはもうお出かけになりました。", "kana": "おきゃくさまはもうおでかけになりました。", "romaji": "Okyakusama wa mō odekake ni narimashita." }, "note": "The past goes on なる: お出かけになりました." },
+          { "q": "山田さんのお母さんはきのう手紙を＿。（書く · past）", "a": { "jp": "山田さんのお母さんはきのう手紙をお書きになりました。", "kana": "やまださんのおかあさんはきのうてがみをおかきになりました。", "romaji": "Yamada-san no okāsan wa kinō tegami o okaki ni narimashita." } },
+          { "q": "(to a customer) こちらで少々＿。（待つ）", "a": { "jp": "こちらで少々お待ちください。", "kana": "こちらでしょうしょうおまちください。", "romaji": "Kochira de shōshō omachi kudasai." }, "note": "A request: お + stem + ください, not お待ってください." },
+          { "q": "(to a hotel guest) このタオルを＿。（使う）", "a": { "jp": "このタオルをお使いください。", "kana": "このタオルをおつかいください。", "romaji": "Kono taoru o otsukai kudasai." }, "note": "Compare: お使いになります (you use it) × お使いください (please use it)." },
+          { "q": "(to a hotel guest) 明日の朝、フロントに＿。（れんらくする）", "a": { "jp": "明日の朝、フロントにごれんらくください。", "kana": "あしたのあさ、フロントにごれんらくください。", "romaji": "Ashita no asa, furonto ni gorenraku kudasai." }, "note": "Noun + する: ご + noun + ください." }
         ]
       },
       {
         "id": "h3",
-        "type": "corrigir",
-        "prompt": "Cada frase tem um erro de 敬語. Reescreva do jeito certo.",
+        "type": "correct",
+        "prompt": "Each sentence has one 敬語 mistake. Rewrite it correctly.",
         "items": [
-          { "q": "私は明日学校にいらっしゃいます。", "a": { "jp": "私は明日学校に行きます。", "kana": "わたしはあしたがっこうにいきます。", "romaji": "Watashi wa ashita gakkō ni ikimasu." }, "note": "Nunca 尊敬語 para você mesmo. Volta o verbo comum: 行きます (ou 来ます, se você fala de dentro da escola)." },
-          { "q": "先生は今どこにいらっしゃりますか。", "a": { "jp": "先生は今どこにいらっしゃいますか。", "kana": "せんせいはいまどこにいらっしゃいますか。", "romaji": "Sensei wa ima doko ni irasshaimasu ka." }, "note": "O ます de いらっしゃる é irregular: いらっしゃいます." },
-          { "q": "社長はもうこの手紙をお見になりましたか。", "a": { "jp": "社長はもうこの手紙をごらんになりましたか。", "kana": "しゃちょうはもうこのてがみをごらんになりましたか。", "romaji": "Shachō wa mō kono tegami o goran ni narimashita ka." }, "note": "見る tem forma especial: ごらんになる." },
-          { "q": "先生は休みの日に何をおしになりますか。", "a": { "jp": "先生は休みの日に何をなさいますか。", "kana": "せんせいはやすみのひになにをなさいますか。", "romaji": "Sensei wa yasumi no hi ni nani o nasaimasu ka." }, "note": "する → なさる, com ます irregular: なさいます." },
-          { "q": "先生、このペンをお使ってください。", "a": { "jp": "先生、このペンをお使いください。", "kana": "せんせい、このペンをおつかいください。", "romaji": "Sensei, kono pen o otsukai kudasai." }, "note": "お + radical (使い) + ください, sem forma て." },
-          { "q": "この店をごぞんじですか。— はい、ごぞんじです。", "a": { "jp": "この店をごぞんじですか。— はい、知っています。", "kana": "このみせをごぞんじですか。— はい、しっています。", "romaji": "Kono mise o gozonji desu ka. — Hai, shitte imasu." }, "note": "A pergunta está certa; a resposta fala de você, então volta o verbo comum." }
+          { "q": "私は明日学校にいらっしゃいます。", "a": { "jp": "私は明日学校に行きます。", "kana": "わたしはあしたがっこうにいきます。", "romaji": "Watashi wa ashita gakkō ni ikimasu." }, "note": "Never 尊敬語 about yourself. Back to the plain verb: 行きます (or 来ます, if you are speaking from inside the school)." },
+          { "q": "先生は今どこにいらっしゃりますか。", "a": { "jp": "先生は今どこにいらっしゃいますか。", "kana": "せんせいはいまどこにいらっしゃいますか。", "romaji": "Sensei wa ima doko ni irasshaimasu ka." }, "note": "The ます of いらっしゃる is irregular: いらっしゃいます." },
+          { "q": "社長はもうこの手紙をお見になりましたか。", "a": { "jp": "社長はもうこの手紙をごらんになりましたか。", "kana": "しゃちょうはもうこのてがみをごらんになりましたか。", "romaji": "Shachō wa mō kono tegami o goran ni narimashita ka." }, "note": "見る has a special form: ごらんになる." },
+          { "q": "先生は休みの日に何をおしになりますか。", "a": { "jp": "先生は休みの日に何をなさいますか。", "kana": "せんせいはやすみのひになにをなさいますか。", "romaji": "Sensei wa yasumi no hi ni nani o nasaimasu ka." }, "note": "する → なさる, with the irregular ます: なさいます." },
+          { "q": "先生、このペンをお使ってください。", "a": { "jp": "先生、このペンをお使いください。", "kana": "せんせい、このペンをおつかいください。", "romaji": "Sensei, kono pen o otsukai kudasai." }, "note": "お + stem (使い) + ください, no て-form." },
+          { "q": "この店をごぞんじですか。— はい、ごぞんじです。", "a": { "jp": "この店をごぞんじですか。— はい、知っています。", "kana": "このみせをごぞんじですか。— はい、しっています。", "romaji": "Kono mise o gozonji desu ka. — Hai, shitte imasu." }, "note": "The question is right; the answer is about you, so it goes back to the plain verb." }
         ]
       },
       {
         "id": "h4",
-        "type": "produzir",
-        "prompt": "O seu professor de japonês vai visitar o Brasil. Escreva 4 frases para ele: 2 perguntas sobre o que ele vai fazer (com verbos honoríficos) e 2 pedidos com お〜ください ou ご〜ください. Depois leia em voz alta e grave no celular.",
+        "type": "produce",
+        "prompt": "Your Japanese teacher is coming to visit you in Brazil (or in your own country). Write 4 sentences to him: 2 questions about what he will do (with honorific verbs) and 2 requests with お〜ください or ご〜ください. Then read them aloud and record yourself on your phone.",
         "items": [
-          { "q": "Modelo, que o seu texto deve seguir na estrutura e não nas palavras:", "a": { "jp": "先生、いつブラジルにいらっしゃいますか。サンパウロでは何をなさいますか。くうこうに着いたら、ごれんらくください。今夜はゆっくりお休みください。", "kana": "せんせい、いつブラジルにいらっしゃいますか。サンパウロではなにをなさいますか。くうこうについたら、ごれんらくください。こんやはゆっくりおやすみください。", "romaji": "Sensei, itsu Burajiru ni irasshaimasu ka. Sanpauro de wa nani o nasaimasu ka. Kūkō ni tsuitara, gorenraku kudasai. Kon'ya wa yukkuri oyasumi kudasai.", "pt": "Professor, quando o senhor vem ao Brasil? O que o senhor vai fazer em São Paulo? Quando chegar ao aeroporto, entre em contato comigo. Esta noite, descanse bem." }, "note": "Confira: 尊敬語 só nos verbos do professor (nunca nos seus), いらっしゃいます e なさいます com o ます irregular, e お/ご + radical ou substantivo + ください nos pedidos." }
+          { "q": "Model (match its structure, not its words):", "a": { "jp": "先生、いつブラジルにいらっしゃいますか。サンパウロでは何をなさいますか。くうこうに着いたら、ごれんらくください。今夜はゆっくりお休みください。", "kana": "せんせい、いつブラジルにいらっしゃいますか。サンパウロではなにをなさいますか。くうこうについたら、ごれんらくください。こんやはゆっくりおやすみください。", "romaji": "Sensei, itsu Burajiru ni irasshaimasu ka. Sanpauro de wa nani o nasaimasu ka. Kūkō ni tsuitara, gorenraku kudasai. Kon'ya wa yukkuri oyasumi kudasai.", "en": "Sensei, when are you coming to Brazil? What will you do in São Paulo? When you arrive at the airport, please get in touch. Tonight, please get a good rest." }, "note": "Check: 尊敬語 only on the teacher's verbs (never on yours), いらっしゃいます and なさいます with the irregular ます, and お/ご + stem or noun + ください in the requests." }
         ]
       }
     ],
     "workbook": []
   },
   "practice": [
-    { "tool": "Wagotabi", "what": "Jogue nas regiões de nível N4 e cace 尊敬語 nos diálogos, principalmente de lojistas, atendentes e personagens mais velhos: いらっしゃいます, おっしゃる, お〜になる, お〜ください, ごらんください. Quando achar um, pause e diga em voz alta o verbo comum por trás dele. Se o trecho em que você está não tiver 尊敬語, cace 〜てください e diga a versão com お〜ください. Registre a sessão em Imersão → Jogos e cole uma frase na 🔬 Anatomia.", "min": 15 },
-    { "tool": "ヅオリンゴー", "what": "Treinos → 🔬 Anatomia → 🔬 Analisar: cole os 9 exemplos desta aula, um por um, e confira que o honorífico está sempre no PREDICADO. Depois, em Mineração, guarde 3 frases com 尊敬語 (desta aula ou do jogo) para revisar.", "min": 10 },
-    { "tool": "ヅオリンゴー · Diário", "what": "Escreva 3 frases sobre um professor ou chefe real (o que ele faz de manhã, o que come, quando volta para casa), todas com 尊敬語. Use \"Anatomia do que escrevi\" para ver se o verbo honorífico ficou no fim.", "min": 10 },
-    { "tool": "Shadowing", "what": "Toque 🔊 em cada exemplo e repita junto 3 vezes. Capriche no っ de いらっしゃいます e おっしゃいます: é uma pausa curta que vale uma batida inteira (い・ら・っ・しゃ・い・ま・す).", "min": 5 },
-    { "tool": "Fala", "what": "Grave a mensagem ao professor (lição de casa h4) em até 30 s, como se fosse um áudio. Ouça e confira se nenhum verbo seu ficou honorífico.", "min": 5 }
+    { "tool": "Wagotabi", "what": "Play in the N4 areas and hunt for 尊敬語 in the dialogues, especially from shopkeepers, clerks and older characters: いらっしゃいます, おっしゃる, お〜になる, お〜ください, ごらんください. When you find one, pause and say aloud the plain verb behind it. If the part you are playing has no 尊敬語, hunt for 〜てください and say the お〜ください version. Log the session in Immersion → Games and paste one line into 🔬 Anatomy.", "min": 15 },
+    { "tool": "ヅオリンゴー", "what": "Drills → 🔬 Anatomy → 🔬 Analyze: paste the examples of points a and c, one by one, and check that the honorific is always in the PREDICATE. Then, in Mining, save 3 sentences with 尊敬語 (from this lesson or from the game) to review.", "min": 10 },
+    { "tool": "ヅオリンゴー · Journal", "what": "Write 3 sentences about a real teacher or boss (what they do in the morning, what they eat, when they go home), all in 尊敬語. Use \"Anatomy of what I wrote\" to check that the honorific verb ended up at the end.", "min": 10 },
+    { "tool": "Shadowing", "what": "Tap 🔊 on each example and repeat along 3 times. Get the っ right in いらっしゃいます and おっしゃいます: it is a short pause that takes a full beat (い・ら・っ・しゃ・い・ま・す).", "min": 5 },
+    { "tool": "Speaking", "what": "Record the message to your teacher (homework h4) in 30 seconds or less, like a voice message. Listen and check that none of YOUR verbs came out honorific.", "min": 5 }
   ],
   "culture": {
-    "title": "めうえ e めした: hierarquia e keigo",
+    "title": "めうえ and めした: hierarchy and keigo",
     "titleJp": "めうえ／めした",
-    "body": "Em japonês, **めうえ** (目上, algo como \"acima dos olhos\") é quem está acima de você numa relação: o chefe, o professor, um cliente, alguém bem mais velho. **めした** (目下) é quem está abaixo, como um aluno ou um funcionário mais novo. Essa posição costuma decidir o registro: com めうえ se usa 敬語 (です/ます e, muitas vezes, 尊敬語), e com めした dá para falar de forma mais casual. A posição não depende só da idade: numa loja, o cliente recebe 尊敬語 mesmo sendo mais novo, e dentro de uma empresa o cargo costuma pesar mais que a idade. Existe ainda o lado うち/そと: falando com alguém de fora da empresa, você **não** usa 尊敬語 para o seu próprio chefe, porque ali ele passa a ser \"de dentro\" (você vai ver isso com a linguagem humilde, na Aula 20-1). Muitos japoneses também acham 敬語 difícil, e é comum as empresas darem treinamento de keigo aos recém-contratados.",
-    "try": "Faça uma lista de 5 pessoas da sua vida (o chefe, um professor, um amigo, um primo mais novo, o pai de um amigo) e escreva ao lado めうえ, めした ou \"igual\". Para cada めうえ, diga em voz alta uma pergunta com 尊敬語: 何をめしあがりますか。/ 明日いらっしゃいますか。"
+    "body": "In Japanese, **めうえ** (目上, roughly \"above the eyes\") is someone above you in a relationship: your boss, your teacher, a customer, someone much older. **めした** (目下) is someone below you, like a student or a younger employee. This position usually decides the register: with めうえ people use 敬語 (です/ます and often 尊敬語), and with めした they can speak more casually. The position doesn't depend only on age: in a shop, the customer gets 尊敬語 even if younger, and inside a company rank usually counts for more than age. There is also the うち/そと side: when you talk to someone from outside your company, you do **not** use 尊敬語 for your own boss, because there he counts as \"inside\" (you will see this with humble language in lesson 20-1). Many Japanese people find 敬語 hard too, and companies commonly give keigo training to new hires.",
+    "try": "List 5 people in your life (your boss, a teacher, a friend, a younger cousin, a friend's father) and write めうえ, めした or \"equal\" next to each. For each めうえ, say one question aloud in 尊敬語: 何をめしあがりますか。/ 明日いらっしゃいますか。"
   },
   "checklist": [
-    "Digo os 8 honoríficos especiais a partir do verbo comum, sem olhar (いる/行く/来る → いらっしゃる, 言う → おっしゃる…).",
-    "Conjugo いらっしゃる, おっしゃる, くださる e なさる com o ます certo: いらっしゃいます, nunca いらっしゃります.",
-    "Transformo os outros verbos em お + radical + になる (お帰りになる, お使いになる) e sei quando a fórmula não serve (見る, する…).",
-    "Faço pedidos respeitosos com お〜ください e ご〜ください, inclusive o especial ごらんください.",
-    "Uso 尊敬語 só para as ações dos outros (clientes, superiores, desconhecidos mais velhos), nunca para mim mesmo.",
-    "Respondo ごぞんじですか com 知っています ou 知りません.",
-    "Fiz a lição de casa e conferi o gabarito, e refiz o que errei.",
-    "Se tenho o Genki II Workbook, fiz os exercícios da Lição 19 sobre honoríficos."
+    "I can say the 8 special honorifics from the plain verb without looking (いる/行く/来る → いらっしゃる, 言う → おっしゃる…).",
+    "I conjugate いらっしゃる, おっしゃる, くださる and なさる with the right ます: いらっしゃいます, never いらっしゃります.",
+    "I turn other verbs into お + stem + になる (お帰りになる, お使いになる) and I know when the formula doesn't work (見る, する…).",
+    "I make respectful requests with お〜ください and ご〜ください, including the special ごらんください.",
+    "I use 尊敬語 only for other people's actions (customers, superiors, older strangers), never for my own.",
+    "I answer ごぞんじですか with 知っています or 知りません.",
+    "I did the homework, checked it against the answer key and redid what I got wrong.",
+    "If I have the Genki II Workbook, I did the Lesson 19 exercises on honorifics."
   ]
 }

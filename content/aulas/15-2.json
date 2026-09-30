@@ -1,0 +1,217 @@
+{
+  "id": "15-2",
+  "unit": "G2-L15",
+  "genki": { "book": "Genki II", "lesson": 15, "points": ["〜ておく", "Using Sentences to Qualify Nouns"] },
+  "title": "Getting ready · describing more",
+  "titleJp": "旅行の前に、じゅんびしておこう",
+  "canDo": [
+    "I can say what I will do in advance to get ready (ホテルをよやくしておきます) and ask someone to do something in advance (読んでおいてください).",
+    "I can understand and use the casual 〜とく / 〜どく (買っとく, 読んどいて) with friends.",
+    "I can build a long description before a noun, with が for its subject: きのう友だちが作った料理, 私が去年住んでいた町.",
+    "I can take apart a sentence with two layers of description, reading from the ★ predicate and bracketing each layer.",
+    "I can place a time word so that it clearly belongs to the description or to the whole sentence."
+  ],
+  "duration": {
+    "total": "70–90 min",
+    "blocks": [
+      { "t": "Warm-up: say the て-form of 6 verbs out loud (lesson 06-1), then 3 descriptions from lesson 09-2 (めがねをかけている人, 母が作ったケーキ…)", "min": 5 },
+      { "t": "Vocabulary: tap 🔊 on each word and repeat it twice", "min": 10 },
+      { "t": "Grammar 4a: 〜ておく and 〜とく, with the examples read aloud and one 🔬", "min": 15 },
+      { "t": "Grammar 4b–4c: long descriptions and two layers, bracketing each example in your notebook", "min": 20 },
+      { "t": "Lesson 15 video (block 6): the parts on 〜ておく and on clauses that describe nouns", "min": 10 },
+      { "t": "Notebook homework + checking it against the answer key (if you split the lesson: 4a + h1 in one session; 4b–4c + h2–h4 in the other)", "min": 20 },
+      { "t": "Checklist (block 10) + write your questions in the lesson notebook", "min": 5 }
+    ]
+  },
+  "prereqs": {
+    "aulas": ["15-1", "09-2"],
+    "skills": [
+      "The て-form of every verb (lesson 06-1): 〜ておく is built on it, just like 〜てみる (lesson 13-3).",
+      "Clauses that describe nouns (lesson 09-2): the description comes before the noun, in short form, with が for its own subject. This lesson builds straight on it — reread its point c if the method feels rusty.",
+      "The volitional (lesson 15-1): 買っておこう = \"I'll buy it in advance\" / \"let's buy it in advance\".",
+      "〜たことがある (lesson 11-2), くれる (lesson 14-2) and 〜かもしれない (lesson 14-1), which show up in some sentences.",
+      "N は X が Adj (lesson 07-2): かみが長い. The same が shows up inside descriptions like 姉がすきな店."
+    ],
+    "vocab": [
+      { "jp": "〜ておく", "kana": "〜ておく", "romaji": "-te oku", "en": "to do something in advance, to get ready; to leave something as it is" },
+      { "jp": "〜とく／〜どく", "kana": "〜とく／〜どく", "romaji": "-toku / -doku", "en": "casual form of 〜ておく／〜でおく (買っとく, 読んどく)" },
+      { "jp": "よやくする", "kana": "よやくする", "romaji": "yoyaku suru", "en": "to make a reservation, to book" },
+      { "jp": "じゅんび", "kana": "じゅんび", "romaji": "junbi", "en": "preparation (じゅんびする = to get ready, to prepare)" },
+      { "jp": "きっぷ", "kana": "きっぷ", "romaji": "kippu", "en": "ticket (for a train or a bus)" },
+      { "jp": "地図", "kana": "ちず", "romaji": "chizu", "en": "map" },
+      { "jp": "天気", "kana": "てんき", "romaji": "tenki", "en": "weather" },
+      { "jp": "山", "kana": "やま", "romaji": "yama", "en": "mountain" },
+      { "jp": "のぼる", "kana": "のぼる", "romaji": "noboru", "en": "to climb (山にのぼる = to climb a mountain)" },
+      { "jp": "富士山", "kana": "ふじさん", "romaji": "Fujisan", "en": "Mt. Fuji" },
+      { "jp": "あたたかい", "kana": "あたたかい", "romaji": "atatakai", "en": "warm" },
+      { "jp": "服", "kana": "ふく", "romaji": "fuku", "en": "clothes" },
+      { "jp": "飲み物", "kana": "のみもの", "romaji": "nomimono", "en": "drink, something to drink" },
+      { "jp": "そうじする", "kana": "そうじする", "romaji": "sōji suru", "en": "to clean (a room, a house)" },
+      { "jp": "料理", "kana": "りょうり", "romaji": "ryōri", "en": "dish, food; cooking" },
+      { "jp": "お寺", "kana": "おてら", "romaji": "otera", "en": "(Buddhist) temple" },
+      { "jp": "去年", "kana": "きょねん", "romaji": "kyonen", "en": "last year" },
+      { "jp": "住む", "kana": "すむ", "romaji": "sumu", "en": "to live (somewhere): 〜に住んでいる" },
+      { "jp": "くれる", "kana": "くれる", "romaji": "kureru", "en": "to give (to me or to someone on my side) (lesson 14-2)" },
+      { "jp": "おかし", "kana": "おかし", "romaji": "okashi", "en": "sweets, snacks" },
+      { "jp": "ブログ", "kana": "ブログ", "romaji": "burogu", "en": "blog" },
+      { "jp": "ページ", "kana": "ページ", "romaji": "pēji", "en": "page" },
+      { "jp": "京都", "kana": "きょうと", "romaji": "Kyōto", "en": "Kyoto" }
+    ]
+  },
+  "grammar": [
+    {
+      "id": "15-2-a",
+      "gc": null,
+      "title": "〜ておく: doing something in advance",
+      "gloss": "do it now, so it's ready for later",
+      "explanation": "**〜ておく** means doing something **in advance, to be ready** for something later. Take the て-form (lesson 06-1) and add the helper verb **おく** — the same pattern as 〜てみる (lesson 13-3). On its own, おく means \"to put, to place\"; after a て-form it means \"do it now and leave it done, for later\".\n• What you are getting ready for is often in the sentence, with 〜前に or 〜から: 旅行に行く前に、ホテルをよやくしておきます (before the trip → book the hotel now).\n• Without ておく the sentence is still correct; ておく adds the idea **\"so that it's ready\"**. English often says \"in advance\", \"ahead of time\", \"go ahead and…\" or nothing at all; Japanese puts that idea in the verb itself.\n• **おく is an う-verb**, so it takes every form you know: 〜ておきます (I'll do it in advance), 〜ておきました (I did it in advance), 〜ておいてください (please do it in advance), 〜ておこう (let's / I'll do it in advance — the volitional from lesson 15-1).\n• It also covers **leaving something as it is** for later: まどは開けておいてください = \"please leave the window open\".\n• **Casual 〜とく**: in speech, て + お merges into **と**, and で + お into **ど**: 買っておく → **買っとく**; 読んでおく → **読んどく**; 買っておいた → 買っといた; 読んでおいて → 読んどいて. With friends you will hear it all the time; in your homework and in polite speech, write 〜ておく.\n• In the sentence, 〜ておく is part of the ★ PREDICATE. The blocks before it are the same as with the plain verb: [when / why] [what] + 〜ておく.",
+      "structure": "[て-form] + おく · casual: 〜ておく → 〜とく, 〜でおく → 〜どく",
+      "examples": [
+        { "jp": "旅行に行く前に、ホテルをよやくしておきます。", "kana": "りょこうにいくまえに、ホテルをよやくしておきます。", "romaji": "Ryokō ni iku mae ni, hoteru o yoyaku shite okimasu.", "en": "Before I go on my trip, I'll book a hotel ahead of time." },
+        { "jp": "あした山にのぼるから、今日は早くねておこう。", "kana": "あしたやまにのぼるから、きょうははやくねておこう。", "romaji": "Ashita yama ni noboru kara, kyō wa hayaku nete okō.", "en": "I'm climbing a mountain tomorrow, so I'll go to bed early today." },
+        { "jp": "飲み物、買っといたよ。— ありがとう、たすかる。", "kana": "のみもの、かっといたよ。— ありがとう、たすかる。", "romaji": "Nomimono, kattoita yo. — Arigatō, tasukaru.", "en": "I went ahead and bought the drinks. — Thanks, that really helps." }
+      ],
+      "pitfalls": [
+        "おく conjugates like any う-verb ending in く: 買っておって ✗ → 買っておいて ✓ (おく → おいて, like 書く → 書いて).",
+        "The contraction follows the て-form: after で it becomes ど. 読んでとく ✗ → 読んどく ✓; 買っどく ✗ → 買っとく ✓.",
+        "〜とく belongs to casual speech. To your teacher: この本はもう読んどきました ✗ (too casual) → この本はもう読んでおきました ✓.",
+        "〜ておく is not 〜ている. \"I bought it in advance\": 買っていました ✗ → 買っておきました ✓. 買っています means \"I'm buying it\" or \"I buy it regularly\"."
+      ],
+      "howToStudy": [
+        "Say 5 preparations for a trip out loud, each first with the plain verb and then with 〜ておきます: ホテルをよやくします → ホテルをよやくしておきます; 地図を買います → 地図を買っておきます; 天気をしらべます → …",
+        "Tap 🔬 on example 1: 旅行に shows up as PURPOSE, 行く前に as TIME, ホテルを as OBJECT and よやくしておきます as ★ PREDICATE. Read it from the end: I'll book in advance → what? a hotel → when? before going → going for what? on a trip.",
+        "Casual drill, out loud: say each full form and then its short version: 買っておく → 買っとく, 読んでおく → 読んどく, 見ておいて → 見といて, しておこう → しとこう."
+      ],
+      "flag": null
+    },
+    {
+      "id": "15-2-b",
+      "gc": null,
+      "title": "Describing nouns (II): long descriptions with が inside",
+      "gloss": "a whole short sentence in front of the noun",
+      "explanation": "In lesson 09-2 you put a short description before a noun: 母が作ったケーキ. In Genki II the descriptions get **longer**: they can carry their own time, place, object and subject — a whole short sentence in front of the noun.\n• The rules do not change: the description comes **before** the noun and ends in a **short form** (作った, 住んでいた, 行く, 見ない). There is **no の** before the noun and no word for \"that / who / where\", and the description's subject takes **が**, not は.\n• Every block inside belongs to the description: きのう友だちが作った料理 = the dish [my friend made yesterday]. Here きのう says when the friend **made** it.\n• The whole thing is still **one noun**. It can be the topic (…料理は), the object (…料理を) or come before です (…料理です).\n• The description can also end in an adjective with its own が, as in lesson 07-2: かみが長い人 (a person with long hair), 姉がすきな店 (the shop my older sister likes).\n• **Where a time word goes matters.** At the very start of a sentence, a time word can belong to the description or to the whole sentence: きのう友だちが作った料理を食べました can mean \"I ate, yesterday, the dish my friend made\" or \"I ate the dish my friend made yesterday\". To make it clear, put it right next to its verb: 友だちが**きのう**作った料理を食べました (inside: the making); 友だちが作った料理を**きのう**食べました (outside: the eating).\n• To translate into English, read the block **backwards**: first the core noun, then \"that / who / where\", then the description from its start: [私が去年住んでいた] 町 = the town [where I lived last year].",
+      "structure": "[time] [place] [object] [subject が] … [short form] + [core noun] — the whole block is ONE noun",
+      "examples": [
+        { "jp": "これはきのう友だちが作った料理です。", "kana": "これはきのうともだちがつくったりょうりです。", "romaji": "Kore wa kinō tomodachi ga tsukutta ryōri desu.", "en": "This is the dish my friend made yesterday." },
+        { "jp": "私が去年住んでいた町には、古いお寺がたくさんあります。", "kana": "わたしがきょねんすんでいたまちには、ふるいおてらがたくさんあります。", "romaji": "Watashi ga kyonen sunde ita machi ni wa, furui otera ga takusan arimasu.", "en": "There are lots of old temples in the town where I lived last year." },
+        { "jp": "友だちがきのう作った料理を、今日みんなで食べました。", "kana": "ともだちがきのうつくったりょうりを、きょうみんなでたべました。", "romaji": "Tomodachi ga kinō tsukutta ryōri o, kyō minna de tabemashita.", "en": "Today we all ate the dish my friend made yesterday." }
+      ],
+      "pitfalls": [
+        "は inside the description: 友だちは作った料理 ✗ → 友だちが作った料理 ✓. は belongs to the whole sentence (これは…), not to the description.",
+        "No です／ます and no の before the core: きのう作りました料理 ✗, 作ったの料理 ✗ → きのう作った料理 ✓.",
+        "English puts the core first; Japanese puts it last: 料理きのう友だちが作った ✗ → きのう友だちが作った料理 ✓.",
+        "A time word at the very start can be read two ways. When you mean \"I ate it yesterday\": きのう友だちが作った料理を食べました (unclear) ✗ → 友だちが作った料理をきのう食べました ✓."
+      ],
+      "howToStudy": [
+        "Build example 1 out loud, one step at a time, growing it to the left: 料理 → 作った料理 → 友だちが作った料理 → きのう友だちが作った料理 → これはきのう友だちが作った料理です。",
+        "Tap 🔬 on example 1: きのう shows up as TIME, 友だちが as SUBJECT and 作った as DESCRIBES NEXT, attached to 料理です, the ★ PREDICATE. Those three blocks together are the description; the TOPIC of the big sentence is これは.",
+        "In your notebook, copy example 3 and bracket the description: [友だちがきのう作った] 料理. Then say it out loud with きのう moved next to 食べました, and say in English what changed."
+      ],
+      "flag": null
+    },
+    {
+      "id": "15-2-c",
+      "gc": null,
+      "title": "Two layers: reading from the end",
+      "gloss": "a description inside a description",
+      "explanation": "A description can hold **another** description inside it. Then the sentence has two cores, one inside the other, and the safe way to read it is **from the end**.\n• Grow it from the core, one layer at a time: ブログ → [人が書いた] ブログ → [[富士山にのぼった] 人が書いた] ブログ. The inner block [富士山にのぼった] describes 人; the outer block [富士山にのぼった人が書いた] describes ブログ.\n**Reading from the end, step by step** (the method from lesson 09-2):\n• 1) Read the ★ predicate: 読みました (I read).\n• 2) Find its object or topic block: ブログを → what did I read? A blog.\n• 3) Look to the left of that noun: 書いた is a short-form verb right before it, so a description ends there. Who wrote it? 人が.\n• 4) Look to the left of 人: のぼった is another short-form verb right before a noun, so there is a second layer. What did that person do? 富士山にのぼった.\n• 5) Put it together in English from the outside in: I read a blog → written by a person → who climbed Mt. Fuji.\n• **Every short-form verb followed directly by a noun closes a description.** Count them and you know how many layers there are. In 🔬, each of those verbs shows up as **DESCRIBES NEXT**.\n• Each が is the subject of **its own layer only**: in 母が作ったケーキを食べた友だち, the mother made the cake, but the friend is the one who ate it.\n• Two layers is plenty. If a sentence you are writing needs three, split it into two sentences.",
+      "structure": "[[inner description] core₁ … short-form verb] core₂ — each short-form verb + noun closes one layer",
+      "examples": [
+        { "jp": "富士山にのぼった人が書いたブログを読みました。", "kana": "ふじさんにのぼったひとがかいたブログをよみました。", "romaji": "Fujisan ni nobotta hito ga kaita burogu o yomimashita.", "en": "I read a blog written by someone who climbed Mt. Fuji. [lit. I read the blog that a person who climbed Mt. Fuji wrote]" },
+        { "jp": "母が作ったケーキを食べた友だちは、「おいしい」と言いました。", "kana": "ははがつくったケーキをたべたともだちは、「おいしい」といいました。", "romaji": "Haha ga tsukutta kēki o tabeta tomodachi wa, \"oishii\" to iimashita.", "en": "The friend who ate the cake my mother made said, \"It's delicious!\"" },
+        { "jp": "これは、私が京都で会った人がくれたおかしです。", "kana": "これは、わたしがきょうとであったひとがくれたおかしです。", "romaji": "Kore wa, watashi ga Kyōto de atta hito ga kureta okashi desu.", "en": "These are sweets that someone I met in Kyoto gave me." }
+      ],
+      "pitfalls": [
+        "Don't take the first noun as the core: in 母が作ったケーキを食べた友だちは…, the topic is 友だち, not ケーキ. ケーキ is only the core of the inner layer.",
+        "Each が belongs to its own layer: 母が goes with 作った, not with 食べた. \"My mother ate the cake\" ✗ → \"my mother made the cake, and my friend ate it\" ✓.",
+        "Don't translate in the Japanese order: \"Mt. Fuji climbed person wrote blog read\" ✗. English starts from the outer core: \"I read a blog written by someone who climbed Mt. Fuji\" ✓."
+      ],
+      "howToStudy": [
+        "Tap 🔬 on example 1: 富士山に shows up as DESTINATION, のぼった and 書いた both as DESCRIBES NEXT, 人が as SUBJECT, ブログを as OBJECT and 読みました as ★ PREDICATE. Two verbs marked DESCRIBES NEXT = two layers.",
+        "In your notebook, copy the 3 examples with nested brackets: [[富士山にのぼった] 人が書いた] ブログ. Underline the ★ predicate and circle both cores.",
+        "ヅオリンゴー → Drills → 🔬 Anatomy → 🔬 Analyze: paste example 2 and say out loud who did each action (who made? who ate? who said?)."
+      ],
+      "flag": null
+    }
+  ],
+  "media": [
+    { "order": 1, "kind": "reading", "title": "Genki II · Lesson 15: the grammar notes 〜ておく and Using Sentences to Qualify Nouns", "where": "Your Genki II textbook", "url": "", "when": "Before this lesson or right after the grammar block. The volitional form was lesson 15-1." },
+    { "order": 2, "kind": "video", "title": "Japanese Ammo with Misa: 〜ておく (doing something in advance)", "where": "YouTube · Japanese Ammo with Misa channel", "url": "", "search": "Japanese Ammo with Misa te oku", "when": "After point a, if you want more examples of 〜ておく and 〜とく" }
+  ],
+  "homework": {
+    "intro": "Do it by hand in your notebook. Write with the kanji you already know and the rest in kana. For the long sentences, find the ★ predicate and the core noun first, and write the core last. Only then open the answer key, item by item. Circle what you got wrong and redo it the next day. If you have the Genki II Workbook, do this lesson's exercises too — in this lesson, the ones on 〜ておく and on using sentences to qualify nouns.",
+    "tasks": [
+      {
+        "id": "h1",
+        "type": "transform",
+        "prompt": "Items 1–4: rewrite each sentence with 〜ておく, keeping the same form (〜ます, 〜ました, 〜てください, volitional). Items 5–6 are casual: change 〜ておく to the short 〜とく / 〜どく.",
+        "items": [
+          { "q": "旅行の前に、地図を買います。", "a": { "jp": "旅行の前に、地図を買っておきます。", "kana": "りょこうのまえに、ちずをかっておきます。", "romaji": "Ryokō no mae ni, chizu o katte okimasu." } },
+          { "q": "パーティーの前に、へやをそうじしました。", "a": { "jp": "パーティーの前に、へやをそうじしておきました。", "kana": "パーティーのまえに、へやをそうじしておきました。", "romaji": "Pātī no mae ni, heya o sōji shite okimashita." }, "note": "Past: 〜ておきました. The cleaning was done before the party, to be ready for it." },
+          { "q": "あしたテストがあるから、このページを読んでください。", "a": { "jp": "あしたテストがあるから、このページを読んでおいてください。", "kana": "あしたテストがあるから、このページをよんでおいてください。", "romaji": "Ashita tesuto ga aru kara, kono pēji o yonde oite kudasai." }, "note": "おく is an う-verb: おく → おいて, like 書く → 書いて." },
+          { "q": "雨がふるかもしれないから、かさを買おう。", "a": { "jp": "雨がふるかもしれないから、かさを買っておこう。", "kana": "あめがふるかもしれないから、かさをかっておこう。", "romaji": "Ame ga furu kamo shirenai kara, kasa o katte okō." }, "note": "The volitional of おく is おこう (lesson 15-1)." },
+          { "q": "(casual) 飲み物を買っておくね。", "a": { "jp": "飲み物を買っとくね。", "kana": "のみものをかっとくね。", "romaji": "Nomimono o kattoku ne." }, "note": "て + お → と: 買って + おく → 買っとく." },
+          { "q": "(casual) この本、読んでおいて。", "a": { "jp": "この本、読んどいて。", "kana": "このほん、よんどいて。", "romaji": "Kono hon, yondoite." }, "note": "で + お → ど: 読んで + おいて → 読んどいて. It's a casual request: \"read this book (before…)\"." }
+        ]
+      },
+      {
+        "id": "h2",
+        "type": "translate",
+        "prompt": "Translate into Japanese. For items 3–5, find the core noun first and write it at the end of its description.",
+        "items": [
+          { "q": "(polite) I already booked the hotel (in advance).", "a": { "jp": "ホテルはもうよやくしておきました。", "kana": "ホテルはもうよやくしておきました。", "romaji": "Hoteru wa mō yoyaku shite okimashita." }, "note": "Also correct: もうホテルをよやくしておきました。" },
+          { "q": "(casual, to a friend) I'll check the train times ahead of time.", "a": { "jp": "電車の時間をしらべておくね。", "kana": "でんしゃのじかんをしらべておくね。", "romaji": "Densha no jikan o shirabete oku ne." }, "note": "The casual しらべとくね is also right. ね makes it a friendly promise." },
+          { "q": "These are the photos my older brother took in Kyoto last year.", "a": { "jp": "これは兄が去年京都でとった写真です。", "kana": "これはあにがきょねんきょうとでとったしゃしんです。", "romaji": "Kore wa ani ga kyonen Kyōto de totta shashin desu." }, "note": "Core: 写真. Everything between これは and 写真 is the description: who (兄が), when (去年), where (京都で) and what he did (とった)." },
+          { "q": "The town where Ana lived last year was very small.", "a": { "jp": "アナさんが去年住んでいた町は、とても小さかったです。", "kana": "アナさんがきょねんすんでいたまちは、とてもちいさかったです。", "romaji": "Ana-san ga kyonen sunde ita machi wa, totemo chiisakatta desu." }, "note": "Core: 町. Inside: アナさんが (the subject, with が), 去年 and 住んでいた. Outside: は and the ★ predicate 小さかったです." },
+          { "q": "I read a book written by a person who lives in Kyoto.", "a": { "jp": "京都に住んでいる人が書いた本を読みました。", "kana": "きょうとにすんでいるひとがかいたほんをよみました。", "romaji": "Kyōto ni sunde iru hito ga kaita hon o yomimashita." }, "note": "Two layers: [[京都に住んでいる] 人が書いた] 本. Build it from the core: 本 → 人が書いた本 → 京都に住んでいる人が書いた本." }
+        ]
+      },
+      {
+        "id": "h3",
+        "type": "analyze",
+        "prompt": "Items 1–4: take each sentence apart from the end. Underline the ★ predicate, circle each core noun and bracket each description (nested brackets for two layers). Then translate the whole sentence into English. Items 5–6: move one block so the meaning is clear.",
+        "items": [
+          { "q": "山田さんがきのう見た映画は、とてもこわかったです。", "a": { "jp": "［山田さんがきのう見た］映画", "kana": "［やまださんがきのうみた］えいが", "romaji": "[Yamada-san ga kinō mita] eiga", "en": "The movie Mr. Yamada saw yesterday was very scary." }, "note": "Core: 映画, right after the short-form verb 見た. The ★ predicate is こわかったです." },
+          { "q": "姉がすきな店は、駅の前にあります。", "a": { "jp": "［姉がすきな］店", "kana": "［あねがすきな］みせ", "romaji": "[ane ga suki na] mise", "en": "The shop my older sister likes is in front of the station." }, "note": "The description can end in a な-adjective. 姉が is its subject, with が." },
+          { "q": "富士山にのぼったことがある人は、このクラスに何人いますか。", "a": { "jp": "［富士山にのぼったことがある］人", "kana": "［ふじさんにのぼったことがある］ひと", "romaji": "[Fujisan ni nobotta koto ga aru] hito", "en": "How many people in this class have climbed Mt. Fuji? [lit. as for people who have climbed Mt. Fuji, how many are there in this class?]" }, "note": "〜たことがある (lesson 11-2) can sit inside a description too. The verb that touches the core is ある." },
+          { "q": "ペドロさんが作ったゲームをした人は、みんな「おもしろい」と言っています。", "a": { "jp": "［［ペドロさんが作った］ゲームをした］人", "kana": "［［ペドロさんがつくった］ゲームをした］ひと", "romaji": "[[Pedoro-san ga tsukutta] gēmu o shita] hito", "en": "Everyone who played the game Pedro made says, \"It's fun.\"" }, "note": "Two layers: 作った describes ゲーム; した describes 人. Who made the game? Pedro. Who is saying it's fun? The people who played it." },
+          { "q": "Rewrite so that きのう clearly goes with the MAKING (my friend made it yesterday): きのう友だちが作った料理を食べました。", "a": { "jp": "友だちがきのう作った料理を食べました。", "kana": "ともだちがきのうつくったりょうりをたべました。", "romaji": "Tomodachi ga kinō tsukutta ryōri o tabemashita.", "en": "I ate the dish my friend made yesterday." }, "note": "Between 友だちが and 作った, きのう can only belong to the description." },
+          { "q": "Rewrite so that きのう clearly goes with the EATING (I ate it yesterday): きのう友だちが作った料理を食べました。", "a": { "jp": "友だちが作った料理をきのう食べました。", "kana": "ともだちがつくったりょうりをきのうたべました。", "romaji": "Tomodachi ga tsukutta ryōri o kinō tabemashita.", "en": "Yesterday I ate the dish my friend made." }, "note": "After the core 料理を, きのう is outside the description, so it goes with the ★ predicate 食べました." }
+        ]
+      },
+      {
+        "id": "h4",
+        "type": "produce",
+        "prompt": "You and a friend are going to climb Mt. Fuji (or take any trip you like). Write 6 sentences in polite speech: 1 saying what the trip is, 3 things you will do in advance with 〜ておきます, and 2 sentences with a long description before a noun — one of them with two layers. Then rewrite one of the 〜ておく sentences as a casual message to your friend, with 〜とく. Read everything aloud.",
+        "items": [
+          { "q": "Model (match its structure, not its words):", "a": { "jp": "来月、友だちと富士山にのぼります。山の上は寒いから、あたたかい服を買っておきます。天気もしらべておきます。前の日は早くねておきます。富士山にのぼった人が書いたブログを読みました。兄が去年とった富士山の写真も、とてもきれいでした。", "kana": "らいげつ、ともだちとふじさんにのぼります。やまのうえはさむいから、あたたかいふくをかっておきます。てんきもしらべておきます。まえのひははやくねておきます。ふじさんにのぼったひとがかいたブログをよみました。あにがきょねんとったふじさんのしゃしんも、とてもきれいでした。", "romaji": "Raigetsu, tomodachi to Fujisan ni noborimasu. Yama no ue wa samui kara, atatakai fuku o katte okimasu. Tenki mo shirabete okimasu. Mae no hi wa hayaku nete okimasu. Fujisan ni nobotta hito ga kaita burogu o yomimashita. Ani ga kyonen totta Fujisan no shashin mo, totemo kirei deshita.", "en": "Next month I'm climbing Mt. Fuji with a friend. It's cold at the top of the mountain, so I'll buy warm clothes in advance. I'll also check the weather ahead of time. The day before, I'll go to bed early. I read a blog written by someone who climbed Mt. Fuji. The photos of Mt. Fuji my older brother took last year were very beautiful, too." }, "note": "Check: 〜ておきます for the preparations (not just the plain verb), the core noun at the end of each description, が (not は) for the subject inside, and no です／ます inside a description." },
+          { "q": "Model of the casual message:", "a": { "jp": "あたたかい服、買っとくね。", "kana": "あたたかいふく、かっとくね。", "romaji": "Atatakai fuku, kattoku ne.", "en": "I'll get the warm clothes ahead of time, OK?" }, "note": "Check: て + お → と (or で + お → ど), no です／ます. In casual speech the を can drop (服、)." }
+        ]
+      }
+    ],
+    "workbook": []
+  },
+  "practice": [
+    { "tool": "Wagotabi", "what": "Play normally, preferably in an N4-level area if you have reached one. Hunt for two things: 〜ておく / 〜とく (〜ておいて, 〜といた, 〜とこう), and long descriptions — a short-form verb right before a noun, sometimes twice in one line. Copy 2 lines into your notebook, bracket each description and translate them. Log the session in Immersion → Games and paste one of those lines into 🔬 Anatomy.", "min": 15 },
+    { "tool": "ヅオリンゴー", "what": "Drills → 🔬 Anatomy → 🧱 Build from the end: 5 sentences. At each DESCRIBES NEXT block, say out loud which noun it describes.", "min": 10 },
+    { "tool": "Journal", "what": "In the ヅオリンゴー Journal, write 3 things you will do in advance for a trip or a test (〜ておきます) and 2 sentences with a long description before a noun. Open \"Anatomy of what I wrote\": the verb right before each core noun should show up as DESCRIBES NEXT; if it doesn't, check the order.", "min": 10 },
+    { "tool": "Shadowing", "what": "Tap 🔊 on each example in this lesson and repeat along 3 times. In 買っといた, keep the small pause of っ before と: か・っ・と・い・た is 5 beats.", "min": 5 },
+    { "tool": "Speaking", "what": "From memory, say your preparation list for a trip out loud (5 items with 〜ておきます), then say the same list to a friend with 〜とく. Record both versions and listen for the difference.", "min": 5 }
+  ],
+  "culture": {
+    "title": "Mountain climbing (とざん) and Mt. Fuji",
+    "titleJp": "とざん（登山）",
+    "body": "Mountain climbing, **とざん** (登山), is a popular hobby in Japan, where most of the land is mountainous. The best-known climb is **Mt. Fuji** (富士山), the country's highest mountain at 3,776 m; its climbing season is short, usually from July to early September. Many climbers start in the afternoon or evening, rest for a few hours in a mountain hut (山小屋, やまごや) and set off again at night to see the sunrise from the top, which is called **ごらいこう** (ご来光). Even in summer it can be close to freezing at the summit, so climbers get warm clothes, rain gear, water and a headlamp ready in advance. In recent years some trails have introduced a climbing fee and limits on the number of climbers, so it is best to check the official information before you go. On mountain trails, hikers who pass each other often exchange a friendly こんにちは.",
+    "try": "Plan an imaginary Fuji climb with a friend. Write a list of 5 things to do in advance with 〜ておこう (あたたかい服を買っておこう, 天気をしらべておこう…). Then add one sentence with a description before a noun: 富士山にのぼった人が書いたブログを読んでおこう。"
+  },
+  "checklist": [
+    "I can form 〜ておく from any て-form and conjugate おく like an う-verb (おきます, おきました, おいて, おこう).",
+    "I can say what I will do in advance to get ready (ホテルをよやくしておきます) and ask someone to do something in advance (読んでおいてください).",
+    "I understand and can use the casual 〜とく / 〜どく (買っとく, 読んどいて) with friends, and I write 〜ておく in polite speech.",
+    "I can build a long description before a noun, with が for its subject, without looking: きのう友だちが作った料理.",
+    "I can take apart a sentence with two layers of description: ★ predicate → core noun → a bracket for each layer.",
+    "I can move a time word so it clearly belongs to the description or to the whole sentence.",
+    "I did the homework, checked it against the answer key and redid what I got wrong.",
+    "If I have the Genki II Workbook: I did the exercises on 〜ておく and on using sentences to qualify nouns."
+  ]
+}

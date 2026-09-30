@@ -2,190 +2,190 @@
   "id": "13-2",
   "unit": "G2-L13",
   "genki": { "book": "Genki II", "lesson": 13, "points": ["〜し", "〜そうです (It looks like…)"] },
-  "title": "E além disso · parece",
+  "title": "And besides · looks like",
   "titleJp": "おいしそうだし、安いし",
   "canDo": [
-    "Dar duas ou mais razões numa frase só com 〜し〜し e pôr a conclusão no fim: この店は安いし、料理もおいしいし、よく来ます。",
-    "Montar o 〜し com a forma curta certa para cada tipo de palavra, sem esquecer o だ dos substantivos e adjetivos な: 日曜日だし, しずかだし.",
-    "Dizer como algo parece, pelo que eu vejo, com 〜そうです: おいしそう, たいへんそう, 元気そう, e as irregulares よさそう e なさそう.",
-    "Avisar que algo parece que vai acontecer com radical do verbo + そう: 雨がふりそうです。",
-    "Separar o そう de aparência desta aula do そうです de boato (\"dizem que…\"), que chega na Lição 17: おいしそうです × おいしいそうです."
+    "I can give two or more reasons in a single sentence with 〜し〜し and put the conclusion at the end: この店は安いし、料理もおいしいし、よく来ます。",
+    "I can build 〜し with the right short form for each kind of word, without forgetting the だ of nouns and な-adjectives: 日曜日だし, しずかだし.",
+    "I can say how something looks, from what I see, with 〜そうです: おいしそう, たいへんそう, 元気そう, and the irregular よさそう and なさそう.",
+    "I can warn that something looks like it is about to happen with verb stem + そう: 雨がふりそうです。",
+    "I can tell the appearance そう of this lesson apart from the hearsay そうです (\"I heard that…\"), which comes in Lesson 17: おいしそうです × おいしいそうです."
   ],
   "duration": {
     "total": "60–75 min",
     "blocks": [
-      { "t": "Aquecimento: diga em voz alta a forma curta (afirmativa e negativa, presente e passado) de 2 verbos, 2 adjetivos い, 2 adjetivos な e 2 substantivos (Aulas 08-1 e 09-1)", "min": 5 },
-      { "t": "Vocabulário: ouvir 🔊 cada palavra e repetir 2 vezes", "min": 10 },
-      { "t": "Gramática: os 2 pontos, cada um com os exemplos lidos em voz alta e um 🔬", "min": 25 },
-      { "t": "Vídeo (bloco 6), só a parte de 〜し e de 〜そう", "min": 10 },
-      { "t": "Lição de casa no caderno + conferir no gabarito", "min": 15 },
-      { "t": "Checklist (bloco 10) + anotar dúvidas no caderno da aula", "min": 5 }
+      { "t": "Warm-up: say out loud the short forms (affirmative and negative, present and past) of 2 verbs, 2 い-adjectives, 2 な-adjectives and 2 nouns (lessons 08-1 and 09-1)", "min": 5 },
+      { "t": "Vocabulary: tap 🔊 on each word and repeat it twice", "min": 10 },
+      { "t": "Grammar: the 2 points, each with its examples read aloud and one 🔬", "min": 25 },
+      { "t": "Video (block 6), only the parts on 〜し and 〜そう", "min": 10 },
+      { "t": "Notebook homework + checking it against the answer key", "min": 15 },
+      { "t": "Checklist (block 10) + write your questions in the lesson notebook", "min": 5 }
     ]
   },
   "prereqs": {
     "aulas": ["13-1"],
     "skills": [
-      "Forma curta de verbos, adjetivos e substantivos, no presente e no passado (Aulas 08-1 e 09-1). O 〜し sai direto dela.",
-      "Dar um motivo com 〜から e 〜ので (Aulas 06-4, 09-3 e 12-2). O 〜し é o jeito de dar mais de um.",
-      "Radical do ます, a forma ます sem o ます (行き, 食べ, ふり), que você usou em 〜に行く (Aula 07-3) e 〜たい (Aula 11-1). Ele é a base do 〜そう com verbos.",
-      "Adjetivos い e な, e o negativo irregular いい → よくない (Aula 05-1)."
+      "Short forms of verbs, adjectives and nouns, in the present and the past (lessons 08-1 and 09-1). 〜し is built straight from them.",
+      "Giving a reason with 〜から and 〜ので (lessons 06-4, 09-3 and 12-2). 〜し is the way to give more than one.",
+      "The ます stem, that is, the ます form without ます (行き, 食べ, ふり), which you used in 〜に行く (lesson 07-3) and 〜たい (lesson 11-1). It is the base of 〜そう with verbs.",
+      "い- and な-adjectives, and the irregular negative いい → よくない (lesson 05-1)."
     ],
     "vocab": [
-      { "jp": "〜し", "kana": "〜し", "romaji": "-shi", "pt": "e além disso (liga razões; vem depois da forma curta)" },
-      { "jp": "〜そう", "kana": "〜そう", "romaji": "-sō", "pt": "parece… (pela aparência, pelo que se vê)" },
-      { "jp": "安い", "kana": "やすい", "romaji": "yasui", "pt": "barato" },
-      { "jp": "近い", "kana": "ちかい", "romaji": "chikai", "pt": "perto (駅から近い = perto da estação)" },
-      { "jp": "広い", "kana": "ひろい", "romaji": "hiroi", "pt": "espaçoso, amplo" },
-      { "jp": "へや", "kana": "へや", "romaji": "heya", "pt": "quarto, cômodo" },
-      { "jp": "アパート", "kana": "アパート", "romaji": "apāto", "pt": "apartamento (em prédio baixo, de aluguel)" },
-      { "jp": "親切（な）", "kana": "しんせつ（な）", "romaji": "shinsetsu (na)", "pt": "gentil, prestativo" },
-      { "jp": "やさしい", "kana": "やさしい", "romaji": "yasashii", "pt": "gentil, bondoso (pessoa); fácil" },
-      { "jp": "たいへん（な）", "kana": "たいへん（な）", "romaji": "taihen (na)", "pt": "puxado, trabalhoso, difícil" },
-      { "jp": "ひま（な）", "kana": "ひま（な）", "romaji": "hima (na)", "pt": "desocupado, com tempo livre" },
-      { "jp": "べんり（な）", "kana": "べんり（な）", "romaji": "benri (na)", "pt": "prático, conveniente" },
-      { "jp": "ねむい", "kana": "ねむい", "romaji": "nemui", "pt": "com sono" },
-      { "jp": "からい", "kana": "からい", "romaji": "karai", "pt": "picante, apimentado" },
-      { "jp": "ふる", "kana": "ふる", "romaji": "furu", "pt": "cair (chuva, neve): 雨がふる = chover" },
-      { "jp": "おちる", "kana": "おちる", "romaji": "ochiru", "pt": "cair (de um lugar alto): コップがおちる" },
-      { "jp": "かさ", "kana": "かさ", "romaji": "kasa", "pt": "guarda-chuva" },
-      { "jp": "持って行く", "kana": "もっていく", "romaji": "motte iku", "pt": "levar (algo junto)" },
-      { "jp": "テスト", "kana": "テスト", "romaji": "tesuto", "pt": "prova, teste" },
-      { "jp": "きゅうりょう", "kana": "きゅうりょう", "romaji": "kyūryō", "pt": "salário" },
-      { "jp": "やめる", "kana": "やめる", "romaji": "yameru", "pt": "parar, largar (um emprego, um hábito)" },
-      { "jp": "人気がある", "kana": "にんきがある", "romaji": "ninki ga aru", "pt": "ser popular, fazer sucesso" },
-      { "jp": "つかれる", "kana": "つかれる", "romaji": "tsukareru", "pt": "cansar-se (つかれている = estar cansado)" },
-      { "jp": "写真", "kana": "しゃしん", "romaji": "shashin", "pt": "foto" }
+      { "jp": "〜し", "kana": "〜し", "romaji": "-shi", "en": "and besides, and what's more (links reasons; comes after the short form)" },
+      { "jp": "〜そう", "kana": "〜そう", "romaji": "-sō", "en": "looks…, seems… (from appearance, from what you see)" },
+      { "jp": "安い", "kana": "やすい", "romaji": "yasui", "en": "cheap, inexpensive" },
+      { "jp": "近い", "kana": "ちかい", "romaji": "chikai", "en": "near, close (駅から近い = close to the station)" },
+      { "jp": "広い", "kana": "ひろい", "romaji": "hiroi", "en": "spacious, wide" },
+      { "jp": "へや", "kana": "へや", "romaji": "heya", "en": "room" },
+      { "jp": "アパート", "kana": "アパート", "romaji": "apāto", "en": "apartment (in a low-rise rental building)" },
+      { "jp": "親切（な）", "kana": "しんせつ（な）", "romaji": "shinsetsu (na)", "en": "kind, helpful" },
+      { "jp": "やさしい", "kana": "やさしい", "romaji": "yasashii", "en": "kind, gentle (a person); easy" },
+      { "jp": "たいへん（な）", "kana": "たいへん（な）", "romaji": "taihen (na)", "en": "tough, hard, demanding" },
+      { "jp": "ひま（な）", "kana": "ひま（な）", "romaji": "hima (na)", "en": "free, not busy" },
+      { "jp": "べんり（な）", "kana": "べんり（な）", "romaji": "benri (na)", "en": "convenient, handy" },
+      { "jp": "ねむい", "kana": "ねむい", "romaji": "nemui", "en": "sleepy" },
+      { "jp": "からい", "kana": "からい", "romaji": "karai", "en": "spicy, hot" },
+      { "jp": "ふる", "kana": "ふる", "romaji": "furu", "en": "to fall (rain, snow): 雨がふる = to rain" },
+      { "jp": "おちる", "kana": "おちる", "romaji": "ochiru", "en": "to fall, drop (from a high place): コップがおちる" },
+      { "jp": "かさ", "kana": "かさ", "romaji": "kasa", "en": "umbrella" },
+      { "jp": "持って行く", "kana": "もっていく", "romaji": "motte iku", "en": "to take (something) along" },
+      { "jp": "テスト", "kana": "テスト", "romaji": "tesuto", "en": "test, exam" },
+      { "jp": "きゅうりょう", "kana": "きゅうりょう", "romaji": "kyūryō", "en": "salary, pay" },
+      { "jp": "やめる", "kana": "やめる", "romaji": "yameru", "en": "to quit, stop (a job, a habit)" },
+      { "jp": "人気がある", "kana": "にんきがある", "romaji": "ninki ga aru", "en": "to be popular" },
+      { "jp": "つかれる", "kana": "つかれる", "romaji": "tsukareru", "en": "to get tired (つかれている = to be tired)" },
+      { "jp": "写真", "kana": "しゃしん", "romaji": "shashin", "en": "photo, picture" }
     ]
   },
   "grammar": [
     {
       "id": "13-2-a",
       "gc": null,
-      "title": "〜し〜し: razões acumuladas",
-      "gloss": "\"…e além disso…\" (empilhar razões)",
-      "explanation": "〜し serve para **juntar razões**: \"é barato, e além disso a comida é boa, então…\". Você lista duas razões (ou mais), cada uma terminando em **し**, e no fim vem a **conclusão**. O し traz a ideia de \"e tem mais\": ele sugere que essas não são as únicas razões.\n• **Forma**: forma curta + し. É a mesma forma curta das Aulas 08-1 e 09-1.\n• Verbo: ある → あるし; ない → ないし; 行った → 行ったし.\n• Adjetivo い: 安い → 安いし; 安くない → 安くないし; いい → いいし.\n• Adjetivo な e substantivo: no presente afirmativo entra **だ**. しずかだし; 日曜日だし. Nas outras formas, é a forma curta normal: しずかじゃないし; 休みだったし.\n• **A conclusão vem no fim**, e é ela quem decide se a frase é educada: 安いし、おいしいし、よく来ます。 As razões com し ficam na forma curta mesmo numa frase com ます. Em conversas bem formais você também vai ouvir ですし e ますし.\n• A conclusão pode **ficar no ar**. Numa recusa, é comum parar depois das razões: あしたはテストがあるし、お金もないし… E o outro entende o \"não\". É o mesmo espírito do ちょっと… da Aula 03-3.\n• É muito comum usar **も** nas razões: 料理**も**おいしいし (\"a comida também é boa\"). O も reforça a ideia de \"mais uma razão\".\n• **し × から**: から dá **o** motivo, direto. し empilha motivos e deixa no ar que existem outros. Até uma razão só com し (時間もないし…) soa como \"entre outras coisas\".\n• Na frase, cada bloco com し é uma **razão**, e o **PREDICADO** é a conclusão, no fim. Leia pelo fim: \"venho sempre\" → por quê? → é barato, e a comida também é boa.",
-      "structure": "[razão 1 em forma curta] し、[razão 2] し、[conclusão]。 · substantivo / adj. な + だし",
+      "title": "〜し〜し: stacking reasons",
+      "gloss": "\"…and besides…\" (piling up reasons)",
+      "explanation": "〜し is for **stacking reasons**: \"it's cheap, and besides, the food is good, so…\". You list two reasons (or more), each ending in **し**, and the **conclusion** comes at the end. し carries a sense of \"and there's more\": it suggests these are not the only reasons.\n• **Form**: short form + し. It is the same short form as in lessons 08-1 and 09-1.\n• Verbs: ある → あるし; ない → ないし; 行った → 行ったし.\n• い-adjectives: 安い → 安いし; 安くない → 安くないし; いい → いいし.\n• な-adjectives and nouns: in the present affirmative, **だ** comes in. しずかだし; 日曜日だし. In the other forms, it is the normal short form: しずかじゃないし; 休みだったし.\n• **The conclusion goes at the end**, and it decides whether the sentence is polite: 安いし、おいしいし、よく来ます。 The reasons with し stay in the short form even in a sentence with ます. In very formal conversation you will also hear ですし and ますし.\n• In English you can put the conclusion first (\"I come here often because…\"). In Japanese, the reasons come first and the conclusion always comes last.\n• The conclusion can be **left unsaid**. When turning something down, it is common to stop after the reasons: あしたはテストがあるし、お金もないし… and the other person understands the \"no\". It is the same spirit as the ちょっと… of lesson 03-3.\n• **も** is very common in the reasons: 料理**も**おいしいし (\"the food is good, too\"). も reinforces the idea of \"one more reason\".\n• **し × から**: から gives **the** reason, directly. し stacks reasons and hints that there are others. Even a single reason with し (時間もないし…) sounds like \"among other things\".\n• In the sentence, each block with し is a **reason**, and the **PREDICATE** is the conclusion, at the end. Read from the end: \"I come here often\" → why? → it's cheap, and the food is good too.",
+      "structure": "[reason 1 in short form] し、[reason 2] し、[conclusion]。 · noun / な-adj. + だし",
       "examples": [
-        { "jp": "この店は安いし、料理もおいしいし、よく来ます。", "kana": "このみせはやすいし、りょうりもおいしいし、よくきます。", "romaji": "Kono mise wa yasui shi, ryōri mo oishii shi, yoku kimasu.", "pt": "Este restaurante é barato, e a comida também é boa, então venho sempre." },
-        { "jp": "今日は日曜日だし、天気がいいし、海に行きましょう。", "kana": "きょうはにちようびだし、てんきがいいし、うみにいきましょう。", "romaji": "Kyō wa nichiyōbi da shi, tenki ga ii shi, umi ni ikimashō.", "pt": "Hoje é domingo, e o tempo está bom: vamos à praia!" },
-        { "jp": "今日、飲みに行かない？— うーん、あしたはテストがあるし、お金もないし…", "kana": "きょう、のみにいかない？— うーん、あしたはテストがあるし、おかねもないし…", "romaji": "Kyō, nomi ni ikanai? — Ūn, ashita wa tesuto ga aru shi, okane mo nai shi…", "pt": "Vamos sair para beber hoje? — Hmm, amanhã tenho prova, e também estou sem dinheiro… (= não vai dar)" }
+        { "jp": "この店は安いし、料理もおいしいし、よく来ます。", "kana": "このみせはやすいし、りょうりもおいしいし、よくきます。", "romaji": "Kono mise wa yasui shi, ryōri mo oishii shi, yoku kimasu.", "en": "This restaurant is cheap, and the food is good too, so I come here often." },
+        { "jp": "今日は日曜日だし、天気がいいし、海に行きましょう。", "kana": "きょうはにちようびだし、てんきがいいし、うみにいきましょう。", "romaji": "Kyō wa nichiyōbi da shi, tenki ga ii shi, umi ni ikimashō.", "en": "It's Sunday today, and the weather is nice, so let's go to the beach!" },
+        { "jp": "今日、飲みに行かない？— うーん、あしたはテストがあるし、お金もないし…", "kana": "きょう、のみにいかない？— うーん、あしたはテストがあるし、おかねもないし…", "romaji": "Kyō, nomi ni ikanai? — Ūn, ashita wa tesuto ga aru shi, okane mo nai shi…", "en": "Want to go out for a drink today? — Hmm, I have a test tomorrow, and I don't have any money either…" }
       ],
       "pitfalls": [
-        "Substantivo e adjetivo な precisam do だ: しずかし ✗ → しずかだし ✓; 日曜日し ✗ → 日曜日だし ✓.",
-        "Adjetivo い não leva だ: 安いだし ✗ → 安いし ✓.",
-        "Antes do し vem a forma inteira, que poderia fechar a frase sozinha, nunca o radical do ます: 行きし ✗ → 行くし ✓ (ou 行きますし, bem formal).",
-        "し liga frases inteiras (razões, qualidades), não substantivos soltos. \"Pão e leite\" continua sendo パンとぎゅうにゅう (Aula 04-3): パンしぎゅうにゅう ✗."
+        "Nouns and な-adjectives need だ: しずかし ✗ → しずかだし ✓; 日曜日し ✗ → 日曜日だし ✓.",
+        "い-adjectives don't take だ: 安いだし ✗ → 安いし ✓.",
+        "Before し comes a complete form that could end a sentence on its own, never the ます stem: 行きし ✗ → 行くし ✓ (or 行きますし, very formal).",
+        "し links whole clauses (reasons, qualities), not bare nouns the way English \"and\" does. \"Bread and milk\" is still パンとぎゅうにゅう (lesson 04-3): パンしぎゅうにゅう ✗."
       ],
       "howToStudy": [
-        "Pense numa coisa de que você gosta (um lugar, uma comida, um jogo) e diga em voz alta 3 frases com duas razões cada: 〜し、〜し、好きです。 Pelo menos uma razão deve ser com substantivo ou adjetivo な + だし.",
-        "Aperte 🔬 no exemplo 2. Cada razão (日曜日だし, いいし) vira um bloco próprio antes do PREDICADO 行きましょう, que é a conclusão, um convite. O 🔬 ainda não tem uma etiqueta para し e marca esses blocos como SEM PARTÍCULA: leia-os como MOTIVOS. Repare que 天気が é o SUJEITO de いいし.",
-        "Recuse em voz alta 3 convites imaginários do jeito japonês, só com as razões e sem dizer \"não\": あしたは仕事があるし、ちょっとつかれているし…"
+        "Think of something you like (a place, a food, a game) and say out loud 3 sentences with two reasons each: 〜し、〜し、好きです。 At least one reason should be a noun or a な-adjective + だし.",
+        "Tap 🔬 on example 2. Each reason (日曜日だし, いいし) becomes its own block before the PREDICATE 行きましょう, which is the conclusion, an invitation. 🔬 doesn't have a label for し yet and marks those blocks as NO PARTICLE: read them as REASONS. Notice that 天気が is the SUBJECT of いいし.",
+        "Turn down 3 imaginary invitations out loud, the Japanese way, giving only the reasons and never saying \"no\": あしたは仕事があるし、ちょっとつかれているし…"
       ],
       "flag": null
     },
     {
       "id": "13-2-b",
       "gc": null,
-      "title": "〜そうです: parece (aparência)",
+      "title": "〜そうです: looks like (appearance)",
       "gloss": "おいしそう, よさそう, 雨がふりそう",
-      "explanation": "〜そうです diz como uma coisa **parece**, pelo que você está vendo (ou sentindo) agora: \"parece gostoso\", \"parece puxado\", \"parece que vai chover\". É um **palpite pela aparência**, antes de você confirmar. Depois de provar o bolo, você já não diz おいしそう: diz おいしい！\n• **Adjetivo い**: tire o い e ponha そう. おいし|い → おいしそう; ねむい → ねむそう; からい → からそう.\n• **Adjetivo な**: a palavra + そう, sem な. 元気そう; たいへんそう; ひまそう; べんりそう.\n• **Duas irregulares**: **いい → よさそう** e **ない → なさそう**. Vale também quando ない fecha uma expressão: 時間がない → 時間がなさそう.\n• **Negativo** dos adjetivos: おいしくない → おいしくなさそう (não parece gostoso); ひまじゃない → ひまじゃなさそう.\n• **Verbos**: radical do ます + そう = \"parece que vai…\", uma previsão pelo que você vê. ふります → **ふりそう** (雨がふりそう: o céu está escuro); おちます → **おちそう** (a coisa está na beirada).\n• **Sentimentos dos outros**: você não sente o que o outro sente, então descreve pela cara dele: うれしそう (parece feliz), さびしそう (parece triste, sozinho), ねむそう… Isso é muito comum.\n• O 〜そう **se comporta como adjetivo な**: おいしそう**です** no fim da frase; おいしそう**な**ケーキ antes de substantivo; おいしそう**に**食べる (come com cara de quem está gostando). No passado: おいしそうでした (parecia gostoso).\n• Na frase, [palavra + そう] + です é o **PREDICADO**. Com な, vira um bloco que DESCREVE O PRÓXIMO: やさしそうな | 人.\n\n**Atenção: não é o そうです de boato.** Na Lição 17 (Aula 17-1) vem outro そうです, que quer dizer \"**dizem que…**\" e vem depois da **forma curta completa**: おいしいそうです = \"dizem que é gostoso\" (me contaram). Aqui, a palavra vem **cortada**: おいしそうです = \"parece gostoso\" (estou vendo). Um い a mais muda tudo. O mesmo com な: 元気そうです (parece bem) × 元気だそうです (dizem que está bem).",
-      "structure": "[adj. い sem い] そう · [adj. な] そう · いい → よさそう · ない → なさそう · [radical do verbo] そう · 〜そうな + N",
+      "explanation": "〜そうです says how something **looks**, from what you see (or sense) right now: \"looks delicious\", \"looks tough\", \"looks like it's going to rain\". It is a **guess from appearance**, before you confirm. Once you have tasted the cake, you no longer say おいしそう: you say おいしい！\n• **い-adjectives**: drop い and add そう. おいし|い → おいしそう; ねむい → ねむそう; からい → からそう.\n• **な-adjectives**: the word + そう, without な. 元気そう; たいへんそう; ひまそう; べんりそう.\n• **Two irregulars**: **いい → よさそう** and **ない → なさそう**. This also applies when ない ends a phrase: 時間がない → 時間がなさそう.\n• **Negative** adjectives: おいしくない → おいしくなさそう (doesn't look tasty); ひまじゃない → ひまじゃなさそう.\n• **Verbs**: ます stem + そう = \"looks like it's going to…\", a prediction from what you see. ふります → **ふりそう** (雨がふりそう: the sky is dark); おちます → **おちそう** (the thing is right on the edge).\n• **Other people's feelings**: you can't feel what someone else feels, so you describe it from their face: うれしそう (looks happy), さびしそう (looks sad, lonely), ねむそう… This is very common.\n• 〜そう **behaves like a な-adjective**: おいしそう**です** at the end of a sentence; おいしそう**な**ケーキ before a noun; おいしそう**に**食べる (eats with obvious enjoyment). In the past: おいしそうでした (it looked delicious).\n• In the sentence, [word + そう] + です is the **PREDICATE**. With な, it becomes a block that DESCRIBES NEXT: やさしそうな | 人.\n\n**Careful: this is not the hearsay そうです.** Genki Lesson 17 (lesson 17-1 of this course) brings another そうです, which means \"**I heard that…**\" and comes after the **complete short form**: おいしいそうです = \"I heard it's delicious\" (someone told me). Here, the word is **cut**: おいしそうです = \"it looks delicious\" (I can see it). One extra い changes everything. The same goes for な: 元気そうです (looks well) × 元気だそうです (I heard they're well).",
+      "structure": "[い-adj. minus い] そう · [な-adj.] そう · いい → よさそう · ない → なさそう · [verb stem] そう · 〜そうな + N",
       "examples": [
-        { "jp": "わあ、このケーキ、おいしそう！", "kana": "わあ、このケーキ、おいしそう！", "romaji": "Wā, kono kēki, oishisō!", "pt": "Nossa, este bolo parece uma delícia!" },
-        { "jp": "新しい店長はやさしそうな人ですね。— ええ、ほんとうにやさしいですよ。", "kana": "あたらしいてんちょうはやさしそうなひとですね。— ええ、ほんとうにやさしいですよ。", "romaji": "Atarashii tenchō wa yasashisō na hito desu ne. — Ē, hontō ni yasashii desu yo.", "pt": "O novo gerente parece uma pessoa gentil, né? — É, ele é gentil mesmo." },
-        { "jp": "あ、雨がふりそうですね。かさを持って行きましょう。", "kana": "あ、あめがふりそうですね。かさをもっていきましょう。", "romaji": "A, ame ga furisō desu ne. Kasa o motte ikimashō.", "pt": "Ih, parece que vai chover. Vamos levar guarda-chuva." }
+        { "jp": "わあ、このケーキ、おいしそう！", "kana": "わあ、このケーキ、おいしそう！", "romaji": "Wā, kono kēki, oishisō!", "en": "Wow, this cake looks delicious!" },
+        { "jp": "新しい店長はやさしそうな人ですね。— ええ、ほんとうにやさしいですよ。", "kana": "あたらしいてんちょうはやさしそうなひとですね。— ええ、ほんとうにやさしいですよ。", "romaji": "Atarashii tenchō wa yasashisō na hito desu ne. — Ē, hontō ni yasashii desu yo.", "en": "The new manager seems like a kind person, right? — Yes, they really are kind." },
+        { "jp": "あ、雨がふりそうですね。かさを持って行きましょう。", "kana": "あ、あめがふりそうですね。かさをもっていきましょう。", "romaji": "A, ame ga furisō desu ne. Kasa o motte ikimashō.", "en": "Oh, it looks like it's going to rain. Let's take umbrellas." }
       ],
       "pitfalls": [
-        "Não confunda com o boato da Aula 17-1: おいしそうです = parece gostoso (estou vendo) × おいしいそうです = dizem que é gostoso (me contaram). Para \"parece\", a palavra vem cortada: おいしいそう ✗ → おいしそう ✓.",
-        "いい e ない são irregulares: いそう ✗ → よさそう ✓; なそう ✗ → なさそう ✓ (時間がなさそう).",
-        "かわいそう não é \"parece fofo\": é outra palavra, \"coitado, que dó\". Para algo que você vê que é fofo, diga かわいい！ ✓. Com o que se vê de cara (きれい, as cores), em geral não se usa そう: olhando para a flor na sua frente, きれいそうですね ✗ → きれいですね ✓.",
-        "Não use com substantivo: 学生そう ✗. Para \"parece (ser) estudante\" existe 〜みたい, que chega na Aula 17-3: 学生みたい ✓."
+        "Don't confuse it with the hearsay of lesson 17-1: おいしそうです = it looks delicious (I can see it) × おいしいそうです = I heard it's delicious (someone told me). For \"looks\", the word is cut: おいしいそう ✗ → おいしそう ✓.",
+        "いい and ない are irregular: いそう ✗ → よさそう ✓; なそう ✗ → なさそう ✓ (時間がなさそう).",
+        "かわいそう does not mean \"looks cute\": it is a different word, \"poor thing, what a pity\". For something you can see is cute, say かわいい！ ✓. With qualities that are obvious at a glance (きれい, colors), そう is generally not used: looking at the flower in front of you, きれいそうですね ✗ → きれいですね ✓.",
+        "English says \"looks like a student\" with the same word \"look\", but そう doesn't attach to nouns: 学生そう ✗. For \"seems to be a student\" there is 〜みたい, which comes in lesson 17-3: 学生みたい ✓."
       ],
       "howToStudy": [
-        "Faça uma tabela no caderno com 10 palavras (4 adjetivos い, 3 adjetivos な, いい, ない e 2 verbos) e escreva a forma com そう ao lado. Leia em voz alta e marque com cor よさそう e なさそう.",
-        "Aperte 🔬 no exemplo 2. やさしそうな aparece como DESCREVE O PRÓXIMO, preso a 人, e 人ですね é o PREDICADO. Na resposta, o PREDICADO やさしいですよ já não tem そう: agora é certeza, não palpite.",
-        "Abra fotos no celular (comida, lugares, pessoas) e comente cada uma em voz alta com そう: おいしそう！, 高そう…, ねむそう… Quando vir o céu cinza, diga 雨がふりそうですね。"
+        "Make a table in your notebook with 10 words (4 い-adjectives, 3 な-adjectives, いい, ない and 2 verbs) and write the そう form next to each one. Read it aloud and highlight よさそう and なさそう in color.",
+        "Tap 🔬 on example 2. やさしそうな shows up as DESCRIBES NEXT, attached to 人, and 人ですね is the PREDICATE. In the answer, the PREDICATE やさしいですよ has no そう: now it is a certainty, not a guess.",
+        "Open photos on your phone (food, places, people) and comment on each one out loud with そう: おいしそう！, 高そう…, ねむそう… When you see a gray sky, say 雨がふりそうですね。"
       ],
-      "flag": "Confira no seu Genki II se este ponto traz também o そう com verbos (ふりそう, おちそう). É o mesmo そう e é gramática padrão; se o seu livro só apresentar os adjetivos nesta lição, trate a parte dos verbos como bônus."
+      "flag": "Check whether your Genki II also covers そう with verbs (ふりそう, おちそう) in this point. It is the same そう and standard grammar; if your book only presents the adjectives in this lesson, treat the verb part as a bonus."
     }
   ],
   "media": [
-    { "order": 1, "kind": "leitura", "title": "Genki II · Lição 13: as explicações de gramática 〜し e 〜そうです (It looks like…)", "where": "Seu livro Genki II (3ª ed.)", "url": "", "when": "Antes desta aula ou logo depois do bloco de gramática. O potencial ficou na Aula 13-1, e os outros pontos da lição vêm na Aula 13-3." },
-    { "order": 2, "kind": "video", "title": "Game Gengo: 〜そう, \"parece\" (aparência)", "where": "YouTube · canal Game Gengo", "url": "", "search": "Game Gengo そう looks like N4 grammar", "when": "Depois do ponto b, para ver mais exemplos de そう com adjetivos e verbos. Se o vídeo falar do そうです de boato, deixe essa parte para a Aula 17-1." }
+    { "order": 1, "kind": "reading", "title": "Genki II · Lesson 13: the grammar notes 〜し and 〜そうです (It looks like…)", "where": "Your Genki II textbook (3rd ed.)", "url": "", "when": "Before this lesson or right after the grammar block. The potential was covered in lesson 13-1, and the lesson's other points come in lesson 13-3." },
+    { "order": 2, "kind": "video", "title": "Game Gengo: 〜そう, \"looks like\" (appearance)", "where": "YouTube · Game Gengo channel", "url": "", "search": "Game Gengo そう looks like N4 grammar", "when": "After point b, to see more examples of そう with adjectives and verbs. If the video also covers the hearsay そうです, leave that part for lesson 17-1." }
   ],
   "homework": {
-    "intro": "Faça no caderno, à mão. Escreva com os kanji que você já conhece e em kana o resto. Só depois abra o gabarito, item por item. Circule o que errou e refaça no dia seguinte. Se você tiver o Genki II Workbook, faça também os exercícios desta lição.",
+    "intro": "Do it by hand in your notebook. Write the kanji you already know and the rest in kana. Only then open the answer key, item by item. Circle what you got wrong and redo it the next day. If you have the Genki II Workbook, do this lesson's exercises too.",
     "tasks": [
       {
         "id": "h1",
-        "type": "transformar",
-        "prompt": "Diga como parece, com 〜そうです. Antes de escrever, veja o tipo da palavra: adjetivo い, adjetivo な, verbo ou uma das irregulares.",
+        "type": "transform",
+        "prompt": "Say how it looks, with 〜そうです. Before writing, check the kind of word: い-adjective, な-adjective, verb, or one of the irregulars.",
         "items": [
-          { "q": "おいしい", "a": { "jp": "おいしそうです", "romaji": "oishisō desu" }, "note": "Adjetivo い: tira o い e põe そう." },
-          { "q": "たいへん（な）", "a": { "jp": "たいへんそうです", "romaji": "taihensō desu" }, "note": "Adjetivo な: a palavra + そう, sem な." },
+          { "q": "おいしい", "a": { "jp": "おいしそうです", "romaji": "oishisō desu" }, "note": "い-adjective: drop い and add そう." },
+          { "q": "たいへん（な）", "a": { "jp": "たいへんそうです", "romaji": "taihensō desu" }, "note": "な-adjective: the word + そう, without な." },
           { "q": "いい", "a": { "jp": "よさそうです", "romaji": "yosasō desu" }, "note": "Irregular: いい → よさそう." },
           { "q": "時間がない", "a": { "jp": "時間がなさそうです", "kana": "じかんがなさそうです", "romaji": "jikan ga nasasō desu" }, "note": "Irregular: ない → なさそう." },
-          { "q": "雨がふる", "a": { "jp": "雨がふりそうです", "kana": "あめがふりそうです", "romaji": "ame ga furisō desu" }, "note": "Verbo: radical do ます (ふります → ふり) + そう = parece que vai chover." },
-          { "q": "元気（な）", "a": { "jp": "元気そうです", "kana": "げんきそうです", "romaji": "genkisō desu" }, "note": "Parece bem. Não confunda com 元気だそうです, \"dizem que está bem\" (boato, Aula 17-1)." }
+          { "q": "雨がふる", "a": { "jp": "雨がふりそうです", "kana": "あめがふりそうです", "romaji": "ame ga furisō desu" }, "note": "Verb: ます stem (ふります → ふり) + そう = it looks like it's going to rain." },
+          { "q": "元気（な）", "a": { "jp": "元気そうです", "kana": "げんきそうです", "romaji": "genkisō desu" }, "note": "Looks well. Don't confuse it with 元気だそうです, \"I heard they're well\" (hearsay, lesson 17-1)." }
         ]
       },
       {
         "id": "h2",
-        "type": "juntar",
-        "prompt": "Junte as duas razões com 〜し e escreva a frase inteira, com a conclusão no fim. Use も na segunda razão quando soar natural.",
+        "type": "combine",
+        "prompt": "Join the two reasons with 〜し and write the whole sentence, with the conclusion at the end. Use も in the second reason when it sounds natural.",
         "items": [
-          { "q": "駅から近い ＋ へやが広い → このアパートがいいです。", "a": { "jp": "駅から近いし、へやも広いし、このアパートがいいです。", "kana": "えきからちかいし、へやもひろいし、このアパートがいいです。", "romaji": "Eki kara chikai shi, heya mo hiroi shi, kono apāto ga ii desu." }, "note": "Adjetivo い: direto + し. へやが広い também está certo; o も reforça \"mais uma razão\"." },
-          { "q": "今日は休み（substantivo） ＋ 天気がいい → こうえんに行きませんか。", "a": { "jp": "今日は休みだし、天気もいいし、こうえんに行きませんか。", "kana": "きょうはやすみだし、てんきもいいし、こうえんにいきませんか。", "romaji": "Kyō wa yasumi da shi, tenki mo ii shi, kōen ni ikimasen ka." }, "note": "休み é substantivo: 休みだし." },
-          { "q": "田中さん: 親切（な） ＋ おもしろい → みんなに人気があります。", "a": { "jp": "田中さんは親切だし、おもしろいし、みんなに人気があります。", "kana": "たなかさんはしんせつだし、おもしろいし、みんなににんきがあります。", "romaji": "Tanaka-san wa shinsetsu da shi, omoshiroi shi, minna ni ninki ga arimasu." }, "note": "親切 é adjetivo な: 親切だし. Aqui o し lista qualidades que explicam o sucesso." },
-          { "q": "(recusando um convite) きのうあまりねなかった ＋ あたまがいたい → 今日は…", "a": { "jp": "きのうあまりねなかったし、あたまもいたいし、今日は…", "kana": "きのうあまりねなかったし、あたまもいたいし、きょうは…", "romaji": "Kinō amari nenakatta shi, atama mo itai shi, kyō wa…" }, "note": "Passado negativo na forma curta: ねなかったし. A conclusão ficou no ar: é uma recusa educada." },
-          { "q": "この仕事: きゅうりょうがよくない ＋ たいへん（な） → やめたいです。", "a": { "jp": "この仕事はきゅうりょうもよくないし、たいへんだし、やめたいです。", "kana": "このしごとはきゅうりょうもよくないし、たいへんだし、やめたいです。", "romaji": "Kono shigoto wa kyūryō mo yokunai shi, taihen da shi, yametai desu." }, "note": "Negativo de いい: よくないし. たいへん é な: たいへんだし." }
+          { "q": "駅から近い ＋ へやが広い → このアパートがいいです。", "a": { "jp": "駅から近いし、へやも広いし、このアパートがいいです。", "kana": "えきからちかいし、へやもひろいし、このアパートがいいです。", "romaji": "Eki kara chikai shi, heya mo hiroi shi, kono apāto ga ii desu." }, "note": "い-adjective: straight + し. へやが広い is also correct; も reinforces \"one more reason\"." },
+          { "q": "今日は休み (noun) ＋ 天気がいい → こうえんに行きませんか。", "a": { "jp": "今日は休みだし、天気もいいし、こうえんに行きませんか。", "kana": "きょうはやすみだし、てんきもいいし、こうえんにいきませんか。", "romaji": "Kyō wa yasumi da shi, tenki mo ii shi, kōen ni ikimasen ka." }, "note": "休み is a noun: 休みだし." },
+          { "q": "田中さん: 親切（な） ＋ おもしろい → みんなに人気があります。", "a": { "jp": "田中さんは親切だし、おもしろいし、みんなに人気があります。", "kana": "たなかさんはしんせつだし、おもしろいし、みんなににんきがあります。", "romaji": "Tanaka-san wa shinsetsu da shi, omoshiroi shi, minna ni ninki ga arimasu." }, "note": "親切 is a な-adjective: 親切だし. Here し lists qualities that explain the popularity." },
+          { "q": "(turning down an invitation) きのうあまりねなかった ＋ あたまがいたい → 今日は…", "a": { "jp": "きのうあまりねなかったし、あたまもいたいし、今日は…", "kana": "きのうあまりねなかったし、あたまもいたいし、きょうは…", "romaji": "Kinō amari nenakatta shi, atama mo itai shi, kyō wa…" }, "note": "Past negative in the short form: ねなかったし. The conclusion is left unsaid: it is a polite refusal." },
+          { "q": "この仕事: きゅうりょうがよくない ＋ たいへん（な） → やめたいです。", "a": { "jp": "この仕事はきゅうりょうもよくないし、たいへんだし、やめたいです。", "kana": "このしごとはきゅうりょうもよくないし、たいへんだし、やめたいです。", "romaji": "Kono shigoto wa kyūryō mo yokunai shi, taihen da shi, yametai desu." }, "note": "The negative of いい: よくないし. たいへん is a な-adjective: たいへんだし." }
         ]
       },
       {
         "id": "h3",
-        "type": "traduzir",
-        "prompt": "Traduza para o japonês. Nas frases com \"parece\", use 〜そう.",
+        "type": "translate",
+        "prompt": "Translate into Japanese. In the sentences with \"looks\", use 〜そう.",
         "items": [
-          { "q": "Este curry parece apimentado.", "a": { "jp": "このカレーはからそうです。", "romaji": "Kono karē wa karasō desu." } },
-          { "q": "A Maria parece estar com sono hoje.", "a": { "jp": "マリアさんは今日、ねむそうです。", "kana": "マリアさんはきょう、ねむそうです。", "romaji": "Maria-san wa kyō, nemusō desu." }, "note": "Sentimento ou estado de outra pessoa: descreva pela aparência, com そう." },
-          { "q": "Esta loja não parece cara.", "a": { "jp": "この店は高くなさそうです。", "kana": "このみせはたかくなさそうです。", "romaji": "Kono mise wa takakunasasō desu." }, "note": "Negativo: 高くない → 高くなさそう." },
-          { "q": "Comprei uma bolsa que parecia prática.", "a": { "jp": "べんりそうなかばんを買いました。", "kana": "べんりそうなかばんをかいました。", "romaji": "Benrisō na kaban o kaimashita." }, "note": "Antes de substantivo: 〜そうな." },
-          { "q": "Ih, este copo parece que vai cair!", "a": { "jp": "あ、このコップ、おちそうですよ。", "romaji": "A, kono koppu, ochisō desu yo." }, "note": "Verbo おちる: radical おち + そう." },
-          { "q": "Hoje não vou: estou cansado, e amanhã também tenho trabalho.", "a": { "jp": "今日はつかれているし、あしたも仕事があるし、行きません。", "kana": "きょうはつかれているし、あしたもしごとがあるし、いきません。", "romaji": "Kyō wa tsukarete iru shi, ashita mo shigoto ga aru shi, ikimasen." }, "note": "Em japonês, as razões vêm antes e a conclusão fica no fim, ao contrário da frase em português." }
+          { "q": "This curry looks spicy.", "a": { "jp": "このカレーはからそうです。", "romaji": "Kono karē wa karasō desu." } },
+          { "q": "Maria looks sleepy today.", "a": { "jp": "マリアさんは今日、ねむそうです。", "kana": "マリアさんはきょう、ねむそうです。", "romaji": "Maria-san wa kyō, nemusō desu." }, "note": "Another person's feeling or state: describe it from their appearance, with そう." },
+          { "q": "This store doesn't look expensive.", "a": { "jp": "この店は高くなさそうです。", "kana": "このみせはたかくなさそうです。", "romaji": "Kono mise wa takakunasasō desu." }, "note": "Negative: 高くない → 高くなさそう." },
+          { "q": "I bought a bag that looked handy.", "a": { "jp": "べんりそうなかばんを買いました。", "kana": "べんりそうなかばんをかいました。", "romaji": "Benrisō na kaban o kaimashita." }, "note": "Before a noun: 〜そうな." },
+          { "q": "Oh, this glass looks like it's going to fall!", "a": { "jp": "あ、このコップ、おちそうですよ。", "romaji": "A, kono koppu, ochisō desu yo." }, "note": "The verb おちる: stem おち + そう." },
+          { "q": "I'm not going today: I'm tired, and I have work tomorrow too.", "a": { "jp": "今日はつかれているし、あしたも仕事があるし、行きません。", "kana": "きょうはつかれているし、あしたもしごとがあるし、いきません。", "romaji": "Kyō wa tsukarete iru shi, ashita mo shigoto ga aru shi, ikimasen." }, "note": "In Japanese the reasons come first and the conclusion goes at the end: the opposite order of this English sentence." }
         ]
       },
       {
         "id": "h4",
-        "type": "produzir",
-        "prompt": "Mostre a um amigo japonês a foto de um lugar que você recomenda (um restaurante, uma padaria, uma praça). Escreva 4 ou 5 frases: 1 com duas razões em 〜し〜し, 1 com 〜そうな + substantivo, 1 com adjetivo + そうです e 1 com verbo + そう. Depois leia em voz alta e grave no celular.",
+        "type": "produce",
+        "prompt": "Show a Japanese friend a photo of a place you recommend (a restaurant, a bakery, a square). Write 4 or 5 sentences: 1 with two reasons in 〜し〜し, 1 with 〜そうな + noun, 1 with adjective + そうです and 1 with verb + そう. Then read them aloud and record yourself on your phone.",
         "items": [
-          { "q": "Modelo, que o seu texto deve seguir na estrutura e não nas palavras:", "a": { "jp": "この店は駅から近いし、安いし、よく行きます。写真を見てください。おいしそうなパンがたくさんありますね。店長もやさしそうです。でも、いつも人が多くて、パンがすぐなくなりそうです。", "kana": "このみせはえきからちかいし、やすいし、よくいきます。しゃしんをみてください。おいしそうなパンがたくさんありますね。てんちょうもやさしそうです。でも、いつもひとがおおくて、パンがすぐなくなりそうです。", "romaji": "Kono mise wa eki kara chikai shi, yasui shi, yoku ikimasu. Shashin o mite kudasai. Oishisō na pan ga takusan arimasu ne. Tenchō mo yasashisō desu. Demo, itsumo hito ga ōkute, pan ga sugu nakunarisō desu.", "pt": "Esta padaria é perto da estação e é barata, então vou sempre. Olhe a foto. Tem um monte de pães com cara de gostosos, né? O dono também parece gentil. Mas está sempre cheia, e parece que o pão vai acabar logo." }, "note": "Confira: as razões com し na forma curta e a conclusão no fim; そうな antes de substantivo; adjetivo い sem o い antes de そう; e o verbo no radical (なくなります → なくなり) + そう." }
+          { "q": "Model (match its structure, not its words):", "a": { "jp": "この店は駅から近いし、安いし、よく行きます。写真を見てください。おいしそうなパンがたくさんありますね。店長もやさしそうです。でも、いつも人が多くて、パンがすぐなくなりそうです。", "kana": "このみせはえきからちかいし、やすいし、よくいきます。しゃしんをみてください。おいしそうなパンがたくさんありますね。てんちょうもやさしそうです。でも、いつもひとがおおくて、パンがすぐなくなりそうです。", "romaji": "Kono mise wa eki kara chikai shi, yasui shi, yoku ikimasu. Shashin o mite kudasai. Oishisō na pan ga takusan arimasu ne. Tenchō mo yasashisō desu. Demo, itsumo hito ga ōkute, pan ga sugu nakunarisō desu.", "en": "This shop is close to the station and it's cheap, so I go there often. Look at the photo. There's lots of delicious-looking bread, isn't there? The manager looks kind, too. But it's always crowded, and it looks like the bread is going to run out soon." }, "note": "Check: the reasons with し in the short form and the conclusion at the end; そうな before a noun; the い-adjective without its い before そう; and the verb in the stem form (なくなります → なくなり) + そう." }
         ]
       }
     ],
     "workbook": []
   },
   "practice": [
-    { "tool": "Wagotabi", "what": "Jogue normalmente, de preferência numa área de nível N4 se você já tiver chegado lá. Cace dois tipos de frase nos diálogos: razões com 〜し e comentários com 〜そう. Quando achar um そう, diga em voz alta a palavra de origem (つよそう → つよい). Registre a sessão em Imersão → Jogos e cole uma dessas frases na 🔬 Anatomia.", "min": 15 },
-    { "tool": "ヅオリンゴー", "what": "Treinos → Conjugação: aqueça a forma curta (presente e passado, afirmativa e negativa), que é a base do 〜し. Depois, Treinos → 🔬 Anatomia → 🧱 Montar de trás pra frente com o exemplo 1 do ponto a, começando por 来ます.", "min": 10 },
-    { "tool": "ヅオリンゴー · Diário", "what": "Escreva no Diário 3 frases: uma com 〜し〜し sobre por que você estuda japonês e duas com 〜そう sobre coisas ou pessoas que você viu hoje. Abra \"Anatomia do que escrevi\" e confira se a conclusão ficou no PREDICADO, no fim.", "min": 10 },
-    { "tool": "Shadowing", "what": "Toque 🔊 em cada exemplo desta aula e repita junto 3 vezes. Em おいしそう, o そう é longo: お・い・し・そ・う são 5 batidas iguais. Não encurte para 4.", "min": 5 },
-    { "tool": "Fala", "what": "Grave a recomendação da lição de casa h4 em até 40 s, como se estivesse mostrando a foto a um amigo. Ouça e confira se cada そう saiu com a palavra cortada (おいしそう, não おいしいそう).", "min": 5 }
+    { "tool": "Wagotabi", "what": "Play normally, ideally in an N4-level area if you have reached one. Hunt the dialogues for two kinds of sentences: reasons with 〜し and comments with 〜そう. When you find a そう, say out loud the word it came from (つよそう → つよい). Log the session in Immersion → Games and paste one of those lines into 🔬 Anatomy.", "min": 15 },
+    { "tool": "ヅオリンゴー", "what": "Drills → Conjugation: warm up the short forms (present and past, affirmative and negative), the base of 〜し. Then Drills → 🔬 Anatomy → 🧱 Build from the end with example 1 of point a, starting from 来ます.", "min": 10 },
+    { "tool": "ヅオリンゴー · Journal", "what": "Write 3 sentences in the Journal: one with 〜し〜し about why you study Japanese and two with 〜そう about things or people you saw today. Open \"Anatomy of what I wrote\" and check that the conclusion ended up as the PREDICATE, at the end.", "min": 10 },
+    { "tool": "Shadowing", "what": "Tap 🔊 on each example in this lesson and repeat along 3 times. In おいしそう, the そう is long: お・い・し・そ・う is 5 equal beats. Don't shorten it to 4.", "min": 5 },
+    { "tool": "Speaking", "what": "Record your recommendation from homework h4 in 40 seconds or less, as if you were showing the photo to a friend. Listen and check that each そう came out with the word cut (おいしそう, not おいしいそう).", "min": 5 }
   ],
   "culture": {
-    "title": "ゆるキャラ: os mascotes",
+    "title": "ゆるキャラ: mascots",
     "titleJp": "ゆるキャラ",
-    "body": "No Japão, muitas cidades, províncias, empresas e até órgãos públicos, como a polícia, têm um **mascote**. Os mais fofos e meio desajeitados são chamados de **ゆるキャラ**: ゆるい (\"frouxo, relaxado\") + キャラ (\"personagem\"). Eles servem para divulgar o turismo, os produtos locais e campanhas, e costumam aparecer em eventos, cartazes, embalagens e lojas de lembrancinhas, muitas vezes com nome e perfil próprio nas redes sociais. Um dos mais conhecidos é a **くまモン**, um urso preto de bochechas vermelhas da província de Kumamoto, que aparece em produtos do país inteiro. Durante alguns anos houve até um concurso nacional por votação, a ゆるキャラグランプリ. Na frente de um mascote, é comum ouvir comentários com o そう desta aula: やさしそう, ねむそう, 元気そう…",
-    "try": "Procure a foto de uma ゆるキャラ (a くまモン, por exemplo) e descreva-a em voz alta com 3 frases com そう: やさしそうです。… Depois invente um mascote para a sua cidade e diga por que ele é bom, com 〜し〜し: かわいいし、元気だし、みんなに人気がありそうです。"
+    "body": "In Japan, many cities, prefectures, companies and even public bodies such as the police have a **mascot**. The cute, slightly clumsy ones are called **ゆるキャラ**: ゆるい (\"loose, relaxed\") + キャラ (\"character\"). They promote tourism, local products and campaigns, and they usually appear at events, on posters and packaging and in souvenir shops, often with their own name and their own social media profile. One of the best known is **くまモン**, a black bear with red cheeks from Kumamoto Prefecture, who appears on products all over the country. For several years there was even a national contest decided by public vote, the ゆるキャラグランプリ. In front of a mascot, you will often hear comments with this lesson's そう: やさしそう, ねむそう, 元気そう…",
+    "try": "Look up a photo of a ゆるキャラ (くまモン, for example) and describe it out loud in 3 sentences with そう: やさしそうです。… Then invent a mascot for your city and say why it is good, with 〜し〜し: かわいいし、元気だし、みんなに人気がありそうです。"
   },
   "checklist": [
-    "Dou duas razões numa frase com 〜し〜し, sem olhar, e ponho a conclusão no fim.",
-    "Lembro do だ com substantivo e adjetivo な: 日曜日だし, しずかだし; e sei que adjetivo い não leva だ.",
-    "Digo como algo parece com 〜そうです: おいしそう, たいへんそう, 元気そう, e uso 〜そうな antes de substantivo.",
-    "Uso as irregulares sem pensar: いい → よさそう, ない → なさそう.",
-    "Uso radical do verbo + そう para \"parece que vai…\": 雨がふりそうです。",
-    "Sei que おいしそうです (parece gostoso) e おいしいそうです (dizem que é gostoso, Lição 17) são coisas diferentes.",
-    "Fiz a lição de casa e conferi o gabarito, e refiz o que errei.",
-    "Se tenho o Genki II Workbook: fiz os exercícios de 〜し e 〜そうです."
+    "I can give two reasons in one sentence with 〜し〜し, without looking, and put the conclusion at the end.",
+    "I remember the だ with nouns and な-adjectives (日曜日だし, しずかだし), and I know that い-adjectives don't take だ.",
+    "I can say how something looks with 〜そうです (おいしそう, たいへんそう, 元気そう) and use 〜そうな before a noun.",
+    "I use the irregulars without thinking: いい → よさそう, ない → なさそう.",
+    "I use verb stem + そう for \"looks like it's going to…\": 雨がふりそうです。",
+    "I know that おいしそうです (it looks delicious) and おいしいそうです (I heard it's delicious, Lesson 17) are different things.",
+    "I did the homework, checked it against the answer key and redid what I got wrong.",
+    "If I have the Genki II Workbook: I did the 〜し and 〜そうです exercises."
   ]
 }

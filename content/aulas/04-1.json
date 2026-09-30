@@ -2,59 +2,59 @@
   "id": "04-1",
   "unit": "G1-L04",
   "genki": { "book": "Genki I", "lesson": 4, "points": ["X があります / います", "Describing Where Things Are"] },
-  "title": "Existir e onde fica",
+  "title": "Existence and where things are",
   "titleJp": "ねこは どこに いますか",
   "canDo": [
-    "Dizer que existe (ou não existe) algo num lugar, escolhendo entre あります (coisas) e います (pessoas e animais).",
-    "Perguntar onde uma coisa ou pessoa está (〜は どこに ありますか／いますか) e responder.",
-    "Dizer a posição exata com うえ, した, なか, まえ, うしろ, みぎ, ひだり, となり, ちかく e あいだ.",
-    "Escolher entre に (lugar onde algo EXISTE) e で (lugar onde uma AÇÃO acontece)."
+    "I can say that something exists (or doesn't) in a place, choosing between あります (things) and います (people and animals).",
+    "I can ask where a thing or a person is (〜は どこに ありますか／いますか) and answer.",
+    "I can give an exact position with うえ, した, なか, まえ, うしろ, みぎ, ひだり, となり, ちかく and あいだ.",
+    "I can choose between に (the place where something EXISTS) and で (the place where an ACTION happens)."
   ],
   "duration": {
     "total": "60–75 min",
     "blocks": [
-      { "t": "Aquecimento: olhe o seu quarto e diga em português onde estão 5 coisas (\"a mochila está embaixo da mesa\"). No fim da aula você vai dizer isso em japonês", "min": 5 },
-      { "t": "Vocabulário: ouvir 🔊 cada palavra e repetir 2 vezes; nas palavras de lugar, aponte para a posição enquanto fala", "min": 10 },
-      { "t": "Gramática: os 3 pontos, cada um com os exemplos lidos em voz alta e um 🔬", "min": 25 },
-      { "t": "Vídeo da Lição 4 (bloco 6), pausando nos exemplos", "min": 10 },
-      { "t": "Lição de casa no caderno + conferir no gabarito", "min": 15 },
-      { "t": "Checklist (bloco 10) + anotar dúvidas no caderno da aula", "min": 5 }
+      { "t": "Warm-up: look around your room and say in English where 5 things are (\"the bag is under the desk\"). By the end of the lesson you will say it in Japanese", "min": 5 },
+      { "t": "Vocabulary: tap 🔊 on each word and repeat it twice; for the location words, point to the position as you say them", "min": 10 },
+      { "t": "Grammar: the 3 points, each with its examples read aloud and one 🔬", "min": 25 },
+      { "t": "Lesson 4 video (block 6), pausing on the examples", "min": 10 },
+      { "t": "Notebook homework + checking it against the answer key", "min": 15 },
+      { "t": "Checklist (block 10) + write your questions in the lesson notebook", "min": 5 }
     ]
   },
   "prereqs": {
     "aulas": ["01-1", "02-1", "03-1", "03-2"],
     "skills": [
-      "Conjugar verbos no presente educado, 〜ます／〜ません (Aula 03-1).",
-      "Saber que で marca o lugar onde uma ação acontece (Aula 03-2). Hoje você vai ver o contraste com に.",
-      "Ligar dois substantivos com の (Aula 01-1) e usar ここ／そこ／あそこ／どこ (Aula 02-1).",
-      "Os kanji 上 (うえ), 下 (した), 中 (なか), 本 (ほん), 人 (ひと) e 木 (き) aparecem nesta aula. São da Lição 4 do Genki, e o kana vem sempre junto."
+      "Conjugating verbs in the polite present, 〜ます／〜ません (lesson 03-1).",
+      "Knowing that で marks the place where an action happens (lesson 03-2). Today you will see how it contrasts with に.",
+      "Linking two nouns with の (lesson 01-1) and using ここ／そこ／あそこ／どこ (lesson 02-1).",
+      "These Genki Lesson 4 kanji appear in this lesson, always with the kana alongside: 上 (うえ), 下 (した), 中 (なか), 本 (ほん), 人 (ひと), 木 (き), 日 (日本 = にほん), 土 and 曜 (土曜日 = どようび) and 金 (お金 = おかね, 金曜日 = きんようび)."
     ],
     "vocab": [
-      { "jp": "あります", "kana": "あります", "romaji": "arimasu", "pt": "existir, haver (coisas, plantas, eventos); ter (coisas)" },
-      { "jp": "います", "kana": "います", "romaji": "imasu", "pt": "existir, estar (pessoas e animais)" },
-      { "jp": "上", "kana": "うえ", "romaji": "ue", "pt": "em cima, sobre" },
-      { "jp": "下", "kana": "した", "romaji": "shita", "pt": "embaixo, debaixo" },
-      { "jp": "中", "kana": "なか", "romaji": "naka", "pt": "dentro" },
-      { "jp": "まえ", "kana": "まえ", "romaji": "mae", "pt": "frente, na frente de" },
-      { "jp": "うしろ", "kana": "うしろ", "romaji": "ushiro", "pt": "atrás de" },
-      { "jp": "みぎ", "kana": "みぎ", "romaji": "migi", "pt": "direita" },
-      { "jp": "ひだり", "kana": "ひだり", "romaji": "hidari", "pt": "esquerda" },
-      { "jp": "となり", "kana": "となり", "romaji": "tonari", "pt": "ao lado de, vizinho" },
-      { "jp": "ちかく", "kana": "ちかく", "romaji": "chikaku", "pt": "perto de, nas redondezas" },
-      { "jp": "あいだ", "kana": "あいだ", "romaji": "aida", "pt": "entre (A と B の あいだ)" },
-      { "jp": "つくえ", "kana": "つくえ", "romaji": "tsukue", "pt": "mesa (de estudo), escrivaninha" },
-      { "jp": "いす", "kana": "いす", "romaji": "isu", "pt": "cadeira" },
-      { "jp": "かばん", "kana": "かばん", "romaji": "kaban", "pt": "bolsa, mochila" },
-      { "jp": "本", "kana": "ほん", "romaji": "hon", "pt": "livro" },
-      { "jp": "テレビ", "kana": "テレビ", "romaji": "terebi", "pt": "televisão" },
-      { "jp": "いぬ", "kana": "いぬ", "romaji": "inu", "pt": "cachorro" },
-      { "jp": "ねこ", "kana": "ねこ", "romaji": "neko", "pt": "gato" },
-      { "jp": "人", "kana": "ひと", "romaji": "hito", "pt": "pessoa" },
-      { "jp": "木", "kana": "き", "romaji": "ki", "pt": "árvore" },
-      { "jp": "コンビニ", "kana": "コンビニ", "romaji": "konbini", "pt": "loja de conveniência" },
-      { "jp": "ぎんこう", "kana": "ぎんこう", "romaji": "ginkō", "pt": "banco" },
-      { "jp": "こうえん", "kana": "こうえん", "romaji": "kōen", "pt": "parque" },
-      { "jp": "まち", "kana": "まち", "romaji": "machi", "pt": "cidade, bairro" }
+      { "jp": "あります", "kana": "あります", "romaji": "arimasu", "en": "there is, to exist (things, plants, events); to have (things)" },
+      { "jp": "います", "kana": "います", "romaji": "imasu", "en": "there is, to be somewhere (people and animals)" },
+      { "jp": "上", "kana": "うえ", "romaji": "ue", "en": "on, on top of, above" },
+      { "jp": "下", "kana": "した", "romaji": "shita", "en": "under, below" },
+      { "jp": "中", "kana": "なか", "romaji": "naka", "en": "inside, in" },
+      { "jp": "まえ", "kana": "まえ", "romaji": "mae", "en": "front, in front of" },
+      { "jp": "うしろ", "kana": "うしろ", "romaji": "ushiro", "en": "back, behind" },
+      { "jp": "みぎ", "kana": "みぎ", "romaji": "migi", "en": "right (side)" },
+      { "jp": "ひだり", "kana": "ひだり", "romaji": "hidari", "en": "left (side)" },
+      { "jp": "となり", "kana": "となり", "romaji": "tonari", "en": "next to (usually two things of the same kind); next door" },
+      { "jp": "ちかく", "kana": "ちかく", "romaji": "chikaku", "en": "near, nearby, in the area" },
+      { "jp": "あいだ", "kana": "あいだ", "romaji": "aida", "en": "between (A と B の あいだ)" },
+      { "jp": "つくえ", "kana": "つくえ", "romaji": "tsukue", "en": "desk" },
+      { "jp": "いす", "kana": "いす", "romaji": "isu", "en": "chair" },
+      { "jp": "かばん", "kana": "かばん", "romaji": "kaban", "en": "bag" },
+      { "jp": "本", "kana": "ほん", "romaji": "hon", "en": "book" },
+      { "jp": "テレビ", "kana": "テレビ", "romaji": "terebi", "en": "TV" },
+      { "jp": "いぬ", "kana": "いぬ", "romaji": "inu", "en": "dog" },
+      { "jp": "ねこ", "kana": "ねこ", "romaji": "neko", "en": "cat" },
+      { "jp": "人", "kana": "ひと", "romaji": "hito", "en": "person" },
+      { "jp": "木", "kana": "き", "romaji": "ki", "en": "tree" },
+      { "jp": "コンビニ", "kana": "コンビニ", "romaji": "konbini", "en": "convenience store" },
+      { "jp": "ぎんこう", "kana": "ぎんこう", "romaji": "ginkō", "en": "bank" },
+      { "jp": "こうえん", "kana": "こうえん", "romaji": "kōen", "en": "park" },
+      { "jp": "まち", "kana": "まち", "romaji": "machi", "en": "town, city" }
     ]
   },
   "grammar": [
@@ -62,158 +62,158 @@
       "id": "04-1-a",
       "gc": "4-1",
       "title": "あります × います",
-      "gloss": "existir, haver, estar",
-      "explanation": "Para dizer que algo **existe** ou **está** num lugar, o japonês usa um de dois verbos. A escolha depende do que existe:\n• **あります**: coisas, plantas e também eventos (uma prova, uma festa).\n• **います**: pessoas e animais, ou seja, seres que se mexem por conta própria.\nNa frase, **o que existe leva が** e **o lugar leva に**. O predicado (あります／います) fica no fim. Leia de trás pra frente: existe (あります) ← o quê? (が) ← onde? (に).\n• Negativa: ありません, いません. Pergunta: ありますか, いますか.\n• Com palavra interrogativa, use が: なにが ありますか。 だれが いますか。\n• Também serve para **ter**: お金が ありません (não tenho dinheiro), きょうだいが います (tenho irmãos).\n• **に × で**: に marca o lugar da EXISTÊNCIA (onde algo está). で (Aula 03-2) marca o lugar da AÇÃO (onde algo é feito). こうえんに いぬが います (tem um cachorro no parque) × こうえんで テニスを します (jogo tênis no parque).",
-      "structure": "[lugar] に [coisa/pessoa] が あります／います。",
+      "gloss": "there is · to be (somewhere)",
+      "explanation": "To say that something **exists** or **is** somewhere, Japanese uses one of two verbs. English uses \"there is\" for everything; Japanese splits it by what exists:\n• **あります**: things, plants, and also events (a test, a party).\n• **います**: people and animals — beings that move on their own.\nIn the sentence, **what exists takes が** and **the place takes に**. The predicate (あります／います) comes at the end. Read it from the end: exists (あります) ← what? (が) ← where? (に).\n• Negative: ありません, いません. Question: ありますか, いますか.\n• With a question word, use が: なにが ありますか。 だれが いますか。\n• The same verbs also mean **to have**: お金が ありません (read おかねが ありません: \"I don't have any money\"), きょうだいが います (\"I have brothers and sisters\").\n• **に × で**: に marks the place of EXISTENCE (where something is). で (lesson 03-2) marks the place of an ACTION (where something is done). こうえんに いぬが います (there's a dog in the park) × こうえんで テニスを します (I play tennis in the park).",
+      "structure": "[place] に [thing/person] が あります／います。",
       "examples": [
-        { "jp": "うちに ねこが います。", "kana": "うちに ねこが います。", "romaji": "Uchi ni neko ga imasu.", "pt": "Tem um gato em casa. (= Eu tenho um gato.)" },
-        { "jp": "だいがくに コンビニが あります。", "kana": "だいがくに コンビニが あります。", "romaji": "Daigaku ni konbini ga arimasu.", "pt": "Na faculdade tem uma loja de conveniência." },
-        { "jp": "としょかんに だれが いますか。— ルーカスさんが います。", "kana": "としょかんに だれが いますか。— ルーカスさんが います。", "romaji": "Toshokan ni dare ga imasu ka. — Rūkasu-san ga imasu.", "pt": "Quem está na biblioteca? — O Lucas." }
+        { "jp": "うちに ねこが います。", "kana": "うちに ねこが います。", "romaji": "Uchi ni neko ga imasu.", "en": "There's a cat at home (= I have a cat). [lit. at home, a cat exists]" },
+        { "jp": "だいがくに コンビニが あります。", "kana": "だいがくに コンビニが あります。", "romaji": "Daigaku ni konbini ga arimasu.", "en": "There's a convenience store at the university." },
+        { "jp": "としょかんに だれが いますか。— ルーカスさんが います。", "kana": "としょかんに だれが いますか。— ルーカスさんが います。", "romaji": "Toshokan ni dare ga imasu ka. — Rūkasu-san ga imasu.", "en": "Who is in the library? — Lucas is." }
       ],
       "pitfalls": [
-        "Pessoa ou animal com あります está errado: ねこが あります ✗ → ねこが います ✓. Planta é \"coisa\": 木が あります ✓.",
-        "O lugar da existência leva に, não で: こうえんで いぬが います ✗ → こうえんに いぬが います ✓. Use で só para ações: こうえんで テニスを します ✓.",
-        "Exceção que confunde: um EVENTO que acontece num lugar usa で, porque acontecer é uma ação. 土曜日に うちで パーティーが あります ✓ (sábado vai ter festa lá em casa).",
-        "Não troque あります por です: \"ali tem um banco\" é あそこに ぎんこうが あります ✓. あそこは ぎんこうです quer dizer \"aquilo ali é um banco\"."
+        "People and animals take います, never あります: ねこが あります ✗ → ねこが います ✓. A plant counts as a \"thing\": 木が あります ✓.",
+        "The place of existence takes に, not で: こうえんで いぬが います ✗ → こうえんに いぬが います ✓. Use で only for actions: こうえんで テニスを します ✓.",
+        "A tricky exception: an EVENT that takes place somewhere uses で, because taking place is an action. 土曜日に うちで パーティーが あります ✓ (there's a party at my place on Saturday).",
+        "With the PLACE as the topic, です can't replace あります: \"there's a bank over there\" is あそこに ぎんこうが あります ✓, while あそこは ぎんこうです means \"that place over there is a bank\" (it identifies the place). Swapping in です only works the other way round, X は [place] です (point 4b): ぎんこうは あそこです ✓."
       ],
       "howToStudy": [
-        "Olhe ao redor e diga 5 frases com [lugar] に … が あります／います (うちに テレビが あります。うちに ねこが います…). A cada frase, decida antes: é coisa ou ser vivo?",
-        "Aperte 🔬 nos exemplos. O bloco com に é o LUGAR, o bloco com が é o que EXISTE e あります／います é o PREDICADO. Leia começando pelo fim: existe → o quê → onde.",
-        "No caderno, faça duas colunas, あります e います, e ponha 8 palavras que você já conhece no lado certo (本, いぬ, せんせい, コンビニ, 木…)."
+        "Look around and say 5 sentences with [place] に … が あります／います (うちに テレビが あります。うちに ねこが います…). Before each one, decide: is it a thing or a living being?",
+        "Tap 🔬 on the examples: the block with に shows up as LOCATION, the block with が as SUBJECT (what exists) and あります／います as the PREDICATE. Read from the end: exists → what → where.",
+        "In your notebook, make two columns, あります and います, and put 8 words you already know on the right side (本, いぬ, せんせい, コンビニ, 木…)."
       ],
       "flag": null
     },
     {
       "id": "04-1-b",
       "gc": null,
-      "title": "[lugar] に X が × X は [lugar] に",
-      "gloss": "o que tem ali? × onde fica?",
-      "explanation": "A mesma informação pode vir em duas ordens, e cada uma responde a uma pergunta diferente.\n• **[lugar] に [X] が あります**: o ponto de partida é o LUGAR e a novidade é **o que** existe lá. Responde a \"o que tem ali?\". あそこに ぎんこうが あります。 (Ali tem um banco.)\n• **[X] は [lugar] に あります**: o tópico (は) é a COISA, que os dois já conhecem, e a novidade é **onde** ela está. Responde a \"onde fica X?\". ぎんこうは あそこに あります。 (O banco fica ali.)\nA regra de ouro: **em japonês, a informação nova fica perto do fim**, colada no predicado. Com が, a novidade é a coisa; com は, a novidade é o lugar.\n• Para perguntar onde: [X] は どこに ありますか／いますか。\n• Na conversa, [X] は [lugar] です também é muito comum: ぎんこうは あそこです。 Aqui です faz o papel de に あります.\n• Dica de tradução: se \"tem X em…\" soa natural em português, use a ordem com が. Se \"X fica/está em…\" soa melhor, use a ordem com は.",
-      "structure": "[lugar] に [X] が あります。 ↔ [X] は [lugar] に あります。",
+      "title": "[place] に X が × X は [place] に",
+      "gloss": "what's there? × where is it?",
+      "explanation": "The same information can come in two orders, and each one answers a different question.\n• **[place] に [X] が あります**: the starting point is the PLACE, and the new information is **what** exists there. It answers \"what's there?\". あそこに ぎんこうが あります。 (There's a bank over there.)\n• **[X] は [place] に あります**: the topic (は) is the THING, which both speakers already know about, and the new information is **where** it is. It answers \"where is X?\". ぎんこうは あそこに あります。 (The bank is over there.)\nThe golden rule: **in Japanese, new information goes near the end**, right before the predicate. With が, the news is the thing; with は, the news is the place.\n• To ask where: [X] は どこに ありますか／いますか。\n• In conversation, [X] は [place] です is also very common: ぎんこうは あそこです。 Here です stands in for に あります.\n• English gives you a handy test: if \"there is/are X in…\" sounds natural, use the が order. If \"X is in…\" sounds better, use the は order.",
+      "structure": "[place] に [X] が あります。 ↔ [X] は [place] に あります。",
       "examples": [
-        { "jp": "この まちに なにが ありますか。— こうえんが あります。", "kana": "この まちに なにが ありますか。— こうえんが あります。", "romaji": "Kono machi ni nani ga arimasu ka. — Kōen ga arimasu.", "pt": "O que tem nesta cidade? — Tem um parque." },
-        { "jp": "コンビニは どこに ありますか。— あそこです。", "kana": "コンビニは どこに ありますか。— あそこです。", "romaji": "Konbini wa doko ni arimasu ka. — Asoko desu.", "pt": "Onde fica a loja de conveniência? — Ali." },
-        { "jp": "ペドロさんは どこに いますか。— ぎんこうに います。", "kana": "ペドロさんは どこに いますか。— ぎんこうに います。", "romaji": "Pedoro-san wa doko ni imasu ka. — Ginkō ni imasu.", "pt": "Onde está o Pedro? — Está no banco." }
+        { "jp": "この まちに なにが ありますか。— こうえんが あります。", "kana": "この まちに なにが ありますか。— こうえんが あります。", "romaji": "Kono machi ni nani ga arimasu ka. — Kōen ga arimasu.", "en": "What is there in this town? — There's a park." },
+        { "jp": "コンビニは どこに ありますか。— あそこです。", "kana": "コンビニは どこに ありますか。— あそこです。", "romaji": "Konbini wa doko ni arimasu ka. — Asoko desu.", "en": "Where's the convenience store? — Over there." },
+        { "jp": "ペドロさんは どこに いますか。— ぎんこうに います。", "kana": "ペドロさんは どこに いますか。— ぎんこうに います。", "romaji": "Pedoro-san wa doko ni imasu ka. — Ginkō ni imasu.", "en": "Where is Pedro? — He's at the bank." }
       ],
       "pitfalls": [
-        "Palavra interrogativa nunca leva は: なには ありますか ✗ → なにが ありますか ✓; だれは いますか ✗ → だれが いますか ✓.",
-        "Quando a pergunta é ONDE, a coisa é o tópico: コンビニが どこに ありますか soa estranho → コンビニは どこに ありますか ✓.",
-        "O atalho X は [lugar] です só serve para dizer onde X está. Na outra ordem ele muda o sentido: あそこは コンビニです quer dizer \"aquilo ali é uma loja\", não \"ali tem uma loja\"."
+        "A question word never takes は: なには ありますか ✗ → なにが ありますか ✓; だれは いますか ✗ → だれが いますか ✓.",
+        "When the question is WHERE, the thing is the topic: コンビニが どこに ありますか sounds odd → コンビニは どこに ありますか ✓.",
+        "The shortcut X は [place] です only says where X is. In the other order it changes the meaning: あそこは コンビニです means \"that place over there is a convenience store\" (it identifies the place), not \"there's a convenience store over there\"."
       ],
       "howToStudy": [
-        "Diga em voz alta pares trocando a ordem: うちに ねこが います ↔ ねこは うちに います. Para cada um, pergunte-se: a novidade é O QUÊ ou ONDE?",
-        "🔬 Anatomia → 🧱 Montar de trás pra frente com o exemplo do Pedro: comece por います, depois ぎんこうに (a novidade), depois ペドロさんは (o tópico).",
-        "Faça 3 perguntas com 〜は どこに ありますか sobre coisas da sua casa e responda de dois jeitos: 〜に あります e 〜です."
+        "Say pairs out loud, switching the order: うちに ねこが います ↔ ねこは うちに います. For each one, ask yourself: is the news WHAT or WHERE?",
+        "Build the full answer of the Pedro example from the end, out loud: います → ぎんこうに います (the news) → ペドロさんは ぎんこうに います (the topic). Then do 3 rounds of Drills → 🔬 Anatomy → 🧱 Build from the end in the app.",
+        "Ask 3 questions with 〜は どこに ありますか about things in your home, and answer each one in two ways: 〜に あります and 〜です."
       ],
       "flag": null
     },
     {
       "id": "04-1-c",
       "gc": "4-2",
-      "title": "A の うえ／した／なか… (palavras de lugar)",
-      "gloss": "em cima, embaixo, dentro, ao lado…",
-      "explanation": "Para dizer a posição exata, o japonês usa um **substantivo de lugar** preso a um ponto de referência com **の**. つくえの 上 é, ao pé da letra, \"o em-cima da mesa\". Esse bloco inteiro (A の posição) vira o LUGAR da frase e recebe に: つくえの 上に. A ordem é o inverso do português: primeiro a referência, depois a posição.\n• 上 (うえ) em cima · 下 (した) embaixo · 中 (なか) dentro\n• まえ na frente · うしろ atrás\n• みぎ à direita · ひだり à esquerda\n• となり ao lado. Costuma ser usado para duas coisas do mesmo tipo lado a lado: duas lojas, duas casas, duas pessoas.\n• ちかく perto, nas redondezas\n• あいだ entre. Precisa de duas referências: **A と B の あいだ**. Esse と é o \"e\" que você vai estudar na Aula 04-3.\n• Funciona nas duas ordens do ponto 4b: つくえの 下に かばんが あります。 / かばんは つくえの 下に あります。\n• Os kanji 上, 下 e 中 são da Lição 4: daqui em diante aparecem escritos assim.",
-      "structure": "[A] の [posição] に [X] が あります／います。 · [X] は [A] の [posição] に あります／います。",
+      "title": "A の うえ／した／なか… (location words)",
+      "gloss": "on, under, inside, next to…",
+      "explanation": "English gives positions with prepositions (on, under, in). Japanese uses a **location noun** attached to a reference point with **の**. つくえの 上 is literally \"the desk's top\". That whole block (A の position) becomes the PLACE of the sentence and takes に: つくえの 上に. The order is the reverse of English \"the top of the desk\": first the reference point, then the position.\n• 上 (うえ) on, above · 下 (した) under, below · 中 (なか) inside\n• まえ in front · うしろ behind\n• みぎ to the right · ひだり to the left\n• となり next to. It is usually used for two things of the same kind side by side: two shops, two houses, two people.\n• ちかく near, in the area\n• あいだ between. It needs two reference points: **A と B の あいだ**. That と is the \"and\" you will study in lesson 04-3.\n• It works in both orders from point 4b: つくえの 下に かばんが あります。 / かばんは つくえの 下に あります。\n• The kanji 上, 下 and 中 are from Genki Lesson 4: from now on they appear written that way.",
+      "structure": "[A] の [position] に [X] が あります／います。 · [X] は [A] の [position] に あります／います。",
       "examples": [
-        { "jp": "テレビの 上に ねこが います。", "kana": "テレビの うえに ねこが います。", "romaji": "Terebi no ue ni neko ga imasu.", "pt": "Tem um gato em cima da TV." },
-        { "jp": "コンビニは ゆうびんきょくと ぎんこうの あいだに あります。", "kana": "コンビニは ゆうびんきょくと ぎんこうの あいだに あります。", "romaji": "Konbini wa yūbinkyoku to ginkō no aida ni arimasu.", "pt": "A loja de conveniência fica entre o correio e o banco." },
-        { "jp": "だいがくの ちかくに 日本りょうりの レストランが ありますか。— はい、びょういんの となりに あります。", "kana": "だいがくの ちかくに にほんりょうりの レストランが ありますか。— はい、びょういんの となりに あります。", "romaji": "Daigaku no chikaku ni Nihon ryōri no resutoran ga arimasu ka. — Hai, byōin no tonari ni arimasu.", "pt": "Tem restaurante de comida japonesa perto da faculdade? — Tem, ao lado do hospital." }
+        { "jp": "テレビの 上に ねこが います。", "kana": "テレビの うえに ねこが います。", "romaji": "Terebi no ue ni neko ga imasu.", "en": "There's a cat on top of the TV. [lit. at the TV's top, a cat exists]" },
+        { "jp": "コンビニは ゆうびんきょくと ぎんこうの あいだに あります。", "kana": "コンビニは ゆうびんきょくと ぎんこうの あいだに あります。", "romaji": "Konbini wa yūbinkyoku to ginkō no aida ni arimasu.", "en": "The convenience store is between the post office and the bank." },
+        { "jp": "だいがくの ちかくに 日本りょうりの レストランが ありますか。— はい、びょういんの となりに あります。", "kana": "だいがくの ちかくに にほんりょうりの レストランが ありますか。— はい、びょういんの となりに あります。", "romaji": "Daigaku no chikaku ni Nihon ryōri no resutoran ga arimasu ka. — Hai, byōin no tonari ni arimasu.", "en": "Is there a Japanese restaurant near the university? — Yes, it's next to the hospital." }
       ],
       "pitfalls": [
-        "Ordem invertida: \"em cima da mesa\" = つくえの 上 ✓. 上の つくえ ✗ seria \"a mesa de cima\".",
-        "Não esqueça o の nem o に: つくえ 上に ✗ / つくえの 上 あります ✗ → つくえの 上に あります ✓.",
-        "あいだ precisa de duas referências ligadas por と: ぎんこうの あいだ ✗ → ゆうびんきょくと ぎんこうの あいだ ✓.",
-        "となり é \"colado, do lado\"; ちかく é \"nas redondezas\". A padaria que fica a duas quadras é ちかく, não となり."
+        "Reversed order: \"on the desk\" = つくえの 上 ✓. 上の つくえ ✗ would be \"the desk above\".",
+        "Don't drop の or に: つくえ 上に ✗ / つくえの 上 あります ✗ → つくえの 上に あります ✓.",
+        "あいだ needs two reference points linked by と: ぎんこうの あいだ ✗ → ゆうびんきょくと ぎんこうの あいだ ✓.",
+        "となり is \"right next to\"; ちかく is \"in the area\". A bakery two blocks away is ちかく, not となり."
       ],
       "howToStudy": [
-        "Pegue uma caneta e coloque-a em lugares diferentes. A cada posição, diga em voz alta: ペンは つくえの 上に あります → いすの 下に → かばんの 中に → 本の となりに…",
-        "Aperte 🔬 no exemplo da コンビニ. ゆうびんきょくと ぎんこうの あいだに é UM bloco só, o LUGAR; dentro dele, の amarra a referência à posição.",
-        "Desenhe no caderno um mapa simples da sua rua (3–4 lugares) e escreva 3 frases dizendo onde cada coisa fica."
+        "Take a pen and put it in different places. For each position, say out loud: ペンは つくえの 上に あります → いすの 下に → かばんの 中に → 本の まえに…",
+        "Tap 🔬 on the コンビニ example: ゆうびんきょくと shows up as AND, ぎんこうの as DESCRIBES NEXT and あいだに as LOCATION. Read the three pieces together: they are one single place, \"between the post office and the bank\".",
+        "Draw a simple map of your street in your notebook (3–4 places) and write 3 sentences saying where each one is."
       ],
       "flag": null
     }
   ],
   "media": [
-    { "order": 1, "kind": "leitura", "title": "Genki I · Lição 4: diálogo, vocabulário e as explicações de gramática X があります / います e Describing Where Things Are", "where": "Seu livro Genki I (3ª ed.)", "url": "", "when": "Antes desta aula ou logo depois do bloco de gramática" },
-    { "order": 2, "kind": "video", "title": "ToKini Andy: aula da Lição 4 do Genki I (あります／います e palavras de lugar)", "where": "YouTube · canal ToKini Andy", "url": "", "search": "ToKini Andy Genki Lesson 4", "when": "Depois de estudar os 3 pontos: o vídeo confirma e dá mais exemplos" },
-    { "order": 3, "kind": "app", "title": "genki-companion: Lição 4, pontos 1 e 2 (marque ✍️ quando terminar)", "where": "../genki-companion/index.html", "url": "../genki-companion/index.html", "when": "No fim, para revisar e marcar o progresso" }
+    { "order": 1, "kind": "reading", "title": "Genki I · Lesson 4: the dialogue, vocabulary and the grammar notes X があります / います and Describing Where Things Are", "where": "Your Genki I textbook (3rd ed.)", "url": "", "when": "Before this lesson or right after the grammar block" },
+    { "order": 2, "kind": "video", "title": "Japanese Ammo with Misa: あります vs います and location words", "where": "YouTube · Japanese Ammo with Misa channel", "url": "", "search": "Japanese Ammo with Misa arimasu imasu location words", "when": "Optional, if you want a third explanation" },
+    { "order": 3, "kind": "app", "title": "genki-companion: Lesson 4, points 1 and 2 (tick ✍️ when you finish)", "where": "../genki-companion/index.html", "url": "../genki-companion/index.html", "when": "At the end, to review and mark your progress" }
   ],
   "homework": {
-    "intro": "Faça no caderno, à mão. Escreva em kana; use 上, 下, 中 e 本 em kanji se já conseguir, senão kana mesmo. Só depois abra o gabarito, item por item. Circule o que errou e refaça no dia seguinte.",
+    "intro": "Do it by hand in your notebook, in kana; write 上, 下, 中 and 本 in kanji if you already can, otherwise kana is fine. Only then open the answer key, item by item. Circle what you got wrong and redo it the next day.",
     "tasks": [
       {
         "id": "h1",
-        "type": "completar",
-        "prompt": "Complete com あります ou います.",
+        "type": "fill",
+        "prompt": "Fill in あります or います.",
         "items": [
-          { "q": "つくえの 上に じしょが ＿。", "a": { "jp": "あります", "romaji": "arimasu" }, "note": "Dicionário é coisa." },
-          { "q": "ぎんこうの まえに 人が ＿。", "a": { "jp": "います", "romaji": "imasu" }, "note": "Pessoa: います." },
-          { "q": "うちの ちかくに 木が ＿。", "a": { "jp": "あります", "romaji": "arimasu" }, "note": "Planta, para o japonês, é \"coisa\": あります." },
-          { "q": "あした だいがくで テストが ＿。", "a": { "jp": "あります", "romaji": "arimasu" }, "note": "Evento: あります. E repare no で: a prova ACONTECE lá." },
-          { "q": "ドアの まえに いぬが ＿。", "a": { "jp": "います", "romaji": "imasu" }, "note": "Animal: います." },
-          { "q": "かばんの 中に なにが ＿か。", "a": { "jp": "あります", "romaji": "arimasu" }, "note": "Pergunta sobre coisas: ありますか." }
+          { "q": "つくえの 上に じしょが ＿。", "a": { "jp": "あります", "romaji": "arimasu" }, "note": "A dictionary is a thing." },
+          { "q": "ぎんこうの まえに 人が ＿。", "a": { "jp": "います", "romaji": "imasu" }, "note": "A person: います." },
+          { "q": "うちの ちかくに 木が ＿。", "a": { "jp": "あります", "romaji": "arimasu" }, "note": "In Japanese, a plant counts as a \"thing\": あります." },
+          { "q": "あした だいがくで テストが ＿。", "a": { "jp": "あります", "romaji": "arimasu" }, "note": "An event: あります. And notice the で: the test TAKES PLACE there." },
+          { "q": "ドアの まえに いぬが ＿。", "a": { "jp": "います", "romaji": "imasu" }, "note": "An animal: います." },
+          { "q": "かばんの 中に なにが ＿か。", "a": { "jp": "あります", "romaji": "arimasu" }, "note": "A question about things: ありますか." }
         ]
       },
       {
         "id": "h2",
-        "type": "completar",
-        "prompt": "Complete com に, で, が ou は. Quando houver dois espaços, escreva as duas partículas na ordem.",
+        "type": "fill",
+        "prompt": "Fill in に, で, が or は. Where there are two blanks, write both particles in order.",
         "items": [
-          { "q": "としょかん＿ 本を よみます。", "a": { "jp": "で", "romaji": "de" }, "note": "Ler é AÇÃO: で." },
-          { "q": "としょかん＿ ペドロさんが います。", "a": { "jp": "に", "romaji": "ni" }, "note": "Estar lá é EXISTÊNCIA: に." },
-          { "q": "わたしの かさ＿ どこに ありますか。", "a": { "jp": "は", "romaji": "wa" }, "note": "Pergunta \"onde?\": a coisa é o tópico." },
-          { "q": "いすの 下＿ かばん＿ あります。", "a": { "jp": "に・が", "romaji": "ni, ga" }, "note": "Lugar com に, o que existe com が." },
-          { "q": "こうえん＿ テニスを します。", "a": { "jp": "で", "romaji": "de" }, "note": "Jogar é ação: で." },
-          { "q": "土曜日に うち＿ パーティーが あります。", "a": { "jp": "で", "romaji": "de" }, "note": "Evento acontece → で, mesmo com あります." }
+          { "q": "としょかん＿ 本を よみます。", "a": { "jp": "で", "romaji": "de" }, "note": "Reading is an ACTION: で." },
+          { "q": "としょかん＿ ペドロさんが います。", "a": { "jp": "に", "romaji": "ni" }, "note": "Being there is EXISTENCE: に." },
+          { "q": "わたしの かさ＿ どこに ありますか。", "a": { "jp": "は", "romaji": "wa" }, "note": "A \"where?\" question: the thing is the topic." },
+          { "q": "いすの 下＿ かばん＿ あります。", "a": { "jp": "に・が", "romaji": "ni, ga" }, "note": "The place takes に, what exists takes が." },
+          { "q": "カフェ＿ コーヒーを のみます。", "a": { "jp": "で", "romaji": "de" }, "note": "Drinking is an action: で." },
+          { "q": "金曜日に ともだちの うち＿ パーティーが あります。", "a": { "jp": "で", "romaji": "de" }, "note": "An event takes place → で, even with あります." }
         ]
       },
       {
         "id": "h3",
-        "type": "traduzir",
-        "prompt": "Traduza para o japonês.",
+        "type": "translate",
+        "prompt": "Translate into Japanese.",
         "items": [
-          { "q": "Tem um gato embaixo da mesa.", "a": { "jp": "つくえの 下に ねこが います。", "kana": "つくえの したに ねこが います。", "romaji": "Tsukue no shita ni neko ga imasu." } },
-          { "q": "Onde está a Ana? — Está na biblioteca.", "a": { "jp": "アナさんは どこに いますか。— としょかんに います。", "romaji": "Ana-san wa doko ni imasu ka. — Toshokan ni imasu." } },
-          { "q": "O Pedro está atrás da Maria.", "a": { "jp": "ペドロさんは マリアさんの うしろに います。", "romaji": "Pedoro-san wa Maria-san no ushiro ni imasu." }, "note": "Pessoa: います. Referência (マリアさん) + の + posição." },
-          { "q": "O que tem dentro da bolsa? — Tem um livro.", "a": { "jp": "かばんの 中に なにが ありますか。— 本が あります。", "kana": "かばんの なかに なにが ありますか。— ほんが あります。", "romaji": "Kaban no naka ni nani ga arimasu ka. — Hon ga arimasu." } },
-          { "q": "O hospital fica entre o banco e o parque.", "a": { "jp": "びょういんは ぎんこうと こうえんの あいだに あります。", "romaji": "Byōin wa ginkō to kōen no aida ni arimasu." }, "note": "Também certo: びょういんは ぎんこうと こうえんの あいだです。" },
-          { "q": "Não tem loja de conveniência perto da minha casa.", "a": { "jp": "うちの ちかくに コンビニが ありません。", "romaji": "Uchi no chikaku ni konbini ga arimasen." }, "note": "Na negativa, também é muito natural trocar が por は: コンビニは ありません。" }
+          { "q": "There's a cat under the desk.", "a": { "jp": "つくえの 下に ねこが います。", "kana": "つくえの したに ねこが います。", "romaji": "Tsukue no shita ni neko ga imasu." } },
+          { "q": "Where is Ana? — She's in the library.", "a": { "jp": "アナさんは どこに いますか。— としょかんに います。", "romaji": "Ana-san wa doko ni imasu ka. — Toshokan ni imasu." }, "note": "Also correct: アナさんは どこですか。— としょかんです。 (point 4b)." },
+          { "q": "Pedro is behind Maria.", "a": { "jp": "ペドロさんは マリアさんの うしろに います。", "romaji": "Pedoro-san wa Maria-san no ushiro ni imasu." }, "note": "A person: います. Reference point (マリアさん) + の + position. Also correct: ペドロさんは マリアさんの うしろです。" },
+          { "q": "What's in the bag? — There's a book.", "a": { "jp": "かばんの 中に なにが ありますか。— 本が あります。", "kana": "かばんの なかに なにが ありますか。— ほんが あります。", "romaji": "Kaban no naka ni nani ga arimasu ka. — Hon ga arimasu." } },
+          { "q": "The hospital is between the bank and the park.", "a": { "jp": "びょういんは ぎんこうと こうえんの あいだに あります。", "romaji": "Byōin wa ginkō to kōen no aida ni arimasu." }, "note": "Also correct: びょういんは ぎんこうと こうえんの あいだです。" },
+          { "q": "There's no convenience store near my house.", "a": { "jp": "うちの ちかくに コンビニが ありません。", "romaji": "Uchi no chikaku ni konbini ga arimasen." }, "note": "In the negative, swapping が for は is also very natural: コンビニは ありません。" }
         ]
       },
       {
         "id": "h4",
-        "type": "produzir",
-        "prompt": "Descreva o seu quarto ou a sua mesa em 4 frases: 2 com [lugar] に X が あります／います e 2 com X は [lugar] に あります／います. Use pelo menos 3 palavras de lugar diferentes. Depois leia em voz alta.",
+        "type": "produce",
+        "prompt": "Describe your room or your desk in 4 sentences: 2 with [place] に X が あります／います and 2 with X は [place] に あります／います. Use at least 3 different location words. Then read it aloud.",
         "items": [
-          { "q": "Modelo, que o seu texto deve seguir na estrutura e não nas palavras:", "a": { "jp": "つくえの 上に パソコンが あります。つくえの 下に かばんが あります。ねこは ベッドの 上に います。まどは ドアの みぎに あります。", "kana": "つくえの うえに パソコンが あります。つくえの したに かばんが あります。ねこは ベッドの うえに います。まどは ドアの みぎに あります。", "romaji": "Tsukue no ue ni pasokon ga arimasu. Tsukue no shita ni kaban ga arimasu. Neko wa beddo no ue ni imasu. Mado wa doa no migi ni arimasu.", "pt": "Em cima da mesa tem um computador. Embaixo da mesa tem uma mochila. O gato está em cima da cama. A janela fica à direita da porta." }, "note": "Confira: います só para pessoas e animais; に depois do lugar; の entre a referência e a posição; は quando a novidade é o lugar." }
+          { "q": "Model (match its structure, not its words):", "a": { "jp": "つくえの 上に パソコンが あります。つくえの 下に かばんが あります。ねこは ベッドの 上に います。まどは ドアの みぎに あります。", "kana": "つくえの うえに パソコンが あります。つくえの したに かばんが あります。ねこは ベッドの うえに います。まどは ドアの みぎに あります。", "romaji": "Tsukue no ue ni pasokon ga arimasu. Tsukue no shita ni kaban ga arimasu. Neko wa beddo no ue ni imasu. Mado wa doa no migi ni arimasu.", "en": "There's a computer on the desk. There's a bag under the desk. The cat is on the bed. The window is to the right of the door." }, "note": "Check: います only for people and animals; に after the place; の between the reference point and the position; は when the news is the place." }
         ]
       }
     ],
     "workbook": [
-      { "p": 41, "t": "1 · X があります / います", "tip": "Faça depois do ponto 4a." },
-      { "p": 42, "t": "2 · Describing Where Things Are", "tip": "Faça depois do ponto 4c. Confira no Genki Answer Key oficial." }
+      { "p": 41, "t": "1 · X があります / います", "tip": "Do it after point 4a." },
+      { "p": 42, "t": "2 · Describing Where Things Are", "tip": "Do it after point 4c; check it with the official Genki Answer Key." }
     ]
   },
   "practice": [
-    { "tool": "Wagotabi", "what": "Jogue normalmente. Cace frases que terminam em あります, います, ありません ou いません. Para cada uma, diga em voz alta o que existe (が) e onde (に). Copie 2 dessas frases no caderno.", "min": 15 },
-    { "tool": "ヅオリンゴー", "what": "Vocabulário da Lição 4 no SRS. Depois, Praticar L4, na parte de あります／います e palavras de lugar.", "min": 10 },
-    { "tool": "ヅオリンゴー", "what": "Treinos → Partículas, prestando atenção em に × で. Depois, Treinos → 🔬 Anatomia → 🏷 Etiquetar: 5 frases, dizendo qual bloco é o LUGAR e qual é o que EXISTE.", "min": 10 },
-    { "tool": "Shadowing", "what": "Toque 🔊 em cada exemplo desta aula e repita junto 3 vezes, imitando o ritmo.", "min": 5 },
-    { "tool": "Fala", "what": "Grave um \"tour\" de 30 s pelo seu quarto: aponte e diga onde cada coisa está (〜は 〜の 上に あります…). Ouça e anote o que travou.", "min": 5 }
+    { "tool": "Wagotabi", "what": "Play normally. Hunt for lines that end in あります, います, ありません or いません. For each one, say out loud what exists (が) and where (に). Copy 2 of those lines into your notebook.", "min": 15 },
+    { "tool": "ヅオリンゴー", "what": "Lesson 4 vocabulary in the SRS. Then Practice L4.", "min": 10 },
+    { "tool": "ヅオリンゴー", "what": "Drills → Particles, paying attention to に × で. Then Drills → 🔬 Anatomy → 🏷 Tag: 5 sentences, saying which block is the LOCATION and which is the SUBJECT (what exists).", "min": 10 },
+    { "tool": "Shadowing", "what": "Tap 🔊 on each example in this lesson and repeat along 3 times, copying the rhythm.", "min": 5 },
+    { "tool": "Speaking", "what": "Record a 30-second \"tour\" of your room: point and say where each thing is (〜は 〜の 上に あります…). Listen and note where you got stuck.", "min": 5 }
   ],
   "culture": {
-    "title": "A konbini (コンビニ)",
+    "title": "The konbini (コンビニ)",
     "titleJp": "コンビニ",
-    "body": "コンビニ vem de \"convenience store\": no Japão essas lojinhas estão em quase toda esquina, e muitas abrem **24 horas**. As maiores redes (7-Eleven, FamilyMart e Lawson) têm lojas no país inteiro. Além de comida pronta (おにぎり, bentô, pão, café), elas costumam oferecer serviços: pagar contas, sacar dinheiro no caixa eletrônico, imprimir e tirar cópias, enviar encomendas. No caixa, o atendente em geral pergunta se você quer **esquentar** o bentô (あたためますか) e se quer sacola, que no Japão passou a ser cobrada em 2020. Para quem viaja, a コンビニ costuma ser o jeito mais prático de fazer uma refeição rápida.",
-    "try": "Imagine que você está numa コンビニ e treine em voz alta, perguntando e respondendo: おにぎりは どこに ありますか。— あそこです。 / パンは どこに ありますか。— コーヒーの となりに あります。 Depois procure uma foto de uma コンビニ por dentro e descreva 3 coisas com 〜の 上に／となりに／まえに あります."
+    "body": "コンビニ comes from \"convenience store\". In Japan these small shops are very common: in cities there is usually one a few minutes' walk away, and many are open **24 hours**. The biggest chains (7-Eleven, FamilyMart and Lawson) have stores all over the country. Besides ready-made food (おにぎり, bento boxes, bread, coffee), they usually offer services: paying bills, withdrawing cash from the ATM, printing and copying, sending packages. At the register, the clerk will often ask whether you want your bento **heated up** (あたためますか) and whether you want a bag — plastic bags have cost extra since 2020. For travelers, the コンビニ is often the easiest way to get a quick meal.",
+    "try": "Imagine you are in a コンビニ and practice out loud, asking and answering: おにぎりは どこに ありますか。— あそこです。 / パンは どこに ありますか。— コーヒーの となりに あります。 Then find a photo of the inside of a コンビニ and describe 3 things with 〜の 上に／となりに／まえに あります."
   },
   "checklist": [
-    "Escolho あります ou います sem pensar: coisas, plantas e eventos × pessoas e animais.",
-    "Digo o que existe num lugar com [lugar] に X が あります／います, sem olhar.",
-    "Pergunto e respondo onde algo está: X は どこに ありますか。— 〜に あります／〜です。",
-    "Uso as 10 palavras de lugar com の, inclusive A と B の あいだ.",
-    "Sei explicar por que é こうえんに いぬが います, mas こうえんで テニスを します.",
-    "Fiz a lição de casa e conferi o gabarito, e refiz o que errei.",
-    "Fiz as páginas 41–42 do Workbook."
+    "I choose あります or います without thinking: things, plants and events × people and animals.",
+    "I can say what is in a place with [place] に X が あります／います, without looking.",
+    "I can ask and answer where something is: X は どこに ありますか。— 〜に あります／〜です。",
+    "I can use the 10 location words with の, including A と B の あいだ.",
+    "I can explain why it's こうえんに いぬが います but こうえんで テニスを します.",
+    "I did the homework, checked it against the answer key and redid what I got wrong.",
+    "I did Workbook pages 41–42."
   ]
 }

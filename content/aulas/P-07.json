@@ -1,0 +1,234 @@
+{
+  "id": "P-07",
+  "unit": "P-N3",
+  "genki": null,
+  "title": "It's not that… · there's no way",
+  "titleJp": "嫌いなわけではない・できるわけがない",
+  "canDo": [
+    "I can react to a fact with 〜わけだ: \"so that's why\" / \"no wonder\" (窓が開いている。寒いわけだ。).",
+    "I can soften or correct a wrong conclusion with 〜わけではない: 嫌いなわけではないけど…",
+    "I can reject something strongly with 〜わけがない: そんなわけない！",
+    "I can say that something can't be true because the facts rule it out, with 〜はずがない, and explain where it overlaps with わけがない.",
+    "I never mix up わけではない (it's not that…) and わけがない (there's no way)."
+  ],
+  "duration": {
+    "total": "70–90 min",
+    "blocks": [
+      { "t": "Warm-up: say aloud 3 sentences with 〜はずです from lesson 19-2 (things you expect)", "min": 5 },
+      { "t": "Vocabulary: tap 🔊 on each word and repeat it twice", "min": 10 },
+      { "t": "Grammar: points a (〜わけだ) and b (〜わけではない), with the examples read aloud and one 🔬 each. If you split the lesson into two sessions, stop here.", "min": 20 },
+      { "t": "Grammar: points c (〜わけがない) and d (〜はずがない), with the contrast between them", "min": 15 },
+      { "t": "Video and reading from block 6, pausing on the examples", "min": 10 },
+      { "t": "Notebook homework + checking it against the answer key", "min": 20 },
+      { "t": "Checklist (block 10) + write your questions in the lesson notebook", "min": 5 }
+    ]
+  },
+  "prereqs": {
+    "aulas": ["P-06"],
+    "skills": [
+      "Short forms of verbs, い- and な-adjectives and nouns, present and past (lessons 08-1 and 09-1). わけ and はず attach to them like a noun: な-adjectives keep な (上手なわけ), and nouns take な before わけ but の before はず (休みなわけ / 休みのはず).",
+      "〜はずです from lesson 19-2 (\"it should be…, I expect\"). Point d is its strong negative.",
+      "〜んです from lesson 12-1: わけだ also explains, but it draws a conclusion.",
+      "〜たばかり from lesson P-05, which appears in the homework."
+    ],
+    "vocab": [
+      { "jp": "わけ", "kana": "わけ", "romaji": "wake", "en": "reason; the logic behind something" },
+      { "jp": "はず", "kana": "はず", "romaji": "hazu", "en": "an expectation with reasons behind it (\"should\")" },
+      { "jp": "どうりで", "kana": "どうりで", "romaji": "dōri de", "en": "no wonder" },
+      { "jp": "つまり", "kana": "つまり", "romaji": "tsumari", "en": "in other words, that means" },
+      { "jp": "〜からといって", "kana": "〜からといって", "romaji": "-kara to itte", "en": "just because…" },
+      { "jp": "窓", "kana": "まど", "romaji": "mado", "en": "window" },
+      { "jp": "開く", "kana": "あく", "romaji": "aku", "en": "to open, to be open (a window, a shop)" },
+      { "jp": "嫌い", "kana": "きらい", "romaji": "kirai", "en": "disliked; 〜が嫌い = to dislike" },
+      { "jp": "肉", "kana": "にく", "romaji": "niku", "en": "meat" },
+      { "jp": "お腹がすく", "kana": "おなかがすく", "romaji": "onaka ga suku", "en": "to get hungry" },
+      { "jp": "難しい", "kana": "むずかしい", "romaji": "muzukashii", "en": "difficult" },
+      { "jp": "問題", "kana": "もんだい", "romaji": "mondai", "en": "problem; question (on a test)" },
+      { "jp": "まじめ（な）", "kana": "まじめ（な）", "romaji": "majime (na)", "en": "serious, hardworking, honest" },
+      { "jp": "うそをつく", "kana": "うそをつく", "romaji": "uso o tsuku", "en": "to tell a lie" },
+      { "jp": "上手", "kana": "じょうず", "romaji": "jōzu", "en": "good at, skilled" },
+      { "jp": "下手", "kana": "へた", "romaji": "heta", "en": "bad at, unskilled" },
+      { "jp": "練習する", "kana": "れんしゅうする", "romaji": "renshū suru", "en": "to practice" },
+      { "jp": "単語", "kana": "たんご", "romaji": "tango", "en": "word, vocabulary item" },
+      { "jp": "覚える", "kana": "おぼえる", "romaji": "oboeru", "en": "to memorize, to learn" },
+      { "jp": "眠い", "kana": "ねむい", "romaji": "nemui", "en": "sleepy" },
+      { "jp": "休み", "kana": "やすみ", "romaji": "yasumi", "en": "day off; (a shop) closed" },
+      { "jp": "出張", "kana": "しゅっちょう", "romaji": "shutchō", "en": "business trip" },
+      { "jp": "冗談", "kana": "じょうだん", "romaji": "jōdan", "en": "joke" },
+      { "jp": "優しい", "kana": "やさしい", "romaji": "yasashii", "en": "kind, gentle" }
+    ]
+  },
+  "grammar": [
+    {
+      "id": "P-07-a",
+      "gc": null,
+      "title": "〜わけだ",
+      "gloss": "so that's why · no wonder · that means",
+      "explanation": "わけ is \"the reason, the logic behind something\". 〜わけだ says: **given these facts, this conclusion follows naturally**. It is the \"click\" you feel when something finally makes sense.\n• **\"No wonder / So that's why\"**: you learn a fact, and something you had already noticed now makes sense. 窓が開いている。寒いわけだ。 (The window's open. So that's why it's cold.) It often comes with **どうりで** (\"no wonder\"): どうりで日本語が上手なわけですね.\n• **\"That means / In other words\"**: you restate or calculate from what was said, often with **つまり**: 毎日十個覚えれば、一か月に三百個覚えるわけです (that means you learn three hundred a month).\n• **Explaining** a result from its causes, often with それで: 電車が止まった。それで遅れたわけです (That's why I was late).\n\n**Forms:** short form + わけだ／わけです. な-adjective + **な**わけだ (上手なわけだ); noun + **な**わけだ or **という**わけだ (つまり、明日は休みというわけだ).\n\n**The sentence, block by block.** わけだ sits at the very end, inside the **PREDICATE**: [寒い][わけだ]. The fact that gives the reason usually comes **before it**, in another sentence or in a から／ので block.\n\n**わけだ × はずだ** (lesson 19-2): はずだ is an **expectation** before you confirm it (\"he should be home by now\"). わけだ is a **conclusion** about something already true (\"so that's why he's home\"). Once you know the reason, はずだ can also mean \"no wonder\" (寒いはずだ), so the two overlap in that one use.\n\n**わけだ × んです**: 〜んです just gives an explanation. わけだ **draws a conclusion** from facts that are already on the table.",
+      "structure": "[fact]。 (どうりで) [conclusion: short form] わけだ · つまり [restatement] わけだ",
+      "examples": [
+        { "jp": "窓が開いている。寒いわけだ。", "kana": "まどがあいている。さむいわけだ。", "romaji": "Mado ga aite iru. Samui wake da.", "en": "The window's open. So that's why it's cold." },
+        { "jp": "ルーカスさんは十年も日本に住んでいたんですか。どうりで日本語が上手なわけですね。", "kana": "ルーカスさんはじゅうねんもにほんにすんでいたんですか。どうりでにほんごがじょうずなわけですね。", "romaji": "Rūkasu-san wa jūnen mo Nihon ni sunde ita n desu ka. Dōri de nihongo ga jōzu na wake desu ne.", "en": "You lived in Japan for ten whole years, Lucas? No wonder you're good at Japanese.", "noAnat": true },
+        { "jp": "毎日単語を十個覚えれば、一か月に三百個覚えるわけです。", "kana": "まいにちたんごをじゅっこおぼえれば、いっかげつにさんびゃっこおぼえるわけです。", "romaji": "Mainichi tango o jukko oboereba, ikkagetsu ni sanbyakko oboeru wake desu.", "en": "If you learn ten words every day, that means you learn three hundred words a month." }
+      ],
+      "pitfalls": [
+        "な-adjectives keep な before わけ: 上手わけだ ✗ → 上手なわけだ ✓.",
+        "Nouns take な (or という) before わけ, not の — の is for はず: 休みのわけだ ✗ → 休みなわけだ／休みというわけだ ✓ (compare 休みのはずだ ✓).",
+        "わけだ needs facts that lead to the conclusion; it is not a plain guess about the future. With no reason given: 明日は雨が降るわけだ ✗ → 明日は雨が降るでしょう ✓."
+      ],
+      "howToStudy": [
+        "Find 3 \"no wonder\" moments from your own week and say them aloud: [fact]。どうりで〜わけだ。 (e.g. 昨日は二時に寝た。どうりで眠いわけだ。)",
+        "🔬 Anatomy → Analyze: paste example 1. It comes out as two sentences: 窓が (SUBJECT) + 開いている (PREDICATE) is the fact, and 寒いわけだ is a second PREDICATE, the conclusion. Read them as a pair: result ← reason.",
+        "Do the math aloud with つまり〜わけだ, using your own study time: 一日に二十分勉強すれば、つまり一週間で〜分勉強するわけだ。"
+      ],
+      "flag": null
+    },
+    {
+      "id": "P-07-b",
+      "gc": null,
+      "title": "〜わけではない",
+      "gloss": "it's not (that)… · that doesn't mean… · not necessarily",
+      "explanation": "〜わけではない denies **a conclusion someone might draw**, not the fact itself. It is English \"it's not that…\" or \"that doesn't mean…\", and it sounds softer and more precise than a flat negative.\n• **Correcting an assumption**: 肉が嫌いなわけではありません。今日はあまりお腹がすいていないんです。 (It's not that I dislike meat. It's that I'm not very hungry today.) Compare 肉は嫌いじゃないです (\"I don't dislike meat\"): a flat statement. わけではない answers the conclusion the other person was about to draw.\n• **Partial negation** (\"not all / not always\"), with みんな, いつも, 全部, 必ずしも: 高い店がいつもおいしいわけではない (expensive restaurants aren't always good).\n• **\"Just because… doesn't mean…\"**, with **〜からといって**: 日本に住んでいるからといって、日本語が話せるわけではない.\n\n**Forms:** short form + わけではない／わけではありません. な-adjective + **な**わけではない; noun + **な**わけではない or **という**わけではない. Casual: **わけじゃない**. It is often followed by けど／が and the real reason.\n\n**The sentence, block by block.** わけではない is the end of the **PREDICATE**, and it negates **everything in front of it**: [肉が嫌いな]わけではない = the whole idea \"that I dislike meat\" is what's denied. That's why the verb before it can itself be negative: 行きたくないわけじゃない (it's not that I don't want to go).\n\n**わけではない × わけがない** (point c): one particle apart, and very different. わけではない = \"it's not that…\" (soft, partial). わけがない = \"there's no way…\" (strong, total).",
+      "structure": "[short form] わけではない · [な-adj / noun] な わけではない · 〜からといって、〜わけではない",
+      "examples": [
+        { "jp": "肉が嫌いなわけではありません。今日はあまりお腹がすいていないんです。", "kana": "にくがきらいなわけではありません。きょうはあまりおなかがすいていないんです。", "romaji": "Niku ga kirai na wake de wa arimasen. Kyō wa amari onaka ga suite inai n desu.", "en": "It's not that I dislike meat. It's that I'm not very hungry today." },
+        { "jp": "日本に住んでいるからといって、日本語が話せるわけではない。", "kana": "にほんにすんでいるからといって、にほんごがはなせるわけではない。", "romaji": "Nihon ni sunde iru kara to itte, nihongo ga hanaseru wake de wa nai.", "en": "Just because someone lives in Japan doesn't mean they can speak Japanese.", "noAnat": true },
+        { "jp": "行きたくないわけじゃないけど、今週はちょっと忙しいんだ。", "kana": "いきたくないわけじゃないけど、こんしゅうはちょっといそがしいんだ。", "romaji": "Ikitakunai wake ja nai kedo, konshū wa chotto isogashii n da.", "en": "It's not that I don't want to go, but I'm a bit busy this week." }
+      ],
+      "pitfalls": [
+        "Put the negation in the right place. \"It's not that I don't want to go\": 行きたいわけじゃない ✗ → 行きたくないわけじゃない ✓ (行きたいわけじゃない means \"it's not that I want to go\").",
+        "な-adjectives keep な: 嫌いわけではない ✗ → 嫌いなわけではない ✓.",
+        "Don't swap in わけがない. \"It's not that I can't do it\": できないわけがない ✗ (= there's no way I can't = of course I can) → できないわけではない ✓."
+      ],
+      "howToStudy": [
+        "Write 3 assumptions people make about you and correct them softly: 〜わけではないけど、… (e.g. アニメが大好きなわけではないけど、日本語は好きです。)",
+        "🔬 Anatomy → Analyze: paste example 1. 肉が shows up as SUBJECT, 嫌いな as DESCRIBES NEXT (it describes わけ) and わけではありません as the PREDICATE. The whole block 肉が嫌いな is the idea being denied.",
+        "Speaking: a friend says 毎日勉強しているんだから、もう全部わかるでしょう？ Answer in 10 seconds with 全部わかるわけじゃないけど、…"
+      ],
+      "flag": null
+    },
+    {
+      "id": "P-07-c",
+      "gc": null,
+      "title": "〜わけがない",
+      "gloss": "there's no way (that)…",
+      "explanation": "〜わけがない says **there is no reason at all for this to be true** — so it can't happen, full stop. It is strong and often emotional: \"there's no way…\", \"of course not\". Literally it is [X] わけ が ない: \"a reason for X does not exist\".\n• こんなに難しい問題、明日までにできるわけがない (There's no way I can do a problem this hard by tomorrow).\n• It often rejects what someone has just said: **そんなわけない！** (No way! / That can't be true!)\n\n**Forms:** short form + わけがない. な-adjective + **な**わけがない; noun + **な**わけがない. In speech, the が often drops (**わけない**), and you'll also hear わけはない.\n\n**The sentence, block by block.** わけがない is the end of the **PREDICATE**. Everything before it is the idea being rejected: [あのまじめな田中さんが、うそをつく]わけがない. Inside that idea, the subject takes が.\n\n**わけがない × わけではない** (point b): わけではない softens (\"it's not that…\"); わけがない slams the door (\"there's no way…\"). One particle — が or では — flips the tone.\n\n**わけがない × はずがない** (point d): very close in meaning. See point d for how they differ.",
+      "structure": "[short form] わけがない · [な-adj / noun] な わけがない · (casual) 〜わけない",
+      "examples": [
+        { "jp": "こんなに難しい問題、明日までにできるわけがないよ。", "kana": "こんなにむずかしいもんだい、あしたまでにできるわけがないよ。", "romaji": "Konna ni muzukashii mondai, ashita made ni dekiru wake ga nai yo.", "en": "There's no way I can do a problem this hard by tomorrow." },
+        { "jp": "あのまじめな田中さんが、うそをつくわけがない。", "kana": "あのまじめなたなかさんが、うそをつくわけがない。", "romaji": "Ano majime na Tanaka-san ga, uso o tsuku wake ga nai.", "en": "There's no way someone as serious as Tanaka would lie. [lit. that serious Tanaka]" },
+        { "jp": "僕は歌が下手だよ。— 毎日練習しているんだから、下手なわけないよ！", "kana": "ぼくはうたがへただよ。— まいにちれんしゅうしているんだから、へたなわけないよ！", "romaji": "Boku wa uta ga heta da yo. — Mainichi renshū shite iru n dakara, heta na wake nai yo!", "en": "I'm bad at singing. — You practice every day, so there's no way you're bad!" }
+      ],
+      "pitfalls": [
+        "な-adjectives and nouns take な: 下手わけがない ✗ → 下手なわけがない ✓.",
+        "No ます form before わけ; the politeness goes at the end: できますわけがない ✗ → できるわけがありません ✓.",
+        "It's a strong, blunt denial, so be careful with people above you. To your boss: そんなわけないでしょう ✗ → それはちょっと違うと思います ✓."
+      ],
+      "howToStudy": [
+        "Say aloud 3 things that are impossible for you right now with 〜わけがない (e.g. 一日で漢字を千個覚えられるわけがない).",
+        "🔬 Anatomy → 🏷 Tag with example 2: あの and まじめな are DESCRIBES NEXT, 田中さんが is the SUBJECT, うそを the OBJECT, and the engine splits the end into つくわけが (SUBJECT) + ない (PREDICATE). That is the literal structure — \"a reason for him to lie does not exist\" — but translate わけがない as one unit: \"there's no way\".",
+        "Say both versions aloud and feel the difference: 行けないわけではない (it's not that I can't go) × 行けるわけがない (there's no way I can go)."
+      ],
+      "flag": null
+    },
+    {
+      "id": "P-07-d",
+      "gc": null,
+      "title": "〜はずがない (× わけがない)",
+      "gloss": "it can't be (the facts rule it out)",
+      "explanation": "はず (lesson 19-2) is an **expectation based on facts**: 田中さんは来るはずです = \"Tanaka should come\" (I have reasons to think so). **〜はずがない** is its strong negative: **the facts rule it out**, so it can't be true. English often says \"can't\" or \"can't have\" for this.\n• 今日は月曜日だよ。あの店は月曜休みだから、開いているはずがない。 (It's Monday. That shop is closed on Mondays, so it can't be open.)\n• With the past: マリアさんは今ブラジルにいるから、さっき駅で会ったはずがない (Maria is in Brazil right now, so you can't have met her at the station just now).\n\n**Forms:** short form + はずがない. な-adjective + **な**はずがない; noun + **の**はずがない (学生のはずがない). You'll also hear はずはない, and casual はずない.\n\n**The sentence, block by block.** Like わけがない, はずがない is the end of the **PREDICATE**, and the block before it is the idea that the facts rule out. The fact itself usually comes first, in a から block or in the previous sentence.\n\n**はずがない × ないはずだ**: ないはずだ is a mild expectation (\"it shouldn't be, as far as I know\"). はずがない is a strong denial (\"it can't be\"). 開いていないはずだ (it shouldn't be open, I think) → 開いているはずがない (it can't possibly be open).\n\n**はずがない × わけがない**: both mean \"it can't be\", and in many sentences **either one works**. As a tendency, はずがない sounds like **reasoning from facts** (a schedule, a rule, where someone is), while わけがない sounds more like a **strong personal reaction** — and it's the one in the set phrase そんなわけない！",
+      "structure": "[fact] から、[short form] はずがない · [な-adj] な はずがない · [noun] の はずがない",
+      "examples": [
+        { "jp": "今日は月曜日だよ。あの店は月曜休みだから、開いているはずがない。", "kana": "きょうはげつようびだよ。あのみせはげつようやすみだから、あいているはずがない。", "romaji": "Kyō wa getsuyōbi da yo. Ano mise wa getsuyō yasumi dakara, aite iru hazu ga nai.", "en": "It's Monday today. That shop is closed on Mondays, so it can't be open." },
+        { "jp": "マリアさんは今ブラジルにいるから、さっき駅で会ったはずがない。", "kana": "マリアさんはいまブラジルにいるから、さっきえきであったはずがない。", "romaji": "Maria-san wa ima Burajiru ni iru kara, sakki eki de atta hazu ga nai.", "en": "Maria is in Brazil right now, so you can't have met her at the station just now." }
+      ],
+      "pitfalls": [
+        "A noun takes の before はず: 学生はずがない ✗ → 学生のはずがない ✓.",
+        "はずがない is not the \"should\" of advice. \"You shouldn't drink so much\": そんなに飲むはずがない ✗ (= you can't possibly drink that much) → そんなに飲まないほうがいい ✓ (lesson 12-2).",
+        "When you're only fairly sure, はずがない is too strong. You think the meeting is at three, but you're not certain: 会議は二時のはずがない ✗ → 会議は二時じゃないはずだ ✓."
+      ],
+      "howToStudy": [
+        "Take 3 facts you know for sure (a shop's hours, where a friend is, a train timetable) and draw a はずがない conclusion from each, in your notebook.",
+        "🔬 Anatomy → Analyze: paste example 1. 休みだから shows up as REASON (the fact), and the end splits into 開いているはずが (SUBJECT) + ない (PREDICATE), the same shape as わけがない. Read the predicate first, then find the reason that rules it out.",
+        "Say this chain aloud and notice how the tone gets stronger: 開いていないはずだ (I think it's closed) → 開いているはずがない (it can't be open) → 開いているわけないよ！ (no way it's open!)."
+      ],
+      "flag": "はずがない and わけがない overlap a lot, and in many sentences either one is correct. The difference given here (はずがない = reasoning from facts; わけがない = a stronger, more personal reaction) is a tendency described in learner guides, not a strict rule, and native speakers don't always agree on it. If you hear one where you expected the other, it is probably not a mistake."
+    }
+  ],
+  "media": [
+    { "order": 1, "kind": "reading", "title": "JLPT Sensei: the pages on わけだ, わけではない, わけがない and はずがない, with more examples", "where": "Website · JLPT Sensei (grammar lists by level)", "url": "", "search": "JLPT Sensei wake da wake dewa nai wake ga nai hazu ga nai", "when": "After the grammar block. Read the example sentences aloud. If the site lists a point at another level, that's fine: unofficial lists vary." },
+    { "order": 2, "kind": "video", "title": "Japanese Ammo with Misa: わけ (わけだ, わけではない, わけがない)", "where": "YouTube · Japanese Ammo with Misa channel", "url": "", "search": "Japanese Ammo with Misa wake", "when": "After point c, as a second explanation. If the video also covers はず, watch that part after point d." },
+    { "order": 3, "kind": "input", "title": "Nihongo con Teppei: listen to one episode and note every わけ or はず you catch", "where": "Podcast · Nihongo con Teppei", "url": "", "search": "Nihongo con Teppei podcast", "when": "On any day after the lesson. Relaxed, spoken Japanese is where わけ shows up most; for each one, decide which of the four it is." }
+  ],
+  "homework": {
+    "intro": "Do it by hand in your notebook. Write with the kanji you already know and use kana for the rest. Only then open the answer key, item by item. Circle what you got wrong and redo it the next day.",
+    "tasks": [
+      {
+        "id": "h1",
+        "type": "fill",
+        "prompt": "Fill in わけだ, わけではない or わけがない, in the right form for the sentence (です／ない／けど…).",
+        "items": [
+          { "q": "三時間も歩いたんですか。疲れた＿＿ね。", "a": { "jp": "三時間も歩いたんですか。疲れたわけですね。", "kana": "さんじかんもあるいたんですか。つかれたわけですね。", "romaji": "Sanjikan mo aruita n desu ka. Tsukareta wake desu ne." }, "note": "A fact that explains what you notice: わけだ (no wonder you're tired)." },
+          { "q": "料理が嫌いな＿＿けど、毎日作る時間がないんです。", "a": { "jp": "料理が嫌いなわけではないけど、毎日作る時間がないんです。", "kana": "りょうりがきらいなわけではないけど、まいにちつくるじかんがないんです。", "romaji": "Ryōri ga kirai na wake de wa nai kedo, mainichi tsukuru jikan ga nai n desu." }, "note": "Correcting an assumption, then the real reason: わけではない." },
+          { "q": "あんなに高い車、私に買える＿＿。", "a": { "jp": "あんなに高い車、私に買えるわけがない。", "kana": "あんなにたかいくるま、わたしにかえるわけがない。", "romaji": "Anna ni takai kuruma, watashi ni kaeru wake ga nai." }, "note": "A strong \"no way\": わけがない." },
+          { "q": "高い店だからといって、いつもおいしい＿＿。", "a": { "jp": "高い店だからといって、いつもおいしいわけではない。", "kana": "たかいみせだからといって、いつもおいしいわけではない。", "romaji": "Takai mise dakara to itte, itsumo oishii wake de wa nai." }, "note": "からといって + いつも: \"not always\" — わけではない." },
+          { "q": "この部屋、北向きなんですね。どうりで暗い＿＿ね。", "a": { "jp": "この部屋、北向きなんですね。どうりで暗いわけですね。", "kana": "このへや、きたむきなんですね。どうりでくらいわけですね。", "romaji": "Kono heya, kitamuki nan desu ne. Dōri de kurai wake desu ne." }, "note": "どうりで + わけだ = no wonder." }
+        ]
+      },
+      {
+        "id": "h2",
+        "type": "fill",
+        "prompt": "Fill in わけがない or はずがない (or a casual form of one). Write the one that fits better and say why. In some items both work.",
+        "items": [
+          { "q": "山田さんは今、出張で北海道にいる。さっき会議室にいた＿＿。", "a": { "jp": "山田さんは今、出張で北海道にいる。さっき会議室にいたはずがない。", "kana": "やまださんはいま、しゅっちょうでほっかいどうにいる。さっきかいぎしつにいたはずがない。", "romaji": "Yamada-san wa ima, shutchō de Hokkaidō ni iru. Sakki kaigishitsu ni ita hazu ga nai." }, "note": "A conclusion from a fact (he's in Hokkaido): はずがない is the natural choice. わけがない is also possible." },
+          { "q": "そんな＿＿！冗談でしょう？", "a": { "jp": "そんなわけない！冗談でしょう？", "kana": "そんなわけない！じょうだんでしょう？", "romaji": "Sonna wake nai! Jōdan deshō?" }, "note": "The set casual reaction is そんなわけない (the が drops). そんなはずはない is also common: it means \"that can't be right\", because it goes against what you know." },
+          { "q": "電池を入れかえたばかりだから、もう切れている＿＿。", "a": { "jp": "電池を入れかえたばかりだから、もう切れているはずがない。", "kana": "でんちをいれかえたばかりだから、もうきれているはずがない。", "romaji": "Denchi o irekaeta bakari dakara, mō kirete iru hazu ga nai." }, "note": "Logic from a fact (たばかり, lesson P-05): はずがない. わけがない also works." },
+          { "q": "あの人がそんなひどいことを言う＿＿。優しい人だもん。", "a": { "jp": "あの人がそんなひどいことを言うわけがない。優しい人だもん。", "kana": "あのひとがそんなひどいことをいうわけがない。やさしいひとだもん。", "romaji": "Ano hito ga sonna hidoi koto o iu wake ga nai. Yasashii hito da mon." }, "note": "Both work. わけがない sounds more like a personal, emotional defense of her; はずがない more like a judgment from what you know about her." }
+        ]
+      },
+      {
+        "id": "h3",
+        "type": "translate",
+        "prompt": "Translate into Japanese.",
+        "items": [
+          { "q": "You only slept three hours? No wonder you're sleepy.", "a": { "jp": "三時間しか寝なかったんですか。どうりで眠いわけですね。", "kana": "さんじかんしかねなかったんですか。どうりでねむいわけですね。", "romaji": "Sanjikan shika nenakatta n desu ka. Dōri de nemui wake desu ne." } },
+          { "q": "It's not that I hate studying.", "a": { "jp": "勉強が嫌いなわけではありません。", "kana": "べんきょうがきらいなわけではありません。", "romaji": "Benkyō ga kirai na wake de wa arimasen." }, "note": "な-adjective + な + わけ." },
+          { "q": "Just because something is expensive doesn't mean it's good.", "a": { "jp": "高いからといって、いいわけではない。", "kana": "たかいからといって、いいわけではない。", "romaji": "Takai kara to itte, ii wake de wa nai." } },
+          { "q": "There's no way I can read this kanji.", "a": { "jp": "この漢字が読めるわけがない。", "kana": "このかんじがよめるわけがない。", "romaji": "Kono kanji ga yomeru wake ga nai." }, "note": "A potential verb (読める) usually takes が for its object." },
+          { "q": "He only just left, so he can't have arrived already.", "a": { "jp": "彼はさっき出たばかりだから、もう着いているはずがない。", "kana": "かれはさっきでたばかりだから、もうついているはずがない。", "romaji": "Kare wa sakki deta bakari dakara, mō tsuite iru hazu ga nai." }, "note": "A conclusion from a fact: はずがない (わけがない also works)." }
+        ]
+      },
+      {
+        "id": "h4",
+        "type": "produce",
+        "prompt": "Write 4 sentences about your Japanese study: one with わけだ, one with わけではない, one with わけがない and one with はずがない. Read them aloud and record yourself on your phone.",
+        "items": [
+          { "q": "Model (match its structure, not its words):", "a": { "jp": "毎日三十分勉強しているから、一年で百八十時間ぐらい勉強するわけだ。でも、毎日楽しいわけではない。難しい文法が一回でわかるわけがない。でも、続けていれば、上手にならないはずがない。", "kana": "まいにちさんじゅっぷんべんきょうしているから、いちねんでひゃくはちじゅうじかんぐらいべんきょうするわけだ。でも、まいにちたのしいわけではない。むずかしいぶんぽうがいっかいでわかるわけがない。でも、つづけていれば、じょうずにならないはずがない。", "romaji": "Mainichi sanjuppun benkyō shite iru kara, ichinen de hyakuhachijū jikan gurai benkyō suru wake da. Demo, mainichi tanoshii wake de wa nai. Muzukashii bunpō ga ikkai de wakaru wake ga nai. Demo, tsuzukete ireba, jōzu ni naranai hazu ga nai.", "en": "I study thirty minutes every day, so that means I study about 180 hours a year. But it's not that every day is fun. There's no way I can understand hard grammar in one go. But if I keep at it, there's no way I won't get better." }, "note": "Check: な before わけ／はず after a な-adjective, the right particle after わけ (が or では), and a fact before each conclusion." }
+        ]
+      }
+    ],
+    "workbook": []
+  },
+  "practice": [
+    { "tool": "Wagotabi", "what": "Play in the game's N3 area. Hunt for わけ and はず in the dialogues. When you find one, pause and say out loud which of the four it is (わけだ, わけではない, わけがない, はずがない) and what fact it rests on. Log the session in Immersion → Games and paste one of those lines into 🔬 Anatomy.", "min": 15 },
+    { "tool": "NHK NEWS WEB EASY", "what": "Read one article and listen to its audio. If you find わけ or はず, copy the sentence and say what it means. If not, pick one fact from the article and write your own conclusion about it with 〜わけだ or 〜はずがない.", "min": 10 },
+    { "tool": "ヅオリンゴー · Journal", "what": "Write 5 sentences of your own: one each with わけだ, わけではない, わけがない and はずがない, plus a two-line mini-dialogue that ends in そんなわけない！ Use \"Anatomy of what I wrote\" and check that わけ／はず sits inside the predicate, at the very end.", "min": 10 },
+    { "tool": "Shadowing", "what": "Tap 🔊 on each example in this lesson and repeat along 3 times. Then contrast the three endings aloud: わけです・わけではありません・わけがありません — slowly first, then at full speed.", "min": 5 },
+    { "tool": "Speaking", "what": "Record 30 seconds reacting to 3 surprising \"facts\" a friend tells you (make them up): one with どうりで〜わけだ, one with 〜わけじゃないけど, and one with そんなわけない！", "min": 5 }
+  ],
+  "culture": {
+    "title": "Personal seals (はんこ)",
+    "titleJp": "はんこ",
+    "body": "In Japan, many documents have traditionally been \"signed\" with a **はんこ** (判子, also called いんかん, 印鑑): a small seal with your family name on it that you press in red ink (しゅにく). People use a cheap everyday seal (みとめいん, 認印) for things like receiving packages at work, and an officially registered seal (じついん, 実印) for important contracts, such as buying a car or a house. Banks have also traditionally asked for a seal (ぎんこういん, 銀行印) to open an account. In recent years, the government and many companies have been cutting back on hanko requirements, so a signature or an online procedure is often enough now. Foreign residents can usually sign instead, but some still have a hanko made with their name in katakana.",
+    "try": "Practice the two phrases you're most likely to hear and say: はんこをお願いします。／サインでもいいですか。 Then use this lesson: はんこがないと何もできないわけではない。 (It's not that you can't do anything without a hanko.)"
+  },
+  "checklist": [
+    "I can react to a fact with どうりで〜わけだ without looking.",
+    "I can restate a calculation or an idea with つまり〜わけだ.",
+    "I can correct an assumption softly with 〜わけではないけど… and with 〜からといって、〜わけではない.",
+    "I can reject something strongly with 〜わけがない and say そんなわけない！ naturally.",
+    "I can say that something can't be true from the facts with 〜はずがない, and I know it overlaps with わけがない.",
+    "I never mix up わけではない (it's not that…) and わけがない (there's no way).",
+    "I did the homework, checked it against the answer key and redid what I got wrong."
+  ]
+}

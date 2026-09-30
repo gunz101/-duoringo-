@@ -2,189 +2,189 @@
   "id": "23-1",
   "unit": "G2-L23",
   "genki": { "book": "Genki II", "lesson": 23, "points": ["Causative-Passive Sentences", "〜ても"] },
-  "title": "Ser obrigado a · mesmo que",
+  "title": "Being made to · even if",
   "titleJp": "したくなくても、させられる",
   "canDo": [
-    "Montar o causativo-passivo de qualquer verbo empilhando causativo + passivo: 食べさせられる, 飲まされる, 話させられる, させられる, 来させられる.",
-    "Contar algo que me obrigaram a fazer, com quem foi obrigado em は e quem obrigou em に: 私は母に野菜を食べさせられました。",
-    "Escolher entre 〜させられました (fui obrigado, não queria) e 〜させてくれました (me deixaram, eu queria).",
-    "Dizer \"mesmo que…\" com 〜ても em verbos, adjetivos い, adjetivos な e substantivos: 雨がふっても, 高くても, ひまでも, 子どもでも.",
-    "Deixar o passado só no fim da frase com ても: いくら待っても、バスは来ませんでした。"
+    "I can build the causative-passive of any verb by stacking causative + passive: 食べさせられる, 飲まされる, 話させられる, させられる, 来させられる.",
+    "I can tell about something I was made to do, with the person who was made to do it marked by は and the person who made them marked by に: 私は母に野菜を食べさせられました。",
+    "I can choose between 〜させられました (I was made to, and I didn't want to) and 〜させてくれました (they let me, and I wanted to).",
+    "I can say \"even if…\" with 〜ても on verbs, い-adjectives, な-adjectives and nouns: 雨がふっても, 高くても, ひまでも, 子どもでも.",
+    "I can keep the past tense only at the end of a sentence with ても: いくら待っても、バスは来ませんでした。"
   ],
   "duration": {
     "total": "60–75 min",
     "blocks": [
-      { "t": "Aquecimento: dizer em voz alta o causativo (Aula 22-1) e o passivo (Aula 21-1) de 食べる, 飲む, する e くる", "min": 5 },
-      { "t": "Vocabulário: ouvir 🔊 cada palavra do bloco 3 e repetir 2 vezes", "min": 10 },
-      { "t": "Gramática: ponto a (causativo-passivo), com a tabela de empilhamento no caderno e um 🔬", "min": 15 },
-      { "t": "Gramática: ponto b (〜ても), com os exemplos lidos em voz alta e um 🔬", "min": 10 },
-      { "t": "Vídeo da Lição 23 (bloco 6), só a parte do causativo-passivo e de 〜ても", "min": 10 },
-      { "t": "Lição de casa no caderno + conferir no gabarito", "min": 15 },
-      { "t": "Checklist (bloco 10) + anotar dúvidas no caderno da aula", "min": 5 }
+      { "t": "Warm-up: say aloud the causative (lesson 22-1) and the passive (lesson 21-1) of 食べる, 飲む, する and くる", "min": 5 },
+      { "t": "Vocabulary: tap 🔊 on each word in block 3 and repeat it twice", "min": 10 },
+      { "t": "Grammar: point a (causative-passive), with the stacking table in your notebook and one 🔬", "min": 15 },
+      { "t": "Grammar: point b (〜ても), with the examples read aloud and one 🔬", "min": 10 },
+      { "t": "Lesson 23 video (block 6), only the part on the causative-passive and 〜ても", "min": 10 },
+      { "t": "Notebook homework + checking it against the answer key", "min": 15 },
+      { "t": "Checklist (block 10) + write your questions in the lesson notebook", "min": 5 }
     ]
   },
   "prereqs": {
     "aulas": ["22-2"],
     "skills": [
-      "Formar o causativo (Aula 22-1): 食べさせる, 飲ませる, 話させる, させる, 来させる. Ele é o primeiro andar do causativo-passivo.",
-      "Formar o passivo dos verbos る (Aula 21-1): tirar o る e pôr られる. Ele é o segundo andar.",
-      "Fazer a forma て de verbos e adjetivos (Aulas 06-1 e 07-2), que é a base do 〜ても.",
-      "Lembrar de 〜てもいいです (Aula 06-3) e 〜なくてもいいです (Aula 17-2): o ても desta aula já estava escondido nelas."
+      "Forming the causative (lesson 22-1): 食べさせる, 飲ませる, 話させる, させる, 来させる. It is the bottom layer of the causative-passive.",
+      "Forming the passive of る-verbs (lesson 21-1): drop the る and add られる. It is the top layer.",
+      "Making the て-form of verbs and adjectives (lessons 06-1 and 07-2), which is the base of 〜ても.",
+      "Remembering 〜てもいいです (lesson 06-3) and 〜なくてもいいです (lesson 17-2): this lesson's ても was already hidden inside them."
     ],
     "vocab": [
-      { "jp": "子ども", "kana": "こども", "romaji": "kodomo", "pt": "criança; filho(a)" },
-      { "jp": "母", "kana": "はは", "romaji": "haha", "pt": "(minha) mãe" },
-      { "jp": "父", "kana": "ちち", "romaji": "chichi", "pt": "(meu) pai" },
-      { "jp": "弟", "kana": "おとうと", "romaji": "otōto", "pt": "irmão mais novo" },
-      { "jp": "みんな", "kana": "みんな", "romaji": "minna", "pt": "todo mundo, todos" },
-      { "jp": "れんしゅう（する）", "kana": "れんしゅう（する）", "romaji": "renshū (suru)", "pt": "treino; treinar, praticar" },
-      { "jp": "歌", "kana": "うた", "romaji": "uta", "pt": "canção, música cantada" },
-      { "jp": "歌う", "kana": "うたう", "romaji": "utau", "pt": "cantar" },
-      { "jp": "待つ", "kana": "まつ", "romaji": "matsu", "pt": "esperar" },
-      { "jp": "飲む", "kana": "のむ", "romaji": "nomu", "pt": "beber" },
-      { "jp": "話す", "kana": "はなす", "romaji": "hanasu", "pt": "falar" },
-      { "jp": "野菜", "kana": "やさい", "romaji": "yasai", "pt": "verduras e legumes" },
-      { "jp": "そうじ（する）", "kana": "そうじ（する）", "romaji": "sōji (suru)", "pt": "limpeza; limpar" },
-      { "jp": "店長", "kana": "てんちょう", "romaji": "tenchō", "pt": "gerente (de loja ou restaurante)" },
-      { "jp": "作文", "kana": "さくぶん", "romaji": "sakubun", "pt": "redação" },
-      { "jp": "雨がふる", "kana": "あめがふる", "romaji": "ame ga furu", "pt": "chover" },
-      { "jp": "海", "kana": "うみ", "romaji": "umi", "pt": "mar; praia" },
-      { "jp": "いそがしい", "kana": "いそがしい", "romaji": "isogashii", "pt": "ocupado" },
-      { "jp": "ひま（な）", "kana": "ひま（な）", "romaji": "hima (na)", "pt": "livre, sem nada para fazer" },
-      { "jp": "下手（な）", "kana": "へた（な）", "romaji": "heta (na)", "pt": "ruim em algo, sem jeito" },
-      { "jp": "意味", "kana": "いみ", "romaji": "imi", "pt": "significado, sentido" },
-      { "jp": "最後", "kana": "さいご", "romaji": "saigo", "pt": "o fim, o final" },
-      { "jp": "考える", "kana": "かんがえる", "romaji": "kangaeru", "pt": "pensar, refletir" }
+      { "jp": "子ども", "kana": "こども", "romaji": "kodomo", "en": "child; son or daughter" },
+      { "jp": "母", "kana": "はは", "romaji": "haha", "en": "(my) mother" },
+      { "jp": "父", "kana": "ちち", "romaji": "chichi", "en": "(my) father" },
+      { "jp": "弟", "kana": "おとうと", "romaji": "otōto", "en": "younger brother" },
+      { "jp": "みんな", "kana": "みんな", "romaji": "minna", "en": "everyone, everybody" },
+      { "jp": "れんしゅう（する）", "kana": "れんしゅう（する）", "romaji": "renshū (suru)", "en": "practice; to practice" },
+      { "jp": "歌", "kana": "うた", "romaji": "uta", "en": "song" },
+      { "jp": "歌う", "kana": "うたう", "romaji": "utau", "en": "to sing" },
+      { "jp": "待つ", "kana": "まつ", "romaji": "matsu", "en": "to wait" },
+      { "jp": "飲む", "kana": "のむ", "romaji": "nomu", "en": "to drink" },
+      { "jp": "話す", "kana": "はなす", "romaji": "hanasu", "en": "to speak, to talk" },
+      { "jp": "野菜", "kana": "やさい", "romaji": "yasai", "en": "vegetables" },
+      { "jp": "そうじ（する）", "kana": "そうじ（する）", "romaji": "sōji (suru)", "en": "cleaning; to clean" },
+      { "jp": "店長", "kana": "てんちょう", "romaji": "tenchō", "en": "manager (of a store or restaurant)" },
+      { "jp": "作文", "kana": "さくぶん", "romaji": "sakubun", "en": "essay, composition" },
+      { "jp": "雨がふる", "kana": "あめがふる", "romaji": "ame ga furu", "en": "to rain [lit. rain falls]" },
+      { "jp": "海", "kana": "うみ", "romaji": "umi", "en": "sea; beach" },
+      { "jp": "いそがしい", "kana": "いそがしい", "romaji": "isogashii", "en": "busy" },
+      { "jp": "ひま（な）", "kana": "ひま（な）", "romaji": "hima (na)", "en": "free, not busy" },
+      { "jp": "下手（な）", "kana": "へた（な）", "romaji": "heta (na)", "en": "bad at, unskilled" },
+      { "jp": "意味", "kana": "いみ", "romaji": "imi", "en": "meaning" },
+      { "jp": "最後", "kana": "さいご", "romaji": "saigo", "en": "the end, the last part" },
+      { "jp": "考える", "kana": "かんがえる", "romaji": "kangaeru", "en": "to think, to think about" }
     ]
   },
   "grammar": [
     {
       "id": "23-1-a",
       "gc": null,
-      "title": "Causativo-passivo: 〜させられる",
-      "gloss": "ser obrigado a fazer (sem querer)",
-      "explanation": "Na Aula 22-1, o causativo contava a cena do lado de **quem manda**: 母は私に野菜を食べさせました (\"minha mãe me fez comer verduras\"). O causativo-passivo conta a mesma cena do lado de **quem foi obrigado**: 私は母に野菜を食べさせられました (\"fui obrigado pela minha mãe a comer verduras\"). Quase sempre vem junto um tom de **\"eu não queria\"**.\n\n**Como montar: empilhe duas formas que você já conhece.** Primeiro vem o causativo (Aula 22-1). Ele sempre termina em 〜せる / 〜させる e, por isso, conjuga como um verbo る. Depois, em cima dele, vem o passivo dos verbos る (Aula 21-1): tire o る e ponha **られる**.\n• Verbo る: 食べる → 食べさせる → 食べさ**せられる**. No japonês padrão não há forma curta.\n• Verbo う: 飲む → 飲ませる → 飲ま**せられる**. Na fala, a maioria dos verbos う usa uma **forma curta**, em que o せら encolhe para さ: 飲ま**される**. As duas estão certas, e a curta é a mais comum no dia a dia: 待たされる, 歌わされる, 書かされる.\n• Verbo う terminado em す: 話す → 話させる → 話さ**せられる**. Aqui **não se usa** a forma curta (話さされる ✗), porque ficaria さ + さ.\n• する → させる → **させられる**.\n• くる → こさせる → **こさせられる** (来させられる).\n\n**A frase, bloco por bloco.** [quem foi obrigado]は | [quem obrigou]に | [objeto]を | 〜させられました。 O PREDICADO (〜させられました) diz \"fui obrigado a…\"; o bloco com に é quem mandou. Quem mandou pode ficar implícito: パーティーでビールを飲まされました (\"na festa me fizeram beber cerveja\").\n• O resultado conjuga como qualquer verbo る: させられます, させられた, させられて, させられない.\n• Você também vai encontrar 考えさせられる (\"me fez pensar\"), sobre um filme ou livro que deixa a gente refletindo. Aí ninguém está mandando: é a obra que provoca a reflexão.",
-      "structure": "[quem foi obrigado] は [quem obrigou] に [objeto] を 〜させられる。 · 食べさせられる · 飲まされる (飲ませられる) · 話させられる · させられる · 来させられる",
+      "title": "The causative-passive: 〜させられる",
+      "gloss": "being made to do something (against your will)",
+      "explanation": "In lesson 22-1, the causative told the scene from the side of **the person giving the orders**: 母は私に野菜を食べさせました (\"my mother made me eat vegetables\"). The causative-passive tells the same scene from the side of **the person who was made to do it**: 私は母に野菜を食べさせられました (\"I was made to eat vegetables by my mother\"). It almost always carries a tone of **\"I didn't want to\"**. It works like English \"I was made to…\".\n\n**How to build it: stack two forms you already know.** First comes the causative (lesson 22-1). It always ends in 〜せる / 〜させる, so it conjugates like a る-verb. Then, on top of it, comes the passive of る-verbs (lesson 21-1): drop the る and add **られる**.\n• る-verb: 食べる → 食べさせる → 食べさ**せられる**. Standard Japanese has no short form here.\n• う-verb: 飲む → 飲ませる → 飲ま**せられる**. In speech, most う-verbs use a **short form**, where せら shrinks to さ: 飲ま**される**. Both are correct, and the short one is the more common in everyday speech: 待たされる, 歌わされる, 書かされる.\n• う-verb ending in す: 話す → 話させる → 話さ**せられる**. Here the short form is **not** used (話さされる ✗), because it would give さ + さ.\n• する → させる → **させられる**.\n• くる → こさせる → **こさせられる** (来させられる).\n\n**The sentence, block by block.** [the person made to do it]は | [the person who made them]に | [object]を | 〜させられました。 The PREDICATE (〜させられました) says \"I was made to…\"; the block with に is the person who gave the order. That person can stay unsaid: パーティーでビールを飲まされました (\"At the party, I was made to drink beer\").\n• The result conjugates like any る-verb: させられます, させられた, させられて, させられない.\n• You will also meet 考えさせられる (\"it made me think\"), about a film or a book that leaves you thinking. Here nobody is giving orders: the work itself makes you think.",
+      "structure": "[person made to do it] は [person who made them] に [object] を 〜させられる。 · 食べさせられる · 飲まされる (飲ませられる) · 話させられる · させられる · 来させられる",
       "examples": [
-        { "jp": "子どものとき、母に毎日ピアノのれんしゅうをさせられました。", "kana": "こどものとき、ははにまいにちピアノのれんしゅうをさせられました。", "romaji": "Kodomo no toki, haha ni mainichi piano no renshū o saseraremashita.", "pt": "Quando eu era criança, minha mãe me obrigava a praticar piano todo dia." },
-        { "jp": "きのうのパーティーで、ペドロさんはみんなに歌を歌わされました。", "kana": "きのうのパーティーで、ペドロさんはみんなにうたをうたわされました。", "romaji": "Kinō no pātī de, Pedoro-san wa minna ni uta o utawasaremashita.", "pt": "Na festa de ontem, o Pedro foi obrigado por todo mundo a cantar." },
-        { "jp": "駅でマリアさんに一時間も待たされました。", "kana": "えきでマリアさんにいちじかんもまたされました。", "romaji": "Eki de Maria-san ni ichijikan mo matasaremashita.", "pt": "Na estação, a Maria me fez esperar uma hora inteira." }
+        { "jp": "子どものとき、母に毎日ピアノのれんしゅうをさせられました。", "kana": "こどものとき、ははにまいにちピアノのれんしゅうをさせられました。", "romaji": "Kodomo no toki, haha ni mainichi piano no renshū o saseraremashita.", "en": "When I was a child, my mother made me practice the piano every day. [lit. as a child, I was made by my mother to do piano practice every day]" },
+        { "jp": "きのうのパーティーで、ペドロさんはみんなに歌を歌わされました。", "kana": "きのうのパーティーで、ペドロさんはみんなにうたをうたわされました。", "romaji": "Kinō no pātī de, Pedoro-san wa minna ni uta o utawasaremashita.", "en": "At yesterday's party, Pedro was made to sing a song by everyone." },
+        { "jp": "駅でマリアさんに一時間待たされました。", "kana": "えきでマリアさんにいちじかんまたされました。", "romaji": "Eki de Maria-san ni ichijikan matasaremashita.", "en": "At the station, Maria kept me waiting for an hour. [lit. I was made to wait an hour by Maria]" }
       ],
       "pitfalls": [
-        "Não confunda com o passivo simples (Aula 21-1). 食べられました = \"foi comido\" ou \"comeram (o meu)…\"; 食べさせられました = \"fui obrigado a comer\". O させ do meio muda tudo.",
-        "Não inverta os papéis: quem foi obrigado fica com は, e quem obrigou fica com に. 母は私に野菜を食べさせられました ✗ quer dizer que VOCÊ obrigou a sua mãe → 私は母に野菜を食べさせられました ✓. Se o bloco com は for quem manda, use o causativo simples: 母は私に野菜を食べさせました ✓.",
-        "A ordem do empilhamento é sempre causativo → passivo: 食べられさせる ✗ → 食べさせられる ✓. E verbos em す não encurtam: 話さされる ✗ → 話させられる ✓.",
-        "Se você queria fazer, não use o causativo-passivo. \"O gerente me deixou ir embora cedo\" (e você gostou): 早く帰らせてくれました ✓ (Aula 22-1). 早く帰らされました soa como \"me mandaram embora cedo\", contra a sua vontade."
+        "Don't confuse it with the plain passive (lesson 21-1). 食べられました = \"it was eaten\" or \"someone ate (my)…\"; 食べさせられました = \"I was made to eat\". The させ in the middle changes everything.",
+        "Don't swap the roles: the person who was made to do it takes は, and the person who made them takes に. 母は私に野菜を食べさせられました ✗ means that YOU made your mother eat vegetables → 私は母に野菜を食べさせられました ✓. If the は block is the person giving the orders, use the plain causative: 母は私に野菜を食べさせました ✓.",
+        "The stacking order is always causative → passive: 食べられさせる ✗ → 食べさせられる ✓. And verbs ending in す don't shorten: 話さされる ✗ → 話させられる ✓.",
+        "If you wanted to do it, don't use the causative-passive. \"The manager let me go home early\" (and you were glad): 早く帰らされました ✗ → 早く帰らせてくれました ✓ (lesson 22-1). 早く帰らされました sounds like \"they sent me home early\", against your will."
       ],
       "howToStudy": [
-        "No caderno, faça uma tabela com 3 colunas (dicionário → causativo → causativo-passivo) para 8 verbos: 食べる, 飲む, 待つ, 歌う, 書く, 話す, する, くる. Nos verbos う, escreva as duas formas (longa e curta), menos em 話す.",
-        "Aperte 🔬 no exemplo 1. 母に é QUEM OBRIGOU e させられました é o PREDICADO. Leia primeiro o predicado (\"fui obrigado a fazer\") e depois pergunte: fazer o quê? (ピアノのれんしゅう) Quem mandou? (母)",
-        "Fale em voz alta 3 coisas que obrigavam você a fazer quando era criança: 子どものとき、〜に〜させられました。 Grave e confira se o に está em quem mandava."
+        "In your notebook, make a table with 3 columns (dictionary form → causative → causative-passive) for 8 verbs: 食べる, 飲む, 待つ, 歌う, 書く, 話す, する, くる. For the う-verbs, write both forms (long and short), except for 話す.",
+        "Tap 🔬 on example 1. 母に shows up as TARGET (here, the person who made you do it), ピアノのれんしゅうを as OBJECT and させられました as the PREDICATE. Read the predicate first (\"I was made to do\"), then ask: do what? (ピアノのれんしゅう) Who made me? (母)",
+        "Say aloud 3 things you were made to do as a child: 子どものとき、〜に〜させられました。 Record yourself and check that に is on the person who gave the orders."
       ],
-      "flag": "Confira no seu Genki II se a lição traz estes pontos nesta ordem."
+      "flag": "Check in your Genki II that this lesson has these points in this order."
     },
     {
       "id": "23-1-b",
       "gc": null,
-      "title": "〜ても: mesmo que…",
-      "gloss": "a condição não muda o resultado",
-      "explanation": "〜ても diz que **a condição não muda o resultado**: \"mesmo que X, Y\". Você já conhece esse ても: ele está dentro de 〜てもいいです (Aula 06-3, literalmente \"mesmo que faça, está bom\") e de 〜なくてもいいです (Aula 17-2).\n\n**Como montar: forma て + も.**\n• Verbo: ふって → 雨がふっ**ても** (\"mesmo que chova\"). No negativo, 〜ない vira 〜な**くても**, como um adjetivo い: 分からなくても (\"mesmo que não entenda\").\n• Adjetivo い: tire o い e ponha **くても** → 高くても. いい vira **よくても**.\n• Adjetivo な e substantivo: **でも**, sem だ → ひまでも, 子どもでも.\n\n**A frase, bloco por bloco.** [condição 〜ても]、| [resultado]。 O PREDICADO é o resultado, no fim: é ele que diz o que acontece de qualquer jeito. O bloco com ても é só a condição que **não** consegue mudar esse resultado.\n• O tempo (presente ou passado) fica só no fim da frase. A forma ても não tem passado: いくら待っても、バスは来ませんでした (\"por mais que eu esperasse, o ônibus não veio\").\n• Com palavra interrogativa, vira \"não importa…\": 何を食べても (\"coma o que comer\"), どこに行っても (\"aonde quer que vá\"), いくら勉強しても (\"por mais que estude\").",
-      "structure": "[verbo-て]も · [adj-い sem い]くても · [adj-な / N]でも 、[resultado]。",
+      "title": "〜ても: even if…",
+      "gloss": "the condition doesn't change the result",
+      "explanation": "〜ても says that **the condition doesn't change the result**: \"even if X, Y\". You already know this ても: it is inside 〜てもいいです (lesson 06-3, literally \"even if you do it, it's fine\") and 〜なくてもいいです (lesson 17-2).\n\n**How to build it: て-form + も.**\n• Verb: ふって → 雨がふっ**ても** (\"even if it rains\"). In the negative, 〜ない becomes 〜な**くても**, like an い-adjective: 分からなくても (\"even if you don't understand\").\n• い-adjective: drop the い and add **くても** → 高くても. いい becomes **よくても**.\n• な-adjective and noun: **でも**, without だ → ひまでも, 子どもでも.\n\n**The sentence, block by block.** [condition 〜ても]、| [result]。 The PREDICATE is the result, at the end: it says what happens no matter what. The block with ても is only the condition that **can't** change that result.\n• The tense (present or past) goes only at the end of the sentence. The ても form has no past: いくら待っても、バスは来ませんでした (\"no matter how long I waited, the bus didn't come\").\n• With a question word, it becomes \"no matter…\": 何を食べても (\"no matter what you eat\"), どこに行っても (\"wherever you go\"), いくら勉強しても (\"no matter how much you study\").",
+      "structure": "[verb-て]も · [い-adj without い]くても · [な-adj / N]でも 、[result]。",
       "examples": [
-        { "jp": "あした雨がふっても、海に行きます。", "kana": "あしたあめがふっても、うみにいきます。", "romaji": "Ashita ame ga futte mo, umi ni ikimasu.", "pt": "Mesmo que chova amanhã, vou à praia." },
-        { "jp": "この本は高くても、買いたいです。", "kana": "このほんはたかくても、かいたいです。", "romaji": "Kono hon wa takakute mo, kaitai desu.", "pt": "Mesmo que este livro seja caro, quero comprá-lo." },
-        { "jp": "日本語が下手でも、毎日話したほうがいいですよ。", "kana": "にほんごがへたでも、まいにちはなしたほうがいいですよ。", "romaji": "Nihongo ga heta demo, mainichi hanashita hō ga ii desu yo.", "pt": "Mesmo que o seu japonês ainda seja fraco, é melhor falar todo dia." }
+        { "jp": "あした雨がふっても、海に行きます。", "kana": "あしたあめがふっても、うみにいきます。", "romaji": "Ashita ame ga futte mo, umi ni ikimasu.", "en": "Even if it rains tomorrow, I'll go to the beach.", "noAnat": true },
+        { "jp": "この本は高くても、買いたいです。", "kana": "このほんはたかくても、かいたいです。", "romaji": "Kono hon wa takakute mo, kaitai desu.", "en": "Even if this book is expensive, I want to buy it.", "noAnat": true },
+        { "jp": "日本語が下手でも、毎日話したほうがいいですよ。", "kana": "にほんごがへたでも、まいにちはなしたほうがいいですよ。", "romaji": "Nihongo ga heta demo, mainichi hanashita hō ga ii desu yo.", "en": "Even if your Japanese is poor, it's better to speak it every day." }
       ],
       "pitfalls": [
-        "A forma ても não tem passado: 待ったても ✗. O passado vai só no fim: いくら待っても、来ませんでした ✓.",
-        "Adjetivo い perde o い: 高いても ✗ → 高くても ✓. E いい é irregular: いくても ✗ → よくても ✓.",
-        "Adjetivo な e substantivo usam でも, sem だ: ひまだても ✗ → ひまでも ✓; 子どもだても ✗ → 子どもでも ✓.",
-        "ても × たら × のに. 雨がふったら、行きません = \"se chover, não vou\" (a chuva muda o plano, Aula 17-2). 雨がふっても、行きます = \"mesmo que chova, vou\" (não muda nada). E のに (Aula 22-2) fala de um fato que já aconteceu, com surpresa ou frustração: 雨がふっているのに、出かけました (\"apesar de estar chovendo, saiu\")."
+        "The ても form has no past: 待ったても ✗. The past goes only at the end: いくら待っても、来ませんでした ✓.",
+        "い-adjectives lose the い: 高いても ✗ → 高くても ✓. And いい is irregular: いくても ✗ → よくても ✓.",
+        "な-adjectives and nouns use でも, without だ: ひまだても ✗ → ひまでも ✓; 子どもだても ✗ → 子どもでも ✓.",
+        "ても × たら × のに. 雨がふったら、行きません = \"if it rains, I won't go\" (the rain changes the plan, lesson 17-2). For \"even if it rains, I'll go\" (nothing changes): 雨がふったら、行きます ✗ → 雨がふっても、行きます ✓. And のに (lesson 22-2) is closer to English \"even though\": it is about something that already happened, with surprise or frustration: 雨がふっているのに、出かけました (\"even though it was raining, they went out\")."
       ],
       "howToStudy": [
-        "No caderno, faça uma tabela com 4 linhas (verbo, adjetivo い, adjetivo な, substantivo) e escreva 2 exemplos de 〜ても em cada linha. Inclua よくても e 分からなくても.",
-        "Aperte 🔬 no exemplo 1. あした雨がふっても é a CONDIÇÃO e 海に行きます é o PREDICADO. Leia primeiro o predicado (\"vou à praia\") e só depois a condição que não muda nada.",
-        "Fale em voz alta 3 promessas suas com ても: いそがしくても、毎日日本語を勉強します。 / つかれていても、〜。 / 雨がふっても、〜。"
+        "In your notebook, make a table with 4 rows (verb, い-adjective, な-adjective, noun) and write 2 examples of 〜ても in each row. Include よくても and 分からなくても.",
+        "Tap 🔬 on example 3. 下手でも shows up as IF / WHEN (the condition), 話したほうが as SUBJECT and いいですよ as the PREDICATE. Read the predicate first (\"it's better\"), then ask: what is better? (speaking every day) And the condition that changes nothing? (even if your Japanese is poor)",
+        "Say aloud 3 promises of your own with ても: いそがしくても、毎日日本語を勉強します。 / つかれていても、〜。 / 雨がふっても、〜。"
       ],
       "flag": null
     }
   ],
   "media": [
-    { "order": 1, "kind": "leitura", "title": "Genki II · Lição 23: diálogo, vocabulário e as explicações de gramática do causativo-passivo e de 〜ても", "where": "Seu livro Genki II", "url": "", "when": "Antes desta aula ou logo depois do bloco de gramática. Os outros pontos da lição ficam para a Aula 23-2." },
-    { "order": 2, "kind": "video", "title": "Japanese Ammo with Misa: causativo-passivo (reforço opcional)", "where": "YouTube · canal Japanese Ammo with Misa", "url": "", "search": "Japanese Ammo with Misa causative passive", "when": "Opcional, se o empilhamento causativo + passivo ainda estiver confuso depois do ponto a" }
+    { "order": 1, "kind": "reading", "title": "Genki II · Lesson 23: the dialogue, the vocabulary and the grammar notes on causative-passive sentences and 〜ても", "where": "Your Genki II textbook", "url": "", "when": "Before this lesson or right after the grammar block. The other points of the lesson are left for lesson 23-2." },
+    { "order": 2, "kind": "video", "title": "Japanese Ammo with Misa: the causative-passive (optional extra)", "where": "YouTube · Japanese Ammo with Misa channel", "url": "", "search": "Japanese Ammo with Misa causative passive", "when": "Optional, if stacking causative + passive is still confusing after point a" }
   ],
   "homework": {
-    "intro": "Faça no caderno, à mão. Escreva o japonês com os kanji da aula e confira a leitura no gabarito. Só depois abra o gabarito, item por item. Circule o que errou e refaça no dia seguinte. Se você tiver o Genki II Workbook, faça também os exercícios desta lição.",
+    "intro": "Do it by hand in your notebook, with the kanji you know and kana for the rest. Only then open the answer key, item by item, and check the readings too. Circle what you got wrong and redo it the next day. If you have the Genki II Workbook, do this lesson's exercises too.",
     "tasks": [
       {
         "id": "h1",
-        "type": "transformar",
-        "prompt": "Empilhe as formas: escreva o causativo e depois o causativo-passivo. Nos verbos う (menos os terminados em す), dê também a forma curta.",
+        "type": "transform",
+        "prompt": "Stack the forms: write the causative and then the causative-passive. For う-verbs (except those ending in す), give the short form too.",
         "items": [
-          { "q": "食べる", "a": { "jp": "食べさせる → 食べさせられる", "kana": "たべさせる → たべさせられる", "romaji": "tabesaseru → tabesaserareru" }, "note": "Verbo る: só a forma longa." },
-          { "q": "飲む", "a": { "jp": "飲ませる → 飲ませられる／飲まされる", "kana": "のませる → のませられる／のまされる", "romaji": "nomaseru → nomaserareru / nomasareru" }, "note": "Verbo う: a forma curta (a + される) é a mais comum na fala." },
+          { "q": "食べる", "a": { "jp": "食べさせる → 食べさせられる", "kana": "たべさせる → たべさせられる", "romaji": "tabesaseru → tabesaserareru" }, "note": "る-verb: only the long form." },
+          { "q": "飲む", "a": { "jp": "飲ませる → 飲ませられる／飲まされる", "kana": "のませる → のませられる／のまされる", "romaji": "nomaseru → nomaserareru / nomasareru" }, "note": "う-verb: the short form (飲ま + される) is the most common one in speech." },
           { "q": "待つ", "a": { "jp": "待たせる → 待たせられる／待たされる", "kana": "またせる → またせられる／またされる", "romaji": "mataseru → mataserareru / matasareru" } },
-          { "q": "話す", "a": { "jp": "話させる → 話させられる", "kana": "はなさせる → はなさせられる", "romaji": "hanasaseru → hanasaserareru" }, "note": "Terminado em す: não se usa a forma curta (話さされる ✗)." },
-          { "q": "する", "a": { "jp": "させる → させられる", "romaji": "saseru → saserareru" }, "note": "Irregular, mas segue o mesmo empilhamento: させる + られる." },
-          { "q": "来る", "a": { "jp": "来させる → 来させられる", "kana": "こさせる → こさせられる", "romaji": "kosaseru → kosaserareru" }, "note": "Aqui o 来 se lê こ." }
+          { "q": "話す", "a": { "jp": "話させる → 話させられる", "kana": "はなさせる → はなさせられる", "romaji": "hanasaseru → hanasaserareru" }, "note": "Ends in す: the short form is not used (話さされる ✗)." },
+          { "q": "する", "a": { "jp": "させる → させられる", "romaji": "saseru → saserareru" }, "note": "Irregular, but it follows the same stacking: させる + られる." },
+          { "q": "来る", "a": { "jp": "来させる → 来させられる", "kana": "こさせる → こさせられる", "romaji": "kosaseru → kosaserareru" }, "note": "Here 来 is read こ." }
         ]
       },
       {
         "id": "h2",
-        "type": "transformar",
-        "prompt": "Conte a mesma cena do lado de quem foi obrigado: passe do causativo para o causativo-passivo. Quem obedece vai para は, e quem manda vai para に.",
+        "type": "transform",
+        "prompt": "Tell the same scene from the side of the person who was made to do it: change the causative into the causative-passive. The person who obeys goes to は, and the person who gives the order goes to に.",
         "items": [
-          { "q": "先生は学生に作文を書かせました。", "a": { "jp": "学生は先生に作文を書かされました。", "kana": "がくせいはせんせいにさくぶんをかかされました。", "romaji": "Gakusei wa sensei ni sakubun o kakasaremashita." }, "note": "書かせられました também está certo." },
+          { "q": "先生は学生に作文を書かせました。", "a": { "jp": "学生は先生に作文を書かされました。", "kana": "がくせいはせんせいにさくぶんをかかされました。", "romaji": "Gakusei wa sensei ni sakubun o kakasaremashita." }, "note": "書かせられました is also correct." },
           { "q": "店長はアルバイトの人にトイレのそうじをさせました。", "a": { "jp": "アルバイトの人は店長にトイレのそうじをさせられました。", "kana": "アルバイトのひとはてんちょうにトイレのそうじをさせられました。", "romaji": "Arubaito no hito wa tenchō ni toire no sōji o saseraremashita." } },
-          { "q": "友だちは私を三十分待たせました。", "a": { "jp": "私は友だちに三十分待たされました。", "kana": "わたしはともだちにさんじゅっぷんまたされました。", "romaji": "Watashi wa tomodachi ni sanjuppun matasaremashita." }, "note": "No causativo de 待つ, quem espera costuma vir com を. No causativo-passivo, quem esperou vai para は, e quem fez esperar vai para に." },
-          { "q": "父は弟に野菜を食べさせました。", "a": { "jp": "弟は父に野菜を食べさせられました。", "kana": "おとうとはちちにやさいをたべさせられました。", "romaji": "Otōto wa chichi ni yasai o tabesaseraremashita." }, "note": "O objeto (野菜を) não muda de lugar nem de partícula." }
+          { "q": "友だちは私を三十分待たせました。", "a": { "jp": "私は友だちに三十分待たされました。", "kana": "わたしはともだちにさんじゅっぷんまたされました。", "romaji": "Watashi wa tomodachi ni sanjuppun matasaremashita." }, "note": "In the causative of 待つ, the person who waits usually takes を. In the causative-passive, the person who waited goes to は, and the person who kept them waiting goes to に." },
+          { "q": "父は弟に野菜を食べさせました。", "a": { "jp": "弟は父に野菜を食べさせられました。", "kana": "おとうとはちちにやさいをたべさせられました。", "romaji": "Otōto wa chichi ni yasai o tabesaseraremashita." }, "note": "The object (野菜を) keeps its place and its particle." }
         ]
       },
       {
         "id": "h3",
-        "type": "completar",
-        "prompt": "Complete com a forma ても da palavra entre parênteses. Antes de escrever, decida: é verbo, adjetivo い, adjetivo な ou substantivo?",
+        "type": "fill",
+        "prompt": "Fill in the ても form of the word in parentheses. Before you write, decide: is it a verb, an い-adjective, a な-adjective or a noun?",
         "items": [
-          { "q": "（いそがしい）＿＿、毎日日本語を勉強します。", "a": { "jp": "いそがしくても、毎日日本語を勉強します。", "kana": "いそがしくても、まいにちにほんごをべんきょうします。", "romaji": "Isogashikute mo, mainichi nihongo o benkyō shimasu." }, "note": "Adjetivo い: tira o い e põe くても." },
-          { "q": "天気が（いい）＿＿、今日は出かけません。", "a": { "jp": "天気がよくても、今日は出かけません。", "kana": "てんきがよくても、きょうはでかけません。", "romaji": "Tenki ga yokute mo, kyō wa dekakemasen." }, "note": "いい é irregular: よくても." },
-          { "q": "父は（日曜日）＿＿、会社に行きます。", "a": { "jp": "父は日曜日でも、会社に行きます。", "kana": "ちちはにちようびでも、かいしゃにいきます。", "romaji": "Chichi wa nichiyōbi demo, kaisha ni ikimasu." }, "note": "Substantivo: でも, sem だ." },
-          { "q": "（ひま）＿＿、ゲームはあまりしません。", "a": { "jp": "ひまでも、ゲームはあまりしません。", "romaji": "Hima demo, gēmu wa amari shimasen." }, "note": "Adjetivo な: でも, igual ao substantivo." },
-          { "q": "意味が（分からない）＿＿、最後まで読んでください。", "a": { "jp": "意味が分からなくても、最後まで読んでください。", "kana": "いみがわからなくても、さいごまでよんでください。", "romaji": "Imi ga wakaranakute mo, saigo made yonde kudasai." }, "note": "Negativo: 〜ない vira 〜なくても, como um adjetivo い." },
-          { "q": "あした（雪がふる）＿＿、学校は休みになりません。", "a": { "jp": "あした雪がふっても、学校は休みになりません。", "kana": "あしたゆきがふっても、がっこうはやすみになりません。", "romaji": "Ashita yuki ga futte mo, gakkō wa yasumi ni narimasen." }, "note": "Verbo: forma て (ふって) + も." }
+          { "q": "（いそがしい）＿＿、毎日日本語を勉強します。", "a": { "jp": "いそがしくても、毎日日本語を勉強します。", "kana": "いそがしくても、まいにちにほんごをべんきょうします。", "romaji": "Isogashikute mo, mainichi nihongo o benkyō shimasu." }, "note": "い-adjective: drop the い and add くても." },
+          { "q": "天気が（いい）＿＿、今日は出かけません。", "a": { "jp": "天気がよくても、今日は出かけません。", "kana": "てんきがよくても、きょうはでかけません。", "romaji": "Tenki ga yokute mo, kyō wa dekakemasen." }, "note": "いい is irregular: よくても." },
+          { "q": "父は（日曜日）＿＿、会社に行きます。", "a": { "jp": "父は日曜日でも、会社に行きます。", "kana": "ちちはにちようびでも、かいしゃにいきます。", "romaji": "Chichi wa nichiyōbi demo, kaisha ni ikimasu." }, "note": "Noun: でも, without だ." },
+          { "q": "（ひま）＿＿、ゲームはあまりしません。", "a": { "jp": "ひまでも、ゲームはあまりしません。", "romaji": "Hima demo, gēmu wa amari shimasen." }, "note": "な-adjective: でも, just like a noun." },
+          { "q": "意味が（分からない）＿＿、最後まで読んでください。", "a": { "jp": "意味が分からなくても、最後まで読んでください。", "kana": "いみがわからなくても、さいごまでよんでください。", "romaji": "Imi ga wakaranakute mo, saigo made yonde kudasai." }, "note": "Negative: 〜ない becomes 〜なくても, like an い-adjective." },
+          { "q": "あした（雪がふる）＿＿、学校は休みになりません。", "a": { "jp": "あした雪がふっても、学校は休みになりません。", "kana": "あしたゆきがふっても、がっこうはやすみになりません。", "romaji": "Ashita yuki ga futte mo, gakkō wa yasumi ni narimasen." }, "note": "Verb: て-form (ふって) + も." }
         ]
       },
       {
         "id": "h4",
-        "type": "produzir",
-        "prompt": "Escreva 4 frases sobre você: 2 com coisas que obrigavam (ou obrigam) você a fazer, dizendo quem mandava, e 2 com 〜ても sobre algo que você faz de qualquer jeito. Depois leia em voz alta e grave no celular.",
+        "type": "produce",
+        "prompt": "Write 4 sentences about yourself: 2 about things you were (or are) made to do, saying who made you, and 2 with 〜ても about something you do no matter what. Then read them aloud and record yourself on your phone.",
         "items": [
-          { "q": "Modelo, que o seu texto deve seguir na estrutura e não nas palavras:", "a": { "jp": "子どものとき、母に毎日部屋のそうじをさせられました。学校では、先生に漢字をたくさん書かされました。でも、いそがしくても、今は毎日日本語を勉強しています。つかれていても、ねる前に少し本を読みます。", "kana": "こどものとき、ははにまいにちへやのそうじをさせられました。がっこうでは、せんせいにかんじをたくさんかかされました。でも、いそがしくても、いまはまいにちにほんごをべんきょうしています。つかれていても、ねるまえにすこしほんをよみます。", "romaji": "Kodomo no toki, haha ni mainichi heya no sōji o saseraremashita. Gakkō de wa, sensei ni kanji o takusan kakasaremashita. Demo, isogashikute mo, ima wa mainichi nihongo o benkyō shite imasu. Tsukarete ite mo, neru mae ni sukoshi hon o yomimasu.", "pt": "Quando eu era criança, minha mãe me obrigava a limpar o quarto todo dia. Na escola, o professor me obrigava a escrever muitos kanji. Mas, mesmo ocupado, hoje estudo japonês todo dia. Mesmo cansado, leio um pouco antes de dormir." }, "note": "Confira: quem mandava com に, o causativo-passivo no fim (させられました, 書かされました), adjetivo い com くても e o passado só no predicado." }
+          { "q": "Model (match its structure, not its words):", "a": { "jp": "子どものとき、母に毎日部屋のそうじをさせられました。学校では、先生に漢字をたくさん書かされました。でも、いそがしくても、今は毎日日本語を勉強しています。つかれていても、ねる前に少し本を読みます。", "kana": "こどものとき、ははにまいにちへやのそうじをさせられました。がっこうでは、せんせいにかんじをたくさんかかされました。でも、いそがしくても、いまはまいにちにほんごをべんきょうしています。つかれていても、ねるまえにすこしほんをよみます。", "romaji": "Kodomo no toki, haha ni mainichi heya no sōji o saseraremashita. Gakkō de wa, sensei ni kanji o takusan kakasaremashita. Demo, isogashikute mo, ima wa mainichi nihongo o benkyō shite imasu. Tsukarete ite mo, neru mae ni sukoshi hon o yomimasu.", "en": "When I was a child, my mother made me clean my room every day. At school, the teacher made me write lots of kanji. But now, even when I'm busy, I study Japanese every day. Even when I'm tired, I read a little before I go to bed." }, "note": "Check: the person who gave the orders takes に, the causative-passive comes at the end (させられました, 書かされました), い-adjectives take くても, and the past tense appears only in the predicate." }
         ]
       }
     ],
     "workbook": []
   },
   "practice": [
-    { "tool": "Wagotabi", "what": "Jogue nas regiões e níveis N4. Sempre que um diálogo trouxer 〜される / 〜させられる ou 〜ても, pause e responda em voz alta: quem obrigou quem? Ou: que condição não muda o resultado? Copie 2 dessas frases no caderno e sublinhe o predicado.", "min": 15 },
-    { "tool": "ヅオリンゴー", "what": "Treinos → 🔬 Anatomia → 🔬 Analisar: cole os 3 exemplos do causativo-passivo e confira qual bloco é o PREDICADO e qual traz quem obrigou (に).", "min": 10 },
-    { "tool": "ヅオリンゴー", "what": "Diário: escreva 3 frases verdadeiras com 〜させられました e 2 com 〜ても. Use \"Anatomia do que escrevi\" para conferir os blocos.", "min": 10 },
-    { "tool": "Shadowing", "what": "Toque 🔊 em cada exemplo desta aula e repita junto 3 vezes. させられました tem 7 batidas do mesmo tamanho: さ・せ・ら・れ・ま・し・た.", "min": 5 },
-    { "tool": "Fala", "what": "Grave 30 s contando 3 coisas que obrigavam você a fazer na infância e 1 coisa que você faz mesmo cansado (つかれていても、〜). Ouça e confira o に e o ても.", "min": 5 }
+    { "tool": "Wagotabi", "what": "Play in the N4 areas and levels. Whenever a line of dialogue has 〜させられる (or a short form like 待たされる) or 〜ても, pause and answer out loud: who made whom do what? Or: which condition doesn't change the result? Copy 2 of those lines into your notebook and underline the predicate.", "min": 15 },
+    { "tool": "ヅオリンゴー", "what": "Drills → 🔬 Anatomy → 🔬 Analyze: paste the 3 causative-passive examples and check which block is the PREDICATE and which one holds the person who made you do it (the に block, shown as TARGET).", "min": 10 },
+    { "tool": "ヅオリンゴー", "what": "Journal: write 3 true sentences with 〜させられました and 2 with 〜ても. Then open \"Anatomy of what I wrote\" and check that the predicate is at the end and that the person who made you do it has に.", "min": 10 },
+    { "tool": "Shadowing", "what": "Tap 🔊 on each example in this lesson and repeat along 3 times. させられました has 7 beats of the same length: さ・せ・ら・れ・ま・し・た.", "min": 5 },
+    { "tool": "Speaking", "what": "Record 30 seconds telling 3 things you were made to do as a child and 1 thing you do even when you're tired (つかれていても、〜). Listen and check the に and the ても.", "min": 5 }
   ],
   "culture": {
-    "title": "Festas de despedida (そうべつかい)",
+    "title": "Farewell parties (そうべつかい)",
     "titleJp": "送別会",
-    "body": "Quando alguém sai de um grupo, seja por mudança de emprego, transferência para outra cidade (てんきん), aposentadoria ou formatura, os colegas costumam organizar um **送別会 (そうべつかい)**, a festa de despedida. Em geral é um jantar num restaurante ou num いざかや, e a pessoa homenageada costuma não pagar a sua parte. No fim, é comum ela receber flores ou um presente e fazer uma pequena あいさつ, agradecendo com frases como いろいろお世話になりました。 Como o ano fiscal e o ano letivo começam em abril, março costuma concentrar muitos 送別会, e em abril vêm as festas de boas-vindas (かんげいかい).",
-    "try": "Prepare a sua あいさつ de despedida em 3 frases: uma lembrança engraçada com o causativo-passivo (最初の日に、〜させられました), um agradecimento (いろいろお世話になりました) e uma promessa com ても (どこに行っても、〜)."
+    "body": "When someone leaves a group, whether for a new job, a transfer to another city (てんきん), retirement or graduation, the colleagues usually organize a **送別会 (そうべつかい)**, a farewell party. It is usually a dinner at a restaurant or an いざかや, and the guest of honor usually doesn't pay their share. At the end, it's common for them to receive flowers or a gift and give a short あいさつ (a few words of thanks), with phrases like いろいろお世話になりました。 Because the fiscal year and the school year start in April, March usually has a lot of 送別会, and April brings the welcome parties (かんげいかい).",
+    "try": "Prepare your own farewell あいさつ in 3 sentences: a funny memory with the causative-passive (最初の日に、〜させられました), a thank-you (いろいろお世話になりました) and a promise with ても (どこに行っても、〜)."
   },
   "checklist": [
-    "Monto o causativo-passivo de 食べる, 飲む, 話す, する e くる sem olhar, e sei quais verbos têm a forma curta.",
-    "Explico o empilhamento: causativo (させる) + passivo (られる) = させられる.",
-    "Digo quem foi obrigado (は) e quem obrigou (に) sem inverter os papéis.",
-    "Sei quando NÃO usar o causativo-passivo: se eu queria fazer, uso 〜させてくれました (Aula 22-1).",
-    "Faço 〜ても com verbo, adjetivo い (inclusive よくても), adjetivo な e substantivo (でも).",
-    "Deixo o passado só no fim da frase com ても.",
-    "Fiz a lição de casa e conferi o gabarito, e refiz o que errei.",
-    "Se tenho o Genki II Workbook, fiz os exercícios desta parte da Lição 23."
+    "I can build the causative-passive of 食べる, 飲む, 話す, する and くる without looking, and I know which verbs have the short form.",
+    "I can explain the stacking: causative (させる) + passive (られる) = させられる.",
+    "I can say who was made to do it (は) and who made them (に) without swapping the roles.",
+    "I know when NOT to use the causative-passive: if I wanted to do it, I use 〜させてくれました (lesson 22-1).",
+    "I can make 〜ても with verbs, い-adjectives (including よくても), な-adjectives and nouns (でも).",
+    "I keep the past tense only at the end of a sentence with ても.",
+    "I did the homework, checked it against the answer key and redid what I got wrong.",
+    "If I have the Genki II Workbook, I did the exercises for this part of Lesson 23."
   ]
 }

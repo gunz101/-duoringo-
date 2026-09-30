@@ -2,110 +2,110 @@
   "id": "20-1",
   "unit": "G2-L20",
   "genki": { "book": "Genki II", "lesson": 20, "points": ["Extra-Modest Expressions", "Humble Expressions"] },
-  "title": "Linguagem humilde",
+  "title": "Humble language",
   "titleJp": "ブラジルからまいりました",
   "canDo": [
-    "Me apresentar numa situação formal com もうします e まいりました.",
-    "Falar das minhas ações com um professor, um cliente ou um superior usando os verbos humildes (うかがう, いただく, はいけんする, おる…).",
-    "Oferecer ajuda com お〜します e ご〜します: お持ちしましょうか。",
-    "Entender o que um atendente diz com でございます, ございます e ございません.",
-    "Escolher entre honorífico e humilde perguntando \"de quem é a ação?\", inclusive quando falo do meu chefe com um cliente."
+    "I can introduce myself in a formal situation with もうします and まいりました.",
+    "I can talk about my own actions to a teacher, a customer or a superior with the humble verbs (うかがう, いただく, はいけんする, おる…).",
+    "I can offer help with お〜します and ご〜します: お持ちしましょうか。",
+    "I can understand what a clerk says with でございます, ございます and ございません.",
+    "I can choose between honorific and humble by asking \"whose action is it?\", including when I talk about my boss to a customer."
   ],
   "duration": {
     "total": "70–90 min",
     "blocks": [
-      { "t": "Aquecimento: dizer em voz alta o honorífico da Aula 19-1 (いらっしゃる, めしあがる, おっしゃる, ごらんになる, お〜になる)", "min": 5 },
-      { "t": "Vocabulário: ouvir 🔊 cada palavra, repetir 2 vezes e copiar os 9 verbos humildes no caderno", "min": 10 },
-      { "t": "Sessão 1 · Gramática: pontos a e b, com os exemplos lidos em voz alta e um 🔬", "min": 20 },
-      { "t": "Sessão 2 · Gramática: pontos c e d (a tabela 尊敬語 × 謙譲語), com um 🔬", "min": 20 },
-      { "t": "Vídeo da Lição 20 (bloco 6), só a parte de linguagem humilde", "min": 10 },
-      { "t": "Lição de casa no caderno + conferir no gabarito", "min": 15 },
-      { "t": "Checklist (bloco 10) + anotar dúvidas no caderno da aula", "min": 5 }
+      { "t": "Warm-up: say aloud the honorifics from lesson 19-1 (いらっしゃる, めしあがる, おっしゃる, ごらんになる, お〜になる)", "min": 5 },
+      { "t": "Vocabulary: tap 🔊 on each word, repeat it twice and copy the 9 humble verbs into your notebook", "min": 10 },
+      { "t": "Session 1 · Grammar: points a and b, with the examples read aloud and one 🔬", "min": 20 },
+      { "t": "Session 2 · Grammar: points c and d (the 尊敬語 × 謙譲語 table), with one 🔬", "min": 20 },
+      { "t": "Lesson 20 video (block 6), only the part on humble language", "min": 10 },
+      { "t": "Notebook homework + checking it against the answer key", "min": 15 },
+      { "t": "Checklist (block 10) + write your questions in the lesson notebook", "min": 5 }
     ]
   },
   "prereqs": {
     "aulas": ["19-2"],
     "skills": [
-      "Conhecer o honorífico (尊敬語) da Aula 19-1: いらっしゃる, めしあがる, おっしゃる, ごらんになる, なさる, お〜になる e お〜ください. Esta aula é o outro lado da mesma moeda.",
-      "Conjugar verbos na forma ます e na forma て: quase todo verbo humilde termina em 〜ます ou 〜ております.",
-      "Lembrar de うち／そと (Aula 07-1): a família \"minha\" × a família \"sua\". O keigo usa a mesma divisão entre o meu grupo e o grupo do outro.",
-      "Ler a aula em duas sessões, se preferir: pontos a e b num dia, c e d no outro."
+      "The honorific language (尊敬語) of lesson 19-1: いらっしゃる, めしあがる, おっしゃる, ごらんになる, なさる, お〜になる and お〜ください. This lesson is the other side of the same coin.",
+      "Conjugating verbs in the ます form and the て-form: almost every humble verb ends in 〜ます or 〜ております.",
+      "うち／そと (lesson 07-1): \"my\" family × \"your\" family. Keigo uses the same split between my group and the other person's group.",
+      "If you prefer, study this lesson in two sessions: points a and b one day, c and d another."
     ],
     "vocab": [
-      { "jp": "まいる", "kana": "まいる", "romaji": "mairu", "pt": "ir, vir (humilde de 行く／来る)" },
-      { "jp": "おる", "kana": "おる", "romaji": "oru", "pt": "estar, ficar (humilde de いる); 〜ております = humilde de 〜ています" },
-      { "jp": "もうす", "kana": "もうす", "romaji": "mōsu", "pt": "dizer; chamar-se (humilde de 言う)" },
-      { "jp": "いたす", "kana": "いたす", "romaji": "itasu", "pt": "fazer (humilde de する)" },
-      { "jp": "いただく", "kana": "いただく", "romaji": "itadaku", "pt": "comer, beber; receber (humilde de 食べる／飲む／もらう)" },
-      { "jp": "はいけんする", "kana": "はいけんする", "romaji": "haiken suru", "pt": "ver, dar uma olhada (humilde de 見る)" },
-      { "jp": "うかがう", "kana": "うかがう", "romaji": "ukagau", "pt": "visitar; perguntar (humilde de 訪ねる／聞く)" },
-      { "jp": "さしあげる", "kana": "さしあげる", "romaji": "sashiageru", "pt": "dar (humilde de あげる)" },
-      { "jp": "ぞんじておる", "kana": "ぞんじておる", "romaji": "zonjite oru", "pt": "saber, conhecer (humilde de 知っている); \"não sei\" = ぞんじません" },
-      { "jp": "ございます", "kana": "ございます", "romaji": "gozaimasu", "pt": "há, tem (extra-modesto de あります); negativa: ございません" },
-      { "jp": "でございます", "kana": "でございます", "romaji": "de gozaimasu", "pt": "é (extra-modesto de です)" },
-      { "jp": "かしこまりました", "kana": "かしこまりました", "romaji": "kashikomarimashita", "pt": "pois não, entendido (humilde de 分かりました)" },
-      { "jp": "もうしわけございません", "kana": "もうしわけございません", "romaji": "mōshiwake gozaimasen", "pt": "sinto muito, peço desculpas (bem formal)" },
-      { "jp": "よろしい", "kana": "よろしい", "romaji": "yoroshii", "pt": "bom, está bem (forma formal de いい)" },
-      { "jp": "ただいま", "kana": "ただいま", "romaji": "tadaima", "pt": "neste momento (forma formal de 今); também é o \"cheguei\" da Aula 00-3" },
-      { "jp": "少々", "kana": "しょうしょう", "romaji": "shōshō", "pt": "um pouquinho (forma formal de ちょっと)" },
-      { "jp": "おきゃくさま", "kana": "おきゃくさま", "romaji": "okyakusama", "pt": "cliente, freguês (em kanji: お客様)" },
-      { "jp": "店員", "kana": "てんいん", "romaji": "ten'in", "pt": "atendente, vendedor(a) de loja" },
-      { "jp": "売り場", "kana": "うりば", "romaji": "uriba", "pt": "seção (de uma loja)" },
-      { "jp": "社長", "kana": "しゃちょう", "romaji": "shachō", "pt": "presidente (de empresa)" },
-      { "jp": "研究室", "kana": "けんきゅうしつ", "romaji": "kenkyūshitsu", "pt": "sala do professor na universidade; laboratório" },
-      { "jp": "重い", "kana": "おもい", "romaji": "omoi", "pt": "pesado" },
-      { "jp": "地図", "kana": "ちず", "romaji": "chizu", "pt": "mapa" },
-      { "jp": "おてあらい", "kana": "おてあらい", "romaji": "otearai", "pt": "banheiro (toalete)" }
+      { "jp": "まいる", "kana": "まいる", "romaji": "mairu", "en": "to go, to come (humble of 行く／来る)" },
+      { "jp": "おる", "kana": "おる", "romaji": "oru", "en": "to be, to stay (humble of いる); 〜ております = humble of 〜ています" },
+      { "jp": "もうす", "kana": "もうす", "romaji": "mōsu", "en": "to say; to be called (humble of 言う)" },
+      { "jp": "いたす", "kana": "いたす", "romaji": "itasu", "en": "to do (humble of する)" },
+      { "jp": "いただく", "kana": "いただく", "romaji": "itadaku", "en": "to eat, to drink; to receive (humble of 食べる／飲む／もらう)" },
+      { "jp": "はいけんする", "kana": "はいけんする", "romaji": "haiken suru", "en": "to see, to take a look (humble of 見る)" },
+      { "jp": "うかがう", "kana": "うかがう", "romaji": "ukagau", "en": "to visit; to ask (humble of 訪ねる／聞く)" },
+      { "jp": "さしあげる", "kana": "さしあげる", "romaji": "sashiageru", "en": "to give (humble of あげる)" },
+      { "jp": "ぞんじておる", "kana": "ぞんじておる", "romaji": "zonjite oru", "en": "to know (humble of 知っている); \"I don't know\" = ぞんじません" },
+      { "jp": "ございます", "kana": "ございます", "romaji": "gozaimasu", "en": "there is, we have (extra-modest of あります); negative: ございません" },
+      { "jp": "でございます", "kana": "でございます", "romaji": "de gozaimasu", "en": "is (extra-modest of です)" },
+      { "jp": "かしこまりました", "kana": "かしこまりました", "romaji": "kashikomarimashita", "en": "certainly, understood (humble of 分かりました)" },
+      { "jp": "もうしわけございません", "kana": "もうしわけございません", "romaji": "mōshiwake gozaimasen", "en": "I'm very sorry, I apologize (very formal)" },
+      { "jp": "よろしい", "kana": "よろしい", "romaji": "yoroshii", "en": "good, all right (formal form of いい)" },
+      { "jp": "ただいま", "kana": "ただいま", "romaji": "tadaima", "en": "at the moment (formal form of 今); also the \"I'm home\" of lesson 00-3" },
+      { "jp": "少々", "kana": "しょうしょう", "romaji": "shōshō", "en": "a little, a moment (formal form of ちょっと)" },
+      { "jp": "おきゃくさま", "kana": "おきゃくさま", "romaji": "okyakusama", "en": "customer, guest (in kanji: お客様)" },
+      { "jp": "店員", "kana": "てんいん", "romaji": "ten'in", "en": "shop clerk, salesperson" },
+      { "jp": "売り場", "kana": "うりば", "romaji": "uriba", "en": "department, section (of a store)" },
+      { "jp": "社長", "kana": "しゃちょう", "romaji": "shachō", "en": "company president" },
+      { "jp": "研究室", "kana": "けんきゅうしつ", "romaji": "kenkyūshitsu", "en": "professor's office at a university; lab" },
+      { "jp": "重い", "kana": "おもい", "romaji": "omoi", "en": "heavy" },
+      { "jp": "地図", "kana": "ちず", "romaji": "chizu", "en": "map" },
+      { "jp": "お手洗い", "kana": "おてあらい", "romaji": "otearai", "en": "restroom, toilet (polite)" }
     ]
   },
   "grammar": [
     {
       "id": "20-1-a",
       "gc": null,
-      "title": "Verbos humildes especiais (謙譲語)",
-      "gloss": "rebaixar a mim e ao meu grupo para respeitar o outro",
-      "explanation": "Na Aula 19-1 você viu o **尊敬語** (honorífico): ele **eleva o outro** (いらっしゃる, めしあがる…). Agora vem o lado oposto, o **謙譲語 (けんじょうご), a linguagem humilde**. Ela **rebaixa quem fala** e o **próprio grupo** (família, empresa) diante de alguém a quem se deve respeito. O efeito final é o mesmo: a distância entre você e o outro aumenta, e isso soa respeitoso.\n**Quando usar:** a ação é **sua** (ou de alguém do seu lado) e você fala com um professor, um cliente, um superior ou um desconhecido numa situação formal.\n\n**Os verbos especiais** (todos terminam no ます de sempre):\n• 行く／来る → **まいる** (まいります)\n• いる → **おる** (おります) · 〜ている → 〜**ております**\n• 言う → **もうす** (もうします): ペドロともうします。\n• する → **いたす** (いたします)\n• 食べる／飲む → **いただく** · もらう → também **いただく**: 先生から本をいただきました。\n• 見る → **はいけんする** (はいけんします)\n• 訪ねる (visitar) → **うかがう** · 聞く (perguntar) → também **うかがう**: ちょっとうかがいたいんですが…\n• あげる → **さしあげる** (さしあげます)\n• 知っている → **ぞんじております** · \"não sei\" → **ぞんじません**\n\n**Dois grupos com uso um pouco diferente:**\n• まいる, おる, もうす e いたす deixam a fala **cortês para quem ouve**, mesmo quando a ação não envolve essa pessoa: あしたは家におります。 (\"Amanhã estarei em casa.\") Até o anúncio da estação usa まいる para o trem que está chegando.\n• うかがう, いただく, はいけんする e さしあげる precisam de **alguém acima de você a quem a ação se dirige**: a sala do professor, o presente do cliente, a foto do chefe.\n\n**Na frase:** o verbo humilde é o **PREDICADO**, no fim. O sujeito quase sempre é \"eu\" e some. Ao ler, comece pelo predicado e pergunte: é humilde? Então quem faz a ação sou eu, ou alguém do meu lado.",
-      "structure": "[eu / meu grupo] (は／が) … [verbo humilde]。 · 行きます → まいります",
+      "title": "Special humble verbs (謙譲語)",
+      "gloss": "lowering myself and my group to show respect to the other person",
+      "explanation": "In lesson 19-1 you saw **尊敬語** (honorific language): it **raises the other person** (いらっしゃる, めしあがる…). Now comes the opposite side, **謙譲語 (けんじょうご), humble language**. It **lowers the speaker** and **the speaker's own group** (family, company) in front of someone who deserves respect. The final effect is the same: the distance between you and the other person grows, and that sounds respectful.\n**When to use it:** the action is **yours** (or someone on your side does it) and you are talking to a teacher, a customer, a superior or a stranger in a formal situation.\n\n**The special verbs** (all end in the usual ます):\n• 行く／来る → **まいる** (まいります)\n• いる → **おる** (おります) · 〜ている → 〜**ております**\n• 言う → **もうす** (もうします): ペドロともうします。\n• する → **いたす** (いたします)\n• 食べる／飲む → **いただく** · もらう → also **いただく**: 先生から本をいただきました。\n• 見る → **はいけんする** (はいけんします)\n• 訪ねる (to visit) → **うかがう** · 聞く (to ask) → also **うかがう**: ちょっとうかがいたいんですが…\n• あげる → **さしあげる** (さしあげます)\n• 知っている → **ぞんじております** · \"I don't know\" → **ぞんじません**\n\n**Two groups that work a little differently:**\n• まいる, おる, もうす and いたす make your speech **courteous toward the listener**, even when the action has nothing to do with that person: あしたは家におります。 (\"I'll be at home tomorrow.\") Even station announcements use まいる for the train that is coming in.\n• うかがう, いただく, はいけんする and さしあげる need **someone above you whom the action is directed at**: the teacher's office, the customer's gift, the boss's photo.\n\n**In the sentence:** the humble verb is the **PREDICATE**, at the end. The subject is almost always \"I\" and disappears. When you read, start from the predicate and ask: is it humble? Then the one doing the action is me, or someone on my side.",
+      "structure": "[I / my group] (は／が) … [humble verb]。 · 行きます → まいります",
       "examples": [
-        { "jp": "はじめまして。ペドロともうします。ブラジルからまいりました。", "kana": "はじめまして。ペドロともうします。ブラジルからまいりました。", "romaji": "Hajimemashite. Pedoro to mōshimasu. Burajiru kara mairimashita.", "pt": "Muito prazer. Meu nome é Pedro. Vim do Brasil." },
-        { "jp": "明日の午後、先生の研究室にうかがってもよろしいでしょうか。", "kana": "あしたのごご、せんせいのけんきゅうしつにうかがってもよろしいでしょうか。", "romaji": "Ashita no gogo, sensei no kenkyūshitsu ni ukagatte mo yoroshii deshō ka.", "pt": "Professor(a), posso ir à sua sala amanhã à tarde?" },
-        { "jp": "もうしわけございません。田中はただいま出かけております。", "kana": "もうしわけございません。たなかはただいまでかけております。", "romaji": "Mōshiwake gozaimasen. Tanaka wa tadaima dekakete orimasu.", "pt": "Sinto muito. O Tanaka saiu no momento. (um funcionário falando com um cliente)" }
+        { "jp": "はじめまして。ペドロともうします。ブラジルからまいりました。", "kana": "はじめまして。ペドロともうします。ブラジルからまいりました。", "romaji": "Hajimemashite. Pedoro to mōshimasu. Burajiru kara mairimashita.", "en": "How do you do? My name is Pedro. I'm from Brazil. [lit. I have come from Brazil]", "noAnat": true },
+        { "jp": "明日の午後、先生の研究室へうかがいます。", "kana": "あしたのごご、せんせいのけんきゅうしつへうかがいます。", "romaji": "Ashita no gogo, sensei no kenkyūshitsu e ukagaimasu.", "en": "I'll come to your office tomorrow afternoon. (to your professor)" },
+        { "jp": "もうしわけございません。田中はただいま出かけております。", "kana": "もうしわけございません。たなかはただいまでかけております。", "romaji": "Mōshiwake gozaimasen. Tanaka wa tadaima dekakete orimasu.", "en": "I'm very sorry. Tanaka is out at the moment. (an employee speaking to a customer)", "noAnat": true }
       ],
       "pitfalls": [
-        "Humilde nunca vai na ação do outro: 先生はもうすぐまいります ✗ → 先生はもうすぐいらっしゃいます ✓. まいる rebaixaria o professor.",
-        "Com um cliente, o seu colega ou chefe é do SEU grupo: sem さん e com humilde. 田中さんはいらっしゃいません ✗ → 田中はおりません ✓ (dito a um cliente, ao telefone).",
-        "うかがう, さしあげる e はいけんする elevam alguém. Conversando com um amigo, 友だちの家にうかがいます ✗ (eleva o amigo e soa estranho) → 友だちの家に行きます ✓. Falando com os pais desse amigo, aí sim: おたくにうかがいます ✓.",
-        "Com cliente ou professor, しりません soa seco. O humilde é ぞんじません ✓ (\"não sei\")."
+        "Humble never goes on the other person's action: 先生はもうすぐまいります ✗ → 先生はもうすぐいらっしゃいます ✓. まいる would lower your teacher.",
+        "With a customer, your colleague or boss belongs to YOUR group: no さん, and humble verbs. 田中さんはいらっしゃいません ✗ → 田中はおりません ✓ (said to a customer, on the phone).",
+        "うかがう, さしあげる and はいけんする raise someone. Chatting with a friend, 友だちの家にうかがいます ✗ (it raises the friend and sounds odd) → 友だちの家に行きます ✓. Talking to that friend's parents, it's right: おたくにうかがいます ✓.",
+        "With a customer or a teacher, しりません sounds curt. The humble form is ぞんじません ✓ (\"I don't know\")."
       ],
       "howToStudy": [
-        "Faça 9 cartões: na frente o verbo neutro (行く, いる, 言う, する, 食べる, 見る, 訪ねる, あげる, 知っている), no verso o humilde. Leia em voz alta até sair sem pensar: 行く → まいります.",
-        "Aperte 🔬 no exemplo 3. 田中は é o TÓPICO, sem さん porque é do meu grupo, e 出かけております é o PREDICADO humilde. Comece pelo predicado e pergunte: quem está sendo \"rebaixado\" aqui, e diante de quem?",
-        "Grave sua autoapresentação formal em até 20 s: はじめまして。(seu nome) ともうします。ブラジルからまいりました。よろしくおねがいいたします。"
+        "Make 9 cards: on the front the neutral verb (行く, いる, 言う, する, 食べる, 見る, 訪ねる, あげる, 知っている), on the back the humble one. Read them aloud until they come out without thinking: 行く → まいります.",
+        "Tap 🔬 on example 2: 明日の and 先生の show up as DESCRIBES NEXT, 午後 as TIME, 研究室へ as DESTINATION and うかがいます as the PREDICATE. 私 never appears, but the humble predicate already tells you who is going: me.",
+        "Record your formal self-introduction in 20 seconds or less: はじめまして。(your name) ともうします。ブラジルからまいりました。よろしくおねがいいたします。 Swap ブラジル for your own country."
       ],
-      "flag": "Confira no seu Genki II se a lição traz estes pontos nesta ordem. Aqui todos os verbos humildes especiais vêm juntos neste ponto; o livro pode separar まいる, おる, もうす e いたす (junto com ございます) como \"extra-modest expressions\", à parte de いただく, うかがう, はいけんする e さしあげる."
+      "flag": "Check in your Genki II that this lesson has these points in this order. Here all the special humble verbs come together in this point; the book may split まいる, おる, もうす and いたす (together with ございます) off as \"extra-modest expressions\", separate from いただく, うかがう, はいけんする and さしあげる."
     },
     {
       "id": "20-1-b",
       "gc": null,
-      "title": "お + radical + する",
-      "gloss": "a fórmula humilde para verbos sem forma especial",
-      "explanation": "A maioria dos verbos não tem uma forma humilde especial. Para eles existe uma **fórmula**: **お + radical (a forma ます sem ます) + する**.\n• 持ちます → **お持ちします** (\"eu levo para o(a) senhor(a)\")\n• 待ちます → お待ちします · 送ります → お送りします · 貸します → お貸しします · 知らせます → お知らせします · 見せます → お見せします\n• Verbos formados por substantivo sino-japonês + する usam **ご**: あんないする → **ご**あんないします · れんらくする → ごれんらくします · せつめいする → ごせつめいします. Exceção comum: 電話する → **お**電話します.\n• Mais humilde ainda: troque する por **いたす**: お持ちいたします, ごあんないいたします.\n\n**A condição:** a ação precisa **afetar ou ajudar o outro**: levar a bolsa dele, esperar por ele, mandar algo para ele. Se a ação é só sua e não envolve ninguém do outro lado, a fórmula não serve.\n\n**Os três お das Lições 19 e 20:**\n• お持ち**になります** → o outro segura (honorífico, Aula 19-1)\n• お持ち**ください** → por favor, segure / leve (pedido, Aula 19-1)\n• お持ち**します** → eu seguro para você (humilde, esta aula)\n\n**Na frase:** お〜します é o **PREDICADO**. O objeto, com を, é a coisa que você faz pelo outro: かばんを | お持ちします。 Muitas vezes vem como oferta, com 〜ましょうか: お持ちしましょうか。 (\"Quer que eu leve?\")",
-      "structure": "お + [radical do verbo] + します · ご + [substantivo sino-japonês] + します",
+      "title": "お + stem + する",
+      "gloss": "the humble formula for verbs without a special form",
+      "explanation": "Most verbs have no special humble form. For them there is a **formula**: **お + stem (the ます form without ます) + する**.\n• 持ちます → **お持ちします** (\"I'll carry it for you\")\n• 待ちます → お待ちします · 送ります → お送りします · 貸します → お貸しします · 知らせます → お知らせします · 見せます → お見せします\n• Verbs made of a Sino-Japanese noun + する use **ご**: あんないする → **ご**あんないします · れんらくする → ごれんらくします · せつめいする → ごせつめいします. A common exception: 電話する → **お**電話します.\n• Even humbler: swap する for **いたす**: お持ちいたします, ごあんないいたします.\n\n**The condition:** the action has to **affect or help the other person**: carrying their bag, waiting for them, sending them something. If the action is only yours and doesn't involve anyone on the other side, the formula doesn't fit.\n\n**The three お's of Lessons 19 and 20:**\n• お持ち**になります** → the other person holds it (honorific, lesson 19-1)\n• お持ち**ください** → please hold / take it (request, lesson 19-1)\n• お持ち**します** → I'll carry it for you (humble, this lesson)\n\n**In the sentence:** お〜します is the **PREDICATE**. The object, with を, is the thing you do for the other person: かばんを | お持ちします。 It often comes as an offer, with 〜ましょうか: お持ちしましょうか。 (\"Shall I carry it for you?\")",
+      "structure": "お + [verb stem] + します · ご + [Sino-Japanese noun] + します",
       "examples": [
-        { "jp": "重そうですね。お持ちしましょうか。", "kana": "おもそうですね。おもちしましょうか。", "romaji": "Omosō desu ne. O-mochi shimashō ka.", "pt": "Parece pesado. Quer que eu leve?" },
-        { "jp": "地図はあとでメールでお送りします。", "kana": "ちずはあとでメールでおおくりします。", "romaji": "Chizu wa ato de mēru de o-okuri shimasu.", "pt": "O mapa eu mando depois por e-mail." },
-        { "jp": "くつの売り場ですね。ごあんないいたします。", "kana": "くつのうりばですね。ごあんないいたします。", "romaji": "Kutsu no uriba desu ne. Go-annai itashimasu.", "pt": "A seção de sapatos, certo? Eu levo o(a) senhor(a) até lá." }
+        { "jp": "重そうですね。お持ちしましょうか。", "kana": "おもそうですね。おもちしましょうか。", "romaji": "Omosō desu ne. Omochi shimashō ka.", "en": "That looks heavy. Shall I carry it for you?", "noAnat": true },
+        { "jp": "地図はあとでメールでお送りします。", "kana": "ちずはあとでメールでおおくりします。", "romaji": "Chizu wa ato de mēru de ookuri shimasu.", "en": "I'll send you the map by e-mail later." },
+        { "jp": "くつの売り場ですね。ごあんないいたします。", "kana": "くつのうりばですね。ごあんないいたします。", "romaji": "Kutsu no uriba desu ne. Goannai itashimasu.", "en": "The shoe department, right? I'll show you the way.", "noAnat": true }
       ],
       "pitfalls": [
-        "Verbo com forma especial usa a especial: お行きします ✗ → うかがいます ✓; お見します ✗ → はいけんします ✓; お食べします ✗ → いただきます ✓.",
-        "Ação só sua não leva a fórmula. Contando a um cliente: きのう時計をお買いしました ✗ → きのう時計を買いました ✓ (a compra não envolve o cliente).",
-        "お〜します é o que EU faço. Para perguntar se o professor vai ler: この本をお読みしますか ✗ → この本をお読みになりますか ✓.",
-        "Oferecer ajuda com 〜てさしあげます, direto ao superior, soa como \"estou te fazendo um favor\": 持ってさしあげます ✗ → お持ちします ✓."
+        "A verb with a special form uses the special form: お行きします ✗ → うかがいます ✓; お見します ✗ → はいけんします ✓; お食べします ✗ → いただきます ✓.",
+        "An action that is only yours doesn't take the formula. Telling a customer about your weekend: きのう時計をお買いしました ✗ → きのう時計を買いました ✓ (the purchase doesn't involve the customer).",
+        "お〜します is what I do. To ask whether your teacher will read something: この本をお読みしますか ✗ → この本をお読みになりますか ✓.",
+        "Offering help with 〜てさしあげます straight to a superior sounds like \"I'm doing you a favor\": 持ってさしあげます ✗ → お持ちします ✓."
       ],
       "howToStudy": [
-        "Para cada verbo (持つ, 待つ, 送る, 貸す, 知らせる, あんないする, 電話する), diga em voz alta as três formas, お〜になります / お〜ください / お〜します, e o que cada uma quer dizer.",
-        "Aperte 🔬 no exemplo 2. 地図は é o TÓPICO, メールで é o MEIO e お送りします é o PREDICADO: a ação é minha, feita para o outro.",
-        "Imagine o seu professor chegando carregado de coisas. Faça 3 ofertas de ajuda em voz alta: お持ちしましょうか, ドアをお開けしましょうか, 駅までごあんないしましょうか."
+        "For each verb (持つ, 待つ, 送る, 貸す, 知らせる, あんないする, 電話する), say aloud the three forms, お〜になります / お〜ください / お〜します, and what each one means.",
+        "Tap 🔬 on example 2: 地図は is the TOPIC, あとで shows up as HOW / HOW OFTEN, メールで as MEANS and お送りします as the PREDICATE: my action, done for the other person.",
+        "Imagine your teacher arriving with his arms full. Make 3 offers of help aloud: お持ちしましょうか, ドアをお開けしましょうか, 駅までごあんないしましょうか."
       ],
       "flag": null
     },
@@ -113,129 +113,129 @@
       "id": "20-1-c",
       "gc": null,
       "title": "でございます / ございます",
-      "gloss": "expressões extra-modestas",
-      "explanation": "Duas expressões aparecem o tempo todo em lojas, hotéis, estações e telefonemas de empresa:\n• です → **でございます**: こちらが売り場でございます。\n• あります → **ございます**: 赤もございます。 · negativa: **ございません**\n\nElas não rebaixam uma pessoa em especial: deixam a fala **extra-modesta, cortês para quem ouve**. Por isso quem mais usa é quem atende: 店員, recepcionistas, anúncios.\n• Você já conhece ございます de expressões prontas: ありがとうございます, おはようございます e **もうしわけございません**, a versão mais formal de もうしわけありません.\n• Junto com elas costumam vir: こちら／そちら／あちら no lugar de これ／ここ, **よろしい** no lugar de いい (よろしいでしょうか) e **少々** no lugar de ちょっと (少々お待ちください).\n• ございます é para **coisas**. Para pessoas, o outro \"está\" com いらっしゃいます e eu \"estou\" com おります.\n• Para dizer o que o OUTRO é, o honorífico é **でいらっしゃいます**: 田中さまでいらっしゃいますか。 でございます fica para as coisas e para o seu lado: はい、さくら書店でございます。\n\n**Na frase:** でございます e ございます são o **PREDICADO**. Leia o fim primeiro: ございます = \"tem\"; でございます = \"é\"; ございません = \"não tem\".",
-      "structure": "[coisa] は [N] でございます。 · [coisa] が／も ございます。",
+      "gloss": "extra-modest expressions",
+      "explanation": "Two expressions come up all the time in shops, hotels, stations and company phone calls:\n• です → **でございます**: こちらが売り場でございます。\n• あります → **ございます**: 赤もございます。 · negative: **ございません**\n\nThey don't lower any particular person: they make your speech **extra-modest, courteous toward the listener**. That is why the people who use them most are those who serve customers: 店員, receptionists, announcements.\n• You already know ございます from set phrases: ありがとうございます, おはようございます and **もうしわけございません**, the most formal version of もうしわけありません.\n• They usually come with: こちら／そちら／あちら instead of これ／ここ, **よろしい** instead of いい (よろしいでしょうか) and **少々** instead of ちょっと (少々お待ちください).\n• ございます is for **things**. For people, the other person \"is (there)\" with いらっしゃいます and I \"am (here)\" with おります.\n• To say what the OTHER person is, the honorific is **でいらっしゃいます**: 田中さまでいらっしゃいますか。 でございます stays for things and for your own side: はい、さくら書店でございます。\n\n**In the sentence:** でございます and ございます are the **PREDICATE**. Read the end first: ございます = \"there is / we have\"; でございます = \"is\"; ございません = \"there isn't / we don't have\".",
+      "structure": "[thing] は [N] でございます。 · [thing] が／も ございます。",
       "examples": [
-        { "jp": "お電話ありがとうございます。さくら書店でございます。", "kana": "おでんわありがとうございます。さくらしょてんでございます。", "romaji": "O-denwa arigatō gozaimasu. Sakura shoten de gozaimasu.", "pt": "Obrigado por ligar. Aqui é a Livraria Sakura." },
-        { "jp": "このシャツは、ほかの色もございます。", "kana": "このシャツは、ほかのいろもございます。", "romaji": "Kono shatsu wa, hoka no iro mo gozaimasu.", "pt": "Esta camisa também existe em outras cores." },
-        { "jp": "もうしわけございません。大きいサイズはただいまございません。", "kana": "もうしわけございません。おおきいサイズはただいまございません。", "romaji": "Mōshiwake gozaimasen. Ōkii saizu wa tadaima gozaimasen.", "pt": "Sinto muito. No momento não temos o tamanho grande." }
+        { "jp": "お電話ありがとうございます。さくら書店でございます。", "kana": "おでんわありがとうございます。さくらしょてんでございます。", "romaji": "Odenwa arigatō gozaimasu. Sakura shoten de gozaimasu.", "en": "Thank you for calling. This is Sakura Bookstore." },
+        { "jp": "お手洗いはあちらでございます。", "kana": "おてあらいはあちらでございます。", "romaji": "Otearai wa achira de gozaimasu.", "en": "The restroom is over there." },
+        { "jp": "もうしわけございません。大きいサイズはただいまございません。", "kana": "もうしわけございません。おおきいサイズはただいまございません。", "romaji": "Mōshiwake gozaimasen. Ōkii saizu wa tadaima gozaimasen.", "en": "I'm very sorry. We don't have the large size at the moment.", "noAnat": true }
       ],
       "pitfalls": [
-        "Para o outro, でございます não serve: 田中さまでございますか ✗ → 田中さまでいらっしゃいますか ✓. でございます é modéstia de quem fala.",
-        "ございます é só para coisas: 先生はあちらにございます ✗ → 先生はあちらにいらっしゃいます ✓.",
-        "Entre amigos, でございます soa teatral ou irônico. Com colegas e amigos, です basta."
+        "For the other person, でございます doesn't work: 田中さまでございますか ✗ → 田中さまでいらっしゃいますか ✓. でございます is the speaker's modesty.",
+        "ございます is only for things: 先生はあちらにございます ✗ → 先生はあちらにいらっしゃいます ✓.",
+        "Among friends, でございます sounds theatrical or sarcastic. With classmates and friends, です is enough."
       ],
       "howToStudy": [
-        "Passe 5 frases de loja do neutro para o extra-modesto, em voz alta: トイレはあちらです → おてあらいはあちらでございます; 赤もあります → 赤もございます; ありません → ございません.",
-        "Aperte 🔬 no exemplo 3 e ache o PREDICADO: ございません. O bloco 大きいサイズは é o TÓPICO, a coisa que não tem.",
-        "Shadowing: toque 🔊 no exemplo 1 e repita 3 vezes, como se atendesse o telefone de uma loja."
+        "Turn 5 shop sentences from neutral into extra-modest, aloud: トイレはあちらです → お手洗いはあちらでございます; 赤もあります → 赤もございます; ありません → ございません.",
+        "Tap 🔬 on example 2: お手洗いは is the TOPIC and あちらでございます is the PREDICATE — the extra-modest way of saying \"is over there\".",
+        "Shadowing: tap 🔊 on example 1 and repeat it 3 times, as if you were answering the phone at a shop."
       ],
       "flag": null
     },
     {
       "id": "20-1-d",
       "gc": null,
-      "title": "尊敬語 × 謙譲語 × forma neutra",
-      "gloss": "a pergunta que decide: de quem é a ação?",
-      "explanation": "Juntando as Aulas 19-1 e 20-1: o japonês formal tem **três níveis**, e a pergunta que decide é sempre a mesma: **de quem é a ação?**\n• **Ação do outro** (professor, cliente, chefe) → **尊敬語 (そんけいご)**: eleva o outro.\n• **Minha ação** (ou do meu grupo) **para o outro** → **謙譲語 (けんじょうご)**: rebaixa a mim.\n• Sem hierarquia especial → **です／ます**, o neutro educado. Ele continua certo e basta na maioria das situações do dia a dia.\n\n**Tabela** (neutro → 尊敬語, a ação do outro | 謙譲語, a minha ação):\n• 行く／来る → いらっしゃる | まいる (visitar: うかがう)\n• いる → いらっしゃる | おる\n• 言う → おっしゃる | もうす\n• 食べる／飲む → めしあがる | いただく\n• 見る → ごらんになる | はいけんする\n• する → なさる | いたす\n• 知っている → ごぞんじです | ぞんじております\n• dar: くれる → くださる (o outro me dá) | あげる → さしあげる (eu dou ao outro)\n• もらう → (não se usa) | いただく\n• 聞く (perguntar) → お聞きになる | うかがう\n• 会う → お会いになる | お目にかかる\n• outros verbos → お〜になる | お〜する\n• です → でいらっしゃる | でございます\n\n**Regra de ouro:** honorífico = a ação do OUTRO; humilde = a MINHA ação para o outro. Os dois nunca trocam de lugar.\n**Dentro e fora (うち／そと):** com alguém de fora, como um cliente, o seu chefe passa a ser do SEU grupo: você usa humilde para ele e tira o さん. Dentro da empresa, com colegas, o chefe recebe honorífico.\n**Dica de leitura:** ao ouvir um predicado em keigo, descubra primeiro se ele é 尊敬 ou 謙譲. Isso revela **quem é o sujeito**, mesmo quando ele não aparece.",
-      "structure": "ação do outro → 尊敬語 (いらっしゃる) · minha ação → 謙譲語 (まいる)",
+      "title": "尊敬語 × 謙譲語 × the neutral form",
+      "gloss": "the question that decides: whose action is it?",
+      "explanation": "Putting lessons 19-1 and 20-1 together: formal Japanese has **three levels**, and the question that decides is always the same: **whose action is it?**\n• **The other person's action** (teacher, customer, boss) → **尊敬語 (そんけいご)**: it raises the other person.\n• **My action** (or my group's) **for the other person** → **謙譲語 (けんじょうご)**: it lowers me.\n• No special hierarchy → **です／ます**, the polite neutral form. It is still correct and enough for most everyday situations.\n\n**Table** (neutral → 尊敬語, the other person's action | 謙譲語, my action):\n• 行く／来る → いらっしゃる | まいる (to visit: うかがう)\n• いる → いらっしゃる | おる\n• 言う → おっしゃる | もうす\n• 食べる／飲む → めしあがる | いただく\n• 見る → ごらんになる | はいけんする\n• する → なさる | いたす\n• 知っている → ごぞんじです | ぞんじております\n• giving: くれる → くださる (the other person gives to me) | あげる → さしあげる (I give to the other person)\n• もらう → (not used) | いただく\n• 聞く (to ask) → お聞きになる | うかがう\n• 会う → お会いになる | お目にかかる\n• other verbs → お〜になる | お〜する\n• です → でいらっしゃる | でございます\n\n**Golden rule:** honorific = the OTHER person's action; humble = MY action toward the other person. They never swap places.\n**Inside and outside (うち／そと):** with an outsider, like a customer, your boss becomes part of YOUR group: you use humble verbs for him and drop the さん. Inside the company, with colleagues, the boss gets honorifics.\n**Reading tip:** when you hear a keigo predicate, work out first whether it is 尊敬 or 謙譲. That reveals **who the subject is**, even when it is not said.",
+      "structure": "the other person's action → 尊敬語 (いらっしゃる) · my action → 謙譲語 (まいる)",
       "examples": [
-        { "jp": "社長はもういらっしゃいましたか。— いいえ、まだです。私が駅までおむかえにまいります。", "kana": "しゃちょうはもういらっしゃいましたか。— いいえ、まだです。わたしがえきまでおむかえにまいります。", "romaji": "Shachō wa mō irasshaimashita ka. — Iie, mada desu. Watashi ga eki made omukae ni mairimasu.", "pt": "O presidente já chegou? — Não, ainda não. Eu vou buscá-lo na estação. (dois funcionários da mesma empresa)" },
-        { "jp": "先生、ブラジルのおかしです。どうぞめしあがってください。— ありがとう。いただきます。", "kana": "せんせい、ブラジルのおかしです。どうぞめしあがってください。— ありがとう。いただきます。", "romaji": "Sensei, Burajiru no okashi desu. Dōzo meshiagatte kudasai. — Arigatō. Itadakimasu.", "pt": "Professor(a), é um doce do Brasil. Sirva-se, por favor. — Obrigado(a). Vou comer." },
-        { "jp": "このニュース、ごぞんじですか。— はい、ぞんじております。", "kana": "このニュース、ごぞんじですか。— はい、ぞんじております。", "romaji": "Kono nyūsu, gozonji desu ka. — Hai, zonjite orimasu.", "pt": "O(A) senhor(a) está sabendo desta notícia? — Sim, estou sabendo." }
+        { "jp": "社長はもういらっしゃいましたか。— いいえ、まだです。私が駅までおむかえにまいります。", "kana": "しゃちょうはもういらっしゃいましたか。— いいえ、まだです。わたしがえきまでおむかえにまいります。", "romaji": "Shachō wa mō irasshaimashita ka. — Iie, mada desu. Watashi ga eki made omukae ni mairimasu.", "en": "Has the president arrived yet? — No, not yet. I'll go to the station to pick him up. (two employees of the same company)" },
+        { "jp": "先生、ブラジルのおかしです。どうぞめしあがってください。— ありがとう。いただきます。", "kana": "せんせい、ブラジルのおかしです。どうぞめしあがってください。— ありがとう。いただきます。", "romaji": "Sensei, Burajiru no okashi desu. Dōzo meshiagatte kudasai. — Arigatō. Itadakimasu.", "en": "Sensei, these are sweets from Brazil. Please help yourself. — Thank you. I'll have some." },
+        { "jp": "週末は何をなさいますか。— 京都へまいります。", "kana": "しゅうまつはなにをなさいますか。— きょうとへまいります。", "romaji": "Shūmatsu wa nani o nasaimasu ka. — Kyōto e mairimasu.", "en": "What will you be doing this weekend? — I'm going to Kyoto. (two people from different companies, both being formal)" }
       ],
       "pitfalls": [
-        "Com um cliente, o seu chefe é do seu grupo: 社長はすぐいらっしゃいます ✗ → 社長の山田はすぐまいります ✓.",
-        "Ao oferecer comida, quem come é o outro: どうぞいただいてください ✗ → どうぞめしあがってください ✓.",
-        "Humilde não é \"mais educado\" que honorífico: são direções opostas. 先生がいただきました ✗ → 先生がめしあがりました ✓.",
-        "Keigo não se usa com a própria família, dentro de casa. Só quando você fala DELA com alguém de fora é que ela vira 母 e ganha humilde: 母もそうもうしておりました ✓."
+        "With a customer, your boss belongs to your group: 社長はすぐいらっしゃいます ✗ → 社長の山田はすぐまいります ✓.",
+        "When you offer food, the other person is the one eating: どうぞいただいてください ✗ → どうぞめしあがってください ✓.",
+        "Humble is not \"more polite\" than honorific: they point in opposite directions. 先生がいただきました ✗ → 先生がめしあがりました ✓.",
+        "Keigo is not used with your own family at home. Only when you talk ABOUT them to an outsider do they become 母 and get humble verbs: 母もそうもうしておりました ✓."
       ],
       "howToStudy": [
-        "Copie a tabela no caderno em 3 colunas (neutro | 尊敬語 | 謙譲語). Cubra duas colunas e recite a terceira; troque a coluna coberta até acertar todas.",
-        "Aperte 🔬 no exemplo 1. いらっしゃいました é um PREDICADO cujo sujeito é 社長 (o outro); まいります é um PREDICADO cujo sujeito é 私. O tipo de keigo confirma quem faz cada ação.",
-        "Fale em voz alta 4 pares, trocando só o sujeito: 先生はいらっしゃいます / 私はまいります; めしあがります / いただきます; ごらんになります / はいけんします; おっしゃいます / もうします."
+        "Copy the table into your notebook in 3 columns (neutral | 尊敬語 | 謙譲語). Cover two columns and recite the third; switch the covered columns until you get them all.",
+        "Tap 🔬 on example 1. いらっしゃいましたか is a PREDICATE whose topic is 社長 (the other person); in the last sentence, 私が is the SUBJECT of the PREDICATE まいります. The type of keigo confirms who does each action. Then tap 🔬 on example 3: the question's PREDICATE なさいますか raises the listener, and the answer's PREDICATE まいります lowers the speaker.",
+        "Say 4 pairs aloud, changing only the subject: 先生はいらっしゃいます / 私はまいります; めしあがります / いただきます; ごらんになります / はいけんします; おっしゃいます / もうします."
       ],
       "flag": null
     }
   ],
   "media": [
-    { "order": 1, "kind": "leitura", "title": "Genki II · Lição 20: diálogo, vocabulário e as explicações de gramática sobre expressões extra-modestas e humildes", "where": "Seu livro Genki II", "url": "", "when": "Antes desta aula ou logo depois do bloco de gramática. 〜ないで e as perguntas embutidas ficam para a Aula 20-2." },
-    { "order": 2, "kind": "video", "title": "Japanese Ammo with Misa: linguagem humilde (謙譲語), em inglês (reforço)", "where": "YouTube · canal Japanese Ammo with Misa", "url": "", "search": "Japanese Ammo with Misa humble keigo kenjougo", "when": "Depois dos pontos a e b. Se o vídeo comparar honorífico e humilde, ótimo: vale como revisão do ponto d." }
+    { "order": 1, "kind": "reading", "title": "Genki II · Lesson 20: the dialogue, vocabulary and grammar notes on extra-modest and humble expressions", "where": "Your Genki II textbook", "url": "", "when": "Before this lesson or right after the grammar block. 〜ないで and the embedded questions are in lesson 20-2." },
+    { "order": 2, "kind": "video", "title": "Japanese Ammo with Misa: humble language (謙譲語), extra practice", "where": "YouTube · Japanese Ammo with Misa channel", "url": "", "search": "Japanese Ammo with Misa humble keigo kenjougo", "when": "After points a and b. If the video compares honorific and humble, great: it doubles as a review of point d." }
   ],
   "homework": {
-    "intro": "Faça no caderno, à mão, e escreva o japonês com os kanji da aula (o resto em kana). Só depois abra o gabarito, item por item. Circule o que errou e refaça no dia seguinte. Se você tiver o Genki II Workbook, faça também os exercícios desta lição.",
+    "intro": "Do it by hand in your notebook, and write the Japanese with this lesson's kanji (kana for the rest). Only then open the answer key, item by item. Circle what you got wrong and redo it the next day. If you have the Genki II Workbook, do this lesson's exercises too.",
     "tasks": [
       {
         "id": "h1",
-        "type": "transformar",
-        "prompt": "Você está falando com o seu professor. Passe o verbo sublinhado mentalmente para a forma humilde (謙譲語).",
+        "type": "transform",
+        "prompt": "You are talking to your teacher. Put the verb of each sentence into its humble form (謙譲語).",
         "items": [
-          { "q": "明日、先生のおたくに行きます。", "a": { "jp": "明日、先生のおたくにうかがいます。", "kana": "あした、せんせいのおたくにうかがいます。", "romaji": "Ashita, sensei no otaku ni ukagaimasu." }, "note": "まいります também é possível; うかがいます deixa claro que você visita o professor." },
+          { "q": "明日、先生のおたくに行きます。", "a": { "jp": "明日、先生のおたくにうかがいます。", "kana": "あした、せんせいのおたくにうかがいます。", "romaji": "Ashita, sensei no otaku ni ukagaimasu." }, "note": "まいります is also possible; うかがいます makes it clear that you are visiting your teacher." },
           { "q": "私はペドロと言います。", "a": { "jp": "私はペドロともうします。", "kana": "わたしはペドロともうします。", "romaji": "Watashi wa Pedoro to mōshimasu." } },
-          { "q": "母は今、家にいます。", "a": { "jp": "母は今、家におります。", "kana": "はははいま、いえにおります。", "romaji": "Haha wa ima, ie ni orimasu." }, "note": "A mãe é do seu grupo: humilde para ela também." },
-          { "q": "先生の写真を見ました。", "a": { "jp": "先生のお写真をはいけんしました。", "kana": "せんせいのおしゃしんをはいけんしました。", "romaji": "Sensei no oshashin o haiken shimashita." }, "note": "O お em お写真 é opcional: é um toque de respeito à coisa do professor." },
+          { "q": "母は今、家にいます。", "a": { "jp": "母は今、家におります。", "kana": "はははいま、いえにおります。", "romaji": "Haha wa ima, ie ni orimasu." }, "note": "Your mother belongs to your group: humble for her too." },
+          { "q": "先生の写真を見ました。", "a": { "jp": "先生のお写真をはいけんしました。", "kana": "せんせいのおしゃしんをはいけんしました。", "romaji": "Sensei no oshashin o haiken shimashita." }, "note": "The お in お写真 is optional: a touch of respect for the teacher's thing." },
           { "q": "そのことは知っています。", "a": { "jp": "そのことはぞんじております。", "romaji": "Sono koto wa zonjite orimasu." } },
           { "q": "その仕事は私がします。", "a": { "jp": "その仕事は私がいたします。", "kana": "そのしごとはわたしがいたします。", "romaji": "Sono shigoto wa watashi ga itashimasu." } }
         ]
       },
       {
         "id": "h2",
-        "type": "transformar",
-        "prompt": "A ação é sua, feita para um professor ou cliente. Escreva a frase com お〜します ou ご〜します.",
+        "type": "transform",
+        "prompt": "The action is yours, done for a teacher or a customer. Write the sentence with お〜します or ご〜します.",
         "items": [
-          { "q": "Carregar a bolsa do professor: かばんを持つ", "a": { "jp": "かばんをお持ちします。", "kana": "かばんをおもちします。", "romaji": "Kaban o o-mochi shimasu." } },
-          { "q": "Esperar aqui pelo cliente: ここで待つ", "a": { "jp": "ここでお待ちします。", "kana": "ここでおまちします。", "romaji": "Koko de o-machi shimasu." } },
-          { "q": "Oferecer um guarda-chuva emprestado (com 〜ましょうか): かさを貸す", "a": { "jp": "かさをお貸ししましょうか。", "kana": "かさをおかししましょうか。", "romaji": "Kasa o o-kashi shimashō ka." } },
-          { "q": "Avisar quando souber o horário: 時間が分かったら、知らせる", "a": { "jp": "時間が分かったら、お知らせします。", "kana": "じかんがわかったら、おしらせします。", "romaji": "Jikan ga wakattara, o-shirase shimasu." } },
-          { "q": "Levar o cliente até a seção: 売り場まであんないする", "a": { "jp": "売り場までごあんないします。", "kana": "うりばまでごあんないします。", "romaji": "Uriba made go-annai shimasu." }, "note": "あんない é sino-japonês: leva ご. ごあんないいたします é ainda mais humilde." },
-          { "q": "Ligar depois: あとで電話する", "a": { "jp": "あとでお電話します。", "kana": "あとでおでんわします。", "romaji": "Ato de o-denwa shimasu." }, "note": "Exceção: 電話 é sino-japonês, mas leva お." }
+          { "q": "Carry your teacher's bag: かばんを持つ", "a": { "jp": "かばんをお持ちします。", "kana": "かばんをおもちします。", "romaji": "Kaban o omochi shimasu." } },
+          { "q": "Wait here for the customer: ここで待つ", "a": { "jp": "ここでお待ちします。", "kana": "ここでおまちします。", "romaji": "Koko de omachi shimasu." } },
+          { "q": "Offer to lend an umbrella (with 〜ましょうか): かさを貸す", "a": { "jp": "かさをお貸ししましょうか。", "kana": "かさをおかししましょうか。", "romaji": "Kasa o okashi shimashō ka." } },
+          { "q": "Let them know when you find out the time: 時間が分かったら、知らせる", "a": { "jp": "時間が分かったら、お知らせします。", "kana": "じかんがわかったら、おしらせします。", "romaji": "Jikan ga wakattara, oshirase shimasu." } },
+          { "q": "Take the customer to the department: 売り場まであんないする", "a": { "jp": "売り場までごあんないします。", "kana": "うりばまでごあんないします。", "romaji": "Uriba made goannai shimasu." }, "note": "あんない is Sino-Japanese: it takes ご. ごあんないいたします is even humbler." },
+          { "q": "Call later: あとで電話する", "a": { "jp": "あとでお電話します。", "kana": "あとでおでんわします。", "romaji": "Ato de odenwa shimasu." }, "note": "The exception: 電話 is Sino-Japanese, but it takes お." }
         ]
       },
       {
         "id": "h3",
-        "type": "completar",
-        "prompt": "Honorífico ou humilde? Escolha a forma certa e escreva a frase inteira.",
+        "type": "choose",
+        "prompt": "Honorific or humble? Choose the right form and write out the whole sentence.",
         "items": [
-          { "q": "社長は何時に（まいります／いらっしゃいます）か。", "a": { "jp": "社長は何時にいらっしゃいますか。", "kana": "しゃちょうはなんじにいらっしゃいますか。", "romaji": "Shachō wa nanji ni irasshaimasu ka." }, "note": "Quem vem é o presidente: honorífico." },
-          { "q": "先生、どうぞ（めしあがって／いただいて）ください。", "a": { "jp": "先生、どうぞめしあがってください。", "kana": "せんせい、どうぞめしあがってください。", "romaji": "Sensei, dōzo meshiagatte kudasai." }, "note": "Quem come é o professor: honorífico. いただく é o SEU comer." },
-          { "q": "(a um cliente, sobre o seu colega Tanaka) 田中はすぐに（まいります／いらっしゃいます）。", "a": { "jp": "田中はすぐにまいります。", "kana": "たなかはすぐにまいります。", "romaji": "Tanaka wa sugu ni mairimasu." }, "note": "Diante do cliente, o colega é do seu grupo: humilde, sem さん." },
+          { "q": "社長は何時に（まいります／いらっしゃいます）か。", "a": { "jp": "社長は何時にいらっしゃいますか。", "kana": "しゃちょうはなんじにいらっしゃいますか。", "romaji": "Shachō wa nanji ni irasshaimasu ka." }, "note": "The president is the one coming: honorific." },
+          { "q": "先生、どうぞ（めしあがって／いただいて）ください。", "a": { "jp": "先生、どうぞめしあがってください。", "kana": "せんせい、どうぞめしあがってください。", "romaji": "Sensei, dōzo meshiagatte kudasai." }, "note": "The teacher is the one eating: honorific. いただく is YOUR eating." },
+          { "q": "(to a customer, about your colleague Tanaka) 田中はすぐに（まいります／いらっしゃいます）。", "a": { "jp": "田中はすぐにまいります。", "kana": "たなかはすぐにまいります。", "romaji": "Tanaka wa sugu ni mairimasu." }, "note": "In front of a customer, your colleague belongs to your group: humble, and no さん." },
           { "q": "先生、この本を（ごらんになりましたか／はいけんしましたか）。", "a": { "jp": "先生、この本をごらんになりましたか。", "kana": "せんせい、このほんをごらんになりましたか。", "romaji": "Sensei, kono hon o goran ni narimashita ka." } },
-          { "q": "きのう、私は先生に花を（さしあげました／くださいました）。", "a": { "jp": "きのう、私は先生に花をさしあげました。", "kana": "きのう、わたしはせんせいにはなをさしあげました。", "romaji": "Kinō, watashi wa sensei ni hana o sashiagemashita." }, "note": "Eu dei ao professor: さしあげる. くださいました seria o professor dando a mim." },
-          { "q": "(a um cliente) こちらが新しいメニュー（でございます／でいらっしゃいます）。", "a": { "jp": "こちらが新しいメニューでございます。", "kana": "こちらがあたらしいメニューでございます。", "romaji": "Kochira ga atarashii menyū de gozaimasu." }, "note": "É uma coisa: でございます. でいらっしゃいます é só para pessoas que você eleva." }
+          { "q": "きのう、私は先生に花を（さしあげました／くださいました）。", "a": { "jp": "きのう、私は先生に花をさしあげました。", "kana": "きのう、わたしはせんせいにはなをさしあげました。", "romaji": "Kinō, watashi wa sensei ni hana o sashiagemashita." }, "note": "I gave something to my teacher: さしあげる. くださいました would be the teacher giving to me." },
+          { "q": "(to a customer) こちらが新しいメニュー（でございます／でいらっしゃいます）。", "a": { "jp": "こちらが新しいメニューでございます。", "kana": "こちらがあたらしいメニューでございます。", "romaji": "Kochira ga atarashii menyū de gozaimasu." }, "note": "It's a thing: でございます. でいらっしゃいます is only for people you raise." }
         ]
       },
       {
         "id": "h4",
-        "type": "produzir",
-        "prompt": "Você trabalha numa loja. Escreva 4 falas para um cliente: cumprimente, ofereça ajuda com お〜します, diga que existe outra opção com ございます e explique, com おる, que um colega saiu. Depois leia em voz alta e grave no celular.",
+        "type": "produce",
+        "prompt": "You work in a shop. Write 4 lines to a customer: greet them, offer help with お〜します, say there is another option with ございます and explain, with おる, that a colleague is out. Then read them aloud and record yourself on your phone.",
         "items": [
-          { "q": "Modelo, que o seu texto deve seguir na estrutura e não nas palavras:", "a": { "jp": "いらっしゃいませ。おにもつ、お持ちしましょうか。このシャツは、ほかの色もございます。もうしわけございません。田中はただいま出かけております。", "kana": "いらっしゃいませ。おにもつ、おもちしましょうか。このシャツは、ほかのいろもございます。もうしわけございません。たなかはただいまでかけております。", "romaji": "Irasshaimase. Onimotsu, o-mochi shimashō ka. Kono shatsu wa, hoka no iro mo gozaimasu. Mōshiwake gozaimasen. Tanaka wa tadaima dekakete orimasu.", "pt": "Seja bem-vindo(a). Quer que eu leve a sua bolsa? Esta camisa também existe em outras cores. Sinto muito, o Tanaka saiu no momento." }, "note": "Confira: humilde só nas SUAS ações e nas do seu colega; nenhum さん para o colega; ございます só para coisas; o verbo sempre no fim." }
+          { "q": "Model (match its structure, not its words):", "a": { "jp": "いらっしゃいませ。おにもつ、お持ちしましょうか。このシャツは、ほかの色もございます。もうしわけございません。田中はただいま出かけております。", "kana": "いらっしゃいませ。おにもつ、おもちしましょうか。このシャツは、ほかのいろもございます。もうしわけございません。たなかはただいまでかけております。", "romaji": "Irasshaimase. Onimotsu, omochi shimashō ka. Kono shatsu wa, hoka no iro mo gozaimasu. Mōshiwake gozaimasen. Tanaka wa tadaima dekakete orimasu.", "en": "Welcome. Shall I carry your bags for you? This shirt also comes in other colors. I'm very sorry, Tanaka is out at the moment." }, "note": "Check: humble only on YOUR actions and your colleague's; no さん for your colleague; ございます only for things; the verb always at the end." }
         ]
       }
     ],
     "workbook": []
   },
   "practice": [
-    { "tool": "Wagotabi", "what": "Se você já está nas partes N4 do jogo, preste atenção nas falas de lojistas, recepcionistas e personagens formais. Anote no caderno toda forma humilde ou extra-modesta que aparecer (まいります, おります, もうします, いたします, ございます…) e escreva ao lado a forma neutra. Se nenhuma aparecer na sessão, cace os honoríficos da Aula 19-1.", "min": 15 },
-    { "tool": "ヅオリンゴー", "what": "Vocabulário/SRS: revise as palavras da aula, com atenção aos 9 verbos humildes. Depois, Mineração: guarde as 3 frases do ponto d, que mostram honorífico e humilde lado a lado.", "min": 10 },
-    { "tool": "ヅオリンゴー", "what": "Treinos → 🔬 Anatomia → 🔬 Analisar: cole os exemplos do ponto d e, para cada predicado, diga quem é o sujeito (o outro ou eu).", "min": 5 },
-    { "tool": "Shadowing", "what": "Toque 🔊 em cada exemplo desta aula e repita junto 3 vezes. Capriche nas palavras longas: も・う・し・わ・け・ご・ざ・い・ま・せ・ん tem 11 batidas do mesmo tamanho.", "min": 5 },
-    { "tool": "Fala", "what": "Grave-se fazendo as duas partes de uma cena de loja: o cliente fala com です／ます e o atendente fala com as frases da lição de casa h4. Até 40 s.", "min": 5 }
+    { "tool": "Wagotabi", "what": "If you are already in the N4 parts of the game, pay attention to shopkeepers, receptionists and formal characters. Write down in your notebook every humble or extra-modest form that shows up (まいります, おります, もうします, いたします, ございます…) and write the neutral form next to it. If none shows up in the session, hunt for the honorifics of lesson 19-1 instead.", "min": 15 },
+    { "tool": "ヅオリンゴー", "what": "Vocabulary/SRS: review this lesson's words, paying attention to the 9 humble verbs. Then, in Mining, save the 3 sentences of point d, which show honorific and humble side by side.", "min": 10 },
+    { "tool": "ヅオリンゴー", "what": "Drills → 🔬 Anatomy → 🔬 Analyze: paste the examples of point d and, for each predicate, say who the subject is (the other person or me).", "min": 5 },
+    { "tool": "Shadowing", "what": "Tap 🔊 on each example in this lesson and repeat along 3 times. Take care with the long words: も・う・し・わ・け・ご・ざ・い・ま・せ・ん has 11 beats of the same length.", "min": 5 },
+    { "tool": "Speaking", "what": "Record yourself playing both parts of a shop scene: the customer speaks with です／ます and the clerk speaks with the lines from homework h4. 40 seconds or less.", "min": 5 }
   ],
   "culture": {
-    "title": "Hospitalidade à japonesa: おもてなし e いらっしゃいませ",
+    "title": "Japanese hospitality: おもてなし and いらっしゃいませ",
     "titleJp": "おもてなし・いらっしゃいませ",
-    "body": "Ao entrar numa loja, num restaurante ou numa konbini no Japão, você costuma ouvir **いらっしゃいませ** (\"seja bem-vindo\"), que vem do honorífico いらっしゃる. É um cumprimento de quem atende, e **ninguém espera resposta**: em geral o cliente só entra, às vezes com um leve aceno de cabeça. Por trás disso está a ideia de **おもてなし**, a hospitalidade que tenta prever o que o cliente precisa antes que ele peça; a palavra ficou famosa fora do Japão em 2013, na candidatura de Tóquio às Olimpíadas. No atendimento, o keigo desta aula aparece o tempo todo: かしこまりました (\"pois não, entendido\"), 少々お待ちください, 〜でございます. Em muitas lojas de departamento, na hora de abrir, funcionários ficam na entrada e fazem reverência para os primeiros clientes.",
-    "try": "Treine em voz alta as 3 falas de atendente que você mais vai ouvir, até entender cada uma sem traduzir: いらっしゃいませ。 / かしこまりました。 / 少々お待ちください。 Da próxima vez que vir uma cena de loja num vídeo ou anime, anote o keigo que aparece depois do いらっしゃいませ."
+    "body": "When you walk into a shop, a restaurant or a konbini in Japan, you usually hear **いらっしゃいませ** (\"welcome\"), which comes from the honorific いらっしゃる. It is a greeting from the staff, and **nobody expects an answer**: customers generally just walk in, sometimes with a slight nod. Behind it lies the idea of **おもてなし**, hospitality that tries to anticipate what the customer needs before they ask; the word became famous abroad in 2013, during Tokyo's bid for the Olympics. In customer service, this lesson's keigo is everywhere: かしこまりました (\"certainly\"), 少々お待ちください, 〜でございます. In many department stores, at opening time, staff stand at the entrance and bow to the first customers.",
+    "try": "Practice aloud the 3 clerk phrases you will hear most, until you understand each one without translating: いらっしゃいませ。 / かしこまりました。 / 少々お待ちください。 Next time you see a shop scene in a video or an anime, write down the keigo that comes after いらっしゃいませ."
   },
   "checklist": [
-    "Digo os 9 verbos humildes a partir do neutro, sem olhar (行く → まいる, 見る → はいけんする, 知っている → ぞんじております…).",
-    "Faço uma autoapresentação formal com もうします e まいりました.",
-    "Ofereço ajuda com お〜します e ご〜します, e sei quando a fórmula não serve (verbos com forma especial, ações só minhas).",
-    "Entendo でございます, ございます e ございません em frases de loja, e sei que ございます é só para coisas.",
-    "Decido entre 尊敬語 e 謙譲語 perguntando \"de quem é a ação?\", inclusive quando falo do meu chefe com um cliente.",
-    "Fiz a lição de casa e conferi o gabarito, e refiz o que errei.",
-    "Se tenho o Genki II Workbook, fiz os exercícios de linguagem humilde da Lição 20."
+    "I can say the 9 humble verbs from the neutral verb without looking (行く → まいる, 見る → はいけんする, 知っている → ぞんじております…).",
+    "I can give a formal self-introduction with もうします and まいりました.",
+    "I offer help with お〜します and ご〜します, and I know when the formula doesn't work (verbs with a special form, actions that are only mine).",
+    "I understand でございます, ございます and ございません in shop sentences, and I know ございます is only for things.",
+    "I choose between 尊敬語 and 謙譲語 by asking \"whose action is it?\", including when I talk about my boss to a customer.",
+    "I did the homework, checked it against the answer key and redid what I got wrong.",
+    "If I have the Genki II Workbook, I did the Lesson 20 exercises on humble language."
   ]
 }

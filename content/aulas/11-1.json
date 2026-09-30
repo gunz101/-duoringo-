@@ -2,189 +2,189 @@
   "id": "11-1",
   "unit": "G1-L11",
   "genki": { "book": "Genki I", "lesson": 11, "points": ["〜たい", "〜たり〜たりする"] },
-  "title": "Querer fazer · listar ações",
+  "title": "Wanting to · listing actions",
   "titleJp": "休みの 日は 何を したいですか",
   "canDo": [
-    "Dizer o que eu quero fazer e o que não quero, com 〜たいです e 〜たくないです.",
-    "Contar o que eu queria (ou não queria) fazer, com 〜たかったです e 〜たくなかったです.",
-    "Perguntar a um amigo o que ele quer fazer e contar o desejo de outra pessoa sem falar por ela (〜たいと 言っていました).",
-    "Dar exemplos do que faço, fiz ou quero fazer num dia livre com 〜たり 〜たり します／しました／したいです."
+    "I can say what I want to do and what I don't want to do, with 〜たいです and 〜たくないです.",
+    "I can say what I wanted (or didn't want) to do, with 〜たかったです and 〜たくなかったです.",
+    "I can ask a friend what they want to do, and report someone else's wish without speaking for them (〜たいと 言っていました).",
+    "I can give examples of what I do, did or want to do on a free day with 〜たり 〜たり します／しました／したいです."
   ],
   "duration": {
     "total": "60–75 min",
     "blocks": [
-      { "t": "Aquecimento: diga em voz alta a forma ます e a forma た de 8 verbos (食べる, 行く, 見る, する, 来る, 飲む, およぐ, 読む)", "min": 5 },
-      { "t": "Vocabulário: ouvir 🔊 cada palavra e repetir 2 vezes", "min": 10 },
-      { "t": "Gramática 4a: 〜たい, a escada de conjugação e a troca を／が, com um 🔬", "min": 15 },
-      { "t": "Gramática 4b: 〜たり 〜たり する, lendo os exemplos pelo する do fim", "min": 10 },
-      { "t": "Vídeo da Lição 11 (bloco 6), pausando nos exemplos", "min": 10 },
-      { "t": "Lição de casa no caderno + conferir no gabarito", "min": 15 },
-      { "t": "Checklist (bloco 10) + anotar dúvidas no caderno da aula", "min": 5 }
+      { "t": "Warm-up: say the ます-form and the た-form of 8 verbs out loud (食べる, 行く, 見る, する, 来る, 飲む, およぐ, 読む)", "min": 5 },
+      { "t": "Vocabulary: tap 🔊 on each word and repeat it twice", "min": 10 },
+      { "t": "Grammar 4a: 〜たい, its conjugation ladder and the を／が swap, with one 🔬", "min": 15 },
+      { "t": "Grammar 4b: 〜たり 〜たり する, reading each example from the する at the end", "min": 10 },
+      { "t": "Lesson 11 video (block 6), pausing on the examples", "min": 10 },
+      { "t": "Notebook homework + checking it against the answer key", "min": 15 },
+      { "t": "Checklist (block 10) + write your questions in the lesson notebook", "min": 5 }
     ]
   },
   "prereqs": {
     "aulas": ["05-2", "07-3", "08-2", "09-1"],
     "skills": [
-      "Tirar o radical de qualquer verbo: é a forma ます sem o ます (食べます → 食べ, 行きます → 行き, します → し). Você já usou o radical em 〜に 行きます (Aula 07-3).",
-      "Conjugar um adjetivo い: たかい → たかくない → たかかった → たかくなかった (Aulas 05-1 e 05-2). O 〜たい segue exatamente esse modelo.",
-      "Fazer a forma た, o passado curto, dos três grupos de verbos (Aula 09-1): 飲んだ, 行った, 見た, した, 来た. Ela é a base do 〜たり.",
-      "Citar alguém com 〜と 言っていました (Aula 08-2)."
+      "Taking the stem of any verb: it is the ます-form without ます (食べます → 食べ, 行きます → 行き, します → し). You already used the stem in 〜に 行きます (lesson 07-3).",
+      "Conjugating an い-adjective: たかい → たかくない → たかかった → たかくなかった (lessons 05-1 and 05-2). 〜たい follows exactly this pattern.",
+      "Making the た-form, the short past, of all three verb groups (lesson 09-1): 飲んだ, 行った, 見た, した, 来た. It is the base of 〜たり.",
+      "Quoting someone with 〜と 言っていました (lesson 08-2)."
     ],
     "vocab": [
-      { "jp": "休み", "kana": "やすみ", "romaji": "yasumi", "pt": "folga, férias, dia livre" },
-      { "jp": "休みの 日", "kana": "やすみの ひ", "romaji": "yasumi no hi", "pt": "dia de folga" },
-      { "jp": "旅行", "kana": "りょこう", "romaji": "ryokō", "pt": "viagem (旅行する = viajar)" },
-      { "jp": "外国", "kana": "がいこく", "romaji": "gaikoku", "pt": "país estrangeiro, exterior" },
-      { "jp": "山", "kana": "やま", "romaji": "yama", "pt": "montanha" },
-      { "jp": "のぼる", "kana": "のぼる", "romaji": "noboru", "pt": "subir, escalar (〜に のぼる)" },
-      { "jp": "うみ", "kana": "うみ", "romaji": "umi", "pt": "mar" },
-      { "jp": "およぐ", "kana": "およぐ", "romaji": "oyogu", "pt": "nadar" },
-      { "jp": "しんかんせん", "kana": "しんかんせん", "romaji": "shinkansen", "pt": "trem-bala" },
-      { "jp": "のる", "kana": "のる", "romaji": "noru", "pt": "andar de, embarcar em (〜に のる)" },
-      { "jp": "しゃしん", "kana": "しゃしん", "romaji": "shashin", "pt": "foto" },
-      { "jp": "とる", "kana": "とる", "romaji": "toru", "pt": "tirar (foto)" },
-      { "jp": "そうじ", "kana": "そうじ", "romaji": "sōji", "pt": "faxina, limpeza (そうじを する)" },
-      { "jp": "せんたく", "kana": "せんたく", "romaji": "sentaku", "pt": "lavar roupa (せんたくを する)" },
-      { "jp": "りょうり", "kana": "りょうり", "romaji": "ryōri", "pt": "comida, prato, culinária" },
-      { "jp": "作る", "kana": "つくる", "romaji": "tsukuru", "pt": "fazer, preparar (りょうりを 作る = cozinhar)" },
-      { "jp": "ならう", "kana": "ならう", "romaji": "narau", "pt": "aprender (com alguém), ter aulas de" },
-      { "jp": "あそぶ", "kana": "あそぶ", "romaji": "asobu", "pt": "sair para se divertir, brincar" },
-      { "jp": "はたらく", "kana": "はたらく", "romaji": "hataraku", "pt": "trabalhar" },
-      { "jp": "あるく", "kana": "あるく", "romaji": "aruku", "pt": "andar, caminhar" },
-      { "jp": "ねる", "kana": "ねる", "romaji": "neru", "pt": "dormir, deitar-se" },
-      { "jp": "映画", "kana": "えいが", "romaji": "eiga", "pt": "filme" }
+      { "jp": "休み", "kana": "やすみ", "romaji": "yasumi", "en": "day off, holiday, vacation" },
+      { "jp": "休みの 日", "kana": "やすみの ひ", "romaji": "yasumi no hi", "en": "day off" },
+      { "jp": "旅行", "kana": "りょこう", "romaji": "ryokō", "en": "trip, travel (旅行する = to travel)" },
+      { "jp": "外国", "kana": "がいこく", "romaji": "gaikoku", "en": "foreign country, abroad" },
+      { "jp": "山", "kana": "やま", "romaji": "yama", "en": "mountain" },
+      { "jp": "のぼる", "kana": "のぼる", "romaji": "noboru", "en": "to climb (〜に のぼる)" },
+      { "jp": "うみ", "kana": "うみ", "romaji": "umi", "en": "sea, ocean" },
+      { "jp": "およぐ", "kana": "およぐ", "romaji": "oyogu", "en": "to swim" },
+      { "jp": "しんかんせん", "kana": "しんかんせん", "romaji": "shinkansen", "en": "Shinkansen, bullet train" },
+      { "jp": "のる", "kana": "のる", "romaji": "noru", "en": "to ride, to get on (〜に のる)" },
+      { "jp": "しゃしん", "kana": "しゃしん", "romaji": "shashin", "en": "photo, picture" },
+      { "jp": "とる", "kana": "とる", "romaji": "toru", "en": "to take (a photo)" },
+      { "jp": "そうじ", "kana": "そうじ", "romaji": "sōji", "en": "cleaning (そうじを する = to clean)" },
+      { "jp": "せんたく", "kana": "せんたく", "romaji": "sentaku", "en": "laundry (せんたくを する = to do the laundry)" },
+      { "jp": "りょうり", "kana": "りょうり", "romaji": "ryōri", "en": "cooking; food, dish" },
+      { "jp": "作る", "kana": "つくる", "romaji": "tsukuru", "en": "to make (りょうりを 作る = to cook)" },
+      { "jp": "ならう", "kana": "ならう", "romaji": "narau", "en": "to learn (from someone), to take lessons in" },
+      { "jp": "あそぶ", "kana": "あそぶ", "romaji": "asobu", "en": "to hang out, to have fun, to play" },
+      { "jp": "はたらく", "kana": "はたらく", "romaji": "hataraku", "en": "to work" },
+      { "jp": "あるく", "kana": "あるく", "romaji": "aruku", "en": "to walk" },
+      { "jp": "ねる", "kana": "ねる", "romaji": "neru", "en": "to sleep, to go to bed" },
+      { "jp": "映画", "kana": "えいが", "romaji": "eiga", "en": "movie" }
     ]
   },
   "grammar": [
     {
       "id": "11-1-a",
       "gc": "11-1",
-      "title": "〜たい (querer fazer)",
-      "gloss": "quero fazer…",
-      "explanation": "〜たい diz o que **eu quero fazer**. Pegue o **radical** do verbo (a forma ます sem o ます) e cole たい: 食べます → 食べ**たい**, 行きます → 行き**たい**, します → し**たい**, 来ます → 来**たい** (きたい).\n• O resultado se comporta como um **adjetivo い**: 〜たいです (quero), 〜たくないです (não quero), 〜たかったです (queria), 〜たくなかったです (não queria). É o mesmo modelo de たかい → たかくない → たかかった → たかくなかった.\n• Na frase, 〜たいです é o **PREDICADO** e fica no fim. O resto não muda: [lugar] に, [lugar] で e [com quem] と continuam iguais.\n• Só o **objeto** pode trocar de partícula: を pode virar **が** (ラーメンを／ラーメンが 食べたいです). に, で e as outras partículas ficam como estão.\n• 〜たい fala do **seu** desejo. Em pergunta, fala do desejo de quem ouve: 何を したいですか (o que você quer fazer?).\n• Para contar o desejo de **outra pessoa**, não afirme por ela (マリアさんは 〜たいです). Cite o que ela disse: マリアさんは 〜たいと 言っていました (Aula 08-2).",
-      "structure": "([lugar] に／で) ([objeto] を／が) [radical] たいです",
+      "title": "〜たい (want to do)",
+      "gloss": "I want to…",
+      "explanation": "〜たい says what **I want to do**. Take the verb **stem** (the ます-form without ます) and add たい: 食べます → 食べ**たい**, 行きます → 行き**たい**, します → し**たい**, 来ます → 来**たい** (きたい). Unlike English \"want to\", たい is not a separate word: it glues onto the verb.\n• The result behaves like an **い-adjective**: 〜たいです (I want to), 〜たくないです (I don't want to), 〜たかったです (I wanted to), 〜たくなかったです (I didn't want to). It is the same pattern as たかい → たかくない → たかかった → たかくなかった.\n• In the sentence, 〜たいです is the **PREDICATE** and comes at the end. The rest does not change: [place] に, [place] で and [with whom] と stay the same.\n• Only the **object** may change its particle: を can become **が** (ラーメンを／ラーメンが 食べたいです). に, で and the other particles stay as they are.\n• 〜たい talks about **your own** wish. In a question, it asks about the listener's wish: 何を したいですか (what do you want to do?).\n• To report **someone else's** wish, don't state it for them (マリアさんは 〜たいです). Quote what they said: マリアさんは 〜たいと 言っていました (lesson 08-2).",
+      "structure": "([place] に／で) ([object] を／が) [stem] たいです",
       "examples": [
-        { "jp": "来年、ふじさんに のぼりたいです。", "kana": "らいねん、ふじさんに のぼりたいです。", "romaji": "Rainen, Fujisan ni noboritai desu.", "pt": "Ano que vem, quero subir o monte Fuji." },
-        { "jp": "日本で おいしい ラーメンが 食べたいです。", "kana": "にほんで おいしい ラーメンが たべたいです。", "romaji": "Nihon de oishii rāmen ga tabetai desu.", "pt": "Quero comer um lámen gostoso no Japão." },
-        { "jp": "きのうは 雨だったから、どこにも 行きたくなかったです。", "kana": "きのうは あめだったから、どこにも いきたくなかったです。", "romaji": "Kinō wa ame datta kara, doko ni mo ikitakunakatta desu.", "pt": "Ontem estava chovendo, então eu não queria ir a lugar nenhum." }
+        { "jp": "来年、ふじさんに のぼりたいです。", "kana": "らいねん、ふじさんに のぼりたいです。", "romaji": "Rainen, Fujisan ni noboritai desu.", "en": "Next year, I want to climb Mt. Fuji." },
+        { "jp": "日本で おいしい ラーメンが 食べたいです。", "kana": "にほんで おいしい ラーメンが たべたいです。", "romaji": "Nihon de oishii rāmen ga tabetai desu.", "en": "I want to eat delicious ramen in Japan." },
+        { "jp": "きのうは 雨だったから、どこにも 行きたくなかったです。", "kana": "きのうは あめだったから、どこにも いきたくなかったです。", "romaji": "Kinō wa ame datta kara, doko ni mo ikitakunakatta desu.", "en": "It was raining yesterday, so I didn't want to go anywhere." }
       ],
       "pitfalls": [
-        "たい cola no radical, nunca na forma de dicionário: 食べたい (certo) × 食べるたい (errado).",
-        "Negativa e passado mudam o próprio たい, como num adjetivo い: 行きたくないです (certo) × 行きたいじゃないです (errado); 行きたかったです (certo) × 行きたいでした (errado).",
-        "Só o を pode virar が. うみで およぎたいです (certo) × うみが およぎたいです (errado): o で é do lugar e continua で.",
-        "Não afirme o desejo dos outros com 〜たいです: アナさんは 〜たいと 言っていました (certo) × アナさんは 〜たいです (soa como se você lesse a mente dela). E com professor ou chefe, perguntar 〜たいですか direto pode soar íntimo demais; para convidar, prefira 〜ませんか (Aula 03-3)."
+        "たい attaches to the stem, never to the dictionary form: 食べるたい ✗ → 食べたい ✓.",
+        "The negative and the past change たい itself, as with an い-adjective: 行きたいじゃないです ✗ → 行きたくないです ✓; 行きたいでした ✗ → 行きたかったです ✓.",
+        "Only を can become が: うみが およぎたいです ✗ → うみで およぎたいです ✓. で marks the place, and it stays で.",
+        "Don't state other people's wishes with 〜たいです: アナさんは 〜たいです ✗ (it sounds as if you could read her mind) → アナさんは 〜たいと 言っていました ✓. And with a teacher or boss, asking 〜たいですか directly can sound too familiar; to invite them, use 〜ませんか (lesson 03-3)."
       ],
       "howToStudy": [
-        "Faça a escada em voz alta: 食べたいです → 食べたくないです → 食べたかったです → 食べたくなかったです. Repita com 行く, 見る, する e 来る (きたい).",
-        "Aperte 🔬 no exemplo da ラーメン. O 食べたいです aparece como PREDICADO de desejo. ラーメンが aparece como SUJEITO por causa do が, mas antes de 〜たい esse が aponta a coisa desejada. Troque por ラーメンを: o bloco vira OBJETO e o sentido básico não muda.",
-        "Fale 5 desejos verdadeiros para as próximas férias (〜たいです) e 2 coisas que você não quer fazer (〜たくないです). Grave no celular."
+        "Say the ladder out loud: 食べたいです → 食べたくないです → 食べたかったです → 食べたくなかったです. Repeat it with 行く, 見る, する and 来る (きたい).",
+        "Tap 🔬 on the ramen example. 食べたいです shows up as the PREDICATE (wish). ラーメンが shows up as SUBJECT because of the が, but before 〜たい this が points to the thing you want. Paste the version with ラーメンを into 🔬 Analyze: the block becomes OBJECT, and the basic meaning does not change.",
+        "Say 5 true wishes for your next vacation (〜たいです) and 2 things you don't want to do (〜たくないです). Record them on your phone."
       ],
-      "flag": "Desejo de outra pessoa (\"ele quer…\"): o japonês tem uma forma própria para isso, 〜たがっている, mas não consegui confirmar se o Genki I já a apresenta nesta lição. Por isso ela não entra aqui e fica para depois. Até lá, para contar o desejo de alguém, cite o que a pessoa disse: 〜たいと 言っていました (Aula 08-2)."
+      "flag": "Someone else's wish (\"he wants to…\"): Japanese has a special form for this, 〜たがっている, but it has not been confirmed whether Genki I already introduces it in this lesson. So it is left out here for now. Until then, to report someone's wish, quote what they said: 〜たいと 言っていました (lesson 08-2)."
     },
     {
       "id": "11-1-b",
       "gc": "11-2",
       "title": "〜たり 〜たり する",
-      "gloss": "fazer coisas como A e B",
-      "explanation": "〜たり 〜たり する dá **exemplos de ações**, sem dizer que a lista está completa: \"faço coisas como A e B\". Para montar, pegue a **forma た** (passado curto, Aula 09-1) e cole り: 見た → 見**たり**, 読んだ → 読ん**だり**, 行った → 行っ**たり**, した → し**たり**.\n• Cada たり fecha **uma ação inteira**, com o seu objeto e a sua partícula: [そうじを したり]、[せんたくを したり].\n• Depois dos exemplos vem **する**, e é **esse する do fim que diz o tempo e a educação**: 〜たり 〜たり **します** (costumo fazer, vou fazer), **しました** (fiz), **したいです** (quero fazer).\n• O た de dentro do たり **não quer dizer passado**. Ele é só a peça de montar; quem manda no tempo é o する do fim.\n• たり não diz em que ordem as coisas aconteceram. Para \"fiz A e depois B\", use a forma て (Aula 06-2).\n• Leia pelo fim: しました (fiz) → o quê? → coisas como nadar e tirar fotos.",
-      "structure": "[ação 1 na forma た]り、[ação 2 na forma た]り します／しました／したいです",
+      "gloss": "doing things like A and B",
+      "explanation": "〜たり 〜たり する gives **examples of actions**, without claiming the list is complete: \"I do things like A and B\". To build it, take the **た-form** (the short past, lesson 09-1) and add り: 見た → 見**たり**, 読んだ → 読ん**だり**, 行った → 行っ**たり**, した → し**たり**.\n• Each たり closes **one whole action**, with its own object and particle: [そうじを したり]、[せんたくを したり].\n• After the examples comes **する**, and **that final する carries the tense and the politeness**: 〜たり 〜たり **します** (I usually do / I will do), **しました** (I did), **したいです** (I want to do).\n• The た inside たり **does not mean past**. It is just a building block; the final する decides the tense.\n• たり does not say in which order things happened. For \"I did A and then B\", use the て-form (lesson 06-2).\n• Read from the end: しました (I did) → what? → things like swimming and taking photos.",
+      "structure": "[action 1 in the た-form]り、[action 2 in the た-form]り します／しました／したいです",
       "examples": [
-        { "jp": "休みの 日は そうじを したり、せんたくを したり します。", "kana": "やすみの ひは そうじを したり、せんたくを したり します。", "romaji": "Yasumi no hi wa sōji o shitari, sentaku o shitari shimasu.", "pt": "Nos dias de folga, faço coisas como faxina e lavar roupa." },
-        { "jp": "せんしゅうの 日曜日は リオの うみで およいだり、しゃしんを とったり しました。", "kana": "せんしゅうの にちようびは リオの うみで およいだり、しゃしんを とったり しました。", "romaji": "Senshū no nichiyōbi wa Rio no umi de oyoidari, shashin o tottari shimashita.", "pt": "No domingo passado, nadei no mar do Rio, tirei fotos, coisas assim." },
-        { "jp": "日本では しんかんせんに のったり、おいしい ものを 食べたり したいです。", "kana": "にほんでは しんかんせんに のったり、おいしい ものを たべたり したいです。", "romaji": "Nihon de wa shinkansen ni nottari, oishii mono o tabetari shitai desu.", "pt": "No Japão, quero fazer coisas como andar de trem-bala e comer coisas gostosas." }
+        { "jp": "休みの 日は そうじを したり、せんたくを したり します。", "kana": "やすみの ひは そうじを したり、せんたくを したり します。", "romaji": "Yasumi no hi wa sōji o shitari, sentaku o shitari shimasu.", "en": "On my days off, I do things like cleaning and laundry. [lit. as for days off, doing cleaning, doing laundry, I do]" },
+        { "jp": "せんしゅうの 日曜日は リオの うみで およいだり、しゃしんを とったり しました。", "kana": "せんしゅうの にちようびは リオの うみで およいだり、しゃしんを とったり しました。", "romaji": "Senshū no nichiyōbi wa Rio no umi de oyoidari, shashin o tottari shimashita.", "en": "Last Sunday, I did things like swimming in the sea in Rio and taking photos." },
+        { "jp": "日本では しんかんせんに のったり、おいしい ものを 食べたり したいです。", "kana": "にほんでは しんかんせんに のったり、おいしい ものを たべたり したいです。", "romaji": "Nihon de wa shinkansen ni nottari, oishii mono o tabetari shitai desu.", "en": "In Japan, I want to do things like riding the Shinkansen and eating delicious food." }
       ],
       "pitfalls": [
-        "Não esqueça o する do fim: そうじを したり、せんたくを したり します (certo) × そうじを したり、せんたくを したり。 (errado: a frase fica sem predicado).",
-        "O tempo vai no する, não no たり: そうじを したり、せんたくを したり しました (certo) × そうじを しましたり、せんたくを しましたり (errado). たり cola na forma curta た, nunca em ました.",
-        "Cuidado com a forma た dos verbos う: およぐ → およいだり (certo) × およぎたり (errado); 行く → 行ったり (certo) × 行いたり (errado).",
-        "たり não é \"e depois\". Para uma sequência, use て: 7時に 出て、電車に のりました (certo) × 7時に 出たり、電車に のったり しました (errado se você quer contar a ordem do que fez)."
+        "Don't forget the する at the end: そうじを したり、せんたくを したり。 ✗ (the sentence has no predicate) → そうじを したり、せんたくを したり します ✓.",
+        "The tense goes on する, not on たり: そうじを しましたり、せんたくを しましたり ✗ → そうじを したり、せんたくを したり しました ✓. たり attaches to the short た-form, never to ました.",
+        "Watch the た-form of う-verbs: およぎたり ✗ → およいだり ✓; 行いたり ✗ → 行ったり ✓.",
+        "たり is not \"and then\". For a sequence, use the て-form: 7時に 出たり、電車に のったり しました ✗ (if you want to tell the order of what you did) → 7時に 出て、電車に のりました ✓."
       ],
       "howToStudy": [
-        "Pegue 6 verbos e diga primeiro a forma た e depois a forma たり: 飲んだ → 飲んだり, 行った → 行ったり, した → したり, およいだ → およいだり…",
-        "Aperte 🔬 no exemplo da リオ. Cada たり aparece como AÇÕES (EX.) e o PREDICADO é o しました do fim: é ele que diz \"passado\". Faça o mesmo no exemplo do Japão e veja o したいです virar PREDICADO de desejo.",
-        "Fale 3 frases sobre você: o que costuma fazer no fim de semana (します), o que fez no último (しました) e o que quer fazer nas férias (したいです). Grave e ouça: o する do fim mudou nas três?"
+        "Take 6 verbs and say first the た-form, then the たり-form: 飲んだ → 飲んだり, 行った → 行ったり, した → したり, およいだ → およいだり…",
+        "Tap 🔬 on the Rio example. Each たり shows up as THINGS LIKE, and the PREDICATE is the しました at the end: that is the part that says \"past\". Do the same with the Japan example and watch したいです show up as the PREDICATE (wish).",
+        "Say 3 sentences about yourself: what you usually do on weekends (します), what you did last weekend (しました) and what you want to do on vacation (したいです). Record them and listen: did the final する change in all three?"
       ],
       "flag": null
     }
   ],
   "media": [
-    { "order": 1, "kind": "leitura", "title": "Genki I · Lição 11: diálogo, vocabulário e as explicações de gramática (〜たい, 〜たり〜たりする)", "where": "Seu livro Genki I (3ª ed.)", "url": "", "when": "Antes desta aula ou logo depois do bloco de gramática" },
-    { "order": 2, "kind": "video", "title": "ToKini Andy: aula da Lição 11 do Genki I (a parte de 〜たい e 〜たり〜たりする)", "where": "YouTube · canal ToKini Andy", "url": "", "search": "ToKini Andy Genki Lesson 11", "when": "Depois de estudar os 2 pontos: o vídeo confirma e dá mais exemplos" },
-    { "order": 3, "kind": "app", "title": "genki-companion: Lição 11, pontos 1 e 2 (marque ✍️ quando terminar)", "where": "../genki-companion/index.html", "url": "../genki-companion/index.html", "when": "No fim, para revisar e marcar o progresso" }
+    { "order": 1, "kind": "reading", "title": "Genki I · Lesson 11: the dialogue, vocabulary and grammar notes (〜たい, 〜たり〜たりする)", "where": "Your Genki I textbook (3rd ed.)", "url": "", "when": "Before this lesson or right after the grammar block" },
+    { "order": 2, "kind": "video", "title": "ToKini Andy: Genki I Lesson 11 lecture (the part on 〜たい and 〜たり〜たりする)", "where": "YouTube · ToKini Andy channel", "url": "", "search": "ToKini Andy Genki Lesson 11", "when": "After studying the 2 points: the video confirms them and gives more examples" },
+    { "order": 3, "kind": "app", "title": "genki-companion: Lesson 11, points 1 and 2 (tick ✍️ when you finish)", "where": "../genki-companion/index.html", "url": "../genki-companion/index.html", "when": "At the end, to review and mark your progress" }
   ],
   "homework": {
-    "intro": "Faça no caderno, à mão. Escreva o japonês com os kanji que você já conhece e kana no resto. Só depois abra o gabarito, item por item. Circule o que errou e refaça no dia seguinte.",
+    "intro": "Do it by hand in your notebook. Write the Japanese with the kanji you already know and kana for the rest. Only then open the answer key, item by item. Circle what you got wrong and redo it the next day.",
     "tasks": [
       {
         "id": "h1",
-        "type": "transformar",
-        "prompt": "Escreva a forma de 〜たい pedida, no registro educado (です).",
+        "type": "transform",
+        "prompt": "Write the form of 〜たい asked for, in the polite style (です).",
         "items": [
-          { "q": "飲みます → quero beber", "a": { "jp": "飲みたいです", "kana": "のみたいです", "romaji": "nomitai desu" } },
-          { "q": "行きます → não quero ir", "a": { "jp": "行きたくないです", "kana": "いきたくないです", "romaji": "ikitakunai desu" } },
-          { "q": "します → queria fazer", "a": { "jp": "したかったです", "romaji": "shitakatta desu" } },
-          { "q": "来ます → não queria vir", "a": { "jp": "来たくなかったです", "kana": "きたくなかったです", "romaji": "kitakunakatta desu" }, "note": "O radical de 来ます é き (きます → き + たい)." },
-          { "q": "およぎます → quero nadar", "a": { "jp": "およぎたいです", "romaji": "oyogitai desu" } },
-          { "q": "見ます → não queria ver", "a": { "jp": "見たくなかったです", "kana": "みたくなかったです", "romaji": "mitakunakatta desu" } }
+          { "q": "飲みます → I want to drink", "a": { "jp": "飲みたいです", "kana": "のみたいです", "romaji": "nomitai desu" } },
+          { "q": "行きます → I don't want to go", "a": { "jp": "行きたくないです", "kana": "いきたくないです", "romaji": "ikitakunai desu" } },
+          { "q": "します → I wanted to do (it)", "a": { "jp": "したかったです", "romaji": "shitakatta desu" } },
+          { "q": "来ます → I didn't want to come", "a": { "jp": "来たくなかったです", "kana": "きたくなかったです", "romaji": "kitakunakatta desu" }, "note": "The stem of 来ます is き (きます → き + たい)." },
+          { "q": "およぎます → I want to swim", "a": { "jp": "およぎたいです", "romaji": "oyogitai desu" } },
+          { "q": "見ます → I didn't want to see (it)", "a": { "jp": "見たくなかったです", "kana": "みたくなかったです", "romaji": "mitakunakatta desu" } }
         ]
       },
       {
         "id": "h2",
-        "type": "completar",
-        "prompt": "Complete com a forma たり dos verbos entre parênteses e termine com する no tempo indicado.",
+        "type": "fill",
+        "prompt": "Fill in the たり-form of the verbs in brackets and finish with する in the tense shown.",
         "items": [
-          { "q": "休みの 日は マンガを （読む）、おんがくを （聞く） ＿＿。 → costume", "a": { "jp": "休みの 日は マンガを 読んだり、おんがくを 聞いたり します。", "kana": "やすみの ひは マンガを よんだり、おんがくを きいたり します。", "romaji": "Yasumi no hi wa manga o yondari, ongaku o kiitari shimasu." }, "note": "読む → 読んだ → 読んだり; 聞く → 聞いた → 聞いたり." },
-          { "q": "きのうは 友だちと 町を （あるく）、カフェで （話す） ＿＿。 → passado", "a": { "jp": "きのうは 友だちと 町を あるいたり、カフェで 話したり しました。", "kana": "きのうは ともだちと まちを あるいたり、カフェで はなしたり しました。", "romaji": "Kinō wa tomodachi to machi o aruitari, kafe de hanashitari shimashita." }, "note": "O passado vai só no しました do fim." },
-          { "q": "来年は 外国を （旅行する）、日本語を （勉強する） ＿＿。 → desejo", "a": { "jp": "来年は 外国を 旅行したり、日本語を 勉強したり したいです。", "kana": "らいねんは がいこくを りょこうしたり、にほんごを べんきょうしたり したいです。", "romaji": "Rainen wa gaikoku o ryokō shitari, nihongo o benkyō shitari shitai desu." }, "note": "Desejo: o する do fim vira したいです." },
-          { "q": "日曜日は いつも （ねる）、テレビを （見る） ＿＿。 → costume", "a": { "jp": "日曜日は いつも ねたり、テレビを 見たり します。", "kana": "にちようびは いつも ねたり、テレビを みたり します。", "romaji": "Nichiyōbi wa itsumo netari, terebi o mitari shimasu." }, "note": "Verbos る: ねた → ねたり, 見た → 見たり." }
+          { "q": "休みの 日は マンガを （読む）、おんがくを （聞く） ＿＿。 → habit", "a": { "jp": "休みの 日は マンガを 読んだり、おんがくを 聞いたり します。", "kana": "やすみの ひは マンガを よんだり、おんがくを きいたり します。", "romaji": "Yasumi no hi wa manga o yondari, ongaku o kiitari shimasu." }, "note": "読む → 読んだ → 読んだり; 聞く → 聞いた → 聞いたり." },
+          { "q": "きのうは 友だちと 町を （あるく）、カフェで （話す） ＿＿。 → past", "a": { "jp": "きのうは 友だちと 町を あるいたり、カフェで 話したり しました。", "kana": "きのうは ともだちと まちを あるいたり、カフェで はなしたり しました。", "romaji": "Kinō wa tomodachi to machi o aruitari, kafe de hanashitari shimashita." }, "note": "The past goes only on the final しました." },
+          { "q": "来年は 外国を （旅行する）、日本語を （勉強する） ＿＿。 → wish", "a": { "jp": "来年は 外国を 旅行したり、日本語を 勉強したり したいです。", "kana": "らいねんは がいこくを りょこうしたり、にほんごを べんきょうしたり したいです。", "romaji": "Rainen wa gaikoku o ryokō shitari, nihongo o benkyō shitari shitai desu." }, "note": "A wish: the final する becomes したいです." },
+          { "q": "日曜日は いつも （ねる）、テレビを （見る） ＿＿。 → habit", "a": { "jp": "日曜日は いつも ねたり、テレビを 見たり します。", "kana": "にちようびは いつも ねたり、テレビを みたり します。", "romaji": "Nichiyōbi wa itsumo netari, terebi o mitari shimasu." }, "note": "る-verbs: ねた → ねたり, 見た → 見たり." }
         ]
       },
       {
         "id": "h3",
-        "type": "traduzir",
-        "prompt": "Traduza para o japonês.",
+        "type": "translate",
+        "prompt": "Translate into Japanese.",
         "items": [
-          { "q": "Quero comer sushi no Japão.", "a": { "jp": "日本で すしが 食べたいです。", "kana": "にほんで すしが たべたいです。", "romaji": "Nihon de sushi ga tabetai desu." }, "note": "すしを também está certo. O で do lugar não muda." },
-          { "q": "Amanhã eu não quero trabalhar.", "a": { "jp": "明日は はたらきたくないです。", "kana": "あしたは はたらきたくないです。", "romaji": "Ashita wa hatarakitakunai desu." }, "note": "Sem o は também está certo; com は fica \"amanhã, pelo menos\"." },
-          { "q": "O que você quer fazer nas férias?", "a": { "jp": "休みに 何を したいですか。", "kana": "やすみに なにを したいですか。", "romaji": "Yasumi ni nani o shitai desu ka." }, "note": "何が したいですか e 休みは… também são naturais." },
-          { "q": "Ontem eu queria ver um filme, mas não tive tempo.", "a": { "jp": "きのうは 映画を 見たかったですが、時間が ありませんでした。", "kana": "きのうは えいがを みたかったですが、じかんが ありませんでした。", "romaji": "Kinō wa eiga o mitakatta desu ga, jikan ga arimasen deshita." }, "note": "が no meio da frase = \"mas\" (Aula 08-3)." },
-          { "q": "A Ana disse que quer aprender japonês.", "a": { "jp": "アナさんは 日本語を ならいたいと 言っていました。", "kana": "アナさんは にほんごを ならいたいと いっていました。", "romaji": "Ana-san wa nihongo o naraitai to itte imashita." }, "note": "Desejo de outra pessoa: cite o que ela disse, em vez de アナさんは ならいたいです." }
+          { "q": "I want to eat sushi in Japan.", "a": { "jp": "日本で すしが 食べたいです。", "kana": "にほんで すしが たべたいです。", "romaji": "Nihon de sushi ga tabetai desu." }, "note": "すしを is also correct. The で of the place does not change." },
+          { "q": "I don't want to work tomorrow.", "a": { "jp": "明日は はたらきたくないです。", "kana": "あしたは はたらきたくないです。", "romaji": "Ashita wa hatarakitakunai desu." }, "note": "It is also correct without は; with は it means \"tomorrow, at least\"." },
+          { "q": "What do you want to do on your vacation?", "a": { "jp": "休みに 何を したいですか。", "kana": "やすみに なにを したいですか。", "romaji": "Yasumi ni nani o shitai desu ka." }, "note": "何が したいですか and 休みは… are also natural." },
+          { "q": "Yesterday I wanted to watch a movie, but I didn't have time.", "a": { "jp": "きのうは 映画を 見たかったですが、時間が ありませんでした。", "kana": "きのうは えいがを みたかったですが、じかんが ありませんでした。", "romaji": "Kinō wa eiga o mitakatta desu ga, jikan ga arimasen deshita." }, "note": "が in the middle of a sentence = \"but\" (lesson 08-3)." },
+          { "q": "Ana said she wants to learn Japanese.", "a": { "jp": "アナさんは 日本語を ならいたいと 言っていました。", "kana": "アナさんは にほんごを ならいたいと いっていました。", "romaji": "Ana-san wa nihongo o naraitai to itte imashita." }, "note": "Someone else's wish: quote what she said, instead of アナさんは ならいたいです." }
         ]
       },
       {
         "id": "h4",
-        "type": "produzir",
-        "prompt": "Escreva 5 frases sobre você: um desejo, uma coisa que você não quer fazer, algo que você queria fazer mas não fez, um dia livre típico com 〜たり 〜たり します e o seu último fim de semana com 〜たり 〜たり しました. Depois leia em voz alta e grave no celular.",
+        "type": "produce",
+        "prompt": "Write 5 sentences about yourself: a wish, something you don't want to do, something you wanted to do but didn't, a typical day off with 〜たり 〜たり します, and your last weekend with 〜たり 〜たり しました. Then read them aloud and record them on your phone.",
         "items": [
-          { "q": "Modelo, que o seu texto deve seguir na estrutura e não nas palavras:", "a": { "jp": "来年、日本の 山に のぼりたいです。月曜日は はたらきたくないです。きのうは うみで およぎたかったですが、雨でした。休みの 日は りょうりを 作ったり、友だちと あそんだり します。せんしゅうの 土曜日は しゃしんを とったり、町を あるいたり しました。", "kana": "らいねん、にほんの やまに のぼりたいです。げつようびは はたらきたくないです。きのうは うみで およぎたかったですが、あめでした。やすみの ひは りょうりを つくったり、ともだちと あそんだり します。せんしゅうの どようびは しゃしんを とったり、まちを あるいたり しました。", "romaji": "Rainen, Nihon no yama ni noboritai desu. Getsuyōbi wa hatarakitakunai desu. Kinō wa umi de oyogitakatta desu ga, ame deshita. Yasumi no hi wa ryōri o tsukuttari, tomodachi to asondari shimasu. Senshū no doyōbi wa shashin o tottari, machi o aruitari shimashita.", "pt": "Ano que vem, quero subir uma montanha no Japão. Às segundas, não quero trabalhar. Ontem eu queria nadar no mar, mas choveu. Nos dias de folga, faço coisas como cozinhar e sair com os amigos. No sábado passado, tirei fotos, andei pela cidade, coisas assim." }, "note": "Confira: radical + たい; negativa e passado no próprio たい (たくない, たかった); で e に não viram が; cada たり feito a partir da forma た; e o する do fim no tempo certo." }
+          { "q": "Model (match its structure, not its words):", "a": { "jp": "来年、日本の 山に のぼりたいです。月曜日は はたらきたくないです。きのうは うみで およぎたかったですが、雨でした。休みの 日は りょうりを 作ったり、友だちと あそんだり します。せんしゅうの 土曜日は しゃしんを とったり、町を あるいたり しました。", "kana": "らいねん、にほんの やまに のぼりたいです。げつようびは はたらきたくないです。きのうは うみで およぎたかったですが、あめでした。やすみの ひは りょうりを つくったり、ともだちと あそんだり します。せんしゅうの どようびは しゃしんを とったり、まちを あるいたり しました。", "romaji": "Rainen, Nihon no yama ni noboritai desu. Getsuyōbi wa hatarakitakunai desu. Kinō wa umi de oyogitakatta desu ga, ame deshita. Yasumi no hi wa ryōri o tsukuttari, tomodachi to asondari shimasu. Senshū no doyōbi wa shashin o tottari, machi o aruitari shimashita.", "en": "Next year, I want to climb a mountain in Japan. On Mondays, I don't want to work. Yesterday I wanted to swim in the sea, but it rained. On my days off, I do things like cooking and hanging out with friends. Last Saturday, I did things like taking photos and walking around town." }, "note": "Check: stem + たい; the negative and the past on たい itself (たくない, たかった); で and に never become が; each たり built from the た-form; and the final する in the right tense." }
         ]
       }
     ],
     "workbook": [
-      { "p": 105, "t": "1 · ～たい", "tip": "Faça depois do ponto 4a." },
-      { "p": 106, "t": "2 · ～たり～たりする", "tip": "Faça depois do ponto 4b. Confira no Genki Answer Key oficial." }
+      { "p": 105, "t": "1 · ～たい", "tip": "Do it after point 4a." },
+      { "p": 106, "t": "2 · ～たり～たりする", "tip": "Do it after point 4b. Check it with the official Genki Answer Key." }
     ]
   },
   "practice": [
-    { "tool": "Wagotabi", "what": "Jogue normalmente e cace falas com 〜たい, 〜たくない ou 〜たかった (quem quer o quê?) e qualquer 〜たり. Copie 2 frases no caderno e marque o PREDICADO. Se não aparecer nenhuma nesta sessão, copie uma frase com 〜ます e transforme em 〜たいです. Registre a sessão em Imersão → Jogos e cole uma das frases na 🔬 Anatomia.", "min": 15 },
-    { "tool": "ヅオリンゴー", "what": "Vocabulário da Lição 11 no SRS (o baralho 🌊 Tudo junta as revisões do dia). Depois, Praticar L11 e, em Treinos → Conjugação, reforce a forma た, que é a base do たり.", "min": 10 },
-    { "tool": "Diário", "what": "No Diário do ヅオリンゴー, escreva 3 desejos com 〜たい e 1 frase com 〜たり 〜たり sobre o seu fim de semana. Abra \"Anatomia do que escrevi\" e confira se o する do fim aparece como PREDICADO.", "min": 10 },
-    { "tool": "Shadowing", "what": "Toque 🔊 em cada exemplo desta aula e repita junto 3 vezes. Repare no ritmo de たくなかった: た・く・な・か・っ・た são 6 batidas, e o っ é uma batida de silêncio.", "min": 5 },
-    { "tool": "Fala", "what": "Grave 30 s respondendo à pergunta 休みの 日は 何を したいですか。 Use pelo menos um 〜たい, um 〜たくない e um 〜たり 〜たり.", "min": 5 }
+    { "tool": "Wagotabi", "what": "Play normally and hunt for lines with 〜たい, 〜たくない or 〜たかった (who wants what?) and any 〜たり. Copy 2 lines into your notebook and mark the PREDICATE. If none shows up this session, copy a line with 〜ます and turn it into 〜たいです. Log the session in Immersion → Games and paste one of the lines into 🔬 Anatomy.", "min": 15 },
+    { "tool": "ヅオリンゴー", "what": "Lesson 11 vocabulary in the SRS (the 🌊 All deck gathers the day's reviews). Then Practice L11 and, in Drills → Conjugation, reinforce the た-form, which is the base of たり.", "min": 10 },
+    { "tool": "Journal", "what": "In the ヅオリンゴー Journal, write 3 wishes with 〜たい and 1 sentence with 〜たり 〜たり about your weekend. Open \"Anatomy of what I wrote\" and check that the final する shows up as the PREDICATE.", "min": 10 },
+    { "tool": "Shadowing", "what": "Tap 🔊 on each example in this lesson and repeat along 3 times. Notice the rhythm of たくなかった: た・く・な・か・っ・た is 6 beats, and the っ is a beat of silence.", "min": 5 },
+    { "tool": "Speaking", "what": "Record 30 seconds answering the question 休みの 日は 何を したいですか。 Use at least one 〜たい, one 〜たくない and one 〜たり 〜たり.", "min": 5 }
   ],
   "culture": {
-    "title": "Clubes escolares (ぶかつ)",
+    "title": "School clubs (ぶかつ)",
     "titleJp": "ぶかつ",
-    "body": "Nas escolas japonesas, principalmente no fundamental II (ちゅうがっこう) e no ensino médio (こうこう), a maioria dos alunos entra num **clube**, o ぶかつ (部活, abreviação de 部活動). Há clubes de esporte, como beisebol, futebol, vôlei e atletismo, e clubes culturais, como banda de sopros, artes, caligrafia e teatro. Os treinos costumam ser depois das aulas e, em muitos clubes, também nos fins de semana e nas férias. É no clube que muitos jovens vivem pela primeira vez a relação せんぱい／こうはい, que você viu na Aula 08-1. O campeonato nacional de beisebol colegial, disputado no estádio de Koshien (こうしえん), passa na TV e costuma ter grande audiência. Nos últimos anos, há um movimento no Japão para limitar as horas de treino e dar mais descanso a alunos e professores.",
-    "try": "Pense num clube que você gostaria de ter feito na escola e diga em voz alta, com 〜たかった: ぶかつで サッカーを したかったです。 Depois diga, com 〜たり 〜たり, o que teria feito nele: まいにち れんしゅうしたり、しあいに 出たり したかったです。"
+    "body": "In Japanese schools, especially in junior high (ちゅうがっこう) and high school (こうこう), most students join a **club**: the ぶかつ (部活, short for 部活動). There are sports clubs, such as baseball, soccer, volleyball and track and field, and culture clubs, such as concert band, art, calligraphy and drama. Practice is usually after classes and, in many clubs, also on weekends and during school breaks. The club is where many young people first experience the せんぱい／こうはい relationship you saw in lesson 08-1. The national high-school baseball tournament, played at Koshien stadium (こうしえん), is shown on TV and usually draws a large audience. In recent years, there has been a movement in Japan to limit practice hours and give students and teachers more rest.",
+    "try": "Think of a club you would have liked to join at school and say it out loud with 〜たかった: ぶかつで サッカーを したかったです。 Then say, with 〜たり 〜たり, what you would have done there: まいにち れんしゅうしたり、しあいに 出たり したかったです。"
   },
   "checklist": [
-    "Faço 〜たい de qualquer verbo, sem olhar: radical + たい (食べたい, 行きたい, したい, 来たい).",
-    "Conjugo 〜たい como adjetivo い: たくない, たかった, たくなかった.",
-    "Sei que só o を pode virar が antes de 〜たい; に e で não mudam.",
-    "Conto o desejo de outra pessoa com 〜たいと 言っていました, sem afirmar 〜たいです por ela.",
-    "Monto 〜たり 〜たり a partir da forma た e ponho o tempo no する do fim (します／しました／したいです).",
-    "Fiz a lição de casa e conferi o gabarito, e refiz o que errei.",
-    "Fiz as páginas 105–106 do Workbook."
+    "I can make 〜たい from any verb without looking: stem + たい (食べたい, 行きたい, したい, 来たい).",
+    "I conjugate 〜たい like an い-adjective: たくない, たかった, たくなかった.",
+    "I know that only を can become が before 〜たい; に and で don't change.",
+    "I report someone else's wish with 〜たいと 言っていました, without stating 〜たいです for them.",
+    "I build 〜たり 〜たり from the た-form and put the tense on the final する (します／しました／したいです).",
+    "I did the homework, checked it against the answer key and redid what I got wrong.",
+    "I did Workbook pages 105–106."
   ]
 }

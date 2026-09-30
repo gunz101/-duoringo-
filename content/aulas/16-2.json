@@ -2,85 +2,85 @@
   "id": "16-2",
   "unit": "G2-L16",
   "genki": { "book": "Genki II", "lesson": 16, "points": ["〜ていただけませんか", "〜といい"] },
-  "title": "Pedir com educação · desejar",
+  "title": "Asking politely · hoping",
   "titleJp": "ゆっくり話していただけませんか",
   "canDo": [
-    "Fazer o mesmo pedido em 4 degraus de educação, de 〜てください a 〜ていただけませんか, e escolher o degrau pela pessoa com quem falo.",
-    "Pedir um favor a um amigo no casual (〜てくれない？) e a um colega com 〜てくれませんか ou 〜てもらえませんか.",
-    "Pedir ajuda a um professor ou a um desconhecido no Japão com 〜ていただけませんか: もう少しゆっくり話していただけませんか。",
-    "Aceitar um pedido com いいですよ e recusar com すみません、ちょっと…",
-    "Torcer por alguém com 〜といいですね e dizer um desejo meu, com preocupação, com 〜といいんですが."
+    "I can make the same request at 4 levels of politeness, from 〜てください to 〜ていただけませんか, and pick the level for the person I'm talking to.",
+    "I can ask a friend for a favor casually (〜てくれない？) and a colleague with 〜てくれませんか or 〜てもらえませんか.",
+    "I can ask a teacher or a stranger in Japan for help with 〜ていただけませんか: もう少しゆっくり話していただけませんか。",
+    "I can accept a request with いいですよ and decline it with すみません、ちょっと…",
+    "I can wish someone well with 〜といいですね and state a hope of my own, with some worry, with 〜といいんですが."
   ],
   "duration": {
     "total": "60–75 min",
     "blocks": [
-      { "t": "Aquecimento: diga em voz alta a forma て de 開ける, 貸す, 待つ, 教える e 話す, o potencial de もらう (もらえる, Aula 13-1) e um favor que você recebeu com 〜てくれました (Aula 16-1)", "min": 5 },
-      { "t": "Vocabulário: ouvir 🔊 cada palavra e repetir 2 vezes", "min": 10 },
-      { "t": "Gramática: os 3 pontos, cada um com os exemplos lidos em voz alta e um 🔬. Desenhe no caderno a escada dos pedidos, com um degrau por forma", "min": 25 },
-      { "t": "Vídeo da Lição 16 (bloco 6), só a parte de 〜ていただけませんか e 〜といい", "min": 10 },
-      { "t": "Lição de casa no caderno + conferir no gabarito", "min": 15 },
-      { "t": "Checklist (bloco 10) + anotar dúvidas no caderno da aula", "min": 5 }
+      { "t": "Warm-up: say the て-form of 開ける, 貸す, 待つ, 教える and 話す out loud, the potential of もらう (もらえる, lesson 13-1), and one favor you received with 〜てくれました (lesson 16-1)", "min": 5 },
+      { "t": "Vocabulary: tap 🔊 on each word and repeat it twice", "min": 10 },
+      { "t": "Grammar: the 3 points, each with its examples read aloud and one 🔬. In your notebook, draw the request ladder, one step per form", "min": 25 },
+      { "t": "Lesson 16 video (block 6), only the part about 〜ていただけませんか and 〜といい", "min": 10 },
+      { "t": "Notebook homework + checking it against the answer key", "min": 15 },
+      { "t": "Checklist (block 10) + write your questions in the lesson notebook", "min": 5 }
     ]
   },
   "prereqs": {
     "aulas": ["16-1"],
     "skills": [
-      "〜てくれる e 〜てもらう (Aula 16-1): a direção do favor. Os pedidos desta aula são perguntas feitas com esses mesmos verbos.",
-      "Forma potencial (Aula 13-1): もらう → もらえる e いただく → いただける. Sem ela, o pedido educado não sai.",
-      "〜てください (Aula 06-2), que é o primeiro degrau da escada, e a recusa educada com ちょっと… (Aula 03-3).",
-      "Forma curta no presente, afirmativa e negativa, de verbos, adjetivos e substantivos (Aula 08-1): é o que vem antes de といい.",
-      "〜んです (Aula 12-1) e が no sentido de \"mas\" (Aula 08-3), que juntos formam o 〜といいんですが."
+      "〜てくれる and 〜てもらう (lesson 16-1): the direction of the favor. The requests in this lesson are questions made with those same verbs.",
+      "The potential form (lesson 13-1): もらう → もらえる and いただく → いただける. Without it, the polite request doesn't work.",
+      "〜てください (lesson 06-2), the first step of the ladder, and declining politely with ちょっと… (lesson 03-3).",
+      "Present short forms, affirmative and negative, of verbs, adjectives and nouns (lesson 08-1): they are what comes before といい.",
+      "〜んです (lesson 12-1) and が meaning \"but\" (lesson 08-3), which together make 〜といいんですが."
     ],
     "vocab": [
-      { "jp": "開ける", "kana": "あける", "romaji": "akeru", "pt": "abrir (a janela, a porta: 〜を開ける)" },
-      { "jp": "まど", "kana": "まど", "romaji": "mado", "pt": "janela" },
-      { "jp": "ノート", "kana": "ノート", "romaji": "nōto", "pt": "caderno" },
-      { "jp": "ペン", "kana": "ペン", "romaji": "pen", "pt": "caneta" },
-      { "jp": "貸す", "kana": "かす", "romaji": "kasu", "pt": "emprestar" },
-      { "jp": "待つ", "kana": "まつ", "romaji": "matsu", "pt": "esperar" },
-      { "jp": "もう一度", "kana": "もういちど", "romaji": "mō ichido", "pt": "mais uma vez" },
-      { "jp": "もう少し", "kana": "もうすこし", "romaji": "mō sukoshi", "pt": "um pouco mais" },
-      { "jp": "ゆっくり", "kana": "ゆっくり", "romaji": "yukkuri", "pt": "devagar, com calma" },
-      { "jp": "説明する", "kana": "せつめいする", "romaji": "setsumei suru", "pt": "explicar" },
-      { "jp": "よぶ", "kana": "よぶ", "romaji": "yobu", "pt": "chamar (タクシーをよぶ = chamar um táxi)" },
-      { "jp": "ひっこし", "kana": "ひっこし", "romaji": "hikkoshi", "pt": "mudança (de casa)" },
-      { "jp": "てつだう", "kana": "てつだう", "romaji": "tetsudau", "pt": "ajudar ([pessoa/tarefa]をてつだう)" },
-      { "jp": "いいですよ", "kana": "いいですよ", "romaji": "ii desu yo", "pt": "claro, pode ser (para aceitar um pedido)" },
-      { "jp": "めんせつ", "kana": "めんせつ", "romaji": "mensetsu", "pt": "entrevista (de emprego, de admissão)" },
-      { "jp": "うまくいく", "kana": "うまくいく", "romaji": "umaku iku", "pt": "dar certo, correr bem" },
-      { "jp": "試験", "kana": "しけん", "romaji": "shiken", "pt": "prova, exame" },
-      { "jp": "やさしい", "kana": "やさしい", "romaji": "yasashii", "pt": "fácil; gentil, bondoso (pessoa)" },
-      { "jp": "見つかる", "kana": "みつかる", "romaji": "mitsukaru", "pt": "ser encontrado, aparecer (algo que se procurava: 〜が見つかる)" },
-      { "jp": "アパート", "kana": "アパート", "romaji": "apāto", "pt": "apartamento" },
-      { "jp": "間に合う", "kana": "まにあう", "romaji": "ma ni au", "pt": "chegar a tempo, dar tempo (〜に間に合う)" },
-      { "jp": "かぜ", "kana": "かぜ", "romaji": "kaze", "pt": "resfriado, gripe" },
-      { "jp": "なおる", "kana": "なおる", "romaji": "naoru", "pt": "sarar; ficar consertado (o par de なおす, Aula 16-1)" },
-      { "jp": "雨がふる", "kana": "あめがふる", "romaji": "ame ga furu", "pt": "chover" },
-      { "jp": "バーベキュー", "kana": "バーベキュー", "romaji": "bābekyū", "pt": "churrasco" }
+      { "jp": "開ける", "kana": "あける", "romaji": "akeru", "en": "to open (a window, a door: 〜を開ける)" },
+      { "jp": "まど", "kana": "まど", "romaji": "mado", "en": "window" },
+      { "jp": "ノート", "kana": "ノート", "romaji": "nōto", "en": "notebook" },
+      { "jp": "ペン", "kana": "ペン", "romaji": "pen", "en": "pen" },
+      { "jp": "貸す", "kana": "かす", "romaji": "kasu", "en": "to lend" },
+      { "jp": "待つ", "kana": "まつ", "romaji": "matsu", "en": "to wait" },
+      { "jp": "もう一度", "kana": "もういちど", "romaji": "mō ichido", "en": "once more, one more time" },
+      { "jp": "もう少し", "kana": "もうすこし", "romaji": "mō sukoshi", "en": "a little more" },
+      { "jp": "ゆっくり", "kana": "ゆっくり", "romaji": "yukkuri", "en": "slowly, taking your time" },
+      { "jp": "説明する", "kana": "せつめいする", "romaji": "setsumei suru", "en": "to explain" },
+      { "jp": "よぶ", "kana": "よぶ", "romaji": "yobu", "en": "to call (タクシーをよぶ = to call a taxi)" },
+      { "jp": "ひっこし", "kana": "ひっこし", "romaji": "hikkoshi", "en": "moving (to a new home)" },
+      { "jp": "てつだう", "kana": "てつだう", "romaji": "tetsudau", "en": "to help ([person/task]をてつだう)" },
+      { "jp": "いいですよ", "kana": "いいですよ", "romaji": "ii desu yo", "en": "sure, no problem (accepting a request)" },
+      { "jp": "めんせつ", "kana": "めんせつ", "romaji": "mensetsu", "en": "interview (for a job, for admission)" },
+      { "jp": "うまくいく", "kana": "うまくいく", "romaji": "umaku iku", "en": "to go well, to work out" },
+      { "jp": "試験", "kana": "しけん", "romaji": "shiken", "en": "exam, test" },
+      { "jp": "やさしい", "kana": "やさしい", "romaji": "yasashii", "en": "easy; kind, gentle (a person)" },
+      { "jp": "見つかる", "kana": "みつかる", "romaji": "mitsukaru", "en": "to be found, to turn up (something you were looking for: 〜が見つかる)" },
+      { "jp": "アパート", "kana": "アパート", "romaji": "apāto", "en": "apartment" },
+      { "jp": "間に合う", "kana": "まにあう", "romaji": "ma ni au", "en": "to be in time, to make it (〜に間に合う)" },
+      { "jp": "かぜ", "kana": "かぜ", "romaji": "kaze", "en": "a cold" },
+      { "jp": "なおる", "kana": "なおる", "romaji": "naoru", "en": "to get better; to be fixed (the pair of なおす, lesson 16-1)" },
+      { "jp": "雨がふる", "kana": "あめがふる", "romaji": "ame ga furu", "en": "to rain" },
+      { "jp": "バーベキュー", "kana": "バーベキュー", "romaji": "bābekyū", "en": "barbecue" }
     ]
   },
   "grammar": [
     {
       "id": "16-2-a",
       "gc": null,
-      "title": "A escada dos pedidos: 〜てくれませんか e 〜てもらえませんか",
-      "gloss": "pedir um favor, do mais direto ao mais gentil",
-      "explanation": "Você já pede com **〜てください** (Aula 06-2). Ele é educado na forma, mas é um pedido **direto**: soa como \"faça, por favor\", quase uma instrução. Para pedir um **favor**, o japonês costuma transformar o pedido numa **pergunta negativa** feita com os verbos de favor da Aula 16-1. Quanto mais indireta a pergunta, mais educado o pedido. Pense numa escada:\n• **〜てください**: \"faça, por favor\". É o degrau mais direto. Serve para instruções e para pessoas próximas.\n• **〜てくれませんか**: \"você não faria … (para mim)?\". くれる já diz que o favor vem para mim. Serve com colegas e conhecidos.\n• **〜てもらえませんか**: \"eu não poderia receber de você o favor de …?\". もらえる é o **potencial** de もらう (Aula 13-1): você pergunta se é **possível** receber o favor, e isso deixa o pedido um pouco mais suave.\n• **〜ていただけませんか**: o degrau mais alto, com いただく (ponto b).\n• A diferença entre くれませんか e もらえませんか é pequena, e as duas servem na maioria das situações do dia a dia.\n\n**Como montar.** Forma て + くれ / もらえ + ませんか. O pedido inteiro fica no **PREDICADO**, no fim: 開けてくれませんか é um bloco só. Leia por ele: \"não abriria (para mim)?\" → o quê? → a janela.\n• Quem vai fazer o favor é **quem ouve**, e por isso quase nunca aparece na frase. Também não precisa dizer 私に: くれる e もらう já mostram que o favor é para você.\n• As partículas continuam as do verbo: まどを開ける → まどを開けてくれませんか.\n• A pergunta negativa (〜ませんか) costuma soar mais suave que a afirmativa (〜ますか), porque deixa espaço para a pessoa dizer não. As duas existem.\n• Entre amigos, o pedido perde o ます e fica casual: **〜てくれない？** ou **〜てもらえない？** (também 〜てくれる？ / 〜てもらえる？), com a voz subindo no fim.",
-      "structure": "[objeto] を [forma て] くれませんか / もらえませんか。 · casual: [forma て] くれない？",
+      "title": "The request ladder: 〜てくれませんか and 〜てもらえませんか",
+      "gloss": "asking for a favor, from the most direct to the kindest",
+      "explanation": "You can already ask with **〜てください** (lesson 06-2). It is polite in form, but it is a **direct** request: it sounds like \"please do it\", almost an instruction. To ask for a **favor**, Japanese usually turns the request into a **negative question** made with the favor verbs from lesson 16-1. The more indirect the question, the more polite the request. Think of a ladder:\n• **〜てください**: \"please do…\". The most direct step. Good for instructions and for people close to you.\n• **〜てくれませんか**: \"won't you … (for me)?\". くれる already says the favor comes to me. Good with colleagues and acquaintances.\n• **〜てもらえませんか**: \"couldn't I receive from you the favor of …?\". もらえる is the **potential** of もらう (lesson 13-1): you ask whether it is **possible** to receive the favor, and that makes the request a little softer.\n• **〜ていただけませんか**: the top step, with いただく (point b).\n• The difference between くれませんか and もらえませんか is small, and both work in most everyday situations.\n\nEnglish has a ladder too: \"Open the window, please\" → \"Would you open the window?\" → \"Could you possibly open the window?\" Japanese climbs it by changing the verb at the end.\n\n**How to build it.** て-form + くれ / もらえ + ませんか. The whole request sits in the **PREDICATE**, at the end: 開けてくれませんか is one block. Read from it: \"won't you open (for me)?\" → what? → the window.\n• The one who will do the favor is **the listener**, so they almost never appear in the sentence. You don't need 私に either: くれる and もらう already show that the favor is for you.\n• The particles are still the verb's own: まどを開ける → まどを開けてくれませんか.\n• The negative question (〜ませんか) usually sounds softer than the affirmative one (〜ますか), because it leaves room for the person to say no. Both exist.\n• Among friends, the request drops ます and becomes casual: **〜てくれない？** or **〜てもらえない？** (also 〜てくれる？ / 〜てもらえる？), with your voice rising at the end.",
+      "structure": "[object] を [て-form] くれませんか / もらえませんか。 · casual: [て-form] くれない？",
       "examples": [
-        { "jp": "ちょっとまどを開けてくれませんか。— いいですよ。", "kana": "ちょっとまどをあけてくれませんか。— いいですよ。", "romaji": "Chotto mado o akete kuremasen ka. — Ii desu yo.", "pt": "Você pode abrir a janela, por favor? — Claro." },
-        { "jp": "すみません、写真をとってもらえませんか。", "kana": "すみません、しゃしんをとってもらえませんか。", "romaji": "Sumimasen, shashin o totte moraemasen ka.", "pt": "Com licença, você poderia tirar uma foto (para mim)?" },
-        { "jp": "ねえ、あしたノートを貸してくれない？", "kana": "ねえ、あしたノートをかしてくれない？", "romaji": "Nē, ashita nōto o kashite kurenai?", "pt": "Ei, me empresta o caderno amanhã?" }
+        { "jp": "ちょっとまどを開けてくれませんか。— いいですよ。", "kana": "ちょっとまどをあけてくれませんか。— いいですよ。", "romaji": "Chotto mado o akete kuremasen ka. — Ii desu yo.", "en": "Could you open the window for a moment? — Sure." },
+        { "jp": "すみません、写真をとってもらえませんか。", "kana": "すみません、しゃしんをとってもらえませんか。", "romaji": "Sumimasen, shashin o totte moraemasen ka.", "en": "Excuse me, could you take a photo for me?" },
+        { "jp": "ねえ、あしたノートを貸してくれない？", "kana": "ねえ、あしたノートをかしてくれない？", "romaji": "Nē, ashita nōto o kashite kurenai?", "en": "Hey, can you lend me your notebook tomorrow?" }
       ],
       "pitfalls": [
-        "Num pedido para você, o verbo é くれる, não あげる: ノートを貸してあげませんか ✗ (soa como \"que tal emprestar para alguém?\") → ノートを貸してくれませんか ✓.",
-        "Com もらう, o pedido precisa do potencial: 写真をとってもらいませんか ✗ (soa como uma sugestão: \"que tal a gente pedir para alguém tirar?\") → 写真をとってもらえませんか ✓.",
-        "No casual, quem faz a pergunta é a entonação. 貸してくれない。 dito descendo soa como reclamação (\"ele não me empresta\"). Suba a voz no fim: 貸してくれない？ ✓."
+        "In a request for yourself, the verb is くれる, not あげる: ノートを貸してあげませんか ✗ (sounds like \"how about lending it to someone?\") → ノートを貸してくれませんか ✓.",
+        "With もらう, the request needs the potential: 写真をとってもらいませんか ✗ (sounds like a suggestion: \"how about we get someone to take it?\") → 写真をとってもらえませんか ✓.",
+        "In casual speech, the intonation is what makes it a question. 貸してくれない。 said with a falling voice sounds like a complaint (\"he won't lend it to me\"). Raise your voice at the end: 貸してくれない？ ✓."
       ],
       "howToStudy": [
-        "Pegue um pedido só, \"emprestar a caneta\" (ペンを貸す), e diga em voz alta os 4 degraus, do mais direto ao mais educado: 貸してください → 貸してくれませんか → 貸してもらえませんか → 貸していただけませんか.",
-        "Aperte 🔬 no exemplo 1: ちょっと é COMO, まどを é o OBJETO e 開けてくれませんか é o PREDICADO. Embaixo do predicado, o 🔬 escreve \"convite / sugestão\", porque a frase termina em 〜ませんか, como os convites da Aula 03-3. Aqui não é convite: com くれる, é um pedido de favor para você.",
-        "Pense em 3 pessoas próximas (um amigo, um colega, alguém da família) e faça em voz alta um pedido real para cada uma, no casual (〜てくれない？) ou com 〜てくれませんか."
+        "Take one request, \"lend me the pen\" (ペンを貸す), and say the 4 steps out loud, from the most direct to the most polite: 貸してください → 貸してくれませんか → 貸してもらえませんか → 貸していただけませんか.",
+        "Tap 🔬 on example 1: ちょっと is HOW / HOW OFTEN, まどを is the OBJECT and 開けてくれませんか is the PREDICATE. Under the predicate, the 🔬 writes \"invitation / suggestion\", because the sentence ends in 〜ませんか, like the invitations of lesson 03-3. Here it is not an invitation: with くれる, it is a request for a favor for you.",
+        "Think of 3 people close to you (a friend, a colleague, a family member) and make a real request to each one out loud, casually (〜てくれない？) or with 〜てくれませんか."
       ],
       "flag": null
     },
@@ -88,23 +88,23 @@
       "id": "16-2-b",
       "gc": null,
       "title": "〜ていただけませんか",
-      "gloss": "\"o(a) senhor(a) poderia…?\": o pedido mais educado",
-      "explanation": "Na Aula 16-1 você viu que **いただく** é a forma humilde de もらう. Com ela se monta o degrau mais alto da escada: **forma て + いただけませんか**. いただける é o **potencial** de いただく, do mesmo jeito que もらえる é o potencial de もらう. Ao pé da letra: \"eu não poderia receber (humildemente) o favor de …?\".\n• Use com **professores, chefes, clientes e desconhecidos**, principalmente quando o favor dá trabalho à pessoa. É o pedido que você vai usar no Japão para pedir informação na rua, numa loja ou no hotel.\n• Com um superior, 〜てください pode soar como uma instrução. 先生、見てください funciona numa sala de aula, mas para pedir um favor ao professor, 見ていただけませんか soa bem mais gentil.\n• É comum abrir o pedido com **すみませんが、** (\"desculpe, mas…\") ou com **ちょっと**, que amaciam ainda mais.\n• A estrutura é a mesma do ponto a: o pedido fica todo no **PREDICADO**, no fim. Quem vai fazer o favor é o ouvinte. Quando o nome dele aparece, vem no começo, seguido de vírgula, como CHAMAMENTO: 先生、….\n\n**Como responder.** Para aceitar: **いいですよ** ou **ええ、いいですよ**. Em lojas e hotéis, você vai ouvir **かしこまりました** (\"pois não, entendido\"). Para recusar sem dizer \"não\", o japonês costuma usar すみません + ちょっと… e deixar a frase no ar, como na Aula 03-3: すみません、あしたはちょっと…",
-      "structure": "([pessoa]、) [objeto] を [forma て] いただけませんか。",
+      "gloss": "\"could you possibly…?\": the most polite request",
+      "explanation": "In lesson 16-1 you saw that **いただく** is the humble form of もらう. It builds the top step of the ladder: **て-form + いただけませんか**. いただける is the **potential** of いただく, just as もらえる is the potential of もらう. Literally: \"couldn't I (humbly) receive the favor of …?\".\n• Use it with **teachers, bosses, customers and strangers**, especially when the favor takes some effort. It is the request you will use in Japan to ask for help on the street, in a shop or at a hotel.\n• With a superior, 〜てください can sound like an instruction. 先生、見てください works in a classroom, but to ask your teacher for a favor, 見ていただけませんか sounds much kinder.\n• It is common to open the request with **すみませんが、** (\"sorry, but…\") or with **ちょっと**, which soften it even more.\n• The structure is the same as in point a: the whole request sits in the **PREDICATE**, at the end. The one who will do the favor is the listener. When their name appears, it comes first, followed by a comma, as CALLING: 先生、….\n\n**How to answer.** To accept: **いいですよ** or **ええ、いいですよ**. In shops and hotels you will hear **かしこまりました** (\"certainly, understood\"). To decline without saying \"no\", Japanese usually uses すみません + ちょっと… and leaves the sentence hanging, as in lesson 03-3: すみません、あしたはちょっと…",
+      "structure": "([person]、) [object] を [て-form] いただけませんか。",
       "examples": [
-        { "jp": "先生、もう少しゆっくり話していただけませんか。— ええ、いいですよ。", "kana": "せんせい、もうすこしゆっくりはなしていただけませんか。— ええ、いいですよ。", "romaji": "Sensei, mō sukoshi yukkuri hanashite itadakemasen ka. — Ē, ii desu yo.", "pt": "Professor(a), o(a) senhor(a) poderia falar um pouco mais devagar? — Claro, sem problema." },
-        { "jp": "すみません、駅までの道を教えていただけませんか。", "kana": "すみません、えきまでのみちをおしえていただけませんか。", "romaji": "Sumimasen, eki made no michi o oshiete itadakemasen ka.", "pt": "Com licença, o(a) senhor(a) poderia me ensinar o caminho até a estação?" },
-        { "jp": "田中さん、あしたひっこしをてつだっていただけませんか。— すみません、あしたはちょっと…", "kana": "たなかさん、あしたひっこしをてつだっていただけませんか。— すみません、あしたはちょっと…", "romaji": "Tanaka-san, ashita hikkoshi o tetsudatte itadakemasen ka. — Sumimasen, ashita wa chotto...", "pt": "Sr(a). Tanaka, o(a) senhor(a) poderia me ajudar com a mudança amanhã? — Desculpe, amanhã fica difícil…" }
+        { "jp": "先生、もう少しゆっくり話していただけませんか。— ええ、いいですよ。", "kana": "せんせい、もうすこしゆっくりはなしていただけませんか。— ええ、いいですよ。", "romaji": "Sensei, mō sukoshi yukkuri hanashite itadakemasen ka. — Ē, ii desu yo.", "en": "Professor, could you speak a little more slowly? — Yes, of course." },
+        { "jp": "すみません、駅までの道を教えていただけませんか。", "kana": "すみません、えきまでのみちをおしえていただけませんか。", "romaji": "Sumimasen, eki made no michi o oshiete itadakemasen ka.", "en": "Excuse me, could you tell me the way to the station?" },
+        { "jp": "田中さん、あしたひっこしをてつだっていただけませんか。— すみません、あしたはちょっと…", "kana": "たなかさん、あしたひっこしをてつだっていただけませんか。— すみません、あしたはちょっと…", "romaji": "Tanaka-san, ashita hikkoshi o tetsudatte itadakemasen ka. — Sumimasen, ashita wa chotto...", "en": "Mr./Ms. Tanaka, could you help me with the move tomorrow? — Sorry, tomorrow is a bit…" }
       ],
       "pitfalls": [
-        "O pedido precisa do potencial: 教えていただきませんか ✗ → 教えていただけませんか ✓. Repare no け: いただ**け**ませんか.",
-        "〜ていただけませんか é para pedir um favor, não para oferecer ajuda. Para oferecer, continua valendo 〜ましょうか (Aula 16-1): 先生、にもつを持っていただけませんか ✗ (se a ideia era \"quer que eu carregue?\": você pediu que ele carregue!) → 先生、にもつを持ちましょうか ✓.",
-        "Com amigos próximos, esse degrau soa distante, como se vocês não fossem amigos: (a um amigo) ノートを貸していただけませんか ✗ → ノートを貸してくれない？ ✓."
+        "The request needs the potential: 教えていただきませんか ✗ → 教えていただけませんか ✓. Watch the け: いただ**け**ませんか.",
+        "〜ていただけませんか asks for a favor; it does not offer help. To offer, you still use 〜ましょうか (lesson 16-1): 先生、にもつを持っていただけませんか ✗ (if you meant \"shall I carry it?\": you just asked your teacher to carry it!) → 先生、にもつを持ちましょうか ✓.",
+        "With close friends this step sounds distant, as if you weren't friends: (to a friend) ノートを貸していただけませんか ✗ → ノートを貸してくれない？ ✓."
       ],
       "howToStudy": [
-        "Diga em voz alta 5 pedidos que um estrangeiro usa no Japão, todos com 〜ていただけませんか: もう一度言って / ゆっくり話して / 写真をとって / 道を教えて / ちょっと待って.",
-        "Aperte 🔬 no exemplo 3. Na pergunta, 田中さん aparece como CHAMAMENTO (com quem se fala), あした é TEMPO, ひっこしを é o OBJETO e てつだっていただけませんか é o PREDICADO. Na resposta, o 🔬 marca ちょっと como PREDICADO, com a etiqueta \"expressão pronta\": é o \"não\" educado da Aula 03-3.",
-        "Fala: grave-se fazendo o mesmo pedido a duas pessoas, a um amigo (〜てくれない？) e a um professor (すみませんが、〜ていただけませんか). Ouça e repare como a frase educada fica mais longa e mais calma."
+        "Say out loud 5 requests a foreigner uses in Japan, all with 〜ていただけませんか: もう一度言って / ゆっくり話して / 写真をとって / 道を教えて / ちょっと待って.",
+        "Tap 🔬 on example 3. In the question, 田中さん shows up as CALLING (the person you are talking to), あした is TIME, ひっこしを is the OBJECT and てつだっていただけませんか is the PREDICATE. In the answer, the 🔬 tags ちょっと as the PREDICATE, labeled \"set phrase\": it is the polite \"no\" from lesson 03-3.",
+        "Speaking: record yourself making the same request to two people, a friend (〜てくれない？) and a teacher (すみませんが、〜ていただけませんか). Listen and notice how the polite sentence is longer and calmer."
       ],
       "flag": null
     },
@@ -112,105 +112,105 @@
       "id": "16-2-c",
       "gc": null,
       "title": "〜といいですね / 〜といいんですが",
-      "gloss": "\"tomara que…\" (para o outro / para mim)",
-      "explanation": "Para dizer \"tomara que…\", o japonês usa **forma curta + といい**. Ao pé da letra, é \"se [isso acontecer], vai ser bom\". O bloco que termina em と é a **CONDIÇÃO**, e いい, no fim, é o **PREDICADO**.\n• **〜といいですね**: um desejo **para o outro**, sobre algo que ele está vivendo, ou para vocês dois. É o \"tomara!\" de quem torce por alguém: めんせつ、うまくいくといいですね。\n• **〜といいんですが**: um desejo **seu**, com um pouco de preocupação ou incerteza. O が do fim é o \"mas\" (Aula 08-3), e a frase fica no ar: \"seria bom se…, mas não sei\". O ん é o 〜んです da Aula 12-1. Entre amigos: **〜といいんだけど**.\n• Falando sozinho ou com amigos, você também vai ouvir **〜といいな** (\"tomara…\").\n\n**O que vem antes do と.** A forma curta **no presente**, afirmativa ou negativa, mesmo quando o assunto é o futuro:\n• Verbo: うまくいく → うまくいくといい; ふらない → 雨がふらないといい.\n• Adjetivo い, direto: やさしい → 試験がやさしいといい.\n• Adjetivo な e substantivo pedem **だ**: 元気だといい, 休みだといい. No negativo: 雨じゃないといい.\n• Quando o desejo é sobre alguém **conseguir** fazer algo, o potencial (Aula 13-1) cai bem: 英語が話せるといいんですが.\n\nNão confunda com 〜たい (Aula 11-1): 〜たい é o **seu** desejo de **fazer** algo. 〜といい é torcer para que uma **situação** aconteça, e serve para você e para os outros.",
-      "structure": "[forma curta no presente] といいですね。 · [forma curta no presente] といいんですが。 · [N / adj-な] だといい",
+      "gloss": "\"I hope…\" (for someone else / for myself)",
+      "explanation": "To say \"I hope…\", Japanese uses **short form + といい**. Literally it is \"if [this happens], it will be good\". The block ending in と is the **condition** (the 🔬 calls it IF / WHEN), and いい, at the end, is the **PREDICATE**.\n• **〜といいですね**: a wish **for the other person**, about something they are going through, or for both of you. It is what you say when you are rooting for someone: めんせつ、うまくいくといいですね。\n• **〜といいんですが**: a wish **of your own**, with a little worry or doubt. The が at the end is \"but\" (lesson 08-3), and the sentence is left hanging: \"it would be good if…, but I'm not sure\". The ん is the 〜んです of lesson 12-1. Among friends: **〜といいんだけど**.\n• Talking to yourself or with friends, you will also hear **〜といいな** (\"I hope…\").\n\n**What comes before と.** The **present** short form, affirmative or negative, even when you are talking about the future:\n• Verb: うまくいく → うまくいくといい; ふらない → 雨がふらないといい.\n• い-adjective, as is: やさしい → 試験がやさしいといい.\n• な-adjectives and nouns need **だ**: 元気だといい, 休みだといい. In the negative: 雨じゃないといい.\n• When the wish is about someone **being able** to do something, the potential (lesson 13-1) fits well: 英語が話せるといいんですが.\n\nDon't confuse it with 〜たい (lesson 11-1): 〜たい is **your** wish to **do** something. 〜といい is hoping that a **situation** happens, and it works for you and for others. English \"I hope\" stays the same whoever the hope is for; Japanese picks the ending by whose hope it is.",
+      "structure": "[present short form] といいですね。 · [present short form] といいんですが。 · [N / な-adj] だといい",
       "examples": [
-        { "jp": "あしたのめんせつ、うまくいくといいですね。", "kana": "あしたのめんせつ、うまくいくといいですね。", "romaji": "Ashita no mensetsu, umaku iku to ii desu ne.", "pt": "Tomara que a sua entrevista de amanhã dê certo!", "noAnat": true },
-        { "jp": "日曜日のバーベキュー、雨がふらないといいですね。", "kana": "にちようびのバーベキュー、あめがふらないといいですね。", "romaji": "Nichiyōbi no bābekyū, ame ga furanai to ii desu ne.", "pt": "Tomara que não chova no nosso churrasco de domingo!", "noAnat": true },
-        { "jp": "ホテルの人が英語を話せるといいんですが。", "kana": "ホテルのひとがえいごをはなせるといいんですが。", "romaji": "Hoteru no hito ga eigo o hanaseru to ii n desu ga.", "pt": "Tomara que o pessoal do hotel fale inglês… (estou meio preocupado)." }
+        { "jp": "あしたのめんせつ、うまくいくといいですね。", "kana": "あしたのめんせつ、うまくいくといいですね。", "romaji": "Ashita no mensetsu, umaku iku to ii desu ne.", "en": "I hope your interview tomorrow goes well!", "noAnat": true },
+        { "jp": "日曜日のバーベキュー、雨がふらないといいですね。", "kana": "にちようびのバーベキュー、あめがふらないといいですね。", "romaji": "Nichiyōbi no bābekyū, ame ga furanai to ii desu ne.", "en": "I hope it doesn't rain on Sunday's barbecue!", "noAnat": true },
+        { "jp": "ホテルの人が英語を話せるといいんですが。", "kana": "ホテルのひとがえいごをはなせるといいんですが。", "romaji": "Hoteru no hito ga eigo o hanaseru to ii n desu ga.", "en": "I hope the hotel staff can speak English… (I'm a little worried)." }
       ],
       "pitfalls": [
-        "Para torcer por alguém, não use たい: (ao amigo doente) 早く元気になりたいですね ✗ → 早く元気になるといいですね ✓.",
-        "Para o que ainda vai acontecer, use o presente antes do と: あした、雨がふらなかったといいですね ✗ → あした、雨がふらないといいですね ✓.",
-        "Substantivo e adjetivo な precisam de だ: 休みといいですね ✗ → 休みだといいですね ✓; 元気といいですね ✗ → 元気だといいですね ✓.",
-        "Sobre um problema só seu, 〜といいですね soa como se você pedisse que o outro concordasse. Para um desejo seu, com preocupação: 私の試験がやさしいといいですね ✗ → 試験がやさしいといいんですが ✓."
+        "To root for someone, don't use たい: (to a sick friend) 早く元気になりたいですね ✗ → 早く元気になるといいですね ✓.",
+        "For something that hasn't happened yet, use the present before と: あした、雨がふらなかったといいですね ✗ → あした、雨がふらないといいですね ✓.",
+        "Nouns and な-adjectives need だ: 休みといいですね ✗ → 休みだといいですね ✓; 元気といいですね ✗ → 元気だといいですね ✓.",
+        "About a problem that is only yours, 〜といいですね sounds as if you were asking the other person to agree. For a wish of your own, with worry: 私の試験がやさしいといいですね ✗ → 試験がやさしいといいんですが ✓."
       ],
       "howToStudy": [
-        "Pense em 3 pessoas que estão passando por algo (uma prova, uma viagem, uma doença) e diga em voz alta um 〜といいですね para cada uma. Depois diga 2 desejos seus, com preocupação, com 〜といいんですが.",
-        "Aperte 🔬 no exemplo 3: ホテルの DESCREVE O PRÓXIMO (人), 人が é o SUJEITO, 英語を é o OBJETO, 話せると é a CONDIÇÃO e いいんですが é o PREDICADO, com a etiqueta \"explicação (〜んです)\". Leia pelo fim: \"seria bom, mas…\" → se o quê? → se falarem inglês → quem? → o pessoal do hotel. Nos exemplos 1 e 2 o 🔬 fica desligado, porque o motor confunde o いい de といいですね com 言う (dizer) e marca o bloco com と como CITAÇÃO. Se isso aparecer no seu Diário, lembre: aqui o と é CONDIÇÃO.",
-        "Escreva no caderno 4 desejos, cada um com um tipo de palavra antes do と: um verbo, um verbo no negativo, um adjetivo い e um substantivo com だ."
+        "Think of 3 people who are going through something (an exam, a trip, an illness) and say a 〜といいですね out loud for each one. Then say 2 wishes of your own, with worry, with 〜といいんですが.",
+        "Tap 🔬 on example 3: ホテルの is DESCRIBES NEXT (人), 人が is the SUBJECT, 英語を is the OBJECT, 話せると is IF / WHEN and いいんですが is the PREDICATE, labeled \"explanation (～んです)\". Read from the end: \"it would be good, but…\" → if what? → if they can speak English → who? → the hotel staff. In examples 1 and 2 the 🔬 is switched off, because the engine can mistake the と of といいですね for a QUOTE (as with 言う). If you see that in your Journal, remember: here と means IF / WHEN.",
+        "Write 4 wishes in your notebook, each with a different kind of word before と: a verb, a negative verb, an い-adjective and a noun with だ."
       ],
       "flag": null
     }
   ],
   "media": [
-    { "order": 1, "kind": "leitura", "title": "Genki II · Lição 16: diálogo, vocabulário e as explicações de gramática sobre 〜ていただけませんか e 〜といい", "where": "Seu livro Genki II", "url": "", "when": "Antes desta aula ou logo depois do bloco de gramática. Os favores (〜てあげる／てくれる／てもらう) ficaram na Aula 16-1, e 〜とき e 〜てすみませんでした ficam para a Aula 16-3." },
-    { "order": 2, "kind": "video", "title": "Japanese Ammo with Misa: pedidos educados, de 〜てください a 〜ていただけませんか (em inglês)", "where": "YouTube · canal Japanese Ammo with Misa", "url": "", "search": "Japanese Ammo with Misa polite requests ていただけませんか", "when": "Depois dos pontos a e b, para ouvir a escada dos pedidos explicada de outro jeito" },
-    { "order": 3, "kind": "video", "title": "Game Gengo: 〜といい, \"tomara que\" (reforço opcional)", "where": "YouTube · canal Game Gengo", "url": "", "search": "Game Gengo といい grammar", "when": "Opcional, depois do ponto c" }
+    { "order": 1, "kind": "reading", "title": "Genki II · Lesson 16: the dialogue, vocabulary and grammar notes on 〜ていただけませんか and 〜といい", "where": "Your Genki II textbook", "url": "", "when": "Before this lesson or right after the grammar block. The favors (〜てあげる／てくれる／てもらう) were in lesson 16-1; 〜時 and 〜てすみませんでした are in lesson 16-3." },
+    { "order": 2, "kind": "video", "title": "Japanese Ammo with Misa: polite requests, from 〜てください to 〜ていただけませんか", "where": "YouTube · Japanese Ammo with Misa channel", "url": "", "search": "Japanese Ammo with Misa polite requests ていただけませんか", "when": "After points a and b, to hear the request ladder explained another way" },
+    { "order": 3, "kind": "video", "title": "Game Gengo: 〜といい, \"I hope\" (optional extra)", "where": "YouTube · Game Gengo channel", "url": "", "search": "Game Gengo といい grammar", "when": "Optional, after point c" }
   ],
   "homework": {
-    "intro": "Faça no caderno, à mão. Use kanji só nos que você já conhece e escreva o resto em kana. Antes de cada pedido, pergunte: com quem estou falando? É isso que decide o degrau. Só depois abra o gabarito, item por item. Circule o que errou e refaça no dia seguinte. Se você tiver o Genki II Workbook, faça também os exercícios desta lição. Nesta aula, os de 〜ていただけませんか e 〜といい.",
+    "intro": "Do it by hand in your notebook. Use kanji only for the ones you already know and write the rest in kana. Before each request, ask yourself: who am I talking to? That decides the step. Only then open the answer key, item by item. Circle what you got wrong and redo it the next day. If you have the Genki II Workbook, do this lesson's exercises too; in this lesson, the ones on 〜ていただけませんか and 〜といい.",
     "tasks": [
       {
         "id": "h1",
-        "type": "transformar",
-        "prompt": "Suba o pedido até o degrau mais alto: passe de 〜てください para 〜ていただけませんか.",
+        "type": "transform",
+        "prompt": "Take the request up to the top step: change 〜てください into 〜ていただけませんか.",
         "items": [
-          { "q": "もう一度言ってください。", "a": { "jp": "もう一度言っていただけませんか。", "kana": "もういちどいっていただけませんか。", "romaji": "Mō ichido itte itadakemasen ka." }, "note": "Só o fim muda: ください → いただけませんか. A forma て (言って) fica igual." },
+          { "q": "もう一度言ってください。", "a": { "jp": "もう一度言っていただけませんか。", "kana": "もういちどいっていただけませんか。", "romaji": "Mō ichido itte itadakemasen ka." }, "note": "Only the ending changes: ください → いただけませんか. The て-form (言って) stays the same." },
           { "q": "ちょっと待ってください。", "a": { "jp": "ちょっと待っていただけませんか。", "kana": "ちょっとまっていただけませんか。", "romaji": "Chotto matte itadakemasen ka." } },
           { "q": "この漢字を読んでください。", "a": { "jp": "この漢字を読んでいただけませんか。", "kana": "このかんじをよんでいただけませんか。", "romaji": "Kono kanji o yonde itadakemasen ka." } },
-          { "q": "英語で説明してください。", "a": { "jp": "英語で説明していただけませんか。", "kana": "えいごでせつめいしていただけませんか。", "romaji": "Eigo de setsumei shite itadakemasen ka." }, "note": "O で (em inglês) e o resto da frase não mudam." },
+          { "q": "英語で説明してください。", "a": { "jp": "英語で説明していただけませんか。", "kana": "えいごでせつめいしていただけませんか。", "romaji": "Eigo de setsumei shite itadakemasen ka." }, "note": "The で (\"in English\") and the rest of the sentence don't change." },
           { "q": "タクシーをよんでください。", "a": { "jp": "タクシーをよんでいただけませんか。", "romaji": "Takushī o yonde itadakemasen ka." } }
         ]
       },
       {
         "id": "h2",
-        "type": "escolher",
-        "prompt": "Escolha o degrau pela pessoa e escreva o pedido inteiro: amigo → 〜てくれない？; colega → 〜てくれませんか ou 〜てもらえませんか; professor, chefe ou desconhecido → 〜ていただけませんか.",
+        "type": "choose",
+        "prompt": "Pick the step for the person and write the whole request: friend → 〜てくれない？; colleague → 〜てくれませんか or 〜てもらえませんか; teacher, boss or stranger → 〜ていただけませんか.",
         "items": [
-          { "q": "(A um amigo) Me empresta a caneta?", "a": { "jp": "ペンを貸してくれない？", "kana": "ペンをかしてくれない？", "romaji": "Pen o kashite kurenai?" }, "note": "〜てもらえない？ também serve. Suba a voz no fim." },
-          { "q": "(Ao professor) O senhor poderia ver a minha redação?", "a": { "jp": "作文を見ていただけませんか。", "kana": "さくぶんをみていただけませんか。", "romaji": "Sakubun o mite itadakemasen ka." } },
-          { "q": "(A um colega de trabalho) Você pode me ajudar um pouco?", "a": { "jp": "ちょっとてつだってもらえませんか。", "romaji": "Chotto tetsudatte moraemasen ka." }, "note": "ちょっとてつだってくれませんか também está certo." },
-          { "q": "(A um desconhecido na rua) O senhor poderia tirar uma foto nossa?", "a": { "jp": "写真をとっていただけませんか。", "kana": "しゃしんをとっていただけませんか。", "romaji": "Shashin o totte itadakemasen ka." }, "note": "Com desconhecidos, 〜てもらえませんか também é comum. いただけませんか é o mais seguro." },
-          { "q": "(Ao chefe) O senhor poderia me emprestar este livro?", "a": { "jp": "この本を貸していただけませんか。", "kana": "このほんをかしていただけませんか。", "romaji": "Kono hon o kashite itadakemasen ka." }, "note": "Quem recebe o livro é você, e isso já está em いただく. Não precisa de 私に." }
+          { "q": "(To a friend) Can you lend me your pen?", "a": { "jp": "ペンを貸してくれない？", "kana": "ペンをかしてくれない？", "romaji": "Pen o kashite kurenai?" }, "note": "〜てもらえない？ also works. Raise your voice at the end." },
+          { "q": "(To your teacher) Could you look at my composition?", "a": { "jp": "作文を見ていただけませんか。", "kana": "さくぶんをみていただけませんか。", "romaji": "Sakubun o mite itadakemasen ka." } },
+          { "q": "(To a colleague at work) Could you help me a little?", "a": { "jp": "ちょっとてつだってもらえませんか。", "romaji": "Chotto tetsudatte moraemasen ka." }, "note": "ちょっとてつだってくれませんか is also correct." },
+          { "q": "(To a stranger on the street) Could you take a photo of us?", "a": { "jp": "写真をとっていただけませんか。", "kana": "しゃしんをとっていただけませんか。", "romaji": "Shashin o totte itadakemasen ka." }, "note": "With strangers, 〜てもらえませんか is also common. いただけませんか is the safest choice." },
+          { "q": "(To your boss) Could you lend me this book?", "a": { "jp": "この本を貸していただけませんか。", "kana": "このほんをかしていただけませんか。", "romaji": "Kono hon o kashite itadakemasen ka." }, "note": "You are the one who gets the book, and いただく already says so. No need for 私に." }
         ]
       },
       {
         "id": "h3",
-        "type": "completar",
-        "prompt": "Torça pela situação: escreva a frase inteira com 〜といいですね (desejo para o outro ou para vocês dois) ou 〜といいんですが (desejo seu, com preocupação), usando as palavras entre parênteses.",
+        "type": "fill",
+        "prompt": "Hope for the situation: write the whole sentence with 〜といいですね (a wish for the other person, or for both of you) or 〜といいんですが (a wish of your own, with worry), using the words in parentheses.",
         "items": [
-          { "q": "O seu amigo tem prova amanhã. (試験がやさしい)", "a": { "jp": "試験がやさしいといいですね。", "kana": "しけんがやさしいといいですね。", "romaji": "Shiken ga yasashii to ii desu ne." }, "note": "Adjetivo い entra direto antes do と." },
-          { "q": "Você está resfriado(a) e vai viajar no sábado. (かぜが早くなおる)", "a": { "jp": "かぜが早くなおるといいんですが。", "kana": "かぜがはやくなおるといいんですが。", "romaji": "Kaze ga hayaku naoru to ii n desu ga." }, "note": "É um problema seu, com preocupação: といいんですが." },
-          { "q": "A sua amiga está procurando apartamento. (いいアパートが見つかる)", "a": { "jp": "いいアパートが見つかるといいですね。", "kana": "いいアパートがみつかるといいですね。", "romaji": "Ii apāto ga mitsukaru to ii desu ne." } },
-          { "q": "Você está correndo para pegar o trem. (電車に間に合う)", "a": { "jp": "電車に間に合うといいんですが。", "kana": "でんしゃにまにあうといいんですが。", "romaji": "Densha ni ma ni au to ii n desu ga." } },
-          { "q": "O seu colega vai conhecer o novo chefe. (やさしい人)", "a": { "jp": "やさしい人だといいですね。", "kana": "やさしいひとだといいですね。", "romaji": "Yasashii hito da to ii desu ne." }, "note": "Termina em substantivo (人): antes do と entra だ." },
-          { "q": "Você e um amigo vão à praia no domingo. (天気がいい)", "a": { "jp": "天気がいいといいですね。", "kana": "てんきがいいといいですね。", "romaji": "Tenki ga ii to ii desu ne." }, "note": "É uma situação de vocês dois: といいですね. Os dois いい são normais: o primeiro é o tempo bom; o segundo, o \"tomara\"." }
+          { "q": "Your friend has an exam tomorrow. (試験がやさしい)", "a": { "jp": "試験がやさしいといいですね。", "kana": "しけんがやさしいといいですね。", "romaji": "Shiken ga yasashii to ii desu ne." }, "note": "An い-adjective goes straight before と." },
+          { "q": "You have a cold and you are traveling on Saturday. (かぜが早くなおる)", "a": { "jp": "かぜが早くなおるといいんですが。", "kana": "かぜがはやくなおるといいんですが。", "romaji": "Kaze ga hayaku naoru to ii n desu ga." }, "note": "It is your own problem, with worry: といいんですが." },
+          { "q": "Your friend is looking for an apartment. (いいアパートが見つかる)", "a": { "jp": "いいアパートが見つかるといいですね。", "kana": "いいアパートがみつかるといいですね。", "romaji": "Ii apāto ga mitsukaru to ii desu ne." } },
+          { "q": "You are rushing to catch the train. (電車に間に合う)", "a": { "jp": "電車に間に合うといいんですが。", "kana": "でんしゃにまにあうといいんですが。", "romaji": "Densha ni ma ni au to ii n desu ga." } },
+          { "q": "Your colleague is about to meet the new boss. (やさしい人)", "a": { "jp": "やさしい人だといいですね。", "kana": "やさしいひとだといいですね。", "romaji": "Yasashii hito da to ii desu ne." }, "note": "It ends in a noun (人), so だ goes before と." },
+          { "q": "You and a friend are going to the beach on Sunday. (天気がいい)", "a": { "jp": "天気がいいといいですね。", "kana": "てんきがいいといいですね。", "romaji": "Tenki ga ii to ii desu ne." }, "note": "It is a situation for both of you: といいですね. The two いい are normal: the first is the good weather; the second is the \"I hope\"." }
         ]
       },
       {
         "id": "h4",
-        "type": "produzir",
-        "prompt": "Escreva 4 frases verdadeiras ou possíveis na sua vida: um pedido a um professor com 〜ていただけませんか, um pedido a um amigo no casual, um desejo para alguém com 〜といいですね e um desejo seu, com preocupação, com 〜といいんですが. Depois leia em voz alta e grave no celular.",
+        "type": "produce",
+        "prompt": "Write 4 sentences that are true or possible in your life: a request to a teacher with 〜ていただけませんか, a casual request to a friend, a wish for someone with 〜といいですね and a wish of your own, with worry, with 〜といいんですが. Then read them aloud and record yourself on your phone.",
         "items": [
-          { "q": "Modelo, que o seu texto deve seguir na estrutura e não nas palavras:", "a": { "jp": "先生、この手紙の日本語をチェックしていただけませんか。ねえ、あしたかさを貸してくれない？マリアさん、あしたの試験、うまくいくといいですね。来週の旅行、雨がふらないといいんですが。", "kana": "せんせい、このてがみのにほんごをチェックしていただけませんか。ねえ、あしたかさをかしてくれない？マリアさん、あしたのしけん、うまくいくといいですね。らいしゅうのりょこう、あめがふらないといいんですが。", "romaji": "Sensei, kono tegami no nihongo o chekku shite itadakemasen ka. Nē, ashita kasa o kashite kurenai? Maria-san, ashita no shiken, umaku iku to ii desu ne. Raishū no ryokō, ame ga furanai to ii n desu ga.", "pt": "Professor(a), o(a) senhor(a) poderia conferir o japonês desta carta? Ei, me empresta o guarda-chuva amanhã? Maria, tomara que a sua prova de amanhã dê certo! Tomara que não chova na viagem da semana que vem…" }, "note": "Confira: o け de いただけませんか, o casual com a voz subindo no fim (？), a forma curta no presente antes do と, だ depois de substantivo ou adjetivo な, e といいですね para o outro × といいんですが para você." }
+          { "q": "Model (match its structure, not its words):", "a": { "jp": "先生、この手紙の日本語をチェックしていただけませんか。ねえ、あしたかさを貸してくれない？マリアさん、あしたの試験、うまくいくといいですね。来週の旅行、雨がふらないといいんですが。", "kana": "せんせい、このてがみのにほんごをチェックしていただけませんか。ねえ、あしたかさをかしてくれない？マリアさん、あしたのしけん、うまくいくといいですね。らいしゅうのりょこう、あめがふらないといいんですが。", "romaji": "Sensei, kono tegami no nihongo o chekku shite itadakemasen ka. Nē, ashita kasa o kashite kurenai? Maria-san, ashita no shiken, umaku iku to ii desu ne. Raishū no ryokō, ame ga furanai to ii n desu ga.", "en": "Professor, could you check the Japanese in this letter? Hey, can you lend me an umbrella tomorrow? Maria, I hope your exam tomorrow goes well! I hope it doesn't rain on next week's trip…" }, "note": "Check: the け in いただけませんか, the casual request with your voice rising at the end (？), the present short form before と, だ after a noun or な-adjective, and といいですね for the other person × といいんですが for yourself." }
         ]
       }
     ],
     "workbook": []
   },
   "practice": [
-    { "tool": "Wagotabi", "what": "Jogue de preferência numa região N4 do jogo. Cace pedidos nos diálogos: 〜てください, 〜てくれませんか ou 〜てくれない？, 〜てもらえませんか, 〜ていただけませんか. Para cada um, diga em voz alta em que degrau da escada ele está e quem pede a quem. Cace também といい (\"tomara\"). Registre a sessão em Imersão → Jogos e cole uma dessas frases na 🔬 Anatomia.", "min": 15 },
-    { "tool": "ヅオリンゴー", "what": "Treinos → Conjugação: forma て e potencial (Aula 13-1), que formam もらえる e いただける. Depois, Vocabulário/SRS: revise as palavras desta aula.", "min": 10 },
-    { "tool": "ヅオリンゴー · Diário", "what": "Escreva no Diário 3 pedidos que você faria no Japão (na rua, no hotel, numa loja) com 〜ていただけませんか e 2 desejos com といい. Abra \"Anatomia do que escrevi\" e confira se o pedido ficou todo no PREDICADO.", "min": 10 },
-    { "tool": "Shadowing", "what": "Toque 🔊 em cada exemplo desta aula e repita junto 3 vezes. いただけませんか tem 8 batidas iguais (い・た・だ・け・ま・せ・ん・か): não engula o け.", "min": 5 },
-    { "tool": "Fala", "what": "Encene em voz alta 3 cenas de viagem: pedir que alguém tire uma foto sua, pedir o caminho até a estação e pedir que falem mais devagar. Grave em até 40 s e confira se todos os pedidos saíram com いただけませんか.", "min": 5 }
+    { "tool": "Wagotabi", "what": "If you can, play in an N4 area of the game. Hunt for requests in the dialogues: 〜てください, 〜てくれませんか or 〜てくれない？, 〜てもらえませんか, 〜ていただけませんか. For each one, say out loud which step of the ladder it is on and who is asking whom. Also hunt for といい (\"I hope\"). Log the session in Immersion → Games and paste one of those lines into 🔬 Anatomy.", "min": 15 },
+    { "tool": "ヅオリンゴー", "what": "Drills → Conjugation: the て-form and the potential (lesson 13-1), which make もらえる and いただける. Then Vocabulary/SRS: review this lesson's words.", "min": 10 },
+    { "tool": "ヅオリンゴー · Journal", "what": "In the Journal, write 3 requests you would make in Japan (on the street, at a hotel, in a shop) with 〜ていただけませんか, and 2 wishes with といい. Open \"Anatomy of what I wrote\" and check that the whole request ended up in the PREDICATE.", "min": 10 },
+    { "tool": "Shadowing", "what": "Tap 🔊 on each example in this lesson and repeat along 3 times. いただけませんか has 8 equal beats (い・た・だ・け・ま・せ・ん・か): don't swallow the け.", "min": 5 },
+    { "tool": "Speaking", "what": "Act out 3 travel scenes out loud: asking someone to take your photo, asking the way to the station and asking someone to speak more slowly. Record it in 40 seconds or less and check that every request came out with いただけませんか.", "min": 5 }
   ],
   "culture": {
-    "title": "\"Ler o ar\": くうきを よむ",
+    "title": "\"Reading the air\": くうきを よむ",
     "titleJp": "空気を読む",
-    "body": "空気を読む, literalmente \"ler o ar\", é perceber o que as pessoas ao redor pensam ou querem **sem que ninguém diga com todas as letras**, e agir de acordo. Muitas vezes o japonês prefere sugerir a pedir: numa sala fria, alguém pode dizer só ちょっとさむいですね, esperando que outra pessoa se ofereça para fechar a janela. Por isso os pedidos desta aula costumam vir em forma de pergunta e com amortecedores, como すみませんが e ちょっと: eles deixam espaço para o outro recusar sem constrangimento. Quem não percebe essas pistas é chamado de 空気が読めない人, e a sigla **KY** (de *kūki ga yomenai*) chegou a virar gíria. Isso não quer dizer que ninguém fala diretamente: entre amigos, e com estrangeiros, muita gente é bem direta.",
-    "try": "Treine responder à pista. Quando ouvir ちょっとさむいですね, ofereça: まどをしめましょうか。 E, para pedir ajuda como um japonês, comece pela situação e deixe a frase no ar: すみません、道がわからないんですが… Muitas vezes a outra pessoa já se oferece para ajudar."
+    "body": "空気を読む, literally \"to read the air\", means sensing what the people around you think or want **without anyone spelling it out**, and acting on it. Often people in Japan prefer hinting to asking: in a cold room, someone may just say ちょっとさむいですね, hoping someone else will offer to close the window. That is why the requests in this lesson usually come as questions and with cushions like すみませんが and ちょっと: they leave room for the other person to say no without embarrassment. Someone who misses these cues is called 空気が読めない人, and the abbreviation **KY** (from *kūki ga yomenai*) even became slang. This doesn't mean nobody speaks directly: among friends, and with foreigners, many people are quite direct.",
+    "try": "Practice responding to the hint. When you hear ちょっとさむいですね, offer: まどをしめましょうか。 And to ask for help the Japanese way, start with the situation and leave the sentence hanging: すみません、道がわからないんですが… Often the other person will offer to help."
   },
   "checklist": [
-    "Faço o mesmo pedido nos 4 degraus, sem olhar: 〜てください → 〜てくれませんか → 〜てもらえませんか → 〜ていただけませんか.",
-    "Sei que もらえる e いただける são potenciais, e não esqueço o け de いただけませんか.",
-    "Escolho o degrau pela pessoa: casual com amigos (〜てくれない？, com a voz subindo), いただけませんか com professores, chefes e desconhecidos.",
-    "Aceito um pedido com いいですよ e recuso com すみません、ちょっと…",
-    "Torço por alguém com 〜といいですね e digo um desejo meu, com preocupação, com 〜といいんですが.",
-    "Coloco a forma curta no presente antes do と, com だ depois de substantivo e de adjetivo な.",
-    "Fiz a lição de casa e conferi o gabarito, e refiz o que errei.",
-    "Se tenho o Genki II Workbook, fiz os exercícios de 〜ていただけませんか e 〜といい."
+    "I can make the same request at all 4 steps without looking: 〜てください → 〜てくれませんか → 〜てもらえませんか → 〜ていただけませんか.",
+    "I know that もらえる and いただける are potentials, and I don't forget the け in いただけませんか.",
+    "I pick the step for the person: casual with friends (〜てくれない？, with my voice rising), いただけませんか with teachers, bosses and strangers.",
+    "I can accept a request with いいですよ and decline one with すみません、ちょっと…",
+    "I can wish someone well with 〜といいですね and state a hope of my own, with worry, with 〜といいんですが.",
+    "I put the present short form before と, with だ after nouns and な-adjectives.",
+    "I did the homework, checked it against the answer key and redid what I got wrong.",
+    "If I have the Genki II Workbook, I did the exercises on 〜ていただけませんか and 〜といい."
   ]
 }

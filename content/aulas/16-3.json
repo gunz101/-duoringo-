@@ -1,0 +1,215 @@
+{
+  "id": "16-3",
+  "unit": "G2-L16",
+  "genki": { "book": "Genki II", "lesson": 16, "points": ["〜時", "〜てすみませんでした"] },
+  "title": "When · apologizing",
+  "titleJp": "日本に行ったとき、おまつりを見ました",
+  "canDo": [
+    "I can say when something happens with a 〜とき block, attaching verbs, い-adjectives, な-adjectives (なとき) and nouns (のとき) correctly: ひまなとき, 子供のとき.",
+    "I can choose between 行くとき and 行ったとき by asking which event comes first: 日本に行くとき (before getting there, or on the way) × 日本に行ったとき (once there).",
+    "I can put a 〜とき block at the front of the sentence, as a TIME block, and read the sentence from the predicate at the end.",
+    "I can apologize for something I did with 〜てすみませんでした and for something I didn't do with 〜なくてすみませんでした.",
+    "I can pick the apology for the person (ごめん(ね) with friends, すみませんでした with teachers and bosses) and answer an apology with いいえ、だいじょうぶですよ."
+  ],
+  "duration": {
+    "total": "60–75 min",
+    "blocks": [
+      { "t": "Warm-up: say the present and past short forms of 行く, 帰る, 来る and ねる out loud (lesson 09-1), then ひまな人 and 子供の本 (lesson 09-2): とき attaches the same way", "min": 5 },
+      { "t": "Vocabulary: tap 🔊 on each word and repeat it twice", "min": 10 },
+      { "t": "Grammar: the 3 points, each with its examples read aloud. In your notebook, draw a timeline for 行くとき and one for 行ったとき: which event comes first?", "min": 25 },
+      { "t": "Lesson 16 video (block 6), only the part about 〜時 and 〜てすみませんでした", "min": 10 },
+      { "t": "Notebook homework + checking it against the answer key", "min": 15 },
+      { "t": "Checklist (block 10) + write your questions in the lesson notebook", "min": 5 }
+    ]
+  },
+  "prereqs": {
+    "aulas": ["16-2"],
+    "skills": [
+      "Short forms, present and past, affirmative and negative (lessons 08-1 and 09-1): 行く・行かない・行った・行かなかった. Every とき block ends in a short form.",
+      "Clauses that describe nouns (lessons 09-2 and 15-2): ひまな人, 子供の本, きのう買った本. とき is a noun, so the clause before it attaches in exactly the same way.",
+      "The て-form (lesson 06-1) and the くて form of い-adjectives (lesson 07-2): おそくなって, 来なくて. The apology is て-form + すみませんでした.",
+      "The potential form (lesson 13-1), to apologize for something you couldn't do: 行けなくて.",
+      "〜てくれて、ありがとう (previewed in lesson 16-1): it uses the same て of \"for doing\" as the apology."
+    ],
+    "vocab": [
+      { "jp": "とき", "kana": "とき", "romaji": "toki", "en": "time; when… (after a clause: 〜とき)" },
+      { "jp": "ひま", "kana": "ひま", "romaji": "hima", "en": "free, not busy (a な-adjective: ひまな)" },
+      { "jp": "子供", "kana": "こども", "romaji": "kodomo", "en": "child" },
+      { "jp": "さびしい", "kana": "さびしい", "romaji": "sabishii", "en": "lonely" },
+      { "jp": "いそがしい", "kana": "いそがしい", "romaji": "isogashii", "en": "busy" },
+      { "jp": "わかる", "kana": "わかる", "romaji": "wakaru", "en": "to understand; to know (道がわかる = to know the way)" },
+      { "jp": "聞く", "kana": "きく", "romaji": "kiku", "en": "to ask; to listen" },
+      { "jp": "空港", "kana": "くうこう", "romaji": "kūkō", "en": "airport" },
+      { "jp": "ガイドブック", "kana": "ガイドブック", "romaji": "gaidobukku", "en": "guidebook" },
+      { "jp": "おまつり", "kana": "おまつり", "romaji": "omatsuri", "en": "festival" },
+      { "jp": "お寺", "kana": "おてら", "romaji": "otera", "en": "Buddhist temple" },
+      { "jp": "ねる", "kana": "ねる", "romaji": "neru", "en": "to go to bed; to sleep" },
+      { "jp": "でんき", "kana": "でんき", "romaji": "denki", "en": "light; electricity" },
+      { "jp": "けす", "kana": "けす", "romaji": "kesu", "en": "to turn off (a light); to erase" },
+      { "jp": "休む", "kana": "やすむ", "romaji": "yasumu", "en": "to be absent (from school or work); to rest" },
+      { "jp": "やさい", "kana": "やさい", "romaji": "yasai", "en": "vegetables" },
+      { "jp": "わすれる", "kana": "わすれる", "romaji": "wasureru", "en": "to forget; to leave something behind" },
+      { "jp": "しゅくだい", "kana": "しゅくだい", "romaji": "shukudai", "en": "homework" },
+      { "jp": "やくそく", "kana": "やくそく", "romaji": "yakusoku", "en": "promise; appointment" },
+      { "jp": "おそくなる", "kana": "おそくなる", "romaji": "osoku naru", "en": "to be late [lit. to become late]" },
+      { "jp": "へんじ", "kana": "へんじ", "romaji": "henji", "en": "reply, answer (to a message)" },
+      { "jp": "すみませんでした", "kana": "すみませんでした", "romaji": "sumimasen deshita", "en": "I'm sorry (for something that happened)" },
+      { "jp": "ごめん", "kana": "ごめん", "romaji": "gomen", "en": "sorry (casual, with friends and family)" },
+      { "jp": "だいじょうぶ", "kana": "だいじょうぶ", "romaji": "daijōbu", "en": "all right, OK, no problem (a な-adjective)" }
+    ]
+  },
+  "grammar": [
+    {
+      "id": "16-3-a",
+      "gc": null,
+      "title": "〜とき: when…",
+      "gloss": "a short sentence + とき = \"when…\", \"at the time when…\"",
+      "explanation": "とき means \"time\". Put a whole short sentence before it and you get a block that means **\"when [that happens]\"**: ひまなとき = \"when I'm free\", 子供のとき = \"when I was a child\". Genki writes it with the kanji 時; many texts write it in kana, とき. Both are correct, and this course uses kana.\n• **とき is a noun.** So the sentence before it attaches **exactly like a clause that describes a noun** (lesson 09-2): ひまな人 → ひまなとき; 子供の本 → 子供のとき.\n• Verb: short form. 道がわからないとき, 日本に行くとき, 日本に行ったとき.\n• い-adjective: as is. さびしいとき, いそがしいとき.\n• な-adjective: keep the **な**. ひまなとき, 元気なとき.\n• Noun: add **の**. 子供のとき, かぜのとき, 休みのとき.\n\n**Where it goes.** The とき block comes **before** the main sentence, usually followed by a comma: [〜とき]、[main sentence]. English can put \"when…\" at the end (\"I read manga when I'm free\"); Japanese puts it first. The whole 〜とき block works as **one TIME block**, like きのう or 三時に: it tells **when** the predicate at the end happens. Read from the predicate: 読みます → what? → まんがを → when? → ひまなとき.\n• Inside the とき block, the subject takes **が**, as in describing clauses: 友だちが来たとき.\n• The predicate at the end sets the time of the whole sentence: ひまなとき、まんがを読みます (a habit) × 子供のとき、よく川でおよぎました (the past).\n• With nouns and adjectives, the present form before とき is common even in a story about the past: 子供のとき、…ました.\n• You will also see 〜ときは and 〜ときに. For now, 〜とき + a comma is all you need.",
+      "structure": "[verb (short form) / い-adj / な-adj + な / noun + の] とき、[main sentence]。",
+      "examples": [
+        { "jp": "ひまなとき、よくまんがを読みます。", "kana": "ひまなとき、よくまんがをよみます。", "romaji": "Hima na toki, yoku manga o yomimasu.", "en": "When I'm free, I often read manga." },
+        { "jp": "子供のとき、よく川でおよぎました。", "kana": "こどものとき、よくかわでおよぎました。", "romaji": "Kodomo no toki, yoku kawa de oyogimashita.", "en": "When I was a child, I often swam in the river. [lit. child's time, often in the river swam]" },
+        { "jp": "道がわからないとき、駅の人に聞きます。", "kana": "みちがわからないとき、えきのひとにききます。", "romaji": "Michi ga wakaranai toki, eki no hito ni kikimasu.", "en": "When I don't know the way, I ask the station staff." }
+      ],
+      "pitfalls": [
+        "な-adjectives keep な and nouns take の: ひまとき ✗ → ひまなとき ✓; 子供とき ✗ → 子供のとき ✓.",
+        "No です／ます before とき: 行きますとき ✗ → 行くとき ✓. The politeness goes only at the end of the whole sentence.",
+        "English \"when…?\" in a question is いつ, not とき: とき日本に行きますか ✗ → いつ日本に行きますか ✓. とき only comes after a sentence.",
+        "Don't copy the English order: まんがを読みます、ひまなとき ✗ → ひまなとき、まんがを読みます ✓. The とき block comes first."
+      ],
+      "howToStudy": [
+        "Say out loud 4 true sentences about your habits, each with a different kind of word before とき: a verb (道がわからないとき), an い-adjective (さびしいとき), a な-adjective (ひまなとき) and a noun (休みのとき).",
+        "Tap 🔬 on example 1: the whole ひまなとき is one TIME block, よく is HOW / HOW OFTEN, まんがを is the OBJECT and 読みます is the PREDICATE. Read from the end: I read → what? → manga → how often? → often → when? → when I'm free.",
+        "In your notebook, write 3 sentences about your childhood with 子供のとき、…ました."
+      ],
+      "flag": null
+    },
+    {
+      "id": "16-3-b",
+      "gc": null,
+      "title": "行くとき × 行ったとき: the tense before とき",
+      "gloss": "present = it hasn't happened yet; past = it has already happened",
+      "explanation": "English says \"when I went to Japan\" in both sentences below. Japanese makes you choose, and the choice is not about now: the verb before とき shows **the order of the two events**.\n• **Present before とき** (行くとき): when the main event happens, the とき event **hasn't happened yet** (or is still on its way). 日本に行くとき、空港でガイドブックを買いました = I bought it **before arriving**: at the airport back home, or on the way.\n• **Past before とき** (行ったとき): the とき event **has already happened** when the main event happens. 日本に行ったとき、京都でおまつりを見ました = I saw the festival **once I was in Japan**.\n• The **end** of the sentence is what tells past or future: 日本に行くとき、ガイドブックを買います = I'll buy one before I go. It is still 行くとき.\n• So た can appear before とき even about the future: 来年日本に行ったとき、お寺を見たいです = when I'm in Japan next year (I'll already be there), I want to see temples.\n• This matters most with movement verbs (行く, 来る, 帰る) and with actions that have a clear end point (ねる, 起きる): ねるとき = right before going to bed.\n• Ask yourself: **at the moment of the main event, has the とき event already happened?** No → dictionary form (or ない). Yes → た form.\n\n**The timeline.**\n• 行くとき: [main event] → [arriving in Japan]\n• 行ったとき: [arriving in Japan] → [main event]",
+      "structure": "[dictionary form] とき = before / on the way · [た form] とき = after it happened",
+      "examples": [
+        { "jp": "日本に行くとき、空港でガイドブックを買いました。", "kana": "にほんにいくとき、くうこうでガイドブックをかいました。", "romaji": "Nihon ni iku toki, kūkō de gaidobukku o kaimashita.", "en": "When I went to Japan, I bought a guidebook at the airport (before I got there)." },
+        { "jp": "日本に行ったとき、京都でおまつりを見ました。", "kana": "にほんにいったとき、きょうとでおまつりをみました。", "romaji": "Nihon ni itta toki, Kyōto de omatsuri o mimashita.", "en": "When I went to Japan, I saw a festival in Kyoto (once I was there)." },
+        { "jp": "うちに帰ったとき、だれもいませんでした。", "kana": "うちにかえったとき、だれもいませんでした。", "romaji": "Uchi ni kaetta toki, dare mo imasen deshita.", "en": "When I got home, nobody was there." }
+      ],
+      "pitfalls": [
+        "(you stopped at the supermarket on your way home) うちに帰ったとき、スーパーで肉を買いました ✗ (that says you were already home) → うちに帰るとき、スーパーで肉を買いました ✓.",
+        "(you'll buy souvenirs once you're in Japan) 日本に行くとき、おみやげを買います ✗ (that means before leaving) → 日本に行ったとき、おみやげを買います ✓ (た, even though it's the future).",
+        "(before going to bed) ねたとき、でんきをけします ✗ (after falling asleep?) → ねるとき、でんきをけします ✓."
+      ],
+      "howToStudy": [
+        "Draw two timelines in your notebook, one for 日本に行くとき and one for 日本に行ったとき, and put 3 actions on each (buying something, seeing something, eating something).",
+        "Tap 🔬 on examples 1 and 2: 日本に is DESTINATION (it belongs to 行く, inside the とき block), 行くとき / 行ったとき is TIME, 空港で / 京都で is PLACE and 買いました / 見ました is the PREDICATE. The 🔬 gives both sentences the same labels: the whole difference is 行く × 行った, so look at that verb every time.",
+        "Say out loud 2 sentences about your own day with 家を出るとき、… (before leaving home) and 2 with うちに帰ったとき、… (after getting home)."
+      ],
+      "flag": null
+    },
+    {
+      "id": "16-3-c",
+      "gc": null,
+      "title": "〜てすみませんでした / 〜なくてすみませんでした",
+      "gloss": "\"I'm sorry for doing / for not doing…\"",
+      "explanation": "To apologize for **something specific**, put it in the **て-form** before すみませんでした. The て-block says **what you are sorry for**, and すみませんでした, at the end, is the **PREDICATE**: the apology itself. English says \"I'm sorry I forgot\"; Japanese puts what you did first and the apology last. It is the same て as in 〜てくれて、ありがとう (\"thanks for…\", lesson 16-1): here it means \"for\".\n• Something you did: おそくなる → **おそくなって**すみませんでした (\"I'm sorry I was late\" [lit. sorry for having become late]). しゅくだいをわすれる → しゅくだいを**わすれて**すみませんでした.\n• Something you **didn't** do: the ない-form becomes **なくて**, just like an い-adjective (たかい → たかくて, lesson 07-2): 電話しない → 電話**しなくて**; 来ない → 来**なくて**.\n• Something you **couldn't** do: the potential + なくて (lesson 13-1): 行けない → 行けなくて.\n• The て-form has **no tense**. The tense lives in すみませんでした at the end.\n\n**Which apology for whom.**\n• すみませんでした is the past: you look back at something that is over (yesterday's absence, a mistake you already made). Use it with teachers, bosses and people you don't know well.\n• すみません is very common right at the moment, for example as you arrive late: おそくなってすみません。\n• With friends and family: **〜てごめん** or **〜てごめんね**. ごめんなさい is a bit more polite than ごめん. With teachers and bosses, stay with すみません／すみませんでした.\n• At work and in shops you will hear **もうしわけありませんでした**, a more formal apology. You don't need to produce it yet: that kind of polite language comes in Lessons 19 and 20.\n\n**How to answer.** いいえ、だいじょうぶですよ。 (\"No, it's all right.\") With friends: だいじょうぶだよ。",
+      "structure": "[what you did: て-form] すみませんでした。 · [what you didn't do: 〜なくて] すみませんでした。 · casual: 〜てごめん(ね)。",
+      "examples": [
+        { "jp": "先生、しゅくだいをわすれてすみませんでした。", "kana": "せんせい、しゅくだいをわすれてすみませんでした。", "romaji": "Sensei, shukudai o wasurete sumimasen deshita.", "en": "Professor, I'm sorry I forgot my homework.", "noAnat": true },
+        { "jp": "きのうはパーティーに行けなくてすみませんでした。", "kana": "きのうはパーティーにいけなくてすみませんでした。", "romaji": "Kinō wa pātī ni ikenakute sumimasen deshita.", "en": "I'm sorry I couldn't go to the party yesterday.", "noAnat": true },
+        { "jp": "へんじがおそくなってごめんね。", "kana": "へんじがおそくなってごめんね。", "romaji": "Henji ga osoku natte gomen ne.", "en": "Sorry for the late reply. [lit. sorry that the reply became late]", "noAnat": true }
+      ],
+      "pitfalls": [
+        "\"Sorry for not…\" is なくて, not ないで: 電話しないで、すみませんでした ✗ → 電話しなくてすみませんでした ✓. ないで is for \"please don't\" (〜ないでください, lesson 08-3).",
+        "The past goes only at the end: おそくなったすみませんでした ✗ → おそくなってすみませんでした ✓. The て-form has no tense.",
+        "Don't give the reason with から: おそくなりましたから、すみません ✗ (unnatural: it sounds like an excuse) → おそくなってすみませんでした ✓.",
+        "ごめん is for friends and family: (to your boss) おそくなってごめん ✗ → おそくなってすみませんでした ✓."
+      ],
+      "howToStudy": [
+        "Say out loud 4 apologies from your real life: 2 for something you did (〜てすみませんでした) and 2 for something you didn't do (〜なくてすみませんでした).",
+        "The 🔬 is switched off on these examples: the engine gives すみませんでした a kind tag that doesn't fit an apology (\"identity (X is Y)\" or \"existence\"), and it doesn't split the casual ごめんね sentence at all. If you paste a すみませんでした sentence into 🔬 Analyze, ignore that tag and trust the blocks: the て-block (shown as …AND THEN) is what you are sorry for, and すみませんでした is the PREDICATE.",
+        "Speaking: record the same apology twice, to a friend (〜てごめんね) and to a teacher (先生、〜てすみませんでした). Listen and check that the て-block carries no tense."
+      ],
+      "flag": null
+    }
+  ],
+  "media": [
+    { "order": 1, "kind": "reading", "title": "Genki II · Lesson 16: the dialogue, vocabulary and grammar notes on 〜時 and 〜てすみませんでした", "where": "Your Genki II textbook", "url": "", "when": "Before this lesson or right after the grammar block. The favors were in lesson 16-1, and 〜ていただけませんか and 〜といい in lesson 16-2." },
+    { "order": 2, "kind": "video", "title": "Japanese Ammo with Misa: とき (when), and the difference between 行くとき and 行ったとき", "where": "YouTube · Japanese Ammo with Misa channel", "url": "", "search": "Japanese Ammo with Misa toki when", "when": "After points a and b, to see the timeline explained another way" }
+  ],
+  "homework": {
+    "intro": "Do it by hand in your notebook. Use kanji only for the ones you already know and write the rest in kana. Before each とき item, ask yourself: at the moment of the main event, has the とき event already happened? Only then open the answer key, item by item. Circle what you got wrong and redo it the next day. If you have the Genki II Workbook, do this lesson's exercises too; in this lesson, the ones on 〜時 and 〜てすみませんでした.",
+    "tasks": [
+      {
+        "id": "h1",
+        "type": "fill",
+        "prompt": "Write the word in parentheses in the right form to go before とき.",
+        "items": [
+          { "q": "（ひま）＿とき、よくゲームをします。", "a": { "jp": "ひまな", "romaji": "hima na" }, "note": "A な-adjective keeps な." },
+          { "q": "（子供）＿とき、ロンドンに住んでいました。", "a": { "jp": "子供の", "kana": "こどもの", "romaji": "kodomo no" }, "note": "A noun takes の." },
+          { "q": "（いそがしい）＿とき、コンビニでばんごはんを買います。", "a": { "jp": "いそがしい", "romaji": "isogashii" }, "note": "An い-adjective goes in as is." },
+          { "q": "（かぜ）＿とき、学校を休みました。", "a": { "jp": "かぜの", "romaji": "kaze no" }, "note": "かぜ (\"a cold\") is a noun, so it takes の." },
+          { "q": "（元気じゃない）＿とき、友だちに電話します。", "a": { "jp": "元気じゃない", "kana": "げんきじゃない", "romaji": "genki ja nai" }, "note": "The negative of a な-adjective already ends in い (じゃない), so there is no な: 元気じゃないとき." }
+        ]
+      },
+      {
+        "id": "h2",
+        "type": "choose",
+        "prompt": "Choose the right form before とき, following the English. First ask: at the moment of the main event, has the とき event already happened?",
+        "items": [
+          { "q": "日本に（行く／行った）とき、新しいスーツケースを買いました。 (I bought a new suitcase before my trip to Japan.)", "a": { "jp": "行く", "kana": "いく", "romaji": "iku" }, "note": "You bought it before the trip: at that moment, you hadn't gone yet." },
+          { "q": "日本に（行く／行った）とき、ラーメンをたくさん食べました。 (When I was in Japan, I ate a lot of ramen.)", "a": { "jp": "行った", "kana": "いった", "romaji": "itta" }, "note": "You ate it once you were there." },
+          { "q": "（ねる／ねた）とき、でんきをけします。 (I turn off the light when I go to bed.)", "a": { "jp": "ねる", "romaji": "neru" }, "note": "You turn off the light before you fall asleep." },
+          { "q": "うちに（帰る／帰った）とき、母がばんごはんを作っていました。 (When I got home, my mom was making dinner.)", "a": { "jp": "帰った", "kana": "かえった", "romaji": "kaetta" }, "note": "You were already home when you saw it." },
+          { "q": "うちに（帰る／帰った）とき、駅で友だちに会いました。 (On my way home, I ran into a friend at the station.)", "a": { "jp": "帰る", "kana": "かえる", "romaji": "kaeru" }, "note": "You weren't home yet: it happened on the way." },
+          { "q": "来年日本に（行く／行った）とき、京都のお寺を見たいです。 (When I'm in Japan next year, I want to see the temples in Kyoto.)", "a": { "jp": "行った", "kana": "いった", "romaji": "itta" }, "note": "Even about the future: you will see them once you are already in Japan, so た." }
+        ]
+      },
+      {
+        "id": "h3",
+        "type": "translate",
+        "prompt": "Translate into Japanese.",
+        "items": [
+          { "q": "When I was a child, I didn't like vegetables.", "a": { "jp": "子供のとき、やさいが好きじゃありませんでした。", "kana": "こどものとき、やさいがすきじゃありませんでした。", "romaji": "Kodomo no toki, yasai ga suki ja arimasen deshita." }, "note": "A noun + の before とき. The past goes only at the end." },
+          { "q": "When I'm lonely, I call my mother.", "a": { "jp": "さびしいとき、母に電話します。", "kana": "さびしいとき、ははにでんわします。", "romaji": "Sabishii toki, haha ni denwa shimasu." } },
+          { "q": "When I went to Kyoto, I took a lot of photos (there).", "a": { "jp": "京都に行ったとき、写真をたくさんとりました。", "kana": "きょうとにいったとき、しゃしんをたくさんとりました。", "romaji": "Kyōto ni itta toki, shashin o takusan torimashita." }, "note": "You took them once you were in Kyoto: 行った." },
+          { "q": "(To your teacher) I'm sorry I didn't come yesterday.", "a": { "jp": "きのうは来なくてすみませんでした。", "kana": "きのうはこなくてすみませんでした。", "romaji": "Kinō wa konakute sumimasen deshita." }, "note": "来ない → 来なくて. The tense lives only in すみませんでした." },
+          { "q": "(To a colleague) I'm sorry I forgot our appointment.", "a": { "jp": "やくそくをわすれてすみませんでした。", "romaji": "Yakusoku o wasurete sumimasen deshita." }, "note": "Something you did (you forgot): the て-form." },
+          { "q": "(To a friend) Sorry I couldn't go to your birthday party.", "a": { "jp": "たんじょうびのパーティーに行けなくてごめんね。", "kana": "たんじょうびのパーティーにいけなくてごめんね。", "romaji": "Tanjōbi no pātī ni ikenakute gomen ne." }, "note": "\"Couldn't\" is the negative potential (行けない) → 行けなくて. With a friend, ごめん(ね)." }
+        ]
+      },
+      {
+        "id": "h4",
+        "type": "produce",
+        "prompt": "Write 6 sentences: 4 with とき about your life (one with a noun + のとき, one with a な-adjective + なとき, and a pair 〜に行くとき / 〜に行ったとき about a real trip), and 2 apologies, one to a teacher or boss with 〜てすみませんでした and one to a friend with 〜なくてごめんね. Then read them aloud and record yourself on your phone.",
+        "items": [
+          { "q": "Model (match its structure, not its words):", "a": { "jp": "子供のとき、よくこうえんであそびました。ひまなとき、ゲームをします。京都に行くとき、しんかんせんの中でおべんとうを食べました。京都に行ったとき、お寺をたくさん見ました。先生、おそくなってすみませんでした。きのうは電話しなくてごめんね。", "kana": "こどものとき、よくこうえんであそびました。ひまなとき、ゲームをします。きょうとにいくとき、しんかんせんのなかでおべんとうをたべました。きょうとにいったとき、おてらをたくさんみました。せんせい、おそくなってすみませんでした。きのうはでんわしなくてごめんね。", "romaji": "Kodomo no toki, yoku kōen de asobimashita. Hima na toki, gēmu o shimasu. Kyōto ni iku toki, shinkansen no naka de obentō o tabemashita. Kyōto ni itta toki, otera o takusan mimashita. Sensei, osoku natte sumimasen deshita. Kinō wa denwa shinakute gomen ne.", "en": "When I was a child, I often played in the park. When I'm free, I play video games. On the way to Kyoto, I ate a bento on the Shinkansen. When I was in Kyoto, I saw lots of temples. Professor, I'm sorry I was late. Sorry I didn't call you yesterday." }, "note": "Check: な after a な-adjective and の after a noun before とき; no です／ます before とき; 行くとき for what happened before you arrived and 行ったとき for what happened there; the て-form (or なくて) before すみませんでした, never ないで; and ごめん only with a friend." }
+        ]
+      }
+    ],
+    "workbook": []
+  },
+  "practice": [
+    { "tool": "Wagotabi", "what": "If you can, play in an N4 area of the game. Hunt for とき in the dialogues and, for each one, say out loud which event comes first. Also hunt for apologies: すみません, ごめん, 〜てすみません. Log the session in Immersion → Games and paste one line with とき into 🔬 Anatomy to see the とき block as a TIME block.", "min": 15 },
+    { "tool": "ヅオリンゴー", "what": "Drills → Conjugation: short forms, present and past (行く／行った, 帰る／帰った), and the ない-form, which gives なくて. Then Vocabulary/SRS: review this lesson's words.", "min": 10 },
+    { "tool": "ヅオリンゴー · Journal", "what": "In the Journal, write 3 sentences with とき about your childhood or a trip. Open \"Anatomy of what I wrote\" and check that each 〜とき block comes out as TIME, before the predicate.", "min": 10 },
+    { "tool": "Shadowing", "what": "Tap 🔊 on each example in this lesson and repeat along 3 times. Pause briefly at the comma in 〜とき、…: it separates the TIME block from the rest. In the apologies, keep すみませんでした at an even rhythm (す・み・ま・せ・ん・で・し・た).", "min": 5 },
+    { "tool": "Speaking", "what": "In 1 minute or less, tell a short story about a trip out loud: 1 sentence with 〜に行くとき, 1 with 〜に行ったとき, and end with an apology to a friend (for example, for a late reply). Record it and check the tense before each とき.", "min": 5 }
+  ],
+  "culture": {
+    "title": "すみません for everything: sorry and thanks",
+    "titleJp": "すみません",
+    "body": "すみません is one of the most useful words in Japan, because it does three jobs. It **apologizes** (おそくなってすみません). It **gets attention**, for example to call a waiter in a restaurant or to stop someone on the street (すみません、…). And it can also **thank** someone who went to some trouble for you. When a stranger picks up something you dropped or holds a door for you, many people say すみません rather than ありがとう: it recognizes the trouble the other person took. ありがとうございます is still perfectly fine, and people often say both: すみません、ありがとうございます。 With friends and family, the casual ごめん(ね) is more common for apologies, and ありがとう for thanks.",
+    "try": "Rehearse the three uses out loud: calling a waiter (すみません！), apologizing (おそくなってすみません), and thanking someone who helped you (あ、すみません、ありがとうございます). Next time someone does something small for you, try すみません、ありがとうございます in your head."
+  },
+  "checklist": [
+    "I can attach any kind of word to とき without looking: 行くとき, さびしいとき, ひまなとき, 子供のとき.",
+    "I put the 〜とき block at the front, as a TIME block, and read the sentence from the predicate at the end.",
+    "I can explain with a timeline the difference between 日本に行くとき and 日本に行ったとき, and I use た before とき even about the future when the event will already have happened.",
+    "I can apologize for something I did with 〜てすみませんでした and for something I didn't do with 〜なくてすみませんでした (never ないで).",
+    "I pick the apology for the person (ごめん(ね) with friends, すみませんでした with teachers and bosses) and I can answer one with いいえ、だいじょうぶですよ.",
+    "I did the homework, checked it against the answer key and redid what I got wrong.",
+    "If I have the Genki II Workbook, I did the exercises on 〜時 and 〜てすみませんでした."
+  ]
+}

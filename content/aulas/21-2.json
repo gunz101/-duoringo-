@@ -1,0 +1,237 @@
+{
+  "id": "21-2",
+  "unit": "G2-L21",
+  "genki": { "book": "Genki II", "lesson": 21, "points": ["〜てある", "〜間に", "Adjective + する", "〜てほしい"] },
+  "title": "Has been done · during · I want you to",
+  "titleJp": "まどが開けてあります",
+  "canDo": [
+    "I can describe a state that someone left on purpose with 〜てあります: ドアが開けてあります, 名前が書いてあります.",
+    "I can choose between 〜てある (someone did it on purpose) and 〜ている with an intransitive verb (it is just that way): 開けてある × 開いている.",
+    "I can say that something happened at some point during a period with 〜あいだに: 母がねているあいだに、ケーキを作りました。",
+    "I can say that someone makes something cleaner, smaller or cheaper with adjective + する, and tell it apart from adjective + なる.",
+    "I can say what I want someone else to do, or not to do, with [person]に 〜てほしい / 〜ないでほしい."
+  ],
+  "duration": {
+    "total": "70–90 min",
+    "blocks": [
+      { "t": "Session 1 · Warm-up: say 5 transitive/intransitive pairs out loud (開ける/開く, しめる/しまる, つける/つく, 入れる/入る, けす/きえる — lesson 18-1)", "min": 5 },
+      { "t": "Session 1 · Vocabulary: tap 🔊 on each word and repeat it twice", "min": 10 },
+      { "t": "Session 1 · Grammar 4a (〜てある) and 4b (〜あいだに), with one 🔬 each", "min": 20 },
+      { "t": "Session 2 · Grammar 4c (adjective + する) and 4d (〜てほしい), with one 🔬 each", "min": 15 },
+      { "t": "Session 2 · Lesson 21 video (block 6), the parts on these four points", "min": 10 },
+      { "t": "Notebook homework + checking it against the answer key", "min": 15 },
+      { "t": "Checklist (block 10) + write your questions in the lesson notebook", "min": 5 }
+    ]
+  },
+  "prereqs": {
+    "aulas": ["21-1"],
+    "skills": [
+      "Telling transitive from intransitive verbs in the pairs of lesson 18-1 (開ける/開く, 入れる/入る, つける/つく), and using 〜ている with an intransitive verb to describe a state: まどが開いています.",
+      "Making the て-form of any verb (lesson 06-1): 〜てある and 〜てほしい both start from it.",
+      "Using adjective + なる for changes (lesson 10-3): 大きくなる, きれいになる. This lesson adds the する version.",
+      "Using ほしい for things you want (lesson 14-1) and 〜ておく for doing something in advance (lesson 15-2)."
+    ],
+    "vocab": [
+      { "jp": "開ける", "kana": "あける", "romaji": "akeru", "en": "to open (something) — transitive" },
+      { "jp": "開く", "kana": "あく", "romaji": "aku", "en": "(something) opens — intransitive" },
+      { "jp": "つける", "kana": "つける", "romaji": "tsukeru", "en": "to turn on (a light, the air conditioner)" },
+      { "jp": "まど", "kana": "まど", "romaji": "mado", "en": "window" },
+      { "jp": "ドア", "kana": "ドア", "romaji": "doa", "en": "door" },
+      { "jp": "エアコン", "kana": "エアコン", "romaji": "eakon", "en": "air conditioner" },
+      { "jp": "かざる", "kana": "かざる", "romaji": "kazaru", "en": "to decorate, to display (flowers, pictures)" },
+      { "jp": "はる", "kana": "はる", "romaji": "haru", "en": "to put up, to stick (a poster, a note)" },
+      { "jp": "かべ", "kana": "かべ", "romaji": "kabe", "en": "wall" },
+      { "jp": "ひやす", "kana": "ひやす", "romaji": "hiyasu", "en": "to chill, to cool (drinks)" },
+      { "jp": "ふとん", "kana": "ふとん", "romaji": "futon", "en": "futon (Japanese bedding)" },
+      { "jp": "しく", "kana": "しく", "romaji": "shiku", "en": "to lay out (a futon)" },
+      { "jp": "間", "kana": "あいだ", "romaji": "aida", "en": "a period of time; between (〜あいだに = while, during)" },
+      { "jp": "出かける", "kana": "でかける", "romaji": "dekakeru", "en": "to go out" },
+      { "jp": "留守", "kana": "るす", "romaji": "rusu", "en": "being away from home" },
+      { "jp": "一度", "kana": "いちど", "romaji": "ichido", "en": "once, one time" },
+      { "jp": "音", "kana": "おと", "romaji": "oto", "en": "sound; (on a TV) the volume" },
+      { "jp": "短い", "kana": "みじかい", "romaji": "mijikai", "en": "short" },
+      { "jp": "かみ", "kana": "かみ", "romaji": "kami", "en": "hair" },
+      { "jp": "あたたかい", "kana": "あたたかい", "romaji": "atatakai", "en": "warm" },
+      { "jp": "台所", "kana": "だいどころ", "romaji": "daidokoro", "en": "kitchen" },
+      { "jp": "やめる", "kana": "やめる", "romaji": "yameru", "en": "to stop, to quit" },
+      { "jp": "妹", "kana": "いもうと", "romaji": "imōto", "en": "(my) younger sister" }
+    ]
+  },
+  "grammar": [
+    {
+      "id": "21-2-a",
+      "gc": null,
+      "title": "〜てある",
+      "gloss": "has been done (and left that way on purpose)",
+      "explanation": "〜てある describes **a state that someone created on purpose** and left that way. Build it with a **transitive verb** (one that takes を) in the て-form + ある: 開ける → 開け**てある**.\n• 教室のドアが開けてあります。 = The classroom door is open — someone opened it, for a reason, and left it open.\n\n**The blocks change.** In the action, the thing is the OBJECT: (だれかが) ドアを開けました. In 〜てある, the thing becomes the **SUBJECT with が** (or the topic with は), and the person who did it disappears: ドア**が**開けてあります. The PREDICATE 〜てあります says \"it is in the state someone left it in\".\n\n**〜てある × 〜ている (lesson 18-1).** Both can describe an open door, but they tell different things:\n• ドアが**開いて**います。 — intransitive + ている: the door is open. Just a description; maybe the wind opened it.\n• ドアが**開けて**あります。 — transitive + てある: someone opened it **on purpose**, usually as a preparation (to air the room, for the guests…).\n\n**〜てある × 〜ておく (lesson 15-2).** 〜ておく is the **action** of doing something in advance: 飲み物を買っておきます (I'll buy the drinks in advance). 〜てある is the **result** you find afterwards: 飲み物が買ってあります (the drinks have been bought; they're ready).\n• Very common on signs and papers: 名前が書いてあります (a name is written on it), ポスターがはってあります (a poster has been put up).",
+      "structure": "[thing] が／は [transitive verb in the て-form] あります。",
+      "examples": [
+        { "jp": "教室のドアが開けてあります。", "kana": "きょうしつのドアがあけてあります。", "romaji": "Kyōshitsu no doa ga akete arimasu.", "en": "The classroom door has been left open. [someone opened it on purpose]" },
+        { "jp": "パーティーの飲み物は、もう買ってあります。", "kana": "パーティーののみものは、もうかってあります。", "romaji": "Pātī no nomimono wa, mō katte arimasu.", "en": "The drinks for the party have already been bought." },
+        { "jp": "ホテルの部屋のエアコンがつけてありました。", "kana": "ホテルのへやのエアコンがつけてありました。", "romaji": "Hoteru no heya no eakon ga tsukete arimashita.", "en": "The air conditioner in the hotel room had been turned on (for us)." }
+      ],
+      "pitfalls": [
+        "〜てある needs a transitive verb: ドアが開いてあります ✗ → ドアが開けてあります ✓ (or ドアが開いています ✓, with the intransitive verb and ている).",
+        "The person who did it is not part of this pattern: 母がまどが開けてあります ✗ → まどが開けてあります ✓. To say who did it, use the plain action: 母がまどを開けました ✓.",
+        "Don't use 〜てある for things nobody did on purpose: 雨でみちがぬらしてあります ✗ → 雨でみちがぬれています ✓ (the rain did it: intransitive + ている)."
+      ],
+      "howToStudy": [
+        "In your notebook, write 3 pairs about the same thing: ドアが開いています / ドアが開けてあります; 電気がついています / 電気がつけてあります; まどがしまっています / まどがしめてあります. Next to each てある sentence, write why someone might have done it.",
+        "Tap 🔬 on example 1: ドアが shows up as SUBJECT (not OBJECT!) and 開けてあります as the PREDICATE. The person who opened the door is not in the sentence at all — that is the point of 〜てある.",
+        "Look around your room and describe it out loud in 5 sentences with 〜てあります: かべにポスターがはってあります。つくえの上に本がおいてあります。…"
+      ],
+      "flag": null
+    },
+    {
+      "id": "21-2-b",
+      "gc": null,
+      "title": "〜間に (あいだに)",
+      "gloss": "while…, during… (at some point inside a period)",
+      "explanation": "〜あいだに says that an event happens **at some point inside a period of time**. The first part sets the period; the event goes in the PREDICATE at the end.\n• 母がねているあいだに、ケーキを作りました。 = While my mother was sleeping, I made a cake.\n\n**How to build the period:**\n• Verb: usually the **ている-form** or another verb of state (a situation that lasts): ねている, 出かけている, 日本にいる. Keep it in the **present** form even when the story is in the past — the past goes only at the end (作りました).\n• Noun + の: 夏休みのあいだに (during the summer vacation), 留守のあいだに (while I'm away from home).\n• Inside the period, the person takes **が**, not は: 母**が**ねているあいだに. It can be a different person from the one in the main sentence.\n\n**あいだ × あいだに.** Without に, the action fills **the whole period**: 子どもがねているあいだ、ずっと本を読んでいました (the whole time the child was sleeping, I was reading). With に, it happens **once, somewhere inside** the period: 子どもがねているあいだに、そうじをしました.\n\n**あいだに × ながら (lesson 18-3).** ながら is **one person** doing two things at the same time: 音楽を聞きながら勉強します. あいだに can have two different people, and the event just falls inside the period.\n• It is written 間に or あいだに; both are common. The examples here use kana.",
+      "structure": "[person が verb-ている／noun の] あいだに、[event]。",
+      "examples": [
+        { "jp": "母がねているあいだに、ケーキを作りました。", "kana": "ははがねているあいだに、ケーキをつくりました。", "romaji": "Haha ga nete iru aida ni, kēki o tsukurimashita.", "en": "While my mother was sleeping, I made a cake." },
+        { "jp": "日本にいるあいだに、一度京都に行きたいです。", "kana": "にほんにいるあいだに、いちどきょうとにいきたいです。", "romaji": "Nihon ni iru aida ni, ichido Kyōto ni ikitai desu.", "en": "While I'm in Japan, I want to go to Kyoto at least once." },
+        { "jp": "私が出かけているあいだに、友だちが来ました。", "kana": "わたしがでかけているあいだに、ともだちがきました。", "romaji": "Watashi ga dekakete iru aida ni, tomodachi ga kimashita.", "en": "While I was out, a friend came by." }
+      ],
+      "pitfalls": [
+        "The person inside the period takes が: 母はねているあいだに ✗ → 母がねているあいだに ✓.",
+        "A one-time event needs に: 出かけているあいだ、友だちが来ました ✗ → 出かけているあいだに、友だちが来ました ✓. Without に, the action must last the whole period.",
+        "Don't use ながら for two different people: 母がねながら、ケーキを作りました ✗ (that says your mother made a cake while sleeping!) → 母がねているあいだに、ケーキを作りました ✓.",
+        "A noun needs の: 夏休みあいだに ✗ → 夏休みのあいだに ✓."
+      ],
+      "howToStudy": [
+        "Tap 🔬 on example 3: 私が shows up as SUBJECT and 出かけている as DESCRIBES NEXT — the whole clause describes the period, and あいだに shows up as TIME. Then comes the event: 友だちが (SUBJECT) and 来ました (PREDICATE). Two subjects in one sentence: read the predicate first.",
+        "Say 3 true sentences out loud about what happens while you are away or asleep: 私がねているあいだに、〜。 / 私が会社にいるあいだに、〜。",
+        "Write one pair in your notebook: 〜あいだ、ずっと〜ていました and 〜あいだに、〜ました. Next to each, write in English how long the action lasted."
+      ],
+      "flag": null
+    },
+    {
+      "id": "21-2-c",
+      "gc": null,
+      "title": "Adjective + する",
+      "gloss": "to make something [adjective]",
+      "explanation": "Adjective + する says that **someone makes something** cleaner, smaller, shorter… The thing that changes is the **OBJECT (を)**, and the adjective says **how it ends up**.\n• い-adjective: drop い, add **く** + する → 小さい → 小さ**く**する, 短い → 短**く**する, 安い → 安**く**する.\n• な-adjective: add **に** + する → きれい → きれい**に**する, しずか → しずか**に**する.\n• いい becomes **よく**する.\n\n**する × なる (lesson 10-3).** The adjective forms are the same; the point of view is different:\n• 部屋が**きれいに**なりました。 — The room became clean. The room is the SUBJECT; the change just happened, and the sentence says nothing about who did it.\n• 部屋を**きれいに**しました。 — I made the room clean. Someone acted on it, so the room is the OBJECT.\n• 音が小さくなりました (the sound got quieter) × 音を小さくしました (I turned the volume down).\n\nVery useful in requests: 〜くしてください / 〜にしてください (make it…, please).",
+      "structure": "[thing] を [い-adj → 〜く／な-adj → 〜に] する。",
+      "examples": [
+        { "jp": "友だちが来るので、部屋をきれいにしました。", "kana": "ともだちがくるので、へやをきれいにしました。", "romaji": "Tomodachi ga kuru node, heya o kirei ni shimashita.", "en": "A friend is coming over, so I tidied up my room. [lit. made the room clean]" },
+        { "jp": "テレビの音を小さくしてください。", "kana": "テレビのおとをちいさくしてください。", "romaji": "Terebi no oto o chiisaku shite kudasai.", "en": "Please turn the TV down. [lit. make the TV's sound small]" },
+        { "jp": "かみを短くしました。", "kana": "かみをみじかくしました。", "romaji": "Kami o mijikaku shimashita.", "en": "I got my hair cut short. [lit. made my hair short]" }
+      ],
+      "pitfalls": [
+        "Don't mix up the two kinds of adjective: きれいくしました ✗ → きれいにしました ✓ (きれい is a な-adjective, even though it ends in い).",
+        "する needs the thing with を; なる uses が: 部屋がきれいにしました ✗ → 部屋をきれいにしました ✓ (or 部屋がきれいになりました ✓).",
+        "Drop the い before く: 小さいくしてください ✗ → 小さくしてください ✓. And いい is irregular: いくしてください ✗ → よくしてください ✓."
+      ],
+      "howToStudy": [
+        "Say 4 pairs out loud, なる → する: 部屋がきれいになりました → 部屋をきれいにしました; 音が小さくなりました → 音を小さくしました… Notice that が becomes を.",
+        "Tap 🔬 on example 2: 音を shows up as OBJECT, 小さく as HOW / HOW OFTEN — here it tells you how the sound ends up — and してください as the PREDICATE (request).",
+        "Make 3 requests you could really use in Japan, out loud: もう少し安くしてくれませんか。 / 音を大きくしてください。 / 部屋をもう少しあたたかくしてください。"
+      ],
+      "flag": null
+    },
+    {
+      "id": "21-2-d",
+      "gc": null,
+      "title": "〜てほしい",
+      "gloss": "I want (someone) to do…",
+      "explanation": "You already know two kinds of wanting: ほしい for **things** (新しいパソコンがほしいです, lesson 14-1) and 〜たい for **your own actions** (日本に行きたいです, lesson 11-1). 〜てほしい is the third: **you want someone else to do something**.\n• Build it with the て-form + ほしい: 来る → 来**てほしい**, 勉強する → 勉強し**てほしい**.\n• The person you want to act takes **に**: 妹**に**もっと勉強してほしいです (I want my little sister to study harder).\n• \"I don't want you to…\": the negative て-form **〜ないで** + ほしい: 言わ**ないで**ほしいです.\n• ほしい is an い-adjective, so it conjugates like one: 〜てほしくないです, 〜てほしかったです (I wanted…).\n• With things that are not people, you will often hear が: 早く雨がやんでほしいです (I want the rain to stop soon).\n\n**The blocks:** [person]に | ([object]を) | [verb-て]ほしいです. The PREDICATE is 〜てほしいです: read it first (I want…), then ask \"whom?\" (the に-block) and \"to do what?\" (the verb).\n• Like 〜たい, it states **your** wish directly. With your teacher or your boss, saying 〜てほしいです to their face can sound pushy; ask politely with 〜ていただけませんか (lesson 16-2).",
+      "structure": "[person] に ([thing] を) [verb in the て-form] ほしいです · 〜ないでほしいです",
+      "examples": [
+        { "jp": "ルームメイトにもっと部屋をきれいにしてほしいです。", "kana": "ルームメイトにもっとへやをきれいにしてほしいです。", "romaji": "Rūmumeito ni motto heya o kirei ni shite hoshii desu.", "en": "I want my roommate to keep the room cleaner. [lit. I want my roommate to make the room cleaner]" },
+        { "jp": "妹にはもっと勉強してほしいです。", "kana": "いもうとにはもっとべんきょうしてほしいです。", "romaji": "Imōto ni wa motto benkyō shite hoshii desu.", "en": "I want my little sister to study harder." },
+        { "jp": "このことはだれにも言わないでほしいです。", "kana": "このことはだれにもいわないでほしいです。", "romaji": "Kono koto wa dare ni mo iwanaide hoshii desu.", "en": "I don't want you to tell anyone about this." }
+      ],
+      "pitfalls": [
+        "The person you want to act takes に: 妹が勉強してほしいです ✗ → 妹に勉強してほしいです ✓.",
+        "〜たい is only for what YOU want to do: 妹に勉強したいです ✗ → 妹に勉強してほしいです ✓.",
+        "The negative uses 〜ないで: 言わなくてほしいです ✗ → 言わないでほしいです ✓.",
+        "Too direct for a superior: 先生、この漢字を説明してほしいです ✗ → 先生、この漢字を説明していただけませんか ✓ (lesson 16-2)."
+      ],
+      "howToStudy": [
+        "Tap 🔬 on example 1: ルームメイトに shows up as TARGET — the person you want to act — 部屋を as OBJECT, きれいに as HOW / HOW OFTEN (point 4c again!) and してほしいです as the PREDICATE. Read from the end: I want → whom? → to do what?",
+        "Say out loud 3 wishes about other people: one about your family (母に〜てほしいです), one about a friend, and one with 〜ないでほしいです.",
+        "In your notebook, write the same idea three ways: 日本に行きたいです (me), 友だちに日本に来てほしいです (someone else), 日本のカメラがほしいです (a thing). Underline the particle before each predicate."
+      ],
+      "flag": null
+    }
+  ],
+  "media": [
+    { "order": 1, "kind": "reading", "title": "Genki II · Lesson 21: the grammar notes on 〜てある, 〜間に, Adjective + する and 〜てほしい", "where": "Your Genki II textbook", "url": "", "when": "Before this lesson or between the two sessions. The passive of Lesson 21 is in lesson 21-1." },
+    { "order": 2, "kind": "video", "title": "Game Gengo: 〜てある (JLPT N4 grammar)", "where": "YouTube · Game Gengo channel", "url": "", "search": "Game Gengo てある JLPT N4 grammar", "when": "Optional, after point 4a, if 〜てある × 〜ている still feels the same" }
+  ],
+  "homework": {
+    "intro": "Do it by hand in your notebook. Write the Japanese with the kanji you know and kana for the rest. Only then open the answer key, item by item. Circle what you got wrong and redo it the next day. If you have the Genki II Workbook, do this lesson's exercises too.",
+    "tasks": [
+      {
+        "id": "h1",
+        "type": "fill",
+        "prompt": "Complete with 〜てあります or 〜ています, using the right verb of the pair in brackets. Decide first: did someone do it on purpose, or is it just a description?",
+        "items": [
+          { "q": "お客さんが来るので、げんかんのドアが（開ける／開く）＿＿。 → someone got ready for the guests", "a": { "jp": "お客さんが来るので、げんかんのドアが開けてあります。", "kana": "おきゃくさんがくるので、げんかんのドアがあけてあります。", "romaji": "Okyakusan ga kuru node, genkan no doa ga akete arimasu." }, "note": "Someone opened it on purpose, for the guests: transitive + てある." },
+          { "q": "風でまどが（開ける／開く）＿＿。 → the wind did it", "a": { "jp": "風でまどが開いています。", "kana": "かぜでまどがあいています。", "romaji": "Kaze de mado ga aite imasu." }, "note": "Nobody did it on purpose: intransitive + ている." },
+          { "q": "かべに日本の地図が（はる）＿＿。 → someone put it up", "a": { "jp": "かべに日本の地図がはってあります。", "kana": "かべににほんのちずがはってあります。", "romaji": "Kabe ni Nihon no chizu ga hatte arimasu." } },
+          { "q": "電気が（つける／つく）＿＿。 → you just see that it is on", "a": { "jp": "電気がついています。", "kana": "でんきがついています。", "romaji": "Denki ga tsuite imasu." }, "note": "Just a description: intransitive つく + ている. 電気がつけてあります would add \"someone left it on, on purpose\"." },
+          { "q": "ビールはもう（ひやす）＿＿よ。 → you did it before the party", "a": { "jp": "ビールはもうひやしてありますよ。", "romaji": "Bīru wa mō hiyashite arimasu yo." }, "note": "ひやす is transitive (to chill). The beer is ready: 〜てある." }
+        ]
+      },
+      {
+        "id": "h2",
+        "type": "transform",
+        "prompt": "Join the two sentences with 〜あいだに (or 〜あいだ, where it says \"the whole time\"). Put the verb before あいだ in the ている-form (or use noun + の), with the person in が, and keep the past only at the end.",
+        "items": [
+          { "q": "母が買い物をしていました。＋ 私は部屋をそうじしました。", "a": { "jp": "母が買い物をしているあいだに、私は部屋をそうじしました。", "kana": "ははがかいものをしているあいだに、わたしはへやをそうじしました。", "romaji": "Haha ga kaimono o shite iru aida ni, watashi wa heya o sōji shimashita." } },
+          { "q": "私は出かけていました。＋ どろぼうが部屋に入りました。", "a": { "jp": "私が出かけているあいだに、どろぼうが部屋に入りました。", "kana": "わたしがでかけているあいだに、どろぼうがへやにはいりました。", "romaji": "Watashi ga dekakete iru aida ni, dorobō ga heya ni hairimashita." }, "note": "Inside the period, 私は becomes 私が. With the passive of lesson 21-1 you could also say 私が出かけているあいだに、どろぼうに入られました (I got burgled while I was out)." },
+          { "q": "夏休みです。＋ 日本語の本を三さつ読みたいです。", "a": { "jp": "夏休みのあいだに、日本語の本を三さつ読みたいです。", "kana": "なつやすみのあいだに、にほんごのほんをさんさつよみたいです。", "romaji": "Natsuyasumi no aida ni, nihongo no hon o sansatsu yomitai desu." }, "note": "A noun takes の before あいだに." },
+          { "q": "赤ちゃんがねていました。＋ 母はずっとテレビを見ていました。 → the whole time", "a": { "jp": "赤ちゃんがねているあいだ、母はずっとテレビを見ていました。", "kana": "あかちゃんがねているあいだ、はははずっとテレビをみていました。", "romaji": "Akachan ga nete iru aida, haha wa zutto terebi o mite imashita." }, "note": "The action fills the whole period: あいだ without に." }
+        ]
+      },
+      {
+        "id": "h3",
+        "type": "translate",
+        "prompt": "Translate into Japanese, with adjective + する or 〜てほしい.",
+        "items": [
+          { "q": "Please make the room a little warmer.", "a": { "jp": "部屋をもう少しあたたかくしてください。", "kana": "へやをもうすこしあたたかくしてください。", "romaji": "Heya o mō sukoshi atatakaku shite kudasai." } },
+          { "q": "I cleaned up the kitchen. [made the kitchen clean]", "a": { "jp": "台所をきれいにしました。", "kana": "だいどころをきれいにしました。", "romaji": "Daidokoro o kirei ni shimashita." }, "note": "な-adjective: きれい + に + する." },
+          { "q": "Could you make it a little cheaper?", "a": { "jp": "もう少し安くしてくれませんか。", "kana": "もうすこしやすくしてくれませんか。", "romaji": "Mō sukoshi yasuku shite kuremasen ka." }, "note": "い-adjective: 安い → 安く + する. 〜てくれませんか asks a favor." },
+          { "q": "I want my father to quit smoking.", "a": { "jp": "父にたばこをやめてほしいです。", "kana": "ちちにたばこをやめてほしいです。", "romaji": "Chichi ni tabako o yamete hoshii desu." } },
+          { "q": "I want you to come to my party.", "a": { "jp": "私のパーティーに来てほしいです。", "kana": "わたしのパーティーにきてほしいです。", "romaji": "Watashi no pātī ni kite hoshii desu." }, "note": "\"You\" is dropped, as usual. With a name: マリアさんに来てほしいです." },
+          { "q": "I don't want my roommate to use my computer.", "a": { "jp": "ルームメイトに私のパソコンを使わないでほしいです。", "kana": "ルームメイトにわたしのパソコンをつかわないでほしいです。", "romaji": "Rūmumeito ni watashi no pasokon o tsukawanaide hoshii desu." }, "note": "Negative: 〜ないで + ほしい." }
+        ]
+      },
+      {
+        "id": "h4",
+        "type": "produce",
+        "prompt": "A guest is coming. Describe your home in 5–6 sentences: at least 2 with 〜てあります, 1 with adjective + する, 1 with 〜あいだに and 1 with 〜てほしい. Then read it aloud and record it on your phone.",
+        "items": [
+          { "q": "Model (match its structure, not its words):", "a": { "jp": "あした友だちが家に来ます。部屋はもうきれいにしました。テーブルの上に花がかざってあります。飲み物もれいぞうこにひやしてあります。友だちが家にいるあいだに、いっしょにケーキを作りたいです。友だちに私の町を好きになってほしいです。", "kana": "あしたともだちがいえにきます。へやはもうきれいにしました。テーブルのうえにはながかざってあります。のみものもれいぞうこにひやしてあります。ともだちがいえにいるあいだに、いっしょにケーキをつくりたいです。ともだちにわたしのまちをすきになってほしいです。", "romaji": "Ashita tomodachi ga ie ni kimasu. Heya wa mō kirei ni shimashita. Tēburu no ue ni hana ga kazatte arimasu. Nomimono mo reizōko ni hiyashite arimasu. Tomodachi ga ie ni iru aida ni, issho ni kēki o tsukuritai desu. Tomodachi ni watashi no machi o suki ni natte hoshii desu.", "en": "Tomorrow a friend is coming to my house. I've already tidied up my room. There are flowers set out on the table. The drinks are chilling in the fridge, too. While my friend is at my place, I want to make a cake together. I want my friend to come to like my town." }, "note": "Check: てある with a transitive verb and the thing in が (or は / も), きれいに + する, the person inside あいだに with が, and the person you want to act with に." }
+        ]
+      }
+    ],
+    "workbook": []
+  },
+  "practice": [
+    { "tool": "Wagotabi", "what": "Play at the N4 level and hunt the dialogues for 〜てある, 〜あいだに and 〜てほしい. When you find one, pause and say out loud: who did it on purpose? what happened during what? who is supposed to act? Copy 2 lines into your notebook.", "min": 15 },
+    { "tool": "ヅオリンゴー", "what": "Drills → 🔬 Anatomy → 🔬 Analyze: paste ドアが開いています and ドアが開けてあります and compare the two PREDICATES. Then 🧱 Build from the end: 5 sentences.", "min": 10 },
+    { "tool": "ヅオリンゴー", "what": "Journal: write 2 sentences with 〜てあります about your room and 2 with 〜てほしい about people you know; check them with \"Anatomy of what I wrote\".", "min": 10 },
+    { "tool": "Shadowing", "what": "Tap 🔊 on each example of this lesson and repeat along 3 times. In 開けてあります, don't swallow the あ: あ・け・て・あ・り・ま・す.", "min": 5 },
+    { "tool": "Speaking", "what": "Record a 30-second tour of your room with 〜てあります, and end with one wish about the people you live with (〜てほしいです).", "min": 5 }
+  ],
+  "culture": {
+    "title": "The Japanese house: tatami and futon",
+    "titleJp": "たたみとふとん",
+    "body": "Many Japanese homes still have at least one room with **たたみ**: thick mats with a core of rice straw (or, today, often other materials) covered with woven rush (いぐさ), which smell a little like fresh grass when they are new. Rooms are often measured in mats: a 六畳 (ろくじょう) room is six mats, roughly 10 square meters. You walk on tatami in socks or bare feet — not in slippers — and people traditionally avoid stepping on the cloth edges (へり). In a tatami room, people often sleep on a **ふとん** laid out on the floor at night (ふとんをしく) and folded away into a closet (おしいれ) in the morning, so the same room can be a living room by day and a bedroom by night. On sunny days you can see futons hung out on balconies to air (ふとんをほす). At a ryokan, the staff often lay out the futons while you are at dinner.",
+    "try": "Imagine you come back to your ryokan room after dinner. Describe it out loud with 〜てあります: ふとんがしいてあります。お茶が用意してあります。まどがしめてあります。 (用意する = to prepare)"
+  },
+  "checklist": [
+    "I can describe a room in 4 sentences with 〜てあります without looking, always with a transitive verb.",
+    "I can explain the difference between ドアが開けてあります and ドアが開いています.",
+    "I can join two events with 〜あいだに, with the person inside in が and the past only at the end.",
+    "I know when to drop the に: あいだ (the whole time) × あいだに (at some point).",
+    "I can make something [adjective] with 〜くする / 〜にする, and I switch が + なる to を + する correctly.",
+    "I can say what I want someone to do, or not to do, with 〜てほしい / 〜ないでほしい, with the person in に.",
+    "I did the homework, checked it against the answer key and redid what I got wrong.",
+    "If I have the Genki II Workbook, I did its exercises on these four points of Lesson 21."
+  ]
+}

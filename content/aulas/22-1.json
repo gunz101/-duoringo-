@@ -1,0 +1,213 @@
+{
+  "id": "22-1",
+  "unit": "G2-L22",
+  "genki": { "book": "Genki II", "lesson": 22, "points": ["Causative Sentences"] },
+  "title": "The causative",
+  "titleJp": "子どもにピアノを習わせる",
+  "canDo": [
+    "I can form the causative of any verb: 食べさせる, 行かせる, 習わせる, させる, 来させる.",
+    "I can say that someone makes or lets another person do something, with the one in charge in は and the one who acts in に or を.",
+    "I can tell from the context whether a causative sentence means \"make\" or \"let\".",
+    "I can say that someone kindly let me do something (〜させてくれました) and that I let someone do something (〜させてあげました).",
+    "I can ask to be allowed to do something with 〜させてください (a first look; more in lesson P-11)."
+  ],
+  "duration": {
+    "total": "60–75 min",
+    "blocks": [
+      { "t": "Warm-up: say the passive of 食べる, 行く, 習う, する and くる out loud (lesson 21-1) — the causative uses the same a-sound", "min": 5 },
+      { "t": "Vocabulary: tap 🔊 on each word and repeat it twice", "min": 10 },
+      { "t": "Grammar 4a: forming the causative, with the conjugation table in your notebook and one 🔬", "min": 15 },
+      { "t": "Grammar 4b and 4c: making × letting, the particles, and 〜させてあげる／くれる, each with one 🔬", "min": 15 },
+      { "t": "Lesson 22 video (block 6), only the part on the causative", "min": 10 },
+      { "t": "Notebook homework + checking it against the answer key", "min": 15 },
+      { "t": "Checklist (block 10) + write your questions in the lesson notebook", "min": 5 }
+    ]
+  },
+  "prereqs": {
+    "aulas": ["21-2"],
+    "skills": [
+      "Forming the passive (lesson 21-1). For う-verbs the causative is built on the same a-sound: 行かない → 行かれる → 行かせる.",
+      "Telling transitive verbs (with を) from intransitive ones (lesson 18-1): that decides the particle of the person who acts.",
+      "Using 〜てあげる and 〜てくれる for favors (lesson 16-1): 〜させてあげる and 〜させてくれる are built on them.",
+      "Making requests with 〜てください (lesson 06-2)."
+    ],
+    "vocab": [
+      { "jp": "習う", "kana": "ならう", "romaji": "narau", "en": "to learn (from someone), to take lessons in" },
+      { "jp": "子ども", "kana": "こども", "romaji": "kodomo", "en": "child" },
+      { "jp": "親", "kana": "おや", "romaji": "oya", "en": "parent" },
+      { "jp": "両親", "kana": "りょうしん", "romaji": "ryōshin", "en": "(my) parents" },
+      { "jp": "教育", "kana": "きょういく", "romaji": "kyōiku", "en": "education" },
+      { "jp": "じゅく", "kana": "じゅく", "romaji": "juku", "en": "cram school (after regular school)" },
+      { "jp": "じゅけん", "kana": "じゅけん", "romaji": "juken", "en": "preparing for and taking entrance exams" },
+      { "jp": "漢字", "kana": "かんじ", "romaji": "kanji", "en": "kanji, Chinese characters" },
+      { "jp": "作文", "kana": "さくぶん", "romaji": "sakubun", "en": "composition, essay" },
+      { "jp": "スピーチ", "kana": "スピーチ", "romaji": "supīchi", "en": "speech (スピーチをする = to give a speech)" },
+      { "jp": "じしょ", "kana": "じしょ", "romaji": "jisho", "en": "dictionary" },
+      { "jp": "使う", "kana": "つかう", "romaji": "tsukau", "en": "to use" },
+      { "jp": "えらぶ", "kana": "えらぶ", "romaji": "erabu", "en": "to choose" },
+      { "jp": "考える", "kana": "かんがえる", "romaji": "kangaeru", "en": "to think (about), to consider" },
+      { "jp": "心配（する）", "kana": "しんぱい（する）", "romaji": "shinpai (suru)", "en": "worry; to worry" },
+      { "jp": "笑う", "kana": "わらう", "romaji": "warau", "en": "to laugh" },
+      { "jp": "おもしろい話", "kana": "おもしろいはなし", "romaji": "omoshiroi hanashi", "en": "a funny story, an interesting story" },
+      { "jp": "買い物", "kana": "かいもの", "romaji": "kaimono", "en": "shopping" },
+      { "jp": "一人で", "kana": "ひとりで", "romaji": "hitori de", "en": "alone, by oneself" },
+      { "jp": "旅行（する）", "kana": "りょこう（する）", "romaji": "ryokō (suru)", "en": "trip; to travel" },
+      { "jp": "店長", "kana": "てんちょう", "romaji": "tenchō", "en": "store manager" },
+      { "jp": "部長", "kana": "ぶちょう", "romaji": "buchō", "en": "department manager, boss" },
+      { "jp": "さんぽ（する）", "kana": "さんぽ（する）", "romaji": "sanpo (suru)", "en": "walk; to take a walk (犬のさんぽ = walking the dog)" }
+    ]
+  },
+  "grammar": [
+    {
+      "id": "22-1-a",
+      "gc": null,
+      "title": "Forming the causative: させる / せる",
+      "gloss": "to make / let (someone) do",
+      "explanation": "The causative says that **someone in charge makes or lets another person do something**. The verb gets a new ending:\n• **る-verbs:** drop る, add **させる** → 食べる → 食べ**させる**, 見る → 見**させる**.\n• **う-verbs:** change the final u-sound to its **a-sound** and add **せる** → 行く → 行**かせる**, 書く → 書**かせる**, 待つ → 待**たせる**, 読む → 読**ませる**. Verbs in う take **わ**: 習う → 習**わせる**, 使う → 使**わせる**. It is the same a-sound as in the ない-form and the passive (lesson 21-1).\n• **する → させる** (勉強する → 勉強**させる**). **くる → こさせる** (来させる).\n\nEvery causative ends in 〜せる, so it **conjugates like a る-verb**: 行かせます, 行かせました, 行かせない, 行かせて.\n\n**The blocks:**\n• **[the one in charge] は** — the TOPIC: the parent, the teacher, the boss.\n• **[the one who acts] に** (sometimes を, see 4b) — the person who actually does the action.\n• ([object] を) + **[causative verb]** — the PREDICATE, at the end.\n• 先生は学生に漢字を書かせます。 = The teacher makes the students write kanji. Read from the end: makes (someone) write → write what? kanji → who writes? the students (に) → who decides? the teacher (は).\n\n**Don't confuse it with the passive.** Passive 〜られる / 〜れる: something is done **to** the topic (書かれる = be written). Causative 〜させる / 〜せる: the topic makes **someone else** act (書かせる = make someone write).",
+      "structure": "[the one in charge] は [the one who acts] に ([object] を) [causative]。 · 食べさせる · 行かせる · 習わせる · させる · 来させる",
+      "examples": [
+        { "jp": "先生は学生に毎日漢字を書かせます。", "kana": "せんせいはがくせいにまいにちかんじをかかせます。", "romaji": "Sensei wa gakusei ni mainichi kanji o kakasemasu.", "en": "The teacher makes the students write kanji every day." },
+        { "jp": "田中さんは子どもにピアノを習わせています。", "kana": "たなかさんはこどもにピアノをならわせています。", "romaji": "Tanaka-san wa kodomo ni piano o narawasete imasu.", "en": "Mr./Ms. Tanaka has their child take piano lessons." },
+        { "jp": "先生は学生に日本語でスピーチをさせました。", "kana": "せんせいはがくせいににほんごでスピーチをさせました。", "romaji": "Sensei wa gakusei ni nihongo de supīchi o sasemashita.", "en": "The teacher had the students give a speech in Japanese." }
+      ],
+      "pitfalls": [
+        "る-verbs take させる, not せる: 食べせる ✗ → 食べさせる ✓.",
+        "Verbs in う take わ: 習あせる ✗ → 習わせる ✓ (like 習わない).",
+        "くる becomes こさせる, with こ: きさせる ✗ → 来させる (こさせる) ✓.",
+        "Don't mix up the endings: to say the teacher made them write, 先生は学生に作文を書かれました ✗ (a passive ending) → 先生は学生に作文を書かせました ✓."
+      ],
+      "howToStudy": [
+        "In your notebook, make a table with 4 columns — dictionary form → ない-form → passive → causative — for 食べる, 行く, 書く, 習う, 待つ, する and くる. For the う-verbs, the last three columns share the same a-sound.",
+        "Tap 🔬 on example 1: 先生は = TOPIC (the one in charge), 学生に = TARGET (the one who actually writes), 毎日 = TIME, 漢字を = OBJECT, 書かせます = PREDICATE. Ask the two questions every causative needs: who decides? who acts?",
+        "Say out loud, fast, the causative of 10 verbs while looking only at the dictionary form; then the passive of the same 10, to keep the two endings apart."
+      ],
+      "flag": "Check in your Genki II that this lesson has these points in this order."
+    },
+    {
+      "id": "22-1-b",
+      "gc": null,
+      "title": "Making × letting (and に or を?)",
+      "gloss": "made to do / allowed to do",
+      "explanation": "The causative has **two meanings**, and the context tells them apart:\n• **Making** (forcing): 母は私を買い物に行かせました。 — My mother made me go shopping.\n• **Letting** (allowing): テストの時、先生は学生にじしょを使わせました。 — During the test, the teacher let the students use dictionaries.\n• To make \"letting\" clear and kind, Japanese usually adds a favor verb: 〜させてくれる / 〜させてあげる (point 4c).\n\n**Who acts: に or を?** Take this as a **tendency**, not a strict rule:\n• **Transitive verb** (it already has an object with を): the one who acts takes **に**, so that the clause doesn't get two を: 先生は学生**に**漢字**を**書かせます.\n• **Intransitive verb** (no object: 行く, 来る, 立つ, 帰る…): the one who acts can take **を** or **に**. を tends to sound like \"made (whether they wanted to or not)\"; に tends to sound like \"let\", respecting what the person wanted. 母は私**を**買い物に行かせました — she sent me. Here を also avoids two に in a row (私に買い物に).\n• With feelings, **を** is the usual choice: みんな**を**笑わせる (make everyone laugh), 母**を**心配させる (make my mother worry).\n\nIn 🔬, the one who acts shows up as TARGET when it has に and as OBJECT when it has を. Either way, it is the person who does the action; the TOPIC is the one in charge.",
+      "structure": "transitive: [the one in charge] は [the one who acts] に [object] を [causative] · intransitive: [the one in charge] は [the one who acts] を／に [causative]",
+      "examples": [
+        { "jp": "母は私を買い物に行かせました。", "kana": "はははわたしをかいものにいかせました。", "romaji": "Haha wa watashi o kaimono ni ikasemashita.", "en": "My mother made me go shopping. [she sent me]" },
+        { "jp": "テストの時、先生は学生にじしょを使わせました。", "kana": "テストのとき、せんせいはがくせいにじしょをつかわせました。", "romaji": "Tesuto no toki, sensei wa gakusei ni jisho o tsukawasemashita.", "en": "During the test, the teacher let the students use dictionaries." },
+        { "jp": "田中さんはいつもおもしろい話をして、みんなを笑わせます。", "kana": "たなかさんはいつもおもしろいはなしをして、みんなをわらわせます。", "romaji": "Tanaka-san wa itsumo omoshiroi hanashi o shite, minna o warawasemasu.", "en": "Tanaka-san always tells funny stories and makes everyone laugh." }
+      ],
+      "pitfalls": [
+        "Two を in one clause: 先生は学生を漢字を書かせました ✗ → 先生は学生に漢字を書かせました ✓. With a transitive verb, the one who acts takes に.",
+        "The one in charge is the topic, not the one who acts. To say your mother sent you: 私は母に買い物に行かせました ✗ (that says YOU sent your mother) → 母は私を買い物に行かせました ✓.",
+        "The causative alone can sound like \"made\". To thank your father for letting you drive: 父は私に車を運転させました ✗ (it may sound like he forced you) → 父は私に車を運転させてくれました ✓ (4c)."
+      ],
+      "howToStudy": [
+        "Tap 🔬 on example 1, then on example 2: the one who acts is 私を (OBJECT) in the first and 学生に (TARGET) in the second. Both are the person who does the action; in both, the TOPIC is the one in charge.",
+        "For each example, say out loud in English \"made\" or \"let\", and what in the context told you (a test, a mother sending you on an errand…).",
+        "Say 2 true sentences with feelings: 子どものとき、よく母を心配させました。 / 〜さんはいつもみんなを笑わせます。"
+      ],
+      "flag": "The choice between を and に for the one who acts, with intransitive verbs, is shown here as a tendency (を = made, に = let). In real speech both are heard, and other things matter too, such as avoiding two に in a row. With transitive verbs, に is the rule."
+    },
+    {
+      "id": "22-1-c",
+      "gc": null,
+      "title": "〜させてあげる / 〜させてくれる",
+      "gloss": "to let someone do (as a favor)",
+      "explanation": "Put the causative in the て-form and add the favor verbs of lesson 16-1. Now \"let\" is **clear and kind**: the person wanted to do it, and someone allowed it.\n• **〜させてくれる** — someone let **me** (or my family) do something: 両親は私に好きな大学をえらばせてくれました (my parents let me choose the university I wanted). It says **I'm grateful**.\n• **〜させてあげる** — I (or someone) let **another person** do something: 私は妹に私のパソコンを使わせてあげました (I let my little sister use my computer). As with 〜てあげる, saying it to the person's face can sound like you're showing off your kindness, so use it mostly when you tell the story to others.\n\n**The blocks** are the same as before: [the one who allows] は | [the one who acts] に | ([object] を) | 〜させてくれました／あげました. The PREDICATE now says two things: allowed + as a favor.\n\n**A first look at 〜させてください.** Causative て-form + ください = **\"please let me…\"**. It is how you ask permission to do something yourself, and it is very polite: ちょっと考えさせてください (let me think about it a little). You will study it in depth, together with 〜させていただきます, in lesson P-11.",
+      "structure": "[the one who allows] は [the one who acts] に ([object] を) [causative て-form] くれる／あげる · [causative て-form] ください (please let me…)",
+      "examples": [
+        { "jp": "両親は私に好きな大学をえらばせてくれました。", "kana": "りょうしんはわたしにすきなだいがくをえらばせてくれました。", "romaji": "Ryōshin wa watashi ni suki na daigaku o erabasete kuremashita.", "en": "My parents let me choose the university I wanted." },
+        { "jp": "私は妹に私のパソコンを使わせてあげました。", "kana": "わたしはいもうとにわたしのパソコンをつかわせてあげました。", "romaji": "Watashi wa imōto ni watashi no pasokon o tsukawasete agemashita.", "en": "I let my little sister use my computer." },
+        { "jp": "すみません、ちょっと考えさせてください。", "kana": "すみません、ちょっとかんがえさせてください。", "romaji": "Sumimasen, chotto kangaesasete kudasai.", "en": "Sorry, please let me think about it a little." }
+      ],
+      "pitfalls": [
+        "くれる is for favors toward you, あげる toward others: 両親は私に大学をえらばせてあげました ✗ → 両親は私に大学をえらばせてくれました ✓.",
+        "Don't forget the causative: 両親は私に好きな大学をえらんでくれました ✗ (that says your parents chose it for you!) → えらばせてくれました ✓ (they let you choose).",
+        "To ask permission for yourself, use the causative: ちょっと考えてください ✗ (that asks the OTHER person to think) → ちょっと考えさせてください ✓ (let ME think)."
+      ],
+      "howToStudy": [
+        "Tap 🔬 on example 1: 両親は = TOPIC (the ones who allowed), 私に = TARGET (the one who chose), 好きな = DESCRIBES NEXT, 大学を = OBJECT, えらばせてくれました = PREDICATE. Read from the end: kindly let (me) choose → choose what? → who chose? → who allowed?",
+        "Say out loud 3 things your parents (or someone else) let you do as a child, with 〜させてくれました, and 1 thing you let someone do, with 〜させてあげました.",
+        "Practice 3 permission requests out loud that you could use in class or at work: ちょっと考えさせてください。 / このじしょを使わせてください。 / 私にやらせてください。"
+      ],
+      "flag": null
+    }
+  ],
+  "media": [
+    { "order": 1, "kind": "reading", "title": "Genki II · Lesson 22: the dialogue, vocabulary and grammar notes on Causative Sentences", "where": "Your Genki II textbook", "url": "", "when": "Before this lesson or right after the grammar block. The other points of Lesson 22 are in lesson 22-2." },
+    { "order": 2, "kind": "video", "title": "Japanese Ammo with Misa: the causative form (させる)", "where": "YouTube · Japanese Ammo with Misa channel", "url": "", "search": "Japanese Ammo with Misa causative form", "when": "Optional, if you want a third explanation after the grammar block" }
+  ],
+  "homework": {
+    "intro": "Do it by hand in your notebook. Write the Japanese with the kanji you know and kana for the rest. Only then open the answer key, item by item. Circle what you got wrong and redo it the next day. If you have the Genki II Workbook, do this lesson's exercises too.",
+    "tasks": [
+      {
+        "id": "h1",
+        "type": "transform",
+        "prompt": "Write the causative: first the dictionary form, then the polite past.",
+        "items": [
+          { "q": "食べる", "a": { "jp": "食べさせる → 食べさせました", "kana": "たべさせる → たべさせました", "romaji": "tabesaseru → tabesasemashita" }, "note": "る-verb: drop る, add させる." },
+          { "q": "行く", "a": { "jp": "行かせる → 行かせました", "kana": "いかせる → いかせました", "romaji": "ikaseru → ikasemashita" }, "note": "う-verb: く → か + せる." },
+          { "q": "習う", "a": { "jp": "習わせる → 習わせました", "kana": "ならわせる → ならわせました", "romaji": "narawaseru → narawasemashita" }, "note": "Verbs in う take わ, as in 習わない." },
+          { "q": "待つ", "a": { "jp": "待たせる → 待たせました", "kana": "またせる → またせました", "romaji": "mataseru → matasemashita" }, "note": "待たせる = to keep someone waiting." },
+          { "q": "勉強する", "a": { "jp": "勉強させる → 勉強させました", "kana": "べんきょうさせる → べんきょうさせました", "romaji": "benkyō saseru → benkyō sasemashita" } },
+          { "q": "来る", "a": { "jp": "来させる → 来させました", "kana": "こさせる → こさせました", "romaji": "kosaseru → kosasemashita" }, "note": "Read 来 as こ here." }
+        ]
+      },
+      {
+        "id": "h2",
+        "type": "fill",
+        "prompt": "Fill in the particle(s). For the person who acts, decide: に or を? Look first for an object with を.",
+        "items": [
+          { "q": "先生は学生＿作文を書かせました。", "a": { "jp": "に", "romaji": "ni" }, "note": "書く already has an object (作文を), so the one who acts takes に." },
+          { "q": "父は弟＿じゅくに行かせました。", "a": { "jp": "を（に）", "romaji": "o (ni)" }, "note": "Intransitive 行く: を tends to mean \"made him go\". を also avoids two に in a row (弟にじゅくに). に is heard too." },
+          { "q": "田中さんはいつもみんな＿笑わせます。", "a": { "jp": "を", "romaji": "o" }, "note": "With feelings (笑う, 心配する, なく), を is the usual choice." },
+          { "q": "母は子ども＿やさい＿食べさせました。", "a": { "jp": "に・を", "romaji": "ni, o" }, "note": "Transitive: the person takes に, the object takes を." },
+          { "q": "子どものとき、私はよく母＿心配させました。", "a": { "jp": "を", "romaji": "o" } }
+        ]
+      },
+      {
+        "id": "h3",
+        "type": "translate",
+        "prompt": "Translate into Japanese.",
+        "items": [
+          { "q": "My parents made me study every day.", "a": { "jp": "両親は私に毎日勉強させました。", "kana": "りょうしんはわたしにまいにちべんきょうさせました。", "romaji": "Ryōshin wa watashi ni mainichi benkyō sasemashita." }, "note": "私を勉強させました is also heard." },
+          { "q": "The store manager let me go home early.", "a": { "jp": "店長は早く帰らせてくれました。", "kana": "てんちょうははやくかえらせてくれました。", "romaji": "Tenchō wa hayaku kaerasete kuremashita." }, "note": "With くれる, the one who acts (me) is usually dropped: くれる already makes it clear." },
+          { "q": "I let my friend read my manga.", "a": { "jp": "私は友だちに私のまんがを読ませてあげました。", "kana": "わたしはともだちにわたしのまんがをよませてあげました。", "romaji": "Watashi wa tomodachi ni watashi no manga o yomasete agemashita." } },
+          { "q": "Please let me use the phone.", "a": { "jp": "電話を使わせてください。", "kana": "でんわをつかわせてください。", "romaji": "Denwa o tsukawasete kudasai." }, "note": "Causative て-form + ください = let me… (more in lesson P-11)." },
+          { "q": "When I was a child, I often made my mother worry.", "a": { "jp": "子どものとき、よく母を心配させました。", "kana": "こどものとき、よくははをしんぱいさせました。", "romaji": "Kodomo no toki, yoku haha o shinpai sasemashita." } }
+        ]
+      },
+      {
+        "id": "h4",
+        "type": "produce",
+        "prompt": "Write 5 sentences about your childhood: 2 things your parents made you do (〜させました), 2 things they let you do (〜させてくれました) and 1 permission request you would make today (〜させてください). Then read them aloud and record them.",
+        "items": [
+          { "q": "Model (match its structure, not its words):", "a": { "jp": "子どものとき、両親は私に毎日ピアノを習わせました。夏休みには、母は私に毎朝犬のさんぽをさせました。でも、父は私に一人で旅行させてくれました。両親は私に好きな大学をえらばせてくれました。今は、部長によく「その仕事、私にやらせてください」と言います。", "kana": "こどものとき、りょうしんはわたしにまいにちピアノをならわせました。なつやすみには、はははわたしにまいあさいぬのさんぽをさせました。でも、ちちはわたしにひとりでりょこうさせてくれました。りょうしんはわたしにすきなだいがくをえらばせてくれました。いまは、ぶちょうによく「そのしごと、わたしにやらせてください」といいます。", "romaji": "Kodomo no toki, ryōshin wa watashi ni mainichi piano o narawasemashita. Natsuyasumi ni wa, haha wa watashi ni maiasa inu no sanpo o sasemashita. Demo, chichi wa watashi ni hitori de ryokō sasete kuremashita. Ryōshin wa watashi ni suki na daigaku o erabasete kuremashita. Ima wa, buchō ni yoku \"Sono shigoto, watashi ni yarasete kudasai\" to iimasu.", "en": "When I was a child, my parents made me take piano lessons every day. During the summer vacation, my mother made me walk the dog every morning. But my father let me travel alone. My parents let me choose the university I wanted. Now I often tell my boss, \"Please let me do that job.\"" }, "note": "Check: the one in charge in は, the one who acts in に (を with feelings and some intransitive verbs), くれる when it was a favor to you, and させてください when you ask for yourself." }
+        ]
+      }
+    ],
+    "workbook": []
+  },
+  "practice": [
+    { "tool": "Wagotabi", "what": "Play at the N4 level and hunt the dialogues for verbs ending in 〜せる / 〜させる. When you find one, pause and say out loud: who is in charge? who acts? is it \"make\" or \"let\"? Copy 2 lines into your notebook.", "min": 15 },
+    { "tool": "ヅオリンゴー", "what": "Drills → 🔬 Anatomy → 🔬 Analyze: paste the 3 examples of point 4b and compare the one who acts — 私を (OBJECT) or 学生に (TARGET). Then paste 先生は学生に作文を書かせました: 学生に shows up as TARGET — the one who actually writes — and 作文を as OBJECT.", "min": 10 },
+    { "tool": "ヅオリンゴー", "what": "Journal: write your 5 childhood sentences (homework h4) and check them with \"Anatomy of what I wrote\".", "min": 10 },
+    { "tool": "Shadowing", "what": "Tap 🔊 on each example of this lesson and repeat along 3 times. させてください has 7 beats of the same length: さ・せ・て・く・だ・さ・い.", "min": 5 },
+    { "tool": "Speaking", "what": "Record 30–45 seconds about what your parents made you do and let you do. Listen and check the は of the one in charge and the に of the one who acts.", "min": 5 }
+  ],
+  "culture": {
+    "title": "Cram schools and entrance exams",
+    "titleJp": "じゅくとじゅけん",
+    "body": "In Japan, getting into a high school or a university usually means passing its **entrance exam**, and the months of preparing for it are called **じゅけん**. School is compulsory only up to junior high, but almost everyone goes on to high school, so most students in their last year of junior high take an entrance exam. To prepare, many children attend a **じゅく** — a private cram school — after regular classes, in the evening or on weekends; some start in elementary school to try for a private junior high. For universities, many students take a national common test in January and then each university's own exam. In exam season, good-luck gifts are everywhere: Kit Kat, for example, is popular because its name sounds like きっとかつ (\"you'll surely win\").",
+    "try": "Say two true sentences about your own school years with the causative: 親は私に〜させました (something they made you do) and 親は私に〜させてくれました (something they let you do). If you took extra classes, use them too: 親は私を英語のじゅくに行かせました。"
+  },
+  "checklist": [
+    "I can form the causative of 食べる, 行く, 習う, する and くる without looking.",
+    "I keep the causative (〜させる) and the passive (〜られる) apart.",
+    "I put the one in charge in は and the one who acts in に (or を), and I never use two を in one clause.",
+    "I can tell \"make\" from \"let\" by the context, and I use 〜させてくれる to say that someone kindly let me.",
+    "I can say that I let someone do something with 〜させてあげる.",
+    "I can ask permission for myself with 〜させてください.",
+    "I did the homework, checked it against the answer key and redid what I got wrong.",
+    "If I have the Genki II Workbook, I did its exercises on the causative in Lesson 22."
+  ]
+}

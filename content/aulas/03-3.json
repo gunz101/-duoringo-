@@ -2,245 +2,245 @@
   "id": "03-3",
   "unit": "G1-L03",
   "genki": { "book": "Genki I", "lesson": 3, "points": ["Time References", "Frequency Adverbs", "〜ませんか"] },
-  "title": "Quando e com que frequência",
+  "title": "When and how often",
   "titleJp": "いっしょに テニスを しませんか",
   "canDo": [
-    "Dizer a que horas e em que dia da semana faço as coisas: 七時に おきます, どようびに…",
-    "Saber quando NÃO usar に: きょう, あした, こんばん, まいにち, いつ…",
-    "Dizer com que frequência faço algo, de いつも a ぜんぜん〜ません.",
-    "Convidar alguém com 〜ませんか e aceitar (いいですね / ええ、〜ましょう) ou recusar com educação (〜は ちょっと…)."
+    "I can say at what time and on which day of the week I do things: 七時に おきます, どようびに…",
+    "I know when NOT to use に: きょう, あした, こんばん, まいにち, いつ…",
+    "I can say how often I do something, from いつも to ぜんぜん〜ません.",
+    "I can invite someone with 〜ませんか and accept (いいですね / ええ、〜ましょう) or decline politely (〜は ちょっと…)."
   ],
   "duration": {
     "total": "70–90 min",
     "blocks": [
-      { "t": "Aquecimento: dizer em voz alta as horas de 1 a 12 (Aula 01-2)", "min": 5 },
-      { "t": "Vocabulário: dias da semana, palavras de tempo e advérbios, ouvindo 🔊 e repetindo", "min": 10 },
-      { "t": "Sessão 1 · Gramática: に com horários e dias × palavras sem に (pontos 4a–4b), com 🔬", "min": 20 },
-      { "t": "Sessão 2 · Gramática: frequência e convites (pontos 4c–4d), com os exemplos em voz alta", "min": 20 },
-      { "t": "Vídeo da Lição 3 (bloco 6), pausando nos convites", "min": 10 },
-      { "t": "Lição de casa no caderno + conferir no gabarito", "min": 15 },
-      { "t": "Checklist (bloco 10) + anotar dúvidas no caderno da aula", "min": 5 }
+      { "t": "Warm-up: say the hours from 1 to 12 out loud (lesson 01-2)", "min": 5 },
+      { "t": "Vocabulary: days of the week, time words and adverbs, tapping 🔊 and repeating", "min": 10 },
+      { "t": "Session 1 · Grammar: に with clock times and days × words without に (points 4a–4b), with 🔬", "min": 20 },
+      { "t": "Session 2 · Grammar: frequency and invitations (points 4c–4d), with the examples read aloud", "min": 20 },
+      { "t": "Lesson 3 video (block 6), pausing on the invitations", "min": 10 },
+      { "t": "Notebook homework + checking it against the answer key", "min": 15 },
+      { "t": "Checklist (block 10) + write your questions in the lesson notebook", "min": 5 }
     ]
   },
   "prereqs": {
     "aulas": ["01-2", "03-1", "03-2"],
     "skills": [
-      "Dizer as horas com 〜じ (Aula 01-2).",
-      "Conjugar em 〜ます / 〜ません (Aula 03-1) e montar frases com tópico, lugar (で), destino (に) e objeto (を) na ordem certa (Aula 03-2).",
-      "A partir desta aula, os horários aparecem com kanji, como 七時 (しちじ), sempre com a leitura em kana ao lado. Os 15 kanji da Lição 3 (一 a 十, 百, 千, 万, 円, 時) ficam para as páginas de kanji do Workbook, no fim da aula.",
-      "Aula densa: faça em 2 sessões. A 1ª vai até o ponto 4b; a 2ª começa no 4c e inclui a lição de casa."
+      "Telling the time with 〜じ (lesson 01-2).",
+      "Conjugating into 〜ます / 〜ません (lesson 03-1) and building sentences with a topic, a place (で), a destination (に) and an object (を) in the right order (lesson 03-2).",
+      "From this lesson on, clock times appear in kanji, such as 七時 (しちじ), always with the kana reading next to them. The 15 kanji of Lesson 3 (一 to 十, 百, 千, 万, 円, 時) are practiced on the Workbook kanji pages at the end of the lesson.",
+      "A dense lesson: do it in 2 sessions. Session 1 goes up to point 4b; session 2 starts at 4c and includes the homework."
     ],
     "vocab": [
-      { "jp": "げつようび", "kana": "げつようび", "romaji": "getsuyōbi", "pt": "segunda-feira" },
-      { "jp": "かようび", "kana": "かようび", "romaji": "kayōbi", "pt": "terça-feira" },
-      { "jp": "すいようび", "kana": "すいようび", "romaji": "suiyōbi", "pt": "quarta-feira" },
-      { "jp": "もくようび", "kana": "もくようび", "romaji": "mokuyōbi", "pt": "quinta-feira" },
-      { "jp": "きんようび", "kana": "きんようび", "romaji": "kin'yōbi", "pt": "sexta-feira" },
-      { "jp": "どようび", "kana": "どようび", "romaji": "doyōbi", "pt": "sábado" },
-      { "jp": "にちようび", "kana": "にちようび", "romaji": "nichiyōbi", "pt": "domingo" },
-      { "jp": "〜時", "kana": "〜じ", "romaji": "-ji", "pt": "… horas (七時 = sete horas)" },
-      { "jp": "〜ごろ", "kana": "〜ごろ", "romaji": "-goro", "pt": "por volta de, lá pelas (com horário)" },
-      { "jp": "いつ", "kana": "いつ", "romaji": "itsu", "pt": "quando?" },
-      { "jp": "きょう", "kana": "きょう", "romaji": "kyō", "pt": "hoje" },
-      { "jp": "あした", "kana": "あした", "romaji": "ashita", "pt": "amanhã" },
-      { "jp": "こんばん", "kana": "こんばん", "romaji": "konban", "pt": "hoje à noite" },
-      { "jp": "まいにち", "kana": "まいにち", "romaji": "mainichi", "pt": "todo dia" },
-      { "jp": "いつも", "kana": "いつも", "romaji": "itsumo", "pt": "sempre" },
-      { "jp": "よく", "kana": "よく", "romaji": "yoku", "pt": "com frequência, muito" },
-      { "jp": "ときどき", "kana": "ときどき", "romaji": "tokidoki", "pt": "às vezes" },
-      { "jp": "たまに", "kana": "たまに", "romaji": "tamani", "pt": "de vez em quando, poucas vezes" },
-      { "jp": "あまり", "kana": "あまり", "romaji": "amari", "pt": "(+ negativa) não muito, pouco" },
-      { "jp": "ぜんぜん", "kana": "ぜんぜん", "romaji": "zenzen", "pt": "(+ negativa) nunca, nada" },
-      { "jp": "いっしょに", "kana": "いっしょに", "romaji": "issho ni", "pt": "juntos, junto com" },
-      { "jp": "いいですね", "kana": "いいですね", "romaji": "ii desu ne", "pt": "boa ideia!, que bom!" },
-      { "jp": "ちょっと", "kana": "ちょっと", "romaji": "chotto", "pt": "um pouco; \"é meio…\" (para recusar)" },
-      { "jp": "ええ", "kana": "ええ", "romaji": "ē", "pt": "sim (mais suave que はい)" },
-      { "jp": "ラーメン", "kana": "ラーメン", "romaji": "rāmen", "pt": "lámen" }
+      { "jp": "げつようび", "kana": "げつようび", "romaji": "getsuyōbi", "en": "Monday" },
+      { "jp": "かようび", "kana": "かようび", "romaji": "kayōbi", "en": "Tuesday" },
+      { "jp": "すいようび", "kana": "すいようび", "romaji": "suiyōbi", "en": "Wednesday" },
+      { "jp": "もくようび", "kana": "もくようび", "romaji": "mokuyōbi", "en": "Thursday" },
+      { "jp": "きんようび", "kana": "きんようび", "romaji": "kin'yōbi", "en": "Friday" },
+      { "jp": "どようび", "kana": "どようび", "romaji": "doyōbi", "en": "Saturday" },
+      { "jp": "にちようび", "kana": "にちようび", "romaji": "nichiyōbi", "en": "Sunday" },
+      { "jp": "〜時", "kana": "〜じ", "romaji": "-ji", "en": "… o'clock (七時 = seven o'clock)" },
+      { "jp": "〜ごろ", "kana": "〜ごろ", "romaji": "-goro", "en": "about, around (with clock times)" },
+      { "jp": "いつ", "kana": "いつ", "romaji": "itsu", "en": "when?" },
+      { "jp": "きょう", "kana": "きょう", "romaji": "kyō", "en": "today" },
+      { "jp": "あした", "kana": "あした", "romaji": "ashita", "en": "tomorrow" },
+      { "jp": "こんばん", "kana": "こんばん", "romaji": "konban", "en": "tonight, this evening" },
+      { "jp": "まいにち", "kana": "まいにち", "romaji": "mainichi", "en": "every day" },
+      { "jp": "いつも", "kana": "いつも", "romaji": "itsumo", "en": "always" },
+      { "jp": "よく", "kana": "よく", "romaji": "yoku", "en": "often" },
+      { "jp": "ときどき", "kana": "ときどき", "romaji": "tokidoki", "en": "sometimes" },
+      { "jp": "たまに", "kana": "たまに", "romaji": "tamani", "en": "once in a while, occasionally" },
+      { "jp": "あまり", "kana": "あまり", "romaji": "amari", "en": "(+ negative) not often, not much" },
+      { "jp": "ぜんぜん", "kana": "ぜんぜん", "romaji": "zenzen", "en": "(+ negative) never, not at all" },
+      { "jp": "いっしょに", "kana": "いっしょに", "romaji": "issho ni", "en": "together" },
+      { "jp": "いいですね", "kana": "いいですね", "romaji": "ii desu ne", "en": "That sounds good!, Nice!" },
+      { "jp": "ちょっと", "kana": "ちょっと", "romaji": "chotto", "en": "a little; \"it's a bit…\" (to decline)" },
+      { "jp": "ええ", "kana": "ええ", "romaji": "ē", "en": "yes (softer than はい)" },
+      { "jp": "ラーメン", "kana": "ラーメン", "romaji": "rāmen", "en": "ramen" }
     ]
   },
   "grammar": [
     {
       "id": "03-3-a",
       "gc": "3-5",
-      "title": "に com horários e dias",
-      "gloss": "\"às…\", \"no / na…\"",
-      "explanation": "Para dizer **quando** algo acontece, a frase ganha um bloco de **TEMPO**. Se esse tempo é um **ponto fixo no relógio ou no calendário**, ele leva **に**: horários (七時に, \"às sete\") e dias da semana (にちようびに, \"no domingo\").\n• O bloco [tempo + に] responde a **\"quando?\"** e costuma vir logo depois do tópico: わたしは 七時に おきます。\n• Os horários são os da Aula 01-2 (〜じ, 〜じはん). A partir de agora, eles aparecem com kanji: 七時 = しちじ.\n• **Leituras que pegam:** 四時 = **よ**じ, 七時 = **しち**じ, 九時 = **く**じ.\n• **Aproximado:** 〜ごろ (\"lá pelas\"). ごろ pode vir com ou sem に: 十時ごろ ねます / 十時ごろに ねます.\n• Pergunta: なんじに 〜ますか。 (\"a que horas…?\")\n• **Mesma letra, outra função:** no ponto 4c da Aula 03-2, に marcava o DESTINO. Quem diz qual é a função é a palavra antes: どようびに (quando) × うちに (para onde). Uma frase pode ter os dois.\n• Os dias da semana: げつようび, かようび, すいようび, もくようび, きんようび, どようび, にちようび. Na conversa rápida, às vezes o に cai depois do dia da semana, mas por enquanto escreva sempre.",
-      "structure": "[horário / dia da semana] に [verbo]  ·  なんじに 〜ますか",
+      "title": "に with clock times and days",
+      "gloss": "\"at…\", \"on…\"",
+      "explanation": "To say **when** something happens, the sentence gets a **TIME** block. If that time is a **fixed point on the clock or the calendar**, it takes **に**: clock times (七時に, \"at seven\") and days of the week (にちようびに, \"on Sunday\").\n• English uses \"at\" for clock times and \"on\" for days; Japanese uses **に for both**.\n• The block [time + に] answers **\"when?\"** and usually comes right after the topic: わたしは 七時に おきます。\n• The clock times are the ones from lesson 01-2 (〜じ, 〜じはん). From now on they appear in kanji: 七時 = しちじ.\n• **Tricky readings:** 四時 = **よ**じ, 七時 = **しち**じ, 九時 = **く**じ.\n• **Approximate times:** 〜ごろ (\"around\"). ごろ can come with or without に: 十時ごろ ねます / 十時ごろに ねます.\n• Questions: なんじに 〜ますか。 (\"At what time…?\")\n• **Same particle, different job:** in point 4c of lesson 03-2, に marked the DESTINATION. The word before it tells you which job it has: どようびに (when) × うちに (where to). One sentence can have both.\n• The days of the week: げつようび, かようび, すいようび, もくようび, きんようび, どようび, にちようび. In fast conversation, に after a day of the week is sometimes dropped, but for now always write it.",
+      "structure": "[clock time / day of the week] に [verb]  ·  なんじに 〜ますか",
       "examples": [
-        { "jp": "ルーカスさんは 六時に おきます。", "kana": "ルーカスさんは ろくじに おきます。", "romaji": "Rūkasu-san wa roku-ji ni okimasu.", "pt": "O Lucas acorda às seis." },
-        { "jp": "どようびに すずきさんの うちに いきます。", "kana": "どようびに すずきさんの うちに いきます。", "romaji": "Doyōbi ni Suzuki-san no uchi ni ikimasu.", "pt": "No sábado vou à casa da Suzuki. (どようびに = quando; うちに = para onde)" },
-        { "jp": "なんじに ねますか。— 十一時ごろ ねます。", "kana": "なんじに ねますか。— じゅういちじごろ ねます。", "romaji": "Nanji ni nemasu ka. — Jūichi-ji goro nemasu.", "pt": "A que horas você dorme? — Lá pelas onze." }
+        { "jp": "ルーカスさんは 六時に おきます。", "kana": "ルーカスさんは ろくじに おきます。", "romaji": "Rūkasu-san wa roku-ji ni okimasu.", "en": "Lucas gets up at six." },
+        { "jp": "どようびに すずきさんの うちに いきます。", "kana": "どようびに すずきさんの うちに いきます。", "romaji": "Doyōbi ni Suzuki-san no uchi ni ikimasu.", "en": "On Saturday I'm going to Mr./Ms. Suzuki's house. [どようびに = when; うちに = where to]" },
+        { "jp": "なんじに ねますか。— 十一時ごろ ねます。", "kana": "なんじに ねますか。— じゅういちじごろ ねます。", "romaji": "Nanji ni nemasu ka. — Jūichi-ji goro nemasu.", "en": "What time do you go to bed? — Around eleven." }
       ],
       "pitfalls": [
-        "Horário e dia da semana levam に, não で: 九時に ✓ × 九時で ✗; どようびに ✓ × どようびで ✗.",
-        "Leituras especiais: 四時 = よじ ✓ × よんじ ✗; 九時 = くじ ✓ × きゅうじ ✗.",
-        "Dois に na mesma frase é normal: どようびに すずきさんの うちに いきます ✓. Não troque um deles por で para evitar a repetição: どようびで すずきさんの うちに いきます ✗."
+        "Clock times and days of the week take に, not で: 九時で ✗ → 九時に ✓; どようびで ✗ → どようびに ✓.",
+        "Special readings: 四時 = よんじ ✗ → よじ ✓; 九時 = きゅうじ ✗ → くじ ✓.",
+        "Two に in one sentence is normal: どようびに すずきさんの うちに いきます ✓. Don't change one of them to で to avoid the repetition: どようびで すずきさんの うちに いきます ✗."
       ],
       "howToStudy": [
-        "No caderno, escreva a rotina de um dia útil com 4 horários: 〜時に おきます, 〜時に だいがくに いきます, 〜時に うちに かえります, 〜時ごろ ねます. Leia em voz alta.",
-        "Fala: diga os 7 dias da semana em voz alta e, para cada um, uma coisa que você faz: げつようびに 〜を します…",
-        "Aperte 🔬 no exemplo do sábado: どようびに aparece como TEMPO e うちに como DESTINO. Mesma partícula, funções diferentes: quem decide é a palavra antes dela."
+        "In your notebook, write the routine of a weekday with 4 clock times: 〜時に おきます, 〜時に だいがくに いきます, 〜時に うちに かえります, 〜時ごろ ねます. Read it aloud.",
+        "Speaking: say the 7 days of the week out loud and, for each one, one thing you do: げつようびに 〜を します…",
+        "Tap 🔬 on the Saturday example: どようびに shows up as TIME and うちに as DESTINATION. Same particle, different jobs: the word before it decides."
       ],
       "flag": null
     },
     {
       "id": "03-3-b",
       "gc": null,
-      "title": "Palavras de tempo SEM に",
+      "title": "Time words WITHOUT に",
       "gloss": "きょう, あした, まいにち…",
-      "explanation": "Nem todo bloco de TEMPO leva に. Palavras **relativas** (que dependem de quando você está falando) e palavras de **repetição** entram **sozinhas**, sem partícula nenhuma:\n• **Relativas:** きょう (hoje), あした (amanhã), こんばん (hoje à noite), いま (agora).\n• **Repetição:** まいにち (todo dia), まいばん (toda noite), まいあさ (toda manhã).\n• **Pergunta:** いつ (quando?) também vem sem に: いつ きますか。\n• **Teste rápido:** o tempo tem número ou nome de dia (七時, げつようび)? Então **に**. É \"hoje\", \"amanhã\", \"todo…\"? Então **sem に**.\n• Com **しゅうまつ** e com as partes do dia (**あさ**, **よる**), o に é opcional: しゅうまつ(に) テニスを します. Nesta aula, eles aparecem sem に.\n• Mesmo sem partícula, o bloco continua sendo **TEMPO** e fica no mesmo lugar: depois do tópico ou no começo da frase.\n• A palavra de tempo pode ganhar は de contraste (Aula 03-2): きょうは いきません = \"hoje não vou\" (subentendido: outro dia, sim).",
-      "structure": "[きょう / あした / こんばん / まいにち / いつ] + resto da frase, sem partícula",
+      "explanation": "Not every TIME block takes に. **Relative** words (which depend on when you are speaking) and words of **repetition** come **on their own**, with no particle at all:\n• **Relative:** きょう (today), あした (tomorrow), こんばん (tonight), いま (now).\n• **Repetition:** まいにち (every day), まいばん (every night), まいあさ (every morning).\n• **Question:** いつ (when?) also takes no に: いつ きますか。\n• **Good news:** English works almost the same way. You say \"**at** seven\" and \"**on** Sunday\", but just \"tomorrow\", \"tonight\", \"every day\" and \"when?\" with no preposition. As a rough guide at this stage: where English has no preposition, Japanese usually has no に either.\n• **Quick test:** does the time have a number or a day name (七時, げつようび)? Then **に**. Is it \"today\", \"tomorrow\", \"every…\"? Then **no に**.\n• With **しゅうまつ** and with the parts of the day (**あさ**, **よる**), に is optional: しゅうまつ(に) テニスを します. Careful: English says \"**in** the morning\", but Japanese usually just says あさ. In this lesson, they appear without に.\n• Even with no particle, the block is still **TIME** and sits in the same place: after the topic or at the start of the sentence.\n• A time word can take contrastive は (lesson 03-2): きょうは いきません = \"today I'm not going\" (implied: some other day, yes).",
+      "structure": "[きょう / あした / こんばん / まいにち / いつ] + rest of the sentence, no particle",
       "examples": [
-        { "jp": "すずきさんは まいにち テニスを します。", "kana": "すずきさんは まいにち テニスを します。", "romaji": "Suzuki-san wa mainichi tenisu o shimasu.", "pt": "A Suzuki joga tênis todo dia." },
-        { "jp": "きょうは がっこうに いきません。あした いきます。", "kana": "きょうは がっこうに いきません。あした いきます。", "romaji": "Kyō wa gakkō ni ikimasen. Ashita ikimasu.", "pt": "Hoje eu não vou à escola. Vou amanhã." },
-        { "jp": "いつ にほんごを べんきょうしますか。— こんばん します。", "kana": "いつ にほんごを べんきょうしますか。— こんばん します。", "romaji": "Itsu nihongo o benkyō shimasu ka. — Konban shimasu.", "pt": "Quando você vai estudar japonês? — Hoje à noite." }
+        { "jp": "すずきさんは まいにち テニスを します。", "kana": "すずきさんは まいにち テニスを します。", "romaji": "Suzuki-san wa mainichi tenisu o shimasu.", "en": "Mr./Ms. Suzuki plays tennis every day." },
+        { "jp": "きょうは がっこうに いきません。あした いきます。", "kana": "きょうは がっこうに いきません。あした いきます。", "romaji": "Kyō wa gakkō ni ikimasen. Ashita ikimasu.", "en": "Today I'm not going to school. I'll go tomorrow." },
+        { "jp": "いつ にほんごを べんきょうしますか。— こんばん します。", "kana": "いつ にほんごを べんきょうしますか。— こんばん します。", "romaji": "Itsu nihongo o benkyō shimasu ka. — Konban shimasu.", "en": "When will you study Japanese? — Tonight." }
       ],
       "pitfalls": [
-        "きょう, あした e こんばん não levam に: あした いきます ✓ × あしたに いきます ✗.",
-        "\"Todo dia\" também não: まいにち べんきょうします ✓ × まいにちに べんきょうします ✗.",
-        "いつ também não: いつ きますか ✓ × いつに きますか ✗."
+        "きょう, あした and こんばん don't take に: あしたに いきます ✗ → あした いきます ✓.",
+        "Neither does \"every day\": まいにちに べんきょうします ✗ → まいにち べんきょうします ✓.",
+        "Neither does いつ: いつに きますか ✗ → いつ きますか ✓."
       ],
       "howToStudy": [
-        "Faça duas colunas no caderno: COM に (horários, dias da semana) e SEM に (きょう, あした, こんばん, まいにち, いつ…). Deixe a lista à vista enquanto faz a lição de casa.",
-        "Fala: diga 5 planos seus com palavras sem に: あした 〜ます, こんばん 〜ます, まいにち 〜ます…",
-        "Aperte 🔬 no primeiro exemplo: まいにち aparece como TEMPO, mesmo sem partícula. A função vem do sentido da palavra."
+        "Make two columns in your notebook: WITH に (clock times, days of the week) and WITHOUT に (きょう, あした, こんばん, まいにち, いつ…). Keep the list in sight while you do the homework.",
+        "Speaking: say 5 of your plans with words that take no に: あした 〜ます, こんばん 〜ます, まいにち 〜ます…",
+        "Tap 🔬 on the first example: まいにち shows up as TIME, even with no particle. Its job comes from the meaning of the word."
       ],
       "flag": null
     },
     {
       "id": "03-3-c",
       "gc": "3-7",
-      "title": "Com que frequência: いつも, よく, ときどき…",
-      "gloss": "advérbios de frequência",
-      "explanation": "Os advérbios de frequência dizem **com que frequência** a ação acontece. Eles **não levam partícula** e costumam vir depois do tópico, antes do objeto ou do verbo.\n• **Com verbo afirmativo (〜ます):** いつも (sempre), よく (com frequência), ときどき (às vezes), たまに (de vez em quando, poucas vezes).\n• **Com verbo negativo (〜ません), obrigatoriamente:** あまり 〜ません (não muito, pouco), ぜんぜん 〜ません (nunca, nada).\n• **A escala aproximada, do mais para o menos:** いつも > よく > ときどき > たまに > あまり〜ません > ぜんぜん〜ません. Você também vai ver たいてい (geralmente), entre いつも e よく.\n• **Posição:** わたしは よく ラーメンを たべます (a mais comum) ou わたしは ラーメンを よく たべます. As duas estão certas.\n• **Pergunta:** よく 〜ますか。 (\"você … com frequência?\"). Resposta: はい、よく 〜ます。/ いいえ、あまり 〜ません。",
-      "structure": "[tópico] は + [advérbio] + … + [verbo]  ·  あまり / ぜんぜん + 〜ません",
+      "title": "How often: いつも, よく, ときどき…",
+      "gloss": "frequency adverbs",
+      "explanation": "Frequency adverbs say **how often** the action happens. They **take no particle** and usually come after the topic, before the object or the verb.\n• **With an affirmative verb (〜ます):** いつも (always), よく (often), ときどき (sometimes), たまに (once in a while).\n• **With a negative verb (〜ません), always:** あまり 〜ません (not often, not much), ぜんぜん 〜ません (never, not at all).\n• English \"never\" goes with a positive verb (\"I never drink\"), but Japanese marks it twice: ぜんぜん **+ a negative verb** (ぜんぜん のみません).\n• **The rough scale, from most to least:** いつも > よく > ときどき > たまに > あまり〜ません > ぜんぜん〜ません. You will also see たいてい (usually), between いつも and よく.\n• **Position:** わたしは よく ラーメンを たべます (the most common) or わたしは ラーメンを よく たべます. Both are correct.\n• **Questions:** よく 〜ますか。 (\"Do you … often?\"). Answers: はい、よく 〜ます。/ いいえ、あまり 〜ません。",
+      "structure": "[topic] は + [adverb] + … + [verb]  ·  あまり / ぜんぜん + 〜ません",
       "examples": [
-        { "jp": "ペドロさんは よく ラーメンを たべます。", "kana": "ペドロさんは よく ラーメンを たべます。", "romaji": "Pedoro-san wa yoku rāmen o tabemasu.", "pt": "O Pedro come lámen com frequência." },
-        { "jp": "アナさんは ときどき としょかんで べんきょうします。", "kana": "アナさんは ときどき としょかんで べんきょうします。", "romaji": "Ana-san wa tokidoki toshokan de benkyō shimasu.", "pt": "A Ana às vezes estuda na biblioteca." },
-        { "jp": "すずきさんは ぜんぜん コーヒーを のみません。", "kana": "すずきさんは ぜんぜん コーヒーを のみません。", "romaji": "Suzuki-san wa zenzen kōhī o nomimasen.", "pt": "A Suzuki não toma café nunca." }
+        { "jp": "ペドロさんは よく ラーメンを たべます。", "kana": "ペドロさんは よく ラーメンを たべます。", "romaji": "Pedoro-san wa yoku rāmen o tabemasu.", "en": "Pedro often eats ramen." },
+        { "jp": "アナさんは ときどき としょかんで べんきょうします。", "kana": "アナさんは ときどき としょかんで べんきょうします。", "romaji": "Ana-san wa tokidoki toshokan de benkyō shimasu.", "en": "Ana sometimes studies at the library." },
+        { "jp": "すずきさんは ぜんぜん コーヒーを のみません。", "kana": "すずきさんは ぜんぜん コーヒーを のみません。", "romaji": "Suzuki-san wa zenzen kōhī o nomimasen.", "en": "Mr./Ms. Suzuki doesn't drink coffee at all." }
       ],
       "pitfalls": [
-        "あまり e ぜんぜん pedem verbo negativo: あまり たべません ✓ × あまり たべます ✗; ぜんぜん みません ✓ × ぜんぜん みます ✗.",
-        "Advérbio de frequência não leva partícula: よく みます ✓ × よくを みます ✗ × よくに みます ✗.",
-        "よく também quer dizer \"bem\" em outros contextos, mas com verbo de hábito é \"com frequência\": よく テニスを します = \"jogo tênis com frequência\" ✓ × \"jogo bem tênis\" ✗."
+        "あまり and ぜんぜん need a negative verb: あまり たべます ✗ → あまり たべません ✓; ぜんぜん みます ✗ → ぜんぜん みません ✓. Don't copy English \"I never watch\" with a positive verb.",
+        "Frequency adverbs take no particle: よくを みます ✗ / よくに みます ✗ → よく みます ✓.",
+        "In other contexts よく can also mean \"well\", but with a habit verb it means \"often\": よく テニスを します = \"I play tennis well\" ✗ → \"I often play tennis\" ✓."
       ],
       "howToStudy": [
-        "Desenhe no caderno a escala (いつも → ぜんぜん) e escreva, em cada degrau, uma frase verdadeira sobre você.",
-        "Fala: faça a você mesmo 5 perguntas よく 〜ますか。 e responda em voz alta, usando um advérbio diferente em cada resposta.",
-        "Aperte 🔬 no exemplo do Pedro: よく aparece como um bloco sem partícula, ligado ao ★ PREDICADO. Compare com ラーメンを, que tem etiqueta de OBJETO."
+        "Draw the scale (いつも → ぜんぜん) in your notebook and write one true sentence about yourself on each step.",
+        "Speaking: ask yourself 5 questions with よく 〜ますか。 and answer them out loud, using a different adverb in each answer.",
+        "Tap 🔬 on the Pedro example: よく shows up as HOW / HOW OFTEN, a block with no particle that describes the ★ PREDICATE. Compare it with ラーメンを, which is labeled OBJECT."
       ],
       "flag": null
     },
     {
       "id": "03-3-d",
       "gc": "3-6",
-      "title": "〜ませんか: convidar",
-      "gloss": "\"não quer…?\", \"vamos…?\"",
-      "explanation": "Para **convidar** alguém de forma educada, use o verbo na **negativa + か**: 〜ませんか (\"não quer…?\", \"que tal…?\"). Parece estranho convidar com uma negativa, mas é isso que deixa o convite **gentil**: você não pressiona e deixa espaço para um \"não\".\n• **Monte assim:** pegue o verbo em ます e troque por ませんか: みます → みませんか.\n• **いっしょに** (\"juntos\") deixa claro que é um convite: いっしょに たべませんか。\n• Os outros blocos continuam iguais e na mesma ordem: [tempo] [lugar で] [objeto を] + 〜ませんか.\n• Diferença de uma pergunta comum: おちゃを のみますか = \"você bebe chá?\" (informação); おちゃを のみませんか = \"vamos tomar um chá?\" (convite).\n**Para responder:**\n• **Aceitar:** いいですね。 (\"Boa ideia!\") ou ええ、〜ましょう。 (\"Sim, vamos…!\"). 〜ましょう (\"vamos…\") se forma trocando ます por ましょう: みます → みましょう. Ele volta com calma na Aula 05-3.\n• **Recusar:** すみません、[dia ou coisa]は ちょっと…。 (\"desculpe, … é meio…\"). A frase **fica sem terminar**, e é justamente isso que faz dela uma recusa educada (veja a cultura, no bloco 9).",
-      "structure": "[tempo] (いっしょに) [objeto を] 〜ませんか。 — いいですね。 / ええ、〜ましょう。 / すみません、〜は ちょっと…。",
+      "title": "〜ませんか: inviting",
+      "gloss": "\"won't you…?\", \"why don't we…?\"",
+      "explanation": "To **invite** someone politely, use the verb in the **negative + か**: 〜ませんか (\"won't you…?\", \"why don't we…?\"). Inviting with a negative may look odd, but English does it too — \"Why don't we…?\", \"Won't you join us?\" — and it is what makes the invitation **gentle**: you don't push, and you leave room for a \"no\".\n• **How to build it:** take the verb in ます and change it to ませんか: みます → みませんか.\n• **いっしょに** (\"together\") makes it clear that it is an invitation: いっしょに たべませんか。\n• The other blocks stay the same and in the same order: [time] [place で] [object を] + 〜ませんか.\n• How it differs from an ordinary question: おちゃを のみますか = \"Do you drink tea?\" (asking for information); おちゃを のみませんか = \"Would you like to have some tea?\" (an invitation).\n**How to answer:**\n• **Accept:** いいですね。 (\"Sounds good!\") or ええ、〜ましょう。 (\"Yes, let's…!\"). 〜ましょう (\"let's…\") is made by changing ます to ましょう: みます → みましょう. It comes back in detail in lesson 05-3.\n• **Decline:** すみません、[day or thing]は ちょっと…。 (\"Sorry, … is a little…\"). The sentence is **left unfinished**, and that is exactly what makes it a polite refusal (see the culture note in block 9).",
+      "structure": "[time] (いっしょに) [object を] 〜ませんか。 — いいですね。 / ええ、〜ましょう。 / すみません、〜は ちょっと…。",
       "examples": [
-        { "jp": "にちようびに いっしょに テニスを しませんか。— いいですね。", "kana": "にちようびに いっしょに テニスを しませんか。— いいですね。", "romaji": "Nichiyōbi ni issho ni tenisu o shimasen ka. — Ii desu ne.", "pt": "Não quer jogar tênis comigo no domingo? — Boa ideia!" },
-        { "jp": "こんばん いっしょに ばんごはんを たべませんか。— ええ、たべましょう。", "kana": "こんばん いっしょに ばんごはんを たべませんか。— ええ、たべましょう。", "romaji": "Konban issho ni bangohan o tabemasen ka. — Ē, tabemashō.", "pt": "Vamos jantar juntos hoje à noite? — Sim, vamos!" },
-        { "jp": "あした いっしょに としょかんで べんきょうしませんか。— すみません、あしたは ちょっと…。", "kana": "あした いっしょに としょかんで べんきょうしませんか。— すみません、あしたは ちょっと…。", "romaji": "Ashita issho ni toshokan de benkyō shimasen ka. — Sumimasen, ashita wa chotto...", "pt": "Vamos estudar juntos na biblioteca amanhã? — Desculpe, amanhã é meio…" }
+        { "jp": "にちようびに いっしょに テニスを しませんか。— いいですね。", "kana": "にちようびに いっしょに テニスを しませんか。— いいですね。", "romaji": "Nichiyōbi ni issho ni tenisu o shimasen ka. — Ii desu ne.", "en": "Would you like to play tennis together on Sunday? — Sounds good! [lit. won't you do tennis together on Sunday?]" },
+        { "jp": "こんばん いっしょに ばんごはんを たべませんか。— ええ、たべましょう。", "kana": "こんばん いっしょに ばんごはんを たべませんか。— ええ、たべましょう。", "romaji": "Konban issho ni bangohan o tabemasen ka. — Ē, tabemashō.", "en": "Why don't we have dinner together tonight? — Yes, let's!" },
+        { "jp": "あした いっしょに としょかんで べんきょうしませんか。— すみません、あしたは ちょっと…。", "kana": "あした いっしょに としょかんで べんきょうしませんか。— すみません、あしたは ちょっと…。", "romaji": "Ashita issho ni toshokan de benkyō shimasen ka. — Sumimasen, ashita wa chotto...", "en": "Would you like to study together at the library tomorrow? — Sorry, tomorrow is a little…" }
       ],
       "pitfalls": [
-        "Convite é na negativa: おちゃを のみませんか ✓ (vamos tomar um chá?) × おちゃを のみますか ✗ como convite (isso pergunta se a pessoa bebe chá).",
-        "Recusar com いいえ + negativa soa seco: すみません、あしたは ちょっと… ✓ × いいえ、べんきょうしません ✗.",
-        "Ao ouvir ちょっと…, entenda o \"não\" e não insista: そうですか ✓ (aceitar a recusa) × repetir o convite ou perguntar o motivo ✗."
+        "An invitation uses the negative: おちゃを のみますか ✗ as an invitation (that asks whether the person drinks tea) → おちゃを のみませんか ✓ (would you like some tea?).",
+        "Declining with いいえ + a negative sounds blunt: いいえ、べんきょうしません ✗ → すみません、あしたは ちょっと… ✓.",
+        "When you hear ちょっと…, understand the \"no\" and don't insist: repeating the invitation or asking for the reason ✗ → そうですか ✓ (accepting the refusal)."
       ],
       "howToStudy": [
-        "Faça em voz alta 5 convites para coisas de que você gosta (〜ませんか), cada um com um dia ou um horário.",
-        "Para cada convite, responda das 3 maneiras: いいですね。 / ええ、〜ましょう。 / すみません、〜は ちょっと…。",
-        "Aperte 🔬 num exemplo de convite: o ★ PREDICADO 〜ませんか aparece como convite, e o resto são os blocos de sempre (tempo, objeto…)."
+        "Make 5 invitations out loud for things you like (〜ませんか), each with a day or a clock time.",
+        "For each invitation, answer in all 3 ways: いいですね。 / ええ、〜ましょう。 / すみません、〜は ちょっと…。",
+        "Tap 🔬 on an invitation example: the ★ PREDICATE 〜ませんか is marked as an invitation, and the rest are the usual blocks (TIME, OBJECT…)."
       ],
       "flag": null
     }
   ],
   "media": [
-    { "order": 1, "kind": "leitura", "title": "Genki I · Lição 3: as explicações de Time References, 〜ませんか e Frequency Adverbs, e o diálogo da lição (repare no convite e na recusa)", "where": "Seu livro Genki I (3ª ed.)", "url": "", "when": "Antes desta aula ou entre a sessão 1 e a sessão 2" },
-    { "order": 2, "kind": "video", "title": "ToKini Andy: aula da Lição 3 do Genki I (tempo, 〜ませんか e frequência)", "where": "YouTube · canal ToKini Andy", "url": "", "search": "ToKini Andy Genki Lesson 3 ませんか", "when": "Depois dos 4 pontos: o vídeo confirma e dá mais exemplos" },
-    { "order": 3, "kind": "app", "title": "genki-companion: Lição 3, pontos 5, 6 e 7 (marque ✍️ quando terminar)", "where": "../genki-companion/index.html", "url": "../genki-companion/index.html", "when": "No fim, para revisar e marcar o progresso" }
+    { "order": 1, "kind": "reading", "title": "Genki I · Lesson 3: the grammar notes Time References, 〜ませんか and Frequency Adverbs, and the lesson dialogue (notice the invitation and the refusal)", "where": "Your Genki I textbook (3rd ed.)", "url": "", "when": "Before this lesson or between session 1 and session 2" },
+    { "order": 2, "kind": "video", "title": "Japanese Ammo with Misa: inviting with 〜ませんか and 〜ましょう", "where": "YouTube · Japanese Ammo with Misa channel", "url": "", "search": "Japanese Ammo with Misa masen ka mashou invitation", "when": "After the 4 points, if you want a third explanation of invitations" },
+    { "order": 3, "kind": "app", "title": "genki-companion: Lesson 3, points 5, 6 and 7 (tick ✍️ when you finish)", "where": "../genki-companion/index.html", "url": "../genki-companion/index.html", "when": "At the end, to review and mark your progress" }
   ],
   "homework": {
-    "intro": "Faça no caderno, à mão. Escreva os horários com kanji (七時) se já conseguir, ou em kana (しちじ). Só depois abra o gabarito, item por item. Circule o que errou e refaça no dia seguinte.",
+    "intro": "Do it by hand in your notebook. Write clock times in kanji (七時) if you already can, or in kana (しちじ). Only then open the answer key, item by item. Circle what you got wrong and redo it the next day.",
     "tasks": [
       {
         "id": "h1",
-        "type": "completar",
-        "prompt": "Complete com に ou escreva × quando não vai partícula nenhuma.",
+        "type": "fill",
+        "prompt": "Fill in に, or write × when no particle is needed.",
         "items": [
-          { "q": "わたしは 七時＿ おきます。", "a": { "jp": "に", "romaji": "ni" }, "note": "Horário: に." },
-          { "q": "あした＿ としょかんに いきます。", "a": { "pt": "× (nada)" }, "note": "あした é relativa: sem に." },
-          { "q": "げつようび＿ テニスを します。", "a": { "jp": "に", "romaji": "ni" }, "note": "Dia da semana: に." },
-          { "q": "まいにち＿ にほんごを べんきょうします。", "a": { "pt": "× (nada)" }, "note": "\"Todo dia\" não leva に." },
-          { "q": "なんじ＿ ねますか。", "a": { "jp": "に", "romaji": "ni" }, "note": "\"A que horas\" leva に, como o horário da resposta." },
-          { "q": "いつ＿ えいがを みますか。", "a": { "pt": "× (nada)" }, "note": "いつ não leva に." }
+          { "q": "わたしは 七時＿ おきます。", "a": { "jp": "に", "romaji": "ni" }, "note": "A clock time: に." },
+          { "q": "あした＿ としょかんに いきます。", "a": { "en": "× (no particle)" }, "note": "あした is a relative word: no に." },
+          { "q": "げつようび＿ テニスを します。", "a": { "jp": "に", "romaji": "ni" }, "note": "A day of the week: に." },
+          { "q": "まいにち＿ にほんごを べんきょうします。", "a": { "en": "× (no particle)" }, "note": "\"Every day\" takes no に." },
+          { "q": "なんじ＿ ねますか。", "a": { "jp": "に", "romaji": "ni" }, "note": "\"At what time\" takes に, like the clock time in the answer." },
+          { "q": "いつ＿ えいがを みますか。", "a": { "en": "× (no particle)" }, "note": "いつ takes no に." }
         ]
       },
       {
         "id": "h2",
-        "type": "transformar",
-        "prompt": "Reescreva a frase com o advérbio entre parênteses. Com あまり e ぜんぜん, o verbo vai para a negativa.",
+        "type": "transform",
+        "prompt": "Rewrite each sentence with the adverb in brackets. With あまり and ぜんぜん, the verb becomes negative.",
         "items": [
           { "q": "コーヒーを のみます。(よく)", "a": { "jp": "よく コーヒーを のみます。", "romaji": "Yoku kōhī o nomimasu." } },
-          { "q": "ざっしを よみます。(あまり)", "a": { "jp": "あまり ざっしを よみません。", "romaji": "Amari zasshi o yomimasen." }, "note": "あまり pede ません: \"não leio muitas revistas\"." },
-          { "q": "にくを たべます。(ぜんぜん)", "a": { "jp": "ぜんぜん にくを たべません。", "romaji": "Zenzen niku o tabemasen." }, "note": "ぜんぜん pede ません: \"não como carne nunca\"." },
-          { "q": "うちで えいがを みます。(ときどき)", "a": { "jp": "ときどき うちで えいがを みます。", "romaji": "Tokidoki uchi de eiga o mimasu." }, "note": "うちで ときどき えいがを みます também está certo." },
+          { "q": "ざっしを よみます。(あまり)", "a": { "jp": "あまり ざっしを よみません。", "romaji": "Amari zasshi o yomimasen." }, "note": "あまり needs ません: \"I don't read magazines much\"." },
+          { "q": "にくを たべます。(ぜんぜん)", "a": { "jp": "ぜんぜん にくを たべません。", "romaji": "Zenzen niku o tabemasen." }, "note": "ぜんぜん needs ません: \"I never eat meat\"." },
+          { "q": "うちで えいがを みます。(ときどき)", "a": { "jp": "ときどき うちで えいがを みます。", "romaji": "Tokidoki uchi de eiga o mimasu." }, "note": "うちで ときどき えいがを みます is also correct." },
           { "q": "すしを たべます。(たまに)", "a": { "jp": "たまに すしを たべます。", "romaji": "Tamani sushi o tabemasu." } },
           { "q": "七時に おきます。(いつも)", "a": { "jp": "いつも 七時に おきます。", "kana": "いつも しちじに おきます。", "romaji": "Itsumo shichi-ji ni okimasu." } }
         ]
       },
       {
         "id": "h3",
-        "type": "convite",
-        "prompt": "Escreva o convite com 〜ませんか e a resposta pedida.",
+        "type": "invite",
+        "prompt": "Write the invitation with 〜ませんか and the answer asked for.",
         "items": [
-          { "q": "Convide para ouvir música na sua casa no sábado. Aceite com いいですね.", "a": { "jp": "どようびに うちで おんがくを ききませんか。— いいですね。", "romaji": "Doyōbi ni uchi de ongaku o kikimasen ka. — Ii desu ne." } },
-          { "q": "Convide para tomar um chá juntos amanhã. Aceite com ええ、〜ましょう.", "a": { "jp": "あした いっしょに おちゃを のみませんか。— ええ、のみましょう。", "romaji": "Ashita issho ni ocha o nomimasen ka. — Ē, nomimashō." }, "note": "のみます → のみましょう." },
-          { "q": "Convide para comer lámen às sete horas. Recuse com educação.", "a": { "jp": "七時に ラーメンを たべませんか。— すみません、七時は ちょっと…。", "kana": "しちじに ラーメンを たべませんか。— すみません、しちじは ちょっと…。", "romaji": "Shichi-ji ni rāmen o tabemasen ka. — Sumimasen, shichi-ji wa chotto..." }, "note": "A recusa retoma o tempo com は (七時は) e para no ちょっと." },
-          { "q": "Convide para jogar tênis na escola no domingo. Recuse com educação.", "a": { "jp": "にちようびに がっこうで テニスを しませんか。— すみません、にちようびは ちょっと…。", "romaji": "Nichiyōbi ni gakkō de tenisu o shimasen ka. — Sumimasen, nichiyōbi wa chotto..." } }
+          { "q": "Invite someone to listen to music at your place on Saturday. Accept with いいですね.", "a": { "jp": "どようびに うちで おんがくを ききませんか。— いいですね。", "romaji": "Doyōbi ni uchi de ongaku o kikimasen ka. — Ii desu ne." } },
+          { "q": "Invite someone to have tea together tomorrow. Accept with ええ、〜ましょう.", "a": { "jp": "あした いっしょに おちゃを のみませんか。— ええ、のみましょう。", "romaji": "Ashita issho ni ocha o nomimasen ka. — Ē, nomimashō." }, "note": "のみます → のみましょう." },
+          { "q": "Invite someone to eat ramen at seven o'clock. Decline politely.", "a": { "jp": "七時に ラーメンを たべませんか。— すみません、七時は ちょっと…。", "kana": "しちじに ラーメンを たべませんか。— すみません、しちじは ちょっと…。", "romaji": "Shichi-ji ni rāmen o tabemasen ka. — Sumimasen, shichi-ji wa chotto..." }, "note": "The refusal picks up the time with は (七時は) and stops at ちょっと." },
+          { "q": "Invite someone to play tennis at school on Sunday. Decline politely.", "a": { "jp": "にちようびに がっこうで テニスを しませんか。— すみません、にちようびは ちょっと…。", "romaji": "Nichiyōbi ni gakkō de tenisu o shimasen ka. — Sumimasen, nichiyōbi wa chotto..." } }
         ]
       },
       {
         "id": "h4",
-        "type": "produzir",
-        "prompt": "Escreva a sua agenda de um dia em 4–5 frases, com horários (〜時に), pelo menos uma palavra de tempo sem に e 2 advérbios de frequência. Termine com um convite para alguém e a resposta. Depois leia em voz alta.",
+        "type": "produce",
+        "prompt": "Write your schedule for one day in 4–5 sentences, with clock times (〜時に), at least one time word without に and 2 frequency adverbs. End with an invitation to someone and the answer. Then read it aloud.",
         "items": [
-          { "q": "Modelo, que o seu texto deve seguir na estrutura e não nas palavras:", "a": { "jp": "わたしは いつも 六時に おきます。七時に だいがくに いきます。よく としょかんで べんきょうします。うちでは あまり べんきょうしません。こんばん いっしょに ラーメンを たべませんか。— いいですね。", "kana": "わたしは いつも ろくじに おきます。しちじに だいがくに いきます。よく としょかんで べんきょうします。うちでは あまり べんきょうしません。こんばん いっしょに ラーメンを たべませんか。— いいですね。", "romaji": "Watashi wa itsumo roku-ji ni okimasu. Shichi-ji ni daigaku ni ikimasu. Yoku toshokan de benkyō shimasu. Uchi de wa amari benkyō shimasen. Konban issho ni rāmen o tabemasen ka. — Ii desu ne.", "pt": "Eu sempre acordo às seis. Às sete vou para a faculdade. Estudo bastante na biblioteca. Em casa não estudo muito. Vamos comer lámen juntos hoje à noite? — Boa ideia!" }, "note": "Confira: に só com horário e dia da semana; こんばん, まいにち e きょう sem に; あまり e ぜんぜん com 〜ません; convite com 〜ませんか." }
+          { "q": "Model (match its structure, not its words):", "a": { "jp": "わたしは いつも 六時に おきます。七時に だいがくに いきます。よく としょかんで べんきょうします。うちでは あまり べんきょうしません。こんばん いっしょに ラーメンを たべませんか。— いいですね。", "kana": "わたしは いつも ろくじに おきます。しちじに だいがくに いきます。よく としょかんで べんきょうします。うちでは あまり べんきょうしません。こんばん いっしょに ラーメンを たべませんか。— いいですね。", "romaji": "Watashi wa itsumo roku-ji ni okimasu. Shichi-ji ni daigaku ni ikimasu. Yoku toshokan de benkyō shimasu. Uchi de wa amari benkyō shimasen. Konban issho ni rāmen o tabemasen ka. — Ii desu ne.", "en": "I always get up at six. At seven I go to the university. I often study at the library. At home, I don't study much. Why don't we have ramen together tonight? — Sounds good!" }, "note": "Check: に only with clock times and days of the week; こんばん, まいにち and きょう without に; あまり and ぜんぜん with 〜ません; the invitation with 〜ませんか." }
         ]
       }
     ],
     "workbook": [
-      { "p": 35, "t": "4 · Time References", "tip": "Faça depois dos pontos 4a e 4b." },
-      { "p": 36, "t": "5 · Suggestion Using ～ませんか", "tip": "Faça depois do ponto 4d." },
-      { "p": 37, "t": "6 · Frequency Adverbs", "tip": "Faça depois do ponto 4c." },
-      { "p": 38, "t": "7 · 答えましょう (Questions)", "tip": "Revisão da Lição 3 inteira: faça depois de terminar as Aulas 03-1 a 03-3, respondendo com frases verdadeiras sobre você." },
-      { "p": 39, "t": "8 · 聞く練習 (Listening Comprehension)", "tip": "Precisa do áudio oficial do Genki. Faça numa sessão separada, como revisão de escuta da lição." },
-      { "p": 133, "t": "Kanji Practice", "tip": "Parte de leitura e escrita: os 15 kanji da Lição 3. Treine antes a ordem dos traços no ヅオリンゴー (Kanji → ✍️ Escrever)." },
-      { "p": 134, "t": "Using Kanji", "tip": "Depois do Kanji Practice. Confira no Genki Answer Key oficial." }
+      { "p": 35, "t": "4 · Time References", "tip": "Do it after points 4a and 4b." },
+      { "p": 36, "t": "5 · Suggestion Using ～ませんか", "tip": "Do it after point 4d." },
+      { "p": 37, "t": "6 · Frequency Adverbs", "tip": "Do it after point 4c." },
+      { "p": 38, "t": "7 · 答えましょう (Questions)", "tip": "A review of the whole of Lesson 3: do it after finishing lessons 03-1 to 03-3, answering with true sentences about yourself." },
+      { "p": 39, "t": "8 · 聞く練習 (Listening Comprehension)", "tip": "You need the official Genki audio. Do it in a separate session, as a listening review of the lesson." },
+      { "p": 133, "t": "Kanji Practice", "tip": "Reading and writing part: the 15 kanji of Lesson 3. First practice the stroke order in ヅオリンゴー (Kanji → ✍️ Write)." },
+      { "p": 134, "t": "Using Kanji", "tip": "After Kanji Practice. Check it with the official Genki Answer Key." }
     ]
   },
   "practice": [
-    { "tool": "Wagotabi", "what": "Jogue e cace nos diálogos: palavras de tempo (きょう, あした, 〜時に…), advérbios de frequência e convites com 〜ませんか ou recusas com ちょっと. Anote 3 no caderno e marque se o tempo veio com ou sem に. Registre a sessão em Imersão → Jogos.", "min": 15 },
-    { "tool": "ヅオリンゴー", "what": "Praticar L3 (conjugação, escuta e compreensão). Depois, Treinos → Números para firmar os números dos horários.", "min": 15 },
-    { "tool": "Kanji", "what": "ヅオリンゴー → Kanji → ✍️ Escrever: os 15 kanji da Lição 3 (一 a 十, 百, 千, 万, 円, 時), com a ordem dos traços. Faça antes das páginas 133–134 do Workbook.", "min": 10 },
-    { "tool": "Shadowing", "what": "Toque 🔊 nos exemplos com horários e repita junto 3 vezes, caprichando em ろくじ e じゅういちじ. Nos convites, imite a voz que cai e fica no ar em ちょっと….", "min": 5 },
-    { "tool": "Fala", "what": "Role-play sozinho: grave um convite (〜ませんか) e depois grave as 3 respostas possíveis (いいですね / ええ、〜ましょう / すみません、〜は ちょっと…). Ouça e veja se a recusa soou gentil.", "min": 5 }
+    { "tool": "Wagotabi", "what": "Play and hunt the dialogues for time words (きょう, あした, 〜時に…), frequency adverbs, and invitations with 〜ませんか or refusals with ちょっと. Write 3 of them in your notebook and mark whether the time came with or without に. Log the session in Immersion → Games.", "min": 15 },
+    { "tool": "ヅオリンゴー", "what": "Practice L3 (conjugation, listening and comprehension). Then Drills → Numbers to lock in the numbers for clock times.", "min": 15 },
+    { "tool": "Kanji", "what": "ヅオリンゴー → Kanji → ✍️ Write: the 15 kanji of Lesson 3 (一 to 十, 百, 千, 万, 円, 時), with stroke order. Do it before Workbook pages 133–134.", "min": 10 },
+    { "tool": "Shadowing", "what": "Tap 🔊 on the examples with clock times and repeat along 3 times, taking care with ろくじ and じゅういちじ. In the invitations, copy the voice that drops and trails off on ちょっと….", "min": 5 },
+    { "tool": "Speaking", "what": "Solo role-play: record an invitation (〜ませんか) and then record the 3 possible answers (いいですね / ええ、〜ましょう / すみません、〜は ちょっと…). Listen and check whether the refusal sounded gentle.", "min": 5 }
   ],
   "culture": {
-    "title": "Recusar sem dizer \"não\"",
+    "title": "Saying no without saying \"no\"",
     "titleJp": "ちょっと…",
-    "body": "Em japonês, um **\"não\" direto** a um convite costuma soar duro. Por isso, o comum é recusar de forma indireta: すみません、あしたは ちょっと… (\"desculpe, amanhã é meio…\"), deixando a frase no ar. Quem ouve entende a recusa sem precisar de motivo, e o esperado é aceitar sem insistir. Muita gente suaviza ainda mais agradecendo o convite ou dizendo que é uma pena (ざんねんです). Da mesma forma, respostas vagas, como \"vou pensar\", às vezes são um \"não\" educado: preste atenção no tom e no contexto.",
-    "try": "Ensaie em voz alta 3 recusas para convites imaginários, sempre com すみません + [dia ou coisa]は ちょっと…, deixando a voz cair no ちょっと. Depois faça o contrário: imagine um amigo dizendo ちょっと… e responda そうですか。, sem insistir."
+    "body": "In Japanese, a **direct \"no\"** to an invitation often sounds harsh. So people usually decline indirectly: すみません、あしたは ちょっと… (\"Sorry, tomorrow is a little…\"), leaving the sentence hanging. The listener understands the refusal without needing a reason, and is expected to accept it without insisting. Many people soften it even more by thanking you for the invitation or saying it's a pity (ざんねんです). In the same way, vague answers such as \"I'll think about it\" are sometimes a polite \"no\": pay attention to the tone and the context.",
+    "try": "Rehearse out loud 3 refusals to imaginary invitations, always with すみません + [day or thing]は ちょっと…, letting your voice drop on ちょっと. Then do the opposite: imagine a friend saying ちょっと… and answer そうですか。 without insisting."
   },
   "checklist": [
-    "Digo a que horas faço 4 coisas do meu dia com 〜時に, lendo certo 四時 (よじ), 七時 (しちじ) e 九時 (くじ).",
-    "Sei, sem pensar, quais palavras de tempo NÃO levam に (きょう, あした, こんばん, まいにち, いつ…).",
-    "Uso os advérbios de frequência na escala certa, com あまり e ぜんぜん sempre na negativa.",
-    "Faço um convite com 〜ませんか e respondo das 3 maneiras (いいですね / ええ、〜ましょう / 〜は ちょっと…).",
-    "Entendo ちょっと… como recusa educada e sei não insistir.",
-    "Leio e escrevo os 15 kanji da Lição 3 (一 a 十, 百, 千, 万, 円, 時).",
-    "Fiz a lição de casa e conferi o gabarito, e refiz o que errei.",
-    "Fiz as páginas 35–39 e 133–134 do Workbook."
+    "I can say at what time I do 4 things in my day with 〜時に, reading 四時 (よじ), 七時 (しちじ) and 九時 (くじ) correctly.",
+    "I know, without thinking, which time words take NO に (きょう, あした, こんばん, まいにち, いつ…).",
+    "I use the frequency adverbs on the right step of the scale, with あまり and ぜんぜん always with a negative verb.",
+    "I can make an invitation with 〜ませんか and answer it in all 3 ways (いいですね / ええ、〜ましょう / 〜は ちょっと…).",
+    "I understand ちょっと… as a polite refusal and I know not to insist.",
+    "I can read and write the 15 kanji of Lesson 3 (一 to 十, 百, 千, 万, 円, 時).",
+    "I did the homework, checked it against the answer key and redid what I got wrong.",
+    "I did Workbook pages 35–39 and 133–134."
   ]
 }

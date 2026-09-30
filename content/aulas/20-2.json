@@ -1,0 +1,217 @@
+{
+  "id": "20-2",
+  "unit": "G2-L20",
+  "genki": { "book": "Genki II", "lesson": 20, "points": ["〜ないで", "Questions within Larger Sentences"] },
+  "title": "Without doing · questions inside sentences",
+  "titleJp": "マリアさんが来るかどうか分かりません",
+  "canDo": [
+    "I can say I did something without doing something else, or instead of it, with 〜ないで: 朝ごはんを食べないで、会社に行きました。",
+    "I can tell 〜ないで (without / instead of) from 〜ないでください (please don't) and 〜なくて (because… not).",
+    "I can put a question with a question word inside a bigger sentence: 何時に着くか分かりますか / どこにあるか教えてください.",
+    "I can say \"whether (or not)…\" with 〜かどうか: 来るかどうか分かりません.",
+    "I drop だ before か with nouns and な-adjectives in the present (だれか, 本当かどうか) and keep the politeness on the last verb."
+  ],
+  "duration": {
+    "total": "60–75 min",
+    "blocks": [
+      { "t": "Warm-up: say aloud the ない form of 食べる, 使う, 持つ, 見る, する and 来る, then 5 direct questions with a question word (何時に始まりますか…)", "min": 5 },
+      { "t": "Vocabulary: tap 🔊 on each word in block 3 and repeat it twice", "min": 10 },
+      { "t": "Grammar: point a (〜ないで), with the examples read aloud and one 🔬", "min": 10 },
+      { "t": "Grammar: points b and c (か / かどうか), turning direct questions into embedded ones aloud", "min": 15 },
+      { "t": "Lesson 20 video (block 6), only the part on these points", "min": 10 },
+      { "t": "Notebook homework + checking it against the answer key", "min": 15 },
+      { "t": "Checklist (block 10) + write your questions in the lesson notebook", "min": 5 }
+    ]
+  },
+  "prereqs": {
+    "aulas": ["20-1"],
+    "skills": [
+      "The short negative ない form (lesson 08-1): 食べない, 使わない, 持たない, しない, 来ない. 〜ないで is built straight from it.",
+      "Short forms in the present and the past (lessons 08-1 and 09-1): the question inside the sentence always uses them — 行く, 行った, 高い, 学生だった.",
+      "Question words (何, だれ, どこ, いつ, 何時, いくら, どれ) and simple questions with か (lesson 01-1).",
+      "〜ないでください (lesson 08-3) and 〜なくて as in 降らなくて、よかったです (lesson 19-2), to contrast with 〜ないで.",
+      "〜てみる (lesson 13-3): 聞いてみます and しらべてみます show up in this lesson."
+    ],
+    "vocab": [
+      { "jp": "〜ないで", "kana": "〜ないで", "romaji": "-naide", "en": "without doing…; instead of doing…" },
+      { "jp": "〜かどうか", "kana": "〜かどうか", "romaji": "-ka dō ka", "en": "whether or not…" },
+      { "jp": "おぼえる", "kana": "おぼえる", "romaji": "oboeru", "en": "to memorize; おぼえている = to remember" },
+      { "jp": "わすれる", "kana": "わすれる", "romaji": "wasureru", "en": "to forget" },
+      { "jp": "きめる", "kana": "きめる", "romaji": "kimeru", "en": "to decide" },
+      { "jp": "しらべる", "kana": "しらべる", "romaji": "shiraberu", "en": "to look up, to check" },
+      { "jp": "聞く", "kana": "きく", "romaji": "kiku", "en": "to ask; to listen" },
+      { "jp": "知っている", "kana": "しっている", "romaji": "shitte iru", "en": "to know (have the information); negative: 知りません" },
+      { "jp": "分かる", "kana": "わかる", "romaji": "wakaru", "en": "to understand; to know (be able to tell)" },
+      { "jp": "じしょ", "kana": "じしょ", "romaji": "jisho", "en": "dictionary" },
+      { "jp": "文", "kana": "ぶん", "romaji": "bun", "en": "sentence" },
+      { "jp": "タクシー", "kana": "タクシー", "romaji": "takushī", "en": "taxi" },
+      { "jp": "歩く", "kana": "あるく", "romaji": "aruku", "en": "to walk" },
+      { "jp": "一日中", "kana": "いちにちじゅう", "romaji": "ichinichijū", "en": "all day long" },
+      { "jp": "本当", "kana": "ほんとう", "romaji": "hontō", "en": "true, real" },
+      { "jp": "話", "kana": "はなし", "romaji": "hanashi", "en": "story; what someone said" },
+      { "jp": "おくさん", "kana": "おくさん", "romaji": "okusan", "en": "(someone else's) wife" },
+      { "jp": "カード", "kana": "カード", "romaji": "kādo", "en": "(credit) card" },
+      { "jp": "店員", "kana": "てんいん", "romaji": "ten'in", "en": "shop clerk, staff" },
+      { "jp": "間に合う", "kana": "まにあう", "romaji": "ma ni au", "en": "to make it in time" },
+      { "jp": "開く", "kana": "あく", "romaji": "aku", "en": "(a shop, a door) opens; 開いている = is open" },
+      { "jp": "しんぱい（な）", "kana": "しんぱい（な）", "romaji": "shinpai (na)", "en": "worried; worry" },
+      { "jp": "デパ地下", "kana": "デパちか", "romaji": "depachika", "en": "the food floor in a department store's basement (block 9)" }
+    ]
+  },
+  "grammar": [
+    {
+      "id": "20-2-a",
+      "gc": null,
+      "title": "〜ないで",
+      "gloss": "\"without doing…\" / \"instead of doing…\"",
+      "explanation": "**Verb in the short negative (ない) + で** means \"**without doing** X\" or \"**instead of doing** X\". The main action — what you actually did — comes at the end.\n• Form: 食べない → 食べないで · 使わない → 使わないで · 持たない → 持たないで · しない → しないで · 来ない → 来ないで.\n• \"Without\": 朝ごはんを食べないで、学校に行きました。 (\"I went to school without eating breakfast.\")\n• \"Instead of\": タクシーを使わないで、歩いて帰りました。 (\"Instead of taking a taxi, I walked home.\")\n• Both actions belong to the **same person**, and the ないで block says **how** (in what state) the final action was done.\n\n**In the sentence:** the ないで block, with its own object (朝ごはんを), comes first; the final verb is the **PREDICATE** and carries the tense and the politeness. Read from the end: 行きました → how? without eating breakfast.\n• English puts the main action first and adds \"without…\" after it (\"I went to school without eating\"). Japanese says the \"without\" part first and the main action last.\n\n**Three look-alikes:**\n• 〜ないで + another verb = \"without / instead of\" (this lesson).\n• 〜ないでください = \"please don't\" (lesson 08-3): a request. ここで写真をとらないでください。\n• 〜なくて = \"because… not\", a cause, often before a feeling (lesson 19-2): 分からなくて、こまりました。 (\"I didn't understand, so I was stuck.\") It never means \"without\".",
+      "structure": "[verb ない] で、[main action]。 · 食べない → 食べないで",
+      "examples": [
+        { "jp": "けさは朝ごはんを食べないで、会社に行きました。", "kana": "けさはあさごはんをたべないで、かいしゃにいきました。", "romaji": "Kesa wa asagohan o tabenaide, kaisha ni ikimashita.", "en": "This morning I went to work without eating breakfast." },
+        { "jp": "タクシーを使わないで、歩いて帰りました。", "kana": "タクシーをつかわないで、あるいてかえりました。", "romaji": "Takushī o tsukawanaide, aruite kaerimashita.", "en": "I walked home instead of taking a taxi. [lit. not using a taxi, I walked and went home]" },
+        { "jp": "じしょを見ないで、この文を読んでみてください。", "kana": "じしょをみないで、このぶんをよんでみてください。", "romaji": "Jisho o minaide, kono bun o yonde mite kudasai.", "en": "Try reading this sentence without looking at a dictionary." }
+      ],
+      "pitfalls": [
+        "〜なくて is not \"without\": 朝ごはんを食べなくて、学校に行きました ✗ → 朝ごはんを食べないで、学校に行きました ✓. なくて gives a cause (\"because I didn't…\").",
+        "Build it from the ない form, not from ません: 食べませんで ✗ → 食べないで ✓. The politeness goes on the last verb: 行きました.",
+        "Watch the ない form of う-verbs: 使うないで ✗ → 使わないで ✓; 持つないで ✗ → 持たないで ✓.",
+        "Don't copy the English order: the ないで block comes before the main verb, not after it. 学校に行きました、朝ごはんを食べないで ✗ (in normal writing) → 朝ごはんを食べないで、学校に行きました ✓."
+      ],
+      "howToStudy": [
+        "Say aloud 5 true sentences about this week with 〜ないで: something you did without doing something else (かさを持たないで出かけました) or instead of something else (タクシーを使わないで、歩きました).",
+        "Tap 🔬 on example 1: けさは is the TOPIC, 朝ごはんを the OBJECT, 食べないで shows up as …AND THEN (the label 🔬 gives every て-type link; here the link means \"without\"), 会社に the DESTINATION and 行きました the PREDICATE. Read from the end: I went → where? to work → how? without eating breakfast.",
+        "Contrast aloud, with the same verb: 食べないでください (please don't eat) / 食べないで出かけました (I went out without eating) / 食べなくて、おなかがすきました (I didn't eat, so I got hungry)."
+      ],
+      "flag": null
+    },
+    {
+      "id": "20-2-b",
+      "gc": null,
+      "title": "〜か (a question inside a sentence)",
+      "gloss": "\"I don't know where…\", \"tell me what time…\"",
+      "explanation": "A question can sit **inside** a bigger sentence: \"I don't know **where the station is**\", \"Tell me **what time it starts**\". In Japanese, you put the question in the **short form**, keep **か** at its end, and then add the main verb.\n• 駅はどこにありますか。 → 駅がどこにあるか分かりません。 (\"I don't know where the station is.\")\n• 何時に始まりますか。 → 何時に始まるか教えてください。 (\"Please tell me what time it starts.\")\n• 何を買いましたか。 → 何を買ったかおぼえていません。 (\"I don't remember what I bought.\")\n\n**How to build it:**\n• Verbs and い-adjectives: short form + か: 行くか · 行ったか · 高いか · 高かったか.\n• Nouns and な-adjectives in the present: **no だ** before か: だれか, いくらか, しずかか. In the past, だった stays: だれだったか. (In casual speech you may also hear だ kept after a question word — だれだか — but the form to learn is without it.)\n• The question word stays **exactly where it was** in the direct question. Unlike English (\"Where is it?\" → \"…where it is\"), nothing moves: you just switch to the short form and keep か.\n• Common main verbs: 分かる, 知っている, おぼえている, わすれる, 教える, 聞く, しらべる, きめる.\n\n**In the sentence:** the whole block ending in か works like **one big noun**: the thing you don't know, ask about or remember. It usually takes no particle. The main verb at the end is the **PREDICATE**, and it carries the politeness: どこにあるか分かりますか。 — never ありますか inside.\n• Inside the block, the subject usually takes **が**, not は: 駅**が**どこにあるか…\n• A tip: when someone asks you something and you can't answer, 分かりません is the softer \"I don't know\"; 知りません can sound curt.",
+      "structure": "[question in short form] か + 分かる / 知っている / 教えてください … · N / な-adj: no だ (だれか, しずかか)",
+      "examples": [
+        { "jp": "すみません、この電車が何時に着くか分かりますか。", "kana": "すみません、このでんしゃがなんじにつくかわかりますか。", "romaji": "Sumimasen, kono densha ga nanji ni tsuku ka wakarimasu ka.", "en": "Excuse me, do you know what time this train arrives?", "noAnat": true },
+        { "jp": "きのうの夜、何を食べたかおぼえていません。", "kana": "きのうのよる、なにをたべたかおぼえていません。", "romaji": "Kinō no yoru, nani o tabeta ka oboete imasen.", "en": "I don't remember what I ate last night.", "noAnat": true },
+        { "jp": "あの人がだれか知っていますか。— はい、山田先生のおくさんです。", "kana": "あのひとがだれかしっていますか。— はい、やまだせんせいのおくさんです。", "romaji": "Ano hito ga dare ka shitte imasu ka. — Hai, Yamada-sensei no okusan desu.", "en": "Do you know who that person is? — Yes, she's Professor Yamada's wife.", "noAnat": true }
+      ],
+      "pitfalls": [
+        "English has no word for this か, but Japanese needs it: 何を食べたおぼえていません ✗ → 何を食べたかおぼえていません ✓.",
+        "Short form inside, politeness at the end: 何時に着きますか分かりますか ✗ → 何時に着くか分かりますか ✓.",
+        "Nouns and な-adjectives: no です before か: あの人がだれですか知っていますか ✗ → あの人がだれか知っていますか ✓.",
+        "With a question word, use か alone, not かどうか (point c): どこに行くかどうか分かりません ✗ → どこに行くか分かりません ✓."
+      ],
+      "howToStudy": [
+        "Drills → 🔬 Anatomy → 🔬 Analyze: paste the direct question この電車は何時に着きますか。 You get この (DESCRIBES NEXT), 電車は (TOPIC), 何時に (TIME) and 着きますか (PREDICATE). Now embed it aloud: 着きますか → 着くか + 分かりますか. (🔬 doesn't recognize embedded questions yet, so this point's examples have no 🔬: the whole block ending in か is one piece, the thing you don't know.)",
+        "Say aloud 5 things you don't know or don't remember right now, each with a different question word: 明日何時に起きるか…, マリアさんがどこに住んでいるか…, この本がいくらだったか…",
+        "In your notebook, write 3 direct questions and turn each one into a request with 教えてください: 銀行はどこにありますか → 銀行がどこにあるか教えてください。"
+      ],
+      "flag": null
+    },
+    {
+      "id": "20-2-c",
+      "gc": null,
+      "title": "〜かどうか",
+      "gloss": "\"whether or not…\"",
+      "explanation": "For a **yes/no question** inside a sentence (\"whether or not…\"), add **かどうか** to the short form:\n• マリアさんは来ますか。 → マリアさんが来るかどうか分かりません。 (\"I don't know whether Maria is coming.\")\n• このカードが使えますか。 → このカードが使えるかどうか聞いてみます。 (\"I'll ask whether this card can be used.\")\n• Nouns and な-adjectives in the present drop だ, as in point b: 本当かどうか, 元気かどうか, 学生かどうか. In the past, だった stays: 学生だったかどうか.\n• In casual speech, か alone is also common for yes/no questions: 来るか分からない. かどうか is the clear, safe form.\n• With a question word, use only か (point b), never かどうか.\n\n**In the sentence:** the block ending in かどうか works like one big noun, just as in point b, and the main verb at the end is the **PREDICATE**. A comma often follows the block: その話が本当かどうか、だれも知りません。\n\n**For English speakers:** English often uses \"if\" here (\"I don't know **if** he's coming\"). That \"if\" is not a condition, so it is NOT たら (lesson 17-2): 来たら分かりません ✗ → 来るかどうか分かりません ✓. A quick test: if you can say \"whether\" instead of \"if\", Japanese needs かどうか.",
+      "structure": "[short form] かどうか + 分かりません / 聞いてみます / 知っていますか … · N / な-adj: 本当かどうか",
+      "examples": [
+        { "jp": "明日のパーティーにマリアさんが来るかどうか分かりません。", "kana": "あしたのパーティーにマリアさんがくるかどうかわかりません。", "romaji": "Ashita no pātī ni Maria-san ga kuru ka dō ka wakarimasen.", "en": "I don't know whether Maria is coming to tomorrow's party.", "noAnat": true },
+        { "jp": "このレストランでカードが使えるかどうか、店員に聞いてみます。", "kana": "このレストランでカードがつかえるかどうか、てんいんにきいてみます。", "romaji": "Kono resutoran de kādo ga tsukaeru ka dō ka, ten'in ni kiite mimasu.", "en": "I'll ask the staff whether we can use a card at this restaurant.", "noAnat": true },
+        { "jp": "その話が本当かどうか、だれも知りません。", "kana": "そのはなしがほんとうかどうか、だれもしりません。", "romaji": "Sono hanashi ga hontō ka dō ka, daremo shirimasen.", "en": "Nobody knows whether that story is true.", "noAnat": true }
+      ],
+      "pitfalls": [
+        "This English \"if\" is not a condition: 田中さんが来たら分かりません ✗ → 田中さんが来るかどうか分かりません ✓ (\"I don't know if Tanaka is coming\").",
+        "No だ before かどうか with nouns and な-adjectives: 本当だかどうか ✗ → 本当かどうか ✓; 元気だかどうか ✗ → 元気かどうか ✓.",
+        "Short form inside: 使えますかどうか ✗ → 使えるかどうか ✓.",
+        "With a question word, かどうか is wrong: 何時に来るかどうか ✗ → 何時に来るか ✓."
+      ],
+      "howToStudy": [
+        "Think of 4 things you can't be sure of about tomorrow (the weather, a friend, a shop, an exam) and say each one aloud with 〜かどうか分かりません: 明日雨が降るかどうか分かりません。",
+        "Sort aloud: for each question, decide か or かどうか before you embed it: 何時に始まりますか (→ か) / もう始まりましたか (→ かどうか) / だれが来ますか (→ か) / 田中さんは来ますか (→ かどうか).",
+        "Drills → 🔬 Anatomy → 🔬 Analyze: paste the direct question このレストランでカードが使えますか。 You get この (DESCRIBES NEXT), レストランで (PLACE), カードが (SUBJECT) and 使えますか (PREDICATE). Then say the embedded version aloud: 使えるかどうか、聞いてみます — only the end changes."
+      ],
+      "flag": null
+    }
+  ],
+  "media": [
+    { "order": 1, "kind": "reading", "title": "Genki II · Lesson 20: the grammar notes on 〜ないで and on questions within larger sentences (か / かどうか)", "where": "Your Genki II textbook", "url": "", "when": "Before this lesson or right after the grammar block. The humble language was in lesson 20-1; 〜という and 〜やすい／〜にくい are in lesson 20-3." },
+    { "order": 2, "kind": "video", "title": "Japanese Ammo with Misa: embedded questions with か and かどうか", "where": "YouTube · Japanese Ammo with Misa channel", "url": "", "search": "Japanese Ammo with Misa embedded questions ka dou ka", "when": "After points b and c, to hear more examples" }
+  ],
+  "homework": {
+    "intro": "Do it by hand in your notebook. Write the Japanese with the kanji you already know and kana for the rest. Only then open the answer key, item by item. Circle what you got wrong and redo it the next day. If you have the Genki II Workbook, do this lesson's exercises too.",
+    "tasks": [
+      {
+        "id": "h1",
+        "type": "combine",
+        "prompt": "Join the two sentences with 〜ないで. The first one says what you did NOT do; the second one is the main action.",
+        "items": [
+          { "q": "朝ごはんを食べませんでした。学校に行きました。", "a": { "jp": "朝ごはんを食べないで、学校に行きました。", "kana": "あさごはんをたべないで、がっこうにいきました。", "romaji": "Asagohan o tabenaide, gakkō ni ikimashita." } },
+          { "q": "かさを持ちませんでした。出かけました。", "a": { "jp": "かさを持たないで出かけました。", "kana": "かさをもたないででかけました。", "romaji": "Kasa o motanaide dekakemashita." }, "note": "持つ → 持たない → 持たないで." },
+          { "q": "じしょを使いませんでした。手紙を書きました。", "a": { "jp": "じしょを使わないで手紙を書きました。", "kana": "じしょをつかわないでてがみをかきました。", "romaji": "Jisho o tsukawanaide tegami o kakimashita." }, "note": "使う → 使わない: the う becomes わ." },
+          { "q": "電話しませんでした。友だちの家に行きました。", "a": { "jp": "電話しないで友だちの家に行きました。", "kana": "でんわしないでともだちのいえにいきました。", "romaji": "Denwa shinaide tomodachi no ie ni ikimashita." }, "note": "する → しない → しないで." },
+          { "q": "タクシーに乗りませんでした。駅から歩きました。", "a": { "jp": "タクシーに乗らないで、駅から歩きました。", "kana": "タクシーにのらないで、えきからあるきました。", "romaji": "Takushī ni noranaide, eki kara arukimashita." }, "note": "Here ないで means \"instead of\"." },
+          { "q": "勉強しませんでした。一日中ゲームをしました。", "a": { "jp": "勉強しないで、一日中ゲームをしました。", "kana": "べんきょうしないで、いちにちじゅうゲームをしました。", "romaji": "Benkyō shinaide, ichinichijū gēmu o shimashita." }, "note": "\"Instead of studying, I played games all day.\"" }
+        ]
+      },
+      {
+        "id": "h2",
+        "type": "translate",
+        "prompt": "Translate into Japanese. Use the short form inside the question and put the politeness on the last verb.",
+        "items": [
+          { "q": "I don't know where Maria lives.", "a": { "jp": "マリアさんがどこに住んでいるか分かりません。", "kana": "マリアさんがどこにすんでいるかわかりません。", "romaji": "Maria-san ga doko ni sunde iru ka wakarimasen." }, "note": "\"Lives\" = 住んでいる (lesson 07-1), short form before か." },
+          { "q": "Please tell me what time the party starts.", "a": { "jp": "パーティーが何時に始まるか教えてください。", "kana": "パーティーがなんじにはじまるかおしえてください。", "romaji": "Pātī ga nanji ni hajimaru ka oshiete kudasai." } },
+          { "q": "I don't remember what I bought yesterday.", "a": { "jp": "きのう何を買ったかおぼえていません。", "kana": "きのうなにをかったかおぼえていません。", "romaji": "Kinō nani o katta ka oboete imasen." }, "note": "Past inside the block: 買った." },
+          { "q": "Do you know whose umbrella this is?", "a": { "jp": "これがだれのかさか知っていますか。", "kana": "これがだれのかさかしっていますか。", "romaji": "Kore ga dare no kasa ka shitte imasu ka." }, "note": "Noun + か, with no だ: だれのかさか." },
+          { "q": "I don't know if Tanaka is coming tomorrow.", "a": { "jp": "田中さんが明日来るかどうか分かりません。", "kana": "たなかさんがあしたくるかどうかわかりません。", "romaji": "Tanaka-san ga ashita kuru ka dō ka wakarimasen." }, "note": "\"If\" = \"whether\" here: かどうか, not たら." },
+          { "q": "I'll ask whether this fish is fresh.", "a": { "jp": "この魚が新しいかどうか聞いてみます。", "kana": "このさかながあたらしいかどうかきいてみます。", "romaji": "Kono sakana ga atarashii ka dō ka kiite mimasu." }, "note": "For food, \"fresh\" is 新しい. An い-adjective goes straight in: 新しいかどうか." }
+        ]
+      },
+      {
+        "id": "h3",
+        "type": "fill",
+        "prompt": "Fill in か or かどうか, and write out the whole sentence.",
+        "items": [
+          { "q": "駅まで何分かかる＿分かりません。", "a": { "jp": "駅まで何分かかるか分かりません。", "kana": "えきまでなんぷんかかるかわかりません。", "romaji": "Eki made nanpun kakaru ka wakarimasen." }, "note": "There is a question word (何分): か." },
+          { "q": "この店が日曜日も開いている＿知っていますか。", "a": { "jp": "この店が日曜日も開いているかどうか知っていますか。", "kana": "このみせがにちようびもあいているかどうかしっていますか。", "romaji": "Kono mise ga nichiyōbi mo aite iru ka dō ka shitte imasu ka." }, "note": "A yes/no question (is it open?): かどうか." },
+          { "q": "だれがケーキを食べた＿分かりません。", "a": { "jp": "だれがケーキを食べたか分かりません。", "kana": "だれがケーキをたべたかわかりません。", "romaji": "Dare ga kēki o tabeta ka wakarimasen." }, "note": "Question word (だれ): か." },
+          { "q": "明日のテストがむずかしい＿しんぱいです。", "a": { "jp": "明日のテストがむずかしいかどうかしんぱいです。", "kana": "あしたのテストがむずかしいかどうかしんぱいです。", "romaji": "Ashita no tesuto ga muzukashii ka dō ka shinpai desu." }, "note": "Yes/no (will it be hard?): かどうか." },
+          { "q": "あの人が学生＿知りません。", "a": { "jp": "あの人が学生かどうか知りません。", "kana": "あのひとががくせいかどうかしりません。", "romaji": "Ano hito ga gakusei ka dō ka shirimasen." }, "note": "Noun + かどうか, with no だ." },
+          { "q": "電車に間に合う＿分かりません。", "a": { "jp": "電車に間に合うかどうか分かりません。", "kana": "でんしゃにまにあうかどうかわかりません。", "romaji": "Densha ni ma ni au ka dō ka wakarimasen." } }
+        ]
+      },
+      {
+        "id": "h4",
+        "type": "produce",
+        "prompt": "You are planning a trip to Japan. Write 4–5 sentences: 2 things you haven't decided or don't know yet (with か), 1 thing you still have to check (with かどうか) and 1 plan with 〜ないで. Then read them aloud and record yourself on your phone.",
+        "items": [
+          { "q": "Model (match its structure, not its words):", "a": { "jp": "日本で何を食べるか、まだきめていません。どのホテルにとまるかも分かりません。京都のお寺が夜も開いているかどうか、しらべてみます。東京では車を使わないで、電車で旅行するつもりです。", "kana": "にほんでなにをたべるか、まだきめていません。どのホテルにとまるかもわかりません。きょうとのおてらがよるもあいているかどうか、しらべてみます。とうきょうではくるまをつかわないで、でんしゃでりょこうするつもりです。", "romaji": "Nihon de nani o taberu ka, mada kimete imasen. Dono hoteru ni tomaru ka mo wakarimasen. Kyōto no otera ga yoru mo aite iru ka dō ka, shirabete mimasu. Tōkyō de wa kuruma o tsukawanaide, densha de ryokō suru tsumori desu.", "en": "I haven't decided yet what I'll eat in Japan. I don't know which hotel I'll stay at, either. I'll check whether the temples in Kyoto are open at night too. In Tokyo, I plan to travel by train without using a car." }, "note": "Check: the short form inside every question, か with question words and かどうか for yes/no, the main verb (きめていません, 分かりません, しらべてみます) at the end, and 〜ないで built from the ない form." }
+        ]
+      }
+    ],
+    "workbook": []
+  },
+  "practice": [
+    { "tool": "Wagotabi", "what": "Play normally and hunt for か in the middle of a sentence (…か分かりません, …か知っていますか, …かどうか) and for 〜ないで. When you find one, pause and say aloud the direct question hidden inside it (どこに行くか → どこに行きますか). Log the session in Immersion → Games and copy the line into your notebook.", "min": 15 },
+    { "tool": "ヅオリンゴー · Journal", "what": "Write 3 sentences: one with 〜ないで about your morning, one with か about something you don't remember, and one with かどうか about something you're not sure of. Use \"Anatomy of what I wrote\" to check that the main verb is the PREDICATE, at the end (the analyzer may split the か block into pieces: it is still one block).", "min": 10 },
+    { "tool": "ヅオリンゴー", "what": "Vocabulary/SRS: review this lesson's words in the 🌊 All deck. Then Drills → Conjugation: practice the ない form, the base of 〜ないで.", "min": 10 },
+    { "tool": "Shadowing", "what": "Tap 🔊 on each example and repeat along 3 times. Say the か block and the verb after it in one breath, with no pause before か: 着くか・分かりますか.", "min": 5 },
+    { "tool": "Speaking", "what": "Record 30 seconds: you are lost in a big station and ask a staff member 3 questions with か or かどうか (which platform the train leaves from, whether it stops at your station, what time the next one comes). Listen and check that everything inside the questions is in the short form.", "min": 5 }
+  ],
+  "culture": {
+    "title": "デパ地下: the department-store basement",
+    "titleJp": "デパちか",
+    "body": "Most large Japanese department stores (デパート) have a food floor in the basement, called **デパ地下** (デパちか: デパート + 地下, \"basement\"). It is usually bright and busy, with counters selling ready-made dishes (**おそうざい**), bento, bread, fruit and both Japanese and Western sweets. Many sweets come in neat gift boxes, so デパ地下 is a common place to buy おみやげ or a present to take on a visit. Some counters offer small free tastings (**ししょく**), and in the last hour before closing, some prepared foods are often marked down with discount stickers. The staff greet you with いらっしゃいませ and recommend products with the keigo of lesson 20-1.",
+    "try": "Imagine you are at a デパ地下 sweets counter choosing a gift. Ask aloud, with this lesson's grammar: どれがいちばん人気があるか、教えてください。 Then say what you will check next: プレゼント用につつんでもらえるかどうか、聞いてみます。"
+  },
+  "checklist": [
+    "I say \"without doing / instead of doing\" with 〜ないで, built from the ない form (食べないで, 使わないで, しないで), without looking.",
+    "I can tell 〜ないで (without), 〜ないでください (please don't) and 〜なくて (because… not) apart.",
+    "I embed a question with a question word: short form + か + 分かりません / 知っていますか / 教えてください.",
+    "I say \"whether or not\" with 〜かどうか, and I never add どうか after a question word.",
+    "I drop だ before か with nouns and な-adjectives in the present (だれか, 本当かどうか) and keep the politeness on the last verb.",
+    "I did the homework, checked it against the answer key and redid what I got wrong.",
+    "If I have the Genki II Workbook, I did the Lesson 20 exercises on 〜ないで and questions within larger sentences."
+  ]
+}

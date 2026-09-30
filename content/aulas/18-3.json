@@ -1,0 +1,213 @@
+{
+  "id": "18-3",
+  "unit": "G2-L18",
+  "genki": { "book": "Genki II", "lesson": 18, "points": ["〜と", "〜ながら", "〜ばよかったです"] },
+  "title": "Whenever · while · should have",
+  "titleJp": "もっと勉強すればよかった",
+  "canDo": [
+    "I can say what always happens when something happens with dictionary form + と: ボタンをおすと、ドアが開きます.",
+    "I know that the result after と can't be a request, a wish, an invitation or a one-time plan, and I switch to たら for those.",
+    "I can say that I do two things at the same time with stem + ながら, with the main action at the end.",
+    "I can make the ば-form of any verb and say what I should (or shouldn't) have done with 〜ばよかったです."
+  ],
+  "duration": {
+    "total": "70–90 min",
+    "blocks": [
+      { "t": "Warm-up: say the dictionary form, the ない-form and the ます-stem of 行く, 飲む, 食べる, する and 来る aloud", "min": 5 },
+      { "t": "Vocabulary: tap 🔊 on each word and repeat it twice", "min": 10 },
+      { "t": "Grammar: the 3 points, with the examples read aloud and one 🔬 each. This lesson is dense: if it feels heavy, do 〜と and 〜ながら in one session and 〜ばよかったです in another", "min": 35 },
+      { "t": "Video (block 6): only the part on 〜と, 〜ながら and 〜ば", "min": 10 },
+      { "t": "Notebook homework + checking it against the answer key", "min": 20 },
+      { "t": "Checklist (block 10) + write your questions in the lesson notebook", "min": 5 }
+    ]
+  },
+  "prereqs": {
+    "aulas": ["18-2"],
+    "skills": [
+      "The dictionary form and the ない-form (lesson 08-1): 〜と attaches to them.",
+      "The ます-stem, as in 食べに行く (lesson 07-3): 〜ながら attaches to it.",
+      "〜たら (lesson 17-2), to compare with 〜と, and 〜ている時 (lesson 16-3), for two different people at the same time.",
+      "The verb pairs of lesson 18-1 and 〜てしまいました (lesson 18-2): 〜と loves intransitive results, and 〜ばよかったです is the partner of 〜てしまいました."
+    ],
+    "vocab": [
+      { "jp": "〜と", "kana": "〜と", "romaji": "-to", "en": "whenever…; if… (then B follows automatically)" },
+      { "jp": "〜ながら", "kana": "〜ながら", "romaji": "-nagara", "en": "while (doing), at the same time as" },
+      { "jp": "〜ばよかったです", "kana": "〜ばよかったです", "romaji": "-ba yokatta desu", "en": "I should have…; I wish I had…" },
+      { "jp": "おす", "kana": "おす", "romaji": "osu", "en": "to press, to push (kanji: 押す)" },
+      { "jp": "ボタン", "kana": "ボタン", "romaji": "botan", "en": "button" },
+      { "jp": "おつり", "kana": "おつり", "romaji": "otsuri", "en": "change (money you get back)" },
+      { "jp": "薬", "kana": "くすり", "romaji": "kusuri", "en": "medicine (薬を飲む = to take medicine)" },
+      { "jp": "ねむい", "kana": "ねむい", "romaji": "nemui", "en": "sleepy" },
+      { "jp": "まっすぐ", "kana": "まっすぐ", "romaji": "massugu", "en": "straight (ahead)" },
+      { "jp": "まがる", "kana": "まがる", "romaji": "magaru", "en": "to turn (right / left: 右に / 左に)" },
+      { "jp": "図書館", "kana": "としょかん", "romaji": "toshokan", "en": "library" },
+      { "jp": "さく", "kana": "さく", "romaji": "saku", "en": "(a flower) blooms" },
+      { "jp": "ラジオ", "kana": "ラジオ", "romaji": "rajio", "en": "radio" },
+      { "jp": "スマホ", "kana": "スマホ", "romaji": "sumaho", "en": "smartphone" },
+      { "jp": "歩く", "kana": "あるく", "romaji": "aruku", "en": "to walk" },
+      { "jp": "アルバイト", "kana": "アルバイト", "romaji": "arubaito", "en": "part-time job" },
+      { "jp": "持ってくる", "kana": "もってくる", "romaji": "motte kuru", "en": "to bring (a thing)" },
+      { "jp": "試験", "kana": "しけん", "romaji": "shiken", "en": "exam" },
+      { "jp": "もっと", "kana": "もっと", "romaji": "motto", "en": "more" },
+      { "jp": "あんなに", "kana": "あんなに", "romaji": "anna ni", "en": "that much, so much (about something in the past)" },
+      { "jp": "ゆうべ", "kana": "ゆうべ", "romaji": "yūbe", "en": "last night" },
+      { "jp": "ひどい", "kana": "ひどい", "romaji": "hidoi", "en": "terrible; mean, cruel" }
+    ]
+  },
+  "grammar": [
+    {
+      "id": "18-3-a",
+      "gc": null,
+      "title": "〜と (whenever · automatically)",
+      "gloss": "whenever A, B; if A, then B follows by itself",
+      "explanation": "A と B means \"**whenever** A happens, B happens\", or \"if A, then B follows **automatically**\". It is the conditional for things that work the same way every time: machines, nature, habits, directions.\n• Form: A in the **dictionary form** (or the ない-form), then と: おす → おすと; 飲む → 飲むと; 行かない → 行かないと. A never changes tense: the tense goes on B, at the end.\n• Machines: ボタンをおすと、ドアが開きます = \"When you press the button, the door opens\" (every time).\n• Nature and the body: この薬を飲むと、ねむくなります = \"This medicine makes me sleepy.\"\n• Directions: まっすぐ行くと、右に図書館があります = \"Go straight and you'll see the library on your right.\"\n• Habits: 私は家に帰ると、すぐテレビをつけます = \"Whenever I get home, I turn on the TV right away.\"\n• い-adjectives and nouns can take と too (さむいと, 雨だと), but at this level you will mostly use it with verbs.\n\n**The big restriction.** B is a **result that simply happens**: a fact, a natural consequence, a habit. **B can never be a request, a wish, an invitation, advice or a one-time plan.** For those, use 〜たら (lesson 17-2):\n• 日本に行くと、おみやげを買ってください ✗ → 日本に行ったら、おみやげを買ってください ✓.\n• 駅に着くと、電話します ✗ (a one-time plan) → 駅に着いたら、電話します ✓.\n\n**Which と is this?** Japanese has several: N と N (\"and\", lesson 04-3), person と (\"with\"), and the quote と (と思います, lesson 08-2). This one comes **right after a verb in the dictionary form**, and a new clause follows it.\n• You will also meet と in stories in the past: ドアを開けると、ねこがいました = \"When I opened the door, there was a cat.\" Here, focus on the present \"whenever\" use.\n• In the 🔬, the block that ends in 〜と shows as **IF / WHEN**, like 〜たら. Read the PREDICATE at the end first, then ask \"under what condition?\".",
+      "structure": "[A: dictionary form / ない-form] と、[B: what happens] (B is never a request, wish or plan)",
+      "examples": [
+        { "jp": "ボタンをおすと、ドアが開きます。", "kana": "ボタンをおすと、ドアがあきます。", "romaji": "Botan o osu to, doa ga akimasu.", "en": "When you press the button, the door opens. [every time]" },
+        { "jp": "この薬を飲むと、ねむくなります。", "kana": "このくすりをのむと、ねむくなります。", "romaji": "Kono kusuri o nomu to, nemuku narimasu.", "en": "This medicine makes me sleepy. [lit. when I take this medicine, I become sleepy]" },
+        { "jp": "まっすぐ行くと、右に図書館があります。", "kana": "まっすぐいくと、みぎにとしょかんがあります。", "romaji": "Massugu iku to, migi ni toshokan ga arimasu.", "en": "Go straight and you'll find the library on your right. [lit. when you go straight, there is a library on the right]" }
+      ],
+      "pitfalls": [
+        "No requests, wishes or invitations after と: 日本に行くと、おみやげを買ってください ✗ → 日本に行ったら、おみやげを買ってください ✓.",
+        "No one-time plans either: 家に着くと、メールします ✗ → 家に着いたら、メールします ✓.",
+        "Before と, the dictionary form, never the た-form: ボタンをおしたと、ドアが開きます ✗ → ボタンをおすと、ドアが開きます ✓.",
+        "After a verb, と is not \"and\": that と only links nouns (パンとコーヒー). おすと = \"when you press\", not \"press and\"."
+      ],
+      "howToStudy": [
+        "Explain 5 machines or facts of nature out loud with と: ボタンをおすと、…。お金を入れると、…。春になると、…。",
+        "Tap 🔬 on example 1: ボタンを is the OBJECT, おすと is IF / WHEN, ドアが is the SUBJECT and 開きます is the PREDICATE. Notice the 18-1 pair inside one sentence: someone presses (transitive, を), and the door opens by itself (intransitive, が).",
+        "Trap drill: say 3 sentences that end in a request (〜てください) or a plan (〜ます, just once), and check that each one uses たら, not と: 駅に着いたら、電話してください。"
+      ],
+      "flag": null
+    },
+    {
+      "id": "18-3-b",
+      "gc": null,
+      "title": "〜ながら (while)",
+      "gloss": "while doing…: one person, two actions at the same time",
+      "explanation": "**Verb stem + ながら** = \"while doing…\": **one person** doing **two things at the same time**.\n• The stem is the ます-form without ます, as in 食べに行く (lesson 07-3): 聞きます → 聞きながら; 食べます → 食べながら; します → しながら; 来ます → 来ながら (きながら).\n• **The main action goes at the end**; the ながら action is the background. ラジオを聞きながら、朝ごはんを作ります = \"I make breakfast while listening to the radio\": the main thing is making breakfast.\n• Tense and politeness go only on the last verb: 聞きながら never changes. 歌を歌いながら、シャワーをあびました (past).\n• It also works over a longer period of your life: アルバイトをしながら、日本語を勉強しています = \"He studies Japanese while working part-time.\"\n• **Same person only.** For two different people, ながら doesn't work: use 〜ている時 (lesson 16-3). 母が料理をしている時、私はテレビを見ていました = \"While my mother was cooking, I was watching TV.\"\n• In the 🔬, the ながら block shows as **WHILE**. The PREDICATE at the end is the main action: read it first.",
+      "structure": "[verb stem] ながら、[main action]",
+      "examples": [
+        { "jp": "私はいつもラジオを聞きながら、朝ごはんを作ります。", "kana": "わたしはいつもラジオをききながら、あさごはんをつくります。", "romaji": "Watashi wa itsumo rajio o kiki nagara, asagohan o tsukurimasu.", "en": "I always make breakfast while listening to the radio." },
+        { "jp": "スマホを見ながら、歩かないでください。", "kana": "スマホをみながら、あるかないでください。", "romaji": "Sumaho o mi nagara, arukanaide kudasai.", "en": "Please don't walk while looking at your phone." },
+        { "jp": "ジョンさんはアルバイトをしながら、日本語を勉強しています。", "kana": "ジョンさんはアルバイトをしながら、にほんごをべんきょうしています。", "romaji": "Jon-san wa arubaito o shi nagara, nihongo o benkyō shite imasu.", "en": "John studies Japanese while working a part-time job." }
+      ],
+      "pitfalls": [
+        "The stem, not the dictionary form or the て-form: 聞くながら ✗ / 聞いてながら ✗ → 聞きながら ✓.",
+        "The main action goes last. For \"I study while listening to music\": 勉強しながら、音楽を聞きます ✗ (that is \"I listen to music while studying\") → 音楽を聞きながら、勉強します ✓.",
+        "Two different people can't share ながら: 母が料理しながら、私はテレビを見ました ✗ → 母が料理をしている時、私はテレビを見ていました ✓.",
+        "Tense only at the end: 聞きましたながら ✗ → 聞きながら ✓."
+      ],
+      "howToStudy": [
+        "Describe your morning with 4 ながら sentences, out loud, with the main action last: コーヒーを飲みながら、ニュースを読みます。…",
+        "Tap 🔬 on example 2: スマホを is the OBJECT of the WHILE block 見ながら, and 歩かないでください is the PREDICATE (a request). Read from the end: \"please don't walk\" → while doing what? → looking at your phone.",
+        "Do two things at once for real (walk and talk, cook and hum) and say what you are doing, main action last: 歌いながら、料理をしています。"
+      ],
+      "flag": null
+    },
+    {
+      "id": "18-3-c",
+      "gc": null,
+      "title": "〜ばよかったです (should have)",
+      "gloss": "I should have…; I wish I had…",
+      "explanation": "**〜ばよかったです** = \"I **should have**…\", \"I wish I had…\": regret about something you **didn't** do. Literally: \"if I had done it, it would have been good.\" It is built from the **ば-form** of the verb + よかったです.\n\n**Making the ば-form:**\n• う-verbs: change the final **u** to **e** and add ば: 行く → 行けば; 買う → 買えば; 飲む → 飲めば; 待つ → 待てば; 話す → 話せば.\n• る-verbs: る → **れば**: 食べる → 食べれば; 見る → 見れば; 起きる → 起きれば.\n• Irregular: する → **すれば**; くる → **くれば** (来れば).\n• Negative: ない → **なければ**: 行かない → 行かなければ; 食べない → 食べなければ.\n\n**Using it:**\n• もっと勉強すればよかったです = \"I should have studied more.\"\n• The negative gives \"I shouldn't have…\": あんなに食べなければよかったです = \"I shouldn't have eaten so much.\"\n• Casual: 行けばよかった. People often add a sigh: 行けばよかったなあ.\n• It is the partner of lesson 18-2: 〜てしまいました says what went wrong; 〜ばよかったです says what you wish you had done instead. ケーキを全部食べてしまいました。食べなければよかったです。\n• Said about someone else, it points at their mistake and can sound like criticism. Use it mainly about yourself.\n• The ば-form is also a conditional (\"if…\"), which comes in lesson 22-2. For now you only need it with よかったです.\n• In the 🔬, 勉強すればよかったです stays one single PREDICATE block. The regret lives inside it: read the verb, then ば + よかった = \"should have\".",
+      "structure": "[verb ば-form] よかったです (should have) · [verb ない → なければ] よかったです (shouldn't have)",
+      "examples": [
+        { "jp": "雨がふっていますね。かさを持ってくればよかったです。", "kana": "あめがふっていますね。かさをもってくればよかったです。", "romaji": "Ame ga futte imasu ne. Kasa o motte kureba yokatta desu.", "en": "It's raining, isn't it? I should have brought an umbrella." },
+        { "jp": "試験はむずかしかったです。もっと勉強すればよかったです。", "kana": "しけんはむずかしかったです。もっとべんきょうすればよかったです。", "romaji": "Shiken wa muzukashikatta desu. Motto benkyō sureba yokatta desu.", "en": "The exam was hard. I should have studied more." },
+        { "jp": "ゆうべ、ラーメンを三ばい食べました。あんなに食べなければよかったです。", "kana": "ゆうべ、ラーメンをさんばいたべました。あんなにたべなければよかったです。", "romaji": "Yūbe, rāmen o sanbai tabemashita. Anna ni tabenakereba yokatta desu.", "en": "Last night I ate three bowls of ramen. I shouldn't have eaten that much." }
+      ],
+      "pitfalls": [
+        "る-verbs take れば: 食べば ✗ → 食べれば ✓; 見ば ✗ → 見れば ✓.",
+        "う-verbs change u to e, they don't use the stem: 行きば ✗ → 行けば ✓; 飲みば ✗ → 飲めば ✓.",
+        "\"Shouldn't have\" is なければ: 食べないばよかったです ✗ → 食べなければよかったです ✓.",
+        "Regret is about the past, so よかった stays in the past: for \"I should have studied\", 勉強すればいいです ✗ → 勉強すればよかったです ✓."
+      ],
+      "howToStudy": [
+        "Drill the ば-form out loud with 10 verbs (行く, 飲む, 待つ, 買う, 話す, 食べる, 見る, 起きる, する, くる) and 3 negatives (行かない, 食べない, 言わない → 言わなければ).",
+        "Pair each disaster from lesson 18-2 with a regret: かさをわすれてしまいました。→ かさを持ってくればよかったです。 Do it for 4 small disasters of your own, out loud.",
+        "Tap 🔬 on example 2: two sentences, two PREDICATE blocks. In the second one, もっと is HOW / HOW OFTEN and 勉強すればよかったです is one single PREDICATE: the regret lives inside it."
+      ],
+      "flag": null
+    }
+  ],
+  "media": [
+    { "order": 1, "kind": "reading", "title": "Genki II · Lesson 18: the grammar notes on 〜と, 〜ながら and 〜ばよかったです", "where": "Your Genki II textbook (3rd ed.)", "url": "", "when": "Before this lesson or right after the grammar block. With this lesson, the grammar of Lesson 18 is complete." },
+    { "order": 2, "kind": "video", "title": "Japanese Ammo with Misa: conditionals と, たら and ば compared", "where": "YouTube · Japanese Ammo with Misa channel", "url": "", "search": "Japanese Ammo with Misa conditionals to tara ba", "when": "After point a, if と and たら still feel the same" }
+  ],
+  "homework": {
+    "intro": "Do it by hand in your notebook, with kanji where you know them and kana for the rest. For the と items, look at the end of the sentence first: is it something that just happens, or a request, wish or plan? Only then open the answer key, item by item. Circle what you got wrong and redo it the next day. If you have the Genki II Workbook, do this lesson's exercises too.",
+    "tasks": [
+      {
+        "id": "h1",
+        "type": "fill",
+        "prompt": "Write the verb in brackets with と or with たら. Use と when the second half just happens; use たら when it is a request, a wish, an invitation or a one-time plan.",
+        "items": [
+          { "q": "右に（まがる）、コンビニがあります。", "a": { "jp": "右にまがると、コンビニがあります。", "kana": "みぎにまがると、コンビニがあります。", "romaji": "Migi ni magaru to, konbini ga arimasu." }, "note": "A fact about the street: と is the typical choice (まがったら is also correct)." },
+          { "q": "日本に（行く）、写真を送ってください。", "a": { "jp": "日本に行ったら、写真を送ってください。", "kana": "にほんにいったら、しゃしんをおくってください。", "romaji": "Nihon ni ittara, shashin o okutte kudasai." }, "note": "A request at the end → と is impossible." },
+          { "q": "冬に（なる）、ここは雪がたくさんふります。", "a": { "jp": "冬になると、ここは雪がたくさんふります。", "kana": "ふゆになると、ここはゆきがたくさんふります。", "romaji": "Fuyu ni naru to, koko wa yuki ga takusan furimasu." }, "note": "Nature, every year → と." },
+          { "q": "ひまに（なる）、いっしょに映画を見ませんか。", "a": { "jp": "ひまになったら、いっしょに映画を見ませんか。", "kana": "ひまになったら、いっしょにえいがをみませんか。", "romaji": "Hima ni nattara, issho ni eiga o mimasen ka." }, "note": "An invitation → たら." },
+          { "q": "このボタンを（おす）、電気がきえます。", "a": { "jp": "このボタンをおすと、電気がきえます。", "kana": "このボタンをおすと、でんきがきえます。", "romaji": "Kono botan o osu to, denki ga kiemasu." }, "note": "A machine, every time → と. Notice the intransitive きえる in the result." },
+          { "q": "駅に（着く）、電話します。", "a": { "jp": "駅に着いたら、電話します。", "kana": "えきについたら、でんわします。", "romaji": "Eki ni tsuitara, denwa shimasu." }, "note": "A one-time plan (I'll call you) → たら." }
+        ]
+      },
+      {
+        "id": "h2",
+        "type": "transform",
+        "prompt": "Join the two actions with ながら. The one marked (main) goes at the end.",
+        "items": [
+          { "q": "コーヒーを飲む ／ (main) 新聞を読む", "a": { "jp": "コーヒーを飲みながら、新聞を読みます。", "kana": "コーヒーをのみながら、しんぶんをよみます。", "romaji": "Kōhī o nomi nagara, shinbun o yomimasu." } },
+          { "q": "音楽を聞く ／ (main) そうじをする", "a": { "jp": "音楽を聞きながら、そうじをします。", "kana": "おんがくをききながら、そうじをします。", "romaji": "Ongaku o kiki nagara, sōji o shimasu." } },
+          { "q": "(main) 歩く ／ 電話で話す", "a": { "jp": "電話で話しながら、歩きます。", "kana": "でんわではなしながら、あるきます。", "romaji": "Denwa de hanashi nagara, arukimasu." }, "note": "The main action is walking, so 歩きます goes last." },
+          { "q": "アルバイトをする ／ (main) 大学に行く · a period of your life", "a": { "jp": "アルバイトをしながら、大学に行っています。", "kana": "アルバイトをしながら、だいがくにいっています。", "romaji": "Arubaito o shi nagara, daigaku ni itte imasu." }, "note": "A longer period: ています at the end." },
+          { "q": "(main) 日本語を勉強する ／ アニメを見る", "a": { "jp": "アニメを見ながら、日本語を勉強します。", "kana": "アニメをみながら、にほんごをべんきょうします。", "romaji": "Anime o mi nagara, nihongo o benkyō shimasu." } }
+        ]
+      },
+      {
+        "id": "h3",
+        "type": "transform",
+        "prompt": "Say what you should (or shouldn't) have done, with 〜ばよかったです or 〜なければよかったです.",
+        "items": [
+          { "q": "かさを持ってきませんでした。（雨がふっています。）", "a": { "jp": "かさを持ってくればよかったです。", "kana": "かさをもってくればよかったです。", "romaji": "Kasa o motte kureba yokatta desu." }, "note": "くる → くれば." },
+          { "q": "早くねませんでした。（今、ねむいです。）", "a": { "jp": "早くねればよかったです。", "kana": "はやくねればよかったです。", "romaji": "Hayaku nereba yokatta desu." }, "note": "ねる is a る-verb: る → れば." },
+          { "q": "ケーキを全部食べてしまいました。（おなかがいたいです。）", "a": { "jp": "ケーキを全部食べなければよかったです。", "kana": "ケーキをぜんぶたべなければよかったです。", "romaji": "Kēki o zenbu tabenakereba yokatta desu." }, "note": "Something you did and regret → the negative: 食べない → 食べなければ." },
+          { "q": "友だちにひどいことを言いました。", "a": { "jp": "ひどいことを言わなければよかったです。", "kana": "ひどいことをいわなければよかったです。", "romaji": "Hidoi koto o iwanakereba yokatta desu." }, "note": "言う → 言わない → 言わなければ." },
+          { "q": "駅まで歩きました。（一時間もかかりました。）", "a": { "jp": "タクシーに乗ればよかったです。", "kana": "タクシーにのればよかったです。", "romaji": "Takushī ni noreba yokatta desu." }, "note": "乗る is an う-verb: ru → re + ば. Other regrets work too (バスに乗ればよかったです)." },
+          { "q": "試験の前に、あまり勉強しませんでした。", "a": { "jp": "もっと勉強すればよかったです。", "kana": "もっとべんきょうすればよかったです。", "romaji": "Motto benkyō sureba yokatta desu." }, "note": "する → すれば." }
+        ]
+      },
+      {
+        "id": "h4",
+        "type": "produce",
+        "prompt": "Write about a bad morning in 5–6 sentences, using at least one 〜と, one 〜ながら, one 〜てしまいました (lesson 18-2) and two 〜ばよかったです (one of them negative). Then read it aloud and record it on your phone.",
+        "items": [
+          { "q": "Model (match its structure, not its words):", "a": { "jp": "きのうは、音楽を聞きながら、夜おそくまでゲームをしてしまいました。私はおそくねると、朝起きられません。けさも、ねぼうしてしまいました。パンを食べながら、駅まで走りました。もっと早くねればよかったです。あんなにゲームをしなければよかったです。", "kana": "きのうは、おんがくをききながら、よるおそくまでゲームをしてしまいました。わたしはおそくねると、あさおきられません。けさも、ねぼうしてしまいました。パンをたべながら、えきまではしりました。もっとはやくねればよかったです。あんなにゲームをしなければよかったです。", "romaji": "Kinō wa, ongaku o kiki nagara, yoru osoku made gēmu o shite shimaimashita. Watashi wa osoku neru to, asa okiraremasen. Kesa mo, nebō shite shimaimashita. Pan o tabe nagara, eki made hashirimashita. Motto hayaku nereba yokatta desu. Anna ni gēmu o shinakereba yokatta desu.", "en": "Yesterday, listening to music, I ended up playing games until late at night. When I go to bed late, I can't get up in the morning. This morning I overslept again. I ran to the station eating a piece of bread. I should have gone to bed earlier. I shouldn't have played games that much." }, "note": "Check: dictionary form + と, with a result that just happens (not a request); stem + ながら, with the main action last; ば-form + よかったです (なければ for \"shouldn't have\")." }
+        ]
+      }
+    ],
+    "workbook": []
+  },
+  "practice": [
+    { "tool": "Wagotabi", "what": "Play in the N4 areas and hunt for three things in the dialogues: と right after a verb (not the と of \"and\" or of と思う), ながら, and ばよかった. For each と, check that what follows is something that happens, not a request. Log the session in Immersion → Games and paste a ながら line into 🔬 Anatomy to see the WHILE block.", "min": 15 },
+    { "tool": "ヅオリンゴー · Drills", "what": "Drills → 🔬 Anatomy → 🧱 Build from the end: 5 sentences. Then, in 🔬 Analyze, paste one 〜と sentence and one 〜たら sentence of your own: both blocks should show as IF / WHEN, so you are the one who checks that the と sentence ends in something that just happens.", "min": 10 },
+    { "tool": "ヅオリンゴー · Journal", "what": "Write your bad morning (homework h4) in the Journal and open \"Anatomy of what I wrote\": look for the IF / WHEN block (と), the WHILE block (ながら) and a PREDICATE with ばよかったです at the end of a sentence.", "min": 10 },
+    { "tool": "Shadowing", "what": "Tap 🔊 on each example and repeat along 3 times. On ばよかったです, let your voice fall a little, as a sigh: that is how regret sounds.", "min": 5 },
+    { "tool": "Speaking", "what": "Record directions from your home to the nearest station or shop with と (まっすぐ行くと、…。右にまがると、…。) in under a minute. Since this lesson closes Lesson 18, also record one sentence with each point of the lesson: a verb pair, an intransitive verb + ている, 〜てしまいました, 〜ちゃった, 〜と, 〜ながら and 〜ばよかったです.", "min": 5 }
+  ],
+  "culture": {
+    "title": "Uniforms at school and work (せいふく)",
+    "titleJp": "せいふく",
+    "body": "Most Japanese **junior high and high schools** have a uniform (せいふく). The classic styles are the sailor-style uniform (セーラーふく) for girls and the stand-collar jacket (がくらん) for boys, but many schools now use blazers, and a growing number let students choose between a skirt and trousers. Uniforms are common at work too: train and bus staff, police officers, shop and konbini staff and, at some companies, office workers wear one. Students looking for their first job usually wear a plain dark suit, the リクルートスーツ, so candidates at interviews often look almost the same. In general, a uniform shows that you belong to a group and are there in that role.",
+    "try": "Find a photo of a Japanese school or work uniform and describe it in 3 sentences with 〜を着ています, 〜をはいています or 〜をかぶっています (lesson 07-1). Then add one sentence with ながら about what the person is doing: 〜ながら、歩いています。"
+  },
+  "checklist": [
+    "I can say what always happens when… with dictionary form + と, for machines, nature, habits and directions.",
+    "I never put a request, a wish, an invitation or a one-time plan after と: for those, I switch to たら.",
+    "I can say two things I do at the same time with stem + ながら, main action last.",
+    "I know that ながら is for one person, and that for two people I use 〜ている時.",
+    "I can make the ば-form of any verb (u → e + ば, る → れば, すれば, くれば, なければ) without looking.",
+    "I can say what I should or shouldn't have done with 〜ばよかったです / 〜なければよかったです.",
+    "I did the homework, checked it against the answer key and redid what I got wrong.",
+    "If I have the Genki II Workbook, I did the Lesson 18 exercises on 〜と, 〜ながら and 〜ばよかったです."
+  ]
+}
