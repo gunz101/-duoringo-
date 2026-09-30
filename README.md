@@ -1,81 +1,81 @@
 # ヅオリンゴー · 日本語コース
 
-**Curso de japonês completo para quem fala português**, do kana ao N3.
+**A complete Japanese course taught straight from English**, from kana to N3.
 
-O curso avança por **marcos de domínio**, sem datas nem prazos. É um app offline de **um único arquivo HTML**: abre com duplo clique, no celular ou pelo site.
+- It follows **mastery milestones**: no dates, no deadlines.
+- It is an offline app in **a single HTML file**. It opens with a double click, on a phone, or from the website.
 
-**▶ Abrir o curso:** https://gunz101.github.io/-duoringo-/
+**▶ Open the course:** https://gunz101.github.io/-duoringo-/
 
-| Trilha | Aula (10 blocos) | Rotina |
+| Path | Lesson (10 blocks) | Routine |
 |---|---|---|
-| ![Trilha](docs/img/trilha.png) | ![Aula](docs/img/aula.png) | ![Rotina](docs/img/rotina.png) |
+| ![Path](docs/img/trilha.png) | ![Lesson](docs/img/aula.png) | ![Routine](docs/img/rotina.png) |
 
-## O que tem
+## What's inside
 
-- **102 aulas, em 5 blocos:**
-  - Unidade 0 (kana e sons);
-  - Genki I (N5), com os Marcos 1–3;
-  - Genki II (N4), com os Marcos 4–5;
-  - Ponte N3, com o Marco 6;
-  - Trilha Viagem, com situações reais no Japão.
-- **Toda aula tem os mesmos 10 blocos:**
-  1. Objetivos ("consigo…")
-  2. Duração e plano da aula
-  3. Pré-requisitos e vocabulário
-  4. Gramática, com explicação, estrutura, exemplos e armadilhas
-  5. Como estudar cada ponto
-  6. Vídeos e leitura em ordem
-  7. Lição de casa no caderno, **com gabarito**
-  8. Prática em casa: Wagotabi, app e shadowing
-  9. Cultura: um hábito por aula
-  10. Checklist de domínio
-- **Os exemplos trazem japonês + kana + romaji + português.** Cada um tem:
-  - 🔊 para ouvir;
-  - 🔬 **Anatomia da frase**: cada bloco colorido com a sua função (tópico, objeto, lugar, predicado…), feita para quem se perde na montagem das frases.
-- **Vídeos verificados** e ligados a cada aula: ToKini Andy (uma aula por lição do Genki) e Game Gengo (um vídeo por ponto de gramática).
-- **Recursos:** 90 materiais gratuitos ou pagos por habilidade e nível, com 13 em português.
-- **Rotina diária de 1–1,5 h** com tracker semanal sem calendário, **guia** de como seguir o curso e progresso por domínio.
-- Funciona sozinho ou **dentro do app ヅオリンゴー**, na aba 🏫 Curso.
+- **102 lessons:**
+  - Unit 0 (kana and sounds);
+  - Genki I (N5) with Milestones 1–3;
+  - Genki II (N4) with Milestones 4–5;
+  - an N3 Bridge with Milestone 6;
+  - a Travel Track (real situations in Japan).
+- **Every lesson has the same 10 blocks:**
+  1. goals ("I can…")
+  2. time and lesson plan
+  3. prerequisites and vocabulary
+  4. grammar (explanation, structure, examples, pitfalls)
+  5. how to study each point
+  6. videos and reading, in order
+  7. notebook homework **with an answer key**
+  8. home practice (Wagotabi, the app, shadowing)
+  9. culture (one habit per lesson)
+  10. a mastery checklist
+- **Every example shows Japanese, kana, romaji and English**, with two tools:
+  - 🔊 to listen;
+  - 🔬 **sentence anatomy**, which colors each block of the sentence by its job (topic, object, place, predicate…). It is built for learners who get lost in how sentences are put together.
+- **Verified videos** linked to each lesson: ToKini Andy has one video per Genki lesson, and Game Gengo has one per grammar point.
+- **Resources:** 90 free and paid materials, sorted by skill and level.
+- **Study support:**
+  - a **daily routine** of 1–1.5 hours, with a weekly tracker and no calendar;
+  - a **guide** to following the course;
+  - **progress tracking** by mastery.
+- **Safe progress saving:**
+  - a double copy in the browser (localStorage + IndexedDB);
+  - automatic restore points;
+  - an optional synced progress file (put it in OneDrive or Google Drive to share progress between PC, site and app);
+  - merges that never lose a mark;
+  - checksummed backups.
+
+  A Content-Security-Policy blocks every network connection.
+- It works on its own or **inside the ヅオリンゴー app** (🏫 Course tab).
 
 ## Status
 
-| Parte | Aulas | Situação |
-|---|---|---|
-| Unidade 0 · kana | 3 | ✅ pronta |
-| Genki I (L1–L12) + Marco 1 | 38 + 1 | ✅ pronta · 🔍 em revisão linguística |
-| Marcos 2–3 | 2 | ✍️ em produção |
-| Genki II (L13–L23) | 30 | ✍️ em produção (7 prontas) |
-| Ponte N3 | 23 | ✍️ em produção |
-| Trilha Viagem | 8 | ✍️ em produção |
+The lessons are being converted to English and completed in batches. Each batch goes through the automatic checker (`tools/check.js`) and an independent linguistic review before it is published.
 
-Cada aula passa por verificação automática (`tools/check.js`) e por revisão independente antes de entrar.
+## For contributors
 
-## Como usar
-
-- **Online:** o link acima.
-- **Offline:** baixe o `index.html` e abra no navegador.
-
-O progresso (✍️ estudado, 📱 praticado, notas, checklists, rotina) fica salvo no seu navegador. Use **Progresso → Exportar** para fazer backup.
-
-## Para quem quer mexer
-
-| Caminho | O que é |
+| Path | What it is |
 |---|---|
-| `index.html` | O app pronto, **gerado** pelo build. |
-| `src/template.html` | Interface (CSS + JS, sem dependências). |
-| `content/curso.json` | Mapa das unidades e aulas, rotina e guia. |
-| `content/aulas/<id>.json` | Uma aula por arquivo, com os 10 blocos. |
-| `content/recursos.json`, `content/videos.json` | Recursos e vídeos verificados. |
-| `content/AUTORIA.md` | Regras para escrever aulas. |
-| `tools/check.js` | Critérios de aceitação: estrutura, romaji × kana, gabarito, sem datas, kanji por lição. |
-| `tools/build.js` | Check + anatomia das frases → `index.html`. |
+| `index.html` | The finished app (**generated**) |
+| `src/template.html` | UI (CSS + JS, no dependencies) |
+| `src/store.js` | Progress storage (sanitize, merge, backups, synced file) |
+| `content/curso.json` | Map of units and lessons, routine, guide |
+| `content/aulas/<id>.json` | One lesson per file (the 10 blocks) |
+| `content/recursos.json`, `content/videos.json` | Verified resources and videos |
+| `content/AUTORIA.md` | Authoring rules |
+| `tools/check.js` | Acceptance criteria: structure, romaji × kana, answer keys, no dates, kanji per lesson, no Portuguese |
+| `tools/build.js` | Check + sentence anatomy → `index.html` |
 
 ```bash
 npm install
+node tools/test-store.js
 node tools/check.js --readings
 node tools/build.js
 ```
 
-## Conteúdo
+## Content
 
-As frases, explicações, exercícios e gabaritos são **originais**. O curso segue a ordem do *Genki* (3ª ed., The Japan Times) e o cita só por lição e nome do ponto de gramática. O *Workbook* é citado só por página e título do exercício. Nenhum texto dos livros é reproduzido, e é preciso ter os livros para as leituras e os exercícios deles.
+- All sentences, explanations, exercises and answer keys are **original**.
+- The course follows the order of *Genki* (3rd ed., The Japan Times) and cites it only by lesson and grammar-point name. The *Workbook* is cited only by page and exercise title.
+- No text from the books is reproduced. You need the books for their readings and exercises.
